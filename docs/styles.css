@@ -1,8 +1,8 @@
 :root {
-    --bg-start: #2c35a2;
+    --bg-start: ##f6f6f6;
     --bg-end: #0f133b;
 
-    --fg-color: rgba(255,255,255,0.9)
+    --fg-color: rgba(0,0,0,0.9)
 }
 
 * {
@@ -23,8 +23,6 @@ body {
 
     padding: 2rem;
     min-height: 100vh;
-
-
     background: linear-gradient(
         45deg,
         var(--bg-start), 
@@ -34,12 +32,32 @@ body {
 
 header {
     display: flex;
+    justify-content: center;
+    background-color: var(--bg-end);
+    margin-top: -40px;
+    margin-left: -36px;
+    margin-right: -36px;
+    padding: 30px 20px 10px;
+}
 
-    justify-content: space-between;
+
+.toggle {
+    display: flex;
+    justify-content: center;
+}
+
+.toggle-options {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(105,105,105, 0.75);
+    padding: 0px 14px 5px 14px;
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
 }
 
 .logo {
-    display: flex;
+    position: absolute;
+    left: 20px;
     align-items: center;
 
     font-size: 2rem;
@@ -48,6 +66,39 @@ header {
 .logo > img {
     height: 4rem;
     margin-right: 1rem;
-    margin-left: -2rem;
-    margin-top: -.5rem;
+    margin-top: -1rem;
+    margin-left: -1.5rem;
+}
+
+.search {
+    --padding: 14px;
+    
+    width: max-content;
+    display: flex;
+    align-items: center;
+    padding: var(--padding);
+    border-radius: 28px;
+    background: #f6f6f6;
+    transition: box-shadow 0.25s;
+}
+
+.search:focus-within {
+    box-shadow: 0 0 2px rgba(0,0,0,0.75);
+}
+
+.search-input {
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #333333;
+    margin-left: var(--padding);
+
+    outline: none;
+    border: none;
+    background: transparent;
+    width: 600px;
+}
+
+.search-input::placeholder,
+.search-icon {
+    color: rgba(0,0,0,0.25)
 }
