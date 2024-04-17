@@ -1,0 +1,53 @@
+:root {
+    --bg-start: #2c35a2;
+    --bg-end: #0f133b;
+
+    --fg-color: rgba(255,255,255,0.9)
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    color: var(--fg-color);
+
+    font-family: "Nunito", "sans-serif";
+    font-weight: 400;
+    font-size: 18px;
+}
+
+body {
+
+    padding: 2rem;
+    min-height: 100vh;
+
+
+    background: linear-gradient(
+        45deg,
+        var(--bg-start), 
+        var(--bg-end)
+    );
+}
+
+header {
+    display: flex;
+
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+
+    font-size: 2rem;
+}
+
+.logo > img {
+    height: 4rem;
+    margin-right: 1rem;
+    margin-left: -2rem;
+    margin-top: -.5rem;
+}
