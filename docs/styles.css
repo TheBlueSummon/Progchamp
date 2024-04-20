@@ -74,6 +74,16 @@ h1 {
     display: flex;
     justify-content: center;
 }
+.beeg > p {
+    padding-top: 5px;
+}
+.beeg > ul {
+    padding-top: 15px;
+    display: block;
+}
+.beeg > ul > li {
+    margin-left: 15px;
+}
 
 .smol {
     height: 50px;
