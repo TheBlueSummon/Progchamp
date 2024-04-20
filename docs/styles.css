@@ -40,9 +40,14 @@ header {
     padding: 30px 20px 10px;
 }
 
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
 .bulk {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     margin-left: -36px;
     margin-right: -36px;
 }
@@ -53,8 +58,39 @@ header {
     border-bottom-right-radius: 28px;
     padding: 10px 15px 20px 15px;
     margin-top: -27px;
-    min-height: 500px;
-    min-width: 100px;
+    color: #f6f6f6
+}
+
+.arrow {
+    cursor: pointer;
+    display: block;
+}
+
+.beeg {
+    height: 500px;
+    width: 250px;
+}
+.beeg > * {
+    display: flex;
+    justify-content: center;
+}
+
+.smol {
+    height: 50px;
+    width: 50px;
+}
+.smol > * {
+    display: none;
+}
+
+.left {
+    position: absolute;
+    left: 0px;
+}
+
+.right {
+    position: absolute;
+    right: 0px;
 }
 
 .logo {

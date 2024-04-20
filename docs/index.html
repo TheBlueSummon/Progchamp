@@ -11,6 +11,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
 
 </head>
 <body>
@@ -36,12 +38,43 @@
             </div>
         </div>
         <div class="bulk">
-            <div class="info-box">Lang info</div>
+            <div class="info-box left smol" id="lang">
+                <span class="material-symbols-outlined arrow" id = 'arrow1'>
+                    keyboard_arrow_down
+                    </span>
+                <h1><u>Julia</u></h1>
+            </div>
             <div class="graph">Lang graph</div>
             <div class="sep-line"></div>
             <div class="graph">Repo graph</div>
-            <div class="info-box">Repo info</div>
+            <div class="info-box right smol" id="repo">
+                <span class="material-symbols-outlined arrow" id = 'arrow2'>
+                    keyboard_arrow_down
+                    </span>
+                <h1><u>Qutee.jl</u></h1>
+            </div>
         </div>
     </main>
+
+    <script>
+        function toggleClass(target) {
+            target.classList.toggle('smol');
+            target.classList.toggle('beeg');
+        }
+        function toggleIcon(target) {
+            if (target.textContent.trim() === 'keyboard_arrow_down') {
+                target.textContent = 'keyboard_arrow_up';
+            } else {
+                target.textContent = 'keyboard_arrow_down';
+            }
+            toggleClass(target.parentNode);
+        }
+
+        var arrow1 = document.getElementById('arrow1');
+        var arrow2 = document.getElementById('arrow2');
+
+        arrow1.addEventListener('click', function() {toggleIcon(arrow1);});
+        arrow2.addEventListener('click', function() {toggleIcon(arrow2);});
+    </script>
 </body>
 </html>
