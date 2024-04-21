@@ -3,7 +3,7 @@
         "name": "agda",
         "description": "Agda is a dependently typed programming language / interactive theorem prover.",
         "languages": {
-            "Haskell": 6482574,
+            "Haskell": 6485528,
             "Agda": 3291632,
             "TeX": 762798,
             "PostScript": 498628,
@@ -40,8 +40,8 @@
         "name": "agda-stdlib",
         "description": "The Agda standard library",
         "languages": {
-            "Agda": 4694560,
-            "Haskell": 15097,
+            "Agda": 4710197,
+            "Haskell": 15163,
             "Shell": 1447,
             "Makefile": 1221
         }
@@ -63,6 +63,1637 @@
             "Agda": 2904402,
             "Shell": 2806,
             "Makefile": 154
+        }
+    },
+    {
+        "name": "HoTT-Intro",
+        "description": "An introductory course to Homotopy Type Theory",
+        "languages": {
+            "Agda": 1062455,
+            "TeX": 875048,
+            "Coq": 99041
+        }
+    },
+    {
+        "name": "agda-categories",
+        "description": "A new Categories library for Agda",
+        "languages": {
+            "Agda": 1982789,
+            "Makefile": 609,
+            "Shell": 505
+        }
+    },
+    {
+        "name": "learn-you-an-agda",
+        "description": "Learn you an Agda (and achieve enlightenment)",
+        "languages": {
+            "Agda": 12181,
+            "CSS": 5186,
+            "HTML": 2479,
+            "Haskell": 2239
+        }
+    },
+    {
+        "name": "1lab",
+        "description": "A formalised, cross-linked reference resource for mathematics done in Homotopy Type Theory",
+        "languages": {
+            "Agda": 4168111,
+            "Haskell": 113390,
+            "Nix": 69258,
+            "TypeScript": 54187,
+            "SCSS": 34176,
+            "TeX": 13118,
+            "HTML": 5571,
+            "Shell": 1788
+        }
+    },
+    {
+        "name": "HoTT-UF-Agda-Lecture-Notes",
+        "description": "Lecture notes on univalent foundations of mathematics with Agda",
+        "languages": {
+            "Agda": 1322581,
+            "Shell": 2700,
+            "CSS": 2064,
+            "Makefile": 1944,
+            "Haskell": 1873,
+            "HTML": 509,
+            "TeX": 349,
+            "Ruby": 110
+        }
+    },
+    {
+        "name": "TypeTopology",
+        "description": "Logical manifestations of topological concepts, and other things, via the univalent point of view.",
+        "languages": {
+            "Agda": 7583397,
+            "TeX": 559184,
+            "Makefile": 132870,
+            "Shell": 5062,
+            "Haskell": 1361
+        }
+    },
+    {
+        "name": "agda-unimath",
+        "description": "The agda-unimath library",
+        "languages": {
+            "Agda": 12943185,
+            "Python": 96614,
+            "CSS": 53483,
+            "TeX": 46060,
+            "Handlebars": 15184,
+            "HTML": 8672,
+            "Makefile": 6832,
+            "Nix": 3140,
+            "JavaScript": 2801
+        }
+    },
+    {
+        "name": "awesome-provable",
+        "description": "A curated set of links to formal methods involving provable code.",
+        "languages": {}
+    },
+    {
+        "name": "PLFA-zh",
+        "description": "\u300a\u7f16\u7a0b\u8bed\u8a00\u57fa\u7840\uff1aAgda \u63cf\u8ff0\u300b\uff0cProgramming Language Foundations in Agda \u4e2d\u6587\u7248",
+        "languages": {
+            "Haskell": 52889,
+            "SCSS": 35712,
+            "HTML": 13143,
+            "Makefile": 9218,
+            "TeX": 8992,
+            "JavaScript": 2022,
+            "Emacs Lisp": 391,
+            "Ruby": 116
+        }
+    },
+    {
+        "name": "agda2hs",
+        "description": "Compiling Agda code to readable Haskell",
+        "languages": {
+            "Agda": 214175,
+            "Haskell": 180515,
+            "Nix": 3956,
+            "Makefile": 2365,
+            "CSS": 2104,
+            "Shell": 1427
+        }
+    },
+    {
+        "name": "agda-mode-vscode",
+        "description": "agda-mode on VS Code",
+        "languages": {
+            "ReScript": 423371,
+            "CSS": 20924,
+            "Less": 8593,
+            "JavaScript": 1490,
+            "Agda": 1287
+        }
+    },
+    {
+        "name": "categories",
+        "description": "Categories parametrized by morphism equality, in Agda",
+        "languages": {
+            "Agda": 615731
+        }
+    },
+    {
+        "name": "agda-vim",
+        "description": "Agda interaction in vim",
+        "languages": {
+            "Vim Script": 27632,
+            "Python": 17777
+        }
+    },
+    {
+        "name": "cornelis",
+        "description": "agda-mode for neovim",
+        "languages": {
+            "Haskell": 123796,
+            "Vim Script": 99555,
+            "Nix": 2636,
+            "Agda": 688
+        }
+    },
+    {
+        "name": "Lemmachine",
+        "description": "REST'ful web framework in Agda",
+        "languages": {
+            "Haskell": 1801
+        }
+    },
+    {
+        "name": "TheHoTTGame",
+        "description": "Attracting mathematicians (others welcome too) with no experience in proof verification interested in HoTT and able to use Agda for HoTT",
+        "languages": {
+            "Agda": 37174,
+            "Nix": 6969
+        }
+    },
+    {
+        "name": "ttlite",
+        "description": "A SuperCompiler for Martin-L\u00f6f's Type Theory",
+        "languages": {
+            "Scala": 184114,
+            "Agda": 6703,
+            "Idris": 4811,
+            "Haskell": 4519,
+            "Coq": 3544
+        }
+    },
+    {
+        "name": "agdarsec",
+        "description": "Total Parser Combinators in Agda",
+        "languages": {
+            "Agda": 72203,
+            "Makefile": 539
+        }
+    },
+    {
+        "name": "Agda",
+        "description": "Agda formalisation of the Introduction to Homotopy Type Theory",
+        "languages": {
+            "Agda": 2697902
+        }
+    },
+    {
+        "name": "agda-prelude",
+        "description": "Programming library for Agda",
+        "languages": {
+            "Agda": 486322,
+            "Makefile": 1155
+        }
+    },
+    {
+        "name": "MetaprogAgda",
+        "description": "being the materials for Summer 2013's course",
+        "languages": {}
+    },
+    {
+        "name": "agda-lecture-notes",
+        "description": "Agda lecture notes for the Functional Programming course at TU Delft",
+        "languages": {
+            "TeX": 142432,
+            "Makefile": 360
+        }
+    },
+    {
+        "name": "agda-frp-js",
+        "description": "ECMAScript back end for Functional Reactive Programming in Agda",
+        "languages": {
+            "Agda": 136068,
+            "JavaScript": 80698,
+            "CSS": 4510,
+            "Makefile": 1824,
+            "HTML": 494
+        }
+    },
+    {
+        "name": "denotational-hardware",
+        "description": "Denotational hardware design in Agda",
+        "languages": {
+            "Agda": 204426,
+            "Makefile": 1097,
+            "Nix": 990
+        }
+    },
+    {
+        "name": "agda-language-server",
+        "description": "Language Server for Agda",
+        "languages": {
+            "Haskell": 132875
+        }
+    },
+    {
+        "name": "schmitty",
+        "description": "Agda bindings to SMT-LIB2 compatible solvers.",
+        "languages": {
+            "Agda": 309956,
+            "Shell": 1451
+        }
+    },
+    {
+        "name": "gentle-intro-to-reflection",
+        "description": "A slow-paced introduction to reflection in Agda. ---Tactics!",
+        "languages": {
+            "Agda": 36806
+        }
+    },
+    {
+        "name": "agda",
+        "description": "The theory of algebraic graphs formalised in Agda",
+        "languages": {
+            "Agda": 38472,
+            "Shell": 287
+        }
+    },
+    {
+        "name": "agda-from-nothing",
+        "description": "A workshop on learning Agda with minimal prerequisites.",
+        "languages": {
+            "Agda": 35900,
+            "Makefile": 344
+        }
+    },
+    {
+        "name": "hott-agda",
+        "description": null,
+        "languages": {
+            "Agda": 3498508,
+            "TeX": 1542210,
+            "HTML": 32719,
+            "PostScript": 3089,
+            "Shell": 541,
+            "Makefile": 388
+        }
+    },
+    {
+        "name": "narc-rs",
+        "description": "(WIP) Dependently-typed programming language with Agda style dependent pattern matching",
+        "languages": {
+            "Rust": 153122,
+            "HTML": 1228,
+            "Shell": 314,
+            "Batchfile": 78
+        }
+    },
+    {
+        "name": "next-700-module-systems",
+        "description": "PhD research ;; What's the difference between a typeclass/trait and a record/class/struct? Nothing really, or so I argue.",
+        "languages": {
+            "HTML": 3172708,
+            "TeX": 413354,
+            "Agda": 254154,
+            "Emacs Lisp": 96490,
+            "CSS": 10620
+        }
+    },
+    {
+        "name": "nano-Agda",
+        "description": "Tiny type-checker with dependent types",
+        "languages": {
+            "Haskell": 27549
+        }
+    },
+    {
+        "name": "aopa",
+        "description": "Algebra of Programming in Agda: Dependent Types for Relational Program Derivation",
+        "languages": {
+            "Agda": 251676,
+            "Makefile": 243
+        }
+    },
+    {
+        "name": "vehicle",
+        "description": "A toolkit for enforcing logical specifications on neural networks",
+        "languages": {
+            "Haskell": 1088459,
+            "Python": 119500,
+            "VCL": 22575,
+            "Shell": 19325,
+            "Agda": 4761,
+            "Emacs Lisp": 2094,
+            "SWIG": 1195,
+            "Roff": 1086,
+            "Dockerfile": 835,
+            "TeX": 742
+        }
+    },
+    {
+        "name": "abstract-binding-trees",
+        "description": "Abstract binding trees (abstract syntax trees plus binders), as a library in Agda",
+        "languages": {
+            "Agda": 1133978,
+            "Isabelle": 82035,
+            "Makefile": 693
+        }
+    },
+    {
+        "name": "generic-syntax",
+        "description": "A Scope-and-Type Safe Universe of Syntaxes with Binding, Their Semantics and Proofs",
+        "languages": {
+            "Agda": 339525,
+            "Haskell": 854,
+            "Shell": 779,
+            "Makefile": 519,
+            "Dockerfile": 455
+        }
+    },
+    {
+        "name": "agda-summer-school",
+        "description": "Summer school on programming in Agda",
+        "languages": {
+            "Agda": 48801
+        }
+    },
+    {
+        "name": "system-f-agda",
+        "description": "A formalization of the polymorphic lambda calculus extended with iso-recursive types",
+        "languages": {
+            "Agda": 105885
+        }
+    },
+    {
+        "name": "x86-agda",
+        "description": "Inline, type safe X86-64 assembly programming in Agda",
+        "languages": {
+            "Agda": 38289,
+            "Haskell": 325,
+            "Assembly": 69
+        }
+    },
+    {
+        "name": "miller",
+        "description": "Miller/pattern unification in Agda",
+        "languages": {
+            "Agda": 245809
+        }
+    },
+    {
+        "name": "agda-mode",
+        "description": "agda-mode on Atom",
+        "languages": {
+            "Reason": 290003,
+            "Agda": 21505,
+            "Less": 20391,
+            "Common Lisp": 8248,
+            "C++": 4876,
+            "JavaScript": 412
+        }
+    },
+    {
+        "name": "gradual-typing-in-agda",
+        "description": "Formalizations of Gradually Typed Languages in Agda",
+        "languages": {
+            "Agda": 1891381,
+            "Makefile": 1042
+        }
+    },
+    {
+        "name": "system-f-omega",
+        "description": "System F-omega normalization by hereditary substitution in Agda",
+        "languages": {
+            "Agda": 44524
+        }
+    },
+    {
+        "name": "foundations-harper",
+        "description": "Agda proofs for some of the theorems in Robert Harper's Practical Foundations of Programming Languages.",
+        "languages": {
+            "Agda": 142816
+        }
+    },
+    {
+        "name": "cat",
+        "description": "A formalization of category theory in cubical Agda",
+        "languages": {
+            "Agda": 157081,
+            "Makefile": 217
+        }
+    },
+    {
+        "name": "agda-sessions",
+        "description": "Learn the Agda basics in three 2-hour sessions.",
+        "languages": {
+            "Agda": 87160,
+            "Emacs Lisp": 360
+        }
+    },
+    {
+        "name": "agda-calf",
+        "description": "A cost-aware logical framework, embedded in Agda.",
+        "languages": {
+            "Agda": 300264,
+            "CSS": 1943
+        }
+    },
+    {
+        "name": "equational-reasoning-in-haskell",
+        "description": "Agda-style equational reasoning in Haskell",
+        "languages": {
+            "Haskell": 28604
+        }
+    },
+    {
+        "name": "write-yourself-a-scheme-in-agda",
+        "description": "Like \"Write Yourself a Scheme in 48 Hours\", but in Agda",
+        "languages": {
+            "Agda": 35254,
+            "Nix": 1876
+        }
+    },
+    {
+        "name": "DCHoTT-Agda",
+        "description": "Differential cohesion in Homotopy Type Theory by an axiomatized infinitesimal shape modality",
+        "languages": {
+            "Agda": 330700
+        }
+    },
+    {
+        "name": "OTT",
+        "description": "Observational Type Theory as an Agda library",
+        "languages": {
+            "Agda": 57232
+        }
+    },
+    {
+        "name": "agda-soas",
+        "description": "Agda formalisation of second-order abstract syntax",
+        "languages": {
+            "Agda": 520431,
+            "Python": 55044
+        }
+    },
+    {
+        "name": "greek-grammar",
+        "description": "Modeling Ancient Greek Grammar",
+        "languages": {
+            "Agda": 8855140,
+            "Haskell": 503090,
+            "JavaScript": 44512,
+            "CSS": 961,
+            "HTML": 783
+        }
+    },
+    {
+        "name": "ataca",
+        "description": "A TACtic library for Agda",
+        "languages": {
+            "Agda": 50387
+        }
+    },
+    {
+        "name": "Brainfuck",
+        "description": "A Brainfuck interpreter written in Agda",
+        "languages": {
+            "Agda": 4281
+        }
+    },
+    {
+        "name": "ial",
+        "description": "The Iowa Agda Library",
+        "languages": {
+            "Agda": 225142,
+            "Makefile": 1228,
+            "Shell": 119
+        }
+    },
+    {
+        "name": "felix",
+        "description": "Agda category theory library for denotational design",
+        "languages": {
+            "Agda": 131501,
+            "Nix": 1863
+        }
+    },
+    {
+        "name": "agda-frp-ltl",
+        "description": "An implementation of Functional Reactive Programming",
+        "languages": {
+            "Agda": 54324
+        }
+    },
+    {
+        "name": "logrel-mltt",
+        "description": "A Logical Relation for Martin-L\u00f6f Type Theory in Agda",
+        "languages": {
+            "Agda": 758725,
+            "Makefile": 1309
+        }
+    },
+    {
+        "name": "agda-ocaml",
+        "description": "OCaml backend for Agda",
+        "languages": {
+            "Haskell": 71028,
+            "Agda": 15829,
+            "Shell": 6399
+        }
+    },
+    {
+        "name": "AutoInAgda",
+        "description": "Proof automation \u2013\u00a0for Agda, in Agda.",
+        "languages": {
+            "Agda": 43276,
+            "Ruby": 1507
+        }
+    },
+    {
+        "name": "agda-ring-solver",
+        "description": "A fast, easy-to-use ring solver for agda with step-by-step solutions",
+        "languages": {
+            "Agda": 128616,
+            "Python": 6368,
+            "CSS": 1291,
+            "Shell": 291
+        }
+    },
+    {
+        "name": "AgdaCheatSheet",
+        "description": "Basics of the dependently-typed functional language Agda ^_^",
+        "languages": {
+            "Agda": 56690
+        }
+    },
+    {
+        "name": "agda-software-foundations",
+        "description": "Porting of software foundations book to Agda",
+        "languages": {
+            "Agda": 133583,
+            "TeX": 7379
+        }
+    },
+    {
+        "name": "ohtt",
+        "description": "H.O.T.T. using rewriting in Agda",
+        "languages": {
+            "Agda": 274623
+        }
+    },
+    {
+        "name": "ConsHoTT",
+        "description": "Constructive Interpretations of HoTT",
+        "languages": {
+            "TeX": 41950,
+            "Agda": 13686,
+            "Python": 835,
+            "Perl": 827,
+            "Makefile": 759
+        }
+    },
+    {
+        "name": "typical-antiphrasis",
+        "description": "Paradoxes of type theory, described didactically. With accompanying proofs in Agda.",
+        "languages": {
+            "Agda": 24585
+        }
+    },
+    {
+        "name": "agda-base",
+        "description": "Base library for HoTT in Agda",
+        "languages": {
+            "Agda": 274759,
+            "Shell": 1728
+        }
+    },
+    {
+        "name": "agda-pkg",
+        "description": "apkg - package manager for Agda",
+        "languages": {
+            "Python": 74091,
+            "Makefile": 3805,
+            "Nix": 3003,
+            "HTML": 1705,
+            "Agda": 80
+        }
+    },
+    {
+        "name": "nvim-agda",
+        "description": "Agda interaction pluging for neovim",
+        "languages": {
+            "Lua": 41684,
+            "Vim Script": 21818
+        }
+    },
+    {
+        "name": "ProgrammerCommaCon",
+        "description": "being a collection of Agda-facilitated ramblings",
+        "languages": {
+            "Agda": 43995,
+            "Haskell": 6994
+        }
+    },
+    {
+        "name": "linear.agda",
+        "description": "A library and case-study for linear, intrinsically-typed interpreters in Agda",
+        "languages": {
+            "Agda": 125613,
+            "Makefile": 408
+        }
+    },
+    {
+        "name": "todo-list",
+        "description": "A TODO list feature for DrRacket, like to Agda's goal list but for any language.",
+        "languages": {
+            "Racket": 30118
+        }
+    },
+    {
+        "name": "agda-sizedIO",
+        "description": "IO using sized types and copatterns",
+        "languages": {
+            "Agda": 44819,
+            "Shell": 323,
+            "Haskell": 46
+        }
+    },
+    {
+        "name": "certainty-by-construction",
+        "description": "Source material for Certainty by Construction",
+        "languages": {
+            "TeX": 48800,
+            "Haskell": 14435,
+            "Makefile": 6757,
+            "CSS": 5669,
+            "Shell": 1054
+        }
+    },
+    {
+        "name": "tree-sitter-agda",
+        "description": "Agda grammar for tree-sitter",
+        "languages": {
+            "Yacc": 99704,
+            "JavaScript": 28039,
+            "Rust": 2499,
+            "Scheme": 882,
+            "C++": 861,
+            "Python": 327
+        }
+    },
+    {
+        "name": "agda-presburger",
+        "description": "Deciding Presburger arithmetic in agda",
+        "languages": {
+            "Agda": 127748,
+            "Shell": 385,
+            "Roff": 50
+        }
+    },
+    {
+        "name": "agda-fragment",
+        "description": "Algebraic proof discovery in Agda",
+        "languages": {
+            "Agda": 171951,
+            "Makefile": 586,
+            "Nix": 200
+        }
+    },
+    {
+        "name": "agda-writer",
+        "description": "A simple GUI for Agda",
+        "languages": {
+            "Objective-C": 270843
+        }
+    },
+    {
+        "name": "inference-in-agda",
+        "description": "A tutorial on how Agda infers things",
+        "languages": {
+            "HTML": 433271
+        }
+    },
+    {
+        "name": "aGdaREP",
+        "description": "Implementing grep in Agda",
+        "languages": {
+            "Agda": 14978,
+            "Makefile": 173
+        }
+    },
+    {
+        "name": "hilbert-gentzen",
+        "description": "Agda formalisation of IPC, IS4, ICML, and ILP",
+        "languages": {
+            "Agda": 928922,
+            "CSS": 1483,
+            "Makefile": 154
+        }
+    },
+    {
+        "name": "formal-ledger-specifications",
+        "description": "Formal specifications of the cardano ledger",
+        "languages": {
+            "Agda": 502119,
+            "TeX": 58379,
+            "Nix": 13622,
+            "Haskell": 4784,
+            "Makefile": 4683,
+            "Shell": 1454
+        }
+    },
+    {
+        "name": "agda-algebras",
+        "description": "The Agda Universal Algebra Library (html docs available at the url below)",
+        "languages": {
+            "Agda": 817908,
+            "Emacs Lisp": 130714,
+            "TeX": 87927,
+            "Shell": 3346,
+            "Makefile": 2319
+        }
+    },
+    {
+        "name": "Generic",
+        "description": "A library for doing generic programming in Agda",
+        "languages": {
+            "Agda": 90380
+        }
+    },
+    {
+        "name": "agda-simple-scp",
+        "description": "A simple supercompiler formally verified in Agda",
+        "languages": {
+            "Agda": 107613,
+            "Coq": 73289
+        }
+    },
+    {
+        "name": "MtacAR",
+        "description": "Mtac in Agda",
+        "languages": {
+            "Agda": 42823
+        }
+    },
+    {
+        "name": "cubical-classics",
+        "description": "An attempt towards univalent classical mathematics in Cubical Agda.",
+        "languages": {
+            "Agda": 368290
+        }
+    },
+    {
+        "name": "agda-ecosystem",
+        "description": null,
+        "languages": {}
+    },
+    {
+        "name": "CoverTranslator",
+        "description": "A tool for formally verifying Haskell code in Agda",
+        "languages": {
+            "Haskell": 182321,
+            "Yacc": 8170,
+            "Shell": 6490,
+            "TeX": 6395,
+            "Agda": 3903,
+            "Makefile": 3234
+        }
+    },
+    {
+        "name": "cain",
+        "description": "Category theory applied to functional programming (undergraduate project)",
+        "languages": {
+            "TeX": 225884,
+            "Makefile": 325
+        }
+    },
+    {
+        "name": "agdapad",
+        "description": "Agda as a collaborative multiplayer game",
+        "languages": {
+            "JavaScript": 37571,
+            "HTML": 21866,
+            "Nix": 16645,
+            "Perl": 14841,
+            "Shell": 4302,
+            "Agda": 1562,
+            "CSS": 1124,
+            "Emacs Lisp": 1011
+        }
+    },
+    {
+        "name": "agda-categories",
+        "description": "Category theory and algebra",
+        "languages": {
+            "Agda": 107067
+        }
+    },
+    {
+        "name": "typing-linear-pi",
+        "description": "Typing the linear pi calculus in Agda",
+        "languages": {
+            "TeX": 175333,
+            "Agda": 100636,
+            "Makefile": 409
+        }
+    },
+    {
+        "name": "agda-mode",
+        "description": "Accessing Agda's interaction mode via command line & external tactic for Agda.",
+        "languages": {
+            "Rust": 82092
+        }
+    },
+    {
+        "name": "agda-bcam",
+        "description": "Tutorial series introducing Agda to the people at BCAM",
+        "languages": {
+            "Agda": 69296,
+            "HTML": 11926,
+            "TeX": 5358,
+            "CSS": 4651,
+            "Haskell": 2157,
+            "Shell": 337
+        }
+    },
+    {
+        "name": "agda-spec",
+        "description": "Specification of Agda.",
+        "languages": {
+            "TeX": 105584,
+            "Agda": 12135,
+            "Makefile": 245
+        }
+    },
+    {
+        "name": "setup-agda",
+        "description": "Set up a specific version of Agda for your GitHub Actions workflow.",
+        "languages": {
+            "TypeScript": 118820,
+            "JavaScript": 9939,
+            "Agda": 4310,
+            "Shell": 2301
+        }
+    },
+    {
+        "name": "agda-metric-reals",
+        "description": null,
+        "languages": {
+            "Agda": 186727,
+            "Nix": 143
+        }
+    },
+    {
+        "name": "agda-holes",
+        "description": "Agda programming with holes",
+        "languages": {
+            "Agda": 47602,
+            "Shell": 85
+        }
+    },
+    {
+        "name": "agda-nbe",
+        "description": "Formalizing nbe in agda",
+        "languages": {}
+    },
+    {
+        "name": "popl19-tutorial",
+        "description": "Files for the tutorial \"Correct-by-construction programming in Agda\" at POPL '19 in Cascais",
+        "languages": {
+            "HTML": 7256693,
+            "Agda": 35478,
+            "CSS": 9216,
+            "Makefile": 3508,
+            "Shell": 1043,
+            "C": 955,
+            "Haskell": 689
+        }
+    },
+    {
+        "name": "agda2scheme",
+        "description": "Compiler backend for generating Scheme code",
+        "languages": {
+            "Haskell": 30164,
+            "Agda": 12571,
+            "Scheme": 11370
+        }
+    },
+    {
+        "name": "agda-routing",
+        "description": "An Agda library for reasoning about asynchronous iterative algorithms and network routing problems",
+        "languages": {
+            "Agda": 973997
+        }
+    },
+    {
+        "name": "agda-system-io",
+        "description": "Bindings to Haskell's IO monad which respect Agda's semantics",
+        "languages": {
+            "Agda": 129860,
+            "Haskell": 5552
+        }
+    },
+    {
+        "name": "functional-linear-algebra",
+        "description": "Formalizing linear algebra in Agda by representing matrices as functions",
+        "languages": {
+            "Agda": 73689,
+            "Nix": 1619,
+            "Shell": 140
+        }
+    },
+    {
+        "name": "M-types",
+        "description": "A formalization of M-types in Agda",
+        "languages": {
+            "Agda": 177101
+        }
+    },
+    {
+        "name": "agda-kernel",
+        "description": "An experimental Agda kernel for Jupyter",
+        "languages": {
+            "Jupyter Notebook": 82382,
+            "Python": 67165,
+            "JavaScript": 7469,
+            "Dockerfile": 1925,
+            "Makefile": 1745,
+            "Shell": 872
+        }
+    },
+    {
+        "name": "Relative-Monads",
+        "description": "Relative Monad Library for Agda",
+        "languages": {
+            "Agda": 175762
+        }
+    },
+    {
+        "name": "homotopy",
+        "description": "My old Agda code for Homotopy Type Theory.  (Halted. See HoTT/HoTT-Agda for the new one.)",
+        "languages": {
+            "Agda": 166404
+        }
+    },
+    {
+        "name": "msla2014",
+        "description": "wherein I implement several substructural logics in Agda",
+        "languages": {
+            "Agda": 26677,
+            "Ruby": 5175
+        }
+    },
+    {
+        "name": "FPAboveUs",
+        "description": "Este rep\u00f3sit\u00f3rio ir\u00e1 te ensinar programa\u00e7\u00e3o funcional do zero com Haskell :) tamb\u00e9m falaremos um pouco de Prolog e Agda aqui.",
+        "languages": {}
+    },
+    {
+        "name": "lr-agda",
+        "description": "Logical relations proof in Agda",
+        "languages": {
+            "Agda": 67877
+        }
+    },
+    {
+        "name": "cats",
+        "description": "Category Theory in Agda. Learning exercise, not for public consumption.",
+        "languages": {
+            "Agda": 183373,
+            "Haskell": 2075,
+            "Makefile": 564
+        }
+    },
+    {
+        "name": "pts-agda",
+        "description": "A formalization of Pure Type Systems (PTS) in Agda",
+        "languages": {
+            "Agda": 111159
+        }
+    },
+    {
+        "name": "ohrid19-agda",
+        "description": "Material for the Agda course at the EUTYPES Summer School '19 in Ohrid",
+        "languages": {
+            "HTML": 28503216,
+            "Agda": 65910,
+            "CSS": 12648,
+            "Makefile": 6870,
+            "Haskell": 2285,
+            "C": 1312,
+            "Shell": 973
+        }
+    },
+    {
+        "name": "agda-web-semantic",
+        "description": "Agda libraries for the semantic web",
+        "languages": {
+            "Agda": 243717
+        }
+    },
+    {
+        "name": "ipl",
+        "description": "Agda formalization of Intuitionistic Propositional Logic",
+        "languages": {
+            "TeX": 1054286,
+            "Agda": 217529,
+            "Makefile": 22910
+        }
+    },
+    {
+        "name": "quotient",
+        "description": "quotient types in cubical Agda",
+        "languages": {
+            "Agda": 12248
+        }
+    },
+    {
+        "name": "agda-tic-tac-toe",
+        "description": "Tic Tac Toe, formalized in Agda",
+        "languages": {
+            "Agda": 8243
+        }
+    },
+    {
+        "name": "dicy",
+        "description": "A builder for LaTeX, knitr, literate Agda, literate Haskell and Pweave that automatically builds dependencies.",
+        "languages": {
+            "TypeScript": 395121,
+            "TeX": 16128,
+            "Shell": 5315,
+            "Dockerfile": 1120,
+            "Agda": 830,
+            "Haskell": 788,
+            "Python": 390
+        }
+    },
+    {
+        "name": "SystemF",
+        "description": "An Agda formalization of System F and the Brown-Palsberg self-interpreter",
+        "languages": {
+            "Agda": 43395
+        }
+    },
+    {
+        "name": "sikkel",
+        "description": "Multimode simple type theory as an Agda library.",
+        "languages": {
+            "Agda": 962035
+        }
+    },
+    {
+        "name": "cubeViz2",
+        "description": null,
+        "languages": {
+            "Haskell": 427054,
+            "GLSL": 6795
+        }
+    },
+    {
+        "name": "hazelnut-dynamics-agda",
+        "description": "mechanization paired with https://github.com/hazelgrove/hazelnut-dynamics",
+        "languages": {
+            "Agda": 181000,
+            "Shell": 942,
+            "Dockerfile": 161
+        }
+    },
+    {
+        "name": "ooAgda",
+        "description": "Interactive and object-oriented programming in Agda using coinductive types",
+        "languages": {
+            "Agda": 106741
+        }
+    },
+    {
+        "name": "Agda-Metaprogramming",
+        "description": "Dependently Typed Metaprogramming Exercises",
+        "languages": {
+            "Agda": 186608
+        }
+    },
+    {
+        "name": "cubical-categories",
+        "description": "Category theory formalized in cubical agda",
+        "languages": {
+            "Agda": 22558
+        }
+    },
+    {
+        "name": "modal-logics",
+        "description": "Agda formalisation of dual-context constructive modal logics.",
+        "languages": {
+            "Agda": 117188
+        }
+    },
+    {
+        "name": "agda-hoas-demo",
+        "description": "Experiments with higher-order abstract syntax in Agda",
+        "languages": {
+            "Agda": 28298
+        }
+    },
+    {
+        "name": "tt-in-cagda",
+        "description": "Simply typed lambda calculus in cubical agda",
+        "languages": {
+            "Agda": 64899
+        }
+    },
+    {
+        "name": "misc-stuff",
+        "description": "Code for tutorials, papers and experiments. Mostly Agda, Coq and Haskell.",
+        "languages": {
+            "Agda": 1180061,
+            "TeX": 188844,
+            "Haskell": 101045
+        }
+    },
+    {
+        "name": "agda-bench",
+        "description": "Benchmarking tool for compile-time performance of Agda programs",
+        "languages": {
+            "Haskell": 6953
+        }
+    },
+    {
+        "name": "hakyll-agda",
+        "description": "Hakyll support for Agda literate files",
+        "languages": {
+            "Haskell": 9112,
+            "CSS": 1636,
+            "Nix": 353
+        }
+    },
+    {
+        "name": "linear-constructive",
+        "description": "Linear Logic for Constructive Mathematics, in Agda",
+        "languages": {
+            "Agda": 6790
+        }
+    },
+    {
+        "name": "ualib.github.io",
+        "description": "The Agda Universal Algebra Library (UALib) is a library of types and programs (theorems and proofs) that formalizes the foundations of universal algebra in dependent type theory using the Agda proof assistant language.",
+        "languages": {
+            "TeX": 4010959,
+            "Agda": 530456,
+            "HTML": 234880,
+            "Emacs Lisp": 130714,
+            "Python": 24270,
+            "Makefile": 16641,
+            "CSS": 14579,
+            "Shell": 8851,
+            "Haskell": 1358,
+            "JavaScript": 487,
+            "Ruby": 110
+        }
+    },
+    {
+        "name": "blog",
+        "description": "Software engineering and artificial general intelligence blog of R\u0103zvan Flavius Panda",
+        "languages": {}
+    },
+    {
+        "name": "church-rosser",
+        "description": "A complete proof in Agda of the Church-Rosser theorem for untyped \u03bb-calculus formalizing the methods by Komori-Matsuda-Yamakawa (2014) and the proof by Nagele-van Oostrom-Sternagel (2016); reuses the infrastructure for \u03bb-terms and substitutions provided by the PLFA book",
+        "languages": {
+            "Agda": 43181
+        }
+    },
+    {
+        "name": "cat",
+        "description": "A categorical semantics library in Agda.",
+        "languages": {
+            "Agda": 25011,
+            "Shell": 396
+        }
+    },
+    {
+        "name": "wasm-agda",
+        "description": "A typechecker for WebAssembly, written in Agda (WIP)",
+        "languages": {
+            "Agda": 38146
+        }
+    },
+    {
+        "name": "agda-mode-ng",
+        "description": "Let's rethink how we interact with Agda",
+        "languages": {}
+    },
+    {
+        "name": "imla2017",
+        "description": "Agda formalisation of NbE for \u03bb\u25a1",
+        "languages": {
+            "Agda": 95109,
+            "CSS": 1489,
+            "Makefile": 162
+        }
+    },
+    {
+        "name": "agda-synthetic-domain-theory",
+        "description": null,
+        "languages": {
+            "Agda": 8231
+        }
+    },
+    {
+        "name": "org-agda-mode",
+        "description": "An Emacs mode for working with Agda code in an Org-mode like fashion, more or less.",
+        "languages": {
+            "Emacs Lisp": 1556
+        }
+    },
+    {
+        "name": "agda-core",
+        "description": "A work-in-progress core language for Agda, in Agda",
+        "languages": {
+            "Agda": 107976,
+            "Haskell": 10619,
+            "Nix": 3172,
+            "Makefile": 871
+        }
+    },
+    {
+        "name": "agda.nvim",
+        "description": "NeoVim plugin for interacting with Agda written in Lua",
+        "languages": {
+            "Lua": 34479,
+            "Vim Script": 7680
+        }
+    },
+    {
+        "name": "agda-c",
+        "description": "Verified C programming in Agda",
+        "languages": {
+            "Agda": 70071,
+            "Makefile": 421
+        }
+    },
+    {
+        "name": "quasi-quote",
+        "description": "Quasi-quoting library for agda",
+        "languages": {
+            "Agda": 14903
+        }
+    },
+    {
+        "name": "agda-popl17",
+        "description": "Mechanization of Hazelnut, as submitted to POPL 2017",
+        "languages": {
+            "Agda": 132935
+        }
+    },
+    {
+        "name": "opetopes-in-agda",
+        "description": "Formalization of Opetopes and Opetopic Sets in Agda",
+        "languages": {
+            "Agda": 68054
+        }
+    },
+    {
+        "name": "cubical-congruence",
+        "description": "Congruence Closure Procedure in Cubical Agda",
+        "languages": {
+            "Agda": 42278
+        }
+    },
+    {
+        "name": "monoid.space",
+        "description": "Learn pure math with agda :rocket:",
+        "languages": {
+            "HTML": 1164906,
+            "CSS": 25366,
+            "TeX": 4994,
+            "Shell": 1969,
+            "Makefile": 287
+        }
+    },
+    {
+        "name": "Type-Theory-Foundations",
+        "description": "Some stuff from Robert Harper's lectures at OPLSS, formalized in Agda.",
+        "languages": {}
+    },
+    {
+        "name": "universe-of-syntax",
+        "description": "A universe of scope- and type-safe syntaxes (syntices?). Includes generic implementation of type-preserving renaming/substitution with all the proofs you could possibly need.",
+        "languages": {
+            "Agda": 42145
+        }
+    },
+    {
+        "name": "2DTypes",
+        "description": "Collaborative work on reversible computing",
+        "languages": {
+            "TeX": 2292046,
+            "Agda": 1632732,
+            "Haskell": 22959,
+            "Python": 4194,
+            "Makefile": 2688,
+            "Perl": 462,
+            "OpenQASM": 336,
+            "Emacs Lisp": 254
+        }
+    },
+    {
+        "name": "Agda2Dedukti",
+        "description": null,
+        "languages": {
+            "Haskell": 79834,
+            "Agda": 36617,
+            "Shell": 4162,
+            "Makefile": 1353
+        }
+    },
+    {
+        "name": "vim-agda",
+        "description": "Asynchronous type-checking for Agda 2.6.2.",
+        "languages": {
+            "Vim Script": 41616
+        }
+    },
+    {
+        "name": "agdarky",
+        "description": "Agda suffices: software written from A to Z in Agda",
+        "languages": {
+            "Agda": 51350,
+            "TeX": 4151,
+            "Shell": 650,
+            "Makefile": 294,
+            "Roff": 159
+        }
+    },
+    {
+        "name": "stlc-agda",
+        "description": "STLC-related snippets in Agda",
+        "languages": {}
+    },
+    {
+        "name": "ilc-agda",
+        "description": "Machine-checked Agda formalization for the ILC project",
+        "languages": {
+            "Agda": 400505,
+            "Haskell": 4747,
+            "Shell": 1925,
+            "Assembly": 310
+        }
+    },
+    {
+        "name": "agda-rw",
+        "description": "This is the place where (more or less) stable releases of my RW library will be published.",
+        "languages": {
+            "Agda": 98355
+        }
+    },
+    {
+        "name": "agda-sgd",
+        "description": "Experiments in Synthetic Differential Geometry",
+        "languages": {
+            "Agda": 9905
+        }
+    },
+    {
+        "name": "agda-mugen",
+        "description": "A formalization of the theory behind the mugen library",
+        "languages": {
+            "Agda": 158329,
+            "Dockerfile": 2030,
+            "Makefile": 620
+        }
+    },
+    {
+        "name": "agda-prop",
+        "description": "A Library for Classical Propositional Logic in Agda",
+        "languages": {
+            "Agda": 96869,
+            "Makefile": 548
+        }
+    },
+    {
+        "name": "formality-agda-lib-legacy",
+        "description": "Agda libraries relevant to Moonad",
+        "languages": {
+            "Agda": 14301
+        }
+    },
+    {
+        "name": "agda-regexp-automata",
+        "description": "Formalization of Regular Languages in Agda: regular expressions, finite-state automata, proof of equivalence, proof of the pumping lemma.",
+        "languages": {
+            "Agda": 184835,
+            "TeX": 90059,
+            "Python": 8567
+        }
+    },
+    {
+        "name": "categorical-automata",
+        "description": "Bicategories of automata, completeness of F-automata in monoidal categories, adjoints between (semi)bicategories; https://arxiv.org/pdf/2303.03867, https://arxiv.org/pdf/2303.03865, https://arxiv.org/abs/2305.00272",
+        "languages": {
+            "Agda": 131185
+        }
+    },
+    {
+        "name": "ternary.agda",
+        "description": "An Agda library for programming with ternary relations",
+        "languages": {
+            "Agda": 287438
+        }
+    },
+    {
+        "name": "awesome-agda-programming",
+        "description": "Awesome Agda Programming",
+        "languages": {}
+    },
+    {
+        "name": "agda-stc",
+        "description": "Hacking synthetic Tait computability into Agda. Example: canonicity for MLTT.",
+        "languages": {
+            "Agda": 10456
+        }
+    },
+    {
+        "name": "SemanticsWithApplications",
+        "description": "Formal semantics in Agda.",
+        "languages": {
+            "Agda": 119619
+        }
+    },
+    {
+        "name": "agda-zipper-machine",
+        "description": "An abstract machine using indexed containers and their zippers",
+        "languages": {
+            "Agda": 5650
+        }
+    },
+    {
+        "name": "synthetic-domain-theory",
+        "description": "Experiment with synthetic domain theory in cubical agda",
+        "languages": {
+            "Agda": 7944
+        }
+    },
+    {
+        "name": "Big-step-Normalisation",
+        "description": "Agda formalisations of some big-step normalization proofs",
+        "languages": {
+            "Agda": 418276
+        }
+    },
+    {
+        "name": "cwfs",
+        "description": "Formalization of Categories with Families",
+        "languages": {
+            "Agda": 316307
+        }
+    },
+    {
+        "name": "constructive-sheaf-semantics",
+        "description": "I'm putting Palmgren's Constructive Sheaf Semantics into Agda. Defines sheaves via Grothendieck pretopologies.",
+        "languages": {
+            "Agda": 17280
+        }
+    },
+    {
+        "name": "gpif-idris",
+        "description": "Translation of Agda code in A. L\u00f6h and J. P. Magalh\u00e3es *Generic Programming with Indexed Functors* to Idris.",
+        "languages": {
+            "Idris": 36201
+        }
+    },
+    {
+        "name": "language-agda",
+        "description": "Agda language support for the Atom editor ",
+        "languages": {}
+    },
+    {
+        "name": "agda-stdlib-meta",
+        "description": "Meta-programming utilities for Agda.",
+        "languages": {
+            "Agda": 155137
+        }
+    },
+    {
+        "name": "agda-finite-prover",
+        "description": "Library for proving propositions quantified over finite sets",
+        "languages": {
+            "Agda": 16526,
+            "Shell": 136
+        }
+    },
+    {
+        "name": "f-omega-int-agda",
+        "description": "F-omega with interval kinds mechanized in Agda",
+        "languages": {
+            "Agda": 831972
+        }
+    },
+    {
+        "name": "agda2lagda",
+        "description": "Simple conversion from Agda text to literate Agda text.",
+        "languages": {
+            "Haskell": 23328,
+            "TeX": 1577,
+            "Makefile": 1451,
+            "Agda": 1299,
+            "Awk": 418
+        }
+    },
+    {
+        "name": "honours-project-constructive-analysis-in-agda",
+        "description": "My honours project (with thesis), submitted in completion of the BSc Combined Honours in Mathematics & Computer Science at Dalhousie University in April 2022.",
+        "languages": {
+            "Agda": 474820
+        }
+    },
+    {
+        "name": "agda2hvm",
+        "description": null,
+        "languages": {
+            "Haskell": 23048,
+            "Agda": 14512,
+            "Python": 5171
+        }
+    },
+    {
+        "name": "cubical-topos-experiments",
+        "description": "Agda code for experimenting with internal models of cubical type theory",
+        "languages": {
+            "Agda": 344032
+        }
+    },
+    {
+        "name": "Agda_Category_Theory",
+        "description": "Formalization of category theory in Agda",
+        "languages": {
+            "Agda": 157343
+        }
+    },
+    {
+        "name": "agda-from-nothing-2017",
+        "description": "Agda from Nothing: Order in the Types",
+        "languages": {
+            "Agda": 61208
+        }
+    },
+    {
+        "name": "scheme-theory-in-agda",
+        "description": "A formalization of synthetic algebraic geometry in Agda",
+        "languages": {
+            "Agda": 2918
+        }
+    },
+    {
+        "name": "Agda-playground",
+        "description": "My Agda experiments",
+        "languages": {
+            "Agda": 311126,
+            "Idris": 10228,
+            "Haskell": 399
+        }
+    },
+    {
+        "name": "agda-relation-algebra",
+        "description": "Relational algebra implementation in Agda with simple bindings to SQLITE",
+        "languages": {
+            "Agda": 23136,
+            "Haskell": 2133
+        }
+    },
+    {
+        "name": "2LTT-Agda",
+        "description": "Formalization of 2LTT in Agda",
+        "languages": {
+            "Agda": 511250
+        }
+    },
+    {
+        "name": "staged-mrsc-agda",
+        "description": "Staged multi-result supercompilation (a model in Agda)",
+        "languages": {
+            "Agda": 180970
+        }
+    },
+    {
+        "name": "package-index",
+        "description": "A  package Index for agda libraries",
+        "languages": {}
+    },
+    {
+        "name": "Type-Embellishment",
+        "description": "Experimenting on ornamentation in Agda via reflection.",
+        "languages": {
+            "TeX": 376042,
+            "Agda": 325615,
+            "Haskell": 170737,
+            "Makefile": 1479
         }
     }
 ]
