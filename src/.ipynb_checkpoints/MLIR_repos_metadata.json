@@ -1,0 +1,1666 @@
+[
+    {
+        "name": "mlir-hlo",
+        "description": null,
+        "languages": {
+            "MLIR": 5660538,
+            "C++": 3427497,
+            "Starlark": 147301,
+            "CMake": 84439,
+            "C": 44369,
+            "Python": 37927,
+            "Shell": 31668,
+            "Jupyter Notebook": 19860
+        }
+    },
+    {
+        "name": "stablehlo",
+        "description": "Backward compatible ML compute opset inspired by HLO/MHLO",
+        "languages": {
+            "MLIR": 3295951,
+            "C++": 1747301,
+            "Starlark": 53308,
+            "CMake": 42692,
+            "Shell": 30144,
+            "Python": 23294,
+            "C": 20761
+        }
+    },
+    {
+        "name": "byteir",
+        "description": "A model compilation solution for various hardware",
+        "languages": {
+            "MLIR": 15093707,
+            "C++": 4673365,
+            "Python": 986986,
+            "LLVM": 971241,
+            "CMake": 135374,
+            "Cuda": 85530,
+            "C": 32006,
+            "Starlark": 22256,
+            "Shell": 17100,
+            "Dockerfile": 4699
+        }
+    },
+    {
+        "name": "mlir-aie",
+        "description": "An MLIR-based toolchain for AMD AI Engine-enabled devices.",
+        "languages": {
+            "MLIR": 5852378,
+            "C++": 3324348,
+            "Python": 1429558,
+            "Tcl": 185932,
+            "CMake": 166411,
+            "Makefile": 105617,
+            "C": 91515,
+            "Jupyter Notebook": 53514,
+            "Shell": 40509,
+            "BitBake": 7238,
+            "HTML": 5913
+        }
+    },
+    {
+        "name": "scalehls",
+        "description": "A scalable High-Level Synthesis framework on MLIR",
+        "languages": {
+            "MLIR": 1370465,
+            "C++": 657112,
+            "CMake": 13803,
+            "Python": 7541,
+            "Shell": 2277,
+            "C": 2013
+        }
+    },
+    {
+        "name": "mlir-extensions",
+        "description": "Intel\u00ae Extension for MLIR. A staging ground for MLIR dialects and tools for Intel devices using the MLIR toolchain.",
+        "languages": {
+            "MLIR": 3028240,
+            "C++": 1054739,
+            "Python": 85300,
+            "CMake": 70428,
+            "Pascal": 38647,
+            "Shell": 5479
+        }
+    },
+    {
+        "name": "triton-shared",
+        "description": "Shared Middle-Layer for Triton Compilation",
+        "languages": {
+            "MLIR": 1278498,
+            "C++": 363683,
+            "Python": 60191,
+            "CMake": 8480,
+            "C": 2267
+        }
+    },
+    {
+        "name": "tpp-mlir",
+        "description": "TPP experimentation on MLIR for linear algebra",
+        "languages": {
+            "MLIR": 20399686,
+            "C++": 729621,
+            "Python": 43306,
+            "Shell": 33874,
+            "CMake": 30167,
+            "C": 6011,
+            "Cuda": 1216
+        }
+    },
+    {
+        "name": "open-earth-compiler",
+        "description": "development repository for the open earth compiler",
+        "languages": {
+            "MLIR": 320356,
+            "C++": 194504,
+            "CMake": 12109,
+            "Python": 1821
+        }
+    },
+    {
+        "name": "HECO",
+        "description": "Optimizing compiler for Fully Homomorphic Encryption (FHE)",
+        "languages": {
+            "MLIR": 17863059,
+            "C++": 340010,
+            "CMake": 29607,
+            "Python": 21406,
+            "C": 14702,
+            "Shell": 3114
+        }
+    },
+    {
+        "name": "iree-nvgpu",
+        "description": null,
+        "languages": {
+            "MLIR": 303194,
+            "C++": 259153,
+            "CMake": 41173,
+            "Starlark": 27741,
+            "C": 14957,
+            "Python": 10220,
+            "Shell": 1580
+        }
+    },
+    {
+        "name": "arc",
+        "description": "Programming Language for Continuous Deep Analytics",
+        "languages": {
+            "MLIR": 1738716,
+            "C++": 215208,
+            "Rust": 164170,
+            "OCaml": 161902,
+            "Arc": 29784,
+            "JavaScript": 24978,
+            "CSS": 24652,
+            "TeX": 21738,
+            "Python": 15843,
+            "Handlebars": 14781,
+            "Shell": 10489,
+            "CMake": 6069,
+            "Vim Script": 3678,
+            "HTML": 3188,
+            "Makefile": 567,
+            "Standard ML": 42
+        }
+    },
+    {
+        "name": "iree-experimental",
+        "description": null,
+        "languages": {
+            "MLIR": 397620,
+            "Python": 319546,
+            "C++": 141076,
+            "Shell": 71534,
+            "CMake": 31186,
+            "C": 23718,
+            "Makefile": 5556,
+            "Starlark": 5408,
+            "Dockerfile": 3086
+        }
+    },
+    {
+        "name": "buddy-benchmark",
+        "description": "Benchmark Framework for Buddy Projects",
+        "languages": {
+            "MLIR": 150538455,
+            "C": 10147768,
+            "C++": 260256,
+            "CMake": 73967,
+            "Python": 44105
+        }
+    },
+    {
+        "name": "ssa",
+        "description": "A minimal development of SSA theory",
+        "languages": {
+            "MLIR": 1804754,
+            "Lean": 678758,
+            "TeX": 44410,
+            "Python": 8318,
+            "Shell": 2709,
+            "Dockerfile": 1461,
+            "Makefile": 348
+        }
+    },
+    {
+        "name": "EventQueue",
+        "description": "EQueue Dialect",
+        "languages": {
+            "MLIR": 54620805,
+            "C++": 301181,
+            "CMake": 12447,
+            "Shell": 12382,
+            "Python": 1846
+        }
+    },
+    {
+        "name": "Mira",
+        "description": "A Progam-Behavior-Guided Far Memory System",
+        "languages": {
+            "MLIR": 69516232,
+            "LLVM": 50458995,
+            "C++": 3575820,
+            "HTML": 2803797,
+            "C": 504961,
+            "CMake": 83823,
+            "Python": 15920,
+            "Makefile": 7091,
+            "Shell": 4966
+        }
+    },
+    {
+        "name": "mlir-examples",
+        "description": "a simple end to end example of taking a ML graph (TF2 / PyTorch) and running it on a device [cpu, gpu]",
+        "languages": {
+            "MLIR": 13162286,
+            "Shell": 5325,
+            "Visual Basic .NET": 417
+        }
+    },
+    {
+        "name": "vast-checker",
+        "description": null,
+        "languages": {
+            "MLIR": 88857,
+            "CMake": 15783,
+            "C": 6661,
+            "C++": 5953
+        }
+    },
+    {
+        "name": "SPARTA",
+        "description": "A novel spatial accelerator for horizontal diffusion weather stencil computation, as described in ICS 2023 paper by Singh et al. (https://arxiv.org/pdf/2303.03509.pdf)",
+        "languages": {
+            "MLIR": 2558810,
+            "C++": 306426,
+            "Python": 52064,
+            "Makefile": 6019,
+            "Tcl": 3469
+        }
+    },
+    {
+        "name": "UniSparse",
+        "description": null,
+        "languages": {
+            "MLIR": 380959,
+            "C++": 370165,
+            "Shell": 48566,
+            "Python": 6434,
+            "CMake": 5748,
+            "C": 275
+        }
+    },
+    {
+        "name": "mlir-tcp",
+        "description": "Tensor Compute Primitives: Mid-level Intermediate Representation for Machine Learning Programs",
+        "languages": {
+            "MLIR": 187959,
+            "C++": 175308,
+            "Starlark": 38742,
+            "Python": 27917,
+            "Dockerfile": 1138,
+            "Shell": 417
+        }
+    },
+    {
+        "name": "ScaleHLS-HIDA",
+        "description": null,
+        "languages": {
+            "MLIR": 1306556,
+            "C++": 708618,
+            "CMake": 13879,
+            "Python": 7541,
+            "Shell": 2277,
+            "C": 2013
+        }
+    },
+    {
+        "name": "circt-stream",
+        "description": "A stream to RTL compiler based on MLIR and CIRCT",
+        "languages": {
+            "MLIR": 85676,
+            "C++": 58678,
+            "Python": 27629,
+            "CMake": 6670
+        }
+    },
+    {
+        "name": "lagrad",
+        "description": "An MLIR-based source-to-source automatic differentiation system.",
+        "languages": {
+            "MLIR": 1192893,
+            "C": 533147,
+            "C++": 332097,
+            "Python": 237013,
+            "Shell": 10435,
+            "CMake": 3876,
+            "Makefile": 3616
+        }
+    },
+    {
+        "name": "ir-samples",
+        "description": "Collection of IRs in various MLIR dialects.",
+        "languages": {
+            "MLIR": 70773
+        }
+    },
+    {
+        "name": "mlir-doc",
+        "description": null,
+        "languages": {
+            "MLIR": 18311
+        }
+    },
+    {
+        "name": "mlir-generator",
+        "description": "Generator for MLIR files from known front-ends",
+        "languages": {
+            "MLIR": 1340294,
+            "Python": 15881,
+            "Shell": 8467
+        }
+    },
+    {
+        "name": "mlir-vscode",
+        "description": "A VSCode plugin for syntax highlighting support for the MLIR affine dialect",
+        "languages": {
+            "MLIR": 3924368
+        }
+    },
+    {
+        "name": "Polygeist-Script",
+        "description": null,
+        "languages": {
+            "MLIR": 1622864,
+            "C": 390386,
+            "Shell": 23358,
+            "Perl": 8842,
+            "R": 6832,
+            "Python": 4616,
+            "Dockerfile": 3682
+        }
+    },
+    {
+        "name": "mlir_conv1d",
+        "description": null,
+        "languages": {
+            "MLIR": 34015,
+            "Python": 7709
+        }
+    },
+    {
+        "name": "hir-dev",
+        "description": "HIR high-level synthesis compiler",
+        "languages": {
+            "MLIR": 4533925,
+            "SystemVerilog": 2468589,
+            "C++": 82375,
+            "C": 58701,
+            "Rust": 50345,
+            "Python": 37484,
+            "CMake": 18044,
+            "Tcl": 13547,
+            "Shell": 956,
+            "Makefile": 514,
+            "Forth": 70
+        }
+    },
+    {
+        "name": "mlir-playground",
+        "description": "Some MLIR tests/example",
+        "languages": {
+            "MLIR": 77035,
+            "Cuda": 8853,
+            "Python": 2235,
+            "CMake": 1425,
+            "C": 1005,
+            "Fortran": 473,
+            "Shell": 141
+        }
+    },
+    {
+        "name": "mlir_tutorial",
+        "description": null,
+        "languages": {
+            "MLIR": 10066,
+            "C++": 6534,
+            "CMake": 3698
+        }
+    },
+    {
+        "name": "sample-torch-mlir",
+        "description": null,
+        "languages": {
+            "MLIR": 51953,
+            "Python": 828
+        }
+    },
+    {
+        "name": "MLIR-Brainfuck",
+        "description": null,
+        "languages": {
+            "MLIR": 268836,
+            "C++": 34592,
+            "Brainfuck": 21910,
+            "CMake": 9240,
+            "Python": 6494,
+            "C": 4194,
+            "Befunge": 27,
+            "Modula-3": 26
+        }
+    },
+    {
+        "name": "VVWA",
+        "description": "Very Vulnerable Web App",
+        "languages": {
+            "MLIR": 366383,
+            "PureBasic": 266278,
+            "C#": 79046,
+            "ASP.NET": 31138,
+            "JavaScript": 10626,
+            "HTML": 3679,
+            "CSS": 2059,
+            "TSQL": 1710
+        }
+    },
+    {
+        "name": "mlir-hoopl-rete",
+        "description": "rewrites for MLIR with hoopl / rete",
+        "languages": {
+            "MLIR": 2965065,
+            "C++": 2737645,
+            "JavaScript": 647617,
+            "Python": 47861,
+            "CMake": 31237,
+            "Common Lisp": 14245,
+            "Nix": 9209,
+            "Makefile": 8145,
+            "Scheme": 7954,
+            "Scala": 5955,
+            "Shell": 3804,
+            "Clojure": 3698,
+            "HTML": 2639,
+            "Dockerfile": 1666,
+            "Emacs Lisp": 1401,
+            "Starlark": 215
+        }
+    },
+    {
+        "name": "hot-chips-2022-pytorch-circt-hls-demo",
+        "description": "Demo of PyTorch to Verilog with Torch-MLIR, MLIR, and CIRCT for Hot Chips 2022.",
+        "languages": {
+            "MLIR": 80235,
+            "Python": 10059,
+            "Shell": 5321,
+            "C++": 1781,
+            "Dockerfile": 1297
+        }
+    },
+    {
+        "name": "Learn_MLIR",
+        "description": "A repository for showcasing my knowledge of the MLIR programming language, and continuing to learn the language.",
+        "languages": {
+            "MLIR": 213352,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "hcl-memory-opt",
+        "description": null,
+        "languages": {
+            "MLIR": 27932,
+            "Python": 25034,
+            "C++": 13902,
+            "Tcl": 5286,
+            "C": 810
+        }
+    },
+    {
+        "name": "llhd-extras",
+        "description": null,
+        "languages": {
+            "MLIR": 942241,
+            "SystemVerilog": 227221,
+            "Shell": 7238,
+            "Python": 3618
+        }
+    },
+    {
+        "name": "llama.turbine",
+        "description": null,
+        "languages": {
+            "MLIR": 61414,
+            "Python": 58386
+        }
+    },
+    {
+        "name": "config",
+        "description": "configure scripts",
+        "languages": {
+            "MLIR": 1281694,
+            "mupad": 1048811,
+            "Assembly": 998028,
+            "C++": 191023,
+            "LLVM": 8881,
+            "Vim Script": 8028,
+            "Python": 5512,
+            "Shell": 5322,
+            "CMake": 2110,
+            "GDB": 430
+        }
+    },
+    {
+        "name": "highlightjs-mlir",
+        "description": "Highlight.js grammar for MLIR",
+        "languages": {
+            "MLIR": 2596,
+            "JavaScript": 1711
+        }
+    },
+    {
+        "name": "SNU_2D_ProgrammingTools_IDE_MLIR",
+        "description": "The MLIR Programming language IDE submodule for SNU Programming Tools (2D Mode)",
+        "languages": {
+            "MLIR": 212788,
+            "Roff": 3456,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "handshake",
+        "description": "Handshake Dialect in MLIR",
+        "languages": {
+            "MLIR": 282647,
+            "C++": 106841,
+            "CMake": 4706,
+            "Python": 1857
+        }
+    },
+    {
+        "name": "Making-MLIR-interact-with-existing-polyhedral-tools",
+        "description": "Making MLIR interact with existing polyhedral tools",
+        "languages": {
+            "MLIR": 27910
+        }
+    },
+    {
+        "name": "ProxyTSPRD",
+        "description": "Proxy application for analyzing dynamical systems.",
+        "languages": {
+            "MLIR": 30011652,
+            "Cuda": 9443642,
+            "C++": 8001736,
+            "Python": 5866107,
+            "Jupyter Notebook": 2592037,
+            "Shell": 107775,
+            "Makefile": 34349,
+            "PureBasic": 8254,
+            "C": 5330
+        }
+    },
+    {
+        "name": "mlir-grammar",
+        "description": "Copy of the grammar file from MLIR repo",
+        "languages": {
+            "MLIR": 2596
+        }
+    },
+    {
+        "name": "playmlir",
+        "description": null,
+        "languages": {
+            "MLIR": 13297,
+            "Shell": 3127
+        }
+    },
+    {
+        "name": "cgrv-opt",
+        "description": "MLIR project for FDRA (Rocket CPU + TRAM CGRA)",
+        "languages": {
+            "MLIR": 188234986,
+            "C++": 452443,
+            "LLVM": 76500,
+            "Shell": 72835,
+            "Assembly": 31983,
+            "C": 21461,
+            "CMake": 7344,
+            "Python": 895
+        }
+    },
+    {
+        "name": "mlir-playground",
+        "description": "My Playground with MLIR stuff",
+        "languages": {
+            "MLIR": 7355,
+            "Shell": 4287,
+            "C": 1957
+        }
+    },
+    {
+        "name": "MLIR-DLModels",
+        "description": null,
+        "languages": {
+            "MLIR": 8704326,
+            "Python": 25317,
+            "C++": 10399,
+            "Makefile": 3339
+        }
+    },
+    {
+        "name": "Loop-interchange-pass-in-MLIR",
+        "description": "Develop a loop interchange pass in MLIR driven by an analytical cost model that optimizes for locality (spatial, temporal - both self and group) and parallelism for multicores (so as to minimize the frequence of synchronization). ",
+        "languages": {
+            "MLIR": 7144
+        }
+    },
+    {
+        "name": "mlir-examples",
+        "description": "Examples using linalg and affine operations",
+        "languages": {
+            "MLIR": 52839,
+            "Shell": 2159
+        }
+    },
+    {
+        "name": "2021-CC-artifact",
+        "description": "This repository presents the artifact to supplement the paper \"Integrating a functional pattern-based IR into MLIR\" to be presented at CC 2021",
+        "languages": {
+            "MLIR": 200966,
+            "R": 11541,
+            "Shell": 3544,
+            "Dockerfile": 1132,
+            "Makefile": 470,
+            "C": 445
+        }
+    },
+    {
+        "name": "Astralax",
+        "description": null,
+        "languages": {
+            "MLIR": 1659750,
+            "C++": 736962,
+            "Python": 40601,
+            "CMake": 27969,
+            "Shell": 25837,
+            "C": 7096,
+            "Cuda": 1216
+        }
+    },
+    {
+        "name": "cs598-lce-project",
+        "description": null,
+        "languages": {
+            "MLIR": 27053,
+            "Python": 3497,
+            "Shell": 615
+        }
+    },
+    {
+        "name": "mlir-hacking",
+        "description": null,
+        "languages": {
+            "MLIR": 959
+        }
+    },
+    {
+        "name": "conv-experiment",
+        "description": null,
+        "languages": {
+            "MLIR": 11455,
+            "C++": 2893,
+            "Makefile": 2236
+        }
+    },
+    {
+        "name": "sublime-mlir-syntax",
+        "description": "An MLIR .sublime-syntax grammar",
+        "languages": {
+            "MLIR": 2717,
+            "Nix": 77
+        }
+    },
+    {
+        "name": "one_diffuse",
+        "description": null,
+        "languages": {
+            "MLIR": 1179958,
+            "Python": 29430,
+            "Dockerfile": 1002,
+            "Shell": 417
+        }
+    },
+    {
+        "name": "JeaNET",
+        "description": "Sistema de Seguridad Ciudadana",
+        "languages": {
+            "MLIR": 8160188,
+            "PureBasic": 1022912,
+            "C#": 337215,
+            "Gherkin": 616
+        }
+    },
+    {
+        "name": "bert-on-spike",
+        "description": null,
+        "languages": {
+            "MLIR": 35170826,
+            "C++": 32191,
+            "Nix": 6886,
+            "Makefile": 2244
+        }
+    },
+    {
+        "name": "misc",
+        "description": null,
+        "languages": {
+            "MLIR": 536551,
+            "Rust": 40523,
+            "VHDL": 33814,
+            "C": 20440,
+            "Python": 6700,
+            "Assembly": 1304,
+            "Verilog": 589,
+            "Shell": 402,
+            "Mathematica": 322,
+            "Batchfile": 14
+        }
+    },
+    {
+        "name": "CurrencyConverter",
+        "description": "carga de proyecto",
+        "languages": {
+            "MLIR": 84653,
+            "PureBasic": 21901,
+            "C#": 9745
+        }
+    },
+    {
+        "name": "WindowsFormsAppTest",
+        "description": null,
+        "languages": {
+            "MLIR": 216983,
+            "PureBasic": 31799,
+            "C#": 5228
+        }
+    },
+    {
+        "name": "mlir-test",
+        "description": "Some functions in mlir",
+        "languages": {
+            "MLIR": 1183
+        }
+    },
+    {
+        "name": "sdxl-scripts",
+        "description": null,
+        "languages": {
+            "MLIR": 14760846,
+            "Shell": 11148
+        }
+    },
+    {
+        "name": "macroHipKernel",
+        "description": null,
+        "languages": {
+            "MLIR": 100195,
+            "C++": 17244,
+            "Shell": 4262,
+            "C": 2373,
+            "Python": 923
+        }
+    },
+    {
+        "name": "AR-MIDI-Controller-2020",
+        "description": "AR midi controller for Android that uses the ManoMotionCE SDK ",
+        "languages": {
+            "MLIR": 1267008,
+            "PureBasic": 867526,
+            "C#": 321548,
+            "ShaderLab": 88953,
+            "HLSL": 13994,
+            "Java": 5364,
+            "C++": 691
+        }
+    },
+    {
+        "name": "EuColaborador",
+        "description": "C\u00f3digo fonte do Eu Agente",
+        "languages": {
+            "MLIR": 14242167,
+            "PureBasic": 7603960,
+            "C#": 6600740,
+            "HTML": 885041,
+            "Java": 181413,
+            "JavaScript": 79246,
+            "CSS": 15564,
+            "Dockerfile": 1260
+        }
+    },
+    {
+        "name": "run-lenet-onnx-mlir",
+        "description": null,
+        "languages": {
+            "MLIR": 26342173,
+            "Python": 25516
+        }
+    },
+    {
+        "name": "circt-fsm",
+        "description": null,
+        "languages": {
+            "MLIR": 1498
+        }
+    },
+    {
+        "name": "sparse_matrix",
+        "description": "Various experiments with sparse matrix multiplication and general matrix multiplication",
+        "languages": {
+            "MLIR": 2724800,
+            "Assembly": 1660273,
+            "Shell": 90448,
+            "LLVM": 67085,
+            "C": 50241,
+            "Python": 38014,
+            "C++": 14584
+        }
+    },
+    {
+        "name": "MLIR",
+        "description": "Task 1: Write MLIR function for matrix-matrix multiplication. Task 2: Lower to MLIR Affine dialect, apply loop-unroll. Task 3: Generate LLVM IR. Task 4: Introduce custom vecVec operation. Task 5: Perform vector-vector multiplication, lower to LLVM IR.",
+        "languages": {
+            "MLIR": 7451
+        }
+    },
+    {
+        "name": "Demo1",
+        "description": null,
+        "languages": {
+            "MLIR": 85139,
+            "PureBasic": 31381,
+            "C#": 18168
+        }
+    },
+    {
+        "name": "ServerExpressJobs",
+        "description": "Servidor de archivos de TrabajosExpr\u00e9s",
+        "languages": {
+            "MLIR": 80263,
+            "C#": 47693,
+            "PureBasic": 15233,
+            "Thrift": 478,
+            "Dockerfile": 187
+        }
+    },
+    {
+        "name": "iree_script",
+        "description": null,
+        "languages": {
+            "MLIR": 15589404,
+            "Shell": 4767,
+            "Python": 652
+        }
+    },
+    {
+        "name": "mlirx-wmma",
+        "description": null,
+        "languages": {
+            "MLIR": 110532,
+            "Jupyter Notebook": 82274,
+            "LLVM": 15557,
+            "Python": 11161,
+            "Cuda": 1673,
+            "C": 529
+        }
+    },
+    {
+        "name": "RegistarAutomobila",
+        "description": "WinForms aplikacija napravljena u sklopu testiranja za radno mjesto .NET developera u poduze\u0107u Inpro d.o.o.",
+        "languages": {
+            "MLIR": 2189731,
+            "PureBasic": 260767,
+            "C#": 103161
+        }
+    },
+    {
+        "name": "torch-mlir-issue",
+        "description": null,
+        "languages": {
+            "MLIR": 3479167
+        }
+    },
+    {
+        "name": "raw_eth_pktgen",
+        "description": "Packet Generator using QPT_RAW_PACKET",
+        "languages": {
+            "MLIR": 20465224,
+            "HTML": 5639208,
+            "LLVM": 3618853,
+            "C++": 2859025,
+            "C": 415551,
+            "CMake": 117120,
+            "Makefile": 19145,
+            "Shell": 5899,
+            "Python": 2328,
+            "Perl": 591
+        }
+    },
+    {
+        "name": "transform-dialect-testing",
+        "description": null,
+        "languages": {
+            "MLIR": 6201905
+        }
+    },
+    {
+        "name": "test-open-earth",
+        "description": null,
+        "languages": {
+            "MLIR": 677992,
+            "C++": 151123,
+            "Python": 40335,
+            "Assembly": 27688,
+            "Shell": 860,
+            "C": 441
+        }
+    },
+    {
+        "name": "mlir-playground",
+        "description": null,
+        "languages": {
+            "MLIR": 16361,
+            "Makefile": 3842,
+            "Python": 3831
+        }
+    },
+    {
+        "name": "circt-code",
+        "description": "A repository to store circt-code.",
+        "languages": {
+            "MLIR": 2082
+        }
+    },
+    {
+        "name": "TypeChecking",
+        "description": null,
+        "languages": {
+            "MLIR": 231706,
+            "Python": 132808
+        }
+    },
+    {
+        "name": "eMenkaBackups",
+        "description": null,
+        "languages": {
+            "MLIR": 12000904,
+            "PureBasic": 11591021,
+            "C#": 2712477,
+            "TypeScript": 152175,
+            "HTML": 54401,
+            "CSS": 1949,
+            "JavaScript": 1895
+        }
+    },
+    {
+        "name": "mlir-query-examples",
+        "description": null,
+        "languages": {
+            "MLIR": 1545
+        }
+    },
+    {
+        "name": "old-hugoc",
+        "description": "my compiler for my own language (hugolang)",
+        "languages": {
+            "MLIR": 49895,
+            "LLVM": 30905,
+            "Rust": 23770,
+            "Shell": 564
+        }
+    },
+    {
+        "name": "repro_iree_debugging",
+        "description": null,
+        "languages": {
+            "MLIR": 35324,
+            "Python": 12792
+        }
+    },
+    {
+        "name": "Tecnologias_ErstickGame",
+        "description": "Juego Ahorcado - (WPF/WCF/ENTITY FRAMEWORK)",
+        "languages": {
+            "MLIR": 596699,
+            "C#": 407663,
+            "PureBasic": 263221,
+            "TSQL": 3939
+        }
+    },
+    {
+        "name": "TensorFlow-Importer-to-TF-MLIR-dialect",
+        "description": "define a model, train it, import it to MLIR file",
+        "languages": {
+            "MLIR": 831165,
+            "Jupyter Notebook": 17219,
+            "Python": 789
+        }
+    },
+    {
+        "name": "IREE-matmul",
+        "description": null,
+        "languages": {
+            "MLIR": 14490,
+            "C": 4765,
+            "HTML": 3887,
+            "Shell": 2100
+        }
+    },
+    {
+        "name": "mlir-scratch",
+        "description": null,
+        "languages": {
+            "MLIR": 650620
+        }
+    },
+    {
+        "name": "PolyBenchSDIR",
+        "description": "Benchmark suite for SDIR ",
+        "languages": {
+            "MLIR": 3812044,
+            "LLVM": 2174574,
+            "C": 305172,
+            "Python": 22216,
+            "Shell": 7943,
+            "Dart": 3079
+        }
+    },
+    {
+        "name": "hcl-debug",
+        "description": null,
+        "languages": {
+            "MLIR": 7981084,
+            "C++": 4904063,
+            "Ada": 220886,
+            "Python": 89573,
+            "LLVM": 47877,
+            "Makefile": 27798,
+            "Assembly": 21970,
+            "VHDL": 20160,
+            "Tcl": 18068,
+            "Jupyter Notebook": 17421,
+            "Shell": 12092,
+            "Verilog": 11958,
+            "C": 950
+        }
+    },
+    {
+        "name": "mlir-bisect",
+        "description": null,
+        "languages": {
+            "MLIR": 17790,
+            "C++": 11504,
+            "CMake": 1200,
+            "C": 684,
+            "Python": 552
+        }
+    },
+    {
+        "name": "mlir-general-opt-test",
+        "description": null,
+        "languages": {
+            "MLIR": 155560,
+            "Python": 20237,
+            "Shell": 756
+        }
+    },
+    {
+        "name": "e0358-2019-asst-1",
+        "description": "E0358 Assignment Test Cases",
+        "languages": {
+            "MLIR": 1792
+        }
+    },
+    {
+        "name": "SonarQube",
+        "description": null,
+        "languages": {
+            "MLIR": 2189731,
+            "PureBasic": 260767,
+            "C#": 103161
+        }
+    },
+    {
+        "name": "SistemaDistribuidoCheckers",
+        "description": "Proyecto final para el curso de tecnolig\u00edas para la construcci\u00f3n de software.",
+        "languages": {
+            "MLIR": 672975,
+            "PureBasic": 538546,
+            "C#": 408171
+        }
+    },
+    {
+        "name": "mobilenet",
+        "description": null,
+        "languages": {
+            "MLIR": 818099
+        }
+    },
+    {
+        "name": "mlir-embed-c",
+        "description": null,
+        "languages": {
+            "MLIR": 7970,
+            "C++": 7855,
+            "C": 7221
+        }
+    },
+    {
+        "name": "triton-playground",
+        "description": null,
+        "languages": {
+            "MLIR": 234254,
+            "LLVM": 82054,
+            "Python": 19767,
+            "C++": 18571,
+            "Shell": 6139,
+            "Makefile": 3457
+        }
+    },
+    {
+        "name": "CCCLearning",
+        "description": null,
+        "languages": {
+            "MLIR": 57841
+        }
+    },
+    {
+        "name": "deployModel2RISCV",
+        "description": null,
+        "languages": {
+            "MLIR": 819274,
+            "Jupyter Notebook": 23357,
+            "Shell": 6487,
+            "Dockerfile": 1144
+        }
+    },
+    {
+        "name": "triton-x86-poc",
+        "description": null,
+        "languages": {
+            "MLIR": 5007,
+            "Python": 2849,
+            "CMake": 1889,
+            "C++": 1654
+        }
+    },
+    {
+        "name": "toy-mlir-out-of-tree-tutorial",
+        "description": "Toy lang tutorial as out of tree project",
+        "languages": {
+            "MLIR": 74843,
+            "C++": 57919,
+            "CMake": 12245,
+            "C": 3288,
+            "Python": 2875,
+            "Shell": 1223
+        }
+    },
+    {
+        "name": "llvm-project-mlir-dev-utils",
+        "description": "development utils for llvm-project-mlir",
+        "languages": {
+            "MLIR": 2010426,
+            "Shell": 62969,
+            "TeX": 13498
+        }
+    },
+    {
+        "name": "kp-mlir-sigi-mlir",
+        "description": "MLIR middle-end for the Sigi compiler (Komplexpraktikum MLIR)",
+        "languages": {
+            "MLIR": 62898,
+            "C++": 52741,
+            "Assembly": 39776,
+            "LLVM": 19182,
+            "C": 13161,
+            "CMake": 10728,
+            "Just": 4794,
+            "Python": 1648
+        }
+    },
+    {
+        "name": "progetto-birra-3-gruppo-birra-3",
+        "description": "progetto-birra-3-gruppo-birra-3 created by GitHub Classroom",
+        "languages": {
+            "MLIR": 1297597,
+            "PureBasic": 227155,
+            "C#": 66341,
+            "TeX": 32770
+        }
+    },
+    {
+        "name": "iree-build-utils",
+        "description": "Scripts for IREE module analysis and debugging",
+        "languages": {
+            "MLIR": 823215,
+            "Shell": 7859
+        }
+    },
+    {
+        "name": "iree-tflite-utils",
+        "description": "IREE TFLite importer and compiler test tools",
+        "languages": {
+            "MLIR": 818312,
+            "Shell": 3247
+        }
+    },
+    {
+        "name": "sdxl_testing",
+        "description": "Repository for easily copying around artifacts needed to test SDXL on various systems.",
+        "languages": {
+            "MLIR": 9576301,
+            "Shell": 10636
+        }
+    },
+    {
+        "name": "SistemaVeterinaria",
+        "description": null,
+        "languages": {
+            "MLIR": 5012685,
+            "PureBasic": 686902,
+            "C#": 207296
+        }
+    },
+    {
+        "name": "JEUX_XNA",
+        "description": "Jeux XNA",
+        "languages": {
+            "MLIR": 71215,
+            "PureBasic": 47550,
+            "C#": 12365
+        }
+    },
+    {
+        "name": "BowlingScore",
+        "description": null,
+        "languages": {
+            "MLIR": 14569,
+            "PureBasic": 7188,
+            "C#": 5345,
+            "Dockerfile": 823
+        }
+    },
+    {
+        "name": "Ozow.Assessment",
+        "description": null,
+        "languages": {
+            "MLIR": 43471,
+            "PureBasic": 43361,
+            "C#": 15584
+        }
+    },
+    {
+        "name": "mnist-mlir",
+        "description": null,
+        "languages": {
+            "MLIR": 4827396,
+            "LLVM": 1651747,
+            "Python": 31383,
+            "C++": 28080
+        }
+    },
+    {
+        "name": "mlir-tutorial",
+        "description": null,
+        "languages": {
+            "MLIR": 13064,
+            "C++": 3437,
+            "Shell": 3115
+        }
+    },
+    {
+        "name": "hangmanGame",
+        "description": null,
+        "languages": {
+            "MLIR": 552205,
+            "PureBasic": 331382,
+            "C#": 185054
+        }
+    },
+    {
+        "name": "-ProyectoFinal_2Uni_BD2",
+        "description": "Curso de Base de Datos 2-2020",
+        "languages": {
+            "MLIR": 5012685,
+            "PureBasic": 686902,
+            "C#": 218943,
+            "TeX": 24954
+        }
+    },
+    {
+        "name": "MLIR-DaCe-Eval",
+        "description": "MLIR-DaCe Evaluation",
+        "languages": {
+            "MLIR": 844387,
+            "C++": 337497,
+            "C": 210286,
+            "Shell": 66457,
+            "Python": 27015,
+            "Perl": 8842,
+            "R": 6832,
+            "Dockerfile": 3933,
+            "LLVM": 2197,
+            "Fortran": 78
+        }
+    },
+    {
+        "name": "CurrencyConverterSonar",
+        "description": "Corrigiendo las observaciones que reportan el sonarqube",
+        "languages": {
+            "MLIR": 128632,
+            "PureBasic": 25377,
+            "C#": 11127
+        }
+    },
+    {
+        "name": "emenkasonarqubetest",
+        "description": null,
+        "languages": {
+            "MLIR": 12000904,
+            "PureBasic": 11591021,
+            "C#": 2327099,
+            "TypeScript": 151956,
+            "HTML": 54401,
+            "CSS": 1949,
+            "JavaScript": 1895
+        }
+    },
+    {
+        "name": "VDBibliograph",
+        "description": "\u0411\u0438\u0431\u043b\u0438\u043e\u0433\u0440\u0430\u0444\u0438\u044f \u0434\u043b\u044f \u043a\u043d\u0438\u0433",
+        "languages": {
+            "MLIR": 134538,
+            "HTML": 54464,
+            "PureBasic": 10683,
+            "CSS": 3629,
+            "C#": 3397,
+            "Dockerfile": 1534
+        }
+    },
+    {
+        "name": "MLIR_Sample",
+        "description": null,
+        "languages": {
+            "MLIR": 5851830,
+            "C++": 1011428,
+            "Python": 166180,
+            "C": 90481,
+            "CMake": 23230,
+            "LLVM": 12593,
+            "Shell": 314
+        }
+    },
+    {
+        "name": "cpp-to-ops-converter",
+        "description": null,
+        "languages": {
+            "MLIR": 2663572,
+            "C++": 99344,
+            "Makefile": 79313,
+            "C": 63580,
+            "CMake": 27500,
+            "Python": 6521,
+            "Shell": 5224,
+            "TypeScript": 1066
+        }
+    },
+    {
+        "name": "linalg-vadd",
+        "description": "Vector-vector add example with Linalg dialect in MLIR",
+        "languages": {
+            "MLIR": 1005,
+            "Shell": 504
+        }
+    },
+    {
+        "name": "reftype-inputs",
+        "description": "FIRRTL Reference Type samples and test input collection (messy / WIP)",
+        "languages": {
+            "MLIR": 44761
+        }
+    },
+    {
+        "name": "iree-kernel-benchmarks",
+        "description": null,
+        "languages": {
+            "MLIR": 133443,
+            "Shell": 930
+        }
+    },
+    {
+        "name": "MLIR_Experiments",
+        "description": null,
+        "languages": {
+            "MLIR": 4532,
+            "Shell": 705
+        }
+    },
+    {
+        "name": "toolbox",
+        "description": null,
+        "languages": {
+            "MLIR": 35634,
+            "Python": 32236
+        }
+    },
+    {
+        "name": "fortran-to-fir-by-ex",
+        "description": "Examples showing various fortran constructs converting to FIR using llvm-flang compiler.",
+        "languages": {
+            "MLIR": 18728,
+            "Fortran": 4422,
+            "AMPL": 65
+        }
+    },
+    {
+        "name": "magma-mlir-experiments",
+        "description": null,
+        "languages": {
+            "MLIR": 354599,
+            "Verilog": 273942,
+            "Python": 89803,
+            "V": 20143
+        }
+    },
+    {
+        "name": "hbc_verification",
+        "description": null,
+        "languages": {
+            "MLIR": 13623,
+            "Python": 8718
+        }
+    },
+    {
+        "name": "DL_ML",
+        "description": null,
+        "languages": {
+            "MLIR": 5637,
+            "Python": 791
+        }
+    },
+    {
+        "name": "Enzyme-MLIR-Test-Utility",
+        "description": null,
+        "languages": {
+            "MLIR": 21256,
+            "Python": 10774
+        }
+    },
+    {
+        "name": "triton-shared",
+        "description": "shared middle layer for Triton as a submodule of Triton",
+        "languages": {
+            "MLIR": 255283,
+            "C++": 128812,
+            "CMake": 4329,
+            "Python": 2403
+        }
+    },
+    {
+        "name": "MLIR-Convolution-Experiments",
+        "description": null,
+        "languages": {
+            "MLIR": 57212,
+            "Shell": 12015
+        }
+    },
+    {
+        "name": "scratch_plaidml",
+        "description": "scratchpad for plaidml related code",
+        "languages": {
+            "MLIR": 5443,
+            "C++": 2949
+        }
+    },
+    {
+        "name": "-ProyectoFinal_3Uni_BD2",
+        "description": "Proyecto Final de la 3era Unidad del curso de Base de Datos 2 - 2020-II",
+        "languages": {
+            "MLIR": 5012685,
+            "PureBasic": 686902,
+            "C#": 218943,
+            "TeX": 24916
+        }
+    },
+    {
+        "name": "Memorama",
+        "description": null,
+        "languages": {
+            "MLIR": 1036757,
+            "PureBasic": 522347,
+            "C#": 132926
+        }
+    },
+    {
+        "name": "MLIRTaskResources",
+        "description": null,
+        "languages": {
+            "MLIR": 651
+        }
+    },
+    {
+        "name": "tpp-sandbox-micro",
+        "description": null,
+        "languages": {
+            "MLIR": 39880571,
+            "C++": 29121,
+            "Shell": 3774,
+            "CMake": 1561
+        }
+    },
+    {
+        "name": "mlirbank",
+        "description": "A place to put helpful IR snippets.",
+        "languages": {
+            "MLIR": 10236132,
+            "Shell": 14153,
+            "Python": 730,
+            "Batchfile": 679
+        }
+    },
+    {
+        "name": "test_cases",
+        "description": null,
+        "languages": {
+            "MLIR": 70335,
+            "Python": 15242
+        }
+    },
+    {
+        "name": "APPEscritorioC-",
+        "description": "App escritorio de trabajos rapido realizado en C# para el curso de construccion de software",
+        "languages": {
+            "MLIR": 1734325,
+            "PureBasic": 81267,
+            "C#": 50554
+        }
+    },
+    {
+        "name": "quant-ext-mlir",
+        "description": null,
+        "languages": {
+            "MLIR": 38691,
+            "C++": 15905,
+            "CMake": 6971,
+            "Python": 623,
+            "C": 515
+        }
+    },
+    {
+        "name": "memo",
+        "description": null,
+        "languages": {
+            "MLIR": 2636479,
+            "Jupyter Notebook": 102004,
+            "Python": 10212
+        }
+    },
+    {
+        "name": "compile-final-exp",
+        "description": "ustc2023\u7f16\u8bd1H\u5927\u4f5c\u4e1a",
+        "languages": {
+            "MLIR": 58819048,
+            "Python": 3234
+        }
+    },
+    {
+        "name": "autotune_fa",
+        "description": null,
+        "languages": {
+            "MLIR": 16257,
+            "Python": 11807
+        }
+    },
+    {
+        "name": "SHARK-TestSuite",
+        "description": "Temporary home of a test suite we are evaluating",
+        "languages": {
+            "MLIR": 1163240,
+            "Python": 376208,
+            "Shell": 1604
+        }
+    },
+    {
+        "name": "playground",
+        "description": null,
+        "languages": {
+            "MLIR": 5861,
+            "C++": 5328,
+            "Tcl": 4638,
+            "Shell": 2669,
+            "Verilog": 2197,
+            "Python": 821
+        }
+    },
+    {
+        "name": "redes-trabajo1-soap",
+        "description": "\ud83c\udf10 Trabajo 1 de Redes y Comunicaci\u00f3n. Web Service SOAP",
+        "languages": {
+            "MLIR": 50147,
+            "PureBasic": 27474,
+            "PHP": 8298,
+            "CSS": 7060,
+            "C#": 4741,
+            "ASP.NET": 312
+        }
+    },
+    {
+        "name": "Projet_jeux_notations_2020",
+        "description": null,
+        "languages": {
+            "MLIR": 1007895,
+            "PureBasic": 166205,
+            "C#": 71188
+        }
+    },
+    {
+        "name": "sdxl-dispatches",
+        "description": null,
+        "languages": {
+            "MLIR": 2209321
+        }
+    },
+    {
+        "name": "ukernel_sample",
+        "description": null,
+        "languages": {
+            "MLIR": 20526,
+            "Shell": 8531,
+            "C": 6728,
+            "CMake": 5044,
+            "C++": 4231,
+            "Cuda": 3463,
+            "Python": 1279
+        }
+    }
+]

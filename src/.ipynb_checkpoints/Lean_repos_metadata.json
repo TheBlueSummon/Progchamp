@@ -1,0 +1,1685 @@
+[
+    {
+        "name": "lean4",
+        "description": "Lean 4 programming language and theorem prover",
+        "languages": {
+            "Lean": 11163114,
+            "C++": 1753071,
+            "Shell": 59888,
+            "CMake": 52019,
+            "Nix": 36317,
+            "Python": 23392,
+            "Swift": 18233,
+            "OCaml": 15982,
+            "Standard ML": 15693,
+            "Haskell": 15166,
+            "Makefile": 14389,
+            "C": 3786
+        }
+    },
+    {
+        "name": "mathlib",
+        "description": "Lean 3's obsolete mathematical components library: please use mathlib4",
+        "languages": {
+            "Lean": 46311688,
+            "Python": 46709,
+            "Shell": 8469,
+            "Dockerfile": 4075
+        }
+    },
+    {
+        "name": "mathlib4",
+        "description": "The math library of Lean 4",
+        "languages": {
+            "Lean": 65799859,
+            "Python": 49986,
+            "Shell": 22711,
+            "TeX": 10818,
+            "Dockerfile": 2012,
+            "ASL": 1838,
+            "Makefile": 436
+        }
+    },
+    {
+        "name": "Cosette",
+        "description": "Cosette is an automated SQL solver.",
+        "languages": {
+            "Lean": 671891,
+            "Racket": 409032,
+            "Coq": 248069,
+            "Haskell": 133827,
+            "Python": 23476,
+            "Shell": 2757,
+            "Dockerfile": 1445,
+            "Makefile": 1183,
+            "Emacs Lisp": 652
+        }
+    },
+    {
+        "name": "smalltt",
+        "description": "Demo for high-performance type theory elaboration",
+        "languages": {
+            "Lean": 8942348,
+            "Idris": 2737324,
+            "Agda": 2591962,
+            "Coq": 1674198,
+            "Haskell": 195282
+        }
+    },
+    {
+        "name": "certigrad",
+        "description": "Bug-free machine learning on stochastic computation graphs",
+        "languages": {
+            "Lean": 422816,
+            "Dockerfile": 824
+        }
+    },
+    {
+        "name": "electrolysis",
+        "description": "Simple verification of Rust programs via functional purification in Lean 2(!)",
+        "languages": {
+            "Lean": 183786,
+            "Rust": 129139,
+            "JavaScript": 43231,
+            "CSS": 30850,
+            "TeX": 10355,
+            "Python": 9151
+        }
+    },
+    {
+        "name": "formalising-mathematics",
+        "description": "Lean 3 material for Kevin Buzzard's 2021 TCC courrse on formalising mathematics. Lean 4 version available here: https://github.com/ImperialCollegeLondon/formalising-mathematics-2024",
+        "languages": {
+            "Lean": 463491
+        }
+    },
+    {
+        "name": "natural_number_game",
+        "description": "Building the natural numbers in Lean 3. The original natural number game, now frozen. See README for Lean 4 information.",
+        "languages": {
+            "Lean": 173608,
+            "HTML": 7714,
+            "TeX": 404,
+            "Shell": 253
+        }
+    },
+    {
+        "name": "xena",
+        "description": "Lean Library currently studying for a degree at Imperial College ",
+        "languages": {
+            "Lean": 704315,
+            "TeX": 128122
+        }
+    },
+    {
+        "name": "SciLean",
+        "description": "Scientific computing in Lean 4",
+        "languages": {
+            "Lean": 2519320,
+            "Makefile": 368,
+            "Emacs Lisp": 271,
+            "HTML": 173
+        }
+    },
+    {
+        "name": "lean4-metaprogramming-book",
+        "description": null,
+        "languages": {
+            "Lean": 253363,
+            "JavaScript": 113400,
+            "Python": 3870
+        }
+    },
+    {
+        "name": "std4",
+        "description": "Standard Library for Lean 4",
+        "languages": {
+            "Lean": 1151118,
+            "Dockerfile": 1852,
+            "Shell": 892,
+            "Makefile": 437
+        }
+    },
+    {
+        "name": "tutorials",
+        "description": "Some Lean tutorials",
+        "languages": {
+            "Lean": 175896,
+            "Python": 942
+        }
+    },
+    {
+        "name": "M40001_lean",
+        "description": "Lean 3 material related to Imperial College's \"Introduction to University Mathematics\" course",
+        "languages": {
+            "Lean": 262827
+        }
+    },
+    {
+        "name": "lean-liquid",
+        "description": "\ud83d\udca7 Liquid Tensor Experiment",
+        "languages": {
+            "Lean": 3844805,
+            "Python": 6184,
+            "Shell": 3605
+        }
+    },
+    {
+        "name": "formalabstracts",
+        "description": null,
+        "languages": {
+            "Lean": 192656
+        }
+    },
+    {
+        "name": "aesop",
+        "description": "White-box automation for Lean 4",
+        "languages": {
+            "Lean": 515951,
+            "Shell": 68
+        }
+    },
+    {
+        "name": "lean-gym",
+        "description": null,
+        "languages": {
+            "Lean": 65283,
+            "Shell": 793
+        }
+    },
+    {
+        "name": "formalising-mathematics-2022",
+        "description": "Lean 3 material for Kevin Buzzard's Jan-Mar 2022 course on formalising mathematics. Lean 4 version available here: https://github.com/ImperialCollegeLondon/formalising-mathematics-2024",
+        "languages": {
+            "Lean": 310657
+        }
+    },
+    {
+        "name": "lean-perfectoid-spaces",
+        "description": "Perfectoid spaces in the Lean formal theorem prover.",
+        "languages": {
+            "Lean": 453393,
+            "Python": 2548,
+            "HTML": 1723,
+            "Shell": 180
+        }
+    },
+    {
+        "name": "lean4-raytracer",
+        "description": "A simple raytracer written in Lean 4",
+        "languages": {
+            "Lean": 25109,
+            "C": 20275,
+            "Makefile": 114
+        }
+    },
+    {
+        "name": "PrimeNumberTheoremAnd",
+        "description": "blueprint for prime number theorem and more",
+        "languages": {
+            "Lean": 577254,
+            "Python": 6828,
+            "TeX": 5757,
+            "Makefile": 888
+        }
+    },
+    {
+        "name": "flypitch",
+        "description": "A formal proof of the independence of the continuum hypothesis",
+        "languages": {
+            "Lean": 1258059
+        }
+    },
+    {
+        "name": "lean-gptf",
+        "description": "Interactive neural theorem proving in Lean",
+        "languages": {
+            "Lean": 46845
+        }
+    },
+    {
+        "name": "sudoku",
+        "description": "A sudoku game where you have to prove that your deductions are valid",
+        "languages": {
+            "Lean": 27605,
+            "C++": 1950
+        }
+    },
+    {
+        "name": "pfr",
+        "description": "Repository for formalization of the Polynomial Freiman Ruzsa conjecture (and related results)",
+        "languages": {
+            "Lean": 738881,
+            "TeX": 107059,
+            "Python": 4421,
+            "CSS": 1119,
+            "Shell": 1106,
+            "Batchfile": 254,
+            "Perl": 109
+        }
+    },
+    {
+        "name": "logical_verification_2020",
+        "description": "Companion files for Logical Verification 2020\u20132021 at VU Amsterdam",
+        "languages": {
+            "Lean": 346885
+        }
+    },
+    {
+        "name": "lake",
+        "description": "**(Deprecated: Merged into Lean 4)** Lean 4 build system and package manager with configuration files written in Lean. ",
+        "languages": {
+            "Lean": 312860,
+            "Shell": 7841,
+            "Makefile": 1940,
+            "Nix": 1274
+        }
+    },
+    {
+        "name": "yatima",
+        "description": "A zero-knowledge Lean4 compiler and kernel",
+        "languages": {
+            "Lean": 578113
+        }
+    },
+    {
+        "name": "debate",
+        "description": "Formalizing stochastic doubly-efficient debate",
+        "languages": {
+            "Lean": 144796
+        }
+    },
+    {
+        "name": "ProofWidgets4",
+        "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
+        "languages": {
+            "Lean": 104612,
+            "TypeScript": 47887,
+            "TeX": 3061,
+            "JavaScript": 2876,
+            "ASL": 233
+        }
+    },
+    {
+        "name": "symmetric_project",
+        "description": null,
+        "languages": {
+            "Lean": 202187,
+            "TeX": 3786
+        }
+    },
+    {
+        "name": "ProofNet",
+        "description": "Benchmark for undergraduate-level formal mathematics",
+        "languages": {
+            "Lean": 633172,
+            "TeX": 523136,
+            "Python": 37007,
+            "Jupyter Notebook": 8871,
+            "Shell": 708
+        }
+    },
+    {
+        "name": "NNG4",
+        "description": "Natural Number Game",
+        "languages": {
+            "Lean": 225308,
+            "Dockerfile": 2946
+        }
+    },
+    {
+        "name": "real-number-game",
+        "description": "A gamification of the theorems in MATH40002 Analysis 1",
+        "languages": {
+            "Lean": 226077
+        }
+    },
+    {
+        "name": "GlimpseOfLean",
+        "description": "An introduction to theorem proving in Lean for the impatient.",
+        "languages": {
+            "Lean": 165126,
+            "Python": 1705,
+            "Dockerfile": 1578
+        }
+    },
+    {
+        "name": "hott3",
+        "description": "HoTT in Lean 3",
+        "languages": {
+            "Lean": 1008488
+        }
+    },
+    {
+        "name": "lean4-samples",
+        "description": "Code samples for Lean 4",
+        "languages": {
+            "Lean": 191725,
+            "CSS": 31398,
+            "JavaScript": 9317,
+            "Python": 8676,
+            "TypeScript": 6098,
+            "Dockerfile": 667,
+            "Batchfile": 308
+        }
+    },
+    {
+        "name": "lamr",
+        "description": "Logic and Mechanized Reasoning",
+        "languages": {
+            "Lean": 150403,
+            "JavaScript": 4606,
+            "Dockerfile": 1684,
+            "Edge": 90,
+            "Shell": 78
+        }
+    },
+    {
+        "name": "coq-lean-cheatsheet",
+        "description": "A quick reference for mapping Coq tactics to Lean tactics",
+        "languages": {
+            "Lean": 1503
+        }
+    },
+    {
+        "name": "cedar-spec",
+        "description": "Definitional implementation of Cedar language and utilities for DRT",
+        "languages": {
+            "Lean": 462164,
+            "Rust": 440124,
+            "Shell": 3847,
+            "Dockerfile": 1220
+        }
+    },
+    {
+        "name": "lean-smt",
+        "description": "Tactics for discharging Lean goals into SMT solvers.",
+        "languages": {
+            "Lean": 432678
+        }
+    },
+    {
+        "name": "quote4",
+        "description": "Intuitive, type-safe expression quotations for Lean 4.",
+        "languages": {
+            "Lean": 62936,
+            "Makefile": 200
+        }
+    },
+    {
+        "name": "MT1300",
+        "description": "OpenWrt auto build for GL-iNet MT1300",
+        "languages": {
+            "Lean": 515478,
+            "Shell": 15234
+        }
+    },
+    {
+        "name": "iris-lean",
+        "description": "Lean 4 port of Iris, a higher-order concurrent separation logic framework",
+        "languages": {
+            "Lean": 212528
+        }
+    },
+    {
+        "name": "lftcm2020",
+        "description": "Lean for the Curious Mathematician 2020",
+        "languages": {
+            "Lean": 423962,
+            "TeX": 4513,
+            "Python": 1929
+        }
+    },
+    {
+        "name": "formalising-mathematics-2024",
+        "description": "Formalising Mathematics; a course for undergraduate mathematicians. Ran between January and March 2024.",
+        "languages": {
+            "Lean": 578002,
+            "Dockerfile": 2012
+        }
+    },
+    {
+        "name": "mathematics_in_lean_source",
+        "description": "Source code for the Mathematics in Lean tutorial.",
+        "languages": {
+            "Lean": 532257,
+            "Python": 19006,
+            "TeX": 8922,
+            "Dockerfile": 3174,
+            "Batchfile": 791,
+            "Shell": 669,
+            "Makefile": 499,
+            "CSS": 326
+        }
+    },
+    {
+        "name": "rinha",
+        "description": "\ud83e\uddea | Rinha de Backend Lean4",
+        "languages": {
+            "Lean": 9249,
+            "Dockerfile": 755,
+            "Shell": 51
+        }
+    },
+    {
+        "name": "logical_verification_2023",
+        "description": "Hitchhiker's Guide to Logical Verification (2023 Edition)",
+        "languages": {
+            "Lean": 248754
+        }
+    },
+    {
+        "name": "group-theory-game",
+        "description": "Building group theory from scratch in Lean",
+        "languages": {
+            "Lean": 304908
+        }
+    },
+    {
+        "name": "lean4lean",
+        "description": "Lean 4 kernel / 'external checker' written in Lean 4",
+        "languages": {
+            "Lean": 353799
+        }
+    },
+    {
+        "name": "yoneda",
+        "description": "comparative formalizations of the Yoneda lemma for 1-categories and infinity-categories",
+        "languages": {
+            "Lean": 20458,
+            "JavaScript": 302,
+            "HTML": 296,
+            "CSS": 83
+        }
+    },
+    {
+        "name": "M4P33",
+        "description": "M4 algebraic geometry course in Lean",
+        "languages": {
+            "Lean": 124000
+        }
+    },
+    {
+        "name": "LeanInk",
+        "description": "LeanInk is a command line helper tool for Alectryon which aims to ease the integration of Lean 4.",
+        "languages": {
+            "Lean": 102293,
+            "Shell": 253
+        }
+    },
+    {
+        "name": "lean-math-workshop",
+        "description": null,
+        "languages": {
+            "Lean": 285266,
+            "Dockerfile": 1707
+        }
+    },
+    {
+        "name": "lean-verbose",
+        "description": "Very controlled natural language tactics for Lean",
+        "languages": {
+            "Lean": 47843
+        }
+    },
+    {
+        "name": "lean4-cli",
+        "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
+        "languages": {
+            "Lean": 102115
+        }
+    },
+    {
+        "name": "doc-gen4",
+        "description": "Document Generator for Lean 4",
+        "languages": {
+            "Lean": 121077,
+            "CSS": 58880,
+            "JavaScript": 32997,
+            "Shell": 340
+        }
+    },
+    {
+        "name": "lean-auto",
+        "description": "Experiments in automation for Lean",
+        "languages": {
+            "Lean": 1252886,
+            "SMT": 5065,
+            "OpenEdge ABL": 1217
+        }
+    },
+    {
+        "name": "tba-2021",
+        "description": "Materials for the course \"theorem prover lab: applications in programming languages\" at KIT, SS2021 edition",
+        "languages": {
+            "Lean": 114452,
+            "Dockerfile": 197
+        }
+    },
+    {
+        "name": "verso",
+        "description": "Lean documentation authoring tool",
+        "languages": {
+            "Lean": 331940,
+            "Shell": 325
+        }
+    },
+    {
+        "name": "topos",
+        "description": "Topos theory in lean",
+        "languages": {
+            "Lean": 383494,
+            "Dockerfile": 386
+        }
+    },
+    {
+        "name": "formalising-mathematics-2023",
+        "description": "repository for material for Jan-Mar 2023 course on formalising mathematics",
+        "languages": {
+            "Lean": 570285
+        }
+    },
+    {
+        "name": "lean-chat",
+        "description": null,
+        "languages": {
+            "Lean": 14690,
+            "Python": 746
+        }
+    },
+    {
+        "name": "repl",
+        "description": "A simple REPL for Lean 4, returning information about errors and sorries.",
+        "languages": {
+            "Lean": 51319,
+            "Shell": 2254
+        }
+    },
+    {
+        "name": "lean-mlir",
+        "description": "embedding MLIR in LEAN",
+        "languages": {
+            "Lean": 791033,
+            "TeX": 437767,
+            "Common Lisp": 17396,
+            "Go": 5130,
+            "Python": 2915,
+            "Shell": 2102,
+            "Makefile": 1751,
+            "Haskell": 777,
+            "Nix": 734,
+            "MLIR": 646,
+            "Dockerfile": 321
+        }
+    },
+    {
+        "name": "lean-category-theory",
+        "description": "An experimental category theory library for Lean",
+        "languages": {
+            "Lean": 56233,
+            "Shell": 1026
+        }
+    },
+    {
+        "name": "Saturn",
+        "description": "Experiments with SAT solvers with proofs in Lean 4",
+        "languages": {
+            "Lean": 153557
+        }
+    },
+    {
+        "name": "lean-ga",
+        "description": "A partial formalization of Geometric Algebra in the Lean formal proof verification system.",
+        "languages": {
+            "Lean": 117283
+        }
+    },
+    {
+        "name": "flt-regular",
+        "description": "Fermat's Last Theorem for regular primes",
+        "languages": {
+            "Lean": 466109,
+            "TeX": 46785,
+            "Python": 2813,
+            "CSS": 652
+        }
+    },
+    {
+        "name": "loogle",
+        "description": "Mathlib search tool",
+        "languages": {
+            "Lean": 61766,
+            "Python": 13824,
+            "Nix": 7461,
+            "HTML": 3585,
+            "Shell": 2583,
+            "C": 1865
+        }
+    },
+    {
+        "name": "compfiles",
+        "description": "Catalog Of Math Problems Formalized In Lean",
+        "languages": {
+            "Lean": 668836,
+            "CSS": 4009,
+            "Shell": 846
+        }
+    },
+    {
+        "name": "lean-matrix-cookbook",
+        "description": "The matrix cookbook, proved in the Lean theorem prover",
+        "languages": {
+            "Lean": 89581,
+            "Dockerfile": 1492
+        }
+    },
+    {
+        "name": "Spectral",
+        "description": null,
+        "languages": {
+            "Lean": 1060480,
+            "TeX": 148393
+        }
+    },
+    {
+        "name": "lean-scheme",
+        "description": "Schemes in Lean (v2)",
+        "languages": {
+            "Lean": 486815
+        }
+    },
+    {
+        "name": "formal-proofs",
+        "description": null,
+        "languages": {
+            "Lean": 2129804,
+            "Python": 360952,
+            "Cairo": 15843
+        }
+    },
+    {
+        "name": "risc0-lean4",
+        "description": "A model of the RISC Zero zkVM and ecosystem in the Lean 4 Theorem Prover",
+        "languages": {
+            "Lean": 221539,
+            "Rust": 14257
+        }
+    },
+    {
+        "name": "lean4-alloy",
+        "description": "Write C shims from within Lean code.",
+        "languages": {
+            "Lean": 175670,
+            "Shell": 679,
+            "C": 17
+        }
+    },
+    {
+        "name": "mathport",
+        "description": "Mathport is a tool for porting Lean3 projects to Lean4",
+        "languages": {
+            "Lean": 435970,
+            "Makefile": 8704,
+            "Shell": 3568,
+            "Dockerfile": 2980,
+            "C++": 575
+        }
+    },
+    {
+        "name": "lean4-maze",
+        "description": "maze game encoded in Lean 4 syntax",
+        "languages": {
+            "Lean": 14829
+        }
+    },
+    {
+        "name": "lean-protocol-support",
+        "description": "This project contains various supporting libraries for lean to reason about protocols.",
+        "languages": {
+            "Lean": 438742,
+            "Shell": 169
+        }
+    },
+    {
+        "name": "formal-snarks-project",
+        "description": "A formal verification of Linear PCP SNARKs.",
+        "languages": {
+            "Lean": 282409
+        }
+    },
+    {
+        "name": "lean-step-public",
+        "description": "Proof artifact co-training for Lean",
+        "languages": {
+            "Lean": 39654,
+            "Python": 20079
+        }
+    },
+    {
+        "name": "verbose-lean4",
+        "description": "Natural language tactics to teach mathematics using Lean 4",
+        "languages": {
+            "Lean": 290890
+        }
+    },
+    {
+        "name": "lean4-logic",
+        "description": "Lean4 Logic Formalization",
+        "languages": {
+            "Lean": 983038
+        }
+    },
+    {
+        "name": "duper",
+        "description": null,
+        "languages": {
+            "Lean": 1083395,
+            "Shell": 202
+        }
+    },
+    {
+        "name": "formal_book",
+        "description": "Formalizing \"Proofs from THE BOOK\"",
+        "languages": {
+            "Lean": 93943,
+            "TeX": 3619,
+            "CSS": 482,
+            "Perl": 181
+        }
+    },
+    {
+        "name": "lean-riemann-hypothesis",
+        "description": "Riemann Hypothesis in Lean",
+        "languages": {
+            "Lean": 113290
+        }
+    },
+    {
+        "name": "sphere-eversion",
+        "description": "Formalization of the existence of sphere eversions",
+        "languages": {
+            "Lean": 696546,
+            "TeX": 126031,
+            "Python": 2488,
+            "HTML": 1832,
+            "Shell": 826,
+            "CSS": 526,
+            "sed": 233,
+            "Perl": 111
+        }
+    },
+    {
+        "name": "plfl",
+        "description": "Learn Lean 4 with PLFA proofs.",
+        "languages": {
+            "Lean": 189463
+        }
+    },
+    {
+        "name": "ground_zero",
+        "description": "Ground Zero: Lean 4 HoTT Library",
+        "languages": {
+            "Lean": 721501,
+            "Makefile": 169
+        }
+    },
+    {
+        "name": "complex-number-game",
+        "description": "The Complex Number Game. Make the complex numbers in Lean.",
+        "languages": {
+            "Lean": 86489
+        }
+    },
+    {
+        "name": "AliveInLean",
+        "description": "Formally verified implementation of Alive in Lean",
+        "languages": {
+            "Lean": 362088,
+            "Python": 1234,
+            "Shell": 1232
+        }
+    },
+    {
+        "name": "Functional-Benchmarks",
+        "description": "Collection of benchmarks of functional programming languages and proof assistants.",
+        "languages": {
+            "Lean": 12003,
+            "JavaScript": 11185,
+            "Idris": 8753,
+            "Agda": 7810,
+            "Coq": 7616,
+            "Haskell": 3903
+        }
+    },
+    {
+        "name": "qpf",
+        "description": "Datatypes as quotients of polynomial functors",
+        "languages": {
+            "Lean": 197655,
+            "Shell": 875
+        }
+    },
+    {
+        "name": "flt3",
+        "description": "Proof in Lean of Fermat Last Theorem for exponent 3",
+        "languages": {
+            "Lean": 58376,
+            "Dockerfile": 249
+        }
+    },
+    {
+        "name": "LSpec",
+        "description": "A Testing Framework for Lean",
+        "languages": {
+            "Lean": 57533
+        }
+    },
+    {
+        "name": "LNSym",
+        "description": "Armv8 Native Code Symbolic Simulator in Lean",
+        "languages": {
+            "Lean": 449135,
+            "Assembly": 9603,
+            "Shell": 1923,
+            "SMT": 1668,
+            "C": 1170,
+            "Makefile": 771
+        }
+    },
+    {
+        "name": "SampCert",
+        "description": null,
+        "languages": {
+            "Lean": 213278,
+            "Python": 213
+        }
+    },
+    {
+        "name": "lean-ssr",
+        "description": "LeanSSR: an SSReflect-Like Tactic Language for Lean",
+        "languages": {
+            "Lean": 65068,
+            "Shell": 63
+        }
+    },
+    {
+        "name": "lean-llvm",
+        "description": "LLVM support for the lean theorem prover",
+        "languages": {
+            "Lean": 162441,
+            "C++": 98879,
+            "Makefile": 3594,
+            "CMake": 849,
+            "Shell": 602,
+            "C": 195
+        }
+    },
+    {
+        "name": "LeanCamCombi",
+        "description": "Formalisation of the Cambridge Part II and Part III courses Graph Theory, Combinatorics, Extremal and Probabilistic Combinatorics in Lean",
+        "languages": {
+            "Lean": 359599,
+            "Python": 5450,
+            "Shell": 1165,
+            "CSS": 1119,
+            "TeX": 777,
+            "Batchfile": 196
+        }
+    },
+    {
+        "name": "CvxLean",
+        "description": "Convex optimization modeling in Lean 4",
+        "languages": {
+            "Lean": 725792,
+            "Rust": 160847,
+            "Python": 37803,
+            "Shell": 5526
+        }
+    },
+    {
+        "name": "LeanColls",
+        "description": "WIP collections library for Lean 4",
+        "languages": {
+            "Lean": 110471
+        }
+    },
+    {
+        "name": "two-level",
+        "description": "Two-Level Type Theory",
+        "languages": {
+            "Lean": 81941,
+            "Dockerfile": 1383,
+            "Emacs Lisp": 1000,
+            "Makefile": 276,
+            "Shell": 41
+        }
+    },
+    {
+        "name": "leansat",
+        "description": "This package provides an interface and foundation for verified SAT reasoning",
+        "languages": {
+            "Lean": 605665,
+            "Python": 2696,
+            "Makefile": 255
+        }
+    },
+    {
+        "name": "EG",
+        "description": "Formalizing Euclidean Geometry in Lean",
+        "languages": {
+            "Lean": 1532510,
+            "TeX": 66667
+        }
+    },
+    {
+        "name": "c0deine",
+        "description": "Reference compiler for c0",
+        "languages": {
+            "Lean": 467154,
+            "JavaScript": 12316,
+            "C": 3842,
+            "Shell": 672,
+            "Makefile": 257
+        }
+    },
+    {
+        "name": "logical_verification_2021",
+        "description": null,
+        "languages": {
+            "Lean": 342803
+        }
+    },
+    {
+        "name": "mathematica",
+        "description": "Lean-independent implementation of the MM-Lean link",
+        "languages": {
+            "Lean": 36527,
+            "Mathematica": 8661,
+            "Python": 2464
+        }
+    },
+    {
+        "name": "advent-of-lean-4",
+        "description": "Advent of Code 2020 solutions in Lean 4",
+        "languages": {
+            "Lean": 56840
+        }
+    },
+    {
+        "name": "compiler.lean",
+        "description": "A formally verified compiler for a simple language with numbers and sums",
+        "languages": {
+            "Lean": 1344
+        }
+    },
+    {
+        "name": "rubiks-cube-group",
+        "description": "A formalization of the Rubik's cube group",
+        "languages": {
+            "Lean": 25687
+        }
+    },
+    {
+        "name": "Wasm.lean",
+        "description": "A WebAssembly implementation in Lean4",
+        "languages": {
+            "Lean": 143318,
+            "Shell": 3414
+        }
+    },
+    {
+        "name": "semaphore-mtb",
+        "description": "semaphore-mtb repository",
+        "languages": {
+            "Lean": 305626,
+            "Go": 108377,
+            "Dockerfile": 386
+        }
+    },
+    {
+        "name": "xena-UROP-2018",
+        "description": "A place to put our 2018 Xena project UROP thoughts and programs.",
+        "languages": {
+            "Lean": 1335239,
+            "TeX": 8197
+        }
+    },
+    {
+        "name": "soda",
+        "description": "\ud83e\udd64 | Toy parser combinator",
+        "languages": {
+            "Lean": 12636
+        }
+    },
+    {
+        "name": "proven-zk",
+        "description": "A support library for working with zero knowledge cryptography in Lean 4.",
+        "languages": {
+            "Lean": 55659
+        }
+    },
+    {
+        "name": "QpfTypes",
+        "description": "A WIP definitional (co)datatype package for Lean4",
+        "languages": {
+            "Lean": 141787
+        }
+    },
+    {
+        "name": "formal-ml",
+        "description": null,
+        "languages": {
+            "Lean": 1000856
+        }
+    },
+    {
+        "name": "lean4-parser",
+        "description": "Parser Combinator Library for Lean 4",
+        "languages": {
+            "Lean": 55246
+        }
+    },
+    {
+        "name": "mathzoo",
+        "description": "Lean mathzoo",
+        "languages": {
+            "Lean": 372411,
+            "Python": 28443,
+            "Shell": 3676
+        }
+    },
+    {
+        "name": "Megaparsec.lean",
+        "description": "Lean 4 port of Megaparsec",
+        "languages": {
+            "Lean": 76376
+        }
+    },
+    {
+        "name": "optlib",
+        "description": null,
+        "languages": {
+            "Lean": 309802
+        }
+    },
+    {
+        "name": "leanteach2020",
+        "description": "Formalizing geometry in Lean : IGL/UniHigh Summer 2020 research project",
+        "languages": {
+            "Lean": 72659
+        }
+    },
+    {
+        "name": "llm",
+        "description": "Interfacing with Large Language Models (remote and local) from Lean.",
+        "languages": {
+            "Lean": 22857,
+            "Python": 11562,
+            "Dockerfile": 1702,
+            "Shell": 1509,
+            "Makefile": 214
+        }
+    },
+    {
+        "name": "sf-lean",
+        "description": "Software Foundations using the Lean Theorem Prover",
+        "languages": {
+            "Lean": 23650,
+            "Makefile": 841
+        }
+    },
+    {
+        "name": "Example-Lean-Projects",
+        "description": "Some examples of Lean projects, for undergraduate mathematicians.",
+        "languages": {
+            "Lean": 72139
+        }
+    },
+    {
+        "name": "lean-stacks-project",
+        "description": " Formal verification of parts of the Stacks Project in Lean ",
+        "languages": {
+            "Lean": 377602
+        }
+    },
+    {
+        "name": "LeanChemicalTheories",
+        "description": null,
+        "languages": {
+            "Lean": 83034
+        }
+    },
+    {
+        "name": "lean-training-data",
+        "description": null,
+        "languages": {
+            "Lean": 46874,
+            "Shell": 7040
+        }
+    },
+    {
+        "name": "con-nf",
+        "description": "A formal consistency proof of Quine's set theory New Foundations",
+        "languages": {
+            "Lean": 1068885,
+            "Batchfile": 180,
+            "Shell": 178
+        }
+    },
+    {
+        "name": "software-verification",
+        "description": null,
+        "languages": {
+            "Lean": 3426
+        }
+    },
+    {
+        "name": "LeanHOL",
+        "description": "super tiny implementation of higher-order logic proof assistant in lean",
+        "languages": {
+            "Lean": 28981
+        }
+    },
+    {
+        "name": "lean-social-choice",
+        "description": "A library of results from Social Choice Theory, formalized in the Lean Theorem Prover. ",
+        "languages": {
+            "Lean": 119271
+        }
+    },
+    {
+        "name": "lean-premise-selection",
+        "description": null,
+        "languages": {
+            "Lean": 67612,
+            "Shell": 10126,
+            "TypeScript": 5224,
+            "JavaScript": 2202,
+            "Python": 1038
+        }
+    },
+    {
+        "name": "plfl",
+        "description": "Programming Language Foundations in Lean",
+        "languages": {
+            "Lean": 27308
+        }
+    },
+    {
+        "name": "kata",
+        "description": "If you want to get better at something, repeating practice alone is not enough. You must practice with increased difficulty and challenge.",
+        "languages": {
+            "Lean": 79911,
+            "JavaScript": 49915,
+            "Python": 20902,
+            "Isabelle": 7623,
+            "Coq": 2329,
+            "Rust": 2042,
+            "Haskell": 424,
+            "Nix": 53
+        }
+    },
+    {
+        "name": "combinatorics",
+        "description": null,
+        "languages": {
+            "Lean": 105458
+        }
+    },
+    {
+        "name": "llmlean",
+        "description": "LLMs + Lean, on your laptop or in the cloud",
+        "languages": {
+            "Lean": 22321
+        }
+    },
+    {
+        "name": "HTPILeanPackage",
+        "description": null,
+        "languages": {
+            "Lean": 294366,
+            "Dockerfile": 1445
+        }
+    },
+    {
+        "name": "esverify-theory",
+        "description": "Formalism and proofs for esverify",
+        "languages": {
+            "Lean": 989653
+        }
+    },
+    {
+        "name": "SDL.lean",
+        "description": "SDL2 bindings for lean",
+        "languages": {
+            "Lean": 27533,
+            "C": 16753,
+            "Nix": 4819,
+            "GDB": 94
+        }
+    },
+    {
+        "name": "logical_verification_2022",
+        "description": "Logical Verification 2022-2023 course at VU Amsterdam",
+        "languages": {
+            "Lean": 350570
+        }
+    },
+    {
+        "name": "LeanMySQL",
+        "description": "A MySQL API for Lean 4",
+        "languages": {
+            "Lean": 26446,
+            "C": 6822,
+            "Makefile": 147
+        }
+    },
+    {
+        "name": "NumLean",
+        "description": "A Lean 4 package for heavy numerical computations",
+        "languages": {
+            "Lean": 10987,
+            "C": 7747,
+            "Nix": 2509,
+            "Makefile": 144
+        }
+    },
+    {
+        "name": "ray",
+        "description": "Formalizing results about the Mandelbrot set in Lean",
+        "languages": {
+            "Lean": 1395768,
+            "C++": 1903
+        }
+    },
+    {
+        "name": "LeanSAT",
+        "description": null,
+        "languages": {
+            "Lean": 339116,
+            "Nix": 420
+        }
+    },
+    {
+        "name": "lean-wf-induct",
+        "description": null,
+        "languages": {
+            "Lean": 83381
+        }
+    },
+    {
+        "name": "lean-quantum",
+        "description": "Formalized quantum computing in Lean theorem prover",
+        "languages": {
+            "Lean": 149210
+        }
+    },
+    {
+        "name": "CS22-Lean-2023",
+        "description": "Lean course materials for Brown CS 22, Spring 2023",
+        "languages": {
+            "Lean": 122275,
+            "Dockerfile": 1497
+        }
+    },
+    {
+        "name": "topologygame",
+        "description": "Learn Lean and topology",
+        "languages": {
+            "Lean": 41851,
+            "Shell": 994
+        }
+    },
+    {
+        "name": "lean-matroids",
+        "description": "Matroids in Lean",
+        "languages": {
+            "Lean": 1888944
+        }
+    },
+    {
+        "name": "tba-2022",
+        "description": "Materials for the course \"theorem prover lab: applications in programming languages\" at KIT, SS2022 edition",
+        "languages": {
+            "Lean": 77383
+        }
+    },
+    {
+        "name": "mm-lean4",
+        "description": "Lean 4 Metamath verifier",
+        "languages": {
+            "Lean": 50088
+        }
+    },
+    {
+        "name": "tutorials4",
+        "description": "Lean 4 tutorial files",
+        "languages": {
+            "Lean": 172321,
+            "Dockerfile": 1326,
+            "Python": 947
+        }
+    },
+    {
+        "name": "melp",
+        "description": "\ud83d\udd78\ufe0f | Incomplete HTTP/1.1 Server in Lean4 for Rinha de backends",
+        "languages": {
+            "Lean": 11517
+        }
+    },
+    {
+        "name": "lean-4-hackers",
+        "description": null,
+        "languages": {
+            "Lean": 1327
+        }
+    },
+    {
+        "name": "graph-library-for-lean4",
+        "description": null,
+        "languages": {
+            "Lean": 71088
+        }
+    },
+    {
+        "name": "stump-learnable",
+        "description": null,
+        "languages": {
+            "Lean": 113598
+        }
+    },
+    {
+        "name": "cs-dm",
+        "description": "CS2012 UVa CS Discrete Math Spring 2018",
+        "languages": {
+            "Lean": 378110,
+            "Python": 359
+        }
+    },
+    {
+        "name": "lean-homotopy-theory",
+        "description": "A development of homotopy theory in the Lean formal theorem prover.",
+        "languages": {
+            "Lean": 319105
+        }
+    },
+    {
+        "name": "mathlib4-all-tactics",
+        "description": "Markdown file of the list and explanations of all mathlib4 tactics",
+        "languages": {
+            "Lean": 333
+        }
+    },
+    {
+        "name": "FIMO",
+        "description": null,
+        "languages": {
+            "Lean": 40722
+        }
+    },
+    {
+        "name": "super",
+        "description": "Superposition prover",
+        "languages": {
+            "Lean": 101299
+        }
+    },
+    {
+        "name": "lean4checker",
+        "description": "Replay the `Environment` for a given Lean module, ensuring that all declarations are accepted by the kernel.",
+        "languages": {
+            "Lean": 11762,
+            "Shell": 1316
+        }
+    },
+    {
+        "name": "gd-lean",
+        "description": null,
+        "languages": {
+            "Lean": 36223
+        }
+    },
+    {
+        "name": "unit-fractions",
+        "description": null,
+        "languages": {
+            "Lean": 618567,
+            "TeX": 82140,
+            "Python": 4069,
+            "HTML": 1635,
+            "Shell": 1084,
+            "CSS": 526,
+            "Perl": 111
+        }
+    },
+    {
+        "name": "M1P1-lean",
+        "description": "Material from M1P1, formalised in Lean",
+        "languages": {
+            "Lean": 53306
+        }
+    },
+    {
+        "name": "lean4-categories",
+        "description": "Playing with Category Theory in Lean 4",
+        "languages": {
+            "Lean": 51178
+        }
+    },
+    {
+        "name": "BrouwerFixedPoint",
+        "description": null,
+        "languages": {
+            "Lean": 753010
+        }
+    },
+    {
+        "name": "lean4-papyrus",
+        "description": "An LLVM interface for Lean 4. (WIP)",
+        "languages": {
+            "Lean": 200645,
+            "C++": 94979,
+            "Makefile": 4590,
+            "Shell": 4016
+        }
+    },
+    {
+        "name": "lean-tpe-public",
+        "description": "The Lean Theorem Proving Environment",
+        "languages": {
+            "Lean": 232079,
+            "Python": 10676
+        }
+    },
+    {
+        "name": "arithcc",
+        "description": null,
+        "languages": {
+            "Lean": 12358
+        }
+    },
+    {
+        "name": "proofs",
+        "description": "Proofs written in Lean4 for the core katydid validation algorithm",
+        "languages": {
+            "Lean": 87364
+        }
+    },
+    {
+        "name": "m1fexplained_lean3",
+        "description": "A Lean formalisation of parts of Martin Liebeck's \"A concise introduction to pure mathematics\"",
+        "languages": {
+            "Lean": 83879
+        }
+    },
+    {
+        "name": "Yul-Specification",
+        "description": "A formal specification of the Yul IR semantics in the Lean proof assistant.",
+        "languages": {
+            "Lean": 74834
+        }
+    },
+    {
+        "name": "coq-lean-cheatsheet",
+        "description": "A Cheat Sheet for Coq Developers who want to try LeanProver",
+        "languages": {
+            "Lean": 1092,
+            "Coq": 671
+        }
+    },
+    {
+        "name": "modal",
+        "description": null,
+        "languages": {
+            "Lean": 154491
+        }
+    },
+    {
+        "name": "lean-regex",
+        "description": null,
+        "languages": {
+            "Lean": 169569
+        }
+    },
+    {
+        "name": "etch",
+        "description": null,
+        "languages": {
+            "Lean": 431112,
+            "C++": 63426,
+            "Python": 23552,
+            "C": 19778,
+            "Makefile": 12863,
+            "Shell": 5199,
+            "Dockerfile": 1987
+        }
+    },
+    {
+        "name": "LeanCourse23",
+        "description": null,
+        "languages": {
+            "Lean": 569167,
+            "TeX": 6279,
+            "Dockerfile": 1705
+        }
+    },
+    {
+        "name": "linear",
+        "description": "Linear Algebra Done...Lean",
+        "languages": {
+            "Lean": 11211
+        }
+    },
+    {
+        "name": "interactive_theorem_proving_2024",
+        "description": "Files associated with the course Interactive Theorem Proving at LMU SoSe 2024",
+        "languages": {
+            "Lean": 288307
+        }
+    },
+    {
+        "name": "category-theory-game",
+        "description": null,
+        "languages": {
+            "Lean": 22754,
+            "Shell": 130
+        }
+    },
+    {
+        "name": "lean-maths-examples",
+        "description": "Some theorems presented to first and second year mathematics undergraduates, First and second year undergraduate level mathematics ",
+        "languages": {
+            "Lean": 19712
+        }
+    },
+    {
+        "name": "Formalized-Voting",
+        "description": null,
+        "languages": {
+            "Lean": 203803
+        }
+    },
+    {
+        "name": "lean4-raytrace",
+        "description": "A simple raytracer written in lean",
+        "languages": {
+            "Lean": 4796
+        }
+    },
+    {
+        "name": "soong_verification",
+        "description": null,
+        "languages": {
+            "Lean": 122968
+        }
+    },
+    {
+        "name": "fecssk",
+        "description": "Formalisms Every Computer Scientist Should Know (course at ISTA)",
+        "languages": {
+            "Lean": 48039
+        }
+    },
+    {
+        "name": "tablean",
+        "description": "Tableau for basic modal logic in Lean 3",
+        "languages": {
+            "Lean": 96025,
+            "Makefile": 137
+        }
+    },
+    {
+        "name": "lean4-sdk",
+        "description": "Extism Lean 4 Host SDK",
+        "languages": {
+            "Lean": 18042,
+            "C": 9973
+        }
+    },
+    {
+        "name": "violet",
+        "description": "A programming language, half theorem prover",
+        "languages": {
+            "Lean": 42727,
+            "Zig": 1196
+        }
+    },
+    {
+        "name": "socket.lean",
+        "description": "sockets for Lean 4",
+        "languages": {
+            "Lean": 22445
+        }
+    },
+    {
+        "name": "logical_verification_2019",
+        "description": "Repository for the course Logical Verification 2019\u20132020 at VU Amsterdam",
+        "languages": {
+            "Lean": 249868
+        }
+    },
+    {
+        "name": "lean-slides",
+        "description": "A tool to auto-generate and render slides from Markdown comments in the Lean editor.",
+        "languages": {
+            "Lean": 8165
+        }
+    },
+    {
+        "name": "lean-itmo",
+        "description": null,
+        "languages": {
+            "Lean": 212866
+        }
+    },
+    {
+        "name": "gnark-lean-demo",
+        "description": "Verification of the gnark implementation of the Semaphore protocol using Reilabs' extractor to Lean.",
+        "languages": {
+            "Lean": 91511,
+            "Go": 33784,
+            "PowerShell": 151,
+            "Shell": 143
+        }
+    }
+]
