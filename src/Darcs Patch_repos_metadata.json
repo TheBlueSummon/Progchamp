@@ -55,5 +55,1980 @@
             "C++": 43108,
             "Assembly": 202
         }
+    },
+    {
+        "name": "WordPress",
+        "description": "WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead.",
+        "languages": {
+            "PHP": 19239521,
+            "JavaScript": 5389634,
+            "CSS": 4944646,
+            "SCSS": 317814,
+            "HTML": 42609
+        }
+    },
+    {
+        "name": "postgres",
+        "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch",
+        "languages": {
+            "C": 46438709,
+            "PLpgSQL": 3642500,
+            "Perl": 2183973,
+            "Yacc": 686068,
+            "Makefile": 354102,
+            "Meson": 350897,
+            "Ruby": 279888,
+            "Lex": 224113,
+            "M4": 191215,
+            "Shell": 74756,
+            "PLSQL": 54772,
+            "Python": 52819,
+            "C++": 30403,
+            "Roff": 17748,
+            "XS": 6998,
+            "Emacs Lisp": 4164,
+            "DTrace": 3452,
+            "Assembly": 2468,
+            "Starlark": 1640,
+            "sed": 581
+        }
+    },
+    {
+        "name": "SpotX",
+        "description": "SpotX patcher used for patching the desktop version of Spotify",
+        "languages": {
+            "PowerShell": 201005,
+            "Batchfile": 3555,
+            "JavaScript": 3286
+        }
+    },
+    {
+        "name": "OpenCore-Legacy-Patcher",
+        "description": "Experience macOS just like before",
+        "languages": {
+            "Python": 1318404,
+            "ASL": 12877,
+            "Shell": 5083
+        }
+    },
+    {
+        "name": "why-did-you-render",
+        "description": "why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.)",
+        "languages": {
+            "JavaScript": 195935,
+            "TypeScript": 4722,
+            "Shell": 52
+        }
+    },
+    {
+        "name": "patch-package",
+        "description": "Fix broken node modules instantly  \ud83c\udfc3\ud83c\udffd\u200d\u2640\ufe0f\ud83d\udca8",
+        "languages": {
+            "TypeScript": 143366,
+            "Shell": 31761,
+            "JavaScript": 2156
+        }
+    },
+    {
+        "name": "diff-match-patch",
+        "description": "Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.",
+        "languages": {
+            "Python": 224309,
+            "Objective-C": 191171,
+            "Dart": 162089,
+            "C++": 147873,
+            "C#": 147714,
+            "Java": 142718,
+            "JavaScript": 117734,
+            "Lua": 113978,
+            "HTML": 56981,
+            "C": 21641,
+            "QMake": 323
+        }
+    },
+    {
+        "name": "bup",
+        "description": "Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problems or patches to the mailing list for discussion (see the end of the README below).",
+        "languages": {
+            "Python": 746090,
+            "Shell": 198631,
+            "C": 141126,
+            "Makefile": 10072,
+            "HTML": 1541,
+            "Emacs Lisp": 283,
+            "CSS": 217
+        }
+    },
+    {
+        "name": "MonkeyDev",
+        "description": "CaptainHook Tweak\u3001Logos Tweak and Command-line Tool\u3001Patch iOS Apps,  Without Jailbreak.",
+        "languages": {
+            "Objective-C": 104000,
+            "Shell": 53427,
+            "Cycript": 9417
+        }
+    },
+    {
+        "name": "Harmony",
+        "description": "A library for patching, replacing and decorating .NET and Mono methods during runtime",
+        "languages": {
+            "C#": 874418,
+            "PowerShell": 1012,
+            "Shell": 42
+        }
+    },
+    {
+        "name": "jsondiffpatch",
+        "description": "Diff & patch JavaScript objects",
+        "languages": {
+            "TypeScript": 136597,
+            "CSS": 5061,
+            "JavaScript": 1700
+        }
+    },
+    {
+        "name": "AFLplusplus",
+        "description": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+        "languages": {
+            "C": 4071520,
+            "C++": 1082083,
+            "Makefile": 221683,
+            "Shell": 206114,
+            "Python": 196902,
+            "Jupyter Notebook": 127673,
+            "Rust": 42635,
+            "JavaScript": 25333,
+            "TypeScript": 16291,
+            "Dockerfile": 4445,
+            "HTML": 3453,
+            "Java": 3049,
+            "CodeQL": 1377,
+            "Rich Text Format": 21
+        }
+    },
+    {
+        "name": "revanced-patches-template",
+        "description": "\ud83d\udc4b\ud83e\udde9ReVanced Patches template",
+        "languages": {
+            "Kotlin": 610
+        }
+    },
+    {
+        "name": "IPAPatch",
+        "description": "Patch iOS Apps, The Easy Way, Without Jailbreak.",
+        "languages": {
+            "Objective-C": 20510,
+            "C": 13510,
+            "C++": 1974,
+            "Shell": 882
+        }
+    },
+    {
+        "name": "BepInEx",
+        "description": "Unity / XNA game patcher and plugin framework",
+        "languages": {
+            "C#": 448638,
+            "Shell": 17919,
+            "Batchfile": 207,
+            "PowerShell": 68
+        }
+    },
+    {
+        "name": "Psychson",
+        "description": "Phison 2251-03 (2303) Custom Firmware & Existing Firmware Patches (BadUSB)",
+        "languages": {
+            "C#": 71966,
+            "C": 28024,
+            "C++": 13666,
+            "Shell": 2609
+        }
+    },
+    {
+        "name": "WP-API",
+        "description": "The WP REST API has been merged into WordPress core. Please do not create issues or send pull requests. Submit support requests to the forums or patches to Trac (see README below for links).",
+        "languages": {
+            "PHP": 695439,
+            "JavaScript": 42357,
+            "Shell": 5221
+        }
+    },
+    {
+        "name": "Windows-Exploit-Suggester",
+        "description": "This tool compares a targets patch levels against the Microsoft vulnerability database in order to detect potential missing patches on the target. It also notifies the user if there are public exploits and Metasploit modules available for the missing bulletins.",
+        "languages": {
+            "Python": 69175
+        }
+    },
+    {
+        "name": "Malware-Patch",
+        "description": "\u963b\u6b62\u4e2d\u56fd\u6d41\u6c13\u8f6f\u4ef6\u7684\u7ba1\u7406\u5458\u6388\u6743. / Prevent UAC authorization of Chinese malware.",
+        "languages": {
+            "C#": 68311
+        }
+    },
+    {
+        "name": "PhotoGIMP",
+        "description": "A Patch for GIMP 2.10+ for Photoshop Users",
+        "languages": {
+            "Python": 50725
+        }
+    },
+    {
+        "name": "patchwork",
+        "description": "A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).",
+        "languages": {
+            "JavaScript": 408150,
+            "HTML": 1993
+        }
+    },
+    {
+        "name": "Lilu",
+        "description": "Arbitrary kext and process patching on macOS",
+        "languages": {
+            "C": 18792269,
+            "C#": 856969,
+            "C++": 650425,
+            "Java": 394503,
+            "Python": 332148,
+            "OCaml": 228692,
+            "Visual Basic 6.0": 104368,
+            "Makefile": 18307,
+            "Shell": 15616,
+            "PowerShell": 13277,
+            "Cython": 12401,
+            "VBA": 10054,
+            "Assembly": 6448,
+            "Tcl": 1339,
+            "SourcePawn": 1239,
+            "Smalltalk": 170
+        }
+    },
+    {
+        "name": "monkey",
+        "description": "Monkey patching in Go",
+        "languages": {
+            "Go": 8603,
+            "Shell": 35
+        }
+    },
+    {
+        "name": "the-backdoor-factory",
+        "description": "Patch PE, ELF, Mach-O binaries with shellcode new version in development, available only to sponsors",
+        "languages": {
+            "Python": 643289,
+            "C": 134178,
+            "Assembly": 126307,
+            "HTML": 84996,
+            "JavaScript": 54587,
+            "Shell": 54083,
+            "Pascal": 38150,
+            "PowerBuilder": 25949,
+            "Visual Basic 6.0": 17029,
+            "CSS": 16799,
+            "C++": 16150,
+            "Ada": 9570,
+            "Batchfile": 6951,
+            "C#": 6480,
+            "FreeBasic": 3314,
+            "M4": 2788,
+            "Makefile": 1288,
+            "NASL": 692
+        }
+    },
+    {
+        "name": "patchelf",
+        "description": "A small utility to modify the dynamic linker and RPATH of ELF executables",
+        "languages": {
+            "C": 190751,
+            "C++": 107582,
+            "Shell": 40464,
+            "M4": 22537,
+            "Makefile": 6919,
+            "Roff": 5524,
+            "Nix": 5191,
+            "Assembly": 994
+        }
+    },
+    {
+        "name": "WhateverGreen",
+        "description": "Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs",
+        "languages": {
+            "C++": 2471257,
+            "C": 40750,
+            "Objective-C++": 22799,
+            "ASL": 12522,
+            "Shell": 11614,
+            "Assembly": 1256
+        }
+    },
+    {
+        "name": "apk.sh",
+        "description": "apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.",
+        "languages": {
+            "Shell": 26222
+        }
+    },
+    {
+        "name": "morphdom",
+        "description": "Fast and lightweight DOM diffing/patching (no virtual DOM needed)",
+        "languages": {
+            "JavaScript": 104553,
+            "Marko": 2179,
+            "CSS": 266
+        }
+    },
+    {
+        "name": "rewire",
+        "description": "Easy monkey-patching for node.js unit tests",
+        "languages": {
+            "JavaScript": 62420,
+            "TypeScript": 113
+        }
+    },
+    {
+        "name": "ghc",
+        "description": "Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).",
+        "languages": {
+            "Haskell": 39980476,
+            "C": 3912504,
+            "Terra": 477617,
+            "Makefile": 388042,
+            "Python": 327469,
+            "JavaScript": 312403,
+            "Raku": 299664,
+            "C++": 280022,
+            "M4": 230140,
+            "Lex": 178094,
+            "Puppet": 174430,
+            "Shell": 144386,
+            "Gnuplot": 103851,
+            "Yacc": 71884,
+            "Assembly": 29203,
+            "Game Maker Language": 28328,
+            "Nix": 22779,
+            "Logos": 7140,
+            "HTML": 6144,
+            "Perl": 5237,
+            "DTrace": 4164,
+            "Roff": 3841,
+            "Batchfile": 1966,
+            "CSS": 984,
+            "Emacs Lisp": 734,
+            "Objective-C": 729,
+            "Objective-C++": 535,
+            "Haxe": 218,
+            "PostScript": 63
+        }
+    },
+    {
+        "name": "nvidia-patch",
+        "description": " This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs.",
+        "languages": {
+            "Python": 83661,
+            "Shell": 50380,
+            "C": 6237,
+            "C++": 5866,
+            "HTML": 4306,
+            "Assembly": 992,
+            "PowerShell": 580,
+            "Batchfile": 570,
+            "Dockerfile": 327
+        }
+    },
+    {
+        "name": "pe-sieve",
+        "description": "Scans a given process. Recognizes and dumps a variety of potentially malicious implants (replaced/injected PEs, shellcodes, hooks, in-memory patches).",
+        "languages": {
+            "C++": 434404,
+            "C": 105686,
+            "CMake": 8211,
+            "Python": 6801,
+            "Shell": 252
+        }
+    },
+    {
+        "name": "Adobe-GenP",
+        "description": "Adobe CC 2019/2020/2021/2022/2023 GenP Universal Patch 3.0",
+        "languages": {
+            "AutoIt": 29624
+        }
+    },
+    {
+        "name": "APatch",
+        "description": "The patching of Android kernel and Android system",
+        "languages": {
+            "Kotlin": 444254,
+            "Java": 119122,
+            "Rust": 62789,
+            "Shell": 33957,
+            "AIDL": 226
+        }
+    },
+    {
+        "name": "bundler-audit",
+        "description": "Patch-level verification for Bundler",
+        "languages": {
+            "Ruby": 132208
+        }
+    },
+    {
+        "name": "UniHacker",
+        "description": "Patch all versions of Unity3D and UnityHub for Windows, MacOS, Linux and Docker.",
+        "languages": {
+            "C#": 121438,
+            "Batchfile": 2788
+        }
+    },
+    {
+        "name": "touchHLE",
+        "description": "High-level emulator for iPhone OS apps. This repo is used for issues, releases and CI. Submit patches at: https://review.gerrithub.io/admin/repos/touchHLE/touchHLE",
+        "languages": {
+            "Rust": 1473461,
+            "C": 39511,
+            "Kotlin": 12531,
+            "C++": 9858,
+            "Shell": 3997,
+            "Java": 1268,
+            "Makefile": 639
+        }
+    },
+    {
+        "name": "patchwork",
+        "description": "The Composer of ggplots",
+        "languages": {
+            "R": 140670
+        }
+    },
+    {
+        "name": "nexmon",
+        "description": "The C-based Firmware Patching Framework for Broadcom/Cypress WiFi Chips that enables Monitor Mode, Frame Injection and much more",
+        "languages": {
+            "C": 286775869,
+            "C++": 30008661,
+            "HTML": 20794567,
+            "Makefile": 12701173,
+            "Roff": 8546404,
+            "Shell": 5359970,
+            "Assembly": 4000273,
+            "Perl": 3098355,
+            "Python": 2914031,
+            "M4": 2747877,
+            "TeX": 759263,
+            "CMake": 731569,
+            "Go": 544017,
+            "Java": 536808,
+            "SourcePawn": 413291,
+            "C#": 304736,
+            "Yacc": 239778,
+            "Lex": 219802,
+            "Pawn": 192449,
+            "Emacs Lisp": 153817,
+            "NSIS": 90775,
+            "Ada": 89080,
+            "Pascal": 70786,
+            "CSS": 51415,
+            "Batchfile": 51285,
+            "sed": 32191,
+            "PowerShell": 28405,
+            "DIGITAL Command Language": 27303,
+            "XC": 26719,
+            "XS": 26569,
+            "Awk": 22792,
+            "Lua": 16718,
+            "XSLT": 15915,
+            "Common Lisp": 14779,
+            "Objective-C": 11314,
+            "PostScript": 6954,
+            "NASL": 6511,
+            "Rich Text Format": 6263,
+            "CLIPS": 5291,
+            "Tcl": 3280,
+            "BitBake": 2880,
+            "Logos": 2793,
+            "SAS": 1847,
+            "Module Management System": 1545,
+            "DTrace": 1133,
+            "GDB": 722,
+            "Scheme": 442,
+            "PHP": 391
+        }
+    },
+    {
+        "name": "revanced-patcher",
+        "description": "\ud83d\udc89 ReVanced Patcher used to patch Android applications",
+        "languages": {
+            "Kotlin": 187531
+        }
+    },
+    {
+        "name": "SKRoot-linuxKernelRoot",
+        "description": "\u65b0\u4e00\u4ee3SKRoot\uff0c\u6311\u6218\u5168\u7f51root\u68c0\u6d4b\u624b\u6bb5\uff0c\u8ddf\u9762\u5177\u5b8c\u5168\u4e0d\u540c\u601d\u8def\uff0c\u6446\u8131\u9762\u5177\u88ab\u68c0\u6d4b\u7684\u5f31\u70b9\uff0c\u5b8c\u7f8e\u9690\u85cfroot\u529f\u80fd\uff0c\u5168\u7a0b\u4e0d\u9700\u8981\u6682\u505cSELinux\uff0c\u5b9e\u73b0\u771f\u6b63\u7684SELinux 0%\u89e6\u78b0\uff0c\u901a\u7528\u6027\u5f3a\uff0c\u901a\u6740\u6240\u6709\u5185\u6838\uff0c\u4e0d\u9700\u8981\u5185\u6838\u6e90\u7801\uff0c\u76f4\u63a5patch\u5185\u6838\uff0c\u517c\u5bb9\u5b89\u5353APP\u76f4\u63a5JNI\u8c03\u7528\uff0c\u7a33\u5b9a\u3001\u6d41\u7545\u3001\u4e0d\u95ea\u9000\u3002",
+        "languages": {
+            "C++": 4464759,
+            "C": 207730,
+            "Java": 50383,
+            "Batchfile": 2651,
+            "CMake": 2110,
+            "Makefile": 1747
+        }
+    },
+    {
+        "name": "SecureUxTheme",
+        "description": "\ud83c\udfa8 A secure boot compatible in-memory UxTheme patcher",
+        "languages": {
+            "C++": 91741,
+            "C": 12109
+        }
+    },
+    {
+        "name": "vmware-host-modules",
+        "description": "Patches needed to build VMware (Player and Workstation) host modules against recent kernels",
+        "languages": {
+            "Makefile": 1279
+        }
+    },
+    {
+        "name": "wrapt",
+        "description": "A Python module for decorators, wrappers and monkey patching.",
+        "languages": {
+            "Python": 294349,
+            "C": 96990,
+            "Makefile": 271
+        }
+    },
+    {
+        "name": "hollows_hunter",
+        "description": "Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).",
+        "languages": {
+            "C": 117925,
+            "C++": 73947,
+            "CMake": 4291,
+            "Shell": 253
+        }
+    },
+    {
+        "name": "gomonkey",
+        "description": "gomonkey is a library to make monkey patching in unit tests easy",
+        "languages": {
+            "Go": 51094,
+            "Assembly": 3677,
+            "Shell": 412,
+            "Makefile": 33
+        }
+    },
+    {
+        "name": "Sherlock",
+        "description": "PowerShell script to quickly find missing software patches for local privilege escalation vulnerabilities.",
+        "languages": {
+            "PowerShell": 16663
+        }
+    },
+    {
+        "name": "bsdiff",
+        "description": "bsdiff and bspatch are libraries for building and applying patches to binary files.",
+        "languages": {
+            "C": 18496,
+            "M4": 729,
+            "Makefile": 195,
+            "Shell": 83
+        }
+    },
+    {
+        "name": "haiku",
+        "description": "The Haiku operating system. (Pull requests will be ignored; patches may be sent to https://review.haiku-os.org).",
+        "languages": {
+            "C++": 65584514,
+            "C": 56533982,
+            "Assembly": 514231,
+            "HTML": 445177,
+            "Python": 153143,
+            "Shell": 101282,
+            "Yacc": 92951,
+            "Roff": 73357,
+            "JavaScript": 55261,
+            "Makefile": 27592,
+            "Awk": 26795,
+            "Lex": 18000,
+            "Objective-C": 6989,
+            "Scheme": 6192,
+            "Perl": 2784,
+            "GLSL": 1891,
+            "PHP": 757,
+            "Module Management System": 316
+        }
+    },
+    {
+        "name": "JSON-Patch",
+        "description": "Lean and mean Javascript implementation of the JSON-Patch standard (RFC 6902). Update JSON documents using delta patches.",
+        "languages": {
+            "JavaScript": 231552,
+            "TypeScript": 32834,
+            "HTML": 1457,
+            "CSS": 1172,
+            "Shell": 405
+        }
+    },
+    {
+        "name": "ExplorerPatcher",
+        "description": "ExplorerPatcher Chinese Localization - \u5728 Windows 11 \u4e0a\u6062\u590d\u9ad8\u6548\u7684\u5de5\u4f5c\u73af\u5883",
+        "languages": {
+            "C": 1300831,
+            "C++": 19309,
+            "Assembly": 202
+        }
+    },
+    {
+        "name": "go-diff",
+        "description": "Diff, match and patch text in Go",
+        "languages": {
+            "Go": 132699,
+            "Makefile": 1250,
+            "Shell": 822
+        }
+    },
+    {
+        "name": "CorePatch",
+        "description": "Disable signature verification For Android",
+        "languages": {
+            "Java": 64584
+        }
+    },
+    {
+        "name": "remarkable-hacks",
+        "description": "additional functionality via binary patching",
+        "languages": {
+            "Shell": 15273,
+            "Python": 2842
+        }
+    },
+    {
+        "name": "ZerotierFix",
+        "description": "An unofficial Zerotier Android client patched from official client",
+        "languages": {
+            "Java": 262030
+        }
+    },
+    {
+        "name": "free-sidecar",
+        "description": "Enable Sidecar on Unsupported iPads and Macs running iPadOS 13 and macOS Catalina",
+        "languages": {
+            "Swift": 18433
+        }
+    },
+    {
+        "name": "composer-patches",
+        "description": "Simple patches plugin for Composer",
+        "languages": {
+            "PHP": 118724,
+            "Shell": 323
+        }
+    },
+    {
+        "name": "kpatch",
+        "description": "kpatch - live kernel patching",
+        "languages": {
+            "C": 358415,
+            "Shell": 108781,
+            "C++": 28396,
+            "Makefile": 9653,
+            "Assembly": 1553
+        }
+    },
+    {
+        "name": "HDiffPatch",
+        "description": "a C\\C++ library and command-line tools for Diff & Patch between binary files or directories(folder); cross-platform; runs fast; create small delta/differential; support large files and limit memory requires when diff & patch.",
+        "languages": {
+            "C++": 839369,
+            "C": 739923,
+            "Makefile": 14414,
+            "Objective-C": 1930,
+            "Java": 1063,
+            "Batchfile": 204,
+            "Shell": 204
+        }
+    },
+    {
+        "name": "portable",
+        "description": "LibreSSL Portable itself. This includes the build scaffold and compatibility layer that builds portable LibreSSL from the OpenBSD source code. Pull requests or patches sent to tech@openbsd.org are welcome.",
+        "languages": {
+            "C": 184458,
+            "CMake": 82437,
+            "Makefile": 59520,
+            "Shell": 30886,
+            "M4": 26045,
+            "Batchfile": 11170,
+            "Smarty": 1145,
+            "C++": 333
+        }
+    },
+    {
+        "name": "Faster-High-Res-Neural-Inpainting",
+        "description": "High-Resolution Image Inpainting using Multi-Scale Neural Patch Synthesis",
+        "languages": {
+            "Lua": 65484
+        }
+    },
+    {
+        "name": "revanced-patches",
+        "description": "\ud83e\udde9 Patches for ReVanced",
+        "languages": {
+            "Kotlin": 941363
+        }
+    },
+    {
+        "name": "universal-gms-doze",
+        "description": "Patches Google Play services app and certain processes/services to be able to use battery optimization",
+        "languages": {
+            "Shell": 6212
+        }
+    },
+    {
+        "name": "selinux",
+        "description": "This is the upstream repository for the Security Enhanced Linux (SELinux) userland libraries and tools. The software provided by this project complements the SELinux features integrated into the Linux kernel and is used by Linux distributions. All bugs and patches should be submitted to selinux@vger.kernel.org",
+        "languages": {
+            "C": 5496000,
+            "Python": 1211386,
+            "Roff": 388775,
+            "SWIG": 86194,
+            "Makefile": 80475,
+            "Shell": 64084,
+            "Yacc": 50767,
+            "Lex": 15276
+        }
+    },
+    {
+        "name": "big-sur-micropatcher",
+        "description": "A primitive USB patcher for installing macOS Big Sur on unsupported Macs",
+        "languages": {
+            "Shell": 78781,
+            "C": 6322,
+            "Objective-C": 2634,
+            "Makefile": 1411
+        }
+    },
+    {
+        "name": "PatchTST",
+        "description": "An offical implementation of PatchTST: \"A Time Series is Worth 64 Words: Long-term Forecasting with Transformers.\" (ICLR 2023) https://arxiv.org/abs/2211.14730",
+        "languages": {
+            "Python": 566536,
+            "Shell": 70417
+        }
+    },
+    {
+        "name": "java-diff-utils",
+        "description": "Diff Utils library is an OpenSource library for performing the comparison / diff operations between texts or some kind of data: computing diffs, applying patches, generating unified diffs or parsing them, generating diff output for easy future displaying (like side-by-side view) and so on.",
+        "languages": {
+            "Java": 289534,
+            "Shell": 18161
+        }
+    },
+    {
+        "name": "vmware-tools-patches",
+        "description": "Patch and build VMware tools automatically",
+        "languages": {
+            "Shell": 17640,
+            "Makefile": 33
+        }
+    },
+    {
+        "name": "freeciv",
+        "description": "Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization. Upstream repository for the standalone Freeciv client and server. Report bugs and submit patches at https://osdn.net/projects/freeciv/ticket/",
+        "languages": {
+            "C": 20854353,
+            "C++": 1657610,
+            "Python": 589412,
+            "M4": 321792,
+            "Shell": 210191,
+            "Makefile": 179536,
+            "Meson": 130124,
+            "Lua": 79579,
+            "Ruby": 31854,
+            "CSS": 10680,
+            "Perl": 9286,
+            "Batchfile": 2974
+        }
+    },
+    {
+        "name": "patchwork",
+        "description": "All the Git-it Workshop completers! ",
+        "languages": {
+            "Rich Text Format": 59220,
+            "HTML": 22959,
+            "CSS": 5146,
+            "Handlebars": 3092,
+            "Python": 46,
+            "C": 28
+        }
+    },
+    {
+        "name": "pixel-volte-patch",
+        "description": "Pixel IMS: Rootless replacement for Tensor Pixel VoLTE patch",
+        "languages": {
+            "Kotlin": 131879,
+            "AIDL": 425
+        }
+    },
+    {
+        "name": "dwm-flexipatch",
+        "description": "A dwm build with preprocessor directives to decide which patches to include during build time",
+        "languages": {
+            "C": 720429,
+            "Roff": 5057,
+            "Makefile": 3884,
+            "Shell": 2205
+        }
+    },
+    {
+        "name": "ambiguous-png-packer",
+        "description": "Craft PNG files that appear completely different in Apple software [NOW PATCHED]",
+        "languages": {
+            "Python": 4832
+        }
+    },
+    {
+        "name": "kernel-tutorial",
+        "description": "Basic \"How to write a Linux kernel patch and submit it\" tutorial",
+        "languages": {}
+    },
+    {
+        "name": "convmixer",
+        "description": "Implementation of ConvMixer for \"Patches Are All You Need? \ud83e\udd37\"",
+        "languages": {
+            "Python": 1674244,
+            "JavaScript": 162,
+            "Shell": 108
+        }
+    },
+    {
+        "name": "thinkpad-ec",
+        "description": "Infrastructure for examining and patching Thinkpad embedded controller firmware",
+        "languages": {
+            "Perl": 60821,
+            "Roff": 35941,
+            "Makefile": 23670,
+            "Assembly": 11998,
+            "Shell": 4429
+        }
+    },
+    {
+        "name": "HotPatcher",
+        "description": "Unreal Engine hot update manage and package plugin.",
+        "languages": {
+            "C++": 888193,
+            "C": 95249,
+            "C#": 13711
+        }
+    },
+    {
+        "name": "attachment_fu",
+        "description": "Treat an ActiveRecord model as a file attachment, storing its patch, size, content type, etc.",
+        "languages": {
+            "Ruby": 132960
+        }
+    },
+    {
+        "name": "purge-wrangler",
+        "description": "AMD & NVIDIA eGPUs for all Thunderbolt Macs.",
+        "languages": {
+            "Shell": 50797
+        }
+    },
+    {
+        "name": "BrcmPatchRAM",
+        "description": null,
+        "languages": {
+            "C++": 153936,
+            "Ruby": 11645,
+            "C": 5221,
+            "Shell": 3538
+        }
+    },
+    {
+        "name": "mac-pixel-clock-patch-V2",
+        "description": null,
+        "languages": {
+            "Shell": 43596
+        }
+    },
+    {
+        "name": "9-Patch-Resizer",
+        "description": "A resizer tool to automaticaly resize png files and 9 patches in several densities",
+        "languages": {
+            "Java": 102063
+        }
+    },
+    {
+        "name": "json-patch",
+        "description": "A Go library to apply RFC6902 patches and create and apply RFC7386 patches",
+        "languages": {
+            "Go": 399472
+        }
+    },
+    {
+        "name": "NetLogo",
+        "description": "turtles, patches, and links for kids, teachers, and scientists",
+        "languages": {
+            "HTML": 5814019,
+            "Scala": 5143496,
+            "Java": 1491312,
+            "Mustache": 1092835,
+            "NetLogo": 80263,
+            "XSLT": 35998,
+            "Shell": 10594,
+            "CSS": 6195
+        }
+    },
+    {
+        "name": "Raspberry-Pi-Looper-synth-drum-thing",
+        "description": "My first venture into raspberry pi stuff. Running a custom pure data patch I've been working on for a couple years on a Raspberry Pi 3. This project took a couple months and I'm still tweaking stuff here and there but it's pretty much complete, it even survived it's first live show!",
+        "languages": {
+            "C++": 34831
+        }
+    },
+    {
+        "name": "BDFProxy",
+        "description": "Patch Binaries via MITM: BackdoorFactory + mitmProxy.  ",
+        "languages": {
+            "Python": 41396,
+            "Shell": 5467
+        }
+    },
+    {
+        "name": "icons-in-terminal",
+        "description": "Use any fonts in the terminal without replacing or patching ",
+        "languages": {
+            "Shell": 463200,
+            "Emacs Lisp": 147112,
+            "C": 132420,
+            "Python": 6011
+        }
+    },
+    {
+        "name": "powertop",
+        "description": "The Linux PowerTOP tool  -- please post patches to the mailing list instead of using github pull requests",
+        "languages": {
+            "C++": 508426,
+            "C": 109505,
+            "CSS": 4302,
+            "M4": 4141,
+            "Makefile": 4068,
+            "Shell": 2988
+        }
+    },
+    {
+        "name": "SigFlip",
+        "description": "SigFlip is a tool for patching authenticode signed PE files (exe, dll, sys ..etc) without invalidating or breaking the existing signature.",
+        "languages": {
+            "C#": 52115,
+            "C": 37638,
+            "C++": 24384,
+            "Go": 7975
+        }
+    },
+    {
+        "name": "shadow4android",
+        "description": "Android 9-patch shadow generator",
+        "languages": {
+            "JavaScript": 33351,
+            "HTML": 20521,
+            "CSS": 1118
+        }
+    },
+    {
+        "name": "VideoStation-FFMPEG-Patcher",
+        "description": "Patcher to enable DTS, EAC3 and TrueHD support to Synology VideoStation (from DSM 6.2 to DSM 7.0 and above ; ffmpeg4, 5, 6 ready)",
+        "languages": {
+            "Shell": 18172
+        }
+    },
+    {
+        "name": "Diff.swift",
+        "description": "The fastest Diff and patch library in Swift. Includes UICollectionView/UITableView utils.",
+        "languages": {
+            "Swift": 132418,
+            "Ruby": 973,
+            "Objective-C": 522,
+            "Shell": 444
+        }
+    },
+    {
+        "name": "Mercury",
+        "description": "Firefox fork with compiler optimizations and patches from Librewolf, Waterfox, and GNU IceCat.",
+        "languages": {
+            "JavaScript": 370215,
+            "Python": 347570,
+            "C++": 108648,
+            "HTML": 73183,
+            "NSIS": 46070,
+            "Shell": 23480,
+            "Fluent": 4890,
+            "Makefile": 4633,
+            "CSS": 2312,
+            "Batchfile": 65
+        }
+    },
+    {
+        "name": "XPS9350-macOS",
+        "description": "macOS patches for Dell XPS 13 9350 (Skylake)",
+        "languages": {
+            "Shell": 100961,
+            "C": 57247,
+            "Objective-C": 50500,
+            "C++": 39816
+        }
+    },
+    {
+        "name": "e9patch",
+        "description": "A powerful static binary rewriting tool",
+        "languages": {
+            "C++": 1097862,
+            "C": 16558,
+            "Shell": 14762,
+            "Assembly": 11595,
+            "Makefile": 4445,
+            "Batchfile": 92
+        }
+    },
+    {
+        "name": "UnrealTournamentPatches",
+        "description": null,
+        "languages": {}
+    },
+    {
+        "name": "WebPd",
+        "description": "Run your Pure Data patches on the web.",
+        "languages": {
+            "TypeScript": 1025546,
+            "JavaScript": 185651,
+            "ActionScript": 26217,
+            "HTML": 5383
+        }
+    },
+    {
+        "name": "PatchFusion",
+        "description": "[CVPR 2024] An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation",
+        "languages": {
+            "Python": 225128,
+            "Shell": 493
+        }
+    },
+    {
+        "name": "pyment",
+        "description": "Format and convert Python docstrings and generates patches",
+        "languages": {
+            "Python": 178866
+        }
+    },
+    {
+        "name": "Camomile",
+        "description": "An audio plugin with Pure Data embedded that allows to load and to control patches",
+        "languages": {
+            "C++": 577931,
+            "C": 270765,
+            "CMake": 31264,
+            "Shell": 18155
+        }
+    },
+    {
+        "name": "similar",
+        "description": "A high level diffing library for rust based on diffs",
+        "languages": {
+            "Rust": 178959,
+            "Makefile": 486
+        }
+    },
+    {
+        "name": "CVE-2021-44228-Scanner",
+        "description": "Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228",
+        "languages": {
+            "Java": 133863
+        }
+    },
+    {
+        "name": "magento-lts",
+        "description": "Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.",
+        "languages": {
+            "PHP": 28814090,
+            "HTML": 4051060,
+            "JavaScript": 1157343,
+            "CSS": 491401,
+            "SCSS": 344560,
+            "Shell": 15397,
+            "Ruby": 288
+        }
+    },
+    {
+        "name": "OCCT",
+        "description": "Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE. This is a clone of the official repository located on https://dev.opencascade.org/. Please use official development portal for registering issues and providing patches.",
+        "languages": {
+            "C++": 87880409,
+            "C": 1021527,
+            "Tcl": 628135,
+            "CMake": 472928,
+            "GLSL": 114737,
+            "Objective-C++": 69710,
+            "Batchfile": 57892,
+            "Shell": 49048,
+            "F#": 35114,
+            "Forth": 32002,
+            "Yacc": 31076,
+            "Lex": 17244,
+            "QMake": 14163,
+            "HTML": 3629,
+            "TeX": 3502
+        }
+    },
+    {
+        "name": "WaxPatch",
+        "description": "Dynamically load a lua script to change the behavior of your iOS application.",
+        "languages": {
+            "C": 915198,
+            "Objective-C": 151626,
+            "C++": 8218,
+            "Lua": 414,
+            "Perl": 366
+        }
+    },
+    {
+        "name": "dictdiffer",
+        "description": "Dictdiffer is a module that helps you to diff and patch dictionaries. ",
+        "languages": {
+            "Python": 85537,
+            "Shell": 646
+        }
+    },
+    {
+        "name": "forbiddenfruit",
+        "description": "Patch built-in python objects",
+        "languages": {
+            "Python": 30755,
+            "C": 4407,
+            "Makefile": 1795
+        }
+    },
+    {
+        "name": "flashrom",
+        "description": "Send patches to https://review.coreboot.org: https://www.flashrom.org/Development_Guidelines#GitHub",
+        "languages": {
+            "C": 2471341,
+            "Rust": 138246,
+            "Shell": 54152,
+            "Makefile": 42441,
+            "Meson": 31599,
+            "Dockerfile": 813,
+            "Nix": 192
+        }
+    },
+    {
+        "name": "md380tools",
+        "description": "Python tools and patched firmware for the TYT-MD380",
+        "languages": {
+            "C": 3365646,
+            "R": 407663,
+            "Python": 338232,
+            "JavaScript": 137710,
+            "Assembly": 47568,
+            "Makefile": 22616,
+            "TeX": 4844,
+            "Awk": 2543,
+            "Shell": 2066,
+            "Batchfile": 764,
+            "Nix": 726,
+            "Rebol": 13
+        }
+    },
+    {
+        "name": "Menlo-for-Powerline",
+        "description": "Menlo font patched to work with Powerline",
+        "languages": {}
+    },
+    {
+        "name": "BetterSafetyKatz",
+        "description": "Fork of SafetyKatz that dynamically fetches the latest pre-compiled release of Mimikatz directly from gentilkiwi GitHub repo, runtime patches signatures and uses SharpSploit DInvoke to PE-Load into memory.",
+        "languages": {
+            "C#": 252437
+        }
+    },
+    {
+        "name": "copacetic",
+        "description": "\ud83e\uddf5 CLI tool for directly patching container images using reports from vulnerability scanners",
+        "languages": {
+            "Go": 155662,
+            "Makefile": 5872,
+            "JavaScript": 3827,
+            "CSS": 2968,
+            "Open Policy Agent": 225
+        }
+    },
+    {
+        "name": "UPMetroSkin",
+        "description": "This non-official addon for Metro for Steam fixes bugs with the current version and adds optional content for you to choose from.",
+        "languages": {
+            "ReScript": 125760,
+            "Rich Text Format": 125387,
+            "CSS": 16094
+        }
+    },
+    {
+        "name": "EU4dll",
+        "description": "Europa Universalis IV double byte language patch; master:1.34.2, dev:1.36.2.0",
+        "languages": {
+            "C++": 548740,
+            "Assembly": 66012,
+            "C": 3548,
+            "Batchfile": 176
+        }
+    },
+    {
+        "name": "patching",
+        "description": "An Interactive Binary Patching Plugin for IDA Pro",
+        "languages": {
+            "Python": 177659
+        }
+    },
+    {
+        "name": "NetLoader",
+        "description": "Loads any C# binary in mem, patching AMSI + ETW. ",
+        "languages": {
+            "C#": 15509
+        }
+    },
+    {
+        "name": "CXPatcher",
+        "description": "A patcher to upgrade Crossover dependencies and improve compatibility",
+        "languages": {
+            "Swift": 58832,
+            "Rich Text Format": 35608
+        }
+    },
+    {
+        "name": "jd",
+        "description": "JSON diff and patch",
+        "languages": {
+            "Go": 264484,
+            "HTML": 5203,
+            "Makefile": 2782,
+            "Dockerfile": 295
+        }
+    },
+    {
+        "name": "Win11DisableRoundedCorners",
+        "description": "A simple utility that cold patches dwm (uDWM.dll) in order to disable window rounded corners in Windows 11",
+        "languages": {
+            "C": 7736
+        }
+    },
+    {
+        "name": "tinyengine",
+        "description": "[NeurIPS 2020] MCUNet: Tiny Deep Learning on IoT Devices; [NeurIPS 2021] MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning; [NeurIPS 2022] MCUNetV3: On-Device Training Under 256KB Memory",
+        "languages": {
+            "C": 24119573,
+            "Makefile": 1533824,
+            "Python": 714652,
+            "HTML": 573668,
+            "C++": 259910,
+            "Assembly": 56744,
+            "Cuda": 3105,
+            "Shell": 2756,
+            "Starlark": 2164
+        }
+    },
+    {
+        "name": "snuffleupagus",
+        "description": "Security module for php7 and php8 - Killing bugclasses and virtual-patching the rest!",
+        "languages": {
+            "PHP": 274138,
+            "C": 273337,
+            "C++": 10792,
+            "Makefile": 3960,
+            "M4": 2406,
+            "Python": 1070,
+            "Shell": 59
+        }
+    },
+    {
+        "name": "Vanadium",
+        "description": "Privacy and security enhanced releases of Chromium for GrapheneOS. Vanadium provides the WebView and standard user-facing browser on GrapheneOS. It depends on hardening in other GrapheneOS repositories and doesn't include patches not relevant to the build targets used on GrapheneOS.",
+        "languages": {
+            "Shell": 653
+        }
+    },
+    {
+        "name": "advcpmv",
+        "description": "A patch for GNU Core Utilities cp, mv to add progress bars",
+        "languages": {
+            "Shell": 581
+        }
+    },
+    {
+        "name": "mc-cnn",
+        "description": "Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches",
+        "languages": {
+            "Cuda": 66210,
+            "Lua": 62728,
+            "Python": 29132,
+            "Shell": 2028,
+            "C++": 1526,
+            "Protocol Buffer": 576
+        }
+    },
+    {
+        "name": "KK-HF_Patch",
+        "description": "Automatically translate, uncensor and update Koikatu! and Koikatsu Party!",
+        "languages": {
+            "Inno Setup": 154138,
+            "C#": 68870,
+            "Rich Text Format": 17828
+        }
+    },
+    {
+        "name": "discord-bot-client",
+        "description": "A patched version of discord, with bot login support",
+        "languages": {
+            "HTML": 34030,
+            "JavaScript": 5206
+        }
+    },
+    {
+        "name": "Laptop-DSDT-Patch",
+        "description": "Common DSDT patches for Ivy/Sandy/Haswell laptops for running OS X",
+        "languages": {}
+    },
+    {
+        "name": "project-restoration",
+        "description": "A Majora's Mask 3D patch that restores some mechanics from the original game to get the best of both worlds",
+        "languages": {
+            "C++": 431751,
+            "CMake": 5894,
+            "Assembly": 3613,
+            "Shell": 3171,
+            "C": 1005,
+            "Makefile": 780,
+            "Python": 371
+        }
+    },
+    {
+        "name": "CaptainHook",
+        "description": "Common hooking/monkey patching headers for Objective-C on Mac OS X and iPhone OS. MIT licensed",
+        "languages": {
+            "Objective-C": 65285
+        }
+    },
+    {
+        "name": "PatchMatchStereo",
+        "description": "PatchMatchStereo\uff0c\u503e\u659c\u7a97\u53e3\u7ecf\u5178\uff0c\u6548\u679c\u6781\u4f73\uff0cOpenMVS&Colmap\u7a20\u5bc6\u5339\u914d\u7b97\u6cd5\u3002\u5b8c\u6574\u5b9e\u73b0\uff0c\u4ee3\u7801\u89c4\u8303\uff0c\u6ce8\u91ca\u6e05\u6670\uff0c\u535a\u5ba2\u6559\u5b66\uff0c\u6b22\u8fcestar\uff01",
+        "languages": {
+            "C++": 52748,
+            "C": 611
+        }
+    },
+    {
+        "name": "jsoncons",
+        "description": "A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSON Schema, JSONPath, JMESPath, CSV, MessagePack, CBOR, BSON, UBJSON",
+        "languages": {
+            "C++": 4375542,
+            "CMake": 19786,
+            "Shell": 2759
+        }
+    },
+    {
+        "name": "SidecarPatcher",
+        "description": "Enables Sidecar on old Mac and iPad for macOS 10.15",
+        "languages": {
+            "Swift": 10296
+        }
+    },
+    {
+        "name": "MCPELauncher",
+        "description": "Source code for BlockLauncher, a launcher that patches Minecraft for Android",
+        "languages": {
+            "Java": 617852,
+            "C++": 399113,
+            "Assembly": 138746,
+            "C": 79553,
+            "Python": 16530,
+            "Shell": 10837,
+            "Makefile": 3585,
+            "Objective-C": 428
+        }
+    },
+    {
+        "name": "i3-extras",
+        "description": "Repository to keep patches and extras for i3 window manager.",
+        "languages": {
+            "Shell": 6024,
+            "Python": 3489
+        }
+    },
+    {
+        "name": "SFMono-Nerd-Font-Ligaturized",
+        "description": "Apple's SFMono font nerd-font patched and ligaturized ",
+        "languages": {}
+    },
+    {
+        "name": "nest_asyncio",
+        "description": "Patch asyncio to allow nested event loops",
+        "languages": {
+            "Python": 10534,
+            "Shell": 113
+        }
+    },
+    {
+        "name": "revanced-integrations",
+        "description": "\ud83d\udd29 ReVanced Integrations containing classes to be merged by ReVanced Patcher",
+        "languages": {
+            "Java": 784163,
+            "Kotlin": 74690
+        }
+    },
+    {
+        "name": "BiliRoamingX",
+        "description": "BiliRoamingX integrations and patches powered by ReVanced.",
+        "languages": {
+            "Java": 15432596,
+            "Kotlin": 891655
+        }
+    },
+    {
+        "name": "play-button-itunes-patch",
+        "description": "Play Button iTunes Patch",
+        "languages": {
+            "Objective-C": 53066,
+            "Shell": 5820,
+            "HTML": 1569,
+            "Python": 1335,
+            "Ruby": 248
+        }
+    },
+    {
+        "name": "ESXi-Customizer-PS",
+        "description": "PowerCLI script that greatly simplifies and automates the process of creating fully patched and customized VMware ESXi installation images",
+        "languages": {
+            "PowerShell": 23649
+        }
+    },
+    {
+        "name": "go-mod-outdated",
+        "description": "Find outdated dependencies of your Go projects. go-mod-outdated provides a table view of the go list -u -m -json all command which lists all dependencies of a Go project and their available minor and patch updates. It also provides a way to filter indirect dependencies and dependencies without updates.",
+        "languages": {
+            "Go": 15451,
+            "Dockerfile": 228,
+            "Makefile": 92
+        }
+    },
+    {
+        "name": "WSLHostPatcher",
+        "description": "Dynamic patch WSL2 to listen port on any interface.",
+        "languages": {
+            "C++": 5771,
+            "PowerShell": 58
+        }
+    },
+    {
+        "name": "ts-patch",
+        "description": "Augment the TypeScript compiler to support extended functionality",
+        "languages": {
+            "TypeScript": 163860,
+            "JavaScript": 15283
+        }
+    },
+    {
+        "name": "FaceBagNet",
+        "description": "FaceBagNet - Patch-based Methods for Multi-modal Face Anti-spoofing (FAS)",
+        "languages": {
+            "Python": 99967
+        }
+    },
+    {
+        "name": "WinDiskWriter",
+        "description": "\ud83d\udda5 Windows Bootable USB creator for macOS. \ud83d\udee0 Patches Windows 11 to bypass TPM and Secure Boot requirements. \ud83d\udc7e UEFI & Legacy Support",
+        "languages": {
+            "C": 2075329,
+            "Objective-C": 346645,
+            "C++": 4160
+        }
+    },
+    {
+        "name": "kernel_compiler_patch",
+        "description": "Kernel patch enables compiler optimizations for additional CPUs.",
+        "languages": {}
+    },
+    {
+        "name": "patcher9x",
+        "description": "Patch for Windows 9x to fix CPU issues",
+        "languages": {
+            "C": 703493,
+            "Assembly": 64613,
+            "Makefile": 21682,
+            "Shell": 6020,
+            "Ruby": 1269,
+            "Batchfile": 264
+        }
+    },
+    {
+        "name": "nginx-autoinstall",
+        "description": "Compile NGINX from source with custom modules and patches on Debian and Ubuntu",
+        "languages": {
+            "Shell": 30097,
+            "Dockerfile": 210
+        }
+    },
+    {
+        "name": "openpyn-nordvpn",
+        "description": "Easily connect to and switch between, OpenVPN servers hosted by NordVPN on Linux (+patch leakes)",
+        "languages": {
+            "Python": 141069,
+            "Shell": 14207
+        }
+    },
+    {
+        "name": "json-patch",
+        "description": "An RFC 6902 (JSON Patch) and reverse, plus RFC 7386 (JSON Merge Patch), implementation in Java using Jackson (2.2.x)",
+        "languages": {
+            "Java": 111086,
+            "Shell": 149
+        }
+    },
+    {
+        "name": "patchkit",
+        "description": "binary patching from Python",
+        "languages": {
+            "C": 613102,
+            "Python": 130983,
+            "Shell": 1725,
+            "C++": 1185,
+            "Makefile": 389
+        }
+    },
+    {
+        "name": "json-joy",
+        "description": "JSON CRDT, JSON CRDT Patch, JSON Patch+, JSON Predicate, CBOR, MessagePack, UBJSON, JSON Reactive RPC, JSON-RPC 2.0, JSON Pointer, JSON Expression, JSON Type",
+        "languages": {
+            "TypeScript": 2412384,
+            "JavaScript": 104005
+        }
+    },
+    {
+        "name": "AirportBrcmFixup",
+        "description": "An open source kernel extension providing a set of patches required for non-native Airport Broadcom Wi-Fi cards.",
+        "languages": {
+            "C++": 49504
+        }
+    },
+    {
+        "name": "patchcore-inspection",
+        "description": null,
+        "languages": {
+            "Python": 91646,
+            "Shell": 5909
+        }
+    },
+    {
+        "name": "Synology_Photos_Face_Patch",
+        "description": "Synology Photos Facial Recognition Patch",
+        "languages": {
+            "Shell": 5945,
+            "C": 716
+        }
+    },
+    {
+        "name": "jiff",
+        "description": "JSON Patch and diff based on rfc6902",
+        "languages": {
+            "JavaScript": 63092
+        }
+    },
+    {
+        "name": "patchrom_miui",
+        "description": "The miui resources, apks, framework jars and the modified framework source code",
+        "languages": {}
+    },
+    {
+        "name": "x1c6-hackintosh",
+        "description": "READMEs, OpenCore configurations, patches, and notes for the Thinkpad X1 Carbon 6th Gen 2018 Hackintosh ",
+        "languages": {
+            "ASL": 15489720,
+            "HTML": 1878,
+            "Shell": 1367
+        }
+    },
+    {
+        "name": "pywikibot",
+        "description": "A Python library that interfaces with the MediaWiki API. This is a mirror from gerrit.wikimedia.org. Do not submit any patches here. See https://www.mediawiki.org/wiki/Developer_account for contributing.",
+        "languages": {
+            "Python": 5090766,
+            "HTML": 1365,
+            "Dockerfile": 217,
+            "Roff": 108
+        }
+    },
+    {
+        "name": "Few-Shot-Patch-Based-Training",
+        "description": "The official implementation of our SIGGRAPH 2020 paper Interactive Video Stylization Using Few-Shot Patch-Based Training",
+        "languages": {
+            "C++": 4820540,
+            "C": 322308,
+            "Python": 61039,
+            "Objective-C": 7449,
+            "Batchfile": 3212
+        }
+    },
+    {
+        "name": "server-edition",
+        "description": "A server-optimized Ruby distribution: less memory, faster, easy to install and security-patch via APT/YUM",
+        "languages": {
+            "Shell": 126700,
+            "Ruby": 80599,
+            "Dockerfile": 19644,
+            "C++": 590
+        }
+    },
+    {
+        "name": "RomPatcher.js",
+        "description": "An IPS/UPS/APS/BPS/RUP/PPF/xdelta ROM patcher made in HTML5.",
+        "languages": {
+            "JavaScript": 129638,
+            "HTML": 10261,
+            "CSS": 8430
+        }
+    },
+    {
+        "name": "KnoxPatch",
+        "description": "LSPosed module to get Samsung apps/features working again in your rooted Galaxy device.",
+        "languages": {
+            "Kotlin": 58737,
+            "Java": 10529,
+            "Shell": 9606
+        }
+    },
+    {
+        "name": "openwrt-hc5x61",
+        "description": "OpenWrt Patch for HiWiFi HC5661 / HC5761 / HC5861",
+        "languages": {
+            "C": 230657,
+            "Lua": 60456,
+            "Makefile": 21854,
+            "Shell": 21734,
+            "C++": 2599
+        }
+    },
+    {
+        "name": "Salsa-tools",
+        "description": "Salsa Tools - ShellReverse TCP/UDP/ICMP/DNS/SSL/BINDTCP/Shellcode/SILENTTRINITY and AV bypass, AMSI patched",
+        "languages": {
+            "C#": 247280,
+            "Python": 20331
+        }
+    },
+    {
+        "name": "TikTokMassBotting",
+        "description": "TikTok Mass View & Share Boting ~ Patched",
+        "languages": {
+            "Python": 1100640
+        }
+    },
+    {
+        "name": "Seil",
+        "description": "Seil (PCKeyboardHack) applies a patch to a keyboard driver. You can change CapsLock behavior, and activate dead keys on non-Apple keyboard.  ",
+        "languages": {
+            "Objective-C": 82931,
+            "C++": 48666,
+            "Shell": 20147,
+            "C": 12461,
+            "Ruby": 6708,
+            "Makefile": 3466,
+            "AppleScript": 792
+        }
+    },
+    {
+        "name": "NexusForever",
+        "description": "An emulator for the defunct MMORPG WildStar which supports build 16042 (Final Patch)",
+        "languages": {
+            "C#": 3674549,
+            "HTML": 5876,
+            "Shell": 4984
+        }
+    },
+    {
+        "name": "mutter-rounded",
+        "description": "A window manager for GNOME, with rounded corners patch",
+        "languages": {
+            "C": 16604,
+            "Shell": 4953
+        }
+    },
+    {
+        "name": "ultramysql",
+        "description": "A fast MySQL driver written in pure C/C++ for Python. Compatible with gevent through monkey patching.",
+        "languages": {
+            "C": 81248,
+            "C++": 52248,
+            "Python": 38789
+        }
+    },
+    {
+        "name": "Navicat_Keygen_Patch",
+        "description": "Navicat Keygen Patch/Navicat Cracker for 16 , warning , its for trial only ,please delete it within 12 hours.",
+        "languages": {
+            "Batchfile": 490
+        }
+    },
+    {
+        "name": "sdks",
+        "description": "Patched sdks that include private framework tbds",
+        "languages": {
+            "C": 181103445,
+            "Objective-C": 129965170,
+            "C++": 36475355,
+            "Python": 20379,
+            "Shell": 9149,
+            "CMake": 1014
+        }
+    },
+    {
+        "name": "UnityAndroidIl2cppPatchDemo",
+        "description": "\u8fd9\u662fUnity Android APP il2cpp\u70ed\u66f4\u5b8c\u7f8e\u89e3\u51b3\u65b9\u6848\u7684Demo\u3002\u66f4\u65b0build_demo_apk\u91cc\u7684Unity\u8def\u5f84\uff0c\u6267\u884c\u5373\u53ef\u4e00\u952e\u91cdbuild Patch\u548capk\u3002\u56e0\u4e3a\u6587\u4ef6libunity\u662f\u6ca1\u6709\u70ed\u66f4\u7684\uff0c\u5982unity\u7248\u672c\u6709\u53d8\u5316\u5219\u70ed\u66f4\u4e0d\u9002\u7528\u3002",
+        "languages": {
+            "C#": 47369,
+            "Batchfile": 16572,
+            "Java": 330
+        }
+    },
+    {
+        "name": "xst",
+        "description": "st fork that uses Xresources and some pretty good patches",
+        "languages": {
+            "C": 223740,
+            "Roff": 3581,
+            "Makefile": 2627,
+            "Nix": 161
+        }
+    },
+    {
+        "name": "thcrap",
+        "description": "Touhou Community Reliant Automatic Patcher",
+        "languages": {
+            "C++": 1278890,
+            "C": 151027,
+            "C#": 83772,
+            "Makefile": 14268,
+            "Assembly": 12207,
+            "Shell": 11683,
+            "Python": 9001,
+            "Batchfile": 465
+        }
+    },
+    {
+        "name": "OpenTTD-patches",
+        "description": "OpenTTD - http://www.openttd.org/ - with additional patches",
+        "languages": {
+            "C++": 16007786,
+            "C": 1587350,
+            "CMake": 223523,
+            "Squirrel": 158351,
+            "Objective-C++": 81102,
+            "HTML": 13769,
+            "Shell": 9333,
+            "Objective-C": 8813,
+            "Awk": 6317,
+            "PowerShell": 4889,
+            "JavaScript": 4463,
+            "Perl": 2615,
+            "Batchfile": 1304,
+            "Dockerfile": 127
+        }
+    },
+    {
+        "name": "archive-patcher",
+        "description": "Automatically exported from code.google.com/p/archive-patcher",
+        "languages": {
+            "Java": 806012
+        }
+    },
+    {
+        "name": "qemu-anti-detection",
+        "description": "A patch to hide qemu itself, bypass mhyprot,EAC,nProtect / VMProtect,VProtect, Themida, Enigma Protector,Safegine Shielden",
+        "languages": {}
+    },
+    {
+        "name": "DualBootPatcher",
+        "description": "Patches Android ROMs for dual boot support",
+        "languages": {
+            "C++": 3219049,
+            "Kotlin": 844148,
+            "C": 274253,
+            "Java": 201478,
+            "CMake": 151733,
+            "Roff": 24389,
+            "Shell": 9092,
+            "Assembly": 3441,
+            "Objective-C": 1931
+        }
+    },
+    {
+        "name": "gojsondiff",
+        "description": "Go JSON Diff",
+        "languages": {
+            "Go": 51229,
+            "Makefile": 111
+        }
+    },
+    {
+        "name": "mobx-keystone",
+        "description": "A MobX powered state management solution based on data trees with first class support for Typescript, support for snapshots, patches and much more",
+        "languages": {
+            "TypeScript": 1065607,
+            "MDX": 147120,
+            "JavaScript": 5421,
+            "CSS": 1159
+        }
+    },
+    {
+        "name": "patchwork-plusplus",
+        "description": "Patchwork++: Fast and robust ground segmentation method for 3D LiDAR scans. @ IROS'22",
+        "languages": {
+            "C++": 35217,
+            "CMake": 3872,
+            "Shell": 666
+        }
+    },
+    {
+        "name": "zjsonpatch",
+        "description": "This is an implementation of RFC 6902 JSON Patch written in Java",
+        "languages": {
+            "Java": 118174
+        }
+    },
+    {
+        "name": "apheleia",
+        "description": "\ud83c\udf37 Run code formatter on buffer contents without moving point, using RCS patches and dynamic programming.",
+        "languages": {
+            "Emacs Lisp": 126491,
+            "Shell": 18487,
+            "CMake": 6813,
+            "Makefile": 4303,
+            "Python": 3772,
+            "Ruby": 2700,
+            "Assembly": 2054,
+            "Raku": 1604,
+            "Haskell": 1289,
+            "JavaScript": 1141,
+            "TypeScript": 1108,
+            "Clojure": 956,
+            "HTML": 922,
+            "Dart": 793,
+            "Go": 787,
+            "RobotFramework": 783,
+            "Dockerfile": 737,
+            "SCSS": 662,
+            "Dhall": 641,
+            "C": 607,
+            "Lua": 587,
+            "HCL": 525,
+            "Svelte": 518,
+            "CSS": 506,
+            "Nix": 495,
+            "Awk": 452,
+            "TeX": 385,
+            "Rust": 346,
+            "PureScript": 320,
+            "Java": 303,
+            "OCaml": 289,
+            "Crystal": 258,
+            "Elm": 133,
+            "Kotlin": 121,
+            "Erlang": 96,
+            "PHP": 87
+        }
+    },
+    {
+        "name": "edisyn",
+        "description": "Synthesizer Patch Editor",
+        "languages": {
+            "Java": 8370656,
+            "HTML": 323025,
+            "Makefile": 2121,
+            "C": 621
+        }
+    },
+    {
+        "name": "FlashPatch",
+        "description": "FlashPatch! Play Adobe Flash Player games in the browser after January 12th, 2021.",
+        "languages": {
+            "C#": 448556
+        }
+    },
+    {
+        "name": "Patch-NetVLAD",
+        "description": "Code for the CVPR2021 paper \"Patch-NetVLAD: Multi-Scale Fusion of Locally-Global Descriptors for Place Recognition\"",
+        "languages": {
+            "Python": 143749
+        }
+    },
+    {
+        "name": "patchrom",
+        "description": "Use disassemble/assemble technology to porting miui to misc android devices",
+        "languages": {}
+    },
+    {
+        "name": "DiscordBotClient",
+        "description": "A patched version of discord, with bot login & Vencord support",
+        "languages": {
+            "JavaScript": 472803,
+            "HTML": 28596,
+            "CSS": 798
+        }
+    },
+    {
+        "name": "PatchmatchNet",
+        "description": "Official code of PatchmatchNet (CVPR 2021 Oral)",
+        "languages": {
+            "Python": 159941,
+            "MATLAB": 28073,
+            "Shell": 1954
+        }
+    },
+    {
+        "name": "android-materialshadowninepatch",
+        "description": "Provides 9-patch based drop shadow for view elements. Works on API level 9 or later.",
+        "languages": {
+            "Java": 61371,
+            "Shell": 14703,
+            "Python": 1396
+        }
+    },
+    {
+        "name": "NetherSX2-patch",
+        "description": "Unofficial Patches for NetherSX2",
+        "languages": {
+            "HTML": 104344,
+            "Batchfile": 16619,
+            "Shell": 11682,
+            "Python": 1635
+        }
+    },
+    {
+        "name": "ytdl-patched",
+        "description": "yt-dlp fork with some more features",
+        "languages": {
+            "Python": 9587676,
+            "Makefile": 6689,
+            "Shell": 2872,
+            "Dockerfile": 2451,
+            "PowerShell": 1284,
+            "Batchfile": 394
+        }
+    },
+    {
+        "name": "USBHelperLauncher",
+        "description": "USBHelperLauncher restores and enhances Wii U USB Helper functionality by patching it at runtime and intercepting its network requests.",
+        "languages": {
+            "C#": 242296
+        }
+    },
+    {
+        "name": "SF-Mono-Powerline",
+        "description": "\ud83c\udf01 Apple's SF Mono font patched for Powerline support",
+        "languages": {}
     }
 ]

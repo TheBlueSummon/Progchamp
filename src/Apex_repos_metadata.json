@@ -43,5 +43,1586 @@
         "languages": {
             "Apex": 1201045
         }
+    },
+    {
+        "name": "NPSP",
+        "description": "The current version of the Salesforce.org Nonprofit Success Pack",
+        "languages": {
+            "Apex": 14297478,
+            "JavaScript": 2441252,
+            "HTML": 973244,
+            "RobotFramework": 558735,
+            "Python": 318297,
+            "CSS": 78268,
+            "Shell": 15574
+        }
+    },
+    {
+        "name": "NebulaLogger",
+        "description": "The most robust logger for Salesforce. Works with Apex, Lightning Components, Flow, Process Builder & Integrations. Designed for Salesforce admins, developers & architects.",
+        "languages": {
+            "Apex": 2368189,
+            "JavaScript": 329047,
+            "HTML": 83658,
+            "PowerShell": 25072,
+            "CSS": 7179,
+            "ObjectScript": 656,
+            "Shell": 284
+        }
+    },
+    {
+        "name": "LightningFlowComponents",
+        "description": "A collection of unofficial Flow extensions that can be used to enhance Salesforce Flow and Orchestrator.",
+        "languages": {
+            "Apex": 9025626,
+            "JavaScript": 2450701,
+            "HTML": 779125,
+            "CSS": 34800,
+            "Batchfile": 16330,
+            "Rich Text Format": 5828,
+            "Shell": 3703,
+            "Java": 2157
+        }
+    },
+    {
+        "name": "apex-trigger-actions-framework",
+        "description": "A framework for partitioning, ordering, and bypassing trigger logic for applications built on Salesforce.",
+        "languages": {
+            "Apex": 159663
+        }
+    },
+    {
+        "name": "fflib-apex-mocks",
+        "description": "An Apex mocking framework for true unit testing in Salesforce, with Stub API support",
+        "languages": {
+            "Apex": 481880
+        }
+    },
+    {
+        "name": "automation-components",
+        "description": "Automation Components are a collection of reusable and production-ready extensions that include invocable actions, flow screen components and local actions.",
+        "languages": {
+            "Apex": 337253,
+            "JavaScript": 69943,
+            "HTML": 18941,
+            "Batchfile": 905,
+            "Shell": 864,
+            "CSS": 287
+        }
+    },
+    {
+        "name": "apex-fp",
+        "description": "Functional programming for Salesforce Apex",
+        "languages": {
+            "Apex": 102367,
+            "JavaScript": 6183,
+            "CSS": 964
+        }
+    },
+    {
+        "name": "sfdx-mass-action-scheduler",
+        "description": "\ud83d\ude80 Declaratively schedule Process Builder, Flows, Quick Actions, Email Alerts, Workflow Rules, or Apex to process records from Reports, List Views, SOQL, or Apex.",
+        "languages": {
+            "Apex": 560589,
+            "JavaScript": 170178,
+            "CSS": 6057,
+            "Shell": 2259,
+            "HTML": 1890
+        }
+    },
+    {
+        "name": "SmartFactory-for-Force.com",
+        "description": "Salesforce test data generator fills lookups, master-detail relationships, and required fields. Native Force.com Apex code using dynamic metadata.",
+        "languages": {
+            "Apex": 13539
+        }
+    },
+    {
+        "name": "Apex-Development-Course",
+        "description": null,
+        "languages": {
+            "Apex": 202681,
+            "JavaScript": 123322,
+            "CSS": 11040
+        }
+    },
+    {
+        "name": "Salesforce-Test-Factory",
+        "description": "SObject factory that can be used in unit tests to create test data.",
+        "languages": {
+            "Apex": 9340
+        }
+    },
+    {
+        "name": "force-di",
+        "description": "Generic DI library with support for Apex, Triggers, Visualforce and Lightning",
+        "languages": {
+            "Apex": 147505,
+            "JavaScript": 10157
+        }
+    },
+    {
+        "name": "TestDataFactory",
+        "description": "The ultimate Apex Test Data Factory \ud83c\udfed",
+        "languages": {
+            "Apex": 135776
+        }
+    },
+    {
+        "name": "EDA",
+        "description": "Education Data Architecture",
+        "languages": {
+            "Apex": 7619873,
+            "JavaScript": 434770,
+            "HTML": 259159,
+            "Python": 219195,
+            "RobotFramework": 132383,
+            "CSS": 3728,
+            "Shell": 322
+        }
+    },
+    {
+        "name": "Milestones-PM",
+        "description": "Lightweight Project and Task Management for Force.com #forcedotcom",
+        "languages": {
+            "Apex": 492024,
+            "JavaScript": 1180
+        }
+    },
+    {
+        "name": "fflib-apex-common-samplecode",
+        "description": "Samples application illustrating the Apex Enterprise Patterns library",
+        "languages": {
+            "Apex": 137895
+        }
+    },
+    {
+        "name": "dreamhouse-sfdx",
+        "description": "Salesforce Sample App part of the sample gallery. Real estate use case. Get inspired and learn best practices.",
+        "languages": {
+            "Apex": 102977,
+            "JavaScript": 50629,
+            "CSS": 12397,
+            "Shell": 1085
+        }
+    },
+    {
+        "name": "apex-rollup",
+        "description": "Fast, configurable, elastically scaling custom rollup solution. Apex Invocable action, one-liner Apex trigger/CMDT-driven logic, and scheduled Apex-ready.",
+        "languages": {
+            "Apex": 1243300,
+            "JavaScript": 55451,
+            "PowerShell": 17654,
+            "HTML": 12701,
+            "Shell": 3358,
+            "CSS": 31
+        }
+    },
+    {
+        "name": "twilio-salesforce",
+        "description": "A Salesforce/Force.com library for communicating with the Twilio REST API and generating TwiML. Need help? Post your questions to http://getsatisfaction.com/twilio or email us at help@twilio.com",
+        "languages": {
+            "Apex": 625737
+        }
+    },
+    {
+        "name": "apex-unified-logging",
+        "description": "Platform-Event-based Apex logger for unified logging over transaction boundaries",
+        "languages": {
+            "Apex": 7527,
+            "JavaScript": 3925,
+            "HTML": 1075,
+            "Shell": 1054
+        }
+    },
+    {
+        "name": "CustomMetadataLoader",
+        "description": "Tool to help users bulk create and update custom metadata records in salesforce.com from a CSV file.",
+        "languages": {
+            "Apex": 925986
+        }
+    },
+    {
+        "name": "rflib",
+        "description": "Salesforce open source library with logging framework, trigger framework, feature switches, and advanced monitoring capabilities",
+        "languages": {
+            "Apex": 527312,
+            "JavaScript": 140129,
+            "HTML": 61334,
+            "CSS": 8933,
+            "Batchfile": 722,
+            "Shell": 90
+        }
+    },
+    {
+        "name": "Salesforce-Lookup-Rollup-Summaries",
+        "description": "Apex utility classes that makes it easy to write trigger that rollup on LOOKUP parent child relationships.",
+        "languages": {
+            "Apex": 63112
+        }
+    },
+    {
+        "name": "sf-evolve-forms",
+        "description": "A forms engine for Salesforce which allows record pages to be much more dynamic than is possible with out of the box features",
+        "languages": {
+            "Apex": 74691,
+            "JavaScript": 64911,
+            "HTML": 38244,
+            "CSS": 3981
+        }
+    },
+    {
+        "name": "ApexTestKit",
+        "description": "A way to simplify your Salesforce data creation and method stubbing.",
+        "languages": {
+            "Apex": 358245,
+            "Shell": 247
+        }
+    },
+    {
+        "name": "Query.apex",
+        "description": "A dynamic SOQL and SOSL query builder on Salesforce.com platform",
+        "languages": {
+            "Apex": 150582
+        }
+    },
+    {
+        "name": "Zippex",
+        "description": "Native Apex Zip library for Salesforce.com",
+        "languages": {
+            "Apex": 74755
+        }
+    },
+    {
+        "name": "apex-toolingapi",
+        "description": "Apex wrapper for the Salesforce Tooling API",
+        "languages": {
+            "Apex": 594879
+        }
+    },
+    {
+        "name": "jsonparse",
+        "description": "Apex JSON parser to make it easier to extract information from nested JSON structures",
+        "languages": {
+            "Apex": 30791
+        }
+    },
+    {
+        "name": "force-dot-com-esapi",
+        "description": "Enterprise Security API for the Apex language on the Force.com platform.",
+        "languages": {
+            "Apex": 332040
+        }
+    },
+    {
+        "name": "visualforce-table-grid",
+        "description": "Flexible and highly customizable Visualforce table grid component. Salesforce.com Classic Look and Feel. ",
+        "languages": {
+            "Apex": 101582
+        }
+    },
+    {
+        "name": "EnhancedLightningGrid",
+        "description": "Component that allows you to sort and filter data within the Lightning Experience. Use as a replacement for a Related List, or create a new grid that shows results from a custom query.",
+        "languages": {
+            "Apex": 196541,
+            "JavaScript": 65597,
+            "CSS": 5049
+        }
+    },
+    {
+        "name": "Forceea-data-factory",
+        "description": "The most advanced and powerful native open-source data factory for Salesforce.",
+        "languages": {
+            "Apex": 1540416,
+            "JavaScript": 6980,
+            "HTML": 1646
+        }
+    },
+    {
+        "name": "df12-apex-enterprise-patterns",
+        "description": "Dreamforce 2012 Session - Applying Enterprise Application Design Patterns on Force.com",
+        "languages": {
+            "Apex": 110597
+        }
+    },
+    {
+        "name": "sfdx-simple",
+        "description": null,
+        "languages": {
+            "Apex": 1562
+        }
+    },
+    {
+        "name": "at4dx",
+        "description": "Advanced Techniques for Salesforce DX Adoption Framework",
+        "languages": {
+            "Apex": 245879
+        }
+    },
+    {
+        "name": "sirono-common",
+        "description": "Common Apex utility classes and frameworks used by Sirono products",
+        "languages": {
+            "Apex": 223705,
+            "JavaScript": 170
+        }
+    },
+    {
+        "name": "df12-deployment-tools",
+        "description": null,
+        "languages": {
+            "Apex": 1074
+        }
+    },
+    {
+        "name": "sc-trailheadlive",
+        "description": "Demos for Trailhead Live Visualforce sessions",
+        "languages": {
+            "Apex": 87008,
+            "HTML": 1804,
+            "JavaScript": 1260,
+            "ObjectScript": 560
+        }
+    },
+    {
+        "name": "apex-domainbuilder",
+        "description": "Framework to setup Apex test data in a highly flexible and readable way using the Test Data Builder pattern.",
+        "languages": {
+            "Apex": 96835,
+            "Shell": 874
+        }
+    },
+    {
+        "name": "sfdx-travisci",
+        "description": null,
+        "languages": {
+            "Apex": 396
+        }
+    },
+    {
+        "name": "R.apex",
+        "description": "Functional utility library for Apex",
+        "languages": {
+            "Apex": 358492
+        }
+    },
+    {
+        "name": "quiz-host-app",
+        "description": "Multiplayer quiz app built on Salesforce technology (host app)",
+        "languages": {
+            "Apex": 76223,
+            "JavaScript": 22247,
+            "HTML": 11132,
+            "CSS": 2858,
+            "Shell": 2799,
+            "Batchfile": 1436
+        }
+    },
+    {
+        "name": "apex-mockery",
+        "description": "Lightweight mocking library in Apex",
+        "languages": {
+            "Apex": 118984,
+            "Shell": 309,
+            "JavaScript": 67
+        }
+    },
+    {
+        "name": "ConnectApiHelper",
+        "description": "Helper class that makes it easier to post Chatter @-mentions, rich text, and inline images with Apex code.",
+        "languages": {
+            "Apex": 214470
+        }
+    },
+    {
+        "name": "selector",
+        "description": "Filter sObject collections based on declarative criteria.",
+        "languages": {
+            "Apex": 171157
+        }
+    },
+    {
+        "name": "Visualforce-Multiselect-Picklist",
+        "description": null,
+        "languages": {
+            "Apex": 5791
+        }
+    },
+    {
+        "name": "apex-rest-route",
+        "description": "A simple framework for building Restful API on Salesforce",
+        "languages": {
+            "Apex": 24784
+        }
+    },
+    {
+        "name": "Automated-Testing-for-Force.com",
+        "description": "Salesforce testing automation runs all tests and emails your team. Native Force.com Apex code delivers lightweight Salesforce continuous integration.",
+        "languages": {
+            "Apex": 10727
+        }
+    },
+    {
+        "name": "Volunteers-for-Salesforce",
+        "description": "Volunteers for Salesforce managed package",
+        "languages": {
+            "Apex": 771674,
+            "CSS": 10043,
+            "JavaScript": 4729
+        }
+    },
+    {
+        "name": "salesforce-einstein-platform-apex",
+        "description": null,
+        "languages": {
+            "Apex": 162459,
+            "JavaScript": 44990,
+            "CSS": 1465,
+            "Shell": 1391
+        }
+    },
+    {
+        "name": "aws-sdk",
+        "description": "Salesforce APIs for Amazon Web Services",
+        "languages": {
+            "Apex": 347527
+        }
+    },
+    {
+        "name": "promise",
+        "description": null,
+        "languages": {
+            "Apex": 15915
+        }
+    },
+    {
+        "name": "apex-dml-manager",
+        "description": "Enforces CRUD/FLS in the least disruptive way possible",
+        "languages": {
+            "Apex": 35573
+        }
+    },
+    {
+        "name": "amoss",
+        "description": "Amoss - Apex Mock Objects, Spies and Stubs - A Simple Mocking framework for Apex (Salesforce)",
+        "languages": {
+            "Apex": 900593,
+            "Shell": 4649
+        }
+    },
+    {
+        "name": "SObjectFabricator",
+        "description": "An SObject fabrication API to reduce database interactions and dependencies on triggers in Apex unit tests.",
+        "languages": {
+            "Apex": 114072
+        }
+    },
+    {
+        "name": "survey-force",
+        "description": null,
+        "languages": {
+            "Apex": 148385,
+            "CSS": 6224,
+            "JavaScript": 1994,
+            "Shell": 791
+        }
+    },
+    {
+        "name": "Salesforce-Separation-Of-Concerns-And-The-Apex-Common-Library",
+        "description": "This repo hopes to better explain Separation of Concerns for Salesforce and how to leverage the Apex Common library to employ it in your org.",
+        "languages": {
+            "Apex": 866755,
+            "JavaScript": 2029,
+            "HTML": 950,
+            "CSS": 125
+        }
+    },
+    {
+        "name": "processBuilderBlocks",
+        "description": "apex invocable methods for use in Process Builder",
+        "languages": {
+            "Apex": 92843
+        }
+    },
+    {
+        "name": "sfdc-convert-attachments-to-chatter-files",
+        "description": "\ud83d\udcce Easily migrate your Attachments to Salesforce Files.",
+        "languages": {
+            "Apex": 99844
+        }
+    },
+    {
+        "name": "visualforce-typeahead",
+        "description": "A flexible typeahead component for use on Visualforce pages.  Uses the typeahead.js library from Twitter.",
+        "languages": {
+            "Apex": 2373
+        }
+    },
+    {
+        "name": "ApexKit",
+        "description": null,
+        "languages": {
+            "Apex": 455274,
+            "JavaScript": 128397,
+            "HTML": 6840,
+            "Shell": 2560,
+            "CSS": 261
+        }
+    },
+    {
+        "name": "universalmock",
+        "description": "A universal mock class in Apex",
+        "languages": {
+            "Apex": 33922
+        }
+    },
+    {
+        "name": "purealoe",
+        "description": "Salesforce Sample App part of the sample gallery. Agriculture and retail use case. Get inspired and learn best practices.",
+        "languages": {
+            "Apex": 145121,
+            "JavaScript": 31967,
+            "CSS": 6438,
+            "Shell": 1673
+        }
+    },
+    {
+        "name": "sfdc-related-files-lightning",
+        "description": "\ud83d\udd0e View files shared to all related records on one page in Lightning.",
+        "languages": {
+            "Apex": 67516,
+            "JavaScript": 24965,
+            "CSS": 1781
+        }
+    },
+    {
+        "name": "eventlogging",
+        "description": "Logging framework powered by Platform Events",
+        "languages": {
+            "Apex": 5483,
+            "JavaScript": 4141,
+            "CSS": 120
+        }
+    },
+    {
+        "name": "salesforce-limit-monitor",
+        "description": "App for monitoring Salesforce org limits",
+        "languages": {
+            "Apex": 3856
+        }
+    },
+    {
+        "name": "WSDL2Apex",
+        "description": null,
+        "languages": {
+            "Apex": 333320,
+            "Java": 132022
+        }
+    },
+    {
+        "name": "cinnamon",
+        "description": "Cinnamon is a Force.com app that enables you to build and run Selenium tests to validate custom UI pages with Visualforce/Javascript in your Salesforce org.",
+        "languages": {
+            "Apex": 2776,
+            "XML": 2243
+        }
+    },
+    {
+        "name": "ffhttp-core",
+        "description": "Apex framework to provide functionality for HTTP callouts",
+        "languages": {
+            "Apex": 102460,
+            "TeX": 3445
+        }
+    },
+    {
+        "name": "Apex-Opensource-Library",
+        "description": "Salesforce Open Source Library",
+        "languages": {
+            "Apex": 655321,
+            "JavaScript": 9293
+        }
+    },
+    {
+        "name": "apex-dml-mocking",
+        "description": "DML mocking, CRUD mocking, dependency injection framework for Salesforce.com (SFDC) using Apex",
+        "languages": {
+            "Apex": 101991,
+            "PowerShell": 2202
+        }
+    },
+    {
+        "name": "ApexUUID",
+        "description": "A small library to provide UUID generation and validation in Apex",
+        "languages": {
+            "Apex": 7553,
+            "Shell": 59
+        }
+    },
+    {
+        "name": "HyperBatch",
+        "description": "a Hyper-Fast Batch interface for Salesforce",
+        "languages": {
+            "Apex": 12887
+        }
+    },
+    {
+        "name": "HTTPCalloutFramework",
+        "description": "HTTP Callout Framework - A light weight callout framework for apex HTTP callouts in Salesforce",
+        "languages": {
+            "Apex": 33248
+        }
+    },
+    {
+        "name": "apex-mocks-stress-test",
+        "description": "Testing out FFLib versus Crud / CrudMock",
+        "languages": {
+            "Apex": 14422,
+            "Shell": 228
+        }
+    },
+    {
+        "name": "Force.com-Helper-Classes",
+        "description": "A collection of useful helper classes for Salesforce and Force.com.",
+        "languages": {
+            "Apex": 36140
+        }
+    },
+    {
+        "name": "Summit-Events-App",
+        "description": "Salesforce Event System developed at the University of St. Thomas",
+        "languages": {
+            "Apex": 517619,
+            "JavaScript": 69599,
+            "CSS": 7110,
+            "RobotFramework": 1513
+        }
+    },
+    {
+        "name": "DataWeaveInApex",
+        "description": "Examples for working with DataWeave scripts from Apex.",
+        "languages": {
+            "Apex": 31553,
+            "DataWeave": 4030,
+            "Batchfile": 833,
+            "Shell": 710,
+            "JavaScript": 170
+        }
+    },
+    {
+        "name": "Flow-Repo",
+        "description": "This repo contains different ready-to-install Flow Screen components, Flow Local actions and Flow Apex actions",
+        "languages": {
+            "Apex": 79484,
+            "JavaScript": 10144,
+            "HTML": 1221,
+            "CSS": 29
+        }
+    },
+    {
+        "name": "Centralized-Salesforce-Dev-Framework",
+        "description": "Centralized Framework for Development on the Force.com Platform",
+        "languages": {
+            "Apex": 227700
+        }
+    },
+    {
+        "name": "sObject-Remote",
+        "description": "JavaScript library to simplify CRUD DML operations with JavaScript Remoting on the force.com platform.",
+        "languages": {
+            "Apex": 9616
+        }
+    },
+    {
+        "name": "sobject-work-queue",
+        "description": "Custom Apex queue to process arbitrary work on existing SObject in a guaranteed order.",
+        "languages": {
+            "Apex": 54257,
+            "Shell": 1104
+        }
+    },
+    {
+        "name": "streams",
+        "description": "Durable event pipelines.",
+        "languages": {
+            "Apex": 3757
+        }
+    },
+    {
+        "name": "FormulaShare-DX",
+        "description": "A native app to support complex Salesforce sharing with quick and easy configuration",
+        "languages": {
+            "Apex": 1379774,
+            "JavaScript": 142074,
+            "HTML": 50081,
+            "Batchfile": 3732,
+            "CSS": 2667,
+            "Shell": 2541
+        }
+    },
+    {
+        "name": "box-salesforce-sdk",
+        "description": "This is the Salesforce SDK for integrating with the Box Platform.",
+        "languages": {
+            "Apex": 372799,
+            "JavaScript": 67
+        }
+    },
+    {
+        "name": "salesforce-feature-flags",
+        "description": " Simple framework for using feature flags in apex driven by Custom Permissions and Custom Metadata Types.",
+        "languages": {
+            "Apex": 8186,
+            "JavaScript": 1485,
+            "Shell": 59,
+            "HTML": 48
+        }
+    },
+    {
+        "name": "soql-lib",
+        "description": "The SOQL Lib provides functional constructs for SOQL queries in Apex.",
+        "languages": {
+            "Apex": 140875,
+            "JavaScript": 5656,
+            "CSS": 1180
+        }
+    },
+    {
+        "name": "sf-sandbox-post-copy",
+        "description": "A framework for managing automation tasks that are fired upon sandbox refresh in Salesforce orgs. ",
+        "languages": {
+            "Apex": 7759
+        }
+    },
+    {
+        "name": "apex-query-builder",
+        "description": "Convenient query builder for dynamic SOQL queries",
+        "languages": {
+            "Apex": 108104
+        }
+    },
+    {
+        "name": "Apex-XML-Serializer",
+        "description": "XML Serialization and Deserialization in salesforce Apex.",
+        "languages": {
+            "Apex": 31835
+        }
+    },
+    {
+        "name": "stripeforce",
+        "description": "Stripe API Client Library for Force.com",
+        "languages": {
+            "Apex": 99609
+        }
+    },
+    {
+        "name": "ApexTriggerHandler",
+        "description": "Another library implements Apex trigger handler pattern.",
+        "languages": {
+            "Apex": 71756,
+            "Shell": 697
+        }
+    },
+    {
+        "name": "apex-sobjectdataloader",
+        "description": "A generic native SObject data loader implementation using Apex JSON support",
+        "languages": {
+            "Apex": 81236
+        }
+    },
+    {
+        "name": "Relax",
+        "description": "Relax - your Force.com Batch / Scheduled Job woes are over.",
+        "languages": {
+            "Apex": 89962
+        }
+    },
+    {
+        "name": "Interactions-for-Student-Recruitment",
+        "description": "Open Source Community Sprint project focused on providing higher education institutions the tools they need to manage student recruitment in Salesforce.",
+        "languages": {
+            "Apex": 77221
+        }
+    },
+    {
+        "name": "MyTriggers",
+        "description": "Leightweight Custom Metadata driven Trigger Framework that scales to your needs. Provided with <3 by appero.com",
+        "languages": {
+            "Apex": 49218
+        }
+    },
+    {
+        "name": "sfdx-jenkins-org",
+        "description": "Jenkins example with org development",
+        "languages": {
+            "Apex": 396
+        }
+    },
+    {
+        "name": "Force.com-Toolkit-for-Facebook",
+        "description": "A collection of Apex classes and Visualforce pages for working with the Facebook social graph",
+        "languages": {
+            "Apex": 271278
+        }
+    },
+    {
+        "name": "ObjectMerge",
+        "description": "Open-source solution for merging Salesforce objects and their related objects.",
+        "languages": {
+            "Apex": 135679,
+            "JavaScript": 9795
+        }
+    },
+    {
+        "name": "q",
+        "description": "A Dynamic SOQL Query Builder for the Force.com Platform \u2601\ufe0f",
+        "languages": {
+            "Apex": 20841,
+            "Shell": 1442
+        }
+    },
+    {
+        "name": "nebula-core",
+        "description": "Nebula Package - The base set of Salesforce Apex classes used by Nebula Consulting. Covers many functional areas",
+        "languages": {
+            "Apex": 389034
+        }
+    },
+    {
+        "name": "sfdc-oauth-playground",
+        "description": "Apex implementation of OAuth1 consumer with testing playground",
+        "languages": {
+            "Apex": 18233
+        }
+    },
+    {
+        "name": "logger",
+        "description": "An attempt at a Salesforce Lightning Platform Logging Service",
+        "languages": {
+            "Apex": 22949,
+            "JavaScript": 5340,
+            "HTML": 1396,
+            "CSS": 635
+        }
+    },
+    {
+        "name": "Salesforce-Lightning-Platform-Enterprise-Architecture-Third-Edition",
+        "description": "Salesforce Lightning Platform Enterprise Architecture \u2013 Third Edition, published by Packt",
+        "languages": {
+            "Apex": 9632109,
+            "JavaScript": 173317,
+            "HTML": 47081,
+            "CSS": 1771
+        }
+    },
+    {
+        "name": "lwc_superbadge",
+        "description": "Lightning Web Components Specialist",
+        "languages": {
+            "Apex": 35841,
+            "JavaScript": 23978,
+            "HTML": 13006,
+            "CSS": 377
+        }
+    },
+    {
+        "name": "user-access-visualization",
+        "description": null,
+        "languages": {
+            "Apex": 28782
+        }
+    },
+    {
+        "name": "llm-apex-agents",
+        "description": "Run Large Language Model \"Agents\" in Salesforce apex",
+        "languages": {
+            "Apex": 51870,
+            "JavaScript": 12580,
+            "HTML": 6759,
+            "CSS": 55
+        }
+    },
+    {
+        "name": "feature-flag-designs",
+        "description": "Highlights different design patterns to tackle feature flags using Custom Permissions in both the UI and Apex.",
+        "languages": {
+            "Apex": 8581,
+            "JavaScript": 1287,
+            "HTML": 186
+        }
+    },
+    {
+        "name": "Apex-Integration-Services",
+        "description": "Apex REST Callouts, Apex SOAP Callouts, Apex Web Services",
+        "languages": {
+            "Apex": 5199
+        }
+    },
+    {
+        "name": "Apex-for-Xero",
+        "description": "Apex classes for using the Xero APIs with Apex in Salesforce",
+        "languages": {
+            "Apex": 37712
+        }
+    },
+    {
+        "name": "einstein-ai",
+        "description": "Interact with Einstein's Predictive Vision and Language services via force.com objects and Chatter",
+        "languages": {
+            "Apex": 91001,
+            "JavaScript": 42914,
+            "Shell": 607,
+            "OpenEdge ABL": 434,
+            "CSS": 260
+        }
+    },
+    {
+        "name": "Salesforce-Short-Hands",
+        "description": "The main purpose of this repository is to put all the utilities in one place so that other developers can get help and they can also contribute to this repo.",
+        "languages": {
+            "Apex": 2307794,
+            "JavaScript": 59847,
+            "HTML": 33786,
+            "CSS": 2090,
+            "TeX": 39
+        }
+    },
+    {
+        "name": "flowtoolbelt",
+        "description": "Dynamically call Flows at runtime to do more things with them from more places!",
+        "languages": {
+            "Apex": 1110692,
+            "JavaScript": 287807,
+            "CSS": 51
+        }
+    },
+    {
+        "name": "SFDCRules",
+        "description": "Simple yet powerful Rule Engine for Salesforce - SFDCRules",
+        "languages": {
+            "Apex": 31130
+        }
+    },
+    {
+        "name": "NebulaFramework",
+        "description": "A development framework for Salesforce's Apex language & the Force.com platform",
+        "languages": {
+            "Apex": 224525,
+            "Batchfile": 132,
+            "HTML": 23
+        }
+    },
+    {
+        "name": "forcedotcom-enterprise-architecture",
+        "description": "Force.com Enterprise Architecture - First Edition - Source Code",
+        "languages": {
+            "Apex": 244395
+        }
+    },
+    {
+        "name": "NebulaQueryAndSearch",
+        "description": "Apex library that dynamically generates SOQL & SOSL queries",
+        "languages": {
+            "Apex": 92137,
+            "Shell": 659,
+            "JavaScript": 383
+        }
+    },
+    {
+        "name": "apex-chainable",
+        "description": "Chain Asynchronous Apex in a readable and flexible way without hardcoding the successor. ",
+        "languages": {
+            "Apex": 6428,
+            "Shell": 780
+        }
+    },
+    {
+        "name": "apex-graphql-query",
+        "description": "A library for building GraphQL queries in apex",
+        "languages": {
+            "Apex": 12593
+        }
+    },
+    {
+        "name": "Design-Patterns-In-Apex",
+        "description": "Classic Gang of Four design patterns in the Salesforce Apex programming language",
+        "languages": {
+            "Apex": 87187,
+            "JavaScript": 1388,
+            "HTML": 852
+        }
+    },
+    {
+        "name": "Lightning-Components",
+        "description": "Lightning Components I've developed",
+        "languages": {
+            "Apex": 2416396,
+            "JavaScript": 338428,
+            "HTML": 55570,
+            "CSS": 664
+        }
+    },
+    {
+        "name": "dependencies-sample",
+        "description": "A sample collection of seemingly random metadata and below the type relationships as currently returned by the Dependencies API (Pilot)",
+        "languages": {
+            "Apex": 2344,
+            "JavaScript": 352,
+            "CSS": 20
+        }
+    },
+    {
+        "name": "sfdx-bitbucket-package",
+        "description": "Bitbucket Pipelines examples with Package development ",
+        "languages": {
+            "Apex": 396
+        }
+    },
+    {
+        "name": "Application-Logging-Framework",
+        "description": "Integration & Error Handling Framework for Salesforce",
+        "languages": {
+            "Apex": 27150
+        }
+    },
+    {
+        "name": "ForceDotComSprintWall",
+        "description": "An agile sprint wall built on the force.com platform with jQuery and Javascript Remoting",
+        "languages": {
+            "Apex": 41711,
+            "JavaScript": 30773,
+            "CSS": 6527
+        }
+    },
+    {
+        "name": "Force.com-Patterns",
+        "description": null,
+        "languages": {
+            "Apex": 28116
+        }
+    },
+    {
+        "name": "sfdc-auto-convert-leads-process",
+        "description": "Convert Leads into Accounts, Contacts, and (optional) Opportunities on-demand using Process Builder",
+        "languages": {
+            "Apex": 9492
+        }
+    },
+    {
+        "name": "promiseV3",
+        "description": null,
+        "languages": {
+            "Apex": 4511
+        }
+    },
+    {
+        "name": "SimpleLightningComponents",
+        "description": "A collection of custom Salesforce Lightning components to try to make Lightning development a little bit less frustrating",
+        "languages": {
+            "Apex": 101341,
+            "JavaScript": 28947,
+            "CSS": 431
+        }
+    },
+    {
+        "name": "SalesforceDurableStreamingDemo",
+        "description": "Salesforce Durable Streaming Demo",
+        "languages": {
+            "Apex": 1524
+        }
+    },
+    {
+        "name": "ApexCallouts",
+        "description": "A lightweight Apex library for making HTTP callouts. Works with remote site settings and named credentials.",
+        "languages": {
+            "Apex": 28853
+        }
+    },
+    {
+        "name": "apex-lang",
+        "description": "Automatically exported from code.google.com/p/apex-lang",
+        "languages": {
+            "Apex": 839829
+        }
+    },
+    {
+        "name": "force-brf",
+        "description": "Work in progress reference lib for BatchApexErrorEvent handling",
+        "languages": {
+            "Apex": 19907,
+            "JavaScript": 3273
+        }
+    },
+    {
+        "name": "Async-Trigger-Framework",
+        "description": "A different way to approach triggers on change events",
+        "languages": {
+            "Apex": 14236
+        }
+    },
+    {
+        "name": "Multi-File-Uploader-Force.com",
+        "description": "A Visualforce component that uploads multiple files at once with progress bars.",
+        "languages": {
+            "Apex": 4098
+        }
+    },
+    {
+        "name": "forcelog",
+        "description": "A structured, extensible logger for Salesforce Apex",
+        "languages": {
+            "Apex": 77016
+        }
+    },
+    {
+        "name": "IdentityTrail-Module3",
+        "description": "Materials to help you complete the Salesforce Identity Trail Module 3 on External Identity",
+        "languages": {
+            "Apex": 21726
+        }
+    },
+    {
+        "name": "project-force",
+        "description": "Reference implementation app for Feature Management.",
+        "languages": {
+            "Apex": 17553
+        }
+    },
+    {
+        "name": "apex-dependency-injection",
+        "description": "Apex Dependency Injection Sample",
+        "languages": {
+            "Apex": 4675,
+            "Shell": 564
+        }
+    },
+    {
+        "name": "statecodes",
+        "description": "Automatically creates all ~5000 values for state and country picklists",
+        "languages": {
+            "Apex": 178380
+        }
+    },
+    {
+        "name": "apex-async-linkable",
+        "description": "Allow to chain every kind of async apex job",
+        "languages": {
+            "Apex": 31672,
+            "Shell": 250
+        }
+    },
+    {
+        "name": "salesforce-simple-trigger-framework",
+        "description": "A trigger framework for Salesforce offering a simple way to write Apex triggers, as well as a uni-directional record synchronisation tool.",
+        "languages": {
+            "Apex": 31871,
+            "JavaScript": 170
+        }
+    },
+    {
+        "name": "grid",
+        "description": "A Lightning Component grid implementation that expects a server-side data store.",
+        "languages": {
+            "Apex": 21444,
+            "JavaScript": 13882,
+            "CSS": 142
+        }
+    },
+    {
+        "name": "Advanced-Apex-Programming",
+        "description": null,
+        "languages": {
+            "Apex": 124205
+        }
+    },
+    {
+        "name": "Angular",
+        "description": "This repository contains code for demo application that uses Angular.Js with VisualForce",
+        "languages": {
+            "Apex": 5091,
+            "HTML": 3730
+        }
+    },
+    {
+        "name": "build-apps-with-lwc",
+        "description": "Ursus Park sample app for Trailhead project Build Flexible Apps with Lightning Web Components",
+        "languages": {
+            "Apex": 1399
+        }
+    },
+    {
+        "name": "lwc-modules",
+        "description": "Build any LWC you want without ever having to touch Apex",
+        "languages": {
+            "Apex": 23430,
+            "JavaScript": 7953
+        }
+    },
+    {
+        "name": "social-signon-reghandler",
+        "description": "A sample registration handler for use with Auth. Providers for Social Sign-On",
+        "languages": {
+            "Apex": 20862
+        }
+    },
+    {
+        "name": "CustomMetadataSaver",
+        "description": "Allows saving changes to custom metadata records via Apex and Flow",
+        "languages": {
+            "Apex": 27058,
+            "JavaScript": 8715,
+            "HTML": 3587
+        }
+    },
+    {
+        "name": "sendgrid-apex",
+        "description": "SendGrid (http://sendgrid.com) Apex helper library.",
+        "languages": {
+            "Apex": 22073
+        }
+    },
+    {
+        "name": "soql-secure",
+        "description": "A library to build/execute SOQL from JSON definition in Apex with secure FLS check",
+        "languages": {
+            "Apex": 24144,
+            "TeX": 3329
+        }
+    },
+    {
+        "name": "unhappy-soup",
+        "description": "Problematic Salesforce code to showcase how PMD can find it",
+        "languages": {
+            "Apex": 27537,
+            "HTML": 1236,
+            "Shell": 1131,
+            "JavaScript": 1052,
+            "CSS": 258
+        }
+    },
+    {
+        "name": "fflib-apex-common-builder",
+        "description": "Builder Extension library to fflib_apex-common",
+        "languages": {
+            "Apex": 86066
+        }
+    },
+    {
+        "name": "ApigeeAuthProvider",
+        "description": "Salesforce Custom Auth Provider for Apigee Edge API Gateway",
+        "languages": {
+            "Apex": 28510
+        }
+    },
+    {
+        "name": "Apex-GraphQL-Client",
+        "description": "The package for Salesforce that provides a convenient way to communicate with a GraphQL server via Apex.",
+        "languages": {
+            "Apex": 167260,
+            "Shell": 2009
+        }
+    },
+    {
+        "name": "sfdx-gitlab-org",
+        "description": "GitLab Pipelines example with org development",
+        "languages": {
+            "Apex": 396
+        }
+    },
+    {
+        "name": "DecouplingWithSimonGoodyear",
+        "description": null,
+        "languages": {
+            "Apex": 20111
+        }
+    },
+    {
+        "name": "FindNearby",
+        "description": null,
+        "languages": {
+            "Apex": 61680
+        }
+    },
+    {
+        "name": "ApexDI",
+        "description": "A dependency injection framework ported from .Net Core for Apex.",
+        "languages": {
+            "Apex": 82251,
+            "Shell": 337
+        }
+    },
+    {
+        "name": "Salesforce-Development-Best-Practices",
+        "description": "Best Practices for Developing on the Salesforce Platform.",
+        "languages": {
+            "Apex": 30285,
+            "JavaScript": 653
+        }
+    },
+    {
+        "name": "sfdc-callout-pattern",
+        "description": "Salesforce - Simple Apex Rest Callout Pattern",
+        "languages": {
+            "Apex": 11229
+        }
+    },
+    {
+        "name": "sfdc-revert-user-emails-sandbox-post-copy",
+        "description": "Salesforce adds @example.com to users emails after sandbox refresh. This post script reverts the email addresses.",
+        "languages": {
+            "Apex": 4074
+        }
+    },
+    {
+        "name": "fflib-apex-extensions",
+        "description": "Extension for the fflib-apex-common Library.  Introducing many advanced features on top of the Apex Enterprise Patterns",
+        "languages": {
+            "Apex": 538020,
+            "Shell": 32140,
+            "JavaScript": 170
+        }
+    },
+    {
+        "name": "tvbdev450v1",
+        "description": null,
+        "languages": {
+            "Apex": 10002,
+            "JavaScript": 1920,
+            "PLSQL": 177
+        }
+    },
+    {
+        "name": "ftp-api-example",
+        "description": "Integrate Salesforce with FTP / SFTP Server using Rest API",
+        "languages": {
+            "Apex": 16155,
+            "JavaScript": 9386,
+            "CSS": 460
+        }
+    },
+    {
+        "name": "salesforce-bot-toolkit",
+        "description": "A bot toolkit for Salesforce",
+        "languages": {
+            "Apex": 29524,
+            "JavaScript": 7824,
+            "CSS": 1797
+        }
+    },
+    {
+        "name": "Mastering-Apex-Programming",
+        "description": "Mastering Apex Programming, published by Packt",
+        "languages": {
+            "Apex": 2145
+        }
+    },
+    {
+        "name": "Salesforce-Trailhead",
+        "description": "Scripts used to solve Salesforce Trailhead Challenges",
+        "languages": {
+            "Apex": 53558,
+            "JavaScript": 6318
+        }
+    },
+    {
+        "name": "FluentAssert",
+        "description": "This project aims provide better asserts for tests in Apex. Inspired by AssertJ and other fluent libraries.",
+        "languages": {
+            "Apex": 1214785,
+            "FreeMarker": 410767,
+            "Shell": 125
+        }
+    },
+    {
+        "name": "salesforce-einstein-vision-apex",
+        "description": null,
+        "languages": {
+            "Apex": 105877
+        }
+    },
+    {
+        "name": "salesforce-apex-templates",
+        "description": "Looking for a possibility to use Email Templates within APEX code? Here's the answer!",
+        "languages": {
+            "Apex": 13302
+        }
+    },
+    {
+        "name": "ai-gateway",
+        "description": "AI Gateway integrates OpenAI's GPT models directly into Salesforce for powerful AI text generation",
+        "languages": {
+            "Apex": 15171,
+            "Shell": 2004,
+            "Makefile": 258
+        }
+    },
+    {
+        "name": "Apex-MicroTrigger",
+        "description": null,
+        "languages": {
+            "Apex": 178201
+        }
+    },
+    {
+        "name": "sfdx-bitbucket-org",
+        "description": "Bitbucket Pipelines examples with org development",
+        "languages": {
+            "Apex": 396
+        }
+    },
+    {
+        "name": "forcedotcom-enterprise-architecture-second-edition",
+        "description": "Force.com Enterprise Architecture - Second Edition - Source Code ",
+        "languages": {
+            "Apex": 701456,
+            "JavaScript": 7637,
+            "CSS": 119
+        }
+    },
+    {
+        "name": "apex-async-processor",
+        "description": "Abstract away which async framework is being used within Salesforce in favor of dynamically using the most appropriate solution for the problem at hand.",
+        "languages": {
+            "Apex": 13781
+        }
+    },
+    {
+        "name": "sfdc-xml-parser",
+        "description": "A Salesforce Apex library that works to solve all XML serialization and deserialization limitations.",
+        "languages": {
+            "Apex": 117922,
+            "JavaScript": 170
+        }
+    },
+    {
+        "name": "apexstruct",
+        "description": "A library of data structures for the Salesforce Apex Language",
+        "languages": {
+            "Apex": 180026
+        }
+    },
+    {
+        "name": "APEX-Q",
+        "description": "A promise library for Salesforce",
+        "languages": {
+            "Apex": 8300
+        }
+    },
+    {
+        "name": "sf-address-autocomplete",
+        "description": "Salesforce - Address autocomplete functionality using the Google Places API",
+        "languages": {
+            "Apex": 4899
+        }
+    },
+    {
+        "name": "salesforce-azure-clientcredentials-authprovider",
+        "description": "Salesforce Auth. Provider / Named Credentials implementation for use with the Azure client_credentials OAuth flow.",
+        "languages": {
+            "Apex": 14653
+        }
+    },
+    {
+        "name": "apex-xpath",
+        "description": "An XPath class for Salesforce's Apex language.",
+        "languages": {
+            "Apex": 39107
+        }
+    },
+    {
+        "name": "Script.apex",
+        "description": "Evaluate Javascript expressions in Apex",
+        "languages": {
+            "Apex": 79952
+        }
+    },
+    {
+        "name": "ApexValidationRules",
+        "description": "An Apex library for validating field values on SObject records, using configurable custom metadata types",
+        "languages": {
+            "Apex": 56223
+        }
+    },
+    {
+        "name": "NebulaCacheManager",
+        "description": "A flexible cache management system for Salesforce Apex developers. Built to be scalable & configurable.",
+        "languages": {
+            "Apex": 77132,
+            "PowerShell": 2737,
+            "JavaScript": 318,
+            "Shell": 59
+        }
+    },
+    {
+        "name": "TriggerX",
+        "description": "A Light Trigger Pattern for Force.com with Event and Recursion Control",
+        "languages": {
+            "Apex": 26444
+        }
+    },
+    {
+        "name": "apex-sobjectfieldvalidator",
+        "description": "Fluent SObject Field Validator",
+        "languages": {
+            "Apex": 29792
+        }
+    },
+    {
+        "name": "Superbadge-Data-Integration-Specialist",
+        "description": "'Data Integration Specialist' is one of the superbadges of Salesforce trailhead(A New Approach to Learning Salesforce). This superbadge is specially designed for learning and testing integrations between different systems. This repository is for solving all the problems in the way of earning the superbadge.",
+        "languages": {
+            "Apex": 17558
+        }
+    },
+    {
+        "name": "salesforce-sdk",
+        "description": "A Salesforce library for communicating with the IBM Watson REST APIs",
+        "languages": {
+            "Apex": 4659808,
+            "Shell": 7643,
+            "Makefile": 3123,
+            "Python": 381
+        }
+    },
+    {
+        "name": "apex-evalex",
+        "description": "An Apex port of EvalEx for the Salesforce platform",
+        "languages": {
+            "Apex": 96887
+        }
+    },
+    {
+        "name": "trailhead-leaderboard",
+        "description": "A leaderboard to track your team's progress on Salesforce Trailhead.",
+        "languages": {
+            "Apex": 55733,
+            "HTML": 30765,
+            "JavaScript": 27339,
+            "CSS": 8675,
+            "RobotFramework": 1821
+        }
+    },
+    {
+        "name": "CacheJSON",
+        "description": "A JSON encoding / decoding utility for Intersystems Cache and Ensemble.",
+        "languages": {
+            "Apex": 17333
+        }
+    },
+    {
+        "name": "salesforce-google-bigquery",
+        "description": null,
+        "languages": {
+            "Apex": 12122,
+            "JavaScript": 1743
+        }
+    },
+    {
+        "name": "zd-framework",
+        "description": "Salesforce Application Framework for decoupling dependencies",
+        "languages": {
+            "Apex": 163830
+        }
     }
 ]

@@ -71,5 +71,1989 @@
             "Perl": 2480,
             "Starlark": 399
         }
+    },
+    {
+        "name": "Bluespec_BSV_Tutorial",
+        "description": "Bluespec BSV HLHDL tutorial",
+        "languages": {
+            "Bluespec": 145961,
+            "C": 10390,
+            "Makefile": 5036,
+            "C++": 535
+        }
+    },
+    {
+        "name": "p4fpga",
+        "description": "P4-14/16 Bluespec Compiler",
+        "languages": {
+            "Bluespec": 531854,
+            "C++": 177380,
+            "Tcl": 53336,
+            "C": 9952,
+            "Makefile": 9523,
+            "Verilog": 9160,
+            "Python": 4620,
+            "Shell": 1651,
+            "CMake": 1370
+        }
+    },
+    {
+        "name": "riscy",
+        "description": "Riscy Processors - Open-Sourced RISC-V Processors",
+        "languages": {
+            "Bluespec": 446298,
+            "C++": 93416,
+            "Shell": 30000,
+            "Python": 24704,
+            "Makefile": 14525
+        }
+    },
+    {
+        "name": "bluespecpcie",
+        "description": "PCIe library for the Xilinx 7 series FPGAs in the Bluespec language",
+        "languages": {
+            "Bluespec": 142726,
+            "Verilog": 106158,
+            "C++": 38737,
+            "C": 14241,
+            "Tcl": 10367,
+            "Makefile": 1472,
+            "Shell": 719
+        }
+    },
+    {
+        "name": "MAERI_bsv",
+        "description": "MAERI: A DNN accelerator with reconfigurable interconnects to support flexible dataflow (http://synergy.ece.gatech.edu/tools/maeri/)",
+        "languages": {
+            "Bluespec": 220603,
+            "C++": 60805,
+            "Shell": 7541,
+            "Python": 779,
+            "MATLAB": 117
+        }
+    },
+    {
+        "name": "beri",
+        "description": "The BERI and CHERI processor and hardware platform",
+        "languages": {
+            "Bluespec": 2528626,
+            "Assembly": 2096274,
+            "Python": 1908423,
+            "C": 1129162,
+            "Makefile": 250513,
+            "Shell": 147100,
+            "Tcl": 132477,
+            "Verilog": 97056,
+            "C++": 30183,
+            "Perl": 19454,
+            "Roff": 18581,
+            "SystemVerilog": 12058,
+            "Haskell": 11711,
+            "Yacc": 6298,
+            "TeX": 4996,
+            "Coq": 3011,
+            "Lex": 2831,
+            "Objective-C": 2387,
+            "OpenEdge ABL": 1960,
+            "Awk": 1139,
+            "Mathematica": 291
+        }
+    },
+    {
+        "name": "OpenSMART",
+        "description": "Public release",
+        "languages": {
+            "Bluespec": 143610,
+            "Scala": 49079,
+            "Shell": 3365
+        }
+    },
+    {
+        "name": "bluecheck",
+        "description": "A generic test bench written in Bluespec",
+        "languages": {
+            "Bluespec": 78574,
+            "Shell": 5133
+        }
+    },
+    {
+        "name": "tinsel",
+        "description": "Manythread RISC-V overlay for FPGA clusters",
+        "languages": {
+            "Bluespec": 430177,
+            "C++": 283022,
+            "C": 168465,
+            "Verilog": 145137,
+            "Assembly": 116332,
+            "Tcl": 44802,
+            "Makefile": 29026,
+            "Python": 25076,
+            "Shell": 21912,
+            "Awk": 2863,
+            "Haskell": 1921,
+            "Mathematica": 571
+        }
+    },
+    {
+        "name": "bsc-contrib",
+        "description": "A place to share libraries and utilities that don't belong in the core bsc repo",
+        "languages": {
+            "Bluespec": 1407363,
+            "TeX": 84160,
+            "Makefile": 9594,
+            "Python": 4348,
+            "Tcl": 1230,
+            "Verilog": 1169
+        }
+    },
+    {
+        "name": "MAERI_bsv_isca2018",
+        "description": "MAERI public release",
+        "languages": {
+            "Bluespec": 119700,
+            "Shell": 12902
+        }
+    },
+    {
+        "name": "MIT6.175",
+        "description": "MIT6.175 & MIT6.375 Study Notes",
+        "languages": {
+            "Bluespec": 489811,
+            "C": 361830,
+            "Assembly": 238632,
+            "Makefile": 49920,
+            "Perl": 36840,
+            "C++": 14220,
+            "Shell": 8122,
+            "Python": 1373
+        }
+    },
+    {
+        "name": "ulxs",
+        "description": "Hacking repo for UL3XS FPGA stuff.",
+        "languages": {
+            "Bluespec": 35026,
+            "Go": 28224,
+            "Python": 4328,
+            "Shell": 3406,
+            "Nix": 1099,
+            "Assembly": 193
+        }
+    },
+    {
+        "name": "Clarinet",
+        "description": "A RISC-V processor written in BSV, based on the Flute core. Has support for integrating tightly-coupled accelerators, and for integrating custom functional units like posit arithmetic units.",
+        "languages": {
+            "Bluespec": 2362743,
+            "C": 967559,
+            "Python": 91946,
+            "Verilog": 86643,
+            "Makefile": 63747,
+            "C++": 11301,
+            "TeX": 2122,
+            "Shell": 1943,
+            "Assembly": 350
+        }
+    },
+    {
+        "name": "RISCV_ISA_Formal_Spec_in_BSV",
+        "description": "A formal spec of the RISC-V Instruction Set Architecture, written in Bluespec BSV (executable, synthesizable)",
+        "languages": {
+            "Bluespec": 119711,
+            "C": 22058,
+            "Perl": 2919,
+            "Makefile": 1112
+        }
+    },
+    {
+        "name": "Learn_Bluespec_and_RISCV_Design",
+        "description": "Textbook and full source codes to learn basics of RISC-V pipelined CPU design using the Bluespec Hardware Design Language(s)",
+        "languages": {
+            "Bluespec": 138677,
+            "Python": 86562,
+            "C": 43064,
+            "Makefile": 13619
+        }
+    },
+    {
+        "name": "DesignCNNAccelerators",
+        "description": "Lab code for three-day lecture, \"Designing CNN Accelerators using Bluespec System Verilog\", given at SNU in December 2017",
+        "languages": {
+            "Bluespec": 171536,
+            "Vim Script": 24295,
+            "Shell": 7162,
+            "Makefile": 691
+        }
+    },
+    {
+        "name": "qfc",
+        "description": "q3k's hardware monorepo",
+        "languages": {
+            "Bluespec": 176091,
+            "Starlark": 37457,
+            "Python": 16952,
+            "Verilog": 13686,
+            "C++": 6889,
+            "Shell": 1614
+        }
+    },
+    {
+        "name": "RVBS",
+        "description": "RISC-V BSV Specification",
+        "languages": {
+            "Bluespec": 279798,
+            "Python": 18889,
+            "Makefile": 7600
+        }
+    },
+    {
+        "name": "blue-rdma",
+        "description": "RoCEv2 hardware implementation in Bluespec SystemVerilog",
+        "languages": {
+            "Bluespec": 1548147,
+            "Shell": 18580,
+            "Tcl": 15231,
+            "Makefile": 1974
+        }
+    },
+    {
+        "name": "BlueStuff",
+        "description": "A Bluespec SystemVerilog library of miscellaneous components",
+        "languages": {
+            "Bluespec": 136812,
+            "C": 10016,
+            "Verilog": 8460,
+            "Makefile": 4559
+        }
+    },
+    {
+        "name": "OmnixtendEndpoint",
+        "description": "Hardware implementation of an OmniXtend Memory Endpoint/Lowest Point of Coherence.",
+        "languages": {
+            "Bluespec": 281097,
+            "Rust": 198727,
+            "Tcl": 21677,
+            "Makefile": 4623,
+            "Shell": 4423,
+            "C": 1726
+        }
+    },
+    {
+        "name": "sonic-lite",
+        "description": "P4FPGA is located at github.com/hanw/p4fpga",
+        "languages": {
+            "Bluespec": 1771836,
+            "Verilog": 380846,
+            "C++": 255119,
+            "Tcl": 134466,
+            "Makefile": 111118,
+            "Python": 74562,
+            "C": 49993,
+            "Shell": 11736,
+            "SystemVerilog": 10965
+        }
+    },
+    {
+        "name": "LEAP-HLS",
+        "description": "Rapid system integration of high-level synthesis kernels using the LEAP FPGA framework",
+        "languages": {
+            "Bluespec": 270833,
+            "C++": 126145,
+            "Verilog": 52941,
+            "Shell": 15881,
+            "C": 6792,
+            "Makefile": 1275
+        }
+    },
+    {
+        "name": "ixayoi",
+        "description": "(WIP) A relatively simple pipelined RISC-V core, written in Bluespec SystemVerilog",
+        "languages": {
+            "Bluespec": 30873,
+            "Verilog": 4856,
+            "C": 1665,
+            "Makefile": 1294,
+            "Nix": 290,
+            "Assembly": 288
+        }
+    },
+    {
+        "name": "bluespec-80211atransmitter",
+        "description": "Bluespec 802.11a Transmitter",
+        "languages": {
+            "Bluespec": 66232
+        }
+    },
+    {
+        "name": "BlueLink",
+        "description": "Bluespec SystemVerilog library for use of the IBM Coherent Accelerator-Processor Interface (CAPI)",
+        "languages": {
+            "Bluespec": 219085,
+            "Verilog": 47387,
+            "C++": 37971,
+            "CMake": 25900,
+            "Tcl": 9777,
+            "Perl 6": 5331,
+            "Perl": 4634,
+            "Makefile": 417
+        }
+    },
+    {
+        "name": "bsv-for-vscode",
+        "description": "Bluespec System Verilog language extension for Visual Studio Code",
+        "languages": {
+            "Bluespec": 266
+        }
+    },
+    {
+        "name": "6.175",
+        "description": null,
+        "languages": {
+            "Bluespec": 525779,
+            "C": 430458,
+            "Assembly": 305740,
+            "Objective-C": 127224,
+            "Perl": 64839,
+            "Makefile": 49753,
+            "C++": 30651,
+            "Shell": 13451,
+            "Python": 1787
+        }
+    },
+    {
+        "name": "bluespec-h264",
+        "description": "Bluespec H.264 Decoder",
+        "languages": {
+            "Bluespec": 2280047,
+            "C": 1002846,
+            "C++": 44160,
+            "Verilog": 42204,
+            "Tcl": 13060,
+            "Objective-C": 8763,
+            "Perl": 6541,
+            "Shell": 155
+        }
+    },
+    {
+        "name": "SHAKTIMAAN",
+        "description": "SHAKTI Multiply-And-Accumulate Accelerator Network (SHAKTIMAAN), IITM's Deep Learning accelerator effort ",
+        "languages": {
+            "Bluespec": 288964,
+            "C": 10125,
+            "Makefile": 8087,
+            "Tcl": 4437,
+            "Shell": 2561
+        }
+    },
+    {
+        "name": "bluelib",
+        "description": "Miscellaneous components for bluespec",
+        "languages": {
+            "Bluespec": 135885,
+            "Tcl": 16258,
+            "C++": 8340,
+            "Shell": 1511,
+            "Makefile": 1489
+        }
+    },
+    {
+        "name": "knowledge-base",
+        "description": "CometBFT team public knowledge base. Always a work-in-progress.",
+        "languages": {
+            "Bluespec": 86609,
+            "Shell": 1012,
+            "Makefile": 661
+        }
+    },
+    {
+        "name": "bluespec-reedsolomon",
+        "description": "Bluespec SystemVerilog Reed Solomon Decoder",
+        "languages": {
+            "Bluespec": 86476,
+            "C++": 40198,
+            "C": 14409
+        }
+    },
+    {
+        "name": "bluespec-tutorials",
+        "description": "FPGA coding with bluespec and connectal framework",
+        "languages": {
+            "Bluespec": 136543,
+            "C++": 6199,
+            "Makefile": 2663
+        }
+    },
+    {
+        "name": "Shoal",
+        "description": "A Network Architecture for Disaggregated Racks",
+        "languages": {
+            "Bluespec": 383110,
+            "C": 106591,
+            "Verilog": 35324,
+            "C++": 33828,
+            "Tcl": 11487,
+            "Makefile": 10285,
+            "Python": 8468,
+            "Shell": 6347
+        }
+    },
+    {
+        "name": "recycle-bsv-lib",
+        "description": "Collection of BSV packages.",
+        "languages": {
+            "Bluespec": 435220,
+            "Verilog": 45897,
+            "Python": 27915,
+            "Mako": 11458,
+            "C++": 4519,
+            "Makefile": 3274
+        }
+    },
+    {
+        "name": "ulx3s_bsv",
+        "description": "Bluespec environment for working with the ulx3s board and its lattice ecp5 fpga",
+        "languages": {
+            "Bluespec": 120057,
+            "Verilog": 53346,
+            "C++": 35319,
+            "Makefile": 9602,
+            "C": 4116,
+            "Shell": 3135,
+            "Assembly": 1257,
+            "Python": 343
+        }
+    },
+    {
+        "name": "blue-crc",
+        "description": "A high-throughput, parameterized, parallel crc hardware implementation.",
+        "languages": {
+            "Bluespec": 29665,
+            "Python": 17902,
+            "Tcl": 8671,
+            "Makefile": 7618,
+            "Shell": 7612
+        }
+    },
+    {
+        "name": "RISCV_Debug_Module",
+        "description": null,
+        "languages": {
+            "Bluespec": 179085,
+            "Makefile": 1971
+        }
+    },
+    {
+        "name": "connect",
+        "description": "CONNECT: CONfigurable NEtwork Creation Tool",
+        "languages": {
+            "Bluespec": 374249,
+            "Python": 190184,
+            "Verilog": 83187,
+            "C++": 68967,
+            "Makefile": 8242,
+            "C": 3643,
+            "Shell": 3407,
+            "Tcl": 1415
+        }
+    },
+    {
+        "name": "Domain-Specific-Hardware-Accelerator-VLSI-CAD-Project",
+        "description": "Domain Specific Hardware Accelerators - VLSI CAD Project",
+        "languages": {
+            "Bluespec": 151630,
+            "Assembly": 16569,
+            "Python": 8782,
+            "Shell": 440
+        }
+    },
+    {
+        "name": "vscode-bsv",
+        "description": "Bluespec SystemVerilog extension for VS Code",
+        "languages": {
+            "Bluespec": 7375,
+            "C": 6878,
+            "Shell": 396
+        }
+    },
+    {
+        "name": "ctakes-covid-container",
+        "description": null,
+        "languages": {
+            "Bluespec": 176404,
+            "Python": 9706,
+            "Dockerfile": 4453,
+            "Shell": 1667
+        }
+    },
+    {
+        "name": "BID",
+        "description": "Bluespec ISA Description framework",
+        "languages": {
+            "Bluespec": 35556,
+            "Makefile": 2889
+        }
+    },
+    {
+        "name": "cheri-cap-lib",
+        "description": "A library of specific implementations of cheri and providing an abstract interface to those implementations",
+        "languages": {
+            "Bluespec": 101031,
+            "Python": 13988,
+            "C++": 930,
+            "CMake": 554,
+            "Makefile": 524
+        }
+    },
+    {
+        "name": "blue-udp",
+        "description": "The hardware implementation of UDP in Bluespec SystemVerilog",
+        "languages": {
+            "Bluespec": 335101,
+            "Verilog": 248969,
+            "Tcl": 50258,
+            "Python": 38619,
+            "Makefile": 29282,
+            "C": 22066,
+            "Shell": 12123,
+            "Dockerfile": 156,
+            "SystemVerilog": 22
+        }
+    },
+    {
+        "name": "BlueAXI",
+        "description": null,
+        "languages": {
+            "Bluespec": 177723,
+            "Makefile": 179
+        }
+    },
+    {
+        "name": "MIT_6.175",
+        "description": null,
+        "languages": {
+            "Bluespec": 674062,
+            "C": 669938,
+            "Assembly": 381084,
+            "Makefile": 78100,
+            "Perl": 77119,
+            "C++": 36771,
+            "Shell": 31138,
+            "Python": 2055
+        }
+    },
+    {
+        "name": "learn_mit_bluespec",
+        "description": null,
+        "languages": {
+            "Bluespec": 783689,
+            "C": 577434,
+            "Assembly": 316985,
+            "Makefile": 71130,
+            "Perl": 67756,
+            "C++": 35460,
+            "Shell": 14026,
+            "Verilog": 9701,
+            "Python": 1700
+        }
+    },
+    {
+        "name": "BlueLib",
+        "description": null,
+        "languages": {
+            "Bluespec": 16413,
+            "Makefile": 383,
+            "C": 172
+        }
+    },
+    {
+        "name": "TagController",
+        "description": "Multi-level tag controller for emulating a tagged memory using an in-memory table.",
+        "languages": {
+            "Bluespec": 256805,
+            "Python": 11242,
+            "C": 4459,
+            "Makefile": 3344
+        }
+    },
+    {
+        "name": "6.175",
+        "description": "This is my code for labs and projects for 6.175 (Constructive Computer Architecture)",
+        "languages": {
+            "Bluespec": 319755,
+            "Assembly": 144078,
+            "C": 107755,
+            "Perl": 24851,
+            "Makefile": 5850
+        }
+    },
+    {
+        "name": "BlueBasics",
+        "description": null,
+        "languages": {
+            "Bluespec": 151162,
+            "Verilog": 191
+        }
+    },
+    {
+        "name": "hardware-chess",
+        "description": "Implementation of a chess AI on an FPGA",
+        "languages": {
+            "Bluespec": 56394,
+            "Tcl": 20203,
+            "Python": 13401,
+            "JavaScript": 4418,
+            "Makefile": 3903,
+            "C": 1395,
+            "HTML": 926,
+            "CSS": 893,
+            "Shell": 342
+        }
+    },
+    {
+        "name": "reedsolomon",
+        "description": "Reed-Solomon Decoder ",
+        "languages": {
+            "Bluespec": 86476,
+            "C++": 40164,
+            "C": 14409
+        }
+    },
+    {
+        "name": "MIT_LAB_6.175-6.375",
+        "description": null,
+        "languages": {
+            "Bluespec": 645645,
+            "C": 470530,
+            "Assembly": 310866,
+            "Makefile": 66977,
+            "Perl": 52276,
+            "C++": 11505,
+            "Shell": 10765,
+            "Python": 4985
+        }
+    },
+    {
+        "name": "leap",
+        "description": "LEAP FPGA primary components",
+        "languages": {
+            "Bluespec": 2044649,
+            "Python": 667615,
+            "C++": 623479,
+            "Perl": 205478,
+            "Shell": 63891,
+            "Makefile": 44201,
+            "C": 34095
+        }
+    },
+    {
+        "name": "ssd-controller",
+        "description": "Open Source SSD Controller. NVMe and Lightstor variants",
+        "languages": {}
+    },
+    {
+        "name": "BitPat",
+        "description": "Bit-string pattern matching for BSV",
+        "languages": {
+            "Bluespec": 19684,
+            "Makefile": 1563
+        }
+    },
+    {
+        "name": "StructuralSpec",
+        "description": "Structural Spec parser based on Bluespec",
+        "languages": {
+            "Bluespec": 27014,
+            "Haskell": 23041,
+            "Verilog": 10706,
+            "Shell": 3460,
+            "Vim Script": 2379,
+            "Makefile": 676
+        }
+    },
+    {
+        "name": "bluespec-examples",
+        "description": null,
+        "languages": {
+            "Bluespec": 82829,
+            "Python": 72503,
+            "Verilog": 21650,
+            "Shell": 462
+        }
+    },
+    {
+        "name": "BSV-Programming-Assignment",
+        "description": "BSV Programming Assignments for new BSV users",
+        "languages": {
+            "Bluespec": 19715,
+            "Makefile": 1276,
+            "C": 729
+        }
+    },
+    {
+        "name": "qrisc",
+        "description": "VLIW RISC CPU demo for ORConf 23 Bluespec Lightning Talk",
+        "languages": {
+            "Bluespec": 6458,
+            "Python": 940,
+            "Shell": 375
+        }
+    },
+    {
+        "name": "quint-sandbox",
+        "description": "Material used in interactive demos and tutorials",
+        "languages": {
+            "Bluespec": 186749,
+            "Rust": 19703,
+            "Go": 8537,
+            "Shell": 435
+        }
+    },
+    {
+        "name": "zybo-z7-20-uart",
+        "description": "Turn several Zybo Z7-20 GPIO ports into UARTs",
+        "languages": {
+            "Bluespec": 95715,
+            "Tcl": 57824,
+            "Verilog": 7381,
+            "Makefile": 1445
+        }
+    },
+    {
+        "name": "ece6115-project-spring-2020",
+        "description": "ECE 6115 Interconnection Networks for High-Performance Systems | Spring 2020 | Georgia Tech",
+        "languages": {
+            "Bluespec": 63238,
+            "Shell": 8064
+        }
+    },
+    {
+        "name": "dbn",
+        "description": "BSV implementation of restricted boltzmann machine and deep belief networks",
+        "languages": {
+            "Bluespec": 199240,
+            "C++": 45558,
+            "C": 2627,
+            "Shell": 1550,
+            "Tcl": 318
+        }
+    },
+    {
+        "name": "cryptosorter",
+        "description": "Bluespec Cryptosorter",
+        "languages": {
+            "Bluespec": 345054,
+            "Verilog": 174180,
+            "C": 73829
+        }
+    },
+    {
+        "name": "rv-bitmanip",
+        "description": "Implementation of proposed RISC-V xbitmanip instructions in BlueSpec",
+        "languages": {
+            "Bluespec": 73877,
+            "C": 19608,
+            "Makefile": 12835,
+            "C++": 1568
+        }
+    },
+    {
+        "name": "greenland_ice_borehole_temperature_profiles",
+        "description": "Greenland ice borehole temperature profiles",
+        "languages": {
+            "Bluespec": 79059,
+            "TeX": 17898,
+            "Python": 4968,
+            "Makefile": 1375,
+            "Shell": 563
+        }
+    },
+    {
+        "name": "shakti-e-class",
+        "description": null,
+        "languages": {
+            "Bluespec": 342083,
+            "Makefile": 15029,
+            "Shell": 5376,
+            "C++": 5209,
+            "Python": 1521,
+            "C": 49
+        }
+    },
+    {
+        "name": "gymnoRTus",
+        "description": "Recognize Gymnotus electric organ discharges in real-time within microseconds",
+        "languages": {
+            "Bluespec": 82778,
+            "C": 44173,
+            "Python": 24703,
+            "Coq": 21743,
+            "Tcl": 9162,
+            "Verilog": 6417,
+            "Makefile": 3525,
+            "C++": 1247,
+            "Mathematica": 301
+        }
+    },
+    {
+        "name": "blue-ethernet",
+        "description": "High-performance Ethernet components for FPGA implementation",
+        "languages": {
+            "Bluespec": 330161,
+            "Verilog": 248969,
+            "Tcl": 50258,
+            "Python": 38611,
+            "Makefile": 29270,
+            "C": 22066,
+            "Shell": 12123,
+            "Dockerfile": 156,
+            "SystemVerilog": 22
+        }
+    },
+    {
+        "name": "Ring-Interconnect-which-supports-SiFive-TileLink-protocol.",
+        "description": null,
+        "languages": {
+            "Bluespec": 112495
+        }
+    },
+    {
+        "name": "mcu-release",
+        "description": "A release repository for the mcu class of CPUs",
+        "languages": {
+            "Bluespec": 298595,
+            "Verilog": 203178,
+            "Makefile": 38625,
+            "SystemVerilog": 563
+        }
+    },
+    {
+        "name": "OpenSMART",
+        "description": null,
+        "languages": {
+            "Bluespec": 143733,
+            "Scala": 49079,
+            "Shell": 3460
+        }
+    },
+    {
+        "name": "hasim",
+        "description": "HAsim FPGA-based core timing and functional model components",
+        "languages": {
+            "Bluespec": 766827,
+            "Perl": 155188,
+            "C++": 102748,
+            "Shell": 35002,
+            "C": 5794
+        }
+    },
+    {
+        "name": "noc_mesh",
+        "description": "Bluespec implementation of PG routing algorithm on a network on chip running a SMIPS",
+        "languages": {
+            "Bluespec": 94935,
+            "Python": 7490,
+            "Makefile": 1946
+        }
+    },
+    {
+        "name": "WindCoreInterface",
+        "description": "Unify and centralise the interface to the Piccolo / Flute / Toooba cores",
+        "languages": {
+            "Bluespec": 38996,
+            "Makefile": 2232
+        }
+    },
+    {
+        "name": "timekeeperslock",
+        "description": "Pwn2Win CTF 2016 Timekeeper's Lock challenge source code",
+        "languages": {
+            "Bluespec": 12468,
+            "Makefile": 686
+        }
+    },
+    {
+        "name": "fpgautils",
+        "description": null,
+        "languages": {
+            "Bluespec": 169279,
+            "C++": 26226,
+            "Makefile": 19723,
+            "Tcl": 11414,
+            "Verilog": 8676,
+            "Python": 1792,
+            "Shell": 634
+        }
+    },
+    {
+        "name": "RVFI-DII-utils",
+        "description": null,
+        "languages": {
+            "Bluespec": 31492,
+            "C": 4675,
+            "Makefile": 2121
+        }
+    },
+    {
+        "name": "Shakti-Projects",
+        "description": "Projects done under SHAKTI, India's first indigenously developed and manufactured microprocessor",
+        "languages": {
+            "Bluespec": 21019,
+            "Makefile": 1628
+        }
+    },
+    {
+        "name": "BSpartan",
+        "description": "Collection of projects using Verilog and Bluespec on the Spartan Edge Accelerator FPGA Board",
+        "languages": {
+            "Bluespec": 46554,
+            "Verilog": 15682,
+            "Tcl": 8864,
+            "C++": 4439,
+            "Makefile": 3496,
+            "Python": 495
+        }
+    },
+    {
+        "name": "ART",
+        "description": "ART- Accelerator for RayTracing",
+        "languages": {
+            "Bluespec": 80055,
+            "C++": 64806,
+            "Verilog": 23104,
+            "HTML": 12638,
+            "Tcl": 12003,
+            "Jupyter Notebook": 11209,
+            "Cuda": 4961,
+            "Shell": 632
+        }
+    },
+    {
+        "name": "Rogue",
+        "description": "Identify rogue taxa in phylogenetic trees within R",
+        "languages": {
+            "Bluespec": 1947000,
+            "R": 48748,
+            "TeX": 4957,
+            "C": 4329
+        }
+    },
+    {
+        "name": "bsrv",
+        "description": "Bluespec RISC-V tinkering",
+        "languages": {
+            "Bluespec": 106499,
+            "Verilog": 34602,
+            "Python": 34151,
+            "Shell": 650
+        }
+    },
+    {
+        "name": "dogbunnypuzzle-quint",
+        "description": null,
+        "languages": {
+            "Bluespec": 5071
+        }
+    },
+    {
+        "name": "bsv-cnn",
+        "description": "Bluespec-based implementation of CNN networks on FPGAs",
+        "languages": {
+            "Bluespec": 27968,
+            "Python": 20672,
+            "Shell": 14085,
+            "Makefile": 763
+        }
+    },
+    {
+        "name": "mips-bsv",
+        "description": "an implementation of a MIPS processor in BlueSpec System Verilog",
+        "languages": {
+            "Bluespec": 181
+        }
+    },
+    {
+        "name": "Recipe",
+        "description": "A BSV libary providing features similar to the Stmt sub-language",
+        "languages": {
+            "Bluespec": 22459,
+            "Makefile": 2462,
+            "C": 1563
+        }
+    },
+    {
+        "name": "AHB-Lite",
+        "description": "AHB-Lite adapters, initiators and targets.",
+        "languages": {
+            "Bluespec": 112917,
+            "Verilog": 43477,
+            "C": 29082,
+            "Makefile": 8785,
+            "C++": 2101
+        }
+    },
+    {
+        "name": "bluespec_learn",
+        "description": "Learning bsv",
+        "languages": {
+            "Bluespec": 6674,
+            "Makefile": 536
+        }
+    },
+    {
+        "name": "praesidio-hardware",
+        "description": "Hardware components to protect enclave pages from being accessed by untrusted cores",
+        "languages": {
+            "Bluespec": 23406
+        }
+    },
+    {
+        "name": "Melodica",
+        "description": "A posit arithmetic unit which implements Quire. Designed to be used both as a functional unit or as a tightly coupled accelerator.",
+        "languages": {
+            "Bluespec": 370180,
+            "C": 63425,
+            "Python": 35510,
+            "Makefile": 26974,
+            "MATLAB": 7233,
+            "C++": 4879
+        }
+    },
+    {
+        "name": "CHERISOC",
+        "description": "A CHERI enabled simulation SOC using PISM and a TagController module",
+        "languages": {
+            "Bluespec": 11411,
+            "Makefile": 3005
+        }
+    },
+    {
+        "name": "blue-wrapper",
+        "description": null,
+        "languages": {
+            "Bluespec": 58480,
+            "Python": 9046,
+            "Shell": 7661,
+            "Makefile": 1633
+        }
+    },
+    {
+        "name": "keccak-bsv",
+        "description": "Bluespec SystemVerilog implementation of the Keccak primitive (SHA-3)",
+        "languages": {
+            "Bluespec": 14190,
+            "Makefile": 665
+        }
+    },
+    {
+        "name": "cnn_accel",
+        "description": "Hardware CNN Accelerator",
+        "languages": {
+            "Bluespec": 56481,
+            "Python": 6364,
+            "Makefile": 1317
+        }
+    },
+    {
+        "name": "2015ComputerArchitecture",
+        "description": "Experimenting architectures with Bluespec",
+        "languages": {
+            "Bluespec": 354538,
+            "C++": 75063,
+            "Shell": 22490,
+            "Makefile": 8653
+        }
+    },
+    {
+        "name": "Quark",
+        "description": "Quark is a single cycle RV32I RISC-V core, The RTL is written in BlueSpec System Verilog (BSV)",
+        "languages": {
+            "Bluespec": 3672,
+            "Makefile": 200,
+            "Pascal": 122
+        }
+    },
+    {
+        "name": "Bluespec_Assignment",
+        "description": null,
+        "languages": {
+            "Bluespec": 7264
+        }
+    },
+    {
+        "name": "BitPat",
+        "description": "Bit-string pattern matching library for Bluespec",
+        "languages": {
+            "Bluespec": 9279,
+            "Makefile": 629
+        }
+    },
+    {
+        "name": "bluespec-experiments",
+        "description": "My attempts to learn bluespec",
+        "languages": {
+            "Bluespec": 13457,
+            "Makefile": 2694
+        }
+    },
+    {
+        "name": "bluespec_practice",
+        "description": null,
+        "languages": {
+            "Bluespec": 31062,
+            "C++": 10588,
+            "Makefile": 3350,
+            "Shell": 880,
+            "Tcl": 221
+        }
+    },
+    {
+        "name": "Advanced-Computer-Architecture-Course",
+        "description": "BUAA postgraduate course: Advanced Computer Architecture",
+        "languages": {
+            "Bluespec": 28689,
+            "Makefile": 44
+        }
+    },
+    {
+        "name": "shaktiFPU",
+        "description": "This repository contains the codebase of Floating Point Unit used in different variants of the SHAKTI Processor effort",
+        "languages": {
+            "Bluespec": 222779
+        }
+    },
+    {
+        "name": "Branch-predictor",
+        "description": "Implementation of TAGE branch predictor in Bluespec",
+        "languages": {
+            "Bluespec": 101763,
+            "Verilog": 54484
+        }
+    },
+    {
+        "name": "partnership-heliax",
+        "description": null,
+        "languages": {
+            "Bluespec": 245687,
+            "TLA": 26270,
+            "Dockerfile": 1383
+        }
+    },
+    {
+        "name": "AcqSys",
+        "description": "Low-cost modular acquisition and stimulation system for neuroscience",
+        "languages": {
+            "Bluespec": 39443,
+            "Python": 4038,
+            "C": 4028,
+            "C++": 3244,
+            "Makefile": 2247,
+            "Verilog": 300
+        }
+    },
+    {
+        "name": "Domains-specific-accelerator",
+        "description": "This repo contains the bluespec code for the hardware accelerator for vector/matrix addition",
+        "languages": {
+            "Bluespec": 263329
+        }
+    },
+    {
+        "name": "stratix10-unit-tester",
+        "description": null,
+        "languages": {
+            "Bluespec": 51452,
+            "Python": 45138,
+            "Verilog": 43496,
+            "Makefile": 24665
+        }
+    },
+    {
+        "name": "Pipelined-Module-using-Bluespec",
+        "description": "CS6230 - course project ",
+        "languages": {
+            "Bluespec": 91861
+        }
+    },
+    {
+        "name": "BlueAXI4",
+        "description": null,
+        "languages": {
+            "Bluespec": 362564,
+            "C": 52254,
+            "Makefile": 264
+        }
+    },
+    {
+        "name": "cs220a",
+        "description": "Computer Organization Assignments (BSV and MIPS Assembly)",
+        "languages": {
+            "Bluespec": 207120,
+            "Shell": 24502,
+            "Perl": 5354,
+            "Verilog": 1941,
+            "C++": 442,
+            "Assembly": 0
+        }
+    },
+    {
+        "name": "Face_Detect_BSV",
+        "description": "Viola Jones Face Detection Algorithm implemented in Bluespec System Verilog to run on FPGA",
+        "languages": {
+            "Bluespec": 152141,
+            "Python": 3054,
+            "Makefile": 2200
+        }
+    },
+    {
+        "name": "up5k_bsv",
+        "description": "Bluespec environment for the Lattice up5k FPGA",
+        "languages": {
+            "Bluespec": 61182,
+            "Verilog": 48333,
+            "C++": 23235,
+            "Makefile": 4873
+        }
+    },
+    {
+        "name": "BSV_RISC-V",
+        "description": "Multi-stage RISC-V processors designed using BSV",
+        "languages": {
+            "Bluespec": 129370,
+            "TeX": 45929,
+            "Shell": 1718,
+            "Makefile": 580
+        }
+    },
+    {
+        "name": "bscjson",
+        "description": "Generate JSON serialization of Bluespec values.",
+        "languages": {
+            "Bluespec": 3899,
+            "Python": 587,
+            "Makefile": 277
+        }
+    },
+    {
+        "name": "cs-arch",
+        "description": "MIT 6.004 & MIT 6.175 & MIT 6.375",
+        "languages": {
+            "Bluespec": 68840,
+            "Makefile": 4307
+        }
+    },
+    {
+        "name": "computer_architecture",
+        "description": "Codes of 2018-1 Computer Architecture (001) Course",
+        "languages": {
+            "Bluespec": 324748,
+            "Shell": 27821,
+            "Makefile": 8087,
+            "C++": 972
+        }
+    },
+    {
+        "name": "code_dummies",
+        "description": null,
+        "languages": {
+            "Bluespec": 188653,
+            "Verilog": 3040,
+            "C++": 1835,
+            "Makefile": 1301,
+            "Tcl": 960
+        }
+    },
+    {
+        "name": "colorlighti5",
+        "description": null,
+        "languages": {
+            "Bluespec": 32019,
+            "Makefile": 9932,
+            "Verilog": 2374,
+            "Python": 331,
+            "Shell": 57
+        }
+    },
+    {
+        "name": "language-bh",
+        "description": "TextMate-style grammar for syntax highlighting of Bluespec BH/Classic",
+        "languages": {
+            "Bluespec": 242886,
+            "Shell": 4294,
+            "Makefile": 1028,
+            "TypeScript": 696
+        }
+    },
+    {
+        "name": "coherence",
+        "description": null,
+        "languages": {
+            "Bluespec": 792398,
+            "C++": 9037,
+            "Makefile": 7989,
+            "Shell": 3864,
+            "C": 889
+        }
+    },
+    {
+        "name": "BSV-Stuff",
+        "description": "To toy around with Bluespec-SystemVerilog and my Basys3 board",
+        "languages": {
+            "Bluespec": 94304,
+            "Verilog": 87412,
+            "Makefile": 140
+        }
+    },
+    {
+        "name": "Bluespec_noob",
+        "description": "Learning bluespec with bunch of tutorials and example codes",
+        "languages": {
+            "Bluespec": 2501
+        }
+    },
+    {
+        "name": "Vector-Accelerator",
+        "description": "This is an archived repository of an older version of Vector Processor (based on Berkeley's Hwacha) designed at SHAKTI group IIT Madras",
+        "languages": {
+            "Bluespec": 158012
+        }
+    },
+    {
+        "name": "bluespec_md6",
+        "description": "Bluespec MD6 ",
+        "languages": {
+            "Bluespec": 329597,
+            "C": 168963,
+            "TeX": 46469,
+            "Verilog": 43307,
+            "Assembly": 35199,
+            "Python": 1784,
+            "Perl": 849
+        }
+    },
+    {
+        "name": "Processor-",
+        "description": null,
+        "languages": {
+            "Bluespec": 1439259,
+            "C": 1167971,
+            "Verilog": 603220,
+            "Assembly": 307197,
+            "Objective-C": 200062,
+            "Scala": 150898,
+            "Python": 128288,
+            "Perl": 95586,
+            "Makefile": 55507,
+            "Tcl": 6068,
+            "C++": 5954,
+            "M4": 292
+        }
+    },
+    {
+        "name": "S10FPGA",
+        "description": "Library containing Bluespec and Verilog components targetting Stratix 10 FPGAs",
+        "languages": {
+            "Bluespec": 57199,
+            "Verilog": 15559,
+            "Makefile": 3956,
+            "Tcl": 3450,
+            "Python": 873
+        }
+    },
+    {
+        "name": "Useful_Modules",
+        "description": "This repo collects several implementation of comman and useful hardware modules.",
+        "languages": {
+            "Bluespec": 25567,
+            "Verilog": 22326,
+            "Python": 11896,
+            "Makefile": 2296,
+            "Dockerfile": 116,
+            "Forth": 14
+        }
+    },
+    {
+        "name": "2-CNN",
+        "description": "A Two Dimensional Convolution Accelerator implemented using Bluespec Verilog.",
+        "languages": {
+            "Bluespec": 22491,
+            "C": 13820,
+            "Makefile": 248
+        }
+    },
+    {
+        "name": "FPGA-playground",
+        "description": "Code written using BlueSpec Verilog, general FPGA messing around for my course",
+        "languages": {
+            "Bluespec": 62756,
+            "Makefile": 6399,
+            "Verilog": 3714,
+            "Shell": 1748,
+            "Python": 750,
+            "C": 346
+        }
+    },
+    {
+        "name": "bsv-hash",
+        "description": "Hash functions written in Bluespec System Verilog",
+        "languages": {
+            "Bluespec": 43451,
+            "C": 12666,
+            "Makefile": 1403
+        }
+    },
+    {
+        "name": "mit_bsv_learn",
+        "description": "mit 6.175 6.375 learn",
+        "languages": {
+            "Bluespec": 824360,
+            "C": 697072,
+            "Assembly": 403741,
+            "Makefile": 84860,
+            "Perl": 80589,
+            "C++": 35649,
+            "Shell": 14239,
+            "Python": 2123
+        }
+    },
+    {
+        "name": "cumulus-library",
+        "description": null,
+        "languages": {
+            "Bluespec": 47598054,
+            "Python": 299553,
+            "Jinja": 53479
+        }
+    },
+    {
+        "name": "MIT_6.175_6.375_Lab",
+        "description": "MIT 6.004 6.175 6.375 course, notes, Lab and Project. digital design and computer architecture.",
+        "languages": {
+            "Bluespec": 123473,
+            "C": 112203,
+            "Assembly": 73615,
+            "Makefile": 16667,
+            "Perl": 12280,
+            "C++": 1697,
+            "Shell": 1631,
+            "Python": 412
+        }
+    },
+    {
+        "name": "lab0",
+        "description": "Setup and Warmup",
+        "languages": {
+            "Bluespec": 370,
+            "Makefile": 299
+        }
+    },
+    {
+        "name": "BlueMatching",
+        "description": "Minimum Weight Perfect Matching (MPMW) decoder in Bluespec SV, written as a referance for high-velocity QC HDL dev",
+        "languages": {
+            "Bluespec": 10198,
+            "Makefile": 1030
+        }
+    },
+    {
+        "name": "Near_Mem",
+        "description": "All the different flavours of near-mem modules may eventually reside here. ",
+        "languages": {
+            "Bluespec": 302338,
+            "Makefile": 9165,
+            "V": 3153,
+            "C++": 2101
+        }
+    },
+    {
+        "name": "Near_Mem_TCM_Join",
+        "description": "BRAM-based Tightly Coupled Memory for Flute",
+        "languages": {
+            "Bluespec": 93648
+        }
+    },
+    {
+        "name": "bsv_mit_lecture",
+        "description": "This repo is used to record the trace of learning Bluespec SystemVerilog based on MIT 6.004, 6.175 and 6.375. ",
+        "languages": {
+            "Bluespec": 684457,
+            "C": 599567,
+            "Assembly": 400131,
+            "Makefile": 75218,
+            "Perl": 66910,
+            "C++": 18748,
+            "Shell": 13275,
+            "Python": 2683
+        }
+    },
+    {
+        "name": "ISAModelRISC-V",
+        "description": "Synthesizable RISC-V ISA Model in Bluespec SystemVerilog",
+        "languages": {
+            "Bluespec": 114773,
+            "Makefile": 2077
+        }
+    },
+    {
+        "name": "CNN",
+        "description": "A One Dimensional Convolution Accelerator implemented using Bluespec Verilog.",
+        "languages": {
+            "Bluespec": 15145,
+            "Makefile": 248
+        }
+    },
+    {
+        "name": "FAQ_Blatt",
+        "description": "Antworten zum AER FAQ-Blatt (liegt auch bei)",
+        "languages": {
+            "Bluespec": 5101
+        }
+    },
+    {
+        "name": "6.175-project-2",
+        "description": null,
+        "languages": {
+            "Bluespec": 202503,
+            "Assembly": 142085,
+            "C": 104390,
+            "Perl": 24851,
+            "C++": 9871,
+            "Makefile": 3850,
+            "Shell": 558
+        }
+    },
+    {
+        "name": "CAD-for-VLSI",
+        "description": "5 stage pipelined RISCV processor",
+        "languages": {
+            "Bluespec": 22539,
+            "Perl": 4420
+        }
+    },
+    {
+        "name": "TM1",
+        "description": "TM1",
+        "languages": {
+            "Bluespec": 6636194,
+            "R": 137494,
+            "HTML": 38784,
+            "Python": 37785,
+            "CSS": 2638,
+            "Rebol": 798,
+            "Shell": 94
+        }
+    },
+    {
+        "name": "riscv-test",
+        "description": null,
+        "languages": {
+            "Bluespec": 52708,
+            "Python": 11562,
+            "C++": 2245,
+            "Shell": 1969
+        }
+    },
+    {
+        "name": "CLINT",
+        "description": "Timer and SW interrupts module",
+        "languages": {
+            "Bluespec": 43026
+        }
+    },
+    {
+        "name": "TileLink-2",
+        "description": null,
+        "languages": {
+            "Bluespec": 3576,
+            "CMake": 179
+        }
+    },
+    {
+        "name": "Sequence-detection-and-selection-sort-using-Bluespec-System-Verilog-BSV-",
+        "description": "The purpose is to implement a sequence detector algorithm and a selection sort algorithm using BSV.",
+        "languages": {
+            "Bluespec": 6889
+        }
+    },
+    {
+        "name": "Self_Attention_Accelerator",
+        "description": "Hardware Accelerator for Self Attention Layer in Bluespec - for Shakti C Class",
+        "languages": {
+            "Bluespec": 268640,
+            "C": 123722,
+            "Shell": 3472
+        }
+    },
+    {
+        "name": "cad-project",
+        "description": null,
+        "languages": {
+            "Bluespec": 2683
+        }
+    },
+    {
+        "name": "Activation-Function-cfloat8_1_5_2",
+        "description": null,
+        "languages": {
+            "Bluespec": 10942
+        }
+    },
+    {
+        "name": "CCA_lab1_a",
+        "description": "Combinational exercises and debugging a buggy sequential circuit. Warm-up for lab1_b.",
+        "languages": {
+            "Bluespec": 12400,
+            "Makefile": 1452
+        }
+    },
+    {
+        "name": "rec03",
+        "description": "More Fibonacci, this time with Konata and more testing",
+        "languages": {
+            "Bluespec": 26536,
+            "Python": 1649,
+            "Makefile": 807
+        }
+    },
+    {
+        "name": "CAD-for-VLSI",
+        "description": "Project",
+        "languages": {
+            "Bluespec": 17025,
+            "HTML": 8066
+        }
+    },
+    {
+        "name": "dmac",
+        "description": null,
+        "languages": {
+            "Bluespec": 1259568,
+            "LLVM": 461229,
+            "C": 375715,
+            "C++": 104497,
+            "Verilog": 31518,
+            "Python": 20732,
+            "Makefile": 17581,
+            "Tcl": 9972,
+            "Shell": 690
+        }
+    },
+    {
+        "name": "FPGA",
+        "description": "Transfer an image to BRAM FPGA",
+        "languages": {
+            "Bluespec": 2207,
+            "MATLAB": 378,
+            "M": 352
+        }
+    },
+    {
+        "name": "RISC-V_Processor",
+        "description": null,
+        "languages": {
+            "Bluespec": 42186,
+            "Makefile": 1259
+        }
+    },
+    {
+        "name": "Bluespec",
+        "description": null,
+        "languages": {
+            "Bluespec": 7814
+        }
+    },
+    {
+        "name": "floating-point-unit",
+        "description": "Hardware implementation of floating point unit (IEEE-754 compliant) for RISC-V architecture",
+        "languages": {
+            "Bluespec": 462409
+        }
+    },
+    {
+        "name": "assignments",
+        "description": "This repository contains coding assignments done in courses during my M. Tech at IIT Madras",
+        "languages": {
+            "Bluespec": 63048,
+            "Python": 17467,
+            "Makefile": 6324
+        }
+    },
+    {
+        "name": "Phi-In-Comparsion-With-Others",
+        "description": null,
+        "languages": {
+            "Bluespec": 589,
+            "Verilog": 585,
+            "Scala": 514,
+            "VHDL": 470,
+            "Python": 459
+        }
+    },
+    {
+        "name": "ZFP-1D",
+        "description": null,
+        "languages": {
+            "Bluespec": 59767,
+            "C++": 3522,
+            "Makefile": 626,
+            "Shell": 256,
+            "Tcl": 8
+        }
+    },
+    {
+        "name": "bluespec-compile-script",
+        "description": "Bluespec Compile Script - Use for Initial Projects",
+        "languages": {
+            "Bluespec": 21678,
+            "Shell": 9631
+        }
+    },
+    {
+        "name": "bluePredictiveMaintenance",
+        "description": null,
+        "languages": {
+            "Bluespec": 44160,
+            "C++": 10022,
+            "Makefile": 1235
+        }
+    },
+    {
+        "name": "bluespec-crossbar-switch",
+        "description": "Crossbar Switch Implementation in Bluespec System Verilog",
+        "languages": {
+            "Bluespec": 32122,
+            "Shell": 6568
+        }
+    },
+    {
+        "name": "BSV_Reference",
+        "description": "For quick reference of BSV modules' codes, constructs etc",
+        "languages": {
+            "Bluespec": 605
+        }
+    },
+    {
+        "name": "Shoal",
+        "description": null,
+        "languages": {
+            "Bluespec": 383110,
+            "C": 106591,
+            "Verilog": 35324,
+            "C++": 33828,
+            "Tcl": 11487,
+            "Makefile": 10285,
+            "Python": 8616,
+            "Shell": 6347
+        }
+    },
+    {
+        "name": "Tage",
+        "description": null,
+        "languages": {
+            "Bluespec": 40637,
+            "Makefile": 5295,
+            "Python": 4102
+        }
+    },
+    {
+        "name": "Tiny_TCM",
+        "description": "A resource constrained TCM implementation.",
+        "languages": {
+            "Bluespec": 82080
+        }
+    },
+    {
+        "name": "AER_WS20",
+        "description": null,
+        "languages": {
+            "Bluespec": 17071,
+            "Makefile": 226,
+            "Shell": 68
+        }
+    },
+    {
+        "name": "blueshmem",
+        "description": "Bluespec library that supports forking of simulations and shared memory for FIFO queues.",
+        "languages": {
+            "Bluespec": 5371,
+            "C": 2621,
+            "Makefile": 398
+        }
+    },
+    {
+        "name": "PLIC",
+        "description": "Platform Level Interrupt Controller",
+        "languages": {
+            "Bluespec": 68294,
+            "Makefile": 1169
+        }
+    },
+    {
+        "name": "example-bluespec",
+        "description": "Bluespec Example",
+        "languages": {
+            "Bluespec": 4407
+        }
+    },
+    {
+        "name": "MIT6.175",
+        "description": "MIT2017\u5e74\u79cb\u8ba1\u7b97\u673a\u4f53\u7cfb\u7ed3\u6784\u5b9e\u9a8c",
+        "languages": {
+            "Bluespec": 674062,
+            "C": 669938,
+            "Assembly": 381084,
+            "Makefile": 78100,
+            "Perl": 77119,
+            "C++": 36771,
+            "Shell": 31138,
+            "Python": 2055
+        }
+    },
+    {
+        "name": "RISC-V_Processor",
+        "description": null,
+        "languages": {
+            "Bluespec": 42186,
+            "Tcl": 3177,
+            "Makefile": 1259
+        }
+    },
+    {
+        "name": "basic-multiplier",
+        "description": "A basic Radix-8 multiplier written in Bluespec SystemVerilog. Accompanying repo for my blog post https://martinchan.org/blog/basic-multiplier/",
+        "languages": {
+            "Bluespec": 5930,
+            "C": 1687,
+            "Makefile": 622,
+            "Shell": 98
+        }
+    },
+    {
+        "name": "rec01",
+        "description": null,
+        "languages": {
+            "Bluespec": 3107,
+            "Makefile": 1534
+        }
+    },
+    {
+        "name": "drnic",
+        "description": "datenlord's rdma nic",
+        "languages": {
+            "Bluespec": 142817,
+            "Tcl": 30258,
+            "Python": 20124,
+            "Shell": 16524,
+            "Verilog": 9421,
+            "Makefile": 963
+        }
+    },
+    {
+        "name": "morbius",
+        "description": "Motif Finding via Gibbs Sampling",
+        "languages": {
+            "Bluespec": 37626,
+            "C": 10776,
+            "C++": 6609,
+            "Python": 5212,
+            "Makefile": 1011,
+            "Tcl": 344,
+            "Shell": 220
+        }
+    },
+    {
+        "name": "convey",
+        "description": "Convey MX-100",
+        "languages": {
+            "Bluespec": 971169,
+            "C++": 894981,
+            "HTML": 196518,
+            "C": 161442,
+            "Makefile": 24831,
+            "Verilog": 10526,
+            "Python": 7989,
+            "Objective-C": 5428,
+            "Assembly": 1800,
+            "Shell": 1316,
+            "Batchfile": 938
+        }
+    },
+    {
+        "name": "DTW_on_FPGA",
+        "description": null,
+        "languages": {
+            "Bluespec": 22063,
+            "C++": 2714,
+            "Makefile": 587,
+            "Shell": 228,
+            "Tcl": 8
+        }
+    },
+    {
+        "name": "bcr-terminology",
+        "description": "Breast Cancer Recurrence (BCR) terminology used with Apache cTAKES to identify recurrence in clinical notes.",
+        "languages": {
+            "Bluespec": 441458
+        }
+    },
+    {
+        "name": "RISCV-V-BSV-Functions",
+        "description": "A set of modules to help integrate support for the RVV ISA extensions into existing CPU designs.",
+        "languages": {
+            "Bluespec": 12615,
+            "Python": 600,
+            "Shell": 111
+        }
+    },
+    {
+        "name": "NetworkBenchmarkPEs",
+        "description": null,
+        "languages": {
+            "Bluespec": 289002,
+            "Python": 17198,
+            "Makefile": 15713,
+            "C": 7928
+        }
+    },
+    {
+        "name": "Bluespec_SV",
+        "description": null,
+        "languages": {
+            "Bluespec": 1622
+        }
+    },
+    {
+        "name": "bluespec-iterative-multiplier",
+        "description": null,
+        "languages": {
+            "Bluespec": 3029,
+            "Makefile": 337
+        }
+    },
+    {
+        "name": "feature-service",
+        "description": "feature set construction for biomed NLP models",
+        "languages": {
+            "Bluespec": 9213177,
+            "Python": 2705297,
+            "Shell": 16329,
+            "Groovy": 4262,
+            "Dockerfile": 1605,
+            "Jinja": 1149
+        }
+    },
+    {
+        "name": "Pipelined-Doubled-Precision-Floating-Point-Multiplier",
+        "description": "CS6230 CAD FOR VLSI - PROJECT",
+        "languages": {
+            "Bluespec": 15345,
+            "Makefile": 9764
+        }
+    },
+    {
+        "name": "MIT_Architecture_Course",
+        "description": "This is about someone taking MIT architecture courses (MIT6.004, MIT6.175, MIT6.375) in the DatenLord community, covering topics like combinational logic, sequential logic, RISC-V, and multi-core processors. etc",
+        "languages": {
+            "Bluespec": 466
+        }
     }
 ]

@@ -83,5 +83,2000 @@
             "BitBake": 13850794,
             "Shell": 56953
         }
+    },
+    {
+        "name": "openembedded-core",
+        "description": "The official Git repository is at https://git.openembedded.org/openembedded-core/. ",
+        "languages": {
+            "BitBake": 4224979,
+            "Python": 3705150,
+            "Roff": 875680,
+            "Shell": 414781,
+            "C": 112772,
+            "Perl": 33691,
+            "HTML": 11397,
+            "M4": 11014,
+            "Makefile": 10392,
+            "NASL": 7402,
+            "CMake": 2851,
+            "C++": 2314,
+            "JavaScript": 1624,
+            "Rust": 1369,
+            "Meson": 821,
+            "sed": 638,
+            "PHP": 504,
+            "Awk": 205,
+            "Assembly": 151,
+            "Fortran": 75
+        }
+    },
+    {
+        "name": "meta-riscv",
+        "description": "OpenEmbedded/Yocto layer for RISC-V Architecture",
+        "languages": {
+            "BitBake": 72930,
+            "Makefile": 20524,
+            "Shell": 2360,
+            "CMake": 2251,
+            "NASL": 1637,
+            "HTML": 1574
+        }
+    },
+    {
+        "name": "meta-qt5",
+        "description": "QT5 layer for openembedded",
+        "languages": {
+            "BitBake": 169203,
+            "Python": 6954,
+            "Roff": 1187,
+            "Shell": 71,
+            "CMake": 70
+        }
+    },
+    {
+        "name": "meta-intel-aero",
+        "description": "Yocto layer to support Intel Aero platform",
+        "languages": {
+            "BitBake": 24756,
+            "Shell": 3580,
+            "Python": 933,
+            "C++": 916,
+            "CSS": 417
+        }
+    },
+    {
+        "name": "meta-rpi",
+        "description": "A Yocto meta-layer for some RaspberryPis",
+        "languages": {
+            "BitBake": 18605,
+            "Shell": 16281
+        }
+    },
+    {
+        "name": "balena-raspberrypi",
+        "description": "Balena support for RaspberryPI boards",
+        "languages": {
+            "BitBake": 46551,
+            "CoffeeScript": 20041,
+            "Shell": 4923
+        }
+    },
+    {
+        "name": "yoe-distro",
+        "description": "Embedded Linux distribution optimized for product development (based on OE/Yocto)",
+        "languages": {
+            "BitBake": 76154,
+            "Shell": 53058,
+            "Lua": 4332,
+            "C++": 74
+        }
+    },
+    {
+        "name": "meta-browser",
+        "description": "OpenEmbedded/Yocto BSP layer for Web Browsers",
+        "languages": {
+            "BitBake": 133327,
+            "Python": 4966,
+            "JavaScript": 814,
+            "Shell": 757
+        }
+    },
+    {
+        "name": "oe-alliance-core",
+        "description": "The openembedded alliance core.",
+        "languages": {
+            "BitBake": 2872141,
+            "M4": 484138,
+            "Shell": 364871,
+            "Python": 159478,
+            "C": 63136,
+            "CSS": 31349,
+            "C++": 5456,
+            "Modula-3": 5319,
+            "Roff": 5191,
+            "Makefile": 2169,
+            "Perl": 1589,
+            "HTML": 1181,
+            "Batchfile": 304,
+            "Pascal": 231,
+            "SWIG": 68
+        }
+    },
+    {
+        "name": "meta-mender",
+        "description": "Yocto Project meta layer for the Mender client",
+        "languages": {
+            "BitBake": 454628,
+            "Python": 254950,
+            "Shell": 49105,
+            "Dockerfile": 2079,
+            "Batchfile": 142
+        }
+    },
+    {
+        "name": "meta-freescale",
+        "description": "Layer containing NXP hardware support metadata",
+        "languages": {
+            "BitBake": 470767,
+            "Shell": 7379,
+            "Python": 5152
+        }
+    },
+    {
+        "name": "meta-gstreamer1.0",
+        "description": "OpenEmbedded layer for GStreamer 1.0",
+        "languages": {
+            "BitBake": 41178,
+            "NASL": 5802,
+            "Python": 1350,
+            "Clojure": 1153,
+            "Shell": 1150
+        }
+    },
+    {
+        "name": "BugBounty",
+        "description": "Bug Bounty stuffs, payloads, scripts, profiles, tips and tricks, ...",
+        "languages": {
+            "BitBake": 71459,
+            "Python": 1634
+        }
+    },
+    {
+        "name": "meta-rauc",
+        "description": "Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework",
+        "languages": {
+            "BitBake": 31204,
+            "Shell": 3038
+        }
+    },
+    {
+        "name": "meta-clang",
+        "description": "Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project",
+        "languages": {
+            "BitBake": 96269,
+            "Shell": 4199
+        }
+    },
+    {
+        "name": "BurpBountyProfiles",
+        "description": "BurpBounty\u63d2\u4ef6\u7684\u914d\u7f6e\u6587\u4ef6\u6536\u96c6\u9879\u76ee",
+        "languages": {
+            "BitBake": 1214177,
+            "Shell": 1571,
+            "Python": 896
+        }
+    },
+    {
+        "name": "meta-fsl-arm",
+        "description": "OpenEmbedded/Yocto BSP layer for Freescale's ARM platforms",
+        "languages": {
+            "BitBake": 34968,
+            "PHP": 27279,
+            "C++": 9899,
+            "NASL": 8674,
+            "Shell": 3833,
+            "Assembly": 2552,
+            "Python": 1071,
+            "Tcl": 902
+        }
+    },
+    {
+        "name": "meta-debian",
+        "description": "Meta-layer for Poky to build embedded Linux environments by Debian's source codes",
+        "languages": {
+            "BitBake": 727332,
+            "Shell": 31942,
+            "Python": 5258,
+            "Dockerfile": 1883,
+            "CMake": 1156,
+            "C": 676,
+            "Makefile": 591
+        }
+    },
+    {
+        "name": "meta-swupdate",
+        "description": "Yocto receipes to generate a swupdate rootfilesystem as initrd",
+        "languages": {
+            "BitBake": 41431,
+            "Shell": 10603,
+            "Lua": 1523
+        }
+    },
+    {
+        "name": "meta-flutter",
+        "description": "Google Flutter for Yocto",
+        "languages": {
+            "BitBake": 184668,
+            "NASL": 20119,
+            "Python": 9207
+        }
+    },
+    {
+        "name": "meta-webkit",
+        "description": "Yocto / OpenEmbedded layer for WebKit based engines and browsers",
+        "languages": {
+            "BitBake": 67102,
+            "C++": 1131,
+            "CMake": 389,
+            "QML": 265
+        }
+    },
+    {
+        "name": "meta-aws",
+        "description": "The metadata layer for baking AWS device software to Embedded Linux distributions built by the Yocto Project build system.",
+        "languages": {
+            "BitBake": 100737,
+            "Shell": 100242,
+            "Python": 2502
+        }
+    },
+    {
+        "name": "meta-st-stm32mp",
+        "description": "meta-st-stm32mp",
+        "languages": {
+            "BitBake": 387380,
+            "Shell": 39349,
+            "Python": 5841,
+            "Batchfile": 4571
+        }
+    },
+    {
+        "name": "yocto-pitrezor",
+        "description": "raspberry pi zero platform to run the trezor port pitrezor as a bitcoin wallet",
+        "languages": {
+            "BitBake": 5221,
+            "Shell": 926,
+            "Dockerfile": 424
+        }
+    },
+    {
+        "name": "dokai",
+        "description": "Collection of Docker images for ML/DL and video processing projects",
+        "languages": {
+            "BitBake": 2994,
+            "Makefile": 2499,
+            "Python": 2013,
+            "Dockerfile": 154
+        }
+    },
+    {
+        "name": "meta-openwrt",
+        "description": "OE/Yocto metadata layer for OpenWRT",
+        "languages": {
+            "BitBake": 54819,
+            "Makefile": 50449,
+            "Shell": 3552,
+            "BlitzBasic": 1990
+        }
+    },
+    {
+        "name": "meta-meson",
+        "description": "Upstream Linux Amlogic Meson Yocto/OpenEmbedded Layer",
+        "languages": {
+            "BitBake": 31716,
+            "Shell": 6869,
+            "Python": 6411,
+            "Batchfile": 2108,
+            "Dockerfile": 1105,
+            "Jinja": 836
+        }
+    },
+    {
+        "name": "meta-rust-bin",
+        "description": "Yocto layer for installing Rust toolchain from pre-built binaries",
+        "languages": {
+            "BitBake": 197249,
+            "Shell": 8596
+        }
+    },
+    {
+        "name": "meta-freescale-3rdparty",
+        "description": "OpenEmbedded/Yocto BSP layer for Freescale's ARM based platforms",
+        "languages": {
+            "BitBake": 42419,
+            "Shell": 967
+        }
+    },
+    {
+        "name": "meta-atmel",
+        "description": "OpenEmbedded/Yocto Project layer for for Microchip SoC (aka AT91) ",
+        "languages": {
+            "BitBake": 88917,
+            "C": 29466
+        }
+    },
+    {
+        "name": "meta-sca",
+        "description": "Layer for static code analysis and security hardening",
+        "languages": {
+            "BitBake": 858322,
+            "Python": 94188,
+            "Shell": 5218,
+            "Perl": 4404,
+            "Go": 2057,
+            "C": 1710,
+            "HTML": 578
+        }
+    },
+    {
+        "name": "openpli-oe-core",
+        "description": "OpenPLi Openembedded overlay for PVR settop boxes",
+        "languages": {
+            "BitBake": 575122,
+            "M4": 482103,
+            "Shell": 127487,
+            "C": 42679,
+            "Python": 32994,
+            "Makefile": 7443,
+            "Roff": 5191,
+            "C++": 4457,
+            "HTML": 1211,
+            "Pascal": 113,
+            "SWIG": 68
+        }
+    },
+    {
+        "name": "meta-petalinux",
+        "description": "meta-petalinux distro layer supporting Xilinx Tools",
+        "languages": {
+            "BitBake": 80216,
+            "Shell": 52606,
+            "NASL": 37901,
+            "Python": 29911,
+            "C": 16592,
+            "Jupyter Notebook": 9996,
+            "C++": 6546,
+            "HTML": 5104,
+            "Clojure": 2744,
+            "Makefile": 706,
+            "PHP": 526,
+            "Assembly": 465
+        }
+    },
+    {
+        "name": "meta-secure-core",
+        "description": "OpenEmbedded layer for the use cases on secure boot, integrity and encryption",
+        "languages": {
+            "BitBake": 49039,
+            "Shell": 25014,
+            "C++": 23284,
+            "BlitzBasic": 2845,
+            "Clojure": 2627,
+            "Pascal": 1966,
+            "HTML": 1554,
+            "PHP": 223,
+            "NASL": 182
+        }
+    },
+    {
+        "name": "meta-asteroid",
+        "description": "OpenEmbedded layer that provides the basis of AsteroidOS",
+        "languages": {
+            "BitBake": 214977,
+            "Shell": 13975,
+            "C": 2305,
+            "QML": 317
+        }
+    },
+    {
+        "name": "meta-wpe",
+        "description": "Yocto/OE - Web Platform for Embedded (WPE)",
+        "languages": {
+            "BitBake": 110573,
+            "PHP": 68653,
+            "C++": 43058,
+            "NASL": 34802,
+            "Shell": 12372,
+            "HTML": 7742,
+            "Python": 2573,
+            "CMake": 958,
+            "Pascal": 291
+        }
+    },
+    {
+        "name": "meta-flutter",
+        "description": "Yocto recipes for Flutter Engine and custom embedders",
+        "languages": {
+            "BitBake": 8262
+        }
+    },
+    {
+        "name": "msmnilePkg",
+        "description": "Trying to port SurfaceDuoPkg for other qcom devices.",
+        "languages": {
+            "BitBake": 2520257,
+            "C": 2079095,
+            "Python": 194182,
+            "Assembly": 27934,
+            "C++": 25828,
+            "Makefile": 4591,
+            "Shell": 2282,
+            "Dockerfile": 987,
+            "NASL": 585,
+            "Pawn": 312
+        }
+    },
+    {
+        "name": "meta-iot-cloud",
+        "description": "OpenEmbedded layer to add support for multiple cloud IoT services including Microsoft Azure & Google Cloud Platform. ",
+        "languages": {
+            "BitBake": 34350
+        }
+    },
+    {
+        "name": "meta-freescale-distro",
+        "description": "OpenEmbedded/Yocto BSP layer for Freescale's ARM based platforms",
+        "languages": {
+            "BitBake": 28584,
+            "Shell": 994
+        }
+    },
+    {
+        "name": "meta-intel-edison",
+        "description": "Here is the meta-intel-edison that builds, tries to stay up to date. Master is based on Yocto Poky Gatesgarth LTS 5.10.yy vanilla kernels.  It builds a 32bit kernel (Gatesgarth branch 64bit) with ACPI enabled and corresponding rootfs. Telegram group: https://t.me/IntelEdison Web-site: ",
+        "languages": {
+            "BitBake": 66033,
+            "Shell": 59703,
+            "Batchfile": 29336,
+            "NASL": 13987,
+            "C": 11536,
+            "Python": 9244,
+            "Makefile": 9070,
+            "HTML": 2105,
+            "JavaScript": 742,
+            "C++": 85
+        }
+    },
+    {
+        "name": "meta-qcom",
+        "description": "OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms",
+        "languages": {
+            "BitBake": 106071,
+            "Shell": 3086
+        }
+    },
+    {
+        "name": "simplest-yocto-setup",
+        "description": "Working example of a yocto setup without unnecessary complications",
+        "languages": {
+            "BitBake": 3134,
+            "NASL": 628
+        }
+    },
+    {
+        "name": "meta-digi",
+        "description": "Yocto layers for Digi hardware",
+        "languages": {
+            "BitBake": 486262,
+            "C": 451427,
+            "Shell": 308054,
+            "C++": 35793,
+            "Python": 10327,
+            "Makefile": 8437,
+            "CMake": 789,
+            "HTML": 693
+        }
+    },
+    {
+        "name": "Embedded-Linux-Development-Using-Yocto-Project-Cookbook-Second-Edition",
+        "description": null,
+        "languages": {
+            "BitBake": 14375,
+            "C": 9109,
+            "Dockerfile": 1741,
+            "Makefile": 1560,
+            "C++": 1034,
+            "Python": 740,
+            "BlitzBasic": 683,
+            "Java": 626,
+            "JavaScript": 245,
+            "CMake": 151,
+            "Shell": 78,
+            "QMake": 50
+        }
+    },
+    {
+        "name": "meta-renesas",
+        "description": null,
+        "languages": {
+            "BitBake": 296832,
+            "Shell": 68346,
+            "HTML": 253,
+            "C++": 85
+        }
+    },
+    {
+        "name": "meta-iotedge",
+        "description": "Yocto layer for Azure IoT Edge",
+        "languages": {
+            "BitBake": 343977,
+            "Rust": 67368,
+            "C++": 7911,
+            "Shell": 5920,
+            "NASL": 128
+        }
+    },
+    {
+        "name": "meta-mender-community",
+        "description": "Community supported integration layers for Mender on various boards",
+        "languages": {
+            "BitBake": 55344,
+            "Shell": 16814,
+            "Python": 15444,
+            "Batchfile": 2210,
+            "Pascal": 422
+        }
+    },
+    {
+        "name": "meta-xilinx-tools",
+        "description": "Yocto Project layer enables AMD Xilinx tools related metadata for MicroBlaze, Zynq, ZynqMP and Versal devices.",
+        "languages": {
+            "BitBake": 143966,
+            "Tcl": 21595,
+            "Shell": 10352
+        }
+    },
+    {
+        "name": "meta-marsboard-bsp",
+        "description": "Yocto BSP Layer for Embest Tech iMX6 MarS Board ",
+        "languages": {
+            "BitBake": 6154,
+            "C++": 805,
+            "CMake": 308
+        }
+    },
+    {
+        "name": "meta-erlang",
+        "description": "Erlang and Elixir support, https://meta-erlang.github.io/",
+        "languages": {
+            "BitBake": 456582,
+            "Shell": 23697,
+            "Python": 16543,
+            "Erlang": 4422
+        }
+    },
+    {
+        "name": "meta-angstrom",
+        "description": "MIrror of Angstrom metadata layer",
+        "languages": {
+            "BitBake": 44638,
+            "Shell": 43283,
+            "Batchfile": 19960,
+            "HTML": 7337,
+            "PHP": 5917,
+            "Assembly": 4129,
+            "C++": 1774,
+            "Pawn": 1268,
+            "BlitzBasic": 1043,
+            "NASL": 87
+        }
+    },
+    {
+        "name": "meta-sifive",
+        "description": "SiFive OpenEmbedded / Yocto BSP Layer",
+        "languages": {
+            "BitBake": 5736
+        }
+    },
+    {
+        "name": "opendsp",
+        "description": "Headless Linux embedded realtime OS for audio and video DSP",
+        "languages": {
+            "BitBake": 11153,
+            "C++": 1509
+        }
+    },
+    {
+        "name": "meta-lg-webos-ndk",
+        "description": "Most important tool to brew some native app for webOS TV",
+        "languages": {
+            "BitBake": 41073,
+            "NASL": 4133,
+            "Shell": 28
+        }
+    },
+    {
+        "name": "meta-flutter",
+        "description": "Yocto meta layer for recipes related to using Google Flutter Engine",
+        "languages": {
+            "BitBake": 26262,
+            "NASL": 11888
+        }
+    },
+    {
+        "name": "meta-polarfire-soc-yocto-bsp",
+        "description": "PolarFire SoC yocto Board Support Package",
+        "languages": {
+            "BitBake": 87964,
+            "HTML": 20031,
+            "Shell": 14053,
+            "Python": 11853,
+            "PHP": 10521,
+            "Batchfile": 2921,
+            "CSS": 2203
+        }
+    },
+    {
+        "name": "meta-pine64",
+        "description": "Yocto Images for Star64 and PineTabV Boards from pine64",
+        "languages": {
+            "BitBake": 92254,
+            "Clojure": 8976,
+            "Shell": 6953,
+            "Python": 1350,
+            "JavaScript": 451,
+            "Lua": 327
+        }
+    },
+    {
+        "name": "meta-sdr",
+        "description": "An OpenEmbedded layer for people working on Software Defined Radio",
+        "languages": {
+            "BitBake": 39192,
+            "Shell": 1686
+        }
+    },
+    {
+        "name": "meta-rauc-community",
+        "description": "Yocto/OpenEmbedded meta layer with examples for integration of RAUC, the embedded Linux A/B update framework",
+        "languages": {
+            "BitBake": 13254,
+            "Shell": 4098,
+            "Batchfile": 2922
+        }
+    },
+    {
+        "name": "meta-imx",
+        "description": "i.MX Yocto Project i.MX BSP Layer",
+        "languages": {
+            "BitBake": 374213,
+            "Shell": 17404,
+            "CMake": 789,
+            "Lua": 201
+        }
+    },
+    {
+        "name": "balena-jetson",
+        "description": null,
+        "languages": {
+            "BitBake": 125363,
+            "Shell": 31305,
+            "CoffeeScript": 30629
+        }
+    },
+    {
+        "name": "orange-pi-distro",
+        "description": "Build images using yocto for the orange-pi zero and pc SBCs",
+        "languages": {
+            "BitBake": 10411,
+            "Shell": 5277,
+            "Assembly": 1304,
+            "Batchfile": 642,
+            "PHP": 469,
+            "BlitzBasic": 333,
+            "C++": 255
+        }
+    },
+    {
+        "name": "meta-96boards",
+        "description": "OpenEmbedded BSP Layer for the 96boards.org boards",
+        "languages": {
+            "BitBake": 199285
+        }
+    },
+    {
+        "name": "meta-coral",
+        "description": "Yocto/OE-core BSP Layer for Coral Dev Board",
+        "languages": {
+            "BitBake": 10586,
+            "PHP": 722,
+            "HTML": 188
+        }
+    },
+    {
+        "name": "meta-homeassistant",
+        "description": "OpenEmbedded Layer for Home Assistant - An open-source home automation platform running on Python 3",
+        "languages": {
+            "BitBake": 62171,
+            "Python": 9546
+        }
+    },
+    {
+        "name": "meta-lmp",
+        "description": "Linux microPlatform Meta OpenEmbedded Layer",
+        "languages": {
+            "BitBake": 424036,
+            "Shell": 87753,
+            "C": 63227,
+            "Batchfile": 46550,
+            "Python": 12662,
+            "C++": 78
+        }
+    },
+    {
+        "name": "meta-rpi-bt-dac",
+        "description": "Yocto layer to build Bluetooth DAC image for Raspberry Pi Zero W + pHAT DAC",
+        "languages": {
+            "BitBake": 5888,
+            "C": 4091,
+            "Shell": 2049
+        }
+    },
+    {
+        "name": "Prusa-Firmware-SL1",
+        "description": "Original Prusa SL1 3D printer firmware",
+        "languages": {
+            "BitBake": 89989,
+            "C": 23854,
+            "Shell": 14495,
+            "Python": 7027,
+            "Batchfile": 3874,
+            "Assembly": 2140,
+            "C++": 1753,
+            "Dockerfile": 1228,
+            "Meson": 559
+        }
+    },
+    {
+        "name": "Infotainment-System-Yocto",
+        "description": "Building infotainment system using the Yocto project",
+        "languages": {
+            "BitBake": 1719840,
+            "PHP": 252993,
+            "C": 211856,
+            "Shell": 193837,
+            "Roff": 95837,
+            "C++": 48416,
+            "Makefile": 20155,
+            "M4": 19750,
+            "Python": 12837,
+            "NASL": 5893,
+            "BlitzBasic": 4227,
+            "Assembly": 3797,
+            "Pawn": 3616,
+            "Perl": 2479,
+            "QMake": 1286,
+            "HTML": 1243,
+            "Lua": 1194
+        }
+    },
+    {
+        "name": "meta-intel-realsense",
+        "description": "Yocto layer for realsense-sdk and librealsense",
+        "languages": {
+            "BitBake": 4993
+        }
+    },
+    {
+        "name": "meta-quectel-community",
+        "description": "Yocto Layer which provides basic support for Quectel wireless modules",
+        "languages": {
+            "BitBake": 1534
+        }
+    },
+    {
+        "name": "balena-intel",
+        "description": "Balena support for Intel boards",
+        "languages": {
+            "BitBake": 40699,
+            "CoffeeScript": 6565,
+            "Shell": 4206
+        }
+    },
+    {
+        "name": "meta-tensorflow-lite",
+        "description": "Yocto layer for TensorFlow Lite interpreter with Python / C++.",
+        "languages": {
+            "BitBake": 48548
+        }
+    },
+    {
+        "name": "meta-udoo",
+        "description": ":heartpulse: openembedded meta layer for the UDOO boards",
+        "languages": {
+            "BitBake": 13629,
+            "Shell": 8335,
+            "Assembly": 1498,
+            "C++": 448
+        }
+    },
+    {
+        "name": "meta-adi",
+        "description": "This is the Analog Devices Inc. Yocto/OpenEmbedded layer",
+        "languages": {
+            "BitBake": 18484,
+            "Shell": 4920
+        }
+    },
+    {
+        "name": "meta-timesys",
+        "description": "Vulnerability management tool that provides Yocto SBOM generation and CVE Analysis of target images.",
+        "languages": {
+            "BitBake": 66142,
+            "Python": 26149,
+            "Shell": 973
+        }
+    },
+    {
+        "name": "YoctoTutorials",
+        "description": null,
+        "languages": {
+            "BitBake": 2266,
+            "Shell": 99
+        }
+    },
+    {
+        "name": "meta-qt5-extra",
+        "description": "OE layer for desktop environments based on Qt5 (KDE KF5+Plasma+Apps / lirios / lxqt / lumina)",
+        "languages": {
+            "BitBake": 290763,
+            "PHP": 5529,
+            "HTML": 4114,
+            "Clojure": 2048,
+            "Roff": 1850,
+            "Shell": 43
+        }
+    },
+    {
+        "name": "meta-dotnet-core",
+        "description": "BitBake recipes to use the pre-built binaries provided by Microsoft for .Net Core and their remote debugger.",
+        "languages": {
+            "BitBake": 645593,
+            "Shell": 85
+        }
+    },
+    {
+        "name": "meta-matter",
+        "description": "The layer files for integrate the Matter and OpenThread into i.MX Yocto Linux",
+        "languages": {
+            "BitBake": 28580,
+            "Shell": 1168
+        }
+    },
+    {
+        "name": "meta-wolfssl",
+        "description": "wolfSSL layer for OpenEmbedded and Yocto, containing product recipes, examples, and bbappend files.",
+        "languages": {
+            "BitBake": 34792,
+            "Shell": 4861
+        }
+    },
+    {
+        "name": "meta-xa-stm",
+        "description": "Yocto layer for LSI SAS2 and SAS3 SCSI Target Mode",
+        "languages": {
+            "BitBake": 5601
+        }
+    },
+    {
+        "name": "meta-freertos",
+        "description": "FreeRTOS distro layer compatible with OpenEmbedded",
+        "languages": {
+            "BitBake": 6707,
+            "Python": 1695
+        }
+    },
+    {
+        "name": "meta-retro",
+        "description": "OpenEmbedded / Yocto software layer for RetroArch and libretro cores",
+        "languages": {
+            "BitBake": 140690,
+            "Shell": 3039,
+            "Python": 794,
+            "C++": 112
+        }
+    },
+    {
+        "name": "meta-victronenergy",
+        "description": "This repo is a part of Venus OS",
+        "languages": {
+            "BitBake": 145360,
+            "Shell": 83838,
+            "JavaScript": 22775,
+            "Python": 8894,
+            "PHP": 8302,
+            "C": 7921,
+            "HTML": 559,
+            "Makefile": 256,
+            "C++": 180,
+            "NASL": 109
+        }
+    },
+    {
+        "name": "meta-rpi64",
+        "description": "Yocto meta-layer for 64-bit RPi builds",
+        "languages": {
+            "BitBake": 15880,
+            "Shell": 15496
+        }
+    },
+    {
+        "name": "meta-snappy",
+        "description": "Snappy for Yocto/OpenEmbedded",
+        "languages": {
+            "BitBake": 5063,
+            "BlitzBasic": 417
+        }
+    },
+    {
+        "name": "meta-conan",
+        "description": "Yocto layer for the Conan project",
+        "languages": {
+            "BitBake": 3535,
+            "Dockerfile": 2833
+        }
+    },
+    {
+        "name": "meta-embedded-containers",
+        "description": "Provide two approaches to embed Docker container(s) into a target root filesystem with Yocto. The Docker images will be pulled from an external Docker registry.",
+        "languages": {
+            "BitBake": 13064,
+            "Shell": 11213
+        }
+    },
+    {
+        "name": "meta-toradex-torizon",
+        "description": "Project moved to https://github.com/torizon/meta-toradex-torizon",
+        "languages": {
+            "BitBake": 82483,
+            "NASL": 73454,
+            "Shell": 66160,
+            "HTML": 63216,
+            "C++": 45167,
+            "Python": 5139,
+            "Vim Script": 4971,
+            "SourcePawn": 4682,
+            "Pascal": 895,
+            "C": 282
+        }
+    },
+    {
+        "name": "ref-os-iot",
+        "description": "This is the official distribution of the Intel(R) Reference Operating System for the Internet of Things, or Intel(R) REF-OS-IOT for short. Intel(R) REF-OS-IOT is a Linux*-based OS designed to work elegantly and efficiently with the Intel(R) Joule(TM) Compute Module. For more information on either of these modules visit",
+        "languages": {
+            "BitBake": 109408,
+            "Shell": 40706,
+            "C": 34034,
+            "PHP": 21292,
+            "NASL": 17306,
+            "HTML": 9298,
+            "Python": 8346,
+            "Batchfile": 7411,
+            "JavaScript": 780,
+            "Makefile": 132
+        }
+    },
+    {
+        "name": "meta-acrn",
+        "description": "Layer to integrate the ACRN hypervisor with the Yocto Project.",
+        "languages": {
+            "BitBake": 27392,
+            "Shell": 26866,
+            "Python": 11263
+        }
+    },
+    {
+        "name": "meta-pine64",
+        "description": "OpenEmbedded/Yocto layer for the Pine64 boards",
+        "languages": {
+            "BitBake": 1448,
+            "HTML": 591,
+            "NASL": 242,
+            "Batchfile": 141
+        }
+    },
+    {
+        "name": "meta-smartwatch",
+        "description": "OpenEmbedded layer that provides support for various smartwatches.",
+        "languages": {
+            "BitBake": 122989,
+            "Shell": 29734
+        }
+    },
+    {
+        "name": "meta-measured",
+        "description": "openembedded meta layer containing recipes for TPM / TCG software",
+        "languages": {
+            "BitBake": 12641,
+            "Shell": 8442,
+            "PHP": 7963,
+            "HTML": 3182,
+            "NASL": 823,
+            "C++": 512
+        }
+    },
+    {
+        "name": "meta-intelfpga",
+        "description": "Yocto Project BSP meta-layer for Intel (ALTERA) SoC-FPGAs (SoCFPGA) - with step by step guide ",
+        "languages": {
+            "BitBake": 28893,
+            "Shell": 1448,
+            "PHP": 1244,
+            "C++": 675,
+            "Assembly": 274
+        }
+    },
+    {
+        "name": "e2openplugins",
+        "description": "Bitbake recipes for all e2 open plugins.",
+        "languages": {
+            "BitBake": 11515,
+            "Pascal": 1546,
+            "PHP": 519,
+            "HTML": 135
+        }
+    },
+    {
+        "name": "opendreambox",
+        "description": "GNU/Linux for the Dreambox",
+        "languages": {
+            "BitBake": 141649,
+            "Shell": 34968,
+            "PHP": 27197,
+            "Makefile": 13351,
+            "C++": 10102,
+            "SourcePawn": 6110,
+            "NASL": 5063,
+            "Python": 2740,
+            "HTML": 1816,
+            "Perl": 1589,
+            "BlitzBasic": 1236,
+            "Pawn": 1074,
+            "Assembly": 324,
+            "Pascal": 146
+        }
+    },
+    {
+        "name": "meta-renesas",
+        "description": "Yocto layer for Renesas RZ products",
+        "languages": {
+            "BitBake": 682110,
+            "Shell": 47501,
+            "C": 1152,
+            "Makefile": 733,
+            "C++": 203
+        }
+    },
+    {
+        "name": "meta-ros2",
+        "description": "ROS 2 Layer for OpenEmbedded Linux",
+        "languages": {
+            "BitBake": 44319,
+            "BlitzBasic": 1050,
+            "Shell": 302
+        }
+    },
+    {
+        "name": "meta-parallella",
+        "description": "Yocto layer to support the Parallella board from Adapteva",
+        "languages": {
+            "BitBake": 16019,
+            "SourcePawn": 1052,
+            "PHP": 742,
+            "BlitzBasic": 386
+        }
+    },
+    {
+        "name": "balena-allwinner",
+        "description": null,
+        "languages": {
+            "BitBake": 15162,
+            "CoffeeScript": 6547,
+            "Shell": 2162
+        }
+    },
+    {
+        "name": "balena-beaglebone",
+        "description": "Balena support for Beaglebone boards",
+        "languages": {
+            "BitBake": 31046,
+            "Shell": 10635,
+            "CoffeeScript": 9037
+        }
+    },
+    {
+        "name": "meta-scipy",
+        "description": "OpenEmbedded layer for scipy (ARCHIVED)",
+        "languages": {
+            "BitBake": 1260
+        }
+    },
+    {
+        "name": "meta-wayland",
+        "description": null,
+        "languages": {
+            "BitBake": 226824,
+            "HTML": 297
+        }
+    },
+    {
+        "name": "meta-hdl",
+        "description": "HDL tools layer for OpenEmbedded ",
+        "languages": {
+            "BitBake": 55899,
+            "HTML": 7957,
+            "C++": 4710,
+            "Python": 4393,
+            "NASL": 2185,
+            "PHP": 350
+        }
+    },
+    {
+        "name": "meta-chip",
+        "description": "NextThingCo C.H.I.P. Yocto meta layer",
+        "languages": {
+            "BitBake": 7967
+        }
+    },
+    {
+        "name": "meta-shellhub",
+        "description": ":penguin: OpenEmbedded/Yocto Project support layer for ShellHub",
+        "languages": {
+            "BitBake": 21764,
+            "Shell": 2990,
+            "Python": 233
+        }
+    },
+    {
+        "name": "meta-licheepizero",
+        "description": "Yocto meta-layer for LicheePi Zero module",
+        "languages": {
+            "BitBake": 21264,
+            "C++": 4792,
+            "BlitzBasic": 2933,
+            "PHP": 2926,
+            "NASL": 2048,
+            "Shell": 1111,
+            "Batchfile": 642,
+            "Assembly": 163
+        }
+    },
+    {
+        "name": "citadel",
+        "description": "Subgraph Citadel image builder",
+        "languages": {
+            "BitBake": 155520,
+            "Shell": 20683,
+            "PHP": 5994,
+            "Makefile": 2772,
+            "Vim Script": 1397,
+            "Dockerfile": 983,
+            "Assembly": 811,
+            "C++": 503
+        }
+    },
+    {
+        "name": "meta-neural-network",
+        "description": "Neural Network Support for Yocto / OpenEmbedded",
+        "languages": {
+            "BitBake": 32410,
+            "Python": 6352
+        }
+    },
+    {
+        "name": "meta-example",
+        "description": "Yocto/OpenEmbedded layer showing example recipe",
+        "languages": {
+            "BitBake": 2286
+        }
+    },
+    {
+        "name": "meta-chip",
+        "description": "Yocto BSP layer for C.H.I.P. boards",
+        "languages": {
+            "BitBake": 8173
+        }
+    },
+    {
+        "name": "meta-java",
+        "description": "java recipe ported over for oe-core and meta-openembedded",
+        "languages": {
+            "BitBake": 78815,
+            "PHP": 47677,
+            "C++": 18715,
+            "SourcePawn": 7686,
+            "Shell": 1520,
+            "Pascal": 937
+        }
+    },
+    {
+        "name": "BurpBounty-Profiles",
+        "description": null,
+        "languages": {
+            "BitBake": 558377,
+            "Shell": 1571,
+            "Python": 896
+        }
+    },
+    {
+        "name": "meta-bsp-imx8mm",
+        "description": null,
+        "languages": {
+            "BitBake": 10294,
+            "HTML": 8333,
+            "C++": 7821,
+            "Shell": 4236,
+            "NASL": 2770
+        }
+    },
+    {
+        "name": "meta-jetson-tk1",
+        "description": "Yocto layer for the NVidia Tegra Jetson TK1 board.",
+        "languages": {
+            "BitBake": 8789,
+            "C++": 2603,
+            "PHP": 1182
+        }
+    },
+    {
+        "name": "meta-golang",
+        "description": "OpenEmbedded/Yocto layer with recipes for go-lang",
+        "languages": {
+            "BitBake": 1198,
+            "Pascal": 949,
+            "C++": 752,
+            "PHP": 582,
+            "SourcePawn": 333
+        }
+    },
+    {
+        "name": "MORF-OpenBMC",
+        "description": "MegaRAC Open Redfish Framework",
+        "languages": {
+            "BitBake": 14114
+        }
+    },
+    {
+        "name": "meta-raspberrypi-baremetal",
+        "description": "Layer compatible with The Yocto Project/OpenEmbedded to build Baremetal applications for the Raspberry Pi Pico boards",
+        "languages": {
+            "BitBake": 6129
+        }
+    },
+    {
+        "name": "meta-arm",
+        "description": "OpenEmbedded/Yocto Layer for Arm",
+        "languages": {
+            "BitBake": 219435,
+            "Python": 65722,
+            "Shell": 8193,
+            "Jinja": 4852,
+            "Makefile": 597,
+            "PHP": 456,
+            "HTML": 378,
+            "C": 138
+        }
+    },
+    {
+        "name": "meta-webos-ports",
+        "description": null,
+        "languages": {
+            "BitBake": 729130,
+            "C": 116305,
+            "CMake": 42377,
+            "Shell": 30058,
+            "Python": 15968,
+            "Perl": 11033,
+            "QMake": 352,
+            "Makefile": 231
+        }
+    },
+    {
+        "name": "meta-antmicro",
+        "description": null,
+        "languages": {
+            "BitBake": 36369,
+            "C++": 28515,
+            "Python": 6485,
+            "Shell": 4743,
+            "BlitzBasic": 1456,
+            "Clojure": 1450,
+            "Dockerfile": 1386,
+            "Pascal": 895
+        }
+    },
+    {
+        "name": "meta-pine64-luneos",
+        "description": null,
+        "languages": {
+            "BitBake": 24381,
+            "Shell": 3684,
+            "Batchfile": 995
+        }
+    },
+    {
+        "name": "meta-game-emulators",
+        "description": "OpenEmbedded/Yocto software layer for video game system emulators",
+        "languages": {
+            "BitBake": 5236
+        }
+    },
+    {
+        "name": "meta-bistro",
+        "description": "Yocto layer providing In-Vehicle Infotainment related functionality and adaptations",
+        "languages": {
+            "BitBake": 27550,
+            "Python": 9077,
+            "C": 6532,
+            "C++": 2793,
+            "Groovy": 2740,
+            "PHP": 2163,
+            "Shell": 1642,
+            "HTML": 434,
+            "CMake": 317,
+            "Makefile": 126
+        }
+    },
+    {
+        "name": "meta-observability",
+        "description": "Yocto layer with support for performance analysis tools: BPF, bcc, bpftrace",
+        "languages": {
+            "BitBake": 9902,
+            "NASL": 2073
+        }
+    },
+    {
+        "name": "meta-mono",
+        "description": "A Yocto / OpenEmbedded layer providing Mono and dotNet support",
+        "languages": {
+            "BitBake": 75267,
+            "NASL": 25101,
+            "PHP": 13034,
+            "C++": 10531,
+            "C#": 4811,
+            "Python": 3758,
+            "HTML": 2469,
+            "Pascal": 1263,
+            "Shell": 210,
+            "SourcePawn": 143
+        }
+    },
+    {
+        "name": "meta-custom",
+        "description": "Example meta-custom Yocto layer",
+        "languages": {
+            "BitBake": 9613,
+            "C": 1030,
+            "Python": 670,
+            "Diff": 552,
+            "Java": 483,
+            "C++": 376,
+            "ApacheConf": 309,
+            "CMake": 151,
+            "QMake": 66,
+            "Shell": 39
+        }
+    },
+    {
+        "name": "meta-tensorflow",
+        "description": null,
+        "languages": {
+            "BitBake": 25159,
+            "Shell": 11755,
+            "Python": 10288,
+            "Smarty": 8694,
+            "PHP": 3993,
+            "Starlark": 1438,
+            "Assembly": 636
+        }
+    },
+    {
+        "name": "droid-config-pinephone",
+        "description": "PinePhone configuration package",
+        "languages": {
+            "BitBake": 4365,
+            "Shell": 3949,
+            "Batchfile": 1653
+        }
+    },
+    {
+        "name": "meta-intel-fpga-refdes",
+        "description": "This repository contains Yocto Project application and customization meta layer for GSRD(Golden Software Reference Design)",
+        "languages": {
+            "BitBake": 67019,
+            "Shell": 31367,
+            "JavaScript": 7583,
+            "CSS": 6199,
+            "HTML": 784,
+            "Makefile": 91
+        }
+    },
+    {
+        "name": "yocto-chromium",
+        "description": "Chromium recipes for yocto",
+        "languages": {
+            "BitBake": 7640,
+            "Shell": 292
+        }
+    },
+    {
+        "name": "meta-secure-core",
+        "description": null,
+        "languages": {
+            "BitBake": 99527,
+            "Shell": 23743,
+            "C++": 326
+        }
+    },
+    {
+        "name": "balena-odroid",
+        "description": "Balena support for ODROID boards",
+        "languages": {
+            "BitBake": 14108,
+            "C": 8925,
+            "Shell": 4302,
+            "CoffeeScript": 946
+        }
+    },
+    {
+        "name": "meta-phytec",
+        "description": "mirror of",
+        "languages": {
+            "BitBake": 340448,
+            "Shell": 42590,
+            "Python": 36526,
+            "C": 7223,
+            "HTML": 509
+        }
+    },
+    {
+        "name": "meta-imx6-secure-boot",
+        "description": "OpenEmbedded Layer for Secure-Boot development on NXP i.MX6.",
+        "languages": {
+            "BitBake": 9471,
+            "Python": 6305,
+            "Shell": 1242
+        }
+    },
+    {
+        "name": "meta-intel",
+        "description": "Intel BSP layer",
+        "languages": {
+            "BitBake": 109846,
+            "Python": 46383,
+            "Shell": 244
+        }
+    },
+    {
+        "name": "meta-openrc",
+        "description": "OpenEmbedded layer adding support for OpenRC",
+        "languages": {
+            "BitBake": 35568,
+            "Shell": 23761
+        }
+    },
+    {
+        "name": "meta-doom",
+        "description": "Yocto layer for the 90's Doom game",
+        "languages": {
+            "BitBake": 2268
+        }
+    },
+    {
+        "name": "meta-efi-secure-boot",
+        "description": null,
+        "languages": {
+            "BitBake": 16782,
+            "C++": 5039,
+            "SourcePawn": 2110,
+            "PHP": 1196
+        }
+    },
+    {
+        "name": "meta-kobo-clara-hd",
+        "description": "Yocto layer for the Kobo Clara HD e-reader",
+        "languages": {
+            "BitBake": 16528,
+            "PHP": 12784,
+            "NASL": 1111,
+            "Shell": 71
+        }
+    },
+    {
+        "name": "meta-kodi",
+        "description": "The official OpenEmbedded/Yocto Project layer for Kodi",
+        "languages": {
+            "BitBake": 36910,
+            "BlitzBasic": 727
+        }
+    },
+    {
+        "name": "meta-updatehub",
+        "description": "OpenEmbedded/Yocto Project support layer for UpdateHub",
+        "languages": {
+            "BitBake": 96422,
+            "Shell": 3184,
+            "Python": 461
+        }
+    },
+    {
+        "name": "meta-aws-demos",
+        "description": null,
+        "languages": {
+            "BitBake": 20720,
+            "Python": 1772,
+            "Shell": 1345,
+            "Makefile": 1155
+        }
+    },
+    {
+        "name": "recipes-ml",
+        "description": "Yocto recipes for machine learning libraries (mainly for Zynq-7000 & Zynq MPSoC devices)",
+        "languages": {
+            "BitBake": 19460
+        }
+    },
+    {
+        "name": "meta-nodejs-contrib",
+        "description": "OpenEmbedded layer for Node.js based package recipes and BitBake helper classes",
+        "languages": {
+            "BitBake": 5242
+        }
+    },
+    {
+        "name": "meta-qtautomotive",
+        "description": "Baking recipe for creating Yocto image with Qt Automotive suite on Raspberry Pi 2/3 and buildable with latest Yocto branch",
+        "languages": {
+            "BitBake": 9413,
+            "Shell": 1113
+        }
+    },
+    {
+        "name": "meta-miracast",
+        "description": "OpenEmbedded / Yocto Project MiraCast support layer",
+        "languages": {
+            "BitBake": 3261
+        }
+    },
+    {
+        "name": "meta-starfive",
+        "description": "StarFive OpenEmbedded Layer",
+        "languages": {
+            "BitBake": 146902,
+            "C++": 93873,
+            "NASL": 78265,
+            "Makefile": 61689,
+            "PHP": 39596,
+            "Shell": 19455,
+            "C": 11059,
+            "Python": 2679,
+            "HTML": 2533,
+            "CMake": 2251,
+            "JavaScript": 1729,
+            "Pawn": 788
+        }
+    },
+    {
+        "name": "yocto-meta-kde",
+        "description": "Yocto packaging metadata for KDE projects",
+        "languages": {
+            "BitBake": 138752,
+            "Shell": 9439
+        }
+    },
+    {
+        "name": "road",
+        "description": "Beebrain and Visual Graph Editor",
+        "languages": {
+            "BitBake": 2194852,
+            "JavaScript": 1855660,
+            "Python": 174267,
+            "Mathematica": 100600,
+            "HTML": 62228,
+            "EJS": 29542,
+            "CSS": 24233,
+            "Perl": 5972,
+            "Clojure": 3407,
+            "Dockerfile": 2141,
+            "Shell": 1990,
+            "PHP": 651
+        }
+    },
+    {
+        "name": "meta-aspnet",
+        "description": "Yocto layer for ASP.NET with a focus on VNext",
+        "languages": {
+            "BitBake": 3747,
+            "C++": 98
+        }
+    },
+    {
+        "name": "meta-musicians",
+        "description": "OE recipes for music production as MIDI/Audio sequencers and sythesizer/effect plugins",
+        "languages": {
+            "BitBake": 189255,
+            "C": 21086,
+            "C++": 5770,
+            "HTML": 1725,
+            "Pascal": 1606,
+            "NASL": 1203
+        }
+    },
+    {
+        "name": "meta-img",
+        "description": "BSP layer for Yocto/OpenEmbedded providing MIPS based machine targets",
+        "languages": {
+            "BitBake": 2475,
+            "C++": 409
+        }
+    },
+    {
+        "name": "meta-overo",
+        "description": "Yocto layer for Gumstix Overo boards",
+        "languages": {
+            "BitBake": 22558,
+            "Shell": 5512,
+            "Batchfile": 366
+        }
+    },
+    {
+        "name": "balena-radxa",
+        "description": null,
+        "languages": {
+            "BitBake": 10686,
+            "Shell": 5627,
+            "CoffeeScript": 5141
+        }
+    },
+    {
+        "name": "meta-bass-hybris",
+        "description": " OpenEmbedded layer that provides libhybris support for the LG G Watch Urbane. (Merged to: https://github.com/AsteroidOS/meta-smartwatch)",
+        "languages": {
+            "BitBake": 3374,
+            "Shell": 894
+        }
+    },
+    {
+        "name": "meta-fullmetalupdate",
+        "description": "FullMetalUpdate meta-layer",
+        "languages": {
+            "BitBake": 9155,
+            "NASL": 1718,
+            "PHP": 1355,
+            "Shell": 122
+        }
+    },
+    {
+        "name": "meta-artik",
+        "description": "BSP Yocto layer for Samsung Artik board",
+        "languages": {
+            "BitBake": 15976,
+            "Shell": 1216,
+            "PHP": 318,
+            "Pascal": 312
+        }
+    },
+    {
+        "name": "meta-tegra-community",
+        "description": "Repository for community-maintained recipes for additional packages for NVIDIA Jetson platforms",
+        "languages": {
+            "BitBake": 43977,
+            "Shell": 25993,
+            "CMake": 673
+        }
+    },
+    {
+        "name": "meta-rzg2",
+        "description": "Yocto Meta Layer for RZ/G2",
+        "languages": {
+            "BitBake": 216269,
+            "Shell": 102302,
+            "C++": 59042,
+            "NASL": 26919,
+            "Pascal": 20203,
+            "HTML": 10598,
+            "Assembly": 7559,
+            "PHP": 3776,
+            "Clojure": 2593,
+            "Perl": 1589,
+            "Makefile": 194
+        }
+    },
+    {
+        "name": "meta-labgrid",
+        "description": "OpenEmbedded layer for integrating the labgrid exporter on a device",
+        "languages": {
+            "BitBake": 7910
+        }
+    },
+    {
+        "name": "meta-vulkan",
+        "description": "Yocto Vulkan Layer",
+        "languages": {
+            "BitBake": 12751,
+            "CMake": 4317
+        }
+    },
+    {
+        "name": "meta-rtlwifi",
+        "description": "OpenEmbedded/Yocto Project development layer for out of tree Realtek WiFi Linux kernel drivers",
+        "languages": {
+            "BitBake": 5089
+        }
+    },
+    {
+        "name": "meta-phosphor",
+        "description": "OE meta layer for openbmc-phosphor",
+        "languages": {
+            "BitBake": 178124,
+            "Shell": 25605,
+            "NASL": 11790,
+            "Assembly": 11566,
+            "Python": 4580,
+            "BlitzBasic": 2581,
+            "HTML": 2144,
+            "PHP": 1201,
+            "C++": 1044,
+            "C": 178
+        }
+    },
+    {
+        "name": "meta-dory-hybris",
+        "description": " OpenEmbedded layer that provides libhybris support for the LG G Watch. (Merged to: https://github.com/AsteroidOS/meta-smartwatch)",
+        "languages": {
+            "BitBake": 3207,
+            "Shell": 886
+        }
+    },
+    {
+        "name": "meta-karo",
+        "description": "Meta Layer for Ka-Ro Yocto BSP for Ka-Ro TX and QS CoMs",
+        "languages": {
+            "BitBake": 72506,
+            "C": 9355
+        }
+    },
+    {
+        "name": "meta-darpahackfest",
+        "description": "DARPA HackFest",
+        "languages": {
+            "BitBake": 2557,
+            "SourcePawn": 805,
+            "Assembly": 528
+        }
+    },
+    {
+        "name": "meta-redhawk-sdr",
+        "description": "REDHAWK SDR Layer for Yocto/OpenEmbedded -based deployments",
+        "languages": {
+            "BitBake": 56227,
+            "Python": 21619,
+            "Shell": 11820,
+            "PHP": 3307,
+            "Assembly": 1771,
+            "C++": 608,
+            "SourcePawn": 397
+        }
+    },
+    {
+        "name": "meta-qt5-rpi-eglfs",
+        "description": "Unofficial yocto layer which to support to work qt5 with eglfs on RPi/RPi2.",
+        "languages": {
+            "BitBake": 1545
+        }
+    },
+    {
+        "name": "meta-ptx",
+        "description": "Yocto layer for ptx-releated tools and distro",
+        "languages": {
+            "BitBake": 28402,
+            "Shell": 1849
+        }
+    },
+    {
+        "name": "meta-tetra-hybris",
+        "description": " OpenEmbedded layer that provides libhybris support for the Sony Smartwatch 3. (Merged to: https://github.com/AsteroidOS/meta-smartwatch)",
+        "languages": {
+            "BitBake": 4700,
+            "Shell": 1268
+        }
+    },
+    {
+        "name": "meta-spdxscanner",
+        "description": "SPDX scanner support",
+        "languages": {
+            "BitBake": 1063
+        }
+    },
+    {
+        "name": "meta-mooneye-hybris",
+        "description": "OpenEmbedded layer that provides libhybris support for the Ticwatch E/S. (Merged to: https://github.com/AsteroidOS/meta-smartwatch)",
+        "languages": {
+            "BitBake": 3218,
+            "Shell": 175
+        }
+    },
+    {
+        "name": "meta-tegra-holoscan",
+        "description": "OpenEmbedded/Yocto layer for NVIDIA Holoscan",
+        "languages": {
+            "BitBake": 230659,
+            "CMake": 7616,
+            "SWIG": 2700
+        }
+    },
+    {
+        "name": "meta-intel-camera",
+        "description": null,
+        "languages": {
+            "BitBake": 11192,
+            "HTML": 458,
+            "Shell": 314
+        }
+    },
+    {
+        "name": "meta-updater",
+        "description": "Yocto layer supporting Uptane updates via aktualizr and OSTree",
+        "languages": {
+            "BitBake": 77108,
+            "Python": 66225,
+            "Shell": 14720,
+            "C++": 82
+        }
+    },
+    {
+        "name": "meta-snapd",
+        "description": "Yocto meta-layer for snapd",
+        "languages": {
+            "BitBake": 9382
+        }
+    },
+    {
+        "name": "maps",
+        "description": "Rspamd dynamic maps",
+        "languages": {
+            "BitBake": 48318,
+            "HTML": 45452,
+            "NASL": 11018,
+            "Python": 1627,
+            "Pascal": 997,
+            "Shell": 470
+        }
+    },
+    {
+        "name": "meta-elisa",
+        "description": null,
+        "languages": {
+            "BitBake": 3842,
+            "NASL": 272,
+            "C++": 12
+        }
+    },
+    {
+        "name": "meta-raspberrypi-rt-sv",
+        "description": "Yocto layer with real-time kernels (PREEMPT-RT and I-pipe/Xenomai) for Raspberry Pi.",
+        "languages": {
+            "BitBake": 6128
+        }
+    },
+    {
+        "name": "meta-buildutils",
+        "description": "A collection of build utils to be used with yocto",
+        "languages": {
+            "BitBake": 78846,
+            "Python": 23108
+        }
+    },
+    {
+        "name": "meta-intel-axxia",
+        "description": null,
+        "languages": {
+            "BitBake": 21508,
+            "PHP": 20087,
+            "Assembly": 4828,
+            "Shell": 3147,
+            "C++": 2395,
+            "Pawn": 848
+        }
+    },
+    {
+        "name": "meta-stm32mp15x",
+        "description": "OpenEmbedded/Yocto BSP layer for STM32MP15x based MPUs",
+        "languages": {
+            "BitBake": 19786,
+            "C++": 4009,
+            "NASL": 806,
+            "Shell": 248
+        }
+    },
+    {
+        "name": "meta-azure-device-update",
+        "description": "A meta layer for Azure Device Update",
+        "languages": {
+            "BitBake": 23301,
+            "Shell": 1681
+        }
+    },
+    {
+        "name": "meta-ybdevelop",
+        "description": "Layer to contain example recipes for title Yocto for Beaglebone",
+        "languages": {
+            "BitBake": 3520,
+            "Shell": 528,
+            "C": 101
+        }
+    },
+    {
+        "name": "meta-ampliphy",
+        "description": "mirror of",
+        "languages": {
+            "BitBake": 101422,
+            "C": 45788,
+            "Shell": 26281,
+            "M4": 1504,
+            "Makefile": 822
+        }
+    },
+    {
+        "name": "meta-intel-sgx",
+        "description": null,
+        "languages": {
+            "BitBake": 17122
+        }
+    },
+    {
+        "name": "meta-andes",
+        "description": "Andes OpenEmbedded (OE) Layer",
+        "languages": {
+            "BitBake": 5936,
+            "C++": 3831,
+            "NASL": 1555
+        }
+    },
+    {
+        "name": "meta-alt-desktop-extras",
+        "description": "Usability-focused openembedded desktop layer for small devices (openbox, compilers and tools, etc)",
+        "languages": {
+            "BitBake": 36363,
+            "Shell": 20154,
+            "NASL": 2986,
+            "C++": 2516,
+            "PHP": 1664,
+            "HTML": 931
+        }
+    },
+    {
+        "name": "meta-jupyter",
+        "description": null,
+        "languages": {
+            "BitBake": 30199,
+            "Clojure": 716
+        }
+    },
+    {
+        "name": "meta-ros2-generator",
+        "description": "ROS2 yocto recipes",
+        "languages": {
+            "BitBake": 864382,
+            "Python": 12417
+        }
+    },
+    {
+        "name": "meta-debian-extended",
+        "description": null,
+        "languages": {
+            "BitBake": 983984,
+            "Shell": 58188
+        }
     }
 ]

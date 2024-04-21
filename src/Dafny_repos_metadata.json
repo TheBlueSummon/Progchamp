@@ -54,5 +54,1593 @@
             "C#": 7712,
             "JavaScript": 5744
         }
+    },
+    {
+        "name": "verified-betrfs",
+        "description": "A verified high-performance file system",
+        "languages": {
+            "Dafny": 4410270,
+            "Rust": 974190,
+            "Python": 184601,
+            "C++": 134323,
+            "Shell": 28887,
+            "Makefile": 20262,
+            "Ruby": 11222,
+            "Dockerfile": 1538,
+            "C": 235
+        }
+    },
+    {
+        "name": "aws-encryption-sdk-dafny",
+        "description": "AWS Encryption SDK for Dafny",
+        "languages": {
+            "Dafny": 419029,
+            "C#": 257383,
+            "Java": 54533,
+            "Python": 7124,
+            "Shell": 4022,
+            "Smithy": 3880,
+            "Makefile": 3211
+        }
+    },
+    {
+        "name": "daisy-nfsd",
+        "description": "DaisyNFS is an NFS server verified using Dafny and Perennial.",
+        "languages": {
+            "Dafny": 364350,
+            "Go": 78029,
+            "Shell": 47850,
+            "Python": 17036,
+            "Makefile": 1587,
+            "Emacs Lisp": 170
+        }
+    },
+    {
+        "name": "dafny-synthesis",
+        "description": "Towards AI-Assisted Synthesis of Verified Dafny Methods",
+        "languages": {
+            "Dafny": 338698
+        }
+    },
+    {
+        "name": "dafny-sandbox",
+        "description": "Dafny for Metatheory of Programming Languages",
+        "languages": {
+            "Dafny": 321230
+        }
+    },
+    {
+        "name": "deposit-sc-dafny",
+        "description": "Deposit smart contract in Dafny",
+        "languages": {
+            "Dafny": 218780,
+            "Jupyter Notebook": 37501,
+            "Shell": 5444,
+            "Python": 4788,
+            "TeX": 4467
+        }
+    },
+    {
+        "name": "veri-titan",
+        "description": "Verifying OpenTitan",
+        "languages": {
+            "Dafny": 988029,
+            "Python": 72257,
+            "C": 64844,
+            "Assembly": 55682,
+            "Jinja": 39303,
+            "Makefile": 8629,
+            "Shell": 968,
+            "SMT": 550
+        }
+    },
+    {
+        "name": "Clover",
+        "description": "Clover: Closed-Loop Verifiable Code Generation",
+        "languages": {
+            "Dafny": 1191310,
+            "Python": 95427
+        }
+    },
+    {
+        "name": "evm-dis",
+        "description": "An EVM bytecode disassembler/assembler",
+        "languages": {
+            "Dafny": 2239119,
+            "Python": 635965,
+            "JavaScript": 500493,
+            "Vyper": 434395,
+            "Solidity": 16133,
+            "Yul": 2531,
+            "Shell": 1111
+        }
+    },
+    {
+        "name": "notes",
+        "description": null,
+        "languages": {
+            "Dafny": 364657,
+            "Coq": 270956,
+            "OCaml": 23376,
+            "Python": 17003,
+            "Haskell": 11372,
+            "Boogie": 7580,
+            "SMT": 5791,
+            "F*": 4036,
+            "C#": 2537,
+            "C": 1228,
+            "Racket": 926,
+            "Makefile": 204
+        }
+    },
+    {
+        "name": "distributed-validator-formal-specs-and-verification",
+        "description": "ConsenSys Internal Fork of the public repo https://github.com/ethereum/distributed-validator-specs",
+        "languages": {
+            "Dafny": 2260954,
+            "Shell": 1318,
+            "Dockerfile": 435
+        }
+    },
+    {
+        "name": "Dafny-VMC",
+        "description": "VMC: a Library for Verified Monte Carlo Algorithms",
+        "languages": {
+            "Dafny": 103274,
+            "Java": 6788,
+            "Shell": 4465,
+            "Python": 550,
+            "Makefile": 43
+        }
+    },
+    {
+        "name": "veribetrkv-osdi2020",
+        "description": "VeriBetrKV OSDI'20 artifact",
+        "languages": {
+            "Dafny": 11000543,
+            "C++": 539472,
+            "Python": 314456,
+            "Makefile": 91946,
+            "Ruby": 44888,
+            "Shell": 43379,
+            "TeX": 28864,
+            "Dockerfile": 3840
+        }
+    },
+    {
+        "name": "verification-class",
+        "description": "Material for the class on verification of distributed and asynchronous systems, developed by Jon Howell and Manos Kapritsos",
+        "languages": {
+            "Dafny": 209566,
+            "HTML": 18011,
+            "CSS": 372
+        }
+    },
+    {
+        "name": "dafny-sc-fmics",
+        "description": "Verification of Smart Contracts with Dafny \u2013 FMICS paper examples",
+        "languages": {
+            "Dafny": 96800
+        }
+    },
+    {
+        "name": "protocol-verification-fa2023",
+        "description": "Assignments for COMP SCI 839 from UW-Madison in Fall 2023",
+        "languages": {
+            "Dafny": 138049
+        }
+    },
+    {
+        "name": "qbft-formal-spec-and-verification",
+        "description": null,
+        "languages": {
+            "Dafny": 838101,
+            "Shell": 242
+        }
+    },
+    {
+        "name": "penn-cis673-hw-dafny",
+        "description": null,
+        "languages": {
+            "Dafny": 18376
+        }
+    },
+    {
+        "name": "DafnyCrypto",
+        "description": "A cryptography library written in Dafny which focuses on SNARKs and related systems.",
+        "languages": {
+            "Dafny": 84698
+        }
+    },
+    {
+        "name": "dafny-training",
+        "description": "Some examples of Dafny code to support training sessions",
+        "languages": {
+            "Dafny": 32487
+        }
+    },
+    {
+        "name": "compiler-bootstrap",
+        "description": "A work-in-progress reimplementation of Dafny's compiler, in Dafny",
+        "languages": {
+            "Dafny": 352118,
+            "C#": 15118,
+            "Makefile": 5553,
+            "HTML": 1140
+        }
+    },
+    {
+        "name": "dafny-syntax-tutorial",
+        "description": "Short introduction to Dafny",
+        "languages": {
+            "Dafny": 48380
+        }
+    },
+    {
+        "name": "Dafny-programs",
+        "description": "Examples of formal verifications written in Dafny. ",
+        "languages": {
+            "Dafny": 286676
+        }
+    },
+    {
+        "name": "smrt",
+        "description": "i am so smart",
+        "languages": {
+            "Dafny": 37235,
+            "TeX": 7921,
+            "CSS": 4260,
+            "Makefile": 348
+        }
+    },
+    {
+        "name": "dafny_examples",
+        "description": "Experiments with Dafny",
+        "languages": {
+            "Dafny": 87732
+        }
+    },
+    {
+        "name": "vmware-verification-2023",
+        "description": "Course materials for the VMware 2023 instance of the Protocol Verification Course",
+        "languages": {
+            "Dafny": 119284,
+            "Python": 654,
+            "Dockerfile": 55
+        }
+    },
+    {
+        "name": "DafnyBench",
+        "description": "I'm really gonna translate HumanEval this time. Y'all haven't seen nothing yet.",
+        "languages": {
+            "Dafny": 40570,
+            "Python": 33820,
+            "Shell": 344
+        }
+    },
+    {
+        "name": "dafny-reportgenerator",
+        "description": "A tool for analyzing and reporting on Dafny, especially the results of verification",
+        "languages": {
+            "Dafny": 26921,
+            "C#": 3503
+        }
+    },
+    {
+        "name": "DafnyProjects",
+        "description": null,
+        "languages": {
+            "Dafny": 99602
+        }
+    },
+    {
+        "name": "veri-datalog",
+        "description": "Verified Datalog",
+        "languages": {
+            "Dafny": 37999,
+            "C#": 7327,
+            "F*": 5501,
+            "ANTLR": 1726,
+            "Makefile": 602
+        }
+    },
+    {
+        "name": "BoogieV",
+        "description": "A verified intermediate verification language",
+        "languages": {
+            "Dafny": 349310,
+            "C#": 10202,
+            "Makefile": 968
+        }
+    },
+    {
+        "name": "yul-dafny",
+        "description": "Yul semantics and verification in Dafny",
+        "languages": {
+            "Dafny": 74953,
+            "Yul": 36215,
+            "Solidity": 1765
+        }
+    },
+    {
+        "name": "SNU_2D_ProgrammingTools_IDE_Dafny",
+        "description": "The Dafny Programming language IDE submodule for SNU Programming Tools.",
+        "languages": {
+            "Dafny": 213334,
+            "Roff": 3456
+        }
+    },
+    {
+        "name": "sbft-formal-verification-model",
+        "description": null,
+        "languages": {
+            "Dafny": 73493
+        }
+    },
+    {
+        "name": "seaurchin",
+        "description": "Seahorn for Rust",
+        "languages": {
+            "Dafny": 71722,
+            "Rust": 41486,
+            "Python": 13666,
+            "C": 1517,
+            "Shell": 1042
+        }
+    },
+    {
+        "name": "dafny-exercises",
+        "description": "some formal verification exercises using dafny.",
+        "languages": {
+            "Dafny": 14596
+        }
+    },
+    {
+        "name": "Dafny",
+        "description": "Dafny",
+        "languages": {
+            "Dafny": 19839
+        }
+    },
+    {
+        "name": "cs245-verification",
+        "description": "sample programming in Dafny",
+        "languages": {
+            "Dafny": 15496
+        }
+    },
+    {
+        "name": "bbchallenge-dafny-deciders",
+        "description": "This is a collection of deciders which identify looping Turing Machines, following https://bbchallenge.org/",
+        "languages": {
+            "Dafny": 114725,
+            "Rust": 21042
+        }
+    },
+    {
+        "name": "DafnyGithubScrape",
+        "description": null,
+        "languages": {
+            "Dafny": 2003085,
+            "Python": 11989
+        }
+    },
+    {
+        "name": "verified-algorithms",
+        "description": "Verified algorithms with tools like Dafny",
+        "languages": {
+            "Dafny": 65730
+        }
+    },
+    {
+        "name": "ironsync-osdi2023",
+        "description": "IronSync paper artifact for OSDI 2023",
+        "languages": {
+            "Dafny": 4791011,
+            "C#": 4117937,
+            "C": 1336216,
+            "C++": 569911,
+            "F#": 233682,
+            "TeX": 156010,
+            "Python": 152087,
+            "Java": 148961,
+            "Boogie": 67052,
+            "Go": 66132,
+            "Shell": 44102,
+            "Rust": 30439,
+            "JavaScript": 28617,
+            "Makefile": 24128,
+            "HTML": 4196,
+            "Dockerfile": 3182,
+            "Vim Script": 1850,
+            "Ruby": 1195,
+            "Batchfile": 755
+        }
+    },
+    {
+        "name": "Learn-Dafny",
+        "description": "A repository for showcasing my knowledge of the Dafny programming language, and continuing to learn the language.",
+        "languages": {
+            "Dafny": 213912
+        }
+    },
+    {
+        "name": "logic-and-set-theory-with-dafny",
+        "description": "Material for a logic and set theory course written in the verification-aware programming language Dafny",
+        "languages": {
+            "Dafny": 345955
+        }
+    },
+    {
+        "name": "cis-6730-hw",
+        "description": "Assignments for CIS 6730, Spring 2023",
+        "languages": {
+            "Dafny": 18399
+        }
+    },
+    {
+        "name": "thesis_files",
+        "description": "The code presented in my thesis",
+        "languages": {
+            "Dafny": 36042
+        }
+    },
+    {
+        "name": "M2",
+        "description": "Master 2 VS Code",
+        "languages": {
+            "Dafny": 5505,
+            "Java": 4527
+        }
+    },
+    {
+        "name": "dafny-fatnode",
+        "description": "Verifying persistent binary search trees with Dafny",
+        "languages": {
+            "Dafny": 21276
+        }
+    },
+    {
+        "name": "WrappedEther.dfy",
+        "description": "Dafny Model of the WrappedEther Smart Contract",
+        "languages": {
+            "Dafny": 323295,
+            "Solidity": 37714,
+            "Shell": 831
+        }
+    },
+    {
+        "name": "SENG2011",
+        "description": "Workshop on Reasoning about Programs - Dafny (20T3)",
+        "languages": {
+            "Dafny": 28306
+        }
+    },
+    {
+        "name": "EVF",
+        "description": "Everscale Verification Framework",
+        "languages": {
+            "Dafny": 78160,
+            "Makefile": 513
+        }
+    },
+    {
+        "name": "paraverif_dafny",
+        "description": "paraVerifier is an automatic framework for proving parameterized cache coherence protocols, loop program and security protocol",
+        "languages": {
+            "Dafny": 187785390,
+            "Objective-C": 9381655,
+            "OCaml": 748968,
+            "C#": 157840,
+            "Python": 43681,
+            "Standard ML": 41705,
+            "Shell": 21847,
+            "Mathematica": 2460,
+            "MATLAB": 1835,
+            "M": 977
+        }
+    },
+    {
+        "name": "MFDS",
+        "description": "M\u00e9todos Formales de Desarrollo de Software",
+        "languages": {
+            "Dafny": 211114
+        }
+    },
+    {
+        "name": "Trab1-Metodos-Formais",
+        "description": "Trabalho 1 de M\u00e9todos Formais.",
+        "languages": {
+            "Dafny": 5483
+        }
+    },
+    {
+        "name": "sat-solver-dafny",
+        "description": null,
+        "languages": {
+            "Dafny": 308118,
+            "C#": 196060,
+            "F*": 1771,
+            "C": 941,
+            "C++": 603,
+            "Makefile": 28
+        }
+    },
+    {
+        "name": "BettingContract",
+        "description": "A simple betting smart contract written in Solidity.",
+        "languages": {
+            "Dafny": 32189,
+            "Solidity": 1664,
+            "Shell": 541,
+            "Makefile": 508
+        }
+    },
+    {
+        "name": "verified-counting-sort",
+        "description": "Verified Counting Sort in Dafny",
+        "languages": {
+            "Dafny": 42971
+        }
+    },
+    {
+        "name": "salsa-meets-dafny",
+        "description": null,
+        "languages": {
+            "Dafny": 5694
+        }
+    },
+    {
+        "name": "VMC_CPL",
+        "description": "Verified Model Checking for Conjunctive Positive Logic",
+        "languages": {
+            "Dafny": 75896
+        }
+    },
+    {
+        "name": "test-generation-examples",
+        "description": null,
+        "languages": {
+            "Dafny": 154650,
+            "Java": 151724,
+            "C#": 116332,
+            "Shell": 16795
+        }
+    },
+    {
+        "name": "oopsla23-artifact",
+        "description": null,
+        "languages": {
+            "Dafny": 52270,
+            "Python": 8005,
+            "Dockerfile": 919
+        }
+    },
+    {
+        "name": "Dafny-AoC-template",
+        "description": null,
+        "languages": {
+            "Dafny": 56150,
+            "Shell": 706,
+            "PowerShell": 456
+        }
+    },
+    {
+        "name": "dafleet",
+        "description": "DafLeet: Verifying Leetcode Problems in Dafny",
+        "languages": {
+            "Dafny": 58411,
+            "HTML": 53
+        }
+    },
+    {
+        "name": "binary-search-verification",
+        "description": null,
+        "languages": {
+            "Dafny": 3482
+        }
+    },
+    {
+        "name": "leroy-compiler-dafny",
+        "description": "Implementing Xavier Leroy's toy compiler presented at DSSS'17 in Dafny",
+        "languages": {
+            "Dafny": 20851
+        }
+    },
+    {
+        "name": "eth_pyspec_to_dafny",
+        "description": null,
+        "languages": {
+            "Dafny": 50794
+        }
+    },
+    {
+        "name": "prime-numbers",
+        "description": "A smalll study about prime numbers",
+        "languages": {
+            "Dafny": 176270,
+            "Haskell": 22995,
+            "TypeScript": 17035,
+            "JavaScript": 16119,
+            "CSS": 1061,
+            "HTML": 479,
+            "Shell": 174
+        }
+    },
+    {
+        "name": "Formal_Verification_With_Dafny",
+        "description": null,
+        "languages": {
+            "Dafny": 5258
+        }
+    },
+    {
+        "name": "specTesting",
+        "description": "Brainstorm for spec Testing ",
+        "languages": {
+            "Dafny": 54585,
+            "Python": 24323
+        }
+    },
+    {
+        "name": "Formal-Verification",
+        "description": null,
+        "languages": {
+            "Dafny": 8052
+        }
+    },
+    {
+        "name": "dafny-learn",
+        "description": "Learning dafny",
+        "languages": {
+            "Dafny": 9896
+        }
+    },
+    {
+        "name": "adt-verification-dafny",
+        "description": null,
+        "languages": {
+            "Dafny": 612811,
+            "Shell": 277,
+            "Nix": 95
+        }
+    },
+    {
+        "name": "Metodos_Formais",
+        "description": "Reposit\u00f3rio de projetos de m\u00e9todos formais (validar um c\u00f3digo usando l\u00f3gica formal)",
+        "languages": {
+            "Dafny": 27724
+        }
+    },
+    {
+        "name": "dafny-rope",
+        "description": "Rope in Dafny.",
+        "languages": {
+            "Dafny": 13033
+        }
+    },
+    {
+        "name": "Using-Dafny-to-prove-time-complexity-of-TSP",
+        "description": "Using dafny to prove the upper-bound time complexity of solving Travelling Salesman Problem by A\u2217 Search",
+        "languages": {
+            "Dafny": 9218
+        }
+    },
+    {
+        "name": "dafny",
+        "description": "Learning Dafny",
+        "languages": {
+            "Dafny": 555734,
+            "TypeScript": 16020,
+            "JavaScript": 8163
+        }
+    },
+    {
+        "name": "SmartContractVerification",
+        "description": "Formal Verification of Smat Contracts Using Dafny",
+        "languages": {
+            "Dafny": 7256
+        }
+    },
+    {
+        "name": "477-Heap-Verification",
+        "description": null,
+        "languages": {
+            "Dafny": 25562
+        }
+    },
+    {
+        "name": "Dafny-AVL-Tree",
+        "description": "AVL-Tree implemented in Dafny",
+        "languages": {
+            "Dafny": 18275
+        }
+    },
+    {
+        "name": "210_HW6",
+        "description": "Program Correctness in Dafny",
+        "languages": {
+            "Dafny": 2624
+        }
+    },
+    {
+        "name": "Formal-Stack-implementation",
+        "description": "Build formal specifications and checks in Dafny for Limited Stack structure.",
+        "languages": {
+            "Dafny": 3870
+        }
+    },
+    {
+        "name": "MFS",
+        "description": null,
+        "languages": {
+            "Dafny": 49456,
+            "Alloy": 26047
+        }
+    },
+    {
+        "name": "TFM",
+        "description": null,
+        "languages": {
+            "Dafny": 601170,
+            "Shell": 175,
+            "Nix": 95
+        }
+    },
+    {
+        "name": "dafny-bugs",
+        "description": "A repository to be used to store bugs found in the Dafny compiler",
+        "languages": {
+            "Dafny": 208345
+        }
+    },
+    {
+        "name": "DafFuzz",
+        "description": "A metamorphic Fuzzer for the Dafny Verifier",
+        "languages": {
+            "Dafny": 33616540,
+            "Kotlin": 205298,
+            "ANTLR": 8653,
+            "Java": 4057,
+            "Python": 2820,
+            "Shell": 1678,
+            "Makefile": 786
+        }
+    },
+    {
+        "name": "Metodos_Formais_Trab1",
+        "description": null,
+        "languages": {
+            "Dafny": 6159
+        }
+    },
+    {
+        "name": "Dafny-Projects",
+        "description": null,
+        "languages": {
+            "Dafny": 9946
+        }
+    },
+    {
+        "name": "dafnyPractice",
+        "description": "Code from different tutorials and papers",
+        "languages": {
+            "Dafny": 16976
+        }
+    },
+    {
+        "name": "feup-mfes",
+        "description": "Repository of code developed for the course MFES @FEUP",
+        "languages": {
+            "Dafny": 58395,
+            "Alloy": 27704
+        }
+    },
+    {
+        "name": "cnf-dafny",
+        "description": null,
+        "languages": {
+            "Dafny": 87482,
+            "Makefile": 100
+        }
+    },
+    {
+        "name": "verified-bitmasks",
+        "description": "A verified bitmask implementation in Dafny. ",
+        "languages": {
+            "Dafny": 131638,
+            "Shell": 8745,
+            "Makefile": 2211
+        }
+    },
+    {
+        "name": "DafnyExample",
+        "description": "testing environment for comparing github commits",
+        "languages": {
+            "Dafny": 635
+        }
+    },
+    {
+        "name": "pipeline-manager",
+        "description": null,
+        "languages": {
+            "Dafny": 6243
+        }
+    },
+    {
+        "name": "PUCRS-dafny-stack-data-structure",
+        "description": "Repositorio destinado ao desenvolvimento do primeiro trabalho de m\u00e9todos formais",
+        "languages": {
+            "Dafny": 5321
+        }
+    },
+    {
+        "name": "metodosFormais",
+        "description": "trabalho de metodos formais",
+        "languages": {
+            "Dafny": 23295
+        }
+    },
+    {
+        "name": "CS5232_Project",
+        "description": null,
+        "languages": {
+            "Dafny": 18944
+        }
+    },
+    {
+        "name": "dafny",
+        "description": null,
+        "languages": {
+            "Dafny": 65
+        }
+    },
+    {
+        "name": "Software-Verification",
+        "description": null,
+        "languages": {
+            "Dafny": 33687,
+            "Python": 13039
+        }
+    },
+    {
+        "name": "Examples-for-Smart-Contract-verification",
+        "description": null,
+        "languages": {
+            "Dafny": 31116
+        }
+    },
+    {
+        "name": "busy-beaver-dafny-regex-verifier",
+        "description": "A Dafny program for verifying busy beaver non-termination",
+        "languages": {
+            "Dafny": 68596
+        }
+    },
+    {
+        "name": "DafnyConsul",
+        "description": null,
+        "languages": {
+            "Dafny": 17628
+        }
+    },
+    {
+        "name": "Metodos_Formais_T1",
+        "description": null,
+        "languages": {
+            "Dafny": 10902
+        }
+    },
+    {
+        "name": "Formal-Verification-Project",
+        "description": null,
+        "languages": {
+            "Dafny": 10146
+        }
+    },
+    {
+        "name": "dafny-practise",
+        "description": null,
+        "languages": {
+            "Dafny": 6205
+        }
+    },
+    {
+        "name": "2021_CSSE3100_ASSIGNMENT4",
+        "description": "Assignment focused on specifying and verifying programs using objects and data structures.",
+        "languages": {
+            "Dafny": 2750
+        }
+    },
+    {
+        "name": "eecs498",
+        "description": null,
+        "languages": {
+            "Dafny": 14015
+        }
+    },
+    {
+        "name": "program-verification-assignment3",
+        "description": null,
+        "languages": {
+            "Dafny": 3832
+        }
+    },
+    {
+        "name": "sorted-set-dafny",
+        "description": null,
+        "languages": {
+            "Dafny": 12720
+        }
+    },
+    {
+        "name": "MomoCTL",
+        "description": null,
+        "languages": {
+            "Dafny": 230634
+        }
+    },
+    {
+        "name": "dafny-exercise",
+        "description": "Dafny Exercises",
+        "languages": {
+            "Dafny": 12156
+        }
+    },
+    {
+        "name": "TP2_MF",
+        "description": null,
+        "languages": {
+            "Dafny": 9690
+        }
+    },
+    {
+        "name": "FormalMethods",
+        "description": "This repo contains the dafny files used in the Formal Methods subject",
+        "languages": {
+            "Dafny": 3990
+        }
+    },
+    {
+        "name": "dafny-cwss-calculator",
+        "description": null,
+        "languages": {
+            "Dafny": 4645,
+            "Python": 481
+        }
+    },
+    {
+        "name": "mul2-maximum",
+        "description": null,
+        "languages": {
+            "Dafny": 627
+        }
+    },
+    {
+        "name": "dafny_misc",
+        "description": "Miscellaneous proofs in Dafny",
+        "languages": {
+            "Dafny": 944
+        }
+    },
+    {
+        "name": "conjuntosDafny",
+        "description": null,
+        "languages": {
+            "Dafny": 319
+        }
+    },
+    {
+        "name": "DP_Project",
+        "description": "This repo contains my DP Project for Monsoon Semester 2023 at IIIT Delhi. ",
+        "languages": {
+            "Dafny": 5525
+        }
+    },
+    {
+        "name": "Tp-Final-AAlgoritmos",
+        "description": "Clases y codigo del TP final de Analisis de Algoritmos",
+        "languages": {
+            "Dafny": 1228
+        }
+    },
+    {
+        "name": "dafny-axiomatic-program-verification",
+        "description": "This repo is an example of Dafny Axiomatic Program Verification. ",
+        "languages": {
+            "Dafny": 2430
+        }
+    },
+    {
+        "name": "Formal-methods-of-software-development",
+        "description": null,
+        "languages": {
+            "Dafny": 132282
+        }
+    },
+    {
+        "name": "MetodosFormais",
+        "description": null,
+        "languages": {
+            "Dafny": 5099
+        }
+    },
+    {
+        "name": "Cse201_HW6_Dafny",
+        "description": null,
+        "languages": {
+            "Dafny": 2678
+        }
+    },
+    {
+        "name": "qdfy",
+        "description": "QDFY OpenSource",
+        "languages": {
+            "Dafny": 9828,
+            "Shell": 1144
+        }
+    },
+    {
+        "name": "metodos-formais",
+        "description": null,
+        "languages": {
+            "Dafny": 931
+        }
+    },
+    {
+        "name": "qoa-dafny",
+        "description": "Quite Ok Audio Format in Dafny",
+        "languages": {
+            "Dafny": 1925
+        }
+    },
+    {
+        "name": "CVS-handout2",
+        "description": null,
+        "languages": {
+            "Dafny": 8165
+        }
+    },
+    {
+        "name": "dafny-workout",
+        "description": "Exercising some dafny",
+        "languages": {
+            "Dafny": 2810,
+            "Makefile": 69
+        }
+    },
+    {
+        "name": "cmsc433",
+        "description": null,
+        "languages": {
+            "Dafny": 6565,
+            "Haskell": 32
+        }
+    },
+    {
+        "name": "dafny-mini-project",
+        "description": null,
+        "languages": {
+            "Dafny": 9209
+        }
+    },
+    {
+        "name": "SpecificationSpectacular",
+        "description": "CO3408 Assignment Part 2 2022-23",
+        "languages": {
+            "Dafny": 17786
+        }
+    },
+    {
+        "name": "dafny-lucid",
+        "description": "modeling lucid in dafny",
+        "languages": {
+            "Dafny": 95281
+        }
+    },
+    {
+        "name": "Scapegoat-tree",
+        "description": "Dafny codes for proof of Scapegoat tree",
+        "languages": {
+            "Dafny": 45233
+        }
+    },
+    {
+        "name": "dafny-language-server",
+        "description": "Dafny Language Server - Bachelor Thesis",
+        "languages": {
+            "Dafny": 4717729,
+            "C#": 4250824,
+            "F#": 233682,
+            "Java": 132090,
+            "Go": 63005,
+            "Python": 33222,
+            "JavaScript": 27046,
+            "TeX": 3391,
+            "Batchfile": 2501,
+            "Dockerfile": 2398,
+            "Vim Script": 1850,
+            "Shell": 1537,
+            "Makefile": 968
+        }
+    },
+    {
+        "name": "summer-school-2020",
+        "description": null,
+        "languages": {
+            "Dafny": 118964,
+            "Shell": 2378,
+            "Python": 2201,
+            "Dockerfile": 1154
+        }
+    },
+    {
+        "name": "ASP-Greedy-Dafny",
+        "description": "Demonstration of a greedy algorithm for the Activity Selection Problem using Dafny.",
+        "languages": {
+            "Dafny": 68085
+        }
+    },
+    {
+        "name": "QS",
+        "description": "Software Specification - Second Project",
+        "languages": {
+            "Dafny": 16753,
+            "C#": 3294
+        }
+    },
+    {
+        "name": "Dafny",
+        "description": "Small Projects in Uni ( Formal specification and verification ) ",
+        "languages": {
+            "Dafny": 3152
+        }
+    },
+    {
+        "name": "dafny_library",
+        "description": null,
+        "languages": {
+            "Dafny": 197358,
+            "Python": 6977,
+            "Makefile": 2446,
+            "C#": 2426
+        }
+    },
+    {
+        "name": "dafny",
+        "description": null,
+        "languages": {
+            "Dafny": 25578
+        }
+    },
+    {
+        "name": "Software_Specification",
+        "description": null,
+        "languages": {
+            "Dafny": 12350
+        }
+    },
+    {
+        "name": "t1_MF",
+        "description": "t1 de metodos formais",
+        "languages": {
+            "Dafny": 24697
+        }
+    },
+    {
+        "name": "ProjectosCVS",
+        "description": null,
+        "languages": {
+            "Dafny": 18595,
+            "Java": 15534
+        }
+    },
+    {
+        "name": "ProgramLogicLab",
+        "description": null,
+        "languages": {
+            "Dafny": 4554
+        }
+    },
+    {
+        "name": "AABB_Overlap",
+        "description": "Formally verified overlap test in Dafny",
+        "languages": {
+            "Dafny": 4652
+        }
+    },
+    {
+        "name": "Program-Verification-Dataset",
+        "description": "This is a repo containing training data for LLM to be trained on program verification in Dafny and Python",
+        "languages": {
+            "Dafny": 3939816,
+            "Python": 272090,
+            "Coq": 270956,
+            "HTML": 54594,
+            "OCaml": 23376,
+            "TypeScript": 16020,
+            "Haskell": 11372,
+            "Makefile": 8833,
+            "JavaScript": 8163,
+            "Boogie": 7580,
+            "SMT": 5791,
+            "F*": 4036,
+            "C#": 2684,
+            "CSS": 1676,
+            "C": 1228,
+            "Shell": 1057,
+            "Racket": 926
+        }
+    },
+    {
+        "name": "VerifiedMergeSortDafny",
+        "description": null,
+        "languages": {
+            "Dafny": 3390
+        }
+    },
+    {
+        "name": "Bloom",
+        "description": "Academically-driven library containing utilities for Dafny",
+        "languages": {
+            "Dafny": 21623
+        }
+    },
+    {
+        "name": "CMSC433",
+        "description": null,
+        "languages": {
+            "Dafny": 2297
+        }
+    },
+    {
+        "name": "RWTH-Informatik-BA",
+        "description": null,
+        "languages": {
+            "Dafny": 26856
+        }
+    },
+    {
+        "name": "Formal-Verification",
+        "description": null,
+        "languages": {
+            "Dafny": 1573
+        }
+    },
+    {
+        "name": "Dafny-demo",
+        "description": null,
+        "languages": {
+            "Dafny": 787
+        }
+    },
+    {
+        "name": "FlexWeek",
+        "description": "Some flex week questions with verification",
+        "languages": {
+            "Dafny": 7337
+        }
+    },
+    {
+        "name": "conjunto-dafny",
+        "description": null,
+        "languages": {
+            "Dafny": 6697
+        }
+    },
+    {
+        "name": "ticketprotocol",
+        "description": null,
+        "languages": {
+            "Dafny": 113450
+        }
+    },
+    {
+        "name": "CVS_handout2",
+        "description": null,
+        "languages": {
+            "Dafny": 8690
+        }
+    },
+    {
+        "name": "groupTheory",
+        "description": null,
+        "languages": {
+            "Dafny": 123377
+        }
+    },
+    {
+        "name": "DafnyPrograms",
+        "description": null,
+        "languages": {
+            "Dafny": 17889
+        }
+    },
+    {
+        "name": "cas707-om_data_strucutre_dafny",
+        "description": "Formal method verifications with Dafny for order maintainded data structure",
+        "languages": {
+            "Dafny": 20425
+        }
+    },
+    {
+        "name": "atm-specification",
+        "description": "Formal specification of ATM using Dafny",
+        "languages": {
+            "Dafny": 5924
+        }
+    },
+    {
+        "name": "Verification_Dafny",
+        "description": null,
+        "languages": {
+            "Dafny": 19722
+        }
+    },
+    {
+        "name": "aoc",
+        "description": "random aoc ",
+        "languages": {
+            "Dafny": 62729,
+            "Shell": 665,
+            "PowerShell": 456
+        }
+    },
+    {
+        "name": "fm-proj3",
+        "description": null,
+        "languages": {
+            "Dafny": 20700
+        }
+    },
+    {
+        "name": "dafny-gitpod",
+        "description": "Dafny gitpod",
+        "languages": {
+            "Dafny": 1908,
+            "Dockerfile": 1371
+        }
+    },
+    {
+        "name": "2021_CSSE3100_ASSIGNMENT3",
+        "description": null,
+        "languages": {
+            "Dafny": 1385
+        }
+    },
+    {
+        "name": "t1-mf",
+        "description": null,
+        "languages": {
+            "Dafny": 4136
+        }
+    },
+    {
+        "name": "Final-Project-Dafny",
+        "description": null,
+        "languages": {
+            "Dafny": 56401
+        }
+    },
+    {
+        "name": "Dafny-MIPL",
+        "description": null,
+        "languages": {
+            "Dafny": 3731
+        }
+    },
+    {
+        "name": "programming-logic-with-dafny",
+        "description": "Tesis: L\u00f3gica de Programaci\u00f3n con Dafny",
+        "languages": {
+            "Dafny": 63485
+        }
+    },
+    {
+        "name": "red-black-tree-dafny",
+        "description": null,
+        "languages": {
+            "Dafny": 9329
+        }
+    },
+    {
+        "name": "ironpatch_subtaskIII_challenge6",
+        "description": null,
+        "languages": {
+            "Dafny": 478972,
+            "Python": 11651,
+            "Dockerfile": 1181,
+            "Shell": 129
+        }
+    },
+    {
+        "name": "dafny-showcase",
+        "description": "Implementation and verification in Dafny of various algorithms",
+        "languages": {
+            "Dafny": 3654
+        }
+    },
+    {
+        "name": "libraries-without-variance",
+        "description": "Fork of dafny-lang/libraries without variance declarations on type variables, to work around compilation gaps",
+        "languages": {
+            "Dafny": 219879,
+            "Python": 6857
+        }
+    },
+    {
+        "name": "dafny_experiments",
+        "description": "Experiments while learning dafny",
+        "languages": {
+            "Dafny": 14663
+        }
+    },
+    {
+        "name": "QBFT-protocol",
+        "description": null,
+        "languages": {
+            "Dafny": 838101,
+            "Shell": 242
+        }
+    },
+    {
+        "name": "dafny-aoc-2019",
+        "description": "Solving AoC 2019 problems in Dafny",
+        "languages": {
+            "Dafny": 72126,
+            "Shell": 706,
+            "PowerShell": 456
+        }
+    },
+    {
+        "name": "dafny-aoc-2023",
+        "description": null,
+        "languages": {
+            "Dafny": 96946,
+            "Shell": 706,
+            "PowerShell": 456
+        }
+    },
+    {
+        "name": "dafny",
+        "description": "Dafny Exercises ",
+        "languages": {
+            "Dafny": 953
+        }
+    },
+    {
+        "name": "uq_CSSE3100_code_dump",
+        "description": "have",
+        "languages": {
+            "Dafny": 20576
+        }
+    },
+    {
+        "name": "dafny-programs",
+        "description": "Programs in the Dafny language",
+        "languages": {
+            "Dafny": 25068
+        }
+    },
+    {
+        "name": "dafny-exercise",
+        "description": null,
+        "languages": {
+            "Dafny": 180
+        }
+    },
+    {
+        "name": "Dafny",
+        "description": null,
+        "languages": {
+            "Dafny": 220025,
+            "Java": 116483,
+            "C++": 1443
+        }
+    },
+    {
+        "name": "dafny",
+        "description": "Messing around with formal verification with dafny",
+        "languages": {
+            "Dafny": 2474
+        }
+    },
+    {
+        "name": "cs686",
+        "description": null,
+        "languages": {
+            "Dafny": 2360
+        }
+    },
+    {
+        "name": "sat_dfy",
+        "description": null,
+        "languages": {
+            "Dafny": 42177,
+            "C#": 1873,
+            "Makefile": 280
+        }
+    },
+    {
+        "name": "Dafny-Exercises",
+        "description": " Computer-aided Program Verification @ UCM",
+        "languages": {
+            "Dafny": 123009
+        }
+    },
+    {
+        "name": "Workshop",
+        "description": null,
+        "languages": {
+            "Dafny": 10430
+        }
+    },
+    {
+        "name": "Software-building-and-verification-Projects",
+        "description": null,
+        "languages": {
+            "Dafny": 31113,
+            "Java": 21018
+        }
+    },
+    {
+        "name": "ATM-specification",
+        "description": null,
+        "languages": {
+            "Dafny": 5254
+        }
+    },
+    {
+        "name": "703FinalProject",
+        "description": null,
+        "languages": {
+            "Dafny": 8653
+        }
+    },
+    {
+        "name": "gilded-rose-dafny",
+        "description": "Gilded Rose refactoring Kata in the Dafny programming/verification language",
+        "languages": {
+            "Dafny": 3162,
+            "Makefile": 204
+        }
+    },
+    {
+        "name": "fsv-p03",
+        "description": null,
+        "languages": {
+            "Dafny": 4329
+        }
+    },
+    {
+        "name": "Dafny-Practice",
+        "description": null,
+        "languages": {
+            "Dafny": 20616
+        }
+    },
+    {
+        "name": "CSU55004---Formal-Verification",
+        "description": null,
+        "languages": {
+            "Dafny": 7536
+        }
+    },
+    {
+        "name": "type-definition",
+        "description": null,
+        "languages": {
+            "Dafny": 62142,
+            "Python": 4479
+        }
+    },
+    {
+        "name": "cs357",
+        "description": "Software Verification (3rd Year Module)",
+        "languages": {
+            "Dafny": 2841,
+            "SMT": 2286,
+            "Coq": 2138
+        }
     }
 ]

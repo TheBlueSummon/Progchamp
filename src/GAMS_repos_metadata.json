@@ -51,5 +51,1529 @@
             "GAMS": 57782,
             "Julia": 15376
         }
+    },
+    {
+        "name": "space-time-network_optimization_4_transportation_logistics",
+        "description": null,
+        "languages": {
+            "GAMS": 339306,
+            "C++": 23130,
+            "C": 1963
+        }
+    },
+    {
+        "name": "witchmodel",
+        "description": "The WITCH integrated assessment model",
+        "languages": {
+            "GAMS": 322791
+        }
+    },
+    {
+        "name": "EOLES_elecRES",
+        "description": "Dispatch and investment model for a fully renewable power sector",
+        "languages": {
+            "GAMS": 71905
+        }
+    },
+    {
+        "name": "DICE",
+        "description": "Dynamic Integrated Climate-Economy Model of the Economics of Global Warming",
+        "languages": {
+            "GAMS": 63627
+        }
+    },
+    {
+        "name": "RICE50xmodel",
+        "description": "The multi-regional Integrated Assessment Model RICE50+",
+        "languages": {
+            "GAMS": 269679
+        }
+    },
+    {
+        "name": "EnergySystemsModelling-course",
+        "description": "Teaching materials for the Energy Systems Modelling course at BTU CS",
+        "languages": {
+            "GAMS": 56144
+        }
+    },
+    {
+        "name": "GAMS-Power-Market",
+        "description": null,
+        "languages": {
+            "GAMS": 24767
+        }
+    },
+    {
+        "name": "Impact-of-Electric-Vehicle-Loads-on-System-Operation",
+        "description": "Optimal Power Flow (OPF) with objective to minimize the feeders\u2019 losses using GAMS",
+        "languages": {
+            "GAMS": 11213,
+            "MATLAB": 5074
+        }
+    },
+    {
+        "name": "GAMS-DC--OPF-",
+        "description": "The current DC optimal power flow (OPF) model finds the optimal operating schedules of generating units considering transmission line constraints. The objective function is defined as the total operating costs of generating units. The model type is LP and is applied to a 5 bus PJM test system as described in the following reference: F. Li and R. Bo, \"Small test systems for power system economic studies,\" IEEE PES General Meeting, Minneapolis, MN, 2010, pp. 1-4. doi: 10.1109/PES.2010.5589973 The proposed model is able to handle large scale set of data for practical power system transmission networks.  Inputs: Generator costs + technical characteristics (min/max , connection point) Network characteristics (reactances, demands, line flow limits) Outputs: local marginal prices (LMP) Generators outputs Line flows Angle values -------------------------------------------------------------------------------------------- Contributed by Dr. Alireza Soroudi, University College Dublin, Dublin, Ireland. email: alireza.sor",
+        "languages": {
+            "GAMS": 8692
+        }
+    },
+    {
+        "name": "opt_wastewater_treatment_strategies",
+        "description": "Optimisation of wastewater treatment strategies based on mixed integer linear programming",
+        "languages": {
+            "GAMS": 23624
+        }
+    },
+    {
+        "name": "TIMES_Demo",
+        "description": "TIMES Demo Model",
+        "languages": {
+            "GAMS": 1154492
+        }
+    },
+    {
+        "name": "CEEEA2.0-CGE",
+        "description": null,
+        "languages": {
+            "GAMS": 328736
+        }
+    },
+    {
+        "name": "SCUC-using-LODF",
+        "description": "Security Constrained Unit Commitment Using Line Outage Distribution Factors",
+        "languages": {
+            "GAMS": 31740
+        }
+    },
+    {
+        "name": "stELMOD",
+        "description": "stELMOD is a stochastic optimization model to analyze the impact of uncertain wind generation on the dayahead and intraday electricity markets as well as network congestion management. The consecutive clearing of the electricity markets is incorporated by a rolling planning procedure resembling the market process of most European markets.",
+        "languages": {
+            "GAMS": 229899
+        }
+    },
+    {
+        "name": "LEGO",
+        "description": "Low-carbon Expansion Generation Optimization (LEGO) model",
+        "languages": {
+            "GAMS": 116402
+        }
+    },
+    {
+        "name": "vSPD",
+        "description": "vectorised Scheduling, Pricing and Dispatch",
+        "languages": {
+            "GAMS": 420140,
+            "C++": 2970,
+            "Groovy": 1369,
+            "Batchfile": 678,
+            "HTML": 309
+        }
+    },
+    {
+        "name": "LEGO",
+        "description": "Low-carbon Expansion Generation Optimization (LEGO) model ",
+        "languages": {
+            "GAMS": 118857
+        }
+    },
+    {
+        "name": "CGE",
+        "description": "A repository for Regional Computable General Equilibrium Model stuff",
+        "languages": {
+            "GAMS": 54055
+        }
+    },
+    {
+        "name": "cchp-minlp",
+        "description": null,
+        "languages": {
+            "GAMS": 6523880
+        }
+    },
+    {
+        "name": "GTAPinGAMS",
+        "description": "Build stream with a sample CGE for using GTAP data in economic modeling",
+        "languages": {
+            "GAMS": 91557,
+            "Batchfile": 3369
+        }
+    },
+    {
+        "name": "Gas-Elec-PriceCoupling",
+        "description": "Exploiting Flexibility in Coupled Electricity and Natural Gas Markets: A Price-Based Approach (PowerTech 2017)",
+        "languages": {
+            "GAMS": 26264
+        }
+    },
+    {
+        "name": "gwlf-e",
+        "description": "Port of Generalized Watersheds Loading Functions - Enhanced (MapShed)",
+        "languages": {
+            "GAMS": 5930291,
+            "Python": 775719
+        }
+    },
+    {
+        "name": "energy_markets_gams_emp",
+        "description": "GAMS examples using EMP from Complementarity Modeling in Energy Markets",
+        "languages": {
+            "GAMS": 44935
+        }
+    },
+    {
+        "name": "toJuMP.jl",
+        "description": null,
+        "languages": {
+            "GAMS": 65868,
+            "Julia": 47227,
+            "AMPL": 33097
+        }
+    },
+    {
+        "name": "cgecalibration",
+        "description": "A Dynamic Baseline Calibration Procedure for CGE models: Supplementary Code",
+        "languages": {
+            "GAMS": 63412,
+            "R": 49118
+        }
+    },
+    {
+        "name": "generation-expansion-planning-models",
+        "description": "Generation Expansion Planning (GEP) models considering uncertainties on renewable energy resources (RES)",
+        "languages": {
+            "GAMS": 92047
+        }
+    },
+    {
+        "name": "PythonGAMS",
+        "description": "Use python to get data and import to GAMS 25.0",
+        "languages": {
+            "GAMS": 9366
+        }
+    },
+    {
+        "name": "UC-data",
+        "description": "Unit commitment case studies",
+        "languages": {
+            "GAMS": 44815
+        }
+    },
+    {
+        "name": "Optimization_Methods_in_Metabolic_Networks",
+        "description": "Examples for Optimization Methods in Metabolic Networks (ISBN: 978-1-119-02849-9)",
+        "languages": {
+            "GAMS": 175351
+        }
+    },
+    {
+        "name": "EPM",
+        "description": "Electricity Planning Model",
+        "languages": {
+            "GAMS": 171613
+        }
+    },
+    {
+        "name": "gams_stub",
+        "description": "A stub repository for GAMS-based models with associated tools.",
+        "languages": {
+            "GAMS": 3794,
+            "Shell": 283
+        }
+    },
+    {
+        "name": "gams-parser",
+        "description": "Python based gams syntax parser for determining sets, variables, equations, and models from gams files.",
+        "languages": {
+            "GAMS": 62050,
+            "Python": 47907,
+            "Makefile": 1385,
+            "Dockerfile": 1009,
+            "C++": 155,
+            "PHP": 145
+        }
+    },
+    {
+        "name": "neos-js",
+        "description": "NEOS Server JS Client",
+        "languages": {
+            "GAMS": 25095,
+            "JavaScript": 13867
+        }
+    },
+    {
+        "name": "TIMES-DK_COMETS",
+        "description": "Imported from gitlab.windenergy.dtu.dk/esy/times-dk_comets",
+        "languages": {
+            "GAMS": 62512902,
+            "Scala": 23796
+        }
+    },
+    {
+        "name": "min_matches_heuristics",
+        "description": "Source code of the methods proposed in \"Dimitrios Letsios, Georgia Kouyialis, Ruth Misener. Heuristics with Performance Guarantees for the Minimum Number of Matches Problem in Heat Recovery Network Design. Computers and Chemical Engineering 113:57-85, 2018\".\".",
+        "languages": {
+            "GAMS": 352284,
+            "Python": 174940,
+            "TeX": 33048
+        }
+    },
+    {
+        "name": "Do-unit-commitment-constraints-affect-generation-expansion-planning",
+        "description": "Electronic companion for paper \"Do unit commitment constraints affect generation expansion planning? A scalable stochastic model\" by Anna Schwele, Jalal Kazempour and Pierre Pinson.",
+        "languages": {
+            "GAMS": 25994
+        }
+    },
+    {
+        "name": "Design-of-distillation-columns",
+        "description": "Some design and optimization distillations columns  examples. ",
+        "languages": {
+            "GAMS": 42284
+        }
+    },
+    {
+        "name": "smart-grid",
+        "description": "A smart grid simulation with three prosumers each having access to solar energy, wind energy, EV cars and more. The grid is represented as Mixed Integer Optimisation problem and solved using GAMS.",
+        "languages": {
+            "GAMS": 71360,
+            "Python": 13220
+        }
+    },
+    {
+        "name": "highRES-Europe",
+        "description": null,
+        "languages": {
+            "GAMS": 53827
+        }
+    },
+    {
+        "name": "Gibbs-energy-dissipation-limited-flux-balance-analysis",
+        "description": "Code to perform flux balance analysis with a limited Gibbs energy dissipation rate using the combined thermodynamic and stoichiometric models of E. coli and S. cerevisiae",
+        "languages": {
+            "GAMS": 33790
+        }
+    },
+    {
+        "name": "GenX",
+        "description": "Configurable electricity resource capacity expansion model implemented in GAMS",
+        "languages": {
+            "GAMS": 64862
+        }
+    },
+    {
+        "name": "electricity-models",
+        "description": "optimization models for electricity markets",
+        "languages": {
+            "GAMS": 116755
+        }
+    },
+    {
+        "name": "windc_build",
+        "description": "Primary repository for the Wisconsin National Data Consortium (WiNDC) dataset generation environment.",
+        "languages": {
+            "GAMS": 692854
+        }
+    },
+    {
+        "name": "classic-transportation-problems",
+        "description": "GAMS learning notes and some useful codes",
+        "languages": {
+            "GAMS": 7432
+        }
+    },
+    {
+        "name": "CUC-data",
+        "description": "Clustered Unit Commitment Case Studies",
+        "languages": {
+            "GAMS": 42048
+        }
+    },
+    {
+        "name": "tacogem",
+        "description": "Turkish Agricultural CGE Model - Regional & Static (TACoGEM-RS)",
+        "languages": {
+            "GAMS": 189403,
+            "C++": 65546,
+            "PHP": 6837,
+            "Batchfile": 638
+        }
+    },
+    {
+        "name": "model",
+        "description": "Fruchtfolge simulation model",
+        "languages": {
+            "GAMS": 3097052,
+            "JavaScript": 28845
+        }
+    },
+    {
+        "name": "Uncertainty_Optimization",
+        "description": "Using various methods such as scenario formulation, multi-stage optimization, stochastic dynamic programming (SDP), Chance Constrained Optimization to solve optimization problems with uncertainty in variables ",
+        "languages": {
+            "GAMS": 14230,
+            "MATLAB": 2008
+        }
+    },
+    {
+        "name": "EOLES_mv",
+        "description": "Multi-vector dispatch and investment model of the whole energy sector with endogenous representation of energy sources, carriers, storage options and end-use demand possibilities.",
+        "languages": {
+            "GAMS": 151038
+        }
+    },
+    {
+        "name": "EBGN632_2019",
+        "description": null,
+        "languages": {
+            "GAMS": 14882,
+            "R": 222,
+            "Batchfile": 122
+        }
+    },
+    {
+        "name": "gocomp",
+        "description": "Go Competition",
+        "languages": {
+            "GAMS": 128429,
+            "Python": 92880
+        }
+    },
+    {
+        "name": "optimization-probems",
+        "description": "Optimization problems solved with GAMS",
+        "languages": {
+            "GAMS": 14362
+        }
+    },
+    {
+        "name": "Urban-Layout-QAP",
+        "description": null,
+        "languages": {
+            "GAMS": 2969877
+        }
+    },
+    {
+        "name": "nonogram-ilp",
+        "description": "ILP formulation in GAMS for solving nonograms",
+        "languages": {
+            "GAMS": 8014,
+            "Python": 4723,
+            "Assembly": 153
+        }
+    },
+    {
+        "name": "bid",
+        "description": "Strategic offering to sequential day-ahead and intraday electricity markets",
+        "languages": {
+            "GAMS": 17552
+        }
+    },
+    {
+        "name": "medea",
+        "description": "power system model medea",
+        "languages": {
+            "GAMS": 30992,
+            "Python": 12305
+        }
+    },
+    {
+        "name": "AVRLite",
+        "description": "Autonomous vehcle routing lite (AVRLite)",
+        "languages": {
+            "GAMS": 1116958,
+            "C++": 350677,
+            "Python": 80690,
+            "C": 2814
+        }
+    },
+    {
+        "name": "DICEWAIS",
+        "description": "DICEWAIS model code and documentation",
+        "languages": {
+            "GAMS": 20066
+        }
+    },
+    {
+        "name": "Flowshop-Scheduling-Problem-with-GAMS",
+        "description": "A distributed permutation flowshop scheduling problem with the customer order constraint",
+        "languages": {
+            "GAMS": 4010
+        }
+    },
+    {
+        "name": "ac-dc-design",
+        "description": "Mixed AC-DC electricity distribution system design algorithms and test cases in GAMS",
+        "languages": {
+            "GAMS": 958368,
+            "HTML": 37351
+        }
+    },
+    {
+        "name": "SOFTX_2020_75",
+        "description": "DIETERpy: a Python framework for The Dispatch and Investment Evaluation Tool with Endogenous Renewables. To cite this Original Software Publication: https://www.sciencedirect.com/science/article/pii/S2352711021000947",
+        "languages": {
+            "GAMS": 357267,
+            "Python": 253160
+        }
+    },
+    {
+        "name": "Integrated-MOF-and-PVSA-Process-Design",
+        "description": null,
+        "languages": {
+            "GAMS": 83958,
+            "Python": 9091,
+            "Shell": 501
+        }
+    },
+    {
+        "name": "basis_set_exchange-historical",
+        "description": "Historical basis set data",
+        "languages": {
+            "GAMS": 6914558,
+            "BASIC": 4635708,
+            "Tcl": 4133102,
+            "HTML": 108097,
+            "Python": 100649,
+            "VBA": 84282,
+            "Visual Basic 6.0": 80480,
+            "FreeBasic": 17664,
+            "Shell": 11501,
+            "Fortran": 8897,
+            "Makefile": 1795,
+            "Ruby": 76,
+            "Roff": 13
+        }
+    },
+    {
+        "name": "CIAM",
+        "description": "Coastal Impact and Adaptation Model",
+        "languages": {
+            "GAMS": 24011
+        }
+    },
+    {
+        "name": "DownScale",
+        "description": "Downscaling module for GLOBIOM output",
+        "languages": {
+            "GAMS": 13279769,
+            "R": 226037,
+            "Batchfile": 1052
+        }
+    },
+    {
+        "name": "ReEDS",
+        "description": null,
+        "languages": {
+            "GAMS": 188862
+        }
+    },
+    {
+        "name": "GAMS-Implementation-of-Optimal-Power-Flow-Economic-Dispatch-and-Unit-Commitment",
+        "description": "This repository contains various single and multi-period Economic Dispatch and Unit Commitment code. They can be extended for more complicated optimization problems.",
+        "languages": {
+            "GAMS": 6972
+        }
+    },
+    {
+        "name": "ARO-GasInfrastructure",
+        "description": "Input data and source code for the paper \"European Gas Infrastructure Expansion Planning: An Adaptive Robust Optimization Approach\"",
+        "languages": {
+            "GAMS": 53885
+        }
+    },
+    {
+        "name": "ARPA-E-Competition",
+        "description": null,
+        "languages": {
+            "GAMS": 485469
+        }
+    },
+    {
+        "name": "day_ahead_electricity_market",
+        "description": "GAMS code for day-ahead electricity market simulation",
+        "languages": {
+            "GAMS": 11805
+        }
+    },
+    {
+        "name": "MazeGameEngine",
+        "description": null,
+        "languages": {
+            "GAMS": 9609983,
+            "Pascal": 1646294
+        }
+    },
+    {
+        "name": "tsc_opf_frt",
+        "description": "Transient stability constrained optimal power flow (FRT)",
+        "languages": {
+            "GAMS": 2421362,
+            "Python": 143004,
+            "MATLAB": 2059
+        }
+    },
+    {
+        "name": "GAMS_code_Research",
+        "description": "used in my publications",
+        "languages": {
+            "GAMS": 70543
+        }
+    },
+    {
+        "name": "GAMAMOD",
+        "description": "This is the model repository for the thesis of Philipp Hauser (TU Dresden, Germany)",
+        "languages": {
+            "GAMS": 183014
+        }
+    },
+    {
+        "name": "selaru",
+        "description": "Spatially-explicit Energy and LAnd system InfrastRUcture modelling framework",
+        "languages": {
+            "GAMS": 97733
+        }
+    },
+    {
+        "name": "Modern-Optimization-for-Power-System",
+        "description": " Lectures and exercizes",
+        "languages": {
+            "GAMS": 17607,
+            "Python": 3662
+        }
+    },
+    {
+        "name": "EOLES_elec_H2",
+        "description": "Dispatch and investment optimization of power system including off-grid and blue hydrogen production technologies",
+        "languages": {
+            "GAMS": 17396
+        }
+    },
+    {
+        "name": "oxyfuel",
+        "description": " A framework in GAMS for synthesis of coal oxycombustion power plants using advanced optimization algorithms. This release focuses on cryogenic ASU modeling and optimization.",
+        "languages": {
+            "GAMS": 371988,
+            "MATLAB": 69673,
+            "Makefile": 1368,
+            "Shell": 828
+        }
+    },
+    {
+        "name": "VRP-study-note",
+        "description": null,
+        "languages": {
+            "GAMS": 1104812,
+            "C++": 310952,
+            "Python": 32116,
+            "C": 2508
+        }
+    },
+    {
+        "name": "stochastic_market_Stablity_Constrains",
+        "description": "Electric Power Market with Intermittent Power Generators and Stability Contraints",
+        "languages": {
+            "GAMS": 13715,
+            "MATLAB": 7860
+        }
+    },
+    {
+        "name": "BLOEM",
+        "description": "Bioenergy and Land Optimization spatially Explicit Model",
+        "languages": {
+            "GAMS": 53886
+        }
+    },
+    {
+        "name": "MultiStage-Farmer-Problem-with-Scenario-Reduction-and-Nested-Decomposition",
+        "description": null,
+        "languages": {
+            "GAMS": 20381,
+            "MATLAB": 1995
+        }
+    },
+    {
+        "name": "Planidecortplaz",
+        "description": "Project in course 'Modeling Economical Mathematics' where we are optimising the cost of running six power stations to supply a city. Written in GAMS.",
+        "languages": {
+            "GAMS": 9597
+        }
+    },
+    {
+        "name": "min_matches_heuristics",
+        "description": "Implementation of exact and heuristic methods for the minimum number of matches in heat exchanger network design",
+        "languages": {
+            "GAMS": 352284,
+            "Python": 177329,
+            "TeX": 33048
+        }
+    },
+    {
+        "name": "Batch-Cooling-Tower",
+        "description": "On the optimum design of a cooling water system with a batch background process",
+        "languages": {
+            "GAMS": 103101
+        }
+    },
+    {
+        "name": "OSeMOSYS_GAMS",
+        "description": "The GAMS implementation of OSeMOSYS",
+        "languages": {
+            "GAMS": 60055
+        }
+    },
+    {
+        "name": "VRPTW",
+        "description": "This is the GAMS code of IP formulation for the example questions in the manuscript titled \"Formulating and Solving Massive Vehicle Routing Problems with Pickup Time Windows (VRPTW) in Capacitated Networks Using High Performance Computing Techniques\"",
+        "languages": {
+            "GAMS": 1950279
+        }
+    },
+    {
+        "name": "IO-analysis",
+        "description": null,
+        "languages": {
+            "GAMS": 20891,
+            "R": 7485
+        }
+    },
+    {
+        "name": "TDCED-with-Uncertainties",
+        "description": "This is the part of the codes for the T&D coordinated ED problem with uncertainties in distribution demands and generation. ",
+        "languages": {
+            "GAMS": 73089
+        }
+    },
+    {
+        "name": "EOLES_elec2035",
+        "description": "Le mod\u00e8le EOLES pour le secteur \u00e9lectrique comprenant les \u00e9nergies renouvelables et le nucl\u00e9aire pour l'ann\u00e9e 2035",
+        "languages": {
+            "GAMS": 17091
+        }
+    },
+    {
+        "name": "Microgrid-Basics-GAMS-codes",
+        "description": "GAMS codes for microgrid",
+        "languages": {
+            "GAMS": 195471
+        }
+    },
+    {
+        "name": "PhDenergymodels",
+        "description": "Energy system models used in my PhD thesis.",
+        "languages": {
+            "GAMS": 977469,
+            "AMPL": 52718
+        }
+    },
+    {
+        "name": "IRPopt",
+        "description": null,
+        "languages": {
+            "GAMS": 1727228
+        }
+    },
+    {
+        "name": "Learning-Transportation",
+        "description": null,
+        "languages": {
+            "GAMS": 302753,
+            "C++": 23130,
+            "C": 1963
+        }
+    },
+    {
+        "name": "prosumage",
+        "description": null,
+        "languages": {
+            "GAMS": 1868132,
+            "Batchfile": 943
+        }
+    },
+    {
+        "name": "BUGE512",
+        "description": null,
+        "languages": {
+            "GAMS": 201397,
+            "R": 6284,
+            "Rebol": 1999
+        }
+    },
+    {
+        "name": "master",
+        "description": "all files developed as part of masters",
+        "languages": {
+            "GAMS": 36687
+        }
+    },
+    {
+        "name": "GAMS_Optimization",
+        "description": null,
+        "languages": {
+            "GAMS": 24914
+        }
+    },
+    {
+        "name": "CGELCA",
+        "description": null,
+        "languages": {
+            "GAMS": 63429
+        }
+    },
+    {
+        "name": "renewables_fcc",
+        "description": "This repository contains the optimization code for renewable-integrated flexible carbon capture problem.",
+        "languages": {
+            "GAMS": 30114,
+            "Python": 8776
+        }
+    },
+    {
+        "name": "cge_theoretical",
+        "description": "theoretical models of in.t. trade",
+        "languages": {
+            "GAMS": 20379
+        }
+    },
+    {
+        "name": "EOLES_elec",
+        "description": "Single-node dispatch and investment model for the power sector",
+        "languages": {
+            "GAMS": 17485
+        }
+    },
+    {
+        "name": "paper-resource-code",
+        "description": "paper-resource-code",
+        "languages": {
+            "GAMS": 574014
+        }
+    },
+    {
+        "name": "Learning-Network",
+        "description": "Traffic Optimization Theory and Algorithm",
+        "languages": {
+            "GAMS": 32791,
+            "C++": 25584
+        }
+    },
+    {
+        "name": "article-regional-recurcive-cge",
+        "description": "Monteiro and Penna (2021) - The Long-run Effects of Lockdown in Cear\u00e1 Economy Through Productivity: An Recursive CGE Approach",
+        "languages": {
+            "GAMS": 67608,
+            "R": 32289
+        }
+    },
+    {
+        "name": "CGE_2016",
+        "description": "All works on CGE in 2016",
+        "languages": {
+            "GAMS": 2447185,
+            "HTML": 776535,
+            "R": 403676,
+            "TeX": 2100,
+            "Batchfile": 22
+        }
+    },
+    {
+        "name": "Nonlinear-Optimization-on-fed-batch-reactor-system",
+        "description": "This survey relates to using nonlinear optimization to improve or optimize fed-batch reactor system regarding the discussion in the academic journal presented \u201cOptimization of fed-batch bioreactors using genetic algorithm: multiple control variables\u201d by Debasis Sarkar and Jayant M. Modak, published in Computers & Chemical Engineering. Furthermore, the original article, \u201cOptimal Production of Secreted Protein in Fed-Batch Reactors\u201d by Seujeung Park and W. Fred Ramirez, published in AIChE Journal, Volume 34. Additionally, it should be acknowledged this report was produced for ISE 3210 (Nonlinear and Dynamic Optimization) at Ohio State University and is not meant for reproduction or publication.",
+        "languages": {
+            "GAMS": 3234
+        }
+    },
+    {
+        "name": "GAMS",
+        "description": null,
+        "languages": {
+            "GAMS": 363238,
+            "Python": 1234
+        }
+    },
+    {
+        "name": "SIGASUS",
+        "description": "Strategic Investment in Generation And Storage UnitS",
+        "languages": {
+            "GAMS": 19449
+        }
+    },
+    {
+        "name": "Reserve-and-Energy-Scheduling",
+        "description": "A Distributed Method Using MATLAB and GAMS",
+        "languages": {
+            "GAMS": 88616,
+            "MATLAB": 4617
+        }
+    },
+    {
+        "name": "SDG-Country-Models",
+        "description": "This repository will contain the GAMS code for the SDG model",
+        "languages": {
+            "GAMS": 37703
+        }
+    },
+    {
+        "name": "superstructure",
+        "description": "This is a model formulation to optimize the structure of a carbon capture system. The main objective of the model is to minimize the total cost, which includes capital, operating, maintenance, utilities, and power costs to achieve at least a 90% CO2 capture target.",
+        "languages": {
+            "GAMS": 446693,
+            "Makefile": 1105
+        }
+    },
+    {
+        "name": "SeasonalFlex",
+        "description": "Input data, source code and results for the paper \"Seasonal Flexibility in the European Natural Gas Market\"",
+        "languages": {
+            "GAMS": 76455
+        }
+    },
+    {
+        "name": "Flexibility-in-a-European-Energy-system",
+        "description": "This is the model repository for the thesis of Christoph Z\u00f6phel (TU Dresden, Germany)",
+        "languages": {
+            "GAMS": 53480
+        }
+    },
+    {
+        "name": "GM-Scripting",
+        "description": "Scripts & Utilities to GlobalMapper",
+        "languages": {
+            "GAMS": 9501
+        }
+    },
+    {
+        "name": "remind-coupling-dieter",
+        "description": null,
+        "languages": {
+            "GAMS": 2318420,
+            "NASL": 899602,
+            "R": 443268,
+            "HTML": 100434,
+            "Shell": 75134,
+            "Assembly": 50217,
+            "Python": 7099,
+            "Batchfile": 15
+        }
+    },
+    {
+        "name": "orthogonal-collocation-with-contacts",
+        "description": "Contact-implicit trajectory optimization using orthogonal collocation in GAMS: pendulum with hard stops and double-contact biped",
+        "languages": {
+            "GAMS": 68031
+        }
+    },
+    {
+        "name": "Nesting-Irregular-Shapes",
+        "description": "Implementation of \"A fully general, exact algorithm for nesting irregular shapes\" https://link.springer.com/article/10.1007/s10898-013-0129-z",
+        "languages": {
+            "GAMS": 7945
+        }
+    },
+    {
+        "name": "COALMOD-World_v2.0",
+        "description": null,
+        "languages": {
+            "GAMS": 61046
+        }
+    },
+    {
+        "name": "podi",
+        "description": "Powerflow Optimization with Discrete Decisions",
+        "languages": {
+            "GAMS": 337784463,
+            "MATLAB": 4098670,
+            "Python": 1376297
+        }
+    },
+    {
+        "name": "SIDS_JA_EnergyPolicy",
+        "description": "This repository contains input files and GAMS program codes for renewable energy policy in SIDS using Jamaica as a case study.",
+        "languages": {
+            "GAMS": 194609
+        }
+    },
+    {
+        "name": "Econ-Models",
+        "description": "Contains international trade theory models created in GAMS",
+        "languages": {
+            "GAMS": 15795
+        }
+    },
+    {
+        "name": "gnuplotxyz",
+        "description": "A software interface from GAMS to GNUPLOT",
+        "languages": {
+            "GAMS": 410424
+        }
+    },
+    {
+        "name": "neosproject",
+        "description": "Python utilities for the Neos optimization server",
+        "languages": {
+            "GAMS": 20076,
+            "Python": 7777
+        }
+    },
+    {
+        "name": "smr",
+        "description": "This repository contains GAMS example files for the paper: Set-Membership Nonlinear Regression Approach to Parameter Estimation, Journal of Process Control, Volume 70, Pages 80-95 (DOI: 10.1016/j.jprocont.2018.04.002)",
+        "languages": {
+            "GAMS": 45108
+        }
+    },
+    {
+        "name": "Envisage",
+        "description": "Core Envisage Model",
+        "languages": {
+            "GAMS": 1014312,
+            "Batchfile": 19613,
+            "Shell": 6735
+        }
+    },
+    {
+        "name": "Balmorel-CM",
+        "description": "Balmorel Course 2019 model",
+        "languages": {
+            "GAMS": 4093280
+        }
+    },
+    {
+        "name": "cge-rebound",
+        "description": null,
+        "languages": {
+            "GAMS": 43643
+        }
+    },
+    {
+        "name": "Optimization-of-Production-Scheduling",
+        "description": "This repository contains proposed model that can be used to optimize an organization\u2019s manufacturing processes through a lot sizing and scheduling problem (LSSP) in a multi-site manufacturing system.",
+        "languages": {
+            "GAMS": 30273
+        }
+    },
+    {
+        "name": "PowerSystemsPlanningModel",
+        "description": "ECEN 5007 Final Project",
+        "languages": {
+            "GAMS": 11007,
+            "MATLAB": 3764
+        }
+    },
+    {
+        "name": "model_Balmorel",
+        "description": "This repository contains all model development using Balmorel within the open_MODEX project.",
+        "languages": {
+            "GAMS": 4206823
+        }
+    },
+    {
+        "name": "IMPLAN",
+        "description": null,
+        "languages": {
+            "GAMS": 682044921,
+            "Batchfile": 3253,
+            "Stata": 387
+        }
+    },
+    {
+        "name": "highRES-GB",
+        "description": null,
+        "languages": {
+            "GAMS": 24917
+        }
+    },
+    {
+        "name": "AppliedOperationsResearch_UniCPH",
+        "description": "Various optimization problems solved in GAMS for the course Applied Operations Research at University of Copenhagen.",
+        "languages": {
+            "GAMS": 15886
+        }
+    },
+    {
+        "name": "dieter-coupling-remind",
+        "description": null,
+        "languages": {
+            "GAMS": 144813,
+            "R": 110396,
+            "Python": 1441,
+            "Shell": 325
+        }
+    },
+    {
+        "name": "highRES-AtLAST",
+        "description": null,
+        "languages": {
+            "GAMS": 97802
+        }
+    },
+    {
+        "name": "gem",
+        "description": "Automatically exported from code.google.com/p/gem",
+        "languages": {
+            "GAMS": 370722,
+            "C++": 41715,
+            "Pascal": 2523,
+            "Assembly": 1786,
+            "Batchfile": 782
+        }
+    },
+    {
+        "name": "SATIMGE_Veda",
+        "description": "Linked TIMES CGE model for South Africa",
+        "languages": {
+            "GAMS": 1276411,
+            "NASL": 260591,
+            "C++": 69550,
+            "Pawn": 20781,
+            "Batchfile": 1685,
+            "SourcePawn": 1678
+        }
+    },
+    {
+        "name": "OPEN-PROM",
+        "description": "This is the OPEN-PROM model, the open version of the world energy model PROMETHEUS of E3-Modelling. OPEN-PROM is currently under development!",
+        "languages": {
+            "GAMS": 295953,
+            "R": 46227,
+            "Python": 24521
+        }
+    },
+    {
+        "name": "GAMSlogit",
+        "description": "In this repository, a GAMS code is provided to estimate parameters of the logit model. We provide a code and sample data to solve for binary route choice model for truck drivers. ",
+        "languages": {
+            "GAMS": 1572
+        }
+    },
+    {
+        "name": "Smart_Grid",
+        "description": "ELECTRIC POWER MARKET WITH INTERMITTENT GENERATION",
+        "languages": {
+            "GAMS": 6084
+        }
+    },
+    {
+        "name": "Single-And-Multi-Objective-Problems-Solving",
+        "description": "Single Objective Problems & Multi Objective Problems Solving using GAMS",
+        "languages": {
+            "GAMS": 16902
+        }
+    },
+    {
+        "name": "gamsworld",
+        "description": "GAMS World model library",
+        "languages": {
+            "GAMS": 464971976,
+            "Assembly": 4437209,
+            "NASL": 1672799,
+            "PHP": 928382,
+            "HTML": 490605,
+            "Pascal": 288708,
+            "C": 60615,
+            "Shell": 11466,
+            "C++": 10733,
+            "Perl": 1475
+        }
+    },
+    {
+        "name": "GAMS_PTDF_PSDF_LODF",
+        "description": "Calculation of the system matrices for electricity network calculation in GAMS.",
+        "languages": {
+            "GAMS": 5692
+        }
+    },
+    {
+        "name": "appliedtt-ss2014",
+        "description": "Exercises for Applied Trade Theory Course, Christine Wieck, SS2014, Uni Bonn",
+        "languages": {
+            "GAMS": 27991,
+            "R": 2355
+        }
+    },
+    {
+        "name": "GAMS",
+        "description": null,
+        "languages": {
+            "GAMS": 3469
+        }
+    },
+    {
+        "name": "microBiome-v2.1",
+        "description": "Integrative model of Nitrosomonas europaea and Nitrobacter winogradskyi in 2-phase batch culture",
+        "languages": {
+            "GAMS": 263589,
+            "MATLAB": 103533
+        }
+    },
+    {
+        "name": "EXIOMOD-open",
+        "description": null,
+        "languages": {
+            "GAMS": 358595,
+            "HTML": 73024,
+            "MATLAB": 25056,
+            "Batchfile": 2040
+        }
+    },
+    {
+        "name": "water-management-problem",
+        "description": "This water management problem describes a network of water resources, irrigation channels and water consumption places with random demands scenarios. Software: GAMS[https://www.gams.com/latest/docs/]",
+        "languages": {
+            "GAMS": 12043
+        }
+    },
+    {
+        "name": "building-energy-RCM",
+        "description": "This reduced complexity model uses ResStock simulation and weather data to predict COP of heat pumps and heating demand.",
+        "languages": {
+            "GAMS": 20761,
+            "Python": 17640
+        }
+    },
+    {
+        "name": "GAMS-Codes---Economic-Growth",
+        "description": null,
+        "languages": {
+            "GAMS": 11053
+        }
+    },
+    {
+        "name": "AIMTechnology_core",
+        "description": "AIM/Technology model core program",
+        "languages": {
+            "GAMS": 712698,
+            "Shell": 7299
+        }
+    },
+    {
+        "name": "GENeSYS_MOD.gms",
+        "description": "The Global Energy System Model (GENeSYS-MOD) - GAMS repository",
+        "languages": {
+            "GAMS": 378217
+        }
+    },
+    {
+        "name": "Systems-model-in-Wetlands-to-Allocate-water-and-Manage-Plant-Spread",
+        "description": "SWAMPS: Systems model in Wetlands to Allocate water and Manage Plant Spread",
+        "languages": {
+            "GAMS": 554306,
+            "MATLAB": 218219
+        }
+    },
+    {
+        "name": "Multistage-co-optimization",
+        "description": "MultiStageModel",
+        "languages": {
+            "GAMS": 2776217661,
+            "Python": 157162
+        }
+    },
+    {
+        "name": "Online-appendix-for-paper-A-Consensus-ADMM-Approach-for-Strategic-Generation-Investment-in-Electric",
+        "description": null,
+        "languages": {
+            "GAMS": 41491
+        }
+    },
+    {
+        "name": "model_GENeSYS-MOD",
+        "description": "This repository contains all model development using OSeMOSYS within the open_MODEX project.",
+        "languages": {
+            "GAMS": 252505
+        }
+    },
+    {
+        "name": "Shaanxi-Model",
+        "description": null,
+        "languages": {
+            "GAMS": 560694
+        }
+    },
+    {
+        "name": "Modelling-and-Analysis-of-Sustainable-Energy-Systems-using-Operations-Research",
+        "description": "Course 42002 given at DTU",
+        "languages": {
+            "GAMS": 30644
+        }
+    },
+    {
+        "name": "scRBA",
+        "description": "S. cerevisiae Resource Balance Analysis model",
+        "languages": {
+            "GAMS": 1940727,
+            "Python": 1847110,
+            "Jupyter Notebook": 1260642,
+            "Shell": 354
+        }
+    },
+    {
+        "name": "multimodal_TSP_modeling",
+        "description": "Multimodal_TSP_GAMS_Gurobi Codes for paper submission",
+        "languages": {
+            "GAMS": 4174488,
+            "Python": 26710
+        }
+    },
+    {
+        "name": "gams2web",
+        "description": "Interactive web interface to GAMS models",
+        "languages": {
+            "GAMS": 19929,
+            "Python": 18467,
+            "JavaScript": 16619,
+            "CSS": 1549
+        }
+    },
+    {
+        "name": "goc-gams-test",
+        "description": null,
+        "languages": {
+            "GAMS": 87149,
+            "Python": 20631
+        }
+    },
+    {
+        "name": "Gams-Optimizaiton",
+        "description": "A optimization problem to solve Integer Problem using GAMS tool,",
+        "languages": {
+            "GAMS": 11343
+        }
+    },
+    {
+        "name": "GAMSrepo",
+        "description": "Contains excercises - not the final project",
+        "languages": {
+            "GAMS": 39296
+        }
+    },
+    {
+        "name": "gitst_optimization_bscthesis",
+        "description": "This repository contains the GAMS and R scripts to optimize the decision of charging/discharging electric vehicles. As well several scenarios of the state of charge of the electric vehicle all along the day are tested. It is the work of the Bachelor's Thesis of Bachelor of Engineering in Telecommunication Technologies and Services Engineering (https://www.etsit.upm.es/de/studies/bachelor-of-engineering-in-telecommunication-technologies-and-services.html).",
+        "languages": {
+            "GAMS": 210760,
+            "R": 154203,
+            "MATLAB": 14048
+        }
+    },
+    {
+        "name": "Optimisation-Project",
+        "description": "Refrigerant design using group contributions method and optimisation on GAMS.",
+        "languages": {
+            "GAMS": 25704
+        }
+    },
+    {
+        "name": "LPtown",
+        "description": "A simple LP model of a district heating system, written in Julia/JuMP.",
+        "languages": {
+            "GAMS": 11397,
+            "Julia": 9003
+        }
+    },
+    {
+        "name": "GTEP_SIDS",
+        "description": "This repository includes input file and GAMS code for long-term investment planning for the electricity sector in Small Island Developing STates",
+        "languages": {
+            "GAMS": 61548
+        }
+    },
+    {
+        "name": "laboratory-03",
+        "description": "MIP problems and conditioning constraints with GAMS",
+        "languages": {
+            "GAMS": 6871
+        }
+    },
+    {
+        "name": "Production-Planning-for-Steel-Bar",
+        "description": "This is a project for  Production Plannig course in which a complete production planning project was done for a real data in a real factory. Moreover, prediction of the demand in future and mathematical model for S&OP was developed in GAMS that you can use.",
+        "languages": {
+            "GAMS": 5012,
+            "R": 4216
+        }
+    },
+    {
+        "name": "CAPM",
+        "description": "In finance, the capital asset pricing model is a model used to determine a theoretically appropriate required rate of return of an asset, to make decisions about adding assets to a well-diversified portfolio.",
+        "languages": {
+            "GAMS": 2349
+        }
+    },
+    {
+        "name": "Multi-Intersection-Control-GAMS-CODE",
+        "description": "Multi-intersection-control-MILP-formulation",
+        "languages": {
+            "GAMS": 130604
+        }
+    },
+    {
+        "name": "agrores_biobio",
+        "description": "Agricultural and Residential Sector BioBio",
+        "languages": {
+            "GAMS": 183633
+        }
+    },
+    {
+        "name": "building-evacuation-model",
+        "description": "A discrete-time network flow model to optimize student routing in a building evacuation.",
+        "languages": {
+            "GAMS": 8909
+        }
+    },
+    {
+        "name": "ARTIMAS",
+        "description": "An RTI Macroeconomic Analysis System -- US intertemporal CGE model",
+        "languages": {
+            "GAMS": 82408
+        }
+    },
+    {
+        "name": "opti",
+        "description": "Collection of linear and mixed-integer programs.",
+        "languages": {
+            "GAMS": 10148
+        }
+    },
+    {
+        "name": "CrudeOilDistillationGamsModel",
+        "description": null,
+        "languages": {
+            "GAMS": 2478
+        }
+    },
+    {
+        "name": "CMSE11356",
+        "description": null,
+        "languages": {
+            "GAMS": 7776
+        }
+    },
+    {
+        "name": "Hydrogen_Supply_Chain_Optimisation",
+        "description": "A hydrogen supply chain optimisation model with the focus on including hydrogen purity and purification technologies, applied to the case study of Great Britain ",
+        "languages": {
+            "GAMS": 1169130
+        }
+    },
+    {
+        "name": "EM.POWER-INVEST",
+        "description": "An Open Optimisation Model of the European Electricity Market",
+        "languages": {
+            "GAMS": 411053
+        }
+    },
+    {
+        "name": "InstanceGenerator_RMTZ",
+        "description": null,
+        "languages": {
+            "GAMS": 9428
+        }
+    },
+    {
+        "name": "Gams",
+        "description": "You find here the file and instances of my simulation project of the Capacitated Arc Routing Problem.",
+        "languages": {
+            "GAMS": 12495
+        }
+    },
+    {
+        "name": "Multitask-Optimization",
+        "description": "Modelization Project",
+        "languages": {
+            "GAMS": 10111
+        }
+    },
+    {
+        "name": "D-optimal-design",
+        "description": "Julia and C++ codes for MISOCP formulation for the D-optimal design problem",
+        "languages": {
+            "GAMS": 48903643,
+            "C++": 66664,
+            "Python": 11134,
+            "Julia": 4425,
+            "Shell": 2873,
+            "CMake": 752
+        }
+    },
+    {
+        "name": "2020_HDBAP",
+        "description": "All files for \"Hybrid layout dynamic berth allocation problem: time-indexed mathematical model and hybrid firefly and particle swarm optimization - 2 algorithm\"",
+        "languages": {
+            "GAMS": 953068,
+            "Python": 41385
+        }
+    },
+    {
+        "name": "PilotCharts",
+        "description": null,
+        "languages": {
+            "GAMS": 20687,
+            "C#": 18096
+        }
+    },
+    {
+        "name": "asymmetric_block_offers",
+        "description": "Online appendix for IEEE PES transaction paper on congestion management using asymmetric block offers.",
+        "languages": {
+            "GAMS": 1570199,
+            "Shell": 5016
+        }
+    },
+    {
+        "name": "Wetland-Model",
+        "description": "Wetland Model for MSc",
+        "languages": {
+            "GAMS": 279776,
+            "R": 120059
+        }
+    },
+    {
+        "name": "Benders-Decomposition-Implementation-in-GAMS",
+        "description": null,
+        "languages": {
+            "GAMS": 5169
+        }
+    },
+    {
+        "name": "11860_project_qaoa",
+        "description": "This repository contains the final project of the Quantum Computing Lab at CMU (11-860) for the spring 2020. The project topic is Quantum Approximate Optimization Algorithm and Quantum Annealing for Combinatorial Optimization",
+        "languages": {
+            "GAMS": 3363492,
+            "Jupyter Notebook": 3357041,
+            "Assembly": 11345,
+            "Pascal": 3791
+        }
+    },
+    {
+        "name": "camd-refrigerant",
+        "description": "A computer-aided molecular design approach to optimally forecast promising molecules which can replace the widely used environmentally-damaging HFC refrigerant, R134a (tetrafluroethane). ",
+        "languages": {
+            "GAMS": 14360
+        }
+    },
+    {
+        "name": "Optimal_Portfolios_of_ETFs",
+        "description": "Implemented stochastic CVaR model for the optimal asset allocation together with the Bootstrapping and the Monte Carlo scenario generation methods.",
+        "languages": {
+            "GAMS": 257387,
+            "Python": 39987
+        }
+    },
+    {
+        "name": "travelling-santa-problem",
+        "description": "Contains various operations research problems. [Final project IE400 Fall 2020/21]",
+        "languages": {
+            "GAMS": 50072
+        }
+    },
+    {
+        "name": "SF2822-Applied-Nonlinear-Optimization",
+        "description": null,
+        "languages": {
+            "GAMS": 17729,
+            "Groovy": 1746
+        }
     }
 ]

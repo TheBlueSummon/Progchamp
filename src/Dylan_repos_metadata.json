@@ -60,5 +60,1284 @@
         "languages": {
             "Dylan": 144076
         }
+    },
+    {
+        "name": "tracing",
+        "description": "A tracing framework based on Google's Dapper.",
+        "languages": {
+            "Dylan": 19942
+        }
+    },
+    {
+        "name": "command-interface",
+        "description": "Interactive command interface system for Dylan",
+        "languages": {
+            "Dylan": 105317,
+            "C": 849
+        }
+    },
+    {
+        "name": "gwydion",
+        "description": "Gwydion Dylan - compiler for Dylan targeting C",
+        "languages": {
+            "Dylan": 4866316,
+            "C": 50254,
+            "Common Lisp": 34670,
+            "Shell": 2970,
+            "Rust": 1447,
+            "D": 253
+        }
+    },
+    {
+        "name": "wiki",
+        "description": "A git-backed wiki with RST markup ",
+        "languages": {
+            "Dylan": 216740,
+            "CSS": 5321,
+            "HTML": 3352,
+            "Makefile": 743
+        }
+    },
+    {
+        "name": "melange",
+        "description": "C-FFI interface generator for Open Dylan",
+        "languages": {
+            "Dylan": 414710,
+            "C": 6077,
+            "Makefile": 1139,
+            "Shell": 880
+        }
+    },
+    {
+        "name": "peg-parser",
+        "description": "PEG parsing library for Dylan",
+        "languages": {
+            "Dylan": 125405
+        }
+    },
+    {
+        "name": "lsp-dylan",
+        "description": "Language Server for Dylan (alpha)",
+        "languages": {
+            "Dylan": 63156,
+            "Emacs Lisp": 3523,
+            "Makefile": 895,
+            "Shell": 129
+        }
+    },
+    {
+        "name": "miniKanren-Dylan",
+        "description": "miniKanren in Dylan",
+        "languages": {
+            "Dylan": 30100
+        }
+    },
+    {
+        "name": "orlok",
+        "description": null,
+        "languages": {
+            "Dylan": 332895,
+            "C++": 28992,
+            "C": 9969
+        }
+    },
+    {
+        "name": "objc-dylan",
+        "description": "A Dylan / Objective C bridge.",
+        "languages": {
+            "Dylan": 33869,
+            "Makefile": 398
+        }
+    },
+    {
+        "name": "dylan-tool",
+        "description": "Dylan developer swiss army knife (beta)",
+        "languages": {
+            "Dylan": 162760,
+            "Makefile": 2837
+        }
+    },
+    {
+        "name": "gir-dylan",
+        "description": "Dylan bindings for gobject-introspection.",
+        "languages": {
+            "Dylan": 133389,
+            "C": 508,
+            "Makefile": 334
+        }
+    },
+    {
+        "name": "testworks",
+        "description": "Test framework for Dylan",
+        "languages": {
+            "Dylan": 220379
+        }
+    },
+    {
+        "name": "uv-dylan",
+        "description": "A wrapper around libuv.",
+        "languages": {
+            "Dylan": 18433,
+            "Python": 8982,
+            "Makefile": 5983,
+            "Shell": 5109,
+            "C": 1738
+        }
+    },
+    {
+        "name": "sat-solver",
+        "description": "Tiny SAT Solver",
+        "languages": {
+            "Dylan": 15607
+        }
+    },
+    {
+        "name": "RRB-Vector-in-Dylan",
+        "description": null,
+        "languages": {
+            "Dylan": 3483
+        }
+    },
+    {
+        "name": "dylan-syntax-support",
+        "description": "Source files for generating syntax definitions for VSCode, Atom, Sublime Text and Textmate",
+        "languages": {
+            "Dylan": 13410,
+            "Makefile": 450
+        }
+    },
+    {
+        "name": "nanomsg-dylan",
+        "description": "Dylan bindings for nanomsg.",
+        "languages": {
+            "Dylan": 22061
+        }
+    },
+    {
+        "name": "leveldb-dylan",
+        "description": "Dylan bindings for LevelDB",
+        "languages": {
+            "Dylan": 31513,
+            "Makefile": 765
+        }
+    },
+    {
+        "name": "json",
+        "description": "Dylan JSON parser/printer",
+        "languages": {
+            "Dylan": 34725
+        }
+    },
+    {
+        "name": "historic-dylan-svn",
+        "description": "Original conversion of Dylan subversion repository",
+        "languages": {
+            "Dylan": 49927534,
+            "C": 4601267,
+            "Common Lisp": 1342870,
+            "Perl": 446677,
+            "Java": 238179,
+            "Shell": 171247,
+            "C++": 165290,
+            "CSS": 141485,
+            "Emacs Lisp": 102882,
+            "JavaScript": 102531,
+            "XSLT": 73726,
+            "Assembly": 72539,
+            "Ruby": 34655,
+            "Scheme": 34377,
+            "Objective-C": 27134,
+            "R": 10648,
+            "Pascal": 9018,
+            "ASP": 5884,
+            "Python": 5372,
+            "Awk": 4071,
+            "Smalltalk": 3009,
+            "PHP": 1327,
+            "Visual Basic": 1090,
+            "D": 253
+        }
+    },
+    {
+        "name": "advent-of-code-2021",
+        "description": null,
+        "languages": {
+            "Dylan": 87421
+        }
+    },
+    {
+        "name": "serialization",
+        "description": "Dylan serialization library for JSON.",
+        "languages": {
+            "Dylan": 16080
+        }
+    },
+    {
+        "name": "collection-extensions",
+        "description": "Collection library for Dylan",
+        "languages": {
+            "Dylan": 121561
+        }
+    },
+    {
+        "name": "aoc2020",
+        "description": "This year we do it in dylan",
+        "languages": {
+            "Dylan": 117049,
+            "Makefile": 5395,
+            "Roff": 113
+        }
+    },
+    {
+        "name": "postgresql-dylan",
+        "description": "Postgres libpq low level bindings",
+        "languages": {
+            "Dylan": 69475,
+            "Makefile": 873
+        }
+    },
+    {
+        "name": "calvino",
+        "description": null,
+        "languages": {
+            "Dylan": 844950,
+            "C": 180487,
+            "Makefile": 788
+        }
+    },
+    {
+        "name": "deft",
+        "description": "Deft, a Dylan Environment For Tools",
+        "languages": {
+            "Dylan": 55791,
+            "JavaScript": 14276,
+            "Makefile": 1730,
+            "HTML": 851,
+            "CSS": 170
+        }
+    },
+    {
+        "name": "shootout",
+        "description": "Dylan solutions to the great programming language shootout",
+        "languages": {
+            "Dylan": 54425
+        }
+    },
+    {
+        "name": "advent-of-code-2022",
+        "description": null,
+        "languages": {
+            "Dylan": 5469
+        }
+    },
+    {
+        "name": "monday",
+        "description": "Convenience copy of the Monday project",
+        "languages": {
+            "Dylan": 331377
+        }
+    },
+    {
+        "name": "aspen-tutorials",
+        "description": "Working scripts and videos illustrating ASPEN operation, for use in the Cornell CBE department. Based on ASPEN modules from Lafayette College.",
+        "languages": {
+            "Dylan": 34
+        }
+    },
+    {
+        "name": "sqlite-dylan",
+        "description": "sqlite3 bindings for Dylan.",
+        "languages": {
+            "Dylan": 18034
+        }
+    },
+    {
+        "name": "LEX_2018_grenzschicht",
+        "description": null,
+        "languages": {
+            "Dylan": 57663480,
+            "C++": 1035194,
+            "Python": 152661,
+            "TeX": 37369,
+            "C": 37269,
+            "Processing": 8514,
+            "Perl": 6062,
+            "Makefile": 1475,
+            "Shell": 450
+        }
+    },
+    {
+        "name": "TrDeNormData",
+        "description": "Turkish-German code-switching data for normalisation",
+        "languages": {
+            "Dylan": 269805
+        }
+    },
+    {
+        "name": "csv",
+        "description": "CSV reader and writer",
+        "languages": {
+            "Dylan": 8224
+        }
+    },
+    {
+        "name": "web-ide-backend",
+        "description": null,
+        "languages": {
+            "Dylan": 38655
+        }
+    },
+    {
+        "name": "doctower",
+        "description": "Generate documentation from Dylan code comments",
+        "languages": {
+            "Dylan": 780728,
+            "CSS": 3362
+        }
+    },
+    {
+        "name": "SNU_2D_ProgrammingTools_IDE_Dylan",
+        "description": "The Dylan Programming language IDE submodule for SNU Programming Tools.",
+        "languages": {
+            "Dylan": 425408,
+            "Roff": 3456
+        }
+    },
+    {
+        "name": "dylan-playground",
+        "description": "Implementation of play.opendylan.org",
+        "languages": {
+            "Dylan": 28715,
+            "Faust": 6545,
+            "Python": 857,
+            "Makefile": 775,
+            "Shell": 448
+        }
+    },
+    {
+        "name": "web-framework",
+        "description": null,
+        "languages": {
+            "Dylan": 71957
+        }
+    },
+    {
+        "name": "dylan-koans",
+        "description": "Learn Dylan by solving these koans",
+        "languages": {
+            "Dylan": 14151
+        }
+    },
+    {
+        "name": "logging",
+        "description": "Logging library for Dylan",
+        "languages": {
+            "Dylan": 50407
+        }
+    },
+    {
+        "name": "base64",
+        "description": "Base64 implementation for Dylan",
+        "languages": {
+            "Dylan": 5518
+        }
+    },
+    {
+        "name": "clang-dylan",
+        "description": null,
+        "languages": {
+            "Dylan": 4481,
+            "C": 296
+        }
+    },
+    {
+        "name": "xml-rpc",
+        "description": "XML-RPC library for Dylan",
+        "languages": {
+            "Dylan": 29482
+        }
+    },
+    {
+        "name": "dynamic-binding",
+        "description": "Dynamic binding library for Dylan",
+        "languages": {
+            "Dylan": 6549
+        }
+    },
+    {
+        "name": "pacman-catalog",
+        "description": "Dylan package manager catalog file",
+        "languages": {
+            "Dylan": 889
+        }
+    },
+    {
+        "name": "strings",
+        "description": "String processing library for Dylan",
+        "languages": {
+            "Dylan": 57808
+        }
+    },
+    {
+        "name": "mime",
+        "description": "MIME type library for Dylan",
+        "languages": {
+            "Dylan": 14248
+        }
+    },
+    {
+        "name": "data-analysis",
+        "description": "A collection of data analysis code for Dylan",
+        "languages": {
+            "Dylan": 14481
+        }
+    },
+    {
+        "name": "Learn-Dylan",
+        "description": "A repository for showcasing my knowledge of the Dylan programming language, and continuing to learn the language.",
+        "languages": {
+            "Dylan": 426564
+        }
+    },
+    {
+        "name": "dylan-for-impatient-developers",
+        "description": "Getting started with Dylan for the impatient programmer",
+        "languages": {
+            "Dylan": 27069,
+            "Shell": 266
+        }
+    },
+    {
+        "name": "python-dylan",
+        "description": "Call Python code from Dylan.",
+        "languages": {
+            "Dylan": 11166,
+            "C": 540
+        }
+    },
+    {
+        "name": "typed-opendylan-dylan",
+        "description": "Dylan library for typed opendylan branch",
+        "languages": {
+            "Dylan": 1162228,
+            "Rust": 1444
+        }
+    },
+    {
+        "name": "pacman",
+        "description": "A package manager for Dylan",
+        "languages": {
+            "Dylan": 80860
+        }
+    },
+    {
+        "name": "dylan-brainfuck",
+        "description": "Brainfuck interpreter in Opendylan",
+        "languages": {
+            "Dylan": 24837
+        }
+    },
+    {
+        "name": "posix-sockets",
+        "description": null,
+        "languages": {
+            "Dylan": 27529,
+            "Makefile": 431
+        }
+    },
+    {
+        "name": "command-line-parser",
+        "description": "Command line processing for Dylan",
+        "languages": {
+            "Dylan": 92242
+        }
+    },
+    {
+        "name": "database",
+        "description": "Port of ODBC bindings from Open Dylan",
+        "languages": {
+            "Dylan": 146596
+        }
+    },
+    {
+        "name": "datastructures",
+        "description": "My implementation of selected algorithms and datastructures in Dylan",
+        "languages": {
+            "Dylan": 23828
+        }
+    },
+    {
+        "name": "skip-list",
+        "description": "Skip list collection library for Open Dylan",
+        "languages": {
+            "Dylan": 40949,
+            "Makefile": 418
+        }
+    },
+    {
+        "name": "sequence-stream",
+        "description": "Sequence stream library for Dylan",
+        "languages": {
+            "Dylan": 36032
+        }
+    },
+    {
+        "name": "libgit2-dylan",
+        "description": "Dylan bindings for libgit2.",
+        "languages": {
+            "Dylan": 84607
+        }
+    },
+    {
+        "name": "template-engine",
+        "description": null,
+        "languages": {
+            "Dylan": 97618
+        }
+    },
+    {
+        "name": "datasets",
+        "description": "Common structure for storing and converting datasets. ",
+        "languages": {
+            "Dylan": 2454
+        }
+    },
+    {
+        "name": "collectors-test",
+        "description": "This is just a playground for Open-Dylan's collectors module.",
+        "languages": {
+            "Dylan": 1595
+        }
+    },
+    {
+        "name": "amicable",
+        "description": "Calculates the first n pairs of amicable numbers",
+        "languages": {
+            "Dylan": 2874
+        }
+    },
+    {
+        "name": "gmp-numbers",
+        "description": "gmp-numbers is a wrapper around the GNU multiple precision arithmetic library (GMP) for (Open) Dylan.",
+        "languages": {
+            "Dylan": 9049
+        }
+    },
+    {
+        "name": "dylan-ansi",
+        "description": "A set of ansi terminal codes to change console colour, move the cursor etc",
+        "languages": {
+            "Dylan": 4674
+        }
+    },
+    {
+        "name": "anaphora",
+        "description": "Anaphoric constructs for Dylan",
+        "languages": {
+            "Dylan": 2622
+        }
+    },
+    {
+        "name": "rx-dylan",
+        "description": null,
+        "languages": {
+            "Dylan": 1065
+        }
+    },
+    {
+        "name": "uuid",
+        "description": null,
+        "languages": {
+            "Dylan": 7086,
+            "Makefile": 271
+        }
+    },
+    {
+        "name": "cassandra-dylan",
+        "description": "A Cassandra client library for Dylan.",
+        "languages": {
+            "Dylan": 15093,
+            "Python": 8558,
+            "Shell": 6740
+        }
+    },
+    {
+        "name": "DylanLisp",
+        "description": "Lisp implementation in Dylan",
+        "languages": {
+            "Dylan": 8848
+        }
+    },
+    {
+        "name": "coil",
+        "description": "An implementation of the Coil configuration library in Dylan (embryonic) ",
+        "languages": {
+            "Dylan": 57563,
+            "Python": 6270,
+            "Emacs Lisp": 3250,
+            "Vim Script": 1407,
+            "Shell": 151
+        }
+    },
+    {
+        "name": "slot-visitor",
+        "description": "Slot visitor library for Dylan",
+        "languages": {
+            "Dylan": 8107
+        }
+    },
+    {
+        "name": "coset",
+        "description": "A simple library modelling cosets in Dylan",
+        "languages": {
+            "Dylan": 3011
+        }
+    },
+    {
+        "name": "regular-expressions",
+        "description": "Dylan regular expression library",
+        "languages": {
+            "Dylan": 120617
+        }
+    },
+    {
+        "name": "wrapper-streams",
+        "description": "Wrapper streams for Open Dylan",
+        "languages": {
+            "Dylan": 75044
+        }
+    },
+    {
+        "name": "heroku-opendylan-helloworld",
+        "description": "Getting started with opendylan on Heroku",
+        "languages": {
+            "Dylan": 1191
+        }
+    },
+    {
+        "name": "gui-testworks",
+        "description": null,
+        "languages": {
+            "Dylan": 9247
+        }
+    },
+    {
+        "name": "calvino-examples",
+        "description": null,
+        "languages": {
+            "Dylan": 1924
+        }
+    },
+    {
+        "name": "protocol-buffers",
+        "description": "Google protocol buffers for Dylan",
+        "languages": {
+            "Dylan": 351552
+        }
+    },
+    {
+        "name": "graphviz-renderer",
+        "description": "Generate dot and gml files from a graph",
+        "languages": {
+            "Dylan": 13116
+        }
+    },
+    {
+        "name": "cat",
+        "description": "a clone of the famous unix utility in Dylan",
+        "languages": {
+            "Dylan": 1278
+        }
+    },
+    {
+        "name": "heroku-http-server-demo",
+        "description": "Deploy of http-server-demo (https://github.com/dylan-lang/http) on heroku",
+        "languages": {
+            "Dylan": 11459
+        }
+    },
+    {
+        "name": "uri",
+        "description": "URI library for Dylan",
+        "languages": {
+            "Dylan": 28649
+        }
+    },
+    {
+        "name": "Persistent-Vector-in-Dylan",
+        "description": null,
+        "languages": {
+            "Dylan": 9044,
+            "Java": 4729
+        }
+    },
+    {
+        "name": "fingerprints",
+        "description": "Detect the possible type of data in a string and provide a way to convert the string to that type.",
+        "languages": {
+            "Dylan": 3513
+        }
+    },
+    {
+        "name": "xml-parser",
+        "description": "XML processing library for Dylan",
+        "languages": {
+            "Dylan": 115463
+        }
+    },
+    {
+        "name": "gwydion-2.4",
+        "description": "Old version of Gwydion Dylan required for bootstrapping the more recent versions.",
+        "languages": {
+            "Dylan": 8711206,
+            "C": 1851402,
+            "R": 102363,
+            "Scheme": 95281,
+            "Makefile": 88370,
+            "C++": 88150,
+            "Yacc": 42757,
+            "Perl": 42632,
+            "Rebol": 34178,
+            "HTML": 33489,
+            "Lex": 7334,
+            "Objective-C": 3010,
+            "Shell": 2784,
+            "Batchfile": 185,
+            "SourcePawn": 43
+        }
+    },
+    {
+        "name": "lisp-to-dylan",
+        "description": "Convert Common Lisp code to Dylan",
+        "languages": {
+            "Dylan": 1415296,
+            "Common Lisp": 1238622
+        }
+    },
+    {
+        "name": "dylan-redis",
+        "description": "Redis for Dylan",
+        "languages": {
+            "Dylan": 378
+        }
+    },
+    {
+        "name": "minibench",
+        "description": "Small dylan benchmarks.",
+        "languages": {
+            "Dylan": 1574
+        }
+    },
+    {
+        "name": "markup",
+        "description": null,
+        "languages": {
+            "Dylan": 4417
+        }
+    },
+    {
+        "name": "termbox-dylan",
+        "description": "Dylan bindings for the termbox library.",
+        "languages": {
+            "Dylan": 11872,
+            "Makefile": 395
+        }
+    },
+    {
+        "name": "z3-dylan",
+        "description": "Bindings for the Z3 theorem prover",
+        "languages": {
+            "Dylan": 192998,
+            "Makefile": 173
+        }
+    },
+    {
+        "name": "dylandotnet-cli",
+        "description": "dylan.NET support for .NET CLI",
+        "languages": {
+            "Dylan": 10660,
+            "JavaScript": 1367,
+            "Shell": 947,
+            "Makefile": 647
+        }
+    },
+    {
+        "name": "GoomWMP",
+        "description": "Goom 2k4 visualization for Windows Media Player",
+        "languages": {
+            "Dylan": 49
+        }
+    },
+    {
+        "name": "CAbc-QUAL",
+        "description": "This is the repository that contains CAbc-QUAL, model for hydrological and load modelling.",
+        "languages": {
+            "Dylan": 43
+        }
+    },
+    {
+        "name": "robots-dylan",
+        "description": null,
+        "languages": {
+            "Dylan": 6751
+        }
+    },
+    {
+        "name": "ED",
+        "description": null,
+        "languages": {
+            "Dylan": 94
+        }
+    },
+    {
+        "name": "bobafett_compiled_with_cheat_table",
+        "description": "compiled bobafett trainer with old .dat files (non-working) and cheat engine table (working) for diablo v1.09 battle.net",
+        "languages": {
+            "Dylan": 44
+        }
+    },
+    {
+        "name": "dylan-nbody",
+        "description": "N body problem written in Open dylan",
+        "languages": {
+            "Dylan": 9861
+        }
+    },
+    {
+        "name": "metrics",
+        "description": null,
+        "languages": {
+            "Dylan": 6147
+        }
+    },
+    {
+        "name": "curses-dylan",
+        "description": null,
+        "languages": {
+            "Dylan": 25801
+        }
+    },
+    {
+        "name": "uncommon-dylan",
+        "description": "Less common than common-dylan but common nonetheless!",
+        "languages": {
+            "Dylan": 16419
+        }
+    },
+    {
+        "name": "header-crawl",
+        "description": "Include crawler written in Dylan.",
+        "languages": {
+            "Dylan": 9347
+        }
+    },
+    {
+        "name": "aerodog_incite",
+        "description": "AERONET Data Organization & Graphics - AERODOG",
+        "languages": {
+            "Dylan": 304013,
+            "Python": 47525
+        }
+    },
+    {
+        "name": "Process-Engineering-Assignments",
+        "description": null,
+        "languages": {
+            "Dylan": 34
+        }
+    },
+    {
+        "name": "the-real-deal",
+        "description": null,
+        "languages": {
+            "Dylan": 49
+        }
+    },
+    {
+        "name": "word-count",
+        "description": "Word count problem in dylan",
+        "languages": {
+            "Dylan": 1740
+        }
+    },
+    {
+        "name": "lw-dylan-translator",
+        "description": "LW Dylan Translator",
+        "languages": {
+            "Dylan": 1404744,
+            "Common Lisp": 480947,
+            "Makefile": 415
+        }
+    },
+    {
+        "name": "topology",
+        "description": null,
+        "languages": {
+            "Dylan": 13184
+        }
+    },
+    {
+        "name": "concurrency",
+        "description": "Concurrency utilities for Dylan",
+        "languages": {
+            "Dylan": 11899
+        }
+    },
+    {
+        "name": "http-bench",
+        "description": null,
+        "languages": {
+            "Dylan": 1140
+        }
+    },
+    {
+        "name": "disposal",
+        "description": "Disposal library for Dylan",
+        "languages": {
+            "Dylan": 4686
+        }
+    },
+    {
+        "name": "message-format",
+        "description": null,
+        "languages": {
+            "Dylan": 18815
+        }
+    },
+    {
+        "name": "dylan-etudes",
+        "description": "Dylan programs, usually short, for perfecting particular programming skills",
+        "languages": {
+            "Dylan": 14698
+        }
+    },
+    {
+        "name": "google-code-jam",
+        "description": "My solutions to the problems at Google Code Jam",
+        "languages": {
+            "Dylan": 2282,
+            "Common Lisp": 749
+        }
+    },
+    {
+        "name": "workspaces",
+        "description": "Manage workspaces for Dylan development",
+        "languages": {
+            "Dylan": 30500
+        }
+    },
+    {
+        "name": "CircuitMarker-6-pro",
+        "description": null,
+        "languages": {
+            "Dylan": 44
+        }
+    },
+    {
+        "name": "gendoc",
+        "description": "Generate documentation for Dylan packages",
+        "languages": {
+            "Dylan": 7328,
+            "Python": 2881,
+            "Makefile": 958,
+            "Batchfile": 800
+        }
+    },
+    {
+        "name": "time",
+        "description": "Time library for Dylan",
+        "languages": {
+            "Dylan": 114524,
+            "C": 301
+        }
+    },
+    {
+        "name": "CoastalRangeGeoEarthData",
+        "description": null,
+        "languages": {
+            "Dylan": 3541300,
+            "MATLAB": 61640,
+            "C++": 5478,
+            "CMake": 171
+        }
+    },
+    {
+        "name": "pacman-vs-jekyll",
+        "description": "Opendylan's Pacman catalogue to Jekyll website ",
+        "languages": {
+            "Dylan": 7407
+        }
+    },
+    {
+        "name": "cpu-timer",
+        "description": "Profiling timer using CPU time",
+        "languages": {
+            "Dylan": 7375
+        }
+    },
+    {
+        "name": "dvm",
+        "description": "An RVM for Dylan Lang, but less helpful and with more errors",
+        "languages": {
+            "Dylan": 3280
+        }
+    },
+    {
+        "name": "macaroons",
+        "description": null,
+        "languages": {
+            "Dylan": 3800
+        }
+    },
+    {
+        "name": "elite-mahjong",
+        "description": "Elite mahjong game",
+        "languages": {
+            "Dylan": 49
+        }
+    },
+    {
+        "name": "bardvm-dylan-perftest",
+        "description": null,
+        "languages": {
+            "Dylan": 3879
+        }
+    },
+    {
+        "name": "slow-compiler-output",
+        "description": null,
+        "languages": {
+            "Dylan": 50371
+        }
+    },
+    {
+        "name": "openDylanPlayground",
+        "description": "Playing around with openDylan",
+        "languages": {
+            "Dylan": 4027
+        }
+    },
+    {
+        "name": "werewolf",
+        "description": "An example program in Dylan",
+        "languages": {
+            "Dylan": 9904,
+            "Makefile": 170
+        }
+    },
+    {
+        "name": "hello",
+        "description": "Hello World example with Dylan GitHub workflows",
+        "languages": {
+            "Dylan": 1462
+        }
+    },
+    {
+        "name": "code-browser",
+        "description": "Archive of the code-browser example from the dylan-lang/http repository",
+        "languages": {
+            "Dylan": 22906,
+            "Faust": 9897
+        }
+    },
+    {
+        "name": "nand2tetris",
+        "description": null,
+        "languages": {
+            "Dylan": 1476
+        }
+    },
+    {
+        "name": "v3d",
+        "description": "A small library for 3 dimension vectors with x, y and z coordenates",
+        "languages": {
+            "Dylan": 6557
+        }
+    },
+    {
+        "name": "termbox-dylan",
+        "description": null,
+        "languages": {
+            "Dylan": 12607
+        }
+    },
+    {
+        "name": "sodium-dylan",
+        "description": "Dylan bindings for the libsodium cryptography library.",
+        "languages": {
+            "Dylan": 131247,
+            "Makefile": 172
+        }
+    },
+    {
+        "name": "set-operations",
+        "description": "Fundamental set operations for Open Dylan's <set>",
+        "languages": {
+            "Dylan": 3753
+        }
+    },
+    {
+        "name": "custom-hash",
+        "description": "Generic basis for custom object hashing functions.",
+        "languages": {
+            "Dylan": 1060
+        }
+    },
+    {
+        "name": "gendoc",
+        "description": "Generate docs for Dylan catalog libraries",
+        "languages": {
+            "Dylan": 10090,
+            "Python": 3637,
+            "Makefile": 959,
+            "Batchfile": 800
+        }
+    },
+    {
+        "name": "random",
+        "description": "Pseudo Random Number Generators",
+        "languages": {
+            "Dylan": 4439
+        }
+    },
+    {
+        "name": "paths",
+        "description": "Pathname manipulation library",
+        "languages": {
+            "Dylan": 5487
+        }
+    },
+    {
+        "name": "dylan-ffi-test",
+        "description": null,
+        "languages": {
+            "Dylan": 1846,
+            "Shell": 86
+        }
+    },
+    {
+        "name": "advent-of-code-2023",
+        "description": "Advent of code 2023 edition",
+        "languages": {
+            "Dylan": 15773
+        }
+    },
+    {
+        "name": "hellotasks",
+        "description": "Example code for using the dylan.NET.Tasks library (in dylan.NET)",
+        "languages": {
+            "Dylan": 5500
+        }
+    },
+    {
+        "name": "dpm",
+        "description": null,
+        "languages": {
+            "Dylan": 3097
+        }
+    },
+    {
+        "name": "dylan-programming-book",
+        "description": "Tutorial like book for learning dylan",
+        "languages": {
+            "Dylan": 12234,
+            "Makefile": 40
+        }
+    },
+    {
+        "name": "merry-fxmas-dylan",
+        "description": "Merry f(x)-mas to Bill, in Dylan",
+        "languages": {
+            "Dylan": 863,
+            "Makefile": 284
+        }
+    },
+    {
+        "name": "Modicon-Mirco-PLC-Applications-",
+        "description": "Sample of my projects using Modicon TSX3720 Micro PLC",
+        "languages": {
+            "Dylan": 132
+        }
+    },
+    {
+        "name": "Intro-Dylan",
+        "description": "Examples from \"Introduction to Dylan\" and book \"Dylan Programming\" by Neal Feinberg, Sonya E. Keene, Robert O. Mathews, P. Tucker Withington",
+        "languages": {
+            "Dylan": 25958
+        }
+    },
+    {
+        "name": "dylox",
+        "description": null,
+        "languages": {
+            "Dylan": 2624
+        }
+    },
+    {
+        "name": "arctic-slide-dylan",
+        "description": "A re-engineering of the old Polar game for the Macintosh, as a prototype in Dylan",
+        "languages": {
+            "Dylan": 17960
+        }
+    },
+    {
+        "name": "inotify-dylan",
+        "description": "Dylan bindings for inotify",
+        "languages": {
+            "Dylan": 9785
+        }
+    },
+    {
+        "name": "Think_Stats",
+        "description": "Coding exercises for the book \"Think Stats\"",
+        "languages": {
+            "Dylan": 1897
+        }
+    },
+    {
+        "name": "mail-dylan",
+        "description": "Dylan library for email access: IMAP, SMTP, POP and NNTP. Based on LibEtPan.",
+        "languages": {
+            "Dylan": 117501,
+            "Python": 9011,
+            "Shell": 5119
+        }
+    },
+    {
+        "name": "buddha",
+        "description": "Archive of the Buddha example from the dylan-lang/http repository",
+        "languages": {
+            "Dylan": 102960,
+            "CSS": 3315
+        }
+    },
+    {
+        "name": "tickit-dylan",
+        "description": "Dylan bindings for libtermkey.",
+        "languages": {
+            "Dylan": 50299,
+            "Makefile": 284
+        }
+    },
+    {
+        "name": "shuffle",
+        "description": "shuffle library for dylan",
+        "languages": {
+            "Dylan": 7284
+        }
+    },
+    {
+        "name": "priority-queue",
+        "description": "A priority queue implementation",
+        "languages": {
+            "Dylan": 4109
+        }
+    },
+    {
+        "name": "hash-set",
+        "description": "A set using custom hashing functions for different objects",
+        "languages": {
+            "Dylan": 4330
+        }
     }
 ]

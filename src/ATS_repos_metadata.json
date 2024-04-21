@@ -60,5 +60,1748 @@
             "ATS": 9403,
             "Makefile": 2299
         }
+    },
+    {
+        "name": "magnificATS",
+        "description": "Collection of ATS goodness",
+        "languages": {
+            "ATS": 280478,
+            "Makefile": 26837
+        }
+    },
+    {
+        "name": "ats-acc",
+        "description": "Pretty-print error messages of the ATS Compiler",
+        "languages": {
+            "ATS": 224466,
+            "Shell": 5712,
+            "Makefile": 2646
+        }
+    },
+    {
+        "name": "ats-examples",
+        "description": "Examples from Introduction to Programming in ATS",
+        "languages": {
+            "ATS": 20589
+        }
+    },
+    {
+        "name": "hs-ats",
+        "description": "Home of the fast-arithmetic library for number theory in ATS and Haskell.",
+        "languages": {
+            "ATS": 24209,
+            "Haskell": 14362,
+            "Dhall": 4226,
+            "Shell": 820,
+            "C": 315
+        }
+    },
+    {
+        "name": "xanadu",
+        "description": "This repository is supposed to hold a released version of Xanadu",
+        "languages": {
+            "ATS": 2444748,
+            "C": 23811,
+            "Makefile": 1083,
+            "Shell": 934
+        }
+    },
+    {
+        "name": "ATSPresentation",
+        "description": null,
+        "languages": {
+            "ATS": 6009,
+            "Makefile": 1828,
+            "C": 355
+        }
+    },
+    {
+        "name": "ATS-Temptory",
+        "description": "For supporting template-based programming",
+        "languages": {
+            "ATS": 4828254,
+            "C": 1093425,
+            "Makefile": 114615,
+            "Shell": 2153
+        }
+    },
+    {
+        "name": "ATS-blockchain",
+        "description": "\u26d3\ufe0f Blockchain + Smart contracts from scratch",
+        "languages": {
+            "ATS": 85537,
+            "Makefile": 3375,
+            "Shell": 2360
+        }
+    },
+    {
+        "name": "c2ats",
+        "description": "generate ATS interface from C code",
+        "languages": {
+            "ATS": 6255308,
+            "Haskell": 47172,
+            "Makefile": 3738,
+            "C": 2034
+        }
+    },
+    {
+        "name": "ats-http",
+        "description": "An epoll-based HTTP library for ATS2",
+        "languages": {
+            "ATS": 42606,
+            "Makefile": 1944,
+            "Python": 1239,
+            "C": 588,
+            "HTML": 245
+        }
+    },
+    {
+        "name": "treap-ats",
+        "description": null,
+        "languages": {
+            "ATS": 7697,
+            "Shell": 2121,
+            "Nix": 1435
+        }
+    },
+    {
+        "name": "edit-distance",
+        "description": "Levenshtein edit distance, packaged for ATS",
+        "languages": {
+            "ATS": 6564,
+            "Dhall": 1044,
+            "Rust": 528,
+            "Haskell": 477
+        }
+    },
+    {
+        "name": "xinterp",
+        "description": "An interpreter for the D3-level syntax of ATS3/Xanadu",
+        "languages": {
+            "ATS": 250683,
+            "Shell": 1735
+        }
+    },
+    {
+        "name": "ats-parcc",
+        "description": "A parsing combinator library.",
+        "languages": {
+            "ATS": 97662,
+            "C": 34844,
+            "ANTLR": 3965,
+            "Makefile": 1324,
+            "Common Lisp": 37
+        }
+    },
+    {
+        "name": "ATS-Category",
+        "description": "For template-based library code that is, kind of, inspired by category theory.",
+        "languages": {
+            "ATS": 9011,
+            "Makefile": 486
+        }
+    },
+    {
+        "name": "ats-lua",
+        "description": "An ATS to Lua compiler",
+        "languages": {
+            "ATS": 59906,
+            "Lua": 12314,
+            "Makefile": 2644
+        }
+    },
+    {
+        "name": "ATS-Postiats-test",
+        "description": "This repository is primarily for testing ATS2 on various platforms",
+        "languages": {
+            "ATS": 1400858,
+            "Makefile": 179661,
+            "HTML": 64342,
+            "JavaScript": 42819,
+            "C": 29957,
+            "Shell": 2360
+        }
+    },
+    {
+        "name": "ats-stats",
+        "description": "Demonstration of GPU-accelerated statistical functions in ATS",
+        "languages": {
+            "ATS": 10419,
+            "Futhark": 2895,
+            "Haskell": 2537,
+            "Dhall": 750,
+            "Makefile": 747
+        }
+    },
+    {
+        "name": "atshtml",
+        "description": "A static HTML eDSL for ATS2",
+        "languages": {
+            "ATS": 139102,
+            "Makefile": 580
+        }
+    },
+    {
+        "name": "ats-concurrency",
+        "description": "Concurrency primitives for ATS",
+        "languages": {
+            "ATS": 7775
+        }
+    },
+    {
+        "name": "atscntrb-as-ats3d",
+        "description": "3D vector algebra library for ATS",
+        "languages": {
+            "ATS": 193261,
+            "Makefile": 5746,
+            "C": 541
+        }
+    },
+    {
+        "name": "recursion",
+        "description": "Recursion schemes in ATS",
+        "languages": {
+            "ATS": 7963,
+            "Dhall": 985
+        }
+    },
+    {
+        "name": "Goldelish-Engine",
+        "description": "(WIP) A reimplementation of the Corange Game Engine (https://github.com/orangeduck/Corange) in the ATS programming language.",
+        "languages": {
+            "ATS": 332246,
+            "GLSL": 60469,
+            "C": 15594,
+            "Makefile": 5921
+        }
+    },
+    {
+        "name": "monads",
+        "description": "Monads for viewtypes in ATS",
+        "languages": {
+            "ATS": 3896,
+            "Dhall": 650
+        }
+    },
+    {
+        "name": "ATS-playground",
+        "description": "ATS2 proofs of concept stuff",
+        "languages": {
+            "ATS": 417321,
+            "Nix": 1052,
+            "Makefile": 674
+        }
+    },
+    {
+        "name": "ATS-Experiments",
+        "description": "Small programs testing out features of the ATS (Postiatis) programming language.",
+        "languages": {
+            "ATS": 29713
+        }
+    },
+    {
+        "name": "colorado",
+        "description": "Colored terminal output",
+        "languages": {
+            "ATS": 5987
+        }
+    },
+    {
+        "name": "FPBerlinATSTalk",
+        "description": null,
+        "languages": {
+            "ATS": 3163,
+            "Shell": 2001,
+            "C": 173
+        }
+    },
+    {
+        "name": "verified-left-pad",
+        "description": "A verified memory-safe correct implementation of left-pad in ats2",
+        "languages": {
+            "ATS": 3583
+        }
+    },
+    {
+        "name": "crc32",
+        "description": "CRC32 implementation in ATS",
+        "languages": {
+            "ATS": 13657,
+            "Dhall": 653
+        }
+    },
+    {
+        "name": "CS525-2022-Fall",
+        "description": "For teaching BU CAS CS 525: Compiler Design and Implementation.",
+        "languages": {
+            "ATS": 2083956,
+            "C": 12820,
+            "Assembly": 5937,
+            "Makefile": 5921,
+            "TeX": 2512
+        }
+    },
+    {
+        "name": "ATS-Postiats-npm-utils",
+        "description": "For using npm to manage additional ATS-Postiats packages",
+        "languages": {
+            "ATS": 13236,
+            "Makefile": 3505
+        }
+    },
+    {
+        "name": "ats-utils",
+        "description": "My own utilities for ATS",
+        "languages": {
+            "ATS": 104505,
+            "Makefile": 1155
+        }
+    },
+    {
+        "name": "ats-session-playground",
+        "description": "Just a Playground",
+        "languages": {
+            "ATS": 140024,
+            "Elixir": 34756,
+            "Erlang": 32652,
+            "C": 24468,
+            "Makefile": 6622,
+            "Python": 2701,
+            "SMT": 932
+        }
+    },
+    {
+        "name": "xjsonize",
+        "description": "xanadu-lang compiler extension",
+        "languages": {
+            "ATS": 215477,
+            "C": 5923,
+            "Makefile": 2741,
+            "Shell": 188
+        }
+    },
+    {
+        "name": "Joy-of-ATS",
+        "description": "Source code for my series of blog entires dubbed \"The Joy of ATS\"",
+        "languages": {
+            "ATS": 2142,
+            "Makefile": 418
+        }
+    },
+    {
+        "name": "libatsc",
+        "description": "ATS/C libraries",
+        "languages": {
+            "ATS": 104748,
+            "Shell": 4105,
+            "Makefile": 1452
+        }
+    },
+    {
+        "name": "atscntrb-keh-libdill",
+        "description": "ATS bindings for libdill",
+        "languages": {
+            "ATS": 7895,
+            "Makefile": 400
+        }
+    },
+    {
+        "name": "ats-chip8",
+        "description": "A chip8 emulator implemented in ATS.",
+        "languages": {
+            "ATS": 47792,
+            "C": 4483,
+            "Makefile": 1454,
+            "Shell": 337
+        }
+    },
+    {
+        "name": "ats-go",
+        "description": "ATS to Go Transpiler",
+        "languages": {
+            "ATS": 70039,
+            "Makefile": 3325,
+            "Shell": 292
+        }
+    },
+    {
+        "name": "ats-0.3.11-my-examples",
+        "description": "ATS Programming examples built with atspkg build ",
+        "languages": {
+            "ATS": 49475
+        }
+    },
+    {
+        "name": "either",
+        "description": "Port of Data.Either for ATS",
+        "languages": {
+            "ATS": 4466,
+            "Dhall": 798
+        }
+    },
+    {
+        "name": "ats-codecount",
+        "description": "Code counter experiment in ATS",
+        "languages": {
+            "ATS": 86984,
+            "Dhall": 1039,
+            "Shell": 392
+        }
+    },
+    {
+        "name": "elvysh-main",
+        "description": "Headers to define alternative program entry points.",
+        "languages": {
+            "ATS": 3040
+        }
+    },
+    {
+        "name": "ats3d",
+        "description": "3d engine with ATS",
+        "languages": {
+            "ATS": 311402,
+            "C": 23801,
+            "CMake": 1107
+        }
+    },
+    {
+        "name": "ats-redis",
+        "description": "An ATS binding for hiredis.",
+        "languages": {
+            "ATS": 14530,
+            "Makefile": 601
+        }
+    },
+    {
+        "name": "ats-pilot",
+        "description": "A controller prototype for Unmanned Aerial Vehicles (UAV) in ATS.",
+        "languages": {
+            "ATS": 17603,
+            "C++": 14342,
+            "C": 4656,
+            "Shell": 451
+        }
+    },
+    {
+        "name": "high-spec",
+        "description": "The code for the specific endpoints blog post",
+        "languages": {
+            "ATS": 1975,
+            "Haskell": 1488,
+            "Makefile": 669
+        }
+    },
+    {
+        "name": "ATS-Python3",
+        "description": "ATS to Python 3 Transpiler ",
+        "languages": {
+            "ATS": 94267,
+            "Makefile": 6182,
+            "C": 212
+        }
+    },
+    {
+        "name": "ats-nanomq",
+        "description": "port of https://github.com/rigtorp/nanomq to ats",
+        "languages": {
+            "ATS": 16453
+        }
+    },
+    {
+        "name": "nepls-15-demo",
+        "description": "Demo programs for NEPLS 15",
+        "languages": {
+            "ATS": 12776,
+            "Makefile": 1397,
+            "Elixir": 840,
+            "Erlang": 289
+        }
+    },
+    {
+        "name": "raylib-ats2",
+        "description": "ATS2 bindings to the Raylib graphics library",
+        "languages": {
+            "ATS": 142573,
+            "Makefile": 836
+        }
+    },
+    {
+        "name": "ats-rx-drivers",
+        "description": "Embedded drivers for RX series. Created by ATS language.",
+        "languages": {
+            "ATS": 119451,
+            "C": 930,
+            "Makefile": 411
+        }
+    },
+    {
+        "name": "ComposeTalk2019",
+        "description": "A Tase Of ATS",
+        "languages": {
+            "ATS": 7965,
+            "Shell": 2461
+        }
+    },
+    {
+        "name": "ats-wc",
+        "description": "Demonstration of packaing for ATS + faster/safer version of coreutils",
+        "languages": {
+            "ATS": 1931,
+            "Dhall": 302
+        }
+    },
+    {
+        "name": "atsatomic",
+        "description": "Low level atomic API bindings for ATS2 and ATS Temptory",
+        "languages": {
+            "ATS": 290947,
+            "C": 143131,
+            "Makefile": 1455
+        }
+    },
+    {
+        "name": "org.ats-lang.documentation",
+        "description": "Documentation of ATS related topics.",
+        "languages": {
+            "ATS": 38206,
+            "Python": 6396,
+            "Makefile": 4770,
+            "Batchfile": 3087,
+            "Shell": 453
+        }
+    },
+    {
+        "name": "hs-bind",
+        "description": "Library support for calling Haskell functions in ATS. ",
+        "languages": {
+            "ATS": 576,
+            "Dhall": 489,
+            "Makefile": 249
+        }
+    },
+    {
+        "name": "safe-bytecount",
+        "description": "Safe bytecount demo in ATS",
+        "languages": {
+            "ATS": 3612,
+            "Rust": 1573,
+            "Dhall": 860
+        }
+    },
+    {
+        "name": "introduction-to-programming-in-ATS",
+        "description": "Learning ATS from the official tutorial of the same name",
+        "languages": {
+            "ATS": 92147,
+            "Makefile": 9033,
+            "C": 4627,
+            "Rust": 597
+        }
+    },
+    {
+        "name": "postmortem",
+        "description": "Postmortem for open-source operating systems",
+        "languages": {
+            "ATS": 31481,
+            "C": 14527,
+            "Makefile": 6878,
+            "Rust": 491
+        }
+    },
+    {
+        "name": "CS525-2023-Fall",
+        "description": "For teaching CS525, Fall, 2023",
+        "languages": {
+            "ATS": 2124373,
+            "C": 12649,
+            "Makefile": 8567,
+            "TeX": 3353,
+            "Standard ML": 2901
+        }
+    },
+    {
+        "name": "ats-learn-some-logics",
+        "description": "My own repo for learning logics by encoding them in ATS",
+        "languages": {
+            "ATS": 266288,
+            "Makefile": 1870
+        }
+    },
+    {
+        "name": "ats-pprint",
+        "description": "A pretty-printing library based on Wadler and Leijen's work",
+        "languages": {
+            "ATS": 12921,
+            "Makefile": 819
+        }
+    },
+    {
+        "name": "fastcat",
+        "description": "A faster version of cat written in ATS",
+        "languages": {
+            "ATS": 11909,
+            "Haskell": 3076,
+            "Nix": 386,
+            "Python": 119
+        }
+    },
+    {
+        "name": "PRWM",
+        "description": "A simple window manager written in ATS2",
+        "languages": {
+            "ATS": 49094,
+            "C": 2324,
+            "Makefile": 405
+        }
+    },
+    {
+        "name": "dbproject",
+        "description": null,
+        "languages": {
+            "ATS": 80182,
+            "HTML": 30624,
+            "JavaScript": 25396,
+            "PLpgSQL": 7941,
+            "CSS": 6664,
+            "Makefile": 729,
+            "Shell": 144
+        }
+    },
+    {
+        "name": "ats-playground",
+        "description": null,
+        "languages": {
+            "ATS": 1247
+        }
+    },
+    {
+        "name": "ats2-hcollections",
+        "description": "Heterogeneous collections for ATS2",
+        "languages": {
+            "ATS": 20196,
+            "Makefile": 399
+        }
+    },
+    {
+        "name": "ats2-spsc",
+        "description": "Lock-free, finite-size, single-producer / single-consumer queues for ATS2",
+        "languages": {
+            "ATS": 19264,
+            "Makefile": 456
+        }
+    },
+    {
+        "name": "ats-bytestring",
+        "description": null,
+        "languages": {
+            "ATS": 93933,
+            "Makefile": 4522,
+            "Nix": 913
+        }
+    },
+    {
+        "name": "ATStead",
+        "description": "A modeless structure editor",
+        "languages": {
+            "ATS": 76592,
+            "JavaScript": 63872,
+            "Haskell": 15758,
+            "HTML": 2225,
+            "Makefile": 1447
+        }
+    },
+    {
+        "name": "patsec",
+        "description": "Parser Combinator Library written in ATS.",
+        "languages": {
+            "ATS": 27824
+        }
+    },
+    {
+        "name": "Xats2cc-H0",
+        "description": null,
+        "languages": {
+            "ATS": 192685,
+            "C": 1835,
+            "Shell": 330
+        }
+    },
+    {
+        "name": "stack",
+        "description": "Lock-free stack written in ATS",
+        "languages": {
+            "ATS": 3881,
+            "C": 1471,
+            "Dhall": 721,
+            "Makefile": 240
+        }
+    },
+    {
+        "name": "ATStest",
+        "description": "Some simple examples for learning ATS.",
+        "languages": {
+            "ATS": 5630
+        }
+    },
+    {
+        "name": "some-ats",
+        "description": "Playing with ATS",
+        "languages": {
+            "ATS": 38300,
+            "Makefile": 881,
+            "Shell": 153
+        }
+    },
+    {
+        "name": "CS525-2020-Fall",
+        "description": "For teach BU CAS CS 525: Compiler Design and Implementation",
+        "languages": {
+            "ATS": 2165929,
+            "JavaScript": 1279088,
+            "C": 21875,
+            "Makefile": 15236,
+            "Shell": 1868
+        }
+    },
+    {
+        "name": "ats-X11",
+        "description": "An ATS interface for the X11 library",
+        "languages": {
+            "ATS": 49533,
+            "C": 9852,
+            "Makefile": 392
+        }
+    },
+    {
+        "name": "elvysh-filedes",
+        "description": "Functions and views for safe handling of UNIX file descriptors.",
+        "languages": {
+            "ATS": 5971
+        }
+    },
+    {
+        "name": "xatscc",
+        "description": "xanadu-lang compiler system",
+        "languages": {
+            "ATS": 14327,
+            "Makefile": 1263
+        }
+    },
+    {
+        "name": "ATS",
+        "description": "ATS",
+        "languages": {
+            "ATS": 37197
+        }
+    },
+    {
+        "name": "ats-czmq",
+        "description": "ATS bindings to czmq",
+        "languages": {
+            "ATS": 30816,
+            "C": 3863,
+            "Makefile": 96
+        }
+    },
+    {
+        "name": "monoid",
+        "description": "Monoids in ATS",
+        "languages": {
+            "ATS": 927,
+            "Dhall": 805
+        }
+    },
+    {
+        "name": "specats",
+        "description": "Bare-bones unit testing library for ATS",
+        "languages": {
+            "ATS": 1699,
+            "Dhall": 813
+        }
+    },
+    {
+        "name": "ats_csv_lexer",
+        "description": "A program to parse CSV files, written in ATS (ATS2).",
+        "languages": {
+            "ATS": 35830
+        }
+    },
+    {
+        "name": "monkey-ats",
+        "description": null,
+        "languages": {
+            "ATS": 1423
+        }
+    },
+    {
+        "name": "M-N-K-Tic-Tac-Toe",
+        "description": "A simple command-line tic-tac-toe game with variable board sizes and winning lengths. Prototype is written in C, while primary implementation will be written in ATS.",
+        "languages": {
+            "ATS": 20942,
+            "C": 20367
+        }
+    },
+    {
+        "name": "sudoku_ats",
+        "description": "Sudoku solver implemented in ATS language",
+        "languages": {
+            "ATS": 25413,
+            "HTML": 839,
+            "Makefile": 574
+        }
+    },
+    {
+        "name": "linear-zipper",
+        "description": "Zippers (a la Huet) in ATS",
+        "languages": {
+            "ATS": 5549,
+            "Dhall": 691
+        }
+    },
+    {
+        "name": "CS520-2021-Spring",
+        "description": null,
+        "languages": {
+            "ATS": 117187,
+            "Makefile": 4107,
+            "HTML": 1353,
+            "C": 700
+        }
+    },
+    {
+        "name": "CS525-2021-Fall",
+        "description": "For teaching BU CAS CS525: Compiler Design and Implementation.",
+        "languages": {
+            "ATS": 106883,
+            "C": 9974,
+            "TeX": 2493,
+            "Makefile": 2449
+        }
+    },
+    {
+        "name": "avlset",
+        "description": null,
+        "languages": {
+            "ATS": 5902
+        }
+    },
+    {
+        "name": "ats-portaudio",
+        "description": "An ATS interface for the PortAudio library",
+        "languages": {
+            "ATS": 5832,
+            "C": 2573
+        }
+    },
+    {
+        "name": "ats-http-server",
+        "description": "Web server in ATS",
+        "languages": {
+            "ATS": 2091
+        }
+    },
+    {
+        "name": "MTVeri",
+        "description": "Model Checking and Type Checking Based Program Verification",
+        "languages": {
+            "ATS": 748253,
+            "C": 82955,
+            "Makefile": 36151,
+            "PHP": 27802,
+            "Erlang": 15031,
+            "Python": 11174,
+            "JavaScript": 5105,
+            "HTML": 4327
+        }
+    },
+    {
+        "name": "Learn-ATS-Postiats-contrib",
+        "description": "Learning code of ATS-Postiats-contrib",
+        "languages": {
+            "ATS": 3689978,
+            "C": 476920,
+            "Makefile": 223443,
+            "PHP": 118585,
+            "JavaScript": 101285,
+            "HTML": 60482,
+            "Emacs Lisp": 32687,
+            "Python": 22801,
+            "Erlang": 15031,
+            "C++": 12484,
+            "Java": 6205,
+            "Perl": 6017,
+            "Assembly": 5688,
+            "Perl 6": 4191,
+            "Nix": 874,
+            "Objective-C": 680,
+            "Shell": 418,
+            "CSS": 255
+        }
+    },
+    {
+        "name": "queue",
+        "description": null,
+        "languages": {
+            "ATS": 2055
+        }
+    },
+    {
+        "name": "ATS-final-project",
+        "description": "regexp parsing in ATS",
+        "languages": {
+            "ATS": 8869,
+            "Makefile": 354
+        }
+    },
+    {
+        "name": "xschema",
+        "description": null,
+        "languages": {
+            "ATS": 216529,
+            "C": 5923,
+            "Makefile": 2882
+        }
+    },
+    {
+        "name": "xnameof",
+        "description": null,
+        "languages": {
+            "ATS": 138403,
+            "C": 5923,
+            "Makefile": 2804
+        }
+    },
+    {
+        "name": "quora-toy-bench",
+        "description": null,
+        "languages": {
+            "ATS": 4403,
+            "C": 2858,
+            "Haskell": 2370,
+            "Rust": 1451,
+            "OCaml": 1253,
+            "Idris": 486,
+            "Makefile": 360
+        }
+    },
+    {
+        "name": "ats-vicpack",
+        "description": null,
+        "languages": {
+            "ATS": 34914,
+            "Makefile": 1785
+        }
+    },
+    {
+        "name": "xatsopt",
+        "description": "For libxatsopt",
+        "languages": {
+            "ATS": 2727889,
+            "C": 40740,
+            "Makefile": 1149
+        }
+    },
+    {
+        "name": "Learn-ATS-Postiats",
+        "description": "Learning code of ATS-Postiats",
+        "languages": {
+            "ATS": 5305246,
+            "C": 718177,
+            "Makefile": 190770,
+            "Emacs Lisp": 18856,
+            "C++": 8775,
+            "PHP": 6049,
+            "Shell": 4714,
+            "HTML": 2445,
+            "Nix": 1722
+        }
+    },
+    {
+        "name": "ats2spin",
+        "description": "Use ATS to generate models in Promela",
+        "languages": {
+            "ATS": 334961,
+            "Makefile": 9502
+        }
+    },
+    {
+        "name": "wakaran-ats-postiats",
+        "description": "my problem about the ATS/Postiats",
+        "languages": {
+            "ATS": 476
+        }
+    },
+    {
+        "name": "xargsof",
+        "description": null,
+        "languages": {
+            "ATS": 201150,
+            "C": 5923,
+            "Makefile": 2776
+        }
+    },
+    {
+        "name": "dragino-lht65",
+        "description": "Payload decoder for Dragino LHT65 device",
+        "languages": {
+            "ATS": 19716,
+            "Makefile": 2233,
+            "Nix": 720
+        }
+    },
+    {
+        "name": "atsvent",
+        "description": "Solving Advent of Code in ATS.",
+        "languages": {
+            "ATS": 2838,
+            "Nix": 285,
+            "C": 112
+        }
+    },
+    {
+        "name": "crack_code",
+        "description": null,
+        "languages": {
+            "ATS": 4515
+        }
+    },
+    {
+        "name": "elvysh-errno",
+        "description": "Functions and views for safe handling of `errno`.",
+        "languages": {
+            "ATS": 1553
+        }
+    },
+    {
+        "name": "CS320",
+        "description": "Concepts of Programming Languages ",
+        "languages": {
+            "ATS": 63030,
+            "Makefile": 7855,
+            "HTML": 2032,
+            "C": 218
+        }
+    },
+    {
+        "name": "tmplats-libcurl",
+        "description": null,
+        "languages": {
+            "ATS": 49596,
+            "C": 10139,
+            "Makefile": 706
+        }
+    },
+    {
+        "name": "ats-lora_timestamps",
+        "description": null,
+        "languages": {
+            "ATS": 11552,
+            "Makefile": 1654
+        }
+    },
+    {
+        "name": "fipma-ats",
+        "description": "Fixed Point Math in ATS",
+        "languages": {
+            "ATS": 950
+        }
+    },
+    {
+        "name": "atscntrb-keh-libpq",
+        "description": null,
+        "languages": {
+            "ATS": 15592,
+            "Makefile": 535
+        }
+    },
+    {
+        "name": "ats2-scratch",
+        "description": "Trying out ATS2 (Applied Type System) language",
+        "languages": {
+            "ATS": 1959,
+            "Makefile": 1123
+        }
+    },
+    {
+        "name": "ats-macos",
+        "description": null,
+        "languages": {
+            "ATS": 13915,
+            "Makefile": 1569
+        }
+    },
+    {
+        "name": "Peano",
+        "description": null,
+        "languages": {
+            "ATS": 1317
+        }
+    },
+    {
+        "name": "ats-aoc2017",
+        "description": "Advent of Code 2017 using ATS2!",
+        "languages": {
+            "ATS": 2751,
+            "Makefile": 1362
+        }
+    },
+    {
+        "name": "ats-result",
+        "description": "A Result type (Ok/Error) for ATS2",
+        "languages": {
+            "ATS": 3777,
+            "Makefile": 1805,
+            "Python": 653
+        }
+    },
+    {
+        "name": "ats-sqlite3",
+        "description": "Simple sqlite3 bindings for ATS2",
+        "languages": {
+            "ATS": 5917,
+            "Makefile": 2069,
+            "C": 67
+        }
+    },
+    {
+        "name": "contrib",
+        "description": "For contribution to ATS3 of all sorts",
+        "languages": {
+            "ATS": 39318,
+            "Makefile": 14143,
+            "C": 9466,
+            "HTML": 4072,
+            "sed": 1037
+        }
+    },
+    {
+        "name": "CS320-2017-Fall",
+        "description": null,
+        "languages": {
+            "ATS": 422530,
+            "JavaScript": 365467,
+            "R": 270558,
+            "PHP": 210690,
+            "HTML": 41074,
+            "Makefile": 17080,
+            "Hack": 3480,
+            "CSS": 3051
+        }
+    },
+    {
+        "name": "ATS-Problems",
+        "description": "Solving https://ocaml.org/problems using ATS",
+        "languages": {
+            "ATS": 2452,
+            "Dhall": 476
+        }
+    },
+    {
+        "name": "compiler",
+        "description": null,
+        "languages": {
+            "ATS": 114133,
+            "C": 10483,
+            "Makefile": 1574,
+            "Shell": 654
+        }
+    },
+    {
+        "name": "ats-playground",
+        "description": "Code snippets for the ATS programming language",
+        "languages": {
+            "ATS": 17148,
+            "Makefile": 221
+        }
+    },
+    {
+        "name": "ATS-stlc",
+        "description": null,
+        "languages": {
+            "ATS": 9330,
+            "Makefile": 3104
+        }
+    },
+    {
+        "name": "WordGraphing",
+        "description": "For learning English words",
+        "languages": {
+            "ATS": 483331,
+            "HTML": 191401,
+            "Makefile": 504
+        }
+    },
+    {
+        "name": "atscntrb-keh-unqlite",
+        "description": null,
+        "languages": {
+            "ATS": 23462,
+            "Makefile": 364
+        }
+    },
+    {
+        "name": "atscntrb-as-getopt",
+        "description": "getopt-style command line argument parsing for ATS2",
+        "languages": {
+            "ATS": 23235,
+            "Makefile": 695
+        }
+    },
+    {
+        "name": "re",
+        "description": null,
+        "languages": {
+            "ATS": 2
+        }
+    },
+    {
+        "name": "Lambda-Calculus-by-Linear-HOAS",
+        "description": "An interpreter of lambda calculus in ATS2 that uses a HOAS encoding in linear types.",
+        "languages": {
+            "ATS": 16539
+        }
+    },
+    {
+        "name": "ats-shared-vt",
+        "description": null,
+        "languages": {
+            "ATS": 4154,
+            "Makefile": 1067,
+            "Python": 211
+        }
+    },
+    {
+        "name": "ats-args",
+        "description": "An ATS2 library for parsing command line arguments",
+        "languages": {
+            "ATS": 45194,
+            "Makefile": 2197
+        }
+    },
+    {
+        "name": "coin_change",
+        "description": null,
+        "languages": {
+            "ATS": 7574,
+            "Makefile": 2477,
+            "Nix": 1629,
+            "Rust": 623
+        }
+    },
+    {
+        "name": "Xinterp-D3",
+        "description": null,
+        "languages": {
+            "ATS": 242822,
+            "Shell": 1762,
+            "Makefile": 433
+        }
+    },
+    {
+        "name": "learn_typesafe_reactive",
+        "description": "Projects for practice of TypeSafe Reactive Platform",
+        "languages": {
+            "ATS": 47318,
+            "JavaScript": 32988,
+            "Java": 16524,
+            "HTML": 15216,
+            "Scala": 14421,
+            "CoffeeScript": 5208,
+            "CSS": 2450,
+            "Shell": 198
+        }
+    },
+    {
+        "name": "ATS_Enigma_Machine",
+        "description": "This repository contains the code and compiled program for an enigma machine simulation written in ATS, as well as a Makefile for compiling the program on other computers.",
+        "languages": {
+            "ATS": 17457,
+            "Makefile": 574
+        }
+    },
+    {
+        "name": "getr-ats",
+        "description": "benchmarking wrapper around getrusage (in ATS)",
+        "languages": {
+            "ATS": 2122,
+            "Makefile": 113
+        }
+    },
+    {
+        "name": "project-euler",
+        "description": null,
+        "languages": {
+            "ATS": 1170,
+            "Makefile": 676
+        }
+    },
+    {
+        "name": "Simple-Binary-Search-in-ATS",
+        "description": "(WIP) A simple binary search based on an example provided in the \"Introduction to Programming in ATS\" book.",
+        "languages": {
+            "ATS": 700,
+            "Makefile": 318
+        }
+    },
+    {
+        "name": "xunistd",
+        "description": "For experimenting with UNIX-like systems programming in ATS3",
+        "languages": {
+            "ATS": 8241,
+            "Shell": 479,
+            "Makefile": 144
+        }
+    },
+    {
+        "name": "ats-channel",
+        "description": null,
+        "languages": {
+            "ATS": 8276,
+            "Makefile": 1859,
+            "Python": 585
+        }
+    },
+    {
+        "name": "text",
+        "description": "Text analogue for ATS2 language",
+        "languages": {
+            "ATS": 53892,
+            "Makefile": 2598,
+            "Nix": 903
+        }
+    },
+    {
+        "name": "foldable",
+        "description": "Foldable library for ATS",
+        "languages": {
+            "ATS": 335
+        }
+    },
+    {
+        "name": "extlib",
+        "description": "Extended library for ATS language",
+        "languages": {
+            "ATS": 2277,
+            "Makefile": 1511,
+            "Nix": 710
+        }
+    },
+    {
+        "name": "ATS-Intro",
+        "description": null,
+        "languages": {
+            "ATS": 16449,
+            "Makefile": 1257,
+            "Emacs Lisp": 778
+        }
+    },
+    {
+        "name": "lambda_calculus",
+        "description": null,
+        "languages": {
+            "ATS": 7977,
+            "Makefile": 1086
+        }
+    },
+    {
+        "name": "ats-datavtype-leak",
+        "description": null,
+        "languages": {
+            "ATS": 3342,
+            "Makefile": 1719,
+            "Nix": 404
+        }
+    },
+    {
+        "name": "Xdeptck-D3",
+        "description": "For supporting static debugging based on a form of linear DML-style of dependent types",
+        "languages": {
+            "ATS": 239194
+        }
+    },
+    {
+        "name": "ats-samples",
+        "description": "ATS lang examples",
+        "languages": {
+            "ATS": 5756,
+            "Makefile": 2610
+        }
+    },
+    {
+        "name": "BIBCalc",
+        "description": "Bringing it Back Calculator: My effort to make a calculator that I will actually want to use a few times each week.",
+        "languages": {
+            "ATS": 26477,
+            "Java": 4206,
+            "Makefile": 602
+        }
+    },
+    {
+        "name": "msgpack-ats",
+        "description": "ATS Bindings for MessagePack",
+        "languages": {
+            "ATS": 24552,
+            "C": 22973,
+            "Makefile": 49
+        }
+    },
+    {
+        "name": "ats-haskell",
+        "description": "Template project for calling Haskell from ATS",
+        "languages": {
+            "ATS": 341,
+            "Haskell": 189
+        }
+    },
+    {
+        "name": "ATS-Maze-Solver",
+        "description": "useA* algorithm drawing a feasible path from start to end point",
+        "languages": {
+            "ATS": 14163
+        }
+    },
+    {
+        "name": "atstd",
+        "description": "Alternative standard library for ATS",
+        "languages": {
+            "ATS": 2076
+        }
+    },
+    {
+        "name": "jack-ats2",
+        "description": "ATS2 bindings to the JACK audio connection kit",
+        "languages": {
+            "ATS": 28835,
+            "Makefile": 439
+        }
+    },
+    {
+        "name": "mqtt2csv-vicpack-payload-decoder",
+        "description": null,
+        "languages": {
+            "ATS": 21727,
+            "Makefile": 1935
+        }
+    },
+    {
+        "name": "match-reduce",
+        "description": "Really \"slow\", not very memory friendly and semi-functional WIP of a pattern matching and reduction based language",
+        "languages": {
+            "ATS": 60837
+        }
+    },
+    {
+        "name": "ats-branch-test",
+        "description": null,
+        "languages": {
+            "ATS": 21405,
+            "Makefile": 1804,
+            "Nix": 706
+        }
+    },
+    {
+        "name": "advent-of-code-2020",
+        "description": null,
+        "languages": {
+            "ATS": 4576,
+            "Kotlin": 3256,
+            "Scala": 2777,
+            "Rust": 2524,
+            "C": 2494,
+            "Agda": 2012,
+            "Python": 1859,
+            "JavaScript": 1686,
+            "Prolog": 1465,
+            "Erlang": 1424,
+            "Julia": 1383,
+            "Objective-C": 1333,
+            "Ruby": 1234,
+            "Clojure": 1115,
+            "Perl": 963,
+            "Awk": 549,
+            "Makefile": 477,
+            "Lua": 448
+        }
+    },
+    {
+        "name": "CS520-2020-Spring",
+        "description": null,
+        "languages": {
+            "ATS": 42842,
+            "Makefile": 3826
+        }
+    },
+    {
+        "name": "mobt2",
+        "description": "nothing interesting here",
+        "languages": {
+            "ATS": 22740,
+            "Makefile": 2512,
+            "Nix": 1794,
+            "Haskell": 326
+        }
+    },
+    {
+        "name": "ATS-lambda",
+        "description": null,
+        "languages": {
+            "ATS": 22298,
+            "Makefile": 3104
+        }
+    },
+    {
+        "name": "CS525-2023-Fall-DJN",
+        "description": null,
+        "languages": {
+            "ATS": 166288,
+            "Makefile": 5446,
+            "TeX": 3353,
+            "Standard ML": 2901
+        }
+    },
+    {
+        "name": "tdb",
+        "description": null,
+        "languages": {
+            "ATS": 21520,
+            "C": 20200,
+            "Makefile": 2686,
+            "Perl 6": 486
+        }
+    },
+    {
+        "name": "nproc-ats",
+        "description": "ATS library for fetching the number of cores/CPUs",
+        "languages": {
+            "ATS": 759,
+            "Dhall": 491,
+            "Makefile": 167
+        }
+    },
+    {
+        "name": "https-client",
+        "description": "demonstration of an https request inside ATS",
+        "languages": {
+            "ATS": 1197
+        }
+    },
+    {
+        "name": "clast",
+        "description": "CLI argument parsing library for ATS",
+        "languages": {
+            "ATS": 40861
+        }
+    },
+    {
+        "name": "CS525-2020-Fall-a-naghavi",
+        "description": null,
+        "languages": {
+            "ATS": 2286542,
+            "JavaScript": 1279088,
+            "C": 31412,
+            "Makefile": 22113,
+            "Shell": 1868
+        }
+    },
+    {
+        "name": "ats-base64",
+        "description": null,
+        "languages": {
+            "ATS": 10127,
+            "Makefile": 1271
+        }
+    },
+    {
+        "name": "evloop-ats2",
+        "description": "A threaded event loop in ATS2",
+        "languages": {
+            "ATS": 105431,
+            "Makefile": 538,
+            "Shell": 466
+        }
+    },
+    {
+        "name": "Xinterp-H0",
+        "description": "An interpreter for ATS/Xanadu that is based on the H0-syntax",
+        "languages": {
+            "ATS": 72484,
+            "Shell": 817,
+            "Makefile": 608
+        }
+    },
+    {
+        "name": "Xatsctp-H0",
+        "description": "For generating C-types based the H0-level syntax",
+        "languages": {
+            "ATS": 169661,
+            "Makefile": 1216
+        }
+    },
+    {
+        "name": "benchmarksgame-ats",
+        "description": "Toy programs from the Computer Language Benchmarks Game implemented in ATS2",
+        "languages": {
+            "ATS": 6422,
+            "C": 4796
+        }
+    },
+    {
+        "name": "ats-bench",
+        "description": "Library for benchmarking ATS code.",
+        "languages": {
+            "ATS": 4199,
+            "Dhall": 704
+        }
+    },
+    {
+        "name": "TAS",
+        "description": "ATS build system",
+        "languages": {
+            "ATS": 36783,
+            "Shell": 4244
+        }
+    },
+    {
+        "name": "ats-threadpool",
+        "description": "A threadpool library  for ATS2",
+        "languages": {
+            "ATS": 12211,
+            "Makefile": 1828,
+            "Python": 715
+        }
+    },
+    {
+        "name": "ats-hashtable-vt",
+        "description": "An ATS2 hashtable with viewtype keys",
+        "languages": {
+            "ATS": 31351,
+            "Makefile": 1798,
+            "Python": 645
+        }
+    },
+    {
+        "name": "lz-ats",
+        "description": "lzlib bindings for ATS",
+        "languages": {
+            "ATS": 2801,
+            "Dhall": 202
+        }
+    },
+    {
+        "name": "LambdaCalculusInterpreter",
+        "description": "A lambda calculus interpreter with type checking.",
+        "languages": {
+            "ATS": 2066281,
+            "C": 25783,
+            "Makefile": 2970,
+            "Shell": 934
+        }
+    },
+    {
+        "name": "ats-complexity",
+        "description": "A small research about tracking of complexity of functions in ATS2",
+        "languages": {
+            "ATS": 22481,
+            "Makefile": 2208,
+            "Nix": 742
+        }
+    },
+    {
+        "name": "atshell",
+        "description": null,
+        "languages": {
+            "ATS": 28523,
+            "Makefile": 254
+        }
+    },
+    {
+        "name": "atscntrb-keh-libwebsockets",
+        "description": null,
+        "languages": {
+            "ATS": 49966,
+            "Makefile": 300
+        }
+    },
+    {
+        "name": "atscntrb-keh-direct.c",
+        "description": null,
+        "languages": {
+            "ATS": 39692,
+            "Makefile": 397
+        }
+    },
+    {
+        "name": "ATS-Postiats-libatsext",
+        "description": "For supporting external libraries of all varieties",
+        "languages": {
+            "ATS": 6169,
+            "C": 1122,
+            "Makefile": 574
+        }
+    },
+    {
+        "name": "ats-prime-gen",
+        "description": "Prime numbers generator with a formal proof of correctness",
+        "languages": {
+            "ATS": 45568,
+            "Makefile": 520
+        }
+    },
+    {
+        "name": "ATS-Practice",
+        "description": "ATS\u8a00\u8a9e\u306e\u7df4\u7fd2\u7528\u30ea\u30dd\u30b8\u30c8\u30ea",
+        "languages": {
+            "ATS": 8001
+        }
+    },
+    {
+        "name": "httpsrv-demo-ats2",
+        "description": "An HTTP/1.1 server experiment with `evloop` and `atshtml`",
+        "languages": {
+            "ATS": 62786,
+            "Makefile": 1101
+        }
+    },
+    {
+        "name": "CS525",
+        "description": null,
+        "languages": {
+            "ATS": 2465496,
+            "C": 327287,
+            "Makefile": 10904,
+            "Standard ML": 5802,
+            "Python": 5274,
+            "TeX": 3353
+        }
+    },
+    {
+        "name": "CS525-2022-Fall-ycpeng",
+        "description": null,
+        "languages": {
+            "ATS": 2330813,
+            "C": 825921,
+            "Makefile": 11329,
+            "Assembly": 5937,
+            "TeX": 2512
+        }
+    },
+    {
+        "name": "ats-miscellanea",
+        "description": "Automatically exported from code.google.com/p/ats-miscellanea",
+        "languages": {
+            "ATS": 384103,
+            "TeX": 120942,
+            "Makefile": 5702
+        }
+    },
+    {
+        "name": "ats-opengles2-bind",
+        "description": "Automatically exported from code.google.com/p/ats-opengles2-bind",
+        "languages": {
+            "ATS": 195968,
+            "GLSL": 16449,
+            "C": 11864,
+            "Makefile": 2505
+        }
     }
 ]

@@ -142,5 +142,2154 @@
             "LLVM": 634,
             "Modula-3": 432
         }
+    },
+    {
+        "name": "category-theory",
+        "description": "An axiom-free formalization of category theory in Coq for personal study and practical work",
+        "languages": {
+            "Coq": 945925,
+            "Nix": 4295,
+            "Haskell": 2564,
+            "Makefile": 1056,
+            "Shell": 832
+        }
+    },
+    {
+        "name": "fiat-crypto",
+        "description": "Cryptographic Primitive Code Generation by Fiat",
+        "languages": {
+            "Coq": 7708682,
+            "Assembly": 4459984,
+            "Python": 216161,
+            "Shell": 24820,
+            "Makefile": 22456,
+            "JavaScript": 17042,
+            "C": 7791,
+            "Haskell": 4804,
+            "Zig": 3517,
+            "HTML": 3427,
+            "PowerShell": 2703,
+            "Batchfile": 1262,
+            "sed": 579,
+            "OCaml": 33
+        }
+    },
+    {
+        "name": "frap",
+        "description": "Formal Reasoning About Programs",
+        "languages": {
+            "Coq": 1624223,
+            "TeX": 383547,
+            "OCaml": 2075,
+            "HTML": 2060,
+            "Makefile": 1234
+        }
+    },
+    {
+        "name": "verdi",
+        "description": "A framework for formally verifying distributed systems implementations in Coq",
+        "languages": {
+            "Coq": 598286,
+            "Shell": 2668,
+            "Python": 1423,
+            "Awk": 479,
+            "Makefile": 335
+        }
+    },
+    {
+        "name": "math-comp",
+        "description": "Mathematical Components",
+        "languages": {
+            "Coq": 5066970,
+            "TeX": 33249,
+            "OCaml": 19162,
+            "Makefile": 7931,
+            "Shell": 7578,
+            "CSS": 6387,
+            "Nix": 5119,
+            "Lua": 4616,
+            "NSIS": 2402,
+            "Roff": 2056,
+            "Emacs Lisp": 1919,
+            "Dockerfile": 1287
+        }
+    },
+    {
+        "name": "coq-tricks",
+        "description": "Tricks you wish the Coq manual told you",
+        "languages": {
+            "Coq": 34573,
+            "Makefile": 223
+        }
+    },
+    {
+        "name": "VST",
+        "description": "Verified Software Toolchain",
+        "languages": {
+            "Coq": 31212515,
+            "C": 440029,
+            "OCaml": 174832,
+            "Makefile": 78110,
+            "TeX": 44968,
+            "Shell": 11620,
+            "Python": 6273,
+            "Awk": 2570,
+            "Haskell": 2308,
+            "Starlark": 1836,
+            "Standard ML": 322,
+            "Emacs Lisp": 46
+        }
+    },
+    {
+        "name": "sail-riscv",
+        "description": "Sail RISC-V model",
+        "languages": {
+            "Coq": 11386105,
+            "Isabelle": 6652549,
+            "Standard ML": 6116810,
+            "C": 1793937,
+            "Makefile": 125598,
+            "HTML": 87141,
+            "OCaml": 31990,
+            "Shell": 8554,
+            "Python": 1761,
+            "Dockerfile": 148,
+            "Assembly": 147
+        }
+    },
+    {
+        "name": "CoqGym",
+        "description": "A Learning Environment for Theorem Proving with the Coq proof assistant",
+        "languages": {
+            "Coq": 82373899,
+            "HTML": 53142878,
+            "OCaml": 13173958,
+            "C": 4660536,
+            "TeX": 1676733,
+            "JavaScript": 1346183,
+            "Python": 495085,
+            "Makefile": 350363,
+            "Shell": 235173,
+            "Assembly": 196381,
+            "C++": 121702,
+            "CSS": 117110,
+            "Haskell": 88484,
+            "Standard ML": 49134,
+            "Roff": 45440,
+            "Batchfile": 32782,
+            "Vyper": 32309,
+            "NSIS": 28578,
+            "Ruby": 26227,
+            "Scheme": 23322,
+            "Emacs Lisp": 16060,
+            "Awk": 7552,
+            "Dockerfile": 6660,
+            "Nix": 5277,
+            "Perl": 3437,
+            "Smarty": 2840,
+            "Singularity": 1963,
+            "Starlark": 1836,
+            "Game Maker Language": 1367,
+            "GAP": 1348,
+            "sed": 116,
+            "V": 93,
+            "Verilog": 4
+        }
+    },
+    {
+        "name": "metacoq",
+        "description": "Metaprogramming, verified meta-theory and implementation of Coq in Coq",
+        "languages": {
+            "Coq": 9495077,
+            "OCaml": 217721,
+            "Makefile": 19058,
+            "Shell": 15536,
+            "CSS": 9283,
+            "Nix": 8838,
+            "JavaScript": 7014,
+            "HTML": 1210
+        }
+    },
+    {
+        "name": "proofs",
+        "description": "My personal repository of formally verified mathematics.",
+        "languages": {
+            "Coq": 236200,
+            "Ruby": 5451,
+            "Makefile": 1183
+        }
+    },
+    {
+        "name": "hs-to-coq",
+        "description": "Convert Haskell source code to Coq source code",
+        "languages": {
+            "Coq": 855710,
+            "Haskell": 573344,
+            "Makefile": 53826,
+            "Yacc": 26794,
+            "Ruby": 5098,
+            "Nix": 2139,
+            "Emacs Lisp": 2094,
+            "C++": 1463,
+            "Perl": 897
+        }
+    },
+    {
+        "name": "bedrock2",
+        "description": "A work-in-progress language and compiler for verified low-level programming",
+        "languages": {
+            "Coq": 2779366,
+            "Verilog": 108524,
+            "Makefile": 23830,
+            "Python": 16133,
+            "Shell": 8533,
+            "C": 4295,
+            "Emacs Lisp": 3293,
+            "Vim Snippet": 70
+        }
+    },
+    {
+        "name": "hacspec",
+        "description": "Please see https://github.com/hacspec/hax",
+        "languages": {
+            "Coq": 2406562,
+            "Rust": 1491114,
+            "F*": 150793,
+            "TeX": 49665,
+            "Makefile": 32852,
+            "eC": 27919,
+            "Python": 13730,
+            "Dockerfile": 1730,
+            "Shell": 763,
+            "RPC": 133
+        }
+    },
+    {
+        "name": "QuickChick",
+        "description": "Randomized Property-Based Testing Plugin for Coq",
+        "languages": {
+            "Coq": 893109,
+            "OCaml": 430049,
+            "C": 39739,
+            "Makefile": 12612,
+            "Shell": 1447,
+            "Perl": 506,
+            "Emacs Lisp": 397
+        }
+    },
+    {
+        "name": "Foundations",
+        "description": "Voevodsky's original development of the univalent foundations of mathematics in Coq",
+        "languages": {
+            "Coq": 856313
+        }
+    },
+    {
+        "name": "fscq",
+        "description": "FSCQ is a certified file system written and proven in Coq",
+        "languages": {
+            "Coq": 2958498,
+            "C": 137396,
+            "Haskell": 112779,
+            "OCaml": 48783,
+            "Python": 28733,
+            "Shell": 9762,
+            "C++": 5533,
+            "Makefile": 4843,
+            "Nix": 2940,
+            "Go": 1408
+        }
+    },
+    {
+        "name": "jasmin",
+        "description": "Language for high-assurance and high-speed cryptography",
+        "languages": {
+            "Coq": 2817444,
+            "OCaml": 983001,
+            "eC": 231268,
+            "Shell": 17285,
+            "Python": 15272,
+            "C": 9085,
+            "Makefile": 8492,
+            "Nix": 4822,
+            "V": 530
+        }
+    },
+    {
+        "name": "Coq-Equations",
+        "description": "A function definition package for Coq",
+        "languages": {
+            "Coq": 800135,
+            "OCaml": 597473,
+            "Makefile": 2136,
+            "Shell": 1009,
+            "Ruby": 74
+        }
+    },
+    {
+        "name": "cnn_open",
+        "description": "A hardware implementation of CNN,  written by Verilog and synthesized  on FPGA",
+        "languages": {
+            "Coq": 791092,
+            "Verilog": 109510,
+            "Jupyter Notebook": 43065,
+            "VHDL": 9133,
+            "Tcl": 9036,
+            "Shell": 4886,
+            "Makefile": 888,
+            "Forth": 463
+        }
+    },
+    {
+        "name": "Kami",
+        "description": "Kami - a DSL for designing Hardware in Coq, and the associated semantics and theorems for proving its correctness. Kami is inspired by Bluespec. It is actually a complete rewrite of an older version from MIT",
+        "languages": {
+            "Coq": 1993239,
+            "Haskell": 121068,
+            "Shell": 3979,
+            "Emacs Lisp": 1860,
+            "Makefile": 366
+        }
+    },
+    {
+        "name": "jscert",
+        "description": "A Coq specification of ECMAScript 5 (JavaScript) with verified reference interpreter",
+        "languages": {
+            "Coq": 958960,
+            "JavaScript": 374026,
+            "OCaml": 100392,
+            "Shell": 78103,
+            "Haskell": 34430,
+            "Python": 24226,
+            "Makefile": 9658,
+            "Batchfile": 1849,
+            "Emacs Lisp": 84
+        }
+    },
+    {
+        "name": "InteractionTrees",
+        "description": "A Library for Representing Recursive and Impure Programs in Coq",
+        "languages": {
+            "Coq": 1637769,
+            "Makefile": 3271,
+            "Shell": 335
+        }
+    },
+    {
+        "name": "analysis",
+        "description": "Mathematical Components compliant Analysis Library",
+        "languages": {
+            "Coq": 2877947,
+            "Shell": 13998,
+            "Makefile": 4830,
+            "Python": 3783,
+            "Nix": 3706,
+            "sed": 671,
+            "Emacs Lisp": 435
+        }
+    },
+    {
+        "name": "coq-chick-blog",
+        "description": "\ud83d\udc23 A blog engine written and proven in Coq",
+        "languages": {
+            "Coq": 46174,
+            "OCaml": 2994,
+            "Makefile": 167,
+            "Shell": 44
+        }
+    },
+    {
+        "name": "verdi-raft",
+        "description": "An implementation of the Raft distributed consensus protocol, verified in Coq using the Verdi framework",
+        "languages": {
+            "Coq": 1926070,
+            "Python": 102417,
+            "OCaml": 56127,
+            "Shell": 32011,
+            "Ruby": 25560,
+            "Makefile": 7995,
+            "Awk": 4503,
+            "Perl": 2304,
+            "C": 809
+        }
+    },
+    {
+        "name": "GeoCoq",
+        "description": "A formalization of geometry in Coq based on Tarski's axiom system",
+        "languages": {
+            "Coq": 4603378,
+            "Shell": 968
+        }
+    },
+    {
+        "name": "coq-haskell",
+        "description": "A library for formalizing Haskell types and functions in Coq",
+        "languages": {
+            "Coq": 393320,
+            "Haskell": 6249,
+            "Nix": 1424,
+            "Perl": 971,
+            "Makefile": 776,
+            "Shell": 291
+        }
+    },
+    {
+        "name": "math-classes",
+        "description": "A library of abstract interfaces for mathematical structures in Coq [maintainer=@spitters]",
+        "languages": {
+            "Coq": 715641,
+            "Python": 2122,
+            "Makefile": 288,
+            "Shell": 112
+        }
+    },
+    {
+        "name": "ergo",
+        "description": "Programming Language for Smart Legal Contracts",
+        "languages": {
+            "Coq": 639367,
+            "JavaScript": 357007,
+            "OCaml": 142171,
+            "Emacs Lisp": 63286,
+            "Gherkin": 45047,
+            "Java": 40755,
+            "Standard ML": 33655,
+            "Makefile": 15594,
+            "HTML": 4803,
+            "Vim Script": 2105,
+            "Shell": 1622,
+            "Handlebars": 84
+        }
+    },
+    {
+        "name": "pnp",
+        "description": "Lecture notes for a short course on proving/programming in Coq via SSReflect.",
+        "languages": {
+            "Coq": 585730,
+            "TeX": 58261,
+            "Makefile": 1705
+        }
+    },
+    {
+        "name": "fourcolor",
+        "description": "Formal proof of the Four Color Theorem [maintainer=@ybertot]",
+        "languages": {
+            "Coq": 2004411,
+            "Nix": 8858,
+            "Makefile": 943
+        }
+    },
+    {
+        "name": "fiat",
+        "description": "Mostly Automated Synthesis of Correct-by-Construction Programs",
+        "languages": {
+            "Coq": 8810280,
+            "OCaml": 930013,
+            "Assembly": 109659,
+            "TeX": 57038,
+            "Python": 43737,
+            "Makefile": 22511,
+            "C++": 9889,
+            "Shell": 7428,
+            "JavaScript": 1777,
+            "C": 1037,
+            "Emacs Lisp": 264
+        }
+    },
+    {
+        "name": "advent-of-coq-2018",
+        "description": "Advent of Code 2018, in Coq! (https://adventofcode.com/2018)",
+        "languages": {
+            "Coq": 116725,
+            "Makefile": 2089
+        }
+    },
+    {
+        "name": "iron",
+        "description": "Coq formalizations of functional languages.",
+        "languages": {
+            "Coq": 1471719,
+            "Makefile": 2201
+        }
+    },
+    {
+        "name": "kami",
+        "description": "A Platform for High-Level Parametric Hardware Specification and its Modular Verification",
+        "languages": {
+            "Coq": 2043674,
+            "Verilog": 131840,
+            "OCaml": 47031,
+            "C": 39537,
+            "Bluespec": 12563,
+            "Shell": 6902,
+            "Makefile": 5122,
+            "C++": 962
+        }
+    },
+    {
+        "name": "certicoq",
+        "description": "A Verified Compiler for Gallina, Written in Gallina",
+        "languages": {
+            "Coq": 5588742,
+            "OCaml": 630538,
+            "C": 324985,
+            "Makefile": 61723,
+            "Shell": 25826,
+            "Assembly": 10840,
+            "Python": 1127,
+            "Emacs Lisp": 772,
+            "sed": 164
+        }
+    },
+    {
+        "name": "coq-of-rust",
+        "description": "Check 100% of execution cases of Rust programs \ud83e\udd80 to make applications with no bugs! \u2708\ufe0f \ud83d\ude80 \u2695\ufe0f \ud83c\udfe6 Formal verification",
+        "languages": {
+            "Coq": 20835956,
+            "Rust": 262504,
+            "Python": 10431,
+            "Shell": 643,
+            "Makefile": 585
+        }
+    },
+    {
+        "name": "perennial",
+        "description": "Verifying concurrent crash-safe systems",
+        "languages": {
+            "Coq": 7299946,
+            "Python": 394948,
+            "OCaml": 56206,
+            "Shell": 10988,
+            "Makefile": 5215
+        }
+    },
+    {
+        "name": "koika",
+        "description": "A core language for rule-based hardware design \ud83e\udd91",
+        "languages": {
+            "Coq": 552821,
+            "OCaml": 263364,
+            "C++": 49832,
+            "Makefile": 23486,
+            "Emacs Lisp": 6560,
+            "Python": 6553,
+            "Shell": 4944,
+            "Verilog": 758
+        }
+    },
+    {
+        "name": "coq-ext-lib",
+        "description": "A library of Coq definitions, theorems, and tactics. [maintainers=@gmalecha,@liyishuai] ",
+        "languages": {
+            "Coq": 315661,
+            "Makefile": 950,
+            "Python": 882,
+            "Emacs Lisp": 73,
+            "Shell": 58
+        }
+    },
+    {
+        "name": "ceramist",
+        "description": "Verified hash-based AMQ structures in Coq",
+        "languages": {
+            "Coq": 529647,
+            "Makefile": 378
+        }
+    },
+    {
+        "name": "silveroak",
+        "description": "Formal specification and verification of hardware, especially for security and privacy.",
+        "languages": {
+            "Coq": 2207458,
+            "Makefile": 51725,
+            "Haskell": 44782,
+            "SystemVerilog": 16530,
+            "Shell": 15059,
+            "Tcl": 9246,
+            "Nix": 7126,
+            "VHDL": 7067,
+            "Stata": 3537,
+            "C++": 2360,
+            "OCaml": 928,
+            "Verilog": 730,
+            "C": 67
+        }
+    },
+    {
+        "name": "toychain",
+        "description": "A minimalistic blockchain consensus implemented and verified in Coq",
+        "languages": {
+            "Coq": 235551,
+            "OCaml": 16392,
+            "Shell": 769,
+            "Makefile": 618
+        }
+    },
+    {
+        "name": "TypeTheory",
+        "description": "The mathematical study of type theories, in univalent foundations",
+        "languages": {
+            "Coq": 1426636,
+            "Makefile": 9295,
+            "Emacs Lisp": 255
+        }
+    },
+    {
+        "name": "corn",
+        "description": "Coq Repository at Nijmegen [maintainers=@spitters,@VincentSe]",
+        "languages": {
+            "Coq": 6139082,
+            "Python": 5953,
+            "Haskell": 2622,
+            "Shell": 309,
+            "Makefile": 252
+        }
+    },
+    {
+        "name": "ConCert",
+        "description": "A framework for smart contract verification in Coq",
+        "languages": {
+            "Coq": 828764,
+            "Rust": 36496,
+            "Makefile": 21434,
+            "Dockerfile": 9723,
+            "CSS": 8353,
+            "JavaScript": 7546,
+            "Shell": 2830,
+            "HTML": 2505
+        }
+    },
+    {
+        "name": "FPGA_ThreeLevelStorage",
+        "description": "\u3010\u539f\u521b\uff0c\u5df2\u88ab\u7f16\u5165\u5b98\u65b9\u6559\u6750\u3011Three-level storage subsystem(SD+DDR2 SDRAM+Cache), based on Nexys4 FPGA board. \u540c\u6d4e\u5927\u5b66\u8ba1\u7b97\u673a\u7cfb\u7edf\u7ed3\u6784\u8bfe\u7a0b\u8bbe\u8ba1\uff0cFPGA\u4e09\u7ea7\u5b58\u50a8\u5b50\u7cfb\u7edf\u3002",
+        "languages": {
+            "Coq": 5588300,
+            "VHDL": 5187258,
+            "Verilog": 1329617,
+            "C": 1234307,
+            "SystemVerilog": 334791,
+            "Shell": 196674,
+            "Stata": 51832,
+            "HTML": 48305,
+            "Tcl": 36020,
+            "JavaScript": 25812,
+            "Forth": 21342,
+            "Batchfile": 3353,
+            "Pascal": 343,
+            "PureBasic": 16
+        }
+    },
+    {
+        "name": "PeaCoq",
+        "description": "PeaCoq is a pretty Coq, isn't it?",
+        "languages": {
+            "Coq": 357936,
+            "TypeScript": 339554,
+            "JavaScript": 17504,
+            "HTML": 14971,
+            "Python": 14414,
+            "Shell": 7711,
+            "CSS": 2106,
+            "Nix": 1902,
+            "Makefile": 971,
+            "Standard ML": 798,
+            "C": 548,
+            "Dockerfile": 245
+        }
+    },
+    {
+        "name": "coq-art",
+        "description": "Coq code and exercises from the Coq'Art book [maintainers=@ybertot,@Casteran]",
+        "languages": {
+            "Coq": 583214,
+            "HTML": 157615,
+            "Makefile": 335
+        }
+    },
+    {
+        "name": "mindless-coding",
+        "description": "Mindless, verified (erasably) coding using dependent types",
+        "languages": {
+            "Coq": 180108,
+            "OCaml": 62202,
+            "Makefile": 6529
+        }
+    },
+    {
+        "name": "coq-pipes",
+        "description": null,
+        "languages": {
+            "Coq": 36992,
+            "TeX": 3784,
+            "Makefile": 2189,
+            "Perl": 364
+        }
+    },
+    {
+        "name": "riscv-coq",
+        "description": "RISC-V Specification in Coq",
+        "languages": {
+            "Coq": 557412,
+            "C": 91131,
+            "Python": 84128,
+            "SMT": 33288,
+            "Makefile": 7391,
+            "Shell": 1937
+        }
+    },
+    {
+        "name": "coq-library-undecidability",
+        "description": "A library of mechanised undecidability proofs in the Coq proof assistant.",
+        "languages": {
+            "Coq": 5584106,
+            "JavaScript": 7014,
+            "CSS": 6199,
+            "HTML": 1210,
+            "Makefile": 833,
+            "Standard ML": 502
+        }
+    },
+    {
+        "name": "tokenlibs-with-proofs",
+        "description": "Correctness proofs of Ethereum token contracts",
+        "languages": {
+            "Coq": 1014272,
+            "Makefile": 2435
+        }
+    },
+    {
+        "name": "disel",
+        "description": "Distributed Separation Logic: a framework for compositional verification of distributed protocols and their implementations in Coq",
+        "languages": {
+            "Coq": 585340,
+            "OCaml": 18699,
+            "Shell": 1129,
+            "Makefile": 811
+        }
+    },
+    {
+        "name": "Categories",
+        "description": "A formalization of category theory in the Coq proof assistant.",
+        "languages": {
+            "Coq": 562967,
+            "Shell": 51
+        }
+    },
+    {
+        "name": "formal-type-theory",
+        "description": "Formalising Type Theory in a modular way for translations between type theories",
+        "languages": {
+            "Coq": 413037,
+            "Python": 12599,
+            "TeX": 9091,
+            "Makefile": 1014
+        }
+    },
+    {
+        "name": "falso",
+        "description": "A proof of false in Coq.",
+        "languages": {
+            "Coq": 5162,
+            "Shell": 44
+        }
+    },
+    {
+        "name": "WasmCert-Coq",
+        "description": "A mechanisation of Wasm in Coq",
+        "languages": {
+            "Coq": 940816,
+            "OCaml": 29864,
+            "WebAssembly": 2461,
+            "Shell": 1380,
+            "Perl": 1379,
+            "Vyper": 752,
+            "Makefile": 26
+        }
+    },
+    {
+        "name": "QWIRE",
+        "description": "A quantum circuit language and formal verification tool",
+        "languages": {
+            "Coq": 580593,
+            "Makefile": 1589
+        }
+    },
+    {
+        "name": "ch2o",
+        "description": null,
+        "languages": {
+            "Coq": 1803290,
+            "OCaml": 155416,
+            "C": 49335,
+            "Python": 2644
+        }
+    },
+    {
+        "name": "pluto",
+        "description": "A web server written in Coq.",
+        "languages": {
+            "Coq": 13486,
+            "OCaml": 7058,
+            "Makefile": 85,
+            "Shell": 52
+        }
+    },
+    {
+        "name": "collapsing-towers",
+        "description": "Collapsing Towers of Interpreters",
+        "languages": {
+            "Coq": 216668,
+            "Scala": 140648,
+            "Racket": 11329
+        }
+    },
+    {
+        "name": "dsss17",
+        "description": "Lecture material for DeepSpec Summer School 2017",
+        "languages": {
+            "Coq": 9961907,
+            "HTML": 5813670,
+            "C": 4267351,
+            "OCaml": 1366200,
+            "Assembly": 202065,
+            "Makefile": 114888,
+            "CSS": 90312,
+            "Standard ML": 25963,
+            "JavaScript": 19835,
+            "TeX": 19676,
+            "LLVM": 3860,
+            "Shell": 2149,
+            "Game Maker Language": 1367,
+            "Perl": 365,
+            "Nix": 170
+        }
+    },
+    {
+        "name": "coq-dpdgraph",
+        "description": "Build dependency graphs between Coq objects [maintainers=@Karmaki,@ybertot]",
+        "languages": {
+            "Coq": 50298,
+            "OCaml": 29633,
+            "Makefile": 8622,
+            "M4": 6445,
+            "CSS": 2164,
+            "Batchfile": 813
+        }
+    },
+    {
+        "name": "vericert",
+        "description": "A formally verified high-level synthesis tool based on CompCert and written in Coq.",
+        "languages": {
+            "Coq": 1506695,
+            "OCaml": 222943,
+            "SystemVerilog": 18069,
+            "Tcl": 11064,
+            "Shell": 7116,
+            "Scheme": 6322,
+            "Makefile": 4799,
+            "C": 2460,
+            "Python": 1946,
+            "Nix": 1170,
+            "R": 955,
+            "C++": 866,
+            "Dockerfile": 545,
+            "Standard ML": 424
+        }
+    },
+    {
+        "name": "minidot",
+        "description": "Dependent Object Types (DOT), bottom up",
+        "languages": {
+            "Coq": 15139964,
+            "TeX": 188048,
+            "Scala": 65740,
+            "HTML": 23674,
+            "Makefile": 18257,
+            "Python": 3567,
+            "Shell": 1161,
+            "Awk": 618,
+            "Emacs Lisp": 154
+        }
+    },
+    {
+        "name": "SQIR",
+        "description": "A Small Quantum Intermediate Representation",
+        "languages": {
+            "Coq": 832028,
+            "Makefile": 554
+        }
+    },
+    {
+        "name": "lambda-calculus",
+        "description": "A Formalization of Typed and Untyped \u03bb-Calculi in Coq and Agda2",
+        "languages": {
+            "Coq": 140770,
+            "Agda": 40715,
+            "Makefile": 943
+        }
+    },
+    {
+        "name": "hs-to-coq",
+        "description": "Convert Haskell source code to Coq source code.",
+        "languages": {
+            "Coq": 906025,
+            "Haskell": 603491,
+            "Yacc": 27976,
+            "Ruby": 5098,
+            "Nix": 2147,
+            "Emacs Lisp": 2143,
+            "C": 1463,
+            "Makefile": 1314,
+            "Perl": 897
+        }
+    },
+    {
+        "name": "UPDuino_v2_0",
+        "description": "UPDuino v2.0 - PCB Design Files, Designs, Documentation",
+        "languages": {
+            "Coq": 2590,
+            "Tcl": 896
+        }
+    },
+    {
+        "name": "MPCTT",
+        "description": "Modeling and Proving in Computational Type Theory",
+        "languages": {
+            "Coq": 387507
+        }
+    },
+    {
+        "name": "Schools",
+        "description": null,
+        "languages": {
+            "Coq": 512125,
+            "TeX": 333211,
+            "HTML": 235382,
+            "CSS": 6139,
+            "Makefile": 2214,
+            "Emacs Lisp": 1347
+        }
+    },
+    {
+        "name": "metalib",
+        "description": "The Penn Locally Nameless Metatheory Library",
+        "languages": {
+            "Coq": 671311,
+            "TeX": 19676,
+            "OCaml": 14109,
+            "Makefile": 8070,
+            "Python": 2190,
+            "CSS": 1332
+        }
+    },
+    {
+        "name": "sfja",
+        "description": "SoftwareFoundations(Ja)",
+        "languages": {
+            "Coq": 2041633,
+            "HTML": 59383,
+            "CSS": 7509,
+            "Makefile": 6379
+        }
+    },
+    {
+        "name": "monae",
+        "description": "Monadic effects and equational reasonig in Coq",
+        "languages": {
+            "Coq": 888954,
+            "Makefile": 711
+        }
+    },
+    {
+        "name": "gamepad",
+        "description": "A Learning Environment for Theorem Proving",
+        "languages": {
+            "Coq": 416576,
+            "Python": 409715,
+            "Jupyter Notebook": 22904,
+            "Shell": 1541
+        }
+    },
+    {
+        "name": "htt",
+        "description": "Hoare Type Theory ",
+        "languages": {
+            "Coq": 110604,
+            "Mustache": 3915,
+            "Shell": 1456,
+            "Makefile": 286
+        }
+    },
+    {
+        "name": "coqeal",
+        "description": "The Coq Effective Algebra Library [maintainers=@CohenCyril,@proux01]",
+        "languages": {
+            "Coq": 857997,
+            "Nix": 3816,
+            "Makefile": 335
+        }
+    },
+    {
+        "name": "corespec",
+        "description": "A Specification for Dependent Types in Haskell (Core)",
+        "languages": {
+            "Coq": 2299079,
+            "TeX": 173778,
+            "Makefile": 4151,
+            "Shell": 403
+        }
+    },
+    {
+        "name": "scala-escape",
+        "description": "A compiler plug-in to control object lifetimes in Scala",
+        "languages": {
+            "Coq": 164288,
+            "Scala": 66196,
+            "Makefile": 5235
+        }
+    },
+    {
+        "name": "io",
+        "description": "A library for effects in Coq.",
+        "languages": {
+            "Coq": 35443,
+            "Shell": 44
+        }
+    },
+    {
+        "name": "dot-calculus",
+        "description": "Formalization of the Dependent Object Types (DOT) calculus",
+        "languages": {
+            "Coq": 7238491,
+            "Scala": 65329,
+            "Makefile": 5866,
+            "HTML": 5653,
+            "Shell": 2155,
+            "Emacs Lisp": 129
+        }
+    },
+    {
+        "name": "BRiCk",
+        "description": "Formalization of C++ for verification purposes.",
+        "languages": {
+            "Coq": 2329658,
+            "C++": 323444,
+            "Raku": 34284,
+            "Perl": 33223,
+            "JavaScript": 7639,
+            "CSS": 7180,
+            "Makefile": 6544,
+            "Shell": 3517,
+            "CMake": 2847,
+            "HTML": 1852,
+            "Awk": 1213
+        }
+    },
+    {
+        "name": "infotheo",
+        "description": "A Coq formalization of information theory and linear error-correcting codes",
+        "languages": {
+            "Coq": 2010896,
+            "OCaml": 4041,
+            "Makefile": 880
+        }
+    },
+    {
+        "name": "FormalML",
+        "description": "Formalization of Machine Learning Theory with Applications to Program Synthesis",
+        "languages": {
+            "Coq": 7857818,
+            "OCaml": 7104,
+            "Makefile": 2873,
+            "Dockerfile": 996
+        }
+    },
+    {
+        "name": "hydra-battles",
+        "description": "Variations on Kirby & Paris' hydra battles and other entertaining math in Coq (collaborative, documented, includes  exercises) [maintainer=@Casteran]",
+        "languages": {
+            "Coq": 3391423,
+            "Nix": 8276,
+            "Dockerfile": 2202,
+            "OCaml": 1538,
+            "Makefile": 422
+        }
+    },
+    {
+        "name": "name-the-biggest-number",
+        "description": null,
+        "languages": {
+            "Coq": 89845
+        }
+    },
+    {
+        "name": "Set-Theory",
+        "description": "A formalization of the textbook Elements of Set Theory",
+        "languages": {
+            "Coq": 1582154,
+            "Makefile": 960
+        }
+    },
+    {
+        "name": "coq-in-coq",
+        "description": "A formalisation of the Calculus of Constructions",
+        "languages": {
+            "Coq": 323879,
+            "OCaml": 9399,
+            "Makefile": 969
+        }
+    },
+    {
+        "name": "cdf-mech-sem",
+        "description": "Coq development for the course \"Mechanized semantics\", Coll\u00e8ge de France, 2019-2020",
+        "languages": {
+            "Coq": 286228,
+            "Makefile": 154
+        }
+    },
+    {
+        "name": "bedrock",
+        "description": "Coq library for verified low-level programming",
+        "languages": {
+            "Coq": 4040383,
+            "Makefile": 20745,
+            "C": 17413,
+            "Assembly": 15382,
+            "Verilog": 9079,
+            "OCaml": 7982,
+            "Standard ML": 1972,
+            "Emacs Lisp": 273,
+            "Shell": 267
+        }
+    },
+    {
+        "name": "lvc",
+        "description": "LVC verified compiler",
+        "languages": {
+            "Coq": 2457788,
+            "OCaml": 24311,
+            "HTML": 15012,
+            "Ruby": 11660,
+            "JavaScript": 8767,
+            "CSS": 6869,
+            "Makefile": 6861,
+            "Shell": 1596
+        }
+    },
+    {
+        "name": "qcert",
+        "description": "Compilation and Verification of Data-Centric Languages",
+        "languages": {
+            "Coq": 5878061,
+            "Java": 516588,
+            "OCaml": 424145,
+            "JavaScript": 66706,
+            "Makefile": 58668,
+            "TypeScript": 36904,
+            "Python": 22278,
+            "Scala": 21103,
+            "Emacs Lisp": 2543,
+            "Shell": 1145
+        }
+    },
+    {
+        "name": "velus",
+        "description": "A Lustre compiler in Coq",
+        "languages": {
+            "Coq": 2778092,
+            "OCaml": 102333,
+            "Makefile": 5609,
+            "Shell": 2022
+        }
+    },
+    {
+        "name": "verlang",
+        "description": null,
+        "languages": {
+            "Coq": 50795,
+            "Shell": 1207
+        }
+    },
+    {
+        "name": "general-type-theories",
+        "description": "A (formalised) general definition of type theories",
+        "languages": {
+            "Coq": 495379,
+            "Makefile": 2689,
+            "Emacs Lisp": 320
+        }
+    },
+    {
+        "name": "coq-hardy",
+        "description": "Formalizing the Theorems from Hardy's \"An Introduction to the Theory of Numbers\" in coq",
+        "languages": {
+            "Coq": 17213
+        }
+    },
+    {
+        "name": "nand2coq",
+        "description": "Build an educational formally verified version of the Nand 2 Tetris course using Coq (and other formal tools).",
+        "languages": {
+            "Coq": 63589,
+            "HTML": 26264,
+            "Python": 18739,
+            "Verilog": 13036,
+            "Haskell": 12522,
+            "CSS": 6005,
+            "OCaml": 624,
+            "Hack": 243,
+            "Standard ML": 175,
+            "Assembly": 34
+        }
+    },
+    {
+        "name": "pornview",
+        "description": "Porn browser formally-verified in Coq",
+        "languages": {
+            "Coq": 34685,
+            "Haskell": 6685,
+            "JavaScript": 4210,
+            "Makefile": 589,
+            "HTML": 317,
+            "CSS": 249
+        }
+    },
+    {
+        "name": "FreeSpec",
+        "description": "A framework for implementing and certifying impure computations in Coq",
+        "languages": {
+            "Coq": 98376,
+            "OCaml": 27961,
+            "Shell": 2173,
+            "Standard ML": 327
+        }
+    },
+    {
+        "name": "Mtac2",
+        "description": null,
+        "languages": {
+            "Coq": 673669,
+            "OCaml": 163564,
+            "Shell": 3708,
+            "Makefile": 420
+        }
+    },
+    {
+        "name": "distributed-data-structures",
+        "description": "Distributed Data Structures in Coq",
+        "languages": {
+            "Coq": 15610
+        }
+    },
+    {
+        "name": "ssprove",
+        "description": "A foundational framework for modular cryptographic proofs in Coq",
+        "languages": {
+            "Coq": 1172151,
+            "Shell": 2632,
+            "Nix": 1858,
+            "Makefile": 221
+        }
+    },
+    {
+        "name": "tree-calculus",
+        "description": "Proofs in Coq for the book Reflective Programs in Tree Calculus",
+        "languages": {
+            "Coq": 391468,
+            "Makefile": 79004,
+            "Rust": 12168
+        }
+    },
+    {
+        "name": "pumpkin-pi",
+        "description": "An extension to PUMPKIN PATCH with support for proof repair across type equivalences.",
+        "languages": {
+            "Coq": 499664,
+            "OCaml": 273808,
+            "Shell": 15432,
+            "Makefile": 396,
+            "sed": 188
+        }
+    },
+    {
+        "name": "autosubst",
+        "description": "Automation for de Bruijn syntax and substitution in Coq [maintainers=@RalfJung,@co-dan]",
+        "languages": {
+            "Coq": 53974,
+            "TeX": 34973,
+            "Makefile": 1779
+        }
+    },
+    {
+        "name": "coq-proba",
+        "description": "A Probability Theory Library for the Coq Theorem Prover",
+        "languages": {
+            "Coq": 1801890,
+            "Makefile": 1929
+        }
+    },
+    {
+        "name": "fcf",
+        "description": "Foundational Cryptography Framework for machine-checked proofs of cryptography.  ",
+        "languages": {
+            "Coq": 1377050,
+            "OCaml": 7939,
+            "Makefile": 1116
+        }
+    },
+    {
+        "name": "coq-lecture-notes",
+        "description": "Coq Lecture Notes (WIP)",
+        "languages": {
+            "Coq": 200137,
+            "HTML": 78782,
+            "CSS": 308,
+            "C": 264
+        }
+    },
+    {
+        "name": "rupicola",
+        "description": "Gallina to Bedrock2 compilation toolkit",
+        "languages": {
+            "Coq": 649247,
+            "OCaml": 177711,
+            "C": 33674,
+            "Shell": 12251,
+            "C++": 8349,
+            "Makefile": 4181,
+            "Python": 2805,
+            "Java": 781
+        }
+    },
+    {
+        "name": "poleiro",
+        "description": "A blog about Coq",
+        "languages": {
+            "Coq": 168717,
+            "Haskell": 7621,
+            "SCSS": 6753,
+            "HTML": 3762,
+            "Nix": 2946,
+            "Makefile": 178,
+            "Shell": 82,
+            "Ruby": 64
+        }
+    },
+    {
+        "name": "finmap",
+        "description": "Finite sets, finite maps, multisets and generic sets",
+        "languages": {
+            "Coq": 186516,
+            "Nix": 3741,
+            "Makefile": 2667,
+            "Shell": 1781
+        }
+    },
+    {
+        "name": "safegcd-bounds",
+        "description": "Bounds on divsteps iterations in safegcd",
+        "languages": {
+            "Coq": 169051,
+            "Makefile": 57040,
+            "Python": 30227,
+            "C++": 8246
+        }
+    },
+    {
+        "name": "topology",
+        "description": "General topology in Coq [maintainers=@amiloradovsky,@Columbus240,@stop-cran]",
+        "languages": {
+            "Coq": 556254,
+            "Makefile": 335
+        }
+    },
+    {
+        "name": "coq-sequent-calculus",
+        "description": "Coq formalizations of Sequent Calculus, Natural Deduction, etc. systems for propositional logic",
+        "languages": {
+            "Coq": 71189
+        }
+    },
+    {
+        "name": "paramcoq",
+        "description": "Coq plugin for parametricity [maintainer=@proux01]",
+        "languages": {
+            "Coq": 99880,
+            "OCaml": 88031,
+            "Python": 3547,
+            "Shell": 1663,
+            "Makefile": 1595
+        }
+    },
+    {
+        "name": "evmverif",
+        "description": "An EVM code verification framework in Coq",
+        "languages": {
+            "Coq": 93225,
+            "Isabelle": 11417,
+            "Makefile": 806
+        }
+    },
+    {
+        "name": "iris-simp-lang",
+        "description": "We define a simple programming language, simp_lang, then instantiate Iris to verify simple simp_lang programs with concurrent separation logic.",
+        "languages": {
+            "Coq": 79381,
+            "Makefile": 826
+        }
+    },
+    {
+        "name": "replib",
+        "description": "Replib: generic programming  & Unbound: generic treatment of binders ",
+        "languages": {
+            "Coq": 530475,
+            "Haskell": 404715,
+            "HTML": 13950,
+            "CSS": 7475,
+            "TeX": 6228,
+            "Makefile": 5391
+        }
+    },
+    {
+        "name": "certint",
+        "description": "A Certified Interpreter for ML with Structural Polymorphism",
+        "languages": {
+            "Coq": 764038,
+            "OCaml": 194409,
+            "Shell": 627
+        }
+    },
+    {
+        "name": "NuprlInCoq",
+        "description": "Implementation of Nuprl's type theory in Coq",
+        "languages": {
+            "Coq": 13883037,
+            "OCaml": 249668,
+            "Shell": 4545,
+            "Lean": 958,
+            "Makefile": 201
+        }
+    },
+    {
+        "name": "xmonad",
+        "description": "xmonad in Coq",
+        "languages": {
+            "Coq": 52166,
+            "Haskell": 5601
+        }
+    },
+    {
+        "name": "verified",
+        "description": "Coq formalizations and proofs of (data) structures and algorithms.",
+        "languages": {
+            "Coq": 180670,
+            "Makefile": 7133,
+            "TLA": 3699,
+            "Haskell": 1133,
+            "Python": 471
+        }
+    },
+    {
+        "name": "ptxmemorymodel",
+        "description": null,
+        "languages": {
+            "Coq": 277290,
+            "Java": 55082,
+            "Alloy": 15480,
+            "Makefile": 1147,
+            "Shell": 203
+        }
+    },
+    {
+        "name": "profunctor-monad",
+        "description": "Bidirectional programming in Haskell with monadic profunctors",
+        "languages": {
+            "Coq": 25123,
+            "Haskell": 21318,
+            "Makefile": 102
+        }
+    },
+    {
+        "name": "dry-analyzer",
+        "description": "Dr. Y's Ethereum Contract Analyzer",
+        "languages": {
+            "Coq": 63223,
+            "OCaml": 25272,
+            "Makefile": 848,
+            "Shell": 147
+        }
+    },
+    {
+        "name": "coq-record-update",
+        "description": "Library to create Coq record update functions",
+        "languages": {
+            "Coq": 20207,
+            "Makefile": 1690,
+            "sed": 378
+        }
+    },
+    {
+        "name": "parseque",
+        "description": "Total Parser Combinators in Coq [maintainer=@womeier]",
+        "languages": {
+            "Coq": 28028,
+            "Makefile": 335
+        }
+    },
+    {
+        "name": "dedekind-reals",
+        "description": "A formalization of the Dedekind reals in Coq",
+        "languages": {
+            "Coq": 138804,
+            "Makefile": 335
+        }
+    },
+    {
+        "name": "Baby-Set-Theory",
+        "description": "Coq\u96c6\u5408\u8bba\u4e2d\u6587\u6559\u7a0b",
+        "languages": {
+            "Coq": 239768,
+            "Makefile": 960
+        }
+    },
+    {
+        "name": "coqutil",
+        "description": "Coq library for tactics, basic definitions, sets, maps",
+        "languages": {
+            "Coq": 644863,
+            "Makefile": 2259,
+            "Shell": 1854
+        }
+    },
+    {
+        "name": "relation-algebra",
+        "description": "Relation algebra library for Coq",
+        "languages": {
+            "Coq": 463410,
+            "OCaml": 65285,
+            "HTML": 18618,
+            "Makefile": 1535
+        }
+    },
+    {
+        "name": "cis670-16fa",
+        "description": "Advanced Topics in Programming Languages, Penn CIS 670,  Fall 2016",
+        "languages": {
+            "Coq": 947088,
+            "Haskell": 90770,
+            "HTML": 75799,
+            "TeX": 22049,
+            "Clojure": 8584,
+            "OCaml": 3746
+        }
+    },
+    {
+        "name": "semantics",
+        "description": "A survey of semantics styles in Coq, from natural semantics through structural operational, axiomatic, and denotational semantics, to abstract interpretation [maintainer=@k4rtik]",
+        "languages": {
+            "Coq": 202135,
+            "OCaml": 11370,
+            "Makefile": 226
+        }
+    },
+    {
+        "name": "reglang",
+        "description": "Regular Language Representations in Coq [maintainers=@chdoc,@palmskog]",
+        "languages": {
+            "Coq": 156984,
+            "JavaScript": 7089,
+            "CSS": 6516,
+            "Nix": 5217,
+            "HTML": 4572,
+            "Makefile": 335
+        }
+    },
+    {
+        "name": "paco",
+        "description": "A Coq library for parametric coinduction",
+        "languages": {
+            "Coq": 737099,
+            "Python": 82941,
+            "Shell": 3941,
+            "HTML": 2671,
+            "Makefile": 1023,
+            "CSS": 822
+        }
+    },
+    {
+        "name": "MLCert",
+        "description": "Certified Machine Learning",
+        "languages": {
+            "Coq": 608486,
+            "Python": 107889,
+            "Makefile": 53921,
+            "Haskell": 43182,
+            "Shell": 2026
+        }
+    },
+    {
+        "name": "stoic",
+        "description": "a capability-based system",
+        "languages": {
+            "Coq": 1352989,
+            "Makefile": 3441,
+            "Emacs Lisp": 76
+        }
+    },
+    {
+        "name": "stdlib2",
+        "description": null,
+        "languages": {
+            "Coq": 168744,
+            "Nix": 390,
+            "Shell": 51
+        }
+    },
+    {
+        "name": "ltac2-tutorial",
+        "description": "Ltac2 tutorial",
+        "languages": {
+            "Coq": 18850,
+            "Makefile": 672
+        }
+    },
+    {
+        "name": "proof-demos",
+        "description": "Repository where I'll collect some demos of proof assistants that I show to various people in order to spread the magic",
+        "languages": {
+            "Coq": 32303
+        }
+    },
+    {
+        "name": "howtoproveacompiler",
+        "description": "Writeup that goes along with this: ",
+        "languages": {
+            "Coq": 4238,
+            "Haskell": 1159,
+            "Makefile": 217
+        }
+    },
+    {
+        "name": "proverbot9001",
+        "description": null,
+        "languages": {
+            "Coq": 14225075,
+            "Python": 992458,
+            "TeX": 860459,
+            "OCaml": 571899,
+            "Makefile": 348281,
+            "Rust": 103277,
+            "Haskell": 86176,
+            "Shell": 32095,
+            "HTML": 30906,
+            "JavaScript": 26408,
+            "CSS": 8881,
+            "Roff": 6046,
+            "SCSS": 2657,
+            "Nix": 2034,
+            "Dockerfile": 772,
+            "Perl": 768,
+            "Ruby": 667,
+            "Standard ML": 425,
+            "Emacs Lisp": 73
+        }
+    },
+    {
+        "name": "advent-of-coq-2021",
+        "description": null,
+        "languages": {
+            "Coq": 161839,
+            "Shell": 1022,
+            "sed": 151
+        }
+    },
+    {
+        "name": "coqprime",
+        "description": "Prime numbers for Coq",
+        "languages": {
+            "Coq": 2824870,
+            "C": 876222,
+            "OCaml": 59649,
+            "Makefile": 4810,
+            "M4": 1107
+        }
+    },
+    {
+        "name": "Coda",
+        "description": null,
+        "languages": {
+            "Coq": 9998898,
+            "Makefile": 328811,
+            "OCaml": 187037,
+            "Standard ML": 93406,
+            "Shell": 60113,
+            "Python": 13702,
+            "sed": 581
+        }
+    },
+    {
+        "name": "coq-course",
+        "description": "Coq course at Chalmers CSE",
+        "languages": {
+            "Coq": 143810
+        }
+    },
+    {
+        "name": "opae-xilinx",
+        "description": "OPAE porting to Xilinx FPGA devices.",
+        "languages": {
+            "Coq": 3905676,
+            "Verilog": 3420817,
+            "C": 697049,
+            "Tcl": 620141,
+            "SystemVerilog": 414585,
+            "C++": 93128,
+            "Shell": 15675,
+            "Makefile": 11055,
+            "Python": 2675,
+            "Pascal": 284,
+            "Batchfile": 222
+        }
+    },
+    {
+        "name": "OFDM-baseband",
+        "description": "Verilog\u5b9e\u73b0OFDM\u57fa\u5e26",
+        "languages": {
+            "Coq": 36395644,
+            "Verilog": 14424183,
+            "SystemVerilog": 2713925,
+            "VHDL": 144675,
+            "Stata": 28700,
+            "MATLAB": 18928,
+            "HTML": 8671,
+            "Tcl": 5972
+        }
+    },
+    {
+        "name": "cdf-program-logics",
+        "description": "Companion Coq development for Xavier Leroy's 2021 lectures on program logics",
+        "languages": {
+            "Coq": 167974,
+            "Makefile": 154
+        }
+    },
+    {
+        "name": "fav-ssr",
+        "description": "Functional Algorithms Verified in SSReflect",
+        "languages": {
+            "Coq": 475302,
+            "Makefile": 726,
+            "Nix": 329
+        }
+    },
+    {
+        "name": "contracts",
+        "description": "Symbolic financial contract EDSL",
+        "languages": {
+            "Coq": 198397,
+            "Haskell": 124204,
+            "Standard ML": 85697,
+            "Makefile": 9600
+        }
+    },
+    {
+        "name": "tlc",
+        "description": "Library for Classical Coq ",
+        "languages": {
+            "Coq": 1290278,
+            "Mustache": 4975,
+            "Makefile": 3890,
+            "Shell": 780,
+            "Nix": 574
+        }
+    },
+    {
+        "name": "coq-big-o",
+        "description": "A general yet easy-to-use formalization of Big O, Big Theta, and more based on seminormed vector spaces.",
+        "languages": {
+            "Coq": 35292,
+            "Nix": 1104
+        }
+    },
+    {
+        "name": "Coq-Combi",
+        "description": "Algebraic Combinatorics in Coq",
+        "languages": {
+            "Coq": 1584240,
+            "Makefile": 33203,
+            "OCaml": 12732,
+            "Nix": 8128,
+            "HTML": 771
+        }
+    },
+    {
+        "name": "ROSCoq",
+        "description": "Robots powered by Constructive Reals",
+        "languages": {
+            "Coq": 991072,
+            "Shell": 21963,
+            "Haskell": 21817,
+            "Java": 14919,
+            "Python": 3195,
+            "OCaml": 945,
+            "Makefile": 363
+        }
+    },
+    {
+        "name": "vellvm-legacy",
+        "description": null,
+        "languages": {
+            "Coq": 2031377,
+            "OCaml": 11745,
+            "Shell": 5394,
+            "Emacs Lisp": 1050
+        }
+    },
+    {
+        "name": "coquedille",
+        "description": "A Coq to Cedille compiler written in Coq",
+        "languages": {
+            "Coq": 105842,
+            "Makefile": 26699,
+            "Shell": 9387,
+            "Haskell": 308
+        }
+    },
+    {
+        "name": "reachability",
+        "description": null,
+        "languages": {
+            "Coq": 9291887,
+            "Makefile": 32664
+        }
+    },
+    {
+        "name": "chapar",
+        "description": "A framework for verification of causal consistency for distributed key-value stores and their clients in Coq [maintainer=@palmskog]",
+        "languages": {
+            "Coq": 591097,
+            "OCaml": 30069,
+            "Shell": 6951,
+            "Makefile": 335
+        }
+    },
+    {
+        "name": "topology",
+        "description": "Formal topology (and some probability) in Coq",
+        "languages": {
+            "Coq": 358671,
+            "Haskell": 87667,
+            "Emacs Lisp": 620,
+            "Makefile": 447,
+            "Shell": 267
+        }
+    },
+    {
+        "name": "sniper",
+        "description": null,
+        "languages": {
+            "Coq": 337731,
+            "Prolog": 35976
+        }
+    },
+    {
+        "name": "MPRI-2.4-DTP",
+        "description": "MPRI-2.4 Dependently-typed Functional Programming",
+        "languages": {
+            "Coq": 63031,
+            "TeX": 18680,
+            "Python": 5219,
+            "Makefile": 1637,
+            "Emacs Lisp": 252
+        }
+    },
+    {
+        "name": "color",
+        "description": "Coq library on rewriting theory and termination",
+        "languages": {
+            "Coq": 4791812,
+            "Shell": 5489,
+            "OCaml": 3018,
+            "Makefile": 2479,
+            "Awk": 408
+        }
+    },
+    {
+        "name": "promising-coq",
+        "description": "The Coq development of A Promising Semantics for Relaxed-Memory Concurrency",
+        "languages": {
+            "Coq": 890882,
+            "Makefile": 724,
+            "Shell": 561
+        }
+    },
+    {
+        "name": "CPU54-Pipeline",
+        "description": "CPU based on MIPS with 5-stage pipeline and cache, working with DDR2 memory and SD card.",
+        "languages": {
+            "Coq": 6243670,
+            "VHDL": 5679875,
+            "Verilog": 1475469,
+            "SystemVerilog": 245905,
+            "Tcl": 18645,
+            "Shell": 9884,
+            "Stata": 6290,
+            "Assembly": 5054,
+            "Batchfile": 3254
+        }
+    },
+    {
+        "name": "CPUmodels",
+        "description": "GoNative project: formal machines models in Coq",
+        "languages": {
+            "Coq": 2556047,
+            "OCaml": 199763,
+            "C": 193182,
+            "Objective-C": 154176,
+            "Standard ML": 110012,
+            "Assembly": 36579,
+            "C++": 12076,
+            "Makefile": 6058,
+            "Shell": 5398,
+            "GDB": 3133
+        }
+    },
+    {
+        "name": "bitmips_experiments",
+        "description": "\u5317\u4eac\u7406\u5de5\u5927\u5b66 MIPS \u6307\u4ee4\u96c6 CPU \u8bbe\u8ba1\u7cfb\u5217\u6559\u5b66\u5b9e\u9a8c",
+        "languages": {
+            "Coq": 1914993,
+            "Assembly": 707770,
+            "Verilog": 90553,
+            "C": 42259,
+            "VHDL": 6778,
+            "Makefile": 2451
+        }
+    },
+    {
+        "name": "bytestring-fiat",
+        "description": "An implementation of the Haskell ByteString library using the Fiat system from MIT",
+        "languages": {
+            "Coq": 490398,
+            "Haskell": 41714,
+            "Perl": 2512,
+            "Makefile": 1391,
+            "Nix": 1040,
+            "Shell": 372
+        }
+    },
+    {
+        "name": "system-F",
+        "description": "Formalization of the polymorphic lambda calculus and its parametricity theorem",
+        "languages": {
+            "Coq": 18871
+        }
+    },
+    {
+        "name": "extructures",
+        "description": "Finite sets and maps for Coq with extensional equality",
+        "languages": {
+            "Coq": 135948,
+            "Nix": 1306,
+            "Makefile": 963
+        }
+    },
+    {
+        "name": "calc-comp",
+        "description": "Coq proofs for the paper \"Calculating Correct Compilers\"",
+        "languages": {
+            "Coq": 87026,
+            "Makefile": 32655,
+            "Haskell": 15814
+        }
+    },
+    {
+        "name": "aneris",
+        "description": "Program logic for developing and verifying distributed systems",
+        "languages": {
+            "Coq": 3837645,
+            "OCaml": 223739,
+            "Standard ML": 2301,
+            "Shell": 1737,
+            "Makefile": 1629
+        }
+    },
+    {
+        "name": "verified-scheduling",
+        "description": null,
+        "languages": {
+            "Coq": 2118787,
+            "Makefile": 30189,
+            "Shell": 2331
+        }
+    },
+    {
+        "name": "algebra-tactics",
+        "description": "Ring, field, lra, nra, and psatz tactics for Mathematical Components",
+        "languages": {
+            "Coq": 95430,
+            "Prolog": 73807,
+            "Nix": 3795,
+            "Makefile": 2007
+        }
+    },
+    {
+        "name": "broad-coq-tutorial",
+        "description": "Some unstructured notes concerning the Broad tutorial to take place in March 2020",
+        "languages": {
+            "Coq": 34961
+        }
+    },
+    {
+        "name": "graph-theory",
+        "description": "Graph Theory [maintainers=@chdoc,@damien-pous]",
+        "languages": {
+            "Coq": 1112394,
+            "Makefile": 335
+        }
+    },
+    {
+        "name": "hahn",
+        "description": "Hahn: A Coq library",
+        "languages": {
+            "Coq": 456364,
+            "Makefile": 258
+        }
+    },
+    {
+        "name": "tezoscoq",
+        "description": "working with coq and tezos",
+        "languages": {
+            "Coq": 12475
+        }
+    },
+    {
+        "name": "goedel",
+        "description": "Archived since the contents have been moved to the Hydras & Co. repository",
+        "languages": {
+            "Coq": 507061,
+            "Makefile": 335
+        }
+    },
+    {
+        "name": "functional-algebra",
+        "description": "This package provides a Coq formalization of abstract algebra using a functional programming style. The modules contained within the package span monoids, groups, rings, and fields and provides both axiom definitions for these structures and proofs of foundational results. The current package contains over 800 definitions and proofs.  ",
+        "languages": {
+            "Coq": 209022,
+            "Makefile": 26270,
+            "Roff": 6046
+        }
+    },
+    {
+        "name": "free-proving",
+        "description": "Resources for \"One Monad to Prove Them All\"",
+        "languages": {
+            "Coq": 110133,
+            "TeX": 60818,
+            "Shell": 115
+        }
+    },
+    {
+        "name": "coq-simple-io",
+        "description": "IO for Gallina",
+        "languages": {
+            "Coq": 79585,
+            "OCaml": 14239,
+            "Makefile": 1960
+        }
+    },
+    {
+        "name": "Abel",
+        "description": "A proof of Abel-Ruffini theorem.",
+        "languages": {
+            "Coq": 201439,
+            "Nix": 3728,
+            "Makefile": 943
+        }
+    },
+    {
+        "name": "software_foundations",
+        "description": "My solutions to Software Foundations course in Coq proof assistant.",
+        "languages": {
+            "Coq": 853186,
+            "Makefile": 5162,
+            "OCaml": 996
+        }
+    },
+    {
+        "name": "bbv",
+        "description": "Bedrock Bit Vector Library",
+        "languages": {
+            "Coq": 247795,
+            "Shell": 631,
+            "Makefile": 497
+        }
+    },
+    {
+        "name": "coq-waterproof",
+        "description": null,
+        "languages": {
+            "Coq": 469001,
+            "OCaml": 106339,
+            "Python": 1517,
+            "M4": 1269,
+            "Makefile": 995
+        }
+    },
+    {
+        "name": "dblib",
+        "description": "Coq library for working with de Bruijn indices [maintainer=@KevOrr]",
+        "languages": {
+            "Coq": 138767,
+            "Makefile": 7961,
+            "Shell": 1155
+        }
+    },
+    {
+        "name": "Brainfuck",
+        "description": "Brainfuck formalized in Coq",
+        "languages": {
+            "Coq": 37471
+        }
+    },
+    {
+        "name": "lemma-overloading",
+        "description": "Libraries demonstrating design patterns for programming and proving with canonical structures in Coq [maintainer=@anton-trunov]",
+        "languages": {
+            "Coq": 319260,
+            "JavaScript": 7403,
+            "CSS": 6548,
+            "HTML": 5145,
+            "Nix": 608,
+            "Makefile": 335
+        }
+    },
+    {
+        "name": "coq-compile",
+        "description": "A compiler for Coq",
+        "languages": {
+            "Coq": 384675,
+            "C": 13890,
+            "OCaml": 8799,
+            "Python": 2778,
+            "Objective-C": 136
+        }
+    },
+    {
+        "name": "coq-program-verification-template",
+        "description": "Template project for program verification in Coq, showcasing reasoning on CompCert's Clight language using the Verified Software Toolchain [maintainer=@palmskog]",
+        "languages": {
+            "Coq": 36799,
+            "C": 436,
+            "Makefile": 335
+        }
+    },
+    {
+        "name": "certicrypt",
+        "description": "CertiCrypt Coq Framework",
+        "languages": {
+            "Coq": 2233520,
+            "Makefile": 22378
+        }
     }
 ]

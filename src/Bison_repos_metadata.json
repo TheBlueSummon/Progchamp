@@ -46,5 +46,1659 @@
             "Logos": 10396,
             "Fortran": 285
         }
+    },
+    {
+        "name": "happy-example",
+        "description": "A very simple example of how to use Alex and Happy to build a language processor in Haskell.",
+        "languages": {
+            "Bison": 1110,
+            "Logos": 1082,
+            "Haskell": 793,
+            "Makefile": 204
+        }
+    },
+    {
+        "name": "os-shell",
+        "description": "A Linux shell written in LEX/YACC",
+        "languages": {
+            "Bison": 23844,
+            "C": 794,
+            "C++": 439,
+            "Makefile": 209
+        }
+    },
+    {
+        "name": "flex-bison",
+        "description": "flex & bison book's example files",
+        "languages": {
+            "Bison": 86309,
+            "C": 30511,
+            "Perl": 1443,
+            "Shell": 1173,
+            "C++": 572
+        }
+    },
+    {
+        "name": "Parser",
+        "description": "kmyacc based parser in PHP",
+        "languages": {
+            "Bison": 193146,
+            "PHP": 117341,
+            "Shell": 5081
+        }
+    },
+    {
+        "name": "Calculator",
+        "description": "Lex/Yacc Calculator",
+        "languages": {
+            "Bison": 3870,
+            "Makefile": 970,
+            "C": 237
+        }
+    },
+    {
+        "name": "Compilador-C88",
+        "description": "Language C to Intel 8088.",
+        "languages": {
+            "Bison": 21214,
+            "C": 7506,
+            "Shell": 150
+        }
+    },
+    {
+        "name": "rulelib",
+        "description": "Library and test program for playing with bayesian rule sets.",
+        "languages": {
+            "Bison": 189288,
+            "Python": 28856,
+            "C": 24726,
+            "Makefile": 413
+        }
+    },
+    {
+        "name": "logcut",
+        "description": "Cut the log file by time quickly by binary search",
+        "languages": {
+            "Bison": 21851,
+            "C": 8579,
+            "Makefile": 382
+        }
+    },
+    {
+        "name": "Compiler-Design",
+        "description": "a C language like compiler using the tools Flex & Bison",
+        "languages": {
+            "Bison": 5129,
+            "Makefile": 242,
+            "C": 62
+        }
+    },
+    {
+        "name": "Prim",
+        "description": "The Prim programming language, based on the set of Primitive Recursive functions",
+        "languages": {
+            "Bison": 6122,
+            "C": 1196,
+            "Makefile": 1180
+        }
+    },
+    {
+        "name": "systemverilog_vhdl_tools_collection",
+        "description": null,
+        "languages": {
+            "Bison": 2947
+        }
+    },
+    {
+        "name": "complex-number-calculator-flex-bison",
+        "description": "HKUST COMP3031 Principles of Programming Languages (2013 Fall) Assignment 2",
+        "languages": {
+            "Bison": 3598,
+            "C": 182,
+            "Shell": 146
+        }
+    },
+    {
+        "name": "SmallCompiler",
+        "description": ":pager: Small Top-Down Compiler written in C",
+        "languages": {
+            "Bison": 57028,
+            "C++": 15526,
+            "C": 121
+        }
+    },
+    {
+        "name": "Calculadora-Bison-Flex",
+        "description": "Proyecto Primer Departamental de Compiladores",
+        "languages": {
+            "Bison": 4204
+        }
+    },
+    {
+        "name": "calculatorWithVariables",
+        "description": "Calculator with Variables",
+        "languages": {
+            "Bison": 1038
+        }
+    },
+    {
+        "name": "dolan",
+        "description": "Design a new Toy Programming Language",
+        "languages": {
+            "Bison": 1006
+        }
+    },
+    {
+        "name": "Semantic3",
+        "description": "Ejemplo Verificaci\u00f3n de Tipos",
+        "languages": {
+            "Bison": 3625,
+            "C": 992,
+            "Makefile": 185
+        }
+    },
+    {
+        "name": "c--",
+        "description": "Analizador l\u00e9xico y sint\u00e1ctico del lenguaje de programaci\u00f3n C--",
+        "languages": {
+            "Bison": 25269,
+            "Shell": 147
+        }
+    },
+    {
+        "name": "piano",
+        "description": "An easy music score translator",
+        "languages": {
+            "Bison": 9632,
+            "Makefile": 628
+        }
+    },
+    {
+        "name": "test-go-yacc",
+        "description": "Golang Yacc Experiments",
+        "languages": {
+            "Bison": 3761,
+            "Go": 1757,
+            "Ragel in Ruby Host": 1560,
+            "Shell": 343
+        }
+    },
+    {
+        "name": "mini-l",
+        "description": "The \"full\" compiler for the mini-l language",
+        "languages": {
+            "Bison": 33753,
+            "C": 3265,
+            "Makefile": 419,
+            "Shell": 278
+        }
+    },
+    {
+        "name": "aw",
+        "description": "The littlest interpreter for the littlest language",
+        "languages": {
+            "Bison": 1423,
+            "Haskell": 886,
+            "Makefile": 46
+        }
+    },
+    {
+        "name": "Epsilon-Delta-Checker",
+        "description": null,
+        "languages": {
+            "Bison": 1785,
+            "Makefile": 930,
+            "C": 62
+        }
+    },
+    {
+        "name": "http-rfc2616-request-message-parser",
+        "description": "Parser with flex and bison for a subset of http(rfc2616) request message",
+        "languages": {
+            "Bison": 3870,
+            "Perl": 1512,
+            "PHP": 176
+        }
+    },
+    {
+        "name": "sunday-lang",
+        "description": "The language for foggy sundays (project for the course Formal Languages and Compilers)",
+        "languages": {
+            "Bison": 22518,
+            "C": 9297,
+            "Makefile": 781,
+            "Assembly": 577
+        }
+    },
+    {
+        "name": "CLOG_Projet",
+        "description": "Projet de compilation du langage CLOG avec les outils FLEX et BISON",
+        "languages": {
+            "Bison": 6445,
+            "Shell": 162
+        }
+    },
+    {
+        "name": "relayd-updateconf",
+        "description": "a utility to convert old relayd.conf(5) files (before OpenBSD 5.6) to the newer relayd(8) grammar.",
+        "languages": {
+            "Bison": 69081,
+            "C": 39316,
+            "Makefile": 786
+        }
+    },
+    {
+        "name": "01076262",
+        "description": "Compiler construction",
+        "languages": {
+            "Bison": 79279,
+            "JFlex": 8352,
+            "Assembly": 6205,
+            "Makefile": 256
+        }
+    },
+    {
+        "name": "speccy-basic-parser",
+        "description": "ZX Spectrum Basic Parser",
+        "languages": {
+            "Bison": 871,
+            "Makefile": 106
+        }
+    },
+    {
+        "name": "SQL-parser",
+        "description": null,
+        "languages": {
+            "Bison": 2337
+        }
+    },
+    {
+        "name": "pl0-to-scheme",
+        "description": "Translate from PL/0 to Scheme (Example of Lex and Yacc)",
+        "languages": {
+            "Bison": 9005,
+            "Makefile": 537,
+            "C": 290
+        }
+    },
+    {
+        "name": "ADA-compiler",
+        "description": "A compiler for Ada built in C using lex and yacc ",
+        "languages": {
+            "Bison": 64323,
+            "C": 19020,
+            "C++": 1145
+        }
+    },
+    {
+        "name": "CompiladorGOT",
+        "description": "Trabalho de Compiladores. Linguagem baseada em Game Of Thrones.",
+        "languages": {
+            "Bison": 61374,
+            "C++": 3381,
+            "Makefile": 893
+        }
+    },
+    {
+        "name": "adacompiler",
+        "description": "Compiler for a subset of Ada.",
+        "languages": {
+            "Bison": 30546,
+            "C": 6877
+        }
+    },
+    {
+        "name": "GHouan",
+        "description": null,
+        "languages": {
+            "Bison": 13763,
+            "C++": 1071,
+            "Makefile": 418
+        }
+    },
+    {
+        "name": "cFlatCompiler",
+        "description": "boring school stuff :(",
+        "languages": {
+            "Bison": 15016,
+            "Assembly": 6376,
+            "C": 6211,
+            "JavaScript": 3310,
+            "Makefile": 2443
+        }
+    },
+    {
+        "name": "wsm-tools",
+        "description": "WS-Mizar tools",
+        "languages": {
+            "Bison": 24279,
+            "C++": 7040,
+            "Makefile": 688,
+            "Shell": 264
+        }
+    },
+    {
+        "name": "lua-checker",
+        "description": "Automatically exported from code.google.com/p/lua-checker",
+        "languages": {
+            "Bison": 39179,
+            "C++": 9100,
+            "C": 1978,
+            "Lua": 1720,
+            "Shell": 1184,
+            "Makefile": 878
+        }
+    },
+    {
+        "name": "mhm",
+        "description": "Ma Ho Moltafame",
+        "languages": {
+            "Bison": 12506,
+            "Java": 3534
+        }
+    },
+    {
+        "name": "ezmath",
+        "description": "Automatically exported from code.google.com/p/ezmath",
+        "languages": {
+            "Bison": 7313,
+            "PHP": 2395,
+            "Makefile": 424
+        }
+    },
+    {
+        "name": "ZP6502ASM",
+        "description": "A humble 6502 assembler",
+        "languages": {
+            "Bison": 15570,
+            "C": 923,
+            "CMake": 632
+        }
+    },
+    {
+        "name": "compilerBOA",
+        "description": "Compilador",
+        "languages": {
+            "Bison": 41287,
+            "C": 2462,
+            "Shell": 306
+        }
+    },
+    {
+        "name": "0calc",
+        "description": "simplest yacc&lex sample",
+        "languages": {
+            "Bison": 1376,
+            "Shell": 106
+        }
+    },
+    {
+        "name": "hoc1",
+        "description": "Simple calc on top of luajit vm",
+        "languages": {
+            "Bison": 6216,
+            "Makefile": 148
+        }
+    },
+    {
+        "name": "my_toy_cx_compiler",
+        "description": "A simple C like compiler, using Lex & Yacc",
+        "languages": {
+            "Bison": 14846,
+            "C": 10730,
+            "Makefile": 483
+        }
+    },
+    {
+        "name": "mips-as",
+        "description": "a MIPS subset assembler",
+        "languages": {
+            "Bison": 7220,
+            "Assembly": 5040,
+            "Makefile": 338
+        }
+    },
+    {
+        "name": "Compiler-Principles-Project-2",
+        "description": "SJTU Compiler Principles Project 2, Fall 2013",
+        "languages": {
+            "Bison": 129323,
+            "Makefile": 632
+        }
+    },
+    {
+        "name": "CECS-444",
+        "description": "Final project for a compiler course utilizing Flex and Bison to create our own programming language",
+        "languages": {
+            "Bison": 12496,
+            "C": 302
+        }
+    },
+    {
+        "name": "jampile",
+        "description": "flex + bison = calculator",
+        "languages": {
+            "Bison": 1840,
+            "Makefile": 199
+        }
+    },
+    {
+        "name": "Compiler",
+        "description": null,
+        "languages": {
+            "Bison": 6479,
+            "Makefile": 81
+        }
+    },
+    {
+        "name": "gocalc",
+        "description": "A simple command-line arithmetic evaluator written in Go.",
+        "languages": {
+            "Bison": 2977,
+            "Go": 106,
+            "Makefile": 64
+        }
+    },
+    {
+        "name": "calc",
+        "description": null,
+        "languages": {
+            "Bison": 1079,
+            "Makefile": 174
+        }
+    },
+    {
+        "name": "tinyc",
+        "description": "a tiny c compiler based on lex and yacc, target is linux AT&T assemble . surly, it will be writte in c.",
+        "languages": {
+            "Bison": 5257,
+            "Makefile": 999,
+            "C": 745
+        }
+    },
+    {
+        "name": "tinyc",
+        "description": null,
+        "languages": {
+            "Bison": 28306,
+            "C": 26891,
+            "C++": 23622,
+            "Makefile": 1451
+        }
+    },
+    {
+        "name": "sem",
+        "description": null,
+        "languages": {
+            "Bison": 2679,
+            "C": 1759,
+            "Makefile": 155
+        }
+    },
+    {
+        "name": "compiler-construction",
+        "description": null,
+        "languages": {
+            "Bison": 3037,
+            "Makefile": 1547
+        }
+    },
+    {
+        "name": "MC911",
+        "description": "Projetos de MC911",
+        "languages": {
+            "Bison": 8762,
+            "TeX": 7610,
+            "Makefile": 562
+        }
+    },
+    {
+        "name": "Json-parser",
+        "description": "My first yacc/flex program",
+        "languages": {
+            "Bison": 1124,
+            "Makefile": 308
+        }
+    },
+    {
+        "name": "awsdep",
+        "description": "AWS Deploy",
+        "languages": {
+            "Bison": 59
+        }
+    },
+    {
+        "name": "unyacc",
+        "description": "A filter that makes yacc and racc parser rules diffable by removing whitespace and code",
+        "languages": {
+            "Bison": 315858,
+            "Ruby": 25294,
+            "Ragel in Ruby Host": 3655
+        }
+    },
+    {
+        "name": "silc-kurian",
+        "description": "Compiler Laboratory",
+        "languages": {
+            "Bison": 2801,
+            "C": 1864
+        }
+    },
+    {
+        "name": "cool",
+        "description": null,
+        "languages": {
+            "Bison": 10836
+        }
+    },
+    {
+        "name": "My-Compiler",
+        "description": "Design of my compiler in 3rd year 2nd semester.",
+        "languages": {
+            "Bison": 4222,
+            "Makefile": 127
+        }
+    },
+    {
+        "name": "Mini-C-Compiler",
+        "description": "A compiler for a personalized version of C language in LEX/YACC. The project explores compiler design basics like lexical, syntactical, semantic analysis and code generation.",
+        "languages": {
+            "Bison": 14683
+        }
+    },
+    {
+        "name": "lua-checker",
+        "description": "Automatically exported from code.google.com/p/lua-checker",
+        "languages": {
+            "Bison": 39179,
+            "C++": 9100,
+            "C": 1978,
+            "Lua": 1720,
+            "Shell": 1184,
+            "Makefile": 878
+        }
+    },
+    {
+        "name": "npl-parser",
+        "description": "Compilers project using Flex Bison",
+        "languages": {
+            "Bison": 10891,
+            "C": 10222,
+            "CSS": 2170,
+            "Makefile": 322
+        }
+    },
+    {
+        "name": "Expression-Evaluator",
+        "description": "Compiler Assignment #3",
+        "languages": {
+            "Bison": 3662
+        }
+    },
+    {
+        "name": "compilador-ufcg-20112",
+        "description": "Automatically exported from code.google.com/p/compilador-ufcg-20112",
+        "languages": {
+            "Bison": 57286,
+            "C": 55538,
+            "Java": 14904,
+            "Makefile": 1410,
+            "JavaScript": 201
+        }
+    },
+    {
+        "name": "calculator",
+        "description": "Calculadora implementada con GNU Flex y GNU Bison",
+        "languages": {
+            "Bison": 3096,
+            "C": 2769
+        }
+    },
+    {
+        "name": "bison-parsingjson",
+        "description": "simplest parsing json format using flex + bison",
+        "languages": {
+            "Bison": 630,
+            "Makefile": 311
+        }
+    },
+    {
+        "name": "dailyprogrammer-212-easy",
+        "description": null,
+        "languages": {
+            "Bison": 459
+        }
+    },
+    {
+        "name": "sibil",
+        "description": "Automatically exported from code.google.com/p/sibil",
+        "languages": {
+            "Bison": 5662,
+            "C": 2057,
+            "Makefile": 360
+        }
+    },
+    {
+        "name": "C0-Grammar-Scanner",
+        "description": "Simple C0 Grammar-Scanner built for compiler class, it's based on Flex/Bison",
+        "languages": {
+            "Bison": 6172,
+            "C": 656,
+            "Makefile": 338
+        }
+    },
+    {
+        "name": "bcal",
+        "description": "calc for bit operation",
+        "languages": {
+            "Bison": 6411,
+            "Makefile": 429
+        }
+    },
+    {
+        "name": "YaccMathExpr",
+        "description": "A yacc/bison sandbox for studying problems that arise when trying to write a parser for simple math expressions.",
+        "languages": {
+            "Bison": 1822,
+            "C++": 1037,
+            "Makefile": 400
+        }
+    },
+    {
+        "name": "ppc",
+        "description": "++C and GCZ transpiler: Precompilation additions to the C Programming Language",
+        "languages": {
+            "Bison": 37771,
+            "C": 5479,
+            "Makefile": 551
+        }
+    },
+    {
+        "name": "lua-checker",
+        "description": "Automatically exported from code.google.com/p/lua-checker",
+        "languages": {
+            "Bison": 39179,
+            "C++": 9100,
+            "C": 1978,
+            "Lua": 1720,
+            "Shell": 1184,
+            "Makefile": 878
+        }
+    },
+    {
+        "name": "Compiler-flex-and-bison",
+        "description": null,
+        "languages": {
+            "Bison": 4516,
+            "Forth": 2724
+        }
+    },
+    {
+        "name": "CompilerDesignAssignment",
+        "description": "To Store the details of Identifier in Symbol Table",
+        "languages": {
+            "Bison": 1880
+        }
+    },
+    {
+        "name": "cryptolab",
+        "description": "Automatically exported from code.google.com/p/cryptolab",
+        "languages": {
+            "Bison": 8127,
+            "C": 6324,
+            "C++": 5191,
+            "Makefile": 1245
+        }
+    },
+    {
+        "name": "flextest",
+        "description": null,
+        "languages": {
+            "Bison": 771,
+            "Makefile": 229,
+            "C++": 173
+        }
+    },
+    {
+        "name": "MenosC",
+        "description": "A compiler for MenosC, a small subset of C language.",
+        "languages": {
+            "Bison": 37145,
+            "C": 20053,
+            "Makefile": 3794,
+            "JavaScript": 825
+        }
+    },
+    {
+        "name": "Projet-Theorie-des-langages",
+        "description": null,
+        "languages": {
+            "Bison": 1690
+        }
+    },
+    {
+        "name": "Compilers_LabFinal",
+        "description": null,
+        "languages": {
+            "Bison": 1243,
+            "C++": 1052,
+            "C": 756,
+            "Makefile": 596
+        }
+    },
+    {
+        "name": "The-prototype-C-compiler",
+        "description": " C-ompiler and assembler for SIC architecture",
+        "languages": {
+            "Bison": 53680,
+            "C++": 10556
+        }
+    },
+    {
+        "name": "compiler",
+        "description": "\u30b3\u30f3\u30d1\u30a4\u30e9\u306e\u304a\u52c9\u5f37",
+        "languages": {
+            "Bison": 2682
+        }
+    },
+    {
+        "name": "deepy",
+        "description": null,
+        "languages": {
+            "Bison": 419,
+            "Shell": 129
+        }
+    },
+    {
+        "name": "flex_bison",
+        "description": "Examples of flex and bison",
+        "languages": {
+            "Bison": 596,
+            "Makefile": 236
+        }
+    },
+    {
+        "name": "compiler_hw2",
+        "description": null,
+        "languages": {
+            "Bison": 2280,
+            "C": 331,
+            "Shell": 127
+        }
+    },
+    {
+        "name": "tipcalc",
+        "description": "A lunchtime exercise in lexing and parsing, to calculate tips for lunch.",
+        "languages": {
+            "Bison": 1262,
+            "Makefile": 234
+        }
+    },
+    {
+        "name": "mc911-p1",
+        "description": null,
+        "languages": {
+            "Bison": 3604,
+            "Makefile": 280
+        }
+    },
+    {
+        "name": "CS152Project",
+        "description": null,
+        "languages": {
+            "Bison": 22912,
+            "Shell": 1200,
+            "Makefile": 1074
+        }
+    },
+    {
+        "name": "My-First-Compiler",
+        "description": null,
+        "languages": {
+            "Bison": 3335,
+            "C": 444
+        }
+    },
+    {
+        "name": "mycompiler",
+        "description": "\u81ea\u5df1\u5b9e\u73b0\u4e00\u4e2a\u6808\u5f0f\u7684\u7c7bC\u7f16\u8bd1\u5668\uff0c\u65e0\u6307\u9488\u7c7b\u578b",
+        "languages": {
+            "Bison": 6555,
+            "Shell": 1770,
+            "C++": 344,
+            "Makefile": 314,
+            "C": 129
+        }
+    },
+    {
+        "name": "easycompiler",
+        "description": "my compiler course's homework",
+        "languages": {
+            "Bison": 58122,
+            "C": 271
+        }
+    },
+    {
+        "name": "CB14",
+        "description": "\u00dcbersetzerbau TU Wien SS2014",
+        "languages": {
+            "Bison": 26159,
+            "C": 19516,
+            "Makefile": 1026
+        }
+    },
+    {
+        "name": "ec",
+        "description": "C code generator to numerically solve ordinary differential equations",
+        "languages": {
+            "Bison": 3560,
+            "Makefile": 109
+        }
+    },
+    {
+        "name": "ECE466-Compilers",
+        "description": "Cooper Union:Spring 2015:Professor Jeff Hakner",
+        "languages": {
+            "Bison": 53623
+        }
+    },
+    {
+        "name": "alpaca-js",
+        "description": null,
+        "languages": {
+            "Bison": 2688
+        }
+    },
+    {
+        "name": "Compilador_JavaFloripa",
+        "description": "Compilador JAVA desenvolvido em bison, Flex e GCC",
+        "languages": {
+            "Bison": 2686,
+            "C": 2234,
+            "Makefile": 114
+        }
+    },
+    {
+        "name": "study_compiler",
+        "description": "Compilador feito atrav\u00e9s do uso do LEX e do YACC para estudo e compreens\u00e3o de compila\u00e7\u00e3o de uma linguagem criada.",
+        "languages": {
+            "Bison": 38247,
+            "C++": 4142,
+            "Makefile": 248
+        }
+    },
+    {
+        "name": "mc911-p1",
+        "description": "A simple LaTeX to HTML parser.",
+        "languages": {
+            "Bison": 6590,
+            "Makefile": 282
+        }
+    },
+    {
+        "name": "compiler-",
+        "description": null,
+        "languages": {
+            "Bison": 18144,
+            "Makefile": 182
+        }
+    },
+    {
+        "name": "NaturalLangaugeCalculator",
+        "description": "Initial Commit",
+        "languages": {
+            "Bison": 2359,
+            "C++": 455,
+            "Makefile": 341
+        }
+    },
+    {
+        "name": "type_checker",
+        "description": null,
+        "languages": {
+            "Bison": 8657,
+            "C": 1941,
+            "Makefile": 315
+        }
+    },
+    {
+        "name": "org_dev",
+        "description": null,
+        "languages": {
+            "Bison": 12180,
+            "C": 6102,
+            "Perl": 1628,
+            "Makefile": 460
+        }
+    },
+    {
+        "name": "lua-checker",
+        "description": "Automatically exported from code.google.com/p/lua-checker",
+        "languages": {
+            "Bison": 39179,
+            "C++": 9100,
+            "C": 1978,
+            "Lua": 1720,
+            "Shell": 1184,
+            "Makefile": 878
+        }
+    },
+    {
+        "name": "lua-checker",
+        "description": "Automatically exported from code.google.com/p/lua-checker",
+        "languages": {
+            "Bison": 39179,
+            "C++": 9100,
+            "C": 1978,
+            "Lua": 1720,
+            "Shell": 1184,
+            "Makefile": 878
+        }
+    },
+    {
+        "name": "bike",
+        "description": "http://www.kaggle.com/c/bike-sharing-demand/",
+        "languages": {
+            "Bison": 152657,
+            "Python": 25163
+        }
+    },
+    {
+        "name": "Compilation",
+        "description": null,
+        "languages": {
+            "Bison": 6236,
+            "C": 2717
+        }
+    },
+    {
+        "name": "compilers_test",
+        "description": "Repository for compilers test",
+        "languages": {
+            "Bison": 16785,
+            "C++": 16711,
+            "Makefile": 3498,
+            "C": 409
+        }
+    },
+    {
+        "name": "reconstructing-ruby",
+        "description": "Ruby implementation for the blog post series http://www.halogenandtoast.com/reconstructing-ruby-an-introduction/",
+        "languages": {
+            "Bison": 1464,
+            "C": 547,
+            "Makefile": 358
+        }
+    },
+    {
+        "name": "bisonTest",
+        "description": null,
+        "languages": {
+            "Bison": 2968,
+            "Makefile": 163
+        }
+    },
+    {
+        "name": "University_Innsbruck-Compiler_Construction-Homework_6",
+        "description": "Abstract Syntax Tree (AST)",
+        "languages": {
+            "Bison": 8182,
+            "C": 4842,
+            "Pascal": 1439,
+            "C++": 942,
+            "Makefile": 274
+        }
+    },
+    {
+        "name": "CS-152-MiniL",
+        "description": null,
+        "languages": {
+            "Bison": 22696,
+            "Makefile": 1123
+        }
+    },
+    {
+        "name": "Scheduler-flex_bison",
+        "description": "A Class to TA scheduling program using flex and bison",
+        "languages": {
+            "Bison": 1335,
+            "C": 109,
+            "Shell": 97
+        }
+    },
+    {
+        "name": "legere",
+        "description": null,
+        "languages": {
+            "Bison": 9267,
+            "C": 499,
+            "Makefile": 375
+        }
+    },
+    {
+        "name": "Compiler",
+        "description": "Custom Compilers",
+        "languages": {
+            "Bison": 12671
+        }
+    },
+    {
+        "name": "Compiler-Design-and-Construction",
+        "description": null,
+        "languages": {
+            "Bison": 2850,
+            "C": 1068
+        }
+    },
+    {
+        "name": "Lex-Yacc-Parser",
+        "description": null,
+        "languages": {
+            "Bison": 2834
+        }
+    },
+    {
+        "name": "concurrent-yacc-parser",
+        "description": "A concurrent yacc parser for parsing input file and performing calculations as mentioned in the input file.",
+        "languages": {
+            "Bison": 1193
+        }
+    },
+    {
+        "name": "std-flt-converter",
+        "description": null,
+        "languages": {
+            "Bison": 1693,
+            "Shell": 83
+        }
+    },
+    {
+        "name": "GEI-PL",
+        "description": "[GEI]PDF Text Extractor based on Bison and Flex",
+        "languages": {
+            "Bison": 2944,
+            "C": 1205,
+            "Makefile": 507
+        }
+    },
+    {
+        "name": "Phase3_CS152",
+        "description": null,
+        "languages": {
+            "Bison": 7287,
+            "C++": 1077,
+            "Makefile": 555
+        }
+    },
+    {
+        "name": "myc",
+        "description": "my c study",
+        "languages": {
+            "Bison": 8267,
+            "C": 4501,
+            "Shell": 193
+        }
+    },
+    {
+        "name": "LAG-Compiler-I",
+        "description": "Final project for Compilers @UFRJ/2014.2",
+        "languages": {
+            "Bison": 42572,
+            "C++": 11391,
+            "Makefile": 455
+        }
+    },
+    {
+        "name": "University_Innsbruck-Compiler_Construction-Homework_8",
+        "description": "Semantic analysis",
+        "languages": {
+            "Bison": 22044,
+            "C": 9913,
+            "Pascal": 2041,
+            "C++": 909,
+            "Makefile": 350
+        }
+    },
+    {
+        "name": "ma-kss-exercises",
+        "description": "Komplexe Softwaresysteme 2 im Master MMT im Sommersemester 2015",
+        "languages": {
+            "Bison": 829440,
+            "C++": 13699,
+            "OpenEdge ABL": 801,
+            "Perl": 692,
+            "Makefile": 489,
+            "C": 382,
+            "JavaScript": 265
+        }
+    },
+    {
+        "name": "yac-facebook-test",
+        "description": null,
+        "languages": {
+            "Bison": 1058,
+            "CMake": 593,
+            "C++": 414
+        }
+    },
+    {
+        "name": "Json_Converter_ICO",
+        "description": "Automatically exported from code.google.com/p/ico-json-lucas-guillaume",
+        "languages": {
+            "Bison": 3309,
+            "C": 2142,
+            "Makefile": 179
+        }
+    },
+    {
+        "name": "json-parser",
+        "description": null,
+        "languages": {
+            "Bison": 3495,
+            "Shell": 1085,
+            "Perl": 908
+        }
+    },
+    {
+        "name": "compiler-design-project",
+        "description": "this is an academic project",
+        "languages": {
+            "Bison": 2025
+        }
+    },
+    {
+        "name": "Simple-Compiler",
+        "description": "Simple Lex and Yac files for Compiler",
+        "languages": {
+            "Bison": 10127,
+            "C#": 5595,
+            "C": 3080
+        }
+    },
+    {
+        "name": "sool",
+        "description": "Simple Object Oriented Language",
+        "languages": {
+            "Bison": 6240,
+            "Haskell": 3522,
+            "Logos": 2250,
+            "Makefile": 447
+        }
+    },
+    {
+        "name": "C-toJava",
+        "description": "Flex/Bison translator from c++ to Java",
+        "languages": {
+            "Bison": 731,
+            "Shell": 153
+        }
+    },
+    {
+        "name": "CS152_Phase3_revised",
+        "description": null,
+        "languages": {
+            "Bison": 5096,
+            "C++": 1077,
+            "Makefile": 555
+        }
+    },
+    {
+        "name": "frontend",
+        "description": "The front-end of the Ripple compiler",
+        "languages": {
+            "Bison": 11834,
+            "Makefile": 214
+        }
+    },
+    {
+        "name": "go-eleet",
+        "description": "Eleetscript runtime for the Go programming language.",
+        "languages": {
+            "Bison": 19902,
+            "Go": 10260
+        }
+    },
+    {
+        "name": "compilerLab2",
+        "description": null,
+        "languages": {
+            "Bison": 19997,
+            "C++": 14439,
+            "Shell": 2051,
+            "Makefile": 720
+        }
+    },
+    {
+        "name": "bison-parsingcmain",
+        "description": "simplest parsing .c file, only parsed 'printf' keyword",
+        "languages": {
+            "Bison": 1079,
+            "Makefile": 935
+        }
+    },
+    {
+        "name": "JavaC",
+        "description": "Simple C to Java translator",
+        "languages": {
+            "Bison": 20900,
+            "Shell": 2035
+        }
+    },
+    {
+        "name": "TPC",
+        "description": "Projet de compilation L3",
+        "languages": {
+            "Bison": 18047,
+            "C": 4134,
+            "Makefile": 552
+        }
+    },
+    {
+        "name": "lua-checker",
+        "description": null,
+        "languages": {
+            "Bison": 39179,
+            "C++": 9100,
+            "C": 1978,
+            "Lua": 1720,
+            "Shell": 1184,
+            "Makefile": 878
+        }
+    },
+    {
+        "name": "mipl",
+        "description": "Mini-Imperative Programming Language Compiler - CS 5500",
+        "languages": {
+            "Bison": 22703,
+            "C++": 6811,
+            "Shell": 2466,
+            "Makefile": 552
+        }
+    },
+    {
+        "name": "shell2015",
+        "description": null,
+        "languages": {
+            "Bison": 1482,
+            "C": 303
+        }
+    },
+    {
+        "name": "Parser",
+        "description": null,
+        "languages": {
+            "Bison": 653
+        }
+    },
+    {
+        "name": "c2java-1",
+        "description": null,
+        "languages": {
+            "Bison": 29351,
+            "C": 14876,
+            "Shell": 1164,
+            "Makefile": 689
+        }
+    },
+    {
+        "name": "compilers",
+        "description": "lexical analysis and syntax tree , parsing ",
+        "languages": {
+            "Bison": 7766
+        }
+    },
+    {
+        "name": "Phase2_CS152",
+        "description": null,
+        "languages": {
+            "Bison": 6994,
+            "Makefile": 555,
+            "C++": 438
+        }
+    },
+    {
+        "name": "potential-avenger",
+        "description": "Expression evaluation",
+        "languages": {
+            "Bison": 3580,
+            "Makefile": 219
+        }
+    },
+    {
+        "name": "compiler",
+        "description": "A compiler for the Tony language",
+        "languages": {
+            "Bison": 3567,
+            "Makefile": 681
+        }
+    },
+    {
+        "name": "the-hibiki-language",
+        "description": "the hibiki language",
+        "languages": {
+            "Bison": 562
+        }
+    },
+    {
+        "name": "FlexBison",
+        "description": "A calculator write with flex and bison in c++",
+        "languages": {
+            "Bison": 10485,
+            "Shell": 352
+        }
+    },
+    {
+        "name": "projet_compil",
+        "description": "Projet compilation - StenC",
+        "languages": {
+            "Bison": 63425,
+            "C": 24463,
+            "Assembly": 243,
+            "Makefile": 224
+        }
+    },
+    {
+        "name": "TL-to-C-Compiler",
+        "description": null,
+        "languages": {
+            "Bison": 40223,
+            "C": 6645
+        }
+    },
+    {
+        "name": "lua-checker",
+        "description": "Automatically exported from code.google.com/p/lua-checker",
+        "languages": {
+            "Bison": 39179,
+            "C++": 9100,
+            "C": 1978,
+            "Lua": 1720,
+            "Shell": 1184,
+            "Makefile": 878
+        }
+    },
+    {
+        "name": "LexYacc",
+        "description": null,
+        "languages": {
+            "Bison": 8248,
+            "C": 1492
+        }
+    },
+    {
+        "name": "shell",
+        "description": "shell project for operating system design spring 2015",
+        "languages": {
+            "Bison": 3007,
+            "C": 336
+        }
+    },
+    {
+        "name": "modec",
+        "description": "Load data from Blender's output in the format of \"obj\"",
+        "languages": {
+            "Bison": 6231,
+            "Makefile": 189,
+            "Shell": 150,
+            "Perl": 120
+        }
+    },
+    {
+        "name": "lua-checker",
+        "description": "Automatically exported from code.google.com/p/lua-checker",
+        "languages": {
+            "Bison": 39179,
+            "C++": 9100,
+            "C": 1978,
+            "Lua": 1720,
+            "Shell": 1184,
+            "Makefile": 878
+        }
+    },
+    {
+        "name": "LR-PARSER",
+        "description": "Compile-Homework",
+        "languages": {
+            "Bison": 3922
+        }
+    },
+    {
+        "name": "IndustrialRobotLanguageInterpreter",
+        "description": null,
+        "languages": {
+            "Bison": 38152,
+            "C++": 33021,
+            "Makefile": 4679
+        }
+    },
+    {
+        "name": "gconst",
+        "description": "Const value translator from Go to Lua",
+        "languages": {
+            "Bison": 910,
+            "Makefile": 160,
+            "Perl": 84,
+            "R": 70
+        }
+    },
+    {
+        "name": "PCC",
+        "description": "A compiler for C like languages.",
+        "languages": {
+            "Bison": 23915,
+            "C++": 3240,
+            "Makefile": 1617
+        }
+    },
+    {
+        "name": "University_Innsbruck-Compiler_Construction-Homework_5",
+        "description": "Yet another compiler compiler (YACC)",
+        "languages": {
+            "Bison": 4156,
+            "Pascal": 1439,
+            "Makefile": 257
+        }
+    },
+    {
+        "name": "lua-checker",
+        "description": "Automatically exported from code.google.com/p/lua-checker",
+        "languages": {
+            "Bison": 39179,
+            "C++": 9100,
+            "C": 1978,
+            "Lua": 1720,
+            "Shell": 1184,
+            "Makefile": 878
+        }
+    },
+    {
+        "name": "cali",
+        "description": "a meeting/event/todo date/time parser",
+        "languages": {
+            "Bison": 7717,
+            "Scheme": 7026,
+            "C": 1955,
+            "Makefile": 593,
+            "Shell": 109
+        }
+    },
+    {
+        "name": "cs152",
+        "description": "Repo for cs152 exercises and project",
+        "languages": {
+            "Bison": 25295,
+            "C": 2729,
+            "Makefile": 451,
+            "Shell": 278
+        }
+    },
+    {
+        "name": "onto-chem-compounds",
+        "description": "Predicting the ontology of chemical compounds ",
+        "languages": {
+            "Bison": 6160560,
+            "MATLAB": 94757,
+            "E": 50110,
+            "Python": 5820,
+            "Shell": 4055
+        }
+    },
+    {
+        "name": "secret-ninja",
+        "description": null,
+        "languages": {
+            "Bison": 6333
+        }
+    },
+    {
+        "name": "tiger",
+        "description": "nothing to see here",
+        "languages": {
+            "Bison": 549,
+            "Makefile": 352
+        }
+    },
+    {
+        "name": "TRADUTORES",
+        "description": "trabalho de tradutores ",
+        "languages": {
+            "Bison": 7383
+        }
+    },
+    {
+        "name": "pl",
+        "description": "[FIC] Procesamiento de Lenguajes",
+        "languages": {
+            "Bison": 21939,
+            "C": 7035,
+            "Makefile": 668,
+            "Shell": 349,
+            "Prolog": 54
+        }
+    },
+    {
+        "name": "compilador-cdp",
+        "description": "Automatically exported from code.google.com/p/compilador-cdp",
+        "languages": {
+            "Bison": 57676,
+            "Makefile": 490
+        }
+    },
+    {
+        "name": "sauce2sauce",
+        "description": "source to source compiler for a fake language to C++",
+        "languages": {
+            "Bison": 6234,
+            "Makefile": 204,
+            "C": 167,
+            "C++": 130,
+            "Shell": 44
+        }
+    },
+    {
+        "name": "CompilerAssignment2-3",
+        "description": "Write the grammar for the language you've designed.  a) Write a parser for the language you've designed. You are allowed to modify the grammar and language but be prepared with the justifications for the changes you make. Your parser should identify the multiple syntax errors.   b)Write a program to display the syntax tree corresponding to a syntactically correct program.",
+        "languages": {
+            "Bison": 31916
+        }
+    },
+    {
+        "name": "lua-checker",
+        "description": "Automatically exported from code.google.com/p/lua-checker",
+        "languages": {
+            "Bison": 39179,
+            "C++": 9100,
+            "C": 1978,
+            "Lua": 1720,
+            "Shell": 1184,
+            "Makefile": 878
+        }
+    },
+    {
+        "name": "CS152-Compiler-Design",
+        "description": null,
+        "languages": {
+            "Bison": 26903,
+            "Makefile": 1618,
+            "C++": 1168
+        }
+    },
+    {
+        "name": "Compiladores",
+        "description": "dontpad.com/compiladoresgrupoalfa",
+        "languages": {
+            "Bison": 45478,
+            "C": 12360,
+            "Makefile": 3635,
+            "C++": 298
+        }
+    },
+    {
+        "name": "Compiler",
+        "description": null,
+        "languages": {
+            "Bison": 29237,
+            "C": 11698,
+            "Makefile": 376
+        }
+    },
+    {
+        "name": "Compilers",
+        "description": "CSC-151 Compiler Repo",
+        "languages": {
+            "Bison": 10586
+        }
+    },
+    {
+        "name": "lua-checker",
+        "description": "Automatically exported from code.google.com/p/lua-checker",
+        "languages": {
+            "Bison": 39360,
+            "C++": 9140,
+            "C": 1978,
+            "Lua": 1720,
+            "Shell": 1184,
+            "Makefile": 878
+        }
+    },
+    {
+        "name": "Compilador-Legol",
+        "description": "Trabalho de Conclus\u00e3o de Curso apresentado \u00e0 banca avaliadora do Curso de Engenharia de Computa\u00e7\u00e3o, da Escola Superior de Tecnologia, da Universidade do Estado do Amazonas, como pr\u00e9-requisito para obten\u00e7\u00e3o do t\u00edtulo de Engenheiro de Computa\u00e7\u00e3o.",
+        "languages": {
+            "Bison": 84307,
+            "C": 4505,
+            "Makefile": 324,
+            "Shell": 79
+        }
+    },
+    {
+        "name": "lua-checker",
+        "description": "Automatically exported from code.google.com/p/lua-checker",
+        "languages": {
+            "Bison": 39179,
+            "C++": 9100,
+            "C": 1978,
+            "Lua": 1720,
+            "Shell": 1184,
+            "Makefile": 878
+        }
+    },
+    {
+        "name": "DeppTEst",
+        "description": "Dependence testing compiler for for loops",
+        "languages": {
+            "Bison": 24452,
+            "C": 14359,
+            "Makefile": 2421,
+            "C++": 930
+        }
+    },
+    {
+        "name": "simple_compiler",
+        "description": null,
+        "languages": {
+            "Bison": 2201,
+            "Makefile": 104
+        }
     }
 ]

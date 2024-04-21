@@ -71,5 +71,1813 @@
             "CodeQL": 47139,
             "Python": 10708
         }
+    },
+    {
+        "name": "LookupInterface",
+        "description": "CodeQL \u5bfb\u627e JNDI\u5229\u7528 Lookup\u63a5\u53e3",
+        "languages": {
+            "CodeQL": 3168
+        }
+    },
+    {
+        "name": "QLinspector",
+        "description": "Finding Java gadget chains with CodeQL",
+        "languages": {
+            "CodeQL": 14819
+        }
+    },
+    {
+        "name": "QlRules",
+        "description": "Auto-generated CodeQL rules for matching CVE vulnerabilities and variants.",
+        "languages": {
+            "CodeQL": 43598174
+        }
+    },
+    {
+        "name": "codeql-coding-standards",
+        "description": "This repository contains CodeQL queries and libraries which support various Coding Standards.",
+        "languages": {
+            "CodeQL": 3220824,
+            "C": 945384,
+            "C++": 554409,
+            "Python": 197503,
+            "PowerShell": 64606,
+            "Shell": 1796,
+            "Makefile": 608
+        }
+    },
+    {
+        "name": "codeql-queries",
+        "description": "My CodeQL queries collection",
+        "languages": {
+            "CodeQL": 9698
+        }
+    },
+    {
+        "name": "codeql",
+        "description": "CodeQL workshops for GitHub Universe",
+        "languages": {
+            "CodeQL": 3341
+        }
+    },
+    {
+        "name": "codeql-queries",
+        "description": "[Deprecated] GitHub's Field Team's CodeQL Custom Queries, Suites, and Configurations. See GitHubSecurityLab/CodeQL-Community-Packs instead",
+        "languages": {
+            "CodeQL": 431471,
+            "Python": 15543,
+            "Java": 9016,
+            "JavaScript": 6548,
+            "C#": 6129,
+            "Makefile": 1625,
+            "Go": 1526,
+            "Shell": 556,
+            "TypeScript": 338
+        }
+    },
+    {
+        "name": "codeql_grehack_workshop",
+        "description": "GreHack 2021 CodeQL for Java workshop",
+        "languages": {
+            "CodeQL": 213
+        }
+    },
+    {
+        "name": "codeql-debug",
+        "description": null,
+        "languages": {
+            "CodeQL": 654300,
+            "Python": 14096,
+            "Shell": 857
+        }
+    },
+    {
+        "name": "codeql-java-queries",
+        "description": "Personal CodeQL queries",
+        "languages": {
+            "CodeQL": 1354787,
+            "Java": 114783
+        }
+    },
+    {
+        "name": "codeql-dubbo-workshop",
+        "description": null,
+        "languages": {
+            "CodeQL": 17126,
+            "Dockerfile": 1671
+        }
+    },
+    {
+        "name": "StaticAnalysisQueries",
+        "description": "A set of Code-ql/Joern queries to find vulnerabilities",
+        "languages": {
+            "CodeQL": 13008,
+            "Scala": 4905
+        }
+    },
+    {
+        "name": "codeql-queries",
+        "description": "CodeQL queries developed by Trail of Bits",
+        "languages": {
+            "CodeQL": 93518,
+            "C": 25815,
+            "Go": 19017,
+            "C++": 6700,
+            "Python": 6213,
+            "Shell": 283
+        }
+    },
+    {
+        "name": "Windows-Driver-Developer-Supplemental-Tools",
+        "description": "Supplemental open-source components for use in developing device drivers for Windows.",
+        "languages": {
+            "CodeQL": 313086,
+            "C": 102140,
+            "Python": 45496,
+            "C++": 7774
+        }
+    },
+    {
+        "name": "custom-codeql-queries",
+        "description": "Custom / Experimental CodeQL queries",
+        "languages": {
+            "CodeQL": 1947
+        }
+    },
+    {
+        "name": "CodeQL-Community-Packs",
+        "description": "Collection of community-driven CodeQL query, library and extension packs",
+        "languages": {
+            "CodeQL": 241049,
+            "Python": 15859,
+            "Java": 7288,
+            "JavaScript": 6665,
+            "C#": 4677,
+            "Go": 1526,
+            "TypeScript": 338
+        }
+    },
+    {
+        "name": "CVE-2022-28282",
+        "description": "PoC for CVE-2022-28282",
+        "languages": {
+            "CodeQL": 1397,
+            "JavaScript": 424
+        }
+    },
+    {
+        "name": "codeql-extractor-iac",
+        "description": "CodeQL Extractor, Library, and Queries for Infrastructure as Code",
+        "languages": {
+            "CodeQL": 231890,
+            "HCL": 10126,
+            "Python": 7569,
+            "Shell": 4309,
+            "Rust": 4298,
+            "Bicep": 1267,
+            "Batchfile": 969,
+            "PowerShell": 641,
+            "Dockerfile": 99
+        }
+    },
+    {
+        "name": "codeql",
+        "description": "\u6536\u96c6\u89c4\u5219",
+        "languages": {
+            "CodeQL": 14685821,
+            "C#": 4341158,
+            "JavaScript": 2037217,
+            "Java": 1931671,
+            "C++": 745027,
+            "Python": 504853,
+            "C": 347787,
+            "TypeScript": 171697,
+            "HTML": 28460,
+            "ASP": 3739,
+            "Emacs Lisp": 3445,
+            "Thrift": 3020,
+            "RAML": 2825,
+            "Shell": 2097,
+            "Vim Script": 1949,
+            "Perl": 1941,
+            "Smalltalk": 1101,
+            "Vue": 685,
+            "Objective-C": 471
+        }
+    },
+    {
+        "name": "custom-codeql-bundle",
+        "description": "An example repository that demonstrates how the build custom CodeQL bundles that include query customizations through the `Customizations.qll` library",
+        "languages": {
+            "CodeQL": 461
+        }
+    },
+    {
+        "name": "codeql",
+        "description": "codeqlpy",
+        "languages": {
+            "CodeQL": 290480,
+            "Python": 22740
+        }
+    },
+    {
+        "name": "LLMSecEval",
+        "description": null,
+        "languages": {
+            "CodeQL": 799266,
+            "Python": 201900,
+            "TypeScript": 40924,
+            "HTML": 4677,
+            "JavaScript": 1427,
+            "SCSS": 309,
+            "Shell": 277
+        }
+    },
+    {
+        "name": "github-java-ctf",
+        "description": "Winning submission for the GitHub Security Lab CTF 4: CodeQL and Chill - The Java Edition",
+        "languages": {
+            "CodeQL": 13130,
+            "Python": 3303,
+            "Shell": 1783
+        }
+    },
+    {
+        "name": "itergator",
+        "description": "CodeQL library and queries for iterator invalidation",
+        "languages": {
+            "CodeQL": 12226
+        }
+    },
+    {
+        "name": "GHSL_CTF_4",
+        "description": "My solution for GitHub Security Lab CTF 4: CodeQL and Chill - The Java Edition",
+        "languages": {
+            "CodeQL": 21896
+        }
+    },
+    {
+        "name": "cosmos-sdk-codeql",
+        "description": "A query suite for common bug patterns in Cosmos SDK-based applications",
+        "languages": {
+            "CodeQL": 13088
+        }
+    },
+    {
+        "name": "security-codeql",
+        "description": "CodeQL Security Queries",
+        "languages": {
+            "CodeQL": 16142
+        }
+    },
+    {
+        "name": "Spring-Data-Mongodb-Example",
+        "description": "CVE-2022-22980\u73af\u5883",
+        "languages": {
+            "CodeQL": 3546,
+            "Java": 2823,
+            "Dockerfile": 364
+        }
+    },
+    {
+        "name": "DangerousMemcpy",
+        "description": null,
+        "languages": {
+            "CodeQL": 18562
+        }
+    },
+    {
+        "name": "myQLrules",
+        "description": "some codeql rules",
+        "languages": {
+            "CodeQL": 9351
+        }
+    },
+    {
+        "name": "codeql-grafana",
+        "description": "\u7528codeql\u5206\u6790grafana\u6700\u65b0\u4efb\u610f\u6587\u4ef6\u8bfb\u53d6",
+        "languages": {
+            "CodeQL": 7285
+        }
+    },
+    {
+        "name": "zn2021",
+        "description": "CodeQL snippets for ZeroNights 2021 \"Company wide SAST\" presentation.",
+        "languages": {
+            "CodeQL": 17265,
+            "TypeScript": 5228,
+            "Python": 519
+        }
+    },
+    {
+        "name": "security-advisories",
+        "description": "My security advisories",
+        "languages": {
+            "CodeQL": 556
+        }
+    },
+    {
+        "name": "codeql-workshop-cve-2021-21380",
+        "description": "A CodeQL workshop covering CVE-2021-21380",
+        "languages": {
+            "CodeQL": 10017,
+            "Java": 3528,
+            "Shell": 1550
+        }
+    },
+    {
+        "name": "javascriptcore-bad-side-effect-modeling",
+        "description": "A query written in CodeQL that finds bad side effects modeling in JavaScriptCore (the JavaScript engine in WebKit). ",
+        "languages": {
+            "CodeQL": 56736
+        }
+    },
+    {
+        "name": "codeql-queries",
+        "description": "A collection of CodeQL queries, currently for DTrace XNU module",
+        "languages": {
+            "CodeQL": 1697
+        }
+    },
+    {
+        "name": "codeql_for_gadgets",
+        "description": "Codeql Queries for finding gadgets",
+        "languages": {
+            "CodeQL": 1266
+        }
+    },
+    {
+        "name": "py-auto-codeql",
+        "description": "\u4f7f\u7528 Python \u9a71\u52a8 CodeQL \u81ea\u52a8\u6267\u884c Security \u7684 ql \u8bed\u53e5\uff0c\u5e76\u6574\u7406\u51fa\u67e5\u8be2\u7ed3\u679c\u6240\u5728\u6587\u4ef6",
+        "languages": {
+            "CodeQL": 182869,
+            "Java": 83265,
+            "PLpgSQL": 3194,
+            "Python": 1150
+        }
+    },
+    {
+        "name": "jquery-xss-in-html",
+        "description": "jQuery < 3.5 Cross-Site Scripting (XSS) in html()",
+        "languages": {
+            "CodeQL": 1057
+        }
+    },
+    {
+        "name": "codeql-workshops-staging",
+        "description": "Original workshops and staging area for new ones",
+        "languages": {
+            "CodeQL": 31191,
+            "Shell": 11059,
+            "CSS": 2891,
+            "C": 2269,
+            "Makefile": 2223,
+            "Python": 1453,
+            "Java": 1263,
+            "Go": 1022,
+            "Emacs Lisp": 21
+        }
+    },
+    {
+        "name": "CodeqlFinder",
+        "description": "\u7528go\u8bed\u8a00\u5b9e\u73b0\u7684\u6279\u91cf\u6267\u884cql\u811a\u672c\u7684\u5c0f\u5de5\u5177\uff0c\u5b9e\u73b0\u53ea\u641c\u7d22sink\u70b9\u6216\u8005\u6c61\u70b9\u5229\u7528\u94fe\u5bfb\u627e",
+        "languages": {
+            "CodeQL": 279192,
+            "Go": 16690
+        }
+    },
+    {
+        "name": "CodeQL-Guide",
+        "description": "CodeQL Guide",
+        "languages": {
+            "CodeQL": 340
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-queries",
+        "description": null,
+        "languages": {
+            "CodeQL": 55064,
+            "Python": 11619
+        }
+    },
+    {
+        "name": "codeql-cpp-ast",
+        "description": "Illustrations of codeql's AST",
+        "languages": {
+            "CodeQL": 505,
+            "C++": 83
+        }
+    },
+    {
+        "name": "codeql-codifying-security-knowledge",
+        "description": "Codifying security knowledge: going from security advisory to CodeQL query",
+        "languages": {
+            "CodeQL": 8729,
+            "Shell": 1292,
+            "Makefile": 459
+        }
+    },
+    {
+        "name": "global-resource-leaks-codeql",
+        "description": "Global analysis of C# for resource leaks, using CodeQL",
+        "languages": {
+            "CodeQL": 97487,
+            "C#": 12226,
+            "Shell": 4698
+        }
+    },
+    {
+        "name": "codeql-workshop-points-to-java",
+        "description": null,
+        "languages": {
+            "CodeQL": 27829,
+            "Java": 13818
+        }
+    },
+    {
+        "name": "codeql-snippets",
+        "description": null,
+        "languages": {
+            "CodeQL": 1585
+        }
+    },
+    {
+        "name": "FYPT5",
+        "description": "FYP Team 5's Github Repo",
+        "languages": {
+            "CodeQL": 18649802,
+            "JavaScript": 5075408,
+            "C#": 4577467,
+            "Java": 3180643,
+            "C++": 902827,
+            "Python": 864535,
+            "C": 381619,
+            "CSS": 326154,
+            "TypeScript": 192790,
+            "HTML": 123205,
+            "SCSS": 106331,
+            "Less": 78481,
+            "EJS": 49484,
+            "Shell": 14062,
+            "ASP.NET": 3739,
+            "Emacs Lisp": 3445,
+            "Thrift": 3020,
+            "RAML": 2825,
+            "Vue": 2453,
+            "Vim Script": 1949,
+            "Perl": 1941,
+            "Ruby": 865,
+            "Batchfile": 603,
+            "Dockerfile": 194
+        }
+    },
+    {
+        "name": "webinar-2021sep-codeql2",
+        "description": null,
+        "languages": {
+            "CodeQL": 2229
+        }
+    },
+    {
+        "name": "CodeQLVuln",
+        "description": "CodeQL \u7684 JAVA \u6f0f\u6d1e\u6316\u6398\u5b66\u4e60",
+        "languages": {
+            "CodeQL": 2174
+        }
+    },
+    {
+        "name": "codeql",
+        "description": "codeql scripts",
+        "languages": {
+            "CodeQL": 1393,
+            "C": 633
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "VulnFinder-CodeQL",
+        "description": null,
+        "languages": {
+            "CodeQL": 174277,
+            "JavaScript": 50398,
+            "Python": 12879,
+            "HTML": 11105,
+            "Dockerfile": 135,
+            "Shell": 70
+        }
+    },
+    {
+        "name": "DubboWorkshop",
+        "description": null,
+        "languages": {
+            "CodeQL": 17043
+        }
+    },
+    {
+        "name": "codeql-javascript",
+        "description": "Exploration of graph generation via dot",
+        "languages": {
+            "CodeQL": 805,
+            "JavaScript": 101
+        }
+    },
+    {
+        "name": "postgres.ql",
+        "description": "Useful scripts for doing static analysis on projects based on PostgreSQL.",
+        "languages": {
+            "CodeQL": 7407
+        }
+    },
+    {
+        "name": "codeql",
+        "description": null,
+        "languages": {
+            "CodeQL": 20203348,
+            "C#": 4592455,
+            "Java": 3648639,
+            "JavaScript": 2341353,
+            "C++": 977300,
+            "Python": 878006,
+            "TeX": 860063,
+            "C": 720287,
+            "CSS": 323614,
+            "TypeScript": 193886,
+            "HTML": 72456,
+            "Shell": 42874,
+            "SCSS": 26842,
+            "CMake": 7503,
+            "Makefile": 4727,
+            "ASP.NET": 3739,
+            "Emacs Lisp": 3445,
+            "Thrift": 3020,
+            "RAML": 2825,
+            "Vue": 2453,
+            "Vim Script": 1949,
+            "Perl": 1941,
+            "Ruby": 865,
+            "Batchfile": 603
+        }
+    },
+    {
+        "name": "GHCTF-4-writeup",
+        "description": "TBA",
+        "languages": {
+            "CodeQL": 6606
+        }
+    },
+    {
+        "name": "codeql-ctfs",
+        "description": "Learning CodeQL through Semmle CTFs",
+        "languages": {
+            "CodeQL": 7632
+        }
+    },
+    {
+        "name": "codeql-libraries",
+        "description": "This is for setting up the codeql-libraries to run the llvm-codeql-recommender in the CS6620 project",
+        "languages": {
+            "CodeQL": 19233919,
+            "C#": 4601680,
+            "JavaScript": 3638385,
+            "Java": 3631234,
+            "C++": 1067937,
+            "Python": 886254,
+            "C": 636932,
+            "CSS": 323614,
+            "TypeScript": 195478,
+            "HTML": 102431,
+            "Shell": 31790,
+            "SCSS": 26842,
+            "Batchfile": 8070,
+            "ASP.NET": 3739,
+            "Emacs Lisp": 3445,
+            "Thrift": 3020,
+            "RAML": 2825,
+            "Vue": 2453,
+            "Vim Script": 1949,
+            "Perl": 1941,
+            "Ruby": 865,
+            "Objective-C": 436
+        }
+    },
+    {
+        "name": "qcve-runner",
+        "description": "Quantum CVE engine to evaluate quantum vulnerabilities in open-source projects using CodeQL. Currently in closed-beta testing. Please contact info@pqcee.com for details",
+        "languages": {
+            "CodeQL": 2275
+        }
+    },
+    {
+        "name": "cancellation-study-osdi",
+        "description": null,
+        "languages": {
+            "CodeQL": 10686
+        }
+    },
+    {
+        "name": "codeql",
+        "description": "My CodeQL repository.",
+        "languages": {
+            "CodeQL": 16811
+        }
+    },
+    {
+        "name": "debug-queries",
+        "description": null,
+        "languages": {
+            "CodeQL": 6858,
+            "Makefile": 2094,
+            "Shell": 2020
+        }
+    },
+    {
+        "name": "codeql-workshop-control-flow-java",
+        "description": null,
+        "languages": {
+            "CodeQL": 16466,
+            "Java": 6172
+        }
+    },
+    {
+        "name": "UntrustIDE",
+        "description": null,
+        "languages": {
+            "CodeQL": 5422467,
+            "JavaScript": 2522385,
+            "Java": 1344182,
+            "CSS": 323614,
+            "Python": 318542,
+            "TypeScript": 227974,
+            "Rust": 140937,
+            "HTML": 78943,
+            "SCSS": 26842,
+            "C": 24728,
+            "Mustache": 19826,
+            "Starlark": 16258,
+            "Shell": 8542,
+            "Emacs Lisp": 3445,
+            "Vue": 2881,
+            "RAML": 2825,
+            "Vim Script": 1949,
+            "EJS": 1478,
+            "Batchfile": 1238,
+            "CMake": 1235,
+            "Handlebars": 1000,
+            "Nunjucks": 923,
+            "C++": 865,
+            "Ruby": 865,
+            "PowerShell": 587,
+            "Dockerfile": 496
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3965,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-kaleidoscope",
+        "description": "CodeQL for LLVM Kaleidoscope",
+        "languages": {
+            "CodeQL": 98475,
+            "Rust": 3917,
+            "Shell": 1454,
+            "Batchfile": 717,
+            "PowerShell": 679
+        }
+    },
+    {
+        "name": "codeql-workshop-introduction-to-javascript",
+        "description": null,
+        "languages": {
+            "CodeQL": 7168,
+            "Makefile": 227
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-intro",
+        "description": null,
+        "languages": {
+            "CodeQL": 6110
+        }
+    },
+    {
+        "name": "ctf4-codeql-and-chill-java",
+        "description": "My attempt solution for GitHub Security Lab CTF 4: CodeQL and Chill - The Java Edition",
+        "languages": {
+            "CodeQL": 5046
+        }
+    },
+    {
+        "name": "jms-codeql",
+        "description": "CodeQL queries for JMS",
+        "languages": {
+            "CodeQL": 1924
+        }
+    },
+    {
+        "name": "SNU_2D_ProgrammingTools_IDE_CodeQL",
+        "description": "The CodeQL Programming language IDE submodule for SNU Programming Tools (2D Mode)",
+        "languages": {
+            "CodeQL": 212966,
+            "Roff": 3456,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3998,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-workshop-dangling-pointers-c",
+        "description": null,
+        "languages": {
+            "CodeQL": 21575,
+            "Shell": 734,
+            "C": 218
+        }
+    },
+    {
+        "name": "GreHack2023-Workshop",
+        "description": "Original workshop: https://github.com/githubuniverseworkshops/codeql-codifying-security-knowledge/",
+        "languages": {
+            "CodeQL": 8722,
+            "Shell": 1292,
+            "Makefile": 459
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "CodeQL-LowLevel-Analyze",
+        "description": "CodeQL\u539f\u7406\u5206\u6790",
+        "languages": {
+            "CodeQL": 5897,
+            "Python": 919
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "cosmos-sdk-codeql",
+        "description": null,
+        "languages": {
+            "CodeQL": 11563
+        }
+    },
+    {
+        "name": "Learn-CodeQL",
+        "description": "A repository for showcasing my knowledge of the CodeQL programming language, and continuing to learn the language",
+        "languages": {
+            "CodeQL": 213554,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "githubctf2020",
+        "description": "The runner up submission of Github CTF 2020",
+        "languages": {
+            "CodeQL": 31384
+        }
+    },
+    {
+        "name": "CodeQLDemo",
+        "description": null,
+        "languages": {
+            "CodeQL": 1289
+        }
+    },
+    {
+        "name": "codeql-workshop-elements-of-syntactical-program-analysis-cpp",
+        "description": null,
+        "languages": {
+            "CodeQL": 12055,
+            "Makefile": 757,
+            "Dockerfile": 460
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4033,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "ql_cpp_func",
+        "description": "CodeQL examples about taint path query about function pointer calling",
+        "languages": {
+            "CodeQL": 2614,
+            "C": 2349,
+            "CMake": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "AliasExamples",
+        "description": null,
+        "languages": {
+            "CodeQL": 23932,
+            "C++": 23404,
+            "Makefile": 1723,
+            "Python": 448,
+            "C": 143
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3936,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3957
+        }
+    },
+    {
+        "name": "BBchar",
+        "description": "Block-based characterization tool for molecular FCN circuits",
+        "languages": {
+            "CodeQL": 843582,
+            "MATLAB": 168246
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": "codeql u-boot challenge(c/c++) tutorials",
+        "languages": {
+            "CodeQL": 4154,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4180,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 3637,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-workshop-control-flow-cpp",
+        "description": null,
+        "languages": {
+            "CodeQL": 13921,
+            "C++": 9721
+        }
+    },
+    {
+        "name": "crispy-octo-giggle",
+        "description": "Minpro",
+        "languages": {
+            "CodeQL": 27183279,
+            "C#": 20852263,
+            "Kotlin": 12226377,
+            "Java": 5584689,
+            "JavaScript": 2456745,
+            "Python": 1765281,
+            "C++": 1413358,
+            "Go": 734538,
+            "C": 438560,
+            "Swift": 386589,
+            "Ruby": 358794,
+            "Rust": 262995,
+            "TypeScript": 224420,
+            "HTML": 57962,
+            "Starlark": 28079,
+            "Shell": 25079,
+            "Mustache": 17538,
+            "Lua": 13357,
+            "Makefile": 7764,
+            "ASP.NET": 3739,
+            "Batchfile": 3630,
+            "Emacs Lisp": 3445,
+            "Thrift": 3020,
+            "Vue": 2881,
+            "RAML": 2825,
+            "Vim Script": 1949,
+            "Perl": 1941,
+            "CMake": 1809,
+            "EJS": 1478,
+            "PowerShell": 1319,
+            "Handlebars": 1000,
+            "Nunjucks": 923,
+            "Dockerfile": 496,
+            "Smalltalk": 23
+        }
+    },
+    {
+        "name": "codeql-dataflow-i-cpp",
+        "description": null,
+        "languages": {
+            "CodeQL": 5101,
+            "C++": 486,
+            "C": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 3773,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "js-introspection",
+        "description": null,
+        "languages": {
+            "CodeQL": 742
+        }
+    },
+    {
+        "name": "java-cast-analysis",
+        "description": "Java Cast Analysis in the Wild",
+        "languages": {
+            "CodeQL": 5878,
+            "Python": 2580,
+            "Makefile": 1003
+        }
+    },
+    {
+        "name": "codeql-cve-2022-35737",
+        "description": "A CodeQL query to find CVE 2022-35737",
+        "languages": {
+            "CodeQL": 1371,
+            "C": 426
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 3691,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "DataFlowExperience",
+        "description": "DataFlow Experience",
+        "languages": {
+            "CodeQL": 527
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4642,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "demo-codeql-bundle",
+        "description": null,
+        "languages": {
+            "CodeQL": 39087,
+            "Shell": 3663
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 5574,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-sample-polkit",
+        "description": "All stages of exploring the polkit CVE-2021-4034 using codeql",
+        "languages": {
+            "CodeQL": 15509,
+            "Shell": 3380,
+            "Python": 1622,
+            "Dockerfile": 246
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4069,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-workshop-dataflow-2-cpp",
+        "description": null,
+        "languages": {
+            "CodeQL": 10205,
+            "C++": 2658
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 2763,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4107,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "DStatic-error-tracking",
+        "description": "QL re-implementation of Aspirator (OSDI 2014) static analysis for catch clause error tracking in Java distributed systems",
+        "languages": {
+            "CodeQL": 4439,
+            "Shell": 595
+        }
+    },
+    {
+        "name": "go-and-dont-return-writeup",
+        "description": "Write-up for GitHub Security Lab CTF: Go and don't return",
+        "languages": {
+            "CodeQL": 16567
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "cusp-project-files",
+        "description": null,
+        "languages": {
+            "CodeQL": 27012754,
+            "C#": 20618790,
+            "Java": 8818625,
+            "JavaScript": 2540917,
+            "Python": 1335771,
+            "C++": 1085040,
+            "C": 406837,
+            "CSS": 323614,
+            "Rust": 222484,
+            "TypeScript": 215253,
+            "Ruby": 194695,
+            "HTML": 85333,
+            "SCSS": 26842,
+            "Shell": 24044,
+            "Starlark": 5032,
+            "ASP.NET": 3739,
+            "Emacs Lisp": 3445,
+            "Thrift": 3020,
+            "Vue": 2881,
+            "RAML": 2825,
+            "Makefile": 2463,
+            "Batchfile": 2028,
+            "Vim Script": 1949,
+            "Perl": 1941,
+            "EJS": 1478,
+            "PowerShell": 1295,
+            "Handlebars": 1000,
+            "Nunjucks": 923,
+            "Smalltalk": 23
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4258,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4225,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "quilt_chip8",
+        "description": "a chip8 emulator written in quilt",
+        "languages": {
+            "CodeQL": 10686,
+            "Rust": 6883
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4165,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "CodeQL_CTF_4",
+        "description": "My solution to CodeQL - CTF 4 - CodeQL and Chill",
+        "languages": {
+            "CodeQL": 6761
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4004,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "https-github.com",
+        "description": null,
+        "languages": {
+            "CodeQL": 15797208,
+            "C#": 4387739,
+            "Java": 2218378,
+            "JavaScript": 2127478,
+            "C++": 789504,
+            "Python": 598213,
+            "C": 359846,
+            "TypeScript": 176474,
+            "HTML": 28888,
+            "Shell": 3994,
+            "ASP.NET": 3739,
+            "Emacs Lisp": 3445,
+            "Thrift": 3020,
+            "RAML": 2825,
+            "Vim Script": 1949,
+            "Perl": 1941,
+            "Vue": 1514,
+            "Batchfile": 607
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2402,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql",
+        "description": null,
+        "languages": {
+            "CodeQL": 15797208,
+            "C#": 4387739,
+            "Java": 2218378,
+            "JavaScript": 2127478,
+            "C++": 789504,
+            "Python": 598213,
+            "C": 359846,
+            "TypeScript": 176474,
+            "HTML": 28888,
+            "Shell": 3994,
+            "ASP.NET": 3739,
+            "Emacs Lisp": 3445,
+            "Thrift": 3020,
+            "RAML": 2825,
+            "Vim Script": 1949,
+            "Perl": 1941,
+            "Vue": 1514,
+            "Batchfile": 607
+        }
+    },
+    {
+        "name": "codeql-workshop-dataflow-c",
+        "description": null,
+        "languages": {
+            "CodeQL": 104115,
+            "C": 10916,
+            "Shell": 1405
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4891,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906
+        }
+    },
+    {
+        "name": "codeql-java-hello-world",
+        "description": "Hello world Java app and queries",
+        "languages": {
+            "CodeQL": 3726,
+            "Makefile": 213,
+            "Java": 203
+        }
+    },
+    {
+        "name": "codeql-ctf-segv",
+        "description": null,
+        "languages": {
+            "CodeQL": 116,
+            "Dockerfile": 75
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2399,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2936,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "SSR-XSS-Security",
+        "description": "Github project for Master Thesis: Evaluating the Impact of Server-Side Rendering on Security and Stability of Web Services",
+        "languages": {
+            "CodeQL": 5601288,
+            "JavaScript": 2739865,
+            "Java": 1347095,
+            "TypeScript": 397424,
+            "CSS": 356509,
+            "Python": 327248,
+            "Rust": 144141,
+            "HTML": 79133,
+            "SCSS": 26842,
+            "Starlark": 24847,
+            "C": 24728,
+            "Mustache": 21100,
+            "Shell": 8542,
+            "C++": 5782,
+            "Emacs Lisp": 3445,
+            "Vue": 2881,
+            "RAML": 2825,
+            "CMake": 2704,
+            "Vim Script": 1949,
+            "EJS": 1478,
+            "Batchfile": 1238,
+            "Handlebars": 1000,
+            "Nunjucks": 923,
+            "Ruby": 865,
+            "PowerShell": 587,
+            "Dockerfile": 496
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4136,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4142,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2479,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2399,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-u-boot-challenge",
+        "description": null,
+        "languages": {
+            "CodeQL": 1495
+        }
+    },
+    {
+        "name": "semmle-libpng-test",
+        "description": null,
+        "languages": {
+            "CodeQL": 1322,
+            "C": 1086
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4198,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 3788,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2588,
+            "Dockerfile": 86
+        }
     }
 ]

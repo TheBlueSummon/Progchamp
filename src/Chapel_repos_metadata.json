@@ -85,5 +85,1727 @@
             "Python": 7075,
             "Makefile": 1361
         }
+    },
+    {
+        "name": "arkouda-njit",
+        "description": "Home of Arachne and other Arkouda functionality provided by researchers at NJIT",
+        "languages": {
+            "Chapel": 1914261,
+            "Python": 1012966,
+            "Jupyter Notebook": 8918,
+            "Shell": 6986
+        }
+    },
+    {
+        "name": "Distributed-Data-Structures",
+        "description": "[GSoC] Distributed Data Structures - Collections Framework for Chapel language",
+        "languages": {
+            "Chapel": 113972,
+            "Makefile": 1305
+        }
+    },
+    {
+        "name": "Chapel-protobuf",
+        "description": "Google Protocol buffers[https://developers.google.com/protocol-buffers] implementation for Chapel-lang",
+        "languages": {
+            "Chapel": 60116,
+            "C++": 59029,
+            "Python": 8931,
+            "Shell": 4103,
+            "Makefile": 473,
+            "M4": 183
+        }
+    },
+    {
+        "name": "ChOp",
+        "description": "Chapel-based Optimization ",
+        "languages": {
+            "Chapel": 281703,
+            "Shell": 131243,
+            "C": 64368,
+            "Cuda": 29659,
+            "C++": 25626,
+            "Makefile": 7099,
+            "Python": 4291
+        }
+    },
+    {
+        "name": "CHIUW2017",
+        "description": "sketching algorithms implemented in chapel and python",
+        "languages": {
+            "Chapel": 43094,
+            "Python": 39358,
+            "Shell": 737,
+            "Makefile": 458
+        }
+    },
+    {
+        "name": "cdo",
+        "description": "Chapel Data Object",
+        "languages": {
+            "Chapel": 165195,
+            "Makefile": 3695,
+            "C": 3126,
+            "Shell": 933
+        }
+    },
+    {
+        "name": "chapel-attic",
+        "description": "Tracking research branches that are not under active development. This is a fork of chapel-lang/chapel.",
+        "languages": {
+            "Chapel": 18030938,
+            "C++": 6100182,
+            "C": 4309294,
+            "Python": 921853,
+            "TeX": 729849,
+            "Shell": 516719,
+            "Perl": 248446,
+            "Makefile": 136242,
+            "JavaScript": 60433,
+            "Lex": 44449,
+            "Ruby": 25311,
+            "LLVM": 21739,
+            "Fortran": 20895,
+            "Vim Script": 16375,
+            "Emacs Lisp": 15207,
+            "Gnuplot": 9171,
+            "Mathematica": 4971,
+            "Dockerfile": 4838,
+            "D": 4459,
+            "Cuda": 4304,
+            "HTML": 3043,
+            "CMake": 2937,
+            "Batchfile": 2366,
+            "Yacc": 2337,
+            "CSS": 1859,
+            "Zimpl": 1115,
+            "M4": 119,
+            "Objective-C": 93
+        }
+    },
+    {
+        "name": "julia_v_chapel",
+        "description": "Simple test cases comparing julia and chapel",
+        "languages": {
+            "Chapel": 8958,
+            "Python": 8140,
+            "Julia": 7289,
+            "Shell": 1756
+        }
+    },
+    {
+        "name": "chapel-http",
+        "description": "Http server in Chapel language.",
+        "languages": {
+            "Chapel": 26237,
+            "HTML": 3612,
+            "C": 816,
+            "Shell": 665,
+            "JavaScript": 484
+        }
+    },
+    {
+        "name": "chapel-python",
+        "description": "Python Bindings for Chapel language.",
+        "languages": {
+            "Chapel": 81142
+        }
+    },
+    {
+        "name": "DistributedFFT",
+        "description": null,
+        "languages": {
+            "Chapel": 69758,
+            "C": 62835,
+            "Mathematica": 37947,
+            "Roff": 19653,
+            "Shell": 13924,
+            "Gnuplot": 6425,
+            "Makefile": 2747
+        }
+    },
+    {
+        "name": "CoMD-Chapel",
+        "description": "CoMD implementation in Chapel",
+        "languages": {
+            "Chapel": 117933,
+            "Makefile": 1163
+        }
+    },
+    {
+        "name": "chriple",
+        "description": "Chapel triple store",
+        "languages": {
+            "Chapel": 61511,
+            "Makefile": 354
+        }
+    },
+    {
+        "name": "csm",
+        "description": "Chapel Statistics Module",
+        "languages": {
+            "Chapel": 18148
+        }
+    },
+    {
+        "name": "chapelML",
+        "description": "Machine Learning algorithms in Chapel",
+        "languages": {
+            "Chapel": 31953
+        }
+    },
+    {
+        "name": "chapel-redis",
+        "description": "Redis (Hiredis) client binding for Chapel",
+        "languages": {
+            "Chapel": 25679,
+            "C++": 386,
+            "Shell": 53
+        }
+    },
+    {
+        "name": "rosalind_chapel",
+        "description": "Rosalind exercises in chapel",
+        "languages": {
+            "Chapel": 233055,
+            "Python": 207588,
+            "C++": 3937,
+            "Shell": 2625
+        }
+    },
+    {
+        "name": "chpllog",
+        "description": "Logging module for chapel programs",
+        "languages": {
+            "Chapel": 25123
+        }
+    },
+    {
+        "name": "frei",
+        "description": "Flux Reconstruction Educational Implementation (Gitlab mirror)",
+        "languages": {
+            "Chapel": 545872,
+            "Fortran": 210373,
+            "Shell": 69713,
+            "C": 52835,
+            "Mathematica": 48372,
+            "Python": 28227,
+            "TeX": 25637,
+            "Gnuplot": 11298,
+            "C++": 1017
+        }
+    },
+    {
+        "name": "epoch-based-manager",
+        "description": "[GSoC] Epoch Based Memory Reclamation System for Chapel language",
+        "languages": {
+            "Chapel": 81079
+        }
+    },
+    {
+        "name": "Kortex",
+        "description": "Distributed Deep Reinforcement Learning framework implemented in the Chapel Programming Language",
+        "languages": {
+            "Chapel": 224105
+        }
+    },
+    {
+        "name": "chapel-gnuplot",
+        "description": "Gnuplot for Chaple language",
+        "languages": {
+            "Chapel": 20731,
+            "Gnuplot": 159,
+            "Makefile": 45
+        }
+    },
+    {
+        "name": "chapel-sdl",
+        "description": "SDL bindings for Chapel",
+        "languages": {
+            "Chapel": 15055
+        }
+    },
+    {
+        "name": "P3D-DFS",
+        "description": "Productivity- and Performance-aware Parallel Distributed Depth-First Search in Chapel",
+        "languages": {
+            "Chapel": 96613,
+            "C": 74853,
+            "Shell": 8498,
+            "Makefile": 2039
+        }
+    },
+    {
+        "name": "LisExpr",
+        "description": "Mike's version of a simple Lisp interpreter written in Chapel",
+        "languages": {
+            "Chapel": 25105,
+            "Python": 7535
+        }
+    },
+    {
+        "name": "chapel",
+        "description": "Exercism exercises in Chapel.",
+        "languages": {
+            "Chapel": 71061,
+            "Shell": 3071,
+            "PowerShell": 1857
+        }
+    },
+    {
+        "name": "chapel_prk",
+        "description": null,
+        "languages": {
+            "Chapel": 235064,
+            "C": 7580,
+            "Makefile": 502
+        }
+    },
+    {
+        "name": "chapel-tcl",
+        "description": "TCL binding for Chapel Language.",
+        "languages": {
+            "Chapel": 75315,
+            "Tcl": 696
+        }
+    },
+    {
+        "name": "amaze",
+        "description": "Maze generator",
+        "languages": {
+            "Chapel": 5982,
+            "Makefile": 213
+        }
+    },
+    {
+        "name": "SNU_2D_ProgrammingTools_IDE_Chapel",
+        "description": "A repository for showcasing my knowledge of the Chapel programming language, and continuing to learn the language.",
+        "languages": {
+            "Chapel": 212636,
+            "Roff": 3456,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "chplx",
+        "description": "A Chapel backend",
+        "languages": {
+            "Chapel": 17072502,
+            "C++": 4432867,
+            "C": 1178381,
+            "Python": 276261,
+            "Shell": 221336,
+            "CMake": 89539,
+            "Makefile": 48001,
+            "C#": 22635,
+            "Fortran": 20895,
+            "TeX": 18299,
+            "Perl": 17112,
+            "Lex": 15027,
+            "Cuda": 6045,
+            "Dockerfile": 5738,
+            "Mathematica": 4971,
+            "D": 4459,
+            "Zimpl": 1115
+        }
+    },
+    {
+        "name": "aoc21",
+        "description": null,
+        "languages": {
+            "Chapel": 27983,
+            "Python": 141
+        }
+    },
+    {
+        "name": "chapel-playground",
+        "description": "My playground for chapel programs",
+        "languages": {
+            "Chapel": 20409,
+            "Shell": 2916
+        }
+    },
+    {
+        "name": "DistributedLinearAlgebra",
+        "description": null,
+        "languages": {
+            "Chapel": 12395
+        }
+    },
+    {
+        "name": "Learn-Chapel",
+        "description": "A repository for showcasing my knowledge of the Chapel programming language, and continuing to learn the language.",
+        "languages": {
+            "Chapel": 213220,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "ProjectEuler",
+        "description": null,
+        "languages": {
+            "Chapel": 14812
+        }
+    },
+    {
+        "name": "Chapel",
+        "description": "Chapel",
+        "languages": {
+            "Chapel": 73944
+        }
+    },
+    {
+        "name": "adventOfCode2022",
+        "description": null,
+        "languages": {
+            "Chapel": 56772
+        }
+    },
+    {
+        "name": "common-source-identification",
+        "description": null,
+        "languages": {
+            "Chapel": 38303,
+            "C": 19199,
+            "Makefile": 5608,
+            "Shell": 1765
+        }
+    },
+    {
+        "name": "gsoc2020-chapel-data-structures",
+        "description": "GSoC 2020 Project - Chapel - Sequential Data Structures",
+        "languages": {
+            "Chapel": 18514
+        }
+    },
+    {
+        "name": "chapel-code-examples",
+        "description": null,
+        "languages": {
+            "Chapel": 12588,
+            "Shell": 1701
+        }
+    },
+    {
+        "name": "moschitto",
+        "description": "Mosquitto MQTT client for Chapel Language",
+        "languages": {
+            "Chapel": 13796
+        }
+    },
+    {
+        "name": "adventofcode2023",
+        "description": null,
+        "languages": {
+            "Chapel": 18282
+        }
+    },
+    {
+        "name": "chpl-plplot",
+        "description": "PLplot bindings for Chapel",
+        "languages": {
+            "Chapel": 10003,
+            "Makefile": 346
+        }
+    },
+    {
+        "name": "LinearAlgebraJama",
+        "description": "a Chapel implementation of NIST's JAMA linear algebra library",
+        "languages": {
+            "Chapel": 77766
+        }
+    },
+    {
+        "name": "chrack",
+        "description": "Chapel heat map and code visualizer for ChplViz logs",
+        "languages": {
+            "Chapel": 36725,
+            "HTML": 6828,
+            "JavaScript": 4928
+        }
+    },
+    {
+        "name": "Chapel-Data-Structures",
+        "description": "Data Structures written in Chapel.",
+        "languages": {
+            "Chapel": 18834,
+            "Python": 1656
+        }
+    },
+    {
+        "name": "ForwardModeAD",
+        "description": "forward mode automatic differentiation using dual numbers",
+        "languages": {
+            "Chapel": 23687
+        }
+    },
+    {
+        "name": "ChapelStack",
+        "description": "Basic programs in Chapel",
+        "languages": {
+            "Chapel": 42444
+        }
+    },
+    {
+        "name": "aries",
+        "description": null,
+        "languages": {
+            "Chapel": 395
+        }
+    },
+    {
+        "name": "MatrixMarket",
+        "description": "a chapel module for interacting with matrix market formatted data files",
+        "languages": {
+            "Chapel": 11698
+        }
+    },
+    {
+        "name": "Measurements",
+        "description": "Tools for measuring timings, communication, and task parallelism in Chapel.",
+        "languages": {
+            "Chapel": 1856
+        }
+    },
+    {
+        "name": "chapel-heap",
+        "description": "A module for chapel",
+        "languages": {
+            "Chapel": 15873
+        }
+    },
+    {
+        "name": "ChapelCL",
+        "description": "OpenCL Wrapper for Chapel",
+        "languages": {
+            "Chapel": 13933,
+            "C": 6119,
+            "Makefile": 264
+        }
+    },
+    {
+        "name": "yummly-cuisine",
+        "description": "Picking up on a Kaggle challenge to try out a graph based method.  Unlikely to complete.",
+        "languages": {
+            "Chapel": 12522,
+            "Jupyter Notebook": 10547,
+            "Makefile": 550,
+            "Python": 525
+        }
+    },
+    {
+        "name": "Chapel-algorithms",
+        "description": "Implementaions of some algorithms in Chapel",
+        "languages": {
+            "Chapel": 8567,
+            "Makefile": 798
+        }
+    },
+    {
+        "name": "Chapel_Matrix_Operations",
+        "description": "Simple matrix operations and comparison of library functions with traditional method",
+        "languages": {
+            "Chapel": 2898
+        }
+    },
+    {
+        "name": "Mandel",
+        "description": "mandelbrot by chapel",
+        "languages": {
+            "Chapel": 3260
+        }
+    },
+    {
+        "name": "LocalAtomics",
+        "description": "Building Blocks for non-blocking programming in Shared Memory Chapel",
+        "languages": {
+            "Chapel": 14207
+        }
+    },
+    {
+        "name": "project-euler",
+        "description": "Project Euler, in Chapel!",
+        "languages": {
+            "Chapel": 61060,
+            "Shell": 3671,
+            "Makefile": 598
+        }
+    },
+    {
+        "name": "Chapel-Atomic-Objects",
+        "description": "Provides support for performing atomic operations on Chapel class instances in a scalable manner (W.I.P)",
+        "languages": {
+            "Chapel": 77840,
+            "C": 6257,
+            "Python": 5938
+        }
+    },
+    {
+        "name": "learn-chapel",
+        "description": "To learn Chapel The Parallel Programming Language",
+        "languages": {
+            "Chapel": 6598
+        }
+    },
+    {
+        "name": "Chapel",
+        "description": "Chapel Study repo",
+        "languages": {
+            "Chapel": 31302,
+            "Rust": 800,
+            "Haskell": 122,
+            "Python": 118
+        }
+    },
+    {
+        "name": "GPU-accelerated-tree-search-Chapel",
+        "description": "GPU-accelerated tree-search in Chapel",
+        "languages": {
+            "Chapel": 101088,
+            "C": 46451,
+            "Cuda": 20390,
+            "Shell": 5538,
+            "Makefile": 3927
+        }
+    },
+    {
+        "name": "Chapel",
+        "description": "GPU placeholder",
+        "languages": {
+            "Chapel": 14023339,
+            "C++": 4251306,
+            "C": 3806924,
+            "TeX": 894857,
+            "Python": 724240,
+            "Perl": 251760,
+            "Shell": 230630,
+            "Makefile": 114388,
+            "JavaScript": 54527,
+            "Lex": 38889,
+            "Fortran": 18153,
+            "LLVM": 16367,
+            "Emacs Lisp": 15043,
+            "Vim Script": 14992,
+            "Gnuplot": 6648,
+            "Objective-C": 6075,
+            "Mathematica": 4971,
+            "D": 4459,
+            "Cuda": 4304,
+            "Batchfile": 2662,
+            "HTML": 2483,
+            "Yacc": 2337,
+            "Zimpl": 1115,
+            "CSS": 919,
+            "M4": 119
+        }
+    },
+    {
+        "name": "Chapel-Examples",
+        "description": "Examples with Chapel lang",
+        "languages": {
+            "Chapel": 496
+        }
+    },
+    {
+        "name": "chapel-archive-old",
+        "description": "Collection of stale/WIP Chapel branches (pre 2020)",
+        "languages": {
+            "Chapel": 18336500,
+            "C++": 6308692,
+            "C": 4361158,
+            "Python": 919306,
+            "Shell": 540892,
+            "Perl": 239737,
+            "Makefile": 139043,
+            "JavaScript": 60558,
+            "Lex": 44688,
+            "Ruby": 25311,
+            "LLVM": 21739,
+            "Fortran": 20895,
+            "TeX": 18299,
+            "Vim Script": 16375,
+            "Emacs Lisp": 15248,
+            "Gnuplot": 9446,
+            "Mathematica": 4971,
+            "Dockerfile": 4799,
+            "D": 4459,
+            "Cuda": 4304,
+            "HTML": 3043,
+            "CMake": 2937,
+            "Batchfile": 2366,
+            "Yacc": 2337,
+            "CSS": 1859,
+            "Zimpl": 1115,
+            "M4": 119,
+            "Objective-C": 93
+        }
+    },
+    {
+        "name": "Stencil-in-Chapel",
+        "description": "A Stencil Library written in chapel programming language",
+        "languages": {
+            "Chapel": 30894,
+            "Python": 1859
+        }
+    },
+    {
+        "name": "riemersmadither",
+        "description": "Riemersma Dither",
+        "languages": {
+            "Chapel": 3619,
+            "C": 1916,
+            "APL": 1619,
+            "Makefile": 213
+        }
+    },
+    {
+        "name": "Chapel_2D",
+        "description": null,
+        "languages": {
+            "Chapel": 42679
+        }
+    },
+    {
+        "name": "parallel-longest-common-subsequence",
+        "description": "It is a code in Chapel. Its input is 2 strings named string1 and string2, and it writes the lcs of them in O(log^3(n)) with O(mn) processors, such that m and n are the lengths of the input strings and n>=m.",
+        "languages": {
+            "Chapel": 27899
+        }
+    },
+    {
+        "name": "TeaLeafChapel",
+        "description": "TeaLeaf mini-app originally created by the UoB, translated into the Chapel Language with support for single and multi-locale execution",
+        "languages": {
+            "Chapel": 99037,
+            "Python": 9365,
+            "Shell": 4271,
+            "Makefile": 1280
+        }
+    },
+    {
+        "name": "offline_BGC",
+        "description": "Chapel-built offline BGC code",
+        "languages": {
+            "Chapel": 45017
+        }
+    },
+    {
+        "name": "Chapel-SPLATT",
+        "description": "Chapel Implementation of SPLATT (parallel sparse tensor factorization)",
+        "languages": {
+            "Chapel": 158910,
+            "Shell": 5356,
+            "Python": 4706,
+            "Makefile": 976
+        }
+    },
+    {
+        "name": "chiuw2017-chpl-mpi",
+        "description": null,
+        "languages": {
+            "Chapel": 9098,
+            "Makefile": 171
+        }
+    },
+    {
+        "name": "ChapelPerf",
+        "description": "Chapel Performance Suite",
+        "languages": {
+            "Chapel": 338259,
+            "Makefile": 431,
+            "C": 32
+        }
+    },
+    {
+        "name": "naiveChplStencil",
+        "description": "A naive 5-point stencil in Chpl",
+        "languages": {
+            "Chapel": 6258
+        }
+    },
+    {
+        "name": "cheuler",
+        "description": "Project Euler problems using Chapel ",
+        "languages": {
+            "Chapel": 40416
+        }
+    },
+    {
+        "name": "units",
+        "description": null,
+        "languages": {
+            "Chapel": 51117
+        }
+    },
+    {
+        "name": "Chapel-examples",
+        "description": "Chapel language examples",
+        "languages": {
+            "Chapel": 5058
+        }
+    },
+    {
+        "name": "legion",
+        "description": "Repo for exploratory work on a BD (Brownian Dynamics) engine in Chapel",
+        "languages": {
+            "Chapel": 28095,
+            "Dockerfile": 1549,
+            "Makefile": 991,
+            "Nix": 955
+        }
+    },
+    {
+        "name": "Chapel_Programs",
+        "description": "Chapel Programs for begineers",
+        "languages": {
+            "Chapel": 1002
+        }
+    },
+    {
+        "name": "chapel-envVariables",
+        "description": "A module to manage environment variables for Chapel",
+        "languages": {
+            "Chapel": 3382,
+            "C": 23
+        }
+    },
+    {
+        "name": "Chapel-Channel",
+        "description": "Chapel implementation of Go-Channels",
+        "languages": {
+            "Chapel": 21365
+        }
+    },
+    {
+        "name": "chapel-test-runner",
+        "description": null,
+        "languages": {
+            "Chapel": 6200,
+            "Shell": 5294,
+            "Dockerfile": 141
+        }
+    },
+    {
+        "name": "Summer-2018",
+        "description": null,
+        "languages": {
+            "Chapel": 27044
+        }
+    },
+    {
+        "name": "mklRandom",
+        "description": "Random distributions based on the MKL VSL routines for Chapel",
+        "languages": {
+            "Chapel": 23283
+        }
+    },
+    {
+        "name": "Chapel-Heat1D-PPA",
+        "description": "Peachy Parallel Assignment Submission for the 1D Heat equation in Chapel",
+        "languages": {
+            "Chapel": 10811
+        }
+    },
+    {
+        "name": "chapel-uuid",
+        "description": null,
+        "languages": {
+            "Chapel": 4438
+        }
+    },
+    {
+        "name": "ChapelZarr",
+        "description": null,
+        "languages": {
+            "Chapel": 20425,
+            "Python": 1211
+        }
+    },
+    {
+        "name": "chapel-minimal-review",
+        "description": "Debian package for chapel-minimal, created by request of Debian sponsor for review.",
+        "languages": {
+            "Chapel": 4415061,
+            "C++": 3930471,
+            "C": 1422264,
+            "Python": 391455,
+            "Makefile": 73610,
+            "JavaScript": 51764,
+            "Perl": 45838,
+            "Shell": 40045,
+            "Lex": 29428,
+            "Gnuplot": 6648,
+            "Objective-C": 4876,
+            "HTML": 2419,
+            "CSS": 919
+        }
+    },
+    {
+        "name": "Chapel-samples",
+        "description": "Collection of sample BLAS and iterative solvers related Chapel code",
+        "languages": {
+            "Chapel": 8569
+        }
+    },
+    {
+        "name": "ChapelTests",
+        "description": "Dupe Checking, String Iteration, Parallel Evaluation in Chapel-language & Python3",
+        "languages": {
+            "Chapel": 21991,
+            "Python": 6649
+        }
+    },
+    {
+        "name": "tpr_cuda",
+        "description": null,
+        "languages": {
+            "Chapel": 3304
+        }
+    },
+    {
+        "name": "heat-dissipation-chapel",
+        "description": "Heat Dissipation written in Chapel as part of the Chapel Implementers and Users Workshop (CHIUW '19)",
+        "languages": {
+            "Chapel": 55579,
+            "C": 17654,
+            "Makefile": 10405,
+            "Shell": 4833
+        }
+    },
+    {
+        "name": "Chapel-GRPlot",
+        "description": "Plotting in Chapel based on the GR Framework",
+        "languages": {
+            "Chapel": 25098
+        }
+    },
+    {
+        "name": "Chapel-GSoC-2020-Seq-DS",
+        "description": "Sequential Data Structures for Chapel: GSoC 2020 Project",
+        "languages": {
+            "Chapel": 35496
+        }
+    },
+    {
+        "name": "chapel-toys",
+        "description": "Toy programs for the Chapel programming language",
+        "languages": {
+            "Chapel": 3654
+        }
+    },
+    {
+        "name": "argParser",
+        "description": null,
+        "languages": {
+            "Chapel": 12833
+        }
+    },
+    {
+        "name": "chpl_dwt_example",
+        "description": null,
+        "languages": {
+            "Chapel": 4164,
+            "Python": 627
+        }
+    },
+    {
+        "name": "class-usage-hackathon",
+        "description": null,
+        "languages": {
+            "Chapel": 10073
+        }
+    },
+    {
+        "name": "adventOfCode2022-chapel",
+        "description": null,
+        "languages": {
+            "Chapel": 5299
+        }
+    },
+    {
+        "name": "Chapel_NetCDF",
+        "description": null,
+        "languages": {
+            "Chapel": 36229
+        }
+    },
+    {
+        "name": "Chapel-Examples",
+        "description": null,
+        "languages": {
+            "Chapel": 35358,
+            "C++": 5500,
+            "Makefile": 4805,
+            "Cuda": 989,
+            "C": 492
+        }
+    },
+    {
+        "name": "ppp_chapel_2016",
+        "description": null,
+        "languages": {
+            "Chapel": 9177,
+            "Shell": 1293,
+            "Makefile": 694
+        }
+    },
+    {
+        "name": "Chapel-StringUtils",
+        "description": "A package having a collection of small common string utility functions in the chapel programming language.",
+        "languages": {
+            "Chapel": 9373
+        }
+    },
+    {
+        "name": "Chapel_NeuralNetwork",
+        "description": "Experiments on neural network with chapel language",
+        "languages": {
+            "Chapel": 38161,
+            "Python": 4570
+        }
+    },
+    {
+        "name": "chapel-util",
+        "description": null,
+        "languages": {
+            "Chapel": 6347,
+            "Python": 2871,
+            "C": 2419,
+            "Go": 989,
+            "Shell": 166
+        }
+    },
+    {
+        "name": "myMasonPackage",
+        "description": null,
+        "languages": {
+            "Chapel": 623
+        }
+    },
+    {
+        "name": "tomsychapel",
+        "description": null,
+        "languages": {
+            "Chapel": 13834431,
+            "C++": 4169237,
+            "C": 3796211,
+            "TeX": 891455,
+            "Python": 716295,
+            "Perl": 251007,
+            "Shell": 219948,
+            "Makefile": 113895,
+            "JavaScript": 51991,
+            "Lex": 38660,
+            "Fortran": 18153,
+            "LLVM": 16367,
+            "Emacs Lisp": 15043,
+            "Vim Script": 14992,
+            "Gnuplot": 6648,
+            "Objective-C": 6075,
+            "Mathematica": 4971,
+            "D": 4459,
+            "Cuda": 4304,
+            "Batchfile": 2662,
+            "HTML": 2419,
+            "Yacc": 2337,
+            "Zimpl": 1115,
+            "CSS": 919,
+            "M4": 119
+        }
+    },
+    {
+        "name": "zeta",
+        "description": "zeta function analysis",
+        "languages": {
+            "Chapel": 831
+        }
+    },
+    {
+        "name": "2017-summer",
+        "description": "Cray Chapel internship scratch pad.",
+        "languages": {
+            "Chapel": 110384
+        }
+    },
+    {
+        "name": "chapel-go-boom",
+        "description": "Tryin to recreate an error in \"use\" ",
+        "languages": {
+            "Chapel": 414,
+            "Makefile": 77
+        }
+    },
+    {
+        "name": "ffr-chapel-stuffs",
+        "description": null,
+        "languages": {
+            "Chapel": 24471,
+            "Shell": 81
+        }
+    },
+    {
+        "name": "ChapelChannel",
+        "description": "An implementation of a simple channel in Chapel",
+        "languages": {
+            "Chapel": 2516,
+            "Shell": 301
+        }
+    },
+    {
+        "name": "Chapel_lessons",
+        "description": "Lessons on Chapel Programming Language",
+        "languages": {
+            "Chapel": 41691
+        }
+    },
+    {
+        "name": "ChapelExampleCode",
+        "description": null,
+        "languages": {
+            "Chapel": 5165
+        }
+    },
+    {
+        "name": "ChapelDataStructures",
+        "description": "Trying to implement some data structures in Chapel",
+        "languages": {
+            "Chapel": 7577,
+            "Shell": 99,
+            "Makefile": 45
+        }
+    },
+    {
+        "name": "ChapelPrograms",
+        "description": "Gaussian elimination to solve linear system of equations.",
+        "languages": {
+            "Chapel": 1218
+        }
+    },
+    {
+        "name": "Chapel-Integrators",
+        "description": "Euler, Leapfrog, Runge Kutta, Forest integrators coded in Chapel",
+        "languages": {
+            "Chapel": 29142
+        }
+    },
+    {
+        "name": "distributed-matvec",
+        "description": "Experiments with distributed matrix-free matrix-vector product in Chapel",
+        "languages": {
+            "Chapel": 343849,
+            "C": 58500,
+            "Makefile": 16065,
+            "C++": 4665,
+            "Python": 2907,
+            "Shell": 1102
+        }
+    },
+    {
+        "name": "distributed-interlocked-hash-table",
+        "description": "This repository provides a highly scalable distributed map, which is an adaptation of the Interlocked Hash Table along with EpochManager in Chapel",
+        "languages": {
+            "Chapel": 20179
+        }
+    },
+    {
+        "name": "ccpp-chpl",
+        "description": null,
+        "languages": {
+            "Chapel": 168970,
+            "Fortran": 9516,
+            "Rust": 7694,
+            "CMake": 1193,
+            "Dockerfile": 631,
+            "C": 172
+        }
+    },
+    {
+        "name": "climt",
+        "description": null,
+        "languages": {
+            "Chapel": 32454
+        }
+    },
+    {
+        "name": "SubgraphVF2",
+        "description": null,
+        "languages": {
+            "Chapel": 1857528,
+            "Python": 894057,
+            "Shell": 3160
+        }
+    },
+    {
+        "name": "parallel-matrix",
+        "description": null,
+        "languages": {
+            "Chapel": 4953
+        }
+    },
+    {
+        "name": "Chapel_Euler",
+        "description": "For practice. ",
+        "languages": {
+            "Chapel": 626
+        }
+    },
+    {
+        "name": "rappl",
+        "description": "RAdish for chaPeL",
+        "languages": {
+            "Chapel": 3386
+        }
+    },
+    {
+        "name": "chapel-geometry-raytracing-library",
+        "description": null,
+        "languages": {
+            "Chapel": 3915
+        }
+    },
+    {
+        "name": "chpl-fftw-mpi",
+        "description": null,
+        "languages": {
+            "Chapel": 15007,
+            "Makefile": 418,
+            "Shell": 399
+        }
+    },
+    {
+        "name": "cdo-extras",
+        "description": "Adding some extra functionality to the CDO library",
+        "languages": {
+            "Chapel": 91
+        }
+    },
+    {
+        "name": "chapel-postgres",
+        "description": "Postgres binding for Chapel",
+        "languages": {
+            "Chapel": 15119
+        }
+    },
+    {
+        "name": "PPFS2D",
+        "description": "PPFS2D -  Parallel potential flow solver 2D.",
+        "languages": {
+            "Chapel": 28166
+        }
+    },
+    {
+        "name": "Chimera",
+        "description": "experimental library for interval methods in chapel",
+        "languages": {
+            "Chapel": 42705
+        }
+    },
+    {
+        "name": "Codecs",
+        "description": null,
+        "languages": {
+            "Chapel": 12090
+        }
+    },
+    {
+        "name": "Chapel_Machine_Learning",
+        "description": "GPT writes a Machine Learning Code base in Chapel Lang.",
+        "languages": {
+            "Chapel": 34876
+        }
+    },
+    {
+        "name": "MyCoolLibrary",
+        "description": "example chapel library",
+        "languages": {
+            "Chapel": 440
+        }
+    },
+    {
+        "name": "515assign4",
+        "description": "Assignment 4 for 515 - Parallel Programming",
+        "languages": {
+            "Chapel": 13154,
+            "C": 6367,
+            "Makefile": 253
+        }
+    },
+    {
+        "name": "Chapel_GUI_testing",
+        "description": "A sample GUI library for chapel using the c gtk library",
+        "languages": {
+            "Chapel": 2938,
+            "C": 1710,
+            "Makefile": 89
+        }
+    },
+    {
+        "name": "hello-ben-chapel",
+        "description": null,
+        "languages": {
+            "Chapel": 71
+        }
+    },
+    {
+        "name": "zhihuidu",
+        "description": "Config files for my GitHub profile.",
+        "languages": {
+            "Chapel": 1918979,
+            "Python": 1003156,
+            "Jupyter Notebook": 66455,
+            "Gnuplot": 48900,
+            "Makefile": 12610,
+            "Shell": 11840,
+            "C": 1933,
+            "Batchfile": 795
+        }
+    },
+    {
+        "name": "chapelPlayground",
+        "description": null,
+        "languages": {
+            "Chapel": 18355
+        }
+    },
+    {
+        "name": "chapel-shlex-module",
+        "description": "Shell friendly splitting for Chapel.",
+        "languages": {
+            "Chapel": 7960
+        }
+    },
+    {
+        "name": "staeble-wrr",
+        "description": null,
+        "languages": {
+            "Chapel": 100114
+        }
+    },
+    {
+        "name": "aoc-2022",
+        "description": "Advent of Code, 2022",
+        "languages": {
+            "Chapel": 33982,
+            "Python": 14736,
+            "Clojure": 5974,
+            "Makefile": 68
+        }
+    },
+    {
+        "name": "Radix_Sort",
+        "description": null,
+        "languages": {
+            "Chapel": 16187,
+            "C": 8855,
+            "C++": 6725,
+            "Python": 2788,
+            "Makefile": 650
+        }
+    },
+    {
+        "name": "chapel-hello-world",
+        "description": "A 'Hello, world!' repository and GitHub Codespace template in Chapel",
+        "languages": {
+            "Chapel": 260
+        }
+    },
+    {
+        "name": "crypto-chapel",
+        "description": "A cryptographic library for Chapel, using the crypto primitives of OpenSSL. This repo is not maintained anymore as its updated version has already been made available within the Chapel language itself.  [DEPRECATED]",
+        "languages": {
+            "Chapel": 35406,
+            "Makefile": 530,
+            "C": 120
+        }
+    },
+    {
+        "name": "ProjB",
+        "description": "testing module name collisions with mason - projB",
+        "languages": {
+            "Chapel": 175
+        }
+    },
+    {
+        "name": "learnchap",
+        "description": "repository to learn&store examples",
+        "languages": {
+            "Chapel": 5723
+        }
+    },
+    {
+        "name": "astar",
+        "description": "A* Search applied to board game Connect 4.",
+        "languages": {
+            "Chapel": 44415,
+            "Makefile": 515
+        }
+    },
+    {
+        "name": "KernelMatrixInChapel",
+        "description": "Code for kernel matrix calculations in Chapel",
+        "languages": {
+            "Chapel": 6133
+        }
+    },
+    {
+        "name": "ClassUsageHackathon",
+        "description": "Chapel Class Usage Hackathon Activity",
+        "languages": {
+            "Chapel": 6520
+        }
+    },
+    {
+        "name": "Chapel_BMP",
+        "description": "Read and write bitmap images using Chapel",
+        "languages": {
+            "Chapel": 5725
+        }
+    },
+    {
+        "name": "chapel_workspace",
+        "description": null,
+        "languages": {
+            "Chapel": 572234,
+            "TeX": 6080,
+            "Shell": 920,
+            "C": 597,
+            "Python": 504
+        }
+    },
+    {
+        "name": "chapel",
+        "description": "my sandbox for chapel",
+        "languages": {
+            "Chapel": 451
+        }
+    },
+    {
+        "name": "adventOfCode2021",
+        "description": null,
+        "languages": {
+            "Chapel": 20821
+        }
+    },
+    {
+        "name": "cobol",
+        "description": null,
+        "languages": {
+            "Chapel": 62172,
+            "Shell": 3071,
+            "PowerShell": 1262
+        }
+    },
+    {
+        "name": "ClassUsageExprTree",
+        "description": null,
+        "languages": {
+            "Chapel": 14161
+        }
+    },
+    {
+        "name": "chapel-introduction",
+        "description": "An introduction to the Chapel programming language",
+        "languages": {
+            "Chapel": 2703,
+            "Fortran": 993,
+            "Shell": 483,
+            "Makefile": 158
+        }
+    },
+    {
+        "name": "chapel",
+        "description": null,
+        "languages": {
+            "Chapel": 1326
+        }
+    },
+    {
+        "name": "chapel_aroon_benchmarks_cleaned",
+        "description": "chapel repo with aroonsharma cleaned benchmarks added to test#users ",
+        "languages": {
+            "Chapel": 9667740,
+            "C": 3657719,
+            "C++": 3475263,
+            "TeX": 864605,
+            "Python": 423182,
+            "Perl": 258442,
+            "Shell": 171316,
+            "Makefile": 106554,
+            "JavaScript": 50663,
+            "Lex": 37483,
+            "Fortran": 18153,
+            "LLVM": 16367,
+            "Vim Script": 14861,
+            "Emacs Lisp": 14315,
+            "Gnuplot": 5362,
+            "Mathematica": 4971,
+            "Cuda": 4304,
+            "HTML": 2419,
+            "Yacc": 2337,
+            "Batchfile": 2092,
+            "Zimpl": 1115,
+            "CSS": 919
+        }
+    },
+    {
+        "name": "chapel-tutorial",
+        "description": null,
+        "languages": {
+            "Chapel": 578,
+            "Makefile": 226,
+            "Python": 188
+        }
+    },
+    {
+        "name": "_MasonTest2",
+        "description": "A repository for initial testing of Mason: Chapel's Package Manager",
+        "languages": {
+            "Chapel": 650
+        }
+    },
+    {
+        "name": "chapel_cray_imi_examples",
+        "description": "Examples developed in Chapel Cray programming language",
+        "languages": {
+            "Chapel": 60915,
+            "Shell": 179
+        }
+    },
+    {
+        "name": "chpl-sketching",
+        "description": "sketching algorithms implemented in chapel",
+        "languages": {
+            "Chapel": 5803,
+            "Makefile": 97
+        }
+    },
+    {
+        "name": "epoch",
+        "description": "Repo for learning tools written in Chapel",
+        "languages": {
+            "Chapel": 19329,
+            "Makefile": 1043
+        }
+    },
+    {
+        "name": "chplsht",
+        "description": null,
+        "languages": {
+            "Chapel": 29975,
+            "C": 19199,
+            "Makefile": 5056,
+            "Shell": 1584
+        }
+    },
+    {
+        "name": "chapel-geometrylib",
+        "description": "A geometry library for chapel",
+        "languages": {
+            "Chapel": 24491
+        }
+    },
+    {
+        "name": "CS415-Chapel-Programming",
+        "description": "Introduction to Chapel Programming Language. ",
+        "languages": {
+            "Chapel": 4998,
+            "C": 887,
+            "Makefile": 218
+        }
+    },
+    {
+        "name": "startingOutWithChappelLang",
+        "description": null,
+        "languages": {
+            "Chapel": 943
+        }
+    },
+    {
+        "name": "Chapel-Programs",
+        "description": "Some codes written in Chapel for practice.",
+        "languages": {
+            "Chapel": 1890
+        }
+    },
+    {
+        "name": "chapel_programs",
+        "description": null,
+        "languages": {
+            "Chapel": 3899
+        }
+    },
+    {
+        "name": "chasm",
+        "description": null,
+        "languages": {
+            "Chapel": 36141
+        }
+    },
+    {
+        "name": "HelloWorld",
+        "description": null,
+        "languages": {
+            "Chapel": 319
+        }
+    },
+    {
+        "name": "ClassUsageHackathon",
+        "description": null,
+        "languages": {
+            "Chapel": 2403
+        }
+    },
+    {
+        "name": "ml-chapel-summer-23",
+        "description": null,
+        "languages": {
+            "Chapel": 63757,
+            "Python": 12551
+        }
+    },
+    {
+        "name": "SubGraphIsomorphism",
+        "description": null,
+        "languages": {
+            "Chapel": 16557
+        }
+    },
+    {
+        "name": "chapel-hello-world",
+        "description": null,
+        "languages": {
+            "Chapel": 260
+        }
+    },
+    {
+        "name": "dissertation",
+        "description": null,
+        "languages": {
+            "Chapel": 2688
+        }
+    },
+    {
+        "name": "porr_17Z",
+        "description": "TEMAT: Faktoryzacja Cholesky'ego - por\u00f3wnanie efektywno\u015bci wersji wierszowej i kolumnowej w \u015brodowisku",
+        "languages": {
+            "Chapel": 9744
+        }
+    },
+    {
+        "name": "chingon",
+        "description": "The (Ch) (I)mplementation of (N)umerical (G)raph (O)peratio(n)s",
+        "languages": {
+            "Chapel": 21504
+        }
+    },
+    {
+        "name": "Matrix-Multiplication-Chapel",
+        "description": "A series of matrix multiplication programs written in chapel spanning from single-core to distributed memory parallel processing. ",
+        "languages": {
+            "Chapel": 5946,
+            "Shell": 828,
+            "Makefile": 242
+        }
+    },
+    {
+        "name": "chapel",
+        "description": null,
+        "languages": {
+            "Chapel": 61245,
+            "TeX": 16751,
+            "Python": 8741,
+            "Makefile": 1455,
+            "Shell": 360
+        }
+    },
+    {
+        "name": "ChapelTransparentResilience",
+        "description": "Benchmarks and datasets",
+        "languages": {
+            "Chapel": 15417
+        }
+    },
+    {
+        "name": "chapel_testing",
+        "description": "some toy code developed while learning about Cray's Chapel Programming language",
+        "languages": {
+            "Chapel": 6592
+        }
+    },
+    {
+        "name": "tagnotes",
+        "description": "Google Calendar API with Chapel & Python",
+        "languages": {
+            "Chapel": 3761,
+            "Python": 3143
+        }
+    },
+    {
+        "name": "FishLearning",
+        "description": null,
+        "languages": {
+            "Chapel": 28488,
+            "R": 843,
+            "Makefile": 334
+        }
+    },
+    {
+        "name": "aoc-2019-chapel",
+        "description": "Advent of Code for 2019 using Chapel",
+        "languages": {
+            "Chapel": 7077,
+            "Makefile": 1711
+        }
+    },
+    {
+        "name": "Chapel-Data-Structures",
+        "description": null,
+        "languages": {
+            "Chapel": 5102
+        }
+    },
+    {
+        "name": "Chapel-Data-Object",
+        "description": "Database connector for the chapel programming language",
+        "languages": {
+            "Chapel": 71456,
+            "C": 3554,
+            "Makefile": 2508,
+            "Shell": 725
+        }
+    },
+    {
+        "name": "chapel_benchmark",
+        "description": null,
+        "languages": {
+            "Chapel": 1787,
+            "Shell": 212
+        }
+    },
+    {
+        "name": "chapel_barba_navier_stokes",
+        "description": "A Chapel port of the Lorena A. Barba group's 12 steps to Navier Stokes tutorial",
+        "languages": {
+            "Chapel": 59599,
+            "Python": 30015,
+            "Shell": 2057
+        }
+    },
+    {
+        "name": "learn-chapel",
+        "description": null,
+        "languages": {
+            "Chapel": 38093,
+            "LLVM": 20371,
+            "Shell": 966
+        }
+    },
+    {
+        "name": "chpl",
+        "description": "Chapel Tutorial",
+        "languages": {
+            "Chapel": 11109,
+            "C": 20
+        }
     }
 ]

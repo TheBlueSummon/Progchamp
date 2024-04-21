@@ -44,5 +44,1633 @@
             "PowerShell": 4262,
             "Makefile": 706
         }
+    },
+    {
+        "name": "systemE",
+        "description": "\ud83e\udd23 A lightweight systemd replacement written in Emacs lisp \ud83e\udd23",
+        "languages": {
+            "Emacs Lisp": 8305,
+            "Shell": 263,
+            "C": 243
+        }
+    },
+    {
+        "name": "quelpa",
+        "description": "Build and install your Emacs Lisp packages on-the-fly directly from source",
+        "languages": {
+            "Emacs Lisp": 98025,
+            "Shell": 36690,
+            "Makefile": 1370
+        }
+    },
+    {
+        "name": "Elsa",
+        "description": "Emacs Lisp Static Analyzer and gradual type system.",
+        "languages": {
+            "Emacs Lisp": 606249,
+            "Batchfile": 1765,
+            "Shell": 1628
+        }
+    },
+    {
+        "name": "emacs-request",
+        "description": "Request.el -- Easy HTTP request for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 101339,
+            "Makefile": 5138,
+            "Shell": 4565,
+            "Python": 4090
+        }
+    },
+    {
+        "name": "notebook-mode",
+        "description": "GNU Emacs notebook mode",
+        "languages": {
+            "Emacs Lisp": 10282,
+            "CSS": 3730,
+            "TeX": 730
+        }
+    },
+    {
+        "name": ".emacs.d",
+        "description": "\ud83c\udf89 Personal GNU Emacs configuration",
+        "languages": {
+            "Emacs Lisp": 1421
+        }
+    },
+    {
+        "name": "parinfer-mode",
+        "description": "Parinfer for Emacs :)",
+        "languages": {
+            "Emacs Lisp": 104865
+        }
+    },
+    {
+        "name": "dash-at-point",
+        "description": "a emacs lisp for searching the word at point with Dash",
+        "languages": {
+            "Emacs Lisp": 10015
+        }
+    },
+    {
+        "name": "unpackaged.el",
+        "description": "A collection of useful Emacs Lisp code that isn't substantial enough to be packaged",
+        "languages": {
+            "Emacs Lisp": 83423,
+            "JavaScript": 28387,
+            "CSS": 16968
+        }
+    },
+    {
+        "name": "emacs4cl",
+        "description": "A tiny DIY kit to set up vanilla Emacs for Common Lisp programming",
+        "languages": {
+            "Emacs Lisp": 3375,
+            "Common Lisp": 353,
+            "Makefile": 159
+        }
+    },
+    {
+        "name": "ledger-mode",
+        "description": "Emacs Lisp files for interacting with the C++Ledger accounting system",
+        "languages": {
+            "Emacs Lisp": 444708,
+            "CMake": 1649,
+            "Makefile": 1584
+        }
+    },
+    {
+        "name": "emacs-buttercup",
+        "description": "Behavior-Driven Emacs Lisp Testing",
+        "languages": {
+            "Emacs Lisp": 212963,
+            "Batchfile": 5369,
+            "Shell": 3996,
+            "Makefile": 585
+        }
+    },
+    {
+        "name": "emacs-edbi",
+        "description": "Database Interface for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 94457,
+            "Perl": 4778,
+            "Shell": 153
+        }
+    },
+    {
+        "name": "emacs-refactor",
+        "description": "language-specific refactoring in Emacs",
+        "languages": {
+            "Emacs Lisp": 108343
+        }
+    },
+    {
+        "name": "nano-theme",
+        "description": "GNU Emacs / N \u039b N O Theme",
+        "languages": {
+            "Emacs Lisp": 84864
+        }
+    },
+    {
+        "name": "svg-lib",
+        "description": "Emacs SVG libraries for creatings tags, icons and bars",
+        "languages": {
+            "Emacs Lisp": 47983
+        }
+    },
+    {
+        "name": "litable",
+        "description": "On-the-fly evaluation/substitution of emacs lisp code",
+        "languages": {
+            "Emacs Lisp": 38478
+        }
+    },
+    {
+        "name": "emacs-nes",
+        "description": "A NES Emulator written in Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 102182
+        }
+    },
+    {
+        "name": "lispyville",
+        "description": "lispy + evil = lispyville",
+        "languages": {
+            "Emacs Lisp": 132000,
+            "Makefile": 567
+        }
+    },
+    {
+        "name": "emacs-deferred",
+        "description": "Simple asynchronous functions for emacs lisp",
+        "languages": {
+            "Emacs Lisp": 102953,
+            "Makefile": 893
+        }
+    },
+    {
+        "name": "prism.el",
+        "description": "Disperse Lisp forms (and other languages) into a spectrum of colors by depth",
+        "languages": {
+            "Emacs Lisp": 62560
+        }
+    },
+    {
+        "name": "symex.el",
+        "description": "An intuitive way to edit Lisp symbolic expressions (\"symexes\") structurally in Emacs",
+        "languages": {
+            "Emacs Lisp": 227844,
+            "Makefile": 1926
+        }
+    },
+    {
+        "name": "el-patch",
+        "description": "\u2728 Future-proof your Emacs Lisp customizations!",
+        "languages": {
+            "Emacs Lisp": 88919,
+            "Makefile": 2768,
+            "Shell": 1109,
+            "Dockerfile": 169
+        }
+    },
+    {
+        "name": "names",
+        "description": "A Namespace implementation for Emacs-Lisp",
+        "languages": {
+            "Emacs Lisp": 2322556,
+            "TeX": 106827,
+            "Makefile": 4419,
+            "HTML": 461,
+            "Shell": 312
+        }
+    },
+    {
+        "name": "xelb",
+        "description": "X protocol Emacs Lisp Binding",
+        "languages": {
+            "Emacs Lisp": 907747,
+            "Makefile": 821
+        }
+    },
+    {
+        "name": "paxedit",
+        "description": "Structured, Context-Driven, LISP Editing and Refactoring",
+        "languages": {
+            "Emacs Lisp": 104975,
+            "Clojure": 401
+        }
+    },
+    {
+        "name": "emacs-aio",
+        "description": "async/await for Emacs Lisp ",
+        "languages": {
+            "Emacs Lisp": 25009,
+            "Makefile": 307
+        }
+    },
+    {
+        "name": "elisp-demos",
+        "description": "Demonstrate Emacs Lisp APIs",
+        "languages": {
+            "Emacs Lisp": 11100,
+            "Makefile": 586
+        }
+    },
+    {
+        "name": "parinfer-rust-mode",
+        "description": "Simplifying how you write Lisp",
+        "languages": {
+            "Emacs Lisp": 112684,
+            "Clojure": 2840,
+            "Makefile": 1322,
+            "Nix": 1316
+        }
+    },
+    {
+        "name": "shx-for-emacs",
+        "description": "An Emacs shell-mode (and comint-mode) extension that enables displaying small plots and graphics and lets users write shell commands in Emacs Lisp.",
+        "languages": {
+            "Emacs Lisp": 59034
+        }
+    },
+    {
+        "name": "ov",
+        "description": "Overlay library for Emacs Lisp.",
+        "languages": {
+            "Emacs Lisp": 39077,
+            "Makefile": 280
+        }
+    },
+    {
+        "name": "el-compilador",
+        "description": "An SSA-based compiler for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 134409,
+            "Makefile": 201
+        }
+    },
+    {
+        "name": "evil-cleverparens",
+        "description": "Evil normal-state minor-mode for editing lisp-like languages",
+        "languages": {
+            "Emacs Lisp": 140980
+        }
+    },
+    {
+        "name": "emacs-epc",
+        "description": "A RPC stack for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 49509,
+            "Perl": 19257,
+            "Perl 6": 3442,
+            "Makefile": 419
+        }
+    },
+    {
+        "name": "clomacs",
+        "description": "Simplifies Emacs Lisp interaction with Clojure and vice versa.",
+        "languages": {
+            "Emacs Lisp": 32528,
+            "Clojure": 8699,
+            "Makefile": 493
+        }
+    },
+    {
+        "name": "ydiff",
+        "description": "A structural comparison tool for Lisp family languages, with experimental C++, JS support",
+        "languages": {
+            "Emacs Lisp": 291739,
+            "C++": 258264,
+            "Scheme": 197595,
+            "Racket": 145105,
+            "Clojure": 67675,
+            "JavaScript": 6812,
+            "CSS": 5542,
+            "Makefile": 97
+        }
+    },
+    {
+        "name": "elisp-bytecode",
+        "description": "Let's document Emacs Lisp Bytecode (Lisp Assembly Program) instructions",
+        "languages": {
+            "Emacs Lisp": 14538,
+            "Makefile": 1028
+        }
+    },
+    {
+        "name": "emacs-web-server",
+        "description": "web server running Emacs Lisp handlers.",
+        "languages": {
+            "Emacs Lisp": 51596,
+            "Makefile": 1171
+        }
+    },
+    {
+        "name": "auto-compile",
+        "description": "Automatically compile Emacs Lisp libraries",
+        "languages": {
+            "Emacs Lisp": 35303,
+            "Makefile": 1596
+        }
+    },
+    {
+        "name": "emacs-cl",
+        "description": "Common Lisp implemented in Emacs Lisp.",
+        "languages": {
+            "Emacs Lisp": 455635,
+            "Common Lisp": 286871,
+            "Makefile": 1141,
+            "Shell": 119
+        }
+    },
+    {
+        "name": "nano-modeline",
+        "description": "GNU Emacs / N \u039b N O Modeline",
+        "languages": {
+            "Emacs Lisp": 42485
+        }
+    },
+    {
+        "name": "paren-face",
+        "description": "A face dedicated to lisp parentheses",
+        "languages": {
+            "Emacs Lisp": 4545,
+            "Makefile": 1601
+        }
+    },
+    {
+        "name": "elisp-koans",
+        "description": "Emacs Lisp Koans -- learn elisp through test-driven development.",
+        "languages": {
+            "Emacs Lisp": 76425
+        }
+    },
+    {
+        "name": "elmacro",
+        "description": "Package to display keyboard macros or latest interactive commands as emacs lisp.",
+        "languages": {
+            "Emacs Lisp": 11907
+        }
+    },
+    {
+        "name": "frog-jump-buffer",
+        "description": "The fastest buffer-jumping Emacs lisp package around",
+        "languages": {
+            "Emacs Lisp": 14173
+        }
+    },
+    {
+        "name": "elisp-slime-nav",
+        "description": "Slime-style navigation of Emacs Lisp source with M-. & M-,",
+        "languages": {
+            "Emacs Lisp": 4946
+        }
+    },
+    {
+        "name": "emacs-jit",
+        "description": "Emacs with an Emacs Lisp JIT (Just In Time) compiler using libjit.",
+        "languages": {
+            "Emacs Lisp": 53872519,
+            "C": 11413911,
+            "Groff": 7896958,
+            "Common Lisp": 4077373,
+            "TeX": 687420,
+            "Objective-C": 478316,
+            "Makefile": 428839,
+            "M4": 427074,
+            "PostScript": 93585,
+            "Ruby": 87927,
+            "C++": 83461,
+            "Shell": 82730,
+            "Perl": 76190,
+            "MATLAB": 69301,
+            "HTML": 54213,
+            "NewLisp": 54073,
+            "Batchfile": 52007,
+            "JavaScript": 51113,
+            "Slash": 49281,
+            "SystemVerilog": 48115,
+            "Smalltalk": 42832,
+            "GDB": 37691,
+            "SRecode Template": 37339,
+            "Pascal": 31739,
+            "Awk": 18136,
+            "Prolog": 9010,
+            "Java": 1581,
+            "Modula-2": 890
+        }
+    },
+    {
+        "name": "hyperbole",
+        "description": "GNU Hyperbole: The Everyday, Hypertextual Information Manager",
+        "languages": {
+            "Emacs Lisp": 2387942,
+            "Makefile": 25177,
+            "Python": 8992,
+            "Shell": 2482
+        }
+    },
+    {
+        "name": "Nameless",
+        "description": "Less is more. Hide package namespace in your emacs-lisp code",
+        "languages": {
+            "Emacs Lisp": 11949
+        }
+    },
+    {
+        "name": "eros",
+        "description": "Evaluation Result OverlayS for Emacs Lisp.",
+        "languages": {
+            "Emacs Lisp": 10573
+        }
+    },
+    {
+        "name": "html5-el",
+        "description": "HTML5 and XHTML5 tools in Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 315162
+        }
+    },
+    {
+        "name": "org-bib-mode",
+        "description": "An Emacs minor mode for literate & annotated bibliography",
+        "languages": {
+            "Emacs Lisp": 25893,
+            "TeX": 7842
+        }
+    },
+    {
+        "name": "emacs-chess",
+        "description": "A complete chess client written in Emacs Lisp.",
+        "languages": {
+            "Emacs Lisp": 480990,
+            "Shell": 46338,
+            "Gherkin": 4495,
+            "Makefile": 4237,
+            "M4": 364
+        }
+    },
+    {
+        "name": "parsec.el",
+        "description": "A parser combinator library for Emacs Lisp, similar to Haskell's Parsec library.",
+        "languages": {
+            "Emacs Lisp": 50005
+        }
+    },
+    {
+        "name": "cli",
+        "description": "CLI for building, running, testing, and managing your Emacs Lisp dependencies",
+        "languages": {
+            "Emacs Lisp": 270901,
+            "JavaScript": 118476,
+            "Shell": 23752,
+            "Batchfile": 1953,
+            "Makefile": 1157
+        }
+    },
+    {
+        "name": "elisp-refs",
+        "description": "semantic code search for emacs lisp",
+        "languages": {
+            "Emacs Lisp": 58526,
+            "Makefile": 130,
+            "Shell": 89
+        }
+    },
+    {
+        "name": "elmarmalade",
+        "description": "emacs-lisp version of the marmalade package repository",
+        "languages": {
+            "Emacs Lisp": 311880,
+            "HTML": 32398,
+            "CSS": 2615,
+            "Shell": 1911,
+            "Nginx": 1804,
+            "Makefile": 809
+        }
+    },
+    {
+        "name": "parinfer-elisp",
+        "description": "Parinfer in Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 41217,
+            "Makefile": 207
+        }
+    },
+    {
+        "name": "emacs-inspector",
+        "description": "Inspection tool for Emacs Lisp objects.",
+        "languages": {
+            "Emacs Lisp": 54522,
+            "Shell": 112
+        }
+    },
+    {
+        "name": "evil-lisp-state",
+        "description": "An evil state to navigate Lisp code and modify it with smartparens",
+        "languages": {
+            "Emacs Lisp": 12060
+        }
+    },
+    {
+        "name": "a.el",
+        "description": "Emacs Lisp functions for dealing with association lists and hash tables. Inspired by Clojure.",
+        "languages": {
+            "Emacs Lisp": 21392
+        }
+    },
+    {
+        "name": "taxy.el",
+        "description": "Programmable taxonomical hierarchies for arbitrary objects",
+        "languages": {
+            "Emacs Lisp": 18945
+        }
+    },
+    {
+        "name": "sideframe",
+        "description": "Emacs side frames",
+        "languages": {
+            "Emacs Lisp": 13955
+        }
+    },
+    {
+        "name": "refine",
+        "description": "interactive value editing in emacs lisp",
+        "languages": {
+            "Emacs Lisp": 38966,
+            "Makefile": 110
+        }
+    },
+    {
+        "name": "wechat.el",
+        "description": "\u7528Emacs Lisp\u5f00\u53d1\u7684\u5fae\u4fe1\u5c0f\u6e38\u620f\uff1b Wechat game in Email Lisp",
+        "languages": {
+            "Emacs Lisp": 14263,
+            "Shell": 304
+        }
+    },
+    {
+        "name": "nano-agenda",
+        "description": "A minimal org agenda for Emacs",
+        "languages": {
+            "Emacs Lisp": 30450
+        }
+    },
+    {
+        "name": "elisp",
+        "description": "G\u00f6ktu\u011f's Emacs Lisp programs",
+        "languages": {
+            "Emacs Lisp": 105199
+        }
+    },
+    {
+        "name": "tco.el",
+        "description": "Tail call optimisation in Emacs lisp",
+        "languages": {
+            "Emacs Lisp": 5143,
+            "Makefile": 110
+        }
+    },
+    {
+        "name": "emacs-lisp-intro-solutions",
+        "description": "Solutions to the exercises in the `An Introduction to Programming in Emacs Lisp'",
+        "languages": {
+            "Emacs Lisp": 32659
+        }
+    },
+    {
+        "name": "kickstart.emacs",
+        "description": "A starting point for Gnu Emacs with good defaults and packages that most people may want to use.",
+        "languages": {
+            "Emacs Lisp": 18179
+        }
+    },
+    {
+        "name": "at-el",
+        "description": "Prototype-based Emacs Lisp object system",
+        "languages": {
+            "Emacs Lisp": 22615,
+            "Makefile": 1102
+        }
+    },
+    {
+        "name": "comb",
+        "description": "Interactive code auditing and grep tool in Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 52291,
+            "Makefile": 190
+        }
+    },
+    {
+        "name": "language-detection.el",
+        "description": "Automatic programming language detection of code snippets, in Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 2014785,
+            "C++": 1030946,
+            "C": 977244,
+            "Objective-C": 748220,
+            "Python": 617094,
+            "PHP": 593533,
+            "JavaScript": 416276,
+            "CSS": 344960,
+            "HTML": 261838,
+            "Perl": 228591,
+            "Java": 191131,
+            "Ruby": 169950,
+            "Smalltalk": 149797,
+            "Erlang": 142484,
+            "MATLAB": 127317,
+            "C#": 119046,
+            "Shell": 110241,
+            "Rust": 106581,
+            "Go": 103308,
+            "F#": 94778,
+            "Haskell": 82347,
+            "Scala": 68367,
+            "Common Lisp": 67403,
+            "Prolog": 51193,
+            "R": 46849,
+            "Scheme": 38217,
+            "Clojure": 35421,
+            "Groovy": 31171,
+            "NewLisp": 29948,
+            "Visual Basic": 29831,
+            "Swift": 17080,
+            "TeX": 6536,
+            "Lua": 5655,
+            "Perl 6": 5506,
+            "SQLPL": 5126,
+            "PicoLisp": 5074,
+            "Awk": 4967,
+            "PLSQL": 4244,
+            "M": 3688,
+            "Fortran": 1513,
+            "PLpgSQL": 1083,
+            "Mathematica": 947,
+            "Rebol": 861,
+            "Dart": 338,
+            "Mercury": 241
+        }
+    },
+    {
+        "name": "elisp-reader.el",
+        "description": "Customizable reader for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 24261
+        }
+    },
+    {
+        "name": "speed-of-thought-lisp",
+        "description": "Write elisp at the speed of thought. Emacs minor mode with abbrevs and keybinds.",
+        "languages": {
+            "Emacs Lisp": 26250
+        }
+    },
+    {
+        "name": "elisp-check",
+        "description": "A GitHub Action for Emacs Lisp CI",
+        "languages": {
+            "Emacs Lisp": 16164,
+            "JavaScript": 1162
+        }
+    },
+    {
+        "name": "el2org",
+        "description": "Convert an emacs-lisp file to org file",
+        "languages": {
+            "Emacs Lisp": 12462
+        }
+    },
+    {
+        "name": "etrace",
+        "description": "Emacs Lisp Latency Tracing for the Chromium Catapult Trace Event Format",
+        "languages": {
+            "Emacs Lisp": 2810
+        }
+    },
+    {
+        "name": "elisp-lint",
+        "description": "Basic linting for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 25452,
+            "Makefile": 1371
+        }
+    },
+    {
+        "name": "lisp-system-browser",
+        "description": "Smalltalk-like system browser for Common Lisp.",
+        "languages": {
+            "Emacs Lisp": 37739,
+            "Common Lisp": 3966
+        }
+    },
+    {
+        "name": "elisp-def",
+        "description": "Find Emacs Lisp definitions",
+        "languages": {
+            "Emacs Lisp": 49735
+        }
+    },
+    {
+        "name": "highlight-defined",
+        "description": "Highlight known Emacs Lisp symbols",
+        "languages": {
+            "Emacs Lisp": 7027
+        }
+    },
+    {
+        "name": "emacs-splash",
+        "description": "An alternative splash screen for GNU Emacs",
+        "languages": {
+            "Emacs Lisp": 8929
+        }
+    },
+    {
+        "name": "Master-Emacs-Lisp-with-Solid-Procedures",
+        "description": "Master Emacs-Lisp",
+        "languages": {
+            "Emacs Lisp": 371,
+            "Python": 191
+        }
+    },
+    {
+        "name": "compat",
+        "description": "COMPATibility Library for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 319379,
+            "Makefile": 2656
+        }
+    },
+    {
+        "name": "emacs-python-environment",
+        "description": "Python virtualenv API for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 16919,
+            "Makefile": 680
+        }
+    },
+    {
+        "name": "pcap-mode",
+        "description": "emacs lisp pcap file viewer",
+        "languages": {
+            "Emacs Lisp": 20631
+        }
+    },
+    {
+        "name": "parseclj",
+        "description": "Clojure Parser for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 116336,
+            "Makefile": 605
+        }
+    },
+    {
+        "name": "curl-to-elisp",
+        "description": "Convert cURL command to Emacs Lisp code",
+        "languages": {
+            "Emacs Lisp": 19440
+        }
+    },
+    {
+        "name": "parseedn",
+        "description": "EDN parser for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 37709,
+            "Makefile": 605
+        }
+    },
+    {
+        "name": "lisp-extra-font-lock",
+        "description": "Highlight bound variables and quoted expressions in lisp",
+        "languages": {
+            "Emacs Lisp": 26561
+        }
+    },
+    {
+        "name": "el2markdown",
+        "description": "Convert Emacs Lisp comments to MarkDown",
+        "languages": {
+            "Emacs Lisp": 13589,
+            "Ruby": 1866
+        }
+    },
+    {
+        "name": "anaphora",
+        "description": "Anaphoric expressions for Emacs Lisp, providing implicit temporary variables.",
+        "languages": {
+            "Emacs Lisp": 24413,
+            "Makefile": 7930
+        }
+    },
+    {
+        "name": "treepy.el",
+        "description": "Generic tree traversing tools for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 41893,
+            "Shell": 370
+        }
+    },
+    {
+        "name": "templatel",
+        "description": "Jinja inspired template language for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 126629,
+            "Makefile": 531
+        }
+    },
+    {
+        "name": "pair-tree.el",
+        "description": "An Emacs Lisp cons cell explorer",
+        "languages": {
+            "Emacs Lisp": 29136
+        }
+    },
+    {
+        "name": "elisp-repo-kit",
+        "description": "Emacs Lisp package for creating an Emacs Lisp Github repo with CI",
+        "languages": {
+            "Emacs Lisp": 47499
+        }
+    },
+    {
+        "name": "shadchen-el",
+        "description": "shadchen is an emacs lisp pattern matching library",
+        "languages": {
+            "Emacs Lisp": 58703
+        }
+    },
+    {
+        "name": "mongo",
+        "description": "MongoDB driver for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 33242
+        }
+    },
+    {
+        "name": "emacs-lisp",
+        "description": "Exercism exercises in Emacs Lisp.",
+        "languages": {
+            "Emacs Lisp": 121174,
+            "Shell": 5718,
+            "Mustache": 756
+        }
+    },
+    {
+        "name": "lisp-format",
+        "description": "A tool to format lisp code.  Designed to mimic clang-format.",
+        "languages": {
+            "Emacs Lisp": 21526,
+            "Shell": 2858,
+            "Common Lisp": 875,
+            "Makefile": 627
+        }
+    },
+    {
+        "name": "emlib",
+        "description": "Machine Learning in Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 19295
+        }
+    },
+    {
+        "name": "literate-elisp",
+        "description": "Load Emacs Lisp code blocks from Org files",
+        "languages": {
+            "Emacs Lisp": 26704
+        }
+    },
+    {
+        "name": "litex-mode",
+        "description": "LiTeX mode for emacs; A minor mode to convert valid lisp expressions to LaTeX",
+        "languages": {
+            "Emacs Lisp": 32963
+        }
+    },
+    {
+        "name": "pp-html",
+        "description": "A html template language in Emacs-Lisp",
+        "languages": {
+            "Emacs Lisp": 32846
+        }
+    },
+    {
+        "name": "emacs-widget-mvc",
+        "description": "Web like MVC framework for emacs lisp",
+        "languages": {
+            "Emacs Lisp": 26993,
+            "Gherkin": 278,
+            "Makefile": 147
+        }
+    },
+    {
+        "name": ".emacs.d",
+        "description": "My Lisp code available for you to build upon or learn from",
+        "languages": {
+            "Emacs Lisp": 85251,
+            "Shell": 146
+        }
+    },
+    {
+        "name": "slime-docker",
+        "description": "Emacs package to make it easy to launch and connect to a Lisp process in a docker container with SLIME.",
+        "languages": {
+            "Emacs Lisp": 33656,
+            "Shell": 2064
+        }
+    },
+    {
+        "name": "clpc",
+        "description": "Common Lisp Programming Challenge",
+        "languages": {
+            "Emacs Lisp": 1577
+        }
+    },
+    {
+        "name": "minibuffer-header",
+        "description": "Minibuffer header for GNU/Emacs",
+        "languages": {
+            "Emacs Lisp": 8725
+        }
+    },
+    {
+        "name": "pinboard.el",
+        "description": "A pinboard.in client for Emacs.",
+        "languages": {
+            "Emacs Lisp": 28882,
+            "Makefile": 110
+        }
+    },
+    {
+        "name": "elisp-json-rpc",
+        "description": "JSON-RPC library for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 9074,
+            "Makefile": 353
+        }
+    },
+    {
+        "name": "highlight-quoted",
+        "description": "Highlight Lisp quotes and quoted symbols",
+        "languages": {
+            "Emacs Lisp": 4179
+        }
+    },
+    {
+        "name": "asoc.el",
+        "description": "Emacs lisp association list (alist) library",
+        "languages": {
+            "Emacs Lisp": 110475
+        }
+    },
+    {
+        "name": "paredit-everywhere",
+        "description": "Enable some paredit features in non-lisp buffers",
+        "languages": {
+            "Emacs Lisp": 2621
+        }
+    },
+    {
+        "name": "lisp",
+        "description": "A collection of my emacs lisp goodies.",
+        "languages": {
+            "Emacs Lisp": 116641894,
+            "Common Lisp": 2138797,
+            "Eiffel": 242781,
+            "C": 140470,
+            "Erlang": 115486,
+            "Ruby": 84348,
+            "Scheme": 58343,
+            "C++": 45985,
+            "Shell": 11045,
+            "Tcl": 10728,
+            "Lua": 6107,
+            "Perl": 5951,
+            "Python": 1259,
+            "JavaScript": 296,
+            "Vim Script": 280,
+            "PHP": 23
+        }
+    },
+    {
+        "name": "loop.el",
+        "description": "friendly imperative loop structures for Emacs lisp",
+        "languages": {
+            "Emacs Lisp": 10388,
+            "Makefile": 110
+        }
+    },
+    {
+        "name": "dala-emacs-lisp",
+        "description": "A repository to share my emacs lisp code experiments",
+        "languages": {
+            "Emacs Lisp": 239695
+        }
+    },
+    {
+        "name": "one.el",
+        "description": "one.el a simple Static Site Generator for Emacs Lisp programmers and org-mode users.",
+        "languages": {
+            "Emacs Lisp": 89254
+        }
+    },
+    {
+        "name": "graph.el",
+        "description": "Graph Layout Library For Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 73502,
+            "Shell": 783,
+            "Makefile": 304
+        }
+    },
+    {
+        "name": "elpl",
+        "description": "Provides a simple interface to evaluating Emacs Lisp expressions but without contaminating current Emacs.",
+        "languages": {
+            "Emacs Lisp": 21012,
+            "Makefile": 740
+        }
+    },
+    {
+        "name": "elisa",
+        "description": "ELISA (Emacs Lisp Information System Assistant) is a project designed to help Emacs users quickly find answers to their questions related to Emacs and Emacs Lisp. Utilizing the powerful Ellama package, ELISA provides accurate and relevant responses to user queries, enhancing productivity and efficiency in the Emacs environment.",
+        "languages": {
+            "Emacs Lisp": 10736
+        }
+    },
+    {
+        "name": "flycheck-elsa",
+        "description": "Flycheck integration for Elsa---Emacs lisp static analyzer",
+        "languages": {
+            "Emacs Lisp": 6730
+        }
+    },
+    {
+        "name": "slime-star",
+        "description": "SLIME configuration with some extensions pre-installed.",
+        "languages": {
+            "Emacs Lisp": 117478,
+            "Common Lisp": 63962,
+            "Dockerfile": 985,
+            "Makefile": 70
+        }
+    },
+    {
+        "name": "persid",
+        "description": "Persistent identifier library for GNU Emacs",
+        "languages": {
+            "Emacs Lisp": 18217
+        }
+    },
+    {
+        "name": "elisp-regex-dsl",
+        "description": "Readable regular expressions DSL for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 5859
+        }
+    },
+    {
+        "name": "emacs-load-relative",
+        "description": "Relative loads for Emacs Lisp files. Adds functions __FILE__ and  load-relative and require-relative.",
+        "languages": {
+            "Emacs Lisp": 37950,
+            "Shell": 5836,
+            "Makefile": 3790,
+            "M4": 755,
+            "Ruby": 473
+        }
+    },
+    {
+        "name": "org-imenu",
+        "description": "org-mode side menu with filtering capability",
+        "languages": {
+            "Emacs Lisp": 10187
+        }
+    },
+    {
+        "name": "emacs-multi",
+        "description": "Clojure-style multi-methods for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 6868,
+            "Shell": 177
+        }
+    },
+    {
+        "name": "predd",
+        "description": "Multimethods for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 12827,
+            "Makefile": 390
+        }
+    },
+    {
+        "name": "scripts.el",
+        "description": "A collection of my tiny but useful Emacs Lisp code",
+        "languages": {
+            "Emacs Lisp": 6531
+        }
+    },
+    {
+        "name": "review-el",
+        "description": "Emacs lisp helper mode for ReVIEW",
+        "languages": {
+            "Emacs Lisp": 39780,
+            "Ruby": 280
+        }
+    },
+    {
+        "name": "infix.el",
+        "description": "Infix operators for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 17768
+        }
+    },
+    {
+        "name": "helm-slime",
+        "description": "Helm for SLIME",
+        "languages": {
+            "Emacs Lisp": 21750
+        }
+    },
+    {
+        "name": "ppp.el",
+        "description": "Extended pretty printer for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 33561,
+            "Makefile": 1792,
+            "Shell": 25
+        }
+    },
+    {
+        "name": "ap.el",
+        "description": "A simple, Emacs Lisp-focused Emacs config",
+        "languages": {
+            "Emacs Lisp": 12745141,
+            "C": 9167487,
+            "Python": 28934,
+            "Clojure": 19600,
+            "Shell": 10469,
+            "Makefile": 3565
+        }
+    },
+    {
+        "name": "qrencode-el",
+        "description": "QRCode encoder for Emacs in pure elisp",
+        "languages": {
+            "Emacs Lisp": 60961,
+            "Makefile": 567
+        }
+    },
+    {
+        "name": "docopt.el",
+        "description": "A Docopt implementation in Emacs Lisp.",
+        "languages": {
+            "Emacs Lisp": 195362,
+            "Shell": 33312,
+            "Makefile": 1309,
+            "Python": 1008
+        }
+    },
+    {
+        "name": "jack",
+        "description": "jack is a HTML generator library for Emacs Lisp.",
+        "languages": {
+            "Emacs Lisp": 21309
+        }
+    },
+    {
+        "name": "ob-latex-as-png",
+        "description": "Inline arbitrary LaTeX snippets as PNGs in Emacs (\u2022\u0300\u1d17\u2022\u0301)\u0648",
+        "languages": {
+            "Emacs Lisp": 6250
+        }
+    },
+    {
+        "name": "fn.el",
+        "description": "Concise anonymous functions for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 11532
+        }
+    },
+    {
+        "name": "quicklisp-systems",
+        "description": "Search, browse and load Quicklisp systems from Emacs.",
+        "languages": {
+            "Emacs Lisp": 16186,
+            "Common Lisp": 7833,
+            "Makefile": 578
+        }
+    },
+    {
+        "name": "Emacs-erefactor",
+        "description": "Emacs-Lisp refactoring utilities",
+        "languages": {
+            "Emacs Lisp": 46728,
+            "Makefile": 302
+        }
+    },
+    {
+        "name": "mbsync-el",
+        "description": "Wrap calling mbsync in Emacs Lisp, with a gnus hook",
+        "languages": {
+            "Emacs Lisp": 6594
+        }
+    },
+    {
+        "name": "eshell",
+        "description": "A complete OS command-shell, written entirely in Emacs Lisp.",
+        "languages": {}
+    },
+    {
+        "name": "learning-elisp",
+        "description": "The Story of how I learned Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 23758
+        }
+    },
+    {
+        "name": "edbc",
+        "description": "EDBC is Emacs-Lisp-based data access technology.",
+        "languages": {
+            "Emacs Lisp": 8499
+        }
+    },
+    {
+        "name": "elx",
+        "description": "Extract information from Emacs Lisp libraries",
+        "languages": {
+            "Emacs Lisp": 55983,
+            "Makefile": 1608
+        }
+    },
+    {
+        "name": "doctest",
+        "description": "Doctests for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 6957
+        }
+    },
+    {
+        "name": "ipcalc.el",
+        "description": "IP calculator in Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 15590,
+            "Makefile": 127
+        }
+    },
+    {
+        "name": "parse-it",
+        "description": "Basic Parser in Emacs Lisp.",
+        "languages": {
+            "Emacs Lisp": 109555,
+            "Shell": 482,
+            "Makefile": 475,
+            "Batchfile": 441
+        }
+    },
+    {
+        "name": "shared-buffer-lisp-in-summer-projects",
+        "description": "Collaberative editing in Emacs",
+        "languages": {
+            "Emacs Lisp": 13465,
+            "Common Lisp": 6635
+        }
+    },
+    {
+        "name": "bitpack",
+        "description": "Emacs Lisp structure packing",
+        "languages": {
+            "Emacs Lisp": 21800,
+            "Makefile": 450
+        }
+    },
+    {
+        "name": "holy-books",
+        "description": "An Emacs interface to the Quran and the Bible: Org-mode links, tooltips, and Lisp look-ups",
+        "languages": {
+            "Emacs Lisp": 22855
+        }
+    },
+    {
+        "name": "el-init",
+        "description": "Just another Emacs '(lisp-machine) configuration written in literate programming format",
+        "languages": {
+            "Emacs Lisp": 104851,
+            "Shell": 12043,
+            "Makefile": 1237
+        }
+    },
+    {
+        "name": "lastfm.el",
+        "description": "Last.fm API for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 23557
+        }
+    },
+    {
+        "name": "markov-text",
+        "description": "Markov chain text generation in Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 7004
+        }
+    },
+    {
+        "name": "swift-mode",
+        "description": "Swift language mode for Emacs LISP",
+        "languages": {
+            "Emacs Lisp": 3018
+        }
+    },
+    {
+        "name": "validate.el",
+        "description": "Schema validator for Emacs-lisp",
+        "languages": {
+            "Emacs Lisp": 9702
+        }
+    },
+    {
+        "name": "ellocate",
+        "description": "A more flexible locate implemented in Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 7031
+        }
+    },
+    {
+        "name": "jiralib2",
+        "description": "Lisp bindings to JIRA REST API (used by Ejira)",
+        "languages": {
+            "Emacs Lisp": 16635
+        }
+    },
+    {
+        "name": "ert",
+        "description": "Emacs Lisp Regression Testing",
+        "languages": {}
+    },
+    {
+        "name": "highlight-backquotes-mode",
+        "description": "Visualize the quotation depth of Lisp code in Emacs.",
+        "languages": {
+            "Emacs Lisp": 26522
+        }
+    },
+    {
+        "name": "colisper",
+        "description": "Check and transform Lisp code with Comby (beta)",
+        "languages": {
+            "Emacs Lisp": 9356,
+            "Shell": 3057,
+            "Common Lisp": 1571
+        }
+    },
+    {
+        "name": ".emacs.d",
+        "description": "\ud83d\udcbbMy Emacs configuration.",
+        "languages": {
+            "Emacs Lisp": 191828,
+            "YASnippet": 1908,
+            "Shell": 702,
+            "Makefile": 222
+        }
+    },
+    {
+        "name": "elispfl",
+        "description": "Extra font lock made your Emacs lisp mode fancy",
+        "languages": {
+            "Emacs Lisp": 6610
+        }
+    },
+    {
+        "name": "emacs-rsa",
+        "description": "RSA cryptography in Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 4890
+        }
+    },
+    {
+        "name": "insecure-lock",
+        "description": "Screen locker in pure Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 12077
+        }
+    },
+    {
+        "name": "string-utils",
+        "description": "String-manipulation utilities for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 99889
+        }
+    },
+    {
+        "name": "simple-call-tree",
+        "description": "Extension to simple-call-tree.el - emacs lisp code for displaying a simple call tree.",
+        "languages": {
+            "Emacs Lisp": 139511
+        }
+    },
+    {
+        "name": "slime-doc-contribs",
+        "description": "Documentation contribs for SLIME (the Superior Lisp Interaction Mode for Emacs)",
+        "languages": {
+            "Emacs Lisp": 56374,
+            "Common Lisp": 30108
+        }
+    },
+    {
+        "name": "ari-el",
+        "description": "Emacs Lisp Collection for Several Developers.",
+        "languages": {
+            "Emacs Lisp": 20756
+        }
+    },
+    {
+        "name": "elisp-fakespace",
+        "description": "Emacs Lisp namespaces (defpackage)",
+        "languages": {
+            "Emacs Lisp": 4505
+        }
+    },
+    {
+        "name": "sourcemap",
+        "description": "Sourmap parser in Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 15629,
+            "Makefile": 309
+        }
+    },
+    {
+        "name": "mefcl",
+        "description": "My Emacs For Common Lisp",
+        "languages": {
+            "Emacs Lisp": 11919371,
+            "Common Lisp": 1171393,
+            "Scheme": 131195,
+            "C++": 43359,
+            "C": 13276,
+            "Ruby": 7652,
+            "Shell": 5651,
+            "Fortran": 2529,
+            "Java": 1897
+        }
+    },
+    {
+        "name": "xelb",
+        "description": "X protocol Emacs Lisp Binding",
+        "languages": {
+            "Emacs Lisp": 899918,
+            "Makefile": 774
+        }
+    },
+    {
+        "name": "osa",
+        "description": "Emacs Lisp to Open Scripting Architecture (AppleScript / JavaScript) bridge",
+        "languages": {
+            "Emacs Lisp": 24942,
+            "AppleScript": 1630,
+            "JavaScript": 670
+        }
+    },
+    {
+        "name": "elinter",
+        "description": "Nix-based CI and local testing framework for Emacs Lisp projects",
+        "languages": {
+            "Emacs Lisp": 33421,
+            "Nix": 28617,
+            "Shell": 22142,
+            "sed": 300
+        }
+    },
+    {
+        "name": "ellit-org.el",
+        "description": "Emacs Lisp Literate programming tool",
+        "languages": {
+            "Emacs Lisp": 30782,
+            "Makefile": 603
+        }
+    },
+    {
+        "name": "nano-bell",
+        "description": "Visual bell for GNU Emacs",
+        "languages": {
+            "Emacs Lisp": 6201
+        }
+    },
+    {
+        "name": "emacs-aes",
+        "description": "Emacs Lisp implementation of AES",
+        "languages": {
+            "Emacs Lisp": 61143
+        }
+    },
+    {
+        "name": "rdp",
+        "description": "Recursive descent parser for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 8065
+        }
+    },
+    {
+        "name": "ebf",
+        "description": "Brainfuck language transpiler to Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 10447
+        }
+    },
+    {
+        "name": "slime-repl-ansi-color",
+        "description": "I found this code here http://lists.common-lisp.net/pipermail/slime-devel/2012-March/018497.html . Original Author is Max Mikhanosha.",
+        "languages": {
+            "Emacs Lisp": 1033
+        }
+    },
+    {
+        "name": "el-project",
+        "description": "Generate project skeleton for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 11000
+        }
+    },
+    {
+        "name": "multi",
+        "description": "multiple dispatch \"Swiss army-knife\" for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 199199,
+            "Makefile": 1341
+        }
+    },
+    {
+        "name": "37emacs",
+        "description": "Emacs Lisp client libraries for 37signals' various product APIs",
+        "languages": {
+            "Emacs Lisp": 44466
+        }
+    },
+    {
+        "name": "mmt",
+        "description": "Missing macro tools for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 6171,
+            "Nix": 239
+        }
+    },
+    {
+        "name": "html-to-markdown",
+        "description": "HTML to Markdown converter written in emacs-lisp.",
+        "languages": {
+            "Emacs Lisp": 22097
+        }
+    },
+    {
+        "name": "psearch.el",
+        "description": "Pcase based search for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 55583,
+            "Shell": 3282,
+            "Makefile": 752
+        }
+    },
+    {
+        "name": "nano-splash",
+        "description": "N \u039b N O Splash",
+        "languages": {
+            "Emacs Lisp": 6394
+        }
+    },
+    {
+        "name": "elisp-earley",
+        "description": "Earley parser in Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 42007,
+            "Common Lisp": 15959,
+            "Shell": 3294,
+            "Makefile": 2785,
+            "M4": 1801,
+            "Ruby": 570
+        }
+    },
+    {
+        "name": "emacs-json-pointer",
+        "description": "JSON pointer implementation in Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 3495,
+            "Makefile": 137
+        }
+    },
+    {
+        "name": "elpaso",
+        "description": "Emacs Lisp Package Archive Self Officiator (ELPASO)",
+        "languages": {
+            "Emacs Lisp": 116175,
+            "Makefile": 3093,
+            "Shell": 1901
+        }
+    },
+    {
+        "name": "emacswiki-elpa",
+        "description": "An unofficial Emacs Lisp Package Archive for EmacsWiki",
+        "languages": {
+            "Emacs Lisp": 2070,
+            "Makefile": 935
+        }
     }
 ]

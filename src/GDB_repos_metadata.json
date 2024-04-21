@@ -36,5 +36,1760 @@
         "languages": {
             "GDB": 389
         }
+    },
+    {
+        "name": "docker-apache2-php5",
+        "description": "Docker image for running Apache 2.x with PHP 5.x",
+        "languages": {
+            "GDB": 13472,
+            "Dockerfile": 5866,
+            "Shell": 1654,
+            "Makefile": 74
+        }
+    },
+    {
+        "name": "stm32-lora-disco-rs",
+        "description": "Unofficial Rust Board Support Crate for B-L072Z-LRWAN1",
+        "languages": {
+            "GDB": 449,
+            "Rust": 304,
+            "Logos": 98
+        }
+    },
+    {
+        "name": "ubuntu-bootstrap",
+        "description": "Bootstrap an Ubuntu 16.04 environment",
+        "languages": {
+            "GDB": 93882,
+            "Vim Script": 48606,
+            "Shell": 10074,
+            "ApacheConf": 560
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": null,
+        "languages": {
+            "GDB": 111780,
+            "Vim Script": 104757,
+            "Shell": 51015
+        }
+    },
+    {
+        "name": "baselayout",
+        "description": "base files for SulinOS",
+        "languages": {
+            "GDB": 7102,
+            "Shell": 5123,
+            "Makefile": 2487,
+            "Roff": 350
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "Collected dotfiles and other scripts.",
+        "languages": {
+            "GDB": 65833,
+            "Vim Script": 50260,
+            "Shell": 25071,
+            "Haskell": 18900,
+            "Emacs Lisp": 3557,
+            "Makefile": 799,
+            "Lua": 349,
+            "Python": 95
+        }
+    },
+    {
+        "name": "others",
+        "description": null,
+        "languages": {
+            "GDB": 63230
+        }
+    },
+    {
+        "name": "gdb_sigwait",
+        "description": "Allows GDB catch \"Ctrl + C\" even when the application is using sigwait.",
+        "languages": {
+            "GDB": 5372,
+            "C": 2853
+        }
+    },
+    {
+        "name": "stm32f407vet6-rust-examples",
+        "description": "Rust embedded examples for STM32F407VET6 microcontroller.",
+        "languages": {
+            "GDB": 1123,
+            "Rust": 802
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "My configuration files",
+        "languages": {
+            "GDB": 111646,
+            "Shell": 100144,
+            "Lua": 59896,
+            "Python": 15401,
+            "Vim Script": 2687,
+            "Dockerfile": 2476
+        }
+    },
+    {
+        "name": "pwndbg-themes",
+        "description": "Themes for pwndbg!",
+        "languages": {
+            "GDB": 2124
+        }
+    },
+    {
+        "name": "stm32_bluepill_in_rust__Template",
+        "description": "The updated project template that I use for STM32 BluePill micro-controller in Rust.",
+        "languages": {
+            "GDB": 1964,
+            "Rust": 1639,
+            "RPC": 139
+        }
+    },
+    {
+        "name": "Alpha_Raspberry_Pi_Circle",
+        "description": null,
+        "languages": {
+            "GDB": 3195
+        }
+    },
+    {
+        "name": "rawdbg",
+        "description": "Let the GDB is more convenient to use in reverse engineering ( without Python scripts )",
+        "languages": {
+            "GDB": 12343,
+            "Shell": 8111
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "My standard Linux/Windows configuration files",
+        "languages": {
+            "GDB": 111617,
+            "Vim Script": 68301,
+            "Shell": 10572,
+            "Lua": 9378,
+            "Python": 601
+        }
+    },
+    {
+        "name": "dots",
+        "description": "\u22c5files that define my system settings",
+        "languages": {
+            "GDB": 111774,
+            "Shell": 33048,
+            "Lua": 31971
+        }
+    },
+    {
+        "name": ".dotfiles",
+        "description": "My dotfiles",
+        "languages": {
+            "GDB": 221465,
+            "Shell": 47804,
+            "Perl": 33007,
+            "Python": 20330,
+            "Vim Script": 13499,
+            "AppleScript": 1228,
+            "Perl 6": 171
+        }
+    },
+    {
+        "name": "shell",
+        "description": "shell script",
+        "languages": {
+            "GDB": 92351,
+            "Shell": 18633,
+            "Python": 1738
+        }
+    },
+    {
+        "name": "arch",
+        "description": null,
+        "languages": {
+            "GDB": 111662,
+            "Perl": 60897,
+            "Vim Script": 18228,
+            "Shell": 16472,
+            "Python": 533,
+            "CSS": 81
+        }
+    },
+    {
+        "name": "snp",
+        "description": "Vorlesung Systemnahe Programmierung, DHBW Ravensburg",
+        "languages": {
+            "GDB": 218682,
+            "Assembly": 51630,
+            "Makefile": 8761,
+            "C": 7517,
+            "Shell": 643
+        }
+    },
+    {
+        "name": "shellrc",
+        "description": null,
+        "languages": {
+            "GDB": 611489,
+            "Shell": 17966
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "Contains most of my configuration files",
+        "languages": {
+            "GDB": 93882,
+            "Shell": 9670,
+            "Vim Script": 5546
+        }
+    },
+    {
+        "name": "amdgpu_debug",
+        "description": "Helpers for debugging AMD GPUs  with rocgdb",
+        "languages": {
+            "GDB": 10563,
+            "Python": 6826
+        }
+    },
+    {
+        "name": "php-mm-gdb-debugger",
+        "description": "It's a simple GDB script for debugging and analyzing the layout of php heap memory.",
+        "languages": {
+            "GDB": 4562
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "This is a collection of files that help me setup my work environment on a new machine easily and quickly.",
+        "languages": {
+            "GDB": 139340,
+            "Vim Script": 114904,
+            "Shell": 42733,
+            "Python": 593
+        }
+    },
+    {
+        "name": "vac-scripts",
+        "description": "Some gdb scripts to analyze VAC3 under Linux",
+        "languages": {
+            "GDB": 1123
+        }
+    },
+    {
+        "name": "Wh0psGarbageDump",
+        "description": "Test test test",
+        "languages": {
+            "GDB": 126987,
+            "Vim Script": 39971,
+            "Python": 39039,
+            "Lua": 33013,
+            "Shell": 8746,
+            "Vim Snippet": 645
+        }
+    },
+    {
+        "name": "gdb_tool_scripts",
+        "description": "gdb script tool collection",
+        "languages": {
+            "GDB": 13827
+        }
+    },
+    {
+        "name": "bootstrap",
+        "description": "bootstrapping setup for vineyard",
+        "languages": {
+            "GDB": 123,
+            "Shell": 96
+        }
+    },
+    {
+        "name": "Learn-GDB",
+        "description": "A repository for showcasing my knowledge of the GDB programming language, and continuing to learn the language.",
+        "languages": {
+            "GDB": 354270
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": null,
+        "languages": {
+            "GDB": 112895,
+            "Shell": 76933,
+            "JavaScript": 61381,
+            "Perl": 20172,
+            "Ruby": 9515,
+            "Lua": 9238,
+            "Python": 3021
+        }
+    },
+    {
+        "name": "parallel_recovery_test",
+        "description": null,
+        "languages": {
+            "GDB": 7516,
+            "Shell": 5474
+        }
+    },
+    {
+        "name": "nwpu-os-lab",
+        "description": "Private records of NWPU os lab (2023)",
+        "languages": {
+            "GDB": 624
+        }
+    },
+    {
+        "name": "Override",
+        "description": "42 School project: ISO challenge, harder (elf-like) binary exploitation than Rainfall. Done with @missmaelyss",
+        "languages": {
+            "GDB": 111530,
+            "C": 14498,
+            "Python": 2757,
+            "Shell": 2096,
+            "Assembly": 1297
+        }
+    },
+    {
+        "name": "configs",
+        "description": null,
+        "languages": {
+            "GDB": 19339,
+            "Vim Script": 17705,
+            "Shell": 12051,
+            "Lua": 5542
+        }
+    },
+    {
+        "name": "dotsh",
+        "description": "Linux command utilities and basic configuration files for better coding environment that I use in my workflow.",
+        "languages": {
+            "GDB": 15264,
+            "Vim Script": 2469
+        }
+    },
+    {
+        "name": "Dotfiles",
+        "description": null,
+        "languages": {
+            "GDB": 179889,
+            "Vim Script": 160987,
+            "Shell": 29365,
+            "Makefile": 2757,
+            "Batchfile": 133,
+            "PowerShell": 20
+        }
+    },
+    {
+        "name": "gdb-syntax-vscode",
+        "description": "VSCode grammar file to color higlight commands file for gdb",
+        "languages": {
+            "GDB": 46523,
+            "Shell": 2540,
+            "Makefile": 144,
+            "C": 106
+        }
+    },
+    {
+        "name": "lua.gdb",
+        "description": "Debug Lua in gdb.",
+        "languages": {
+            "GDB": 4822
+        }
+    },
+    {
+        "name": "start-rust-stm32f723",
+        "description": "STM32F723E-DISCO",
+        "languages": {
+            "GDB": 1184,
+            "Rust": 1150
+        }
+    },
+    {
+        "name": "docker-apache2-php7",
+        "description": "Docker image for running Apache 2.x with PHP 7.x",
+        "languages": {
+            "GDB": 12471,
+            "Dockerfile": 5825,
+            "Shell": 1719,
+            "Makefile": 57
+        }
+    },
+    {
+        "name": "SNU_2D_ProgrammingTools_IDE_GDB",
+        "description": "The GDB Programming language IDE submodule for SNU Programming Tools (2D Mode)",
+        "languages": {
+            "GDB": 353706,
+            "Roff": 3456
+        }
+    },
+    {
+        "name": "tech_stack",
+        "description": null,
+        "languages": {
+            "GDB": 17609,
+            "C++": 7884,
+            "HTML": 3401,
+            "C": 2815,
+            "Go": 2178,
+            "Shell": 331
+        }
+    },
+    {
+        "name": "gdbinit",
+        "description": null,
+        "languages": {
+            "GDB": 634120,
+            "Python": 167514,
+            "Makefile": 18209,
+            "C++": 8884,
+            "Shell": 2842
+        }
+    },
+    {
+        "name": "imxrt1064-rs-testbed",
+        "description": "Testbed for rust embedded in an i.MX RT1064 microcontroller.",
+        "languages": {
+            "GDB": 1390,
+            "Rust": 363,
+            "Shell": 236
+        }
+    },
+    {
+        "name": "gdb-ray-tracing",
+        "description": "use gdb to render a scene",
+        "languages": {
+            "GDB": 15094
+        }
+    },
+    {
+        "name": "workconf",
+        "description": null,
+        "languages": {
+            "GDB": 17757,
+            "Vim Script": 15324,
+            "Python": 13255,
+            "Shell": 11569
+        }
+    },
+    {
+        "name": "circuit-playground-bluefruit",
+        "description": "Experiments on the Adafruit Circuit Playground Bluefruit",
+        "languages": {
+            "GDB": 240,
+            "Shell": 116
+        }
+    },
+    {
+        "name": "MIT-6.S081",
+        "description": "Operating System Engineering",
+        "languages": {
+            "GDB": 131
+        }
+    },
+    {
+        "name": "CS120B-Lab3-bitManip",
+        "description": null,
+        "languages": {
+            "GDB": 16810,
+            "C": 6526,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "CS107_assignment5",
+        "description": null,
+        "languages": {
+            "GDB": 491
+        }
+    },
+    {
+        "name": "mbuf2pcap",
+        "description": "GDB script to dump mbuf into a hex dump for easy import into Wireshark",
+        "languages": {
+            "GDB": 609
+        }
+    },
+    {
+        "name": "pros-and-confs",
+        "description": "CLI app configs",
+        "languages": {
+            "GDB": 1450,
+            "Vim Script": 331
+        }
+    },
+    {
+        "name": "PTMLocalization",
+        "description": null,
+        "languages": {
+            "GDB": 412015,
+            "C#": 246077
+        }
+    },
+    {
+        "name": "gdb-config",
+        "description": null,
+        "languages": {
+            "GDB": 1797
+        }
+    },
+    {
+        "name": "rust-brighton-embedded-day-1",
+        "description": null,
+        "languages": {
+            "GDB": 1128,
+            "Rust": 950
+        }
+    },
+    {
+        "name": "rpi-openocd",
+        "description": "Starting Template for using Raspberry Pi as an OpenOCD Programmer",
+        "languages": {
+            "GDB": 237
+        }
+    },
+    {
+        "name": "lua-gdb",
+        "description": null,
+        "languages": {
+            "GDB": 885
+        }
+    },
+    {
+        "name": "rainfall",
+        "description": "Rainfall is a challenge iso slightly more complex than Snow Crash that will plunge you into the intricacies of reverse engineering and teach you to rebuild a code and understand its operation to find the flaws. Can you reach the last level?",
+        "languages": {
+            "GDB": 111615,
+            "C": 6966,
+            "C++": 832,
+            "Shell": 650,
+            "Python": 448
+        }
+    },
+    {
+        "name": "config",
+        "description": "ych's config",
+        "languages": {
+            "GDB": 299
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "These are my dotfiles, currently only .gdbinit and .vimrc",
+        "languages": {
+            "GDB": 38882,
+            "Shell": 4672,
+            "Vim Script": 503
+        }
+    },
+    {
+        "name": "CS120B-Lab4-stateMachines",
+        "description": null,
+        "languages": {
+            "GDB": 15959,
+            "C": 12669,
+            "Makefile": 2879
+        }
+    },
+    {
+        "name": "va108xx-workspace",
+        "description": "Workspace for developing Rust code for the Vorago VA108xx devices",
+        "languages": {
+            "GDB": 147,
+            "Shell": 111
+        }
+    },
+    {
+        "name": "msp430f5529-quickstart",
+        "description": "Example code for MSP430F5529 in Rust. Not meant for general use yet.",
+        "languages": {
+            "GDB": 1011,
+            "Rust": 693,
+            "RPC": 574
+        }
+    },
+    {
+        "name": ".files",
+        "description": ".files",
+        "languages": {
+            "GDB": 101403,
+            "Shell": 22056,
+            "Vim Script": 7353,
+            "Python": 3549,
+            "Emacs Lisp": 1011
+        }
+    },
+    {
+        "name": "gdb-script",
+        "description": null,
+        "languages": {
+            "GDB": 13982
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": null,
+        "languages": {
+            "GDB": 60712,
+            "Vim Script": 27694,
+            "Python": 22164,
+            "Shell": 191
+        }
+    },
+    {
+        "name": "UCRCS120BLAB2",
+        "description": null,
+        "languages": {
+            "GDB": 9013,
+            "C": 4001
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "All ze Dotfiles",
+        "languages": {
+            "GDB": 56634,
+            "Vim Script": 47495,
+            "Shell": 22083,
+            "Python": 433
+        }
+    },
+    {
+        "name": "gdb_script",
+        "description": null,
+        "languages": {
+            "GDB": 37207
+        }
+    },
+    {
+        "name": "php-debug",
+        "description": "gdb debug php",
+        "languages": {
+            "GDB": 185
+        }
+    },
+    {
+        "name": "Demo_GitHub",
+        "description": "Test for Jenkins",
+        "languages": {
+            "GDB": 19390232,
+            "C": 8722764,
+            "C++": 1299744,
+            "Python": 606073,
+            "Batchfile": 330672,
+            "C#": 312738,
+            "Makefile": 159487,
+            "Objective-C": 95378,
+            "Assembly": 56150,
+            "PowerShell": 34035
+        }
+    },
+    {
+        "name": "rust-microbit-quickstart",
+        "description": "Cargo generate template for developing rust applications on microbit",
+        "languages": {
+            "GDB": 1128,
+            "Rust": 165
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": null,
+        "languages": {
+            "GDB": 115058,
+            "CSS": 72702,
+            "Shell": 9220,
+            "C++": 2780,
+            "JavaScript": 2092,
+            "Vim Script": 1644,
+            "Julia": 326,
+            "Python": 212,
+            "R": 163
+        }
+    },
+    {
+        "name": "CS120B-Lab2",
+        "description": null,
+        "languages": {
+            "GDB": 15610,
+            "C": 6566,
+            "Makefile": 2880,
+            "Vim Script": 51
+        }
+    },
+    {
+        "name": "GDB-Gist",
+        "description": "A Simple GDB config",
+        "languages": {
+            "GDB": 56634
+        }
+    },
+    {
+        "name": "ftl-cheat",
+        "description": null,
+        "languages": {
+            "GDB": 2127,
+            "Shell": 510
+        }
+    },
+    {
+        "name": "stm32f042-demo",
+        "description": "stm32f042 demo",
+        "languages": {
+            "GDB": 1128,
+            "Rust": 571
+        }
+    },
+    {
+        "name": "startup",
+        "description": "startup config",
+        "languages": {
+            "GDB": 17610,
+            "Shell": 4839,
+            "AutoHotkey": 4031,
+            "Batchfile": 289
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "Custom dotfiles that I use",
+        "languages": {
+            "GDB": 114930,
+            "Shell": 9880,
+            "Vim Script": 6911
+        }
+    },
+    {
+        "name": "docker-devbox",
+        "description": "Personal Devbox",
+        "languages": {
+            "GDB": 841,
+            "Makefile": 264,
+            "Shell": 191
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "Jim's dotfiles",
+        "languages": {
+            "GDB": 18525,
+            "Shell": 15219,
+            "Emacs Lisp": 15059,
+            "Vim Script": 7872,
+            "Python": 2479,
+            "JavaScript": 1192
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": null,
+        "languages": {
+            "GDB": 18597,
+            "Vim Script": 2426,
+            "Shell": 934
+        }
+    },
+    {
+        "name": ".homedir",
+        "description": "frequently used config files",
+        "languages": {
+            "GDB": 24771,
+            "Emacs Lisp": 13868,
+            "Python": 2796,
+            "Shell": 1290
+        }
+    },
+    {
+        "name": "hello-blue-pill.rs",
+        "description": "Embedded Rust on the Blue Pill. Say hello, Rust!",
+        "languages": {
+            "GDB": 2153,
+            "Rust": 1903,
+            "Logos": 139
+        }
+    },
+    {
+        "name": "e7020e_bare",
+        "description": "Rust based applications/examples for bare metal programming.",
+        "languages": {
+            "GDB": 1174,
+            "Rust": 281
+        }
+    },
+    {
+        "name": "config-files",
+        "description": "Personal dot files",
+        "languages": {
+            "GDB": 217
+        }
+    },
+    {
+        "name": "dotfile",
+        "description": null,
+        "languages": {
+            "GDB": 91168,
+            "Shell": 18017,
+            "Python": 11614,
+            "C": 8704,
+            "Vim Script": 6352,
+            "Makefile": 430
+        }
+    },
+    {
+        "name": "assembly-for-js-devs",
+        "description": "Repository for my post *Assembly for javascript developers*",
+        "languages": {
+            "GDB": 58903,
+            "Assembly": 2050,
+            "Makefile": 319
+        }
+    },
+    {
+        "name": "Knowledge",
+        "description": "Knowledge Tree",
+        "languages": {
+            "GDB": 556
+        }
+    },
+    {
+        "name": "gdb-learning",
+        "description": "learning gdb",
+        "languages": {
+            "GDB": 17901
+        }
+    },
+    {
+        "name": "CSE340-Docker",
+        "description": "Docker container for testing CSE340 assignments/projects",
+        "languages": {
+            "GDB": 2104,
+            "Dockerfile": 739,
+            "Shell": 137
+        }
+    },
+    {
+        "name": "configuration",
+        "description": "My configuration information",
+        "languages": {
+            "GDB": 18255,
+            "Shell": 7909,
+            "R": 2757,
+            "Python": 1808
+        }
+    },
+    {
+        "name": "lab5",
+        "description": null,
+        "languages": {
+            "GDB": 36027,
+            "C": 20627,
+            "Makefile": 11520
+        }
+    },
+    {
+        "name": "6.828-2021",
+        "description": null,
+        "languages": {
+            "GDB": 184
+        }
+    },
+    {
+        "name": "smash-ultimate-research-setup",
+        "description": null,
+        "languages": {
+            "GDB": 97754,
+            "Python": 4780,
+            "Batchfile": 276
+        }
+    },
+    {
+        "name": "configs",
+        "description": null,
+        "languages": {
+            "GDB": 111700,
+            "Shell": 9153,
+            "Vim Script": 6427
+        }
+    },
+    {
+        "name": "nix-conf",
+        "description": null,
+        "languages": {
+            "GDB": 91135,
+            "Nix": 15098,
+            "Shell": 12823,
+            "CSS": 364
+        }
+    },
+    {
+        "name": "Developer-Essentials",
+        "description": "Miscellenous tips and tricks.",
+        "languages": {
+            "GDB": 18884
+        }
+    },
+    {
+        "name": "configs",
+        "description": "awesome arch config backup",
+        "languages": {
+            "GDB": 111614,
+            "Lua": 30934,
+            "Vim Script": 20341,
+            "Shell": 4896
+        }
+    },
+    {
+        "name": "dot",
+        "description": "dotfiles",
+        "languages": {
+            "GDB": 111614,
+            "Emacs Lisp": 61112,
+            "Shell": 44580,
+            "Roff": 13720,
+            "C": 962
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": null,
+        "languages": {
+            "GDB": 111614,
+            "Emacs Lisp": 16678,
+            "Shell": 16130,
+            "Perl": 13822,
+            "Vim Script": 3310
+        }
+    },
+    {
+        "name": "config",
+        "description": null,
+        "languages": {
+            "GDB": 109452,
+            "Python": 73669,
+            "Shell": 40686,
+            "Vim Script": 35401,
+            "C++": 13924,
+            "Haskell": 6861
+        }
+    },
+    {
+        "name": "useful-function",
+        "description": null,
+        "languages": {
+            "GDB": 6953,
+            "C": 991
+        }
+    },
+    {
+        "name": "firmware-template",
+        "description": "A template to create embedded application for our Robot",
+        "languages": {
+            "GDB": 2171,
+            "Rust": 1870,
+            "Shell": 676
+        }
+    },
+    {
+        "name": "Lab6_SynchSMs",
+        "description": null,
+        "languages": {
+            "GDB": 16196,
+            "C": 10838,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "tryPush10",
+        "description": null,
+        "languages": {
+            "GDB": 6036,
+            "C": 3423,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "Lab3_bitManipulation",
+        "description": null,
+        "languages": {
+            "GDB": 17928,
+            "C": 7209,
+            "Makefile": 2884
+        }
+    },
+    {
+        "name": "CS120B-LAB5",
+        "description": null,
+        "languages": {
+            "GDB": 12747,
+            "C": 8542,
+            "Makefile": 2885
+        }
+    },
+    {
+        "name": "CS120B_Lab2",
+        "description": null,
+        "languages": {
+            "GDB": 16068,
+            "C": 6698,
+            "Makefile": 2884
+        }
+    },
+    {
+        "name": "Lab4_StateMachines",
+        "description": null,
+        "languages": {
+            "GDB": 10763,
+            "C": 6794,
+            "Makefile": 2884
+        }
+    },
+    {
+        "name": "CS120B_Lab5",
+        "description": null,
+        "languages": {
+            "GDB": 10644,
+            "C": 5017,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "temp",
+        "description": null,
+        "languages": {
+            "GDB": 6025,
+            "Makefile": 2880,
+            "C": 2130
+        }
+    },
+    {
+        "name": "CS120B-Lab02",
+        "description": "Introduction to AVR",
+        "languages": {
+            "GDB": 42673,
+            "Makefile": 14400,
+            "C": 14020
+        }
+    },
+    {
+        "name": "CS120B-F2019-Lab2",
+        "description": null,
+        "languages": {
+            "GDB": 7904,
+            "C": 5127,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "120B",
+        "description": null,
+        "languages": {
+            "GDB": 6036,
+            "Makefile": 2880,
+            "C": 1657
+        }
+    },
+    {
+        "name": "Lab-4",
+        "description": null,
+        "languages": {
+            "GDB": 20920,
+            "C": 10335,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "120blab4",
+        "description": null,
+        "languages": {
+            "GDB": 17362,
+            "C": 11079,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "CS120-Lab02",
+        "description": null,
+        "languages": {
+            "GDB": 11684,
+            "C": 4011,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "lab08_a2d",
+        "description": null,
+        "languages": {
+            "GDB": 6029,
+            "C": 4669,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "rtems",
+        "description": "RTEMS for RISC-V SoC",
+        "languages": {
+            "GDB": 248
+        }
+    },
+    {
+        "name": "CS120BLAB6PT2",
+        "description": null,
+        "languages": {
+            "GDB": 6030,
+            "C": 4356,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "120B_Lab5",
+        "description": null,
+        "languages": {
+            "GDB": 18507,
+            "C": 9602,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "CS120BLab4",
+        "description": null,
+        "languages": {
+            "GDB": 16335,
+            "C": 12169,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "lab7_lcd",
+        "description": null,
+        "languages": {
+            "GDB": 6029,
+            "C": 3571,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "Lab2_introToAVR",
+        "description": null,
+        "languages": {
+            "GDB": 6036,
+            "Makefile": 2880,
+            "C": 1972
+        }
+    },
+    {
+        "name": "Lab3_BitManipulation",
+        "description": "Lab 3 for CS120B",
+        "languages": {
+            "GDB": 14168,
+            "Shell": 3637,
+            "Makefile": 2880,
+            "C": 1619
+        }
+    },
+    {
+        "name": "CS120B_LAB_PART1",
+        "description": null,
+        "languages": {
+            "GDB": 15517,
+            "C": 7080,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "CS120BLAB10PART3",
+        "description": null,
+        "languages": {
+            "GDB": 6041,
+            "C": 5672,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "CS_120B_Final_Project",
+        "description": null,
+        "languages": {
+            "GDB": 6034,
+            "C": 4672,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "dpere048_lab11_part1",
+        "description": null,
+        "languages": {
+            "GDB": 6041,
+            "Makefile": 2880,
+            "C": 2792
+        }
+    },
+    {
+        "name": "Lab3",
+        "description": null,
+        "languages": {
+            "GDB": 21486,
+            "C": 8323,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "Lab4_SMs",
+        "description": null,
+        "languages": {
+            "GDB": 15781,
+            "C": 10265,
+            "Makefile": 2879
+        }
+    },
+    {
+        "name": "joystick_test",
+        "description": null,
+        "languages": {
+            "GDB": 7100,
+            "C": 4639,
+            "Makefile": 2894
+        }
+    },
+    {
+        "name": "CS120BLab2",
+        "description": null,
+        "languages": {
+            "GDB": 7099,
+            "Makefile": 2880,
+            "C": 1457
+        }
+    },
+    {
+        "name": "CS120B_Labs",
+        "description": "Labs for CS120B",
+        "languages": {
+            "GDB": 48347,
+            "C": 24162,
+            "Makefile": 8639
+        }
+    },
+    {
+        "name": "120b-Lab2",
+        "description": null,
+        "languages": {
+            "GDB": 14385,
+            "C": 5424,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "CS120BLab2",
+        "description": "Lab 2 - Intro to AVR Toolchain",
+        "languages": {
+            "GDB": 9323,
+            "C": 3890,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "CS120B-lab-2",
+        "description": "CS120B Lab 2 for Spring 2020 - Fiorello Estuar",
+        "languages": {
+            "GDB": 7088,
+            "Makefile": 2880,
+            "C": 1341
+        }
+    },
+    {
+        "name": "Lab2_introToAVR",
+        "description": null,
+        "languages": {
+            "GDB": 7099,
+            "Makefile": 2886,
+            "C": 1415
+        }
+    },
+    {
+        "name": "rust-getting-started",
+        "description": "Getting started example for embedded rust",
+        "languages": {
+            "GDB": 1128,
+            "Rust": 1041,
+            "Logos": 251
+        }
+    },
+    {
+        "name": "Lab3_EE120B",
+        "description": "lab3 of ee120b",
+        "languages": {
+            "GDB": 22781,
+            "C": 9332,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "CS120B_Lab_04",
+        "description": null,
+        "languages": {
+            "GDB": 19332,
+            "C": 13839,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "Lab2_introToAVR",
+        "description": null,
+        "languages": {
+            "GDB": 24035,
+            "C": 5803,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "CS120B_Lab3_BitManipulation",
+        "description": null,
+        "languages": {
+            "GDB": 19566,
+            "C": 9133,
+            "Makefile": 2878
+        }
+    },
+    {
+        "name": "EE120B_lab2",
+        "description": null,
+        "languages": {
+            "GDB": 15225,
+            "C": 4414,
+            "Makefile": 2878
+        }
+    },
+    {
+        "name": "Lab2_introToAVR",
+        "description": null,
+        "languages": {
+            "GDB": 14749,
+            "C": 6868,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "CS120B-Lab8",
+        "description": null,
+        "languages": {
+            "GDB": 7232,
+            "C": 5537,
+            "Makefile": 2879
+        }
+    },
+    {
+        "name": "lab4_stateMachines",
+        "description": null,
+        "languages": {
+            "GDB": 19555,
+            "C": 15877,
+            "Makefile": 2878
+        }
+    },
+    {
+        "name": "CS120B_Lab2",
+        "description": null,
+        "languages": {
+            "GDB": 7237,
+            "Makefile": 2880,
+            "C": 1702
+        }
+    },
+    {
+        "name": "cs120b-lab5",
+        "description": null,
+        "languages": {
+            "GDB": 13665,
+            "Python": 11860,
+            "C": 5910,
+            "Makefile": 3578
+        }
+    },
+    {
+        "name": "6cc514_week2",
+        "description": null,
+        "languages": {
+            "GDB": 11751,
+            "Assembly": 4255,
+            "Makefile": 3492,
+            "Perl": 363
+        }
+    },
+    {
+        "name": "microbit-snake",
+        "description": "Basic snake game implementation in rust for the BBC Microbit",
+        "languages": {
+            "GDB": 264,
+            "Rust": 165
+        }
+    },
+    {
+        "name": "nucleo_quickstart",
+        "description": null,
+        "languages": {
+            "GDB": 1089,
+            "RPC": 208
+        }
+    },
+    {
+        "name": "bluepill-rust-base",
+        "description": "bluepill rust base",
+        "languages": {
+            "GDB": 2341,
+            "Rust": 2316,
+            "Shell": 267
+        }
+    },
+    {
+        "name": "env",
+        "description": null,
+        "languages": {
+            "GDB": 8762,
+            "Lua": 6667,
+            "Vim Script": 4368,
+            "Shell": 3750
+        }
+    },
+    {
+        "name": "NES-Games",
+        "description": "About 800 games collection in .zfc format including the famous one's like mario,etc.",
+        "languages": {
+            "GDB": 191040
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": null,
+        "languages": {
+            "GDB": 91630,
+            "Lua": 72804,
+            "CSS": 64352,
+            "Shell": 59404,
+            "Vim Script": 27310,
+            "Python": 10536,
+            "JavaScript": 1297
+        }
+    },
+    {
+        "name": "env",
+        "description": "My linux configs for development environment",
+        "languages": {
+            "GDB": 9799,
+            "Shell": 9407,
+            "Vim Script": 4527
+        }
+    },
+    {
+        "name": "lueftersteuerung",
+        "description": null,
+        "languages": {
+            "GDB": 61
+        }
+    },
+    {
+        "name": "dot-files",
+        "description": null,
+        "languages": {
+            "GDB": 111614,
+            "Shell": 3677
+        }
+    },
+    {
+        "name": "mcp4x-examples",
+        "description": "Rust examples of using MCP4x digital potentiometer devices with the mcp4x-rs crate",
+        "languages": {
+            "GDB": 131
+        }
+    },
+    {
+        "name": "traverse-malloc-arenas",
+        "description": null,
+        "languages": {
+            "GDB": 11675
+        }
+    },
+    {
+        "name": "cs120BLAB2",
+        "description": null,
+        "languages": {
+            "GDB": 28465,
+            "C": 9609,
+            "Makefile": 8640
+        }
+    },
+    {
+        "name": "ee120b-lab2",
+        "description": null,
+        "languages": {
+            "GDB": 6036,
+            "Makefile": 2880,
+            "C": 1410
+        }
+    },
+    {
+        "name": "Lab_4",
+        "description": null,
+        "languages": {
+            "GDB": 16266,
+            "C": 8949,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "CS120BLAB5PT1",
+        "description": null,
+        "languages": {
+            "GDB": 6030,
+            "Makefile": 2880,
+            "C": 2168
+        }
+    },
+    {
+        "name": "lab9",
+        "description": null,
+        "languages": {
+            "GDB": 18075,
+            "C": 10779,
+            "Makefile": 8640
+        }
+    },
+    {
+        "name": "cs122a-lab1",
+        "description": null,
+        "languages": {
+            "GDB": 6043,
+            "Makefile": 2886,
+            "C": 1368
+        }
+    },
+    {
+        "name": "LAB3",
+        "description": null,
+        "languages": {
+            "GDB": 6186,
+            "Makefile": 2880,
+            "C": 2060
+        }
+    },
+    {
+        "name": "CSLab3",
+        "description": null,
+        "languages": {
+            "GDB": 14670,
+            "C": 6999,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "CS120BLab3",
+        "description": null,
+        "languages": {
+            "GDB": 7856,
+            "C": 3897,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "120B_lab3_ex3",
+        "description": null,
+        "languages": {
+            "GDB": 8203,
+            "C": 3315,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "120b_lab4_ex1",
+        "description": null,
+        "languages": {
+            "GDB": 8183,
+            "C": 3515,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "Lab4_stateMachines",
+        "description": null,
+        "languages": {
+            "GDB": 13142,
+            "C": 7403,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "CS120_LAB__6",
+        "description": null,
+        "languages": {
+            "GDB": 6374,
+            "C": 6006,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "CS120B_lab6",
+        "description": null,
+        "languages": {
+            "GDB": 7690,
+            "C": 6897,
+            "Makefile": 2885
+        }
+    },
+    {
+        "name": "embedded-rust-template",
+        "description": "Embedded Rust template project with VSCode configuration",
+        "languages": {
+            "GDB": 965,
+            "Rust": 870
+        }
+    },
+    {
+        "name": "Lab4_Sms",
+        "description": null,
+        "languages": {
+            "GDB": 12197,
+            "C": 10119,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "Lab4",
+        "description": null,
+        "languages": {
+            "GDB": 16948,
+            "C": 10482,
+            "Makefile": 2901
+        }
+    },
+    {
+        "name": "CS120B_lab5_part2_update",
+        "description": null,
+        "languages": {
+            "GDB": 2640,
+            "C": 2398
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": null,
+        "languages": {
+            "GDB": 91184,
+            "Vim Script": 3562,
+            "Shell": 3286
+        }
+    },
+    {
+        "name": "cs120b_IntroToAVR",
+        "description": null,
+        "languages": {
+            "GDB": 6308,
+            "Makefile": 2880,
+            "C": 2015
+        }
+    },
+    {
+        "name": "EE120BLab4",
+        "description": null,
+        "languages": {
+            "GDB": 8733,
+            "C": 5181,
+            "Makefile": 2879
+        }
+    },
+    {
+        "name": "CS120B_LAB4",
+        "description": null,
+        "languages": {
+            "GDB": 11510,
+            "C": 7283,
+            "Makefile": 2879
+        }
+    },
+    {
+        "name": "cs120B_lab3",
+        "description": null,
+        "languages": {
+            "GDB": 7855,
+            "C": 4139
+        }
+    },
+    {
+        "name": "Lab3BitManip",
+        "description": null,
+        "languages": {
+            "GDB": 19384,
+            "C": 8307,
+            "Makefile": 2879
+        }
+    },
+    {
+        "name": "umm",
+        "description": null,
+        "languages": {
+            "GDB": 7094,
+            "Makefile": 2878,
+            "C": 1367
+        }
+    },
+    {
+        "name": "cs120b_lab6",
+        "description": null,
+        "languages": {
+            "GDB": 7099,
+            "C": 2704
+        }
+    },
+    {
+        "name": "Lab4_stateMachines",
+        "description": null,
+        "languages": {
+            "GDB": 22280,
+            "C": 11335,
+            "Makefile": 2880
+        }
+    },
+    {
+        "name": "CS120B_Lab5_atmega1284",
+        "description": null,
+        "languages": {
+            "GDB": 20064,
+            "C": 8478,
+            "Makefile": 2867
+        }
+    },
+    {
+        "name": "Lab4_CS120B2",
+        "description": null,
+        "languages": {
+            "GDB": 7953,
+            "C": 3773,
+            "Makefile": 2909
+        }
+    },
+    {
+        "name": "EE120B_Lab10",
+        "description": null,
+        "languages": {
+            "GDB": 7090,
+            "Makefile": 2876,
+            "C": 1328
+        }
+    },
+    {
+        "name": "CS120BLab9",
+        "description": null,
+        "languages": {
+            "GDB": 7088,
+            "Makefile": 2878,
+            "C": 1361
+        }
+    },
+    {
+        "name": "CS120B-Lab5",
+        "description": null,
+        "languages": {
+            "GDB": 17814,
+            "C": 7393,
+            "Makefile": 2879
+        }
     }
 ]

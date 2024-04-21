@@ -116,5 +116,2008 @@
         "name": "translations",
         "description": "\ud83d\udc3c  Chinese translations for classic software development resources",
         "languages": {}
+    },
+    {
+        "name": "Carp",
+        "description": "A statically typed lisp, without a GC, for real-time applications.",
+        "languages": {
+            "Haskell": 805552,
+            "C": 68330,
+            "Shell": 8319,
+            "Python": 3674,
+            "Nix": 1175,
+            "PowerShell": 1134,
+            "Emacs Lisp": 57
+        }
+    },
+    {
+        "name": "hy",
+        "description": "A dialect of Lisp that's embedded in Python",
+        "languages": {
+            "Python": 341738,
+            "Hy": 192854,
+            "Dockerfile": 174
+        }
+    },
+    {
+        "name": "Mezzano",
+        "description": "An operating system written in Common Lisp",
+        "languages": {
+            "Common Lisp": 6615707,
+            "Scheme": 8824,
+            "Shell": 3759
+        }
+    },
+    {
+        "name": "janet",
+        "description": "A dynamic language and bytecode vm",
+        "languages": {
+            "C": 1362030,
+            "Janet": 321581,
+            "Makefile": 13591,
+            "Meson": 12074,
+            "Roff": 8019,
+            "Batchfile": 5227,
+            "Shell": 1424
+        }
+    },
+    {
+        "name": "lisp-koans",
+        "description": "Common Lisp Koans is a language learning exercise in the same vein as the ruby koans, python koans and others.   It is a port of the prior koans with some modifications to highlight lisp-specific features.  Structured as ordered groups of broken unit tests, the project guides the learner progressively through many Common Lisp language features. ",
+        "languages": {
+            "Common Lisp": 294054,
+            "NewLisp": 2052,
+            "Shell": 1989,
+            "Starlark": 88
+        }
+    },
+    {
+        "name": "BuildYourOwnLisp",
+        "description": "Learn C and build your own programming language in under 1000 lines of code!",
+        "languages": {
+            "HTML": 348589,
+            "C": 255344,
+            "JavaScript": 31516,
+            "Python": 9134,
+            "CSS": 2638,
+            "Makefile": 607
+        }
+    },
+    {
+        "name": "jak-project",
+        "description": "Reviving the language that brought us the Jak & Daxter Series",
+        "languages": {
+            "Common Lisp": 77475480,
+            "C++": 15405037,
+            "Python": 188140,
+            "Scheme": 123636,
+            "GLSL": 71265,
+            "CMake": 36958,
+            "POV-Ray SDL": 27489,
+            "C": 23905,
+            "Assembly": 21004,
+            "Emacs Lisp": 8391,
+            "Batchfile": 4159,
+            "Shell": 3606,
+            "Dockerfile": 2180,
+            "PowerShell": 397,
+            "JavaScript": 306
+        }
+    },
+    {
+        "name": "io",
+        "description": "Io programming language. Inspired by Self, Smalltalk and LISP.",
+        "languages": {
+            "C": 1848519,
+            "Io": 820516,
+            "HTML": 138144,
+            "C++": 36952,
+            "CMake": 24738,
+            "Emacs Lisp": 16029,
+            "Objective-C": 8318,
+            "Assembly": 4858,
+            "Vim Script": 3980,
+            "Roff": 3034,
+            "Shell": 1254,
+            "Rich Text Format": 872,
+            "JavaScript": 719,
+            "Makefile": 684,
+            "Dockerfile": 471,
+            "Batchfile": 309
+        }
+    },
+    {
+        "name": "clasp",
+        "description": "clasp Common Lisp environment",
+        "languages": {
+            "Common Lisp": 7083461,
+            "C++": 5758215,
+            "C": 145091,
+            "Python": 107960,
+            "Shell": 67696,
+            "Makefile": 2546,
+            "GDB": 2427,
+            "DTrace": 1433,
+            "Dockerfile": 1148,
+            "Emacs Lisp": 807,
+            "Awk": 570
+        }
+    },
+    {
+        "name": "nano-emacs",
+        "description": "GNU Emacs / N \u039b N O - Emacs made simple",
+        "languages": {
+            "Emacs Lisp": 175443
+        }
+    },
+    {
+        "name": "awesome-cl",
+        "description": "A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.",
+        "languages": {
+            "Makefile": 505
+        }
+    },
+    {
+        "name": "pixie",
+        "description": "A small, fast, native lisp with \"magical\" powers",
+        "languages": {
+            "Python": 616208,
+            "C++": 12415,
+            "Makefile": 3099,
+            "C": 921
+        }
+    },
+    {
+        "name": "Fennel",
+        "description": "Lua Lisp Language",
+        "languages": {
+            "Fennel": 422068,
+            "Lua": 193149,
+            "Makefile": 7780,
+            "JavaScript": 1197,
+            "Shell": 203
+        }
+    },
+    {
+        "name": "lfe",
+        "description": "Lisp Flavoured Erlang (LFE)",
+        "languages": {
+            "Erlang": 655518,
+            "LFE": 215295,
+            "Emacs Lisp": 27287,
+            "Shell": 12074,
+            "Makefile": 9327,
+            "C": 4898,
+            "Dockerfile": 521
+        }
+    },
+    {
+        "name": "nu",
+        "description": "Nu is an interpreted Lisp that builds on the Objective-C runtime and Foundation framework.",
+        "languages": {
+            "Objective-C": 439293,
+            "Nu": 365121,
+            "Emacs Lisp": 54010,
+            "HTML": 27641,
+            "Ruby": 13283,
+            "Shell": 13146,
+            "Makefile": 2885,
+            "Dockerfile": 222
+        }
+    },
+    {
+        "name": "gomacro",
+        "description": "Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros",
+        "languages": {
+            "Go": 5642215,
+            "Assembly": 4199,
+            "Shell": 370,
+            "Python": 290
+        }
+    },
+    {
+        "name": "lem",
+        "description": "Common Lisp editor/IDE with high expansibility",
+        "languages": {
+            "Common Lisp": 3020936,
+            "Makefile": 882,
+            "Shell": 639,
+            "Dockerfile": 345,
+            "NewLisp": 255
+        }
+    },
+    {
+        "name": "books-pdf",
+        "description": "books pdf",
+        "languages": {}
+    },
+    {
+        "name": "illacceptanything",
+        "description": "The project where literally anything* goes.",
+        "languages": {
+            "Ruby": 12164280,
+            "HTML": 6916935,
+            "JavaScript": 5552593,
+            "Lua": 336811,
+            "CoffeeScript": 195905,
+            "Python": 149992,
+            "Clojure": 94838,
+            "CSS": 73770,
+            "Brainfuck": 66773,
+            "Vim Script": 60666,
+            "Sass": 51263,
+            "Shell": 50593,
+            "C#": 39958,
+            "C": 39343,
+            "Common Lisp": 32732,
+            "Go": 19658,
+            "C++": 17553,
+            "Java": 15038,
+            "Swift": 12055,
+            "Crystal": 7261,
+            "Rust": 5799,
+            "Racket": 4918,
+            "SCSS": 4456,
+            "PEG.js": 4413,
+            "Mustache": 3673,
+            "Jupyter Notebook": 3434,
+            "Objective-C": 3260,
+            "PHP": 2062,
+            "Assembly": 2005,
+            "Makefile": 1407,
+            "Yacc": 983,
+            "VBScript": 897,
+            "Dart": 800,
+            "JSONiq": 536,
+            "Dockerfile": 376,
+            "Elixir": 347,
+            "Gnuplot": 327,
+            "CMake": 235,
+            "Fortran": 118,
+            "BASIC": 110,
+            "ASP.NET": 109,
+            "Haskell": 100,
+            "OCaml": 78,
+            "AppleScript": 61,
+            "Emacs Lisp": 60,
+            "Julia": 25
+        }
+    },
+    {
+        "name": "slime",
+        "description": "The Superior Lisp Interaction Mode for Emacs",
+        "languages": {
+            "Common Lisp": 1368517,
+            "Emacs Lisp": 970317,
+            "Scheme": 135143,
+            "Standard ML": 9321,
+            "Ruby": 7652,
+            "Makefile": 6624
+        }
+    },
+    {
+        "name": "smartparens",
+        "description": "Minor mode for Emacs that deals with parens pairs and tries to be smart about it.",
+        "languages": {
+            "Emacs Lisp": 786636,
+            "Shell": 629
+        }
+    },
+    {
+        "name": "sbcl",
+        "description": "Mirror of Steel Bank Common Lisp (SBCL)'s official repository",
+        "languages": {
+            "Common Lisp": 25447453,
+            "C": 2137605,
+            "Shell": 248521,
+            "Assembly": 106369,
+            "Makefile": 61702,
+            "C++": 54396,
+            "SourcePawn": 10533,
+            "NewLisp": 1493,
+            "Emacs Lisp": 81
+        }
+    },
+    {
+        "name": "parinfer.js",
+        "description": "Let's simplify the way we write Lisp",
+        "languages": {
+            "JavaScript": 85457,
+            "Shell": 1758
+        }
+    },
+    {
+        "name": "roswell",
+        "description": "intended to be a launcher for a major lisp environment that just works.",
+        "languages": {
+            "Common Lisp": 348634,
+            "C": 121752,
+            "HTML": 52171,
+            "Roff": 32421,
+            "Makefile": 13882,
+            "Shell": 10815,
+            "M4": 5687,
+            "Emacs Lisp": 1581,
+            "Dockerfile": 1483,
+            "SCSS": 702
+        }
+    },
+    {
+        "name": "zygomys",
+        "description": "Zygo is a Lisp interpreter written in 100% Go. Central use case: dynamically compose Go struct trees in a zygo script, then invoke compiled Go functions on those trees. Makes Go reflection easy.",
+        "languages": {
+            "Go": 541181,
+            "Emacs Lisp": 35285,
+            "Scheme": 698,
+            "Makefile": 355,
+            "GAP": 226,
+            "Shell": 218
+        }
+    },
+    {
+        "name": "lux",
+        "description": "The Lux Programming Language",
+        "languages": {
+            "Emacs Lisp": 22164,
+            "Clojure": 6025,
+            "Shell": 783,
+            "Batchfile": 69
+        }
+    },
+    {
+        "name": "ChrysaLisp",
+        "description": "Parallel OS, with GUI, Terminal, OO Assembler, Class libraries, C-Script compiler, Lisp interpreter and more...",
+        "languages": {
+            "C++": 566963,
+            "Common Lisp": 217142,
+            "Assembly": 92103,
+            "NASL": 42450,
+            "SourcePawn": 37670,
+            "C": 37017,
+            "HTML": 30093,
+            "BitBake": 17196,
+            "Batchfile": 13682,
+            "PowerShell": 13127,
+            "PHP": 12271,
+            "Shell": 5276,
+            "Makefile": 2697,
+            "Pawn": 1242,
+            "NewLisp": 883
+        }
+    },
+    {
+        "name": "weird",
+        "description": "Generative art in Common Lisp",
+        "languages": {
+            "Common Lisp": 323295,
+            "Dockerfile": 1091,
+            "Shell": 860
+        }
+    },
+    {
+        "name": "femtolisp",
+        "description": "a lightweight, robust, scheme-like lisp implementation",
+        "languages": {
+            "Scheme": 1640558,
+            "C": 563898,
+            "Common Lisp": 268640,
+            "Clojure": 39820,
+            "Objective-C": 5323,
+            "Makefile": 2657,
+            "NewLisp": 2630,
+            "Shell": 352
+        }
+    },
+    {
+        "name": "elisp-guide",
+        "description": "A quick guide to Emacs Lisp programming",
+        "languages": {}
+    },
+    {
+        "name": "jank",
+        "description": "A Clojure dialect hosted on LLVM with native C++ interop",
+        "languages": {
+            "C++": 814150,
+            "Clojure": 92062,
+            "CMake": 17770,
+            "Shell": 5862,
+            "Nix": 535,
+            "Vim Script": 117
+        }
+    },
+    {
+        "name": "clog",
+        "description": "CLOG - The Common Lisp Omnificent GUI",
+        "languages": {
+            "Common Lisp": 1352698
+        }
+    },
+    {
+        "name": "minilisp",
+        "description": "A readable lisp in less than 1k lines of C",
+        "languages": {
+            "C": 31647,
+            "Shell": 3210,
+            "Makefile": 128
+        }
+    },
+    {
+        "name": "sketch",
+        "description": "A Common Lisp framework for the creation of electronic art, visual design, game prototyping, game making, computer graphics, exploration of human-computer interaction, and more.",
+        "languages": {
+            "Common Lisp": 98942
+        }
+    },
+    {
+        "name": "sicp",
+        "description": "\ud83d\udcd6 SICP \u8bfb\u4e66\u7b14\u8bb0\uff0c\u4e60\u9898\u89e3\u7b54",
+        "languages": {
+            "Scheme": 233054,
+            "GCC Machine Description": 1013
+        }
+    },
+    {
+        "name": "sly",
+        "description": "Sylvester the Cat's Common Lisp IDE",
+        "languages": {
+            "Common Lisp": 1255730,
+            "Emacs Lisp": 830294,
+            "Makefile": 3007
+        }
+    },
+    {
+        "name": "Ronin",
+        "description": "Experimental Graphics Terminal",
+        "languages": {
+            "HTML": 114885,
+            "JavaScript": 66430,
+            "CSS": 655,
+            "Shell": 290
+        }
+    },
+    {
+        "name": "lispy",
+        "description": "Short and sweet LISP editing",
+        "languages": {
+            "Emacs Lisp": 661771,
+            "Python": 35341,
+            "Clojure": 26434,
+            "Makefile": 686
+        }
+    },
+    {
+        "name": "sectorlisp",
+        "description": "Bootstrapping LISP in a Boot Sector",
+        "languages": {
+            "C": 144840,
+            "Assembly": 9932,
+            "Common Lisp": 9403,
+            "Makefile": 892,
+            "Shell": 494
+        }
+    },
+    {
+        "name": "anarki",
+        "description": "Community-managed fork of the Arc dialect of Lisp; for commit privileges submit a pull request.",
+        "languages": {
+            "Arc": 621084,
+            "Racket": 77415,
+            "Perl": 53486,
+            "Emacs Lisp": 32618,
+            "Vim Script": 20459,
+            "Terra": 8264,
+            "CSS": 5811,
+            "Shell": 3516,
+            "XSLT": 2862,
+            "Python": 2820,
+            "JavaScript": 957,
+            "Batchfile": 307
+        }
+    },
+    {
+        "name": "hackett",
+        "description": "WIP implementation of a Haskell-like Lisp in Racket",
+        "languages": {
+            "Racket": 393455,
+            "Shell": 1165,
+            "CSS": 272
+        }
+    },
+    {
+        "name": "ferret",
+        "description": "Ferret is a free software lisp implementation for real time embedded control systems.",
+        "languages": {
+            "Makefile": 6870
+        }
+    },
+    {
+        "name": "emacs-lisp-style-guide",
+        "description": "A community-driven Emacs Lisp style guide",
+        "languages": {}
+    },
+    {
+        "name": "SICL",
+        "description": "A fresh implementation of Common Lisp",
+        "languages": {
+            "TeX": 4016798,
+            "Common Lisp": 3897768,
+            "Makefile": 36402,
+            "NewLisp": 28217,
+            "Shell": 17133,
+            "HTML": 13809,
+            "Gnuplot": 616,
+            "C": 583
+        }
+    },
+    {
+        "name": "upm",
+        "description": "\u2815 Universal Package Manager - Python, Node.js, Ruby, Emacs Lisp.",
+        "languages": {
+            "Go": 352673,
+            "Shell": 6963,
+            "Python": 6570,
+            "Emacs Lisp": 6500,
+            "Makefile": 4285,
+            "Nix": 4051,
+            "Ruby": 2231
+        }
+    },
+    {
+        "name": "dale",
+        "description": "Lisp-flavoured C",
+        "languages": {
+            "C++": 882105,
+            "Perl": 240608,
+            "CMake": 20747,
+            "C": 10244,
+            "Vim Script": 8000,
+            "Dockerfile": 458,
+            "Shell": 370
+        }
+    },
+    {
+        "name": "clack",
+        "description": "Web server abstraction layer for Common Lisp",
+        "languages": {
+            "Common Lisp": 71325
+        }
+    },
+    {
+        "name": "coalton",
+        "description": "Coalton is an efficient, statically typed functional programming language that supercharges Common Lisp.",
+        "languages": {
+            "Common Lisp": 1508238,
+            "Makefile": 2469
+        }
+    },
+    {
+        "name": "b1fipl",
+        "description": "A Bestiary of Single-File Implementations of Programming Languages",
+        "languages": {}
+    },
+    {
+        "name": "wisp",
+        "description": "A little Clojure-like LISP in JavaScript",
+        "languages": {
+            "wisp": 327210,
+            "Makefile": 2105,
+            "JavaScript": 47
+        }
+    },
+    {
+        "name": "glisp",
+        "description": "Glisp is a Lisp-based design tool that combines generative approaches with traditional design methods, empowering artists to discover new forms of expression.",
+        "languages": {
+            "TypeScript": 202122,
+            "Vue": 161120,
+            "JavaScript": 47081,
+            "HTML": 3218,
+            "Stylus": 2675
+        }
+    },
+    {
+        "name": "lisp",
+        "description": "Toy Lisp 1.5 interpreter",
+        "languages": {
+            "Go": 35355,
+            "Common Lisp": 1235
+        }
+    },
+    {
+        "name": "cl21",
+        "description": "Common Lisp in the 21st Century.",
+        "languages": {
+            "Common Lisp": 253585,
+            "Emacs Lisp": 609
+        }
+    },
+    {
+        "name": "cl-cookbook",
+        "description": "The Common Lisp Cookbook",
+        "languages": {
+            "JavaScript": 31643,
+            "Common Lisp": 21499,
+            "HTML": 5070,
+            "sed": 4745,
+            "C": 3611,
+            "SCSS": 3362,
+            "CSS": 1654,
+            "Dockerfile": 381,
+            "Ruby": 268,
+            "Makefile": 104,
+            "Scheme": 79
+        }
+    },
+    {
+        "name": "cmacro",
+        "description": "Lisp macros for C",
+        "languages": {
+            "Common Lisp": 40281,
+            "Makefile": 1893,
+            "C": 1725
+        }
+    },
+    {
+        "name": "jscl",
+        "description": "A Lisp-to-JavaScript compiler bootstrapped from Common Lisp",
+        "languages": {
+            "Common Lisp": 924703,
+            "JavaScript": 21454,
+            "HTML": 1398,
+            "CSS": 1090,
+            "Shell": 524,
+            "TypeScript": 70
+        }
+    },
+    {
+        "name": "trial",
+        "description": "A fully-fledged Common Lisp game engine",
+        "languages": {
+            "Common Lisp": 1498516,
+            "GLSL": 71401
+        }
+    },
+    {
+        "name": "ccl",
+        "description": "Clozure Common Lisp",
+        "languages": {
+            "Common Lisp": 17002154,
+            "Assembly": 1198361,
+            "C": 1029744,
+            "CartoCSS": 528741,
+            "Makefile": 55052,
+            "Objective-C": 13450,
+            "C++": 12127,
+            "GDB": 9725,
+            "M4": 9610,
+            "Shell": 9605,
+            "Python": 7297,
+            "HTML": 5300,
+            "Rich Text Format": 888,
+            "DTrace": 383
+        }
+    },
+    {
+        "name": "ergonomica",
+        "description": "\ud83d\udda5\ufe0f a cross-platform modern shell.",
+        "languages": {
+            "Python": 224537
+        }
+    },
+    {
+        "name": "elisp-tree-sitter",
+        "description": "Emacs Lisp bindings for tree-sitter",
+        "languages": {
+            "Emacs Lisp": 148696,
+            "Rust": 58615,
+            "Shell": 6042,
+            "PowerShell": 4262,
+            "Makefile": 706
+        }
+    },
+    {
+        "name": "micro-lisp",
+        "description": "\ud83c\udf84A very small Lisp programming language \ud83d\ude00that used to be under 200 lines of C\ud83c\udf84",
+        "languages": {
+            "C": 26280,
+            "Shell": 4733,
+            "Common Lisp": 2630,
+            "Makefile": 475,
+            "GDB": 116
+        }
+    },
+    {
+        "name": "tinylisp",
+        "description": "Lisp in 99 lines of C and how to write one yourself. Includes 20 Lisp primitives, garbage collection and REPL. Includes tail-call optimized versions for speed and reduced memory use.",
+        "languages": {
+            "C": 45711,
+            "NewLisp": 4326
+        }
+    },
+    {
+        "name": "caveman",
+        "description": "Lightweight web application framework for Common Lisp.",
+        "languages": {
+            "Common Lisp": 53549,
+            "HTML": 1142,
+            "CSS": 276
+        }
+    },
+    {
+        "name": "ketos",
+        "description": "Lisp dialect scripting and extension language for Rust programs",
+        "languages": {
+            "Rust": 777139,
+            "Vim Script": 3941
+        }
+    },
+    {
+        "name": "snek",
+        "description": "See https://github.com/inconvergent/weir instead",
+        "languages": {
+            "Common Lisp": 291171
+        }
+    },
+    {
+        "name": "awesome-elisp",
+        "description": "\ud83c\udff5\ufe0f A curated list of Emacs Lisp development resources",
+        "languages": {}
+    },
+    {
+        "name": "sablono",
+        "description": "Lisp/Hiccup style templating for Facebook's React in ClojureScript.",
+        "languages": {
+            "Clojure": 162828,
+            "JavaScript": 17667,
+            "HTML": 304
+        }
+    },
+    {
+        "name": "hunchentoot",
+        "description": "Web server written in Common Lisp",
+        "languages": {
+            "Common Lisp": 356395,
+            "HTML": 13737,
+            "Shell": 13
+        }
+    },
+    {
+        "name": "awesome-lisp-languages",
+        "description": "A list of Lisp-flavored programming languages",
+        "languages": {}
+    },
+    {
+        "name": "portacle",
+        "description": "A portable common lisp development environment",
+        "languages": {
+            "Shell": 38670,
+            "Ruby": 1547
+        }
+    },
+    {
+        "name": "systemE",
+        "description": "\ud83e\udd23 A lightweight systemd replacement written in Emacs lisp \ud83e\udd23",
+        "languages": {
+            "Emacs Lisp": 8305,
+            "Shell": 263,
+            "C": 243
+        }
+    },
+    {
+        "name": "SICP-guile",
+        "description": "SICP in Guile & Emacs Lisp",
+        "languages": {
+            "Racket": 377716
+        }
+    },
+    {
+        "name": "Emacs-Elisp-Programming",
+        "description": "Tutorial about programming Elisp and Emacs text editor customization.",
+        "languages": {
+            "CSS": 9131,
+            "Shell": 3689,
+            "Emacs Lisp": 1356,
+            "Batchfile": 728,
+            "Makefile": 712,
+            "Scala": 699,
+            "F#": 299,
+            "C++": 162,
+            "Haskell": 148
+        }
+    },
+    {
+        "name": "rhine-ml",
+        "description": "\ud83c\udfde an OCaml compiler for an untyped lisp",
+        "languages": {
+            "OCaml": 64760,
+            "C": 5873,
+            "Python": 4615,
+            "Makefile": 2711,
+            "C++": 939,
+            "Shell": 26
+        }
+    },
+    {
+        "name": "quelpa",
+        "description": "Build and install your Emacs Lisp packages on-the-fly directly from source",
+        "languages": {
+            "Emacs Lisp": 98025,
+            "Shell": 36690,
+            "Makefile": 1370
+        }
+    },
+    {
+        "name": "Elsa",
+        "description": "Emacs Lisp Static Analyzer and gradual type system.",
+        "languages": {
+            "Emacs Lisp": 606249,
+            "Batchfile": 1765,
+            "Shell": 1628
+        }
+    },
+    {
+        "name": "numcl",
+        "description": "Numpy clone in Common Lisp",
+        "languages": {
+            "Common Lisp": 310137,
+            "Shell": 156
+        }
+    },
+    {
+        "name": "miniMAL",
+        "description": "A Delightfully Diminutive Lisp. Implemented in < 1 KB of JavaScript with JSON source, macros, tail-calls, JS interop, error-handling, and more.",
+        "languages": {
+            "JavaScript": 42578,
+            "Python": 34674,
+            "HTML": 23997,
+            "Clojure": 19203,
+            "Makefile": 18621,
+            "CSS": 18404,
+            "Shell": 1211
+        }
+    },
+    {
+        "name": "emacs-request",
+        "description": "Request.el -- Easy HTTP request for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 101339,
+            "Makefile": 5138,
+            "Shell": 4565,
+            "Python": 4090
+        }
+    },
+    {
+        "name": "littlelisp",
+        "description": "A small Lisp interpreter in JavaScript",
+        "languages": {
+            "JavaScript": 9670
+        }
+    },
+    {
+        "name": "aniseed",
+        "description": "Neovim configuration and plugins in Fennel (Lisp compiled to Lua)",
+        "languages": {
+            "Fennel": 62613,
+            "Lua": 62122,
+            "Vim Script": 20763,
+            "Shell": 4891,
+            "Makefile": 1492,
+            "Dockerfile": 313
+        }
+    },
+    {
+        "name": "notebook-mode",
+        "description": "GNU Emacs notebook mode",
+        "languages": {
+            "Emacs Lisp": 10282,
+            "CSS": 3730,
+            "TeX": 730
+        }
+    },
+    {
+        "name": "april",
+        "description": "The APL programming language (a subset thereof) compiling to Common Lisp.",
+        "languages": {
+            "Common Lisp": 1539424,
+            "APL": 136949,
+            "Emacs Lisp": 33414
+        }
+    },
+    {
+        "name": "McCLIM",
+        "description": "An implementation of the Common Lisp Interface Manager, version II",
+        "languages": {
+            "Common Lisp": 5832058,
+            "Emacs Lisp": 76007,
+            "NewLisp": 38728
+        }
+    },
+    {
+        "name": "awesome-lisp-companies",
+        "description": "Awesome Lisp Companies",
+        "languages": {}
+    },
+    {
+        "name": "mgl",
+        "description": "Common Lisp machine learning library.",
+        "languages": {
+            "Common Lisp": 799049
+        }
+    },
+    {
+        "name": "lispyscript",
+        "description": "A javascript with Lispy syntax and macros",
+        "languages": {
+            "JavaScript": 230731,
+            "LiveScript": 25665,
+            "HTML": 181
+        }
+    },
+    {
+        "name": "cormanlisp",
+        "description": "Corman Lisp",
+        "languages": {
+            "Common Lisp": 4618611,
+            "C": 1663347,
+            "C++": 1319303,
+            "HTML": 232974,
+            "Assembly": 140228,
+            "Ada": 89079,
+            "Pascal": 75208,
+            "C#": 61589,
+            "Python": 55332,
+            "Makefile": 31414,
+            "DIGITAL Command Language": 27303,
+            "Objective-C": 21403,
+            "Shell": 10727,
+            "CMake": 8099,
+            "Roff": 7800,
+            "Batchfile": 5003,
+            "Perl": 3895,
+            "XSLT": 3674,
+            "SAS": 1847,
+            "Module Management System": 1545,
+            "NewLisp": 855,
+            "M4": 787
+        }
+    },
+    {
+        "name": "yalo",
+        "description": "Lisp OS running on bare metal x86-64 hardware (WIP)",
+        "languages": {
+            "Common Lisp": 159759,
+            "Assembly": 11942,
+            "Shell": 1948
+        }
+    },
+    {
+        "name": "history-of-lisp-parens",
+        "description": "a history of Lisp's most notorious artifact, parentheses",
+        "languages": {}
+    },
+    {
+        "name": "layer",
+        "description": "Neural network inference the Unix way",
+        "languages": {
+            "Scheme": 26573,
+            "Makefile": 772
+        }
+    },
+    {
+        "name": "lua-languages",
+        "description": "Languages that compile to Lua",
+        "languages": {}
+    },
+    {
+        "name": "Ark",
+        "description": "ArkScript is a small, fast, functional and scripting language for C++ projects",
+        "languages": {
+            "C++": 475446,
+            "CMake": 14122,
+            "Python": 5722,
+            "Shell": 2948,
+            "Dockerfile": 1219
+        }
+    },
+    {
+        "name": "kons-9",
+        "description": "Common Lisp 3D Graphics Project",
+        "languages": {
+            "Common Lisp": 876262,
+            "Shell": 4056,
+            "Nix": 3751,
+            "Emacs Lisp": 1305
+        }
+    },
+    {
+        "name": "coleslaw",
+        "description": "Flexible Lisp Blogware",
+        "languages": {
+            "Common Lisp": 76811,
+            "CSS": 6375,
+            "Shell": 1880
+        }
+    },
+    {
+        "name": "sedlisp",
+        "description": "Lisp implementation in sed",
+        "languages": {
+            "Common Lisp": 8929,
+            "Ruby": 6029
+        }
+    },
+    {
+        "name": "lumen",
+        "description": "A Lisp for Lua and JavaScript",
+        "languages": {
+            "JavaScript": 79715,
+            "Common Lisp": 75513,
+            "Lua": 74122,
+            "Makefile": 852,
+            "Shell": 696
+        }
+    },
+    {
+        "name": "arpilisp",
+        "description": "A Lisp interpreter for Raspberry Pi implemented in a single ARM assembly file",
+        "languages": {
+            "Assembly": 82061
+        }
+    },
+    {
+        "name": "spacehammer",
+        "description": "Hammerspoon config inspired by Spacemacs",
+        "languages": {
+            "Fennel": 154823,
+            "Emacs Lisp": 7116,
+            "Lua": 1312,
+            "Shell": 66
+        }
+    },
+    {
+        "name": "racket-rash",
+        "description": "The Reckless Racket Shell",
+        "languages": {
+            "Racket": 359847
+        }
+    },
+    {
+        "name": "lispc",
+        "description": "\"Lispsy\" Lisp(ish) to C Converter (designed for CLISP)",
+        "languages": {
+            "Common Lisp": 60316
+        }
+    },
+    {
+        "name": "emacsql",
+        "description": "A high-level Emacs Lisp RDBMS front-end ",
+        "languages": {
+            "C": 9167487,
+            "Emacs Lisp": 98044,
+            "Makefile": 3842
+        }
+    },
+    {
+        "name": "eslisp",
+        "description": "un-opinionated S-expression syntax and macro system for JavaScript",
+        "languages": {
+            "LiveScript": 89946,
+            "Makefile": 745,
+            "JavaScript": 375
+        }
+    },
+    {
+        "name": "parinfer-rust",
+        "description": "A Rust port of parinfer.",
+        "languages": {
+            "Rust": 134911,
+            "Vim Script": 16815,
+            "JavaScript": 15311,
+            "KakouneScript": 6321,
+            "Shell": 5591,
+            "Nix": 2877,
+            "HTML": 520,
+            "Makefile": 198
+        }
+    },
+    {
+        "name": "gisp",
+        "description": "Simple LISP in Go",
+        "languages": {
+            "Go": 52863
+        }
+    },
+    {
+        "name": "corvus",
+        "description": "Low-level Lisp for LLVM",
+        "languages": {
+            "Common Lisp": 33383,
+            "Shell": 6701,
+            "Python": 1052
+        }
+    },
+    {
+        "name": "flk",
+        "description": "A LISP that runs wherever Bash is",
+        "languages": {
+            "Shell": 3633,
+            "Makefile": 1021,
+            "Clojure": 534
+        }
+    },
+    {
+        "name": "ki",
+        "description": "lisp + mori, sweet.js",
+        "languages": {
+            "JavaScript": 893623,
+            "CSS": 8422,
+            "HTML": 2906
+        }
+    },
+    {
+        "name": "scheme-lib",
+        "description": "\u9e2d\u5e93 duck lib scheme for gui gles gl slib openal socket web mongodb box2d game glfw mysql libevent  libuv uv json http client  server android osx linux chezscheme scheme-lib ",
+        "languages": {
+            "Scheme": 6208896,
+            "C": 2342363,
+            "C++": 1004842,
+            "Makefile": 56419,
+            "NSIS": 21781,
+            "PostScript": 15140,
+            "Shell": 10266,
+            "M4": 4007,
+            "Python": 3621,
+            "JavaScript": 1647,
+            "Roff": 1275,
+            "HTML": 1195,
+            "Lex": 922,
+            "Batchfile": 269,
+            "CSS": 38
+        }
+    },
+    {
+        "name": "malbolge-lisp",
+        "description": "A lightweight (350MB) Lisp interpreter in Malbolge Unshackled, often dubbed the hardest turing complete programming language.",
+        "languages": {
+            "TeX": 152785,
+            "C": 3144
+        }
+    },
+    {
+        "name": "joxa",
+        "description": "A Modern Lisp for the Erlang VM",
+        "languages": {
+            "Erlang": 139495,
+            "Makefile": 10807,
+            "Gherkin": 8916,
+            "Emacs Lisp": 1788
+        }
+    },
+    {
+        "name": ".emacs.d",
+        "description": "\ud83c\udf89 Personal GNU Emacs configuration",
+        "languages": {
+            "Emacs Lisp": 1421
+        }
+    },
+    {
+        "name": "lisp-in-life",
+        "description": "A Lisp interpreter implemented in Conway's Game of Life",
+        "languages": {
+            "C": 31870,
+            "Shell": 22105,
+            "Python": 14747,
+            "NewLisp": 3180,
+            "Makefile": 1564,
+            "Common Lisp": 211
+        }
+    },
+    {
+        "name": "LISP",
+        "description": "Lisp interpreter in less than 500 lines of C, including a copying garbage collector and an implementation of LISP 1.5 from 1962.",
+        "languages": {
+            "C": 12248,
+            "Scheme": 10851,
+            "Makefile": 288
+        }
+    },
+    {
+        "name": "macro-lisp",
+        "description": "Lisp-like DSL for Rust language",
+        "languages": {
+            "Rust": 19306
+        }
+    },
+    {
+        "name": "vlime",
+        "description": "A Common Lisp dev environment for Vim (and Neovim)",
+        "languages": {
+            "Vim Script": 430489,
+            "Common Lisp": 54314
+        }
+    },
+    {
+        "name": "parinfer-mode",
+        "description": "Parinfer for Emacs :)",
+        "languages": {
+            "Emacs Lisp": 104865
+        }
+    },
+    {
+        "name": "LambdaLite",
+        "description": "A functional, relational database in about 250 lines of Common Lisp",
+        "languages": {
+            "Common Lisp": 9276
+        }
+    },
+    {
+        "name": "lurk-rs",
+        "description": "Lurk is a Turing-complete programming language for recursive zk-SNARKs.  It is a statically scoped dialect of Lisp, influenced by Scheme and Common Lisp.",
+        "languages": {
+            "Rust": 1586861,
+            "Just": 1351,
+            "Nix": 1261
+        }
+    },
+    {
+        "name": "phel-lang",
+        "description": "Phel is a functional programming language that transpiles to PHP. A Lisp dialect inspired by Clojure and Janet.",
+        "languages": {
+            "PHP": 1141703,
+            "Dockerfile": 535,
+            "Shell": 240
+        }
+    },
+    {
+        "name": "lisp-notes",
+        "description": "Repo for Common Lisp by Example and all other useful resources I found online",
+        "languages": {
+            "HTML": 18813966,
+            "Common Lisp": 1168771,
+            "C++": 66286,
+            "C": 14609,
+            "C#": 5962,
+            "CSS": 5192,
+            "Batchfile": 4268,
+            "Shell": 3115
+        }
+    },
+    {
+        "name": "dash-at-point",
+        "description": "a emacs lisp for searching the word at point with Dash",
+        "languages": {
+            "Emacs Lisp": 10015
+        }
+    },
+    {
+        "name": "lips",
+        "description": "Scheme based powerful lisp interpreter in JavaScript",
+        "languages": {
+            "JavaScript": 523870,
+            "Scheme": 510342,
+            "Makefile": 9098,
+            "CSS": 2770,
+            "Shell": 295
+        }
+    },
+    {
+        "name": "sibilant",
+        "description": "Just another compile-to-js LISP-like language",
+        "languages": {
+            "JavaScript": 676268,
+            "HTML": 9775,
+            "CSS": 4859
+        }
+    },
+    {
+        "name": "Postmodern",
+        "description": "A Common Lisp PostgreSQL programming interface",
+        "languages": {
+            "Common Lisp": 1356272,
+            "PLpgSQL": 3345
+        }
+    },
+    {
+        "name": "qlot",
+        "description": "A project-local library installer for Common Lisp",
+        "languages": {
+            "Common Lisp": 1131157,
+            "Shell": 11292,
+            "Dockerfile": 868,
+            "Makefile": 720,
+            "NewLisp": 330
+        }
+    },
+    {
+        "name": "aima-lisp",
+        "description": "Common Lisp implementation of algorithms from Russell And Norvig's \"Artificial Intelligence - A Modern Approach\"",
+        "languages": {
+            "Common Lisp": 379114
+        }
+    },
+    {
+        "name": "unpackaged.el",
+        "description": "A collection of useful Emacs Lisp code that isn't substantial enough to be packaged",
+        "languages": {
+            "Emacs Lisp": 83423,
+            "JavaScript": 28387,
+            "CSS": 16968
+        }
+    },
+    {
+        "name": "cloture",
+        "description": "Clojure in Common Lisp",
+        "languages": {
+            "Common Lisp": 198030,
+            "Clojure": 53045,
+            "HTML": 12637
+        }
+    },
+    {
+        "name": "ceramic",
+        "description": "Desktop web apps with Common Lisp",
+        "languages": {
+            "Common Lisp": 47887,
+            "JavaScript": 1699
+        }
+    },
+    {
+        "name": "KongFuOfArchitect",
+        "description": "(Updating!) Architect's Kung Fu tutorial collection Article collection contains paradigm programming microservices essential algorithms Security attack Assembly Crawler Reverse penetration test...etc.",
+        "languages": {
+            "HTML": 30030888,
+            "Java": 1520839,
+            "JavaScript": 752063,
+            "Erlang": 378635,
+            "Roff": 309011,
+            "C++": 176200,
+            "C": 109933,
+            "Python": 77869,
+            "Zig": 59559,
+            "V": 44434,
+            "ANTLR": 37752,
+            "TypeScript": 35350,
+            "Go": 30373,
+            "Scala": 28174,
+            "Common Lisp": 22192,
+            "Assembly": 18694,
+            "CSS": 12940,
+            "C#": 12060,
+            "Vue": 4859,
+            "NewLisp": 2197,
+            "CMake": 1043,
+            "Shell": 897,
+            "OpenEdge ABL": 261,
+            "SCSS": 156,
+            "Prolog": 155,
+            "PHP": 123
+        }
+    },
+    {
+        "name": "lispe",
+        "description": "An implementation of a full fledged Lisp interpreter with Data Structure, Pattern Programming and High level Functions with Lazy Evaluation \u00e0 la Haskell.",
+        "languages": {
+            "C": 9289701,
+            "C++": 9135606,
+            "JavaScript": 281763,
+            "HTML": 127037,
+            "Objective-C": 68837,
+            "Makefile": 61593,
+            "Common Lisp": 25708,
+            "CMake": 14907,
+            "Python": 11034,
+            "NewLisp": 2170,
+            "Shell": 93
+        }
+    },
+    {
+        "name": "swift-lispkit",
+        "description": "Interpreter framework for Lisp-based extension and scripting languages on macOS and iOS. LispKit is based on the R7RS standard for Scheme. Its compiler generates bytecode for a virtual machine. LispKit is fully implemented in Swift 5.",
+        "languages": {
+            "Scheme": 3033858,
+            "Swift": 1919081,
+            "Objective-C": 3255,
+            "Makefile": 791
+        }
+    },
+    {
+        "name": "cl-python",
+        "description": "An implementation of Python in Common Lisp",
+        "languages": {
+            "Common Lisp": 973791,
+            "Python": 422
+        }
+    },
+    {
+        "name": "urn",
+        "description": "Yet another Lisp variant which compiles to Lua",
+        "languages": {
+            "Common Lisp": 871357,
+            "Makefile": 2138,
+            "Shell": 1789,
+            "Nix": 1751
+        }
+    },
+    {
+        "name": "ulisp",
+        "description": "A version of the Lisp programming language for ATmega-based Arduino boards.",
+        "languages": {
+            "C++": 712895
+        }
+    },
+    {
+        "name": "emacs4cl",
+        "description": "A tiny DIY kit to set up vanilla Emacs for Common Lisp programming",
+        "languages": {
+            "Emacs Lisp": 3375,
+            "Common Lisp": 353,
+            "Makefile": 159
+        }
+    },
+    {
+        "name": "ledger-mode",
+        "description": "Emacs Lisp files for interacting with the C++Ledger accounting system",
+        "languages": {
+            "Emacs Lisp": 444708,
+            "CMake": 1649,
+            "Makefile": 1584
+        }
+    },
+    {
+        "name": "medley",
+        "description": "The main repo for the Medley Interlisp project. Wiki, Issues are here. Other repositories include maiko (the VM implementation) and Interlisp.github.io (web site sources)",
+        "languages": {
+            "Common Lisp": 1885603,
+            "Shell": 97727,
+            "PostScript": 32372,
+            "Inno Setup": 28261,
+            "PowerShell": 12003,
+            "Emacs Lisp": 8681,
+            "C": 4542,
+            "NewLisp": 3192,
+            "HTML": 2526,
+            "Awk": 468,
+            "Batchfile": 36
+        }
+    },
+    {
+        "name": "farolero",
+        "description": "Thread-safe Common Lisp style conditions and restarts for Clojure(Script) and Babashka.",
+        "languages": {
+            "Clojure": 103770,
+            "Java": 1185
+        }
+    },
+    {
+        "name": "dexador",
+        "description": "A fast HTTP client for Common Lisp",
+        "languages": {
+            "Common Lisp": 141551,
+            "Dockerfile": 724,
+            "HTML": 181,
+            "Makefile": 166
+        }
+    },
+    {
+        "name": "spinneret",
+        "description": "Common Lisp HTML5 generator",
+        "languages": {
+            "Common Lisp": 96865
+        }
+    },
+    {
+        "name": "emacs-buttercup",
+        "description": "Behavior-Driven Emacs Lisp Testing",
+        "languages": {
+            "Emacs Lisp": 212963,
+            "Batchfile": 5369,
+            "Shell": 3996,
+            "Makefile": 585
+        }
+    },
+    {
+        "name": "darkmatter",
+        "description": "The notebook-style Common Lisp environment",
+        "languages": {
+            "JavaScript": 48777,
+            "Common Lisp": 30590,
+            "CSS": 10638,
+            "HTML": 8395
+        }
+    },
+    {
+        "name": "emacs-edbi",
+        "description": "Database Interface for Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 94457,
+            "Perl": 4778,
+            "Shell": 153
+        }
+    },
+    {
+        "name": "goism",
+        "description": "Not a fan of Emacs Lisp? Hack Emacs in Go!",
+        "languages": {
+            "Go": 230093,
+            "Emacs Lisp": 16883,
+            "Shell": 1434,
+            "Makefile": 886
+        }
+    },
+    {
+        "name": "bass",
+        "description": "a low fidelity scripting language for project infrastructure",
+        "languages": {
+            "Go": 692528,
+            "Clojure": 62071,
+            "Shell": 6220,
+            "Nix": 3244,
+            "Makefile": 320,
+            "Dockerfile": 222
+        }
+    },
+    {
+        "name": "sxql",
+        "description": "An SQL generator for Common Lisp.",
+        "languages": {
+            "Common Lisp": 144129
+        }
+    },
+    {
+        "name": "emacs-refactor",
+        "description": "language-specific refactoring in Emacs",
+        "languages": {
+            "Emacs Lisp": 108343
+        }
+    },
+    {
+        "name": "shen-sources",
+        "description": "Shen language kernel sources for porters",
+        "languages": {
+            "Shen": 285166,
+            "Makefile": 4199
+        }
+    },
+    {
+        "name": "LLTHW",
+        "description": "Learn Lisp The Hard Way source-code and full book text",
+        "languages": {
+            "JavaScript": 1259072,
+            "CSS": 48363,
+            "Common Lisp": 37653,
+            "Shell": 1589,
+            "GCC Machine Description": 245,
+            "Dockerfile": 94
+        }
+    },
+    {
+        "name": "nano-theme",
+        "description": "GNU Emacs / N \u039b N O Theme",
+        "languages": {
+            "Emacs Lisp": 84864
+        }
+    },
+    {
+        "name": "bauble.studio",
+        "description": "a playground for making 3D art with lisp and math",
+        "languages": {
+            "Janet": 143007,
+            "TypeScript": 44387,
+            "CSS": 8734,
+            "C++": 4978,
+            "Shell": 4906,
+            "JavaScript": 1484,
+            "Nix": 132
+        }
+    },
+    {
+        "name": "fast-http",
+        "description": "A fast HTTP request/response parser for Common Lisp.",
+        "languages": {
+            "Common Lisp": 180736,
+            "C": 1307
+        }
+    },
+    {
+        "name": "cakelisp",
+        "description": "Metaprogrammable, hot-reloadable, no-GC language for high perf programs (especially games), with seamless C/C++ interop",
+        "languages": {
+            "C++": 572508,
+            "Common Lisp": 126318,
+            "Batchfile": 5305,
+            "Emacs Lisp": 4257,
+            "Shell": 3149
+        }
+    },
+    {
+        "name": "hotpot.nvim",
+        "description": ":stew: Carl Weathers #1 Neovim Plugin.",
+        "languages": {
+            "Fennel": 167924,
+            "Shell": 7916,
+            "Dockerfile": 1704,
+            "Lua": 1648,
+            "PowerShell": 950,
+            "Vim Script": 881
+        }
+    },
+    {
+        "name": "hissp",
+        "description": "It's Python with a Lissp.",
+        "languages": {
+            "Python": 79771
+        }
+    },
+    {
+        "name": "svg-lib",
+        "description": "Emacs SVG libraries for creatings tags, icons and bars",
+        "languages": {
+            "Emacs Lisp": 47983
+        }
+    },
+    {
+        "name": "litable",
+        "description": "On-the-fly evaluation/substitution of emacs lisp code",
+        "languages": {
+            "Emacs Lisp": 38478
+        }
+    },
+    {
+        "name": "bone-lisp",
+        "description": "The Bone Lisp programming language",
+        "languages": {
+            "C": 94733,
+            "Common Lisp": 16603,
+            "Makefile": 617
+        }
+    },
+    {
+        "name": "emacs-nes",
+        "description": "A NES Emulator written in Emacs Lisp",
+        "languages": {
+            "Emacs Lisp": 102182
+        }
+    },
+    {
+        "name": "on-lisp",
+        "description": "A modernized and annotated code companion to Paul Graham's \"On Lisp\".",
+        "languages": {
+            "Common Lisp": 149686,
+            "Scheme": 5871
+        }
+    },
+    {
+        "name": "lispyville",
+        "description": "lispy + evil = lispyville",
+        "languages": {
+            "Emacs Lisp": 132000,
+            "Makefile": 567
+        }
+    },
+    {
+        "name": "shcl",
+        "description": "SHell in Common Lisp",
+        "languages": {
+            "Common Lisp": 638758,
+            "Nix": 28277,
+            "C": 7172,
+            "Shell": 2718,
+            "Makefile": 2124
+        }
+    },
+    {
+        "name": "emacs-deferred",
+        "description": "Simple asynchronous functions for emacs lisp",
+        "languages": {
+            "Emacs Lisp": 102953,
+            "Makefile": 893
+        }
+    },
+    {
+        "name": "sdl2-examples",
+        "description": "SDL2 examples, for 25+ different programming languages",
+        "languages": {
+            "Makefile": 14853,
+            "C++": 13658,
+            "Assembly": 11637,
+            "C": 7396,
+            "CMake": 5352,
+            "Dart": 5283,
+            "Scala": 5208,
+            "C#": 5048,
+            "F#": 3987,
+            "Pony": 3473,
+            "Zig": 2807,
+            "Shell": 2227,
+            "Go": 2140,
+            "Kotlin": 2014,
+            "D": 1899,
+            "V": 1502,
+            "Haskell": 1416,
+            "Rust": 1267,
+            "Pascal": 1233,
+            "Odin": 1070,
+            "OCaml": 901,
+            "Ring": 836,
+            "Python": 815,
+            "Nim": 794,
+            "Ruby": 767,
+            "Lua": 689,
+            "FreeBasic": 633,
+            "Common Lisp": 626,
+            "Crystal": 527
+        }
+    },
+    {
+        "name": "awesome-cl-software",
+        "description": "List of awesome application software built with Common Lisp",
+        "languages": {}
+    },
+    {
+        "name": "l2l",
+        "description": "Lisp is Lisp. Lua is Lua. Lisp and Lua as One.",
+        "languages": {
+            "Lua": 93801,
+            "Common Lisp": 22439,
+            "NewLisp": 8660,
+            "Makefile": 324
+        }
+    },
+    {
+        "name": "awesome-scheme",
+        "description": "A curated list of awesome Scheme libraries and resources",
+        "languages": {}
+    },
+    {
+        "name": "radiance",
+        "description": "A Common Lisp web application environment",
+        "languages": {
+            "Common Lisp": 281934
+        }
+    },
+    {
+        "name": "mathb",
+        "description": "Share mathematics on the web with LaTeX and Markdown",
+        "languages": {
+            "Common Lisp": 45126,
+            "Makefile": 7687,
+            "JavaScript": 4800,
+            "CSS": 4255,
+            "HTML": 3211,
+            "TeX": 148
+        }
+    },
+    {
+        "name": "cl-str",
+        "description": "Modern, simple and consistent Common Lisp string manipulation library.",
+        "languages": {
+            "Common Lisp": 68189,
+            "HTML": 666
+        }
+    },
+    {
+        "name": "Vacietis",
+        "description": "C to Common Lisp compiler",
+        "languages": {
+            "Common Lisp": 140626,
+            "C": 20294
+        }
+    },
+    {
+        "name": "lone",
+        "description": "The standalone Linux Lisp",
+        "languages": {
+            "C": 248831,
+            "Shell": 7420,
+            "Makefile": 5532,
+            "GDB": 4997
+        }
+    },
+    {
+        "name": "cl-ppcre",
+        "description": "Common Lisp regular expression library",
+        "languages": {
+            "Common Lisp": 394141,
+            "Perl": 3345
+        }
+    },
+    {
+        "name": "cl-sdl2",
+        "description": "Common Lisp bindings for SDL2 using C2FFI.",
+        "languages": {
+            "Common Lisp": 97591,
+            "C": 50
+        }
+    },
+    {
+        "name": "abcl",
+        "description": "Armed Bear Common Lisp <git+https://github.com/armedbear/abcl/> <--> <svn+https://abcl.org/svn> Bridge",
+        "languages": {
+            "Common Lisp": 3799460,
+            "Java": 2776535,
+            "HTML": 70764,
+            "Shell": 24745,
+            "NewLisp": 963,
+            "Dockerfile": 722,
+            "Emacs Lisp": 522,
+            "Awk": 201
+        }
+    },
+    {
+        "name": "sucle",
+        "description": "Common Lisp Voxel Game Engine",
+        "languages": {
+            "Common Lisp": 479352
+        }
+    },
+    {
+        "name": "ulithp",
+        "description": "A micro LISP implementation in 24 lines of Ruby.",
+        "languages": {
+            "Ruby": 3361,
+            "Common Lisp": 107
+        }
+    },
+    {
+        "name": "cl-6502",
+        "description": "A 6502 emulator in Lisp.",
+        "languages": {
+            "Common Lisp": 58337,
+            "Shell": 1623,
+            "Makefile": 851
+        }
+    },
+    {
+        "name": "cl-cuda",
+        "description": "Cl-cuda is a library to use NVIDIA CUDA in Common Lisp programs.",
+        "languages": {
+            "Common Lisp": 303413,
+            "C": 17124
+        }
+    },
+    {
+        "name": "prism.el",
+        "description": "Disperse Lisp forms (and other languages) into a spectrum of colors by depth",
+        "languages": {
+            "Emacs Lisp": 62560
+        }
+    },
+    {
+        "name": "clinch",
+        "description": "Common Lisp 3D/2D Graphics Engine for OpenGL",
+        "languages": {
+            "Common Lisp": 179183,
+            "GLSL": 6983
+        }
+    },
+    {
+        "name": "mito",
+        "description": "An ORM for Common Lisp with migrations, relationships and PostgreSQL support",
+        "languages": {
+            "Common Lisp": 215848,
+            "Dockerfile": 361,
+            "Shell": 288
+        }
+    },
+    {
+        "name": "optima",
+        "description": "Optimized Pattern Matching Library for Common Lisp",
+        "languages": {
+            "Common Lisp": 80403,
+            "Makefile": 542
+        }
+    },
+    {
+        "name": "ningle",
+        "description": "Super micro framework for Common Lisp",
+        "languages": {
+            "Common Lisp": 19456,
+            "HTML": 389
+        }
+    },
+    {
+        "name": "cl-async",
+        "description": "Asynchronous IO library for Common Lisp.",
+        "languages": {
+            "Common Lisp": 225085
+        }
+    },
+    {
+        "name": "LISP-Machine",
+        "description": "Archive of LISP Machine, Inc.",
+        "languages": {
+            "Common Lisp": 31946642,
+            "NewLisp": 168009,
+            "TeX": 13122,
+            "C": 8973,
+            "Roff": 6350,
+            "Scheme": 3883,
+            "Hack": 2392,
+            "Fortran": 667
+        }
+    },
+    {
+        "name": "kamilalisp",
+        "description": "A functional, flexible and concise Lisp.",
+        "languages": {
+            "Java": 6798817,
+            "ANTLR": 4524,
+            "Common Lisp": 1324,
+            "HTML": 953
+        }
+    },
+    {
+        "name": "interim",
+        "description": "Low-level Lisp with compile-time memory management",
+        "languages": {
+            "Standard ML": 81743,
+            "Makefile": 1046
+        }
+    },
+    {
+        "name": "lithp",
+        "description": "McCarthy's Lisp in Python with macros.  A celebration of 50+ years of symbolic processing.",
+        "languages": {
+            "Python": 46720,
+            "Common Lisp": 6036,
+            "Ruby": 3642
+        }
+    },
+    {
+        "name": "lispgames.github.io",
+        "description": null,
+        "languages": {
+            "HTML": 408
+        }
+    },
+    {
+        "name": "glisp",
+        "description": "LISP dialect implemented in Go",
+        "languages": {
+            "Go": 93405,
+            "Scheme": 701,
+            "Shell": 165,
+            "GAP": 153
+        }
+    },
+    {
+        "name": "restas",
+        "description": "Common Lisp web framework",
+        "languages": {
+            "Common Lisp": 94577
+        }
+    },
+    {
+        "name": "Iota",
+        "description": "LLVM to Common Lisp transpiler.",
+        "languages": {
+            "C": 43110781,
+            "Makefile": 5876249,
+            "C++": 4573593,
+            "Assembly": 2467248,
+            "HTML": 887302,
+            "Shell": 696734,
+            "Objective-C": 551433,
+            "M4": 512483,
+            "TeX": 401352,
+            "Roff": 278335,
+            "Perl": 87316,
+            "Common Lisp": 63010,
+            "Python": 24278,
+            "Emacs Lisp": 21698,
+            "RPC": 14359,
+            "Rich Text Format": 12994,
+            "Ruby": 9993,
+            "Scala": 8638,
+            "Yacc": 8101,
+            "R": 5609,
+            "Batchfile": 3802,
+            "Mathematica": 3483,
+            "Logos": 3432,
+            "GDB": 1300,
+            "XSLT": 1145,
+            "DIGITAL Command Language": 1044,
+            "Awk": 570
+        }
     }
 ]

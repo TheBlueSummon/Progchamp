@@ -72,5 +72,1954 @@
             "Shell": 52474,
             "Batchfile": 491
         }
+    },
+    {
+        "name": "marksman",
+        "description": "Write Markdown with code assist and intelligence in the comfort of your favourite editor.",
+        "languages": {
+            "F#": 692465,
+            "C#": 17566,
+            "Makefile": 2996,
+            "Batchfile": 343,
+            "Shell": 235
+        }
+    },
+    {
+        "name": "dark",
+        "description": "Darklang main repo, including language, backend, and infra",
+        "languages": {
+            "F#": 1654054,
+            "Shell": 67547,
+            "JavaScript": 44079,
+            "HCL": 26998,
+            "Dockerfile": 16605,
+            "Python": 15829,
+            "C": 10518,
+            "TypeScript": 3268,
+            "GLSL": 93
+        }
+    },
+    {
+        "name": "suave",
+        "description": "Suave is a simple web development F# library providing a lightweight web server and a set of combinators to manipulate route flow and task composition.",
+        "languages": {
+            "F#": 558114,
+            "Dockerfile": 418,
+            "Liquid": 152,
+            "Shell": 118,
+            "Batchfile": 95,
+            "JavaScript": 24,
+            "HTML": 16,
+            "CSS": 13
+        }
+    },
+    {
+        "name": "FAKE",
+        "description": "FAKE - F# Make",
+        "languages": {
+            "F#": 3958533,
+            "C#": 306821,
+            "PowerShell": 8558,
+            "Shell": 5085,
+            "Batchfile": 2156,
+            "C++": 1334,
+            "CMake": 874,
+            "JavaScript": 807,
+            "XSLT": 658,
+            "Visual Basic .NET": 608,
+            "TypeScript": 269
+        }
+    },
+    {
+        "name": "fvim",
+        "description": "Cross platform Neovim front-end UI, built with F# + Avalonia",
+        "languages": {
+            "F#": 336450,
+            "Vim Script": 6255,
+            "Shell": 4268,
+            "PowerShell": 2519
+        }
+    },
+    {
+        "name": "FSharpKoans",
+        "description": "A simple, fun, and interactive way to learn the F# language through testing.",
+        "languages": {
+            "F#": 55392,
+            "Shell": 151,
+            "Dockerfile": 89
+        }
+    },
+    {
+        "name": "FsCheck",
+        "description": "Random Testing for .NET",
+        "languages": {
+            "F#": 476693,
+            "C#": 700,
+            "Shell": 90,
+            "Batchfile": 73
+        }
+    },
+    {
+        "name": "Fabulous",
+        "description": "Declarative UI framework for cross-platform mobile & desktop apps, using MVU and F# functional programming",
+        "languages": {
+            "F#": 224890,
+            "HTML": 7793
+        }
+    },
+    {
+        "name": "Bolero",
+        "description": "Bolero brings Blazor to F# developers with an easy to use Model-View-Update architecture, HTML combinators, hot reloaded templates, type-safe endpoints, advanced routing and remoting capabilities, and more.",
+        "languages": {
+            "F#": 539641,
+            "C#": 5658,
+            "HTML": 2601,
+            "PowerShell": 1434,
+            "CSS": 44
+        }
+    },
+    {
+        "name": "Nu",
+        "description": "Repository hosting the open-source Nu Game Engine and related projects.",
+        "languages": {
+            "F#": 3533529,
+            "GLSL": 895248,
+            "C#": 366272,
+            "Python": 4737,
+            "Shell": 1651,
+            "Batchfile": 652
+        }
+    },
+    {
+        "name": "buckaroo",
+        "description": "The decentralized package manager for C++ and friends \ud83c\udfdd\ufe0f",
+        "languages": {
+            "F#": 245220,
+            "Shell": 1955,
+            "PowerShell": 379
+        }
+    },
+    {
+        "name": "Deedle",
+        "description": "Easy to use .NET library for data and time series manipulation and for scientific programming",
+        "languages": {
+            "F#": 1491514,
+            "HTML": 34276,
+            "Jupyter Notebook": 26164,
+            "C#": 14480,
+            "Forth": 10402,
+            "PowerShell": 444,
+            "Batchfile": 192,
+            "Shell": 83
+        }
+    },
+    {
+        "name": "Avalonia.FuncUI",
+        "description": "Develop cross-plattform GUI Applications using F# and Avalonia!",
+        "languages": {
+            "F#": 804614,
+            "CSS": 2419,
+            "HTML": 1906,
+            "JavaScript": 838
+        }
+    },
+    {
+        "name": "ionide-vscode-fsharp",
+        "description": "VS Code plugin for F# development",
+        "languages": {
+            "F#": 417221,
+            "JavaScript": 1242,
+            "Dockerfile": 1014,
+            "Shell": 66,
+            "Batchfile": 58
+        }
+    },
+    {
+        "name": "FSharpPlus",
+        "description": "Extensions for F#",
+        "languages": {
+            "F#": 1815687,
+            "HTML": 5825,
+            "C#": 1381,
+            "Shell": 625,
+            "Batchfile": 22
+        }
+    },
+    {
+        "name": "elmish",
+        "description": "Elm-like abstractions for F# apps",
+        "languages": {
+            "F#": 35744,
+            "JavaScript": 3883
+        }
+    },
+    {
+        "name": "FSharp.Data",
+        "description": "F# Data: Library for Data Access",
+        "languages": {
+            "F#": 1102368,
+            "C#": 9013,
+            "Shell": 88,
+            "Batchfile": 74
+        }
+    },
+    {
+        "name": "fantomas",
+        "description": "FSharp source code formatter",
+        "languages": {
+            "F#": 2808334,
+            "Shell": 990,
+            "HTML": 787,
+            "Dockerfile": 669
+        }
+    },
+    {
+        "name": "Saturn",
+        "description": "Opinionated, web development framework for F# which implements the server-side, functional MVC pattern",
+        "languages": {
+            "F#": 259175,
+            "Dockerfile": 1852,
+            "Shell": 1068
+        }
+    },
+    {
+        "name": "FSharpx.Extras",
+        "description": "Functional programming and other utilities from the original \"fsharpx\" project",
+        "languages": {
+            "F#": 413269,
+            "C#": 58087,
+            "Shell": 187,
+            "Batchfile": 173
+        }
+    },
+    {
+        "name": "Rezoom.SQL",
+        "description": "Statically typechecks a common SQL dialect and translates it to various RDBMS backends",
+        "languages": {
+            "F#": 911543,
+            "TSQL": 1665,
+            "Shell": 104
+        }
+    },
+    {
+        "name": "performance",
+        "description": "This repo contains benchmarks used for testing the performance of all .NET Runtimes",
+        "languages": {
+            "F#": 13695863,
+            "C#": 5503906,
+            "HTML": 681801,
+            "Python": 434957,
+            "Jupyter Notebook": 405289,
+            "PowerShell": 176471,
+            "Shell": 125303,
+            "CSS": 64569,
+            "CMake": 15129,
+            "JavaScript": 12208,
+            "C": 1123,
+            "Visual Basic .NET": 662,
+            "Batchfile": 628,
+            "Dockerfile": 99
+        }
+    },
+    {
+        "name": "expecto",
+        "description": "A smooth testing lib for F#. APIs made for humans! Strong testing methodologies for everyone!",
+        "languages": {
+            "F#": 342416,
+            "C#": 3219,
+            "Shell": 92,
+            "Batchfile": 55
+        }
+    },
+    {
+        "name": "Railway-Oriented-Programming-Example",
+        "description": "This repository contains code that demonstrates the \"Railway Oriented Programming\" concept for error handling in functional programming languages.  ",
+        "languages": {
+            "F#": 46633,
+            "C#": 31506
+        }
+    },
+    {
+        "name": "Plotly.NET",
+        "description": "interactive graphing library for .NET programming languages :chart_with_upwards_trend:",
+        "languages": {
+            "F#": 4039339,
+            "Jupyter Notebook": 1376557,
+            "C#": 588479,
+            "HTML": 27754,
+            "PowerShell": 402,
+            "Shell": 92,
+            "Batchfile": 55
+        }
+    },
+    {
+        "name": "core",
+        "description": "WebSharper - Full-stack, functional, reactive web apps and microservices in F# and C#",
+        "languages": {
+            "F#": 4478529,
+            "C#": 207502,
+            "TypeScript": 19504,
+            "JavaScript": 16308,
+            "HTML": 13903,
+            "PowerShell": 3691,
+            "Batchfile": 503,
+            "Shell": 458,
+            "CSS": 368
+        }
+    },
+    {
+        "name": "DiffSharp",
+        "description": "DiffSharp: Differentiable Functional Programming",
+        "languages": {
+            "F#": 2438368,
+            "HTML": 256342,
+            "R": 15702,
+            "Python": 1641,
+            "Dockerfile": 118
+        }
+    },
+    {
+        "name": "SQLProvider",
+        "description": "A general F# SQL database erasing type provider, supporting LINQ queries, schema exploration, individuals, CRUD operations and much more besides.",
+        "languages": {
+            "F#": 1300479,
+            "TSQL": 99880,
+            "PLpgSQL": 1833,
+            "Batchfile": 1086,
+            "Shell": 718,
+            "Dockerfile": 491
+        }
+    },
+    {
+        "name": "logary",
+        "description": "Logs and metrics are one! Professional logging, metrics and analytics for your apps.",
+        "languages": {
+            "F#": 1483187,
+            "C#": 57955,
+            "JavaScript": 27757,
+            "Dockerfile": 5647,
+            "Makefile": 3184,
+            "HTML": 1600,
+            "Shell": 1271,
+            "Batchfile": 54
+        }
+    },
+    {
+        "name": "Feliz",
+        "description": "A fresh retake of the React API in Fable and a collection of high-quality components to build React applications in F#, optimized for happiness",
+        "languages": {
+            "F#": 1569613,
+            "CSS": 5563,
+            "JavaScript": 5423,
+            "HTML": 2284
+        }
+    },
+    {
+        "name": "Hopac",
+        "description": "http://hopac.github.io/Hopac/Hopac.html",
+        "languages": {
+            "F#": 445606,
+            "C#": 126353
+        }
+    },
+    {
+        "name": "ProjectScaffold",
+        "description": "A prototypical .NET solution (file system layout and tooling), recommended for F# projects",
+        "languages": {
+            "F#": 34981,
+            "HTML": 2721,
+            "Shell": 346,
+            "Batchfile": 102
+        }
+    },
+    {
+        "name": "CardManagement",
+        "description": null,
+        "languages": {
+            "F#": 89989,
+            "Dockerfile": 924
+        }
+    },
+    {
+        "name": "fparsec",
+        "description": "A parser combinator library for F#",
+        "languages": {
+            "F#": 837656,
+            "C#": 627284,
+            "PowerShell": 1473
+        }
+    },
+    {
+        "name": "Falco",
+        "description": "A toolkit for building fast and functional-first web applications using F#.",
+        "languages": {
+            "F#": 119587,
+            "HTML": 10202,
+            "CSS": 2278,
+            "PowerShell": 1686
+        }
+    },
+    {
+        "name": "canopy",
+        "description": "f# web automation and testing library, built on top of Selenium (friendly to c# also)",
+        "languages": {
+            "F#": 348976,
+            "JavaScript": 277397,
+            "HTML": 33057,
+            "C#": 10890,
+            "CSS": 10741,
+            "Ruby": 761,
+            "Dockerfile": 292,
+            "Shell": 184,
+            "Batchfile": 76
+        }
+    },
+    {
+        "name": "fslang-design",
+        "description": "RFCs and docs related to the F# language design process, see https://github.com/fsharp/fslang-suggestions to submit ideas ",
+        "languages": {
+            "F#": 521
+        }
+    },
+    {
+        "name": "farmer",
+        "description": "Repeatable Azure deployments with ARM templates - made easy!",
+        "languages": {
+            "F#": 2526188
+        }
+    },
+    {
+        "name": "SAFE-BookStore",
+        "description": "Working sample of a SAFE-Stack project with hot reloading",
+        "languages": {
+            "F#": 46621,
+            "HTML": 955,
+            "TypeScript": 852,
+            "JavaScript": 737,
+            "CSS": 107
+        }
+    },
+    {
+        "name": "altcover",
+        "description": "Cross-platform coverage gathering and processing tool set for dotnet/.Net Framework and Mono",
+        "languages": {
+            "F#": 2151178,
+            "C#": 120098,
+            "HTML": 68317,
+            "PowerShell": 59871,
+            "XSLT": 36188
+        }
+    },
+    {
+        "name": "Rewrap",
+        "description": "Rewrap extension for VSCode and Visual Studio",
+        "languages": {
+            "F#": 173560,
+            "C#": 43791,
+            "TypeScript": 23978,
+            "JavaScript": 17346,
+            "Shell": 43,
+            "Batchfile": 24
+        }
+    },
+    {
+        "name": "LinqOptimizer",
+        "description": "An automatic query optimizer-compiler for Sequential and Parallel LINQ.",
+        "languages": {
+            "F#": 270573,
+            "C#": 119380,
+            "Shell": 534,
+            "Batchfile": 191
+        }
+    },
+    {
+        "name": "csharp-language-server",
+        "description": "Roslyn-based LSP language server for C#",
+        "languages": {
+            "F#": 284990
+        }
+    },
+    {
+        "name": "FSharp.Formatting",
+        "description": "F# tools for generating documentation (Markdown processor and F# code formatter)",
+        "languages": {
+            "F#": 1090155,
+            "C#": 207728,
+            "HTML": 164809,
+            "Perl": 77436,
+            "PHP": 59786,
+            "TeX": 53790,
+            "Jupyter Notebook": 2245,
+            "CSS": 1629,
+            "JavaScript": 1231
+        }
+    },
+    {
+        "name": "equinox",
+        "description": ".NET event sourcing library with CosmosDB, DynamoDB, EventStoreDB, message-db, SqlStreamStore and integration test backends. Focused at stream level; see https://github.com/jet/propulsion for cross-stream projections/subscriptions/reactions",
+        "languages": {
+            "F#": 681747,
+            "PowerShell": 2186,
+            "Dockerfile": 2002,
+            "Shell": 941
+        }
+    },
+    {
+        "name": "FsToolkit.ErrorHandling",
+        "description": "An opinionated F# Library for error handling",
+        "languages": {
+            "F#": 1085817,
+            "Dockerfile": 567,
+            "Shell": 203,
+            "Batchfile": 102
+        }
+    },
+    {
+        "name": "FunScript",
+        "description": "F# to JavaScript compiler with JQuery etc. mappings through a TypeScript type provider",
+        "languages": {
+            "F#": 793161,
+            "JavaScript": 7047,
+            "Shell": 619,
+            "Batchfile": 199
+        }
+    },
+    {
+        "name": "Argu",
+        "description": "A declarative CLI argument parser for F#",
+        "languages": {
+            "F#": 221809,
+            "Dockerfile": 538,
+            "Shell": 491,
+            "Batchfile": 57
+        }
+    },
+    {
+        "name": "Liquid",
+        "description": "The Language-Integrated Quantum Operations (LIQUi|>) Simulator",
+        "languages": {
+            "F#": 136312,
+            "TeX": 32708
+        }
+    },
+    {
+        "name": "Elmish.WPF",
+        "description": "Static WPF views for elmish programs",
+        "languages": {
+            "F#": 522570,
+            "C#": 15090
+        }
+    },
+    {
+        "name": "FsHttp",
+        "description": "A lightweight F# HTTP library by @SchlenkR and @dawedawe",
+        "languages": {
+            "F#": 258853,
+            "C#": 6543,
+            "PowerShell": 891
+        }
+    },
+    {
+        "name": "FsUnit",
+        "description": "FsUnit makes unit-testing with F# more enjoyable. It adds a special syntax to your favorite .NET testing framework.",
+        "languages": {
+            "F#": 207042,
+            "Pascal": 1792,
+            "Batchfile": 85,
+            "PowerShell": 83,
+            "Shell": 82
+        }
+    },
+    {
+        "name": "VimSpeak",
+        "description": "Speak to your editor.",
+        "languages": {
+            "F#": 38819
+        }
+    },
+    {
+        "name": "B2R2",
+        "description": "B2R2 is a collection of useful algorithms, functions, and tools for binary analysis.",
+        "languages": {
+            "F#": 6923096,
+            "JavaScript": 63306,
+            "CSS": 18683,
+            "HTML": 7483,
+            "Forth": 4167,
+            "Makefile": 1692,
+            "Batchfile": 742
+        }
+    },
+    {
+        "name": "FSharp.Data.GraphQL",
+        "description": "FSharp implementation of Facebook GraphQL query language.",
+        "languages": {
+            "F#": 1577489,
+            "HTML": 10229,
+            "PowerShell": 1515,
+            "Shell": 105,
+            "Batchfile": 59
+        }
+    },
+    {
+        "name": "DomainModelingMadeFunctional",
+        "description": "Extended code samples related to the book \"Domain Modeling Made Functional\". Buy the book here: https://pragprog.com/book/swdddf/domain-modeling-made-functional or here https://fsharpforfunandprofit.com/books/",
+        "languages": {
+            "F#": 154212
+        }
+    },
+    {
+        "name": "Streams",
+        "description": "A lightweight F#/C# library for efficient functional-style pipelines on streams of data.",
+        "languages": {
+            "F#": 190432,
+            "C#": 49190,
+            "Shell": 554,
+            "Dockerfile": 536,
+            "Batchfile": 120
+        }
+    },
+    {
+        "name": "FsAutoComplete",
+        "description": "F# language server using Language Server Protocol",
+        "languages": {
+            "F#": 2219801,
+            "Dockerfile": 1881,
+            "C#": 73,
+            "GLSL": 3
+        }
+    },
+    {
+        "name": "SAFE-Dojo",
+        "description": "An introductory dojo to learn how to develop full stack web applications in F#",
+        "languages": {
+            "F#": 29064,
+            "HTML": 598,
+            "TypeScript": 598
+        }
+    },
+    {
+        "name": "Dapper.FSharp",
+        "description": "Lightweight F# extension for StackOverflow Dapper with support for MSSQL, MySQL, PostgreSQL, and SQLite",
+        "languages": {
+            "F#": 616464
+        }
+    },
+    {
+        "name": "fsharplu",
+        "description": "This library provides a set of F# helpers for string manipulations, logging, collection data structures, file operations, text processing, security, async, parsing, diagnostics, configuration files and Json serialization.",
+        "languages": {
+            "F#": 824504,
+            "PowerShell": 10446
+        }
+    },
+    {
+        "name": "myriad",
+        "description": "Myriad is a code generator for F#",
+        "languages": {
+            "F#": 148991,
+            "Dockerfile": 60
+        }
+    },
+    {
+        "name": "mathnet-symbolics",
+        "description": "Math.NET Symbolics",
+        "languages": {
+            "F#": 379110,
+            "CSS": 3299,
+            "JavaScript": 805,
+            "Shell": 760,
+            "Batchfile": 208
+        }
+    },
+    {
+        "name": "FsPickler",
+        "description": "A fast multi-format message serializer for .NET",
+        "languages": {
+            "F#": 598748,
+            "Shell": 564,
+            "Dockerfile": 537,
+            "Batchfile": 117
+        }
+    },
+    {
+        "name": "resharper-fsharp",
+        "description": "F# support in JetBrains Rider",
+        "languages": {
+            "F#": 2773870,
+            "C#": 1070810,
+            "Kotlin": 270509,
+            "Lex": 56543,
+            "Java": 19560,
+            "Visual Basic .NET": 224,
+            "HTML": 74
+        }
+    },
+    {
+        "name": "fsharp-cheatsheet",
+        "description": "This cheatsheet aims to succinctly cover the most important aspects of F# 6.0.",
+        "languages": {
+            "F#": 6869
+        }
+    },
+    {
+        "name": "FSharp.SystemTextJson",
+        "description": "System.Text.Json extensions for F# types",
+        "languages": {
+            "F#": 285595,
+            "PowerShell": 402,
+            "Shell": 59
+        }
+    },
+    {
+        "name": "zzarchive-VisualFSharpPowerTools",
+        "description": "[ARCHIVED] Power commands for F# in Visual Studio",
+        "languages": {
+            "F#": 1439589,
+            "C#": 480834,
+            "Shell": 1301,
+            "Batchfile": 205,
+            "GLSL": 61,
+            "Forth": 52
+        }
+    },
+    {
+        "name": "Npgsql.FSharp",
+        "description": "Thin F# wrapper around Npgsql, the PostgreSQL database driver for .NET",
+        "languages": {
+            "F#": 134761
+        }
+    },
+    {
+        "name": "Grace",
+        "description": "Grace Version Control System",
+        "languages": {
+            "F#": 1641080,
+            "C#": 61977,
+            "PowerShell": 9118,
+            "Dockerfile": 1326,
+            "GLSL": 108
+        }
+    },
+    {
+        "name": "FSharp.TypeProviders.SDK",
+        "description": "The SDK for creating F# type providers",
+        "languages": {
+            "F#": 1050545,
+            "Batchfile": 85,
+            "Shell": 83
+        }
+    },
+    {
+        "name": "FSharpLint",
+        "description": "Lint tool for F#",
+        "languages": {
+            "F#": 1639400
+        }
+    },
+    {
+        "name": "pulsar-client-dotnet",
+        "description": "Apache Pulsar native client for .NET (C#/F#/VB)",
+        "languages": {
+            "F#": 1024859,
+            "C#": 180821,
+            "Shell": 7257
+        }
+    },
+    {
+        "name": "XPlot",
+        "description": "A collection of older plotting libraries for F#. Recommended to use Plotly.NET instead https://plotly.net/",
+        "languages": {
+            "F#": 1123913,
+            "HTML": 8283,
+            "PowerShell": 3158,
+            "JavaScript": 3066,
+            "Dockerfile": 2061,
+            "Batchfile": 81,
+            "Shell": 77
+        }
+    },
+    {
+        "name": "FSharp.Control.Reactive",
+        "description": "Extensions and wrappers for using Reactive Extensions (Rx) with F#.",
+        "languages": {
+            "F#": 228463,
+            "PowerShell": 852
+        }
+    },
+    {
+        "name": "Excel-Virtual-Machine",
+        "description": "C Compiler which targets Excel (MS Office)",
+        "languages": {
+            "F#": 147545,
+            "C#": 1775,
+            "Visual Basic": 1677,
+            "PowerShell": 228,
+            "Batchfile": 150
+        }
+    },
+    {
+        "name": "unquote",
+        "description": "Write F# unit test assertions as quoted expressions, get step-by-step failure messages for free",
+        "languages": {
+            "F#": 219234,
+            "Forth": 24909,
+            "Makefile": 748
+        }
+    },
+    {
+        "name": "TypeShape",
+        "description": "Practical generic programming for F#",
+        "languages": {
+            "F#": 277933,
+            "C#": 5283,
+            "Shell": 559,
+            "Dockerfile": 557,
+            "Batchfile": 112
+        }
+    },
+    {
+        "name": "fez",
+        "description": "F# to core erlang compiler experiment",
+        "languages": {
+            "F#": 110758,
+            "Erlang": 92001,
+            "Shell": 1441,
+            "Makefile": 900,
+            "Batchfile": 397
+        }
+    },
+    {
+        "name": "riscv-fs",
+        "description": "F# RISC-V Instruction Set formal specification",
+        "languages": {
+            "F#": 151674,
+            "Assembly": 25730,
+            "Makefile": 1227
+        }
+    },
+    {
+        "name": "SAFE-template",
+        "description": "dotnet CLI template for SAFE project",
+        "languages": {
+            "F#": 25356,
+            "TypeScript": 1385,
+            "HTML": 1114,
+            "JavaScript": 303,
+            "CSS": 58
+        }
+    },
+    {
+        "name": "fable-react",
+        "description": "Fable bindings and helpers for React and React Native",
+        "languages": {
+            "F#": 177489,
+            "JavaScript": 4594,
+            "Forth": 4368,
+            "CSS": 804,
+            "Shell": 745,
+            "Dockerfile": 373,
+            "HTML": 274,
+            "Batchfile": 197
+        }
+    },
+    {
+        "name": "fsharp-hedgehog",
+        "description": "Release with confidence, state-of-the-art property testing for .NET.",
+        "languages": {
+            "F#": 182878,
+            "C#": 9537,
+            "Shell": 1557,
+            "JavaScript": 855,
+            "Dockerfile": 557,
+            "HTML": 181
+        }
+    },
+    {
+        "name": "Fable.Remoting",
+        "description": "Type-safe communication layer (RPC-style) for F# featuring Fable and .NET Apps",
+        "languages": {
+            "F#": 656982,
+            "JavaScript": 3717,
+            "HTML": 201,
+            "Batchfile": 101,
+            "Shell": 97
+        }
+    },
+    {
+        "name": "MiniScaffold",
+        "description": "F# Template for creating and publishing libraries targeting .NET 6.0 `net6.0` or console apps  .NET 6.0 `net6.0`.",
+        "languages": {
+            "F#": 163777,
+            "CSS": 40648,
+            "HTML": 19260,
+            "JavaScript": 4878,
+            "Dockerfile": 1827,
+            "Shell": 354,
+            "Batchfile": 153,
+            "Forth": 90
+        }
+    },
+    {
+        "name": "asn1scc",
+        "description": "ASN1SCC: An open source ASN.1 compiler for embedded systems",
+        "languages": {
+            "F#": 2382502,
+            "Ada": 904014,
+            "C": 438413,
+            "Scala": 328886,
+            "HTML": 310109,
+            "Python": 158839,
+            "C#": 139229,
+            "GAP": 39141,
+            "CSS": 32556,
+            "QMake": 30826,
+            "Shell": 20209,
+            "Makefile": 17966,
+            "CMake": 10496,
+            "Vim Script": 3336,
+            "Dockerfile": 2462,
+            "TypeScript": 2206
+        }
+    },
+    {
+        "name": "rest-api-fuzz-testing",
+        "description": "REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR's RESTler), that enables developers to embed security tooling into their CI/CD workflows",
+        "languages": {
+            "F#": 427574,
+            "Python": 196266,
+            "JavaScript": 16332,
+            "C#": 15429,
+            "Dockerfile": 3231,
+            "Shell": 156
+        }
+    },
+    {
+        "name": "1brc",
+        "description": "1\ufe0f\u20e3\ud83d\udc1d\ud83c\udfce\ufe0f The One Billion Row Challenge - .NET Edition",
+        "languages": {
+            "F#": 9521
+        }
+    },
+    {
+        "name": "FsReveal",
+        "description": "FsReveal parses markdown and F# script file and generates reveal.js slides.",
+        "languages": {
+            "F#": 8390,
+            "Shell": 625,
+            "Batchfile": 200
+        }
+    },
+    {
+        "name": "SwaggerProvider",
+        "description": "F# generative Type Provider for Swagger",
+        "languages": {
+            "F#": 261667,
+            "Shell": 144,
+            "Batchfile": 75
+        }
+    },
+    {
+        "name": "FSH",
+        "description": "F# Shell with integrated F# scripting. Like Bash or Powershell, but better 'cause F#.",
+        "languages": {
+            "F#": 54562
+        }
+    },
+    {
+        "name": "vale",
+        "description": "Verified Assembly Language for Everest",
+        "languages": {
+            "F#": 412344,
+            "F*": 208145,
+            "Dafny": 113799,
+            "Python": 72030,
+            "Boogie": 56345,
+            "C#": 53668,
+            "C": 21096,
+            "Shell": 10275,
+            "PowerShell": 5320,
+            "Dockerfile": 3341,
+            "Batchfile": 3129,
+            "OCaml": 919,
+            "Makefile": 714
+        }
+    },
+    {
+        "name": "FSharpx.Collections",
+        "description": "FSharpx.Collections is a collection of datastructures for use with F# and C#.",
+        "languages": {
+            "F#": 1924352,
+            "Shell": 320,
+            "JavaScript": 159,
+            "Batchfile": 85
+        }
+    },
+    {
+        "name": "flips",
+        "description": "Fsharp LInear Programming System",
+        "languages": {
+            "F#": 334533,
+            "Shell": 89,
+            "Batchfile": 56
+        }
+    },
+    {
+        "name": "ply",
+        "description": "High performance System.Threading.(Value)Task computation expressions for F#",
+        "languages": {
+            "F#": 60259,
+            "C#": 1056,
+            "Shell": 513
+        }
+    },
+    {
+        "name": "FSharp.Data.Adaptive",
+        "description": "On-demand adaptive/incremental data for F# https://fsprojects.github.io/FSharp.Data.Adaptive/",
+        "languages": {
+            "F#": 1670329,
+            "C#": 7852,
+            "GLSL": 2072,
+            "JavaScript": 980,
+            "Shell": 504,
+            "Batchfile": 225,
+            "HTML": 130
+        }
+    },
+    {
+        "name": "Fornax",
+        "description": "Scriptable static site generator using type safe F# DSL to define page templates.",
+        "languages": {
+            "F#": 145615,
+            "CSS": 1576,
+            "Shell": 154,
+            "Batchfile": 114,
+            "JavaScript": 9
+        }
+    },
+    {
+        "name": "TaskBuilder.fs",
+        "description": "F# computation expression builder for System.Threading.Tasks",
+        "languages": {
+            "F#": 51458,
+            "C#": 2835
+        }
+    },
+    {
+        "name": "RProvider",
+        "description": "Access R packages from F#",
+        "languages": {
+            "F#": 115785
+        }
+    },
+    {
+        "name": "OneBella",
+        "description": "A cross platform GUI tool for  LiteDB v5+",
+        "languages": {
+            "F#": 61463
+        }
+    },
+    {
+        "name": "Forge",
+        "description": "F# CLI tool for project, file, and solution management",
+        "languages": {
+            "F#": 281411,
+            "Shell": 50,
+            "Batchfile": 38
+        }
+    },
+    {
+        "name": "CodeAlchemist",
+        "description": "CodeAlchemist: Semantics-Aware Code Generation to Find Vulnerabilities in JavaScript Engines (NDSS '19)",
+        "languages": {
+            "F#": 115442,
+            "JavaScript": 14387,
+            "C": 1376,
+            "Makefile": 234
+        }
+    },
+    {
+        "name": "dsyme-presentations",
+        "description": "Don Syme presentations and notes",
+        "languages": {
+            "F#": 478236,
+            "JavaScript": 78258,
+            "HTML": 12330,
+            "CSS": 3568
+        }
+    },
+    {
+        "name": "EFCore.FSharp",
+        "description": "Adds F# design-time support to EF Core",
+        "languages": {
+            "F#": 513411,
+            "CSS": 6998,
+            "JavaScript": 4053,
+            "Dockerfile": 970,
+            "Shell": 787,
+            "Batchfile": 103
+        }
+    },
+    {
+        "name": "min-ed-launcher",
+        "description": "Minimal Elite Dangerous Launcher",
+        "languages": {
+            "F#": 201714,
+            "Rust": 2073,
+            "Shell": 1928,
+            "PowerShell": 1048
+        }
+    },
+    {
+        "name": "Akkling",
+        "description": "Experimental F# typed API for Akka.NET",
+        "languages": {
+            "F#": 849533,
+            "Batchfile": 1064,
+            "Shell": 612
+        }
+    },
+    {
+        "name": "ts2fable",
+        "description": "Parser of Typescript declaration files",
+        "languages": {
+            "F#": 1721050,
+            "JavaScript": 9508,
+            "SCSS": 658,
+            "HTML": 299,
+            "Shell": 75,
+            "Batchfile": 64
+        }
+    },
+    {
+        "name": "fsharpworkshop",
+        "description": "F# Workshop",
+        "languages": {
+            "F#": 34810
+        }
+    },
+    {
+        "name": "Terminal.Gui.Elmish",
+        "description": "An elmish wrapper around Miguel de Icaza's 'Gui.cs' https://github.com/migueldeicaza/gui.cs including a fable like view DSL.",
+        "languages": {
+            "F#": 183685,
+            "HTML": 2721
+        }
+    },
+    {
+        "name": "FSharp.Json",
+        "description": "F# JSON Reflection based serialization library",
+        "languages": {
+            "F#": 98581
+        }
+    },
+    {
+        "name": "FSharp.Charting",
+        "description": "Charting library suitable for interactive F# scripting",
+        "languages": {
+            "F#": 487985,
+            "Shell": 630,
+            "Batchfile": 261
+        }
+    },
+    {
+        "name": "fsharp-language-server",
+        "description": null,
+        "languages": {
+            "F#": 396364,
+            "TypeScript": 7603,
+            "Emacs Lisp": 5304,
+            "C#": 2607,
+            "Shell": 2308,
+            "Dockerfile": 958,
+            "Nix": 560,
+            "PowerShell": 316
+        }
+    },
+    {
+        "name": "fsharp-ai-tools",
+        "description": "TensorFlow API for F# + F# for AI Models eDSL",
+        "languages": {
+            "F#": 190622,
+            "GLSL": 21636,
+            "Shell": 505,
+            "Dockerfile": 426
+        }
+    },
+    {
+        "name": "MBrace.Core",
+        "description": "MBrace Core Libraries & Runtime Foundations",
+        "languages": {
+            "F#": 1257669,
+            "C#": 132653,
+            "Shell": 132,
+            "Batchfile": 117
+        }
+    },
+    {
+        "name": "FSharp.Data.SqlClient",
+        "description": "A set of F# Type Providers for statically typed access to MS SQL database",
+        "languages": {
+            "F#": 361936,
+            "XSLT": 10348,
+            "TSQL": 9814,
+            "C#": 2024,
+            "Batchfile": 230,
+            "Shell": 156,
+            "ASP.NET": 89
+        }
+    },
+    {
+        "name": "SqlHydra",
+        "description": "SqlHydra is a suite of NuGet packages for working with databases in F# including code generation tools and query expressions.",
+        "languages": {
+            "F#": 3062560,
+            "PLpgSQL": 194744,
+            "TSQL": 99449,
+            "Shell": 12622,
+            "Ruby": 3503,
+            "Batchfile": 1433,
+            "Dockerfile": 1147
+        }
+    },
+    {
+        "name": "FSharp.Stats",
+        "description": "statistical testing, linear algebra, machine learning, fitting and signal processing in F#",
+        "languages": {
+            "F#": 2123213,
+            "Jupyter Notebook": 17263,
+            "PowerShell": 465,
+            "Shell": 92,
+            "Batchfile": 59
+        }
+    },
+    {
+        "name": "BS",
+        "description": "Implementation of the BS language as created by Mark Rendle at BuildStuff.lt 2014. Refer to this repo for information and canonical list of language features",
+        "languages": {
+            "F#": 2476
+        }
+    },
+    {
+        "name": "FsLexYacc",
+        "description": "Lexer and parser generators for F#",
+        "languages": {
+            "F#": 687999,
+            "1C Enterprise": 27103,
+            "Shell": 148,
+            "Batchfile": 141
+        }
+    },
+    {
+        "name": "F-Sharp",
+        "description": "All Algorithms implemented in F#",
+        "languages": {
+            "F#": 62918
+        }
+    },
+    {
+        "name": "tabula-rasa",
+        "description": "Minimalistic real-worldish blogging platform, written entirely in F#, made as a learning reference for building large Elmish apps",
+        "languages": {
+            "F#": 143485,
+            "JavaScript": 2279,
+            "CSS": 2052,
+            "Sass": 1343,
+            "HTML": 785,
+            "Shell": 479,
+            "Batchfile": 131
+        }
+    },
+    {
+        "name": "Quantum-NC",
+        "description": "Microsoft Quantum Computing Libraries for noncommercial use",
+        "languages": {
+            "F#": 114416,
+            "Q#": 45465,
+            "C#": 9894,
+            "PowerShell": 5243
+        }
+    },
+    {
+        "name": "oryx",
+        "description": ".NET Cross platform and highly composable middleware for building web request handlers in F#",
+        "languages": {
+            "F#": 89360,
+            "Shell": 160
+        }
+    },
+    {
+        "name": "Fleece",
+        "description": "Json mapper for F#",
+        "languages": {
+            "F#": 360182,
+            "HTML": 15998,
+            "CSS": 11020,
+            "JavaScript": 2590,
+            "Shell": 892,
+            "Batchfile": 744
+        }
+    },
+    {
+        "name": "Chessie",
+        "description": "Railway-oriented programming for .NET",
+        "languages": {
+            "F#": 40653,
+            "C#": 16653,
+            "Visual Basic": 9556,
+            "Shell": 884,
+            "Batchfile": 305
+        }
+    },
+    {
+        "name": "ExcelFinancialFunctions",
+        "description": ".NET Standard library providing the full set of financial functions from Excel.",
+        "languages": {
+            "F#": 178530,
+            "C#": 3125
+        }
+    },
+    {
+        "name": "StereoDB",
+        "description": "Ultrafast and lightweight in-process memory database written in F# that supports: transactions, secondary indexes, persistence, and data size larger than RAM.",
+        "languages": {
+            "F#": 89048,
+            "C#": 17947,
+            "Dockerfile": 440
+        }
+    },
+    {
+        "name": "Fulma",
+        "description": "Binding for Elmish using Bulma CSS framework",
+        "languages": {
+            "F#": 970434,
+            "JavaScript": 4439,
+            "SCSS": 512,
+            "Dockerfile": 373
+        }
+    },
+    {
+        "name": "dsls-in-action-fsharp",
+        "description": "DSLs in Action samples in Java, Groovy, Ruby, Clojure and Scala, translated to F#",
+        "languages": {
+            "F#": 34782,
+            "Shell": 159
+        }
+    },
+    {
+        "name": "Higher",
+        "description": "A lightweight library of abstractions for Higher-kinded programming in F#",
+        "languages": {
+            "F#": 70860,
+            "Shell": 1967,
+            "Batchfile": 305
+        }
+    },
+    {
+        "name": "fasmi",
+        "description": "F# -> ASM disassembler",
+        "languages": {
+            "F#": 22262,
+            "Batchfile": 136,
+            "Shell": 90
+        }
+    },
+    {
+        "name": "GpuLinq",
+        "description": "Democratizing GPGPU programming through OpenCL and LINQ.",
+        "languages": {
+            "F#": 101082,
+            "C#": 39571
+        }
+    },
+    {
+        "name": "ExtCore",
+        "description": "An extended core library for F#.",
+        "languages": {
+            "F#": 2503319,
+            "PowerShell": 16862,
+            "Shell": 6554
+        }
+    },
+    {
+        "name": "LiteDB.FSharp",
+        "description": "Advanced F# Support for LiteDB, an embedded NoSql database for .NET with type-safe query expression through F# quotations",
+        "languages": {
+            "F#": 125628
+        }
+    },
+    {
+        "name": "elmish-spreadsheet",
+        "description": "Implement your own Excel 365 in 100 lines of F#!",
+        "languages": {
+            "F#": 12242,
+            "HTML": 779,
+            "JavaScript": 407
+        }
+    },
+    {
+        "name": "Fun.Blazor",
+        "description": "Powered by .NET blazor!!! \u2764 F#",
+        "languages": {
+            "F#": 2606529,
+            "CSS": 65748,
+            "HTML": 3424,
+            "C#": 370
+        }
+    },
+    {
+        "name": "lighthouse",
+        "description": "Lighthouse - a simple service discovery platform for Akka.Cluster (Akka.NET)",
+        "languages": {
+            "F#": 17499,
+            "PowerShell": 17434,
+            "C#": 6979,
+            "Shell": 5045,
+            "Batchfile": 36
+        }
+    },
+    {
+        "name": "thegamma-script",
+        "description": ":black_nib: The Gamma lets anyone create transparent and open data visualizations that are linked to the original data source and encourages the reader to further explore data.",
+        "languages": {
+            "F#": 720880
+        }
+    },
+    {
+        "name": "ionide-atom-fsharp",
+        "description": "Set of Atom plugins for F# development",
+        "languages": {
+            "F#": 222865,
+            "CSS": 1249,
+            "Shell": 660,
+            "Batchfile": 221
+        }
+    },
+    {
+        "name": "chiron",
+        "description": "JSON for F#",
+        "languages": {
+            "F#": 208789,
+            "PowerShell": 1014
+        }
+    },
+    {
+        "name": "propulsion",
+        "description": ".NET event stream projection and scheduling platform with CosmosDB, DynamoDB, EventStoreDB, MemoryStore, message-db, Equinox and Kafka integrations",
+        "languages": {
+            "F#": 601618,
+            "Dockerfile": 2002,
+            "Shell": 423
+        }
+    },
+    {
+        "name": "aether",
+        "description": "Optics for F#",
+        "languages": {
+            "F#": 41019,
+            "PowerShell": 875
+        }
+    },
+    {
+        "name": "SAFE-Chat",
+        "description": "IRC-style chat demo featuring full-stack F#, Akka.Streams, Akkling, Fable, Elmish, Websockets and .NET Core",
+        "languages": {
+            "F#": 115767,
+            "SCSS": 7678,
+            "JavaScript": 2650,
+            "HTML": 714,
+            "Shell": 515,
+            "CSS": 438,
+            "Batchfile": 234,
+            "Dockerfile": 201
+        }
+    },
+    {
+        "name": "FsXaml",
+        "description": "F# Tools for working with XAML Projects",
+        "languages": {
+            "F#": 101927,
+            "Shell": 1850,
+            "Batchfile": 366
+        }
+    },
+    {
+        "name": "CI-BuildStats",
+        "description": "Little widget to display AppVeyor, TravisCI, CircleCI, GitHub Actions or Azure Pipelines build history charts and other SVG badges.",
+        "languages": {
+            "F#": 106610,
+            "CSS": 837,
+            "Dockerfile": 486
+        }
+    },
+    {
+        "name": "fsharp-logic-examples",
+        "description": "Examples from John Harrison's \"Handbook of Practical Logic and Automated Reasoning\", ported to F#.",
+        "languages": {
+            "F#": 1431844
+        }
+    },
+    {
+        "name": "dotnet-wtrace",
+        "description": "A command-line tool for live tracing .NET applications, based on EventPipes. ",
+        "languages": {
+            "F#": 105578
+        }
+    },
+    {
+        "name": "CosmoStore",
+        "description": "F# Event store for Azure Cosmos DB, Table Storage, Postgres, LiteDB & ServiceStack",
+        "languages": {
+            "F#": 114851,
+            "JavaScript": 6418
+        }
+    },
+    {
+        "name": "Prajna",
+        "description": "Prajna: A Distributed Functional Programming Platform for Interactive Big Data Analytics and Cloud Service Building",
+        "languages": {
+            "F#": 3980064,
+            "C++": 44387,
+            "C#": 28294,
+            "PowerShell": 22270,
+            "Shell": 784,
+            "Batchfile": 293,
+            "Objective-C": 173,
+            "C": 88
+        }
+    },
+    {
+        "name": "Xelmish",
+        "description": "XNA + Elmish - 2D game development framework with F#",
+        "languages": {
+            "F#": 29385
+        }
+    },
+    {
+        "name": "Donald",
+        "description": "A lightweight, generic F# database abstraction.",
+        "languages": {
+            "F#": 54131,
+            "PowerShell": 2063
+        }
+    },
+    {
+        "name": "TypedCssClasses",
+        "description": "A CSS class type provider for F# web development. Bring external stylesheet classes into your F# code as design-time discoverable compiler-verified properties.",
+        "languages": {
+            "F#": 46223,
+            "PowerShell": 7521,
+            "JavaScript": 1474,
+            "HTML": 361,
+            "CSS": 246,
+            "Sass": 41
+        }
+    },
+    {
+        "name": "ts2ocaml",
+        "description": "Generate OCaml bindings from TypeScript definitions via the TypeScript compiler API",
+        "languages": {
+            "F#": 1270939,
+            "JavaScript": 1178,
+            "OCaml": 721,
+            "ReScript": 324,
+            "Shell": 280,
+            "HTML": 229,
+            "Batchfile": 103
+        }
+    },
+    {
+        "name": "kafunk",
+        "description": "Kafunk: F# Kafka client",
+        "languages": {
+            "F#": 696080,
+            "Shell": 5175,
+            "Dockerfile": 787,
+            "Batchfile": 431
+        }
+    },
+    {
+        "name": "frank",
+        "description": "F# computation expressions for defining HTTP resources and configuring IWebHostBuilder.",
+        "languages": {
+            "F#": 14319,
+            "PowerShell": 811
+        }
+    },
+    {
+        "name": "fsharp-wolfenstein",
+        "description": "An F# port of the 1992 classic Wolfenstein 3D",
+        "languages": {
+            "F#": 176402,
+            "GLSL": 1207,
+            "JavaScript": 979,
+            "HTML": 722
+        }
+    },
+    {
+        "name": "StarWars-social-network",
+        "description": "The Star Wars social network",
+        "languages": {
+            "F#": 40286,
+            "HTML": 3467
+        }
+    },
+    {
+        "name": "FSharp.Control.AsyncSeq",
+        "description": "Asynchronous sequences for F#",
+        "languages": {
+            "F#": 200452,
+            "JavaScript": 177
+        }
+    },
+    {
+        "name": "zzarchive-FsLab",
+        "description": "A collection of packages for data science with F#",
+        "languages": {
+            "F#": 106137,
+            "CSS": 3751,
+            "HTML": 2668,
+            "JavaScript": 1295,
+            "C#": 1244,
+            "Shell": 1225,
+            "TeX": 1203,
+            "Batchfile": 656
+        }
+    },
+    {
+        "name": "fsharpdaybyday",
+        "description": "Learn F# in tiny increments",
+        "languages": {
+            "F#": 22314,
+            "C#": 1320,
+            "Smalltalk": 118
+        }
+    },
+    {
+        "name": "FSharp.Control.FusionTasks",
+        "description": "F# Async workflow <--> .NET Task/ValueTask easy seamless interoperability library.",
+        "languages": {
+            "F#": 89713,
+            "C#": 21940,
+            "Batchfile": 858,
+            "Shell": 829
+        }
+    },
+    {
+        "name": "garnet",
+        "description": "F# game composition library",
+        "languages": {
+            "F#": 346466,
+            "Batchfile": 384
+        }
+    },
+    {
+        "name": "XSVim",
+        "description": "[Obsolete] Vim emulation layer for Xamarin Studio / Visual Studio for Mac",
+        "languages": {
+            "F#": 200452,
+            "Shell": 1162
+        }
+    },
+    {
+        "name": "SAFE-Nightwatch",
+        "description": "Demo of SAFE-Stack applied to React Native for cross platform native mobile apps",
+        "languages": {
+            "F#": 27997,
+            "Objective-C": 4172,
+            "Ruby": 2785,
+            "Java": 2624,
+            "JavaScript": 1464,
+            "Starlark": 602,
+            "Shell": 581,
+            "Batchfile": 266
+        }
+    },
+    {
+        "name": "Snowflaqe",
+        "description": "A dotnet CLI to generate type-safe GraphQL clients for F# and Fable with automatic deserialization, static query verification and type checking",
+        "languages": {
+            "F#": 346956
+        }
+    },
+    {
+        "name": "write-you-an-inference-in-fsharp",
+        "description": "Different type inference algorithms implemented in F#",
+        "languages": {
+            "F#": 69863
+        }
+    },
+    {
+        "name": "FsConfig",
+        "description": "FsConfig is a F# library for reading configuration data from environment variables and AppSettings with type safety.",
+        "languages": {
+            "F#": 154416,
+            "CSS": 6998,
+            "JavaScript": 4053,
+            "Dockerfile": 971,
+            "Shell": 788,
+            "Batchfile": 103
+        }
+    },
+    {
+        "name": "SAFE-ConfPlanner",
+        "description": "Working sample of a SAFE-Stack project that uses CQRS/Event-Sourcing and the Elm Architecture",
+        "languages": {
+            "F#": 131089,
+            "JavaScript": 6657,
+            "Shell": 521,
+            "CSS": 438,
+            "HTML": 300,
+            "Batchfile": 132
+        }
+    },
+    {
+        "name": "zzarchive-Cricket",
+        "description": "[ARCHIVED]  An actor framework for F#",
+        "languages": {
+            "F#": 116178,
+            "Shell": 628,
+            "Batchfile": 193
+        }
+    },
+    {
+        "name": "FSharp.UMX",
+        "description": "F# units of measure for primitive non-numeric types",
+        "languages": {
+            "F#": 8305,
+            "Makefile": 601
+        }
+    },
+    {
+        "name": "Femto",
+        "description": "Femto is a CLI tool that automatically resolves npm packages used by Fable bindings",
+        "languages": {
+            "F#": 156149,
+            "Batchfile": 53,
+            "Shell": 53
+        }
+    },
+    {
+        "name": "contextive",
+        "description": "Get on the same page.",
+        "languages": {
+            "F#": 192874,
+            "JavaScript": 7726,
+            "Kotlin": 7264,
+            "Shell": 2721,
+            "Dockerfile": 2091,
+            "C#": 379,
+            "Ruby": 82
+        }
+    },
+    {
+        "name": "FlexSearch",
+        "description": "FlexSearch Server",
+        "languages": {
+            "F#": 1675835,
+            "HTML": 123729,
+            "TypeScript": 67370,
+            "CSS": 42526,
+            "JavaScript": 19699,
+            "C#": 7201,
+            "Batchfile": 626,
+            "PowerShell": 379
+        }
+    },
+    {
+        "name": "Eclipser",
+        "description": "Grey-box Concolic Testing on Binary Code (ICSE '19)",
+        "languages": {
+            "F#": 107023,
+            "C": 37468,
+            "Shell": 15275,
+            "Dockerfile": 1129,
+            "Makefile": 1036
+        }
+    },
+    {
+        "name": "froto",
+        "description": "Froto: F# Protocol Buffers",
+        "languages": {
+            "F#": 1078901,
+            "PowerShell": 1323,
+            "Shell": 1082
+        }
+    },
+    {
+        "name": "ZeroToNine",
+        "description": "A tool for maintaining .NET Assembly versions across multiple files.",
+        "languages": {
+            "F#": 36571,
+            "XSLT": 10348,
+            "Shell": 944,
+            "PowerShell": 316
+        }
+    },
+    {
+        "name": "Thoth.Json",
+        "description": "Library for working with JSON in a type safe manner, this libs is targeting Fable",
+        "languages": {
+            "F#": 669551,
+            "JavaScript": 171505,
+            "Shell": 660,
+            "Dockerfile": 373,
+            "Batchfile": 104
+        }
+    },
+    {
+        "name": "Hype",
+        "description": "Hype: Compositional Machine Learning and Hyperparameter Optimization",
+        "languages": {
+            "F#": 93879
+        }
+    },
+    {
+        "name": "Fli",
+        "description": "Execute CLI commands from your F# code in F# style!",
+        "languages": {
+            "F#": 54867,
+            "PowerShell": 83
+        }
+    },
+    {
+        "name": "FSharp.Domain.Validation",
+        "description": "Designing with types requires a lot of code - this library fixes that",
+        "languages": {
+            "F#": 42427,
+            "HTML": 3937,
+            "CSS": 1281,
+            "JavaScript": 960,
+            "Procfile": 60
+        }
+    },
+    {
+        "name": "Fable.Reaction",
+        "description": "Fable Reaction - Reactive (AsyncRx) for F# Elmish and Fable",
+        "languages": {
+            "F#": 21245
+        }
+    },
+    {
+        "name": "falanx",
+        "description": "Generates F# code from protobuf schema for binary and json format",
+        "languages": {
+            "F#": 279802,
+            "Scala": 3885,
+            "Shell": 248,
+            "Batchfile": 118
+        }
+    },
+    {
+        "name": "fsharpforfunandprofit.com",
+        "description": "Source for fsharpforfunandprofit.com. For typos, please send a PR or create an issue. Thanks!",
+        "languages": {
+            "F#": 535722,
+            "HTML": 193513,
+            "CSS": 83319,
+            "JavaScript": 7937,
+            "NASL": 2204,
+            "Batchfile": 170,
+            "Shell": 116
+        }
+    },
+    {
+        "name": "ExcelProvider",
+        "description": "This library is for the .NET platform implementing a Excel type provider.",
+        "languages": {
+            "F#": 55307,
+            "Batchfile": 172
+        }
+    },
+    {
+        "name": "Validus",
+        "description": "An extensible F# validation library.",
+        "languages": {
+            "F#": 77765,
+            "PowerShell": 1213
+        }
+    },
+    {
+        "name": "Machine-Learning-In-Action",
+        "description": "Converting the code from \"Machine Learning in Action\" from Python to F#",
+        "languages": {
+            "F#": 85214,
+            "Puppet": 593
+        }
+    },
+    {
+        "name": "Elmish.Bridge",
+        "description": "Create client-server Fable-Elmish apps keeping a single mindset",
+        "languages": {
+            "F#": 73926
+        }
+    },
+    {
+        "name": "FsExcel",
+        "description": "An F# Excel spreadsheet generator",
+        "languages": {
+            "F#": 114751,
+            "Batchfile": 40
+        }
+    },
+    {
+        "name": "Facil",
+        "description": "Facil generates F# data access source code from SQL queries and stored procedures. Optimized for developer happiness.",
+        "languages": {
+            "F#": 2944646,
+            "TSQL": 32101,
+            "C#": 28960
+        }
+    },
+    {
+        "name": "fsharp-wpf-mvc-series",
+        "description": "F# MVC framework for WPF. Productized version available on:",
+        "languages": {
+            "F#": 1045065,
+            "C#": 195701,
+            "ASP": 2959
+        }
+    },
+    {
+        "name": "Sojobo",
+        "description": "A binary analysis framework",
+        "languages": {
+            "F#": 276193,
+            "C#": 3972,
+            "Batchfile": 198
+        }
+    },
+    {
+        "name": "fracture",
+        "description": "A high-performance socket I/O message pipeline library.",
+        "languages": {
+            "F#": 50442,
+            "Shell": 187
+        }
+    },
+    {
+        "name": "Hawaii",
+        "description": "dotnet CLI tool to generate type-safe F# and Fable clients from OpenAPI/Swagger or OData  services",
+        "languages": {
+            "F#": 282033
+        }
+    },
+    {
+        "name": "Perla",
+        "description": "A cross-platform tool for unbundled front-end development that doesn't depend on Node or requires you to install a complex toolchain",
+        "languages": {
+            "F#": 453170,
+            "JavaScript": 8011,
+            "Visual Basic .NET": 4994,
+            "Dockerfile": 339
+        }
+    },
+    {
+        "name": "TickSpec",
+        "description": "Lean .NET BDD framework with powerful F# integration",
+        "languages": {
+            "F#": 116416,
+            "Gherkin": 1839
+        }
     }
 ]

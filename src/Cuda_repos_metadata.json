@@ -56,5 +56,2075 @@
             "C": 13493,
             "Lua": 6888
         }
+    },
+    {
+        "name": "SENet",
+        "description": "Squeeze-and-Excitation Networks",
+        "languages": {
+            "Cuda": 19848,
+            "C++": 5034
+        }
+    },
+    {
+        "name": "CUDA_Freshman",
+        "description": null,
+        "languages": {
+            "Cuda": 121802,
+            "CMake": 3348,
+            "C": 2058,
+            "Makefile": 156
+        }
+    },
+    {
+        "name": "tsne-cuda",
+        "description": "GPU Accelerated t-SNE for CUDA with Python bindings",
+        "languages": {
+            "Cuda": 123560,
+            "C++": 69057,
+            "Python": 23003,
+            "CMake": 22867,
+            "Roff": 21245,
+            "C": 5453,
+            "Shell": 3807,
+            "HTML": 2762
+        }
+    },
+    {
+        "name": "cub",
+        "description": "[ARCHIVED] Cooperative primitives for CUDA C++. See https://github.com/NVIDIA/cccl ",
+        "languages": {
+            "Cuda": 4576903,
+            "C++": 103627,
+            "CMake": 98786,
+            "Jupyter Notebook": 72556,
+            "Python": 54921
+        }
+    },
+    {
+        "name": "cugraph",
+        "description": "cuGraph - RAPIDS Graph Analytics Library",
+        "languages": {
+            "Cuda": 4002153,
+            "Python": 3598559,
+            "C++": 2123406,
+            "Jupyter Notebook": 971926,
+            "C": 885965,
+            "Cython": 453322,
+            "Shell": 104282,
+            "CMake": 101076,
+            "Dockerfile": 2999,
+            "HTML": 2352,
+            "Makefile": 505
+        }
+    },
+    {
+        "name": "FCIS",
+        "description": "Fully Convolutional Instance-aware Semantic Segmentation",
+        "languages": {
+            "Cuda": 634468,
+            "Python": 494047,
+            "C++": 29626,
+            "C": 9632,
+            "Batchfile": 402,
+            "Makefile": 366,
+            "Shell": 347
+        }
+    },
+    {
+        "name": "Deformable-Convolution-V2-PyTorch",
+        "description": "Deformable ConvNets V2 (DCNv2) in PyTorch",
+        "languages": {
+            "Cuda": 61203,
+            "C": 56188,
+            "Python": 27055,
+            "C++": 2039,
+            "Shell": 438
+        }
+    },
+    {
+        "name": "matconvnet",
+        "description": "MatConvNet: CNNs for MATLAB",
+        "languages": {
+            "Cuda": 570681,
+            "MATLAB": 368709,
+            "C++": 155374,
+            "Python": 77090,
+            "Shell": 31006,
+            "C": 19829,
+            "Makefile": 12463,
+            "M": 402
+        }
+    },
+    {
+        "name": "CUDA-Programming",
+        "description": "Sample codes for my CUDA programming book",
+        "languages": {
+            "Cuda": 139157,
+            "MATLAB": 3750,
+            "C": 3503,
+            "Makefile": 1662,
+            "C++": 1136
+        }
+    },
+    {
+        "name": "cs344",
+        "description": "Introduction to Parallel Programming class code",
+        "languages": {
+            "Cuda": 101495,
+            "C++": 92896,
+            "C": 12243,
+            "Makefile": 9748,
+            "CMake": 5570
+        }
+    },
+    {
+        "name": "CUDALibrarySamples",
+        "description": "CUDA Library Samples",
+        "languages": {
+            "Cuda": 1369346,
+            "C++": 1067900,
+            "CMake": 660819,
+            "C": 600238,
+            "Makefile": 132899,
+            "AMPL": 95606,
+            "Fortran": 87757,
+            "Python": 70864,
+            "Dockerfile": 476
+        }
+    },
+    {
+        "name": "Alenka",
+        "description": "GPU database engine",
+        "languages": {
+            "Cuda": 493217,
+            "C": 166137,
+            "C++": 44982,
+            "Yacc": 13116,
+            "Lex": 3943,
+            "Makefile": 1687
+        }
+    },
+    {
+        "name": "torchsparse",
+        "description": "TorchSparse: Efficient Training and Inference Framework for Sparse Convolution on GPUs.",
+        "languages": {
+            "Cuda": 644455,
+            "Python": 165061,
+            "C++": 17196,
+            "C": 8135
+        }
+    },
+    {
+        "name": "k2",
+        "description": "FSA/FST algorithms, differentiable, with PyTorch compatibility.",
+        "languages": {
+            "Cuda": 1953350,
+            "C++": 1360137,
+            "Python": 1011863,
+            "CMake": 114009,
+            "C": 58308,
+            "Shell": 34277,
+            "Makefile": 245
+        }
+    },
+    {
+        "name": "blocksparse",
+        "description": "Efficient GPU kernels for block-sparse matrix multiplication and convolution",
+        "languages": {
+            "Cuda": 692840,
+            "Python": 388424,
+            "C++": 358125,
+            "CSS": 191640,
+            "C": 55028,
+            "Makefile": 5698,
+            "Shell": 186
+        }
+    },
+    {
+        "name": "how-to-optim-algorithm-in-cuda",
+        "description": "how to optimize some algorithm in cuda.",
+        "languages": {
+            "Cuda": 427441,
+            "Python": 126060,
+            "C++": 49288,
+            "Makefile": 1509
+        }
+    },
+    {
+        "name": "Learn-CUDA-Programming",
+        "description": "Learn CUDA Programming, published by Packt",
+        "languages": {
+            "Cuda": 339101,
+            "Python": 213282,
+            "C++": 180173,
+            "Makefile": 73064,
+            "C": 61115,
+            "Shell": 26779,
+            "Batchfile": 1824,
+            "MATLAB": 1054,
+            "R": 506
+        }
+    },
+    {
+        "name": "CudaSift",
+        "description": "A CUDA implementation of SIFT for NVidia GPUs (1.2 ms on a GTX 1060)",
+        "languages": {
+            "Cuda": 165266,
+            "C++": 14521,
+            "C": 4480,
+            "CMake": 1868
+        }
+    },
+    {
+        "name": "gsplat",
+        "description": "CUDA accelerated rasterization of gaussian splatting",
+        "languages": {
+            "Cuda": 83962,
+            "Python": 68594,
+            "C++": 6324,
+            "CMake": 1088,
+            "C": 998
+        }
+    },
+    {
+        "name": "warp-ctc",
+        "description": "Pytorch Bindings for warp-ctc",
+        "languages": {
+            "Cuda": 167550,
+            "C++": 88161,
+            "Python": 12069,
+            "C": 5891,
+            "CMake": 3709
+        }
+    },
+    {
+        "name": "cuda-convnet2",
+        "description": "Automatically exported from code.google.com/p/cuda-convnet2",
+        "languages": {
+            "Cuda": 1255186,
+            "Python": 182232,
+            "C++": 59082,
+            "Makefile": 14065,
+            "Shell": 1916
+        }
+    },
+    {
+        "name": "nv-wavenet",
+        "description": "Reference implementation of real-time autoregressive wavenet inference",
+        "languages": {
+            "Cuda": 153818,
+            "Python": 55171,
+            "C++": 29311,
+            "Makefile": 5368,
+            "C": 2973
+        }
+    },
+    {
+        "name": "twostreamfusion",
+        "description": "Code release for \"Convolutional Two-Stream Network Fusion for Video Action Recognition\", CVPR 2016.",
+        "languages": {
+            "Cuda": 316535,
+            "MATLAB": 312400,
+            "C++": 197442,
+            "C": 21309,
+            "Shell": 10182
+        }
+    },
+    {
+        "name": "tsdf-fusion",
+        "description": "Fuse multiple depth frames into a TSDF voxel volume.",
+        "languages": {
+            "Cuda": 24968,
+            "C++": 18539,
+            "MATLAB": 2189,
+            "Shell": 633
+        }
+    },
+    {
+        "name": "mc-cnn",
+        "description": "Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches",
+        "languages": {
+            "Cuda": 66210,
+            "Lua": 62728,
+            "Python": 29132,
+            "Shell": 2028,
+            "C++": 1526,
+            "Protocol Buffer": 576
+        }
+    },
+    {
+        "name": "How_to_optimize_in_GPU",
+        "description": "This is a series of GPU optimization topics. Here we will introduce  how to optimize the CUDA kernel in detail.  I will introduce several basic kernel optimizations, including: elementwise, reduce, sgemv, sgemm, etc. The performance of these kernels is basically at or near the theoretical limit.",
+        "languages": {
+            "Cuda": 102469,
+            "Shell": 2108,
+            "Makefile": 409
+        }
+    },
+    {
+        "name": "nccl-tests",
+        "description": "NCCL Tests",
+        "languages": {
+            "Cuda": 120547,
+            "C++": 12001,
+            "Makefile": 4536,
+            "C": 2032
+        }
+    },
+    {
+        "name": "lietorch",
+        "description": null,
+        "languages": {
+            "Cuda": 75527,
+            "C++": 73461,
+            "Python": 53026,
+            "C": 2652,
+            "Shell": 42
+        }
+    },
+    {
+        "name": "cuda_programming",
+        "description": "Code from the \"CUDA Crash Course\" YouTube series by CoffeeBeforeArch",
+        "languages": {
+            "Cuda": 65233
+        }
+    },
+    {
+        "name": "raft",
+        "description": "RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.",
+        "languages": {
+            "Cuda": 6663014,
+            "C++": 1640458,
+            "Jupyter Notebook": 1254244,
+            "Python": 336852,
+            "Cython": 297838,
+            "CMake": 103145,
+            "Shell": 47300,
+            "C": 21582,
+            "HTML": 2352,
+            "Perl": 1354,
+            "Dockerfile": 639
+        }
+    },
+    {
+        "name": "flashinfer",
+        "description": "FlashInfer: Kernel Library for LLM Serving",
+        "languages": {
+            "Cuda": 603261,
+            "Python": 152482,
+            "C++": 31226,
+            "CMake": 27725,
+            "Shell": 2036
+        }
+    },
+    {
+        "name": "diff-gaussian-rasterization",
+        "description": null,
+        "languages": {
+            "Cuda": 57107,
+            "C++": 14759,
+            "Python": 8344,
+            "CMake": 1046,
+            "C": 468
+        }
+    },
+    {
+        "name": "NeuS2",
+        "description": "Official code for NeuS2",
+        "languages": {
+            "Cuda": 740705,
+            "C++": 155993,
+            "Python": 108822,
+            "CMake": 18180,
+            "C": 12445,
+            "Batchfile": 83
+        }
+    },
+    {
+        "name": "nvParse",
+        "description": "Fast, gpu-based CSV parser",
+        "languages": {
+            "Cuda": 6368,
+            "C++": 3537
+        }
+    },
+    {
+        "name": "recommenders-addons",
+        "description": "Additional utils and helpers to extend TensorFlow when build recommendation systems, contributed and maintained by SIG Recommenders.",
+        "languages": {
+            "Cuda": 2048378,
+            "Python": 1099173,
+            "C++": 772232,
+            "C": 168930,
+            "Smarty": 99805,
+            "Starlark": 85977,
+            "Shell": 50300,
+            "Dockerfile": 46777
+        }
+    },
+    {
+        "name": "baidu-allreduce",
+        "description": null,
+        "languages": {
+            "Cuda": 16865,
+            "C++": 11922,
+            "Makefile": 797
+        }
+    },
+    {
+        "name": "GANet",
+        "description": "GA-Net: Guided Aggregation Net for End-to-end Stereo Matching",
+        "languages": {
+            "Cuda": 104259,
+            "Python": 101377,
+            "C++": 18545,
+            "Shell": 6420
+        }
+    },
+    {
+        "name": "DarkPose",
+        "description": "Distribution-Aware Coordinate Representation for Human Pose Estimation",
+        "languages": {
+            "Cuda": 292540,
+            "Python": 132641,
+            "Cython": 3642,
+            "Shell": 3273,
+            "C++": 146,
+            "Makefile": 116
+        }
+    },
+    {
+        "name": "DepthwiseConvolution",
+        "description": "A personal depthwise convolution layer implementation on caffe by liuhao.(only GPU)",
+        "languages": {
+            "Cuda": 12282,
+            "Python": 10010,
+            "C++": 7173
+        }
+    },
+    {
+        "name": "convnet",
+        "description": "A GPU implementation of Convolutional Neural Nets in C++",
+        "languages": {
+            "Cuda": 1115045,
+            "C++": 466161,
+            "C": 192877,
+            "Python": 188817,
+            "Protocol Buffer": 13416,
+            "Makefile": 7051
+        }
+    },
+    {
+        "name": "CUDA-Learn-Notes",
+        "description": "\ud83c\udf89CUDA \u7b14\u8bb0 / \u5927\u6a21\u578b\u624b\u6495CUDA / C++\u7b14\u8bb0\uff0c\u66f4\u65b0\u968f\u7f18: flash_attn\u3001sgemm\u3001sgemv\u3001warp reduce\u3001block reduce\u3001dot product\u3001elementwise\u3001softmax\u3001layernorm\u3001rmsnorm\u3001hist etc.",
+        "languages": {
+            "Cuda": 35281,
+            "Python": 2792,
+            "C++": 465
+        }
+    },
+    {
+        "name": "kNN-CUDA",
+        "description": "Fast k nearest neighbor search using GPU",
+        "languages": {
+            "Cuda": 106140,
+            "MATLAB": 22830,
+            "C++": 11566,
+            "Batchfile": 2897,
+            "C": 2849,
+            "Makefile": 139
+        }
+    },
+    {
+        "name": "cudahandbook",
+        "description": "Source code that accompanies The CUDA Handbook.",
+        "languages": {
+            "Cuda": 853690,
+            "C++": 97127,
+            "C": 39147,
+            "Makefile": 2871
+        }
+    },
+    {
+        "name": "integral-human-pose",
+        "description": "Integral Human Pose Regression",
+        "languages": {
+            "Cuda": 292624,
+            "Python": 218431,
+            "C++": 146
+        }
+    },
+    {
+        "name": "kilonerf",
+        "description": "Code for KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs",
+        "languages": {
+            "Cuda": 2833939,
+            "Python": 210462,
+            "C++": 199547,
+            "Makefile": 52037,
+            "Shell": 1751,
+            "C": 156
+        }
+    },
+    {
+        "name": "music-translation",
+        "description": "A UNIVERSAL MUSIC TRANSLATION NETWORK - a method for translating music across musical instruments and styles.",
+        "languages": {
+            "Cuda": 159225,
+            "Python": 85458,
+            "C++": 36367,
+            "Jupyter Notebook": 5149,
+            "C": 3478,
+            "Shell": 3061,
+            "Makefile": 3024
+        }
+    },
+    {
+        "name": "AMGX",
+        "description": "Distributed multigrid linear solver library on GPU",
+        "languages": {
+            "Cuda": 4544958,
+            "C++": 2536246,
+            "C": 795473,
+            "CMake": 17931,
+            "Python": 5078,
+            "Shell": 2408
+        }
+    },
+    {
+        "name": "gpuRIR",
+        "description": "Python library for Room Impulse Response (RIR) simulation with GPU acceleration",
+        "languages": {
+            "Cuda": 40688,
+            "Python": 12364,
+            "C++": 7326,
+            "CMake": 1660
+        }
+    },
+    {
+        "name": "nerfshop",
+        "description": "NeRFshop: Interactive Editing of Neural Radiance Fields",
+        "languages": {
+            "Cuda": 1005510,
+            "C++": 255997,
+            "Python": 106652,
+            "C": 27729,
+            "CMake": 22687,
+            "Dockerfile": 2235
+        }
+    },
+    {
+        "name": "multi-gpu-programming-models",
+        "description": "Examples demonstrating available options to program multiple GPUs in a single node or a cluster",
+        "languages": {
+            "Cuda": 213454,
+            "C++": 115996,
+            "Makefile": 18594,
+            "Shell": 16426
+        }
+    },
+    {
+        "name": "KinectFusionLib",
+        "description": " Implementation of the KinectFusion approach in modern C++14 and CUDA ",
+        "languages": {
+            "Cuda": 54317,
+            "C++": 39162,
+            "C": 22099,
+            "CMake": 1595
+        }
+    },
+    {
+        "name": "MegBA",
+        "description": "MegBA: A GPU-Based Distributed Library for Large-Scale Bundle Adjustment",
+        "languages": {
+            "Cuda": 251543,
+            "C++": 152553,
+            "CMake": 15126
+        }
+    },
+    {
+        "name": "nvbench",
+        "description": "CUDA Kernel Benchmarking Library",
+        "languages": {
+            "Cuda": 574937,
+            "C++": 89531,
+            "CMake": 47960,
+            "Python": 41753,
+            "Shell": 27754,
+            "PowerShell": 7975
+        }
+    },
+    {
+        "name": "cudpp",
+        "description": "CUDA Data Parallel Primitives Library",
+        "languages": {
+            "Cuda": 899245,
+            "C": 876419,
+            "C++": 593402,
+            "CMake": 25797
+        }
+    },
+    {
+        "name": "popsift",
+        "description": "PopSift is an implementation of the SIFT algorithm in CUDA.",
+        "languages": {
+            "Cuda": 219689,
+            "C++": 157059,
+            "CMake": 30462,
+            "Shell": 8267,
+            "C": 5502,
+            "Dockerfile": 805,
+            "Batchfile": 664
+        }
+    },
+    {
+        "name": "deformable-convolution-pytorch",
+        "description": "PyTorch implementation of Deformable Convolution",
+        "languages": {
+            "Cuda": 18705,
+            "C": 17306,
+            "Python": 7368,
+            "C++": 1918,
+            "Shell": 108
+        }
+    },
+    {
+        "name": "fast-human-pose-estimation.pytorch",
+        "description": "Official pytorch Code for CVPR2019 paper \"Fast Human Pose Estimation\" https://arxiv.org/abs/1811.05419",
+        "languages": {
+            "Cuda": 292540,
+            "Python": 155317,
+            "Shell": 11873,
+            "C++": 146,
+            "Makefile": 116
+        }
+    },
+    {
+        "name": "flash-attention-minimal",
+        "description": "Flash Attention in ~100 lines of CUDA (forward pass only)",
+        "languages": {
+            "Cuda": 4578,
+            "Python": 1412,
+            "C++": 220
+        }
+    },
+    {
+        "name": "NvPipe",
+        "description": "NVIDIA-accelerated zero latency video compression library for interactive remoting applications",
+        "languages": {
+            "Cuda": 40887,
+            "CMake": 6086
+        }
+    },
+    {
+        "name": "CUDA-code",
+        "description": null,
+        "languages": {
+            "Cuda": 63354,
+            "CMake": 8165,
+            "C++": 6950
+        }
+    },
+    {
+        "name": "cuda-training-series",
+        "description": "Training materials associated with NVIDIA's CUDA Training Series (www.olcf.ornl.gov/cuda-training-series/)",
+        "languages": {
+            "Cuda": 171714,
+            "Shell": 1526
+        }
+    },
+    {
+        "name": "SimpleGPUHashTable",
+        "description": "A simple GPU hash table implemented in CUDA using lock free techniques",
+        "languages": {
+            "Cuda": 8359,
+            "C++": 7888,
+            "CMake": 734
+        }
+    },
+    {
+        "name": "unsupervised-videos",
+        "description": "Unsupervised Learning of Video Representations using LSTMs",
+        "languages": {
+            "Cuda": 1063550,
+            "Objective-C": 192369,
+            "Python": 161530,
+            "Makefile": 1175
+        }
+    },
+    {
+        "name": "open_quadtree_mapping",
+        "description": "This is a monocular dense mapping system corresponding to IROS 2018 \"Quadtree-accelerated Real-time Monocular Dense Mapping\"",
+        "languages": {
+            "Cuda": 134312,
+            "C++": 80333,
+            "CMake": 77183
+        }
+    },
+    {
+        "name": "professional-cuda-c-programming",
+        "description": null,
+        "languages": {
+            "Cuda": 739410,
+            "C": 57467,
+            "Makefile": 7938
+        }
+    },
+    {
+        "name": "GPUMD",
+        "description": "Graphics Processing Units Molecular Dynamics",
+        "languages": {
+            "Cuda": 2693172,
+            "Python": 108303,
+            "C++": 63308,
+            "MATLAB": 17654,
+            "Shell": 13242,
+            "Makefile": 4462,
+            "Vim Script": 2715,
+            "Objective-C": 1000,
+            "Batchfile": 882,
+            "Dockerfile": 872
+        }
+    },
+    {
+        "name": "DABA",
+        "description": "Official implementation of \"Decentralization and Acceleration Enables Large-Scale Bundle Adjustment\"",
+        "languages": {
+            "Cuda": 1331656,
+            "C++": 157382,
+            "C": 50458,
+            "CMake": 24818
+        }
+    },
+    {
+        "name": "cutorch",
+        "description": "A CUDA backend for Torch7",
+        "languages": {
+            "Cuda": 641308,
+            "Lua": 260996,
+            "C": 250555,
+            "C++": 27535,
+            "CMake": 23081,
+            "Objective-C": 1666,
+            "Shell": 715
+        }
+    },
+    {
+        "name": "Person-reID_GAN",
+        "description": "ICCV2017 Unlabeled Samples Generated by GAN Improve the Person Re-identification Baseline in vitro",
+        "languages": {
+            "Cuda": 502006,
+            "MATLAB": 360436,
+            "C++": 223052,
+            "C": 19671,
+            "Shell": 10182,
+            "M": 1024
+        }
+    },
+    {
+        "name": "pytorch-cppcuda-tutorial",
+        "description": "tutorial for writing custom pytorch cpp+cuda kernel, applied on volume rendering (NeRF)",
+        "languages": {
+            "Cuda": 4258,
+            "Python": 3044,
+            "C++": 705,
+            "C": 485
+        }
+    },
+    {
+        "name": "infer",
+        "description": "A new tensorrt integrate. Easy to integrate many tasks",
+        "languages": {
+            "Cuda": 40729,
+            "C++": 15166,
+            "Python": 1421,
+            "Makefile": 982,
+            "Shell": 702
+        }
+    },
+    {
+        "name": "ChamferDistancePytorch",
+        "description": "Chamfer Distance in Pytorch with f-score",
+        "languages": {
+            "Cuda": 26071,
+            "Python": 17131,
+            "C++": 4288
+        }
+    },
+    {
+        "name": "SimCC",
+        "description": "[ECCV'2022 Oral] PyTorch implementation for: SimCC: a Simple Coordinate Classification Perspective for Human Pose Estimation (http://arxiv.org/abs/2107.03332). Old name: SimDR",
+        "languages": {
+            "Cuda": 292540,
+            "Python": 165042,
+            "Cython": 3642,
+            "C++": 146,
+            "Makefile": 116
+        }
+    },
+    {
+        "name": "dietgpu",
+        "description": "GPU implementation of a fast generalized ANS (asymmetric numeral system) entropy encoder and decoder, with extensions for lossless compression of numerical and other data types in HPC/ML applications.",
+        "languages": {
+            "Cuda": 184243,
+            "C++": 82738,
+            "Python": 18679,
+            "CMake": 4883,
+            "Dockerfile": 776
+        }
+    },
+    {
+        "name": "ROSEFusion",
+        "description": "[SIGGRAPH 2021] ROSEFusion is proposed to tackle the difficulties in fast-motion camera tracking using random optimization with depth information only. ",
+        "languages": {
+            "Cuda": 42034,
+            "C++": 38883,
+            "CMake": 1668,
+            "C": 577
+        }
+    },
+    {
+        "name": "fbcuda",
+        "description": "Facebook's CUDA extensions.",
+        "languages": {
+            "Cuda": 331211,
+            "C++": 19841,
+            "Python": 1317,
+            "Shell": 774
+        }
+    },
+    {
+        "name": "CUDA_gemm",
+        "description": "A simple high performance CUDA GEMM implementation.",
+        "languages": {
+            "Cuda": 96866,
+            "Python": 12578,
+            "C++": 9042,
+            "Makefile": 1562,
+            "Shell": 1206
+        }
+    },
+    {
+        "name": "GenomeWorks",
+        "description": "SDK for GPU accelerated genome assembly and analysis",
+        "languages": {
+            "Cuda": 1195283,
+            "C++": 598191,
+            "Python": 96666,
+            "CMake": 49892,
+            "Cython": 38481,
+            "Shell": 31079
+        }
+    },
+    {
+        "name": "torch-mesh-isect",
+        "description": null,
+        "languages": {
+            "Cuda": 36961,
+            "Python": 23949,
+            "C++": 4708
+        }
+    },
+    {
+        "name": "PyTorchEMD",
+        "description": "PyTorch Wrapper for Earth-Mover-Distance (EMD) for 3D point cloud regression",
+        "languages": {
+            "Cuda": 11815,
+            "Python": 3234,
+            "C++": 744
+        }
+    },
+    {
+        "name": "NATTEN",
+        "description": "Neighborhood Attention Extension. Bringing attention to a neighborhood near you!",
+        "languages": {
+            "Cuda": 4411162,
+            "C++": 3313365,
+            "Python": 505696,
+            "CMake": 7531,
+            "Shell": 6274,
+            "Makefile": 1469,
+            "Batchfile": 1027
+        }
+    },
+    {
+        "name": "chamferdist",
+        "description": "Pytorch package to compute Chamfer distance between point sets (pointclouds).",
+        "languages": {
+            "Cuda": 40832,
+            "Python": 18760,
+            "C++": 8792,
+            "C": 376
+        }
+    },
+    {
+        "name": "GrabGPU",
+        "description": "Grab GPU whenever available",
+        "languages": {
+            "Cuda": 6069
+        }
+    },
+    {
+        "name": "megalodon",
+        "description": "Reference implementation of Megalodon 7B model",
+        "languages": {
+            "Cuda": 341024,
+            "Python": 161538,
+            "C++": 139684
+        }
+    },
+    {
+        "name": "cudnn-training",
+        "description": "A CUDNN minimal deep learning training code sample using LeNet.",
+        "languages": {
+            "Cuda": 54047,
+            "C++": 5502,
+            "CMake": 1235
+        }
+    },
+    {
+        "name": "SGEMM_CUDA",
+        "description": "Fast CUDA matrix multiplication from scratch",
+        "languages": {
+            "Cuda": 84052,
+            "Shell": 10781,
+            "Python": 5448,
+            "CMake": 1379,
+            "Makefile": 933
+        }
+    },
+    {
+        "name": "KNN_CUDA",
+        "description": "pytorch knn [cuda version]",
+        "languages": {
+            "Cuda": 8958,
+            "Python": 4631,
+            "C++": 1571,
+            "Makefile": 304
+        }
+    },
+    {
+        "name": "cuda-convnet",
+        "description": "My fork of Alex Krizhevsky's cuda-convnet from 2013 where I added dropout, among other features.",
+        "languages": {
+            "Cuda": 832799,
+            "Python": 148000,
+            "C++": 50256
+        }
+    },
+    {
+        "name": "Orbeez-SLAM",
+        "description": null,
+        "languages": {
+            "Cuda": 423795,
+            "C": 279338,
+            "C++": 77939,
+            "Python": 52016,
+            "CMake": 12896,
+            "Dockerfile": 1196,
+            "Shell": 1175
+        }
+    },
+    {
+        "name": "OpenCUDA",
+        "description": null,
+        "languages": {
+            "Cuda": 2281590,
+            "C++": 728415,
+            "Objective-C": 27820,
+            "C": 9762,
+            "Makefile": 439
+        }
+    },
+    {
+        "name": "YHs_Sample",
+        "description": "Yinghan's Code Sample",
+        "languages": {
+            "Cuda": 66736,
+            "Shell": 100
+        }
+    },
+    {
+        "name": "diff-gaussian-rasterization",
+        "description": null,
+        "languages": {
+            "Cuda": 60090,
+            "C++": 15183,
+            "Python": 8503,
+            "CMake": 1043,
+            "C": 468
+        }
+    },
+    {
+        "name": "Pedestrian_Alignment",
+        "description": "TCSVT2018 Pedestrian Alignment Network for Large-scale Person Re-identification",
+        "languages": {
+            "Cuda": 502006,
+            "MATLAB": 347430,
+            "C++": 223052,
+            "C": 19671,
+            "Shell": 10182,
+            "M": 1024
+        }
+    },
+    {
+        "name": "mlp_maps",
+        "description": "Code for \"Representing Volumetric Videos as Dynamic MLP Maps\" CVPR 2023",
+        "languages": {
+            "Cuda": 2953459,
+            "Python": 313085,
+            "C++": 200193,
+            "Makefile": 52037,
+            "C": 45238,
+            "Shell": 937
+        }
+    },
+    {
+        "name": "HRNet-Human-Pose-Estimation",
+        "description": "This repo is copied from https://github.com/leoxiaobin/deep-high-resolution-net.pytorch",
+        "languages": {
+            "Cuda": 292540,
+            "Python": 127757,
+            "C++": 146,
+            "Makefile": 116
+        }
+    },
+    {
+        "name": "Optimizing-SGEMM-on-NVIDIA-Turing-GPUs",
+        "description": "Optimizing SGEMM kernel functions on NVIDIA GPUs to a close-to-cuBLAS performance.",
+        "languages": {
+            "Cuda": 46477,
+            "MATLAB": 1733,
+            "Makefile": 396,
+            "Shell": 297
+        }
+    },
+    {
+        "name": "deepspeech",
+        "description": "DeepSpeech neon implementation",
+        "languages": {
+            "Cuda": 161652,
+            "C++": 80602,
+            "Python": 46283,
+            "C": 7232,
+            "CMake": 2964,
+            "Makefile": 636
+        }
+    },
+    {
+        "name": "cunn",
+        "description": null,
+        "languages": {
+            "Cuda": 685646,
+            "Lua": 316508,
+            "C": 59362,
+            "C++": 16002,
+            "CMake": 12551,
+            "Shell": 715
+        }
+    },
+    {
+        "name": "Professional-CUDA-C-Programming-Code-and-Notes",
+        "description": "CUDA C \u7f16\u7a0b\u6743\u5a01\u6307\u5357\u4ee3\u7801\u5b9e\u73b0 \u5305\u542b\u4e86\u4e66\u4e0a\u7b2c\u4e8c\u7ae0\u5230\u7b2c\u516b\u7ae0\u7684\u5927\u90e8\u5206\u4ee3\u7801\u5b9e\u73b0\u548c\u4f5c\u8005\u7b14\u8bb0\uff0c\u5168\u7531\u4f5c\u8005\u672c\u4eba\u624b\u52a8\u5b9e\u73b0\uff0c\u96be\u514d\u6709\u9519\u8bef\u7684\u5730\u65b9\uff0c\u8bf7\u5927\u5bb6\u8c28\u614e\u53c2\u8003\uff0c\u975e\u5e38\u6b22\u8fce\u5bf9\u9519\u8bef\u7684\u6307\u6b63\u3002 \u5982\u679c\u6709\u5e2e\u52a9\u7684\u8bdd\u8bf7Star\u4e00\u4e0b\uff0c\u5bf9\u4f5c\u8005\u5e2e\u52a9\u5f88\u5927\uff0c\u8c22\u8c22\uff01",
+        "languages": {
+            "Cuda": 85464,
+            "Jupyter Notebook": 26201,
+            "C": 774
+        }
+    },
+    {
+        "name": "CPP-Fluid-Particles",
+        "description": "my own implementation of the WCSPH, DFSPH and PBD fluid solvers using CUDA and C++",
+        "languages": {
+            "Cuda": 58822,
+            "C++": 37732,
+            "GLSL": 2806,
+            "CMake": 2120
+        }
+    },
+    {
+        "name": "TorchPQ",
+        "description": "Approximate nearest neighbor search with product quantization on GPU in pytorch and cuda",
+        "languages": {
+            "Cuda": 433784,
+            "Python": 363793,
+            "Shell": 822
+        }
+    },
+    {
+        "name": "deformable-kernels",
+        "description": "Deforming kernels to adapt towards object deformation. In ICLR 2020.",
+        "languages": {
+            "Cuda": 68997,
+            "Python": 32741,
+            "C++": 20445
+        }
+    },
+    {
+        "name": "MRPNN",
+        "description": "A Neural Volumetric Renderer",
+        "languages": {
+            "Cuda": 18459576,
+            "C++": 1625467,
+            "C": 278248,
+            "Python": 5885,
+            "CMake": 4017
+        }
+    },
+    {
+        "name": "FBTT-Embedding",
+        "description": "This is a Tensor Train based compression library to compress sparse embedding tables used in large-scale machine learning models such as recommendation and natural language processing. We showed this library can reduce the total model size by up to 100x in Facebook\u2019s open sourced DLRM model while achieving same model quality. Our implementation is faster than the state-of-the-art implementations. Existing the state-of-the-art library also decompresses the whole embedding tables on the fly therefore they do not provide memory reduction during runtime of the training. Our library decompresses only the requested rows therefore can provide 10,000 times memory footprint reduction per embedding table. The library also includes a software cache to store a portion of the entries in the table in decompressed format for faster lookup and process.",
+        "languages": {
+            "Cuda": 66246,
+            "Python": 60262,
+            "C++": 4281
+        }
+    },
+    {
+        "name": "claymore",
+        "description": null,
+        "languages": {
+            "Cuda": 422670,
+            "C++": 247715,
+            "CMake": 22696,
+            "Python": 2472
+        }
+    },
+    {
+        "name": "flash-cosine-sim-attention",
+        "description": "Implementation of fused cosine similarity attention in the same style as Flash Attention",
+        "languages": {
+            "Cuda": 62510,
+            "Python": 32300,
+            "C++": 3731,
+            "Makefile": 669
+        }
+    },
+    {
+        "name": "cuda_hgemm",
+        "description": "Several optimization methods of half-precision general matrix multiplication (HGEMM) using tensor core with WMMA API and MMA PTX instruction. ",
+        "languages": {
+            "Cuda": 221268,
+            "C++": 9976,
+            "C": 9635,
+            "Shell": 4280,
+            "Python": 3864,
+            "CMake": 1971
+        }
+    },
+    {
+        "name": "cuFHE",
+        "description": "CUDA-accelerated Fully Homomorphic Encryption Library",
+        "languages": {
+            "Cuda": 94105,
+            "C++": 62683,
+            "Python": 20649,
+            "Makefile": 3379
+        }
+    },
+    {
+        "name": "RWKV-CUDA",
+        "description": "The CUDA version of the RWKV language model ( https://github.com/BlinkDL/RWKV-LM )",
+        "languages": {
+            "Cuda": 141963,
+            "Python": 106950,
+            "C++": 13000
+        }
+    },
+    {
+        "name": "ACMP",
+        "description": "Planar Prior Assisted PatchMatch Multi-View Stereo",
+        "languages": {
+            "Cuda": 52259,
+            "C++": 47981,
+            "Python": 19828,
+            "CMake": 1222
+        }
+    },
+    {
+        "name": "CUDA-CNN",
+        "description": "CNN accelerated by cuda. Test on mnist and finilly get 99.76%",
+        "languages": {
+            "Cuda": 226418,
+            "C++": 106339,
+            "CMake": 1971,
+            "C": 1950,
+            "Shell": 1352
+        }
+    },
+    {
+        "name": "cuHE",
+        "description": "CUDA Homomorphic Encryption Library",
+        "languages": {
+            "Cuda": 96713,
+            "C++": 36413,
+            "CMake": 4090,
+            "C": 2329,
+            "Shell": 751
+        }
+    },
+    {
+        "name": "cumf_als",
+        "description": "CUDA Matrix Factorization Library with Alternating Least Square (ALS)",
+        "languages": {
+            "Cuda": 218492,
+            "C": 43142,
+            "C++": 16557,
+            "Makefile": 14742,
+            "Python": 8494,
+            "Jupyter Notebook": 3140,
+            "Shell": 2947
+        }
+    },
+    {
+        "name": "CGBN",
+        "description": "CGBN:   CUDA Accelerated Multiple Precision Arithmetic (Big Num) using Cooperative Groups",
+        "languages": {
+            "Cuda": 391962,
+            "C++": 306854,
+            "C": 6896,
+            "Makefile": 4398
+        }
+    },
+    {
+        "name": "Swin3D",
+        "description": "A shift-window based transformer for 3D sparse tasks",
+        "languages": {
+            "Cuda": 110344,
+            "Python": 62076,
+            "C++": 6008,
+            "C": 246
+        }
+    },
+    {
+        "name": "Lantern",
+        "description": null,
+        "languages": {
+            "Cuda": 1593083,
+            "C++": 994082,
+            "Scala": 951993,
+            "Python": 540765,
+            "Java": 259006,
+            "Shell": 31276,
+            "CSS": 3071,
+            "HTML": 3040,
+            "JavaScript": 1147
+        }
+    },
+    {
+        "name": "CudaSteps",
+        "description": "\u57fa\u4e8e\u300acuda\u7f16\u7a0b-\u57fa\u7840\u4e0e\u5b9e\u8df5\u300b\uff08\u6a0a\u54f2\u52c7 \u8457\uff09\u7684cuda\u5b66\u4e60\u4e4b\u8def\u3002",
+        "languages": {
+            "Cuda": 75483,
+            "C++": 1784
+        }
+    },
+    {
+        "name": "CUDA-Winograd",
+        "description": "Fast CUDA Kernels for ResNet Inference.",
+        "languages": {
+            "Cuda": 57558,
+            "C": 6040,
+            "Python": 4590,
+            "Makefile": 617
+        }
+    },
+    {
+        "name": "sppark",
+        "description": "Zero-knowledge template library",
+        "languages": {
+            "Cuda": 257469,
+            "C++": 116380,
+            "Rust": 27894,
+            "Shell": 468
+        }
+    },
+    {
+        "name": "DefTet",
+        "description": "Learning Deformable Tetrahedral Meshes for 3D Reconstruction (NeurIPS 2020)",
+        "languages": {
+            "Cuda": 358586,
+            "Python": 356979,
+            "C++": 44502,
+            "Shell": 625
+        }
+    },
+    {
+        "name": "FRNN",
+        "description": "Fixed Radius Nearest Neighbor Search on GPU",
+        "languages": {
+            "Cuda": 88687,
+            "Python": 75629,
+            "C++": 23508,
+            "C": 19894
+        }
+    },
+    {
+        "name": "lbvh",
+        "description": "an implementation of parallel linear BVH (LBVH) on GPU",
+        "languages": {
+            "Cuda": 42888,
+            "Makefile": 57
+        }
+    },
+    {
+        "name": "causal-conv1d",
+        "description": "Causal depthwise conv1d in CUDA, with a PyTorch interface",
+        "languages": {
+            "Cuda": 59010,
+            "Python": 29993,
+            "C++": 21973,
+            "C": 3370
+        }
+    },
+    {
+        "name": "Atom",
+        "description": "Atom: Low-bit Quantization for Efficient and Accurate LLM Serving",
+        "languages": {
+            "Cuda": 728940,
+            "Python": 337445,
+            "Jupyter Notebook": 88541,
+            "C++": 86764,
+            "CMake": 9488,
+            "Shell": 5402,
+            "Makefile": 920,
+            "C": 524
+        }
+    },
+    {
+        "name": "ACMM",
+        "description": "Multi-Scale Geometric Consistency Guided Multi-View Stereo",
+        "languages": {
+            "Cuda": 52901,
+            "C++": 50797,
+            "Python": 19828,
+            "CMake": 1222
+        }
+    },
+    {
+        "name": "CUDA-ScanMatcher-ICP",
+        "description": "A high performance CUDA implementation of Scan Matching via the Iterative Closest Point Algorithm",
+        "languages": {
+            "Cuda": 45052,
+            "C++": 30795,
+            "C": 13766,
+            "CMake": 12184,
+            "Makefile": 699,
+            "GLSL": 675
+        }
+    },
+    {
+        "name": "Partial-Order-Pruning",
+        "description": "Partial Order Pruning: for  Best Speed/Accuracy Trade-off in Neural Architecture Search",
+        "languages": {
+            "Cuda": 11665,
+            "C++": 9328
+        }
+    },
+    {
+        "name": "cuda-tutorial",
+        "description": "A set of hands-on tutorials for CUDA programming",
+        "languages": {
+            "Cuda": 6302,
+            "C": 777
+        }
+    },
+    {
+        "name": "Parallel-Computing-Lab",
+        "description": "Multithreaded matrix multiplication and analysis based on OpenMP and PThread",
+        "languages": {
+            "Cuda": 41435,
+            "C++": 29766,
+            "C": 14024,
+            "Shell": 781
+        }
+    },
+    {
+        "name": "flash-llm",
+        "description": "Flash-LLM: Enabling Cost-Effective and Highly-Efficient Large Generative Model Inference with Unstructured Sparsity",
+        "languages": {
+            "Cuda": 112542,
+            "Python": 37355,
+            "C++": 32890,
+            "C": 10639,
+            "Shell": 5384,
+            "Makefile": 4393
+        }
+    },
+    {
+        "name": "Transformer-CUDA",
+        "description": "An implementation of the transformer architecture onto an Nvidia CUDA kernel",
+        "languages": {
+            "Cuda": 24116
+        }
+    },
+    {
+        "name": "knn_cuda",
+        "description": "Fast K-Nearest Neighbor search with GPU",
+        "languages": {
+            "Cuda": 16957,
+            "Makefile": 3658,
+            "C++": 3608,
+            "Python": 313,
+            "C": 304
+        }
+    },
+    {
+        "name": "NVIDIA_SGEMM_PRACTICE",
+        "description": "Step-by-step optimization of CUDA SGEMM",
+        "languages": {
+            "Cuda": 35276,
+            "Python": 2117,
+            "CMake": 1351,
+            "Shell": 335
+        }
+    },
+    {
+        "name": "libgdf",
+        "description": "[ARCHIVED] C GPU DataFrame Library",
+        "languages": {
+            "Cuda": 896126,
+            "C++": 218373,
+            "Python": 58204,
+            "CMake": 24995,
+            "C": 11171,
+            "Shell": 4694
+        }
+    },
+    {
+        "name": "wyGPT",
+        "description": "Wang Yi's GPT solution",
+        "languages": {
+            "Cuda": 27250,
+            "C++": 10810,
+            "Makefile": 353
+        }
+    },
+    {
+        "name": "ggnn",
+        "description": "GGNN: State of the Art Graph-based GPU Nearest Neighbor Search",
+        "languages": {
+            "Cuda": 275128,
+            "C++": 12042,
+            "CMake": 5582,
+            "Dockerfile": 448,
+            "Shell": 193,
+            "Makefile": 64
+        }
+    },
+    {
+        "name": "py-faster-rcnn-windows",
+        "description": "py-faster-rcnn that can compile on windows directly",
+        "languages": {
+            "Cuda": 292545,
+            "Python": 208204,
+            "C": 9632,
+            "MATLAB": 1821,
+            "C++": 147,
+            "Makefile": 56
+        }
+    },
+    {
+        "name": "cuda_by_example",
+        "description": "The CMake version of cuda_by_example",
+        "languages": {
+            "Cuda": 105767,
+            "C++": 7493,
+            "CMake": 5151
+        }
+    },
+    {
+        "name": "tutorial-multi-gpu",
+        "description": "Efficient Distributed GPU Programming for Exascale, an SC/ISC Tutorial",
+        "languages": {
+            "Cuda": 284453,
+            "C++": 214342,
+            "Jupyter Notebook": 77094,
+            "Makefile": 45071,
+            "Shell": 6479,
+            "TeX": 3936,
+            "Python": 1242
+        }
+    },
+    {
+        "name": "gpu-topk",
+        "description": "Efficient Top-K implementation on the GPU",
+        "languages": {
+            "Cuda": 82239,
+            "Makefile": 1146
+        }
+    },
+    {
+        "name": "INT8-Flash-Attention-FMHA-Quantization",
+        "description": null,
+        "languages": {
+            "Cuda": 25831,
+            "C++": 17825,
+            "Python": 8548,
+            "CMake": 4395,
+            "C": 270
+        }
+    },
+    {
+        "name": "cuda_spatial_deform",
+        "description": "A fast tool to do image augmentation on GPU(especially elastic_deform), can be helpful to research on Medical Image.",
+        "languages": {
+            "Cuda": 42832,
+            "Python": 19902,
+            "CMake": 1317
+        }
+    },
+    {
+        "name": "PyTorch-EMDLoss",
+        "description": "PyTorch 1.0 implementation of the approximate Earth Mover's Distance",
+        "languages": {
+            "Cuda": 12344,
+            "Python": 3604,
+            "C++": 1718
+        }
+    },
+    {
+        "name": "modulated-deform-conv",
+        "description": "deformable convolution 2D 3D DeformableConvolution DeformConv Modulated Pytorch CUDA",
+        "languages": {
+            "Cuda": 105773,
+            "Python": 40571,
+            "C++": 2824
+        }
+    },
+    {
+        "name": "array-language-comparisons",
+        "description": "A comparison of array languages & libraries: APL, J, BQN, Uiua, Q, Julia, R, NumPy, Nial, Futhark, Dex, Ivy, SaC & ArrayFire.",
+        "languages": {
+            "Cuda": 4097,
+            "C++": 3459,
+            "CMake": 1601,
+            "MATLAB": 190,
+            "Makefile": 162,
+            "M": 67
+        }
+    },
+    {
+        "name": "Waveglow_Inference_in_CUDA",
+        "description": "C++ Code to run waveglow inference in cuda ",
+        "languages": {
+            "Cuda": 45797,
+            "C++": 45376,
+            "Makefile": 1467,
+            "Python": 1373
+        }
+    },
+    {
+        "name": "CUDA-notes",
+        "description": "\u9ad8\u6027\u80fd\u7f16\u7a0b \u7b14\u8bb0",
+        "languages": {
+            "Cuda": 153094,
+            "C++": 55643,
+            "Python": 19036,
+            "CMake": 5151,
+            "C": 1132
+        }
+    },
+    {
+        "name": "diff-gaussian-rasterization-w-depth",
+        "description": null,
+        "languages": {
+            "Cuda": 57651,
+            "C++": 9265,
+            "Python": 7158,
+            "C": 5684,
+            "CMake": 1043
+        }
+    },
+    {
+        "name": "GooFit",
+        "description": "Code repository for the massively-parallel framework for maximum-likelihood fits, implemented in CUDA/OpenMP",
+        "languages": {
+            "Cuda": 611144,
+            "C++": 606531,
+            "Jupyter Notebook": 355208,
+            "Python": 99858,
+            "CMake": 46457,
+            "Shell": 6097,
+            "C": 3802,
+            "Makefile": 3284
+        }
+    },
+    {
+        "name": "HRNet-for-Fashion-Landmark-Estimation.PyTorch",
+        "description": "[DeepFashion2 Challenge] Fashion Landmark Estimation with HRNet",
+        "languages": {
+            "Cuda": 292540,
+            "Python": 169965,
+            "Cython": 3642,
+            "C++": 146,
+            "Makefile": 116
+        }
+    },
+    {
+        "name": "dynconv",
+        "description": "Code for Dynamic Convolutions: Exploiting Spatial Sparsity for Faster Inference (CVPR2020)",
+        "languages": {
+            "Cuda": 292540,
+            "Python": 246644,
+            "Cython": 3642,
+            "C++": 146
+        }
+    },
+    {
+        "name": "di-fusion",
+        "description": "[CVPR'21] [Jittor & Pytorch] DI-Fusion: Online Implicit 3D Reconstruction with Deep Priors",
+        "languages": {
+            "Cuda": 205589,
+            "Python": 195015,
+            "C": 36790,
+            "C++": 13255,
+            "CMake": 1594
+        }
+    },
+    {
+        "name": "nvidia-performance-tools",
+        "description": "Instructions, Docker images, and examples for Nsight Compute and Nsight Systems",
+        "languages": {
+            "Cuda": 56227,
+            "C++": 16760,
+            "Shell": 2735,
+            "Dockerfile": 1977,
+            "CMake": 1952
+        }
+    },
+    {
+        "name": "dpp",
+        "description": "Detail-Preserving Pooling in Deep Networks (CVPR 2018)",
+        "languages": {
+            "Cuda": 573671,
+            "C": 124467,
+            "Lua": 85003,
+            "CMake": 27497,
+            "C++": 25268,
+            "Python": 3793,
+            "Objective-C": 459
+        }
+    },
+    {
+        "name": "kmeans",
+        "description": "kmeans clustering with multi-GPU capabilities",
+        "languages": {
+            "Cuda": 25454,
+            "C++": 14579,
+            "Makefile": 558
+        }
+    },
+    {
+        "name": "cuSNN",
+        "description": "Spiking Neural Networks in C++ with strong GPU acceleration through CUDA ",
+        "languages": {
+            "Cuda": 157156,
+            "CMake": 1131,
+            "Python": 376
+        }
+    },
+    {
+        "name": "cuhnsw",
+        "description": "CUDA implementation of Hierarchical Navigable Small World Graph algorithm",
+        "languages": {
+            "Cuda": 55101,
+            "Python": 20300,
+            "C++": 12953
+        }
+    },
+    {
+        "name": "Parallel-Computing-Cuda-C",
+        "description": null,
+        "languages": {
+            "Cuda": 23868
+        }
+    },
+    {
+        "name": "TokenPose",
+        "description": "Implementation for : TokenPose: Learning Keypoint Tokens for Human Pose Estimation \uff08https://arxiv.org/abs/2104.03516\uff09. Accepted by ICCV 2021.",
+        "languages": {
+            "Cuda": 292540,
+            "Python": 161293,
+            "Cython": 3642,
+            "C++": 146,
+            "Makefile": 116
+        }
+    },
+    {
+        "name": "region-conv",
+        "description": "Not All Pixels Are Equal: Difficulty-Aware Semantic Segmentation via Deep Layer Cascade",
+        "languages": {
+            "Cuda": 21769,
+            "C++": 14552
+        }
+    },
+    {
+        "name": "matrix-cuda",
+        "description": "matrix multiplication in CUDA",
+        "languages": {
+            "Cuda": 20131
+        }
+    },
+    {
+        "name": "diso",
+        "description": "Differentiable Iso-Surface Extraction Package (DISO)",
+        "languages": {
+            "Cuda": 85807,
+            "C++": 24876,
+            "Python": 12085
+        }
+    },
+    {
+        "name": "CubicInterpolationCUDA",
+        "description": "GPU accelerated pre-filtered cubic b-spline interpolation using CUDA",
+        "languages": {
+            "Cuda": 105117,
+            "C++": 18995,
+            "Batchfile": 426
+        }
+    },
+    {
+        "name": "GPU-lossless-compression",
+        "description": "GPU-Accelerated Lossless Data Compressors Survey",
+        "languages": {
+            "Cuda": 4645149,
+            "C": 1571020,
+            "C++": 1108903,
+            "Objective-C": 262152,
+            "Makefile": 84222,
+            "HTML": 74555,
+            "TeX": 40750,
+            "CMake": 29783,
+            "Shell": 1876,
+            "Python": 871
+        }
+    },
+    {
+        "name": "torch_sampling",
+        "description": "Efficient reservoir sampling implementation for PyTorch",
+        "languages": {
+            "Cuda": 8842,
+            "C++": 6952,
+            "Python": 1336
+        }
+    },
+    {
+        "name": "halloc",
+        "description": "A fast and highly scalable GPU dynamic memory allocator",
+        "languages": {
+            "Cuda": 103469,
+            "C++": 18319,
+            "Perl": 17014,
+            "C": 15175,
+            "Python": 10199,
+            "Makefile": 3706,
+            "Shell": 1871
+        }
+    },
+    {
+        "name": "CUDA",
+        "description": "Introduction to CUDA programming",
+        "languages": {
+            "Cuda": 108222,
+            "C": 31094,
+            "C++": 29600,
+            "Makefile": 1890
+        }
+    },
+    {
+        "name": "CUDA_by_practice",
+        "description": "CUDA by practice",
+        "languages": {
+            "Cuda": 203141,
+            "C++": 134824,
+            "Makefile": 9816,
+            "C": 6205
+        }
+    },
+    {
+        "name": "cuda-kat",
+        "description": "CUDA kernel author's tools",
+        "languages": {
+            "Cuda": 846609,
+            "C++": 171256,
+            "CMake": 6990
+        }
+    },
+    {
+        "name": "openmlsys-cuda",
+        "description": "Tutorials for writing high-performance GPU operators in AI frameworks.",
+        "languages": {
+            "Cuda": 52736,
+            "CMake": 1518
+        }
+    },
+    {
+        "name": "ADNet",
+        "description": "Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning (CVPR 2017)",
+        "languages": {
+            "Cuda": 482685,
+            "MATLAB": 387228,
+            "C++": 206861,
+            "C": 19671,
+            "Shell": 10182,
+            "M": 658
+        }
+    },
+    {
+        "name": "HierarchicalKV",
+        "description": "HierarchicalKV is a part of NVIDIA Merlin and provides hierarchical key-value storage to meet RecSys requirements.  The key capability of HierarchicalKV is to store key-value feature-embeddings on high-bandwidth memory (HBM) of GPUs and in host memory.  It also can be used as a generic key-value storage.",
+        "languages": {
+            "Cuda": 1475456,
+            "Starlark": 56882,
+            "Smarty": 38823,
+            "Python": 38076,
+            "CMake": 7964,
+            "C++": 7627,
+            "Shell": 512
+        }
+    },
+    {
+        "name": "HungarianGPU",
+        "description": "An GPU/CUDA implementation of the Hungarian algorithm",
+        "languages": {
+            "Cuda": 33606,
+            "Makefile": 142
+        }
+    },
+    {
+        "name": "Fat-Clouds",
+        "description": "GPU Fluid Simulation with Volumetric Rendering ",
+        "languages": {
+            "Cuda": 20151,
+            "C++": 19201,
+            "Shell": 296
+        }
+    },
+    {
+        "name": "bam",
+        "description": null,
+        "languages": {
+            "Cuda": 521193,
+            "C++": 359153,
+            "C": 296249,
+            "Shell": 103824,
+            "CMake": 19022,
+            "Makefile": 668
+        }
+    },
+    {
+        "name": "pytorch-edit-distance",
+        "description": "Levenshtein edit-distance on PyTorch and CUDA",
+        "languages": {
+            "Cuda": 13392,
+            "Python": 10553,
+            "C++": 1777,
+            "C": 602
+        }
+    },
+    {
+        "name": "dgSPARSE-Lib",
+        "description": "PyTorch-Based Fast and Efficient Processing for Various Machine Learning Applications with Diverse Sparsity",
+        "languages": {
+            "Cuda": 330328,
+            "C++": 66784,
+            "Python": 66538,
+            "Shell": 7926,
+            "C": 6571,
+            "Makefile": 3526,
+            "Dockerfile": 1195
+        }
+    },
+    {
+        "name": "permutohedral_encoding",
+        "description": "Blazingly fast encoding for neural networks based on permutohedral lattices",
+        "languages": {
+            "Cuda": 87600,
+            "Python": 20254,
+            "C++": 1534,
+            "Makefile": 253
+        }
+    },
+    {
+        "name": "Product-Quantization-Tree",
+        "description": "GPU-based large scale Approx. Nearest Neighbor Search, accepted at CVPR 2016",
+        "languages": {
+            "Cuda": 391569,
+            "C++": 219638,
+            "MATLAB": 4528,
+            "CMake": 3837,
+            "Shell": 618
+        }
+    },
+    {
+        "name": "Titan",
+        "description": "A high-performance CUDA-based physics simulation sandbox for soft robotics and reinforcement learning.",
+        "languages": {
+            "Cuda": 96858,
+            "C++": 46624,
+            "CMake": 13228,
+            "Shell": 1372
+        }
+    },
+    {
+        "name": "FLAMEGPU2",
+        "description": "FLAME GPU 2 is a GPU accelerated agent based modelling framework for CUDA C++ and Python",
+        "languages": {
+            "Cuda": 3262538,
+            "C++": 1257640,
+            "Python": 954936,
+            "CMake": 206381,
+            "SWIG": 59303,
+            "C": 7159,
+            "Batchfile": 231
+        }
+    },
+    {
+        "name": "nnabla-ext-cuda",
+        "description": "A CUDA Extension of Neural Network Libraries",
+        "languages": {
+            "Cuda": 1672700,
+            "C++": 718667,
+            "Python": 122305,
+            "CMake": 42998,
+            "Makefile": 22263,
+            "Cython": 17014,
+            "Batchfile": 12226,
+            "Shell": 7566,
+            "Dockerfile": 2219,
+            "Jupyter Notebook": 2109
+        }
+    },
+    {
+        "name": "cuRE",
+        "description": null,
+        "languages": {
+            "Cuda": 2357127,
+            "C++": 2110537,
+            "C": 154224,
+            "C#": 32600,
+            "GLSL": 11637,
+            "Python": 2845,
+            "Batchfile": 92
+        }
+    },
+    {
+        "name": "raytracing",
+        "description": "A CUDA Mesh RayTracer with BVH acceleration, with python bindings and a GUI.",
+        "languages": {
+            "Cuda": 45872,
+            "Python": 22661,
+            "C++": 17066
+        }
+    },
+    {
+        "name": "tensorrt_scatter",
+        "description": "TensorRT Plugin of corresponding PyTorch Scatter operators.",
+        "languages": {
+            "Cuda": 77420,
+            "C++": 71485,
+            "Python": 46225,
+            "CMake": 1858
+        }
+    },
+    {
+        "name": "ge-spmm",
+        "description": null,
+        "languages": {
+            "Cuda": 130864,
+            "C++": 36644,
+            "Python": 36371,
+            "Shell": 6059,
+            "C": 5174,
+            "CMake": 4097,
+            "Makefile": 1080
+        }
+    },
+    {
+        "name": "Weighted_Softmax_Loss",
+        "description": "Weighted Softmax Loss Layer for Caffe",
+        "languages": {
+            "Cuda": 5159,
+            "C++": 5121
+        }
+    },
+    {
+        "name": "deepfashion2-kps-agg-finetune",
+        "description": "1st place solution (Team StylingAI Inc. & PKU AIIC) for CVPR 2020 DeepFashion2 Clothes Landmark Detection Track. Aggregation and Finetuning for Clothes Landmark Detection",
+        "languages": {
+            "Cuda": 292540,
+            "Python": 209437,
+            "C++": 146,
+            "Makefile": 116
+        }
+    },
+    {
+        "name": "cuNSearch",
+        "description": "A C++/CUDA library to efficiently compute neighborhood information on the GPU for 3D point clouds within a fixed radius.",
+        "languages": {
+            "Cuda": 27911,
+            "C++": 27223,
+            "C": 4864,
+            "CMake": 2561
+        }
+    },
+    {
+        "name": "cuIBM",
+        "description": "cuIBM: a GPU-based immersed boundary method code.",
+        "languages": {
+            "Cuda": 185373,
+            "C++": 115124,
+            "Makefile": 5426,
+            "TeX": 1453,
+            "Python": 619,
+            "C": 281
+        }
+    },
+    {
+        "name": "CUDATutorial",
+        "description": "A CUDA tutorial to make people learn CUDA program from 0",
+        "languages": {
+            "Cuda": 133519,
+            "CMake": 5005
+        }
+    },
+    {
+        "name": "cuda_sgemm",
+        "description": null,
+        "languages": {
+            "Cuda": 16049,
+            "C++": 6591,
+            "Makefile": 697
+        }
+    },
+    {
+        "name": "KdTreeGPU",
+        "description": "A gpu based implementation of a K-D Tree Builder",
+        "languages": {
+            "Cuda": 155215,
+            "C++": 16269,
+            "Makefile": 6970,
+            "C": 6784
+        }
+    },
+    {
+        "name": "SSTVOS",
+        "description": "Training code for \"SSTVOS: Sparse Spatiotemporal Transformers for Video Object Segmentation\"",
+        "languages": {
+            "Cuda": 21488,
+            "Python": 16972,
+            "C++": 4479,
+            "C": 1755
+        }
+    },
+    {
+        "name": "tensorrt-zoo",
+        "description": "openpose, yolov3 with tiny-tensorrt",
+        "languages": {
+            "Cuda": 154070,
+            "C++": 66406,
+            "CMake": 1987
+        }
     }
 ]

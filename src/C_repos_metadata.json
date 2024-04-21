@@ -99,5 +99,3066 @@
             "SCSS": 2187,
             "Dockerfile": 631
         }
+    },
+    {
+        "name": "obs-studio",
+        "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+        "languages": {
+            "C": 6300451,
+            "C++": 4150558,
+            "CMake": 744083,
+            "Objective-C": 275223,
+            "Objective-C++": 198234,
+            "M": 27330,
+            "Swift": 19545,
+            "Lua": 15045,
+            "Shell": 7533,
+            "Python": 7238,
+            "Batchfile": 3177,
+            "AppleScript": 2406
+        }
+    },
+    {
+        "name": "git",
+        "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+        "languages": {
+            "C": 10857443,
+            "Shell": 8315266,
+            "Perl": 1161939,
+            "Tcl": 849986,
+            "Python": 175026,
+            "Makefile": 165768,
+            "JavaScript": 49713,
+            "CMake": 39074,
+            "M4": 38267,
+            "Roff": 26859,
+            "C++": 26403,
+            "Go": 15064,
+            "SmPL": 14139,
+            "CSS": 10664,
+            "Batchfile": 9822,
+            "Emacs Lisp": 660
+        }
+    },
+    {
+        "name": "FFmpeg",
+        "description": "Mirror of https://git.ffmpeg.org/ffmpeg.git",
+        "languages": {
+            "C": 63909998,
+            "Assembly": 5334136,
+            "Makefile": 916605,
+            "C++": 139874,
+            "Objective-C": 107652,
+            "Cuda": 84917,
+            "Shell": 57775,
+            "Perl": 28904,
+            "Metal": 7961,
+            "Python": 5992,
+            "Awk": 1912,
+            "HTML": 1631,
+            "Ruby": 1462,
+            "Verilog": 729,
+            "Roff": 132
+        }
+    },
+    {
+        "name": "php-src",
+        "description": "The PHP Interpreter",
+        "languages": {
+            "C": 64078663,
+            "PHP": 28744862,
+            "C++": 567495,
+            "M4": 387409,
+            "Shell": 300139,
+            "Lua": 272563,
+            "Assembly": 236793,
+            "JavaScript": 194884,
+            "Lex": 98941,
+            "Yacc": 89345,
+            "Makefile": 32993,
+            "Roff": 32292,
+            "GAP": 23475,
+            "GDB": 13663,
+            "Python": 11883,
+            "XSLT": 7963,
+            "Awk": 2920,
+            "DTrace": 2180,
+            "Batchfile": 2004,
+            "HTML": 1872
+        }
+    },
+    {
+        "name": "wrk",
+        "description": "Modern HTTP benchmarking tool",
+        "languages": {
+            "C": 202017,
+            "Lua": 4956,
+            "Makefile": 2674,
+            "C++": 878
+        }
+    },
+    {
+        "name": "curl",
+        "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+        "languages": {
+            "C": 7514153,
+            "Perl": 830612,
+            "M4": 549241,
+            "Python": 327632,
+            "DIGITAL Command Language": 224664,
+            "CMake": 184883,
+            "Shell": 131595,
+            "Makefile": 128570,
+            "Batchfile": 63545,
+            "Roff": 15673,
+            "Dockerfile": 1695,
+            "Emacs Lisp": 1348
+        }
+    },
+    {
+        "name": "tmux",
+        "description": "tmux source code",
+        "languages": {
+            "C": 2198753,
+            "Roff": 174142,
+            "Shell": 68772,
+            "Yacc": 35675,
+            "M4": 21865,
+            "Awk": 8608,
+            "Makefile": 5130,
+            "Perl": 1660
+        }
+    },
+    {
+        "name": "ijkplayer",
+        "description": "Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",
+        "languages": {
+            "C": 1388189,
+            "Objective-C": 438648,
+            "Java": 411471,
+            "Shell": 140106,
+            "Makefile": 20884,
+            "C++": 18432,
+            "Ruby": 180
+        }
+    },
+    {
+        "name": "whisper.cpp",
+        "description": "Port of OpenAI's Whisper model in C/C++",
+        "languages": {
+            "C": 1877530,
+            "C++": 1599109,
+            "Cuda": 445176,
+            "Metal": 256848,
+            "Objective-C": 202312,
+            "Java": 55514,
+            "Go": 54411,
+            "Python": 47716,
+            "CMake": 35535,
+            "Shell": 29232,
+            "Makefile": 20209,
+            "Ruby": 4976,
+            "Objective-C++": 2224,
+            "Dockerfile": 2217,
+            "Swift": 1841,
+            "JavaScript": 1645,
+            "Batchfile": 1376
+        }
+    },
+    {
+        "name": "jq",
+        "description": "Command-line JSON processor",
+        "languages": {
+            "C": 500319,
+            "M4": 43424,
+            "Shell": 29091,
+            "Yacc": 22836,
+            "jq": 16463,
+            "C++": 9996,
+            "Makefile": 9082,
+            "Lex": 4539,
+            "Python": 1000,
+            "Dockerfile": 740
+        }
+    },
+    {
+        "name": "lede",
+        "description": "Lean's LEDE source",
+        "languages": {
+            "C": 73897445,
+            "Makefile": 3014312,
+            "Roff": 1490341,
+            "Shell": 1073302,
+            "Perl": 384813,
+            "Assembly": 208777,
+            "M4": 179268,
+            "HTML": 131803,
+            "Lua": 91360,
+            "Python": 68439,
+            "C++": 51011,
+            "Yacc": 15516,
+            "Lex": 10231,
+            "CMake": 3873,
+            "Awk": 2778
+        }
+    },
+    {
+        "name": "rufus",
+        "description": "The Reliable USB Formatting Utility",
+        "languages": {
+            "C": 3610441,
+            "Makefile": 261531,
+            "C#": 53549,
+            "Shell": 36365,
+            "Assembly": 23274,
+            "PowerShell": 14216,
+            "Batchfile": 8972,
+            "Python": 6889,
+            "M4": 3322,
+            "sed": 536
+        }
+    },
+    {
+        "name": "os-tutorial",
+        "description": "How to create an OS from scratch",
+        "languages": {
+            "C": 110745,
+            "Assembly": 87999,
+            "Makefile": 14987
+        }
+    },
+    {
+        "name": "mpv",
+        "description": "\ud83c\udfa5 Command line video player",
+        "languages": {
+            "C": 6427311,
+            "Lua": 343236,
+            "Swift": 176739,
+            "Meson": 83510,
+            "Python": 51090,
+            "Objective-C": 47512,
+            "Shell": 33979,
+            "JavaScript": 29415
+        }
+    },
+    {
+        "name": "the_silver_searcher",
+        "description": "A code-searching tool similar to ack, but faster.",
+        "languages": {
+            "C": 241439,
+            "Perl": 28770,
+            "M4": 16498,
+            "Shell": 9866,
+            "Makefile": 995,
+            "Python": 638
+        }
+    },
+    {
+        "name": "darknet",
+        "description": "Convolutional Neural Networks",
+        "languages": {
+            "C": 843257,
+            "Cuda": 72651,
+            "Python": 8516,
+            "C++": 3138,
+            "Makefile": 3040,
+            "Shell": 1947
+        }
+    },
+    {
+        "name": "stb",
+        "description": "stb single-file public domain libraries for C/C++",
+        "languages": {
+            "C": 4076979,
+            "C++": 132523,
+            "Shell": 1125,
+            "Makefile": 697,
+            "Batchfile": 18
+        }
+    },
+    {
+        "name": "my-tv",
+        "description": "\u6211\u7684\u7535\u89c6 \u7535\u89c6\u76f4\u64ad\u8f6f\u4ef6\uff0c\u5b89\u88c5\u5373\u53ef\u4f7f\u7528",
+        "languages": {
+            "C": 1971354,
+            "Kotlin": 342893,
+            "Java": 143291,
+            "CMake": 3899,
+            "Makefile": 204
+        }
+    },
+    {
+        "name": "openssl",
+        "description": "TLS/SSL and crypto library",
+        "languages": {
+            "C": 27166698,
+            "Perl": 8277756,
+            "Raku": 203878,
+            "Assembly": 199540,
+            "Shell": 101127,
+            "C++": 87654,
+            "M4": 46625,
+            "CMake": 11599,
+            "Python": 9052,
+            "eC": 7367,
+            "DIGITAL Command Language": 5687,
+            "SourcePawn": 2892,
+            "Ruby": 1344,
+            "sed": 502
+        }
+    },
+    {
+        "name": "libuv",
+        "description": "Cross-platform asynchronous I/O",
+        "languages": {
+            "C": 3004437,
+            "M4": 36963,
+            "CMake": 28516,
+            "Makefile": 21776,
+            "Python": 2623,
+            "Shell": 2489,
+            "Batchfile": 1312
+        }
+    },
+    {
+        "name": "TDengine",
+        "description": "TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.",
+        "languages": {
+            "C": 19031170,
+            "C++": 1947561,
+            "Shell": 450978,
+            "CMake": 128195,
+            "Yacc": 123839,
+            "Batchfile": 37991,
+            "Objective-C": 8608,
+            "Inno Setup": 7253,
+            "Dockerfile": 6774,
+            "GDB": 2950,
+            "Makefile": 1233,
+            "Roff": 1198,
+            "Lua": 174
+        }
+    },
+    {
+        "name": "masscan",
+        "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
+        "languages": {
+            "C": 2022944,
+            "Makefile": 3302
+        }
+    },
+    {
+        "name": "zstd",
+        "description": "Zstandard - Fast real-time compression algorithm",
+        "languages": {
+            "C": 4466836,
+            "C++": 821104,
+            "Shell": 178586,
+            "Python": 150999,
+            "Makefile": 115639,
+            "CMake": 43101,
+            "Roff": 36591,
+            "Meson": 27905,
+            "Assembly": 15018,
+            "Starlark": 10295,
+            "Batchfile": 4742,
+            "Lua": 1647,
+            "Swift": 1264,
+            "Dockerfile": 1074,
+            "HTML": 982
+        }
+    },
+    {
+        "name": "ExplorerPatcher",
+        "description": "This project aims to enhance the working environment on Windows",
+        "languages": {
+            "C": 1343633,
+            "C++": 43108,
+            "Assembly": 202
+        }
+    },
+    {
+        "name": "Tasmota",
+        "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+        "languages": {
+            "C": 52478510,
+            "C++": 29148736,
+            "Berry": 1646929,
+            "Python": 602574,
+            "Jupyter Notebook": 226959,
+            "Makefile": 113831,
+            "Shell": 85084,
+            "Processing": 73265,
+            "Assembly": 34775,
+            "HTML": 13957,
+            "Perl": 13048,
+            "CMake": 12445,
+            "CSS": 12348,
+            "PHP": 3153,
+            "Yacc": 2829,
+            "XSLT": 2042,
+            "sed": 991,
+            "Euphoria": 391
+        }
+    },
+    {
+        "name": "yabai",
+        "description": "A tiling window manager for macOS based on binary space partitioning",
+        "languages": {
+            "C": 634254,
+            "Objective-C": 114757,
+            "Shell": 4342,
+            "Makefile": 3423,
+            "Python": 303
+        }
+    },
+    {
+        "name": "The-Art-Of-Programming-By-July-2nd",
+        "description": "\u672c\u9879\u76ee\u66fe\u51b2\u5230\u5168\u7403\u7b2c\u4e00\uff0c\u5e72\u8d27\u96c6\u9526\u89c1\u672c\u9875\u9762\u6700\u5e95\u90e8\uff0c\u53e6\u5b8c\u6574\u7cbe\u81f4\u7684\u7eb8\u8d28\u7248\u300a\u7f16\u7a0b\u4e4b\u6cd5\uff1a\u9762\u8bd5\u548c\u7b97\u6cd5\u5fc3\u5f97\u300b\u5df2\u5728\u4eac\u4e1c/\u5f53\u5f53\u4e0a\u9500\u552e",
+        "languages": {
+            "C": 140959,
+            "Python": 31631,
+            "Java": 25903,
+            "C++": 19793,
+            "JavaScript": 13725,
+            "Ruby": 12473,
+            "Go": 8872,
+            "PHP": 8807,
+            "Rebol": 8058,
+            "Erlang": 5443,
+            "TeX": 3639,
+            "Scheme": 3300,
+            "Makefile": 2272,
+            "HTML": 1287,
+            "CSS": 456
+        }
+    },
+    {
+        "name": "How-to-Make-a-Computer-Operating-System",
+        "description": "How to Make a Computer Operating System in C++",
+        "languages": {
+            "C": 518507,
+            "C++": 142301,
+            "Assembly": 20356,
+            "Makefile": 9623,
+            "Ruby": 4779,
+            "Shell": 456
+        }
+    },
+    {
+        "name": "WindTerm",
+        "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.",
+        "languages": {
+            "C": 4840211,
+            "Shell": 294247,
+            "CMake": 139262,
+            "C++": 104826,
+            "Makefile": 103401,
+            "Python": 67364,
+            "Ruby": 58920,
+            "CSS": 31024,
+            "HTML": 19324,
+            "JavaScript": 945
+        }
+    },
+    {
+        "name": "nginx",
+        "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+        "languages": {
+            "C": 6085163,
+            "Vim Script": 114020,
+            "XS": 25346,
+            "Perl": 6774,
+            "Makefile": 4819,
+            "Shell": 2314,
+            "C++": 592
+        }
+    },
+    {
+        "name": "hashcat",
+        "description": "World's fastest and most advanced password recovery utility",
+        "languages": {
+            "C": 50606761,
+            "Perl": 946486,
+            "Shell": 161215,
+            "Python": 112673,
+            "C++": 37621,
+            "Objective-C": 37133,
+            "Makefile": 30544,
+            "Batchfile": 191
+        }
+    },
+    {
+        "name": "radare2",
+        "description": "UNIX-like reverse engineering framework and command-line toolset",
+        "languages": {
+            "C": 31169235,
+            "Makefile": 276573,
+            "C++": 203600,
+            "Shell": 142980,
+            "Meson": 127665,
+            "HTML": 55704,
+            "Roff": 38490,
+            "Python": 36442,
+            "CSS": 19465,
+            "JavaScript": 19169,
+            "Rebol": 18277,
+            "Batchfile": 9390,
+            "Perl": 6449,
+            "sed": 4424,
+            "R": 3346,
+            "Assembly": 939,
+            "Vala": 839,
+            "Wren": 460,
+            "Gnuplot": 429,
+            "C#": 164,
+            "Dart": 125,
+            "RouterOS Script": 45
+        }
+    },
+    {
+        "name": "bcc",
+        "description": "BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",
+        "languages": {
+            "C": 18094294,
+            "Python": 1518842,
+            "C++": 937252,
+            "Lua": 299473,
+            "CMake": 59483,
+            "Shell": 21840,
+            "Makefile": 6025,
+            "HTML": 2997
+        }
+    },
+    {
+        "name": "HarmonyOS",
+        "description": "A curated list of awesome things related to HarmonyOS. \u534e\u4e3a\u9e3f\u8499\u64cd\u4f5c\u7cfb\u7edf\u3002",
+        "languages": {
+            "C": 33323982,
+            "Shell": 521246,
+            "Assembly": 487500,
+            "Perl": 274480,
+            "Makefile": 248803,
+            "C++": 146488,
+            "HTML": 39577,
+            "CMake": 34276,
+            "M4": 23901,
+            "Pawn": 14054,
+            "Python": 11219,
+            "Batchfile": 1646,
+            "Roff": 963,
+            "SmPL": 348,
+            "Tcl": 110
+        }
+    },
+    {
+        "name": "raylib",
+        "description": "A simple and easy-to-use library to enjoy videogames programming",
+        "languages": {
+            "C": 2042873,
+            "Lua": 221697,
+            "Makefile": 68608,
+            "CMake": 33435,
+            "HTML": 17898,
+            "Shell": 17639,
+            "Zig": 13987,
+            "Batchfile": 10043,
+            "Meson": 1336,
+            "Roff": 1256
+        }
+    },
+    {
+        "name": "mimikatz",
+        "description": "A little tool to play with Windows security",
+        "languages": {
+            "C": 11671871,
+            "YARA": 2834,
+            "Batchfile": 1173
+        }
+    },
+    {
+        "name": "micropython",
+        "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
+        "languages": {
+            "C": 19820263,
+            "Python": 1943770,
+            "Makefile": 233431,
+            "CMake": 79563,
+            "Shell": 47528,
+            "JavaScript": 43910,
+            "C++": 43389,
+            "Assembly": 23880
+        }
+    },
+    {
+        "name": "openwrt",
+        "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins.  We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+        "languages": {
+            "C": 10268616,
+            "Makefile": 2804452,
+            "Roff": 1407371,
+            "Shell": 1003892,
+            "Perl": 392367,
+            "Assembly": 219034,
+            "Python": 73519,
+            "C++": 51126,
+            "UnrealScript": 48141,
+            "M4": 39442,
+            "Yacc": 15516,
+            "Lex": 10255,
+            "Awk": 2777,
+            "CMake": 2767
+        }
+    },
+    {
+        "name": "nnn",
+        "description": "n\u00b3 The unorthodox terminal file manager",
+        "languages": {
+            "C": 380059,
+            "Shell": 184731,
+            "Roff": 20442,
+            "Makefile": 19002,
+            "C++": 9070,
+            "Python": 1877,
+            "Nushell": 1253,
+            "Elvish": 922,
+            "AppleScript": 336
+        }
+    },
+    {
+        "name": "C",
+        "description": "Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.",
+        "languages": {
+            "C": 1004314,
+            "CMake": 24721,
+            "Python": 5382,
+            "Makefile": 3467,
+            "Dockerfile": 235
+        }
+    },
+    {
+        "name": "goaccess",
+        "description": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
+        "languages": {
+            "C": 1100923,
+            "JavaScript": 90161,
+            "Roff": 43459,
+            "CSS": 21675,
+            "HTML": 12748,
+            "Makefile": 8407,
+            "M4": 7785,
+            "Dockerfile": 763,
+            "Shell": 477
+        }
+    },
+    {
+        "name": "qmk_firmware",
+        "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+        "languages": {
+            "C": 46475808,
+            "C++": 1995521,
+            "Makefile": 1871645,
+            "Python": 566853,
+            "Shell": 30832,
+            "Nix": 9899,
+            "Assembly": 9414,
+            "Go": 7521,
+            "SourcePawn": 4923,
+            "Dockerfile": 225
+        }
+    },
+    {
+        "name": "timescaledb",
+        "description": "An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.",
+        "languages": {
+            "C": 3742732,
+            "PLpgSQL": 1404334,
+            "CMake": 117639,
+            "Ruby": 89599,
+            "Shell": 72390,
+            "Python": 67534,
+            "Perl": 21444,
+            "SmPL": 9001,
+            "Emacs Lisp": 848,
+            "Batchfile": 774
+        }
+    },
+    {
+        "name": "ish",
+        "description": "Linux shell for iOS",
+        "languages": {
+            "C": 1033290,
+            "Objective-C": 310884,
+            "Assembly": 78689,
+            "Swift": 11694,
+            "Meson": 10432,
+            "Shell": 8879,
+            "JavaScript": 5634,
+            "Ruby": 3679,
+            "GDB": 810,
+            "Python": 782,
+            "HTML": 303,
+            "CSS": 160,
+            "Nix": 158
+        }
+    },
+    {
+        "name": "llama2.c",
+        "description": "Inference Llama 2 in one file of pure C",
+        "languages": {
+            "C": 91357,
+            "Python": 77028,
+            "Jupyter Notebook": 3981,
+            "Makefile": 2330,
+            "Batchfile": 45
+        }
+    },
+    {
+        "name": "HandBrake",
+        "description": "HandBrake's main development repository ",
+        "languages": {
+            "C": 4772098,
+            "C#": 2056451,
+            "Objective-C": 1179516,
+            "Python": 118016,
+            "Shell": 97054,
+            "Metal": 58225,
+            "Ruby": 56503,
+            "NSIS": 12645,
+            "Meson": 8642,
+            "M4": 6763,
+            "CSS": 2763,
+            "Makefile": 2265
+        }
+    },
+    {
+        "name": "unleashed-firmware",
+        "description": "Flipper Zero Unleashed Firmware",
+        "languages": {
+            "C": 43566959,
+            "Python": 510348,
+            "C++": 64724,
+            "JavaScript": 13218,
+            "Assembly": 12159,
+            "Shell": 11368,
+            "Ruby": 2918,
+            "PowerShell": 2641,
+            "Batchfile": 2597,
+            "POV-Ray SDL": 897
+        }
+    },
+    {
+        "name": "Mailspring",
+        "description": ":love_letter: A beautiful, fast and fully open source mail client for Mac, Windows and Linux.",
+        "languages": {
+            "C": 10088766,
+            "TypeScript": 2967756,
+            "JavaScript": 1491893,
+            "HTML": 1060519,
+            "Less": 314669,
+            "CSS": 81703,
+            "Shell": 5548,
+            "VBScript": 334,
+            "Batchfile": 182
+        }
+    },
+    {
+        "name": "cosmopolitan",
+        "description": "build-once run-anywhere c library",
+        "languages": {
+            "C": 14868961,
+            "Assembly": 1249278,
+            "Lua": 998707,
+            "Shell": 396276,
+            "Makefile": 285062,
+            "C++": 123959,
+            "Emacs Lisp": 89513,
+            "Common Lisp": 55856,
+            "SourcePawn": 16754,
+            "Python": 12071,
+            "sed": 4222,
+            "NASL": 1467,
+            "HTML": 1333,
+            "CSS": 426
+        }
+    },
+    {
+        "name": "blurhash",
+        "description": "A very compact representation of a placeholder for an image.",
+        "languages": {
+            "C": 332157,
+            "Swift": 46074,
+            "SCSS": 24755,
+            "TypeScript": 11396,
+            "Kotlin": 10974,
+            "JavaScript": 8033,
+            "EJS": 6921,
+            "Shell": 6452,
+            "HTML": 1661,
+            "Makefile": 337
+        }
+    },
+    {
+        "name": "lvgl",
+        "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. ",
+        "languages": {
+            "C": 21341087,
+            "C++": 994831,
+            "Python": 162133,
+            "Assembly": 42336,
+            "CMake": 26607,
+            "Ruby": 20675,
+            "Shell": 9781,
+            "Handlebars": 4521,
+            "Makefile": 4333,
+            "HTML": 3585,
+            "Batchfile": 155
+        }
+    },
+    {
+        "name": "postgres",
+        "description": "Mirror of the official PostgreSQL GIT repository. Note that this is just a *mirror* - we don't work with pull requests on github. To contribute, please see https://wiki.postgresql.org/wiki/Submitting_a_Patch",
+        "languages": {
+            "C": 46438709,
+            "PLpgSQL": 3642500,
+            "Perl": 2183973,
+            "Yacc": 686068,
+            "Makefile": 354102,
+            "Meson": 350897,
+            "Ruby": 279888,
+            "Lex": 224113,
+            "M4": 191215,
+            "Shell": 74756,
+            "PLSQL": 54772,
+            "Python": 52819,
+            "C++": 30403,
+            "Roff": 17748,
+            "XS": 6998,
+            "Emacs Lisp": 4164,
+            "DTrace": 3452,
+            "Assembly": 2468,
+            "Starlark": 1640,
+            "sed": 581
+        }
+    },
+    {
+        "name": "kcp",
+        "description": ":zap: KCP - A Fast and Reliable ARQ Protocol",
+        "languages": {
+            "C": 45731,
+            "C++": 10005,
+            "CMake": 1359
+        }
+    },
+    {
+        "name": "reactos",
+        "description": "A free Windows-compatible Operating System",
+        "languages": {
+            "C": 214370153,
+            "C++": 25176354,
+            "Assembly": 1250782,
+            "CMake": 1103391,
+            "Python": 611169,
+            "Yacc": 518890,
+            "JavaScript": 333258,
+            "Ruby": 239975,
+            "Batchfile": 165756,
+            "VBScript": 136079,
+            "HTML": 83528,
+            "Makefile": 47539,
+            "Perl": 43380,
+            "Lex": 39691,
+            "Shell": 33006,
+            "Smarty": 28152,
+            "M4": 18861,
+            "Roff": 14415,
+            "XSLT": 6126,
+            "RenderScript": 2673,
+            "Scilab": 1718,
+            "CSS": 383,
+            "Objective-C": 281,
+            "GLSL": 27
+        }
+    },
+    {
+        "name": "open-gpu-kernel-modules",
+        "description": "NVIDIA Linux open GPU kernel module source",
+        "languages": {
+            "C": 77593757,
+            "C++": 1451515,
+            "Shell": 268467,
+            "Makefile": 127040,
+            "Python": 19950
+        }
+    },
+    {
+        "name": "sway",
+        "description": "i3-compatible Wayland compositor",
+        "languages": {
+            "C": 1541718,
+            "Meson": 19557,
+            "Shell": 6873
+        }
+    },
+    {
+        "name": "nuklear",
+        "description": "A single-header ANSI C gui library",
+        "languages": {
+            "C": 2287874,
+            "Python": 3852,
+            "Makefile": 924,
+            "Shell": 816
+        }
+    },
+    {
+        "name": "BlackHole",
+        "description": "BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.",
+        "languages": {
+            "C": 219334,
+            "Shell": 4458,
+            "HTML": 2090
+        }
+    },
+    {
+        "name": "memcached",
+        "description": "memcached development tree",
+        "languages": {
+            "C": 1597611,
+            "Perl": 439132,
+            "Lua": 72192,
+            "C++": 34629,
+            "M4": 31862,
+            "Python": 22347,
+            "DTrace": 10708,
+            "Makefile": 6420,
+            "Shell": 6233,
+            "Roff": 1894,
+            "Starlark": 726
+        }
+    },
+    {
+        "name": "nginx-rtmp-module",
+        "description": "NGINX-based Media Streaming Server",
+        "languages": {
+            "C": 852274,
+            "XSLT": 11765,
+            "HTML": 3078,
+            "Shell": 192
+        }
+    },
+    {
+        "name": "vlc",
+        "description": "VLC media player - All pull requests are ignored, please follow https://wiki.videolan.org/Sending_Patches_VLC/",
+        "languages": {
+            "C": 22170145,
+            "C++": 6561881,
+            "Objective-C": 2339100,
+            "QML": 1014280,
+            "Makefile": 532652,
+            "Lua": 362506,
+            "M4": 299915,
+            "NSIS": 278029,
+            "JavaScript": 214370,
+            "Meson": 202735,
+            "Shell": 146711,
+            "Assembly": 131486,
+            "HTML": 64933,
+            "Python": 55419,
+            "Yacc": 22280,
+            "CSS": 6660,
+            "Lex": 6345,
+            "GLSL": 4708,
+            "Vim Script": 4375,
+            "Perl": 2714,
+            "SRecode Template": 2
+        }
+    },
+    {
+        "name": "ffmpeg.wasm",
+        "description": "FFmpeg for browser, powered by WebAssembly",
+        "languages": {
+            "C": 828175,
+            "TypeScript": 71852,
+            "JavaScript": 25515,
+            "HTML": 20088,
+            "Shell": 14706,
+            "Dockerfile": 6329,
+            "CSS": 5838,
+            "Makefile": 2469,
+            "MDX": 2167,
+            "Vue": 1970,
+            "Svelte": 1692
+        }
+    },
+    {
+        "name": "raspberry-pi-os",
+        "description": "Learning operating system development using Linux kernel and Raspberry Pi",
+        "languages": {
+            "C": 1409399,
+            "Assembly": 291515,
+            "Makefile": 85731,
+            "Shell": 13409,
+            "Batchfile": 7507,
+            "HTML": 1754,
+            "Dockerfile": 153,
+            "SCSS": 135
+        }
+    },
+    {
+        "name": "esp8266_deauther",
+        "description": "Affordable WiFi hacking platform for testing and learning",
+        "languages": {
+            "C": 2198858,
+            "C++": 744424,
+            "Python": 67236,
+            "HTML": 24333,
+            "JavaScript": 20208,
+            "CSS": 13479,
+            "Shell": 1613
+        }
+    },
+    {
+        "name": "skynet",
+        "description": "A lightweight online game framework",
+        "languages": {
+            "C": 1545608,
+            "Lua": 534642,
+            "HTML": 57633,
+            "Makefile": 13686,
+            "C++": 191,
+            "SourcePawn": 56
+        }
+    },
+    {
+        "name": "OpenCorePkg",
+        "description": "OpenCore bootloader",
+        "languages": {
+            "C": 11686620,
+            "Assembly": 233364,
+            "C++": 114955,
+            "Shell": 113629,
+            "Python": 87353,
+            "Makefile": 26624,
+            "BitBake": 4389,
+            "Dockerfile": 1360
+        }
+    },
+    {
+        "name": "tengine",
+        "description": "A distribution of Nginx with some advanced features",
+        "languages": {
+            "C": 9074551,
+            "Perl": 5178609,
+            "Raku": 320729,
+            "Vim Script": 130551,
+            "C++": 114242,
+            "Lua": 57008,
+            "XS": 25346,
+            "Shell": 16581,
+            "Makefile": 4107,
+            "Python": 3001,
+            "DTrace": 2269,
+            "HTML": 1051,
+            "GDB": 647,
+            "Euphoria": 506
+        }
+    },
+    {
+        "name": "sumatrapdf",
+        "description": "SumatraPDF reader",
+        "languages": {
+            "C": 39134867,
+            "C++": 11800482,
+            "Assembly": 7986628,
+            "Python": 1400219,
+            "Makefile": 928997,
+            "Hack": 767740,
+            "Shell": 763185,
+            "Java": 307747,
+            "CMake": 235939,
+            "Go": 219527,
+            "Pascal": 199222,
+            "M4": 197366,
+            "Roff": 163275,
+            "Ragel": 160557,
+            "HTML": 118500,
+            "Meson": 114251,
+            "Ada": 89079,
+            "JavaScript": 87617,
+            "C#": 68914,
+            "Lua": 66333,
+            "DIGITAL Command Language": 63339,
+            "SuperCollider": 59800,
+            "Perl": 18629,
+            "XSLT": 12419,
+            "CSS": 10760,
+            "NSIS": 9915,
+            "Svelte": 3569,
+            "SAS": 1847,
+            "Module Management System": 1545,
+            "Batchfile": 1033,
+            "PostScript": 995,
+            "Awk": 499,
+            "sed": 130
+        }
+    },
+    {
+        "name": "esp-idf",
+        "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+        "languages": {
+            "C": 109490887,
+            "Python": 2170933,
+            "C++": 1394968,
+            "CMake": 730351,
+            "Assembly": 340380,
+            "Shell": 52374,
+            "Makefile": 9319,
+            "Batchfile": 6246,
+            "PowerShell": 4565,
+            "Dockerfile": 3493,
+            "Nim": 957,
+            "HTML": 711,
+            "Roff": 29
+        }
+    },
+    {
+        "name": "systemd",
+        "description": "The systemd System and Service Manager ",
+        "languages": {
+            "C": 32384675,
+            "Python": 1989390,
+            "Shell": 1543972,
+            "Meson": 414055,
+            "SmPL": 32042,
+            "HTML": 23536,
+            "Awk": 2537,
+            "Emacs Lisp": 1187,
+            "Vim Script": 825,
+            "Dockerfile": 156,
+            "Makefile": 155,
+            "sed": 72
+        }
+    },
+    {
+        "name": "rofi",
+        "description": "Rofi: A window switcher, application launcher and dmenu replacement",
+        "languages": {
+            "C": 1068297,
+            "Yacc": 37546,
+            "Lex": 32508,
+            "M4": 18585,
+            "Makefile": 17547,
+            "Meson": 15759,
+            "Shell": 7488
+        }
+    },
+    {
+        "name": "Flipper",
+        "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+        "languages": {
+            "C": 6409142,
+            "C++": 405345,
+            "Batchfile": 103701,
+            "Python": 41659,
+            "JavaScript": 31555,
+            "PowerShell": 27508,
+            "Shell": 5833
+        }
+    },
+    {
+        "name": "valkey",
+        "description": "A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.",
+        "languages": {
+            "C": 6601898,
+            "Tcl": 2143476,
+            "Python": 40073,
+            "Shell": 23720,
+            "Makefile": 22757,
+            "Ruby": 19575,
+            "C++": 5987,
+            "Smarty": 1047,
+            "JavaScript": 953
+        }
+    },
+    {
+        "name": "glfw",
+        "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+        "languages": {
+            "C": 1788838,
+            "Objective-C": 165958,
+            "CMake": 30366
+        }
+    },
+    {
+        "name": "Sandboxie",
+        "description": "Sandboxie Plus & Classic",
+        "languages": {
+            "C": 5705613,
+            "C++": 5095051,
+            "Assembly": 1008013,
+            "Inno Setup": 169793,
+            "HTML": 167277,
+            "NSIS": 67061,
+            "Batchfile": 32220,
+            "JavaScript": 20634,
+            "QMake": 18438,
+            "CSS": 3883,
+            "Makefile": 3248
+        }
+    },
+    {
+        "name": "tig",
+        "description": "Text-mode interface for git",
+        "languages": {
+            "C": 2951251,
+            "Shell": 557571,
+            "M4": 44017,
+            "Makefile": 17132
+        }
+    },
+    {
+        "name": "openresty",
+        "description": "High Performance Web Platform Based on Nginx and LuaJIT",
+        "languages": {
+            "C": 5490441
+        }
+    },
+    {
+        "name": "robotjs",
+        "description": "Node.js Desktop Automation. ",
+        "languages": {
+            "C": 245859,
+            "C++": 22338,
+            "JavaScript": 14366,
+            "Objective-C": 7078,
+            "Python": 1452
+        }
+    },
+    {
+        "name": "twemproxy",
+        "description": "A fast, light-weight proxy for memcached and redis",
+        "languages": {
+            "C": 646964,
+            "Shell": 67439,
+            "Python": 48578,
+            "PHP": 8196,
+            "M4": 6130,
+            "Makefile": 3744,
+            "Dockerfile": 2777
+        }
+    },
+    {
+        "name": "webview",
+        "description": "Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).",
+        "languages": {
+            "C": 143823,
+            "C++": 21480,
+            "Shell": 11128,
+            "Batchfile": 7731,
+            "SWIG": 1230
+        }
+    },
+    {
+        "name": "libsodium",
+        "description": "A modern, portable, easy to use crypto library.",
+        "languages": {
+            "C": 4941732,
+            "M4": 86587,
+            "Shell": 79536,
+            "Assembly": 67499,
+            "Makefile": 30999,
+            "Smarty": 24576,
+            "Zig": 13451,
+            "Python": 6948,
+            "Batchfile": 6676,
+            "C#": 1924,
+            "PHP": 563,
+            "VBScript": 294
+        }
+    },
+    {
+        "name": "seafile",
+        "description": "High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.",
+        "languages": {
+            "C": 1621045,
+            "Python": 281708,
+            "M4": 27077,
+            "Shell": 9912,
+            "Makefile": 7431,
+            "Vala": 4760,
+            "C++": 2878
+        }
+    },
+    {
+        "name": "audacity",
+        "description": "Audio Editor                                     ",
+        "languages": {
+            "C": 16183430,
+            "C++": 13930215,
+            "Python": 7868395,
+            "Shell": 1146575,
+            "Common Lisp": 706039,
+            "Makefile": 428713,
+            "CMake": 365494,
+            "HTML": 156636,
+            "CSS": 114447,
+            "Objective-C++": 75875,
+            "M4": 71548,
+            "Perl": 44529,
+            "MATLAB": 17225,
+            "Pascal": 17208,
+            "Roff": 16295,
+            "Inno Setup": 4982,
+            "PowerShell": 4762,
+            "Batchfile": 3299,
+            "Dockerfile": 1597,
+            "AMPL": 1136,
+            "AppleScript": 972,
+            "Prolog": 939,
+            "Java": 920,
+            "Cool": 147
+        }
+    },
+    {
+        "name": "Dummy-Robot",
+        "description": "\u6211\u7684\u8d85\u8ff7\u4f60\u673a\u68b0\u81c2\u673a\u5668\u4eba\u9879\u76ee\u3002",
+        "languages": {
+            "C": 11245337,
+            "Gerber Image": 1507262,
+            "C++": 457554,
+            "Altium Designer": 417943,
+            "ASP.NET": 181725,
+            "Python": 85665,
+            "Assembly": 32596,
+            "CMake": 7070,
+            "Batchfile": 126
+        }
+    },
+    {
+        "name": "flipperzero-firmware",
+        "description": "Flipper Zero firmware source code",
+        "languages": {
+            "C": 42718726,
+            "Python": 509796,
+            "C++": 64750,
+            "Assembly": 12159,
+            "Shell": 11201,
+            "JavaScript": 2988,
+            "PowerShell": 2641,
+            "Batchfile": 2597,
+            "POV-Ray SDL": 897
+        }
+    },
+    {
+        "name": "ImageMagick",
+        "description": "\ud83e\uddd9\u200d\u2642\ufe0f ImageMagick 7",
+        "languages": {
+            "C": 18630079,
+            "HTML": 13058419,
+            "C++": 5030251,
+            "Makefile": 1387708,
+            "XS": 502076,
+            "Shell": 462403,
+            "Roff": 256259,
+            "M4": 255134,
+            "Perl": 215385,
+            "Tcl": 20737,
+            "DIGITAL Command Language": 13201,
+            "CSS": 11438,
+            "JavaScript": 2580,
+            "Dockerfile": 2425
+        }
+    },
+    {
+        "name": "lua-nginx-module",
+        "description": "Embed the Power of Lua into NGINX HTTP servers",
+        "languages": {
+            "C": 1553568,
+            "Lua": 57008,
+            "Perl": 14076,
+            "Shell": 11318,
+            "DTrace": 2269,
+            "Python": 665,
+            "Makefile": 25
+        }
+    },
+    {
+        "name": "SoftEtherVPN",
+        "description": "Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.",
+        "languages": {
+            "C": 8868961,
+            "C#": 1106732,
+            "TypeScript": 734685,
+            "HTML": 640110,
+            "C++": 84712,
+            "CMake": 28685,
+            "Perl": 17771,
+            "Shell": 4645,
+            "Makefile": 1977,
+            "JavaScript": 795,
+            "Python": 760,
+            "Batchfile": 756,
+            "PowerShell": 549,
+            "CSS": 285
+        }
+    },
+    {
+        "name": "Tinyhttpd",
+        "description": "Tinyhttpd \u662fJ. David Blackstone\u57281999\u5e74\u5199\u7684\u4e00\u4e2a\u4e0d\u5230 500 \u884c\u7684\u8d85\u8f7b\u91cf\u578b Http Server\uff0c\u7528\u6765\u5b66\u4e60\u975e\u5e38\u4e0d\u9519\uff0c\u53ef\u4ee5\u5e2e\u52a9\u6211\u4eec\u771f\u6b63\u7406\u89e3\u670d\u52a1\u5668\u7a0b\u5e8f\u7684\u672c\u8d28\u3002\u5b98\u7f51:http://tinyhttpd.sourceforge.net",
+        "languages": {
+            "C": 16963,
+            "Perl": 799,
+            "HTML": 218,
+            "Makefile": 158
+        }
+    },
+    {
+        "name": "darwin-xnu",
+        "description": "Legacy mirror of Darwin Kernel. Replaced by https://github.com/apple-oss-distributions/xnu",
+        "languages": {
+            "C": 50739361,
+            "C++": 5330823,
+            "Python": 1392061,
+            "Roff": 1382878,
+            "Assembly": 858285,
+            "HTML": 694084,
+            "Makefile": 347353,
+            "Objective-C": 329404,
+            "Shell": 103176,
+            "DTrace": 72221,
+            "Yacc": 52486,
+            "Swift": 50071,
+            "Lua": 31069,
+            "Perl": 28180,
+            "D": 10304,
+            "Lex": 3400,
+            "SmPL": 3358,
+            "Awk": 1247
+        }
+    },
+    {
+        "name": "sanitizers",
+        "description": "AddressSanitizer, ThreadSanitizer, MemorySanitizer",
+        "languages": {
+            "C": 561582,
+            "C++": 28605,
+            "Shell": 15654,
+            "Go": 14156,
+            "CMake": 1816,
+            "SMT": 1783,
+            "Kotlin": 1320,
+            "Python": 920
+        }
+    },
+    {
+        "name": "libevent",
+        "description": "Event notification library",
+        "languages": {
+            "C": 2641033,
+            "Roff": 118543,
+            "CMake": 115909,
+            "M4": 77488,
+            "Python": 67475,
+            "Shell": 17021,
+            "Makefile": 10236,
+            "sed": 731,
+            "Vim Script": 304
+        }
+    },
+    {
+        "name": "h2o",
+        "description": "H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server",
+        "languages": {
+            "C": 3159909,
+            "Perl": 848888,
+            "C++": 321122,
+            "Mathematica": 211660,
+            "Ruby": 66631,
+            "Shell": 57680,
+            "Python": 52796,
+            "CMake": 45731,
+            "PHP": 10137,
+            "Makefile": 9686,
+            "DTrace": 7925,
+            "HTML": 6430,
+            "Vim Script": 73,
+            "JavaScript": 16
+        }
+    },
+    {
+        "name": "linux",
+        "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
+        "languages": {
+            "C": 1222094245,
+            "Assembly": 9837222,
+            "Shell": 4519167,
+            "Makefile": 2524913,
+            "Python": 2360812,
+            "Perl": 1256044,
+            "Rust": 651076,
+            "C++": 304831,
+            "Roff": 193387,
+            "SmPL": 158347,
+            "Yacc": 127801,
+            "Lex": 68783,
+            "Awk": 44362,
+            "UnrealScript": 17737,
+            "Gherkin": 9606,
+            "Raku": 3859,
+            "M4": 3329,
+            "MATLAB": 2482,
+            "Clojure": 2178,
+            "XS": 1239,
+            "sed": 379
+        }
+    },
+    {
+        "name": "libui",
+        "description": "Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.",
+        "languages": {
+            "C": 655562,
+            "C++": 508375,
+            "Objective-C": 360281,
+            "Meson": 12808,
+            "Go": 3123,
+            "Swift": 2527,
+            "Assembly": 1540,
+            "Awk": 672,
+            "Batchfile": 477,
+            "Shell": 371
+        }
+    },
+    {
+        "name": "mongoose",
+        "description": "Embedded Web Server",
+        "languages": {
+            "C": 1585077,
+            "C++": 102241,
+            "JavaScript": 50200,
+            "Makefile": 15287,
+            "Shell": 4301,
+            "HTML": 917,
+            "Batchfile": 333
+        }
+    },
+    {
+        "name": "coturn",
+        "description": "coturn TURN server project",
+        "languages": {
+            "C": 1702700,
+            "CMake": 63158,
+            "C++": 28334,
+            "Shell": 26730,
+            "Makefile": 20234,
+            "Dockerfile": 12768
+        }
+    },
+    {
+        "name": "wcdb",
+        "description": "WCDB is a cross-platform database framework developed by WeChat.",
+        "languages": {
+            "C": 19096345,
+            "C++": 4885944,
+            "Java": 2094695,
+            "Objective-C++": 1828941,
+            "Swift": 1131079,
+            "Objective-C": 445318,
+            "Kotlin": 191219,
+            "CMake": 23375,
+            "Shell": 22976,
+            "Ruby": 20935,
+            "Groovy": 8478,
+            "Makefile": 7273,
+            "AIDL": 2412,
+            "Awk": 1104
+        }
+    },
+    {
+        "name": "cockpit",
+        "description": "Cockpit is a web-based graphical interface for servers.",
+        "languages": {
+            "C": 2950342,
+            "JavaScript": 2874901,
+            "Python": 2029188,
+            "SCSS": 161530,
+            "Shell": 105795,
+            "HTML": 79022,
+            "Makefile": 39533,
+            "TypeScript": 34782,
+            "M4": 16958,
+            "CSS": 15395,
+            "Roff": 10642,
+            "Dockerfile": 655
+        }
+    },
+    {
+        "name": "systeminformer",
+        "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com",
+        "languages": {
+            "C": 17573349,
+            "C++": 1408069,
+            "C#": 212734,
+            "Batchfile": 10691,
+            "Assembly": 1008
+        }
+    },
+    {
+        "name": "GoodbyeDPI",
+        "description": "GoodbyeDPI \u2014 Deep Packet Inspection circumvention utility (for Windows)",
+        "languages": {
+            "C": 176767,
+            "Makefile": 1774
+        }
+    },
+    {
+        "name": "Craft",
+        "description": "A simple Minecraft clone written in C using modern OpenGL (shaders).",
+        "languages": {
+            "C": 164727,
+            "Python": 34365,
+            "GLSL": 3294,
+            "CMake": 1197
+        }
+    },
+    {
+        "name": "FreeRDP",
+        "description": "FreeRDP is a free remote desktop protocol library and clients",
+        "languages": {
+            "C": 16612405,
+            "CMake": 557233,
+            "Objective-C": 539972,
+            "C++": 411465,
+            "Java": 373717,
+            "HTML": 99139,
+            "Shell": 49987,
+            "Python": 41314,
+            "Lua": 27390,
+            "Roff": 15122,
+            "Perl": 8044,
+            "C#": 6365,
+            "CSS": 5696,
+            "Makefile": 2342,
+            "Rich Text Format": 937
+        }
+    },
+    {
+        "name": "zfs",
+        "description": "OpenZFS on Linux and FreeBSD",
+        "languages": {
+            "C": 17085002,
+            "Shell": 4212418,
+            "Assembly": 1151541,
+            "M4": 524054,
+            "Python": 400484,
+            "Makefile": 190687,
+            "Lua": 39188,
+            "Perl": 37573,
+            "Roff": 3171,
+            "sed": 1970
+        }
+    },
+    {
+        "name": "cJSON",
+        "description": "Ultralightweight JSON parser in ANSI C",
+        "languages": {
+            "C": 704581,
+            "Ruby": 131482,
+            "CMake": 17938,
+            "Makefile": 13634,
+            "Python": 11112,
+            "Shell": 874
+        }
+    },
+    {
+        "name": "openvpn",
+        "description": "OpenVPN  is  an open source VPN daemon",
+        "languages": {
+            "C": 4035748,
+            "Shell": 62022,
+            "M4": 54208,
+            "CMake": 48268,
+            "Makefile": 29865,
+            "Python": 15180,
+            "BitBake": 645
+        }
+    },
+    {
+        "name": "phpredis",
+        "description": "A PHP extension for Redis",
+        "languages": {
+            "C": 1168976,
+            "PHP": 613264,
+            "M4": 11025,
+            "Shell": 7042,
+            "JavaScript": 969
+        }
+    },
+    {
+        "name": "redis-3.0-annotated",
+        "description": "\u5e26\u6709\u8be6\u7ec6\u6ce8\u91ca\u7684 Redis 3.0 \u4ee3\u7801\uff08annotated Redis 3.0 source code\uff09\u3002",
+        "languages": {
+            "C": 2344517,
+            "Tcl": 363108,
+            "Ruby": 53872,
+            "Shell": 11765,
+            "Makefile": 7656,
+            "Smarty": 1023
+        }
+    },
+    {
+        "name": "acwj",
+        "description": "A Compiler Writing Journey",
+        "languages": {
+            "C": 7653773,
+            "Shell": 152763,
+            "Makefile": 57890,
+            "C++": 332
+        }
+    },
+    {
+        "name": "citus",
+        "description": "Distributed PostgreSQL as an extension",
+        "languages": {
+            "C": 7441966,
+            "PLpgSQL": 4518745,
+            "Ruby": 444422,
+            "Python": 292154,
+            "Perl": 112064,
+            "Makefile": 31958,
+            "Shell": 30433,
+            "M4": 18222,
+            "sed": 15405,
+            "Dockerfile": 7618,
+            "GDB": 1915
+        }
+    },
+    {
+        "name": "ggml",
+        "description": "Tensor library for machine learning",
+        "languages": {
+            "C": 1704983,
+            "C++": 1662216,
+            "Cuda": 445176,
+            "Metal": 256848,
+            "Objective-C": 170322,
+            "CMake": 45345,
+            "Zig": 33357,
+            "Shell": 27133,
+            "Swift": 1520
+        }
+    },
+    {
+        "name": "ffmpeg-libav-tutorial",
+        "description": "FFmpeg libav tutorial - learn how media works from basic to transmuxing, transcoding and more. Translations: \ud83c\uddfa\ud83c\uddf8 \ud83c\udde8\ud83c\uddf3 \ud83c\uddf0\ud83c\uddf7 \ud83c\uddea\ud83c\uddf8 \ud83c\uddfb\ud83c\uddf3 \ud83c\udde7\ud83c\uddf7",
+        "languages": {
+            "C": 34142,
+            "Dockerfile": 22750,
+            "Makefile": 1959,
+            "CMake": 1297,
+            "Shell": 318
+        }
+    },
+    {
+        "name": "zephyr",
+        "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+        "languages": {
+            "C": 67999559,
+            "Python": 3509507,
+            "CMake": 2119199,
+            "Assembly": 475386,
+            "Shell": 450218,
+            "C++": 228175,
+            "Perl": 216452,
+            "SmPL": 36840,
+            "Tcl": 7055,
+            "Verilog": 6394,
+            "Makefile": 6010,
+            "JetBrains MPS": 3055,
+            "Forth": 2133,
+            "Cadence": 1701,
+            "GDB": 1683,
+            "EmberScript": 848,
+            "RobotFramework": 679,
+            "Haskell": 603,
+            "Vim Script": 420,
+            "Raku": 321,
+            "PLSQL": 164,
+            "Visual Basic 6.0": 162,
+            "Batchfile": 110
+        }
+    },
+    {
+        "name": "rt-thread",
+        "description": "RT-Thread is an open source IoT real-time operating system (RTOS).",
+        "languages": {
+            "C": 1301113495,
+            "Assembly": 24814872,
+            "HTML": 4771626,
+            "Python": 4261054,
+            "C++": 668220,
+            "Shell": 438959,
+            "Makefile": 327292,
+            "CMake": 142893,
+            "CSS": 115796,
+            "Batchfile": 80054,
+            "M4": 17515,
+            "Perl": 16728,
+            "Yacc": 16084,
+            "RPC": 14162,
+            "GDB": 11796,
+            "Lex": 7026,
+            "Pawn": 1250,
+            "Lua": 922,
+            "Dockerfile": 875,
+            "Tcl": 179,
+            "Logos": 160
+        }
+    },
+    {
+        "name": "proxychains-ng",
+        "description": "proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained proxychains project. the sf.net page is currently not updated, use releases from github release page instead.",
+        "languages": {
+            "C": 118237,
+            "Makefile": 2783,
+            "Shell": 1732
+        }
+    },
+    {
+        "name": "tini",
+        "description": "A tiny but valid `init` for containers",
+        "languages": {
+            "C": 27100,
+            "Python": 18902,
+            "Shell": 10955,
+            "CMake": 3428,
+            "Dockerfile": 404
+        }
+    },
+    {
+        "name": "libgit2",
+        "description": "A cross-platform, linkable library implementation of Git that you can use in your application.",
+        "languages": {
+            "C": 8069055,
+            "CMake": 76245,
+            "Shell": 40874,
+            "Python": 16847
+        }
+    },
+    {
+        "name": "mimalloc",
+        "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+        "languages": {
+            "C": 608163,
+            "C++": 99095,
+            "CMake": 26810,
+            "Roff": 3926
+        }
+    },
+    {
+        "name": "pyroscope",
+        "description": "Continuous Profiling Platform. Debug performance issues down to a single line of code",
+        "languages": {
+            "C": 4813948,
+            "Go": 4026269,
+            "TypeScript": 1046365,
+            "SCSS": 68864,
+            "Jsonnet": 52868,
+            "Makefile": 34318,
+            "CSS": 34159,
+            "JavaScript": 22529,
+            "Shell": 15919,
+            "Mustache": 2985,
+            "HTML": 2066,
+            "Dockerfile": 1871,
+            "CMake": 732
+        }
+    },
+    {
+        "name": "john",
+        "description": "John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs",
+        "languages": {
+            "C": 15473687,
+            "Verilog": 1364247,
+            "Python": 1035842,
+            "Perl": 823651,
+            "Assembly": 225756,
+            "M4": 170675,
+            "SystemVerilog": 127847,
+            "Shell": 77334,
+            "Makefile": 60230,
+            "HTML": 42767,
+            "Lua": 11395,
+            "Nix": 1954,
+            "Ruby": 1867,
+            "JavaScript": 1055,
+            "Dockerfile": 880
+        }
+    },
+    {
+        "name": "qemu",
+        "description": "Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.",
+        "languages": {
+            "C": 73062687,
+            "C++": 10602039,
+            "Python": 3607715,
+            "Shell": 1397303,
+            "Assembly": 529920,
+            "Meson": 445155,
+            "Haxe": 343558,
+            "Perl": 222124,
+            "Objective-C": 107486,
+            "Makefile": 103059,
+            "SourcePawn": 83714,
+            "POV-Ray SDL": 57289,
+            "Yacc": 29789,
+            "Pawn": 29444,
+            "SmPL": 28545,
+            "Lex": 23760,
+            "NASL": 7585,
+            "NSIS": 6906,
+            "Dockerfile": 1012,
+            "GLSL": 585,
+            "GDB": 470,
+            "Vim Script": 220,
+            "Emacs Lisp": 75
+        }
+    },
+    {
+        "name": "RetroArch",
+        "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+        "languages": {
+            "C": 47645637,
+            "C++": 7381666,
+            "Objective-C": 706836,
+            "Assembly": 227204,
+            "Python": 173893,
+            "Shell": 123352,
+            "OpenQASM": 114951,
+            "Swift": 93990,
+            "Java": 90303,
+            "GLSL": 76214,
+            "JavaScript": 72112,
+            "Makefile": 70232,
+            "CMake": 64346,
+            "HTML": 34059,
+            "Perl": 15979,
+            "HLSL": 13758,
+            "Metal": 12879,
+            "Lua": 8668,
+            "Batchfile": 8408,
+            "CSS": 5207,
+            "GSC": 1590,
+            "CoffeeScript": 918
+        }
+    },
+    {
+        "name": "nmap",
+        "description": "Nmap - the Network Mapper. Github mirror of official SVN repository.",
+        "languages": {
+            "C": 10573526,
+            "Lua": 8121513,
+            "C++": 4832478,
+            "Shell": 1276617,
+            "Python": 1213177,
+            "Makefile": 524218,
+            "Roff": 319180,
+            "CMake": 247872,
+            "M4": 247247,
+            "Perl": 107935,
+            "Ada": 89080,
+            "Pascal": 75203,
+            "HTML": 68978,
+            "C#": 55623,
+            "RPGLE": 41861,
+            "Assembly": 27595,
+            "DIGITAL Command Language": 27305,
+            "NSIS": 26761,
+            "Clean": 22718,
+            "Lex": 17129,
+            "Batchfile": 3580,
+            "Java": 2420,
+            "Emacs Lisp": 2038,
+            "Objective-C": 1913,
+            "SAS": 1847,
+            "Module Management System": 1545,
+            "Awk": 750
+        }
+    },
+    {
+        "name": "db_tutorial",
+        "description": "Writing a sqlite clone from scratch in C",
+        "languages": {
+            "C": 32758,
+            "Ruby": 12977,
+            "HTML": 4837,
+            "SCSS": 387,
+            "Makefile": 147
+        }
+    },
+    {
+        "name": "lz4",
+        "description": "Extremely Fast Compression algorithm",
+        "languages": {
+            "C": 965585,
+            "C++": 54246,
+            "Makefile": 53286,
+            "Python": 44096,
+            "Shell": 20582,
+            "Meson": 20257,
+            "CMake": 10787,
+            "Roff": 9468,
+            "Batchfile": 5262,
+            "Dockerfile": 644
+        }
+    },
+    {
+        "name": "c4",
+        "description": "C in four functions",
+        "languages": {
+            "C": 20573
+        }
+    },
+    {
+        "name": "wazuh",
+        "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+        "languages": {
+            "C": 15907567,
+            "Python": 5867045,
+            "C++": 5159719,
+            "CMake": 346578,
+            "Shell": 243195,
+            "Makefile": 108039,
+            "PLpgSQL": 30710,
+            "VBScript": 22902,
+            "NSIS": 21203,
+            "PowerShell": 12943,
+            "Batchfile": 2334,
+            "Modula-3": 1545,
+            "Dockerfile": 1053,
+            "Perl": 274,
+            "HTML": 220
+        }
+    },
+    {
+        "name": "pgvector",
+        "description": "Open-source vector similarity search for Postgres",
+        "languages": {
+            "C": 308231,
+            "Perl": 75901,
+            "Makefile": 2574,
+            "Dockerfile": 592,
+            "Raku": 101
+        }
+    },
+    {
+        "name": "xLua",
+        "description": "xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.",
+        "languages": {
+            "C": 9137383,
+            "HTML": 2269226,
+            "Lua": 1201727,
+            "C#": 906852,
+            "CMake": 195951,
+            "Makefile": 111221,
+            "Batchfile": 62524,
+            "Roff": 33763,
+            "CSS": 28881,
+            "C++": 14876,
+            "Shell": 12433
+        }
+    },
+    {
+        "name": "i3",
+        "description": "A tiling window manager for X11",
+        "languages": {
+            "C": 1652522,
+            "Perl": 1094081,
+            "Python": 34366,
+            "Shell": 19068,
+            "Meson": 18316,
+            "Dockerfile": 3727,
+            "Vim Script": 519
+        }
+    },
+    {
+        "name": "atomic-red-team",
+        "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+        "languages": {
+            "C": 373431,
+            "Go": 110158,
+            "PowerShell": 107960,
+            "Java": 75450,
+            "C#": 63378,
+            "Ruby": 45098,
+            "C++": 34764,
+            "VBScript": 32338,
+            "Python": 27781,
+            "Swift": 13435,
+            "Batchfile": 12166,
+            "HTML": 6515,
+            "Shell": 4965,
+            "Perl": 4657,
+            "HCL": 3092,
+            "JavaScript": 2439,
+            "XSLT": 1340,
+            "ASP.NET": 1323,
+            "Objective-C": 1207,
+            "AutoIt": 887,
+            "sed": 883,
+            "Dockerfile": 811,
+            "Makefile": 312
+        }
+    },
+    {
+        "name": "jemalloc",
+        "description": null,
+        "languages": {
+            "C": 2643450,
+            "Perl": 185203,
+            "M4": 108154,
+            "Shell": 29996,
+            "Makefile": 28460,
+            "C++": 15827,
+            "Python": 13782
+        }
+    },
+    {
+        "name": "thc-hydra",
+        "description": "hydra",
+        "languages": {
+            "C": 1106295,
+            "Makefile": 29355,
+            "Shell": 26021,
+            "Roff": 6845,
+            "Dockerfile": 2343
+        }
+    },
+    {
+        "name": "libvips",
+        "description": "A fast image processing library with low memory needs.",
+        "languages": {
+            "C": 5590235,
+            "C++": 578721,
+            "Python": 212086,
+            "Meson": 60872,
+            "Shell": 25119
+        }
+    },
+    {
+        "name": "torch7",
+        "description": "http://torch.ch",
+        "languages": {
+            "C": 772295,
+            "Lua": 347938,
+            "CMake": 61505,
+            "C++": 6206
+        }
+    },
+    {
+        "name": "TheFatRat",
+        "description": "Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV software protection .",
+        "languages": {
+            "C": 3522049,
+            "RenderScript": 548414,
+            "Shell": 339314,
+            "Python": 152721,
+            "C++": 30406,
+            "Ruby": 6347,
+            "CMake": 2863,
+            "C#": 225
+        }
+    },
+    {
+        "name": "fastdfs",
+        "description": "FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. Wechat/Weixin public account (Chinese Language): fastdfs",
+        "languages": {
+            "C": 1943402,
+            "PHP": 47017,
+            "Shell": 18322,
+            "Dockerfile": 11326,
+            "Makefile": 8249,
+            "M4": 632
+        }
+    },
+    {
+        "name": "react-native-code-push",
+        "description": "React Native module for CodePush",
+        "languages": {
+            "C": 744730,
+            "Objective-C": 358774,
+            "JavaScript": 137449,
+            "Java": 126404,
+            "C#": 103711,
+            "C++": 100422,
+            "TypeScript": 98532,
+            "Objective-C++": 1387,
+            "Ruby": 1088
+        }
+    },
+    {
+        "name": "darktable",
+        "description": "darktable is an open source photography workflow application and raw developer",
+        "languages": {
+            "C": 15638393,
+            "Lua": 1322841,
+            "C++": 591498,
+            "CMake": 199568,
+            "Shell": 143236,
+            "JavaScript": 115023,
+            "CSS": 101766,
+            "Perl": 65035,
+            "Python": 46381,
+            "Ruby": 46292,
+            "XSLT": 41265,
+            "Objective-C++": 9148,
+            "TeX": 4854,
+            "Dockerfile": 4364,
+            "Batchfile": 3458,
+            "Assembly": 1705,
+            "Nix": 1390,
+            "Awk": 419,
+            "Makefile": 243,
+            "Emacs Lisp": 94
+        }
+    },
+    {
+        "name": "Xtreme-Firmware",
+        "description": "The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!    ",
+        "languages": {
+            "C": 44711575,
+            "Python": 531690,
+            "C++": 64694,
+            "JavaScript": 13703,
+            "Assembly": 12159,
+            "Shell": 11408,
+            "Ruby": 2918,
+            "PowerShell": 2641,
+            "Batchfile": 2609,
+            "POV-Ray SDL": 897
+        }
+    },
+    {
+        "name": "toxcore",
+        "description": "The future of online communications.",
+        "languages": {
+            "C": 1555871,
+            "C++": 88452,
+            "M4": 44599,
+            "Makefile": 17887,
+            "Python": 9214,
+            "Shell": 8308,
+            "Dockerfile": 1783
+        }
+    },
+    {
+        "name": "klipper",
+        "description": "Klipper is a 3d-printer firmware",
+        "languages": {
+            "C": 204516569,
+            "Python": 2092699,
+            "C++": 187093,
+            "Assembly": 58211,
+            "Makefile": 37156,
+            "Shell": 33109,
+            "G-code": 8821,
+            "CMake": 5054,
+            "Dockerfile": 1777
+        }
+    },
+    {
+        "name": "japronto",
+        "description": " Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.",
+        "languages": {
+            "C": 149858,
+            "Python": 143655,
+            "Shell": 2420,
+            "Lua": 915,
+            "Go": 668,
+            "JavaScript": 387,
+            "Dockerfile": 97
+        }
+    },
+    {
+        "name": "mac-precision-touchpad",
+        "description": "Windows Precision Touchpad Driver Implementation for Apple MacBook / Magic Trackpad",
+        "languages": {
+            "C": 385660,
+            "PowerShell": 18010,
+            "C#": 15691
+        }
+    },
+    {
+        "name": "Nuklear",
+        "description": "A single-header ANSI C immediate mode cross-platform GUI library",
+        "languages": {
+            "C": 2674436,
+            "Python": 4501,
+            "Makefile": 1054,
+            "Shell": 897,
+            "Batchfile": 879
+        }
+    },
+    {
+        "name": "chibicc",
+        "description": "A small C compiler",
+        "languages": {
+            "C": 319298,
+            "Shell": 9344,
+            "Makefile": 1149,
+            "C++": 126
+        }
+    },
+    {
+        "name": "yugabyte-db",
+        "description": "YugabyteDB - the cloud native distributed SQL database for mission-critical applications.",
+        "languages": {
+            "C": 41294272,
+            "C++": 37483663,
+            "Java": 21655379,
+            "TypeScript": 4871346,
+            "PLpgSQL": 4328996,
+            "Python": 2566927,
+            "JavaScript": 1921351,
+            "Go": 1508326,
+            "Perl": 931412,
+            "Shell": 928526,
+            "Yacc": 918584,
+            "Makefile": 371751,
+            "CMake": 353329,
+            "SCSS": 326275,
+            "Ruby": 313858,
+            "Lex": 249027,
+            "Jupyter Notebook": 171707,
+            "M4": 107409,
+            "Scala": 81358,
+            "XSLT": 60459,
+            "HTML": 42134,
+            "Roff": 30385,
+            "Mustache": 20818,
+            "Dockerfile": 19051,
+            "PLSQL": 17764,
+            "Batchfile": 14371,
+            "CSS": 10421,
+            "Jinja": 7121,
+            "XS": 7097,
+            "PHP": 5378,
+            "Emacs Lisp": 4164,
+            "DTrace": 3440,
+            "Assembly": 3265,
+            "sed": 1231,
+            "Smarty": 138,
+            "Raku": 101,
+            "TeX": 26
+        }
+    },
+    {
+        "name": "xxHash",
+        "description": "Extremely fast non-cryptographic hash algorithm",
+        "languages": {
+            "C": 4925009,
+            "C++": 266887,
+            "Makefile": 33360,
+            "CMake": 8665,
+            "Roff": 4847,
+            "Shell": 3603
+        }
+    },
+    {
+        "name": "AppImageKit",
+        "description": "Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.chat",
+        "languages": {
+            "C": 157122,
+            "Shell": 28777,
+            "CMake": 22584
+        }
+    },
+    {
+        "name": "redis",
+        "description": "Native port of Redis for Windows. Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs. This repository contains unofficial port of Redis to Windows.",
+        "languages": {
+            "C": 3906717,
+            "Tcl": 679813,
+            "C++": 215288,
+            "Shell": 15783,
+            "Ruby": 15356,
+            "C#": 14291,
+            "Makefile": 9826,
+            "PowerShell": 4195,
+            "Batchfile": 1609,
+            "Smarty": 1047
+        }
+    },
+    {
+        "name": "mosquitto",
+        "description": "Eclipse Mosquitto - An open source MQTT broker",
+        "languages": {
+            "C": 1901954,
+            "Python": 833311,
+            "Makefile": 74957,
+            "C++": 39559,
+            "Dockerfile": 34233,
+            "CMake": 23563,
+            "Shell": 11854,
+            "NSIS": 10498,
+            "HTML": 7778,
+            "CSS": 3918,
+            "Perl": 3238,
+            "XSLT": 1018
+        }
+    },
+    {
+        "name": "xmrig",
+        "description": "RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",
+        "languages": {
+            "C": 4543485,
+            "C++": 3399196,
+            "Assembly": 397400,
+            "CMake": 53187,
+            "JavaScript": 6217,
+            "Shell": 4940,
+            "Batchfile": 3185,
+            "Common Lisp": 740
+        }
+    },
+    {
+        "name": "Mirai-Source-Code",
+        "description": "Leaked Mirai Source Code for Research/IoC Development Purposes",
+        "languages": {
+            "C": 315460,
+            "Go": 39170,
+            "Shell": 12207,
+            "Objective-C": 2400
+        }
+    },
+    {
+        "name": "progress",
+        "description": "Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)",
+        "languages": {
+            "C": 39709,
+            "Roff": 2977,
+            "Makefile": 1535
+        }
+    },
+    {
+        "name": "SDL",
+        "description": "Simple Directmedia Layer",
+        "languages": {
+            "C": 28633538,
+            "C++": 1554553,
+            "Objective-C": 760378,
+            "CMake": 383733,
+            "Java": 209752,
+            "Perl": 135325,
+            "Python": 89156,
+            "SmPL": 50055,
+            "Shell": 38921,
+            "Assembly": 32287,
+            "M4": 25544,
+            "HLSL": 22899,
+            "Makefile": 10182,
+            "Metal": 8834,
+            "Batchfile": 2615,
+            "Meson": 894,
+            "JavaScript": 749
+        }
+    },
+    {
+        "name": "ecapture",
+        "description": "Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86_64/aarch64.",
+        "languages": {
+            "C": 5363397,
+            "Go": 302114,
+            "Shell": 21065,
+            "Makefile": 14799,
+            "C++": 2580,
+            "Lua": 2244,
+            "JavaScript": 750,
+            "Python": 411
+        }
+    },
+    {
+        "name": "gb-studio",
+        "description": "A quick and easy to use drag and drop retro game creator for your favourite handheld video game system",
+        "languages": {
+            "C": 3962172,
+            "TypeScript": 2911951,
+            "C++": 870360,
+            "JavaScript": 857156,
+            "Assembly": 782719,
+            "Makefile": 535004,
+            "Batchfile": 117211,
+            "Python": 25616,
+            "CSS": 12308,
+            "HTML": 4225,
+            "Shell": 241
+        }
+    },
+    {
+        "name": "vlmcsd",
+        "description": "KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)",
+        "languages": {
+            "C": 803958,
+            "Makefile": 31021
+        }
+    },
+    {
+        "name": "Learn-Algorithms",
+        "description": "\u7b97\u6cd5\u5b66\u4e60\u7b14\u8bb0",
+        "languages": {
+            "C": 75067
+        }
+    },
+    {
+        "name": "disque",
+        "description": "Disque is a distributed message broker",
+        "languages": {
+            "C": 1077440,
+            "Tcl": 110497,
+            "Makefile": 6613,
+            "Shell": 841
+        }
+    },
+    {
+        "name": "lua",
+        "description": "A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. Please DO NOT send pull requests or any other stuff. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html",
+        "languages": {
+            "C": 948923,
+            "Lua": 448626,
+            "Makefile": 8237
+        }
+    },
+    {
+        "name": "betaflight",
+        "description": "Open Source Flight Controller Firmware",
+        "languages": {
+            "C": 146875221,
+            "Assembly": 4272734,
+            "C++": 1533735,
+            "HTML": 439915,
+            "Makefile": 141896,
+            "CMake": 62863,
+            "Python": 13328,
+            "Perl": 7082,
+            "Shell": 961
+        }
+    },
+    {
+        "name": "poco",
+        "description": "The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.",
+        "languages": {
+            "C": 18374688,
+            "C++": 17478381,
+            "CMake": 176160,
+            "Makefile": 86959,
+            "JavaScript": 78696,
+            "Shell": 46144,
+            "Yacc": 43122,
+            "Batchfile": 39415,
+            "PowerShell": 22581,
+            "HTML": 12843,
+            "CSS": 9847,
+            "Lex": 7200,
+            "Rich Text Format": 1942,
+            "Perl": 1048,
+            "Python": 1028
+        }
+    },
+    {
+        "name": "BGAQRCode-Android",
+        "description": "QRCode \u626b\u63cf\u4e8c\u7ef4\u7801\u3001\u626b\u63cf\u6761\u5f62\u7801\u3001\u76f8\u518c\u83b7\u53d6\u56fe\u7247\u540e\u8bc6\u522b\u3001\u751f\u6210\u5e26 Logo \u4e8c\u7ef4\u7801\u3001\u652f\u6301\u5fae\u535a\u5fae\u4fe1 QQ \u4e8c\u7ef4\u7801\u626b\u63cf\u6837\u5f0f",
+        "languages": {
+            "C": 6847522,
+            "Shell": 2011299,
+            "C++": 605472,
+            "M4": 416795,
+            "Makefile": 379317,
+            "Roff": 209056,
+            "Java": 184865,
+            "Batchfile": 34559,
+            "sed": 17563,
+            "Assembly": 459,
+            "Objective-C": 326
+        }
+    },
+    {
+        "name": "windows-kernel-exploits",
+        "description": "windows-kernel-exploits   Windows\u5e73\u53f0\u63d0\u6743\u6f0f\u6d1e\u96c6\u5408",
+        "languages": {
+            "C": 1283449,
+            "Python": 704815,
+            "C++": 456541,
+            "PowerShell": 114268,
+            "Ruby": 62072,
+            "C#": 16870,
+            "CMake": 10335,
+            "Shell": 8906,
+            "Perl": 6735,
+            "Assembly": 203
+        }
+    },
+    {
+        "name": "janus-gateway",
+        "description": "Janus WebRTC Server",
+        "languages": {
+            "C": 4764461,
+            "JavaScript": 697391,
+            "HTML": 157378,
+            "Lua": 62811,
+            "M4": 43575,
+            "Makefile": 23292,
+            "Roff": 16649,
+            "Shell": 11746,
+            "Python": 10405,
+            "CSS": 1892,
+            "Emacs Lisp": 574
+        }
+    },
+    {
+        "name": "smartdns",
+        "description": "A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. \u4e00\u4e2a\u672c\u5730DNS\u670d\u52a1\u5668\uff0c\u83b7\u53d6\u6700\u5feb\u7684\u7f51\u7ad9IP\uff0c\u83b7\u5f97\u6700\u4f73\u4e0a\u7f51\u4f53\u9a8c\uff0c\u652f\u6301DoH\uff0cDoT\u3002",
+        "languages": {
+            "C": 1166558,
+            "C++": 302384,
+            "Shell": 93892,
+            "JavaScript": 66384,
+            "Lua": 48666,
+            "Makefile": 9778,
+            "Dockerfile": 1640,
+            "Batchfile": 1466,
+            "HTML": 818,
+            "VBScript": 102
+        }
+    },
+    {
+        "name": "libsql",
+        "description": "libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",
+        "languages": {
+            "C": 43958663,
+            "Rust": 3411795,
+            "Tcl": 1028788,
+            "JavaScript": 857603,
+            "Shell": 643876,
+            "Java": 555788,
+            "Makefile": 232441,
+            "M4": 224310,
+            "HTML": 143551,
+            "Yacc": 135807,
+            "PLpgSQL": 40286,
+            "Batchfile": 37908,
+            "Python": 25624,
+            "C#": 23719,
+            "Lua": 17430,
+            "CMake": 15345,
+            "C++": 14408,
+            "Roff": 4834,
+            "CSS": 3629,
+            "Dockerfile": 1565,
+            "RenderScript": 640
+        }
+    },
+    {
+        "name": "yara",
+        "description": "The pattern matching swiss knife",
+        "languages": {
+            "C": 2921979,
+            "Yacc": 108984,
+            "Lex": 46026,
+            "C++": 46003,
+            "Starlark": 33327,
+            "M4": 27377,
+            "Makefile": 10568,
+            "Roff": 5648,
+            "JavaScript": 2903,
+            "Shell": 1808,
+            "YARA": 1545,
+            "HTML": 1462
+        }
+    },
+    {
+        "name": "quickjs",
+        "description": "Public repository of the QuickJS Javascript Engine.",
+        "languages": {
+            "C": 2854809,
+            "JavaScript": 236764,
+            "Makefile": 14737,
+            "Shell": 3815
+        }
+    },
+    {
+        "name": "nodemcu-firmware",
+        "description": "Lua based interactive firmware for ESP8266, ESP8285 and ESP32",
+        "languages": {
+            "C": 11337820,
+            "Lua": 671852,
+            "Makefile": 85173,
+            "C++": 29289,
+            "Python": 17073,
+            "Shell": 14671,
+            "Tcl": 10995,
+            "Assembly": 8901,
+            "HTML": 8441,
+            "GDB": 853
+        }
+    },
+    {
+        "name": "WSL2-Linux-Kernel",
+        "description": "The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)",
+        "languages": {
+            "C": 976967127,
+            "Assembly": 9393469,
+            "Shell": 3158726,
+            "Makefile": 2229199,
+            "Python": 1195469,
+            "Perl": 1179532,
+            "C++": 286534,
+            "Roff": 174677,
+            "SmPL": 159177,
+            "Yacc": 121264,
+            "Lex": 62676,
+            "Awk": 46312,
+            "UnrealScript": 17732,
+            "Gherkin": 8658,
+            "Raku": 3859,
+            "M4": 3325,
+            "Clojure": 1805,
+            "XS": 1239,
+            "sed": 379
+        }
+    },
+    {
+        "name": "json-tutorial",
+        "description": "\u4ece\u96f6\u5f00\u59cb\u7684 JSON \u5e93\u6559\u7a0b",
+        "languages": {
+            "C": 324974,
+            "CMake": 4470,
+            "Makefile": 444
+        }
+    },
+    {
+        "name": "bspwm",
+        "description": "A tiling window manager based on binary space partitioning",
+        "languages": {
+            "C": 407884,
+            "Shell": 7897,
+            "Makefile": 2762
+        }
+    },
+    {
+        "name": "ElectronBot",
+        "description": null,
+        "languages": {
+            "C": 16691831,
+            "C#": 4939017,
+            "AutoHotkey": 195621,
+            "C++": 148153,
+            "ShaderLab": 116206,
+            "Assembly": 55400,
+            "CMake": 15192,
+            "HTML": 11585,
+            "GLSL": 10141,
+            "HLSL": 2788,
+            "Smalltalk": 902
+        }
+    },
+    {
+        "name": "no-more-secrets",
+        "description": "A command line tool that recreates the famous data decryption effect seen in the 1992 movie Sneakers.",
+        "languages": {
+            "C": 36657,
+            "Roff": 2247,
+            "Makefile": 1539
+        }
+    },
+    {
+        "name": "go-sqlite3",
+        "description": "sqlite3 driver for go using database/sql",
+        "languages": {
+            "C": 9715405,
+            "Go": 347538,
+            "C++": 33473,
+            "Dockerfile": 1520,
+            "Makefile": 1048
+        }
+    },
+    {
+        "name": "xv6-public",
+        "description": "xv6 OS",
+        "languages": {
+            "C": 186275,
+            "C++": 11582,
+            "Assembly": 9523,
+            "Makefile": 8445,
+            "Shell": 5784,
+            "Perl": 5185,
+            "Objective-C": 3535,
+            "Ruby": 2575,
+            "OpenEdge ABL": 1990,
+            "Emacs Lisp": 86
+        }
+    },
+    {
+        "name": "nvtop",
+        "description": "GPU & Accelerator process monitoring for AMD, Apple, Huawei, Intel, NVIDIA and Qualcomm",
+        "languages": {
+            "C": 611991,
+            "CMake": 50651,
+            "C++": 9913,
+            "Objective-C": 9272,
+            "Shell": 3126,
+            "Dockerfile": 1249
+        }
+    },
+    {
+        "name": "ttyd",
+        "description": "Share your terminal over the web",
+        "languages": {
+            "C": 64754,
+            "TypeScript": 30638,
+            "Shell": 7599,
+            "JavaScript": 4825,
+            "CMake": 4608,
+            "SCSS": 1627,
+            "HTML": 671,
+            "Dockerfile": 301
+        }
+    },
+    {
+        "name": "sm64",
+        "description": "A Super Mario 64 decompilation, brought to you by a bunch of clever folks.",
+        "languages": {
+            "C": 31068435,
+            "C++": 1425891,
+            "Assembly": 351335,
+            "Python": 269543,
+            "SourcePawn": 125799,
+            "Makefile": 58815,
+            "Shell": 5988,
+            "JavaScript": 5981,
+            "OpenEdge ABL": 1365,
+            "Dockerfile": 453
+        }
+    },
+    {
+        "name": "librdkafka",
+        "description": "The Apache Kafka C/C++ library",
+        "languages": {
+            "C": 7658979,
+            "C++": 668063,
+            "Shell": 161336,
+            "Python": 112551,
+            "CMake": 31085,
+            "Makefile": 16560,
+            "Java": 13004,
+            "PowerShell": 4255,
+            "jq": 1065,
+            "Batchfile": 678,
+            "Emacs Lisp": 305,
+            "GDB": 199
+        }
+    },
+    {
+        "name": "L-ink_Card",
+        "description": "Smart NFC & ink-Display Card",
+        "languages": {
+            "C": 25504060,
+            "Makefile": 491565,
+            "C++": 389182,
+            "Python": 307829,
+            "Assembly": 205805,
+            "CMake": 67952,
+            "Batchfile": 9408,
+            "Objective-C": 8992,
+            "Shell": 4465
+        }
+    },
+    {
+        "name": "unicorn",
+        "description": "Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)",
+        "languages": {
+            "C": 16793040,
+            "Python": 333511,
+            "Java": 302012,
+            "Pascal": 153761,
+            "F#": 144375,
+            "Shell": 141277,
+            "Ruby": 124185,
+            "Rust": 108652,
+            "Haskell": 105350,
+            "Go": 103271,
+            "VBA": 93626,
+            "C++": 80815,
+            "CMake": 51814,
+            "Objective-C": 41703,
+            "Visual Basic 6.0": 34063,
+            "Makefile": 21924,
+            "C#": 18592,
+            "Assembly": 2020
+        }
+    },
+    {
+        "name": "kilo",
+        "description": "A text editor in less than 1000 LOC with syntax highlight and search.",
+        "languages": {
+            "C": 41598,
+            "Makefile": 91
+        }
+    },
+    {
+        "name": "ccv",
+        "description": "C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library",
+        "languages": {
+            "C": 25036595,
+            "Cuda": 961265,
+            "Objective-C": 512418,
+            "C++": 264012,
+            "HTML": 224832,
+            "Python": 52270,
+            "Makefile": 51542,
+            "Ruby": 45225,
+            "SourcePawn": 33490,
+            "Starlark": 26733,
+            "Ragel": 21876,
+            "JavaScript": 17225,
+            "CSS": 13213,
+            "M4": 10562,
+            "Shell": 1728,
+            "Smarty": 1475
+        }
+    },
+    {
+        "name": "capstone",
+        "description": "Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), BPF, Ethereum VM, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.",
+        "languages": {
+            "C": 45086015,
+            "C++": 6306115,
+            "C#": 1986213,
+            "Python": 1184941,
+            "Java": 741058,
+            "OCaml": 414277,
+            "Visual Basic 6.0": 104416,
+            "Makefile": 48773,
+            "Smalltalk": 35230,
+            "CMake": 29742,
+            "Shell": 26052,
+            "PowerShell": 20710,
+            "Cython": 15405,
+            "Batchfile": 14798,
+            "Ruby": 11973,
+            "VBA": 10054,
+            "Tcl": 1339
+        }
+    },
+    {
+        "name": "lab",
+        "description": "A customisable 3D platform for agent-based AI research",
+        "languages": {
+            "C": 12886842,
+            "Lua": 1325159,
+            "C++": 1025625,
+            "GLSL": 151382,
+            "Python": 140986,
+            "ShaderLab": 109219,
+            "Starlark": 87059,
+            "HTML": 69263,
+            "Assembly": 25861,
+            "Roff": 21060,
+            "Shell": 6050,
+            "Yacc": 4260,
+            "Objective-C": 3253,
+            "Perl": 944,
+            "Makefile": 829
+        }
+    },
+    {
+        "name": "smallchat",
+        "description": "A minimal programming example for a chat server",
+        "languages": {
+            "C": 26543,
+            "Makefile": 352
+        }
+    },
+    {
+        "name": "wasm3",
+        "description": "\ud83d\ude80 A fast WebAssembly interpreter and the most universal WASM runtime",
+        "languages": {
+            "C": 1145646,
+            "C++": 47251,
+            "Python": 35290,
+            "CMake": 12206,
+            "Makefile": 9215,
+            "Shell": 5314,
+            "JavaScript": 4025,
+            "Swift": 3009,
+            "Java": 1431,
+            "Assembly": 1413,
+            "WebAssembly": 1378,
+            "Zig": 1172,
+            "Lua": 130
+        }
+    },
+    {
+        "name": "pygame",
+        "description": "\ud83d\udc0d\ud83c\udfae pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.",
+        "languages": {
+            "C": 2912902,
+            "Python": 2395028,
+            "Cython": 172471,
+            "Shell": 36285,
+            "Objective-C": 10656,
+            "C++": 4070,
+            "Batchfile": 3454,
+            "Makefile": 3253,
+            "PowerShell": 1059
+        }
+    },
+    {
+        "name": "how2heap",
+        "description": "A repository for learning various heap exploitation techniques.",
+        "languages": {
+            "C": 1194054,
+            "Makefile": 6583,
+            "Shell": 4364,
+            "Dockerfile": 405
+        }
+    },
+    {
+        "name": "endlessh",
+        "description": "SSH tarpit that slowly sends an endless banner",
+        "languages": {
+            "C": 23489,
+            "Shell": 2582,
+            "Roff": 1968,
+            "Python": 1093,
+            "Makefile": 498,
+            "Dockerfile": 202
+        }
+    },
+    {
+        "name": "Quake-III-Arena",
+        "description": "Quake III Arena GPL Source Release",
+        "languages": {
+            "C": 11115785,
+            "C++": 1917454,
+            "Objective-C": 153968,
+            "Rust": 116759,
+            "Assembly": 43048,
+            "Shell": 26862,
+            "Perl": 5396
+        }
+    },
+    {
+        "name": "jerryscript",
+        "description": "Ultra-lightweight JavaScript engine for the Internet of Things.",
+        "languages": {
+            "C": 6090571,
+            "JavaScript": 2151160,
+            "Python": 237353,
+            "CMake": 84728,
+            "Shell": 45416,
+            "C++": 8358,
+            "Makefile": 7047,
+            "Batchfile": 2635,
+            "Assembly": 1421
+        }
     }
 ]

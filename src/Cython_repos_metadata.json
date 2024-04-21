@@ -55,5 +55,1859 @@
             "Makefile": 591,
             "Shell": 403
         }
+    },
+    {
+        "name": "pyimgui",
+        "description": "Cython-based Python bindings for dear imgui",
+        "languages": {
+            "Cython": 582987,
+            "Python": 151393,
+            "C++": 24762,
+            "Shell": 2040,
+            "Makefile": 1724,
+            "C": 1558,
+            "Batchfile": 1532
+        }
+    },
+    {
+        "name": "marisa-trie",
+        "description": "Static memory-efficient Trie-like structures for Python based on marisa-trie C++ library.",
+        "languages": {
+            "Cython": 31133,
+            "Python": 30423,
+            "Shell": 51
+        }
+    },
+    {
+        "name": "selectolax",
+        "description": "Python binding to Modest and Lexbor engines (fast HTML5 parser with CSS selectors).",
+        "languages": {
+            "Cython": 143477,
+            "Python": 44173,
+            "Makefile": 2380
+        }
+    },
+    {
+        "name": "pyql",
+        "description": "Cython QuantLib wrappers",
+        "languages": {
+            "Cython": 772641,
+            "Python": 371100,
+            "C++": 5956,
+            "Makefile": 891
+        }
+    },
+    {
+        "name": "pysam",
+        "description": "Pysam is a Python package for reading, manipulating, and writing genomics data such as SAM/BAM/CRAM and VCF/BCF files. It's a lightweight wrapper of the HTSlib API, the same one that powers samtools, bcftools, and tabix.",
+        "languages": {
+            "Cython": 684817,
+            "Python": 443489,
+            "C": 93650,
+            "Shell": 13624,
+            "Makefile": 3824,
+            "Perl": 1822,
+            "Dockerfile": 306
+        }
+    },
+    {
+        "name": "netcdf4-python",
+        "description": "netcdf4-python: python/numpy interface to the netCDF C library",
+        "languages": {
+            "Cython": 332550,
+            "Python": 293842,
+            "C": 6526,
+            "Shell": 186
+        }
+    },
+    {
+        "name": "Python-Wrapper-for-World-Vocoder",
+        "description": "A Python wrapper for the high-quality vocoder \"World\"",
+        "languages": {
+            "Cython": 24133,
+            "Python": 2075
+        }
+    },
+    {
+        "name": "MACS",
+        "description": "MACS -- Model-based Analysis of ChIP-Seq",
+        "languages": {
+            "Cython": 629190,
+            "Python": 330330,
+            "C": 215881,
+            "Shell": 38084,
+            "C++": 10635,
+            "Makefile": 1433
+        }
+    },
+    {
+        "name": "youbit",
+        "description": "Host any type of file on YouTube",
+        "languages": {
+            "Cython": 64993,
+            "Python": 58290
+        }
+    },
+    {
+        "name": "LilySurfaceScraper",
+        "description": "Import shaders end environments in Blender from a single URL",
+        "languages": {
+            "Cython": 1814396,
+            "C": 1388888,
+            "Python": 549553,
+            "XSLT": 306958,
+            "C++": 39648
+        }
+    },
+    {
+        "name": "rawpy",
+        "description": "\ud83d\udcf7 RAW image processing for Python, a wrapper for libraw",
+        "languages": {
+            "Cython": 45156,
+            "Python": 42712,
+            "C": 3866
+        }
+    },
+    {
+        "name": "plyvel",
+        "description": "Plyvel, a fast and feature-rich Python interface to LevelDB",
+        "languages": {
+            "Cython": 41205,
+            "Python": 32691,
+            "C++": 3059,
+            "Shell": 1345,
+            "Makefile": 894,
+            "Dockerfile": 332,
+            "C": 188
+        }
+    },
+    {
+        "name": "pyslurm",
+        "description": "Python Interface to Slurm",
+        "languages": {
+            "Cython": 863613,
+            "Python": 139272,
+            "C": 5185,
+            "Shell": 3475
+        }
+    },
+    {
+        "name": "pycapnp",
+        "description": "Cap'n Proto serialization/RPC system - Python bindings",
+        "languages": {
+            "Cython": 240570,
+            "Python": 134289,
+            "Cap'n Proto": 13566,
+            "C++": 10609,
+            "C": 2027,
+            "Shell": 268
+        }
+    },
+    {
+        "name": "TsetlinMachine",
+        "description": "Code and datasets for the Tsetlin Machine",
+        "languages": {
+            "Cython": 23048,
+            "Python": 4072
+        }
+    },
+    {
+        "name": "Pyfhel",
+        "description": "PYthon For Homomorphic Encryption Libraries, perform encrypted computations such as sum, mult, scalar product or matrix multiplication in Python, with NumPy compatibility. Uses SEAL/PALISADE as backends, implemented using Cython.",
+        "languages": {
+            "Cython": 178414,
+            "C++": 83525,
+            "Python": 66646,
+            "Dockerfile": 759,
+            "CMake": 337
+        }
+    },
+    {
+        "name": "cymem",
+        "description": "\ud83d\udca5  Cython memory pool for RAII-style memory management",
+        "languages": {
+            "Cython": 6371,
+            "Python": 5025,
+            "Shell": 324
+        }
+    },
+    {
+        "name": "cyvcf2",
+        "description": "cython + htslib == fast VCF and BCF processing",
+        "languages": {
+            "Cython": 103402,
+            "Python": 63551,
+            "C": 9193,
+            "Shell": 3373
+        }
+    },
+    {
+        "name": "python-rtmidi",
+        "description": "Python bindings for the cross-platform MIDI I/O library RtMidi",
+        "languages": {
+            "Cython": 39133,
+            "Python": 37361,
+            "Meson": 6951,
+            "Makefile": 2631,
+            "Shell": 346
+        }
+    },
+    {
+        "name": "mprpc",
+        "description": "A fast Python RPC library",
+        "languages": {
+            "Cython": 13173,
+            "Python": 7570,
+            "Shell": 32
+        }
+    },
+    {
+        "name": "pygrib",
+        "description": " Python interface for reading and writing GRIB data ",
+        "languages": {
+            "Cython": 84396,
+            "Python": 55134,
+            "C": 216
+        }
+    },
+    {
+        "name": "pypcap",
+        "description": "pypcap - python libpcap module, forked from code.google.com/p/pypcap",
+        "languages": {
+            "Cython": 19006,
+            "Python": 12366,
+            "C": 7504,
+            "Makefile": 921
+        }
+    },
+    {
+        "name": "syri",
+        "description": "Synteny and Rearrangement Identifier",
+        "languages": {
+            "Cython": 286915,
+            "Python": 90282,
+            "Shell": 3053
+        }
+    },
+    {
+        "name": "cython-hidapi",
+        "description": ":snake: Python wrapper for the HIDAPI",
+        "languages": {
+            "Cython": 14879,
+            "Python": 10061
+        }
+    },
+    {
+        "name": "neologdn",
+        "description": "Japanese text normalizer for mecab-neologd",
+        "languages": {
+            "Cython": 7894,
+            "Python": 7696,
+            "Jupyter Notebook": 4055,
+            "Shell": 103
+        }
+    },
+    {
+        "name": "pyslapi",
+        "description": "Python bindings for the official Sketchup API",
+        "languages": {
+            "Cython": 92511,
+            "Python": 43740
+        }
+    },
+    {
+        "name": "erlpack",
+        "description": "High Performance Erlang Term Format Packer",
+        "languages": {
+            "Cython": 21836,
+            "Python": 21681,
+            "C++": 19908,
+            "JavaScript": 13507,
+            "C": 11951,
+            "Elixir": 2535,
+            "Shell": 92
+        }
+    },
+    {
+        "name": "kloop",
+        "description": "OFFICIAL MIRROR. An asyncio event loop using Linux io_uring and kTLS.",
+        "languages": {
+            "Cython": 102077,
+            "Rust": 16360,
+            "Python": 9877,
+            "Makefile": 394
+        }
+    },
+    {
+        "name": "zed-python-api",
+        "description": "Python API for the ZED SDK",
+        "languages": {
+            "Cython": 638792,
+            "C++": 8486,
+            "Python": 6721
+        }
+    },
+    {
+        "name": "GMatch4py",
+        "description": "A graph matching library for Python",
+        "languages": {
+            "Cython": 99530,
+            "Python": 24157
+        }
+    },
+    {
+        "name": "symengine.py",
+        "description": "Python wrappers for SymEngine",
+        "languages": {
+            "Cython": 229161,
+            "Python": 204216,
+            "C++": 21179,
+            "CMake": 15649,
+            "Shell": 3111,
+            "Sage": 298
+        }
+    },
+    {
+        "name": "dna-fountain",
+        "description": "DNA-Fountain",
+        "languages": {
+            "Cython": 28436,
+            "Python": 28335
+        }
+    },
+    {
+        "name": "pyacvd",
+        "description": "Python implementation of surface mesh resampling algorithm ACVD",
+        "languages": {
+            "Cython": 35715,
+            "Python": 13903
+        }
+    },
+    {
+        "name": "scikit-sparse",
+        "description": "Sparse matrix tools extending scipy.sparse, but with incompatible licenses",
+        "languages": {
+            "Cython": 48315,
+            "Python": 26870,
+            "C": 633
+        }
+    },
+    {
+        "name": "mojimoji",
+        "description": "A fast converter between Japanese hankaku and zenkaku characters",
+        "languages": {
+            "Cython": 7600,
+            "Python": 1750
+        }
+    },
+    {
+        "name": "lensfunpy",
+        "description": "\ud83d\udcf7 Lens distortion correction for Python, a wrapper for lensfun",
+        "languages": {
+            "Cython": 32287,
+            "Python": 18962,
+            "C": 730
+        }
+    },
+    {
+        "name": "pylibfreenect2",
+        "description": "A python interface for libfreenect2",
+        "languages": {
+            "Cython": 53987,
+            "Python": 13317
+        }
+    },
+    {
+        "name": "primesieve-python",
+        "description": "Fast prime number generator. Python bindings for the primesieve C++ library",
+        "languages": {
+            "Cython": 11030,
+            "Python": 8025
+        }
+    },
+    {
+        "name": "ffpyplayer",
+        "description": "A cython implementation of an ffmpeg based player.",
+        "languages": {
+            "Cython": 333208,
+            "Python": 23980,
+            "Shell": 17408,
+            "C": 8144,
+            "Makefile": 220
+        }
+    },
+    {
+        "name": "pyrodigal",
+        "description": "Cython bindings and Python interface to Prodigal, an ORF finder for genomes and metagenomes. Now with SIMD!",
+        "languages": {
+            "Cython": 241108,
+            "Python": 116909,
+            "C": 35743,
+            "TeX": 5401,
+            "Shell": 2062
+        }
+    },
+    {
+        "name": "CythonGSL",
+        "description": "Cython interface for the GNU Scientific Library (GSL).",
+        "languages": {
+            "Cython": 434252,
+            "Python": 51260
+        }
+    },
+    {
+        "name": "python-flint",
+        "description": "Python bindings for Flint and Arb",
+        "languages": {
+            "Cython": 1109105,
+            "Python": 142147,
+            "Shell": 23995,
+            "Batchfile": 1344
+        }
+    },
+    {
+        "name": "MeshUDF",
+        "description": "Fast and Differentiable Meshing of Unsigned Distance Field Networks",
+        "languages": {
+            "Cython": 116620,
+            "Python": 67139
+        }
+    },
+    {
+        "name": "pyuvc",
+        "description": "python binding to libuvc",
+        "languages": {
+            "Cython": 86346,
+            "Python": 3884,
+            "CMake": 3344,
+            "PowerShell": 2820,
+            "Shell": 1393
+        }
+    },
+    {
+        "name": "gil_load",
+        "description": "Utility for measuring the fraction of time the CPython GIL is held",
+        "languages": {
+            "Cython": 26734,
+            "C": 5856,
+            "Python": 2770
+        }
+    },
+    {
+        "name": "eigency",
+        "description": "Cython interface to Eigen library",
+        "languages": {
+            "Cython": 67953,
+            "C++": 29735,
+            "Python": 15333
+        }
+    },
+    {
+        "name": "fpylll",
+        "description": "A Python interface for https://github.com/fplll/fplll",
+        "languages": {
+            "Cython": 475385,
+            "Python": 126498,
+            "Shell": 2796,
+            "C": 2195,
+            "C++": 1663,
+            "Dockerfile": 751
+        }
+    },
+    {
+        "name": "pyhmmer",
+        "description": "Cython bindings and Python interface to HMMER3.",
+        "languages": {
+            "Cython": 774064,
+            "Python": 411331,
+            "C": 14486,
+            "Clarion": 9269,
+            "Shell": 2027
+        }
+    },
+    {
+        "name": "fathon",
+        "description": "python package for DFA (Detrended Fluctuation Analysis) and related algorithms",
+        "languages": {
+            "Cython": 64083,
+            "Python": 36415,
+            "C": 33534,
+            "TeX": 3681,
+            "PowerShell": 197,
+            "Shell": 166
+        }
+    },
+    {
+        "name": "imagecodecs",
+        "description": "Image transformation, compression, and decompression codecs",
+        "languages": {
+            "Cython": 1322634,
+            "Python": 418634,
+            "C": 70195
+        }
+    },
+    {
+        "name": "vegas",
+        "description": "Adaptive multidimensional Monte Carlo integration.",
+        "languages": {
+            "Cython": 144627,
+            "Python": 125603,
+            "Makefile": 2849
+        }
+    },
+    {
+        "name": "RoboND-Perception-Exercises",
+        "description": "Perception Exercises for Robotics",
+        "languages": {
+            "Cython": 9902016,
+            "Python": 71360,
+            "C++": 28602,
+            "PowerShell": 22492,
+            "CMake": 14142,
+            "Makefile": 591,
+            "C": 264
+        }
+    },
+    {
+        "name": "cysystemd",
+        "description": "systemd wrapper on Cython",
+        "languages": {
+            "Cython": 22271,
+            "Python": 17154,
+            "Shell": 634,
+            "Makefile": 574
+        }
+    },
+    {
+        "name": "pdfparser",
+        "description": "Python binding to libpoppler with focus on text extraction",
+        "languages": {
+            "Cython": 15412,
+            "Python": 14132,
+            "Shell": 645
+        }
+    },
+    {
+        "name": "bitstream",
+        "description": "Binary Data for Humans",
+        "languages": {
+            "Cython": 60755,
+            "Python": 40243,
+            "HTML": 6626,
+            "TeX": 1796,
+            "Shell": 619
+        }
+    },
+    {
+        "name": "AMICO",
+        "description": "Accelerated Microstructure Imaging via Convex Optimization (AMICO) from diffusion MRI data",
+        "languages": {
+            "Cython": 98299,
+            "Python": 84112
+        }
+    },
+    {
+        "name": "cyac",
+        "description": "High performance Trie and Ahocorasick automata (AC automata) Keyword Match & Replace Tool for python",
+        "languages": {
+            "Cython": 75685,
+            "Python": 22562,
+            "C": 277,
+            "Shell": 127
+        }
+    },
+    {
+        "name": "thinc-apple-ops",
+        "description": "\ud83c\udf4f Make Thinc faster on macOS by calling into Apple's native Accelerate library",
+        "languages": {
+            "Cython": 4907,
+            "Python": 3335
+        }
+    },
+    {
+        "name": "pysoem",
+        "description": "Cython wrapper for the Simple Open EtherCAT Master Library",
+        "languages": {
+            "Cython": 57868,
+            "Python": 27916
+        }
+    },
+    {
+        "name": "DynamicWindowApproach",
+        "description": "The Dynamic Window Approach (DWA) planning algorithm written in C with Python Bindings",
+        "languages": {
+            "Cython": 13988,
+            "C": 5895,
+            "Python": 1409,
+            "CMake": 978
+        }
+    },
+    {
+        "name": "dysgu",
+        "description": "Toolkit for calling structural variants using short or long reads",
+        "languages": {
+            "Cython": 392520,
+            "Python": 199550,
+            "C++": 97415
+        }
+    },
+    {
+        "name": "wsaccel",
+        "description": "Accelerator for ws4py and AutobahnPython",
+        "languages": {
+            "Cython": 5043,
+            "Python": 4975,
+            "C": 1151,
+            "Makefile": 593
+        }
+    },
+    {
+        "name": "OASIS",
+        "description": "Deconvolution of calcium imaging data",
+        "languages": {
+            "Cython": 57954,
+            "Python": 37857
+        }
+    },
+    {
+        "name": "cprotobuf",
+        "description": "protocol buffer implemented in cython",
+        "languages": {
+            "Cython": 25022,
+            "Python": 24908,
+            "Shell": 891
+        }
+    },
+    {
+        "name": "Liburing",
+        "description": "Liburing is Python + Cython wrapper around C Liburing, which is a helper to setup and tear-down io_uring instances.",
+        "languages": {
+            "Cython": 256458,
+            "Python": 73910,
+            "C": 341
+        }
+    },
+    {
+        "name": "roaringbitmap",
+        "description": "Roaring Bitmap in Cython",
+        "languages": {
+            "Cython": 131382,
+            "Python": 35441,
+            "C": 9034,
+            "Makefile": 1192
+        }
+    },
+    {
+        "name": "preshed",
+        "description": "\ud83d\udca5 Cython hash tables that assume keys are pre-hashed",
+        "languages": {
+            "Cython": 25134,
+            "Python": 10775,
+            "C": 8101,
+            "Shell": 366
+        }
+    },
+    {
+        "name": "pyreaper",
+        "description": "A python wrapper for REAPER",
+        "languages": {
+            "Cython": 8293,
+            "Python": 5786
+        }
+    },
+    {
+        "name": "octomap-python",
+        "description": "Python binding of the OctoMap library.",
+        "languages": {
+            "Cython": 42495,
+            "Python": 9865,
+            "C": 208
+        }
+    },
+    {
+        "name": "py-libzfs",
+        "description": "Python libzfs bindings",
+        "languages": {
+            "Cython": 244268,
+            "M4": 34851,
+            "Python": 2475,
+            "Makefile": 378,
+            "Dockerfile": 247
+        }
+    },
+    {
+        "name": "GeosPy",
+        "description": "Highly optimized geolocation inference package for spatial approximation",
+        "languages": {
+            "Cython": 11938,
+            "Python": 9442,
+            "Makefile": 445
+        }
+    },
+    {
+        "name": "monotonic_align",
+        "description": "Monotonic Alignment Search",
+        "languages": {
+            "Cython": 13023,
+            "Python": 4248
+        }
+    },
+    {
+        "name": "pcl.py",
+        "description": "Templated python inferface for Point Cloud Library (PCL) based on Cython",
+        "languages": {
+            "Cython": 158184,
+            "Python": 35382,
+            "C++": 4792,
+            "CMake": 3982,
+            "Dockerfile": 936,
+            "PowerShell": 241
+        }
+    },
+    {
+        "name": "bitermplus",
+        "description": "Biterm Topic Model (BTM): modeling topics in short texts",
+        "languages": {
+            "Cython": 26653,
+            "Python": 12206
+        }
+    },
+    {
+        "name": "mkl-service",
+        "description": "Python hooks for Intel(R) Math Kernel Library runtime control settings.",
+        "languages": {
+            "Cython": 38253,
+            "Python": 17910,
+            "C": 6166,
+            "Batchfile": 161,
+            "Shell": 158
+        }
+    },
+    {
+        "name": "pyNFFT",
+        "description": "A pythonic wrapper around the NFFT library",
+        "languages": {
+            "Cython": 36407,
+            "Python": 14260
+        }
+    },
+    {
+        "name": "PyCriUsm",
+        "description": "a python script to decrypt and demux Honkai: Star Rail cutscene video",
+        "languages": {
+            "Cython": 14640,
+            "Python": 11999
+        }
+    },
+    {
+        "name": "uharfbuzz",
+        "description": "A HarfBuzz Python binding",
+        "languages": {
+            "Cython": 152519,
+            "Python": 58742,
+            "C++": 1642
+        }
+    },
+    {
+        "name": "credis",
+        "description": "redis client implement with cython",
+        "languages": {
+            "Cython": 12820,
+            "Python": 7405
+        }
+    },
+    {
+        "name": "TIDDIT",
+        "description": "TIDDIT - structural variant calling",
+        "languages": {
+            "Cython": 54963,
+            "Python": 21177,
+            "Roff": 3552,
+            "Dockerfile": 1414,
+            "Singularity": 1035,
+            "CMake": 1012
+        }
+    },
+    {
+        "name": "affinegap",
+        "description": ":triangular_ruler: A Cython implementation of the affine gap string distance",
+        "languages": {
+            "Cython": 4771,
+            "Python": 3606
+        }
+    },
+    {
+        "name": "iterative-Random-Forest",
+        "description": "Python implementation of iterative-random-forests",
+        "languages": {
+            "Cython": 205979,
+            "Python": 198064
+        }
+    },
+    {
+        "name": "Winloop",
+        "description": "An Alternative library for uvloop compatability with windows ",
+        "languages": {
+            "Cython": 390767,
+            "Python": 46153,
+            "HTML": 21967,
+            "C": 9349
+        }
+    },
+    {
+        "name": "sqlite-vtfunc",
+        "description": "Implement SQLite table-valued functions with Python",
+        "languages": {
+            "Cython": 20791,
+            "Python": 9537,
+            "C": 9175
+        }
+    },
+    {
+        "name": "py-toxcore-c",
+        "description": "Python binding for Project-Tox the skype replacement.",
+        "languages": {
+            "Cython": 137283,
+            "Python": 83181,
+            "Starlark": 1618,
+            "Dockerfile": 1346,
+            "Shell": 485,
+            "Makefile": 345
+        }
+    },
+    {
+        "name": "pylibssh",
+        "description": "Python bindings specific to Ansible use case for libssh https://www.libssh.org/",
+        "languages": {
+            "Cython": 67091,
+            "Python": 40796,
+            "Shell": 20850,
+            "Dockerfile": 1038
+        }
+    },
+    {
+        "name": "epic2",
+        "description": "Ultraperformant reimplementation of SICER",
+        "languages": {
+            "Cython": 88459,
+            "Python": 39773,
+            "C++": 15277,
+            "Shell": 702
+        }
+    },
+    {
+        "name": "Pylians3",
+        "description": "Libraries to analyze numerical simulations (python3)",
+        "languages": {
+            "Cython": 348812,
+            "Python": 312227,
+            "C": 24027
+        }
+    },
+    {
+        "name": "pyenet",
+        "description": "A python wrapper for the ENet library",
+        "languages": {
+            "Cython": 34114,
+            "Python": 13680
+        }
+    },
+    {
+        "name": "ldpc",
+        "description": "A belief propagation decoder for low density parity check (LDPC) codes ",
+        "languages": {
+            "Cython": 62132,
+            "C": 51168,
+            "Python": 40385
+        }
+    },
+    {
+        "name": "PySDD",
+        "description": "Python package for Sentential Decision Diagrams (SDD)",
+        "languages": {
+            "Cython": 88591,
+            "Python": 68215,
+            "C": 45646,
+            "Makefile": 1137
+        }
+    },
+    {
+        "name": "python-frog",
+        "description": "Python bindings to the dutch NLP tool Frog (pos tagger, lemmatiser, NER tagger, morphological analysis, shallow parser, dependency parser)",
+        "languages": {
+            "Cython": 17888,
+            "Shell": 5977,
+            "Python": 5637,
+            "Makefile": 1903,
+            "Dockerfile": 615
+        }
+    },
+    {
+        "name": "pyamgx",
+        "description": "GPU accelerated multigrid library for Python",
+        "languages": {
+            "Cython": 36503,
+            "Python": 23129,
+            "Nix": 2340,
+            "Makefile": 243,
+            "Shell": 202
+        }
+    },
+    {
+        "name": "skia-pathops",
+        "description": "Python bindings for the Skia library's Path Ops",
+        "languages": {
+            "Cython": 63399,
+            "Python": 55880
+        }
+    },
+    {
+        "name": "cython_pyinstaller_example",
+        "description": "A simple example repository describing the process of building a PyInstaller executable for a Cython-compiled program",
+        "languages": {
+            "Cython": 1135,
+            "Python": 1004,
+            "Shell": 286
+        }
+    },
+    {
+        "name": "lark_cython",
+        "description": "Cython plugin for Lark, reimplementing the LALR parser & lexer for better performance",
+        "languages": {
+            "Cython": 37406,
+            "Python": 5002,
+            "Shell": 141
+        }
+    },
+    {
+        "name": "cysignals",
+        "description": "cysignals: interrupt and signal handling for Cython",
+        "languages": {
+            "Cython": 88080,
+            "C": 42312,
+            "Python": 25363,
+            "M4": 5897,
+            "Makefile": 4126,
+            "C++": 3717
+        }
+    },
+    {
+        "name": "jxlpy",
+        "description": "Cython bindings and Pillow plugin for JPEG XL",
+        "languages": {
+            "Cython": 45320,
+            "Python": 5949
+        }
+    },
+    {
+        "name": "chatnoir-resiliparse",
+        "description": "A robust web archive analytics toolkit",
+        "languages": {
+            "Cython": 336381,
+            "Python": 189960,
+            "C": 82428,
+            "C++": 4917,
+            "Dockerfile": 2316,
+            "CMake": 1831
+        }
+    },
+    {
+        "name": "freesasa-python",
+        "description": "FreeSASA Python Module",
+        "languages": {
+            "Cython": 47738,
+            "Python": 28332,
+            "C": 367
+        }
+    },
+    {
+        "name": "sweepea",
+        "description": "Fast, lightweight Python database toolkit for SQLite, built with Cython.",
+        "languages": {
+            "Cython": 104281,
+            "Python": 59403,
+            "C": 50355
+        }
+    },
+    {
+        "name": "WiPiCap",
+        "description": "WiPiCap: DIg into Wi-Fi Beamforming Report",
+        "languages": {
+            "Cython": 7212,
+            "Python": 247
+        }
+    },
+    {
+        "name": "pystokes",
+        "description": "PyStokes: phoresis and Stokesian hydrodynamics in Python ",
+        "languages": {
+            "Cython": 401474,
+            "Python": 14260,
+            "Makefile": 1053
+        }
+    },
+    {
+        "name": "CPT",
+        "description": "Compact Prediction Tree: A Lossless Model for Accurate Sequence Prediction (cython implementation)",
+        "languages": {
+            "Cython": 22029,
+            "Python": 9905,
+            "C++": 5875,
+            "Batchfile": 3452,
+            "Shell": 1496,
+            "Makefile": 940
+        }
+    },
+    {
+        "name": "psychxr",
+        "description": "Python extension library for interacting with eXtended Reality displays, intended for research in neuroscience and psychology.",
+        "languages": {
+            "Cython": 498090,
+            "C": 32160,
+            "Python": 25911
+        }
+    },
+    {
+        "name": "pyxpdf",
+        "description": "Fast and memory-efficient Python PDF Parser based on xpdf sources",
+        "languages": {
+            "Cython": 230899,
+            "Python": 75341,
+            "C++": 16825,
+            "Makefile": 4158,
+            "Shell": 3782,
+            "C": 78
+        }
+    },
+    {
+        "name": "phasedibd",
+        "description": "Identity-by-descent inference using the templated positional Burrows-Wheeler transform (TPBWT)",
+        "languages": {
+            "Cython": 93851,
+            "Python": 8436,
+            "Makefile": 630
+        }
+    },
+    {
+        "name": "goodpoints",
+        "description": "A Python package for generating concise, high-quality summaries of a probability distribution",
+        "languages": {
+            "Cython": 111878,
+            "Python": 99885,
+            "Shell": 366
+        }
+    },
+    {
+        "name": "python-umonitor",
+        "description": "Manage monitor configuration automatically.",
+        "languages": {
+            "Cython": 24808,
+            "Python": 12191
+        }
+    },
+    {
+        "name": "gevent_snmp",
+        "description": "SNMP via gevent",
+        "languages": {
+            "Cython": 38858,
+            "Python": 5558,
+            "Shell": 700
+        }
+    },
+    {
+        "name": "numpythia",
+        "description": "The interface between PYTHIA and NumPy",
+        "languages": {
+            "Cython": 32039,
+            "C++": 9028,
+            "Python": 6613,
+            "Makefile": 1007,
+            "C": 412
+        }
+    },
+    {
+        "name": "py-pgproto",
+        "description": "Low-level IO utilities for PosgtreSQL drivers.",
+        "languages": {
+            "Cython": 102928,
+            "Python": 13415,
+            "C": 6397
+        }
+    },
+    {
+        "name": "HORAYZON",
+        "description": "Package to efficiently compute terrain parameters (like horizon, sky view factor, topographic openness, slope angle/aspect) from high-resolution digital elevation model (DEM) data. The package also allows to compute shadow maps and correction factors for downwelling direct shortwave radiation for specific sun positions. ",
+        "languages": {
+            "Cython": 75773,
+            "C++": 58185,
+            "Python": 55064,
+            "C": 1000
+        }
+    },
+    {
+        "name": "dlltracer-python",
+        "description": "A DLL load tracing tool for CPython",
+        "languages": {
+            "Cython": 11761,
+            "Python": 4928,
+            "C": 263
+        }
+    },
+    {
+        "name": "dxfeed-python-api",
+        "description": "dxFeed Python API based on dxFeed C API",
+        "languages": {
+            "Cython": 133077,
+            "Python": 34270
+        }
+    },
+    {
+        "name": "zydis-py",
+        "description": "Zydis Python Bindings (Work In Progress)",
+        "languages": {
+            "Cython": 123981,
+            "Python": 65249,
+            "C": 1943,
+            "Makefile": 830
+        }
+    },
+    {
+        "name": "cypari2",
+        "description": "Python interface to the number theory library PARI/GP",
+        "languages": {
+            "Cython": 443668,
+            "Python": 56134,
+            "C": 2653,
+            "Shell": 714,
+            "Makefile": 435
+        }
+    },
+    {
+        "name": "python-ucto",
+        "description": "This is a Python binding to the tokenizer Ucto. Tokenisation is one of the first step in almost any Natural Language Processing task, yet it is not always as trivial a task as it appears to be. This binding makes the power of the ucto tokeniser available to Python. Ucto itself is regular-expression based, extensible, and advanced tokeniser written in C++ (http://ilk.uvt.nl/ucto).",
+        "languages": {
+            "Cython": 10403,
+            "Shell": 5844,
+            "Python": 5386,
+            "Makefile": 1903,
+            "Dockerfile": 539
+        }
+    },
+    {
+        "name": "srilm-python",
+        "description": "Python binding for SRI Language Modeling Toolkit implemented in Cython",
+        "languages": {
+            "Cython": 51303,
+            "Python": 26227,
+            "Shell": 2221,
+            "Makefile": 532
+        }
+    },
+    {
+        "name": "flitter",
+        "description": "A functional programming language and declarative system for describing 2D and 3D visuals",
+        "languages": {
+            "Cython": 404745,
+            "Python": 307087,
+            "GLSL": 11544
+        }
+    },
+    {
+        "name": "torchqtm",
+        "description": "TorchQuantum is a backtesting framework that integrates the structure of PyTorch and WorldQuant's Operator for efficient quantitative financial analysis.",
+        "languages": {
+            "Cython": 1105921,
+            "C": 525243,
+            "Python": 350028,
+            "Makefile": 582
+        }
+    },
+    {
+        "name": "cexprtk",
+        "description": "cexprtk is a cython wrapper around \"C++ Mathematical Expression Toolkit Library (ExprTk)\". Using cexprtk a powerful mathematical expression engine can be incorporated into your python project.",
+        "languages": {
+            "Cython": 60773,
+            "Python": 55364,
+            "C++": 54785,
+            "Shell": 2228,
+            "Batchfile": 2184
+        }
+    },
+    {
+        "name": "python-rocksdb",
+        "description": "Python bindings for RocksDB used by faust-streaming",
+        "languages": {
+            "Cython": 147270,
+            "Python": 45881,
+            "C++": 14155,
+            "Dockerfile": 1017
+        }
+    },
+    {
+        "name": "fastmat",
+        "description": "A library to build up lazily evaluated expressions of linear transforms for efficient scientific computing.",
+        "languages": {
+            "Cython": 487902,
+            "Python": 240514,
+            "Makefile": 8456,
+            "C": 874
+        }
+    },
+    {
+        "name": "aimrocks",
+        "description": "\ud83c\udfaf aimrocks \ud83c\udfb8 \u2014 python & cython bindings for RocksDB.  Batteries included! \ud83d\udd0b",
+        "languages": {
+            "Cython": 132498,
+            "Python": 82430,
+            "C++": 14155,
+            "Shell": 3954,
+            "Dockerfile": 856
+        }
+    },
+    {
+        "name": "python-djvulibre",
+        "description": "Python interface to DjVuLibre",
+        "languages": {
+            "Cython": 158100,
+            "Python": 99670,
+            "Shell": 4103,
+            "TeX": 1224,
+            "Makefile": 894
+        }
+    },
+    {
+        "name": "PygameShader",
+        "description": "2D Game texture special effects",
+        "languages": {
+            "Cython": 933516,
+            "Python": 274132,
+            "C": 42657,
+            "Batchfile": 3803,
+            "Shell": 838
+        }
+    },
+    {
+        "name": "pygl",
+        "description": "PyGL: statistical field theory in Python ",
+        "languages": {
+            "Cython": 30405,
+            "Python": 13898,
+            "Makefile": 875
+        }
+    },
+    {
+        "name": "pyfastmp3decoder",
+        "description": "A fast MP3 decoder for python, using minimp3",
+        "languages": {
+            "Cython": 3981,
+            "Python": 2821
+        }
+    },
+    {
+        "name": "NTSC-VHS-Renderer",
+        "description": "Intuitive rendering and GUI for LMP88959/NTSC-CRT with effects",
+        "languages": {
+            "Cython": 117699,
+            "Python": 90083
+        }
+    },
+    {
+        "name": "pyamdgpuinfo",
+        "description": "AMD GPU stats",
+        "languages": {
+            "Cython": 27238,
+            "Python": 1193
+        }
+    },
+    {
+        "name": "intbitset",
+        "description": "Python C-based extension implementing fast integer bit sets",
+        "languages": {
+            "Cython": 32136,
+            "Python": 26665,
+            "C": 19603
+        }
+    },
+    {
+        "name": "kernelml",
+        "description": null,
+        "languages": {
+            "Cython": 27607,
+            "Python": 25386
+        }
+    },
+    {
+        "name": "upolygon",
+        "description": "Draw / find polygons fast without opencv, useful in machine learning pipelines. ",
+        "languages": {
+            "Cython": 18042,
+            "Python": 7563
+        }
+    },
+    {
+        "name": "cy-root",
+        "description": "Python package containing root-finding methods written in Cython",
+        "languages": {
+            "Cython": 298726,
+            "Python": 11704
+        }
+    },
+    {
+        "name": "python-optix",
+        "description": "Python wrapper for the OptiX 7 raytracing engine using Cython.",
+        "languages": {
+            "Cython": 221524,
+            "Python": 12937,
+            "C++": 487
+        }
+    },
+    {
+        "name": "darts-clone-python",
+        "description": "Darts-clone python binding",
+        "languages": {
+            "Cython": 8546,
+            "Python": 4566,
+            "Shell": 440
+        }
+    },
+    {
+        "name": "MVacquire",
+        "description": "MVacquire provides a Python wrapper for the mvIMPACT Acquire library for image acquisition from MATRIX VISION, including support for GigEVision or USB3Vision cameras",
+        "languages": {
+            "Cython": 71801,
+            "Python": 8241,
+            "Batchfile": 39
+        }
+    },
+    {
+        "name": "ms_peak_picker",
+        "description": "A small library to provide peak picking for software processing mass spectrometry data",
+        "languages": {
+            "Cython": 173972,
+            "Python": 122120,
+            "Makefile": 185
+        }
+    },
+    {
+        "name": "python-embree",
+        "description": null,
+        "languages": {
+            "Cython": 33975,
+            "Python": 5129,
+            "Shell": 312,
+            "Batchfile": 176
+        }
+    },
+    {
+        "name": "structureboost",
+        "description": "Gradient boosting using categorical structure",
+        "languages": {
+            "Cython": 321947,
+            "Python": 58051
+        }
+    },
+    {
+        "name": "satsmooth",
+        "description": "Library for smoothing satellite signals",
+        "languages": {
+            "Cython": 386277,
+            "Python": 124617
+        }
+    },
+    {
+        "name": "athenian-api-open",
+        "description": "Open source bits of athenian-api.",
+        "languages": {
+            "Cython": 212794,
+            "C++": 57165,
+            "Python": 35164,
+            "C": 6727,
+            "Makefile": 994
+        }
+    },
+    {
+        "name": "cyobj",
+        "description": "A fast Wavefront .OBJ file reader/writer library for Python 3 written in Cython",
+        "languages": {
+            "Cython": 9141,
+            "Python": 4386
+        }
+    },
+    {
+        "name": "kaa",
+        "description": "KAA - Pythonic game engine for humans.",
+        "languages": {
+            "Cython": 255400,
+            "Python": 201796,
+            "C++": 9847,
+            "CMake": 3892,
+            "Shell": 2518
+        }
+    },
+    {
+        "name": "pyrsb",
+        "description": "PyRSB: a Python interface to the librsb Sparse Matrix library",
+        "languages": {
+            "Cython": 49118,
+            "Python": 47509,
+            "Makefile": 4418,
+            "Shell": 2771,
+            "Dockerfile": 1359,
+            "Gnuplot": 704,
+            "Awk": 673
+        }
+    },
+    {
+        "name": "pymap2d",
+        "description": "2D gridmap tools",
+        "languages": {
+            "Cython": 102195,
+            "Python": 93025
+        }
+    },
+    {
+        "name": "pycodec2",
+        "description": "Python's interface to codec 2",
+        "languages": {
+            "Cython": 6217,
+            "Python": 3676,
+            "Shell": 2526,
+            "Dockerfile": 573,
+            "JavaScript": 85
+        }
+    },
+    {
+        "name": "py-veo",
+        "description": "Python bindings for VE Offloading (VEO) for SX-Aurora Vector Engine",
+        "languages": {
+            "Cython": 34318,
+            "Python": 16051,
+            "Makefile": 1007
+        }
+    },
+    {
+        "name": "pymuscle5",
+        "description": "Cython bindings and Python interface to MUSCLE v5, a highly efficient and accurate multiple sequence alignment software.",
+        "languages": {
+            "Cython": 32897,
+            "Python": 16014,
+            "C": 308
+        }
+    },
+    {
+        "name": "leafy",
+        "description": "Cython graph algorithms",
+        "languages": {
+            "Cython": 41718,
+            "Python": 16323,
+            "C": 27
+        }
+    },
+    {
+        "name": "pytrimal",
+        "description": "Cython bindings and Python interface to trimAl, a tool for automated alignment trimming. Now with SIMD!",
+        "languages": {
+            "Cython": 111025,
+            "Python": 82405,
+            "C++": 51900,
+            "Clarion": 244
+        }
+    },
+    {
+        "name": "CPDB",
+        "description": "Cython implementation of PDB -> DataFrame parsing",
+        "languages": {
+            "Cython": 11943,
+            "Jupyter Notebook": 11698,
+            "Python": 4957
+        }
+    },
+    {
+        "name": "python-zephyr",
+        "description": "Python bindings for the Zephyr messaging library",
+        "languages": {
+            "Cython": 11607,
+            "Python": 2078,
+            "C": 992
+        }
+    },
+    {
+        "name": "PicoscenesToolbox",
+        "description": "An official tool to parsing picosecenes files",
+        "languages": {
+            "Cython": 18299,
+            "Python": 2273
+        }
+    },
+    {
+        "name": "CyDifflib",
+        "description": "CyDifflib is a fast implementation of difflib's algorithms, which can be used as a drop-in replacement.",
+        "languages": {
+            "Cython": 84968,
+            "Python": 26298,
+            "CMake": 1185,
+            "Shell": 204
+        }
+    },
+    {
+        "name": "chromatic_aberration_filtering",
+        "description": "Implementation of the TIP'13 paper \"Correction of Axial and Lateral Chromatic Aberration With False Color Filtering\" by Joonyoung Chang, Hee Kang and Moon Gi Kang.",
+        "languages": {
+            "Cython": 18909,
+            "Python": 15841,
+            "Shell": 64
+        }
+    },
+    {
+        "name": "rotpy",
+        "description": "Python bindings for the Spinnaker SDK to enable Pythonic control of Teledyne/FLIR/Point Grey USB and GigE cameras.",
+        "languages": {
+            "Cython": 1094021,
+            "Python": 26451,
+            "C++": 6745
+        }
+    },
+    {
+        "name": "pugixmltodict",
+        "description": null,
+        "languages": {
+            "Cython": 9112,
+            "Python": 4448
+        }
+    },
+    {
+        "name": "pyzfp",
+        "description": "Python wrapper for the ZFP Compression library",
+        "languages": {
+            "Cython": 11666,
+            "Python": 7736,
+            "Dockerfile": 2596,
+            "Makefile": 201
+        }
+    },
+    {
+        "name": "VGsim",
+        "description": "VGsim is a fast and scalable simulator of viral genealogies during global pandemic.",
+        "languages": {
+            "Cython": 135279,
+            "Python": 129956,
+            "Jupyter Notebook": 119982,
+            "Meson": 2574,
+            "R": 1329,
+            "Puppet": 203,
+            "Modula-3": 161,
+            "Smalltalk": 110
+        }
+    },
+    {
+        "name": "pyfastani",
+        "description": "Cython bindings and Python interface to FastANI, a method for fast whole-genome similarity estimation.",
+        "languages": {
+            "Cython": 71790,
+            "Python": 42609,
+            "C": 5759,
+            "C++": 3923,
+            "Shell": 1928
+        }
+    },
+    {
+        "name": "OMPy",
+        "description": "Python support for open.mp.",
+        "languages": {
+            "Cython": 4587,
+            "CMake": 1546,
+            "C++": 1524,
+            "Shell": 379
+        }
+    },
+    {
+        "name": "pyfe3d",
+        "description": "Finite elements for 3D problems in Python/Cython",
+        "languages": {
+            "Cython": 1594866,
+            "Python": 182581
+        }
+    },
+    {
+        "name": "pfft-python",
+        "description": "python binding of pfft",
+        "languages": {
+            "Cython": 76783,
+            "Python": 24692,
+            "Shell": 2392
+        }
+    },
+    {
+        "name": "scikit-lr",
+        "description": "Machine Learning package for Label Ranking problems in Python.",
+        "languages": {
+            "Cython": 189492,
+            "Python": 106375,
+            "Shell": 3272,
+            "Makefile": 1384,
+            "Dockerfile": 839
+        }
+    },
+    {
+        "name": "pylsf",
+        "description": "Python bindings for LSF",
+        "languages": {
+            "Cython": 157260,
+            "Python": 3093,
+            "Makefile": 201
+        }
+    },
+    {
+        "name": "cyminhook",
+        "description": "Hook functions using Python on Windows with MinHook",
+        "languages": {
+            "Cython": 7065,
+            "Python": 1822,
+            "CMake": 393
+        }
+    },
+    {
+        "name": "pyduktape2",
+        "description": "Embed the Duktape JS interpreter in Python, forking and develop based on https://github.com/stefano/pyduktape",
+        "languages": {
+            "Cython": 23823,
+            "Python": 13399,
+            "Makefile": 197,
+            "JavaScript": 114
+        }
+    },
+    {
+        "name": "python-wlsqm",
+        "description": "Weighted least squares meshless interpolator and differentiator.",
+        "languages": {
+            "Cython": 395070,
+            "Python": 11431,
+            "C": 120
+        }
+    },
+    {
+        "name": "Fisheye",
+        "description": "Fisheye lens",
+        "languages": {
+            "Cython": 8122,
+            "Python": 4796
+        }
+    },
+    {
+        "name": "PyGCGOpt",
+        "description": "Python interface and modeling environment for GCG",
+        "languages": {
+            "Cython": 169358,
+            "Python": 20203,
+            "Shell": 731
+        }
+    },
+    {
+        "name": "bamread",
+        "description": "Bam to Pandas DataFrame, quickly",
+        "languages": {
+            "Cython": 4627,
+            "Python": 2650
+        }
+    },
+    {
+        "name": "cypcap",
+        "description": "A Cython based Python binding for modern libpcap",
+        "languages": {
+            "Cython": 52844,
+            "Python": 25298,
+            "C": 3206
+        }
+    },
+    {
+        "name": "sklearn-quantile",
+        "description": null,
+        "languages": {
+            "Cython": 82119,
+            "Python": 23981
+        }
+    },
+    {
+        "name": "PYPrime-2.x",
+        "description": "PYPrime is an open source python based CPU and RAM benchmark",
+        "languages": {
+            "Cython": 7242
+        }
+    },
+    {
+        "name": "learningwithmuscles",
+        "description": "Repo for the paper: Learning with Muscles: Benefits for Data-Efficiency and Robustness in Anthropomorphic Tasks. https://al.is.mpg.de/publications/wochneretal22",
+        "languages": {
+            "Cython": 420448,
+            "Python": 270843,
+            "C": 89927,
+            "Makefile": 4022,
+            "Dockerfile": 2364,
+            "HTML": 71
+        }
+    },
+    {
+        "name": "turbobase64",
+        "description": "Cython bindings for Turbo Base64",
+        "languages": {
+            "Cython": 7805,
+            "C": 5287,
+            "Python": 2300
+        }
+    },
+    {
+        "name": "pylag",
+        "description": "Lagrangian modelling framework",
+        "languages": {
+            "Cython": 845274,
+            "Python": 528931,
+            "C++": 32498,
+            "Shell": 1883
+        }
+    },
+    {
+        "name": "PythonPlugin",
+        "description": "A plugin for open-ephys enabling the insertion of Cython into the open-ephys signal chain.",
+        "languages": {
+            "Cython": 85197,
+            "C++": 59482,
+            "Python": 34964,
+            "Jupyter Notebook": 3319,
+            "C": 3070,
+            "Makefile": 2480,
+            "Shell": 1172
+        }
+    },
+    {
+        "name": "ceODBC",
+        "description": "Python module for accessing databases using the ODBC API.",
+        "languages": {
+            "Cython": 66188,
+            "Python": 42532,
+            "PLpgSQL": 2967
+        }
+    },
+    {
+        "name": "mise",
+        "description": "Standalone code for the Multiresolution IsoSurface Extraction (MISE) from the paper Occupancy Networks: Learning 3D Reconstruction in Function Space",
+        "languages": {
+            "Cython": 12884,
+            "Python": 1463
+        }
+    },
+    {
+        "name": "os-signpost",
+        "description": "Wrapper for the macOS signpost API",
+        "languages": {
+            "Cython": 2244,
+            "Python": 1703,
+            "C": 404
+        }
+    },
+    {
+        "name": "graph-matching-core",
+        "description": "A Python/Cython package for graph edit distances and graph matching",
+        "languages": {
+            "Cython": 45965,
+            "Python": 22726
+        }
+    },
+    {
+        "name": "euler2d",
+        "description": null,
+        "languages": {
+            "Cython": 122776,
+            "Python": 88650,
+            "Julia": 45423,
+            "C": 288
+        }
+    },
+    {
+        "name": "gbinder-python",
+        "description": "Python bindings for libgbinder",
+        "languages": {
+            "Cython": 52091,
+            "Python": 3722
+        }
+    },
+    {
+        "name": "compile-cython",
+        "description": "Encompile Cython New By Tumbal Termux",
+        "languages": {
+            "Cython": 1042,
+            "Python": 120
+        }
+    },
+    {
+        "name": "python-vtzero",
+        "description": "Experimental Cython wrapper around vtzero",
+        "languages": {
+            "Cython": 8324,
+            "Python": 8165,
+            "Makefile": 208
+        }
+    },
+    {
+        "name": "dnsspoofing",
+        "description": "DNS Spoofing",
+        "languages": {
+            "Cython": 18004,
+            "Python": 3065
+        }
+    },
+    {
+        "name": "rawdatarinator",
+        "description": "Read Siemens raw data",
+        "languages": {
+            "Cython": 5612,
+            "Python": 3374,
+            "C": 48,
+            "HTML": 17
+        }
+    },
+    {
+        "name": "curated-tokenizers",
+        "description": "Lightweight piece tokenization library",
+        "languages": {
+            "Cython": 24260,
+            "Python": 18498,
+            "C++": 5859,
+            "C": 156
+        }
+    },
+    {
+        "name": "Ascii-Render",
+        "description": "A 3d rasterizer that runs on the terminal",
+        "languages": {
+            "Cython": 24157,
+            "Python": 97
+        }
+    },
+    {
+        "name": "pytiff",
+        "description": null,
+        "languages": {
+            "Cython": 51266,
+            "Python": 26104
+        }
+    },
+    {
+        "name": "pymemesuite",
+        "description": "Cython bindings and Python interface to the MEME suite, a collection of tools for the analysis of sequence motifs.",
+        "languages": {
+            "Cython": 161210,
+            "Python": 34314,
+            "C": 2054
+        }
+    },
+    {
+        "name": "BTE",
+        "description": "Cython API for the Mutation Annotated Tree (MAT) Online Phylogenetics Toolkit",
+        "languages": {
+            "Cython": 68556,
+            "C++": 21281,
+            "Python": 4809,
+            "Dockerfile": 425
+        }
     }
 ]

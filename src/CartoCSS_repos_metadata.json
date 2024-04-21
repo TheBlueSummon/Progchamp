@@ -50,5 +50,1684 @@
             "Shell": 3313,
             "Dockerfile": 1130
         }
+    },
+    {
+        "name": "basemap-styles",
+        "description": "CARTO basemap public styles",
+        "languages": {
+            "CartoCSS": 178330,
+            "Python": 2002
+        }
+    },
+    {
+        "name": "terrain-classic",
+        "description": "World-wide CartoCSS port of Stamen's classic terrain style",
+        "languages": {
+            "CartoCSS": 48140,
+            "Makefile": 17381,
+            "PLpgSQL": 12504,
+            "HTML": 1754,
+            "JavaScript": 1746,
+            "Dockerfile": 124
+        }
+    },
+    {
+        "name": "vector-tiles-sample",
+        "description": "Vector tiles sample MBTiles file with PBF's made by mapnik via MapBox Studio",
+        "languages": {
+            "CartoCSS": 25914
+        }
+    },
+    {
+        "name": "HDM-CartoCSS",
+        "description": "CartoCSS project focused on the Humanitarian Data Model",
+        "languages": {
+            "CartoCSS": 60698,
+            "Shell": 2845,
+            "HTML": 1506
+        }
+    },
+    {
+        "name": "Toner-for-Tilemill",
+        "description": "A port of Stamen's map style Toner for Tilemill",
+        "languages": {
+            "CartoCSS": 27232,
+            "Python": 10678
+        }
+    },
+    {
+        "name": "Transit-Map-in-TileMill",
+        "description": "Map of transit (bus) system in Macon, Georgia using Tilemill",
+        "languages": {
+            "CartoCSS": 10208
+        }
+    },
+    {
+        "name": "CartoDB-basemaps",
+        "description": "CartoDB basemaps",
+        "languages": {
+            "CartoCSS": 72539,
+            "PLpgSQL": 37081,
+            "JavaScript": 17551,
+            "Shell": 3691
+        }
+    },
+    {
+        "name": "spatial-dataviz-for-data-scientists",
+        "description": "Spatial Data Visualization for Data Scientists",
+        "languages": {
+            "CartoCSS": 396
+        }
+    },
+    {
+        "name": "mapbox-studio-osm-bright.tm2",
+        "description": "A full-featured template / example project for Mapbox Studio using Mapbox Streets vector tiles",
+        "languages": {
+            "CartoCSS": 19824,
+            "Shell": 629
+        }
+    },
+    {
+        "name": "lyrk-mapstyle",
+        "description": "The legendary map style finally open sourced",
+        "languages": {
+            "CartoCSS": 48948
+        }
+    },
+    {
+        "name": "pirate-map",
+        "description": null,
+        "languages": {
+            "CartoCSS": 7815
+        }
+    },
+    {
+        "name": "osm-hybrid-carto",
+        "description": "Transparent map stylesheet for OSM data written in carto. Designed as an overlay for aerial imagery.",
+        "languages": {
+            "CartoCSS": 233455,
+            "Perl": 4119,
+            "Python": 3307,
+            "HTML": 2241,
+            "Shell": 266
+        }
+    },
+    {
+        "name": "mapbox-studio-emerald.tm2",
+        "description": "Emerald map style for Mapbox Studio",
+        "languages": {
+            "CartoCSS": 23630,
+            "JavaScript": 2517,
+            "Shell": 489
+        }
+    },
+    {
+        "name": "OpenArdenneMap",
+        "description": "Une carte pour l'Ardenne",
+        "languages": {
+            "CartoCSS": 87735,
+            "Python": 35023,
+            "Shell": 1269,
+            "Dockerfile": 315
+        }
+    },
+    {
+        "name": "pianoforte",
+        "description": "Generic purpose map rendering in two flavours.",
+        "languages": {
+            "CartoCSS": 30678,
+            "Makefile": 2608,
+            "JavaScript": 1134
+        }
+    },
+    {
+        "name": "super-mario-world.tm2",
+        "description": "an mario-inspired Mapbox Studio map",
+        "languages": {
+            "CartoCSS": 12185
+        }
+    },
+    {
+        "name": "OpenRiverboatMap",
+        "description": "CartoCSS style for rendering a riverboat oriented map on top of OSM data",
+        "languages": {
+            "CartoCSS": 41306,
+            "Makefile": 273
+        }
+    },
+    {
+        "name": "redlines",
+        "description": "A pipeline for automated mapping of aggregate racial/ancestral groups - based on a 1976 map of Chicago",
+        "languages": {
+            "CartoCSS": 30304,
+            "JavaScript": 23372,
+            "HTML": 23260,
+            "PLpgSQL": 12764,
+            "Shell": 10915
+        }
+    },
+    {
+        "name": "thank-you-map",
+        "description": "A map to say thank you.",
+        "languages": {
+            "CartoCSS": 6308
+        }
+    },
+    {
+        "name": "OSM-Swiss-Style",
+        "description": "OSM-Swiss-Style: CartoCSS Style for TileMill based on OpenStreetMap Data and OSM-Bright template",
+        "languages": {
+            "CartoCSS": 35975
+        }
+    },
+    {
+        "name": "mapbox-studio-humanitarian-print.tm2",
+        "description": "Print maps for humanitarian response",
+        "languages": {
+            "CartoCSS": 29324,
+            "JavaScript": 4346,
+            "Shell": 489,
+            "Makefile": 377
+        }
+    },
+    {
+        "name": "tracestrack-maps",
+        "description": "The stylesheet for carto and topo maps",
+        "languages": {
+            "CartoCSS": 317586,
+            "JavaScript": 1528
+        }
+    },
+    {
+        "name": "mapbox-studio-satellite-outdoors.tm2",
+        "description": "Vector contours + street labels for Mapbox Satellite",
+        "languages": {
+            "CartoCSS": 26921,
+            "Shell": 933
+        }
+    },
+    {
+        "name": "OpenRailwayMap-CartoCSS",
+        "description": "CartoCSS port of the OpenRailwayMap styles, originally written in MapCSS",
+        "languages": {
+            "CartoCSS": 172642,
+            "PLpgSQL": 15664,
+            "Lua": 11890,
+            "Shell": 2877,
+            "Python": 1759,
+            "Dockerfile": 1631,
+            "Makefile": 265
+        }
+    },
+    {
+        "name": "veloroad",
+        "description": "CartoCSS style for using with routes",
+        "languages": {
+            "CartoCSS": 11442,
+            "Shell": 994
+        }
+    },
+    {
+        "name": "carto-style-hydda",
+        "description": "CartoCSS stylesheet for the map hosted by OpenStreetMap Sweden",
+        "languages": {
+            "CartoCSS": 45117,
+            "Java": 3396,
+            "Shell": 1161
+        }
+    },
+    {
+        "name": "topotresc",
+        "description": "Render a hiking/mountain map with elevationcontour lines and hillshading using mapnik and docker",
+        "languages": {
+            "CartoCSS": 330757,
+            "CSS": 72350,
+            "Python": 72116,
+            "JavaScript": 24829,
+            "Lua": 20007,
+            "Shell": 13124,
+            "HTML": 5504,
+            "Dockerfile": 916
+        }
+    },
+    {
+        "name": "mapbox-studio-outdoors.tm2",
+        "description": "Mapbox Studio style designed for outdoor adventures",
+        "languages": {
+            "CartoCSS": 40445
+        }
+    },
+    {
+        "name": "orienteering.tm2",
+        "description": "Chlosterwald Orienteering Map",
+        "languages": {
+            "CartoCSS": 6381
+        }
+    },
+    {
+        "name": "geotaggers",
+        "description": "The Geotaggers' World Atlas",
+        "languages": {
+            "CartoCSS": 2829,
+            "Perl": 743
+        }
+    },
+    {
+        "name": "trottoirs-de-paris",
+        "description": "Parisian sidewalks",
+        "languages": {
+            "CartoCSS": 85322,
+            "Clojure": 22170,
+            "CSS": 10639,
+            "JavaScript": 6852,
+            "Shell": 978,
+            "HTML": 394
+        }
+    },
+    {
+        "name": "osm-maps",
+        "description": "A collection of OpenStreetMap maps, for easy installation",
+        "languages": {
+            "CartoCSS": 369812,
+            "Python": 68374,
+            "Shell": 19214,
+            "Ruby": 888
+        }
+    },
+    {
+        "name": "mapbox-studio-woodcut.tm2",
+        "description": "A woodcut inspired map for city streets.",
+        "languages": {
+            "CartoCSS": 28445
+        }
+    },
+    {
+        "name": "jauntful_map.tm2",
+        "description": "Jauntful.com map style created with Mapbox Studio",
+        "languages": {
+            "CartoCSS": 10657,
+            "JavaScript": 2517,
+            "Shell": 489
+        }
+    },
+    {
+        "name": "osm-kn",
+        "description": "Openstreetmap in Kannada",
+        "languages": {
+            "CartoCSS": 19167,
+            "HTML": 5536
+        }
+    },
+    {
+        "name": "mapnik-opensnowmap.org",
+        "description": "ski map mapnik style and scripts",
+        "languages": {
+            "CartoCSS": 397282,
+            "Python": 137775,
+            "HTML": 114514,
+            "Shell": 3864
+        }
+    },
+    {
+        "name": "ada-auth",
+        "description": "A mirror of Ada Reference Manual sources",
+        "languages": {
+            "CartoCSS": 10382774,
+            "Ada": 2038131,
+            "Batchfile": 698
+        }
+    },
+    {
+        "name": "MapSurfer.NET-Examples",
+        "description": "Official repository fo for MapSurfer.NET sample projects",
+        "languages": {
+            "CartoCSS": 2735
+        }
+    },
+    {
+        "name": "openstreetmap-carto-AJT",
+        "description": "An \"England and Wales rural pedestrian\" focused OSM-based map style.  Example at https://map.atownsend.org.uk/maps/map/map.html .  This is the Carto CSS part of the style, based on OSM Carto from 2014.",
+        "languages": {
+            "CartoCSS": 451514,
+            "Lua": 12558,
+            "HTML": 11321,
+            "Shell": 3521
+        }
+    },
+    {
+        "name": "weekendupdate",
+        "description": "Maps / Layers Inspired By Saturday Night Live's Weekend Update Segment",
+        "languages": {
+            "CartoCSS": 3053
+        }
+    },
+    {
+        "name": "osm-silent-la",
+        "description": "A template for a black base layer about Southern California",
+        "languages": {
+            "CartoCSS": 5432,
+            "Python": 2128
+        }
+    },
+    {
+        "name": "mapbox-studio-pencil.tm2",
+        "description": null,
+        "languages": {
+            "CartoCSS": 10046
+        }
+    },
+    {
+        "name": "hdm-style.tm2",
+        "description": "All about high contrast and printability. A Mapbox Studio style designed for humanitarian response that uses a humanitarian data model vector tiles source.",
+        "languages": {
+            "CartoCSS": 52362,
+            "JavaScript": 5341,
+            "Shell": 746
+        }
+    },
+    {
+        "name": "posm-carto",
+        "description": "A simple CartoCSS style for POSM, highlighting HDM features.",
+        "languages": {
+            "CartoCSS": 53698,
+            "Makefile": 6612,
+            "Shell": 2201,
+            "Ruby": 16
+        }
+    },
+    {
+        "name": "geodata",
+        "description": "a dumping place for geospatial data ",
+        "languages": {
+            "CartoCSS": 375
+        }
+    },
+    {
+        "name": "kartkompetanse",
+        "description": "Deling av tips, erfaringer, eksempler og kompetanse p\u00e5 alt som har med kartografi og design og gj\u00f8re.",
+        "languages": {
+            "CartoCSS": 34362,
+            "Shell": 26416,
+            "Scheme": 11272,
+            "JavaScript": 3566
+        }
+    },
+    {
+        "name": "cs224w",
+        "description": "CS 224W :: Social & Informational Network Analysis :: Stanford, Autumn 2015-2016",
+        "languages": {
+            "CartoCSS": 60671,
+            "Python": 29447,
+            "JavaScript": 2517,
+            "Gnuplot": 563,
+            "Shell": 489
+        }
+    },
+    {
+        "name": "tile-server",
+        "description": "OpenStreetMap tile server",
+        "languages": {
+            "CartoCSS": 86880,
+            "Python": 21079,
+            "Shell": 7155,
+            "Dockerfile": 4956,
+            "HTML": 2578
+        }
+    },
+    {
+        "name": "iBurn-Maps",
+        "description": "Maps for iBurn app",
+        "languages": {
+            "CartoCSS": 25964
+        }
+    },
+    {
+        "name": "mapnik-styles-sqlite",
+        "description": "Mapnik Styles for use with SQLite",
+        "languages": {
+            "CartoCSS": 181011,
+            "Python": 10251,
+            "Shell": 4574
+        }
+    },
+    {
+        "name": "nsm-musescore-styles",
+        "description": "A collection of plugin, template, and style files for MuseScore 3 & 4, aimed at helping your sheet music look like the https://NinSheetMusic.org/ standard.",
+        "languages": {
+            "CartoCSS": 267658,
+            "QML": 17604
+        }
+    },
+    {
+        "name": "shortbread-mapnik",
+        "description": "Mapnik rendering style using Shortbread vector tiles",
+        "languages": {
+            "CartoCSS": 85685,
+            "Lua": 30696,
+            "Python": 6448,
+            "Shell": 1450,
+            "Makefile": 550
+        }
+    },
+    {
+        "name": "mapbox-studio-wheatpaste.tm2",
+        "description": "Wheatpaste style for Mapbox Studio",
+        "languages": {
+            "CartoCSS": 6661
+        }
+    },
+    {
+        "name": "osm-clear",
+        "description": "A style designed for use with ClearTables",
+        "languages": {
+            "CartoCSS": 23709,
+            "Shell": 2670,
+            "PLpgSQL": 232
+        }
+    },
+    {
+        "name": "brighmed",
+        "description": null,
+        "languages": {
+            "CartoCSS": 45431
+        }
+    },
+    {
+        "name": "mapbox-studio-mars-terrain.tm2",
+        "description": "Vector terrain style for Mars",
+        "languages": {
+            "CartoCSS": 3021
+        }
+    },
+    {
+        "name": "earthquake",
+        "description": "A simple map for Kosmtik.",
+        "languages": {
+            "CartoCSS": 608
+        }
+    },
+    {
+        "name": "linz_basemaps",
+        "description": "Code, imagery, and data needed to recreate NZ Terrain basemaps found on LINZ Data Service (LDS)",
+        "languages": {
+            "CartoCSS": 12470
+        }
+    },
+    {
+        "name": "mapbox-studio-pirates.tm2",
+        "description": "Mapbox Studio default style.",
+        "languages": {
+            "CartoCSS": 10957,
+            "Shell": 240
+        }
+    },
+    {
+        "name": "mq-carto-style-vector",
+        "description": "MapQuest style in CartoCSS for vector tiles. Alpha style; not ready for production use yet!",
+        "languages": {
+            "CartoCSS": 72095,
+            "Shell": 714
+        }
+    },
+    {
+        "name": "gb-leisure-carto",
+        "description": "CartoCSS style and Python script for creating maps for hiking etc. in Great Britain which use the OSGB projection and grid",
+        "languages": {
+            "CartoCSS": 4630,
+            "Python": 1964,
+            "Shell": 518
+        }
+    },
+    {
+        "name": "topography-of-terror",
+        "description": "Mapping engine for Topograhy of terror project by Memorial",
+        "languages": {
+            "CartoCSS": 23309,
+            "JavaScript": 21773,
+            "CSS": 14030,
+            "HTML": 4170,
+            "Shell": 154
+        }
+    },
+    {
+        "name": "Hikemap",
+        "description": "Styles and scripts for rendering a topographic hiking map based on OpenStreetMap.",
+        "languages": {
+            "CartoCSS": 27010,
+            "Lua": 17661,
+            "Shell": 14798
+        }
+    },
+    {
+        "name": "OSMBright-drinkingwater",
+        "description": "Files to make the OSMBright theme for OpenStreetMaps show drinking water more prominently",
+        "languages": {
+            "CartoCSS": 18853
+        }
+    },
+    {
+        "name": "mapbox-studio-dark.tm2",
+        "description": null,
+        "languages": {
+            "CartoCSS": 14423
+        }
+    },
+    {
+        "name": "hiking-map.tm2",
+        "description": "Hiking Map style for Mapbox Studio",
+        "languages": {
+            "CartoCSS": 42465
+        }
+    },
+    {
+        "name": "Moristory",
+        "description": "\u4e00\u6b3e\u5305\u542b\u591a\u79cd\u73a9\u6cd5\u7684\u5267\u60c5\u5411\u6e38\u620f\u3002 \uff08\u89d2\u8272\u626e\u6f14+\u5f39\u5e55+\u97f3\u4e50+\u5373\u65f6\u7b56\u7565+\u6587\u5b57\uff09",
+        "languages": {
+            "CartoCSS": 7874586,
+            "Visual Basic": 810524,
+            "Batchfile": 878
+        }
+    },
+    {
+        "name": "cycletour-style",
+        "description": null,
+        "languages": {
+            "CartoCSS": 46516
+        }
+    },
+    {
+        "name": "csWeb-tile",
+        "description": "Wrapper around MapBox's TileLive application to offer a simple npm package for serving tile sources in csWeb.",
+        "languages": {
+            "CartoCSS": 18334,
+            "TypeScript": 16797,
+            "JavaScript": 10891,
+            "CSS": 9704,
+            "HTML": 4860
+        }
+    },
+    {
+        "name": "mapbox-studio-mars-satellite.tm2",
+        "description": "Mars Satellite + labels",
+        "languages": {
+            "CartoCSS": 1679
+        }
+    },
+    {
+        "name": "mapbox-studio-run-bike-and-hike.tm2",
+        "description": null,
+        "languages": {
+            "CartoCSS": 42228,
+            "JavaScript": 2517,
+            "Shell": 1123
+        }
+    },
+    {
+        "name": "mapbox-studio-streets.tm2",
+        "description": null,
+        "languages": {
+            "CartoCSS": 59329,
+            "JavaScript": 2517,
+            "Shell": 489
+        }
+    },
+    {
+        "name": "bano-cartocss",
+        "description": "CortoCSS (TileMill) rendering of BANO database",
+        "languages": {
+            "CartoCSS": 8765
+        }
+    },
+    {
+        "name": "LOTR_theme",
+        "description": null,
+        "languages": {
+            "CartoCSS": 7691
+        }
+    },
+    {
+        "name": "mapbox-studio-light.tm2",
+        "description": "Mapbox Studio style designed to work with data overlays",
+        "languages": {
+            "CartoCSS": 13532
+        }
+    },
+    {
+        "name": "RamaniHuria",
+        "description": "Assorted assets created during the \"Dar Ramani Huria\" project.",
+        "languages": {
+            "CartoCSS": 33639
+        }
+    },
+    {
+        "name": "parchment_mapbox",
+        "description": "Mapbox Style: Pen and Ink on Parchment",
+        "languages": {
+            "CartoCSS": 17788
+        }
+    },
+    {
+        "name": "Bliss_Browser_CartoCSS",
+        "description": "\ud83c\udf33\ufe0f\ud83c\udf10\ufe0f#\ufe0f\u20e3\ufe0f The Bliss Browser CartoCSS language support module, allowing CartoCSS documents and programs to be written in and ran within the browser.",
+        "languages": {
+            "CartoCSS": 210894,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "openridgemap-carto",
+        "description": null,
+        "languages": {
+            "CartoCSS": 42099,
+            "Shell": 592
+        }
+    },
+    {
+        "name": "osm-bright-imposm3",
+        "description": null,
+        "languages": {
+            "CartoCSS": 38599,
+            "Shell": 871
+        }
+    },
+    {
+        "name": "fractal",
+        "description": "Rich and scalable map style based on the OpenStreetMap data model",
+        "languages": {
+            "CartoCSS": 321033,
+            "Python": 27090,
+            "Lua": 22599,
+            "Shell": 2221,
+            "Dockerfile": 1149
+        }
+    },
+    {
+        "name": "sib-test",
+        "description": "Unit test and assertion framework for Sibelius ManuScript development",
+        "languages": {
+            "CartoCSS": 9726,
+            "JavaScript": 275
+        }
+    },
+    {
+        "name": "vagrant-osm-tileserver",
+        "description": "A standalone OpenStreetMap Tileserver for Switzerland (based on Vagrant & VirtualBox)",
+        "languages": {
+            "CartoCSS": 12297,
+            "Ruby": 5630,
+            "Shell": 4007,
+            "Python": 2356,
+            "HTML": 730,
+            "ApacheConf": 551
+        }
+    },
+    {
+        "name": "thirdpole",
+        "description": null,
+        "languages": {
+            "CartoCSS": 485299,
+            "Scheme": 330807,
+            "JavaScript": 27687,
+            "HTML": 24906,
+            "CSS": 15802,
+            "Shell": 5379
+        }
+    },
+    {
+        "name": "pentagon",
+        "description": null,
+        "languages": {
+            "CartoCSS": 346113,
+            "Python": 16941,
+            "HTML": 33
+        }
+    },
+    {
+        "name": "india.tm2",
+        "description": "Mapbox Studio style for OpenStreetMap.in",
+        "languages": {
+            "CartoCSS": 25791,
+            "JavaScript": 2517,
+            "Shell": 489
+        }
+    },
+    {
+        "name": "trombone",
+        "description": "A repository of various projects relating to the trombone. ",
+        "languages": {
+            "CartoCSS": 2209151
+        }
+    },
+    {
+        "name": "mapzen-slate.tm2",
+        "description": null,
+        "languages": {
+            "CartoCSS": 1295
+        }
+    },
+    {
+        "name": "jnet_style",
+        "description": "Topographic CartoCSS style",
+        "languages": {
+            "CartoCSS": 46290,
+            "Shell": 29957,
+            "Python": 7859,
+            "Dockerfile": 1036
+        }
+    },
+    {
+        "name": "ScoresOfScores",
+        "description": "Scores of musical scores from the 'Scores Of Scores' lieder encoding project along with conversion code and style sheet as reported in Gotham et al., DLfM 2018.",
+        "languages": {
+            "CartoCSS": 23325,
+            "Python": 10169
+        }
+    },
+    {
+        "name": "toner",
+        "description": "fork of Stamen Toner style to be used with Osm2pgsql",
+        "languages": {
+            "CartoCSS": 41652,
+            "Python": 22803,
+            "PLpgSQL": 12891,
+            "Makefile": 10562
+        }
+    },
+    {
+        "name": "Ethnocart.tm2",
+        "description": "Ethnocart is a mapbox style for ethnographic use",
+        "languages": {
+            "CartoCSS": 31780
+        }
+    },
+    {
+        "name": "mapbox-studio-default-style.tm2",
+        "description": "Default style used by new style projects in Mapbox Studio.",
+        "languages": {
+            "CartoCSS": 3134
+        }
+    },
+    {
+        "name": "MTB-kartta_full",
+        "description": "Mapnik render styles for mountain biking, originally based on OSM Bright.",
+        "languages": {
+            "CartoCSS": 114035,
+            "Shell": 3111
+        }
+    },
+    {
+        "name": "Learn-CartoCSS",
+        "description": "A repository for showcasing my knowledge of the CartoCSS programming language, and continuing to learn the language.",
+        "languages": {
+            "CartoCSS": 212368
+        }
+    },
+    {
+        "name": "maptime",
+        "description": "Maptime session",
+        "languages": {
+            "CartoCSS": 40807,
+            "Ruby": 1326,
+            "Shell": 196
+        }
+    },
+    {
+        "name": "open-knowledge",
+        "description": null,
+        "languages": {
+            "CartoCSS": 1341
+        }
+    },
+    {
+        "name": "tileaday",
+        "description": "Daily map tile gifs",
+        "languages": {
+            "CartoCSS": 53670
+        }
+    },
+    {
+        "name": "osm-light",
+        "description": null,
+        "languages": {
+            "CartoCSS": 55199,
+            "Shell": 1469
+        }
+    },
+    {
+        "name": "node_tile_server",
+        "description": "Simple node.js tile server",
+        "languages": {
+            "CartoCSS": 320442,
+            "JavaScript": 29235,
+            "Lua": 12558,
+            "Dockerfile": 1415,
+            "HTML": 1176
+        }
+    },
+    {
+        "name": "bus-routes-layer",
+        "description": "Tracestrack bus route map layer",
+        "languages": {
+            "CartoCSS": 15487
+        }
+    },
+    {
+        "name": "SNU_2D_ProgrammingTools_IDE_CartoCSS",
+        "description": "The CartoCSS Programming language IDE submodule for SNU Programming Tools.",
+        "languages": {
+            "CartoCSS": 212044,
+            "Roff": 3456
+        }
+    },
+    {
+        "name": "MicroZedKernel",
+        "description": "Microzed board kernel compile and modules",
+        "languages": {
+            "CartoCSS": 16160,
+            "C": 10092,
+            "Shell": 1436,
+            "Makefile": 806
+        }
+    },
+    {
+        "name": "music",
+        "description": "Probable Music",
+        "languages": {
+            "CartoCSS": 62041
+        }
+    },
+    {
+        "name": "mapbox-studio-comic.tm2",
+        "description": null,
+        "languages": {
+            "CartoCSS": 7350,
+            "Shell": 176
+        }
+    },
+    {
+        "name": "inegi",
+        "description": "Procesar datos de INEGI para su utilizaci\u00f3n en OSM / Processing INEGI data for use in OSM",
+        "languages": {
+            "CartoCSS": 10154,
+            "Shell": 501,
+            "JavaScript": 319
+        }
+    },
+    {
+        "name": "mazda-enhanced-compass-update",
+        "description": "Guide to update map for Mazda Enhanced Compass",
+        "languages": {
+            "CartoCSS": 16362,
+            "Python": 2015
+        }
+    },
+    {
+        "name": "fijiri",
+        "description": "Custom MapBox style for Downtown Grand Rapids Inc",
+        "languages": {
+            "CartoCSS": 46792,
+            "JavaScript": 2517,
+            "Shell": 489
+        }
+    },
+    {
+        "name": "music",
+        "description": "Some sheet music transcriptions",
+        "languages": {
+            "CartoCSS": 40272,
+            "Python": 1051,
+            "Shell": 138
+        }
+    },
+    {
+        "name": "sheetmusic",
+        "description": "Sheet Music for Sephardic Pizmonim",
+        "languages": {
+            "CartoCSS": 70467,
+            "Python": 3123,
+            "Shell": 452
+        }
+    },
+    {
+        "name": "neighborhood-antique.tm2",
+        "description": "Map style for creating antique city neighborhood maps.",
+        "languages": {
+            "CartoCSS": 18595
+        }
+    },
+    {
+        "name": "workshop-two.tm2",
+        "description": "A Mapbox Studio pen & paper style using custom open data from Ordnance Survey (OS Open Map - Local). This style project forms part of a workshop.",
+        "languages": {
+            "CartoCSS": 4031
+        }
+    },
+    {
+        "name": "mapbox-studio-streets-overlay.tm2",
+        "description": "Labels-only style for overlaying on custom imagery",
+        "languages": {
+            "CartoCSS": 26590,
+            "JavaScript": 2517,
+            "Shell": 1143
+        }
+    },
+    {
+        "name": "ushamlets",
+        "description": "Many hamlets in the US aren't hamlets.",
+        "languages": {
+            "CartoCSS": 28403
+        }
+    },
+    {
+        "name": "osm-server",
+        "description": "Local Tile server in Docker for Open Street Map",
+        "languages": {
+            "CartoCSS": 34731,
+            "CSS": 13562,
+            "Perl": 2080,
+            "JavaScript": 930,
+            "Batchfile": 603,
+            "Shell": 412,
+            "HTML": 329
+        }
+    },
+    {
+        "name": "mapbox-studio-high-contrast.tm2",
+        "description": "High Contrast map style for Mapbox Studio Classic",
+        "languages": {
+            "CartoCSS": 24394
+        }
+    },
+    {
+        "name": "mural",
+        "description": "CartoCSS style for high-zoom urban center print maps",
+        "languages": {
+            "CartoCSS": 37259,
+            "JavaScript": 2517,
+            "Shell": 1631
+        }
+    },
+    {
+        "name": "forest_roads",
+        "description": "Stylesheet for US Forest Service data.",
+        "languages": {
+            "CartoCSS": 3716
+        }
+    },
+    {
+        "name": "Geog458",
+        "description": "Assignments for Geography 458 class",
+        "languages": {
+            "CartoCSS": 36068,
+            "Jupyter Notebook": 24218,
+            "Python": 2033
+        }
+    },
+    {
+        "name": "Piano-Playing-Docs",
+        "description": "Documenting the journey rediscovering my piano hobby.",
+        "languages": {
+            "CartoCSS": 185977,
+            "JavaScript": 6784,
+            "HTML": 2588,
+            "Ruby": 67
+        }
+    },
+    {
+        "name": "openstreetmap-hiking",
+        "description": " A hiking purpose OpenStreetMap mapnik style, in CartoCSS ",
+        "languages": {
+            "CartoCSS": 245277,
+            "Lua": 4607,
+            "PLpgSQL": 442
+        }
+    },
+    {
+        "name": "osmbr-mapstyle",
+        "description": "OSM Mapnik style for osm-bzh project.",
+        "languages": {
+            "CartoCSS": 48776,
+            "Shell": 20309,
+            "HTML": 3172
+        }
+    },
+    {
+        "name": "digitransit-map",
+        "description": "HSL map styles for Digitransit",
+        "languages": {
+            "CartoCSS": 58964,
+            "JavaScript": 2517,
+            "Shell": 489
+        }
+    },
+    {
+        "name": "techfugees",
+        "description": null,
+        "languages": {
+            "CartoCSS": 63774,
+            "JavaScript": 25009,
+            "Python": 10606,
+            "CSS": 3472,
+            "Makefile": 1861,
+            "HTML": 1560,
+            "Shell": 489
+        }
+    },
+    {
+        "name": "mapbox-studio-streets-basic.tm2",
+        "description": null,
+        "languages": {
+            "CartoCSS": 57405,
+            "JavaScript": 2517,
+            "Shell": 489
+        }
+    },
+    {
+        "name": "us-highway-classification-demo",
+        "description": "Prototype OpenStreetMap US highway classification",
+        "languages": {
+            "CartoCSS": 128835,
+            "Shell": 4848
+        }
+    },
+    {
+        "name": "24-festive-drums-musescore-tutorial",
+        "description": "\u975e\u4e13\u4e1a24\u8282\u4ee4\u9f13MuseScore\u7f16\u8c31\u6559\u7a0b",
+        "languages": {
+            "CartoCSS": 62182
+        }
+    },
+    {
+        "name": "lute-music-scores",
+        "description": "My own arrangements of various music pieces for lute and guitar in modern notation and/or French tablatures. Licensed under a Creative Commons Attribution 4.0 International License.",
+        "languages": {
+            "CartoCSS": 142782
+        }
+    },
+    {
+        "name": "transilien-network-carto",
+        "description": "A carto style designed to highlight the Transilien railroad network.",
+        "languages": {
+            "CartoCSS": 3126
+        }
+    },
+    {
+        "name": "sib-ext",
+        "description": "Utilities for array, string and object handling for Sibelius ManuScript plugin development",
+        "languages": {
+            "CartoCSS": 20854,
+            "JavaScript": 275
+        }
+    },
+    {
+        "name": "Mapnik-skjermspesifikasjon",
+        "description": null,
+        "languages": {
+            "CartoCSS": 108343,
+            "CSS": 6164,
+            "HTML": 5703,
+            "JavaScript": 3511
+        }
+    },
+    {
+        "name": "hypsometric.tm2",
+        "description": "A study of color ramps for terrain-based hypsometric gradients",
+        "languages": {
+            "CartoCSS": 45135
+        }
+    },
+    {
+        "name": "zip-vector",
+        "description": "Web app where user selects a map and the server sends out a vector.",
+        "languages": {
+            "CartoCSS": 22038,
+            "CSS": 10197,
+            "HTML": 1475
+        }
+    },
+    {
+        "name": "contrib",
+        "description": "Useful tools for OSM infrastructure editing (JOSM stylesheets, etc)",
+        "languages": {
+            "CartoCSS": 4140
+        }
+    },
+    {
+        "name": "musique",
+        "description": "Partitions et travaux d'\u00e9criture",
+        "languages": {
+            "CartoCSS": 22440,
+            "HTML": 5152
+        }
+    },
+    {
+        "name": "osm-bright-greyscale",
+        "description": "Greyscale version of the OSM-Bright style",
+        "languages": {
+            "CartoCSS": 37158,
+            "Shell": 1908,
+            "Perl": 523
+        }
+    },
+    {
+        "name": "gis-2016",
+        "description": "Site maps for EMF 2016",
+        "languages": {
+            "CartoCSS": 6962
+        }
+    },
+    {
+        "name": "every-line-every-point",
+        "description": null,
+        "languages": {
+            "CartoCSS": 1368
+        }
+    },
+    {
+        "name": "SeaStyle",
+        "description": null,
+        "languages": {
+            "CartoCSS": 13444,
+            "Makefile": 184
+        }
+    },
+    {
+        "name": "osm-carto-light",
+        "description": null,
+        "languages": {
+            "CartoCSS": 320015,
+            "Python": 27038,
+            "Lua": 22623,
+            "Shell": 4532,
+            "Dockerfile": 1174
+        }
+    },
+    {
+        "name": "dar-drainage-style",
+        "description": "Mapbox and QGIS styles for making drainage maps",
+        "languages": {
+            "CartoCSS": 13272
+        }
+    },
+    {
+        "name": "campus-base-map.tm2",
+        "description": "A base map for the Penn State campuses, designed in Mapbox Studio.",
+        "languages": {
+            "CartoCSS": 13304
+        }
+    },
+    {
+        "name": "oync-tilemill",
+        "description": "oync (osm sync) plus tilemill deployment",
+        "languages": {
+            "CartoCSS": 763,
+            "Shell": 323
+        }
+    },
+    {
+        "name": "TileGenerator",
+        "description": "scripts to generate map tiles",
+        "languages": {
+            "CartoCSS": 149860,
+            "Python": 87767,
+            "Shell": 26703,
+            "Module Management System": 4496
+        }
+    },
+    {
+        "name": "to",
+        "description": null,
+        "languages": {
+            "CartoCSS": 34453,
+            "Makefile": 31540,
+            "PLpgSQL": 11881,
+            "JavaScript": 3524
+        }
+    },
+    {
+        "name": "generalized_landcovers",
+        "description": "An attempt to create generalized map from OSM data",
+        "languages": {
+            "CartoCSS": 21186,
+            "Python": 12857,
+            "Makefile": 8129,
+            "Shell": 860
+        }
+    },
+    {
+        "name": "OsmTirex",
+        "description": null,
+        "languages": {
+            "CartoCSS": 218991,
+            "JavaScript": 186740,
+            "Vim Script": 11447,
+            "Shell": 8713,
+            "Ruby": 888,
+            "Groff": 715,
+            "Makefile": 339,
+            "Python": 104
+        }
+    },
+    {
+        "name": "g12n-maps-bright.tm2",
+        "description": "CartoCSS Style based on shades of sand and pale green. Frugal use of labels and colors makes it ideal as an esthetic background to present additional GEO-Information.",
+        "languages": {
+            "CartoCSS": 14516
+        }
+    },
+    {
+        "name": "max-cartocss",
+        "description": "OSM overlay rendering for max weight/width/length/height...",
+        "languages": {
+            "CartoCSS": 5405
+        }
+    },
+    {
+        "name": "ARM_formatter",
+        "description": null,
+        "languages": {
+            "CartoCSS": 6097714,
+            "Ada": 1971105,
+            "Batchfile": 397
+        }
+    },
+    {
+        "name": "may-2013-ltg-style.tm2",
+        "description": "MapBox Studio Lightning Style",
+        "languages": {
+            "CartoCSS": 1646
+        }
+    },
+    {
+        "name": "hel-osm-high-contrast",
+        "description": "High contrast theme for Helsinki region service map",
+        "languages": {
+            "CartoCSS": 49623
+        }
+    },
+    {
+        "name": "mesni-zpevy",
+        "description": "Digitalizovan\u00e9 doprovody k Me\u0161n\u00edm zp\u011bv\u016fm",
+        "languages": {
+            "CartoCSS": 70240,
+            "Python": 26670,
+            "LilyPond": 1127
+        }
+    },
+    {
+        "name": "macos-config",
+        "description": "Personal presets for various macOS software",
+        "languages": {
+            "CartoCSS": 49235,
+            "Shell": 14821,
+            "AppleScript": 2463,
+            "Ruby": 1758
+        }
+    },
+    {
+        "name": "basemaps",
+        "description": "WRI Basemaps",
+        "languages": {
+            "CartoCSS": 36246
+        }
+    },
+    {
+        "name": "mapping",
+        "description": "Basemap demo using TileMill",
+        "languages": {
+            "CartoCSS": 3701
+        }
+    },
+    {
+        "name": "ada-ref-man",
+        "description": "Ada Reference Manual 2012",
+        "languages": {
+            "CartoCSS": 13240567,
+            "Ada": 1807803,
+            "Makefile": 8593,
+            "Python": 6186,
+            "Emacs Lisp": 2868,
+            "Batchfile": 628
+        }
+    },
+    {
+        "name": "osm-carto-default",
+        "description": null,
+        "languages": {
+            "CartoCSS": 699095,
+            "Lua": 35181,
+            "Python": 27038,
+            "Shell": 6714,
+            "HTML": 1506,
+            "Dockerfile": 1174
+        }
+    },
+    {
+        "name": "OSMmaps",
+        "description": null,
+        "languages": {
+            "CartoCSS": 37353,
+            "Shell": 15254,
+            "Python": 7365,
+            "Perl": 2147
+        }
+    },
+    {
+        "name": "maps-Patrick",
+        "description": "US Physical & National Park Map",
+        "languages": {
+            "CartoCSS": 59275,
+            "Python": 24237,
+            "Nginx": 3199,
+            "Makefile": 1413,
+            "Shell": 375
+        }
+    },
+    {
+        "name": "elpa-mirror",
+        "description": "A mirror of git://git.savannah.gnu.org/emacs/elpa.git",
+        "languages": {
+            "CartoCSS": 13240567,
+            "Emacs Lisp": 10321291,
+            "Ada": 5618154,
+            "C": 371908,
+            "JavaScript": 268721,
+            "Makefile": 46309,
+            "Perl": 42118,
+            "Shell": 30560,
+            "Python": 22099,
+            "YASnippet": 21662,
+            "HTML": 21385,
+            "Standard ML": 15973,
+            "Gnuplot": 9227,
+            "CSS": 7564,
+            "C++": 5542,
+            "Ruby": 4977,
+            "Roff": 3331,
+            "CoffeeScript": 2787,
+            "M4": 2468,
+            "Kotlin": 1264,
+            "Batchfile": 707
+        }
+    },
+    {
+        "name": "hel-osm-bright",
+        "description": "Bright osm theme for Helsinki region service map",
+        "languages": {
+            "CartoCSS": 50293
+        }
+    },
+    {
+        "name": "gdtile",
+        "description": "\u53f0\u7063\u5716\u78da\u670d\u52d9",
+        "languages": {
+            "CartoCSS": 24975,
+            "HTML": 3561,
+            "Python": 1123,
+            "Shell": 30
+        }
+    },
+    {
+        "name": "osm-desaturate",
+        "description": "OSM desaturated style",
+        "languages": {
+            "CartoCSS": 55801,
+            "Shell": 1469
+        }
+    },
+    {
+        "name": "spring-2015",
+        "description": "Projects and results from students in the 2015 spring semester GEOG 467 class.",
+        "languages": {
+            "CartoCSS": 55213,
+            "Python": 48197
+        }
+    },
+    {
+        "name": "osmfr-qa-cartocss",
+        "description": "Projet TileMill/CartoCSS pour la couche \"Zones \u00e0 mapper\" de tile.openstreetmap.fr",
+        "languages": {
+            "CartoCSS": 3153
+        }
+    },
+    {
+        "name": "osm-carto-dark",
+        "description": "OpenStreetMap dark style",
+        "languages": {
+            "CartoCSS": 316727,
+            "Python": 25699,
+            "Lua": 22652,
+            "Shell": 3874,
+            "Dockerfile": 1174
+        }
+    },
+    {
+        "name": "kermit11",
+        "description": "MOVED TO GITLAB",
+        "languages": {
+            "CartoCSS": 115383,
+            "Shell": 4341,
+            "Max": 2657,
+            "Visual Basic": 2523,
+            "C": 2366,
+            "Makefile": 942
+        }
+    },
+    {
+        "name": "songbook",
+        "description": "A collection of songs to sing in music classes at school.",
+        "languages": {
+            "CartoCSS": 24648,
+            "Shell": 324
+        }
+    },
+    {
+        "name": "OSMSwiss-Server",
+        "description": "Minimal Installation to develop CartoCSS in TileMill for Switzerland",
+        "languages": {
+            "CartoCSS": 34731,
+            "Python": 23589,
+            "Shell": 1600
+        }
+    },
+    {
+        "name": "granitemaps-basemap",
+        "description": "CartoCSS files used to create the GraniteMaps base map layer. ",
+        "languages": {
+            "CartoCSS": 36154
+        }
+    },
+    {
+        "name": "sibDevTools",
+        "description": "Some useful small Sibleius Plug-ins for analyzing scores",
+        "languages": {
+            "CartoCSS": 16714,
+            "JavaScript": 1481
+        }
+    },
+    {
+        "name": "MTB-kartta_winter",
+        "description": null,
+        "languages": {
+            "CartoCSS": 107756,
+            "Shell": 3111
+        }
+    },
+    {
+        "name": "transit-star-maps",
+        "description": "transit maps that look like constellations because trains + stars = <3",
+        "languages": {
+            "CartoCSS": 6061,
+            "Makefile": 1201
+        }
+    },
+    {
+        "name": "mapbox-studio-greenspace.tm2",
+        "description": "A park/greenspace themed Mapbox Studio map project using Mapbox Streets vector tiles",
+        "languages": {
+            "CartoCSS": 39652,
+            "JavaScript": 2517,
+            "Shell": 489
+        }
+    },
+    {
+        "name": "tilemillstyle2d",
+        "description": "tile mill style for mapnik",
+        "languages": {
+            "CartoCSS": 1696
+        }
+    },
+    {
+        "name": "pirate_paris",
+        "description": "This is a version of the https://github.com/ajashton/pirate-map style to TileMille for big Scales",
+        "languages": {
+            "CartoCSS": 10516
+        }
+    },
+    {
+        "name": "canvec-baselayer",
+        "description": "Map style for Canvec Canadian base map",
+        "languages": {
+            "CartoCSS": 776
+        }
+    },
+    {
+        "name": "nachtlebenkarte",
+        "description": "Nachtleben-Kartenstil f\u00fcr OpenStreetMap (osm2pgsql, CartoCSS)",
+        "languages": {
+            "CartoCSS": 18643
+        }
+    },
+    {
+        "name": "amtrak2",
+        "description": null,
+        "languages": {
+            "CartoCSS": 12092
+        }
+    },
+    {
+        "name": "printable-for-exploration",
+        "description": "CartoCSS for Mapbox Studio, for rural roads for bicycling",
+        "languages": {
+            "CartoCSS": 44488
+        }
+    },
+    {
+        "name": "gcc-mapbox",
+        "description": "mapbox-studio repository to re-work GCC map products.  ",
+        "languages": {
+            "CartoCSS": 145510
+        }
+    },
+    {
+        "name": "MuseScore",
+        "description": "My MuseScore Sheets - Moved to SourceForge (SVN): \"MuseScore Sheet Music\"",
+        "languages": {
+            "CartoCSS": 22361
+        }
+    },
+    {
+        "name": "openroads-vn-tilemap",
+        "description": null,
+        "languages": {
+            "CartoCSS": 14244,
+            "Dockerfile": 615
+        }
+    },
+    {
+        "name": "rada.smid.io-site",
+        "description": "Personal site",
+        "languages": {
+            "CartoCSS": 92684,
+            "SCSS": 15902,
+            "HTML": 13754,
+            "Ruby": 877,
+            "Shell": 384
+        }
+    },
+    {
+        "name": "popgen",
+        "description": null,
+        "languages": {
+            "CartoCSS": 51140,
+            "C": 4973,
+            "R": 2393,
+            "Shell": 1784
+        }
+    },
+    {
+        "name": "Santa-Map-Carto",
+        "description": null,
+        "languages": {
+            "CartoCSS": 319582,
+            "Python": 27102,
+            "Lua": 22652,
+            "Shell": 2261,
+            "Dockerfile": 1173
+        }
+    },
+    {
+        "name": "runoviisid",
+        "description": null,
+        "languages": {
+            "CartoCSS": 264987,
+            "Python": 9698
+        }
+    },
+    {
+        "name": "openstreetcarto",
+        "description": null,
+        "languages": {
+            "CartoCSS": 322649,
+            "Python": 42049,
+            "Lua": 22623,
+            "Shell": 2245,
+            "Dockerfile": 1173
+        }
+    },
+    {
+        "name": "tile-server",
+        "description": "\ucd5c\uc2e0 OSM \ubc0f \ud55c\uad6d \uc5d0\uc5b4\uc6e8\uc774 \uac00\uc838\uc640\uc11c \ub9cc\ub4dc\ub294 \ud0c0\uc77c \uc11c\ubc84 \uc0dd\uc131\uae30",
+        "languages": {
+            "CartoCSS": 319137,
+            "JavaScript": 1924,
+            "Shell": 1402
+        }
+    },
+    {
+        "name": "schuldigkeit",
+        "description": null,
+        "languages": {
+            "CartoCSS": 70274
+        }
+    },
+    {
+        "name": "mapbox-studio-satellite-afternoon.tm2",
+        "description": null,
+        "languages": {
+            "CartoCSS": 5143
+        }
+    },
+    {
+        "name": "tm2-projects",
+        "description": "Tilemill 2 projects.",
+        "languages": {
+            "CartoCSS": 407
+        }
+    },
+    {
+        "name": "NightMunch",
+        "description": "Trendy Night places detection",
+        "languages": {
+            "CartoCSS": 11676,
+            "HTML": 2404
+        }
+    },
+    {
+        "name": "Custom-MapBox-style-file-Strava-Veloviewer",
+        "description": "An outdoor (cycling) oriented style file to be used in MapBox",
+        "languages": {
+            "CartoCSS": 45903
+        }
     }
 ]

@@ -78,5 +78,1851 @@
             "Shell": 8903,
             "HTML": 1563
         }
+    },
+    {
+        "name": "clojurescript",
+        "description": "Clojure to JS compiler",
+        "languages": {
+            "Clojure": 2500982,
+            "Shell": 28255,
+            "JavaScript": 15155,
+            "HTML": 13410,
+            "PowerShell": 7439,
+            "Smarty": 2072,
+            "Batchfile": 933
+        }
+    },
+    {
+        "name": "leiningen",
+        "description": "Moved to Codeberg; this is a convenience mirror",
+        "languages": {
+            "Clojure": 586263,
+            "Shell": 26371,
+            "CSS": 15278,
+            "HTML": 14770,
+            "Batchfile": 14583,
+            "PowerShell": 6819,
+            "Emacs Lisp": 3396,
+            "Java": 361,
+            "Makefile": 59
+        }
+    },
+    {
+        "name": "om",
+        "description": "ClojureScript interface to Facebook's React",
+        "languages": {
+            "Clojure": 452128,
+            "HTML": 13083,
+            "Shell": 402,
+            "JavaScript": 40
+        }
+    },
+    {
+        "name": "jepsen",
+        "description": "A framework for distributed systems verification, with fault injection",
+        "languages": {
+            "Clojure": 1907808,
+            "Java": 34330,
+            "Shell": 20939,
+            "Erlang": 18329,
+            "C": 13467,
+            "TLA": 5169,
+            "Python": 3460,
+            "Dockerfile": 2806,
+            "Go": 1865
+        }
+    },
+    {
+        "name": "athens",
+        "description": "ATHENS IS NO LONGER BEING ACTIVELY MAINTAINED. Athens is an open-source, collaborative knowledge graph.",
+        "languages": {
+            "Clojure": 1349289,
+            "TypeScript": 262039,
+            "JavaScript": 28708,
+            "CSS": 8722,
+            "Shell": 3918,
+            "HTML": 2967,
+            "Dockerfile": 647,
+            "Ruby": 45
+        }
+    },
+    {
+        "name": "overtone",
+        "description": "Collaborative Programmable Music ",
+        "languages": {
+            "Clojure": 1431760
+        }
+    },
+    {
+        "name": "re-frame",
+        "description": "A ClojureScript framework for building user interfaces, leveraging React",
+        "languages": {
+            "Clojure": 226791,
+            "HTML": 4294,
+            "JavaScript": 973
+        }
+    },
+    {
+        "name": "datascript",
+        "description": "Immutable database and Datalog query engine for Clojure, ClojureScript and JS",
+        "languages": {
+            "Clojure": 528054,
+            "JavaScript": 22812,
+            "Shell": 1753,
+            "HTML": 1560
+        }
+    },
+    {
+        "name": "reagent",
+        "description": "A minimalistic ClojureScript interface to React.js",
+        "languages": {
+            "Clojure": 231730,
+            "CSS": 14989,
+            "Shell": 4804,
+            "JavaScript": 4067,
+            "HTML": 490,
+            "Just": 67
+        }
+    },
+    {
+        "name": "riemann",
+        "description": "A network event stream processing system, in Clojure.",
+        "languages": {
+            "Clojure": 823607,
+            "Shell": 12483,
+            "Perl": 5861,
+            "ANTLR": 2320,
+            "Dockerfile": 548
+        }
+    },
+    {
+        "name": "compojure",
+        "description": "A concise routing library for Ring/Clojure",
+        "languages": {
+            "Clojure": 48887,
+            "HTML": 31
+        }
+    },
+    {
+        "name": "status-mobile",
+        "description": "a free (libre) open source, mobile OS for Ethereum",
+        "languages": {
+            "Clojure": 5082268,
+            "Python": 1004116,
+            "Shell": 89180,
+            "Nix": 79379,
+            "Java": 71033,
+            "C++": 60221,
+            "Kotlin": 57031,
+            "JavaScript": 49020,
+            "Objective-C": 41742,
+            "Groovy": 31058,
+            "Makefile": 18115,
+            "Ruby": 14157,
+            "Objective-C++": 9518,
+            "Dockerfile": 3813,
+            "Awk": 1731,
+            "C": 1260,
+            "Swift": 299
+        }
+    },
+    {
+        "name": "babashka",
+        "description": "Native, fast starting Clojure interpreter for scripting",
+        "languages": {
+            "Clojure": 2193865,
+            "Shell": 23519,
+            "HTML": 9642,
+            "Batchfile": 7532,
+            "Java": 6252,
+            "Dockerfile": 3031,
+            "Emacs Lisp": 119
+        }
+    },
+    {
+        "name": "icepick",
+        "description": "Android Instance State made easy",
+        "languages": {
+            "Clojure": 12597,
+            "Java": 1689
+        }
+    },
+    {
+        "name": "clojure-koans",
+        "description": "A set of exercises for learning Clojure",
+        "languages": {
+            "Clojure": 39970,
+            "HTML": 12914,
+            "Shell": 1069,
+            "Batchfile": 818
+        }
+    },
+    {
+        "name": "ring",
+        "description": "Clojure HTTP server abstraction",
+        "languages": {
+            "Clojure": 291717,
+            "CSS": 3437,
+            "JavaScript": 17,
+            "HTML": 11,
+            "Classic ASP": 10
+        }
+    },
+    {
+        "name": "mori",
+        "description": "ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript",
+        "languages": {
+            "Clojure": 25630,
+            "JavaScript": 16062,
+            "HTML": 13721,
+            "Shell": 1347,
+            "PowerShell": 310
+        }
+    },
+    {
+        "name": "modern-cljs",
+        "description": "A series of tutorials on ClojureScript",
+        "languages": {
+            "Clojure": 40851,
+            "HTML": 388
+        }
+    },
+    {
+        "name": "quil",
+        "description": "Main repo. Quil source code.",
+        "languages": {
+            "Clojure": 416565,
+            "HTML": 2019,
+            "GLSL": 1895,
+            "CSS": 614,
+            "Shell": 608,
+            "Emacs Lisp": 162
+        }
+    },
+    {
+        "name": "swarmpit",
+        "description": "Lightweight mobile-friendly Docker Swarm management UI",
+        "languages": {
+            "Clojure": 835377,
+            "CSS": 37950,
+            "Java": 9545,
+            "Shell": 3505,
+            "HTML": 2410,
+            "JavaScript": 639,
+            "Dockerfile": 436
+        }
+    },
+    {
+        "name": "lein-figwheel",
+        "description": "Figwheel builds your ClojureScript code and hot loads it into the browser as you are coding!",
+        "languages": {
+            "Clojure": 388825,
+            "HTML": 3834,
+            "Shell": 1332,
+            "JavaScript": 622,
+            "CSS": 566
+        }
+    },
+    {
+        "name": "maelstrom",
+        "description": "A workbench for writing toy implementations of distributed systems.",
+        "languages": {
+            "Clojure": 139655,
+            "Shell": 832
+        }
+    },
+    {
+        "name": "instaparse",
+        "description": null,
+        "languages": {
+            "Clojure": 214187
+        }
+    },
+    {
+        "name": "pedestal",
+        "description": "The Pedestal Server-side Libraries",
+        "languages": {
+            "Clojure": 697911,
+            "HTML": 14315,
+            "Java": 6608,
+            "Shell": 3062,
+            "JavaScript": 39
+        }
+    },
+    {
+        "name": "awesome-clojure",
+        "description": "A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff",
+        "languages": {
+            "Clojure": 57
+        }
+    },
+    {
+        "name": "hiccup",
+        "description": "Fast library for rendering HTML in Clojure",
+        "languages": {
+            "Clojure": 77909
+        }
+    },
+    {
+        "name": "clojure-cookbook",
+        "description": "This is the home of O'Reilly's Clojure Cookbook - http://clojure-cookbook.com",
+        "languages": {
+            "Clojure": 9855,
+            "Shell": 6015,
+            "XSLT": 5095,
+            "CSS": 1276
+        }
+    },
+    {
+        "name": "aleph",
+        "description": "Asynchronous streaming communication for Clojure - web server, web client, and raw TCP/UDP",
+        "languages": {
+            "Clojure": 537950,
+            "Java": 9500
+        }
+    },
+    {
+        "name": "specter",
+        "description": "Clojure(Script)'s missing piece",
+        "languages": {
+            "Clojure": 189912,
+            "Java": 357,
+            "Shell": 268
+        }
+    },
+    {
+        "name": "xtdb",
+        "description": "An immutable database for application development and time-travel data compliance, with SQL and XTQL. Developed by @juxt",
+        "languages": {
+            "Clojure": 2506705,
+            "Kotlin": 325053,
+            "Java": 292643,
+            "Python": 25430,
+            "TypeScript": 15724,
+            "Shell": 10560,
+            "Dockerfile": 2131,
+            "Jinja": 1588,
+            "CSS": 507,
+            "Emacs Lisp": 496,
+            "Rust": 45
+        }
+    },
+    {
+        "name": "schema",
+        "description": "Clojure(Script) library for declarative data description and validation",
+        "languages": {
+            "Clojure": 212748,
+            "Shell": 529
+        }
+    },
+    {
+        "name": "code-maat",
+        "description": "A command line tool to mine and analyze data from version-control systems",
+        "languages": {
+            "Clojure": 159802,
+            "Dockerfile": 397
+        }
+    },
+    {
+        "name": "incanter",
+        "description": "Clojure-based, R-like statistical computing and graphics environment for the JVM",
+        "languages": {
+            "Clojure": 694159,
+            "Java": 14372,
+            "HTML": 12656,
+            "Shell": 423,
+            "Dockerfile": 233,
+            "Batchfile": 173
+        }
+    },
+    {
+        "name": "shadow-cljs",
+        "description": "ClojureScript compilation made easy",
+        "languages": {
+            "Clojure": 1586217,
+            "Java": 100329,
+            "JavaScript": 91012,
+            "CSS": 23137,
+            "HTML": 4321,
+            "Shell": 643
+        }
+    },
+    {
+        "name": "component",
+        "description": "Managed lifecycle of stateful objects in Clojure",
+        "languages": {
+            "Clojure": 31948
+        }
+    },
+    {
+        "name": "onyx",
+        "description": "Distributed, masterless, high performance, fault tolerant data processing",
+        "languages": {
+            "Clojure": 1475924,
+            "Shell": 4136
+        }
+    },
+    {
+        "name": "core.async",
+        "description": "Facilities for async programming and communication in Clojure",
+        "languages": {
+            "Clojure": 300001,
+            "HTML": 12817,
+            "Shell": 1556,
+            "JavaScript": 27
+        }
+    },
+    {
+        "name": "lumo",
+        "description": "Fast, cross-platform, standalone ClojureScript environment",
+        "languages": {
+            "Clojure": 341408,
+            "JavaScript": 151257,
+            "Batchfile": 9319,
+            "Shell": 8490,
+            "Dockerfile": 300,
+            "Ruby": 204
+        }
+    },
+    {
+        "name": "transit-format",
+        "description": "A data interchange format.",
+        "languages": {
+            "Clojure": 34959,
+            "Shell": 3015
+        }
+    },
+    {
+        "name": "lacinia",
+        "description": "GraphQL implementation in pure Clojure",
+        "languages": {
+            "Clojure": 771540,
+            "ANTLR": 8382,
+            "R": 1250
+        }
+    },
+    {
+        "name": "clj-http",
+        "description": "An idiomatic clojure http client wrapping the apache client. Officially supported version.",
+        "languages": {
+            "Clojure": 289583,
+            "HTML": 2113
+        }
+    },
+    {
+        "name": "kibit",
+        "description": "There's a function for that!",
+        "languages": {
+            "Clojure": 60837,
+            "Shell": 520
+        }
+    },
+    {
+        "name": "boot",
+        "description": "Build tooling for Clojure.",
+        "languages": {
+            "Clojure": 461233,
+            "Java": 21027,
+            "Makefile": 3596
+        }
+    },
+    {
+        "name": "sente",
+        "description": "Realtime web comms library for Clojure/Script",
+        "languages": {
+            "Clojure": 150884
+        }
+    },
+    {
+        "name": "honeysql",
+        "description": "Turn Clojure data structures into SQL",
+        "languages": {
+            "Clojure": 295328
+        }
+    },
+    {
+        "name": "clerk",
+        "description": "\u26a1\ufe0f Moldable Live Programming for Clojure",
+        "languages": {
+            "Clojure": 729132,
+            "CSS": 11901,
+            "JavaScript": 1803,
+            "Emacs Lisp": 1579
+        }
+    },
+    {
+        "name": "Midje",
+        "description": "Midje provides a migration path from clojure.test to a more flexible, readable, abstract, and gracious style of testing",
+        "languages": {
+            "Clojure": 756653,
+            "Ruby": 965
+        }
+    },
+    {
+        "name": "Arcadia",
+        "description": "Clojure in Unity",
+        "languages": {
+            "Clojure": 1783339,
+            "C#": 131908,
+            "Ruby": 1131
+        }
+    },
+    {
+        "name": "clj-kondo",
+        "description": "Static analyzer and linter for Clojure code that sparks joy",
+        "languages": {
+            "Clojure": 1534929,
+            "Shell": 17885,
+            "Batchfile": 1384,
+            "Java": 1034,
+            "Dockerfile": 768,
+            "Emacs Lisp": 62
+        }
+    },
+    {
+        "name": "electric",
+        "description": "a reactive Clojure dialect for web development that uses a compiler to infer the frontend/backend boundary",
+        "languages": {
+            "Clojure": 806633,
+            "CSS": 5333,
+            "Shell": 3182,
+            "JavaScript": 1806,
+            "Java": 1615
+        }
+    },
+    {
+        "name": "enlive",
+        "description": "a selector-based (\u00e0 la CSS) templating and transformation system for Clojure",
+        "languages": {
+            "Clojure": 58916,
+            "HTML": 21550
+        }
+    },
+    {
+        "name": "closh",
+        "description": "Bash-like shell based on Clojure",
+        "languages": {
+            "Clojure": 211288,
+            "Shell": 12993,
+            "JavaScript": 1514,
+            "Dockerfile": 326,
+            "Nix": 152
+        }
+    },
+    {
+        "name": "datahike",
+        "description": "A durable Datalog implementation adaptable for distribution. ",
+        "languages": {
+            "Clojure": 1029119,
+            "Java": 38685,
+            "JavaScript": 19923,
+            "HTML": 2544,
+            "C++": 1948,
+            "Shell": 1713,
+            "Emacs Lisp": 141
+        }
+    },
+    {
+        "name": "devcards",
+        "description": "Devcards aims to provide a visual REPL experience for ClojureScript",
+        "languages": {
+            "Clojure": 169092,
+            "CSS": 28794,
+            "HTML": 1436,
+            "JavaScript": 1338
+        }
+    },
+    {
+        "name": "fulcro",
+        "description": "A library for development of single-page full-stack web applications in clj/cljs",
+        "languages": {
+            "Clojure": 1666022,
+            "CSS": 8388,
+            "HTML": 2235,
+            "JavaScript": 493,
+            "Makefile": 358
+        }
+    },
+    {
+        "name": "plumbing",
+        "description": "Prismatic's Clojure(Script) utility belt",
+        "languages": {
+            "Clojure": 190005,
+            "Shell": 901
+        }
+    },
+    {
+        "name": "drake",
+        "description": "Data workflow tool, like a \"Make for data\"",
+        "languages": {
+            "Clojure": 208354,
+            "Shell": 19851,
+            "Makefile": 6638,
+            "D": 868,
+            "DTrace": 73
+        }
+    },
+    {
+        "name": "Korma",
+        "description": "Tasty SQL for Clojure.",
+        "languages": {
+            "Clojure": 132612
+        }
+    },
+    {
+        "name": "cheshire",
+        "description": "Clojure JSON and JSON SMILE (binary json format) encoding/decoding",
+        "languages": {
+            "Clojure": 88443,
+            "Java": 2340
+        }
+    },
+    {
+        "name": "konstellate",
+        "description": "Free and Open Source GUI to Visualize Kubernetes Applications.",
+        "languages": {
+            "Clojure": 50115,
+            "CSS": 19892,
+            "HTML": 419
+        }
+    },
+    {
+        "name": "yesql",
+        "description": "A Clojure library for using SQL.",
+        "languages": {
+            "Clojure": 31872
+        }
+    },
+    {
+        "name": "seesaw",
+        "description": "Seesaw turns the Horror of Swing into a friendly, well-documented, Clojure library",
+        "languages": {
+            "Clojure": 751076,
+            "HTML": 12657,
+            "Java": 1446,
+            "Batchfile": 1080,
+            "Shell": 225
+        }
+    },
+    {
+        "name": "timbre",
+        "description": "Pure Clojure/Script logging library",
+        "languages": {
+            "Clojure": 124679
+        }
+    },
+    {
+        "name": "core.logic",
+        "description": "A logic programming library for Clojure & ClojureScript",
+        "languages": {
+            "Clojure": 360009,
+            "HTML": 12913
+        }
+    },
+    {
+        "name": "malli",
+        "description": "High-performance data-driven data specification library for Clojure/Script.",
+        "languages": {
+            "Clojure": 889630,
+            "Shell": 1971,
+            "HTML": 249
+        }
+    },
+    {
+        "name": "Nightcode",
+        "description": "An IDE for Clojure",
+        "languages": {
+            "Clojure": 96072,
+            "Shell": 696,
+            "Batchfile": 381,
+            "JavaScript": 200
+        }
+    },
+    {
+        "name": "reitit",
+        "description": "A fast data-driven routing library for Clojure/Script",
+        "languages": {
+            "Clojure": 700285,
+            "Java": 7615,
+            "Shell": 3306,
+            "Just": 134,
+            "HTML": 15
+        }
+    },
+    {
+        "name": "cascalog",
+        "description": "Data processing on Hadoop without the hassle.",
+        "languages": {
+            "Clojure": 326396,
+            "Java": 111512,
+            "Shell": 260
+        }
+    },
+    {
+        "name": "auto-parcel",
+        "description": "Android Parcelable models made easy",
+        "languages": {
+            "Clojure": 6002,
+            "Java": 2139
+        }
+    },
+    {
+        "name": "ClojureDart",
+        "description": "Clojure dialect for Flutter and Dart",
+        "languages": {
+            "Clojure": 944806,
+            "Java": 53535,
+            "Dart": 16129,
+            "HTML": 12656,
+            "Shell": 1254
+        }
+    },
+    {
+        "name": "garden",
+        "description": "Generate CSS with Clojure",
+        "languages": {
+            "Clojure": 167772
+        }
+    },
+    {
+        "name": "duckling_old",
+        "description": "Deprecated in favor of https://github.com/facebook/duckling",
+        "languages": {
+            "Clojure": 1028178,
+            "Shell": 108
+        }
+    },
+    {
+        "name": "dactyl-manuform",
+        "description": null,
+        "languages": {
+            "Clojure": 34033,
+            "Shell": 1945
+        }
+    },
+    {
+        "name": "chestnut",
+        "description": "Application template for Clojure + ClojureScript web apps",
+        "languages": {
+            "Clojure": 44924,
+            "Shell": 592,
+            "HTML": 410,
+            "Emacs Lisp": 201,
+            "CSS": 128
+        }
+    },
+    {
+        "name": "core.typed",
+        "description": "An optional type system for Clojure",
+        "languages": {
+            "Clojure": 2881151,
+            "HTML": 139018,
+            "Shell": 9741
+        }
+    },
+    {
+        "name": "cortex",
+        "description": "Machine learning in Clojure",
+        "languages": {
+            "Clojure": 1073834,
+            "C++": 32441,
+            "Cuda": 22738,
+            "Python": 13674,
+            "Shell": 3066,
+            "Java": 2605,
+            "Makefile": 643
+        }
+    },
+    {
+        "name": "liberator",
+        "description": "Liberator is a Clojure library for building RESTful applications.",
+        "languages": {
+            "Clojure": 130457,
+            "HTML": 12917,
+            "CSS": 659
+        }
+    },
+    {
+        "name": "ultra",
+        "description": "A Leiningen plugin for a superior development environment",
+        "languages": {
+            "Clojure": 29736
+        }
+    },
+    {
+        "name": "mount",
+        "description": "managing Clojure and ClojureScript app state since (reset)",
+        "languages": {
+            "Clojure": 86342,
+            "Makefile": 539,
+            "HTML": 113
+        }
+    },
+    {
+        "name": "integrant",
+        "description": "Micro-framework for data-driven architecture",
+        "languages": {
+            "Clojure": 44910
+        }
+    },
+    {
+        "name": "hitchhiker-tree",
+        "description": "Functional, persistent, off-heap, high performance data structure",
+        "languages": {
+            "Clojure": 1127314,
+            "JavaScript": 661
+        }
+    },
+    {
+        "name": "clara-rules",
+        "description": "Forward-chaining rules in Clojure(Script)",
+        "languages": {
+            "Clojure": 935143,
+            "Java": 5640,
+            "JavaScript": 866,
+            "HTML": 650
+        }
+    },
+    {
+        "name": "core.match",
+        "description": "An optimized pattern matching library for Clojure",
+        "languages": {
+            "Clojure": 145651,
+            "HTML": 12656
+        }
+    },
+    {
+        "name": "sci",
+        "description": "Configurable Clojure/Script interpreter suitable for scripting and Clojure DSLs",
+        "languages": {
+            "Clojure": 643360,
+            "Java": 49530,
+            "Shell": 7917,
+            "Rust": 1911,
+            "Batchfile": 1142,
+            "C++": 442,
+            "C": 388,
+            "Emacs Lisp": 60
+        }
+    },
+    {
+        "name": "criterium",
+        "description": "Benchmarking library for clojure",
+        "languages": {
+            "Clojure": 87125,
+            "HTML": 2595,
+            "Shell": 1345
+        }
+    },
+    {
+        "name": "friend",
+        "description": "An extensible authentication and authorization library for Clojure Ring web applications and services. ",
+        "languages": {
+            "Clojure": 41424,
+            "HTML": 12915
+        }
+    },
+    {
+        "name": "carmine",
+        "description": "Redis client + message queue for Clojure",
+        "languages": {
+            "Clojure": 205064,
+            "Lua": 12075,
+            "Shell": 544
+        }
+    },
+    {
+        "name": "frak",
+        "description": "Transform collections of strings into regular expressions.",
+        "languages": {
+            "Clojure": 13062,
+            "JavaScript": 2609
+        }
+    },
+    {
+        "name": "duct",
+        "description": "Server-side application framework for Clojure",
+        "languages": {
+            "Clojure": 15548,
+            "HTML": 350,
+            "Emacs Lisp": 132
+        }
+    },
+    {
+        "name": "clojure-lsp",
+        "description": "Clojure & ClojureScript Language Server (LSP) implementation",
+        "languages": {
+            "Clojure": 1473508,
+            "Shell": 5277,
+            "Nix": 1801,
+            "Emacs Lisp": 248,
+            "Java": 97
+        }
+    },
+    {
+        "name": "HumbleUI",
+        "description": "Clojure Desktop UI framework",
+        "languages": {
+            "Clojure": 427052,
+            "Python": 14168,
+            "Shell": 163
+        }
+    },
+    {
+        "name": "test.check",
+        "description": "QuickCheck for Clojure",
+        "languages": {
+            "Clojure": 211434,
+            "HTML": 519,
+            "Makefile": 349,
+            "JavaScript": 258,
+            "Shell": 177
+        }
+    },
+    {
+        "name": "cljs-devtools",
+        "description": "A collection of Chrome DevTools enhancements for ClojureScript developers",
+        "languages": {
+            "Clojure": 285456,
+            "JavaScript": 78049,
+            "Shell": 9084,
+            "HTML": 2089
+        }
+    },
+    {
+        "name": "compojure-api",
+        "description": "Sweet web apis with Compojure & Swagger",
+        "languages": {
+            "Clojure": 283485,
+            "Shell": 754
+        }
+    },
+    {
+        "name": "lein-cljsbuild",
+        "description": "Leiningen plugin to make ClojureScript development easy.",
+        "languages": {
+            "Clojure": 87100,
+            "JavaScript": 2398,
+            "Shell": 1515,
+            "HTML": 871
+        }
+    },
+    {
+        "name": "GokuRakuJoudo",
+        "description": "config karabiner with ease",
+        "languages": {
+            "Clojure": 176697,
+            "Makefile": 1529,
+            "Shell": 374
+        }
+    },
+    {
+        "name": "eastwood",
+        "description": "Clojure lint tool",
+        "languages": {
+            "Clojure": 1068975,
+            "Shell": 8344
+        }
+    },
+    {
+        "name": "cljfmt",
+        "description": "A tool for formatting Clojure code",
+        "languages": {
+            "Clojure": 85158,
+            "Shell": 1147,
+            "Batchfile": 240
+        }
+    },
+    {
+        "name": "4clojure",
+        "description": "An interactive problem website for learning Clojure",
+        "languages": {
+            "Clojure": 164628,
+            "CSS": 40945,
+            "JavaScript": 12236,
+            "Shell": 317,
+            "Batchfile": 210
+        }
+    },
+    {
+        "name": "neanderthal",
+        "description": "Fast Clojure Matrix Library",
+        "languages": {
+            "Clojure": 1038523,
+            "C": 159266,
+            "Cuda": 132990,
+            "C++": 75331,
+            "Java": 22788,
+            "Objective-C": 19053
+        }
+    },
+    {
+        "name": "datalevin",
+        "description": "A simple, fast and versatile Datalog database",
+        "languages": {
+            "Clojure": 1492737,
+            "Java": 796959,
+            "Shell": 7596,
+            "Batchfile": 1013
+        }
+    },
+    {
+        "name": "nippy",
+        "description": "The fastest serialization library for Clojure",
+        "languages": {
+            "Clojure": 146047
+        }
+    },
+    {
+        "name": "libpython-clj",
+        "description": "Python bindings for Clojure",
+        "languages": {
+            "Clojure": 1328388,
+            "Shell": 2207,
+            "C++": 1273,
+            "Python": 1020
+        }
+    },
+    {
+        "name": "clojuredocs",
+        "description": "clojuredocs.org web app",
+        "languages": {
+            "Clojure": 405235,
+            "Less": 53372,
+            "HTML": 7260,
+            "Shell": 1861,
+            "JavaScript": 239,
+            "Procfile": 33
+        }
+    },
+    {
+        "name": "hoplon",
+        "description": "Simple and powerful tool for building web apps out of highly composable elements in ClojureScript.",
+        "languages": {
+            "Clojure": 166987,
+            "Nix": 170
+        }
+    },
+    {
+        "name": "manifold",
+        "description": "A compatibility layer for event-driven abstractions",
+        "languages": {
+            "Clojure": 241807
+        }
+    },
+    {
+        "name": "amazonica",
+        "description": "A comprehensive Clojure client for the entire Amazon AWS api.",
+        "languages": {
+            "Clojure": 208520,
+            "Java": 6330
+        }
+    },
+    {
+        "name": "bidi",
+        "description": "Bidirectional URI routing",
+        "languages": {
+            "Clojure": 77383,
+            "CSS": 12
+        }
+    },
+    {
+        "name": "functional-programming-learning-path",
+        "description": "A Learning Path for Functional Programming",
+        "languages": {
+            "Clojure": 38354,
+            "JavaScript": 25374,
+            "Elixir": 4472,
+            "Haskell": 642,
+            "Python": 604,
+            "Ruby": 389
+        }
+    },
+    {
+        "name": "Selmer",
+        "description": "A fast, Django inspired template system in Clojure.",
+        "languages": {
+            "Clojure": 169949,
+            "HTML": 7469
+        }
+    },
+    {
+        "name": "liquid",
+        "description": "Clojure Text Editor, for editing clojure code and markdown. Written entirely in Clojure with inspiration from Emacs and Vim.",
+        "languages": {
+            "Clojure": 246939,
+            "HTML": 1736,
+            "Dockerfile": 302
+        }
+    },
+    {
+        "name": "play-clj",
+        "description": "A Clojure game library",
+        "languages": {
+            "Clojure": 185482,
+            "CSS": 4372,
+            "Java": 3612,
+            "JavaScript": 355
+        }
+    },
+    {
+        "name": "citysdk",
+        "description": "Convenient JavaScript utilities for working with Census APIs: Statistics, Cartographic GeoJSON, lat/lng -> FIPS, and other niceties (written in ClojureScript)",
+        "languages": {
+            "Clojure": 1503892,
+            "JavaScript": 369610,
+            "CSS": 1782,
+            "HTML": 1026
+        }
+    },
+    {
+        "name": "geom",
+        "description": "2D/3D geometry toolkit for Clojure/Clojurescript",
+        "languages": {
+            "Clojure": 731225,
+            "HTML": 1080,
+            "Shell": 253
+        }
+    },
+    {
+        "name": "logic-tutorial",
+        "description": "A Very Gentle Introduction to Relational Programming",
+        "languages": {
+            "Clojure": 2398
+        }
+    },
+    {
+        "name": "cats",
+        "description": "Category Theory and Algebraic abstractions for Clojure and ClojureScript.",
+        "languages": {
+            "Clojure": 174458,
+            "Shell": 723
+        }
+    },
+    {
+        "name": "pronoun.is",
+        "description": "Show people how to use pronouns!",
+        "languages": {
+            "Clojure": 20179,
+            "HTML": 986,
+            "CSS": 292
+        }
+    },
+    {
+        "name": "expound",
+        "description": "Human-optimized error messages for clojure.spec",
+        "languages": {
+            "Clojure": 318974,
+            "Shell": 5633,
+            "JavaScript": 912,
+            "HTML": 173,
+            "Dockerfile": 55
+        }
+    },
+    {
+        "name": "clojurec",
+        "description": "A Clojure implementation on top of C",
+        "languages": {
+            "Clojure": 910495,
+            "C": 55137,
+            "Objective-C": 18750,
+            "Shell": 2981,
+            "Makefile": 2788,
+            "Emacs Lisp": 83
+        }
+    },
+    {
+        "name": "braid",
+        "description": " Braid is a team-chat app with a novel UI that leads to better conversations.",
+        "languages": {
+            "Clojure": 834762,
+            "Mustache": 17209,
+            "HTML": 2168,
+            "Shell": 1045
+        }
+    },
+    {
+        "name": "markright",
+        "description": "\u27a1 Electron powered markdown editor with live preview",
+        "languages": {
+            "Clojure": 24895,
+            "CSS": 20531,
+            "HTML": 1151,
+            "JavaScript": 800
+        }
+    },
+    {
+        "name": "environ",
+        "description": "Library for managing environment variables in Clojure",
+        "languages": {
+            "Clojure": 9031
+        }
+    },
+    {
+        "name": "cljfx",
+        "description": "Declarative, functional and extensible wrapper of JavaFX inspired by better parts of react and re-frame",
+        "languages": {
+            "Clojure": 408826,
+            "Java": 4429,
+            "PowerShell": 859,
+            "Shell": 734
+        }
+    },
+    {
+        "name": "meander",
+        "description": "Tools for transparent data transformation",
+        "languages": {
+            "Clojure": 573592,
+            "Shell": 1722
+        }
+    },
+    {
+        "name": "titanoboa",
+        "description": "Titanoboa makes complex workflows easy. It is a low-code workflow orchestration platform for JVM - distributed, highly scalable and fault tolerant.",
+        "languages": {
+            "Clojure": 266715,
+            "Shell": 410,
+            "Batchfile": 68
+        }
+    },
+    {
+        "name": "pulsar",
+        "description": "Fibers, Channels and Actors for Clojure",
+        "languages": {
+            "Clojure": 231317,
+            "Java": 98894,
+            "Shell": 1962
+        }
+    },
+    {
+        "name": "etaoin",
+        "description": "Pure Clojure Webdriver protocol implementation",
+        "languages": {
+            "Clojure": 308978,
+            "Dockerfile": 2007
+        }
+    },
+    {
+        "name": "loom",
+        "description": "Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj",
+        "languages": {
+            "Clojure": 178050,
+            "Shell": 264
+        }
+    },
+    {
+        "name": "netrunner",
+        "description": null,
+        "languages": {
+            "Clojure": 6503588,
+            "Stylus": 88718,
+            "Shell": 2879,
+            "Dockerfile": 682
+        }
+    },
+    {
+        "name": "lt-cljs-tutorial",
+        "description": "A ClojureScript Programming Language Tutorial for Light Table Users",
+        "languages": {
+            "Clojure": 38758
+        }
+    },
+    {
+        "name": "tesser",
+        "description": "Clojure reducers, but for parallel execution: locally and on distributed systems.",
+        "languages": {
+            "Clojure": 144400,
+            "Java": 971,
+            "Shell": 340
+        }
+    },
+    {
+        "name": "wonderland-clojure-katas",
+        "description": "Clojure Katas inspired by Alice in Wonderland",
+        "languages": {
+            "Clojure": 7697
+        }
+    },
+    {
+        "name": "medley",
+        "description": "A lightweight library of useful Clojure functions",
+        "languages": {
+            "Clojure": 40477
+        }
+    },
+    {
+        "name": "reagent-cookbook",
+        "description": "Examples of how to accomplish specific tasks in a Reagent webapp.",
+        "languages": {
+            "Clojure": 67986,
+            "HTML": 14903,
+            "CSS": 3353,
+            "JavaScript": 1033
+        }
+    },
+    {
+        "name": "portal",
+        "description": "A clojure tool to navigate through your data.",
+        "languages": {
+            "Clojure": 600563,
+            "Emacs Lisp": 919,
+            "JavaScript": 616,
+            "Java": 428
+        }
+    },
+    {
+        "name": "anvil-runtime",
+        "description": "The runtime engine for hosting Anvil web apps",
+        "languages": {
+            "Clojure": 991196,
+            "JavaScript": 876342,
+            "TypeScript": 554139,
+            "Python": 466375,
+            "SCSS": 67122,
+            "CSS": 65944,
+            "HTML": 37779,
+            "PLpgSQL": 4279,
+            "Shell": 3512,
+            "Dockerfile": 881
+        }
+    },
+    {
+        "name": "programming-language-research",
+        "description": "Programming Language Research, Applied PLT & Compilers",
+        "languages": {
+            "Clojure": 22361,
+            "JavaScript": 21688,
+            "Python": 15403,
+            "TypeScript": 11087,
+            "Standard ML": 8403,
+            "Ruby": 7265,
+            "Scheme": 6075,
+            "HTML": 5690,
+            "Elixir": 4749,
+            "Haskell": 4121,
+            "Rust": 1898,
+            "C++": 863,
+            "Go": 76
+        }
+    },
+    {
+        "name": "buddy",
+        "description": "Security library for Clojure",
+        "languages": {
+            "Clojure": 631,
+            "Shell": 262
+        }
+    },
+    {
+        "name": "oz",
+        "description": "Data visualizations in Clojure and ClojureScript using Vega and Vega-lite",
+        "languages": {
+            "Clojure": 107915,
+            "HTML": 36262,
+            "Jupyter Notebook": 26893,
+            "Shell": 13806,
+            "Makefile": 1576,
+            "CSS": 1377
+        }
+    },
+    {
+        "name": "clojupyter",
+        "description": "a Jupyter kernel for Clojure",
+        "languages": {
+            "Clojure": 397066,
+            "Batchfile": 1301,
+            "Shell": 1117,
+            "Dockerfile": 960,
+            "Makefile": 421
+        }
+    },
+    {
+        "name": "nbb",
+        "description": "Scripting in Clojure on Node.js using SCI",
+        "languages": {
+            "Clojure": 167518,
+            "JavaScript": 1932
+        }
+    },
+    {
+        "name": "pallet",
+        "description": "Automates controlling and provisioning cloud server instances. DevOps for the JVM.",
+        "languages": {
+            "Clojure": 972525,
+            "HTML": 12914,
+            "Shell": 11804
+        }
+    },
+    {
+        "name": "javelin",
+        "description": "Spreadsheet-like dataflow programming in ClojureScript.",
+        "languages": {
+            "Clojure": 85068,
+            "HTML": 12917
+        }
+    },
+    {
+        "name": "re-com",
+        "description": "A ClojureScript library of reusable components for Reagent",
+        "languages": {
+            "Clojure": 1529983,
+            "CSS": 36075,
+            "JavaScript": 6605,
+            "Dockerfile": 3225,
+            "HTML": 1964
+        }
+    },
+    {
+        "name": "Nightlight",
+        "description": "An embedded editor for Clojure",
+        "languages": {
+            "Clojure": 66192
+        }
+    },
+    {
+        "name": "vr-logorrhoe",
+        "description": null,
+        "languages": {
+            "Clojure": 32858
+        }
+    },
+    {
+        "name": "kaocha",
+        "description": "Full featured next gen Clojure test runner",
+        "languages": {
+            "Clojure": 338279,
+            "Gherkin": 42855,
+            "Ruby": 324,
+            "Shell": 91,
+            "Emacs Lisp": 54
+        }
+    },
+    {
+        "name": "secretary",
+        "description": "A client-side router for ClojureScript.",
+        "languages": {
+            "Clojure": 23941
+        }
+    },
+    {
+        "name": "dirac",
+        "description": "A Chrome DevTools fork for ClojureScript developers",
+        "languages": {
+            "Clojure": 988332,
+            "Shell": 68767,
+            "HTML": 16006,
+            "JavaScript": 6779,
+            "CSS": 3109,
+            "Dockerfile": 1318,
+            "Python": 193
+        }
+    },
+    {
+        "name": "dommy",
+        "description": "A tiny ClojureScript DOM manipulation and event library",
+        "languages": {
+            "Clojure": 37345
+        }
+    },
+    {
+        "name": "sicmutils",
+        "description": "Computer Algebra, Physics and Differential Geometry in Clojure.",
+        "languages": {
+            "Clojure": 2621108,
+            "Jupyter Notebook": 230581,
+            "Shell": 3163,
+            "Emacs Lisp": 236
+        }
+    },
+    {
+        "name": "clojure-opennlp",
+        "description": "Natural Language Processing in Clojure (opennlp)",
+        "languages": {
+            "Clojure": 52785
+        }
+    },
+    {
+        "name": "noir",
+        "description": "A framework for writing web applications in clojure.",
+        "languages": {
+            "Clojure": 40301,
+            "JavaScript": 2181
+        }
+    },
+    {
+        "name": "nrepl",
+        "description": "A Clojure network REPL that provides a server and client, along with some common APIs of use to IDEs and other tools that may need to evaluate Clojure code in remote environments.",
+        "languages": {
+            "Clojure": 359265,
+            "HTML": 13974,
+            "Java": 609,
+            "Emacs Lisp": 203
+        }
+    },
+    {
+        "name": "next-jdbc",
+        "description": "A modern low-level Clojure wrapper for JDBC-based access to databases.",
+        "languages": {
+            "Clojure": 317036,
+            "Dockerfile": 78
+        }
+    },
+    {
+        "name": "aero",
+        "description": "A small library for explicit, intentful configuration.",
+        "languages": {
+            "Clojure": 32945,
+            "Shell": 45
+        }
+    },
+    {
+        "name": "aws-api",
+        "description": "AWS, data driven",
+        "languages": {
+            "Clojure": 214315,
+            "Shell": 2239
+        }
+    },
+    {
+        "name": "biff",
+        "description": "A Clojure web framework for solo developers.",
+        "languages": {
+            "Clojure": 203217
+        }
+    },
+    {
+        "name": "java.jdbc",
+        "description": "JDBC from Clojure (formerly clojure.contrib.sql)",
+        "languages": {
+            "Clojure": 176316,
+            "HTML": 12638,
+            "Shell": 1815
+        }
+    },
+    {
+        "name": "lamina",
+        "description": "not under active development - event-driven workflows for clojure",
+        "languages": {
+            "Clojure": 423841
+        }
+    },
+    {
+        "name": "tools.cli",
+        "description": "Command-line processing",
+        "languages": {
+            "Clojure": 63066,
+            "HTML": 12638
+        }
+    },
+    {
+        "name": "core.matrix",
+        "description": "core.matrix : Multi-dimensional array programming API for Clojure",
+        "languages": {
+            "Clojure": 716928,
+            "Java": 3823,
+            "Dockerfile": 539,
+            "HTML": 221
+        }
+    },
+    {
+        "name": "sablono",
+        "description": "Lisp/Hiccup style templating for Facebook's React in ClojureScript.",
+        "languages": {
+            "Clojure": 162828,
+            "JavaScript": 17667,
+            "HTML": 304
+        }
+    },
+    {
+        "name": "ethlance",
+        "description": "Ethlance is the first job market platform built entirely on the Ethereum blockchain. Free to use forever!",
+        "languages": {
+            "Clojure": 759015,
+            "Less": 325699,
+            "Hack": 138502,
+            "Solidity": 57013,
+            "PHP": 52663,
+            "JavaScript": 41419,
+            "Dockerfile": 4723,
+            "Shell": 3730,
+            "Makefile": 1058,
+            "HTML": 592,
+            "Procfile": 384
+        }
+    },
+    {
+        "name": "lambdacd",
+        "description": "a library to define a continuous delivery pipeline in code",
+        "languages": {
+            "Clojure": 450628,
+            "Shell": 7104,
+            "Less": 6868,
+            "JavaScript": 4882,
+            "HTML": 443
+        }
+    },
+    {
+        "name": "rebel-readline",
+        "description": "Terminal readline library for Clojure dialects",
+        "languages": {
+            "Clojure": 132574
+        }
+    },
+    {
+        "name": "hugsql",
+        "description": "A Clojure library for embracing SQL",
+        "languages": {
+            "Clojure": 81123
+        }
+    },
+    {
+        "name": "krell",
+        "description": "Simple ClojureScript React Native Tooling",
+        "languages": {
+            "Clojure": 34114,
+            "JavaScript": 12020
+        }
+    },
+    {
+        "name": "cljs-ajax",
+        "description": "simple asynchronous Ajax client for ClojureScript and Clojure",
+        "languages": {
+            "Clojure": 90650
+        }
+    },
+    {
+        "name": "codox",
+        "description": "Clojure documentation tool",
+        "languages": {
+            "Clojure": 51885,
+            "CSS": 17825,
+            "JavaScript": 7056
+        }
+    },
+    {
+        "name": "tools.nrepl",
+        "description": "A Clojure network REPL that provides a server and client, along with some common APIs of use to IDEs and other tools that may need to evaluate Clojure code in remote environments.",
+        "languages": {
+            "Clojure": 134850,
+            "HTML": 12637,
+            "Java": 7209
+        }
+    },
+    {
+        "name": "clj-pdf",
+        "description": "PDF generation library for Clojure",
+        "languages": {
+            "Clojure": 124569
+        }
+    },
+    {
+        "name": "cider-nrepl",
+        "description": "A collection of nREPL middleware to enhance Clojure editors with common functionality like definition lookup, code completion, etc. ",
+        "languages": {
+            "Clojure": 551607,
+            "Makefile": 7251,
+            "Shell": 1127,
+            "Java": 735,
+            "Emacs Lisp": 203
+        }
+    },
+    {
+        "name": "precept",
+        "description": "A declarative programming framework",
+        "languages": {
+            "Clojure": 222491,
+            "Shell": 13304,
+            "CSS": 6479,
+            "HTML": 969
+        }
+    },
+    {
+        "name": "jet",
+        "description": "CLI to transform between JSON, EDN, YAML and Transit using Clojure",
+        "languages": {
+            "Clojure": 61566,
+            "Shell": 10200,
+            "Batchfile": 911,
+            "Java": 850
+        }
+    },
+    {
+        "name": "lein-droid",
+        "description": "A Leiningen plugin for building Clojure/Android projects",
+        "languages": {
+            "Clojure": 91873,
+            "Java": 3537,
+            "Shell": 114
+        }
+    },
+    {
+        "name": "luminus-template",
+        "description": "a template project for the Luminus framework",
+        "languages": {
+            "Clojure": 123292,
+            "HTML": 11007,
+            "CSS": 924,
+            "Shell": 266,
+            "Gherkin": 164,
+            "Dockerfile": 130,
+            "SCSS": 121,
+            "Procfile": 107
+        }
+    },
+    {
+        "name": "slingshot",
+        "description": "Enhanced try and throw for Clojure leveraging Clojure's capabilities",
+        "languages": {
+            "Clojure": 39040
+        }
+    },
+    {
+        "name": "tech.ml.dataset",
+        "description": "A Clojure high performance data processing system",
+        "languages": {
+            "Clojure": 1017288,
+            "Java": 142749,
+            "Shell": 3998,
+            "Python": 3768,
+            "R": 1054
+        }
+    },
+    {
+        "name": "migratus",
+        "description": "MIGRATE ALL THE THINGS!",
+        "languages": {
+            "Clojure": 103295,
+            "Shell": 92
+        }
+    },
+    {
+        "name": "figwheel-main",
+        "description": "Figwheel Main provides tooling for developing ClojureScript applications",
+        "languages": {
+            "Clojure": 338214,
+            "HTML": 33562,
+            "CSS": 8328,
+            "Makefile": 2674,
+            "Ruby": 778
+        }
+    },
+    {
+        "name": "asami",
+        "description": "A graph store for Clojure and ClojureScript",
+        "languages": {
+            "Clojure": 694037,
+            "Shell": 299
+        }
+    },
+    {
+        "name": "flow-storm-debugger",
+        "description": "A debugger for Clojure and ClojureScript with some unique features.",
+        "languages": {
+            "Clojure": 612701,
+            "CSS": 11404,
+            "Makefile": 1198,
+            "Emacs Lisp": 127,
+            "Shell": 124
+        }
+    },
+    {
+        "name": "re-frame-10x",
+        "description": "A debugging dashboard for re-frame.  X-ray vision as tooling.",
+        "languages": {
+            "Clojure": 702698,
+            "CSS": 1833,
+            "Shell": 560
+        }
+    },
+    {
+        "name": "hickory",
+        "description": "HTML as data",
+        "languages": {
+            "Clojure": 119159
+        }
+    },
+    {
+        "name": "orchestra",
+        "description": "Complete instrumentation for clojure.spec",
+        "languages": {
+            "Clojure": 25546,
+            "Shell": 96
+        }
+    },
+    {
+        "name": "enlive-tutorial",
+        "description": "An Easy Introduction to Enlive",
+        "languages": {
+            "Clojure": 11465,
+            "CSS": 719
+        }
+    },
+    {
+        "name": "klangmeister",
+        "description": "A musical scratchpad.",
+        "languages": {
+            "Clojure": 38099,
+            "HTML": 2837,
+            "CSS": 1625,
+            "Shell": 115
+        }
+    },
+    {
+        "name": "quiescent",
+        "description": "A lightweight ClojureScript abstraction over ReactJS",
+        "languages": {
+            "Clojure": 20804
+        }
+    },
+    {
+        "name": "atea",
+        "description": "A minimalistic menu bar time tracker for MacOS",
+        "languages": {
+            "Clojure": 10265,
+            "Shell": 734
+        }
+    },
+    {
+        "name": "dot-clojure",
+        "description": "My .clojure/deps.edn file",
+        "languages": {
+            "Clojure": 6254
+        }
+    },
+    {
+        "name": "docjure",
+        "description": "Read and write Office documents from Clojure",
+        "languages": {
+            "Clojure": 109355
+        }
+    },
+    {
+        "name": "flambo",
+        "description": "A Clojure DSL for Apache Spark",
+        "languages": {
+            "Clojure": 84666,
+            "Java": 3258
+        }
+    },
+    {
+        "name": "pathom",
+        "description": "Pathom is a Clojure(script) engine for processing EQL requests.",
+        "languages": {
+            "Clojure": 1337865,
+            "CSS": 19620,
+            "Shell": 694,
+            "HTML": 502,
+            "JavaScript": 433,
+            "Handlebars": 180,
+            "Ruby": 163
+        }
+    },
+    {
+        "name": "system",
+        "description": "Reloaded components \u00e0 la carte",
+        "languages": {
+            "Clojure": 107490,
+            "Shell": 1076
+        }
     }
 ]

@@ -49,5 +49,1752 @@
             "Dhall": 33466,
             "Makefile": 571
         }
+    },
+    {
+        "name": "dhall-ansible",
+        "description": "Ansible definitions with Dhall",
+        "languages": {
+            "Dhall": 65601,
+            "Haskell": 19167,
+            "Nix": 503
+        }
+    },
+    {
+        "name": "cpkg",
+        "description": "A build tool/package manager for C, configured with Dhall",
+        "languages": {
+            "Dhall": 245724,
+            "Haskell": 74958,
+            "Shell": 2651,
+            "Makefile": 65
+        }
+    },
+    {
+        "name": "github-actions-dhall",
+        "description": "Dhall helpers for github actions",
+        "languages": {
+            "Dhall": 21541,
+            "Haskell": 704
+        }
+    },
+    {
+        "name": "dhall-terraform",
+        "description": "Generate dhall records from terraform resouces, data_sources & providers",
+        "languages": {
+            "Dhall": 1181870,
+            "Haskell": 13052,
+            "Nix": 4171,
+            "Makefile": 1159,
+            "HCL": 109
+        }
+    },
+    {
+        "name": "caterwaul",
+        "description": "Wailing into the primordial ooze of category theory",
+        "languages": {
+            "Dhall": 227468,
+            "Shell": 973,
+            "Emacs Lisp": 231
+        }
+    },
+    {
+        "name": "dhall-gitlab-ci",
+        "description": "A Dhall encoding of the GitLab CI configuration schema",
+        "languages": {
+            "Dhall": 44961
+        }
+    },
+    {
+        "name": "dhall-packages",
+        "description": "Collection of dhall packages",
+        "languages": {
+            "Dhall": 276624,
+            "Nix": 4762,
+            "Shell": 367,
+            "Makefile": 176
+        }
+    },
+    {
+        "name": "react-basic-starter",
+        "description": "Starter application for purescript-react-basic",
+        "languages": {
+            "Dhall": 3791,
+            "JavaScript": 3228,
+            "PureScript": 1957,
+            "HTML": 312
+        }
+    },
+    {
+        "name": "dhall-dot",
+        "description": "Dhall support for the DOT language for graphviz",
+        "languages": {
+            "Dhall": 26362
+        }
+    },
+    {
+        "name": "purescript-easy-ffi",
+        "description": "Easy FFI for PureScript",
+        "languages": {
+            "Dhall": 3297,
+            "PureScript": 1231,
+            "JavaScript": 265
+        }
+    },
+    {
+        "name": "dhall-nethack",
+        "description": "Generate NetHack configurations using Dhall",
+        "languages": {
+            "Dhall": 47835
+        }
+    },
+    {
+        "name": "dhall-containerfile",
+        "description": "Manage your Containerfile with Dhall.",
+        "languages": {
+            "Dhall": 10460,
+            "Haskell": 617
+        }
+    },
+    {
+        "name": "nix-derivation",
+        "description": null,
+        "languages": {
+            "Dhall": 3521,
+            "Nix": 967
+        }
+    },
+    {
+        "name": "purescript-react-vite-starter",
+        "description": "This is a starter project for everyone who'd like to start with PureScript with React and Vite as  a tool for your dev server and build.",
+        "languages": {
+            "Dhall": 3418,
+            "PureScript": 2061,
+            "JavaScript": 954,
+            "CSS": 584,
+            "HTML": 558
+        }
+    },
+    {
+        "name": "dhall-nomad",
+        "description": "Create maintainable nomad job files",
+        "languages": {
+            "Dhall": 38594
+        }
+    },
+    {
+        "name": "purescript-rave",
+        "description": "A standard stack for PureScript",
+        "languages": {
+            "Dhall": 3780,
+            "PureScript": 2832
+        }
+    },
+    {
+        "name": "dhall-concourse",
+        "description": "Dhall types for Concourse",
+        "languages": {
+            "Dhall": 73128,
+            "Nix": 744,
+            "Shell": 441
+        }
+    },
+    {
+        "name": "dhall-docker-compose",
+        "description": ":dash: A library for writing Docker Compose files in Dhall.",
+        "languages": {
+            "Dhall": 14305,
+            "Shell": 951
+        }
+    },
+    {
+        "name": "dhall-grafana",
+        "description": "Build Grafana dashboards with Dhall",
+        "languages": {
+            "Dhall": 47542,
+            "Shell": 2005,
+            "Nix": 1955,
+            "Procfile": 90
+        }
+    },
+    {
+        "name": "dhall-concourse",
+        "description": "Library to type check concourse configurations in dhall",
+        "languages": {
+            "Dhall": 70717,
+            "Nix": 6352,
+            "Shell": 1633
+        }
+    },
+    {
+        "name": "graph",
+        "description": "Dhall support for directed graphs with labeled vertices",
+        "languages": {
+            "Dhall": 5854
+        }
+    },
+    {
+        "name": "dhall-prometheus-operator",
+        "description": "Dhall types for Kubernetes Prometheus Operator",
+        "languages": {
+            "Dhall": 88674,
+            "Nix": 1301,
+            "Shell": 615
+        }
+    },
+    {
+        "name": "withinbot",
+        "description": "Within's Discord Bot",
+        "languages": {
+            "Dhall": 35480,
+            "Rust": 26079,
+            "Nix": 2248
+        }
+    },
+    {
+        "name": "haskell.zettel.page",
+        "description": "Haskell knowledgebase, Zettelkasten style (~2 months experiment, which resulted in migration to srid.ca)",
+        "languages": {
+            "Dhall": 268
+        }
+    },
+    {
+        "name": "vessel-package-set",
+        "description": "The official community package-set for vessel",
+        "languages": {
+            "Dhall": 7514,
+            "Handlebars": 3897,
+            "JavaScript": 579,
+            "Makefile": 335
+        }
+    },
+    {
+        "name": "dhall-semver",
+        "description": "Dhall support for semantic version numbers",
+        "languages": {
+            "Dhall": 8060
+        }
+    },
+    {
+        "name": "purescript-concur-starter",
+        "description": "A Starter kit for Purescript-Concur. Uses Parcel.",
+        "languages": {
+            "Dhall": 4408,
+            "PureScript": 4293,
+            "JavaScript": 934,
+            "HTML": 192
+        }
+    },
+    {
+        "name": "dhall-openssl",
+        "description": "Generate a type-safe openssl configuration file with dhall",
+        "languages": {
+            "Dhall": 15340
+        }
+    },
+    {
+        "name": "purescript-es4x",
+        "description": null,
+        "languages": {
+            "Dhall": 3139,
+            "PureScript": 2322,
+            "JavaScript": 2109,
+            "Haskell": 472
+        }
+    },
+    {
+        "name": "dhall-dhall",
+        "description": "Implementation of Dhall in Dhall",
+        "languages": {
+            "Dhall": 57734,
+            "Nix": 9190,
+            "Emacs Lisp": 231
+        }
+    },
+    {
+        "name": "dhall-alacritty",
+        "description": "Dhall types and default values for the alacritty terminal emulator",
+        "languages": {
+            "Dhall": 31941,
+            "Nix": 6644,
+            "Makefile": 283
+        }
+    },
+    {
+        "name": "purescript-react-tutorial",
+        "description": null,
+        "languages": {
+            "Dhall": 3223,
+            "PureScript": 3211,
+            "HTML": 1721,
+            "JavaScript": 879
+        }
+    },
+    {
+        "name": "dhall-operator",
+        "description": "Abstract applications operator",
+        "languages": {
+            "Dhall": 58503,
+            "Python": 1793,
+            "Makefile": 1319
+        }
+    },
+    {
+        "name": "package-set",
+        "description": "Aviate Labs' package set for Vessel",
+        "languages": {
+            "Dhall": 3357,
+            "Shell": 604,
+            "Motoko": 199
+        }
+    },
+    {
+        "name": "kustomize-dhall-generator",
+        "description": "Kustomize dhall generator plugin",
+        "languages": {
+            "Dhall": 4905,
+            "Shell": 649
+        }
+    },
+    {
+        "name": "ansible-clever",
+        "description": "Ansible role for clever cloud deployment",
+        "languages": {
+            "Dhall": 3367,
+            "Shell": 2906,
+            "Jinja": 236,
+            "Python": 220,
+            "Nix": 160
+        }
+    },
+    {
+        "name": "purescript-deno-example",
+        "description": null,
+        "languages": {
+            "Dhall": 4174,
+            "PureScript": 3462,
+            "Shell": 31
+        }
+    },
+    {
+        "name": "resume",
+        "description": "Resume generation stack - create PDF, markdown, website resumes from a single resume specification",
+        "languages": {
+            "Dhall": 36553,
+            "TeX": 10468,
+            "Makefile": 1978,
+            "Nix": 396
+        }
+    },
+    {
+        "name": "package-sets",
+        "description": "A curated list of PureScript packages for the Erlang backend",
+        "languages": {
+            "Dhall": 31860,
+            "Nix": 1146,
+            "Makefile": 777
+        }
+    },
+    {
+        "name": "halogen",
+        "description": "Template and Tooling for purescript-halogen v5",
+        "languages": {
+            "Dhall": 3765,
+            "PureScript": 1261,
+            "HTML": 172,
+            "JavaScript": 43
+        }
+    },
+    {
+        "name": "iam-dhall",
+        "description": "Create IAM policies using dhall",
+        "languages": {
+            "Dhall": 6518
+        }
+    },
+    {
+        "name": "hub",
+        "description": "podenv applications collection",
+        "languages": {
+            "Dhall": 38780
+        }
+    },
+    {
+        "name": "dhall-nginx",
+        "description": null,
+        "languages": {
+            "Dhall": 257455,
+            "Shell": 911,
+            "Makefile": 211
+        }
+    },
+    {
+        "name": "hlint-lib",
+        "description": "Library containing some standard HLint helpers",
+        "languages": {
+            "Dhall": 4025,
+            "Makefile": 176
+        }
+    },
+    {
+        "name": "react-basic-hooks",
+        "description": "Template and Tooling for purescript-react-basic-hooks. Direct port of example in official React Hooks docs.",
+        "languages": {
+            "Dhall": 3190,
+            "PureScript": 1360,
+            "HTML": 424,
+            "JavaScript": 43
+        }
+    },
+    {
+        "name": "dhall-openshift",
+        "description": "Typecheck, template and modularize your OpenShift definitions with Dhall",
+        "languages": {
+            "Dhall": 677874
+        }
+    },
+    {
+        "name": "purescript-gas-template",
+        "description": "A template to get started using Purescript with Google Apps Script",
+        "languages": {
+            "Dhall": 3774,
+            "Nix": 3141,
+            "JavaScript": 1721,
+            "PureScript": 1556
+        }
+    },
+    {
+        "name": "dhall-tekton",
+        "description": "Typecheck, template and modularize your Tekton pipeline definitions with Dhall ",
+        "languages": {
+            "Dhall": 14038,
+            "Python": 9165
+        }
+    },
+    {
+        "name": "dhall-kops",
+        "description": "Dhall types for Kops",
+        "languages": {
+            "Dhall": 97206,
+            "Nix": 756,
+            "Shell": 288
+        }
+    },
+    {
+        "name": "dhall-grafana",
+        "description": " Typecheck, template and modularize your Grafana dashboards with Dhall",
+        "languages": {
+            "Dhall": 4121,
+            "Shell": 206
+        }
+    },
+    {
+        "name": "dns",
+        "description": "Declarative DNS for personal domains",
+        "languages": {
+            "Dhall": 7981,
+            "Nix": 6998,
+            "Shell": 1199
+        }
+    },
+    {
+        "name": "packages",
+        "description": "A collection of Dhall packages",
+        "languages": {
+            "Dhall": 175
+        }
+    },
+    {
+        "name": "nats.dhall",
+        "description": "Use Dhall to configure NATS.io",
+        "languages": {
+            "Dhall": 10892
+        }
+    },
+    {
+        "name": "updo",
+        "description": "A style of maintaining and upgrading Haskell projects",
+        "languages": {
+            "Dhall": 31978,
+            "Makefile": 17987,
+            "Haskell": 7471,
+            "Python": 1589,
+            "Shell": 932
+        }
+    },
+    {
+        "name": "abstraction",
+        "description": "Data abstraction in Dhall",
+        "languages": {
+            "Dhall": 2361
+        }
+    },
+    {
+        "name": "ansible-dhall-jsonnet",
+        "description": null,
+        "languages": {
+            "Dhall": 2897,
+            "Jsonnet": 1328,
+            "Makefile": 321
+        }
+    },
+    {
+        "name": "functional-programming-made-easier",
+        "description": "Working through Charles Scalfani's book \"Functional Programming Made Easier\" https://leanpub.com/fp-made-easier",
+        "languages": {
+            "Dhall": 29823,
+            "PureScript": 27673,
+            "Makefile": 76
+        }
+    },
+    {
+        "name": "sf-infra",
+        "description": null,
+        "languages": {
+            "Dhall": 176413,
+            "Jinja": 107295,
+            "Python": 42260,
+            "Shell": 28058,
+            "Jsonnet": 25025,
+            "Haskell": 4165,
+            "Go": 3764,
+            "jq": 2491,
+            "JavaScript": 2341,
+            "Makefile": 2213,
+            "HTML": 453,
+            "Dockerfile": 349,
+            "CSS": 149
+        }
+    },
+    {
+        "name": "deploy-sourcegraph-dhall-archived",
+        "description": null,
+        "languages": {
+            "Dhall": 1210381,
+            "Shell": 6162,
+            "JavaScript": 52
+        }
+    },
+    {
+        "name": "purescript-react-starter",
+        "description": "Starter template for `purescript-react-basic-hooks` using Parcel. Intended to be an easy way to get started with PureScript & React.",
+        "languages": {
+            "Dhall": 3508,
+            "PureScript": 1999,
+            "HTML": 358,
+            "CSS": 154,
+            "JavaScript": 43
+        }
+    },
+    {
+        "name": "purescript-kickstarter",
+        "description": null,
+        "languages": {
+            "Dhall": 3431,
+            "PureScript": 2560,
+            "HTML": 306,
+            "JavaScript": 282,
+            "CSS": 136
+        }
+    },
+    {
+        "name": "dhall-aws",
+        "description": "Exposes AWS data as Dhall records",
+        "languages": {
+            "Dhall": 198212,
+            "Shell": 3755,
+            "Nix": 1341
+        }
+    },
+    {
+        "name": "pdftoolswiki",
+        "description": "The Wiki for pdf-tools! ",
+        "languages": {
+            "Dhall": 282
+        }
+    },
+    {
+        "name": "dhall-graphql-schema",
+        "description": "Programatically write GraphQL schemas using Dhall",
+        "languages": {
+            "Dhall": 16585
+        }
+    },
+    {
+        "name": "purescript-routing-link",
+        "description": null,
+        "languages": {
+            "Dhall": 4417,
+            "PureScript": 3295,
+            "JavaScript": 1140,
+            "HTML": 344
+        }
+    },
+    {
+        "name": "dhall-prometheus",
+        "description": "Prometheus configuration with Dhall ",
+        "languages": {
+            "Dhall": 9461,
+            "Python": 4492,
+            "Haskell": 1089
+        }
+    },
+    {
+        "name": "purescript-react-starter",
+        "description": "Best practices for using React with Purescript",
+        "languages": {
+            "Dhall": 3848,
+            "PureScript": 1275,
+            "JavaScript": 910,
+            "HTML": 113
+        }
+    },
+    {
+        "name": "purescript-react-basic-hooks-example",
+        "description": "Small example using react-basic-hooks and webpack",
+        "languages": {
+            "Dhall": 3431,
+            "PureScript": 1257,
+            "JavaScript": 823
+        }
+    },
+    {
+        "name": "dhall-nomad",
+        "description": " Typecheck, template and modularize your Nomad job specifications with Dhall ",
+        "languages": {
+            "Dhall": 9706,
+            "Makefile": 229
+        }
+    },
+    {
+        "name": "kickstart",
+        "description": null,
+        "languages": {
+            "Dhall": 4740,
+            "Shell": 4542,
+            "JavaScript": 52
+        }
+    },
+    {
+        "name": "dhall-security-txt",
+        "description": "Dhall renderer for security.txt",
+        "languages": {
+            "Dhall": 8889
+        }
+    },
+    {
+        "name": "dhall-resume",
+        "description": "JSON Resume with Dhall",
+        "languages": {
+            "Dhall": 6670,
+            "Python": 4459,
+            "Nix": 1075,
+            "Makefile": 313,
+            "Shell": 31
+        }
+    },
+    {
+        "name": "purescript-classnames",
+        "description": "A simple Purescript utility for conditionally joining classNames together",
+        "languages": {
+            "Dhall": 4003,
+            "PureScript": 2919
+        }
+    },
+    {
+        "name": "purescript-eventsource",
+        "description": "EventSource client for Node.js and Browser",
+        "languages": {
+            "Dhall": 4296,
+            "PureScript": 3178,
+            "JavaScript": 995
+        }
+    },
+    {
+        "name": "dhall-path",
+        "description": "Well-typed path manipulation for Dhall",
+        "languages": {
+            "Dhall": 41142,
+            "Nix": 8619,
+            "Emacs Lisp": 231
+        }
+    },
+    {
+        "name": "neuron",
+        "description": "My zettelkasten",
+        "languages": {
+            "Dhall": 138,
+            "Shell": 119
+        }
+    },
+    {
+        "name": "dhall-session-types",
+        "description": null,
+        "languages": {
+            "Dhall": 15970
+        }
+    },
+    {
+        "name": "scdlang-vscode",
+        "description": "Syntax highlighting support for Scdlang",
+        "languages": {
+            "Dhall": 20096,
+            "Shell": 1157,
+            "Dockerfile": 1050,
+            "JavaScript": 572
+        }
+    },
+    {
+        "name": "terror",
+        "description": "The Terrifying Build System",
+        "languages": {
+            "Dhall": 1118,
+            "Haskell": 798,
+            "Emacs Lisp": 124
+        }
+    },
+    {
+        "name": "purescript-react-starter",
+        "description": null,
+        "languages": {
+            "Dhall": 3787,
+            "PureScript": 3301,
+            "JavaScript": 1441,
+            "HTML": 1252,
+            "Makefile": 553
+        }
+    },
+    {
+        "name": "hello-world",
+        "description": null,
+        "languages": {
+            "Dhall": 3748,
+            "Python": 1752,
+            "PureScript": 151,
+            "JavaScript": 17
+        }
+    },
+    {
+        "name": "purescript-javascript-interop",
+        "description": "Demonstrates two-way communication between PureScript and JavaScript (Spork).",
+        "languages": {
+            "Dhall": 3771,
+            "PureScript": 1229,
+            "Nix": 490,
+            "HTML": 300,
+            "JavaScript": 195
+        }
+    },
+    {
+        "name": "purescript-humdrum",
+        "description": "a small utility to help when inserting many times a same script in a page (think blog articles with illustrations)",
+        "languages": {
+            "Dhall": 3046,
+            "PureScript": 937
+        }
+    },
+    {
+        "name": "purescript-inflection",
+        "description": "Bindings to inflection",
+        "languages": {
+            "Dhall": 3712,
+            "JavaScript": 1032,
+            "PureScript": 881
+        }
+    },
+    {
+        "name": "purescript-tooling-2019",
+        "description": "Recommended PureScript Tooling (2019). Starter Project.",
+        "languages": {
+            "Dhall": 3769,
+            "Nix": 529,
+            "PureScript": 318,
+            "HTML": 156
+        }
+    },
+    {
+        "name": "dhall-blocks",
+        "description": "More configureable dhall utility than Prelude/JSON/renderYAML and its internal Blocks structures.",
+        "languages": {
+            "Dhall": 8772
+        }
+    },
+    {
+        "name": "abi-to-dhall",
+        "description": "Generate a Dhall based DSL for deploying Ethereum contracts.",
+        "languages": {
+            "Dhall": 43081,
+            "Shell": 12789,
+            "Nix": 9208,
+            "JavaScript": 5366
+        }
+    },
+    {
+        "name": "purescript-react-halo-example",
+        "description": null,
+        "languages": {
+            "Dhall": 3670,
+            "PureScript": 2572,
+            "HTML": 272,
+            "JavaScript": 127
+        }
+    },
+    {
+        "name": "purescript-puppeteer-tutorial",
+        "description": null,
+        "languages": {
+            "Dhall": 3150,
+            "JavaScript": 2137,
+            "PureScript": 2122
+        }
+    },
+    {
+        "name": "Lad",
+        "description": "A Discord bot that you can totally add to your server.",
+        "languages": {
+            "Dhall": 145109,
+            "Python": 54912,
+            "CSS": 6782,
+            "HTML": 6291
+        }
+    },
+    {
+        "name": "cv-static",
+        "description": "Source for static CV",
+        "languages": {
+            "Dhall": 23024,
+            "HTML": 22305,
+            "Haskell": 15338,
+            "SCSS": 12634,
+            "CSS": 11106
+        }
+    },
+    {
+        "name": "dhall-deptrac",
+        "description": "Dhall types and functions to manage Deptrac configurations",
+        "languages": {
+            "Dhall": 4931,
+            "Shell": 307
+        }
+    },
+    {
+        "name": "json-to-haskell-purescript",
+        "description": "Generate Haskell datatypes from json objects",
+        "languages": {
+            "Dhall": 3732,
+            "PureScript": 1854,
+            "HTML": 348,
+            "Makefile": 213,
+            "JavaScript": 43
+        }
+    },
+    {
+        "name": "rice",
+        "description": "Trying to invent a \u5b8c\u74a7\u30c7\u30b9\u30af\u30c8\u30c3\u30d7",
+        "languages": {
+            "Dhall": 1793,
+            "Shell": 1621
+        }
+    },
+    {
+        "name": "plugins",
+        "description": "A curated set of plugins for dzen-dhall.",
+        "languages": {
+            "Dhall": 51501,
+            "Shell": 4396
+        }
+    },
+    {
+        "name": "purescript-sse-stream",
+        "description": "Stream for writing Server-Sent Events",
+        "languages": {
+            "Dhall": 4038,
+            "PureScript": 3488,
+            "JavaScript": 745
+        }
+    },
+    {
+        "name": "purescript-rx-hyrule",
+        "description": null,
+        "languages": {
+            "Dhall": 3544,
+            "PureScript": 2139,
+            "JavaScript": 779
+        }
+    },
+    {
+        "name": "purescript-specular-starter",
+        "description": null,
+        "languages": {
+            "Dhall": 3497,
+            "Nix": 1274,
+            "PureScript": 938,
+            "HTML": 120
+        }
+    },
+    {
+        "name": "purescript-monad-unlift",
+        "description": "Unlift implementation for PureScript",
+        "languages": {
+            "Dhall": 3904,
+            "PureScript": 2320
+        }
+    },
+    {
+        "name": "dhall-bibtex",
+        "description": "Dhall types for bibtex integration",
+        "languages": {
+            "Dhall": 8629,
+            "Shell": 1037,
+            "Makefile": 215
+        }
+    },
+    {
+        "name": "purescript-newtype-auto",
+        "description": null,
+        "languages": {
+            "Dhall": 3780,
+            "PureScript": 1657
+        }
+    },
+    {
+        "name": "purescript-halogen-webpack-template",
+        "description": null,
+        "languages": {
+            "Dhall": 3144,
+            "PureScript": 1264,
+            "JavaScript": 540,
+            "HTML": 125
+        }
+    },
+    {
+        "name": "pkgs",
+        "description": "An open collection of user-contributed packages",
+        "languages": {
+            "Dhall": 3748
+        }
+    },
+    {
+        "name": "verpackung",
+        "description": "A package set for idris2",
+        "languages": {
+            "Dhall": 216569,
+            "Idris": 25247,
+            "Makefile": 2119,
+            "JavaScript": 1266,
+            "Dockerfile": 424
+        }
+    },
+    {
+        "name": "purescript-bun",
+        "description": "PureScript bindings to Bun runtime (https://bun.sh/), and benchmarks",
+        "languages": {
+            "Dhall": 3261,
+            "PureScript": 865,
+            "Haskell": 472,
+            "JavaScript": 297
+        }
+    },
+    {
+        "name": "purescript-barbies",
+        "description": "Classes for working with types that can change clothes.",
+        "languages": {
+            "Dhall": 3427,
+            "Nix": 2623,
+            "PureScript": 1678,
+            "Mustache": 775,
+            "Shell": 92
+        }
+    },
+    {
+        "name": "dhall-zuul",
+        "description": null,
+        "languages": {
+            "Dhall": 37663,
+            "Python": 7218,
+            "Haskell": 2411
+        }
+    },
+    {
+        "name": "dhall-bazel",
+        "description": " Generate bazel build files using Dhall",
+        "languages": {
+            "Dhall": 18340
+        }
+    },
+    {
+        "name": "dhall-monocle",
+        "description": "Dhall binding for Monocle",
+        "languages": {
+            "Dhall": 11768
+        }
+    },
+    {
+        "name": "purescript-deku-toplevel",
+        "description": "Helper functions for inserting a deku app into the DOM",
+        "languages": {
+            "Dhall": 5373,
+            "PureScript": 2222,
+            "HTML": 250
+        }
+    },
+    {
+        "name": "ctl-scaffold",
+        "description": null,
+        "languages": {
+            "Dhall": 9151,
+            "Nix": 2822,
+            "JavaScript": 2210,
+            "PureScript": 442,
+            "Makefile": 425,
+            "HTML": 222
+        }
+    },
+    {
+        "name": "sai-atd",
+        "description": "Single Collateral Dai deploy scripts using abi-to-dhall",
+        "languages": {
+            "Dhall": 12518,
+            "Nix": 1062
+        }
+    },
+    {
+        "name": "purescript-tutorial",
+        "description": null,
+        "languages": {
+            "Dhall": 3823,
+            "PureScript": 2077,
+            "JavaScript": 348,
+            "HTML": 306
+        }
+    },
+    {
+        "name": "purescript-koa",
+        "description": "A Koa wrapper in Purescript",
+        "languages": {
+            "Dhall": 3721,
+            "PureScript": 2161,
+            "JavaScript": 724
+        }
+    },
+    {
+        "name": "dhall-migrations",
+        "description": null,
+        "languages": {
+            "Dhall": 10875,
+            "Haskell": 2243
+        }
+    },
+    {
+        "name": ".github",
+        "description": "Default Community Health Files for the @SocialGouv organization on GitHub ",
+        "languages": {
+            "Dhall": 50853,
+            "Makefile": 1515,
+            "Dockerfile": 713,
+            "Shell": 462
+        }
+    },
+    {
+        "name": "purescript-esbuild-template",
+        "description": "Template for purescript projects using esbuild",
+        "languages": {
+            "Dhall": 986,
+            "JavaScript": 534,
+            "PureScript": 304,
+            "HTML": 264,
+            "CSS": 85
+        }
+    },
+    {
+        "name": "purs-svelte",
+        "description": "Importing PureScript functions into Svelte files, thx esbuild",
+        "languages": {
+            "Dhall": 3283,
+            "JavaScript": 1075,
+            "HTML": 330,
+            "PureScript": 306,
+            "Svelte": 123
+        }
+    },
+    {
+        "name": "dhall-vasp",
+        "description": "A dhall package for vasp configuration",
+        "languages": {
+            "Dhall": 4618
+        }
+    },
+    {
+        "name": "purescript-jsdom",
+        "description": "Bindings to the jsdom library",
+        "languages": {
+            "Dhall": 3917,
+            "PureScript": 1883,
+            "JavaScript": 373
+        }
+    },
+    {
+        "name": "twoninetyex",
+        "description": "IHS 29x format specs, in Dhall",
+        "languages": {
+            "Dhall": 139142,
+            "Python": 10762,
+            "Makefile": 1841
+        }
+    },
+    {
+        "name": "dhall-matplotlib",
+        "description": null,
+        "languages": {
+            "Dhall": 26158
+        }
+    },
+    {
+        "name": "purescript-game-world",
+        "description": null,
+        "languages": {
+            "Dhall": 4107,
+            "PureScript": 3126,
+            "HTML": 311
+        }
+    },
+    {
+        "name": "dhallsh",
+        "description": "Experiments with generating simple sh scripts from pure Dhall",
+        "languages": {
+            "Dhall": 15531,
+            "Nix": 570
+        }
+    },
+    {
+        "name": "dhall-github-actions",
+        "description": "Typecheck, template and modularize your GitHub Actions definitions with Dhall ",
+        "languages": {
+            "Dhall": 10559
+        }
+    },
+    {
+        "name": "Learn-Dhall",
+        "description": "A repository for showcasing my knowledge of the Dhall programming language, and continuing to learn the language",
+        "languages": {
+            "Dhall": 213170,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "dhall-sgf",
+        "description": "Smart Game Format with Dhall",
+        "languages": {
+            "Dhall": 10722
+        }
+    },
+    {
+        "name": "dhall-waybar",
+        "description": "Dhall bindings for waybar",
+        "languages": {
+            "Dhall": 19592
+        }
+    },
+    {
+        "name": "components-example",
+        "description": null,
+        "languages": {
+            "Dhall": 3842,
+            "PureScript": 3058,
+            "HTML": 177,
+            "JavaScript": 59
+        }
+    },
+    {
+        "name": "dhall-zuul",
+        "description": null,
+        "languages": {
+            "Dhall": 56911,
+            "Shell": 10420,
+            "Makefile": 2034,
+            "Python": 2025
+        }
+    },
+    {
+        "name": "purescript-wai-router",
+        "description": "Router for purescript-wai",
+        "languages": {
+            "Dhall": 3892,
+            "PureScript": 306
+        }
+    },
+    {
+        "name": "komdhall",
+        "description": "Dhall from Docker Compose to Kubernetes Manifest",
+        "languages": {
+            "Dhall": 948,
+            "Shell": 586
+        }
+    },
+    {
+        "name": "unison-purescript-browser",
+        "description": " A Unison Github repo explorer in Purescript",
+        "languages": {
+            "Dhall": 3774,
+            "PureScript": 306
+        }
+    },
+    {
+        "name": "ledo",
+        "description": "Dhall-based Package/Build/Environment manager",
+        "languages": {
+            "Dhall": 2604,
+            "Scala": 2090
+        }
+    },
+    {
+        "name": "dhall-kubernetes-spark",
+        "description": "Dhall types for Spark Kubernetes Operator",
+        "languages": {
+            "Dhall": 25402,
+            "Shell": 429
+        }
+    },
+    {
+        "name": "purescript-undefined",
+        "description": "The undefined value.",
+        "languages": {
+            "Dhall": 3254,
+            "PureScript": 78,
+            "JavaScript": 35
+        }
+    },
+    {
+        "name": "git-resource",
+        "description": "dhall-concourse bindings for git-resource",
+        "languages": {
+            "Dhall": 12128,
+            "Shell": 604
+        }
+    },
+    {
+        "name": "deploy-sourcegraph-core",
+        "description": "Source for where all Sourcegraph deployments are derived from",
+        "languages": {
+            "Dhall": 1261971,
+            "Shell": 10772,
+            "JavaScript": 52
+        }
+    },
+    {
+        "name": "Dhall",
+        "description": "Dhall",
+        "languages": {
+            "Dhall": 11929
+        }
+    },
+    {
+        "name": "purescript-nanoid",
+        "description": "Bindings to the nanoid JavaScript package",
+        "languages": {
+            "Dhall": 3340,
+            "PureScript": 855,
+            "JavaScript": 86
+        }
+    },
+    {
+        "name": "cv-aas",
+        "description": "My CV-as-a-Service, because the world needs more SaaS.",
+        "languages": {
+            "Dhall": 36660,
+            "TeX": 15486,
+            "Rust": 8158,
+            "HTML": 2436,
+            "Shell": 1359,
+            "Dockerfile": 146
+        }
+    },
+    {
+        "name": "swerve-jwt-example",
+        "description": null,
+        "languages": {
+            "Dhall": 7874,
+            "PureScript": 6982
+        }
+    },
+    {
+        "name": "covid19-mhsr",
+        "description": null,
+        "languages": {
+            "Dhall": 10999,
+            "R": 2000,
+            "Shell": 368
+        }
+    },
+    {
+        "name": "website",
+        "description": "code for alumxi.com",
+        "languages": {
+            "Dhall": 5008,
+            "Shell": 4276,
+            "JavaScript": 1760,
+            "HTML": 1639,
+            "CSS": 1056,
+            "Just": 505
+        }
+    },
+    {
+        "name": "dhall-vault",
+        "description": "Dhall-packaged Hashicorp Vault",
+        "languages": {
+            "Dhall": 99843,
+            "Shell": 8977,
+            "Nix": 878
+        }
+    },
+    {
+        "name": "socialistplanning",
+        "description": "A blog about socialist planning.",
+        "languages": {
+            "Dhall": 1337488,
+            "TeX": 3059,
+            "Lua": 2147,
+            "Makefile": 1928,
+            "HTML": 1729,
+            "Shell": 47
+        }
+    },
+    {
+        "name": "new-ps-project-2019",
+        "description": null,
+        "languages": {
+            "Dhall": 3762,
+            "Nix": 548,
+            "PureScript": 300
+        }
+    },
+    {
+        "name": "purescript-python",
+        "description": "An experimental Python backend for the PureScript language, using --dump-corefn",
+        "languages": {
+            "Dhall": 3769,
+            "PureScript": 306
+        }
+    },
+    {
+        "name": "dashboard",
+        "description": "Personal dashboard for my OSS projects",
+        "languages": {
+            "Dhall": 14406
+        }
+    },
+    {
+        "name": "dhall-mbsync",
+        "description": "Mbsync configuration generation using Dhall",
+        "languages": {
+            "Dhall": 17797
+        }
+    },
+    {
+        "name": "purescript-react-starter",
+        "description": "Purescript React Hello World App.",
+        "languages": {
+            "Dhall": 3782,
+            "JavaScript": 2855,
+            "PureScript": 878,
+            "HTML": 510,
+            "CSS": 204
+        }
+    },
+    {
+        "name": "scala-gha-dhall",
+        "description": "Example scala project using github-action-dhall to manage your CI workflow",
+        "languages": {
+            "Dhall": 1967,
+            "Scala": 972
+        }
+    },
+    {
+        "name": "gh-actions-dhall",
+        "description": "A GitHub Action which typechecks and lints all Dhall files in a repository.",
+        "languages": {
+            "Dhall": 2897,
+            "Shell": 2864,
+            "Dockerfile": 287
+        }
+    },
+    {
+        "name": "SNU_2D_ProgrammingTools_IDE_Dhall",
+        "description": "The Dhall Programming language IDE submodule for SNU Programming Tools (2D Mode)",
+        "languages": {
+            "Dhall": 212590,
+            "Roff": 3456,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "purescript-reflect-row",
+        "description": "Generically reflect row types",
+        "languages": {
+            "Dhall": 2894,
+            "PureScript": 2650
+        }
+    },
+    {
+        "name": "dhall-regex",
+        "description": "An experimental Dhall type for Rust's regular expression syntax tree (RE2 syntax)",
+        "languages": {
+            "Dhall": 57345
+        }
+    },
+    {
+        "name": "purescript-simple-emitter",
+        "description": "PureScript simple event emitter",
+        "languages": {
+            "Dhall": 3570,
+            "PureScript": 1878
+        }
+    },
+    {
+        "name": "kubernetes-config-v2",
+        "description": "My new kubernetes setup with dhall",
+        "languages": {
+            "Dhall": 61888,
+            "Shell": 16590
+        }
+    },
+    {
+        "name": "haloform",
+        "description": null,
+        "languages": {
+            "Dhall": 3524,
+            "PureScript": 3515,
+            "JavaScript": 1819,
+            "HTML": 163
+        }
+    },
+    {
+        "name": "purescript-read-some-json-file",
+        "description": "an example of how to read and parse a JSON file using Purescript-Node-FS-Aff and Purescript-Simple-JSON",
+        "languages": {
+            "Dhall": 3175,
+            "PureScript": 776
+        }
+    },
+    {
+        "name": "purescript-foreign-datetime",
+        "description": null,
+        "languages": {
+            "Dhall": 4393,
+            "PureScript": 2171
+        }
+    },
+    {
+        "name": "maddison.io",
+        "description": "maddison's github pages blog",
+        "languages": {
+            "Dhall": 314
+        }
+    },
+    {
+        "name": "dhall-utility-library",
+        "description": "Utility functions for Dhall",
+        "languages": {
+            "Dhall": 22669,
+            "Shell": 1041,
+            "Nix": 744
+        }
+    },
+    {
+        "name": "purs-starter",
+        "description": "Basic stuff + nix + zephyr.",
+        "languages": {
+            "Dhall": 3300,
+            "PureScript": 883,
+            "Nix": 791,
+            "Shell": 75
+        }
+    },
+    {
+        "name": "purescript-react-markdown",
+        "description": null,
+        "languages": {
+            "Dhall": 760,
+            "PureScript": 443,
+            "JavaScript": 147
+        }
+    },
+    {
+        "name": "NonEmpty",
+        "description": "NonEmpty type for Dhall",
+        "languages": {
+            "Dhall": 137
+        }
+    },
+    {
+        "name": "infer",
+        "description": "Code for video: Where don't we say types?",
+        "languages": {
+            "Dhall": 3764,
+            "LLVM": 3552,
+            "PureScript": 973,
+            "C++": 742,
+            "Java": 641,
+            "TypeScript": 586,
+            "OCaml": 541,
+            "Haskell": 436,
+            "Crystal": 390,
+            "Rust": 358,
+            "C": 237
+        }
+    },
+    {
+        "name": "purescript-variant-ctors",
+        "description": "Generate constructors for Variant types",
+        "languages": {
+            "Dhall": 2897,
+            "PureScript": 1041
+        }
+    },
+    {
+        "name": "dhall-mermaid-js",
+        "description": "Dhall types representing mermaid-js' diagram languages",
+        "languages": {
+            "Dhall": 14227
+        }
+    },
+    {
+        "name": "purescript-data-default",
+        "description": "Default values for PureScript types",
+        "languages": {
+            "Dhall": 3068,
+            "PureScript": 2007
+        }
+    },
+    {
+        "name": "purescript-signal",
+        "description": null,
+        "languages": {
+            "Dhall": 3737
+        }
+    },
+    {
+        "name": "trout-lambda-demo",
+        "description": "A Trout-based API on AWS Lambda",
+        "languages": {
+            "Dhall": 3841,
+            "PureScript": 1723
+        }
+    },
+    {
+        "name": "ffi-purescript",
+        "description": "For practice how to use ffi in PureScript",
+        "languages": {
+            "Dhall": 3775,
+            "PureScript": 1520,
+            "JavaScript": 418,
+            "Makefile": 211
+        }
+    },
+    {
+        "name": "purescript-millefeuille",
+        "description": "[Explorations] MilleFeuille wrapper for PureScript with good typecheking.",
+        "languages": {
+            "Dhall": 3815,
+            "PureScript": 2997,
+            "JavaScript": 242
+        }
+    },
+    {
+        "name": "purescript-monoid-action",
+        "description": "Monoid Actions",
+        "languages": {
+            "Dhall": 4292,
+            "PureScript": 728
+        }
+    },
+    {
+        "name": "veenits123.github.io",
+        "description": "Personal Website",
+        "languages": {
+            "Dhall": 258
+        }
+    },
+    {
+        "name": "ESA",
+        "description": "Expressive Safe Ansible",
+        "languages": {
+            "Dhall": 12058,
+            "Shell": 1895,
+            "Jinja": 1441,
+            "Makefile": 829
+        }
+    },
+    {
+        "name": "purescript-meh",
+        "description": "Mike's Event Hacks",
+        "languages": {
+            "Dhall": 6464,
+            "PureScript": 4616,
+            "JavaScript": 1053
+        }
+    },
+    {
+        "name": "affjax-example",
+        "description": null,
+        "languages": {
+            "Dhall": 3791,
+            "PureScript": 650,
+            "HTML": 267,
+            "JavaScript": 126,
+            "CSS": 103
+        }
+    },
+    {
+        "name": "fixPackagesDhallFiles",
+        "description": "Quoting the 'assert' package with backticks",
+        "languages": {
+            "Dhall": 7863164,
+            "PureScript": 7124
+        }
+    },
+    {
+        "name": "purescript-backoff",
+        "description": null,
+        "languages": {
+            "Dhall": 3285,
+            "PureScript": 2978
+        }
+    },
+    {
+        "name": "Gregor_lernt_Purescript",
+        "description": null,
+        "languages": {
+            "Dhall": 3134,
+            "PureScript": 329,
+            "HTML": 322,
+            "SCSS": 152,
+            "JavaScript": 47
+        }
+    },
+    {
+        "name": "purescript-react-starter",
+        "description": "Cloned from https://github.com/ptrfrncsmrph/purescript-react-starter",
+        "languages": {
+            "Dhall": 3464,
+            "PureScript": 1795,
+            "Nix": 751,
+            "HTML": 358,
+            "CSS": 154,
+            "JavaScript": 43
+        }
+    },
+    {
+        "name": "dhall-mr",
+        "description": "Manage mr configuration with dhall",
+        "languages": {
+            "Dhall": 7956,
+            "Nix": 5462,
+            "Haskell": 830,
+            "Makefile": 248
+        }
+    },
+    {
+        "name": "minimal-halogen-ps",
+        "description": null,
+        "languages": {
+            "Dhall": 3764,
+            "PureScript": 1209,
+            "HTML": 112
+        }
+    },
+    {
+        "name": "purescript-erl-message-routing",
+        "description": null,
+        "languages": {
+            "Dhall": 4021,
+            "Erlang": 2463,
+            "PureScript": 1234,
+            "Makefile": 203,
+            "Emacs Lisp": 151
+        }
+    },
+    {
+        "name": "dhall-ci",
+        "description": "Reusable CI abstractions with dhall",
+        "languages": {
+            "Dhall": 27131,
+            "Shell": 1301,
+            "Dockerfile": 1017
+        }
+    },
+    {
+        "name": "purescript-ix-maps",
+        "description": "A Map data structure that derives keys from values",
+        "languages": {
+            "Dhall": 3360,
+            "PureScript": 2291
+        }
+    },
+    {
+        "name": "dhall-prometheus-operator-alerts",
+        "description": "An example of using the Dhall configuration language to generate a prometheus alerts file and a PrometheusRules CR",
+        "languages": {
+            "Dhall": 9947,
+            "Makefile": 348
+        }
+    },
+    {
+        "name": "purescript-floating-ui",
+        "description": null,
+        "languages": {
+            "Dhall": 2961,
+            "PureScript": 2124,
+            "JavaScript": 430
+        }
+    },
+    {
+        "name": "DhallDockerCompose",
+        "description": "dhall-docker-compose contains Dhall bindings to docker-compose. WIth the help of this lib, you can create a complete docker-compose with dhall.",
+        "languages": {
+            "Dhall": 3963,
+            "Shell": 604
+        }
+    },
+    {
+        "name": "dhall-nebula",
+        "description": null,
+        "languages": {
+            "Dhall": 69688,
+            "Haskell": 24754,
+            "Python": 8533,
+            "Shell": 8163,
+            "Dockerfile": 1591,
+            "Go": 781,
+            "PowerShell": 292
+        }
+    },
+    {
+        "name": "service_utils",
+        "description": "Service Utils",
+        "languages": {
+            "Dhall": 7773,
+            "Nix": 3751,
+            "Makefile": 3561,
+            "Shell": 1956
+        }
+    },
+    {
+        "name": "tep-alumni-website",
+        "description": null,
+        "languages": {
+            "Dhall": 4881,
+            "Shell": 2926,
+            "HTML": 29
+        }
+    },
+    {
+        "name": "hello-streetmap",
+        "description": "Scaffolding for an openlayers view of OpenStreetMap",
+        "languages": {
+            "Dhall": 3596,
+            "PureScript": 3165,
+            "JavaScript": 851,
+            "HTML": 430
+        }
     }
 ]

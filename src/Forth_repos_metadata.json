@@ -55,5 +55,2055 @@
             "GDB": 496,
             "Awk": 262
         }
+    },
+    {
+        "name": "punyforth",
+        "description": "Forth inspired programming language for the ESP8266",
+        "languages": {
+            "Forth": 155501,
+            "Assembly": 59743,
+            "Python": 55722,
+            "Java": 19881,
+            "C": 17802,
+            "Makefile": 127,
+            "Shell": 95
+        }
+    },
+    {
+        "name": "1991",
+        "description": "A server-side web framework written in Forth.",
+        "languages": {
+            "Forth": 16822
+        }
+    },
+    {
+        "name": "planckforth",
+        "description": "Bootstrapping a Forth interpreter from hand-written tiny ELF binary. Just for fun. ",
+        "languages": {
+            "Forth": 147798,
+            "Python": 6693,
+            "C": 5443,
+            "Shell": 1369,
+            "Makefile": 440,
+            "F#": 335
+        }
+    },
+    {
+        "name": "swapforth",
+        "description": "Swapforth is a cross-platform ANS Forth",
+        "languages": {
+            "Forth": 379160,
+            "Assembly": 180625,
+            "Verilog": 145956,
+            "Python": 115084,
+            "TeX": 67088,
+            "C++": 21706,
+            "F#": 16205,
+            "Makefile": 13630,
+            "C": 11847,
+            "Shell": 720
+        }
+    },
+    {
+        "name": "durexforth",
+        "description": "Modern C64 Forth",
+        "languages": {
+            "Forth": 137139,
+            "Assembly": 48317,
+            "Makefile": 5485,
+            "Python": 1185
+        }
+    },
+    {
+        "name": "flpc",
+        "description": "Forth Lisp Python Continuum: A small highly dynamic self-bootstrapping language",
+        "languages": {
+            "Forth": 599803,
+            "C": 59555,
+            "Nim": 54316,
+            "Python": 15822
+        }
+    },
+    {
+        "name": "RayTracer",
+        "description": "Ray tracer with phong lighting, reflections, refractions, normal mapping, procedural textures, super sampling, and depth of field.",
+        "languages": {
+            "Forth": 17334467,
+            "MATLAB": 5505325,
+            "C++": 56168,
+            "PHP": 4077,
+            "Makefile": 2967,
+            "Shell": 479
+        }
+    },
+    {
+        "name": "zeptoforth",
+        "description": "A not-so-small Forth for Cortex-M",
+        "languages": {
+            "Forth": 9344002,
+            "Assembly": 3448855,
+            "HTML": 3217973,
+            "JavaScript": 71325,
+            "CSS": 58886,
+            "Python": 27471,
+            "Shell": 23370,
+            "Makefile": 19607,
+            "GDB": 79
+        }
+    },
+    {
+        "name": "j1",
+        "description": "The J1 CPU",
+        "languages": {
+            "Forth": 19690,
+            "Verilog": 14216,
+            "Makefile": 6646,
+            "Python": 2857,
+            "C++": 1593,
+            "C": 55
+        }
+    },
+    {
+        "name": "gforth",
+        "description": "Gforth mirror on GitHub (original is on Savannah)",
+        "languages": {
+            "Forth": 3595261,
+            "C": 1346908,
+            "Shell": 100588,
+            "Makefile": 94177,
+            "C++": 90786,
+            "M4": 72820,
+            "Emacs Lisp": 66804,
+            "SWIG": 53427,
+            "TeX": 41458,
+            "Java": 39027,
+            "Vim Script": 32880,
+            "Assembly": 22303,
+            "Scala": 13196,
+            "Python": 12528,
+            "Pascal": 8848,
+            "Yacc": 8102,
+            "Batchfile": 8086,
+            "sed": 6557,
+            "Verilog": 5700,
+            "OpenEdge ABL": 4537,
+            "QMake": 3758,
+            "Roff": 3752,
+            "Lex": 2825,
+            "Dockerfile": 1462,
+            "PowerBuilder": 1344,
+            "Brainfuck": 1143,
+            "BitBake": 1043,
+            "Csound": 723,
+            "Scheme": 627,
+            "Awk": 584
+        }
+    },
+    {
+        "name": "forthlisp",
+        "description": "A Small Lisp in Forth",
+        "languages": {
+            "Forth": 10381,
+            "Scheme": 179
+        }
+    },
+    {
+        "name": "muforth",
+        "description": "A simple, indirect-threaded Forth, written in C; for target compiling; runs on Linux, BSD, OSX, and Cygwin",
+        "languages": {
+            "Forth": 3950262,
+            "Assembly": 182281,
+            "Lua": 147994,
+            "C": 111350,
+            "Roff": 15060,
+            "Shell": 13219,
+            "Makefile": 6591,
+            "sed": 6440,
+            "Vim Script": 1633
+        }
+    },
+    {
+        "name": "eulex",
+        "description": "A straightforward standalone Forth implementation for x86.",
+        "languages": {
+            "Forth": 207373,
+            "Assembly": 39812,
+            "C": 3273,
+            "Makefile": 2094,
+            "Shell": 1975,
+            "Common Lisp": 1567,
+            "GDB": 41
+        }
+    },
+    {
+        "name": "r4",
+        "description": ":r4 concatenative programming language with ideas from ColorForth.",
+        "languages": {
+            "Forth": 3592781,
+            "Assembly": 903289,
+            "POV-Ray SDL": 290813,
+            "PHP": 120276,
+            "HTML": 120162,
+            "Rebol": 91038,
+            "Pawn": 43082,
+            "C++": 22198,
+            "Pascal": 3148,
+            "NASL": 2403,
+            "Batchfile": 275
+        }
+    },
+    {
+        "name": "gbforth",
+        "description": "\ud83d\udc7e A Forth-based Game Boy development kit",
+        "languages": {
+            "Forth": 133107,
+            "JavaScript": 25987,
+            "Emacs Lisp": 1396,
+            "Makefile": 1385,
+            "Dockerfile": 219
+        }
+    },
+    {
+        "name": "miniforth",
+        "description": "A bootsector FORTH",
+        "languages": {
+            "Forth": 89480,
+            "Python": 11194,
+            "Assembly": 9856,
+            "Shell": 255,
+            "Nix": 102
+        }
+    },
+    {
+        "name": "stif-indonesia",
+        "description": "Implementation of \"Semi-Supervised Low-Resource Style Transfer of Indonesian Informal to Formal Language with Iterative Forward-Translation\". ",
+        "languages": {
+            "Forth": 225968,
+            "Python": 16697,
+            "Shell": 134
+        }
+    },
+    {
+        "name": "fmacs",
+        "description": "Emacs clone in Forth.",
+        "languages": {
+            "Forth": 10673,
+            "Shell": 289,
+            "Makefile": 200
+        }
+    },
+    {
+        "name": "UHV-OTS-Speech",
+        "description": "A data annotation pipeline to generate high-quality, large-scale speech datasets with machine pre-labeling and fully manual auditing.",
+        "languages": {
+            "Forth": 8206476,
+            "Python": 401734,
+            "Shell": 115041,
+            "Dockerfile": 11394,
+            "TeX": 5650,
+            "Jupyter Notebook": 3967,
+            "F*": 268
+        }
+    },
+    {
+        "name": "openfirmware",
+        "description": "OpenFirmware as used on OLPC (and elsewhere)",
+        "languages": {
+            "Forth": 9971933,
+            "C": 1427911,
+            "HTML": 72949,
+            "Makefile": 57522,
+            "Assembly": 35445,
+            "Groff": 33109,
+            "Python": 24675,
+            "CartoCSS": 23163,
+            "Shell": 12066,
+            "Batchfile": 11933,
+            "C++": 3795,
+            "Standard ML": 2485
+        }
+    },
+    {
+        "name": "cc64",
+        "description": "cc64 is a small-C compiler written in Forth, hosted on the Commodore C64, Plus4 and C16 with 64k, and on the Commander X16. It is targeting the 6502 CPU.",
+        "languages": {
+            "Forth": 494157,
+            "C": 315213,
+            "Makefile": 41337,
+            "Shell": 31537,
+            "Awk": 6202
+        }
+    },
+    {
+        "name": "retroforth",
+        "description": "This is a read-only mirror of the Fossil repository, made available via Git for your convenience.",
+        "languages": {
+            "Forth": 632623,
+            "C": 592098,
+            "Python": 273661,
+            "Assembly": 87594,
+            "C++": 49934,
+            "JavaScript": 48623,
+            "Makefile": 19353,
+            "Pascal": 14105,
+            "Zig": 12908,
+            "Rust": 11475,
+            "C#": 9905,
+            "Emacs Lisp": 9753,
+            "Swift": 9430,
+            "Nim": 6551,
+            "D": 6124,
+            "Shell": 3389,
+            "CSS": 1399,
+            "HTML": 671
+        }
+    },
+    {
+        "name": "embed",
+        "description": "An embeddable, tiny Forth interpreter with metacompiler.",
+        "languages": {
+            "Forth": 251296,
+            "C": 103242,
+            "Roff": 6289,
+            "Makefile": 3348,
+            "Awk": 637
+        }
+    },
+    {
+        "name": "ueforth",
+        "description": null,
+        "languages": {
+            "Forth": 316143,
+            "C": 102671,
+            "HTML": 77030,
+            "Python": 28209,
+            "JavaScript": 25456,
+            "Starlark": 22976,
+            "C++": 10050,
+            "CMake": 4603,
+            "CSS": 1938,
+            "Go": 1088,
+            "Shell": 771,
+            "F#": 767
+        }
+    },
+    {
+        "name": "apl-life",
+        "description": "Conway's Game of Life in APL in FORTH: how to implement a weird programming language using another weird programming language",
+        "languages": {
+            "Forth": 51546
+        }
+    },
+    {
+        "name": "worms",
+        "description": "source code for Worms? by David S. Maynard",
+        "languages": {
+            "Forth": 264414
+        }
+    },
+    {
+        "name": "JonesForth-arm",
+        "description": null,
+        "languages": {
+            "Forth": 60173,
+            "Assembly": 34625,
+            "C": 935,
+            "Makefile": 706
+        }
+    },
+    {
+        "name": "nnCron",
+        "description": "Advanced and very powerful scheduler, scripting tool and automation manager",
+        "languages": {
+            "Forth": 695377,
+            "NSIS": 39749,
+            "Batchfile": 7416,
+            "HTML": 4366,
+            "C": 1624,
+            "TeX": 908
+        }
+    },
+    {
+        "name": "ffl",
+        "description": "A general purpose Forth library",
+        "languages": {
+            "Forth": 966949,
+            "HTML": 541086,
+            "GLSL": 66628,
+            "TeX": 23420
+        }
+    },
+    {
+        "name": "third",
+        "description": "Third, a small Forth compiler for 8086 DOS",
+        "languages": {
+            "Forth": 128054,
+            "Batchfile": 272
+        }
+    },
+    {
+        "name": "preForth",
+        "description": "a minimalistic Forth kernel that can bootstrap",
+        "languages": {
+            "Forth": 29825,
+            "Makefile": 3546,
+            "Dockerfile": 922,
+            "Shell": 94
+        }
+    },
+    {
+        "name": "CERBERUS2100",
+        "description": "The amazing multi-processor 8-bit microcomputer, featuring Z80, 6502 and AVR processors. Built with CPLDs, CERBERUS 2100\u2122 is fully programmable even with respect to its hardware, at the individual gate and flip-flop level.",
+        "languages": {
+            "Forth": 169602,
+            "C++": 74884,
+            "Assembly": 10875,
+            "C": 3864,
+            "Processing": 3006,
+            "Makefile": 421
+        }
+    },
+    {
+        "name": "nybbleForth",
+        "description": "Stack machine with 4-bit instructions",
+        "languages": {
+            "Forth": 9673,
+            "Verilog": 4228,
+            "Makefile": 973,
+            "C++": 378,
+            "Shell": 286
+        }
+    },
+    {
+        "name": "forth2012-test-suite",
+        "description": "Test programs for Forth 2012 and ANS Forth",
+        "languages": {
+            "Forth": 328318
+        }
+    },
+    {
+        "name": "RamenEngine",
+        "description": "A game engine written in SwiftForth. ",
+        "languages": {
+            "Forth": 179344,
+            "Batchfile": 909
+        }
+    },
+    {
+        "name": "fbbs2",
+        "description": "Forth BBS 2, 1985 Bulletin Board software written in Forth (historic reconstruction)",
+        "languages": {
+            "Forth": 77773,
+            "Batchfile": 67
+        }
+    },
+    {
+        "name": "openfirmware",
+        "description": "Open Firmware (IEE1275-1994) implementation by its inventor.",
+        "languages": {
+            "Forth": 10864376,
+            "C": 1569506,
+            "ASL": 185131,
+            "HTML": 72949,
+            "Makefile": 69167,
+            "Assembly": 35445,
+            "Roff": 33109,
+            "Python": 24675,
+            "CartoCSS": 23163,
+            "Shell": 12591,
+            "Batchfile": 11933,
+            "Standard ML": 2485
+        }
+    },
+    {
+        "name": "VolksForth",
+        "description": "  volksFORTH is a 16bit Forth System maintained by the German Forth Gesellschaft e.V. ",
+        "languages": {
+            "Forth": 4096228,
+            "TeX": 72381,
+            "C": 25135,
+            "Assembly": 20792,
+            "Makefile": 17348,
+            "Shell": 12284,
+            "Roff": 4277,
+            "Python": 1242,
+            "Batchfile": 45
+        }
+    },
+    {
+        "name": "TclForth",
+        "description": "Multi-platform desktop Forth based on Tcl/Tk",
+        "languages": {
+            "Forth": 28734,
+            "Tcl": 10199,
+            "Shell": 54
+        }
+    },
+    {
+        "name": "xForth",
+        "description": "Experimental Forth cross compiler for tiny devices",
+        "languages": {
+            "Forth": 105806,
+            "Shell": 2334,
+            "Makefile": 2190
+        }
+    },
+    {
+        "name": "forthress",
+        "description": "A Forth dialect implementation for educational purposes",
+        "languages": {
+            "Forth": 20094,
+            "Assembly": 17151,
+            "Makefile": 884,
+            "C++": 275
+        }
+    },
+    {
+        "name": "multicomp6809",
+        "description": "Software and modifications for Grant Searle's multicomp FPGA design, mostly focussed towards the 6809 variant: Forth (CamelForth), FLEX, CUBIX, NITROS9, FUZIX and the exec09 emulator.",
+        "languages": {
+            "Forth": 1621416,
+            "VHDL": 759784,
+            "Assembly": 563871,
+            "Perl": 201398,
+            "Stata": 30297,
+            "Shell": 30283,
+            "Tcl": 19497,
+            "Mathematica": 358
+        }
+    },
+    {
+        "name": "r3d4",
+        "description": "r3 programing language for 64 bits Windows/Linux/Mac/Rasberry Pi 4",
+        "languages": {
+            "Forth": 3879029,
+            "Assembly": 560110,
+            "PHP": 146826,
+            "HTML": 120361,
+            "Pawn": 43082,
+            "C++": 22198,
+            "Pascal": 3148,
+            "NASL": 2403,
+            "Batchfile": 25
+        }
+    },
+    {
+        "name": "hackaday-forth",
+        "description": "Mecrisp-Stellaris Forth Plus Extra Goodies",
+        "languages": {
+            "Forth": 12442,
+            "Python": 10835
+        }
+    },
+    {
+        "name": "ciforth",
+        "description": "A generic system for creating i86 implementations of the language Forth.",
+        "languages": {
+            "Forth": 551528,
+            "Assembly": 69898,
+            "HTML": 57798,
+            "M4": 57730,
+            "Makefile": 37949,
+            "C": 10564,
+            "Shell": 9251,
+            "Roff": 6052,
+            "Batchfile": 2578
+        }
+    },
+    {
+        "name": "subleq",
+        "description": "16-bit SUBLEQ CPU running eForth - just for fun",
+        "languages": {
+            "Forth": 119622,
+            "C": 674,
+            "Makefile": 433
+        }
+    },
+    {
+        "name": "chlorophyll",
+        "description": "Synthesis-Aided Compiler for GreenArrays GA144",
+        "languages": {
+            "Forth": 1478174,
+            "Racket": 645266,
+            "Python": 49296,
+            "C++": 20736,
+            "Makefile": 745
+        }
+    },
+    {
+        "name": "collapseos-uxn",
+        "description": "Port of CollapseOS to uxn Tal",
+        "languages": {
+            "Forth": 1649,
+            "Shell": 435
+        }
+    },
+    {
+        "name": "myforth-arduino",
+        "description": "A simple, non-standard, tethered Forth for the Arduino; including several steno keyboard applications, the most recent of which is stenomod16. The same firmware was used by the original TinyMod, but has been replaced with C code in order to use USB HID.",
+        "languages": {
+            "Forth": 114154,
+            "C++": 12422,
+            "HTML": 5663,
+            "Vim Script": 4533,
+            "Batchfile": 221
+        }
+    },
+    {
+        "name": "r3",
+        "description": "r3 programing language - ColorForth inspired",
+        "languages": {
+            "Forth": 1096641,
+            "Assembly": 201465,
+            "PHP": 120276,
+            "HTML": 77520,
+            "BitBake": 55974,
+            "Pawn": 43082,
+            "GLSL": 23956,
+            "C++": 22198,
+            "NASL": 2403,
+            "Batchfile": 375
+        }
+    },
+    {
+        "name": "agon-forth",
+        "description": "Forth for Agon computer",
+        "languages": {
+            "Forth": 289066
+        }
+    },
+    {
+        "name": "spf",
+        "description": "SP-Forth",
+        "languages": {
+            "Forth": 5666129,
+            "HTML": 466604,
+            "XSLT": 57943,
+            "Perl": 40857,
+            "C": 17649,
+            "NSIS": 15162,
+            "Batchfile": 12940,
+            "Makefile": 11360,
+            "Fortran": 11041,
+            "Filebench WML": 5032,
+            "CSS": 4393,
+            "Shell": 1928,
+            "VBScript": 1516,
+            "Euphoria": 517
+        }
+    },
+    {
+        "name": "ESP32forth",
+        "description": "FORTH developments for ESP32",
+        "languages": {
+            "Forth": 113518,
+            "C": 6661
+        }
+    },
+    {
+        "name": "yotta",
+        "description": null,
+        "languages": {
+            "Forth": 104544,
+            "Assembly": 8012,
+            "Makefile": 316
+        }
+    },
+    {
+        "name": "gll-mag-patch",
+        "description": null,
+        "languages": {
+            "Forth": 249181,
+            "Common Lisp": 16247
+        }
+    },
+    {
+        "name": "OSX-Forth",
+        "description": "Forth for OSX, bootstrap from x86 NASM then Forth only.",
+        "languages": {
+            "Forth": 65930,
+            "Assembly": 52127
+        }
+    },
+    {
+        "name": "openboot",
+        "description": "Sun's OpenBoot implementation of OpenFirmware",
+        "languages": {
+            "Forth": 3510967,
+            "Makefile": 192729,
+            "C": 84091,
+            "Shell": 24754,
+            "Awk": 243
+        }
+    },
+    {
+        "name": "JorthVM",
+        "description": "a Java VM implemented in Forth",
+        "languages": {
+            "Forth": 160736,
+            "Java": 18425,
+            "Makefile": 7057,
+            "Awk": 2736,
+            "Shell": 1699,
+            "F#": 329
+        }
+    },
+    {
+        "name": "F83",
+        "description": "F83 Forth by Laxen & Perry",
+        "languages": {
+            "Forth": 515330
+        }
+    },
+    {
+        "name": "Cosmic-Conquest-1982",
+        "description": "(Historic) Resurrecting one of the first real time strategy (RTS) games from 1982. Written in Forth.",
+        "languages": {
+            "Forth": 70482
+        }
+    },
+    {
+        "name": "ff",
+        "description": "A Simple Forth System for Linux on i386 and ARM CPUs",
+        "languages": {
+            "Forth": 63977,
+            "Assembly": 60602,
+            "Tcl": 12448,
+            "Fortran": 5068
+        }
+    },
+    {
+        "name": "able-forth",
+        "description": "A Forth-like programming language that targets the AbleVM",
+        "languages": {
+            "Forth": 15089,
+            "Shell": 370
+        }
+    },
+    {
+        "name": "may4",
+        "description": "Celebrating Star Wars Day with some Forth code! May the Forth be with you!",
+        "languages": {
+            "Forth": 2037,
+            "Makefile": 77
+        }
+    },
+    {
+        "name": "CoSy",
+        "description": "CoSy APL NoteComputing environment in open x86 Reva Forth",
+        "languages": {
+            "Forth": 293750,
+            "Assembly": 196713,
+            "HTML": 25024,
+            "Vim Script": 7902,
+            "Shell": 3190,
+            "Makefile": 2386,
+            "Batchfile": 827,
+            "C": 741
+        }
+    },
+    {
+        "name": "cmFORTH",
+        "description": "Copy of cmFORTH",
+        "languages": {
+            "Forth": 32240
+        }
+    },
+    {
+        "name": "id205l",
+        "description": "id205l firmware for espruino",
+        "languages": {
+            "Forth": 52158,
+            "JavaScript": 48169,
+            "SWIG": 33679,
+            "Python": 4383,
+            "HTML": 720,
+            "Shell": 471
+        }
+    },
+    {
+        "name": "pettil",
+        "description": "6502 Forth-83 dialect for the Commodore PET 2001",
+        "languages": {
+            "Forth": 20762944,
+            "Shell": 24796,
+            "Makefile": 4726
+        }
+    },
+    {
+        "name": "Forthkit",
+        "description": "Inspired by Lispkit Lisp, this is a series of DIY Forths",
+        "languages": {
+            "Forth": 20468,
+            "Python": 6712,
+            "C": 3700,
+            "Shell": 1057
+        }
+    },
+    {
+        "name": "bigforth",
+        "description": "bigFORTH is a native code Forth. It is available for Linux, Mac OS X, and Windows under GPL. The most striking feature is the graphical user interface MINOS and the form editor Theseus",
+        "languages": {
+            "Forth": 1577219,
+            "HTML": 40943,
+            "C": 39922,
+            "F#": 14688,
+            "Makefile": 11269,
+            "GLSL": 10777,
+            "Shell": 10637,
+            "RenderScript": 4414,
+            "M": 1218,
+            "M4": 1041,
+            "Assembly": 981,
+            "sed": 207
+        }
+    },
+    {
+        "name": "2klinux",
+        "description": "Experiments in bootstrapping from bare-metal",
+        "languages": {
+            "Forth": 56008,
+            "Assembly": 20278,
+            "Shell": 1944,
+            "C": 134
+        }
+    },
+    {
+        "name": "FreeForth2",
+        "description": "Derived from FreeForth by Christophe Lavarenne",
+        "languages": {
+            "Forth": 144551,
+            "Assembly": 66757,
+            "Makefile": 324
+        }
+    },
+    {
+        "name": "hForth",
+        "description": "Wonyong Koh's hForth, for 8086 and Z80, together with my ARM port and a 3/4-baked metacompiler",
+        "languages": {
+            "Forth": 1158011,
+            "Assembly": 640541,
+            "HTML": 103950,
+            "Awk": 19075,
+            "Shell": 4202
+        }
+    },
+    {
+        "name": "vforth-next",
+        "description": "Z80N Forth system suitable to run on the new ZX Spectrum Next",
+        "languages": {
+            "Forth": 2731473,
+            "Assembly": 1201138,
+            "Fortran": 30136,
+            "Perl": 10268,
+            "Filebench WML": 4600,
+            "Batchfile": 41
+        }
+    },
+    {
+        "name": "okami",
+        "description": "okami is an application development platform",
+        "languages": {
+            "Forth": 107750,
+            "Assembly": 52299,
+            "Ruby": 44303,
+            "Java": 41970,
+            "Shell": 5796,
+            "C": 5028,
+            "Awk": 3790,
+            "GDB": 162
+        }
+    },
+    {
+        "name": "W1209",
+        "description": "W1209 data logging thermostat with an STM8 eForth interactive console",
+        "languages": {
+            "Forth": 13657,
+            "Assembly": 6376,
+            "Makefile": 2195
+        }
+    },
+    {
+        "name": "GraphicsLessonInGforth",
+        "description": "[Tutorial] OpenGL Legacy and SDL Graphics Lesson in Gforth",
+        "languages": {
+            "Forth": 2788019,
+            "RenderScript": 399024,
+            "Shell": 352038
+        }
+    },
+    {
+        "name": "SPF.JS",
+        "description": "The advanced FORTH environment in web, written in javascript. Works in browser and in Node.JS. 100% ANS 94 compatible, SP-FORTH compatible.",
+        "languages": {
+            "Forth": 249341,
+            "JavaScript": 102912,
+            "CSS": 7070,
+            "HTML": 1393,
+            "Batchfile": 70
+        }
+    },
+    {
+        "name": "fcode-utils",
+        "description": "A set of utilities to process FCODE, OpenFirmware's byte code",
+        "languages": {
+            "Forth": 3649697,
+            "C": 976085,
+            "Shell": 23281,
+            "Makefile": 8027,
+            "OpenEdge ABL": 318,
+            "Ruby": 88,
+            "Dockerfile": 51
+        }
+    },
+    {
+        "name": "FIG-Forth",
+        "description": "FIG Forth model for Apple II 6502",
+        "languages": {
+            "Forth": 51516
+        }
+    },
+    {
+        "name": "learn_fsharp_in_x_minutes",
+        "description": "An attempt at a very terse F# learning list",
+        "languages": {
+            "Forth": 420
+        }
+    },
+    {
+        "name": "eforth-x86-64bits",
+        "description": "Forth programming language eforth for x86 PC 64 bits long mode STC",
+        "languages": {
+            "Forth": 153377,
+            "Assembly": 113658,
+            "Fortran": 41078,
+            "Batchfile": 3299
+        }
+    },
+    {
+        "name": "CAMEL99-ITC",
+        "description": "Indirect threaded code version of CAMEL99 Forth for TI-99 computer",
+        "languages": {
+            "Forth": 2661321,
+            "Makefile": 16890,
+            "Assembly": 4854,
+            "BASIC": 860
+        }
+    },
+    {
+        "name": "Unreal-testing",
+        "description": "OU 227 testing",
+        "languages": {
+            "Forth": 519511,
+            "Prolog": 514138,
+            "Gnuplot": 15369,
+            "CSS": 9818
+        }
+    },
+    {
+        "name": "tape-recorder",
+        "description": "BSV Hackathon: Use Tape Recorder to record any computation onto Bitcoin Script using a Wang B machine written in Forth",
+        "languages": {
+            "Forth": 85148,
+            "JavaScript": 7447,
+            "F#": 3209
+        }
+    },
+    {
+        "name": "fcc",
+        "description": "Forth interpreter and compiler - a standard, portable, optimized Forth",
+        "languages": {
+            "Forth": 151228,
+            "JavaScript": 34167,
+            "C": 27488,
+            "Python": 6671,
+            "Makefile": 2714,
+            "GLSL": 6
+        }
+    },
+    {
+        "name": "Forth2020UsersGroup",
+        "description": "This space is dedicated to the members of the Forth Win Users Group in order to share their works and experiences with ForthWin.",
+        "languages": {
+            "Forth": 129435
+        }
+    },
+    {
+        "name": "raillisp",
+        "description": "A fast and portable lisp implemented in forth",
+        "languages": {
+            "Forth": 40150,
+            "Common Lisp": 27986,
+            "C": 14195,
+            "Makefile": 600,
+            "Python": 410,
+            "Shell": 219
+        }
+    },
+    {
+        "name": "9p4",
+        "description": "An implementation of the 9P protocol in Forth",
+        "languages": {
+            "Forth": 9251,
+            "Shell": 292
+        }
+    },
+    {
+        "name": "gforth-raylib",
+        "description": "Raylib 3.5 bindings for Gforth.  The name is backwards for obvious reasons.",
+        "languages": {
+            "Forth": 85124
+        }
+    },
+    {
+        "name": "minforth",
+        "description": "A Minimal Forth",
+        "languages": {
+            "Forth": 689363,
+            "C": 170893,
+            "Scilab": 6020,
+            "Shell": 1445,
+            "Makefile": 396
+        }
+    },
+    {
+        "name": "tangnano-hdmi",
+        "description": "HDMI-VGA output sample for Tang-NANO",
+        "languages": {
+            "Forth": 680219,
+            "HTML": 295279,
+            "Verilog": 36213,
+            "VHDL": 25155,
+            "Coq": 626,
+            "Lua": 564,
+            "Stata": 333,
+            "Tcl": 84
+        }
+    },
+    {
+        "name": "sincos",
+        "description": "Efficient implementations of the transcendental functions",
+        "languages": {
+            "Forth": 2622,
+            "Python": 1990,
+            "Verilog": 1752,
+            "C": 1535,
+            "Arduino": 1525
+        }
+    },
+    {
+        "name": "mecrisp-ice",
+        "description": "http://mecrisp.sourceforge.net/ Mecrisp-Ice is an enhanced version of Swapforth and the J1a stack processor by James Bowman, featuring three MSP430 style IO ports, a tick counter, constant folding, inlining and tail-call optimisations",
+        "languages": {
+            "Forth": 176998,
+            "Verilog": 75050,
+            "Pascal": 29473,
+            "Python": 6973,
+            "Shell": 4371
+        }
+    },
+    {
+        "name": "gd3x-dazzler",
+        "description": "Firmware for the Gameduino 3X Dazzler FPGA",
+        "languages": {
+            "Forth": 311169,
+            "Verilog": 150979,
+            "Python": 84632,
+            "Makefile": 8902,
+            "C++": 8592,
+            "SWIG": 1856,
+            "sed": 327,
+            "RenderScript": 262,
+            "C": 180,
+            "Shell": 79
+        }
+    },
+    {
+        "name": "acmeforth",
+        "description": "Cross-compiling 16-bit Forth targeting Commodore 64",
+        "languages": {
+            "Forth": 147466,
+            "Python": 38474,
+            "Assembly": 944,
+            "Shell": 572
+        }
+    },
+    {
+        "name": "ANS-Forth-libraries",
+        "description": "Minimalist libraries as extensions to ANS Forth",
+        "languages": {
+            "Forth": 158178
+        }
+    },
+    {
+        "name": "rtx2000_simulator",
+        "description": "A simulator for the RTX2000 processor",
+        "languages": {
+            "Forth": 848946,
+            "C": 158120,
+            "TeX": 71864,
+            "Assembly": 52580,
+            "Batchfile": 1010,
+            "Makefile": 235,
+            "Shell": 36
+        }
+    },
+    {
+        "name": "FSharpApp",
+        "description": null,
+        "languages": {
+            "Forth": 91
+        }
+    },
+    {
+        "name": "kForth-64",
+        "description": "64-bit Forth System for x86_64-GNU/Linux",
+        "languages": {
+            "Forth": 1912094,
+            "Assembly": 96257,
+            "C++": 92947,
+            "C": 73595,
+            "Makefile": 3002
+        }
+    },
+    {
+        "name": "Wikireader-Adventures",
+        "description": "Developing useless widgets in Forth with the Wikireader.",
+        "languages": {
+            "Forth": 22180,
+            "Java": 761
+        }
+    },
+    {
+        "name": "minimal",
+        "description": "Minimal Forth Workbench provides an educational subset of Standard Forth, feel free to experiment.",
+        "languages": {
+            "Forth": 32413
+        }
+    },
+    {
+        "name": "afkit",
+        "description": "AllegroForthKit: A game programming framework built on Allegro 5.",
+        "languages": {
+            "Forth": 787725
+        }
+    },
+    {
+        "name": "solo-forth",
+        "description": "Standard Forth system for ZX Spectrum 128 and compatible computers, with disk drives.",
+        "languages": {
+            "Forth": 2202794,
+            "Assembly": 593318,
+            "Makefile": 49362,
+            "Vim Script": 40393,
+            "Shell": 10615,
+            "Python": 3889,
+            "BASIC": 1944,
+            "Batchfile": 23
+        }
+    },
+    {
+        "name": "amforth-float",
+        "description": "Floating-point wordset for amforth",
+        "languages": {
+            "Forth": 25875
+        }
+    },
+    {
+        "name": "Fifth",
+        "description": "Professional Fifth",
+        "languages": {
+            "Forth": 215135
+        }
+    },
+    {
+        "name": "forth-ft800",
+        "description": "Forth bindings for the FTDI FT800/Gameduino2",
+        "languages": {
+            "Forth": 120461,
+            "Shell": 50
+        }
+    },
+    {
+        "name": "pygmy-forth",
+        "description": "Frank Sergeant's Pygmy Forth version 1.7",
+        "languages": {
+            "Forth": 453632,
+            "HTML": 21076,
+            "C": 6033
+        }
+    },
+    {
+        "name": "x4",
+        "description": "Linux X86_32 Fortth compiler.  Formerly known as IsForth.",
+        "languages": {
+            "Forth": 524237,
+            "Assembly": 138759,
+            "Fortran": 7357,
+            "Filebench WML": 4971,
+            "Makefile": 866,
+            "Shell": 67
+        }
+    },
+    {
+        "name": "m3forth",
+        "description": "m3forth is a forth cross-compiler for cortex-m3 ARM microcontrollers",
+        "languages": {
+            "Forth": 404064,
+            "Makefile": 158
+        }
+    },
+    {
+        "name": "kForth-32",
+        "description": "32-bit Forth System for x86-linux",
+        "languages": {
+            "Forth": 2546684,
+            "Assembly": 101218,
+            "C++": 90833,
+            "C": 73402,
+            "Makefile": 14322,
+            "BitBake": 1113
+        }
+    },
+    {
+        "name": "forthmath",
+        "description": "Useful mathematical words in Forth.",
+        "languages": {
+            "Forth": 111440
+        }
+    },
+    {
+        "name": "forth-notebooks",
+        "description": "Forth Literate Programming with IPython notebook",
+        "languages": {
+            "Forth": 1202,
+            "Python": 831,
+            "Shell": 112
+        }
+    },
+    {
+        "name": "Z79Forth",
+        "description": null,
+        "languages": {
+            "Forth": 171988,
+            "Assembly": 123660,
+            "C": 7847,
+            "Shell": 2569,
+            "Makefile": 403
+        }
+    },
+    {
+        "name": "fsyn",
+        "description": "A forth (gforth specifically) package for sound synthesis",
+        "languages": {
+            "Forth": 18361
+        }
+    },
+    {
+        "name": "BAM-Analysis-Kit",
+        "description": null,
+        "languages": {
+            "Forth": 89584258,
+            "C": 54063948,
+            "Python": 43183490,
+            "Perl": 26160810,
+            "C++": 21250467,
+            "Scheme": 4587904,
+            "Raku": 3274318,
+            "TeX": 3267606,
+            "HTML": 2364941,
+            "Roff": 2311761,
+            "Shell": 2109741,
+            "M4": 1832913,
+            "Makefile": 153703,
+            "Pascal": 134494,
+            "Prolog": 82793,
+            "Fortran": 67333,
+            "CSS": 37525,
+            "SystemVerilog": 34576,
+            "Awk": 33452,
+            "GAP": 29013,
+            "Batchfile": 25374,
+            "Smalltalk": 21514,
+            "PostScript": 9903,
+            "JavaScript": 9596,
+            "Emacs Lisp": 9038,
+            "Vim Script": 4726,
+            "DIGITAL Command Language": 2192,
+            "Smarty": 2040,
+            "sed": 1016
+        }
+    },
+    {
+        "name": "frth",
+        "description": "Frth is a subroutine threaded Forth system written in Forth itself for the targets x86, x64 and 68k on Linux and macOS among others.",
+        "languages": {
+            "Forth": 179078
+        }
+    },
+    {
+        "name": "jhu",
+        "description": "Repository for JHU's version of the MT class.",
+        "languages": {
+            "Forth": 34823403,
+            "Eiffel": 28915686,
+            "JavaScript": 196750,
+            "TeX": 158049,
+            "HTML": 84093,
+            "Python": 66507,
+            "CSS": 29126,
+            "Shell": 2640
+        }
+    },
+    {
+        "name": "picforth",
+        "description": "Forth compiler for Microchip PIC16Fxxx microcontrollers",
+        "languages": {
+            "Forth": 201444,
+            "HTML": 93637,
+            "Python": 26857,
+            "Makefile": 3143,
+            "Assembly": 2191,
+            "Perl": 1553,
+            "Shell": 237,
+            "PHP": 122
+        }
+    },
+    {
+        "name": "piton-sw",
+        "description": null,
+        "languages": {
+            "Forth": 4967468,
+            "C": 2680587,
+            "Assembly": 1607822,
+            "Makefile": 578705,
+            "C++": 450253,
+            "Shell": 56910,
+            "TeX": 48177,
+            "Lex": 15462,
+            "q": 2611,
+            "Awk": 972
+        }
+    },
+    {
+        "name": "project-forth-works",
+        "description": "Embrace The Difference",
+        "languages": {
+            "Forth": 583708
+        }
+    },
+    {
+        "name": "gforth-mirror",
+        "description": "An automated mirror of Gforth's Git repository on Savannah (https://savannah.gnu.org/projects/gforth/). Updates hourly.",
+        "languages": {
+            "Forth": 3392981,
+            "C": 1329343,
+            "Shell": 98574,
+            "Makefile": 88781,
+            "C++": 76658,
+            "Emacs Lisp": 66375,
+            "M4": 65669,
+            "SWIG": 44561,
+            "TeX": 41458,
+            "Java": 36676,
+            "Vim Script": 32880,
+            "Assembly": 22832,
+            "Scala": 13196,
+            "Python": 12528,
+            "Pascal": 8848,
+            "Yacc": 8102,
+            "Batchfile": 8086,
+            "sed": 6557,
+            "Verilog": 5700,
+            "OpenEdge ABL": 4537,
+            "QMake": 3758,
+            "Roff": 3752,
+            "Lex": 2825,
+            "PowerBuilder": 1344,
+            "Dockerfile": 1270,
+            "Brainfuck": 1143,
+            "Csound": 723,
+            "Scheme": 627,
+            "Awk": 584
+        }
+    },
+    {
+        "name": "meta-yacc",
+        "description": "Self-hosting parser generators in Forth and C.",
+        "languages": {
+            "Forth": 36346,
+            "C": 14127,
+            "Nix": 729,
+            "Makefile": 436
+        }
+    },
+    {
+        "name": "sdl-forth",
+        "description": "SDL bindings for gforth",
+        "languages": {
+            "Forth": 14541
+        }
+    },
+    {
+        "name": "forth-orc-battle",
+        "description": "Land of Lisp's Orc Battle in Forth",
+        "languages": {
+            "Forth": 8663
+        }
+    },
+    {
+        "name": "J1-forth",
+        "description": "Forth for the J1-CPU",
+        "languages": {
+            "Forth": 33697
+        }
+    },
+    {
+        "name": "Forth86",
+        "description": "A minimal Forth booter disk environment",
+        "languages": {
+            "Forth": 11152,
+            "Ruby": 3952,
+            "Assembly": 3160,
+            "Shell": 546,
+            "C": 476
+        }
+    },
+    {
+        "name": "ulx3s_bit_streams",
+        "description": "Bit streams forthe Ulx3s ECP5 device",
+        "languages": {
+            "Forth": 364770
+        }
+    },
+    {
+        "name": "forth-compiler",
+        "description": "Native inlining constant folding register allocating Forth compiler",
+        "languages": {
+            "Forth": 6253
+        }
+    },
+    {
+        "name": "f68kans",
+        "description": "Forth system for M68K machines, origin: http://hardcode.de/us/index.html",
+        "languages": {
+            "Forth": 262529,
+            "Assembly": 133553,
+            "C": 46452,
+            "Scilab": 9712,
+            "Makefile": 103
+        }
+    },
+    {
+        "name": "Forth_Projects",
+        "description": null,
+        "languages": {
+            "Forth": 26389
+        }
+    },
+    {
+        "name": "verilog1802",
+        "description": "The RCA 1802 in Verilog",
+        "languages": {
+            "Forth": 132658,
+            "Python": 20589,
+            "Verilog": 8504,
+            "C++": 1295,
+            "Makefile": 329
+        }
+    },
+    {
+        "name": "self-hosting-forth-compiler-in-1-day",
+        "description": "A self hosting forth compiler for x64 Windows",
+        "languages": {
+            "Forth": 12524,
+            "C": 8584,
+            "Shell": 2032,
+            "Makefile": 899
+        }
+    },
+    {
+        "name": "PANC-Anchorage",
+        "description": null,
+        "languages": {
+            "Forth": 8731,
+            "Clean": 296
+        }
+    },
+    {
+        "name": "fe",
+        "description": "Bruce Hoyt's Forth Editor (Dad's editor that I grew up coding with)",
+        "languages": {
+            "Forth": 154056
+        }
+    },
+    {
+        "name": "Yellow-Snow",
+        "description": "Don't Eat the Yellow Snow! C, C++, Go, Haskell, Rust, Lua, Ruby, Python, Javascript",
+        "languages": {
+            "Forth": 192523,
+            "C": 33753,
+            "C++": 26849,
+            "Haskell": 17563,
+            "Python": 16386,
+            "Rust": 12942,
+            "Go": 10187,
+            "JavaScript": 6982,
+            "Lua": 5364,
+            "Ruby": 5002,
+            "Makefile": 2536,
+            "HTML": 1372,
+            "CSS": 756
+        }
+    },
+    {
+        "name": "jackit-forth",
+        "description": "gforth bindings for libjack",
+        "languages": {
+            "Forth": 6394,
+            "RenderScript": 2453
+        }
+    },
+    {
+        "name": "forth-roguelike",
+        "description": "@ swap drop (forth rogue). docforth processed code at",
+        "languages": {
+            "Forth": 64717,
+            "Shell": 330,
+            "Vim Script": 19
+        }
+    },
+    {
+        "name": "spf64",
+        "description": "SP-Forth x64",
+        "languages": {
+            "Forth": 411626,
+            "Assembly": 150183,
+            "Scheme": 118402,
+            "C": 10858,
+            "C++": 1295,
+            "Makefile": 526,
+            "Shell": 269
+        }
+    },
+    {
+        "name": "msx-forth83",
+        "description": "Forth 83 and MSX computer. Libraries and tools to use Forth 83 CP/M-80 (by Laxen and Perry) with MSX computers.",
+        "languages": {
+            "Forth": 69883,
+            "Tcl": 5466,
+            "C": 3867,
+            "Makefile": 980,
+            "Batchfile": 291
+        }
+    },
+    {
+        "name": "t4",
+        "description": "Arm (Thumb2) Linux Forth Compiler",
+        "languages": {
+            "Forth": 323800,
+            "Assembly": 136843,
+            "Makefile": 1073,
+            "Shell": 48
+        }
+    },
+    {
+        "name": "wge100_driver",
+        "description": "Contains the ROS driver and firmware for the WGE100 camera used on the PR2 robot.",
+        "languages": {
+            "Forth": 150966,
+            "C++": 139977,
+            "C": 137307,
+            "Verilog": 133256,
+            "Python": 46533,
+            "TeX": 22892,
+            "VHDL": 9232,
+            "Makefile": 9057,
+            "Tcl": 5378,
+            "CMake": 5246,
+            "Shell": 2913,
+            "F#": 283
+        }
+    },
+    {
+        "name": "BigZ",
+        "description": "Computational mathematics. Single cell arithmetic. Big integer arithmetic. Sets, groups, graphs, topology.",
+        "languages": {
+            "Forth": 78756
+        }
+    },
+    {
+        "name": "AVR",
+        "description": "forth-assembler for AVR",
+        "languages": {
+            "Forth": 338531
+        }
+    },
+    {
+        "name": "tachyon",
+        "description": null,
+        "languages": {
+            "Forth": 171563,
+            "Shell": 2907
+        }
+    },
+    {
+        "name": "fforth",
+        "description": "Modern minimal Forth (between eforth and Gforth)",
+        "languages": {
+            "Forth": 7226,
+            "Assembly": 2956
+        }
+    },
+    {
+        "name": "prolog-in-forth",
+        "description": "L. L. Odette's Prolog Virtual Machine (PVM) implemented in Forth. Upgraded to 32 Bit ANSI Forth. Tested on ForthWin.",
+        "languages": {
+            "Forth": 16197
+        }
+    },
+    {
+        "name": "BIG-INTEGER-ANS-FORTH",
+        "description": "Calculating with dynamic integers in Forth",
+        "languages": {
+            "Forth": 22327
+        }
+    },
+    {
+        "name": "ccg-notes",
+        "description": "Jupyter Notes on Computational Conformal Geometry",
+        "languages": {
+            "Forth": 486823,
+            "Python": 19399,
+            "Jupyter Notebook": 7626,
+            "Shell": 4189
+        }
+    },
+    {
+        "name": "Minimal_IP",
+        "description": "A minimal UDP/IP stack in FORTH",
+        "languages": {
+            "Forth": 37716,
+            "Fortran": 750
+        }
+    },
+    {
+        "name": "forthlisp",
+        "description": null,
+        "languages": {
+            "Forth": 23976,
+            "Scheme": 2647,
+            "Makefile": 887
+        }
+    },
+    {
+        "name": "Foobar2000",
+        "description": null,
+        "languages": {
+            "Forth": 18451
+        }
+    },
+    {
+        "name": "figforth",
+        "description": "fig-FORTH implementation for the Z-80 processor",
+        "languages": {
+            "Forth": 177152,
+            "Assembly": 72464,
+            "Makefile": 392,
+            "Shell": 83
+        }
+    },
+    {
+        "name": "forthsnake",
+        "description": "simple game in forth",
+        "languages": {
+            "Forth": 1745
+        }
+    },
+    {
+        "name": "r3vm",
+        "description": "r3 virtual machine, succesor of :r4",
+        "languages": {
+            "Forth": 583352,
+            "C++": 120955,
+            "C": 6758,
+            "Makefile": 556,
+            "Shell": 320
+        }
+    },
+    {
+        "name": "ecma6-forth",
+        "description": "Low level forth like language for writing canvas applications",
+        "languages": {
+            "Forth": 36145,
+            "HTML": 16868
+        }
+    },
+    {
+        "name": "fwd",
+        "description": "Forth bits-and-pieces (for World Domination)",
+        "languages": {
+            "Forth": 28038
+        }
+    },
+    {
+        "name": "r4MV",
+        "description": "r4 Virtual Machine in many version, last is \"r4wine2\" for win, \"r4a\" is android.",
+        "languages": {
+            "Forth": 13750366,
+            "Assembly": 4723015,
+            "C++": 757340,
+            "PHP": 653055,
+            "JavaScript": 608822,
+            "C": 269351,
+            "Java": 232227,
+            "SourcePawn": 115196,
+            "Makefile": 93097,
+            "HTML": 69535,
+            "Pawn": 10075,
+            "Visual Basic": 5520,
+            "VCL": 4642,
+            "Pascal": 3148,
+            "CSS": 1329,
+            "Batchfile": 132
+        }
+    },
+    {
+        "name": "literateforth",
+        "description": "Literate Programming in Forth",
+        "languages": {
+            "Forth": 87636,
+            "Makefile": 1365,
+            "HTML": 632
+        }
+    },
+    {
+        "name": "TransForth",
+        "description": "Forth interpreter in F#",
+        "languages": {
+            "Forth": 28936
+        }
+    },
+    {
+        "name": "stm8-peripherals-forth",
+        "description": null,
+        "languages": {
+            "Forth": 5234,
+            "Makefile": 798
+        }
+    },
+    {
+        "name": "lantern",
+        "description": "(DEPRECATED, SEE README)",
+        "languages": {
+            "Forth": 13695
+        }
+    },
+    {
+        "name": "ikforth",
+        "description": "ikforth is an idiomatic Forth implementation.",
+        "languages": {
+            "Forth": 1383709,
+            "Assembly": 168925,
+            "C++": 26024,
+            "Dockerfile": 14225,
+            "Python": 9699,
+            "Shell": 2219,
+            "C": 1809,
+            "Roff": 615
+        }
+    },
+    {
+        "name": "forthstrap",
+        "description": "Quickly generate a tailored FORTH environment with some small scripts",
+        "languages": {
+            "Forth": 63027,
+            "Assembly": 16261,
+            "C": 9935,
+            "Ruby": 6066,
+            "C++": 1452,
+            "Makefile": 1209,
+            "Shell": 680
+        }
+    },
+    {
+        "name": "http.fs",
+        "description": "A sample HTTP server for gforth",
+        "languages": {
+            "Forth": 3110
+        }
+    },
+    {
+        "name": "forth",
+        "description": "a x86_64 forth implemented in forth",
+        "languages": {
+            "Forth": 34154,
+            "Shell": 330
+        }
+    },
+    {
+        "name": "Holonforth-DOS",
+        "description": "First-generation of HolonForth. - Developing code in browsers inspired by Smalltalk, using book-like structures with Modules, Groups, and Words.",
+        "languages": {
+            "Forth": 8919012
+        }
+    },
+    {
+        "name": "Forth-CS-101",
+        "description": "Random assortment of Forth programs that solve CS 101 sort of problems.",
+        "languages": {
+            "Forth": 32183
+        }
+    },
+    {
+        "name": "venery",
+        "description": "Powerful collections for standard Forth",
+        "languages": {
+            "Forth": 17119
+        }
+    },
+    {
+        "name": "f",
+        "description": "Forth package manager for theForthNet",
+        "languages": {
+            "Forth": 19427,
+            "Shell": 374
+        }
+    },
+    {
+        "name": "J1",
+        "description": "Forth CPU J1 in SystemVerilog",
+        "languages": {
+            "Forth": 28944,
+            "SystemVerilog": 26053,
+            "Verilog": 10673,
+            "Makefile": 168
+        }
+    },
+    {
+        "name": "crude65816",
+        "description": "A crude emulator for the 65816 CPU in Forth",
+        "languages": {
+            "Forth": 61551
+        }
+    },
+    {
+        "name": "wiringPi_gforth",
+        "description": "Gforth interface to the wiringPi GPIO interface library for Raspberry Pi",
+        "languages": {
+            "Forth": 4962
+        }
+    },
+    {
+        "name": "hmbd",
+        "description": "code for http://hmbd.wordpress.com examples",
+        "languages": {
+            "Forth": 58170,
+            "C++": 23881,
+            "HTML": 22170,
+            "R": 21768,
+            "Processing": 17060,
+            "CSS": 15584,
+            "MATLAB": 14246
+        }
+    },
+    {
+        "name": "realforth",
+        "description": "Traditional screens based Forth for 8086 (indirect threaded, MS-DOS, 16 bit) and 68000 (direct threaded, Atari ST, 32 bit).",
+        "languages": {
+            "Forth": 946963,
+            "Shell": 1085,
+            "sed": 380,
+            "Batchfile": 76
+        }
+    },
+    {
+        "name": "SBC",
+        "description": "SamCo's Single Board Computer (65C02)",
+        "languages": {
+            "Forth": 4333
+        }
+    },
+    {
+        "name": "be2",
+        "description": "Block Editor II",
+        "languages": {
+            "Forth": 19631
+        }
+    },
+    {
+        "name": "arrayForth",
+        "description": "GreenArrays Development Software including Simulator",
+        "languages": {
+            "Forth": 15688132,
+            "HTML": 1675718,
+            "Shell": 1372
+        }
+    },
+    {
+        "name": "unsuitable",
+        "description": "From Bitbucket -- A blog engine in Forth.",
+        "languages": {
+            "Forth": 54564,
+            "HTML": 1990,
+            "CSS": 1024
+        }
+    },
+    {
+        "name": "immu",
+        "description": "An implementation of Forth using minimal indirect thread code, with a dictionary made up of machine-independent vocabularies. Only those relating to bios, system, drives and primitives depend on the machine. ",
+        "languages": {
+            "Forth": 212240,
+            "Assembly": 193703,
+            "Awk": 4444,
+            "NASL": 3610,
+            "Shell": 770,
+            "C": 756
+        }
+    },
+    {
+        "name": "boardforth",
+        "description": "A circuit board development environment driven by Forth.",
+        "languages": {
+            "Forth": 26356,
+            "C": 5293,
+            "Makefile": 672
+        }
+    },
+    {
+        "name": "cmsis-svd-fth",
+        "description": "Create FORTH code for register definitions of ARM Cortex-M devices based on its CMSIS SVD XML description",
+        "languages": {
+            "Forth": 23748,
+            "XSLT": 751,
+            "Shell": 60
+        }
+    },
+    {
+        "name": "fortboy",
+        "description": "\ud83c\udff0 A text adventure for the Game Boy",
+        "languages": {
+            "Forth": 55939
+        }
+    },
+    {
+        "name": "tasm65c02",
+        "description": "A Typist's Assembler for the 65c02 CPU in Forth",
+        "languages": {
+            "Forth": 20812
+        }
+    },
+    {
+        "name": "create-vbox-pfsense",
+        "description": "Creates a complete VirtualBox machine for pfSense",
+        "languages": {
+            "Forth": 8089,
+            "Shell": 7353
+        }
+    },
+    {
+        "name": "lang-genealogy",
+        "description": null,
+        "languages": {
+            "Forth": 34107,
+            "Makefile": 1988
+        }
+    },
+    {
+        "name": "forth-lib",
+        "description": "Collection of words to help with writing high level applications with Forth language.",
+        "languages": {
+            "Forth": 19848,
+            "Shell": 565
+        }
+    },
+    {
+        "name": "gowin-blink",
+        "description": "Blink demo for GOWIN FPGA dev kit DK-START-GW1N4",
+        "languages": {
+            "Forth": 1771566,
+            "HTML": 497250,
+            "Verilog": 116216,
+            "Stata": 293,
+            "Tcl": 278,
+            "Coq": 22
+        }
+    },
+    {
+        "name": "Fed",
+        "description": "A small and portable ed-inspired line editor in Forth",
+        "languages": {
+            "Forth": 16474
+        }
+    },
+    {
+        "name": "fpga_oled_ssd1306",
+        "description": "FPGA controller for SSD1306 OLED module on SPI. Optimised for GOWIN FPGA",
+        "languages": {
+            "Forth": 2938716,
+            "HTML": 545886,
+            "Verilog": 21067,
+            "Roff": 13065,
+            "Tcl": 280,
+            "Stata": 201,
+            "Coq": 162
+        }
+    },
+    {
+        "name": "flk",
+        "description": "FLK is an optimizing native code compiler targeted for the Intel 386+ CPU",
+        "languages": {
+            "Forth": 400499,
+            "HTML": 55343,
+            "C": 25038,
+            "Makefile": 6054,
+            "RenderScript": 153
+        }
+    },
+    {
+        "name": "forth83-80",
+        "description": "Forth F83 v2.0 for CP/M-80 by Laxen & Perry",
+        "languages": {
+            "Forth": 504064,
+            "Roff": 1792
+        }
+    },
+    {
+        "name": "unreal-localization",
+        "description": "Neon_Knight's OldUnreal Localization Project Repository",
+        "languages": {
+            "Forth": 3010027,
+            "Prolog": 2398322,
+            "SMT": 131930,
+            "Gnuplot": 34281
+        }
+    },
+    {
+        "name": "forth-tracer",
+        "description": "A raytracer written in Forth",
+        "languages": {
+            "Forth": 10206
+        }
+    },
+    {
+        "name": "CommonForth",
+        "description": "A mirror repo of the awesome Forth system by Luke Lee",
+        "languages": {
+            "Forth": 851401,
+            "C++": 63335,
+            "C": 1579,
+            "Batchfile": 24
+        }
+    },
+    {
+        "name": "tile-forth",
+        "description": "TILE-Forth",
+        "languages": {
+            "Forth": 148940,
+            "C": 114500,
+            "Emacs Lisp": 27117,
+            "Makefile": 4877,
+            "Shell": 3545
+        }
     }
 ]

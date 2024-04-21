@@ -61,5 +61,1082 @@
             "Shell": 6929,
             "C++": 6662
         }
+    },
+    {
+        "name": "diving-beet",
+        "description": "A port of Falling Turnip from Haskell to Futhark and Go :car: :boom: ",
+        "languages": {
+            "Futhark": 18097,
+            "Go": 9793,
+            "Makefile": 394,
+            "Nix": 170
+        }
+    },
+    {
+        "name": "dpp-e2021-pub",
+        "description": "Data Parallel Programming",
+        "languages": {
+            "Futhark": 8328,
+            "Python": 7818,
+            "C": 1378
+        }
+    },
+    {
+        "name": "HarkDB",
+        "description": "Multi-backend GPU query engine written with Futhark",
+        "languages": {
+            "Futhark": 11942,
+            "Python": 7487,
+            "Shell": 225
+        }
+    },
+    {
+        "name": "raytracinginoneweekendinfuthark",
+        "description": "Ray Tracing in One Weekend in Futhark",
+        "languages": {
+            "Futhark": 13889,
+            "Makefile": 68
+        }
+    },
+    {
+        "name": "linalg",
+        "description": "Linear algebra package for Futhark",
+        "languages": {
+            "Futhark": 54679,
+            "Makefile": 838
+        }
+    },
+    {
+        "name": "pfp-e2020-pub",
+        "description": "Parallel Functional Programming, 2020",
+        "languages": {
+            "Futhark": 8328,
+            "Python": 7818,
+            "C": 1378
+        }
+    },
+    {
+        "name": "raytracingthenextweekinfuthark",
+        "description": "A Futhark implementation of Ray Tracing: the Next Week",
+        "languages": {
+            "Futhark": 31457
+        }
+    },
+    {
+        "name": "aoc22",
+        "description": "Advent of Futhark",
+        "languages": {
+            "Futhark": 75273,
+            "Makefile": 455,
+            "Python": 390
+        }
+    },
+    {
+        "name": "futcam",
+        "description": "Run Futhark on your webcam! :computer: :movie_camera: :art:",
+        "languages": {
+            "Futhark": 29522,
+            "Python": 9758,
+            "Makefile": 286,
+            "Nix": 284
+        }
+    },
+    {
+        "name": "futhark-website",
+        "description": "Git repository containing the Futhark website.",
+        "languages": {
+            "Futhark": 52454,
+            "TeX": 23778,
+            "CSS": 8317,
+            "Haskell": 7824,
+            "Makefile": 7265,
+            "Cuda": 6268,
+            "C": 4148,
+            "Shell": 2503,
+            "HTML": 2108,
+            "Python": 2093,
+            "C++": 1160,
+            "Gnuplot": 564,
+            "Nix": 423
+        }
+    },
+    {
+        "name": "aoc21",
+        "description": "Advent of Code 2021 in Futhark",
+        "languages": {
+            "Futhark": 84296,
+            "Roff": 1145,
+            "Python": 634
+        }
+    },
+    {
+        "name": "kullback-liebler",
+        "description": "Kullback-Liebler divergence in Futhark",
+        "languages": {
+            "Futhark": 2551,
+            "Python": 1879,
+            "Makefile": 556,
+            "J": 213
+        }
+    },
+    {
+        "name": "sparse",
+        "description": "Futhark sparse matrix operations",
+        "languages": {
+            "Futhark": 52156,
+            "Makefile": 912
+        }
+    },
+    {
+        "name": "futspace",
+        "description": "Futspace is a voxel based graphics engine implemented in Futhark",
+        "languages": {
+            "Futhark": 25238430,
+            "C": 7610,
+            "Python": 5049,
+            "Makefile": 1271,
+            "Shell": 972,
+            "Nix": 153
+        }
+    },
+    {
+        "name": "prelude.fut",
+        "description": "An expansion of the default Futhark prelude",
+        "languages": {
+            "Futhark": 83110,
+            "Nix": 2915,
+            "HTML": 336
+        }
+    },
+    {
+        "name": "statistics",
+        "description": "Statistics Library for Futhark",
+        "languages": {
+            "Futhark": 29960,
+            "Makefile": 211
+        }
+    },
+    {
+        "name": "tinykaboom",
+        "description": "A port of KABOOM! from C++ to Futhark",
+        "languages": {
+            "Futhark": 3808,
+            "Python": 1177,
+            "Makefile": 613,
+            "Nix": 188
+        }
+    },
+    {
+        "name": "pmph-e2023-pub",
+        "description": null,
+        "languages": {
+            "Futhark": 18180,
+            "Cuda": 11310,
+            "C++": 8586,
+            "Makefile": 760
+        }
+    },
+    {
+        "name": "fft",
+        "description": "Fast Fourier Transforms in Futhark",
+        "languages": {
+            "Futhark": 6303
+        }
+    },
+    {
+        "name": "futhark-bezier",
+        "description": "Flattened Data-Parallel Generation of Cubic Bezier Curves in Futhark ",
+        "languages": {
+            "Futhark": 82630,
+            "Makefile": 155
+        }
+    },
+    {
+        "name": "feigenbaum",
+        "description": "Futhark Feigenbaum Bifurcation",
+        "languages": {
+            "Futhark": 14493,
+            "Makefile": 135
+        }
+    },
+    {
+        "name": "sorts",
+        "description": "Sorting implementations in Futhark",
+        "languages": {
+            "Futhark": 39009
+        }
+    },
+    {
+        "name": "pmph-e2022-pub",
+        "description": "This is the repository for the course PMPH, edition 2022-2023",
+        "languages": {
+            "Futhark": 15199,
+            "Cuda": 10874,
+            "C++": 6609,
+            "Makefile": 483
+        }
+    },
+    {
+        "name": "edda",
+        "description": "Experimenting with Futhark programming style",
+        "languages": {
+            "Futhark": 5096
+        }
+    },
+    {
+        "name": "stupidart",
+        "description": "Be random :shit:",
+        "languages": {
+            "Futhark": 19168,
+            "C": 13348,
+            "Makefile": 2360,
+            "Nix": 224
+        }
+    },
+    {
+        "name": "pmph-e2021-pub",
+        "description": "This is the public repository for the PMPH course hold in the academic year 2021-22 at DIKU, KU.",
+        "languages": {
+            "Futhark": 14793,
+            "Cuda": 10870,
+            "C++": 6609,
+            "Makefile": 483
+        }
+    },
+    {
+        "name": "img-fut",
+        "description": "Image manipulation in Futhark",
+        "languages": {
+            "Futhark": 14294,
+            "Python": 3464,
+            "Haskell": 1606,
+            "Makefile": 338
+        }
+    },
+    {
+        "name": "optimise",
+        "description": "Futhark optimisation package",
+        "languages": {
+            "Futhark": 9255,
+            "Makefile": 702
+        }
+    },
+    {
+        "name": "aoc18",
+        "description": "A parallel Christmas",
+        "languages": {
+            "Futhark": 65162,
+            "Python": 5767,
+            "Haskell": 821
+        }
+    },
+    {
+        "name": "futhark-svm",
+        "description": "Support vector machine implementation in Futhark",
+        "languages": {
+            "Futhark": 35132,
+            "Python": 13441,
+            "Makefile": 904
+        }
+    },
+    {
+        "name": "containers",
+        "description": "A Futhark library with data structures.",
+        "languages": {
+            "Futhark": 36975
+        }
+    },
+    {
+        "name": "futswirl",
+        "description": "Fun with IFS fractals :boom:",
+        "languages": {
+            "Futhark": 53937,
+            "Makefile": 763,
+            "Nix": 183
+        }
+    },
+    {
+        "name": "segmented",
+        "description": "Irregular segmented operations implemented in Futhark",
+        "languages": {
+            "Futhark": 7418
+        }
+    },
+    {
+        "name": "futhark-ph",
+        "description": null,
+        "languages": {
+            "Futhark": 11898,
+            "C": 10317,
+            "Julia": 4840,
+            "Makefile": 267
+        }
+    },
+    {
+        "name": "vector",
+        "description": "Futhark vectors with statically known size",
+        "languages": {
+            "Futhark": 16472
+        }
+    },
+    {
+        "name": "complex",
+        "description": "Complex number library for Futhark",
+        "languages": {
+            "Futhark": 9138
+        }
+    },
+    {
+        "name": "sobol",
+        "description": "Sobol library for Futhark ",
+        "languages": {
+            "Futhark": 3787751
+        }
+    },
+    {
+        "name": "bluenoise",
+        "description": null,
+        "languages": {
+            "Futhark": 19117,
+            "Nix": 6871,
+            "Makefile": 247
+        }
+    },
+    {
+        "name": "gameoflife",
+        "description": "Conway's Game of Life in Futhark",
+        "languages": {
+            "Futhark": 9044,
+            "Makefile": 100
+        }
+    },
+    {
+        "name": "kid-annexes",
+        "description": "Key Information Document, implementation of the calculations in the annexes",
+        "languages": {
+            "Futhark": 11590
+        }
+    },
+    {
+        "name": "futhark-presents",
+        "description": "Futhark presents!",
+        "languages": {
+            "Futhark": 8482,
+            "Python": 3820,
+            "Nix": 274,
+            "Makefile": 198,
+            "Shell": 187
+        }
+    },
+    {
+        "name": "ad-spatial-search",
+        "description": null,
+        "languages": {
+            "Futhark": 60297,
+            "Python": 3888,
+            "Shell": 376
+        }
+    },
+    {
+        "name": "cpprandom",
+        "description": "A Futhark library in the style of C++'s <random>",
+        "languages": {
+            "Futhark": 35386
+        }
+    },
+    {
+        "name": "matte",
+        "description": "A colour and display library for Futhark",
+        "languages": {
+            "Futhark": 6156
+        }
+    },
+    {
+        "name": "futcubes",
+        "description": "A marching cube implementation in Futhark",
+        "languages": {
+            "Futhark": 38302
+        }
+    },
+    {
+        "name": "fustal",
+        "description": "A general purpose statistics library in futhark. WIP",
+        "languages": {
+            "Futhark": 8999,
+            "Shell": 6926,
+            "Python": 4929,
+            "R": 2381,
+            "Emacs Lisp": 1109,
+            "Common Lisp": 621,
+            "C": 427
+        }
+    },
+    {
+        "name": "flowamok",
+        "description": ":boom: Traffic simulation :boom:",
+        "languages": {
+            "Futhark": 53136,
+            "Makefile": 872,
+            "Nix": 183
+        }
+    },
+    {
+        "name": "distance",
+        "description": "Distance measures in Futhark based on SciPy",
+        "languages": {
+            "Futhark": 15295
+        }
+    },
+    {
+        "name": "futharkHash",
+        "description": "Hashing in Futhark",
+        "languages": {
+            "Futhark": 878
+        }
+    },
+    {
+        "name": "krylov-fut",
+        "description": "krylov methods in Futhark.",
+        "languages": {
+            "Futhark": 3628,
+            "Makefile": 356
+        }
+    },
+    {
+        "name": "recresid-roc",
+        "description": "Recursive residuals and reversely-ordered CUSUM in Futhark and Python.",
+        "languages": {
+            "Futhark": 74749,
+            "Python": 31213,
+            "Nix": 3896,
+            "Makefile": 1896
+        }
+    },
+    {
+        "name": "searchlight",
+        "description": "Shadow casting visualizer :boom:",
+        "languages": {
+            "Futhark": 5747,
+            "Nix": 183,
+            "Makefile": 66
+        }
+    },
+    {
+        "name": "ether",
+        "description": "A simulation?",
+        "languages": {
+            "Futhark": 10467,
+            "Nix": 183,
+            "Makefile": 97
+        }
+    },
+    {
+        "name": "fucheck",
+        "description": "Property-based testing for Futhark",
+        "languages": {
+            "Futhark": 143763,
+            "Haskell": 50579
+        }
+    },
+    {
+        "name": "sna2",
+        "description": null,
+        "languages": {
+            "Futhark": 10404,
+            "Zig": 9131,
+            "Python": 7515
+        }
+    },
+    {
+        "name": "futhark-btree",
+        "description": "A fast parallel B-Tree implementation written in futhark",
+        "languages": {
+            "Futhark": 23422,
+            "Makefile": 823,
+            "Shell": 396
+        }
+    },
+    {
+        "name": "msc-futhark-ray-tracer",
+        "description": "Ray Tracing for Sensor Simulation using Parallel Functional Programming",
+        "languages": {
+            "Futhark": 73632,
+            "Rust": 10811,
+            "C": 10775,
+            "Makefile": 2259
+        }
+    },
+    {
+        "name": "fut-ff",
+        "description": "Finite Fields for Futhark",
+        "languages": {
+            "Futhark": 41761,
+            "Makefile": 93
+        }
+    },
+    {
+        "name": "ols",
+        "description": "Linear regression using QR decomposition in Futhark.",
+        "languages": {
+            "Futhark": 8855,
+            "Python": 3252,
+            "Nix": 735,
+            "Makefile": 339
+        }
+    },
+    {
+        "name": "gospel",
+        "description": "Play Go in Futhark :eyes:",
+        "languages": {
+            "Futhark": 11485,
+            "Makefile": 61
+        }
+    },
+    {
+        "name": "liv",
+        "description": "Crude cellular automaton visualiser that runs in the terminal",
+        "languages": {
+            "Futhark": 12489,
+            "Nix": 183,
+            "Makefile": 104
+        }
+    },
+    {
+        "name": "aoc",
+        "description": "\u16a0 My advent of code solutions",
+        "languages": {
+            "Futhark": 2745,
+            "TypeScript": 566
+        }
+    },
+    {
+        "name": "petals",
+        "description": "A neat little animation",
+        "languages": {
+            "Futhark": 3680,
+            "Nix": 183,
+            "Makefile": 61
+        }
+    },
+    {
+        "name": "futhark-featurematch-2nn",
+        "description": "Futhark implementation of two-nearest-neighbour brute-force quadratic feature matching.",
+        "languages": {
+            "Futhark": 1786,
+            "Python": 1391
+        }
+    },
+    {
+        "name": "graffito",
+        "description": "A small stencil framework for quick design and visualization",
+        "languages": {
+            "Futhark": 118185,
+            "C": 36132,
+            "Makefile": 5313,
+            "Python": 1866,
+            "Haskell": 1020,
+            "Nix": 298,
+            "Shell": 253
+        }
+    },
+    {
+        "name": "gaiagone",
+        "description": "Maybe a game at some point",
+        "languages": {
+            "Futhark": 18936,
+            "Nix": 183,
+            "Makefile": 63
+        }
+    },
+    {
+        "name": "adops",
+        "description": null,
+        "languages": {
+            "Futhark": 115294,
+            "Haskell": 55466,
+            "C": 4657,
+            "Makefile": 979,
+            "Gnuplot": 597,
+            "Shell": 283
+        }
+    },
+    {
+        "name": "carve",
+        "description": "Resizing videos with GPU seam carving",
+        "languages": {
+            "Futhark": 7656,
+            "Python": 6412,
+            "Makefile": 744
+        }
+    },
+    {
+        "name": "pickle",
+        "description": "Serialisation library for Futhark",
+        "languages": {
+            "Futhark": 9054
+        }
+    },
+    {
+        "name": "ifl23-revad-red-scan",
+        "description": null,
+        "languages": {
+            "Futhark": 59622,
+            "Shell": 3611
+        }
+    },
+    {
+        "name": "dst-fut",
+        "description": "Futhark implementation of topics in Dempster-Shafer Theory",
+        "languages": {
+            "Futhark": 6848,
+            "Makefile": 336
+        }
+    },
+    {
+        "name": "rtiaw-futhark",
+        "description": null,
+        "languages": {
+            "Futhark": 15676,
+            "Rust": 1798,
+            "Makefile": 1364,
+            "Nix": 720,
+            "Shell": 262
+        }
+    },
+    {
+        "name": "burningship-fut",
+        "description": "Burning ship fractal in Futhark",
+        "languages": {
+            "Futhark": 457,
+            "Python": 171,
+            "Makefile": 168
+        }
+    },
+    {
+        "name": "sha256.fut",
+        "description": null,
+        "languages": {
+            "Futhark": 20087,
+            "Nix": 840
+        }
+    },
+    {
+        "name": "montecarlo",
+        "description": null,
+        "languages": {
+            "Futhark": 6055
+        }
+    },
+    {
+        "name": "movableshapes",
+        "description": "Triangle compositions with centers of gravity.",
+        "languages": {
+            "Futhark": 9238,
+            "Nix": 183,
+            "Makefile": 59
+        }
+    },
+    {
+        "name": "clustertoy",
+        "description": "Visualising k-means",
+        "languages": {
+            "Futhark": 7981,
+            "Nix": 183,
+            "Makefile": 102
+        }
+    },
+    {
+        "name": "tapet",
+        "description": "Tapestry-like visuals with Futhark :boom:",
+        "languages": {
+            "Futhark": 4757,
+            "Nix": 183,
+            "Makefile": 60
+        }
+    },
+    {
+        "name": "fastcast",
+        "description": "Fun sphere raycaster",
+        "languages": {
+            "Futhark": 12547,
+            "Nix": 183,
+            "Makefile": 59
+        }
+    },
+    {
+        "name": "futtop",
+        "description": "Topology optimization for linear elastic minimum compliance with volume constraints on cartesian grids in 3D. Implemented in Futhark.",
+        "languages": {
+            "Futhark": 117738,
+            "C": 15639,
+            "Makefile": 588
+        }
+    },
+    {
+        "name": "lmdif",
+        "description": "Nonlinear parameter fitting in Futhark",
+        "languages": {
+            "Futhark": 11657
+        }
+    },
+    {
+        "name": "fibs",
+        "description": "Fibonacci numbers in Futhark",
+        "languages": {
+            "Futhark": 1960
+        }
+    },
+    {
+        "name": "sandstorm",
+        "description": "Possibly a game one day",
+        "languages": {
+            "Futhark": 43062,
+            "Standard ML": 2995,
+            "C": 734,
+            "Makefile": 632
+        }
+    },
+    {
+        "name": "knn-fut",
+        "description": "knn in futhark",
+        "languages": {
+            "Futhark": 77306,
+            "Makefile": 2220
+        }
+    },
+    {
+        "name": "abelian-sandpile",
+        "description": "An Abelian Sandpile implemented in Futhark",
+        "languages": {
+            "Futhark": 4164,
+            "Makefile": 63
+        }
+    },
+    {
+        "name": "Futhark-CVA",
+        "description": null,
+        "languages": {
+            "Futhark": 13080,
+            "Makefile": 716
+        }
+    },
+    {
+        "name": "slime-mold",
+        "description": null,
+        "languages": {
+            "Futhark": 18174,
+            "Python": 8031,
+            "Makefile": 1060,
+            "Shell": 405
+        }
+    },
+    {
+        "name": "annf",
+        "description": null,
+        "languages": {
+            "Futhark": 27816,
+            "Jupyter Notebook": 13934,
+            "Python": 4841,
+            "Makefile": 681
+        }
+    },
+    {
+        "name": "runestone",
+        "description": null,
+        "languages": {
+            "Futhark": 2574
+        }
+    },
+    {
+        "name": "futhark-mixtures",
+        "description": "Implementation of mixture models in Futhark",
+        "languages": {
+            "Futhark": 41418
+        }
+    },
+    {
+        "name": "ParallelFFT",
+        "description": null,
+        "languages": {
+            "Futhark": 2606
+        }
+    },
+    {
+        "name": "reverb",
+        "description": null,
+        "languages": {
+            "Futhark": 1969,
+            "Makefile": 134
+        }
+    },
+    {
+        "name": "squarezoom",
+        "description": "A neat little expanding square world",
+        "languages": {
+            "Futhark": 18585,
+            "C": 12130,
+            "Makefile": 2310,
+            "Nix": 224
+        }
+    },
+    {
+        "name": "FutharkGBDT",
+        "description": null,
+        "languages": {
+            "Futhark": 86060,
+            "C": 2984,
+            "Makefile": 839
+        }
+    },
+    {
+        "name": "futhark-bytecode-interp",
+        "description": null,
+        "languages": {
+            "Futhark": 52325,
+            "Shell": 5259
+        }
+    },
+    {
+        "name": "aobench-futhark",
+        "description": "A port of Syoyo Fujita's AOBench benchmark to Futhark.",
+        "languages": {
+            "Futhark": 17477
+        }
+    },
+    {
+        "name": "plasma",
+        "description": "Procedural plasma",
+        "languages": {
+            "Futhark": 3872,
+            "Makefile": 61
+        }
+    },
+    {
+        "name": "tf_murty",
+        "description": null,
+        "languages": {
+            "Futhark": 21053,
+            "C++": 4394,
+            "Makefile": 1760,
+            "Python": 1147
+        }
+    },
+    {
+        "name": "futhark-nn",
+        "description": null,
+        "languages": {
+            "Futhark": 53222,
+            "Jupyter Notebook": 12347,
+            "Nix": 6434
+        }
+    },
+    {
+        "name": "mandelbrot",
+        "description": null,
+        "languages": {
+            "Futhark": 2385,
+            "Rust": 498
+        }
+    },
+    {
+        "name": "date",
+        "description": "Simple date library for Futhark",
+        "languages": {
+            "Futhark": 7505
+        }
+    },
+    {
+        "name": "futhark-stencil-benchmarks",
+        "description": "This contains a number of benchmark program of stencils in futhark.",
+        "languages": {
+            "Futhark": 32173,
+            "Makefile": 4009,
+            "Python": 263
+        }
+    },
+    {
+        "name": "rans",
+        "description": "A Futhark implementation of rANS",
+        "languages": {
+            "Futhark": 8609
+        }
+    },
+    {
+        "name": "RANN",
+        "description": "Bachelor project",
+        "languages": {
+            "Futhark": 175368,
+            "Makefile": 10892,
+            "Shell": 588
+        }
+    },
+    {
+        "name": "futslime",
+        "description": null,
+        "languages": {
+            "Futhark": 10680,
+            "Python": 2931,
+            "Makefile": 340
+        }
+    },
+    {
+        "name": "rayboi",
+        "description": "a raytracer written in futhark/python",
+        "languages": {
+            "Futhark": 6981,
+            "HTML": 4992,
+            "Python": 3059
+        }
+    },
+    {
+        "name": "futhark-autotuning-tfp21",
+        "description": "Artifact for TFP21 paper on autotuning",
+        "languages": {
+            "Futhark": 160551,
+            "C": 95009,
+            "Python": 34003,
+            "Makefile": 6583,
+            "Shell": 1427,
+            "Nix": 159
+        }
+    },
+    {
+        "name": "rank-search-k-irregular",
+        "description": null,
+        "languages": {
+            "Futhark": 4575
+        }
+    },
+    {
+        "name": "futhark-playground",
+        "description": null,
+        "languages": {
+            "Futhark": 2077,
+            "Dockerfile": 707,
+            "Makefile": 123
+        }
+    },
+    {
+        "name": "futtop-non-lin",
+        "description": "Topology optimization of end-compliance for geometrically non-linear elastic structures with volume constraints on cartesian grids in 3D. Implemented in Futhark.",
+        "languages": {
+            "Futhark": 295764,
+            "C": 89997,
+            "MATLAB": 29216,
+            "Makefile": 1215
+        }
+    },
+    {
+        "name": "futhark-memory",
+        "description": null,
+        "languages": {
+            "Futhark": 115045,
+            "C": 79080,
+            "Makefile": 40472,
+            "C++": 23810,
+            "Python": 12438,
+            "Shell": 473,
+            "Nix": 343
+        }
+    },
+    {
+        "name": "DPP3",
+        "description": null,
+        "languages": {
+            "Futhark": 11110
+        }
+    },
+    {
+        "name": "futhark-kdd19",
+        "description": "Bfast performance evaluation",
+        "languages": {
+            "Futhark": 97295,
+            "C": 13834,
+            "Cuda": 11059,
+            "Python": 7157,
+            "Makefile": 5101
+        }
+    },
+    {
+        "name": "noise-fut",
+        "description": "Noise generation library in Futhark",
+        "languages": {
+            "Futhark": 36778,
+            "Nix": 1651,
+            "Python": 246,
+            "Makefile": 229
+        }
+    },
+    {
+        "name": "myriad",
+        "description": "a gpu-accelerated implementation of jeffrey ventrella's clusters automata",
+        "languages": {
+            "Futhark": 49095,
+            "Rust": 9401
+        }
+    },
+    {
+        "name": "futhboost",
+        "description": null,
+        "languages": {
+            "Futhark": 138795,
+            "Python": 12657,
+            "Makefile": 4725,
+            "C": 2984
+        }
+    },
+    {
+        "name": "advent_of_code_2022",
+        "description": null,
+        "languages": {
+            "Futhark": 140671,
+            "C": 14282,
+            "Makefile": 2334
+        }
+    },
+    {
+        "name": "segmented_scan_add_issue",
+        "description": null,
+        "languages": {
+            "Futhark": 5817,
+            "Makefile": 63
+        }
+    },
+    {
+        "name": "futhark_singlepassscan_tests",
+        "description": null,
+        "languages": {
+            "Futhark": 24115,
+            "Makefile": 2523
+        }
+    },
+    {
+        "name": "PMath",
+        "description": "Personnal library math with Futhark",
+        "languages": {
+            "Futhark": 3230
+        }
+    },
+    {
+        "name": "DPP_group",
+        "description": null,
+        "languages": {
+            "Futhark": 214631
+        }
+    },
+    {
+        "name": "pam-interval-trees",
+        "description": "The Bachelor Project of Victor Alexander Schmidt, by supervision of Troels Henriksen.",
+        "languages": {
+            "Futhark": 71003,
+            "Makefile": 331
+        }
+    },
+    {
+        "name": "lm",
+        "description": "Fit linear models in Futhark with a robustness towards ill-conditioned problems. Output is very close to that of lm in the R language",
+        "languages": {
+            "Futhark": 16387
+        }
     }
 ]

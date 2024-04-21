@@ -3,7 +3,7 @@
         "name": "gentoo",
         "description": "[MIRROR] Official Gentoo ebuild repository",
         "languages": {
-            "Shell": 52362661,
+            "Shell": 52384204,
             "Roff": 631596,
             "Emacs Lisp": 104491,
             "C": 53995,
@@ -72,6 +72,1531 @@
             "Meson": 68007,
             "Makefile": 27526,
             "C": 10357
+        }
+    },
+    {
+        "name": "sci",
+        "description": "[MIRROR] Gentoo Science Overlay",
+        "languages": {
+            "Shell": 746678,
+            "Perl": 12348,
+            "Roff": 1594,
+            "Objective-C": 1050,
+            "Emacs Lisp": 180
+        }
+    },
+    {
+        "name": "flatpak-overlay",
+        "description": "A Gentoo ebuild overlay for flatpak",
+        "languages": {
+            "Shell": 21204
+        }
+    },
+    {
+        "name": "sage-on-gentoo",
+        "description": "(Unofficial) Gentoo Overlay for Sage- and Sage-related ebuilds",
+        "languages": {
+            "Shell": 112755,
+            "Roff": 6324,
+            "Python": 4952,
+            "HTML": 3686
+        }
+    },
+    {
+        "name": "cargo-ebuild",
+        "description": "cargo extension that can generate ebuilds using the in-tree eclasses",
+        "languages": {
+            "Rust": 7809
+        }
+    },
+    {
+        "name": "sakaki-tools",
+        "description": "Overlay containing various utility ebuilds for Gentoo on EFI.",
+        "languages": {
+            "Shell": 711634,
+            "Roff": 4309
+        }
+    },
+    {
+        "name": "libressl",
+        "description": "[MIRROR] LibreSSL ebuilds testing repository",
+        "languages": {
+            "Shell": 682853,
+            "M4": 1217,
+            "Roff": 1060,
+            "Makefile": 536
+        }
+    },
+    {
+        "name": "sabayon-distro",
+        "description": "Portage overlay for Sabayon related ebuilds",
+        "languages": {
+            "Shell": 1010249,
+            "Roff": 44486,
+            "Python": 22036,
+            "Awk": 15393,
+            "Jinja": 14342,
+            "C": 9068,
+            "M4": 3619
+        }
+    },
+    {
+        "name": "wayland-desktop",
+        "description": "Gentoo overlay for Wayland related ebuilds",
+        "languages": {
+            "Shell": 173444
+        }
+    },
+    {
+        "name": "deepin-overlay",
+        "description": "Gentoo overlay for Deepin APPs",
+        "languages": {
+            "Shell": 184560,
+            "C++": 12024
+        }
+    },
+    {
+        "name": "guru",
+        "description": "GURU: Ebuild repository entirely maintained by Gentoo users",
+        "languages": {
+            "Shell": 4278168,
+            "Roff": 3334846,
+            "Python": 1697,
+            "CMake": 446,
+            "Crystal": 426,
+            "Makefile": 247,
+            "Emacs Lisp": 177,
+            "Vim Script": 118
+        }
+    },
+    {
+        "name": "qt",
+        "description": "[MIRROR] Qt Team's testing overlay",
+        "languages": {
+            "Shell": 128932
+        }
+    },
+    {
+        "name": "hackport",
+        "description": "A command line tool to generate Gentoo ebuilds from Hackage packages.",
+        "languages": {
+            "Haskell": 310016,
+            "Shell": 663
+        }
+    },
+    {
+        "name": "termux-language-server",
+        "description": "\ud83d\udee0\ufe0f A language server for some specific bash scripts",
+        "languages": {
+            "Python": 56885,
+            "Shell": 5319,
+            "Jinja": 1580,
+            "Scheme": 314
+        }
+    },
+    {
+        "name": "rocm",
+        "description": "Ebuilds to install ROCM on Gentoo Linux",
+        "languages": {
+            "Shell": 701516
+        }
+    },
+    {
+        "name": "go-overlay",
+        "description": "This Portage overlay is for Go related ebuilds.",
+        "languages": {
+            "Shell": 254321,
+            "Roff": 7851
+        }
+    },
+    {
+        "name": "gentoo-zsh-completions",
+        "description": "[ORIGIN] Gentoo specific zsh completion support (ebuild, emerge, eselect, ...)",
+        "languages": {
+            "Shell": 86282
+        }
+    },
+    {
+        "name": "pkgcheck",
+        "description": "pkgcore-based QA utility for ebuild repos",
+        "languages": {
+            "Python": 991524,
+            "Shell": 13506,
+            "Emacs Lisp": 1908,
+            "Perl": 380,
+            "Makefile": 316,
+            "Dockerfile": 249
+        }
+    },
+    {
+        "name": "ebuildtester",
+        "description": "A dockerized approach to test a Gentoo package within a clean stage3",
+        "languages": {
+            "Python": 30622,
+            "Shell": 2332,
+            "Makefile": 344
+        }
+    },
+    {
+        "name": "ebuild",
+        "description": "\u6613\u8bed\u8a00\u9ad8\u5c42\u6784\u5efa\u5de5\u5177",
+        "languages": {
+            "C#": 85680,
+            "Euphoria": 3
+        }
+    },
+    {
+        "name": "torbrowser-overlay",
+        "description": "Gentoo overlay for Tor Browser related ebuilds",
+        "languages": {
+            "Shell": 32246
+        }
+    },
+    {
+        "name": "cargo-ebuild",
+        "description": "[MIRROR] cargo extension that can generate ebuilds using the in-tree eclasses",
+        "languages": {
+            "Rust": 11824
+        }
+    },
+    {
+        "name": "dlang",
+        "description": "[MIRROR] D programming language ebuild repository",
+        "languages": {
+            "Shell": 233961
+        }
+    },
+    {
+        "name": "portage-stable",
+        "description": "unmodified ebuilds mirrored from the portage tree",
+        "languages": {
+            "Shell": 4847011,
+            "Roff": 1241753,
+            "C": 15485,
+            "Perl": 14441,
+            "Awk": 7693,
+            "Emacs Lisp": 2966,
+            "Common Lisp": 2543,
+            "M": 2533,
+            "Makefile": 1518,
+            "M4": 1217,
+            "Python": 788,
+            "Vim Script": 736
+        }
+    },
+    {
+        "name": "mgorny-dev-scripts",
+        "description": "Quick & dirty ebuild development scripts",
+        "languages": {
+            "Shell": 25177
+        }
+    },
+    {
+        "name": "booboo",
+        "description": "booboo gentoo overlay, just another ebuild repository",
+        "languages": {
+            "Shell": 241362,
+            "Roff": 46,
+            "Makefile": 43
+        }
+    },
+    {
+        "name": "g-sorcery",
+        "description": "Framework for automated ebuild generators",
+        "languages": {
+            "Python": 137900,
+            "Shell": 1500
+        }
+    },
+    {
+        "name": "bobwya",
+        "description": "Miscellaneous Gentoo ebuilds",
+        "languages": {
+            "Shell": 390838,
+            "JavaScript": 1305
+        }
+    },
+    {
+        "name": "gentoo-syntax",
+        "description": "[MIRROR] Gentoo Ebuild, Eclass, GLEP, ChangeLog and Portage Files syntax highlighting, filetype and indent settings for Vim",
+        "languages": {
+            "Vim Script": 83112,
+            "Makefile": 894
+        }
+    },
+    {
+        "name": "vapoursynth-portage",
+        "description": "Unofficial portage tree with all VapourSynth related ebuilds",
+        "languages": {
+            "Shell": 438148,
+            "Meson": 554
+        }
+    },
+    {
+        "name": "electron-overlay",
+        "description": "Gentoo Portage overlay for Atom-related ebuilds",
+        "languages": {
+            "Shell": 545543,
+            "Python": 41294
+        }
+    },
+    {
+        "name": "vmware",
+        "description": "[MIRROR] VMware desktop ebuilds",
+        "languages": {
+            "Shell": 125605
+        }
+    },
+    {
+        "name": "openstack-overlay",
+        "description": "An overlay with the required ebuilds to install and run Openstack on Gentoo Linux",
+        "languages": {
+            "Shell": 61
+        }
+    },
+    {
+        "name": "cg",
+        "description": "Computer graphics ebuilds for gentoo",
+        "languages": {
+            "Shell": 256514,
+            "Python": 15798,
+            "Perl": 1808,
+            "CMake": 1786,
+            "Makefile": 151
+        }
+    },
+    {
+        "name": "abendbrot",
+        "description": "Desktop oriented overlay for various ebuilds and the occasional gamer",
+        "languages": {
+            "Shell": 328232
+        }
+    },
+    {
+        "name": "vowstar-overlay",
+        "description": "Ebuilds from vowstar's git",
+        "languages": {
+            "Shell": 519308,
+            "Roff": 1529
+        }
+    },
+    {
+        "name": "oiledmachine-overlay",
+        "description": "Another ebuild overlay for the Gentoo Linux operating system containing enhancements, game development, apps.",
+        "languages": {
+            "HTML": 69426483,
+            "Shell": 12807014,
+            "Roff": 553119,
+            "C++": 44300,
+            "C": 36596,
+            "Python": 5756,
+            "Emacs Lisp": 2574,
+            "Perl": 1506,
+            "JavaScript": 1409,
+            "Makefile": 1182,
+            "Lua": 998,
+            "Vim Script": 49
+        }
+    },
+    {
+        "name": "pycargoebuild",
+        "description": "A generator for Rust/Cargo ebuilds written in Python",
+        "languages": {
+            "Python": 86198,
+            "Shell": 72497
+        }
+    },
+    {
+        "name": "clang-musl-overlay",
+        "description": "Overlay containing experimental musl/clang profile and related ebuilds",
+        "languages": {
+            "Shell": 732951,
+            "Roff": 18894,
+            "C": 1798,
+            "JavaScript": 732,
+            "Emacs Lisp": 699,
+            "Vim Script": 217
+        }
+    },
+    {
+        "name": "portage-overlay",
+        "description": "Extra ebuilds for Gentoo systems, mostly packages fixed to work with musl",
+        "languages": {
+            "Shell": 11294
+        }
+    },
+    {
+        "name": "waebbl-gentoo",
+        "description": "Personal overlay of gentoo ebuilds, loosely focused on the 3D domain.",
+        "languages": {
+            "Shell": 74955
+        }
+    },
+    {
+        "name": "g-pypi",
+        "description": "g-pypi manages ebuilds for Gentoo Linux using information in PyPi (Python Package Index)",
+        "languages": {
+            "Python": 199132,
+            "CSS": 2717
+        }
+    },
+    {
+        "name": "binary-gentoo",
+        "description": ":cow: Collection of simple CLI tools to help build Gentoo packages on a non-Gentoo Linux host",
+        "languages": {
+            "Python": 96517
+        }
+    },
+    {
+        "name": "games-overlay",
+        "description": "gentoo overlay containing games ebuilds only",
+        "languages": {
+            "Shell": 442196,
+            "Roff": 6508,
+            "D": 1002,
+            "Mask": 380
+        }
+    },
+    {
+        "name": "CachyOS-kernels",
+        "description": "Overlay containing ebuilds of CachyOS kernels and some other things",
+        "languages": {
+            "Shell": 57268,
+            "Roff": 13634
+        }
+    },
+    {
+        "name": "euscan",
+        "description": "Ebuild Upstream Scanner",
+        "languages": {
+            "Python": 785167,
+            "JavaScript": 220507,
+            "HTML": 57052,
+            "CSS": 15290,
+            "Shell": 1274
+        }
+    },
+    {
+        "name": "get-ego-vendor",
+        "description": "utility to extract information for the EGO_VENDOR variable in Gentoo ebuilds from go modules",
+        "languages": {
+            "Go": 1000
+        }
+    },
+    {
+        "name": "overlays",
+        "description": "Missing gentoo ebuilds",
+        "languages": {
+            "Emacs Lisp": 65
+        }
+    },
+    {
+        "name": "bombo82-overlay",
+        "description": "My own collection of ebuilds",
+        "languages": {
+            "Roff": 101698,
+            "Shell": 94827
+        }
+    },
+    {
+        "name": "maggu2810-overlay",
+        "description": "In this project I store a Gentoo portage overlay (ebuilds, sets, profiles, etc.)",
+        "languages": {
+            "Shell": 59345,
+            "Makefile": 1748
+        }
+    },
+    {
+        "name": "sam-gentoo-scripts",
+        "description": "Set of scripts I use for Gentoo development.",
+        "languages": {
+            "Shell": 65326,
+            "Python": 2774
+        }
+    },
+    {
+        "name": "rxvt-unicode",
+        "description": "Gentoo ebuild for rxvt-unicode with patches for glyph support (Powerline fonts, Nerd Fonts) and truecolor support",
+        "languages": {
+            "Shell": 2514
+        }
+    },
+    {
+        "name": "qting-edge",
+        "description": "An overlay for Gentoo Linux with experimental Qt4 ebuilds and related packages",
+        "languages": {}
+    },
+    {
+        "name": "go-overlay",
+        "description": "[ARCHIVED] Golang related ebuilds",
+        "languages": {
+            "Shell": 254321,
+            "Roff": 158230
+        }
+    },
+    {
+        "name": "powerman-overlay",
+        "description": "Powerman's Gentoo overlay",
+        "languages": {
+            "Shell": 127653
+        }
+    },
+    {
+        "name": "jessfraz-overlay",
+        "description": "Portage overlay with custom Gentoo ebuilds.",
+        "languages": {
+            "Shell": 7928,
+            "Dockerfile": 1384,
+            "Makefile": 1375
+        }
+    },
+    {
+        "name": "gentoo-build-publisher",
+        "description": "Gentoo Build Publisher is a way to build gentoo updates in CI/CD and have those builds published (rsync for the portage tree; http  for binpkgs) to individual machines.",
+        "languages": {
+            "Python": 388194,
+            "HTML": 10296,
+            "JavaScript": 4000,
+            "Makefile": 1621,
+            "CSS": 461
+        }
+    },
+    {
+        "name": "nvidia-docker-overlay",
+        "description": "Gentoo ebuilds of the https://github.com/NVIDIA/nvidia-docker",
+        "languages": {
+            "Shell": 5540
+        }
+    },
+    {
+        "name": "gentoo-monero",
+        "description": "Monero packages for Gentoo Linux",
+        "languages": {
+            "Shell": 20698,
+            "Python": 1171
+        }
+    },
+    {
+        "name": "ineluctable-overlay",
+        "description": "Ineluctable Overlay offers a repository of Gentoo ebuilds for projects that I am interested in, or are not yet available through Portage tree.",
+        "languages": {
+            "Shell": 93709
+        }
+    },
+    {
+        "name": "riru",
+        "description": "Unofficial gentoo overlay",
+        "languages": {
+            "Shell": 32491
+        }
+    },
+    {
+        "name": "rion-overlay",
+        "description": "Gentoo Linux overlay",
+        "languages": {
+            "Shell": 72733
+        }
+    },
+    {
+        "name": "gentoo_overlay",
+        "description": "Gentoo Portage tree fixes, additional ebuilds, etc.",
+        "languages": {
+            "Shell": 20954,
+            "Roff": 980
+        }
+    },
+    {
+        "name": "erlang_portage",
+        "description": "A collection of ebuilds for various Erlang packages and projects.",
+        "languages": {}
+    },
+    {
+        "name": "appswipe",
+        "description": "A Portage repo browser GUI (kuroo/porthole/eix alternative). Use this to look up information about installed packages, packages to upgrade, or packages you might want to install. Fast and easy navigation of Gentoo's ebuilds, emerge with ease!",
+        "languages": {
+            "C++": 419074,
+            "C": 5047,
+            "QMake": 2864
+        }
+    },
+    {
+        "name": "gnome15-overlay",
+        "description": "Gentoo ebuilds for Gnome15 packages",
+        "languages": {
+            "Shell": 73579
+        }
+    },
+    {
+        "name": "vifino-overlay",
+        "description": "My personal overlay for Gentoo. Contains openrazer ebuilds and friends mostly.",
+        "languages": {
+            "Shell": 18152
+        }
+    },
+    {
+        "name": "kodi-overlay",
+        "description": "Unofficial portage overlay for Gentoo Linux providing modified and unofficial ebuilds for a KODI appliance.",
+        "languages": {
+            "Shell": 2587
+        }
+    },
+    {
+        "name": "trinity",
+        "description": "A gentoo trinity ebuilds tree. This overlay is __dead__. Please use the version maintatined by the trinity comunity ",
+        "languages": {
+            "Shell": 387339,
+            "Roff": 1121,
+            "Mask": 635
+        }
+    },
+    {
+        "name": "gentoo",
+        "description": "Gentoo ebuild (community provided)",
+        "languages": {
+            "Shell": 20807
+        }
+    },
+    {
+        "name": "portage",
+        "description": "A collection of ebuilds for various software packages",
+        "languages": {
+            "Shell": 8881
+        }
+    },
+    {
+        "name": "enlightenment-live",
+        "description": "Enlightenment WM latest stable version and live ebuilds",
+        "languages": {
+            "Shell": 27649
+        }
+    },
+    {
+        "name": "overlay",
+        "description": "Various ebuilds made and used by Greek Gentoo community (gentoo-el)",
+        "languages": {
+            "Shell": 37839,
+            "Mask": 216
+        }
+    },
+    {
+        "name": "gentoo-overlay",
+        "description": "experimental ebuild collection",
+        "languages": {
+            "Roff": 182134,
+            "Shell": 140218
+        }
+    },
+    {
+        "name": "crossdev-apple-overlay",
+        "description": "Gentoo overlay for apple crossdev ebuilds",
+        "languages": {
+            "Shell": 14616,
+            "Roff": 4540
+        }
+    },
+    {
+        "name": "gentoo-ebuilds",
+        "description": "Gentoo Linux ebuilds for Blender and dependency work.",
+        "languages": {
+            "Shell": 88605
+        }
+    },
+    {
+        "name": "overlay",
+        "description": "My own collection of Gentoo ebuilds",
+        "languages": {
+            "Shell": 148143
+        }
+    },
+    {
+        "name": "openstack-overlay",
+        "description": "OpenStack ebuilds",
+        "languages": {}
+    },
+    {
+        "name": "gentoostudio",
+        "description": "Ebuild overlay for Gentoo Studio (http://gentoostudio.org)",
+        "languages": {
+            "Shell": 157804,
+            "Python": 12114
+        }
+    },
+    {
+        "name": "node-ebuilder",
+        "description": "Ebuild file producer for nodejs modules",
+        "languages": {
+            "JavaScript": 105965
+        }
+    },
+    {
+        "name": "g-gem",
+        "description": "Tool for creating Gentoo ebuilds based on gems",
+        "languages": {
+            "Ruby": 1749
+        }
+    },
+    {
+        "name": "gentoo-kodi-overlay",
+        "description": "Kodi portage overlay with GIT ebuilds for Kodi, the Kodi platform lib and Kodi binary addons",
+        "languages": {
+            "Shell": 30869
+        }
+    },
+    {
+        "name": "portage",
+        "description": "My Gentoo portage overlay, with mainline fixes and custom ebuilds.",
+        "languages": {
+            "Shell": 150262,
+            "JavaScript": 787,
+            "Makefile": 149
+        }
+    },
+    {
+        "name": "torbrowser",
+        "description": "Tor Browser related ebuilds",
+        "languages": {
+            "Shell": 32246,
+            "Roff": 12228
+        }
+    },
+    {
+        "name": "buildpackage",
+        "description": "Builds deb, ebuild, arch pkg and rpm packages from git repositories.",
+        "languages": {
+            "Shell": 12724
+        }
+    },
+    {
+        "name": "pkgcheck-action",
+        "description": "Run pkgcheck for ebuild repos via GitHub action.",
+        "languages": {}
+    },
+    {
+        "name": "qubes-gentoo",
+        "description": "This is the official ebuild repository for Qubes OS Gentoo template.",
+        "languages": {}
+    },
+    {
+        "name": "etest",
+        "description": "ebuild testing framework",
+        "languages": {
+            "OpenEdge ABL": 119993,
+            "Python": 79884,
+            "Dockerfile": 2003,
+            "Shell": 745
+        }
+    },
+    {
+        "name": "gentoo-overlay",
+        "description": "Home of experimental ebuilds and new categories",
+        "languages": {}
+    },
+    {
+        "name": "compiz-reloaded-overlay",
+        "description": "Ebuilds for compiz-reloaded support in Gentoo",
+        "languages": {
+            "Shell": 33472
+        }
+    },
+    {
+        "name": "ebuilds_for_gentoo",
+        "description": "Here are some of my own or modified ebuilds. Also some of them I\u00b4ve found in the web.",
+        "languages": {
+            "Shell": 56085,
+            "Makefile": 58
+        }
+    },
+    {
+        "name": "bitcoin_gentoo_ebuild",
+        "description": "gentoo linux ebuild for bitcoin",
+        "languages": {}
+    },
+    {
+        "name": "xeon-phi-overlay",
+        "description": "This is an portage overlay for containing ebuilds for a clean install of the Intel Manycore Platform Software Stack (MPSS) for Gentoo.",
+        "languages": {
+            "Shell": 60263,
+            "Roff": 384
+        }
+    },
+    {
+        "name": "proton-gentoo-overlay",
+        "description": "Experimental ebuild repository for Proton",
+        "languages": {
+            "Shell": 110247,
+            "Meson": 13481
+        }
+    },
+    {
+        "name": "ninjatools",
+        "description": "Some ebuild for Gentoo (cava, mps-youtube, lemonbar, termite, siji-font, mkinitramfs-ll,...)",
+        "languages": {
+            "Shell": 40125
+        }
+    },
+    {
+        "name": "gentoo.overlay",
+        "description": "Overlay for ebuilds created myself or currently not available in \"more official\" overlays",
+        "languages": {
+            "Shell": 18286,
+            "Roff": 5321
+        }
+    },
+    {
+        "name": "defiance-overlay",
+        "description": "Gentoo Ebuilds for the future",
+        "languages": {
+            "Shell": 40561,
+            "Roff": 11278
+        }
+    },
+    {
+        "name": "waffle-builds",
+        "description": "FlyingWaffle's personal Gentoo ebuild overlay.",
+        "languages": {
+            "Shell": 170464
+        }
+    },
+    {
+        "name": "xarblu-overlay",
+        "description": "My personal overlay of Gentoo GNU/Linux ebuilds",
+        "languages": {
+            "Shell": 342095
+        }
+    },
+    {
+        "name": "adasss",
+        "description": "Repository of experimental Android Studio ebuilds for Linux Gentoo",
+        "languages": {
+            "Shell": 46408
+        }
+    },
+    {
+        "name": "tg",
+        "description": "Telegram messenger CLI Build Status  Command-line interface for Telegram. Uses readline interface.  API, Protocol documentation  Documentation for Telegram API is available here: http://core.telegram.org/api  Documentation for MTproto protocol is available here: http://core.telegram.org/mtproto  Upgrading to version 1.0  First of all, the binary is now in ./bin folder and is named telegram-cli. So be careful, not to use old binary.  Second, config folder is now ${HOME}/.telegram-cli  Third, database is not compatible with older versions, so you'll have to login again.  Fourth, in peer_name '#' are substitued to '@'. (Not applied to appending of '#%d' in case of two peers having same name).  Installation  Clone GitHub Repository   git clone --recursive https://github.com/vysheng/tg.git && cd tg Python Support  Python support is currently limited to Python 2.7 or Python 3.1+. Other versions may work but are not tested.  Linux and BSDs  Install libs: readline, openssl and (if you want to use config) libconfig, liblua, python and libjansson. If you do not want to use them pass options --disable-libconfig, --disable-liblua, --disable-python and --disable-json respectively.  On Ubuntu/Debian use:   sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev libjansson-dev libpython-dev make  On gentoo:   sudo emerge -av sys-libs/readline dev-libs/libconfig dev-libs/openssl dev-lang/lua dev-libs/libevent dev-libs/jansson dev-lang/python On Fedora:   sudo dnf install lua-devel openssl-devel libconfig-devel readline-devel libevent-devel libjansson-devel python-devel On Archlinux:   yaourt -S telegram-cli-git On FreeBSD:   pkg install libconfig libexecinfo lua52 python On OpenBSD:   pkg_add libconfig libexecinfo lua python On openSUSE:   sudo zypper in lua-devel libconfig-devel readline-devel libevent-devel libjansson-devel python-devel libopenssl-devel Then,   ./configure  make Other methods to install on linux  On Gentoo: use ebuild provided.  On Arch: https://aur.archlinux.org/packages/telegram-cli-git  Mac OS X  The client depends on readline library and libconfig, which are not included in OS X by default. You have to install these libraries manually.  If using Homebrew:   brew install libconfig readline lua python libevent jansson  export CFLAGS=\"-I/usr/local/include -I/usr/local/Cellar/readline/6.3.8/include\"  export LDFLAGS=\"-L/usr/local/lib -L/usr/local/Cellar/readline/6.3.8/lib\"  ./configure && make Thanks to @jfontan for this solution.  If using MacPorts:   sudo port install libconfig-hr  sudo port install readline  sudo port install lua51  sudo port install python34  sudo port install libevent  export CFLAGS=\"-I/usr/local/include -I/opt/local/include -I/opt/local/include/lua-5.1\"  export LDFLAGS=\"-L/usr/local/lib -L/opt/local/lib -L/opt/local/lib/lua-5.1\"  ./configure && make Install these ports:  devel/libconfig devel/libexecinfo lang/lua52 Then build:   env CC=clang CFLAGS=-I/usr/local/include LDFLAGS=-L/usr/local/lib LUA=/usr/local/bin/lua52 LUA_INCLUDE=-I/usr/local/include/lua52 LUA_LIB=-llua-5.2 ./configure  make Other UNIX  If you manage to launch it on other UNIX, please let me know.  Contacts  If you would like to ask a question, you can write to my telegram or to the github (or both). To contact me via telegram, you should use import_card method with argument 000653bf:0738ca5d:5521fbac:29246815:a27d0cda  Usage  bin/telegram-cli -k <public-server-key> By default, the public key is stored in tg-server.pub in the same folder or in /etc/telegram-cli/server.pub. If not, specify where to find it:  bin/telegram-cli -k tg-server.pub Client support TAB completion and command history.  Peer refers to the name of the contact or dialog and can be accessed by TAB completion. For user contacts peer name is Name Lastname with all spaces changed to underscores. For chats it is it's title with all spaces changed to underscores For encrypted chats it is <Ex\u0441lamation mark> Name Lastname with all spaces changed to underscores.  If two or more peers have same name, number is appended to the name. (for example A_B, A_B#1, A_B#2 and so on)  Supported commands  Messaging  msg <peer> Text - sends message to this peer fwd <user> <msg-seqno> - forward message to user. You can see message numbers starting client with -N chat_with_peer <peer> starts one on one chat session with this peer. /exit or /quit to end this mode. add_contact <phone-number> <first-name> <last-name> - tries to add contact to contact-list by phone rename_contact <user> <first-name> <last-name> - tries to rename contact. If you have another device it will be a fight mark_read <peer> - mark read all received messages with peer delete_msg <msg-seqno> - deletes message (not completly, though) restore_msg <msg-seqno> - restores delete message. Impossible for secret chats. Only possible short time (one hour, I think) after deletion Multimedia  send_photo <peer> <photo-file-name> - sends photo to peer send_video <peer> <video-file-name> - sends video to peer send_text <peer> <text-file-name> - sends text file as plain messages load_photo/load_video/load_video_thumb/load_audio/load_document/load_document_thumb <msg-seqno> - loads photo/video/audio/document to download dir view_photo/view_video/view_video_thumb/view_audio/view_document/view_document_thumb <msg-seqno> - loads photo/video to download dir and starts system default viewer fwd_media <msg-seqno> send media in your message. Use this to prevent sharing info about author of media (though, it is possible to determine user_id from media itself, it is not possible get access_hash of this user) set_profile_photo <photo-file-name> - sets userpic. Photo should be square, or server will cut biggest central square part Group chat options  chat_info <chat> - prints info about chat chat_add_user <chat> <user> - add user to chat chat_del_user <chat> <user> - remove user from chat rename_chat <chat> <new-name> create_group_chat <chat topic> <user1> <user2> <user3> ... - creates a groupchat with users, use chat_add_user to add more users chat_set_photo <chat> <photo-file-name> - sets group chat photo. Same limits as for profile photos. Search  search <peer> pattern - searches pattern in messages with peer global_search pattern - searches pattern in all messages Secret chat  create_secret_chat <user> - creates secret chat with this user visualize_key <secret_chat> - prints visualization of encryption key. You should compare it to your partner's one set_ttl <secret_chat> <ttl> - sets ttl to secret chat. Though client does ignore it, client on other end can make use of it accept_secret_chat <secret_chat> - manually accept secret chat (only useful when starting with -E key) Stats and various info  user_info <user> - prints info about user history <peer> [limit] - prints history (and marks it as read). Default limit = 40 dialog_list - prints info about your dialogs contact_list - prints info about users in your contact list suggested_contacts - print info about contacts, you have max common friends stats - just for debugging show_license - prints contents of GPLv2 help - prints this help get_self - get our user info Card  export_card - print your 'card' that anyone can later use to import your contact import_card <card> - gets user by card. You can write messages to him after that. Other  quit - quit safe_quit - wait for all queries to end then quit",
+        "languages": {}
+    },
+    {
+        "name": "java-ebuilder",
+        "description": "[MIRROR] Java team tool for semi-automatic creation of ebuilds from pom.xml",
+        "languages": {
+            "Java": 146627,
+            "Shell": 16712,
+            "Python": 5578,
+            "Makefile": 3693
+        }
+    },
+    {
+        "name": "flora",
+        "description": "Community submitted/maintained ebuilds for Funtoo Linux.",
+        "languages": {
+            "Shell": 490355,
+            "Roff": 17697,
+            "JavaScript": 11860,
+            "Python": 7441,
+            "CSS": 2539,
+            "HTML": 2251,
+            "Makefile": 1136,
+            "Emacs Lisp": 180
+        }
+    },
+    {
+        "name": "ebuild-overlay",
+        "description": "Ebuild for various packages not currently in the Gentoo tree",
+        "languages": {
+            "Shell": 157323
+        }
+    },
+    {
+        "name": "gentoo",
+        "description": "Experimental ebuilds for Gentoo Linux",
+        "languages": {
+            "Shell": 53415,
+            "ApacheConf": 112
+        }
+    },
+    {
+        "name": "trolltoo",
+        "description": "An ebuild overlay for Gentoo. ",
+        "languages": {
+            "Shell": 4262,
+            "Roff": 2154
+        }
+    },
+    {
+        "name": "gentoo",
+        "description": "gentoo ebuilds",
+        "languages": {
+            "Shell": 45378,
+            "Roff": 10055
+        }
+    },
+    {
+        "name": "area31-ebuilds",
+        "description": "Funtoo Linux overlay",
+        "languages": {
+            "Shell": 100082,
+            "Roff": 241
+        }
+    },
+    {
+        "name": "portage",
+        "description": "local ebuilds",
+        "languages": {
+            "Shell": 52607
+        }
+    },
+    {
+        "name": "gentoo-overlay",
+        "description": "All my modified ebuilds for gentoo",
+        "languages": {
+            "Shell": 13246
+        }
+    },
+    {
+        "name": "r7l-overlay",
+        "description": "r7l Gentoo overlay with custom Ebuilds",
+        "languages": {
+            "Shell": 78568,
+            "Makefile": 42
+        }
+    },
+    {
+        "name": "phalcon-gentoo-overlay",
+        "description": null,
+        "languages": {
+            "Roff": 49956,
+            "Shell": 14063
+        }
+    },
+    {
+        "name": "gentoo-bfolkens-layman",
+        "description": "An overlay of custom ebuilds I use all the time.",
+        "languages": {
+            "Shell": 59334
+        }
+    },
+    {
+        "name": "dev1990-overlay",
+        "description": "My gentoo overlay, there's a ebuild for separate qtsdk workspaces if you want to develop with many qtsdks, slic3r prusa edition and some ebuilds for my projects, and other stuff that I'm using or used",
+        "languages": {
+            "Shell": 85969
+        }
+    },
+    {
+        "name": "pytorch-ebuild",
+        "description": "Ebuild infrastructure files for PyTorch and some related projects",
+        "languages": {
+            "Shell": 44344
+        }
+    },
+    {
+        "name": "seafile-portage-overlay",
+        "description": "Portage overlay to maintain seafile ebuilds",
+        "languages": {
+            "Shell": 30764,
+            "Groff": 7736,
+            "Mask": 162
+        }
+    },
+    {
+        "name": "hamper-overlay",
+        "description": "Random ebuilds I use",
+        "languages": {
+            "Shell": 20056
+        }
+    },
+    {
+        "name": "mrueg-overlay",
+        "description": "[Deprecated] Gentoo overlay",
+        "languages": {
+            "Shell": 71791,
+            "C": 393
+        }
+    },
+    {
+        "name": "ebuilds",
+        "description": "Gentoo ebuilds package files, updated from the science overlay (http://git.overlays.gentoo.org/gitweb/?p=proj/sci.git;a=summary)",
+        "languages": {
+            "Shell": 250479,
+            "Groff": 8431,
+            "D": 1595,
+            "JavaScript": 305
+        }
+    },
+    {
+        "name": "dxvk-gentoo-overlay",
+        "description": "Experimental ebuild repository for DXVK winelib builds",
+        "languages": {
+            "Shell": 205691,
+            "Mask": 57
+        }
+    },
+    {
+        "name": "kubler-overlay",
+        "description": "Kubler's Gentoo ebuild overlay",
+        "languages": {
+            "Shell": 89614,
+            "C": 3097
+        }
+    },
+    {
+        "name": "gentoo-bashcomp",
+        "description": "[MIRROR] Gentoo-specific bash command-line completions (emerge, ebuild, equery, repoman, layman, etc)",
+        "languages": {
+            "Shell": 70878,
+            "Makefile": 1997
+        }
+    },
+    {
+        "name": "gbin-overlay",
+        "description": "Various gentoo ebuilds tweaked mainly around multimedia, python and forensics.",
+        "languages": {
+            "Makefile": 43
+        }
+    },
+    {
+        "name": "discworld-overlay",
+        "description": "Various VoIP-related ebuilds",
+        "languages": {
+            "Shell": 130259
+        }
+    },
+    {
+        "name": "g-octave",
+        "description": "A tool that generates and installs ebuilds for Octave-Forge packages \"on-the-fly\" for Gentoo Linux.",
+        "languages": {
+            "Python": 108909,
+            "Shell": 6283
+        }
+    },
+    {
+        "name": "pcsx2-overlay",
+        "description": "Experimental overlay for pcsx2 ebuilds.",
+        "languages": {}
+    },
+    {
+        "name": "gridcoin",
+        "description": "A Gentoo GNU/Linux overlay containing ebuilds for the Gridcoin-Research project.",
+        "languages": {
+            "Shell": 43656
+        }
+    },
+    {
+        "name": "samba4",
+        "description": "Gentoo overlay with samba4 (related) ebuilds",
+        "languages": {}
+    },
+    {
+        "name": "gentoo-desktop",
+        "description": "Ebuilds usefull for desktop Gentoo systems",
+        "languages": {
+            "Shell": 125866
+        }
+    },
+    {
+        "name": "crowdsec-overlay",
+        "description": "Gentoo Overlay providing (some) crowdsec ebuilds",
+        "languages": {
+            "Shell": 19261,
+            "Roff": 3461
+        }
+    },
+    {
+        "name": "ubuilds",
+        "description": "Ebuilds to live long and prosper",
+        "languages": {
+            "Shell": 530233,
+            "Roff": 163304,
+            "Erlang": 1366
+        }
+    },
+    {
+        "name": "ebuilder",
+        "description": "Simple tool for building Erlang/OTP projects",
+        "languages": {
+            "Ruby": 4332
+        }
+    },
+    {
+        "name": "npm2ebuild",
+        "description": "Produce Gentoo ebuild(s) for NPM package(s)",
+        "languages": {
+            "JavaScript": 9241
+        }
+    },
+    {
+        "name": "squeezecenter-ebuild-for-gentoo",
+        "description": "The development version of the SqueezeCenter ebuild for Gentoo Linux. This generally contains development or soon-to-be-released versions of the ebuild that will later be in the official Portage tree",
+        "languages": {
+            "Perl": 116571,
+            "D": 5266,
+            "Shell": 5255
+        }
+    },
+    {
+        "name": "wsdd-gentoo",
+        "description": "Gentoo ebuild for wsdd",
+        "languages": {
+            "Shell": 7160
+        }
+    },
+    {
+        "name": "gentoo-extras-overlay",
+        "description": "Collection of custom gentoo ebuilds",
+        "languages": {
+            "Shell": 684455,
+            "Roff": 323192
+        }
+    },
+    {
+        "name": "moulay",
+        "description": "Gentoo overlay containing misc ebuilds",
+        "languages": {
+            "Shell": 65459
+        }
+    },
+    {
+        "name": "foxy-overlay",
+        "description": "Portage overlay for custom ebuilds",
+        "languages": {
+            "Shell": 10431
+        }
+    },
+    {
+        "name": "gentoo.overlay",
+        "description": "An overlay for my own Gentoo ebuilds",
+        "languages": {
+            "Shell": 78491,
+            "Emacs Lisp": 133
+        }
+    },
+    {
+        "name": "gentoo-pypi-sci",
+        "description": "Gentoo ebuild repository for python pypi science packages",
+        "languages": {
+            "Shell": 32229,
+            "Python": 406,
+            "Emacs Lisp": 388
+        }
+    },
+    {
+        "name": "freeipa",
+        "description": "Inofficial Gentoo Overlay for FreeIPA and related ebuilds",
+        "languages": {
+            "Shell": 32200,
+            "Mask": 254
+        }
+    },
+    {
+        "name": "gentoo-zfs-overlay",
+        "description": "Overlay for gentoo to provide ZFS & SPL ebuilds from latest git",
+        "languages": {
+            "Shell": 2438
+        }
+    },
+    {
+        "name": "myportage",
+        "description": "My personal Gentoo portage",
+        "languages": {
+            "Shell": 70965,
+            "Python": 9097,
+            "Perl": 2556,
+            "Makefile": 937
+        }
+    },
+    {
+        "name": "pbuild",
+        "description": "Build and management tool for multiple PHP versions on one system in the style of gentoo's ebuilds",
+        "languages": {
+            "Shell": 70770
+        }
+    },
+    {
+        "name": "icinga",
+        "description": "Gentoo Overlay for Icinga2 checks",
+        "languages": {
+            "Shell": 119517,
+            "Roff": 38687
+        }
+    },
+    {
+        "name": "pentest",
+        "description": "gentoo  ebuilds almost 4 penetration",
+        "languages": {}
+    },
+    {
+        "name": "jollheef-overlay",
+        "description": "Collection of various ebuilds",
+        "languages": {
+            "Shell": 15854
+        }
+    },
+    {
+        "name": "synnefo-overlay",
+        "description": "Gentoo ebuild overlay for Synnefo IaaS cloud software (http://www.synnefo.org)",
+        "languages": {}
+    },
+    {
+        "name": "ebuildgen",
+        "description": "Ebuild generator",
+        "languages": {
+            "Python": 71181
+        }
+    },
+    {
+        "name": "ebuild-cli",
+        "description": "Build webpack, babel, eslint, less, commitlint, typescript, vue, react and other development environments",
+        "languages": {
+            "JavaScript": 21819
+        }
+    },
+    {
+        "name": "Logitech-wheel-ebuilds",
+        "description": "new-lg4ff kernel module and Oversteer ",
+        "languages": {
+            "Shell": 5946
+        }
+    },
+    {
+        "name": "ebuild-test-suite",
+        "description": "Test suite for ebuilds",
+        "languages": {
+            "Shell": 30729
+        }
+    },
+    {
+        "name": "ryans-repos",
+        "description": "A personal ebuild repository for Gentoo Linux. The reponame is \"ryans\"",
+        "languages": {
+            "Shell": 205081,
+            "Roff": 4107
+        }
+    },
+    {
+        "name": "freundlich-gentoo",
+        "description": "Some gentoo ebuilds",
+        "languages": {
+            "Shell": 19949
+        }
+    },
+    {
+        "name": "digital-survival",
+        "description": "An ebuild repository focusing on secure communication, encryption, pentesting, and text editors.",
+        "languages": {
+            "Shell": 268914,
+            "Roff": 60478,
+            "Python": 8803,
+            "QMake": 717,
+            "Mask": 77
+        }
+    },
+    {
+        "name": "ArxGentoo",
+        "description": "Gentoo ebuilds for Arx Libertatis",
+        "languages": {
+            "Shell": 22282
+        }
+    },
+    {
+        "name": "3debuilds",
+        "description": "gentoo ebuilds for 3d software",
+        "languages": {
+            "Shell": 35493
+        }
+    },
+    {
+        "name": "mpd-overlay",
+        "description": "Live Ebuilds for MusicPD related applications",
+        "languages": {}
+    },
+    {
+        "name": "gentoo-overlay",
+        "description": "Different ebuilds I need for Gentoo",
+        "languages": {
+            "Shell": 192626,
+            "Groff": 15884,
+            "Lua": 14932,
+            "Makefile": 1691,
+            "Ruby": 318,
+            "Emacs Lisp": 217
+        }
+    },
+    {
+        "name": "casca",
+        "description": "Providing missing gentoo ebuilds since 2017.",
+        "languages": {
+            "Shell": 19538
+        }
+    },
+    {
+        "name": "loatchi-overlay",
+        "description": "A set of ebuilds I use.",
+        "languages": {
+            "Shell": 125050
+        }
+    },
+    {
+        "name": "g-npm",
+        "description": "Tool to create ebuild from npm packages.",
+        "languages": {
+            "Haskell": 8454
+        }
+    },
+    {
+        "name": "vapoursynth",
+        "description": "Unofficial repository with all vapoursynth related ebuilds",
+        "languages": {
+            "Shell": 438148,
+            "Roff": 44166,
+            "Meson": 554
+        }
+    },
+    {
+        "name": "gentoo-vaca-overlay",
+        "description": "Just a personal Gentoo overlay",
+        "languages": {
+            "Shell": 42763,
+            "Makefile": 494,
+            "Mask": 332
+        }
+    },
+    {
+        "name": "gentoo-mono-handbook",
+        "description": "Topics about writing ebuilds for mono programs.",
+        "languages": {
+            "HTML": 230370
+        }
+    },
+    {
+        "name": "ephemer0l-overlay",
+        "description": "Unofficial Gentoo overlay, ebuilds found and made",
+        "languages": {
+            "Shell": 359930,
+            "Roff": 81826
+        }
+    },
+    {
+        "name": "olemarkus-overlay",
+        "description": "Random ebuilds I happened to write (or steal)",
+        "languages": {}
+    },
+    {
+        "name": "gpo-zugaina-dl",
+        "description": "Search and downalod ebuild from http://gpo.zugaina.org",
+        "languages": {
+            "Python": 9837
+        }
+    },
+    {
+        "name": "moblin-overlay",
+        "description": "Gentoo Moblin overlay ebuilds -- I am no longer updating this",
+        "languages": {
+            "JavaScript": 677
+        }
+    },
+    {
+        "name": "poncho-overlay",
+        "description": "Gentoo overlay for packages not in the main tree",
+        "languages": {
+            "Shell": 22930
+        }
+    },
+    {
+        "name": "overlay",
+        "description": "Overlay containing ebuilds made by a small Gentoo community, learning how to do them. The focus is to have general-purpose ebuilds, available for everyone.",
+        "languages": {
+            "Shell": 9110
+        }
+    },
+    {
+        "name": "gentoo-bell07_overlay",
+        "description": "My gentoo overlay with misc ebuilds not in portage or other overlays",
+        "languages": {
+            "Shell": 33238
+        }
+    },
+    {
+        "name": "ahferroin7-overlay",
+        "description": "A Portage overlay containing some random ebuilds and stuff I've written.",
+        "languages": {
+            "Shell": 32601
+        }
+    },
+    {
+        "name": "sabayon-tools",
+        "description": "My Portage overlay, which contains miscellaneous ebuilds that could be upstreamed to the Portage Tree",
+        "languages": {}
+    },
+    {
+        "name": "repo-proj-wine",
+        "description": "[MIRROR] All supported Wine ebuilds from the Gentoo Wine Project",
+        "languages": {
+            "Shell": 4458019
+        }
+    },
+    {
+        "name": "aagl-ebuilds",
+        "description": "Ebuild Repository for a certain type of anime game",
+        "languages": {
+            "Roff": 379395,
+            "Shell": 18777
+        }
+    },
+    {
+        "name": "portage-overlay",
+        "description": "Contain (maybe) fixed ebuilds.",
+        "languages": {
+            "Shell": 3959,
+            "Emacs Lisp": 501
+        }
+    },
+    {
+        "name": "gentoo-ebuilds",
+        "description": "Gentoo Linux Customised ebuild Repository",
+        "languages": {
+            "Shell": 17207217,
+            "Roff": 2584250,
+            "Awk": 7743,
+            "Rebol": 5966,
+            "C": 5890,
+            "XSLT": 5831,
+            "Python": 5218,
+            "M4": 3573,
+            "Makefile": 1374,
+            "Emacs Lisp": 1171,
+            "PHP": 279,
+            "Vim Script": 217
+        }
+    },
+    {
+        "name": "webos-overlay",
+        "description": "Contain ebuilds to build openwebos components",
+        "languages": {
+            "Shell": 45360
+        }
+    },
+    {
+        "name": "repoman-ebuild-qa-action",
+        "description": "This action runs repoman in an ebuild repository to find QA issues.",
+        "languages": {
+            "Shell": 2104,
+            "Dockerfile": 83
+        }
+    },
+    {
+        "name": "zaufi-overlay",
+        "description": "My gentoo ebuilds",
+        "languages": {
+            "Shell": 389929,
+            "Mask": 1515,
+            "Emacs Lisp": 244,
+            "Vim Script": 217
+        }
+    },
+    {
+        "name": "nitratesky",
+        "description": "Personal Gentoo ebuild overlay of Vladimir Timofeenko",
+        "languages": {
+            "Shell": 384858
+        }
+    },
+    {
+        "name": "epear",
+        "description": "Creates Gentoo ebuilds out of pear packages",
+        "languages": {
+            "PHP": 6677
+        }
+    },
+    {
+        "name": "lyude-overlay",
+        "description": "An overlay I use to host some ebuilds I've written for myself",
+        "languages": {
+            "Shell": 19908
+        }
+    },
+    {
+        "name": "ebuilds",
+        "description": "ebuilds for the gentoo linux distribution",
+        "languages": {
+            "Shell": 80424,
+            "Emacs Lisp": 156
+        }
+    },
+    {
+        "name": "ebuilds",
+        "description": "Gentoo Linux installers for third party software",
+        "languages": {
+            "Shell": 82618
+        }
+    },
+    {
+        "name": "ebuilds",
+        "description": "Gentoo ebuilds",
+        "languages": {
+            "Shell": 26996
+        }
+    },
+    {
+        "name": "gentoo-ebuilds",
+        "description": null,
+        "languages": {
+            "Roff": 795659,
+            "Shell": 80194
+        }
+    },
+    {
+        "name": "ebuild-mantenance",
+        "description": "Ebuilds that I made and actually maintan",
+        "languages": {}
+    },
+    {
+        "name": "Openplacos.ebuild",
+        "description": "Portage of OpenplacOS under Gentoo Linux",
+        "languages": {}
+    },
+    {
+        "name": "ebuild-commander",
+        "description": "A Gentoo ebuild testing tool providing fine granularity of control over tests in stage3 Docker containers",
+        "languages": {
+            "Python": 29078
+        }
+    },
+    {
+        "name": "ebuild-mode",
+        "description": "Edit ebuild and eclass files",
+        "languages": {
+            "Emacs Lisp": 95956,
+            "Shell": 2697,
+            "Makefile": 931
+        }
+    },
+    {
+        "name": "builder",
+        "description": "A stand-alone build engine inspired by Gentoo's ebuilds.",
+        "languages": {
+            "Shell": 108040
+        }
+    },
+    {
+        "name": "portage-weuxel",
+        "description": "My ebuilds.",
+        "languages": {}
+    },
+    {
+        "name": "nginx-gentoo-ebuild",
+        "description": "A Gentoo overlay hosting nginx ebuilds that come with plugins",
+        "languages": {}
+    },
+    {
+        "name": "portage-overlay",
+        "description": "This is my personal Gentoo ebuild overlay used for various projects.",
+        "languages": {
+            "Shell": 17987,
+            "D": 3308,
+            "Perl": 2746,
+            "Emacs Lisp": 169,
+            "Vim Script": 139
         }
     }
 ]

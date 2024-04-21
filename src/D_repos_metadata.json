@@ -37,7 +37,7 @@
         "name": "dmd",
         "description": "dmd D Programming Language compiler",
         "languages": {
-            "D": 25887803,
+            "D": 25887734,
             "HTML": 1375138,
             "C++": 659907,
             "C": 654184,
@@ -59,6 +59,1872 @@
             "D": 1071150,
             "Shell": 242329,
             "Makefile": 29878
+        }
+    },
+    {
+        "name": "vectorflow",
+        "description": null,
+        "languages": {
+            "D": 138575
+        }
+    },
+    {
+        "name": "inochi2d",
+        "description": "Inochi2D reference implementation aimed at rendering 2D puppets that can be animated in real-time (using eg. facial capture).",
+        "languages": {
+            "D": 277559,
+            "GLSL": 9135
+        }
+    },
+    {
+        "name": "phobos",
+        "description": "The standard library of the D programming language",
+        "languages": {
+            "D": 11796863,
+            "C": 1144775,
+            "Makefile": 26960,
+            "Shell": 5063,
+            "Roff": 4476
+        }
+    },
+    {
+        "name": "ldc",
+        "description": "The LLVM-based D Compiler.",
+        "languages": {
+            "D": 20896575,
+            "C++": 4879653,
+            "HTML": 1375138,
+            "C": 649644,
+            "CMake": 147144,
+            "Makefile": 68830,
+            "Shell": 58525,
+            "Assembly": 30805,
+            "SWIG": 19945,
+            "Inno Setup": 6848,
+            "Objective-C": 2960,
+            "DTrace": 993,
+            "Python": 565
+        }
+    },
+    {
+        "name": "vibe.d",
+        "description": "Official vibe.d development",
+        "languages": {
+            "D": 661728,
+            "Shell": 15662
+        }
+    },
+    {
+        "name": "search-deflector",
+        "description": "A small program that forwards searches from Cortana to your preferred browser and search engine.",
+        "languages": {
+            "D": 54476,
+            "Inno Setup": 8744,
+            "Python": 8714
+        }
+    },
+    {
+        "name": "dlangui",
+        "description": "Cross Platform GUI for D programming language",
+        "languages": {
+            "D": 2264740,
+            "GLSL": 22167,
+            "Makefile": 9815,
+            "Shell": 1441,
+            "Batchfile": 374,
+            "PowerShell": 208
+        }
+    },
+    {
+        "name": "inochi-creator",
+        "description": "Inochi2D Rigging Application",
+        "languages": {
+            "D": 1024914,
+            "Shell": 4150,
+            "GLSL": 1432,
+            "PowerShell": 707,
+            "C": 671
+        }
+    },
+    {
+        "name": "druntime",
+        "description": "Low level runtime library for the D programming language",
+        "languages": {
+            "D": 8093434,
+            "Makefile": 68433,
+            "Assembly": 16157,
+            "C": 6971,
+            "C++": 5495,
+            "Shell": 3979,
+            "R": 3472,
+            "Batchfile": 479
+        }
+    },
+    {
+        "name": "dub",
+        "description": "Package and build management system for D",
+        "languages": {
+            "D": 1916167,
+            "Shell": 102187,
+            "NSIS": 15598,
+            "C": 879,
+            "Batchfile": 486,
+            "Makefile": 163
+        }
+    },
+    {
+        "name": "Literate",
+        "description": "A literate programming tool for any language",
+        "languages": {
+            "D": 19618,
+            "Makefile": 706
+        }
+    },
+    {
+        "name": "awesome-d",
+        "description": "  A curated list of awesome D documents, frameworks, libraries and software. Inspired by awesome-python.",
+        "languages": {
+            "D": 88
+        }
+    },
+    {
+        "name": "flint",
+        "description": "An open-source lint program for C++ developed by, and formerly used at Facebook.",
+        "languages": {
+            "D": 201446,
+            "M4": 19678,
+            "Makefile": 422,
+            "C++": 216
+        }
+    },
+    {
+        "name": "sambamba",
+        "description": "Tools for working with SAM/BAM data",
+        "languages": {
+            "D": 1484811,
+            "Shell": 34648,
+            "Ragel": 27993,
+            "Roff": 26430,
+            "JavaScript": 23283,
+            "Meson": 9674,
+            "Python": 7054,
+            "Makefile": 6198,
+            "CSS": 4987,
+            "Ruby": 4667,
+            "Scheme": 3130
+        }
+    },
+    {
+        "name": "Pegged",
+        "description": "A Parsing Expression Grammar (PEG) module, using the D programming language.",
+        "languages": {
+            "D": 509181,
+            "Python": 7056,
+            "TeX": 2614,
+            "Shell": 1861,
+            "Batchfile": 1342,
+            "Makefile": 982
+        }
+    },
+    {
+        "name": "warp",
+        "description": "A fast preprocessor for C and C++",
+        "languages": {
+            "D": 251334,
+            "Makefile": 57268,
+            "Shell": 1873,
+            "C": 593,
+            "C++": 18,
+            "Assembly": 15
+        }
+    },
+    {
+        "name": "arsd",
+        "description": "This is a collection of modules that I've released over the years. Most of them stand alone, or have just one or two dependencies in here, so you don't have to download this whole repo.",
+        "languages": {
+            "D": 8044654,
+            "PHP": 17393
+        }
+    },
+    {
+        "name": "PowerNex",
+        "description": "An operating system written in D",
+        "languages": {
+            "D": 365866,
+            "Assembly": 19920,
+            "Shell": 670
+        }
+    },
+    {
+        "name": "Provision",
+        "description": "Set of tools interracting with Apple servers. Don't hesitate to leave a star if you appreciate it.",
+        "languages": {
+            "D": 173043,
+            "CMake": 10372,
+            "Dockerfile": 1121
+        }
+    },
+    {
+        "name": "Dplug",
+        "description": "Audio plugin framework. VST2/VST3/AU/AAX/LV2 for Linux/macOS/Windows.",
+        "languages": {
+            "D": 3144381,
+            "JavaScript": 7103,
+            "HTML": 5647,
+            "Wren": 4065,
+            "Rez": 4028
+        }
+    },
+    {
+        "name": "dlangide",
+        "description": "D language IDE based on DlangUI",
+        "languages": {
+            "D": 808638,
+            "Inno Setup": 4329
+        }
+    },
+    {
+        "name": "Dash",
+        "description": "A free and open 3D game engine written in D.",
+        "languages": {
+            "D": 431945,
+            "Shell": 364
+        }
+    },
+    {
+        "name": "RABCDAsm",
+        "description": "Robust ABC (ActionScript Bytecode) [Dis-]Assembler",
+        "languages": {
+            "D": 359326
+        }
+    },
+    {
+        "name": "DFeed",
+        "description": "D news aggregator, newsgroup client, web newsreader and IRC bot",
+        "languages": {
+            "D": 527315,
+            "JavaScript": 158744,
+            "CSS": 31321,
+            "Makefile": 1920,
+            "Shell": 1795
+        }
+    },
+    {
+        "name": "gdc",
+        "description": "GNU D Compiler",
+        "languages": {
+            "D": 25163093,
+            "C++": 907026,
+            "Makefile": 303954,
+            "HTML": 88361,
+            "M4": 29252,
+            "Assembly": 20121,
+            "C": 13576,
+            "Shell": 11997,
+            "Objective-C": 1388,
+            "DTrace": 547
+        }
+    },
+    {
+        "name": "DCD",
+        "description": "The D Completion Daemon is an auto-complete program for the D programming language",
+        "languages": {
+            "D": 364060,
+            "Shell": 36798,
+            "NSIS": 15909,
+            "Roff": 4595,
+            "Makefile": 2745,
+            "Meson": 2148,
+            "Batchfile": 1831
+        }
+    },
+    {
+        "name": "dhcptest",
+        "description": "Cross-platform DHCP test client",
+        "languages": {
+            "D": 41120
+        }
+    },
+    {
+        "name": "btdu",
+        "description": "sampling disk usage profiler for btrfs",
+        "languages": {
+            "D": 166944,
+            "Shell": 3695,
+            "Roff": 1781,
+            "Dockerfile": 238
+        }
+    },
+    {
+        "name": "xomb",
+        "description": "An exokernel operating system written in D",
+        "languages": {
+            "D": 954020,
+            "C": 35045,
+            "Assembly": 9309,
+            "Shell": 8014,
+            "Haskell": 1391,
+            "Fortran": 60
+        }
+    },
+    {
+        "name": "dlang.org",
+        "description": "Pages for the dlang.org website, home of the D Programming Language",
+        "languages": {
+            "D": 1721779,
+            "Makefile": 80783,
+            "CSS": 59741,
+            "JavaScript": 36742,
+            "Shell": 5207,
+            "PHP": 716
+        }
+    },
+    {
+        "name": "vox",
+        "description": "Vox language compiler. AOT / JIT / Linker. Zero dependencies",
+        "languages": {
+            "D": 1796558
+        }
+    },
+    {
+        "name": "intellij-dlanguage",
+        "description": "Intellij Plugin for the D Programming Language",
+        "languages": {
+            "D": 1776571,
+            "Java": 1396679,
+            "Kotlin": 673207,
+            "Lex": 23108,
+            "HTML": 1386,
+            "Makefile": 429,
+            "DTrace": 43
+        }
+    },
+    {
+        "name": "GtkD",
+        "description": "GtkD is a D binding and OO wrapper of GTK+ originally created by Antonio Monteiro",
+        "languages": {
+            "D": 16827714,
+            "Makefile": 19994,
+            "Shell": 6104
+        }
+    },
+    {
+        "name": "Compiler",
+        "description": null,
+        "languages": {
+            "D": 5959549,
+            "C": 347223,
+            "DTrace": 25787,
+            "Makefile": 20716
+        }
+    },
+    {
+        "name": "dagon",
+        "description": "3D game engine for D",
+        "languages": {
+            "D": 814359,
+            "GLSL": 123402
+        }
+    },
+    {
+        "name": "hunt-framework",
+        "description": "A Web framework for D Programming Language. Full-stack high-performance.",
+        "languages": {
+            "D": 499639
+        }
+    },
+    {
+        "name": "vk",
+        "description": "A console client for vk.com",
+        "languages": {
+            "D": 158548,
+            "Shell": 859
+        }
+    },
+    {
+        "name": "visuald",
+        "description": "Visual D - Visual Studio extension for the D programming language",
+        "languages": {
+            "D": 3514297,
+            "HTML": 330009,
+            "C#": 279700,
+            "NSIS": 84323,
+            "Makefile": 28343,
+            "Batchfile": 10249,
+            "C": 6575,
+            "Vim Snippet": 6351,
+            "C++": 5017,
+            "Awk": 4334,
+            "sed": 3257
+        }
+    },
+    {
+        "name": "inochi-session",
+        "description": "Application that allows streaming with Inochi2D puppets",
+        "languages": {
+            "D": 112408,
+            "Shell": 4006,
+            "C": 621,
+            "PowerShell": 581,
+            "GLSL": 486
+        }
+    },
+    {
+        "name": "trimcheck",
+        "description": "SSD TRIM check tool for Windows",
+        "languages": {
+            "D": 18300,
+            "Makefile": 1462
+        }
+    },
+    {
+        "name": "sdc",
+        "description": "The Snazzy D Compiler",
+        "languages": {
+            "D": 1535467,
+            "C": 183523,
+            "C++": 50091,
+            "Makefile": 12851,
+            "Shell": 7693,
+            "DTrace": 7009,
+            "Assembly": 1124,
+            "Nix": 779,
+            "Python": 391
+        }
+    },
+    {
+        "name": "D-Scanner",
+        "description": "Swiss-army knife for D source code",
+        "languages": {
+            "D": 486985,
+            "Shell": 7165,
+            "Makefile": 4031,
+            "Batchfile": 2494,
+            "XSLT": 2486,
+            "Dockerfile": 158,
+            "DTrace": 21
+        }
+    },
+    {
+        "name": "dpp",
+        "description": "Directly include C headers in D source code",
+        "languages": {
+            "D": 563720,
+            "Gherkin": 8045,
+            "Shell": 1017,
+            "Emacs Lisp": 152,
+            "Ruby": 119
+        }
+    },
+    {
+        "name": "spasm",
+        "description": "Write single page applications in D that compile to webassembly",
+        "languages": {
+            "D": 1650889,
+            "JavaScript": 823,
+            "Makefile": 797,
+            "HTML": 201
+        }
+    },
+    {
+        "name": "dlib",
+        "description": "Allocators, I/O streams, math, geometry, image and audio processing for D",
+        "languages": {
+            "D": 1052052
+        }
+    },
+    {
+        "name": "mir",
+        "description": "Mir (backports): Sparse tensors, Hoffman",
+        "languages": {
+            "D": 67291,
+            "Meson": 1730,
+            "Makefile": 992
+        }
+    },
+    {
+        "name": "godot-d",
+        "description": "D language bindings for the Godot Engine's GDNative API",
+        "languages": {
+            "D": 299984,
+            "Shell": 586
+        }
+    },
+    {
+        "name": "dtrace-cloud-tools",
+        "description": "Some DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based)",
+        "languages": {
+            "D": 173333
+        }
+    },
+    {
+        "name": "dfmt",
+        "description": "Dfmt is a formatter for D source code",
+        "languages": {
+            "D": 203339,
+            "Shell": 3506,
+            "Makefile": 1490,
+            "Batchfile": 1152
+        }
+    },
+    {
+        "name": "tools",
+        "description": "Ancillary tools for the D programming language compiler",
+        "languages": {
+            "D": 433925,
+            "Shell": 6512,
+            "Makefile": 4776,
+            "Batchfile": 39
+        }
+    },
+    {
+        "name": "tree.d",
+        "description": "Tree - simple fast compact user-readable binary-safe extensible structural format",
+        "languages": {
+            "D": 7352
+        }
+    },
+    {
+        "name": "HideAndroidEmulator",
+        "description": "Slides and demo resources presented at HITCON 2014 & XCON 2014-\"Guess Where I am-Android\u6a21\u62df\u5668\u8eb2\u907f\u7684\u68c0\u6d4b\u4e0e\u5e94\u5bf9\"",
+        "languages": {
+            "D": 64181,
+            "C": 45335,
+            "Java": 25913,
+            "Python": 10110
+        }
+    },
+    {
+        "name": "gfm",
+        "description": "3D maths for D gamedev. This library is deprecated, see README.md",
+        "languages": {
+            "D": 166543,
+            "Batchfile": 351
+        }
+    },
+    {
+        "name": "serve-d",
+        "description": "D LSP server (dlang language server protocol server)",
+        "languages": {
+            "D": 1160470,
+            "Shell": 2560,
+            "Batchfile": 1187
+        }
+    },
+    {
+        "name": "reggae",
+        "description": "Build system in D, Python, Ruby, Javascript or Lua",
+        "languages": {
+            "D": 453965,
+            "Lua": 41366,
+            "Python": 9514,
+            "Gherkin": 6390,
+            "Ruby": 5374,
+            "JavaScript": 4941,
+            "C++": 2534,
+            "CMake": 1712,
+            "C": 1370,
+            "Shell": 1351,
+            "Batchfile": 335,
+            "Makefile": 32
+        }
+    },
+    {
+        "name": "LuaD",
+        "description": "Bridge to Lua from the D programming language",
+        "languages": {
+            "D": 141369,
+            "Makefile": 3454,
+            "Lua": 894,
+            "Shell": 743
+        }
+    },
+    {
+        "name": "SponSkrub",
+        "description": "Strip advertisements from downloaded YouTube videos",
+        "languages": {
+            "D": 34955
+        }
+    },
+    {
+        "name": "Diamond",
+        "description": "Diamond is a full-stack web-framework written in The D Programming Language using vibe.d",
+        "languages": {
+            "D": 653767
+        }
+    },
+    {
+        "name": "mir-algorithm",
+        "description": "Dlang Core Library",
+        "languages": {
+            "D": 2228513,
+            "C++": 68500,
+            "Makefile": 4878,
+            "Meson": 3894
+        }
+    },
+    {
+        "name": "Derelict3",
+        "description": "A collection of dynamic D bindings to C libraries, useful for multimedia and game development.",
+        "languages": {
+            "D": 1689703
+        }
+    },
+    {
+        "name": "ae",
+        "description": "An auxiliary general-purpose D library",
+        "languages": {
+            "D": 1943481,
+            "Shell": 3139
+        }
+    },
+    {
+        "name": "keynavish",
+        "description": "Control the mouse with the keyboard, on Windows.",
+        "languages": {
+            "D": 56405,
+            "Batchfile": 1965
+        }
+    },
+    {
+        "name": "Sideloader",
+        "description": "Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer\u2026",
+        "languages": {
+            "D": 680561,
+            "Swift": 1264,
+            "C": 78
+        }
+    },
+    {
+        "name": "DIPs",
+        "description": "D Improvement Proposals",
+        "languages": {
+            "D": 8785,
+            "Shell": 2046
+        }
+    },
+    {
+        "name": "pyd",
+        "description": "Interoperability between Python and D",
+        "languages": {
+            "D": 952779,
+            "Python": 74109,
+            "Dockerfile": 7125,
+            "C": 4779,
+            "Shell": 1341,
+            "Batchfile": 383,
+            "Makefile": 207
+        }
+    },
+    {
+        "name": "dlang-requests",
+        "description": "dlang http client library inspired by python-requests",
+        "languages": {
+            "D": 365725,
+            "Meson": 2326,
+            "Shell": 288
+        }
+    },
+    {
+        "name": "Volta",
+        "description": "Compiler for the Volt Programming Language ",
+        "languages": {
+            "D": 1973649,
+            "Volt": 668243,
+            "Makefile": 6649,
+            "Assembly": 5052,
+            "C": 1696
+        }
+    },
+    {
+        "name": "libasync",
+        "description": "Cross-platform event loop library of asynchronous objects",
+        "languages": {
+            "D": 445750,
+            "Gnuplot": 1428,
+            "Shell": 726
+        }
+    },
+    {
+        "name": "dwt",
+        "description": "A library for creating cross-platform GUI applications.",
+        "languages": {
+            "D": 17235420,
+            "C++": 7419,
+            "Ruby": 1639,
+            "Batchfile": 140
+        }
+    },
+    {
+        "name": "serpent",
+        "description": "Cross-platform gaming kit in the D programming language",
+        "languages": {
+            "D": 139014,
+            "SuperCollider": 614,
+            "Shell": 345
+        }
+    },
+    {
+        "name": "dcompute",
+        "description": "DCompute: Native execution of D on GPUs and other Accelerators",
+        "languages": {
+            "D": 112212
+        }
+    },
+    {
+        "name": "voxelman",
+        "description": "Plugin-based client-server voxel game engine written in D language",
+        "languages": {
+            "D": 1194746
+        }
+    },
+    {
+        "name": "LixD",
+        "description": "Lix: Lemmings-like game with puzzles, editor, multiplayer",
+        "languages": {
+            "D": 1401200,
+            "Batchfile": 539
+        }
+    },
+    {
+        "name": "trash-d",
+        "description": "A near drop-in replacement for rm that uses the trash bin. Written in D",
+        "languages": {
+            "D": 36735,
+            "Ruby": 2421
+        }
+    },
+    {
+        "name": "multiplix",
+        "description": "An operating system kernel for RISC-V and AArch64 SBCs",
+        "languages": {
+            "D": 225604,
+            "C": 107730,
+            "Go": 24390,
+            "Assembly": 19880,
+            "Makefile": 6618,
+            "Shell": 785
+        }
+    },
+    {
+        "name": "unit-threaded",
+        "description": "Advanced unit test framework for D",
+        "languages": {
+            "D": 289105,
+            "Python": 4151,
+            "Shell": 2993,
+            "Batchfile": 1043
+        }
+    },
+    {
+        "name": "arduino-thinkpadkb-usb",
+        "description": "Using an Arduino Micro as a USB adapter for ThinkPad T60 keyboard with TrackPoint support. Supports different keyboards from the ThinkPad family that shares the same receptacle as T60.",
+        "languages": {
+            "D": 22233,
+            "C++": 9413,
+            "Arduino": 4497
+        }
+    },
+    {
+        "name": "SDLang-D",
+        "description": "An SDLang (Simple Declarative Language) library for D",
+        "languages": {
+            "D": 214795,
+            "Batchfile": 716,
+            "Shell": 592
+        }
+    },
+    {
+        "name": "DerelictSDL2",
+        "description": "Dynamic bindings to SDL2 and its satellite libraries for the D Programming Language.",
+        "languages": {
+            "D": 355842
+        }
+    },
+    {
+        "name": "DustMite",
+        "description": "General-purpose data reduction tool",
+        "languages": {
+            "D": 168887,
+            "C++": 5545,
+            "Shell": 2939,
+            "Batchfile": 2458,
+            "HTML": 1213,
+            "DTrace": 337,
+            "Common Lisp": 76,
+            "Makefile": 11
+        }
+    },
+    {
+        "name": "tkd",
+        "description": "GUI toolkit for the D programming language based on Tcl/Tk",
+        "languages": {
+            "D": 481116,
+            "Shell": 182
+        }
+    },
+    {
+        "name": "msgpack-d",
+        "description": "MessagePack for D / msgpack.org[D]",
+        "languages": {
+            "D": 200543,
+            "JavaScript": 23283,
+            "CSS": 4987,
+            "Makefile": 1581,
+            "Meson": 1556
+        }
+    },
+    {
+        "name": "D-YAML",
+        "description": "YAML parser and emitter for the D programming language",
+        "languages": {
+            "D": 537132,
+            "Meson": 2059
+        }
+    },
+    {
+        "name": "libdparse",
+        "description": "Library for lexing and parsing D source code",
+        "languages": {
+            "D": 898457,
+            "Shell": 10030,
+            "Meson": 1563,
+            "DTrace": 35
+        }
+    },
+    {
+        "name": "core",
+        "description": "D Language online tour (https://tour.dlang.org/) and online editor (https://run.dlang.io/)",
+        "languages": {
+            "D": 68127,
+            "JavaScript": 22846,
+            "CSS": 12994,
+            "Dockerfile": 2561,
+            "Shell": 936,
+            "NCL": 627,
+            "Nix": 546
+        }
+    },
+    {
+        "name": "pastemyst",
+        "description": "a powerful website for storing and sharing text and code snippets. completely free and open source.",
+        "languages": {
+            "D": 123071,
+            "JavaScript": 59548,
+            "CSS": 45526,
+            "Makefile": 569,
+            "Dockerfile": 557
+        }
+    },
+    {
+        "name": "anisette-v3-server",
+        "description": "sidestore's anisette-v3 compatible server",
+        "languages": {
+            "D": 14355,
+            "Dockerfile": 1042
+        }
+    },
+    {
+        "name": "electronvolt",
+        "description": "FPS with physics based puzzles",
+        "languages": {
+            "D": 56217
+        }
+    },
+    {
+        "name": "neat",
+        "description": "The Neat Language compiler. Early beta?",
+        "languages": {
+            "D": 1322936,
+            "Shell": 13345,
+            "C": 10190
+        }
+    },
+    {
+        "name": "fast",
+        "description": "A library for D that aims to provide the fastest possible implementation of some every day routines.",
+        "languages": {
+            "D": 810597
+        }
+    },
+    {
+        "name": "tshare",
+        "description": "The fastest way to share your files on the web, for free",
+        "languages": {
+            "D": 69124,
+            "Ruby": 678
+        }
+    },
+    {
+        "name": "containers",
+        "description": "Containers backed by std.experimental.allocator",
+        "languages": {
+            "D": 188599,
+            "Meson": 2393,
+            "Makefile": 1979
+        }
+    },
+    {
+        "name": "CheeseCutter",
+        "description": "CheeseCutter SID music editor",
+        "languages": {
+            "D": 509520,
+            "C++": 484773,
+            "C": 226954,
+            "Makefile": 5614,
+            "Shell": 2248,
+            "Batchfile": 455
+        }
+    },
+    {
+        "name": "dls",
+        "description": "A Language Server implementation for D",
+        "languages": {
+            "D": 354137
+        }
+    },
+    {
+        "name": "gl3n",
+        "description": "OpenGL Maths for D (not glm for D).",
+        "languages": {
+            "D": 146659,
+            "Makefile": 17558
+        }
+    },
+    {
+        "name": "mir-glas",
+        "description": "[Experimental] LLVM-accelerated Generic Linear Algebra Subprograms",
+        "languages": {
+            "D": 136248,
+            "C": 13015,
+            "Shell": 2371,
+            "Makefile": 567
+        }
+    },
+    {
+        "name": "Trinix",
+        "description": "First operating system written in D lang v2",
+        "languages": {
+            "D": 351977,
+            "Makefile": 8672,
+            "Assembly": 8050,
+            "C++": 5300,
+            "Shell": 2285,
+            "Smarty": 1802,
+            "C": 1087
+        }
+    },
+    {
+        "name": "Zurmo",
+        "description": null,
+        "languages": {
+            "D": 57830367,
+            "PHP": 50391919,
+            "JavaScript": 1345847,
+            "CSS": 1242707,
+            "Java": 11903,
+            "Shell": 6614
+        }
+    },
+    {
+        "name": "DSFML",
+        "description": "DSFML is a D binding of SFML ",
+        "languages": {
+            "D": 713045,
+            "C++": 205925,
+            "C": 74354,
+            "Objective-C": 15503,
+            "CMake": 6344
+        }
+    },
+    {
+        "name": "hunt",
+        "description": "A refined core library for D programming language. The module has concurrency / collections / event / io / logging / text / serialization and more.",
+        "languages": {
+            "D": 547390
+        }
+    },
+    {
+        "name": "TAPI",
+        "description": "ONF Transport API Repository (TAPI)",
+        "languages": {
+            "D": 3680,
+            "CSS": 3621,
+            "EJS": 3500,
+            "Shell": 2272
+        }
+    },
+    {
+        "name": "DMDScript",
+        "description": "An implementation of the ECMA 262 (Javascript) programming language",
+        "languages": {
+            "D": 664702,
+            "JavaScript": 444136,
+            "HTML": 5338,
+            "Shell": 1823,
+            "Batchfile": 295
+        }
+    },
+    {
+        "name": "HipremeEngine",
+        "description": "Cross Platform D-Lang Game Engine with scripting support",
+        "languages": {
+            "D": 2241525,
+            "C": 98851,
+            "JavaScript": 39988,
+            "Objective-C": 22158,
+            "C++": 14140,
+            "Java": 8817,
+            "Metal": 5605,
+            "Makefile": 3891,
+            "Ruby": 2090,
+            "HTML": 1578,
+            "Batchfile": 1191,
+            "Shell": 645,
+            "Lua": 204
+        }
+    },
+    {
+        "name": "pixelperfectengine",
+        "description": "2D graphics engine written in D",
+        "languages": {
+            "D": 1122197,
+            "Macaulay2": 9847
+        }
+    },
+    {
+        "name": "scriptlike",
+        "description": "Utility library to help you write script-like programs in D",
+        "languages": {
+            "D": 146972,
+            "Shell": 1541,
+            "Batchfile": 1295,
+            "Makefile": 74
+        }
+    },
+    {
+        "name": "cerealed",
+        "description": "Powerful binary serialisation library for D",
+        "languages": {
+            "D": 91262
+        }
+    },
+    {
+        "name": "Tango-D2",
+        "description": "A port of the Tango library to D2",
+        "languages": {
+            "D": 9182050,
+            "JavaScript": 66537,
+            "C": 62132,
+            "Makefile": 41728,
+            "CSS": 26283,
+            "Ruby": 15599,
+            "Shell": 13819,
+            "C#": 8802,
+            "C++": 7187,
+            "Python": 6905,
+            "PHP": 6624,
+            "Assembly": 5952,
+            "Batchfile": 2989,
+            "Common Lisp": 50
+        }
+    },
+    {
+        "name": "scid",
+        "description": "Scientific library for the D programming language",
+        "languages": {
+            "D": 1134443,
+            "Makefile": 18384
+        }
+    },
+    {
+        "name": "dcv",
+        "description": "Computer Vision Library for D Programming Language",
+        "languages": {
+            "D": 1302832,
+            "Shell": 2404
+        }
+    },
+    {
+        "name": "med",
+        "description": "Micro Emacs in D",
+        "languages": {
+            "D": 435718,
+            "HTML": 8701,
+            "Makefile": 6938
+        }
+    },
+    {
+        "name": "Miners",
+        "description": "An Game Engine and Minecraft Classic Client",
+        "languages": {
+            "D": 1068033,
+            "C": 916877,
+            "C++": 73202,
+            "Lua": 22243,
+            "Objective-C": 12508,
+            "Makefile": 3350
+        }
+    },
+    {
+        "name": "Tiny-Redis",
+        "description": "Redis driver for D",
+        "languages": {
+            "D": 45271,
+            "Makefile": 251
+        }
+    },
+    {
+        "name": "LWDR",
+        "description": "LightWeight D Runtime targeting ARM Cortex CPUs",
+        "languages": {
+            "D": 212816
+        }
+    },
+    {
+        "name": "tanya",
+        "description": "GC-free, high-performance D library: Containers, networking, metaprogramming, memory management, utilities",
+        "languages": {
+            "D": 767625
+        }
+    },
+    {
+        "name": "botan",
+        "description": "Block & stream ciphers, public key crypto, hashing, KDF, MAC, PKCS, TLS, ASN.1, BER/DER, etc.",
+        "languages": {
+            "D": 2953645,
+            "Standard ML": 137
+        }
+    },
+    {
+        "name": "bindbc-sdl",
+        "description": "Static & dynamic D bindings to SDL and the SDL_* libraries, compatible with BetterC, @nogc, and nothrow.",
+        "languages": {
+            "D": 83106
+        }
+    },
+    {
+        "name": "automem",
+        "description": "C++-style automatic memory management smart pointers for D",
+        "languages": {
+            "D": 86704,
+            "Emacs Lisp": 148,
+            "Shell": 56
+        }
+    },
+    {
+        "name": "GBAiD",
+        "description": "A GameBoy Advance emulator in D",
+        "languages": {
+            "D": 445417,
+            "Assembly": 5522
+        }
+    },
+    {
+        "name": "hibernated",
+        "description": "HibernateD is ORM for D language (similar to Hibernate)",
+        "languages": {
+            "D": 447585,
+            "Ruby": 73
+        }
+    },
+    {
+        "name": "msmc",
+        "description": "Implementation of the multiple sequential markovian coalescent",
+        "languages": {
+            "D": 186702,
+            "Makefile": 1228,
+            "Shell": 407
+        }
+    },
+    {
+        "name": "DerelictGL3",
+        "description": "A dynamic binding to OpenGL for the D Programming Language.",
+        "languages": {
+            "D": 481207
+        }
+    },
+    {
+        "name": "rengfx",
+        "description": "lightweight, expressive, extensible multimedia engine",
+        "languages": {
+            "D": 216071,
+            "Shell": 79
+        }
+    },
+    {
+        "name": "autowrap",
+        "description": "Wrap existing D code for use in Python, Excel, C#",
+        "languages": {
+            "D": 308192,
+            "Python": 63860,
+            "C#": 40249,
+            "Makefile": 6892,
+            "Shell": 1454
+        }
+    },
+    {
+        "name": "dub-registry",
+        "description": "Online registry for dub packages",
+        "languages": {
+            "D": 162337,
+            "CSS": 66211,
+            "JavaScript": 8108,
+            "Shell": 456,
+            "Dockerfile": 445,
+            "Procfile": 113
+        }
+    },
+    {
+        "name": "homegirl",
+        "description": "A fantasy console inspired by the Amiga computer",
+        "languages": {
+            "D": 352101,
+            "Lua": 52236,
+            "Shell": 1325
+        }
+    },
+    {
+        "name": "drepl",
+        "description": "A REPL for D",
+        "languages": {
+            "D": 18360
+        }
+    },
+    {
+        "name": "dmech",
+        "description": "3D physics engine for D",
+        "languages": {
+            "D": 154064,
+            "C": 7491,
+            "Shell": 64
+        }
+    },
+    {
+        "name": "ggplotd",
+        "description": "Plotting library for the D programming library. The design is inspired by ggplot2 for R.",
+        "languages": {
+            "D": 182627,
+            "Shell": 1424
+        }
+    },
+    {
+        "name": "beamui",
+        "description": "[WIP] Web-inspired declarative desktop UIs in the D language",
+        "languages": {
+            "D": 2178672,
+            "CSS": 29879,
+            "SCSS": 19329,
+            "GLSL": 11074,
+            "Shell": 535
+        }
+    },
+    {
+        "name": "workspace-d",
+        "description": "CLI deprecated, API + functionality moved into https://github.com/Pure-D/serve-d",
+        "languages": {
+            "D": 469492,
+            "Shell": 1520,
+            "Batchfile": 1078
+        }
+    },
+    {
+        "name": "ddbc",
+        "description": "DDBC is DB Connector for D language (similar to JDBC)",
+        "languages": {
+            "D": 377159,
+            "Ruby": 89
+        }
+    },
+    {
+        "name": "XC-BASIC",
+        "description": "A compiling BASIC dialect for the Commodore-64",
+        "languages": {
+            "D": 465496,
+            "Assembly": 47801,
+            "FreeBasic": 10286,
+            "BASIC": 1371,
+            "VBA": 810
+        }
+    },
+    {
+        "name": "iopipe",
+        "description": "D language library for modular io",
+        "languages": {
+            "D": 128721
+        }
+    },
+    {
+        "name": "avgtime",
+        "description": "Like unix 'time' command, but with repetitions, median, std deviation",
+        "languages": {
+            "D": 15464
+        }
+    },
+    {
+        "name": "xasm",
+        "description": "6502 cross-assembler with original syntax extensions",
+        "languages": {
+            "D": 61858,
+            "Makefile": 2526
+        }
+    },
+    {
+        "name": "orange",
+        "description": "A serialization library for the D programming language.",
+        "languages": {
+            "D": 384557,
+            "Makefile": 2634,
+            "Shell": 519
+        }
+    },
+    {
+        "name": "opend",
+        "description": null,
+        "languages": {
+            "D": 67557860,
+            "C++": 4654489,
+            "HTML": 4081641,
+            "C": 2003431,
+            "CMake": 153317,
+            "Shell": 141946,
+            "Makefile": 135088,
+            "SWIG": 36791,
+            "CSS": 34094,
+            "Assembly": 33242,
+            "Python": 33156,
+            "Meson": 27919,
+            "JavaScript": 19356,
+            "PHP": 17393,
+            "Roff": 7430,
+            "Inno Setup": 6848,
+            "Batchfile": 5923,
+            "Objective-C": 5247,
+            "R": 3472,
+            "DTrace": 1933,
+            "Emacs Lisp": 148,
+            "Dockerfile": 74
+        }
+    },
+    {
+        "name": "poodinis",
+        "description": "Dependency injection framework for D with support for autowiring.",
+        "languages": {
+            "D": 133650,
+            "Makefile": 1318
+        }
+    },
+    {
+        "name": "intel-intrinsics",
+        "description": "The Dlang SIMD library",
+        "languages": {
+            "D": 899268,
+            "Batchfile": 1024,
+            "Shell": 622
+        }
+    },
+    {
+        "name": "lubeck",
+        "description": "High level linear algebra library for Dlang",
+        "languages": {
+            "D": 138063,
+            "Meson": 1628,
+            "Makefile": 769
+        }
+    },
+    {
+        "name": "grain",
+        "description": "autograd mir and CUDA library for dynamic neural networks in D.",
+        "languages": {
+            "D": 366622,
+            "CSS": 21277,
+            "Jupyter Notebook": 10350,
+            "Cuda": 8811,
+            "Makefile": 4292,
+            "HTML": 1495,
+            "Shell": 1353,
+            "Awk": 122
+        }
+    },
+    {
+        "name": "arduino-trackpoint-extended",
+        "description": "Arduino library used to interface with a TrackPoint/PS2 mouse. Supports stream mode.",
+        "languages": {
+            "D": 19431,
+            "C++": 8941,
+            "Arduino": 709
+        }
+    },
+    {
+        "name": "mecca",
+        "description": "Weka.IO's userland OS",
+        "languages": {
+            "D": 759084
+        }
+    },
+    {
+        "name": "download-steam-games",
+        "description": "A script to download and archive all of your Steam games.",
+        "languages": {
+            "D": 17560
+        }
+    },
+    {
+        "name": "godot-dlang",
+        "description": "D language bindings for the Godot Engine's GDExtension API",
+        "languages": {
+            "D": 762578,
+            "C": 40790,
+            "SWIG": 40012,
+            "GDScript": 4624,
+            "Just": 3460,
+            "Shell": 622
+        }
+    },
+    {
+        "name": "dpq2",
+        "description": "This is yet another attempt to create a good interface to PostgreSQL for the D programming language.",
+        "languages": {
+            "D": 202456
+        }
+    },
+    {
+        "name": "dunit",
+        "description": "Advanced unit testing toolkit for the D programming language",
+        "languages": {
+            "D": 79628
+        }
+    },
+    {
+        "name": "temple",
+        "description": "Compile Time Embedded Template Parser/Generator for D",
+        "languages": {
+            "D": 52775
+        }
+    },
+    {
+        "name": "ConsoleD",
+        "description": "Because colors are awesome.",
+        "languages": {
+            "D": 151870
+        }
+    },
+    {
+        "name": "learn-dlang",
+        "description": "Learn D programming language by creating games!",
+        "languages": {
+            "D": 88477
+        }
+    },
+    {
+        "name": "excel-d",
+        "description": "Excel API bindings and wrapper API for D",
+        "languages": {
+            "D": 243960,
+            "HTML": 1250,
+            "Shell": 445
+        }
+    },
+    {
+        "name": "collie",
+        "description": "An asynchronous event-driven network framework( port netty ) written in D.",
+        "languages": {
+            "D": 388090
+        }
+    },
+    {
+        "name": "vibe-core",
+        "description": "Repository for the next generation of vibe.d's core package.",
+        "languages": {
+            "D": 592327,
+            "Shell": 1568
+        }
+    },
+    {
+        "name": "DaNode",
+        "description": "Small and flexible web server written using the D 2.0 language",
+        "languages": {
+            "D": 131396,
+            "PHP": 3738,
+            "Shell": 2957,
+            "R": 1920,
+            "Perl": 1906,
+            "HTML": 635,
+            "Brainfuck": 260,
+            "Ada": 253,
+            "CSS": 107
+        }
+    },
+    {
+        "name": "eventcore",
+        "description": "High performance proactor event loop abstraction library",
+        "languages": {
+            "D": 390487,
+            "Shell": 1099
+        }
+    },
+    {
+        "name": "stm32f42_discovery_demo",
+        "description": "A simple demonstration of using D to bare-metal program an STM32F29I Discovery board",
+        "languages": {
+            "D": 665699,
+            "Shell": 223
+        }
+    },
+    {
+        "name": "ocean",
+        "description": "General purpose, platform-dependent, high-performance library for D",
+        "languages": {
+            "D": 7961240,
+            "Makefile": 2009
+        }
+    },
+    {
+        "name": "mqtt",
+        "description": "MQTT broker written in D, using vibe.d",
+        "languages": {
+            "D": 48372,
+            "Ruby": 6716,
+            "Gherkin": 4833,
+            "Emacs Lisp": 222
+        }
+    },
+    {
+        "name": "luneta",
+        "description": "command-line fuzzy finder",
+        "languages": {
+            "D": 17531,
+            "Shell": 346
+        }
+    },
+    {
+        "name": "bsdscheme",
+        "description": "A Scheme (R7RS) implementation written in D",
+        "languages": {
+            "D": 70235,
+            "Makefile": 436
+        }
+    },
+    {
+        "name": "llvm-d",
+        "description": "D bindings for LLVM",
+        "languages": {
+            "D": 198195,
+            "Shell": 895
+        }
+    },
+    {
+        "name": "hunt-entity",
+        "description": "An object-relational mapping (ORM) framework for D language (Similar to JPA / Doctrine),  support PostgreSQL and MySQL.",
+        "languages": {
+            "D": 274466
+        }
+    },
+    {
+        "name": "Digger",
+        "description": "A tool to build D and bisect old D versions",
+        "languages": {
+            "D": 46907,
+            "Shell": 6640
+        }
+    },
+    {
+        "name": "ReNeo",
+        "description": "Neo-Tastaturlayouts f\u00fcr Windows",
+        "languages": {
+            "D": 229719,
+            "C": 178437
+        }
+    },
+    {
+        "name": "til",
+        "description": "An easy to extend command language",
+        "languages": {
+            "D": 140426,
+            "Makefile": 1445,
+            "Shell": 907
+        }
+    },
+    {
+        "name": "dvm",
+        "description": "A tool to install and manage D compilers",
+        "languages": {
+            "D": 123051,
+            "Shell": 7428,
+            "PowerShell": 2621,
+            "Batchfile": 621
+        }
+    },
+    {
+        "name": "sumtype",
+        "description": "A sum type for the D programming language",
+        "languages": {
+            "D": 59519,
+            "Shell": 102
+        }
+    },
+    {
+        "name": "selery",
+        "description": "Server for Minecraft (Bedrock Engine) and Minecraft: Java Edition written in D",
+        "languages": {
+            "D": 1005440,
+            "Shell": 3364,
+            "Batchfile": 2248
+        }
+    },
+    {
+        "name": "fpconv",
+        "description": "Fast and accurate double to string conversion.",
+        "languages": {
+            "D": 17635,
+            "C": 11825
+        }
+    },
+    {
+        "name": "mustache-d",
+        "description": "Mustache template engine for D",
+        "languages": {
+            "D": 47425,
+            "HTML": 23658,
+            "Makefile": 1086,
+            "Meson": 667
+        }
+    },
+    {
+        "name": "unecht",
+        "description": "Game Engine Framework for the D programming language",
+        "languages": {
+            "D": 227409,
+            "CSS": 15425,
+            "JavaScript": 5369,
+            "Shell": 2276,
+            "GLSL": 1427
+        }
+    },
+    {
+        "name": "DerelictImgui",
+        "description": "Dynamic bindings to the cimgui library (a c-api for IMGUI) for the D programming language",
+        "languages": {
+            "D": 163514
+        }
+    },
+    {
+        "name": "rx",
+        "description": "Reactive Extensions for D Programming Language",
+        "languages": {
+            "D": 227806
+        }
+    },
+    {
+        "name": "dscord",
+        "description": "Discord Library for D",
+        "languages": {
+            "D": 138625,
+            "Shell": 603
+        }
+    },
+    {
+        "name": "raylib-d",
+        "description": "Resurrected copy of onroundit's raylib-d",
+        "languages": {
+            "D": 478757
+        }
+    },
+    {
+        "name": "scone",
+        "description": "\ud83c\udf5e  Make portable terminal applications",
+        "languages": {
+            "D": 92484,
+            "PowerShell": 33
+        }
+    },
+    {
+        "name": "gdtk",
+        "description": "The Gas Dynamics Toolkit (GDTk) is a set of software tools for simulating high speed fluid flow, maintained at The University of Queensland and the University of Southern Queensland, Australia.",
+        "languages": {
+            "D": 9125698,
+            "Lua": 4577087,
+            "Python": 1084416,
+            "C++": 1022921,
+            "Fortran": 262721,
+            "Cuda": 223449,
+            "Makefile": 182995,
+            "Chapel": 59198,
+            "Ruby": 56855,
+            "Tcl": 30020,
+            "HTML": 28512,
+            "C": 8019,
+            "TeX": 7974,
+            "Go": 4775,
+            "Crystal": 4515,
+            "Shell": 4084
+        }
+    },
+    {
+        "name": "ErupteD",
+        "description": "Auto-generated D bindings for Vulkan",
+        "languages": {
+            "D": 1993049,
+            "Python": 32591
+        }
+    },
+    {
+        "name": "WebSocketWebRTCRecorders",
+        "description": "These are modifications of existing recording scripts that allow recording through websockets, not just downloading Blobs",
+        "languages": {
+            "D": 30766,
+            "JavaScript": 11154,
+            "C": 8059
+        }
+    },
+    {
+        "name": "fcc",
+        "description": "fcc is the compiler for Neat, my D-lite language.",
+        "languages": {
+            "D": 1143230,
+            "C": 72328,
+            "Ruby": 9610,
+            "Shell": 4624,
+            "C++": 4280,
+            "Makefile": 3720
+        }
+    },
+    {
+        "name": "dfuse",
+        "description": "dfuse is a binding for the fuse filesystem library written in D.",
+        "languages": {
+            "D": 18429,
+            "Makefile": 1771
+        }
+    },
+    {
+        "name": "Android-Opencv-AR-tutorial",
+        "description": "AR sample for android using OpenCV",
+        "languages": {
+            "D": 24035,
+            "C++": 21185,
+            "Java": 10212,
+            "Shell": 19
+        }
+    },
+    {
+        "name": "dimgui",
+        "description": "dimgui is a D port of the imgui OpenGL GUI library.",
+        "languages": {
+            "D": 654257
+        }
+    },
+    {
+        "name": "dentist",
+        "description": "Close assembly gaps using long-reads at high accuracy.",
+        "languages": {
+            "D": 1480325,
+            "Shell": 94586,
+            "Python": 67099,
+            "Makefile": 10635,
+            "Awk": 4507,
+            "Dockerfile": 2108,
+            "jq": 1068
+        }
+    },
+    {
+        "name": "ldc-iphone-dev",
+        "description": "LDC (LLVM-base D Compiler) for iPhone iOS development sand box",
+        "languages": {
+            "D": 9437,
+            "Objective-C": 5759,
+            "Makefile": 2250,
+            "MATLAB": 247
+        }
+    },
+    {
+        "name": "fearless",
+        "description": "Safe concurrency in D (`shared` made easier)",
+        "languages": {
+            "D": 8815
+        }
+    },
+    {
+        "name": "moss-d-legacy",
+        "description": "Legacy D implementation of moss",
+        "languages": {
+            "D": 148323,
+            "Meson": 2544,
+            "Shell": 685
+        }
+    },
+    {
+        "name": "dil",
+        "description": "DIL is a hand-written compiler for the D programming language.",
+        "languages": {
+            "D": 1036111,
+            "Python": 189596,
+            "JavaScript": 58312,
+            "CSS": 18467,
+            "Shell": 593
+        }
+    },
+    {
+        "name": "BioD",
+        "description": "A D library for computational biology and bioinformatics ",
+        "languages": {
+            "D": 1000793,
+            "Ragel": 27997,
+            "Meson": 5178,
+            "Makefile": 2550,
+            "Shell": 330
+        }
+    },
+    {
+        "name": "shuihucard",
+        "description": "cocos2dx",
+        "languages": {
+            "D": 10946170,
+            "C++": 296973,
+            "Objective-C++": 8850,
+            "Objective-C": 3682,
+            "Java": 3230,
+            "Shell": 3019,
+            "C": 38
+        }
+    },
+    {
+        "name": "hunt-database",
+        "description": "Database abstraction layer library using pure D programing language, support PostgreSQL and MySQL.",
+        "languages": {
+            "D": 876453
+        }
+    },
+    {
+        "name": "terminal-emulator",
+        "description": "A terminal emulator in D.",
+        "languages": {
+            "D": 113290,
+            "Makefile": 2702
+        }
+    },
+    {
+        "name": "Dgraph",
+        "description": "Graph library written in D.",
+        "languages": {
+            "D": 373852,
+            "Makefile": 385
+        }
+    },
+    {
+        "name": "grpc-dlang",
+        "description": "Grpc for D programming language, hunt-http library based.",
+        "languages": {
+            "D": 40604,
+            "C++": 23028,
+            "CMake": 814
+        }
+    },
+    {
+        "name": "imageformats",
+        "description": "Image loading/saving",
+        "languages": {
+            "D": 108218
         }
     }
 ]
