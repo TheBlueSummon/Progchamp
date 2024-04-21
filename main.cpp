@@ -78,7 +78,7 @@ int main() {
 
     // Merge Sort test
     vector<float> data = {0.1, 0.11, 0.101, 0.09, 0.100001, 0.099999, 0.4, 0.1};
-    mergeSort(data.begin(), data.end(), [](float a, float b) { return a < b; });
+    mergeSort(data.begin(), data.end(), comparator<float>); 
     cout << "Sorted Array: ";
     printArray(data);
     cout << endl;
