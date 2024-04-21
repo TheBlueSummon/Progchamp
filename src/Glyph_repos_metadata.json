@@ -33,5 +33,920 @@
         "languages": {
             "Glyph": 19167
         }
+    },
+    {
+        "name": "GeomToMesh",
+        "description": "Geometry to Mesh Glyph Scripts",
+        "languages": {
+            "Glyph": 394444
+        }
+    },
+    {
+        "name": "GlyphUtilityLibrary",
+        "description": "High level Glyph scripting functions for both Pointwise and Gridgen",
+        "languages": {
+            "Glyph": 342974,
+            "CSS": 640,
+            "Batchfile": 175
+        }
+    },
+    {
+        "name": "CreateOH",
+        "description": "A Glyph script that automatically creates an OH-topology given a loop of four connectors.",
+        "languages": {
+            "Glyph": 22346
+        }
+    },
+    {
+        "name": "TriQuad",
+        "description": "Automatically create structured domains from three connectors",
+        "languages": {
+            "Glyph": 10940
+        }
+    },
+    {
+        "name": "CreateFromAnalyticFunction",
+        "description": "Create curves and surfaces from an analytic function.",
+        "languages": {
+            "Glyph": 26575
+        }
+    },
+    {
+        "name": "TheGeolocationManual",
+        "description": "The nuts and bolts of light-level geolocator analyses:",
+        "languages": {
+            "Glyph": 3813667,
+            "TeX": 3203,
+            "CSS": 895,
+            "R": 477
+        }
+    },
+    {
+        "name": "GridRefine",
+        "description": "This script allows users to automatically generate a family of grids from a baseline mesh for the purposes of a grid refinement study.",
+        "languages": {
+            "Glyph": 30424
+        }
+    },
+    {
+        "name": "ConvertGridToDatabase",
+        "description": "Convert domains and connectors to database entities.",
+        "languages": {
+            "Glyph": 14302
+        }
+    },
+    {
+        "name": "ButterflyMaker",
+        "description": "A Glyph script that converts H topology structured blocks into O-H (butterfly) topologies.",
+        "languages": {
+            "Glyph": 89512
+        }
+    },
+    {
+        "name": "ConGeometricAutoDimension",
+        "description": "Auto-dimension a selected connector with a geometric distribution function.",
+        "languages": {
+            "Glyph": 17497
+        }
+    },
+    {
+        "name": "hfm_fy23_q1",
+        "description": "Input files and data for HFM FY23 Q1 milestone",
+        "languages": {
+            "Glyph": 51836,
+            "Fortran": 32562,
+            "F*": 27321,
+            "Shell": 8852,
+            "Python": 7933
+        }
+    },
+    {
+        "name": "GridCoordEnum",
+        "description": "A Glyph library that helps with the export of 2D or 3D grid data to an unstructured format.",
+        "languages": {
+            "Glyph": 77960
+        }
+    },
+    {
+        "name": "VAWTMesh",
+        "description": "Automatically generate grids for 2D VAWTs.",
+        "languages": {
+            "Glyph": 18220
+        }
+    },
+    {
+        "name": "Glyph-Scripts",
+        "description": "This is a collection of Glyphy scripts and related utilities to help mesh generation",
+        "languages": {
+            "Glyph": 138454
+        }
+    },
+    {
+        "name": "EllipticSolverOptimization",
+        "description": "A Glyph script to optimize grid quality using the elliptic solver. ",
+        "languages": {
+            "Glyph": 16778
+        }
+    },
+    {
+        "name": "Advancing-front-Method",
+        "description": "A 2-dimension mesh generation programing with Advancing-front Method implement by Python",
+        "languages": {
+            "Glyph": 21851199,
+            "MATLAB": 108272,
+            "Python": 103202,
+            "Batchfile": 69950
+        }
+    },
+    {
+        "name": "Semicircle",
+        "description": "Quickly generate half-OH structured grid between two connectors",
+        "languages": {
+            "Glyph": 23195
+        }
+    },
+    {
+        "name": "SplitConsAtIntersection",
+        "description": "Split two connectors where they intersect.",
+        "languages": {
+            "Glyph": 20985
+        }
+    },
+    {
+        "name": "PointwiseAutoMesh",
+        "description": "Automatic mesh generation for 2D airfoils through Pointwise meshing software",
+        "languages": {
+            "Glyph": 79044,
+            "Shell": 1043
+        }
+    },
+    {
+        "name": "DomainDiagnose",
+        "description": "This Glyph script computes diagnostic information about all enabled domains in the grid.",
+        "languages": {
+            "Glyph": 23731
+        }
+    },
+    {
+        "name": "ConnectorSpacing",
+        "description": "This script is a tool for making the grid spacing around the perimeter of the selected domain consistent with its neighboring domains.",
+        "languages": {
+            "Glyph": 22084
+        }
+    },
+    {
+        "name": "GeoPressureManual",
+        "description": "Learn how to use GeoPressureR with examples.",
+        "languages": {
+            "Glyph": 4029819,
+            "TeX": 26450,
+            "SCSS": 44
+        }
+    },
+    {
+        "name": "ScaledOffset",
+        "description": "Offset a closed loop of connectors by scaling relative to the centroid.",
+        "languages": {
+            "Glyph": 8299
+        }
+    },
+    {
+        "name": "BirdMigrationWithWind",
+        "description": null,
+        "languages": {
+            "Glyph": 3324149,
+            "R": 121437
+        }
+    },
+    {
+        "name": "GeoPressureTemplate",
+        "description": "Template repository to analyse geolocation with a GeoPressureR",
+        "languages": {
+            "Glyph": 4029819,
+            "R": 2948
+        }
+    },
+    {
+        "name": "ConSplitIntoN",
+        "description": "This Glyph script splits connectors into N connectors of equal arclength.",
+        "languages": {
+            "Glyph": 9760
+        }
+    },
+    {
+        "name": "glyph-pwoo",
+        "description": "Pointwise objects",
+        "languages": {
+            "Glyph": 11312
+        }
+    },
+    {
+        "name": "UniformDomRefinement",
+        "description": "This Glyph script will uniformly refine a collection of unstructured domains.",
+        "languages": {
+            "Glyph": 29273
+        }
+    },
+    {
+        "name": "GridToSource",
+        "description": "A Glyph script that constructs source point clouds from selected domains or blocks",
+        "languages": {
+            "Glyph": 3252
+        }
+    },
+    {
+        "name": "GridOfLife",
+        "description": "This script lets you play Conway's Game of Life on a structured surface grid.",
+        "languages": {
+            "Glyph": 11005
+        }
+    },
+    {
+        "name": "SqueezeCon",
+        "description": "Quickly copy connector to fit between two selected points",
+        "languages": {
+            "Glyph": 7754
+        }
+    },
+    {
+        "name": "ShapeWizard",
+        "description": "This Glyph script creates grids and database surfaces in predefined shapes like bricks and cones.",
+        "languages": {
+            "Glyph": 78170
+        }
+    },
+    {
+        "name": "SmoothStraight",
+        "description": "Run this script on one or multiple connectors to smooth and then straighten a connector to consist of only a start and an end control point.",
+        "languages": {
+            "Glyph": 2866
+        }
+    },
+    {
+        "name": "glyph-thicken2d",
+        "description": "Thickens a 2D grid",
+        "languages": {
+            "Glyph": 33159
+        }
+    },
+    {
+        "name": "glyph-InterpolatedEntity",
+        "description": "Wraps a grid entity providing access to interpolated XYZ values",
+        "languages": {
+            "Glyph": 24737
+        }
+    },
+    {
+        "name": "ConSplitAtIsect",
+        "description": "This Glyph script splits two user-selected connectors where they intersect.",
+        "languages": {
+            "Glyph": 18546
+        }
+    },
+    {
+        "name": "Bloxz",
+        "description": null,
+        "languages": {
+            "Glyph": 1053232,
+            "Objective-C": 66272,
+            "C++": 54813
+        }
+    },
+    {
+        "name": "CreateSourceCurveFromConOrDB",
+        "description": "A Glyph script that creates source curves using the existing shape of connector or database curves",
+        "languages": {
+            "Glyph": 4901
+        }
+    },
+    {
+        "name": "pw2msh",
+        "description": "convert Pointwise meshes to Fluent msh files",
+        "languages": {
+            "Glyph": 6440,
+            "Shell": 5043,
+            "Tcl": 520
+        }
+    },
+    {
+        "name": "MultiConnectorSplitWithPercent",
+        "description": "This script provides a means of splitting multiple connectors simultaneously.",
+        "languages": {
+            "Glyph": 6368
+        }
+    },
+    {
+        "name": "BlockToFacet",
+        "description": "A tool used to export ONLY boundary conditions from a CFD computational mesh generated in Pointwise.",
+        "languages": {
+            "Glyph": 54185
+        }
+    },
+    {
+        "name": "PickDbByColor",
+        "description": "This script provides the ability to select database entities that match a specified color.",
+        "languages": {
+            "Glyph": 16039
+        }
+    },
+    {
+        "name": "ArrayCopyRotate",
+        "description": "Copy, rotate, and paste entities a prescribed number of times.",
+        "languages": {
+            "Glyph": 2718
+        }
+    },
+    {
+        "name": "multielementmesher",
+        "description": "PW's scripts to automatically generate mesh on 2D CRM High Lift Wing Section.",
+        "languages": {
+            "Glyph": 128013,
+            "Python": 8019
+        }
+    },
+    {
+        "name": "Fillet",
+        "description": "Quickly generate structured topology for fillets",
+        "languages": {
+            "Glyph": 11190
+        }
+    },
+    {
+        "name": "ExtrudeWithVCs",
+        "description": "This script is used to automatically create volume tags for extruded blocks based on existing boundary condition.",
+        "languages": {
+            "Glyph": 3942
+        }
+    },
+    {
+        "name": "SelectBySize",
+        "description": "Select entities in Pointwise by their extents. ",
+        "languages": {
+            "Glyph": 6325
+        }
+    },
+    {
+        "name": "KochSnowflake",
+        "description": "An interactive demonstration of meshing a Koch snowflake fractal.",
+        "languages": {
+            "Glyph": 5910
+        }
+    },
+    {
+        "name": "BlockDiagnose",
+        "description": "Compute and evaluate volume grid metrics through a simple interface.",
+        "languages": {
+            "Glyph": 19075
+        }
+    },
+    {
+        "name": "pwDumpLoadDomains",
+        "description": "a couple scripts that complement each other but are not really very useful",
+        "languages": {
+            "Glyph": 1709
+        }
+    },
+    {
+        "name": "ExtrudePipe",
+        "description": "Extrude a structured grid around a cylindrical pipe from scratch.",
+        "languages": {
+            "Glyph": 8913
+        }
+    },
+    {
+        "name": "groupt_microcontrollers",
+        "description": null,
+        "languages": {
+            "Glyph": 84300,
+            "CSS": 28655,
+            "Gnuplot": 19496,
+            "Makefile": 13982,
+            "Jupyter Notebook": 11465,
+            "Python": 8712,
+            "Shell": 54
+        }
+    },
+    {
+        "name": "RemoveFluentBCNumber",
+        "description": "Removes numbers from the end of each BC name.",
+        "languages": {
+            "Glyph": 3592
+        }
+    },
+    {
+        "name": "FitSurfacePatch",
+        "description": null,
+        "languages": {
+            "Glyph": 4813
+        }
+    },
+    {
+        "name": "Dom2DBEntity",
+        "description": "This Glyph script converts domains into database entities.",
+        "languages": {
+            "Glyph": 9646
+        }
+    },
+    {
+        "name": "TgridImport",
+        "description": "This Glyph script reads a Fluent Tgrid file. ",
+        "languages": {
+            "Glyph": 24838
+        }
+    },
+    {
+        "name": "DomAreaBlkVol",
+        "description": "This script computes the areas of selected domains and the volumes of selected blocks. ",
+        "languages": {
+            "Glyph": 11491
+        }
+    },
+    {
+        "name": "TurningAngleCalculator",
+        "description": "A Pointwise Glyph script which computes the turning angle for connector grid points.",
+        "languages": {
+            "Glyph": 15240
+        }
+    },
+    {
+        "name": "BSSR-Pointwise-Scripts",
+        "description": "Pointwise scripts for 2D airfoil meshes and 3D farfield setup   ",
+        "languages": {
+            "Glyph": 29351
+        }
+    },
+    {
+        "name": "RotateView",
+        "description": "Rotate the current view by specified rotation angles.",
+        "languages": {
+            "Glyph": 10854
+        }
+    },
+    {
+        "name": "GeolocatorAnalyses",
+        "description": "Manual: Analysing light-level geolocator data ",
+        "languages": {
+            "Glyph": 3813667,
+            "HTML": 217027,
+            "TeX": 66248,
+            "CSS": 46359,
+            "JavaScript": 25837,
+            "R": 20276,
+            "Makefile": 143
+        }
+    },
+    {
+        "name": "wavymesher",
+        "description": null,
+        "languages": {
+            "Glyph": 78877,
+            "Python": 12757
+        }
+    },
+    {
+        "name": "dcu",
+        "description": null,
+        "languages": {
+            "Glyph": 2440,
+            "Roff": 450
+        }
+    },
+    {
+        "name": "HelicalConnector",
+        "description": "A Glyph script for generating constant pitch helical connectors around a primary axis.",
+        "languages": {
+            "Glyph": 17618
+        }
+    },
+    {
+        "name": "GRCA",
+        "description": "Analysis of Gray Catbird GeoLocators using R",
+        "languages": {
+            "Glyph": 38885134
+        }
+    },
+    {
+        "name": "airfoilOptim",
+        "description": null,
+        "languages": {
+            "Glyph": 17174,
+            "MATLAB": 7746
+        }
+    },
+    {
+        "name": "WindFarmMeshing",
+        "description": null,
+        "languages": {
+            "Glyph": 82077
+        }
+    },
+    {
+        "name": "backStep",
+        "description": null,
+        "languages": {
+            "Glyph": 94294,
+            "Python": 23560,
+            "Shell": 3734
+        }
+    },
+    {
+        "name": "LatvianStarling",
+        "description": null,
+        "languages": {
+            "Glyph": 48509211,
+            "R": 30586
+        }
+    },
+    {
+        "name": "SweptCompressionRampGrids",
+        "description": "Grid script swept compression ramp studies",
+        "languages": {
+            "Glyph": 21626
+        }
+    },
+    {
+        "name": "QuickScript",
+        "description": "This Glyph script opens a Tk interface consisting primarily of an editable text field into which script commands may be typed and then executed. ",
+        "languages": {
+            "Glyph": 7868
+        }
+    },
+    {
+        "name": "dbCurveExtension",
+        "description": "This Glyph script extends a selected database curve by a user prescribed amount. ",
+        "languages": {
+            "Glyph": 10449
+        }
+    },
+    {
+        "name": "hybrid-amr-nalu-sphere",
+        "description": null,
+        "languages": {
+            "Glyph": 27524,
+            "Python": 18061,
+            "Shell": 7324
+        }
+    },
+    {
+        "name": "geopressure",
+        "description": "For the GeoPressure workshop",
+        "languages": {
+            "Glyph": 4029819,
+            "R": 2948
+        }
+    },
+    {
+        "name": "glyph-domainsToBc",
+        "description": "Glyph2 script to apply BCs to domains",
+        "languages": {
+            "Glyph": 37243
+        }
+    },
+    {
+        "name": "QuadWarp",
+        "description": "This Glyph script computes the warpage in degrees of quad cells. ",
+        "languages": {
+            "Glyph": 5723
+        }
+    },
+    {
+        "name": "RemoveControlPts",
+        "description": null,
+        "languages": {
+            "Glyph": 8949
+        }
+    },
+    {
+        "name": "RogueGlyph",
+        "description": "Simple roguelike for Pointwise written in Glyph.",
+        "languages": {
+            "Glyph": 2515
+        }
+    },
+    {
+        "name": "GroupsToBCs",
+        "description": "Convert tagged groups to CAE boundary conditions.",
+        "languages": {
+            "Glyph": 4053
+        }
+    },
+    {
+        "name": "ConCircleCenterAndRadius",
+        "description": "Create two 180 deg. connectors for a full circle given its center and radius.",
+        "languages": {
+            "Glyph": 12315
+        }
+    },
+    {
+        "name": "ListToPoints",
+        "description": "This script is used to turn a list of coordinates into database points in Pointwise.",
+        "languages": {
+            "Glyph": 1772
+        }
+    },
+    {
+        "name": "DimensionConFromSpacings",
+        "description": "Dimension connectors given beginning, ending, and maximum spacing values.",
+        "languages": {
+            "Glyph": 12848
+        }
+    },
+    {
+        "name": "DispRotByAngle",
+        "description": "This Glyph script sets the orientation of the image in the Display window by rotations about the 3 body axes using angles entered by the user.",
+        "languages": {
+            "Glyph": 9126
+        }
+    },
+    {
+        "name": "ChangeConWallSpacings",
+        "description": "Specify wall spacing for connectors emanating from database surfaces.",
+        "languages": {
+            "Glyph": 25620
+        }
+    },
+    {
+        "name": "IterateDomainSolver",
+        "description": "This script reports max included angle for a set of solver iterations and settings.",
+        "languages": {
+            "Glyph": 2704
+        }
+    },
+    {
+        "name": "DeleteBreakPoints",
+        "description": "This is a Pointwise Glyph/tcl script used to delete breakpoints from specified connectors.",
+        "languages": {
+            "Glyph": 1661
+        }
+    },
+    {
+        "name": "Pointwise-Glyphs",
+        "description": "Some TCL Glyphs for automating repeated tasks in Pointwise",
+        "languages": {
+            "Glyph": 1882,
+            "Tcl": 1480
+        }
+    },
+    {
+        "name": "Pointwise-Glyph-Script",
+        "description": null,
+        "languages": {
+            "Glyph": 21666
+        }
+    },
+    {
+        "name": "game3",
+        "description": null,
+        "languages": {
+            "Glyph": 831468,
+            "C": 253221,
+            "C++": 75983
+        }
+    },
+    {
+        "name": "MyDistribution",
+        "description": "This script demonstrates how you can use the setPoint command to create your own connector grid point distribution function.",
+        "languages": {
+            "Glyph": 2567
+        }
+    },
+    {
+        "name": "ColorDomByDB",
+        "description": "This Glyph script changes the color of domains according to how they reference the database.",
+        "languages": {
+            "Glyph": 9230
+        }
+    },
+    {
+        "name": "SymmetryPlane",
+        "description": "This Glyph script projects connectors and domains onto a user specified symmetry plane. ",
+        "languages": {
+            "Glyph": 16540
+        }
+    },
+    {
+        "name": "GlyphPlottingLibrary",
+        "description": "Plotting library written in Glyph",
+        "languages": {
+            "Glyph": 3369
+        }
+    },
+    {
+        "name": "CalcAngleFromPoints",
+        "description": "A Glyph script to compute the angle formed by three selected coplanar points",
+        "languages": {
+            "Glyph": 2471
+        }
+    },
+    {
+        "name": "pythonBartVoet",
+        "description": null,
+        "languages": {
+            "Glyph": 84300,
+            "CSS": 28655,
+            "Gnuplot": 19496,
+            "Makefile": 13982,
+            "Jupyter Notebook": 11465,
+            "Python": 8712,
+            "Shell": 54
+        }
+    },
+    {
+        "name": "glyph-extrudeProfile",
+        "description": "Extrude a profile curve along a spine curve with optional scale law curve and twist.",
+        "languages": {
+            "Glyph": 6674
+        }
+    },
+    {
+        "name": "lesfoil",
+        "description": null,
+        "languages": {
+            "Glyph": 181489,
+            "Python": 40602,
+            "Shell": 2043
+        }
+    },
+    {
+        "name": "CenterRotationAxes",
+        "description": "This script provides a Tk interface into which the (x,y,z) coordinates of the rotation point (the origin of the red body axes) may be typed. ",
+        "languages": {
+            "Glyph": 10414
+        }
+    },
+    {
+        "name": "FibonacciSpiral",
+        "description": "This demonstration script animates the drawing of a Fibonacci Spiral.",
+        "languages": {
+            "Glyph": 10967
+        }
+    },
+    {
+        "name": "SIE",
+        "description": "archivos de SIE",
+        "languages": {
+            "Glyph": 15258
+        }
+    },
+    {
+        "name": "GetCenterPoint",
+        "description": "Glyph script to create database points at the center point of selected circular arc segments.",
+        "languages": {
+            "Glyph": 3535
+        }
+    },
+    {
+        "name": "PythonPractice",
+        "description": "Python\u7ec3\u4e60",
+        "languages": {
+            "Glyph": 26358216,
+            "HTML": 15413990,
+            "Jupyter Notebook": 6336704,
+            "Python": 2396709,
+            "MATLAB": 180020,
+            "Shell": 7564,
+            "CSS": 331,
+            "Procfile": 44
+        }
+    },
+    {
+        "name": "movingairfoil",
+        "description": null,
+        "languages": {
+            "Glyph": 17095,
+            "Julia": 9759,
+            "Shell": 4987,
+            "Python": 4863
+        }
+    },
+    {
+        "name": "CreateFarfield",
+        "description": "A Glyph script that generates either hemispherical or spherical farfields.",
+        "languages": {
+            "Glyph": 4992
+        }
+    },
+    {
+        "name": "AirfoilPanelCode",
+        "description": "Vortex panel code for airfoils.",
+        "languages": {
+            "Glyph": 6685
+        }
+    },
+    {
+        "name": "glyph-magicmerge",
+        "description": "Overlapping Connector Merging",
+        "languages": {
+            "Glyph": 3057
+        }
+    },
+    {
+        "name": "ExtrudeEdges",
+        "description": "Quickly create trimming model from quilt edges",
+        "languages": {
+            "Glyph": 12181
+        }
+    },
+    {
+        "name": "Domain2Ellipse",
+        "description": "A script demonstrating how the perimeter of a domain can be changed into a planar ellipse. ",
+        "languages": {
+            "Glyph": 7822
+        }
+    },
+    {
+        "name": "ConEllipse",
+        "description": "This Glyph script creates an elliptic connector given the origin and semi-major and semi-minor axes. A Tk interface is provided for setting the parameters. ",
+        "languages": {
+            "Glyph": 17817
+        }
+    },
+    {
+        "name": "BrickBlock",
+        "description": "This Glyph script creates a brick-shaped, structured grid block.",
+        "languages": {
+            "Glyph": 13179
+        }
+    },
+    {
+        "name": "pointwise_containers",
+        "description": "Singularity containers to run Pointwise 18.0",
+        "languages": {
+            "Glyph": 1149,
+            "Shell": 463
+        }
+    },
+    {
+        "name": "TA-sap-businessobjects",
+        "description": null,
+        "languages": {
+            "Glyph": 33684806
+        }
+    },
+    {
+        "name": "ViewDomsByCons",
+        "description": "Quickly view domains associated with selected connectors.",
+        "languages": {
+            "Glyph": 10647
+        }
+    },
+    {
+        "name": "ColorEntitiesByType",
+        "description": "This script is a quick and convenient tool for changing the color of all your database entities, connectors, or domains.",
+        "languages": {
+            "Glyph": 11911
+        }
+    },
+    {
+        "name": "glyph-AutoField",
+        "description": "Command ensemble to automatically build a nearfield and farfield around a",
+        "languages": {
+            "Glyph": 60115
+        }
+    },
+    {
+        "name": "nozzlemesher",
+        "description": null,
+        "languages": {
+            "Glyph": 51821,
+            "Python": 4598,
+            "Tcl": 3124
+        }
+    },
+    {
+        "name": "OnCloudBlockInit",
+        "description": "Block initialization and shutdown script for use with Cadence OnCloud",
+        "languages": {
+            "Glyph": 33195
+        }
+    },
+    {
+        "name": "glyph-rename",
+        "description": "quick rename of Pointwise entites",
+        "languages": {
+            "Glyph": 1502
+        }
+    },
+    {
+        "name": "Car_Sharing_Platform-Turo-SQL",
+        "description": "Designed Database & Data warehouse, ETL SAPBI, Webi Reports",
+        "languages": {
+            "Glyph": 1771
+        }
+    },
+    {
+        "name": "airfoil_create",
+        "description": null,
+        "languages": {
+            "Glyph": 4269,
+            "Python": 3525
+        }
+    },
+    {
+        "name": "pointwise",
+        "description": "Repository for Pointwise Glyph scripts",
+        "languages": {
+            "Glyph": 55520
+        }
     }
 ]

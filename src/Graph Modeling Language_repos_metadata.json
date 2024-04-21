@@ -7,22 +7,10 @@
         }
     },
     {
-        "name": "gpt4free",
-        "description": "The official gpt4free repository | various collection of powerful language models",
-        "languages": {
-            "Python": 627454,
-            "JavaScript": 52665,
-            "CSS": 22655,
-            "HTML": 12815,
-            "Dockerfile": 2584,
-            "Shell": 200
-        }
-    },
-    {
         "name": "ollama",
         "description": "Get up and running with Llama 3, Mistral, Gemma, and other large language models.",
         "languages": {
-            "Go": 531273,
+            "Go": 531550,
             "Shell": 36912,
             "C": 19525,
             "TypeScript": 17718,
@@ -34,6 +22,18 @@
             "Objective-C": 435,
             "JavaScript": 248,
             "HTML": 123
+        }
+    },
+    {
+        "name": "gpt4free",
+        "description": "The official gpt4free repository | various collection of powerful language models",
+        "languages": {
+            "Python": 630295,
+            "JavaScript": 52795,
+            "CSS": 22655,
+            "HTML": 12815,
+            "Dockerfile": 2584,
+            "Shell": 200
         }
     },
     {
@@ -55,6 +55,1772 @@
             "Batchfile": 6489,
             "Jupyter Notebook": 5033,
             "Dockerfile": 4173
+        }
+    },
+    {
+        "name": "FastChat",
+        "description": "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.",
+        "languages": {
+            "Python": 913120,
+            "Jupyter Notebook": 99331,
+            "Shell": 8461,
+            "Dockerfile": 294
+        }
+    },
+    {
+        "name": "llm-course",
+        "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "languages": {
+            "Jupyter Notebook": 4768793
+        }
+    },
+    {
+        "name": "gpt-2",
+        "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
+        "languages": {
+            "Python": 21268
+        }
+    },
+    {
+        "name": "guidance",
+        "description": "A guidance language for controlling large language models.",
+        "languages": {
+            "Jupyter Notebook": 2006868,
+            "Python": 406983,
+            "JavaScript": 9704,
+            "C++": 3821,
+            "Rust": 386
+        }
+    },
+    {
+        "name": "StableLM",
+        "description": "StableLM: Stability AI Language Models",
+        "languages": {
+            "Jupyter Notebook": 9973
+        }
+    },
+    {
+        "name": "gpt-3",
+        "description": "GPT-3: Language Models are Few-Shot Learners",
+        "languages": {}
+    },
+    {
+        "name": "Awesome-LLM",
+        "description": "Awesome-LLM: a curated list of Large Language Model",
+        "languages": {}
+    },
+    {
+        "name": "arangodb",
+        "description": "\ud83e\udd51 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.",
+        "languages": {
+            "C++": 36631599,
+            "JavaScript": 33489711,
+            "TypeScript": 758793,
+            "NASL": 758009,
+            "CMake": 306929,
+            "Python": 276313,
+            "SCSS": 245566,
+            "C": 240618,
+            "CSS": 196570,
+            "EJS": 138767,
+            "Shell": 125513,
+            "Yacc": 89279,
+            "SourcePawn": 16408,
+            "LLVM": 14804,
+            "HTML": 11585,
+            "PowerShell": 7819,
+            "Dockerfile": 5108,
+            "Makefile": 551,
+            "Max": 437,
+            "Batchfile": 109
+        }
+    },
+    {
+        "name": "MOSS",
+        "description": "An open-source tool-augmented conversational language model from Fudan University",
+        "languages": {
+            "Python": 162626
+        }
+    },
+    {
+        "name": "FinGPT",
+        "description": "FinGPT: Open-Source Financial Large Language Models!  Revolutionize \ud83d\udd25    We release the trained model on HuggingFace.",
+        "languages": {
+            "Jupyter Notebook": 5362368,
+            "Python": 726494,
+            "Shell": 41478,
+            "TypeScript": 1883
+        }
+    },
+    {
+        "name": "char-rnn",
+        "description": "Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch",
+        "languages": {
+            "Lua": 44091
+        }
+    },
+    {
+        "name": "Qwen",
+        "description": "The official repo of Qwen (\u901a\u4e49\u5343\u95ee) chat & pretrained large language model proposed by Alibaba Cloud.",
+        "languages": {
+            "Python": 209094,
+            "Jupyter Notebook": 102495,
+            "Shell": 17882,
+            "Dockerfile": 3022,
+            "Jinja": 453
+        }
+    },
+    {
+        "name": "dolly",
+        "description": "Databricks\u2019 Dolly, a large language model trained on the Databricks Machine Learning Platform",
+        "languages": {
+            "Python": 33042,
+            "Shell": 111
+        }
+    },
+    {
+        "name": "NeMo",
+        "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+        "languages": {
+            "Python": 16456906,
+            "Jupyter Notebook": 6508792,
+            "Shell": 40848,
+            "C++": 27587,
+            "Dockerfile": 6664,
+            "Groovy": 5587,
+            "HTML": 4324,
+            "CSS": 2001,
+            "Makefile": 890
+        }
+    },
+    {
+        "name": "ChatRWKV",
+        "description": "ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.",
+        "languages": {
+            "Python": 275953,
+            "Cuda": 14232,
+            "C++": 12870
+        }
+    },
+    {
+        "name": "web-llm",
+        "description": "Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.",
+        "languages": {
+            "TypeScript": 208510,
+            "HTML": 2708,
+            "Shell": 2185,
+            "JavaScript": 1256
+        }
+    },
+    {
+        "name": "FlexGen",
+        "description": "Running large language models on a single GPU for throughput-oriented scenarios.",
+        "languages": {
+            "Python": 735326,
+            "Shell": 25794
+        }
+    },
+    {
+        "name": "LoRA",
+        "description": "Code for loralib, an implementation of \"LoRA: Low-Rank Adaptation of Large Language Models\"",
+        "languages": {
+            "Python": 15334
+        }
+    },
+    {
+        "name": "Awesome-Multimodal-Large-Language-Models",
+        "description": ":sparkles::sparkles:Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation.",
+        "languages": {}
+    },
+    {
+        "name": "LLMSurvey",
+        "description": "The official GitHub page for the survey paper \"A Survey of Large Language Models\".",
+        "languages": {
+            "Python": 738327,
+            "Shell": 38077,
+            "JavaScript": 22995,
+            "Rust": 3380,
+            "Scheme": 2111,
+            "C++": 869
+        }
+    },
+    {
+        "name": "shell_gpt",
+        "description": "A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.",
+        "languages": {
+            "Python": 89152,
+            "Shell": 367,
+            "Dockerfile": 194
+        }
+    },
+    {
+        "name": "trl",
+        "description": "Train transformer language models with reinforcement learning.",
+        "languages": {
+            "Python": 879745,
+            "Shell": 16385,
+            "Dockerfile": 4328,
+            "Makefile": 1264
+        }
+    },
+    {
+        "name": "Fay",
+        "description": "Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.",
+        "languages": {}
+    },
+    {
+        "name": "prompt-engineering",
+        "description": "Tips and tricks for working with Large Language Models like OpenAI's GPT-4.",
+        "languages": {}
+    },
+    {
+        "name": "text-generation-inference",
+        "description": "Large Language Model Text Generation Inference",
+        "languages": {
+            "Python": 1336791,
+            "Rust": 386804,
+            "Cuda": 150454,
+            "C++": 11411,
+            "Dockerfile": 8462,
+            "JavaScript": 5039,
+            "Makefile": 2821,
+            "C": 1001,
+            "Shell": 654
+        }
+    },
+    {
+        "name": "BELLE",
+        "description": "BELLE: Be Everyone's Large Language model Engine\uff08\u5f00\u6e90\u4e2d\u6587\u5bf9\u8bdd\u5927\u6a21\u578b\uff09",
+        "languages": {
+            "HTML": 686866,
+            "Python": 626321,
+            "Jupyter Notebook": 178157,
+            "Shell": 24447,
+            "Cuda": 15843,
+            "Dockerfile": 9305,
+            "C++": 2258
+        }
+    },
+    {
+        "name": "Yi",
+        "description": "A series of large language models trained from scratch by developers @01-ai",
+        "languages": {
+            "Python": 163097,
+            "Shell": 1954,
+            "Dockerfile": 1918
+        }
+    },
+    {
+        "name": "txtai",
+        "description": "\ud83d\udca1 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows",
+        "languages": {
+            "Python": 839386,
+            "Dockerfile": 3163,
+            "Makefile": 2022
+        }
+    },
+    {
+        "name": "PowerInfer",
+        "description": "High-speed Large Language Model Serving on PCs with Consumer-grade GPUs",
+        "languages": {
+            "C++": 1349794,
+            "C": 1108069,
+            "Cuda": 364323,
+            "Python": 224151,
+            "Metal": 106747,
+            "Objective-C": 90604,
+            "Shell": 44569,
+            "CMake": 42755,
+            "Zig": 6287,
+            "Nix": 5761,
+            "Dockerfile": 4120,
+            "Swift": 1915
+        }
+    },
+    {
+        "name": "dowhy",
+        "description": "DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks. ",
+        "languages": {
+            "Python": 1868774
+        }
+    },
+    {
+        "name": "OpenNMT-py",
+        "description": "Open Source Neural Machine Translation and (Large) Language Models in PyTorch",
+        "languages": {
+            "Python": 1230526,
+            "Shell": 45722,
+            "Perl": 6480,
+            "Dockerfile": 1218
+        }
+    },
+    {
+        "name": "TensorRT-LLM",
+        "description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.",
+        "languages": {
+            "C++": 693120729,
+            "Python": 3509687,
+            "Cuda": 857566,
+            "CMake": 67866,
+            "Smarty": 21686,
+            "Shell": 21117,
+            "PowerShell": 14835,
+            "Dockerfile": 9340,
+            "Makefile": 6574,
+            "C": 5050
+        }
+    },
+    {
+        "name": "pytext",
+        "description": "A natural language modeling framework based on PyTorch",
+        "languages": {
+            "Python": 2869961,
+            "Makefile": 709,
+            "Shell": 600,
+            "Batchfile": 535
+        }
+    },
+    {
+        "name": "ERNIE",
+        "description": "Official implementations for various pre-training models of ERNIE-family, covering topics of Language Understanding & Generation, Multimodal Understanding & Generation, and beyond.",
+        "languages": {
+            "Python": 987904,
+            "Shell": 5950
+        }
+    },
+    {
+        "name": "streaming-llm",
+        "description": "[ICLR 2024] Efficient Streaming Language Models with Attention Sinks",
+        "languages": {
+            "Python": 23735
+        }
+    },
+    {
+        "name": "llm",
+        "description": "An ecosystem of Rust libraries for working with large language models",
+        "languages": {
+            "Rust": 541735,
+            "Nix": 885,
+            "Dockerfile": 731
+        }
+    },
+    {
+        "name": "lit-llama",
+        "description": "Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.",
+        "languages": {
+            "Python": 278014
+        }
+    },
+    {
+        "name": "sui",
+        "description": " Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+        "languages": {
+            "Rust": 25469742,
+            "Move": 5746252,
+            "TypeScript": 3014600,
+            "Python": 198764,
+            "Solidity": 195235,
+            "MDX": 169203,
+            "Shell": 77182,
+            "JavaScript": 42609,
+            "SCSS": 28635,
+            "Dockerfile": 14832,
+            "PLpgSQL": 4456,
+            "Boogie": 4258,
+            "HTML": 4055,
+            "CSS": 1843
+        }
+    },
+    {
+        "name": "Baichuan-7B",
+        "description": "A large-scale 7B pretraining language model developed by BaiChuan-Inc.",
+        "languages": {
+            "Python": 51328,
+            "Shell": 133
+        }
+    },
+    {
+        "name": "ponyc",
+        "description": "Pony is an open-source, actor-model, capabilities-secure, high performance programming language",
+        "languages": {
+            "C": 2416637,
+            "Pony": 1522375,
+            "C++": 710801,
+            "CMake": 46113,
+            "PowerShell": 21802,
+            "Shell": 15689,
+            "Makefile": 14952,
+            "Dockerfile": 11541,
+            "GAP": 11094,
+            "DTrace": 6422,
+            "LLVM": 675
+        }
+    },
+    {
+        "name": "bitsandbytes",
+        "description": "Accessible large language models via k-bit quantization for PyTorch.",
+        "languages": {
+            "Python": 540596,
+            "Cuda": 219418,
+            "C++": 94865,
+            "Shell": 9781,
+            "CMake": 9710,
+            "Metal": 2796,
+            "Objective-C++": 1624,
+            "C": 648
+        }
+    },
+    {
+        "name": "azure-search-openai-demo",
+        "description": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&A experiences.",
+        "languages": {
+            "Python": 440462,
+            "Bicep": 102129,
+            "TypeScript": 100960,
+            "CSS": 11574,
+            "PowerShell": 9250,
+            "Shell": 7916,
+            "HTML": 414
+        }
+    },
+    {
+        "name": "LLM-Agent-Paper-List",
+        "description": "The paper list of the 86-page paper \"The Rise and Potential of Large Language Model Based Agents: A Survey\" by Zhiheng Xi et al.",
+        "languages": {}
+    },
+    {
+        "name": "Voyager",
+        "description": "An Open-Ended Embodied Agent with Large Language Models",
+        "languages": {
+            "JavaScript": 174952,
+            "Python": 88305
+        }
+    },
+    {
+        "name": "cvxpy",
+        "description": "A Python-embedded modeling language for convex optimization problems.",
+        "languages": {
+            "C++": 7060732,
+            "Python": 2443621,
+            "C": 104717,
+            "Makefile": 6320,
+            "Shell": 4529,
+            "SWIG": 2403,
+            "CMake": 694
+        }
+    },
+    {
+        "name": "openchat",
+        "description": "OpenChat: Advancing Open-source Language Models with Imperfect Data",
+        "languages": {
+            "Python": 164394,
+            "Jupyter Notebook": 130676
+        }
+    },
+    {
+        "name": "CogVLM",
+        "description": "a state-of-the-art-level open visual language model | \u591a\u6a21\u6001\u9884\u8bad\u7ec3\u6a21\u578b",
+        "languages": {
+            "Python": 296433,
+            "Shell": 6645
+        }
+    },
+    {
+        "name": "lm-evaluation-harness",
+        "description": "A framework for few-shot evaluation of language models.",
+        "languages": {
+            "Python": 881065,
+            "C++": 6748,
+            "Shell": 207
+        }
+    },
+    {
+        "name": "edward",
+        "description": "A probabilistic programming language in TensorFlow. Deep generative models, variational inference.",
+        "languages": {
+            "Jupyter Notebook": 1104545,
+            "Python": 472815,
+            "Dockerfile": 2818,
+            "Makefile": 1917,
+            "Smarty": 198
+        }
+    },
+    {
+        "name": "JSONExport",
+        "description": "JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.",
+        "languages": {
+            "Swift": 120496
+        }
+    },
+    {
+        "name": "keto",
+        "description": "Open Source (Go) implementation of \"Zanzibar: Google's Consistent, Global Authorization System\". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.",
+        "languages": {
+            "Go": 563181,
+            "Mustache": 90479,
+            "Shell": 30337,
+            "JavaScript": 13219,
+            "Makefile": 5368,
+            "TypeScript": 2933,
+            "Dockerfile": 623
+        }
+    },
+    {
+        "name": "Resume-Matcher",
+        "description": "Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions. ",
+        "languages": {
+            "Python": 90852,
+            "Dockerfile": 301
+        }
+    },
+    {
+        "name": "RWKV-Runner",
+        "description": "A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.",
+        "languages": {
+            "TypeScript": 326073,
+            "Python": 93232,
+            "Go": 39084,
+            "Ruby": 8864,
+            "JavaScript": 6524,
+            "Shell": 4179,
+            "Batchfile": 2642,
+            "SCSS": 1469,
+            "Dockerfile": 1439,
+            "Makefile": 696,
+            "HTML": 354
+        }
+    },
+    {
+        "name": "camel",
+        "description": "\ud83d\udc2b CAMEL: Communicative Agents for \u201cMind\u201d Exploration of Large Language Model Society (NeruIPS'2023) https://www.camel-ai.org",
+        "languages": {
+            "Python": 771766,
+            "Makefile": 3868,
+            "HTML": 11
+        }
+    },
+    {
+        "name": "wing",
+        "description": "A programming language for the cloud \u2601\ufe0f A unified programming model, combining infrastructure and runtime code into one language \u26a1",
+        "languages": {
+            "TypeScript": 2449128,
+            "Rust": 867290,
+            "JavaScript": 37973,
+            "CWeb": 17164,
+            "C": 6690,
+            "Shell": 3722,
+            "Makefile": 3658,
+            "CSS": 2723,
+            "AppleScript": 2691,
+            "HTML": 2620,
+            "Python": 2324,
+            "Scheme": 1646,
+            "Swift": 1430,
+            "Go": 634,
+            "C++": 575,
+            "Dockerfile": 521
+        }
+    },
+    {
+        "name": "ToolBench",
+        "description": "[ICLR'24 spotlight] An open platform for training, serving, and evaluating large language model for tool learning.",
+        "languages": {
+            "Python": 385356,
+            "Shell": 8298
+        }
+    },
+    {
+        "name": "RedPajama-Data",
+        "description": "The RedPajama-Data repository contains code for preparing large datasets for training large language models.",
+        "languages": {
+            "Python": 223920,
+            "Shell": 8218,
+            "Dockerfile": 650
+        }
+    },
+    {
+        "name": "trlx",
+        "description": "A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)",
+        "languages": {
+            "Python": 503051,
+            "Shell": 6320,
+            "Dockerfile": 1436
+        }
+    },
+    {
+        "name": "01",
+        "description": "The open-source language model computer",
+        "languages": {
+            "Python": 125476,
+            "C++": 31212,
+            "TypeScript": 8752,
+            "Rust": 3333,
+            "JavaScript": 107
+        }
+    },
+    {
+        "name": "Huatuo-Llama-Med-Chinese",
+        "description": "Repo for BenTsao [original name: HuaTuo (\u534e\u9a7c)], Instruction-tuning Large Language Models with Chinese Medical Knowledge. \u672c\u8349\uff08\u539f\u540d\uff1a\u534e\u9a7c\uff09\u6a21\u578b\u4ed3\u5e93\uff0c\u57fa\u4e8e\u4e2d\u6587\u533b\u5b66\u77e5\u8bc6\u7684\u5927\u8bed\u8a00\u6a21\u578b\u6307\u4ee4\u5fae\u8c03",
+        "languages": {
+            "Python": 30740,
+            "Shell": 3498
+        }
+    },
+    {
+        "name": "tree-of-thought-llm",
+        "description": "[NeurIPS 2023] Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+        "languages": {
+            "Python": 39444,
+            "Jupyter Notebook": 8518,
+            "Shell": 1806
+        }
+    },
+    {
+        "name": "tree-of-thoughts",
+        "description": "Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% ",
+        "languages": {
+            "Python": 71814,
+            "Shell": 2047
+        }
+    },
+    {
+        "name": "StyleTTS2",
+        "description": "StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models",
+        "languages": {
+            "Python": 300468,
+            "Jupyter Notebook": 85825
+        }
+    },
+    {
+        "name": "simpletransformers",
+        "description": "Transformers for Information Retrieval, Text Classification, NER, QA, Language Modelling, Language Generation, T5, Multi-Modal, and Conversational AI",
+        "languages": {
+            "Python": 1518548,
+            "Makefile": 1140,
+            "Shell": 305
+        }
+    },
+    {
+        "name": "VisualGLM-6B",
+        "description": "Chinese and English multimodal conversational language model | \u591a\u6a21\u6001\u4e2d\u82f1\u53cc\u8bed\u5bf9\u8bdd\u8bed\u8a00\u6a21\u578b",
+        "languages": {
+            "Python": 47531,
+            "Shell": 3018
+        }
+    },
+    {
+        "name": "PromptPapers",
+        "description": "Must-read papers on prompt-based tuning for pre-trained language models.",
+        "languages": {}
+    },
+    {
+        "name": "Baichuan2",
+        "description": "A series of large language models developed by Baichuan Intelligent Technology",
+        "languages": {
+            "Python": 12159
+        }
+    },
+    {
+        "name": "scylla",
+        "description": "Intelligent proxy pool for Humans\u2122 to extract content from the internet and build your own Large Language Models in this new AI era",
+        "languages": {
+            "Python": 76157,
+            "TypeScript": 14557,
+            "CSS": 1767,
+            "HTML": 1554,
+            "Makefile": 1540,
+            "Dockerfile": 1163,
+            "SCSS": 590,
+            "JavaScript": 436,
+            "Shell": 158
+        }
+    },
+    {
+        "name": "turbopilot",
+        "description": "Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU",
+        "languages": {
+            "C++": 549468,
+            "Python": 9604,
+            "CMake": 2793,
+            "Shell": 181
+        }
+    },
+    {
+        "name": "CLUE",
+        "description": "\u4e2d\u6587\u8bed\u8a00\u7406\u89e3\u6d4b\u8bc4\u57fa\u51c6 Chinese Language Understanding Evaluation Benchmark: datasets, baselines, pre-trained models, corpus and leaderboard  ",
+        "languages": {
+            "Python": 3585680,
+            "Jupyter Notebook": 265952,
+            "Shell": 222698
+        }
+    },
+    {
+        "name": "jsonformer",
+        "description": "A Bulletproof Way to Generate Structured JSON from Language Models",
+        "languages": {
+            "Jupyter Notebook": 19973,
+            "Python": 12190
+        }
+    },
+    {
+        "name": "lollms-webui",
+        "description": "Lord of Large Language Models Web User Interface",
+        "languages": {
+            "Vue": 819141,
+            "Python": 228554,
+            "Batchfile": 59547,
+            "Shell": 51825,
+            "CSS": 45001,
+            "JavaScript": 34401,
+            "Inno Setup": 8352,
+            "Jupyter Notebook": 3623,
+            "Dockerfile": 890,
+            "HTML": 707
+        }
+    },
+    {
+        "name": "self-instruct",
+        "description": "Aligning pretrained language models with instruction data generated by themselves.",
+        "languages": {
+            "Python": 54972,
+            "Jupyter Notebook": 6372,
+            "Shell": 1297
+        }
+    },
+    {
+        "name": "alignment-handbook",
+        "description": "Robust recipes to align language models with human and AI preferences",
+        "languages": {
+            "Python": 94452,
+            "Shell": 3862,
+            "Makefile": 1031,
+            "MDX": 65
+        }
+    },
+    {
+        "name": "YaLM-100B",
+        "description": "Pretrained language model with 100B parameters",
+        "languages": {
+            "Python": 795178,
+            "C++": 68501,
+            "Shell": 28485,
+            "Cuda": 6220,
+            "Dockerfile": 3510,
+            "TeX": 1573,
+            "Makefile": 703
+        }
+    },
+    {
+        "name": "mm-cot",
+        "description": "Official implementation for \"Multimodal Chain-of-Thought Reasoning in Language Models\" (stay tuned and more will be updated)",
+        "languages": {
+            "Python": 1297899,
+            "Shell": 4099
+        }
+    },
+    {
+        "name": "Qwen-VL",
+        "description": "The official repo of Qwen-VL (\u901a\u4e49\u5343\u95ee-VL) chat & pretrained large vision language model proposed by Alibaba Cloud.",
+        "languages": {
+            "Python": 134791,
+            "Shell": 6647
+        }
+    },
+    {
+        "name": "Luotuo-Chinese-LLM",
+        "description": "\u9a86\u9a7c(Luotuo): Open Sourced Chinese Language Models. Developed by \u9648\u542f\u6e90 @ \u534e\u4e2d\u5e08\u8303\u5927\u5b66 & \u674e\u9c81\u9c81 @ \u5546\u6c64\u79d1\u6280 & \u51b7\u5b50\u6602 @ \u5546\u6c64\u79d1\u6280",
+        "languages": {
+            "Jupyter Notebook": 8464435,
+            "Python": 2305,
+            "Dockerfile": 983,
+            "Shell": 979
+        }
+    },
+    {
+        "name": "moondream",
+        "description": "tiny vision language model",
+        "languages": {
+            "Jupyter Notebook": 100685,
+            "Python": 74928
+        }
+    },
+    {
+        "name": "text",
+        "description": "Models, data loaders and abstractions for language processing, powered by PyTorch",
+        "languages": {
+            "Python": 793056,
+            "C++": 104548,
+            "Jupyter Notebook": 49544,
+            "Shell": 17149,
+            "CMake": 6607,
+            "Batchfile": 5989,
+            "C": 1165
+        }
+    },
+    {
+        "name": "Awesome-AIGC-Tutorials",
+        "description": "Curated tutorials and resources for Large Language Models, AI Painting, and more. ",
+        "languages": {}
+    },
+    {
+        "name": "mergekit",
+        "description": "Tools for merging pretrained large language models.",
+        "languages": {
+            "Python": 254301,
+            "Jupyter Notebook": 2599
+        }
+    },
+    {
+        "name": "PLMpapers",
+        "description": "Must-read Papers on pre-trained language models.",
+        "languages": {}
+    },
+    {
+        "name": "guardrails",
+        "description": "Adding guardrails to large language models.",
+        "languages": {
+            "Python": 1056889,
+            "Jupyter Notebook": 572867,
+            "JavaScript": 13725,
+            "Makefile": 2719,
+            "Batchfile": 804
+        }
+    },
+    {
+        "name": "GLM",
+        "description": "GLM (General Language Model)",
+        "languages": {
+            "Python": 932682,
+            "Shell": 49217,
+            "Dockerfile": 20209,
+            "Perl": 4824
+        }
+    },
+    {
+        "name": "Baichuan-13B",
+        "description": "A 13B large language model developed by Baichuan Intelligent Technology",
+        "languages": {
+            "Python": 5115
+        }
+    },
+    {
+        "name": "Pretrained-Language-Model",
+        "description": "Pretrained language model and its related optimization techniques developed by Huawei Noah's Ark Lab.",
+        "languages": {
+            "Python": 4152390,
+            "Shell": 139167,
+            "C++": 22279,
+            "Dockerfile": 2370,
+            "Cython": 728
+        }
+    },
+    {
+        "name": "nlp-architect",
+        "description": "A model library for exploring state-of-the-art deep learning topologies and techniques for optimizing Natural Language Processing neural networks",
+        "languages": {
+            "Python": 1159338,
+            "Jupyter Notebook": 169849,
+            "Perl": 49833,
+            "JavaScript": 16582,
+            "CSS": 16010,
+            "Makefile": 8755,
+            "Shell": 2292,
+            "Dockerfile": 925,
+            "HTML": 311
+        }
+    },
+    {
+        "name": "llm",
+        "description": "Access large language models from the command-line",
+        "languages": {
+            "Python": 195998,
+            "Just": 1028,
+            "Shell": 929
+        }
+    },
+    {
+        "name": "awesome-speech-recognition-speech-synthesis-papers",
+        "description": "Automatic Speech Recognition (ASR), Speaker Verification, Speech Synthesis, Text-to-Speech (TTS), Language Modelling, Singing Voice Synthesis (SVS), Voice Conversion (VC)",
+        "languages": {}
+    },
+    {
+        "name": "LLMZoo",
+        "description": "\u26a1LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.\u26a1",
+        "languages": {
+            "Python": 107275,
+            "Shell": 11500
+        }
+    },
+    {
+        "name": "XLM",
+        "description": "PyTorch original implementation of Cross-lingual Language Model Pretraining.",
+        "languages": {
+            "Python": 266402,
+            "Shell": 40647,
+            "Jupyter Notebook": 23423,
+            "Perl": 5233
+        }
+    },
+    {
+        "name": "NExT-GPT",
+        "description": "Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model",
+        "languages": {
+            "Python": 415433,
+            "Shell": 341
+        }
+    },
+    {
+        "name": "llm-attacks",
+        "description": "Universal and Transferable Attacks on Aligned Language Models",
+        "languages": {
+            "Python": 112653,
+            "Jupyter Notebook": 60916,
+            "Shell": 3361
+        }
+    },
+    {
+        "name": "esm",
+        "description": "Evolutionary Scale Modeling (esm): Pretrained language models for proteins",
+        "languages": {
+            "Python": 268893,
+            "Shell": 2256
+        }
+    },
+    {
+        "name": "pyllama",
+        "description": "LLaMA: Open and Efficient Foundation Language Models",
+        "languages": {
+            "Python": 136215,
+            "Shell": 7134
+        }
+    },
+    {
+        "name": "MGM",
+        "description": "Official repo for \"Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models\"",
+        "languages": {
+            "Python": 476215,
+            "Shell": 52166,
+            "JavaScript": 9991,
+            "HTML": 7669,
+            "CSS": 1822
+        }
+    },
+    {
+        "name": "Gepetto",
+        "description": "IDA plugin which queries OpenAI's GPT language models to speed up reverse-engineering",
+        "languages": {
+            "Python": 19440
+        }
+    },
+    {
+        "name": "BIG-bench",
+        "description": "Beyond the Imitation Game collaborative benchmark for measuring and extrapolating the capabilities of language models",
+        "languages": {
+            "Python": 1564542,
+            "Jupyter Notebook": 638615,
+            "Dockerfile": 1453,
+            "Shell": 1436
+        }
+    },
+    {
+        "name": "char-rnn-tensorflow",
+        "description": " Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Python using Tensorflow ",
+        "languages": {
+            "Python": 18274
+        }
+    },
+    {
+        "name": "Eureka",
+        "description": "Official Repository for \"Eureka: Human-Level Reward Design via Coding Large Language Models\"",
+        "languages": {
+            "Jupyter Notebook": 23800877,
+            "Python": 5351700,
+            "HTML": 10952,
+            "Batchfile": 528,
+            "CMake": 332
+        }
+    },
+    {
+        "name": "inference",
+        "description": "Replace OpenAI GPT with another LLM in your app by changing a single line of code. Xinference gives you the freedom to use any LLM you need. With Xinference, you're empowered to run inference with any open-source language models, speech recognition models, and multimodal models, whether in the cloud, on-premises, or even on your laptop.",
+        "languages": {
+            "Python": 1089553,
+            "JavaScript": 150657,
+            "Dockerfile": 2980,
+            "HTML": 1722,
+            "CSS": 473
+        }
+    },
+    {
+        "name": "Qwen1.5",
+        "description": "Qwen1.5 is the improved version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.",
+        "languages": {
+            "Shell": 3169
+        }
+    },
+    {
+        "name": "prompt-engine",
+        "description": "A library for helping developers craft prompts for Large Language Models",
+        "languages": {
+            "TypeScript": 33659,
+            "JavaScript": 134
+        }
+    },
+    {
+        "name": "LLM4Decompile",
+        "description": "Reverse Engineering: Decompiling Binary Code with Large Language Models",
+        "languages": {
+            "Python": 28278,
+            "Shell": 424
+        }
+    },
+    {
+        "name": "kenlm",
+        "description": "KenLM: Faster and Smaller Language Model Queries",
+        "languages": {
+            "C++": 1173482,
+            "CMake": 27433,
+            "Cython": 11280,
+            "Python": 5861,
+            "C": 3245,
+            "Shell": 1505
+        }
+    },
+    {
+        "name": "Video-LLaMA",
+        "description": "[EMNLP 2023 Demo] Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding",
+        "languages": {
+            "Python": 455575
+        }
+    },
+    {
+        "name": "lida",
+        "description": "Automatic Generation of Visualizations and Infographics using Large Language Models",
+        "languages": {
+            "Jupyter Notebook": 253361,
+            "JavaScript": 241886,
+            "HTML": 221408,
+            "Python": 89989
+        }
+    },
+    {
+        "name": "chain-of-thought-hub",
+        "description": "Benchmarking large language models' complex reasoning ability with chain-of-thought prompting",
+        "languages": {
+            "Jupyter Notebook": 2679314,
+            "Python": 61093
+        }
+    },
+    {
+        "name": "dbrx",
+        "description": "Code examples and resources for DBRX, a large language model developed by Databricks",
+        "languages": {
+            "Python": 94515
+        }
+    },
+    {
+        "name": "sglang",
+        "description": "SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with models faster and more controllable.",
+        "languages": {
+            "Python": 746417,
+            "Shell": 2561
+        }
+    },
+    {
+        "name": "audiolm-pytorch",
+        "description": "Implementation of AudioLM, a SOTA Language Modeling Approach to Audio Generation out of Google Research, in Pytorch",
+        "languages": {
+            "Python": 198607,
+            "Jupyter Notebook": 27982
+        }
+    },
+    {
+        "name": "EasyLM",
+        "description": "Large language models (LLMs) made easy, EasyLM is a one stop solution for pre-training, finetuning, evaluating and serving LLMs in JAX/Flax.",
+        "languages": {
+            "Python": 322644,
+            "Shell": 9573
+        }
+    },
+    {
+        "name": "Awesome-LLM-Robotics",
+        "description": "A comprehensive list of papers using large language/multi-modal models for Robotics/RL, including papers, codes, and related websites",
+        "languages": {}
+    },
+    {
+        "name": "JuMP.jl",
+        "description": "Modeling language for Mathematical Optimization (linear, mixed-integer, conic, semidefinite, nonlinear)",
+        "languages": {
+            "Julia": 1314515
+        }
+    },
+    {
+        "name": "RL4LMs",
+        "description": "A modular RL library to fine-tune language models to human preferences",
+        "languages": {
+            "Python": 695027,
+            "HTML": 172434,
+            "Perl": 12498,
+            "Shell": 12469,
+            "Dockerfile": 991
+        }
+    },
+    {
+        "name": "finetune-transformer-lm",
+        "description": "Code and model for the paper \"Improving Language Understanding by Generative Pre-Training\"",
+        "languages": {
+            "Python": 30482
+        }
+    },
+    {
+        "name": "aiXcoder-7B",
+        "description": "official repository of aiXcoder-7B Code Large Language Model",
+        "languages": {
+            "Python": 351314
+        }
+    },
+    {
+        "name": "makemore",
+        "description": "An autoregressive character-level language model for making more things",
+        "languages": {
+            "Python": 29659
+        }
+    },
+    {
+        "name": "awesome-gpt4",
+        "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",
+        "languages": {}
+    },
+    {
+        "name": "text-generation-webui-colab",
+        "description": "A colab gradio web UI for running Large Language Models",
+        "languages": {
+            "Jupyter Notebook": 84341
+        }
+    },
+    {
+        "name": "promptbench",
+        "description": "A unified evaluation framework for large language models",
+        "languages": {
+            "Python": 721930
+        }
+    },
+    {
+        "name": "human-eval",
+        "description": "Code for the paper \"Evaluating Large Language Models Trained on Code\"",
+        "languages": {
+            "Python": 12580
+        }
+    },
+    {
+        "name": "awd-lstm-lm",
+        "description": "LSTM and QRNN Language Model Toolkit for PyTorch",
+        "languages": {
+            "Python": 54289,
+            "Shell": 1434
+        }
+    },
+    {
+        "name": "api-for-open-llm",
+        "description": "Openai style api for open large language models, using LLMs just as chatgpt! Support for LLaMA, LLaMA-2, BLOOM, Falcon, Baichuan, Qwen, Xverse, SqlCoder, CodeLLaMA, ChatGLM, ChatGLM2, ChatGLM3 etc. \u5f00\u6e90\u5927\u6a21\u578b\u7684\u7edf\u4e00\u540e\u7aef\u63a5\u53e3",
+        "languages": {
+            "Python": 476995,
+            "C++": 838,
+            "Dockerfile": 308
+        }
+    },
+    {
+        "name": "TavernAI",
+        "description": "Atmospheric adventure chat for AI language models (KoboldAI, NovelAI, Pygmalion, OpenAI chatgpt, gpt-4)",
+        "languages": {
+            "JavaScript": 821469,
+            "HTML": 132102,
+            "CSS": 120161,
+            "Jupyter Notebook": 84138,
+            "Shell": 947,
+            "Dockerfile": 395,
+            "Batchfile": 172,
+            "PowerShell": 126
+        }
+    },
+    {
+        "name": "mPLUG-Owl",
+        "description": "mPLUG-Owl & mPLUG-Owl2: Modularized Multimodal Large Language Model",
+        "languages": {
+            "Python": 749506,
+            "Shell": 5649
+        }
+    },
+    {
+        "name": "ecco",
+        "description": "Explain, analyze, and visualize NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2, BERT, RoBERTA, T5, and T0).",
+        "languages": {
+            "Jupyter Notebook": 1370414,
+            "Python": 152760,
+            "HTML": 35536,
+            "CSS": 2937
+        }
+    },
+    {
+        "name": "ChatYuan",
+        "description": "ChatYuan: Large Language Model for Dialogue in Chinese and English",
+        "languages": {
+            "Python": 25710
+        }
+    },
+    {
+        "name": "toolformer-pytorch",
+        "description": "Implementation of Toolformer, Language Models That Can Use Tools, by MetaAI",
+        "languages": {
+            "Python": 49312
+        }
+    },
+    {
+        "name": "ctrl",
+        "description": "Conditional Transformer Language Model for Controllable Generation",
+        "languages": {
+            "Python": 55784
+        }
+    },
+    {
+        "name": "graph-of-thoughts",
+        "description": "Official Implementation of \"Graph of Thoughts: Solving Elaborate Problems with Large Language Models\"",
+        "languages": {
+            "Python": 76544
+        }
+    },
+    {
+        "name": "pyomo",
+        "description": "An object-oriented algebraic modeling language in Python for structured optimization problems.",
+        "languages": {
+            "Python": 16352450,
+            "Jupyter Notebook": 702031,
+            "C++": 249605,
+            "JetBrains MPS": 42542,
+            "AMPL": 34511,
+            "GAMS": 18633,
+            "CMake": 10393,
+            "Shell": 7365,
+            "C": 6118
+        }
+    },
+    {
+        "name": "biobert",
+        "description": "Bioinformatics'2020: BioBERT: a pre-trained biomedical language representation model for biomedical text mining",
+        "languages": {
+            "Python": 289420,
+            "Perl": 12743,
+            "Shell": 601
+        }
+    },
+    {
+        "name": "Chain-of-ThoughtsPapers",
+        "description": "A trend starts from \"Chain of Thought Prompting Elicits Reasoning in Large Language Models\".",
+        "languages": {}
+    },
+    {
+        "name": "prompt2model",
+        "description": "prompt2model - Generate Deployable Models from Natural Language Instructions",
+        "languages": {
+            "Python": 542810,
+            "Jupyter Notebook": 23211
+        }
+    },
+    {
+        "name": "lightllm",
+        "description": "LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance.",
+        "languages": {
+            "Python": 932485,
+            "Shell": 4876,
+            "Dockerfile": 2022
+        }
+    },
+    {
+        "name": "ChineseGLUE",
+        "description": "Language Understanding Evaluation benchmark for Chinese: datasets, baselines, pre-trained models,corpus and leaderboard",
+        "languages": {
+            "Python": 3570577,
+            "Jupyter Notebook": 265952,
+            "Shell": 176931
+        }
+    },
+    {
+        "name": "VLM_survey",
+        "description": "Collection of AWESOME vision-language models for vision tasks",
+        "languages": {}
+    },
+    {
+        "name": "FARM",
+        "description": ":house_with_garden: Fast & easy transfer learning for NLP. Harvesting language models for the industry. Focus on Question Answering.",
+        "languages": {
+            "Python": 1005324,
+            "Jupyter Notebook": 430447,
+            "HTML": 1578,
+            "Dockerfile": 378
+        }
+    },
+    {
+        "name": "Code-LMs",
+        "description": "Guide to using pre-trained large language models of source code",
+        "languages": {
+            "Python": 17017,
+            "Shell": 2139
+        }
+    },
+    {
+        "name": "gpt2-ml",
+        "description": "GPT2 for Multiple Languages, including pretrained models. GPT2 \u591a\u8bed\u8a00\u652f\u6301, 15\u4ebf\u53c2\u6570\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b",
+        "languages": {
+            "Python": 93859,
+            "Perl": 3184,
+            "Jupyter Notebook": 2764,
+            "Shell": 1812,
+            "Dockerfile": 721
+        }
+    },
+    {
+        "name": "MoE-LLaVA",
+        "description": "Mixture-of-Experts for Large Vision-Language Models",
+        "languages": {
+            "Python": 1084795,
+            "Shell": 50085,
+            "JavaScript": 9991,
+            "HTML": 7669,
+            "CSS": 1822
+        }
+    },
+    {
+        "name": "helm",
+        "description": "Holistic Evaluation of Language Models (HELM), a framework to increase the transparency of language models (https://arxiv.org/abs/2211.09110). This framework is also used to evaluate text-to-image models in Holistic Evaluation of Text-to-Image Models (HEIM) (https://arxiv.org/abs/2311.04287).",
+        "languages": {
+            "Python": 3251392,
+            "TypeScript": 145941,
+            "JavaScript": 92999,
+            "HTML": 13772,
+            "Shell": 4704,
+            "CSS": 3050
+        }
+    },
+    {
+        "name": "bilm-tf",
+        "description": "Tensorflow implementation of contextualized word representations from bi-directional language models",
+        "languages": {
+            "Python": 137829,
+            "Dockerfile": 1165,
+            "Shell": 190
+        }
+    },
+    {
+        "name": "lm-hackers",
+        "description": "Hackers' Guide to Language Models",
+        "languages": {
+            "Jupyter Notebook": 768040,
+            "Python": 2117
+        }
+    },
+    {
+        "name": "chronos-forecasting",
+        "description": "Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting",
+        "languages": {
+            "Python": 24044
+        }
+    },
+    {
+        "name": "CPM-1-Generate",
+        "description": "Chinese Pre-Trained Language Models (CPM-LM) Version-I",
+        "languages": {
+            "Python": 519967,
+            "C++": 14009,
+            "Shell": 3062,
+            "Makefile": 279
+        }
+    },
+    {
+        "name": "InternLM-XComposer",
+        "description": "InternLM-XComposer2 is a groundbreaking vision-language large model (VLLM) excelling in free-form text-image composition and comprehension. ",
+        "languages": {
+            "Python": 905231,
+            "Jupyter Notebook": 62917,
+            "Shell": 41014
+        }
+    },
+    {
+        "name": "nlp-journey",
+        "description": "Documents, papers and codes related to  Natural Language Processing, including Topic Model, Word Embedding, Named Entity Recognition, Text Classificatin, Text Generation, Text Similarity, Machine Translation)\uff0cetc. All codes are implemented intensorflow 2.0.",
+        "languages": {
+            "Python": 116106
+        }
+    },
+    {
+        "name": "codeshell",
+        "description": "A series of code large language models developed by PKU-KCL",
+        "languages": {
+            "Python": 88495,
+            "Shell": 3110
+        }
+    },
+    {
+        "name": "ReAct",
+        "description": "[ICLR 2023] ReAct: Synergizing Reasoning and Acting in Language Models",
+        "languages": {
+            "Jupyter Notebook": 2063260,
+            "Python": 13158
+        }
+    },
+    {
+        "name": "Vary",
+        "description": "Official code implementation of Vary: Scaling Up the Vision Vocabulary of Large Vision Language Models.",
+        "languages": {
+            "Python": 266188
+        }
+    },
+    {
+        "name": "meditron",
+        "description": "Meditron is a suite of open-source medical Large Language Models (LLMs).",
+        "languages": {
+            "Python": 305685,
+            "Shell": 33198,
+            "TypeScript": 29019
+        }
+    },
+    {
+        "name": "chat-ollama",
+        "description": "ChatOllama is an open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.",
+        "languages": {
+            "Vue": 72581,
+            "TypeScript": 59777,
+            "SCSS": 27420,
+            "Dockerfile": 439,
+            "Shell": 225
+        }
+    },
+    {
+        "name": "spacy-models",
+        "description": "\ud83d\udcab  Models for the spaCy Natural Language Processing (NLP) library",
+        "languages": {
+            "Python": 59045
+        }
+    },
+    {
+        "name": "pytorch-openai-transformer-lm",
+        "description": "\ud83d\udc25A PyTorch implementation of OpenAI's finetuned transformer language model with a script to import the weights pre-trained by OpenAI",
+        "languages": {
+            "Python": 45890
+        }
+    },
+    {
+        "name": "CoOp",
+        "description": "Prompt Learning for Vision-Language Models (IJCV'22, CVPR'22)",
+        "languages": {
+            "Python": 134456,
+            "Shell": 5875
+        }
+    },
+    {
+        "name": "LISA",
+        "description": "Project Page for \"LISA: Reasoning Segmentation via Large Language Model\"",
+        "languages": {
+            "Python": 529871
+        }
+    },
+    {
+        "name": "long_llama",
+        "description": "LongLLaMA is a large language model capable of handling long contexts. It is based on OpenLLaMA and fine-tuned with the Focused Transformer (FoT) method.",
+        "languages": {
+            "Python": 287417,
+            "Jupyter Notebook": 150122,
+            "Shell": 3159
+        }
+    },
+    {
+        "name": "refact",
+        "description": "WebUI for Fine-Tuning and Self-hosting of Open-Source Large Language Models for Coding ",
+        "languages": {
+            "JavaScript": 1618168,
+            "Python": 608925,
+            "CSS": 63532,
+            "HTML": 60738,
+            "Dockerfile": 1862,
+            "Shell": 1331
+        }
+    },
+    {
+        "name": "promptoftheyear",
+        "description": "In the evolving world of Large Language Models (LLMs), crafting effective prompts has become an essential skill. That's why I've created this collection, showcasing the most impactful prompts of the year across various intriguing domains. \ud83c\udf10",
+        "languages": {}
+    },
+    {
+        "name": "Macaw-LLM",
+        "description": "Macaw-LLM: Multi-Modal Language Modeling with Image, Video, Audio, and Text Integration",
+        "languages": {
+            "Python": 148981,
+            "Shell": 2446
+        }
+    },
+    {
+        "name": "enchanted",
+        "description": "Enchanted is iOS and macOS app for chatting with private self hosted language models such as Llama2, Mistral or Vicuna using Ollama.",
+        "languages": {
+            "Swift": 187260
+        }
+    },
+    {
+        "name": "OpenCodeInterpreter",
+        "description": "OpenCodeInterpreter is a suite of open-source code generation systems aimed at bridging the gap between large language models and sophisticated proprietary systems like the GPT-4 Code Interpreter. It significantly enhances code generation capabilities by integrating execution and iterative refinement functionalities.",
+        "languages": {
+            "Python": 353789,
+            "Shell": 14746,
+            "Dockerfile": 435
+        }
+    },
+    {
+        "name": "DALEX",
+        "description": "moDel Agnostic Language for Exploration and eXplanation",
+        "languages": {
+            "Python": 724597,
+            "R": 244584
+        }
+    },
+    {
+        "name": "word-rnn-tensorflow",
+        "description": "Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow.",
+        "languages": {
+            "Python": 28813
+        }
+    },
+    {
+        "name": "LAMA",
+        "description": " LAnguage Model Analysis",
+        "languages": {
+            "Python": 111527,
+            "Shell": 5377
+        }
+    },
+    {
+        "name": "Transformer",
+        "description": "Transformer seq2seq model, program that can build a language translator from parallel corpus",
+        "languages": {
+            "Python": 30208,
+            "Jupyter Notebook": 4270
+        }
+    },
+    {
+        "name": "prismer",
+        "description": "The implementation of \"Prismer: A Vision-Language Model with Multi-Task Experts\".",
+        "languages": {
+            "Python": 902307,
+            "Cuda": 62296,
+            "C++": 6887,
+            "Shell": 1237
+        }
+    },
+    {
+        "name": "BitNet",
+        "description": "Implementation of \"BitNet: Scaling 1-bit Transformers for Large Language Models\" in pytorch",
+        "languages": {
+            "Python": 110371,
+            "Cuda": 2020,
+            "C++": 999
+        }
+    },
+    {
+        "name": "pororo",
+        "description": "PORORO: Platform Of neuRal mOdels for natuRal language prOcessing",
+        "languages": {
+            "Python": 835454,
+            "Shell": 2237,
+            "Dockerfile": 1682,
+            "Makefile": 233
+        }
+    },
+    {
+        "name": "Megatron-DeepSpeed",
+        "description": "Ongoing research training transformer language models at scale, including: BERT & GPT-2",
+        "languages": {
+            "Python": 1379211,
+            "C++": 94428,
+            "Cuda": 32819,
+            "Shell": 19995,
+            "C": 3452,
+            "Makefile": 932
+        }
+    },
+    {
+        "name": "cramming",
+        "description": "Cramming the training of a (BERT-type) language model into limited compute.",
+        "languages": {
+            "Python": 375242,
+            "Shell": 126481
+        }
+    },
+    {
+        "name": "self-rewarding-lm-pytorch",
+        "description": "Implementation of the training framework proposed in Self-Rewarding Language Model, from MetaAI",
+        "languages": {
+            "Python": 67078
+        }
+    },
+    {
+        "name": "readme-ai",
+        "description": "\ud83d\udc7e Automated README file generator, powered by large language model APIs.",
+        "languages": {
+            "Python": 243065,
+            "Shell": 9911,
+            "Makefile": 1659,
+            "Dockerfile": 1045
+        }
+    },
+    {
+        "name": "LLM-eval-survey",
+        "description": "The official GitHub page for the survey paper \"A Survey on Evaluation of Large Language Models\".",
+        "languages": {}
+    },
+    {
+        "name": "MotionGPT",
+        "description": "[NeurIPS 2023] MotionGPT: Human Motion as a Foreign Language, a unified motion-language generation model using LLMs",
+        "languages": {
+            "Python": 711379,
+            "CSS": 7012,
+            "Shell": 3700
+        }
+    },
+    {
+        "name": "OpenMoE",
+        "description": "A family of open-sourced Mixture-of-Experts (MoE) Large Language Models",
+        "languages": {
+            "Python": 60374,
+            "Shell": 4551
+        }
+    },
+    {
+        "name": "laravel-translatable",
+        "description": "A Laravel package for multilingual models",
+        "languages": {
+            "PHP": 122906
+        }
+    },
+    {
+        "name": "TinyGPT-V",
+        "description": "TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones",
+        "languages": {
+            "Python": 1115929
+        }
+    },
+    {
+        "name": "FastEdit",
+        "description": "\ud83e\ude79Editing large language models within 10 seconds\u26a1",
+        "languages": {
+            "Python": 53325
+        }
+    },
+    {
+        "name": "MiniChain",
+        "description": "A tiny library for coding with large language models.",
+        "languages": {
+            "Python": 30698,
+            "Smarty": 1553,
+            "Makefile": 279
+        }
+    },
+    {
+        "name": "auto-cot",
+        "description": "Official implementation for \"Automatic Chain of Thought Prompting in Large Language Models\" (stay tuned & more will be updated)",
+        "languages": {
+            "Jupyter Notebook": 47730,
+            "Python": 32547
+        }
+    },
+    {
+        "name": "languagemodels",
+        "description": "Explore large language models in 512MB of RAM",
+        "languages": {
+            "Python": 56791,
+            "TeX": 9577,
+            "Makefile": 2111
+        }
+    },
+    {
+        "name": "llm-chain",
+        "description": "`llm-chain` is a powerful rust crate for building chains in large language models allowing you to summarise text and complete complex tasks",
+        "languages": {
+            "Rust": 633740,
+            "JavaScript": 9294,
+            "C++": 5199,
+            "CSS": 1544,
+            "MDX": 698,
+            "C": 19
+        }
+    },
+    {
+        "name": "SWE-bench",
+        "description": "[ICLR 2024] SWE-Bench: Can Language Models Resolve Real-world Github Issues?",
+        "languages": {
+            "Python": 356412,
+            "Jupyter Notebook": 5433,
+            "Shell": 3954
+        }
+    },
+    {
+        "name": "yarn",
+        "description": "YaRN: Efficient Context Window Extension of Large Language Models",
+        "languages": {
+            "Python": 311981,
+            "Shell": 12617
+        }
+    },
+    {
+        "name": "awesome-vision-language-pretraining-papers",
+        "description": "Recent Advances in Vision and Language PreTrained Models (VL-PTMs)",
+        "languages": {}
+    },
+    {
+        "name": "RetNet",
+        "description": "An implementation of \"Retentive Network: A Successor to Transformer for Large Language Models\" ",
+        "languages": {
+            "Python": 39196
+        }
+    },
+    {
+        "name": "PPLM",
+        "description": "Plug and Play Language Model implementation. Allows to steer topic and attributes of GPT-2 models.",
+        "languages": {
+            "Python": 427422,
+            "Jupyter Notebook": 122342,
+            "Shell": 242
+        }
+    },
+    {
+        "name": "lm-human-preferences",
+        "description": "Code for the paper Fine-Tuning Language Models from Human Preferences",
+        "languages": {
+            "Python": 163036
+        }
+    },
+    {
+        "name": "rwkv.cpp",
+        "description": "INT4/INT5/INT8 and FP16 inference on CPU for RWKV language model",
+        "languages": {
+            "C++": 84837,
+            "Python": 73004,
+            "C": 32296,
+            "CMake": 19202
+        }
+    },
+    {
+        "name": "alpaca_eval",
+        "description": "An automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap, and fast.",
+        "languages": {
+            "Jupyter Notebook": 3442504,
+            "Python": 324956
+        }
+    },
+    {
+        "name": "mario-gpt",
+        "description": "[Neurips 2023] Generating Mario Levels with GPT2. Code for the paper \"MarioGPT: Open-Ended Text2Level Generation through Large Language Models\" https://arxiv.org/abs/2302.05981",
+        "languages": {
+            "Python": 152776,
+            "Jupyter Notebook": 141913,
+            "Makefile": 739
         }
     }
 ]

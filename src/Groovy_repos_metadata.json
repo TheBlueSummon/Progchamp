@@ -59,5 +59,1768 @@
         "languages": {
             "Groovy": 84206
         }
+    },
+    {
+        "name": "shadow",
+        "description": "Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.",
+        "languages": {
+            "Groovy": 364768,
+            "Java": 50821,
+            "Shell": 5934,
+            "JavaScript": 851,
+            "Vue": 264,
+            "Stylus": 238
+        }
+    },
+    {
+        "name": "fat-aar-android",
+        "description": "A gradle plugin that merge dependencies into the final aar file works with AGP 3.+",
+        "languages": {
+            "Groovy": 65358,
+            "Java": 26516,
+            "Kotlin": 211
+        }
+    },
+    {
+        "name": "SmartThingsPublic",
+        "description": "SmartThings open-source DeviceType Handlers and SmartApps code",
+        "languages": {
+            "Groovy": 5372198,
+            "Shell": 655
+        }
+    },
+    {
+        "name": "nextflow",
+        "description": "A DSL for data-driven computational pipelines",
+        "languages": {
+            "Groovy": 6433484,
+            "Java": 508803,
+            "HTML": 276131,
+            "Nextflow": 76732,
+            "Shell": 59491,
+            "JavaScript": 15690,
+            "Perl": 10487,
+            "Makefile": 4823,
+            "Dockerfile": 2479,
+            "Smarty": 542
+        }
+    },
+    {
+        "name": "asgard",
+        "description": "[Asgard is deprecated at Netflix. We use Spinnaker ( www.spinnaker.io ).] Web interface for application deployments and cloud management in Amazon Web Services (AWS). Binary download: http://github.com/Netflix/asgard/releases",
+        "languages": {
+            "Groovy": 3146590,
+            "JavaScript": 197827,
+            "CSS": 154972,
+            "HTML": 24047,
+            "Java": 15650,
+            "Batchfile": 5972
+        }
+    },
+    {
+        "name": "job-dsl-plugin",
+        "description": "A Groovy DSL for Jenkins Jobs - Sweeeeet!",
+        "languages": {
+            "Groovy": 2140045,
+            "Java": 108931,
+            "JavaScript": 35900,
+            "Handlebars": 15408,
+            "Less": 8859,
+            "HTML": 5551,
+            "ASL": 833,
+            "Shell": 499
+        }
+    },
+    {
+        "name": "bintray-release",
+        "description": "A helper for releasing from gradle up to bintray",
+        "languages": {
+            "Groovy": 59623,
+            "Shell": 325
+        }
+    },
+    {
+        "name": "protobuf-gradle-plugin",
+        "description": "Protobuf Plugin for Gradle",
+        "languages": {
+            "Groovy": 145247,
+            "Java": 28103,
+            "Kotlin": 11588
+        }
+    },
+    {
+        "name": "JenkinsPipelineUnit",
+        "description": "Framework for unit testing Jenkins pipelines ",
+        "languages": {
+            "Groovy": 276089,
+            "Java": 1182
+        }
+    },
+    {
+        "name": "sdk-manager-plugin",
+        "description": "DEPRECATED Gradle plugin which downloads and manages your Android SDK.",
+        "languages": {
+            "Groovy": 44535,
+            "Java": 2064
+        }
+    },
+    {
+        "name": "gradle-packer-plugin",
+        "description": "Android\u6e20\u9053\u6253\u5305\u5de5\u5177",
+        "languages": {
+            "Groovy": 22394,
+            "Shell": 800
+        }
+    },
+    {
+        "name": "gradle-bintray-plugin",
+        "description": null,
+        "languages": {
+            "Groovy": 74932,
+            "Java": 3630,
+            "HTML": 1346
+        }
+    },
+    {
+        "name": "build-time-tracker-plugin",
+        "description": "Gradle plugin to continuously track and report your build times",
+        "languages": {
+            "Groovy": 60149,
+            "Java": 488
+        }
+    },
+    {
+        "name": "geb",
+        "description": "Very Groovy Browser Automation",
+        "languages": {
+            "Groovy": 1243054,
+            "HTML": 5615,
+            "Java": 4455,
+            "Shell": 574,
+            "Procfile": 20
+        }
+    },
+    {
+        "name": "AutoRegister",
+        "description": "\u57fa\u4e8e\u5b57\u8282\u7801\u63d2\u6869\uff0c\u5728Android\u4e2d\u5b9e\u73b0\u8de8module\u81ea\u52a8\u6ce8\u518c\u7684gradle\u63d2\u4ef6\uff0c\u53ef\u7528\u4e8e\u6a21\u5757\u89e3\u8026\u3002\u5df2\u5e94\u7528\u4e8eARouter\u548cCC",
+        "languages": {
+            "Groovy": 35860,
+            "Java": 3519
+        }
+    },
+    {
+        "name": "android-maven-gradle-plugin",
+        "description": "Abandoned. This is now supported by the android build plugin: https://developer.android.com/studio/build/maven-publish-plugin",
+        "languages": {
+            "Groovy": 224200,
+            "Java": 152010
+        }
+    },
+    {
+        "name": "okcoin-leeks-reaper",
+        "description": "OKCoin\u97ed\u83dc\u6536\u5272\u673a",
+        "languages": {
+            "Groovy": 12827
+        }
+    },
+    {
+        "name": "AndroidJunkCode",
+        "description": "Android\u9a6c\u7532\u5305\u751f\u6210\u5783\u573e\u4ee3\u7801\u63d2\u4ef6",
+        "languages": {
+            "Groovy": 38063,
+            "Kotlin": 1637
+        }
+    },
+    {
+        "name": "buildstep",
+        "description": "Buildstep uses Docker and Buildpacks to build applications like Heroku",
+        "languages": {
+            "Groovy": 12880,
+            "Java": 5125,
+            "Gherkin": 3806,
+            "Ruby": 3568,
+            "Scala": 2678,
+            "Clojure": 1549,
+            "HTML": 1549,
+            "Shell": 1154,
+            "JavaScript": 344,
+            "Go": 334,
+            "Makefile": 238,
+            "Python": 113,
+            "PHP": 23
+        }
+    },
+    {
+        "name": "docker-registry-ui",
+        "description": "A web frontend/UI for easy private/local Docker Registry integration",
+        "languages": {
+            "Groovy": 97324,
+            "CSS": 14846,
+            "Shell": 10010,
+            "Batchfile": 5972,
+            "JavaScript": 1174,
+            "Dockerfile": 1158
+        }
+    },
+    {
+        "name": "jenkins-scripts",
+        "description": "Scripts in Groovy, shell, Ruby, Python, whatever for managing/interacting with Jenkins",
+        "languages": {
+            "Groovy": 120024,
+            "Shell": 18887,
+            "Python": 2738
+        }
+    },
+    {
+        "name": "gradle-node-plugin",
+        "description": "Gradle plugin for integrating NodeJS in your build. :rocket:",
+        "languages": {
+            "Groovy": 97216
+        }
+    },
+    {
+        "name": "groovy-android-gradle-plugin",
+        "description": "A Gradle plugin to support the Groovy language for building Android apps",
+        "languages": {
+            "Groovy": 102392
+        }
+    },
+    {
+        "name": "gradle-release",
+        "description": "gradle-release is a plugin for providing a Maven-like release process for projects using Gradle",
+        "languages": {
+            "Groovy": 135239
+        }
+    },
+    {
+        "name": "gradle-task-tree",
+        "description": "Gradle plugin that adds a 'taskTree' task that prints task dependency tree",
+        "languages": {
+            "Groovy": 30111,
+            "Java": 5236
+        }
+    },
+    {
+        "name": "ansible-role-jenkins",
+        "description": "Ansible Role - Jenkins CI",
+        "languages": {
+            "Groovy": 973
+        }
+    },
+    {
+        "name": "docker-ci-tool-stack",
+        "description": "Docker Infrastructure via docker-compose (Jenkins, SonarQube, Nexus, GitLab, Selenium Grid)",
+        "languages": {
+            "Groovy": 13154,
+            "Shell": 1357
+        }
+    },
+    {
+        "name": "gradle-test-logger-plugin",
+        "description": "A Gradle plugin for printing beautiful logs on the console while running tests",
+        "languages": {
+            "Groovy": 268377,
+            "Java": 6940,
+            "Kotlin": 1461,
+            "PowerShell": 324
+        }
+    },
+    {
+        "name": "img-optimizer-gradle-plugin",
+        "description": "\u4e00\u6b3e\u7528\u4e8e\u4f18\u5316png\u56fe\u7247\u7684gradle\u63d2\u4ef6\uff0c\u6709\u6548\u51cf\u5c11APK\u4f53\u79ef\uff0c\u652f\u6301\u6781\u9650\u538b\u7f29\u548c\u65e0\u635f\u538b\u7f29\u3002",
+        "languages": {
+            "Groovy": 15738
+        }
+    },
+    {
+        "name": "okreplay",
+        "description": "\ud83d\udcfc Record and replay OkHttp network interaction in your tests.",
+        "languages": {
+            "Groovy": 81185,
+            "Java": 64177,
+            "Kotlin": 59535
+        }
+    },
+    {
+        "name": "gogradle",
+        "description": "A Gradle Plugin Providing Full Support for Go",
+        "languages": {
+            "Groovy": 742623,
+            "Java": 652109,
+            "HTML": 10783,
+            "ANTLR": 10119,
+            "Kotlin": 7943,
+            "Go": 2127
+        }
+    },
+    {
+        "name": "AppJoint",
+        "description": "\ud83d\udd27 Cross module Android development made easy!",
+        "languages": {
+            "Groovy": 31698,
+            "Java": 21806,
+            "Kotlin": 21097
+        }
+    },
+    {
+        "name": "spock-example",
+        "description": "Spock example specifications along with ready-to-go Gradle and Maven builds",
+        "languages": {
+            "Groovy": 15770
+        }
+    },
+    {
+        "name": "plugins",
+        "description": "A set of Gradle plug-ins that greatly simplify project management / \u4e00\u5957\u6781\u5927\u7b80\u5316\u9879\u76ee\u7ba1\u7406\u7684Gradle\u63d2\u4ef6\u96c6",
+        "languages": {
+            "Groovy": 346241
+        }
+    },
+    {
+        "name": "gradle-lint-plugin",
+        "description": "A pluggable and configurable linter tool for identifying and reporting on patterns of misuse or deprecations in Gradle scripts. ",
+        "languages": {
+            "Groovy": 708348,
+            "Java": 14156,
+            "Kotlin": 4331
+        }
+    },
+    {
+        "name": "gradle-docker",
+        "description": "a Gradle plugin for orchestrating docker builds and pushes.",
+        "languages": {
+            "Groovy": 87831,
+            "Java": 5796
+        }
+    },
+    {
+        "name": "Tinker_imitator",
+        "description": "(UNMAINTAINED)\u5fae\u4fe1\u70ed\u66f4\u65b0\u65b9\u6848\u5b9e\u8df5",
+        "languages": {
+            "Groovy": 39427,
+            "Java": 27117
+        }
+    },
+    {
+        "name": "awesome-groovy",
+        "description": "A curated list of awesome groovy libraries, frameworks and resources",
+        "languages": {
+            "Groovy": 723
+        }
+    },
+    {
+        "name": "lint-cleaner-plugin",
+        "description": "A Gradle Plugin that removes unused resources in Android projects.",
+        "languages": {
+            "Groovy": 5685
+        }
+    },
+    {
+        "name": "docToolchain",
+        "description": "a AsciiDoc Toolchain for technical Software Documentation, focused on Software Architecture Documentation",
+        "languages": {
+            "Groovy": 374144,
+            "JavaScript": 128177,
+            "Shell": 79789,
+            "VBScript": 59320,
+            "CSS": 29015,
+            "PowerShell": 26969,
+            "HTML": 26331,
+            "Batchfile": 1847,
+            "Python": 606,
+            "ASL": 573,
+            "Dockerfile": 490
+        }
+    },
+    {
+        "name": "thymeleaf-layout-dialect",
+        "description": "A dialect for Thymeleaf that lets you build layouts and reusable templates in order to improve code reuse",
+        "languages": {
+            "Groovy": 176398,
+            "HTML": 26584,
+            "SCSS": 345,
+            "Ruby": 143
+        }
+    },
+    {
+        "name": "hibeaver",
+        "description": "HiBeaver is a gradle plugin for java byte code manipulation and AOP design by modifying project byte code during build of the package, or modifying byte code within Jar independently.",
+        "languages": {
+            "Groovy": 48428,
+            "Java": 5228
+        }
+    },
+    {
+        "name": "Mess",
+        "description": "a gradle plugin for minifying activities, services, receivers, providers and custom view",
+        "languages": {
+            "Groovy": 11503,
+            "Java": 5000
+        }
+    },
+    {
+        "name": "jenkins-scripts",
+        "description": null,
+        "languages": {
+            "Groovy": 342315,
+            "Shell": 25211
+        }
+    },
+    {
+        "name": "gretty",
+        "description": "Advanced gradle plugin for running web-apps on jetty and tomcat.",
+        "languages": {
+            "Groovy": 462466,
+            "Java": 168521,
+            "HTML": 48937,
+            "CSS": 8346,
+            "JavaScript": 7505
+        }
+    },
+    {
+        "name": "gradle-docker",
+        "description": "A Gradle plugin to build Docker images from the build script.",
+        "languages": {
+            "Groovy": 64707,
+            "Java": 10925,
+            "Dockerfile": 691
+        }
+    },
+    {
+        "name": "jmh-gradle-plugin",
+        "description": "Integrates the JMH benchmarking framework with Gradle",
+        "languages": {
+            "Groovy": 47163,
+            "Java": 37574,
+            "Scala": 2886,
+            "Kotlin": 1716
+        }
+    },
+    {
+        "name": "DevOps",
+        "description": "DevOps. Make the project development and release simpler, easier and more efficient.",
+        "languages": {
+            "Groovy": 16416,
+            "Shell": 2592
+        }
+    },
+    {
+        "name": "lazybones",
+        "description": "A simple project creation tool that uses packaged project templates.",
+        "languages": {
+            "Groovy": 282504,
+            "Java": 64595,
+            "HTML": 216
+        }
+    },
+    {
+        "name": "openboxes",
+        "description": "OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.",
+        "languages": {
+            "Groovy": 7850128,
+            "JavaScript": 2634927,
+            "CSS": 255090,
+            "SCSS": 102224,
+            "HTML": 37411,
+            "Batchfile": 5968,
+            "Less": 1654,
+            "Shell": 1445,
+            "CoffeeScript": 1234,
+            "Java": 661
+        }
+    },
+    {
+        "name": "awesome-kubernetes",
+        "description": "A curated list of awesome references collected since 2018.",
+        "languages": {
+            "Groovy": 26093
+        }
+    },
+    {
+        "name": "gradle-node-plugin",
+        "description": "Gradle plugin for integrating NodeJS in your build. :rocket:",
+        "languages": {
+            "Groovy": 191092,
+            "Kotlin": 117901,
+            "JavaScript": 1272,
+            "Nix": 1072
+        }
+    },
+    {
+        "name": "gradle-git",
+        "description": "Git plugin for Gradle",
+        "languages": {
+            "Groovy": 144144,
+            "Java": 4761,
+            "HTML": 3215
+        }
+    },
+    {
+        "name": "jacoco-android-gradle-plugin",
+        "description": "Gradle plugin that creates JaCoCo test reports for Android unit tests",
+        "languages": {
+            "Groovy": 12500,
+            "Java": 1816
+        }
+    },
+    {
+        "name": "pipeline-model-definition-plugin",
+        "description": null,
+        "languages": {
+            "Groovy": 1241147,
+            "Java": 1199756,
+            "HTML": 132916,
+            "JavaScript": 1503
+        }
+    },
+    {
+        "name": "SmartThings",
+        "description": null,
+        "languages": {
+            "Groovy": 2388843,
+            "JavaScript": 7590,
+            "C++": 1654
+        }
+    },
+    {
+        "name": "axion-release-plugin",
+        "description": "Gradle release & version management plugin.",
+        "languages": {
+            "Groovy": 245753,
+            "Java": 98473,
+            "Kotlin": 3407,
+            "Dockerfile": 1102
+        }
+    },
+    {
+        "name": "dict_uk",
+        "description": "Project to generate POS tag dictionary for Ukrainian language",
+        "languages": {
+            "Groovy": 284790,
+            "Java": 15305,
+            "Shell": 7162,
+            "Perl": 1618,
+            "Dockerfile": 122
+        }
+    },
+    {
+        "name": "font-mfizz",
+        "description": "Font Mfizz - Vector Icons for Technology and Software Geeks",
+        "languages": {
+            "Groovy": 9544,
+            "Shell": 811
+        }
+    },
+    {
+        "name": "gradle-tomcat-plugin",
+        "description": "Gradle plugin supporting deployment of your web application to an embedded Tomcat web container",
+        "languages": {
+            "Groovy": 179039
+        }
+    },
+    {
+        "name": "docker-registry-web",
+        "description": "Web UI for private docker registry v2",
+        "languages": {
+            "Groovy": 89507,
+            "CSS": 15991,
+            "Java": 1340,
+            "JavaScript": 641,
+            "Perl": 356,
+            "Shell": 216
+        }
+    },
+    {
+        "name": "glu",
+        "description": "Deployment Automation Platform",
+        "languages": {
+            "Groovy": 2356502,
+            "Java": 384837,
+            "Shell": 48966,
+            "CSS": 26809,
+            "Python": 24781,
+            "HTML": 12569,
+            "JavaScript": 11092,
+            "Batchfile": 5972
+        }
+    },
+    {
+        "name": "grgit",
+        "description": "The Groovy way to use Git.",
+        "languages": {
+            "Groovy": 194395,
+            "Java": 19579
+        }
+    },
+    {
+        "name": "gradle-jooq-plugin",
+        "description": "Gradle plugin that integrates jOOQ. ",
+        "languages": {
+            "Groovy": 47786,
+            "Java": 29783
+        }
+    },
+    {
+        "name": "android-cache-fix-gradle-plugin",
+        "description": "Gradle plugin that fixes Android build caching problems.",
+        "languages": {
+            "Groovy": 96156,
+            "Java": 9551,
+            "Kotlin": 1410
+        }
+    },
+    {
+        "name": "betamax",
+        "description": "Betamax is a tool for mocking external HTTP resources such as web services and REST APIs in your tests. The project was inspired by the VCR library for Ruby.",
+        "languages": {
+            "Groovy": 209985,
+            "Java": 141428,
+            "Scala": 5367,
+            "JavaScript": 176
+        }
+    },
+    {
+        "name": "GradlePluginDevelop",
+        "description": "\ud83d\udc8dGradle \u6267\u884c\u6d41\u7a0b\u3001\u4ec0\u4e48\u53ebDSL\u3001\u9886\u57df\u4e13\u7528\u8bed\u8a00\u3001Gradle\u5e38\u89c1\u7528\u6cd5\u3001Gradle\u9ad8\u7ea7\u63d2\u4ef6\u7528\u6cd5\u3001Gradle\u5bf9Android\u4f18\u5316\u3001\u7ed3\u5408Javassist\u4f7f\u7528\u7ed9\u4e0a\u4e00\u5c42\u697c\u4ee5\u53caGradle\u5f00\u53d1\u4e2d\u7684\u9047\u5230\u7684\u95ee\u9898",
+        "languages": {
+            "Groovy": 58475,
+            "Java": 11570
+        }
+    },
+    {
+        "name": "gradle-xcodePlugin",
+        "description": "gradle plugin for building Xcode Projects for iOS, watchOS, macOS or tvOS",
+        "languages": {
+            "Groovy": 1015005,
+            "Kotlin": 16731,
+            "Objective-C": 10954,
+            "Java": 7157,
+            "Swift": 4296,
+            "Ruby": 203
+        }
+    },
+    {
+        "name": "grails",
+        "description": "A powerful web application framework based on the Groovy language",
+        "languages": {
+            "Groovy": 3651272,
+            "Java": 3497090,
+            "JavaScript": 364411,
+            "Perl": 9273,
+            "Python": 3087,
+            "Shell": 1202
+        }
+    },
+    {
+        "name": "job-dsl-gradle-example",
+        "description": "An example Job DSL project that uses Gradle for building and testing.",
+        "languages": {
+            "Groovy": 16943,
+            "Shell": 535
+        }
+    },
+    {
+        "name": "drawable-optimizer",
+        "description": "Gradle plugin to optimize png files and reduce resultant apk size within an Android project.",
+        "languages": {
+            "Groovy": 10245
+        }
+    },
+    {
+        "name": "jenkins-script-console-scripts",
+        "description": "A repository of one-off script console scripts for Jenkins.",
+        "languages": {
+            "Groovy": 155103
+        }
+    },
+    {
+        "name": "fabric8-pipeline-library",
+        "description": "Fabric8 Pipeline for Jenkins",
+        "languages": {
+            "Groovy": 224901,
+            "Dockerfile": 80
+        }
+    },
+    {
+        "name": "clouddriver",
+        "description": "read and write operations across cloud providers",
+        "languages": {
+            "Groovy": 7677030,
+            "Java": 7410473,
+            "Kotlin": 297463,
+            "Slim": 5424,
+            "Shell": 4480
+        }
+    },
+    {
+        "name": "robolectric-gradle-plugin",
+        "description": "Gradle plugin for Robolectric. ",
+        "languages": {
+            "Groovy": 11427,
+            "Shell": 460
+        }
+    },
+    {
+        "name": "gradle-static-analysis-plugin",
+        "description": "Easy setup of static analysis tools for Android and Java projects.",
+        "languages": {
+            "Groovy": 215872,
+            "Kotlin": 3400,
+            "Java": 2074
+        }
+    },
+    {
+        "name": "gradle-android-plugin",
+        "description": "Android plugin for the Gradle build system.",
+        "languages": {
+            "Groovy": 125617,
+            "Shell": 7483,
+            "Scala": 818,
+            "Java": 610
+        }
+    },
+    {
+        "name": "license-gradle-plugin",
+        "description": "Manage your license(s)",
+        "languages": {
+            "Groovy": 132210,
+            "Roff": 27266,
+            "Java": 20669
+        }
+    },
+    {
+        "name": "gradle-docker-compose-plugin",
+        "description": "Simplifies usage of Docker Compose for integration testing in Gradle environment.",
+        "languages": {
+            "Groovy": 135704,
+            "Java": 3403
+        }
+    },
+    {
+        "name": "gradle-android-junit-jacoco-plugin",
+        "description": "Gradle plugin that generates JaCoCo reports from an Android Gradle Project",
+        "languages": {
+            "Groovy": 58886,
+            "Shell": 1051
+        }
+    },
+    {
+        "name": "groovy-wslite",
+        "description": "Lightweight SOAP and REST webservice clients for Groovy",
+        "languages": {
+            "Groovy": 164959,
+            "Java": 1650
+        }
+    },
+    {
+        "name": "nest-manager",
+        "description": "NST Manager (SmartThings)",
+        "languages": {
+            "Groovy": 1160985,
+            "CSS": 700221,
+            "JavaScript": 553323,
+            "HTML": 21125
+        }
+    },
+    {
+        "name": "Android-Gradle-Examples",
+        "description": null,
+        "languages": {
+            "Groovy": 3163,
+            "Java": 2933
+        }
+    },
+    {
+        "name": "calces-gradle-plugin",
+        "description": "Android\u6784\u5efa\u5de5\u5177\u96c6\uff1a\u5305\u542b\u5feb\u901f\u5b9e\u73b0\u7ec4\u4ef6\u5316\u6784\u5efa\u811a\u672c\uff0c\u5feb\u901f\u5b9e\u73b0\u5c4f\u5e55\u6700\u5c0f\u5bbd\u5ea6\u9002\u914d\u811a\u672c",
+        "languages": {
+            "Groovy": 40286
+        }
+    },
+    {
+        "name": "gradle-license-plugin",
+        "description": "Gradle plugin that provides a task to generate a HTML license report of your project.",
+        "languages": {
+            "Groovy": 163237,
+            "Kotlin": 48826
+        }
+    },
+    {
+        "name": "android-gradle-study",
+        "description": "\u6df1\u5165\u7406\u89e3Android Gradle",
+        "languages": {
+            "Groovy": 32520,
+            "Java": 29033
+        }
+    },
+    {
+        "name": "templates",
+        "description": "Document templates for open-source projects (README, CONTRIBUTING, GitHub templates)",
+        "languages": {
+            "Groovy": 329
+        }
+    },
+    {
+        "name": "skills-service",
+        "description": "SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training approach into new and existing applications.",
+        "languages": {
+            "Groovy": 7729391,
+            "JavaScript": 3590510,
+            "Vue": 2059848,
+            "Java": 78688,
+            "HTML": 18318,
+            "SCSS": 8883,
+            "Shell": 8371,
+            "Dockerfile": 2716,
+            "CSS": 1215
+        }
+    },
+    {
+        "name": "badass-jlink-plugin",
+        "description": "Create a custom runtime image of your modular application",
+        "languages": {
+            "Groovy": 242377,
+            "Java": 6873,
+            "Shell": 1246,
+            "HTML": 295
+        }
+    },
+    {
+        "name": "gradle-ospackage-plugin",
+        "description": "Gradle plugin for constructing linux packages, specifically RPM and DEBs.",
+        "languages": {
+            "Groovy": 373608,
+            "Shell": 4592,
+            "FreeMarker": 899,
+            "Smarty": 128
+        }
+    },
+    {
+        "name": "gradle-unused-resources-remover-plugin",
+        "description": "Gradle Plugin that removes unused resources in Android projects.",
+        "languages": {
+            "Groovy": 40281,
+            "Kotlin": 7725
+        }
+    },
+    {
+        "name": "artifactory-user-plugins",
+        "description": "Sample Artifactory User Plugins",
+        "languages": {
+            "Groovy": 1370437,
+            "Java": 28009,
+            "Shell": 4260,
+            "Python": 3929,
+            "Dockerfile": 69
+        }
+    },
+    {
+        "name": "smartthings-mqtt-bridge",
+        "description": "Bridge between SmartThings and MQTT",
+        "languages": {
+            "Groovy": 22609,
+            "JavaScript": 12790,
+            "Dockerfile": 525
+        }
+    },
+    {
+        "name": "gradle-android-command-plugin",
+        "description": "Handy commands for testing Android on CI",
+        "languages": {
+            "Groovy": 34866
+        }
+    },
+    {
+        "name": "java-bullshifier",
+        "description": "An open source project by OverOps. Generate massive random Java applications with a command line tool",
+        "languages": {
+            "Groovy": 50374,
+            "Python": 3410,
+            "Shell": 2237,
+            "Dockerfile": 1372
+        }
+    },
+    {
+        "name": "sshoogr",
+        "description": "A Groovy-based DSL for working with remote SSH servers.",
+        "languages": {
+            "Groovy": 110536,
+            "Java": 1794
+        }
+    },
+    {
+        "name": "spoon-gradle-plugin",
+        "description": "Gradle plugin for Spoon.",
+        "languages": {
+            "Groovy": 17174,
+            "Java": 4145,
+            "Shell": 276
+        }
+    },
+    {
+        "name": "dependency-check-gradle",
+        "description": "The dependency-check gradle plugin is a Software Composition Analysis (SCA) tool that allows projects to monitor dependent libraries for known, published vulnerabilities.",
+        "languages": {
+            "Groovy": 112370
+        }
+    },
+    {
+        "name": "android-unit-test",
+        "description": "Gradle plugin to add unit testing to android plugin. Prepared for Robolectric.",
+        "languages": {
+            "Groovy": 131447,
+            "Java": 23674,
+            "Shell": 2096
+        }
+    },
+    {
+        "name": "gradle-android-scala-plugin",
+        "description": "gradle-android-scala-plugin adds scala language support to official gradle android plugin",
+        "languages": {
+            "Groovy": 31115,
+            "Java": 19421,
+            "Scala": 17922
+        }
+    },
+    {
+        "name": "cheatsheet-jenkins-groovy-A4",
+        "description": ":book: Groovy CheatSheet For Jenkins Usage In A4",
+        "languages": {
+            "Groovy": 57031,
+            "Shell": 1174
+        }
+    },
+    {
+        "name": "fataar-gradle-plugin",
+        "description": "Gradle plugin to help embed dependencies in generated AAR artifact",
+        "languages": {
+            "Groovy": 22675,
+            "C++": 3954,
+            "Makefile": 344,
+            "Java": 227
+        }
+    },
+    {
+        "name": "repose",
+        "description": "The powerful, programmable, API Middleware Platform",
+        "languages": {
+            "Groovy": 3309492,
+            "Scala": 2700289,
+            "Java": 1722166,
+            "XSLT": 99570,
+            "CSS": 68850,
+            "JavaScript": 44782,
+            "Shell": 26427,
+            "Python": 23255,
+            "Dockerfile": 13807,
+            "Jinja": 10271,
+            "HTML": 8793
+        }
+    },
+    {
+        "name": "android-maven-publish",
+        "description": "Modification of the standard Maven Publish plugin to be compatible with android-library projects (aar).",
+        "languages": {
+            "Groovy": 31747,
+            "Shell": 660
+        }
+    },
+    {
+        "name": "jenkins-bootstrap-shared",
+        "description": "Jenkins as immutable infrastructure made easy.  A repository of shared scripts meant to be used as a git submodule.  Packing Jenkins, plugins, and scripts into immutable packages and images.",
+        "languages": {
+            "Groovy": 148007,
+            "Shell": 88801,
+            "Python": 41502,
+            "Makefile": 2021,
+            "Dockerfile": 580
+        }
+    },
+    {
+        "name": "gradle-ssh-plugin",
+        "description": "Gradle SSH Plugin",
+        "languages": {
+            "Groovy": 17994,
+            "Shell": 429
+        }
+    },
+    {
+        "name": "gradle-templates",
+        "description": "A gradle project templates plugin",
+        "languages": {
+            "Groovy": 113558
+        }
+    },
+    {
+        "name": "fat-aar-plugin",
+        "description": "[DEPRECATED]A gradle plugin that helps to output fat aar from android library",
+        "languages": {
+            "Groovy": 14969,
+            "Java": 12369
+        }
+    },
+    {
+        "name": "gradle-git-properties",
+        "description": "Gradle plugin for `git.properties` file generation",
+        "languages": {
+            "Groovy": 110949,
+            "Java": 1463
+        }
+    },
+    {
+        "name": "okcheck",
+        "description": "Incremental scan\uff0cintegrate Lint\u3001KtLint\u3001UnitTest\u3001Checkstyle\u3001Findbugs\u3001Pmd, powerful and easy to use",
+        "languages": {
+            "Groovy": 80172,
+            "Shell": 55
+        }
+    },
+    {
+        "name": "CodeNarc",
+        "description": "CodeNarc source",
+        "languages": {
+            "Groovy": 3845306,
+            "Java": 151354,
+            "CSS": 4399,
+            "JavaScript": 3236,
+            "Dockerfile": 1668
+        }
+    },
+    {
+        "name": "Gradle-License-Report",
+        "description": "A plugin for generating reports about the licenses of third party software using Gradle",
+        "languages": {
+            "Groovy": 442514
+        }
+    },
+    {
+        "name": "gradle-swagger-generator-plugin",
+        "description": "Gradle plugin for OpenAPI YAML validation, code generation and API document publishing",
+        "languages": {
+            "Groovy": 103471,
+            "HTML": 8826
+        }
+    },
+    {
+        "name": "SmartThings",
+        "description": "Samsung SmartThings SmartApps and Device Handlers",
+        "languages": {
+            "Groovy": 725372
+        }
+    },
+    {
+        "name": "gradle-apt-plugin",
+        "description": "[OBSOLETE] Gradle plugin making it easier/safer to use Java annotation processors",
+        "languages": {
+            "Groovy": 78997,
+            "Java": 74287,
+            "Kotlin": 15917
+        }
+    },
+    {
+        "name": "gradle-dependency-analyze",
+        "description": "Dependency analysis plugin for gradle",
+        "languages": {
+            "Groovy": 96236,
+            "Java": 28927
+        }
+    },
+    {
+        "name": "gradle-launch4j",
+        "description": "A gradle-plugin to create windows executables with launch4j",
+        "languages": {
+            "Groovy": 171419
+        }
+    },
+    {
+        "name": "gradle-dependency-lock-plugin",
+        "description": "A plugin to allow people using dynamic dependency versions to lock them to specific versions.",
+        "languages": {
+            "Groovy": 554341,
+            "Kotlin": 55950
+        }
+    },
+    {
+        "name": "gradle-nexus-plugin",
+        "description": "Gradle plugin for configuring and uploading artifacts to Sonatype Nexus",
+        "languages": {
+            "Groovy": 73590
+        }
+    },
+    {
+        "name": "asciidoctor-gradle-plugin",
+        "description": "A Gradle plugin that uses Asciidoctor via JRuby to process AsciiDoc source files within the project.",
+        "languages": {
+            "Groovy": 740916,
+            "Java": 44970,
+            "Shell": 426,
+            "HTML": 117,
+            "TeX": 107,
+            "JavaScript": 22
+        }
+    },
+    {
+        "name": "pipeline-library",
+        "description": "Collection of custom steps and variables for our Jenkins instance(s)",
+        "languages": {
+            "Groovy": 213067,
+            "HTML": 7839,
+            "Makefile": 5822,
+            "Shell": 3108,
+            "HCL": 1388
+        }
+    },
+    {
+        "name": "craftercms",
+        "description": "Parent project for Crafter CMS. Issue tracking across all repositories and global builds.",
+        "languages": {
+            "Groovy": 76274,
+            "Shell": 59087
+        }
+    },
+    {
+        "name": "ansible-jenkins",
+        "description": "Ansible playbook: Jenkins",
+        "languages": {
+            "Groovy": 418
+        }
+    },
+    {
+        "name": "nexus3-oss",
+        "description": "Ansible role to install and provision sonatype nexus3-oss",
+        "languages": {
+            "Groovy": 45371,
+            "Python": 9975,
+            "Jinja": 4177,
+            "Shell": 1667
+        }
+    },
+    {
+        "name": "jenkins-pipeline-library",
+        "description": "a collection of reusable jenkins pipelines and pipeline functions",
+        "languages": {
+            "Groovy": 89220
+        }
+    },
+    {
+        "name": "NuwaGradle",
+        "description": "gradle plugin wrote for Nuwa",
+        "languages": {
+            "Groovy": 18818
+        }
+    },
+    {
+        "name": "moqui-framework",
+        "description": "Use Moqui Framework to build enterprise applications based on Java. It includes tools for databases (relational, graph, document), local and web services, web and other UI with screens and forms, security, file/resource access, scripts, templates, l10n, caching, logging, search, rules, workflow, multi-instance, and integration.",
+        "languages": {
+            "Groovy": 2247510,
+            "Java": 1294410,
+            "FreeMarker": 25268,
+            "Shell": 7579,
+            "Dockerfile": 2511,
+            "Procfile": 71
+        }
+    },
+    {
+        "name": "spock-reports",
+        "description": "This project creates a global extension to Spock to create test reports.",
+        "languages": {
+            "Groovy": 207539,
+            "HTML": 52574,
+            "CSS": 3983
+        }
+    },
+    {
+        "name": "json-avro-converter",
+        "description": "JSON to Avro conversion tool designed to make migration to Avro easier.",
+        "languages": {
+            "Groovy": 58714,
+            "Java": 55854
+        }
+    },
+    {
+        "name": "gradle-android-git-version",
+        "description": "A gradle plugin to calculate Android-friendly version names and codes from git tags",
+        "languages": {
+            "Groovy": 33370
+        }
+    },
+    {
+        "name": "java-testing-with-spock",
+        "description": "Code samples from the book \"Java testing with Spock\"",
+        "languages": {
+            "Groovy": 138410,
+            "Java": 84520,
+            "CSS": 4648,
+            "FreeMarker": 4436,
+            "HTML": 633
+        }
+    },
+    {
+        "name": "jervis",
+        "description": "Self service Jenkins job generation using Jenkins Job DSL plugin groovy scripts. Reads .jervis.yml and generates a job in Jenkins.",
+        "languages": {
+            "Groovy": 1027461,
+            "Java": 51041,
+            "CSS": 49068,
+            "Shell": 10060,
+            "Dockerfile": 1027
+        }
+    },
+    {
+        "name": "android-check",
+        "description": "Static code analysis plugin for Android project. (Checkstyle, PMD)",
+        "languages": {
+            "Groovy": 32992,
+            "XSLT": 16588,
+            "Java": 1601
+        }
+    },
+    {
+        "name": "Blade",
+        "description": "Android library for boilerplate destruction",
+        "languages": {
+            "Groovy": 273424,
+            "Java": 200102,
+            "Shell": 557
+        }
+    },
+    {
+        "name": "apache-groovy-course",
+        "description": "Apache Groovy Course",
+        "languages": {
+            "Groovy": 62487,
+            "Java": 2922,
+            "HTML": 2668
+        }
+    },
+    {
+        "name": "holidays-calendar",
+        "description": "\u041f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u043a\u0430\u043b\u0435\u043d\u0434\u0430\u0440\u044c json",
+        "languages": {
+            "Groovy": 9037
+        }
+    },
+    {
+        "name": "groovykoans",
+        "description": "A collection of small exercises in the form of unit tests, designed to get Java developers up to speed on Groovy",
+        "languages": {
+            "Groovy": 81448,
+            "Java": 3410
+        }
+    },
+    {
+        "name": "gradle-cargo-plugin",
+        "description": "Gradle plugin that provides deployment capabilities to local and remote containers via Cargo",
+        "languages": {
+            "Groovy": 88227
+        }
+    },
+    {
+        "name": "AucFrameTemplate",
+        "description": "AucFrame",
+        "languages": {
+            "Groovy": 21095,
+            "Java": 14614
+        }
+    },
+    {
+        "name": "SwissKnife",
+        "description": "A multi-purpose library containing view injection and threading for Android using annotations",
+        "languages": {
+            "Groovy": 233445
+        }
+    },
+    {
+        "name": "grails-spring-security-core",
+        "description": "Grails Spring Security Core Plugin",
+        "languages": {
+            "Groovy": 471319,
+            "CSS": 134744,
+            "Shell": 18538,
+            "Batchfile": 9500,
+            "JavaScript": 2524
+        }
+    },
+    {
+        "name": "coveralls-gradle-plugin",
+        "description": "\ud83d\udc68\u200d\ud83d\udd27 gradle plugin for coveralls",
+        "languages": {
+            "Groovy": 81600,
+            "Java": 1590,
+            "Makefile": 70
+        }
+    },
+    {
+        "name": "ComponentCornerstone",
+        "description": ":ant::ant:   \u4e00\u79cd\u5168\u65b0\u7684android\u7ec4\u4ef6\u5316\u65b9\u6848\uff0c\u65e0\u9700\u4e0b\u6c89\u516c\u7528\u4ee3\u7801\uff0c\u65e0\u9700\u91c7\u7528\u8def\u7531\u7b49\u786c\u7f16\u7801\u65b9\u5f0f\u5206\u53d1sdk\uff0c\u72ec\u7acb\u7ef4\u62a4\u7ec4\u4ef6\u66b4\u9732\u7684SDK/IMPL\uff0c\u6253\u7834\u5b98\u65b9\u6a21\u5757\u5faa\u73af\u4e14\u652f\u6301\u7ec4\u4ef6\u95f4\u4e92\u76f8\u8c03\u7528SDK\uff0c\u652f\u6301\u96c6\u6210\u7ec4\u4ef6\u8c03\u8bd5/\u7ec4\u4ef6\u72ec\u7acb\u8fd0\u884c\u3002A brand new android componentization solution, no need to sink public code, no need to use hard coding to distribute sdk, independent maintenance component exposed SDK / IMPL, break the official module loop and support the call between components The SDK supports integrated component debugging/components to run independently.",
+        "languages": {
+            "Groovy": 271792,
+            "Java": 69802,
+            "Kotlin": 14362,
+            "Shell": 441
+        }
+    },
+    {
+        "name": "my-bloody-jenkins",
+        "description": "Self Configured Jenkins Docker image based on Jenkins-LTS",
+        "languages": {
+            "Groovy": 144348,
+            "Shell": 20774,
+            "Python": 7788,
+            "Dockerfile": 4855,
+            "Makefile": 1267
+        }
+    },
+    {
+        "name": "iceScrum",
+        "description": "iceScrum is a web application for using Scrum while keeping the spirit of a collaborative workspace. It also offers virtual boards with post-its for sprint backlog, product backlog and others.",
+        "languages": {
+            "Groovy": 1238861,
+            "JavaScript": 816875,
+            "SCSS": 112771,
+            "CSS": 2549,
+            "Shell": 275
+        }
+    },
+    {
+        "name": "Xiaomi",
+        "description": "my Xiaomi Device Handlers for Smartthings",
+        "languages": {
+            "Groovy": 42910
+        }
+    },
+    {
+        "name": "okky",
+        "description": "okky.kr",
+        "languages": {
+            "Groovy": 988518,
+            "JavaScript": 669688,
+            "CSS": 202247,
+            "Java": 137395,
+            "HTML": 49732,
+            "Batchfile": 5968
+        }
+    },
+    {
+        "name": "orca",
+        "description": "Orchestration engine",
+        "languages": {
+            "Groovy": 3032864,
+            "Java": 3000926,
+            "Kotlin": 1491467,
+            "Slim": 718,
+            "Shell": 459
+        }
+    },
+    {
+        "name": "GPars",
+        "description": "The GPars concurrency and parallelism framework for the JVM",
+        "languages": {
+            "Groovy": 1848584,
+            "Java": 1166196,
+            "HTML": 14403,
+            "Shell": 430
+        }
+    },
+    {
+        "name": "gradle-appengine-plugin",
+        "description": "Gradle plugin that provides tasks for uploading, running and managing Google App Engine projects",
+        "languages": {
+            "Groovy": 217084,
+            "Java": 11737
+        }
+    },
+    {
+        "name": "CheckResourceConflict",
+        "description": "Android \u81ea\u52a8\u68c0\u6d4b\u8d44\u6e90\u51b2\u7a81\u7684gradle \u63d2\u4ef6(An Android Gradle Plugin For Checking Conflict Resources)",
+        "languages": {
+            "Groovy": 16869,
+            "Java": 13627,
+            "HTML": 1065
+        }
+    },
+    {
+        "name": "Gradle-Repo",
+        "description": "\u7edf\u4e00\u7ba1\u7406Git\u591a\u4ed3\u5e93\u53ca\u6a21\u5757\u4f9d\u8d56 / Manage multiple Git repositories and dependencies between modules.",
+        "languages": {
+            "Groovy": 54936
+        }
+    },
+    {
+        "name": "gradle-idea-ext-plugin",
+        "description": "Plugin to store IJ settings in gradle script",
+        "languages": {
+            "Groovy": 133088,
+            "Kotlin": 39532,
+            "Java": 1263
+        }
+    },
+    {
+        "name": "gradle-witness",
+        "description": "A gradle plugin that enables static verification for remote dependencies.",
+        "languages": {
+            "Groovy": 2226
+        }
+    },
+    {
+        "name": "dgate",
+        "description": "an API Gateway based on Vert.x",
+        "languages": {
+            "Groovy": 119993,
+            "Java": 53788
+        }
+    },
+    {
+        "name": "scripts",
+        "description": "Groovy Scripts for FileBot",
+        "languages": {
+            "Groovy": 93855
+        }
+    },
+    {
+        "name": "frontlinesms2",
+        "description": "FrontlineSMS is desktop/cloud based software created to lower barriers to positive social change using mobile technology",
+        "languages": {
+            "Groovy": 1589814,
+            "JavaScript": 221812,
+            "XSLT": 103721,
+            "CSS": 103524,
+            "Shell": 46686,
+            "Java": 42478,
+            "HTML": 28801
+        }
+    },
+    {
+        "name": "RoboAspectJ",
+        "description": "A gradle plugin that enables AOP in android.",
+        "languages": {
+            "Groovy": 14296
+        }
+    },
+    {
+        "name": "CoRE",
+        "description": "CoRE - Community's own Rule Engine",
+        "languages": {
+            "Groovy": 468201,
+            "Roff": 1
+        }
+    },
+    {
+        "name": "bpipe",
+        "description": "Bpipe - a tool for running and managing bioinformatics pipelines",
+        "languages": {
+            "Groovy": 1486687,
+            "Shell": 159073,
+            "HTML": 58780,
+            "Java": 42334,
+            "Roff": 3
+        }
+    },
+    {
+        "name": "grooscript",
+        "description": "Converts your Groovy code to Javascript",
+        "languages": {
+            "Groovy": 531638,
+            "JavaScript": 110661,
+            "Java": 10839
+        }
+    },
+    {
+        "name": "gaelyk",
+        "description": "A lightweight Groovy toolkit for Google App Engine Java",
+        "languages": {
+            "Groovy": 636235,
+            "Java": 187804,
+            "HTML": 36188,
+            "CSS": 17281,
+            "JavaScript": 15904
+        }
+    },
+    {
+        "name": "MicroModule",
+        "description": "Rebuild multiple complete module structures within the module.",
+        "languages": {
+            "Groovy": 62269,
+            "Java": 14439,
+            "Kotlin": 935
+        }
+    },
+    {
+        "name": "p2rank",
+        "description": "P2Rank: Protein-ligand binding site prediction tool based on machine learning. Stand-alone command line program / Java library for predicting ligand binding pockets from protein structure.",
+        "languages": {
+            "Groovy": 1018514,
+            "Java": 122472,
+            "Shell": 45991,
+            "Tcl": 15448,
+            "Promela": 13249,
+            "Python": 1912,
+            "Batchfile": 419
+        }
+    },
+    {
+        "name": "gradle-one-jar",
+        "description": "The gradle-one-jar project is a Gradle plugin that uses One-JAR, a specialised Class-Loader written by Simon Tuffs (http://one-jar.sourceforge.net/), for building self-contained executable jars that include all dependencies.",
+        "languages": {
+            "Groovy": 12897,
+            "Shell": 7484
+        }
+    },
+    {
+        "name": "nebula-release-plugin",
+        "description": "Release opinions based around gradle-git",
+        "languages": {
+            "Groovy": 261975,
+            "Java": 2309
+        }
+    },
+    {
+        "name": "grails-data-mapping",
+        "description": "GORM - Groovy Object Mapping",
+        "languages": {
+            "Groovy": 1919908,
+            "Java": 1441993,
+            "Ruby": 73
+        }
+    },
+    {
+        "name": "platform",
+        "description": "The lean and modular platform for modern applications",
+        "languages": {
+            "Groovy": 49962,
+            "XSLT": 32842,
+            "CSS": 5636
+        }
+    },
+    {
+        "name": "jenkins-pipeline-library",
+        "description": "wcm.io Jenkins Pipeline Library for CI/CD",
+        "languages": {
+            "Groovy": 838498,
+            "Shell": 2924
+        }
+    },
+    {
+        "name": "jenkinsfile-examples",
+        "description": "Executable examples of Jenkinsfiles.",
+        "languages": {
+            "Groovy": 12856,
+            "Dockerfile": 709
+        }
+    },
+    {
+        "name": "lock-manager",
+        "description": "Lock Manager",
+        "languages": {
+            "Groovy": 324484,
+            "JavaScript": 585
+        }
+    },
+    {
+        "name": "mi_connector",
+        "description": "Connector for Xiaomi Devices with Smartthings, Hubitat",
+        "languages": {
+            "Groovy": 969638
+        }
+    },
+    {
+        "name": "test-retry-gradle-plugin",
+        "description": "Gradle plugin to retry tests that have failed to mitigate test flakiness.",
+        "languages": {
+            "Groovy": 183166,
+            "Java": 123203,
+            "Kotlin": 952
+        }
+    },
+    {
+        "name": "gradle-pitest-plugin",
+        "description": "Gradle plugin for PIT Mutation Testing",
+        "languages": {
+            "Groovy": 146437,
+            "Shell": 10234,
+            "Java": 4405,
+            "Kotlin": 489
+        }
+    },
+    {
+        "name": "android-native-dependencies",
+        "description": "Gradle plugin for resolving and downloading Android native dependencies (.so)",
+        "languages": {
+            "Groovy": 26748,
+            "Java": 1286
+        }
+    },
+    {
+        "name": "grails-spring-security-rest",
+        "description": "Grails plugin to implement token-based, RESTful authentication using Spring Security",
+        "languages": {
+            "Groovy": 311496,
+            "Shell": 3435
+        }
+    },
+    {
+        "name": "micro-infra-spring",
+        "description": "Repository containing default microservice infrastructure set up using Spring configuration",
+        "languages": {
+            "Groovy": 621827,
+            "Java": 292282,
+            "Ruby": 1361,
+            "Shell": 980,
+            "HTML": 659
+        }
+    },
+    {
+        "name": "groovyfx",
+        "description": "A library for writing JavaFX 8 applications in the Groovy language.",
+        "languages": {
+            "Groovy": 572177,
+            "Java": 88733,
+            "CSS": 35479
+        }
+    },
+    {
+        "name": "grails-doc",
+        "description": "Documentation Project For The Grails Web Application Framework",
+        "languages": {
+            "Groovy": 25677,
+            "HTML": 292,
+            "CSS": 142,
+            "Shell": 69
+        }
+    },
+    {
+        "name": "geb-example-gradle",
+        "description": "An example project for using Geb in a Gradle build (Spock and JUnit 4)",
+        "languages": {
+            "Groovy": 2396,
+            "Shell": 396
+        }
+    },
+    {
+        "name": "wolox-ci",
+        "description": null,
+        "languages": {
+            "Groovy": 12190
+        }
+    },
+    {
+        "name": "versioning",
+        "description": "Gradle plug-in to generate version information from the SCM branch (Git or Svn)",
+        "languages": {
+            "Groovy": 313651
+        }
+    },
+    {
+        "name": "smartthings",
+        "description": "My SmartThings Projects",
+        "languages": {
+            "Groovy": 126075
+        }
+    },
+    {
+        "name": "GroovyInAction",
+        "description": "Source code of the book Groovy in Action, 2nd edition",
+        "languages": {
+            "Groovy": 302818,
+            "HTML": 32368,
+            "CSS": 9035,
+            "Java": 6556,
+            "JavaScript": 6488
+        }
+    },
+    {
+        "name": "tradukisto",
+        "description": "A Java i18n library created to convert numbers to their word representations.",
+        "languages": {
+            "Groovy": 184440,
+            "Java": 184319
+        }
+    },
+    {
+        "name": "jenkins-build-per-branch",
+        "description": null,
+        "languages": {
+            "Groovy": 38462
+        }
+    },
+    {
+        "name": "AppInit",
+        "description": "AppInit \u662f\u4e00\u6b3e Android \u5e94\u7528\u521d\u59cb\u5316\u6846\u67b6\uff0c\u57fa\u4e8e\u7ec4\u4ef6\u5316\u7684\u8bbe\u8ba1\u601d\u8def\uff0c\u529f\u80fd\u7075\u6d3b\uff0c\u4f7f\u7528\u7b80\u5355\u3002",
+        "languages": {
+            "Groovy": 54406,
+            "Java": 51615,
+            "Shell": 925,
+            "Kotlin": 478
+        }
+    },
+    {
+        "name": "Gank4Android",
+        "description": "Deprecated  \u4f7f\u7528Groovy\u5f00\u53d1\u7684Gank.IO\u7684Android\u5ba2\u6237\u7aef",
+        "languages": {
+            "Groovy": 124776,
+            "Java": 56574
+        }
+    },
+    {
+        "name": "gradle-properties-plugin",
+        "description": "Gradle plugin to simplify loading project properties from external environment specific files",
+        "languages": {
+            "Groovy": 192084,
+            "Java": 4787
+        }
+    },
+    {
+        "name": "jenkins-pipeline-scripts",
+        "description": null,
+        "languages": {
+            "Groovy": 22957
+        }
+    },
+    {
+        "name": "muwire",
+        "description": "MuWire file sharing client for I2P",
+        "languages": {
+            "Groovy": 1827927,
+            "Java": 466292,
+            "JavaScript": 144216,
+            "CSS": 31887,
+            "Shell": 5123,
+            "Dockerfile": 1825,
+            "Python": 671
+        }
+    },
+    {
+        "name": "fabric8-jenkinsfile-library",
+        "description": "This repository contains a library of reusable Jenkinsfiles that you can use on your projects. Its reused by the fabric8 console to associate Jenkinsfiles to projects",
+        "languages": {
+            "Groovy": 17950
+        }
+    },
+    {
+        "name": "Supersymmetry",
+        "description": "Repository for the Supersymmetry Minecraft Modpack",
+        "languages": {
+            "Groovy": 2191664,
+            "Python": 24082,
+            "ZenScript": 19448,
+            "Batchfile": 557,
+            "Shell": 272
+        }
+    },
+    {
+        "name": "module-dependency-graph",
+        "description": "This plugin adds a new task (graphModules) to your project which will create an image with the graph of your module dependency tree",
+        "languages": {
+            "Groovy": 6371
+        }
+    },
+    {
+        "name": "jenkins-spock",
+        "description": "Unit-test Jenkins pipeline code with Spock",
+        "languages": {
+            "Groovy": 95049,
+            "Java": 17778
+        }
     }
 ]

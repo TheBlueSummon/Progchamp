@@ -48,11 +48,1792 @@
         "name": "matrix-docker-ansible-deploy",
         "description": "\ud83d\udc33 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker",
         "languages": {
-            "Jinja": 858766,
+            "Jinja": 858774,
             "Shell": 2632,
             "Just": 2544,
             "Nix": 575,
             "Makefile": 334
+        }
+    },
+    {
+        "name": "internet-pi",
+        "description": "Raspberry Pi config for all things Internet.",
+        "languages": {
+            "Jinja": 20741
+        }
+    },
+    {
+        "name": "ansible-collection-hardening",
+        "description": "This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL",
+        "languages": {
+            "Jinja": 44723
+        }
+    },
+    {
+        "name": "ansible-nas",
+        "description": "Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.",
+        "languages": {
+            "Jinja": 16552,
+            "JavaScript": 7407,
+            "Shell": 1989,
+            "CSS": 1545,
+            "HCL": 560
+        }
+    },
+    {
+        "name": "trellis",
+        "description": "WordPress LEMP stack with PHP 8.1, Composer, WP-CLI and more",
+        "languages": {
+            "Jinja": 45332,
+            "Python": 11160,
+            "Ruby": 5774
+        }
+    },
+    {
+        "name": "k3s-ansible",
+        "description": "The easiest way to bootstrap a self-hosted High Availability Kubernetes cluster.  A fully automated HA k3s etcd install with kube-vip, MetalLB, and more.  Build. Destroy. Repeat.",
+        "languages": {
+            "Jinja": 8014,
+            "Shell": 120
+        }
+    },
+    {
+        "name": "attack_range",
+        "description": "A tool that allows you to create vulnerable instrumented local or cloud environments to simulate attacks against and collect the data into Splunk ",
+        "languages": {
+            "Jinja": 949027,
+            "Python": 128805,
+            "HCL": 84177,
+            "PowerShell": 34743,
+            "Dockerfile": 994,
+            "Shell": 603,
+            "PureBasic": 577
+        }
+    },
+    {
+        "name": "workshops",
+        "description": "Training Course for Ansible Automation Platform",
+        "languages": {
+            "Jinja": 176143,
+            "Python": 65418,
+            "HTML": 22529,
+            "YAML": 16617,
+            "CSS": 14380,
+            "Shell": 8635,
+            "HCL": 6573,
+            "SCSS": 4207,
+            "Inno Setup": 1817,
+            "Makefile": 1566,
+            "Dockerfile": 624
+        }
+    },
+    {
+        "name": "selfhost",
+        "description": "Selfhost your Forem Community on your own infrastructure \ud83c\udf89",
+        "languages": {
+            "Jinja": 36891,
+            "Shell": 2068
+        }
+    },
+    {
+        "name": "diveintoansible",
+        "description": "Content for DiveInto.com's 'Dive Into Ansible' Course",
+        "languages": {
+            "Jinja": 2590810,
+            "Python": 262136,
+            "Shell": 6584
+        }
+    },
+    {
+        "name": "drupal-vm",
+        "description": "A VM for Drupal development",
+        "languages": {
+            "Jinja": 76262,
+            "Shell": 24286,
+            "PHP": 4568,
+            "Ruby": 4102,
+            "Makefile": 1057,
+            "Python": 939,
+            "Dockerfile": 670
+        }
+    },
+    {
+        "name": "ansible-django-stack",
+        "description": "Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.",
+        "languages": {
+            "Jinja": 8549,
+            "Shell": 1972,
+            "Dockerfile": 1066,
+            "HTML": 716,
+            "Python": 313
+        }
+    },
+    {
+        "name": "postgresql_cluster",
+        "description": "PostgreSQL High-Availability Cluster (based on \"Patroni\" and DCS \"etcd\" or \"consul\"). Automating with Ansible.",
+        "languages": {
+            "Jinja": 85044,
+            "Python": 31981,
+            "Shell": 12422,
+            "Makefile": 10613,
+            "Dockerfile": 2322,
+            "Roff": 1060
+        }
+    },
+    {
+        "name": "kubez-ansible",
+        "description": "To provide quick deployment tools for kubernetes cluster and cloud native application by ansible",
+        "languages": {
+            "Jinja": 1030461,
+            "Python": 44548,
+            "Shell": 18635,
+            "Dockerfile": 318,
+            "Makefile": 274
+        }
+    },
+    {
+        "name": "saythanks.io",
+        "description": "Spreading Thankfulness in Open Source. ",
+        "languages": {
+            "Jinja": 23835,
+            "Python": 21633,
+            "JavaScript": 5332,
+            "CSS": 3648,
+            "HTML": 2290,
+            "Dockerfile": 455,
+            "Makefile": 195,
+            "Procfile": 45
+        }
+    },
+    {
+        "name": "datalens",
+        "description": "A modern, scalable analytics system",
+        "languages": {
+            "Jinja": 3600
+        }
+    },
+    {
+        "name": "debops",
+        "description": "DebOps - Your Debian-based data center in a box",
+        "languages": {
+            "Jinja": 1403260,
+            "Python": 591163,
+            "Shell": 513533,
+            "Perl": 34770,
+            "Erlang": 12074,
+            "Makefile": 7376,
+            "PHP": 5611,
+            "Dockerfile": 2773,
+            "HTML": 1402
+        }
+    },
+    {
+        "name": "awx-operator",
+        "description": "An Ansible AWX operator for Kubernetes built with Operator SDK and Ansible. \ud83e\udd16",
+        "languages": {
+            "Jinja": 96091,
+            "Makefile": 18311,
+            "Smarty": 9067,
+            "Shell": 4757,
+            "Python": 1136,
+            "Dockerfile": 685
+        }
+    },
+    {
+        "name": "repository",
+        "description": "Home Assistant Community Add-ons",
+        "languages": {
+            "Jinja": 5835,
+            "Shell": 1256
+        }
+    },
+    {
+        "name": "ansible-prometheus",
+        "description": "Deploy Prometheus monitoring system",
+        "languages": {
+            "Jinja": 3890,
+            "Python": 3880,
+            "Shell": 684
+        }
+    },
+    {
+        "name": "ansible-role-mysql",
+        "description": "Ansible Role - MySQL",
+        "languages": {
+            "Jinja": 4124
+        }
+    },
+    {
+        "name": "breeze",
+        "description": "Deploy a Production Ready Kubernetes Cluster with graphical interface",
+        "languages": {
+            "Jinja": 209562,
+            "Shell": 71074,
+            "Python": 6651,
+            "Dockerfile": 591
+        }
+    },
+    {
+        "name": "deploymentmanager-samples",
+        "description": "Deployment Manager samples and templates.",
+        "languages": {
+            "Jinja": 144659,
+            "Python": 142827,
+            "JavaScript": 77413,
+            "Shell": 59762,
+            "HCL": 3640
+        }
+    },
+    {
+        "name": "iiab",
+        "description": "Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !",
+        "languages": {
+            "Jinja": 357548,
+            "Shell": 259171,
+            "JavaScript": 102924,
+            "Python": 72762,
+            "Erlang": 22394,
+            "HTML": 8671,
+            "CSS": 7012,
+            "PHP": 2022
+        }
+    },
+    {
+        "name": "postgresql",
+        "description": "Fairly full featured Ansible role for Postgresql.",
+        "languages": {
+            "Jinja": 293277,
+            "Shell": 701
+        }
+    },
+    {
+        "name": "configuration",
+        "description": "A collection of edx configuration scripts and utilities that edx.org uses to deploy openedx.",
+        "languages": {
+            "Jinja": 469976,
+            "Python": 445889,
+            "Shell": 170871,
+            "Dockerfile": 51787,
+            "Groovy": 6980,
+            "Makefile": 6831,
+            "Vim Script": 1123,
+            "C": 1034,
+            "SCSS": 396,
+            "JavaScript": 42
+        }
+    },
+    {
+        "name": "ansible-role-nginx",
+        "description": "Ansible Role - Nginx",
+        "languages": {
+            "Jinja": 3431
+        }
+    },
+    {
+        "name": "ansible-role-security",
+        "description": "Ansible Role - Security",
+        "languages": {
+            "Jinja": 1039
+        }
+    },
+    {
+        "name": "kubeadm-ansible",
+        "description": "Build a Kubernetes cluster using kubeadm via Ansible.",
+        "languages": {
+            "Jinja": 221493,
+            "Shell": 1433
+        }
+    },
+    {
+        "name": "infra",
+        "description": "99.8% less leaked credentials",
+        "languages": {
+            "Jinja": 16514,
+            "HCL": 9383,
+            "Nix": 2435,
+            "Makefile": 1897,
+            "Shell": 1611,
+            "Just": 746,
+            "Python": 428
+        }
+    },
+    {
+        "name": "ansible-role-gitlab",
+        "description": "Ansible Role - GitLab",
+        "languages": {
+            "Jinja": 4983
+        }
+    },
+    {
+        "name": "twrpdtgen",
+        "description": "A Python library/script to automatically generate TWRP-compatible device tree from a boot/recovery image",
+        "languages": {
+            "Jinja": 8979,
+            "Python": 8781,
+            "Shell": 2114
+        }
+    },
+    {
+        "name": "ansible-hardening",
+        "description": "Ansible role for security hardening. Mirror of code maintained at opendev.org.",
+        "languages": {
+            "Jinja": 10988,
+            "Python": 10150,
+            "Shell": 3534
+        }
+    },
+    {
+        "name": "ansible-role-nginx",
+        "description": "Ansible role to install and manage nginx configuration",
+        "languages": {
+            "Jinja": 3153
+        }
+    },
+    {
+        "name": "kolla-ansible",
+        "description": "Ansible deployment of the Kolla containers. Mirror of code maintained at opendev.org.",
+        "languages": {
+            "Jinja": 555818,
+            "Python": 433897,
+            "Shell": 180633,
+            "Ruby": 2515
+        }
+    },
+    {
+        "name": "retronas",
+        "description": "Use a Raspberry Pi, old computer or VM as network storage for different retro computers and consoles",
+        "languages": {
+            "Jinja": 107746,
+            "Shell": 106933,
+            "Python": 11971,
+            "HTML": 418
+        }
+    },
+    {
+        "name": "poor-mans-vpn",
+        "description": "An ansible playbook to set up wireguard server.",
+        "languages": {
+            "Jinja": 359
+        }
+    },
+    {
+        "name": "novatorem",
+        "description": "Dynamic realtime profile ReadMe linked with spotify",
+        "languages": {
+            "Jinja": 16946,
+            "Python": 16324,
+            "Dockerfile": 242,
+            "Procfile": 42
+        }
+    },
+    {
+        "name": "ansible-role-k3s",
+        "description": "Ansible role for installing k3s as either a standalone server or HA cluster.",
+        "languages": {
+            "Jinja": 9126,
+            "Shell": 1359,
+            "Dockerfile": 1129,
+            "Python": 626
+        }
+    },
+    {
+        "name": "Fast-Ansible",
+        "description": "This repo covers Ansible with LABs: Multipass, Commands, Modules, Playbooks, Tags, Managing Files and Servers, Users, Roles, Handlers, Host Variables, Templates and details.",
+        "languages": {
+            "Jinja": 3439,
+            "HTML": 230
+        }
+    },
+    {
+        "name": "kubeadm-ha",
+        "description": "kubeadm-ha \u4f7f\u7528 kubeadm \u8fdb\u884c\u9ad8\u53ef\u7528 kubernetes \u96c6\u7fa4\u642d\u5efa\uff0c\u5229\u7528 ansible-playbook \u5b9e\u73b0\u81ea\u52a8\u5316\u5b89\u88c5\uff0c\u65e2\u63d0\u4f9b\u4e00\u952e\u5b89\u88c5\u811a\u672c\uff0c\u4e5f\u53ef\u4ee5\u6839\u636e playbook \u5206\u6b65\u6267\u884c\u5b89\u88c5\u5404\u4e2a\u7ec4\u4ef6\u3002",
+        "languages": {
+            "Jinja": 1083345,
+            "Ruby": 34711,
+            "Shell": 11896,
+            "Dockerfile": 843
+        }
+    },
+    {
+        "name": "lovelace-ios-themes",
+        "description": "\u2764\ufe0f\ud83d\udcf1\ud83c\udfe0\ud83e\udd16 Themes inspired by iOS Dark \u2b1b\ufe0f and Light \u25fb\ufe0f Mode for Lovelace Home Assistant with different backgrounds",
+        "languages": {
+            "Jinja": 5228,
+            "Python": 2619
+        }
+    },
+    {
+        "name": "Saltbox",
+        "description": "Ansible-based solution for rapidly deploying a Docker containerized cloud media server.",
+        "languages": {
+            "Jinja": 67188,
+            "Python": 42234,
+            "Shell": 24527
+        }
+    },
+    {
+        "name": "ansible-role-postgresql",
+        "description": "Ansible Role - PostgreSQL",
+        "languages": {
+            "Jinja": 582
+        }
+    },
+    {
+        "name": "ansible-role-wireguard",
+        "description": "Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS.",
+        "languages": {
+            "Jinja": 4208
+        }
+    },
+    {
+        "name": "ansible-role-kubernetes",
+        "description": "Ansible Role - Kubernetes",
+        "languages": {
+            "Jinja": 901
+        }
+    },
+    {
+        "name": "ks-installer",
+        "description": "Install KubeSphere on existing Kubernetes cluster",
+        "languages": {
+            "Jinja": 221818,
+            "Shell": 38358,
+            "Python": 34262,
+            "Mustache": 30299,
+            "Smarty": 1579,
+            "Dockerfile": 358,
+            "Makefile": 294
+        }
+    },
+    {
+        "name": "ansible-grafana",
+        "description": "Platform for analytics and monitoring",
+        "languages": {
+            "Jinja": 6353,
+            "Python": 2517
+        }
+    },
+    {
+        "name": "ansible-role-hardening",
+        "description": "Ansible role to apply a security baseline. Systemd edition.",
+        "languages": {
+            "Jinja": 39947,
+            "Shell": 14113,
+            "Dockerfile": 1023
+        }
+    },
+    {
+        "name": "ansible-role-php",
+        "description": "Ansible Role - PHP",
+        "languages": {
+            "Jinja": 6526,
+            "Shell": 4463
+        }
+    },
+    {
+        "name": "raspberry-noaa-v2",
+        "description": "V2 of the fantastic Raspberry Pi NOAA setup",
+        "languages": {
+            "Jinja": 159526,
+            "Shell": 106166,
+            "PHP": 52149,
+            "Python": 46146,
+            "HTML": 43085,
+            "CSS": 2507,
+            "JavaScript": 1485
+        }
+    },
+    {
+        "name": "cp-ansible",
+        "description": "Ansible playbooks for the Confluent Platform",
+        "languages": {
+            "Jinja": 80521,
+            "Python": 38879,
+            "Shell": 8335
+        }
+    },
+    {
+        "name": "roots-example-project.com",
+        "description": "Example Roots stack project (Trellis, Bedrock, Sage)",
+        "languages": {
+            "Jinja": 33016,
+            "PHP": 30173,
+            "Python": 19008,
+            "JavaScript": 17682,
+            "Blade": 5852,
+            "Ruby": 5395,
+            "Shell": 2756,
+            "SCSS": 2486,
+            "CSS": 346
+        }
+    },
+    {
+        "name": "rock",
+        "description": "Automated deployment scripts for the RockNSM network hunting distribution.",
+        "languages": {
+            "Jinja": 49471,
+            "Shell": 39920,
+            "Python": 35314
+        }
+    },
+    {
+        "name": "flask-blueprint-tutorial",
+        "description": ":blue_book: :package: Structure your Flask apps in a scalable and intelligent way using Blueprints.",
+        "languages": {
+            "Jinja": 7450,
+            "Python": 6945,
+            "Less": 6554,
+            "Makefile": 2552
+        }
+    },
+    {
+        "name": "ansible-consul",
+        "description": ":satellite: Ansible role for Hashicorp Consul clusters",
+        "languages": {
+            "Jinja": 28741,
+            "Shell": 6931,
+            "Dockerfile": 845
+        }
+    },
+    {
+        "name": "debops-wordpress",
+        "description": "Your superpowered WordPress server in three commands.",
+        "languages": {
+            "Jinja": 17354,
+            "Shell": 1134
+        }
+    },
+    {
+        "name": "nextcloud",
+        "description": "Ansible playbook to install nextcloud, php, nginx or apache, mariadb or postgres, redis-server, onlyoffice or collabora office",
+        "languages": {
+            "Jinja": 13273,
+            "Shell": 5619
+        }
+    },
+    {
+        "name": "ansible-role-apache",
+        "description": "Ansible Role - Apache 2.x.",
+        "languages": {
+            "Jinja": 2478
+        }
+    },
+    {
+        "name": "ansible-role-nodejs",
+        "description": "Ansible Role - Node.js",
+        "languages": {
+            "Jinja": 164
+        }
+    },
+    {
+        "name": "ansible-hms-docker",
+        "description": "Ansible playbook for automated home media server setup",
+        "languages": {
+            "Jinja": 64178,
+            "Python": 17095,
+            "Makefile": 2118
+        }
+    },
+    {
+        "name": "infrastructure",
+        "description": "The infrastructure monorepo for the Rocky Linux project. This project will be archived/deprecated in the future.",
+        "languages": {
+            "Jinja": 31859,
+            "Ruby": 5497,
+            "Python": 1903,
+            "Shell": 1788
+        }
+    },
+    {
+        "name": "spark",
+        "description": "Arch Linux Provisioning with Ansible",
+        "languages": {
+            "Jinja": 21550,
+            "Shell": 7459
+        }
+    },
+    {
+        "name": "agnosticd",
+        "description": "AgnosticD - Ansible Deployer for multiple Cloud Deployers",
+        "languages": {
+            "Jinja": 6608165,
+            "Shell": 357024,
+            "Python": 151285,
+            "HTML": 60131,
+            "Dockerfile": 41227,
+            "Makefile": 26367,
+            "Groovy": 12642,
+            "Go": 2184,
+            "CSS": 1919,
+            "Smarty": 882,
+            "JavaScript": 276,
+            "Vim Script": 138
+        }
+    },
+    {
+        "name": "addon-adguard-home",
+        "description": "AdGuard Home - Home Assistant Community Add-ons",
+        "languages": {
+            "Jinja": 2898,
+            "Dockerfile": 2088,
+            "Groovy": 1416
+        }
+    },
+    {
+        "name": "there-are-stars",
+        "description": "A self-generating story that gets longer the more stars it gets",
+        "languages": {
+            "Jinja": 5996,
+            "Python": 3133
+        }
+    },
+    {
+        "name": "turing-pi-cluster",
+        "description": "DEPRECATED - Turing Pi cluster configuration for Raspberry Pi Compute Modules",
+        "languages": {
+            "Jinja": 1642
+        }
+    },
+    {
+        "name": "ansible-vault",
+        "description": ":key: Ansible role for Hashicorp Vault",
+        "languages": {
+            "Jinja": 21162,
+            "Shell": 7107,
+            "Makefile": 256
+        }
+    },
+    {
+        "name": "ansible-elk",
+        "description": ":bar_chart: Ansible playbook for setting up an ELK/EFK stack and clients.",
+        "languages": {
+            "Jinja": 62107,
+            "Shell": 2812
+        }
+    },
+    {
+        "name": "ocp4-helpernode",
+        "description": "This playbook helps set up an \"all-in-one\" node, that has all the infrastructure/services in order to install OpenShift 4. ",
+        "languages": {
+            "Jinja": 26685,
+            "Shell": 9894
+        }
+    },
+    {
+        "name": "ansible-oracle",
+        "description": "Oracle related stuff. Installs RAC/RAC One Node/Single Instance",
+        "languages": {
+            "Jinja": 817745,
+            "Python": 488378,
+            "Shell": 121780,
+            "Dockerfile": 1114
+        }
+    },
+    {
+        "name": "ansible-role-zsh",
+        "description": "Setup antigen with oh-my-zsh, powerlevel10k theme, fzf, autosuggestions, syntax-highlighting",
+        "languages": {
+            "Jinja": 8198,
+            "Shell": 1390,
+            "Python": 476
+        }
+    },
+    {
+        "name": "addon-ssh",
+        "description": "Advanced SSH & Web Terminal - Home Assistant Community Add-ons",
+        "languages": {
+            "Jinja": 5771,
+            "Dockerfile": 5199,
+            "Shell": 4506
+        }
+    },
+    {
+        "name": "ansible-role-ntp",
+        "description": "Ansible Role - NTP",
+        "languages": {
+            "Jinja": 3843
+        }
+    },
+    {
+        "name": "ansible-role-java",
+        "description": "Ansible Role - Java",
+        "languages": {
+            "Jinja": 33
+        }
+    },
+    {
+        "name": "minifabric",
+        "description": "Do fabric network the right and easy way.",
+        "languages": {
+            "Jinja": 78682,
+            "Go": 44951,
+            "Shell": 35359,
+            "Python": 14647,
+            "JavaScript": 6486,
+            "Java": 5447,
+            "Dockerfile": 963,
+            "jq": 411
+        }
+    },
+    {
+        "name": "warhorse",
+        "description": "Infrastructure Automation",
+        "languages": {
+            "Jinja": 144909,
+            "Shell": 2276
+        }
+    },
+    {
+        "name": "addon-aircast",
+        "description": "AirCast - Home Assistant Community Add-ons",
+        "languages": {
+            "Jinja": 2856,
+            "Dockerfile": 2200
+        }
+    },
+    {
+        "name": "kvm-vmi",
+        "description": "KVM-based Virtual Machine Introspection",
+        "languages": {
+            "Jinja": 3101,
+            "Batchfile": 1625,
+            "PowerShell": 1238,
+            "VBScript": 552,
+            "Makefile": 314
+        }
+    },
+    {
+        "name": "xsrv",
+        "description": "[mirror] Install and manage self-hosted services/applications, on your own server(s) - ansible collection and utilities",
+        "languages": {
+            "Jinja": 560713,
+            "Shell": 50930,
+            "Makefile": 13862,
+            "CSS": 4591,
+            "HTML": 3387,
+            "Dockerfile": 76
+        }
+    },
+    {
+        "name": "ansible-datadog",
+        "description": "Ansible role for Datadog Agent",
+        "languages": {
+            "Jinja": 6329,
+            "Shell": 1911
+        }
+    },
+    {
+        "name": "OctoPrint-Dashboard",
+        "description": "A dashboard for Octoprint",
+        "languages": {
+            "Jinja": 89419,
+            "JavaScript": 62918,
+            "Python": 49272,
+            "CSS": 14893,
+            "Less": 67
+        }
+    },
+    {
+        "name": "ansible-nomad",
+        "description": ":watch: Ansible role for Nomad",
+        "languages": {
+            "Jinja": 14467,
+            "Shell": 5163
+        }
+    },
+    {
+        "name": "Stouts.openvpn",
+        "description": "Ansible role to install and configure OpenVPN server",
+        "languages": {
+            "Jinja": 13257,
+            "Shell": 1153,
+            "Makefile": 315,
+            "Python": 313
+        }
+    },
+    {
+        "name": "benchmark-operator",
+        "description": "The Chuck Norris of cloud benchmarks",
+        "languages": {
+            "Jinja": 222520,
+            "Shell": 62493,
+            "Python": 51078,
+            "Makefile": 8968,
+            "Smarty": 1892,
+            "Dockerfile": 711
+        }
+    },
+    {
+        "name": "Community",
+        "description": "Cloudbox Community Project",
+        "languages": {
+            "Jinja": 15026,
+            "Python": 13525,
+            "Shell": 3008
+        }
+    },
+    {
+        "name": "ansible-role-unattended-upgrades",
+        "description": "[DEPRECATED] Setup unattended-upgrades on Debian-based systems",
+        "languages": {
+            "Jinja": 5530,
+            "Shell": 513
+        }
+    },
+    {
+        "name": "automate-with-ansible",
+        "description": "\u300a\u73fe\u4ee3 IT \u4eba\u4e00\u5b9a\u8981\u77e5\u9053\u7684 Ansible \u81ea\u52d5\u5316\u7d44\u614b\u6280\u5de7\u300b",
+        "languages": {
+            "Jinja": 141965,
+            "Shell": 2134,
+            "Makefile": 1798
+        }
+    },
+    {
+        "name": "selfhosted",
+        "description": "Ansible framework for self-hosted infrastructure, based on Rocky Linux and FreeIPA",
+        "languages": {
+            "Jinja": 193461,
+            "Shell": 19587,
+            "Perl": 16757,
+            "HTML": 2112,
+            "Roff": 1674,
+            "Python": 880,
+            "Sieve": 574
+        }
+    },
+    {
+        "name": "addon-motioneye",
+        "description": "motionEye - Home Assistant Community Add-ons",
+        "languages": {
+            "Jinja": 3320,
+            "Dockerfile": 3102,
+            "Groovy": 764
+        }
+    },
+    {
+        "name": "ansible-role-rke2",
+        "description": "Ansible Role to install RKE2 Kubernetes.",
+        "languages": {
+            "Jinja": 10488,
+            "Shell": 1068
+        }
+    },
+    {
+        "name": "ansible-role-bind",
+        "description": "Sets up ISC BIND as an authoritative DNS server on several Linux distros & FreeBSD",
+        "languages": {
+            "Jinja": 23211
+        }
+    },
+    {
+        "name": "wazuh-ansible",
+        "description": "Wazuh - Ansible playbook",
+        "languages": {
+            "Jinja": 69654,
+            "Shell": 2745,
+            "Python": 2726
+        }
+    },
+    {
+        "name": "lemmy-ansible",
+        "description": "A docker deploy for ansible",
+        "languages": {
+            "Jinja": 1785
+        }
+    },
+    {
+        "name": "addon-unifi",
+        "description": "UniFi Network Application - Home Assistant Community Add-ons",
+        "languages": {
+            "Jinja": 2968,
+            "Dockerfile": 2089
+        }
+    },
+    {
+        "name": "ansible-role-openvpn",
+        "description": "Ansible Playbook for OpenVPN on CentOS/Fedora/RHEL clones",
+        "languages": {
+            "Jinja": 7706,
+            "Shell": 1497,
+            "Dockerfile": 63
+        }
+    },
+    {
+        "name": "ansible-role-redis",
+        "description": "Ansible Role - Redis",
+        "languages": {
+            "Jinja": 1283
+        }
+    },
+    {
+        "name": "addon-home-panel",
+        "description": "Home Panel - Home Assistant Community Add-ons",
+        "languages": {
+            "Jinja": 3134,
+            "Dockerfile": 1939,
+            "Shell": 1502,
+            "Groovy": 465
+        }
+    },
+    {
+        "name": "ansible-role-nfs",
+        "description": "Ansible Role - NFS",
+        "languages": {
+            "Jinja": 447
+        }
+    },
+    {
+        "name": "addon-tasmoadmin",
+        "description": "TasmoAdmin - Home Assistant Community Add-ons",
+        "languages": {
+            "Jinja": 2958,
+            "Dockerfile": 2879
+        }
+    },
+    {
+        "name": "ansible-role-ubuntu_autoinstall",
+        "description": "An Ansible role for generating a custom Ubuntu Server 20.04 ISO for (semi-)automated provisioning",
+        "languages": {
+            "Jinja": 1207
+        }
+    },
+    {
+        "name": "build_a_phish",
+        "description": "Ansible playbook to deploy a phishing engagement in the cloud.",
+        "languages": {
+            "Jinja": 14474,
+            "Shell": 8791,
+            "HCL": 7770,
+            "Makefile": 1177,
+            "Python": 789
+        }
+    },
+    {
+        "name": "Ubuntu1804-CIS",
+        "description": "Ubuntu CIS Hardening Ansible Role",
+        "languages": {
+            "Jinja": 9993,
+            "Makefile": 1007,
+            "Python": 313
+        }
+    },
+    {
+        "name": "graylog-ansible-role",
+        "description": "Ansible role which installs and configures Graylog",
+        "languages": {
+            "Jinja": 38568,
+            "Python": 10245,
+            "Groovy": 1445
+        }
+    },
+    {
+        "name": "infra-ansible",
+        "description": "Tooling / Ansible to support the many aspects of infrastructure installation, setup and configuration. ",
+        "languages": {
+            "Jinja": 51253,
+            "Python": 31476,
+            "Shell": 7277,
+            "Groovy": 4367,
+            "DIGITAL Command Language": 2689,
+            "Dockerfile": 1617,
+            "PHP": 1248
+        }
+    },
+    {
+        "name": "ansible-role-borgbackup",
+        "description": "Ansible role to set up Borg and Borgmatic",
+        "languages": {
+            "Jinja": 11209
+        }
+    },
+    {
+        "name": "WebDeck",
+        "description": "The cheap stream deck alternative",
+        "languages": {
+            "Jinja": 208255,
+            "Python": 125992,
+            "CSS": 35277,
+            "JavaScript": 30491,
+            "Batchfile": 846
+        }
+    },
+    {
+        "name": "nextcloud_on_docker",
+        "description": "Run Nextcloud in Docker Container on various Linux Hosts",
+        "languages": {
+            "Jinja": 14155,
+            "Shell": 7253,
+            "Dockerfile": 429
+        }
+    },
+    {
+        "name": "ontology-development-kit",
+        "description": "Bootstrap an OBO Library ontology",
+        "languages": {
+            "Jinja": 169976,
+            "Python": 61727,
+            "Dockerfile": 13217,
+            "Shell": 10849,
+            "Makefile": 6974,
+            "Scala": 2927,
+            "Ruby": 1021,
+            "Batchfile": 179
+        }
+    },
+    {
+        "name": "NetOpsWorkshop",
+        "description": "Test cases and scenarios for Network Automation workshop",
+        "languages": {
+            "Jinja": 12581,
+            "Shell": 10948,
+            "Python": 8195,
+            "Ruby": 5458,
+            "Dockerfile": 1513,
+            "Perl": 929
+        }
+    },
+    {
+        "name": "ansible-role-haproxy",
+        "description": "Ansible Role - HAProxy",
+        "languages": {
+            "Jinja": 1794
+        }
+    },
+    {
+        "name": "DevOps",
+        "description": null,
+        "languages": {
+            "Jinja": 3098
+        }
+    },
+    {
+        "name": "k8s",
+        "description": "Deploy a  Production Ready Kubernetes High Availability Cluster with Binary",
+        "languages": {
+            "Jinja": 129402,
+            "Shell": 3111
+        }
+    },
+    {
+        "name": "ansible-install-k8s",
+        "description": null,
+        "languages": {
+            "Jinja": 15888,
+            "Shell": 1696
+        }
+    },
+    {
+        "name": "k3s-ansible",
+        "description": "Ansible playbook to deploy k3s kubernetes cluster",
+        "languages": {
+            "Jinja": 735
+        }
+    },
+    {
+        "name": "legend",
+        "description": "Legend builds and publishes Grafana dashboards for your services with prefilled metrics and alerts for your services.",
+        "languages": {
+            "Jinja": 164025,
+            "Python": 58465,
+            "Shell": 2070,
+            "Smarty": 1772,
+            "Dockerfile": 1127
+        }
+    },
+    {
+        "name": "ansible-role-composer",
+        "description": "Ansible Role - Composer PHP Dependency Manager",
+        "languages": {
+            "Jinja": 190
+        }
+    },
+    {
+        "name": "turing-pi-2-cluster",
+        "description": "DEPRECATED - Turing Pi 2 Cluster",
+        "languages": {
+            "Jinja": 1552
+        }
+    },
+    {
+        "name": "ansible-role-elasticsearch",
+        "description": "Ansible Role - Elasticsearch",
+        "languages": {
+            "Jinja": 7974
+        }
+    },
+    {
+        "name": "ha-addons",
+        "description": "Repository for Home Assistant Add-Ons",
+        "languages": {
+            "Jinja": 4376
+        }
+    },
+    {
+        "name": "ansible-role-logstash",
+        "description": "Ansible Role - Logstash",
+        "languages": {
+            "Jinja": 956
+        }
+    },
+    {
+        "name": "ansible-postfix",
+        "description": "Ansible role to set up postfix in Debian-like systems",
+        "languages": {
+            "Jinja": 7205,
+            "Dockerfile": 666
+        }
+    },
+    {
+        "name": "tracevis",
+        "description": "Traceroute with any packet. Visualize the routes. Discover Middleboxes and Firewalls",
+        "languages": {
+            "Jinja": 454030,
+            "Python": 99609,
+            "Dockerfile": 366
+        }
+    },
+    {
+        "name": "ansible-harden-windows",
+        "description": "Ansible role to harden windows system",
+        "languages": {
+            "Jinja": 131944,
+            "PowerShell": 13031,
+            "Python": 10157,
+            "Ruby": 8425,
+            "Batchfile": 3921,
+            "Shell": 1887
+        }
+    },
+    {
+        "name": "book-content",
+        "description": null,
+        "languages": {
+            "Jinja": 46418,
+            "SCSS": 24495,
+            "JavaScript": 4048
+        }
+    },
+    {
+        "name": "addon-tailscale",
+        "description": "Tailscale - Home Assistant Community Add-ons",
+        "languages": {
+            "Jinja": 2653,
+            "Dockerfile": 2216,
+            "Shell": 1810,
+            "Groovy": 720
+        }
+    },
+    {
+        "name": "addon-spotify-connect",
+        "description": "Spotify Connect - Home Assistant Community Add-ons",
+        "languages": {
+            "Jinja": 2971,
+            "Dockerfile": 2079
+        }
+    },
+    {
+        "name": "wireguard-private-networking",
+        "description": "Build your own multi server private network using wireguard and ansible",
+        "languages": {
+            "Jinja": 2041
+        }
+    },
+    {
+        "name": "parrot-build",
+        "description": "Ansible Scripts to Build Out My Parrot",
+        "languages": {
+            "Jinja": 14754,
+            "Python": 5589,
+            "Shell": 5156
+        }
+    },
+    {
+        "name": "product-demos",
+        "description": null,
+        "languages": {
+            "Jinja": 55223,
+            "Python": 27061,
+            "CSS": 21774,
+            "PowerShell": 3868
+        }
+    },
+    {
+        "name": "mastodon-ansible",
+        "description": "Ansible playbook for installing Mastodon",
+        "languages": {
+            "Jinja": 16391,
+            "Smarty": 152
+        }
+    },
+    {
+        "name": "chat_templates",
+        "description": "Chat Templates for HuggingFace Large Language Models",
+        "languages": {
+            "Jinja": 9705
+        }
+    },
+    {
+        "name": "ansible-clickhouse",
+        "description": "ansible role for clickhouse",
+        "languages": {
+            "Jinja": 35598
+        }
+    },
+    {
+        "name": "SDDC.Lab",
+        "description": "Ansible playbooks that automate deployment and configuration of nested VMware Software-Defined Data Center environments including solutions like vSphere, vSAN, NSX, Tanzu Kubernetes Grid Service, NSX Advanced Load Balancer, Aria Operations for Logs, VyOS, and ISC BIND.",
+        "languages": {
+            "Jinja": 178280,
+            "Python": 144391,
+            "Shell": 13790
+        }
+    },
+    {
+        "name": "Excision-Mail",
+        "description": "Fullstack, security focused, personal mail server based on OpenSMTPD for OpenBSD",
+        "languages": {
+            "Jinja": 100535,
+            "Shell": 23803,
+            "Roff": 6322,
+            "Python": 845,
+            "Sieve": 791,
+            "C++": 99
+        }
+    },
+    {
+        "name": "ansible-rclone",
+        "description": "ansible role for rclone :: https://galaxy.ansible.com/stefangweichinger/ansible_rclone",
+        "languages": {
+            "Jinja": 1398
+        }
+    },
+    {
+        "name": "devsecops-demo",
+        "description": "DevSecOps demo",
+        "languages": {
+            "Jinja": 94922,
+            "Shell": 9305
+        }
+    },
+    {
+        "name": "k3s-on-prem-production",
+        "description": "Playbooks needed to set up an on-premises K3s cluster and securize it",
+        "languages": {
+            "Jinja": 92906,
+            "YAML": 81676
+        }
+    },
+    {
+        "name": "WinGetty",
+        "description": "An open source REST Backend for creating a private WinGet Repo without having to rely on cloud dependencies.",
+        "languages": {
+            "Jinja": 171929,
+            "Python": 93839,
+            "Dockerfile": 934,
+            "Mako": 494,
+            "JavaScript": 329,
+            "Shell": 286,
+            "CSS": 194
+        }
+    },
+    {
+        "name": "cmdb",
+        "description": "Jerikan: a configuration management system for network teams",
+        "languages": {
+            "Jinja": 151656,
+            "Python": 138715,
+            "Shell": 12490,
+            "Dockerfile": 3751
+        }
+    },
+    {
+        "name": "ansible-rpi-k8s-cluster",
+        "description": "Deploy Raspberry Pi Kubernetes cluster using Ansible",
+        "languages": {
+            "Jinja": 3268,
+            "Shell": 1558,
+            "HCL": 1242
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "TheAltF4Stream dotfiles and environment.",
+        "languages": {
+            "Jinja": 32182,
+            "Lua": 20324,
+            "Shell": 1055
+        }
+    },
+    {
+        "name": "ansible-role-nginx-config",
+        "description": "Ansible role for configuring NGINX",
+        "languages": {
+            "Jinja": 141315,
+            "HTML": 7519
+        }
+    },
+    {
+        "name": "ansible-alertmanager",
+        "description": "Deploy Prometheus Alertmanager service",
+        "languages": {
+            "Jinja": 4185,
+            "Python": 2512
+        }
+    },
+    {
+        "name": "ansible-roles",
+        "description": "Manala ansible roles",
+        "languages": {
+            "Jinja": 901699,
+            "Python": 303176,
+            "Shell": 17392,
+            "Makefile": 17084,
+            "Dockerfile": 4523,
+            "DIGITAL Command Language": 172
+        }
+    },
+    {
+        "name": "addon-bitwarden",
+        "description": "Vaultwarden (Bitwarden) - Home Assistant Community Add-ons",
+        "languages": {
+            "Jinja": 3270,
+            "Dockerfile": 2304
+        }
+    },
+    {
+        "name": "ansible-role-filebeat",
+        "description": "Ansible Role - Filebeat for ELK stack",
+        "languages": {
+            "Jinja": 6224
+        }
+    },
+    {
+        "name": "top500-benchmark",
+        "description": "Automated Top500 benchmark for clusters or single nodes.",
+        "languages": {
+            "Jinja": 9938
+        }
+    },
+    {
+        "name": "telegraf",
+        "description": "Ansible role for installing, configuring, and maintaining Telegraf",
+        "languages": {
+            "Jinja": 9847
+        }
+    },
+    {
+        "name": "flask-wtform-tutorial",
+        "description": "\ud83d\udcdd\ud83d\ude0e Tutorial to implement forms in your Flask app.",
+        "languages": {
+            "Jinja": 8603,
+            "Python": 4681,
+            "CSS": 3812,
+            "Makefile": 2541
+        }
+    },
+    {
+        "name": "cloudcustodian-policies",
+        "description": "Cloud Custodian policy that logs unused security groups",
+        "languages": {
+            "Jinja": 304266,
+            "Python": 53634,
+            "Shell": 22275
+        }
+    },
+    {
+        "name": "epiphany",
+        "description": "Cloud and on-premises automation for Kubernetes centered industrial grade solutions.",
+        "languages": {
+            "Jinja": 715691,
+            "Python": 487130,
+            "Ruby": 103566,
+            "Shell": 39315,
+            "Perl": 9174,
+            "Dockerfile": 6605
+        }
+    },
+    {
+        "name": "docker-apim",
+        "description": "Docker and Docker Compose resources for WSO2 API Manager",
+        "languages": {
+            "Jinja": 154790,
+            "Dockerfile": 36477,
+            "Shell": 19560
+        }
+    },
+    {
+        "name": "addon-appdaemon",
+        "description": "AppDaemon4 - Home Assistant Community Add-ons",
+        "languages": {
+            "Jinja": 2814,
+            "Dockerfile": 2153,
+            "Python": 221
+        }
+    },
+    {
+        "name": "examples",
+        "description": "Examples for The Book of Kubernetes",
+        "languages": {
+            "Jinja": 54243,
+            "Shell": 19014,
+            "Python": 708,
+            "Dockerfile": 128,
+            "HTML": 112,
+            "C": 59
+        }
+    },
+    {
+        "name": "docker-postal",
+        "description": "Docker container for Postal (atech/postal)",
+        "languages": {
+            "Jinja": 4211,
+            "Shell": 3249,
+            "Dockerfile": 1460
+        }
+    },
+    {
+        "name": "ansible-role-for-splunk",
+        "description": "Splunk@Splunk's Ansible role for installing Splunk, upgrading Splunk, and installing apps/addons on Splunk deployments (VM/bare metal)",
+        "languages": {
+            "Jinja": 3025,
+            "Shell": 1145
+        }
+    },
+    {
+        "name": "ansible-telegraf",
+        "description": "Installing and configuring Telegraf via Ansible for RedHat/Debian/Ubuntu/Windows/Suse.",
+        "languages": {
+            "Jinja": 10732,
+            "Python": 2514
+        }
+    },
+    {
+        "name": "ansible-collection-nextcloud-admin",
+        "description": "The ansible galaxy for your nextcloud administrative needs.",
+        "languages": {
+            "Jinja": 55263,
+            "Python": 10585
+        }
+    },
+    {
+        "name": "addon-zerotier",
+        "description": "ZeroTier One - Home Assistant Community Add-ons",
+        "languages": {
+            "Jinja": 2912,
+            "Dockerfile": 2093
+        }
+    },
+    {
+        "name": "tleague_projpage",
+        "description": null,
+        "languages": {
+            "Jinja": 46229
+        }
+    },
+    {
+        "name": "attack_range_local",
+        "description": "Build a attack range in your local machine",
+        "languages": {
+            "Jinja": 531413,
+            "Python": 53881,
+            "PowerShell": 3659,
+            "Shell": 536
+        }
+    },
+    {
+        "name": "ansible-mariadb-galera-cluster",
+        "description": null,
+        "languages": {
+            "Jinja": 18905,
+            "Python": 11697
+        }
+    },
+    {
+        "name": "drone-tutorial",
+        "description": "Drone Continuous Delivery Documentation using docker-compose",
+        "languages": {
+            "Jinja": 586,
+            "Makefile": 138
+        }
+    },
+    {
+        "name": "racc",
+        "description": "[Ansible] Run Arbitrary CLI Commands on a variety of network devices",
+        "languages": {
+            "Jinja": 50
+        }
+    },
+    {
+        "name": "ocp4-vsphere-upi-automation",
+        "description": "Automates most of the manual steps of deploying OCP4.x cluster on vSphere",
+        "languages": {
+            "Jinja": 10068,
+            "Shell": 6405
+        }
+    },
+    {
+        "name": "BlueTeam.Lab",
+        "description": "Blue Team detection lab created with Terraform and Ansible in Azure. ",
+        "languages": {
+            "Jinja": 84796,
+            "Shell": 42323,
+            "HCL": 30660
+        }
+    },
+    {
+        "name": "Taktische-Zeichen",
+        "description": "Taktische Zeichen f\u00fcr Hilfsorganisationen als Vektorgrafiken",
+        "languages": {
+            "Jinja": 793732,
+            "Makefile": 2548
+        }
+    },
+    {
+        "name": "ansible-role-harden-linux",
+        "description": "Ansible role for hardening Linux",
+        "languages": {
+            "Jinja": 298
+        }
+    },
+    {
+        "name": "ansible-role-bigbluebutton",
+        "description": "Ansible role for a bigbluebutton installation (following the documentation on https://docs.bigbluebutton.org/administration/install and https://github.com/bigbluebutton/bigbluebutton)",
+        "languages": {
+            "Jinja": 14926,
+            "Ruby": 6577,
+            "Shell": 5034,
+            "Smarty": 713
+        }
+    },
+    {
+        "name": "cloud-pak-deployer",
+        "description": "Configuration-based installation of OpenShift and Cloud Pak for Data/Integration/Watson AIOps on various private and public cloud infrastructure providers. Deployment attempts to achieve the end-state defined in the configuration. If something fails along the way, you only need to restart the process to continue the deployment.",
+        "languages": {
+            "Jinja": 620255,
+            "Shell": 226824,
+            "Python": 137537,
+            "JavaScript": 75085,
+            "SCSS": 4830,
+            "Dockerfile": 2523,
+            "HTML": 2383,
+            "Makefile": 986,
+            "CSS": 564
+        }
+    },
+    {
+        "name": "ansible-role-libvirt-vm",
+        "description": "This role configures and creates VMs on a KVM hypervisor.",
+        "languages": {
+            "Jinja": 6070,
+            "Shell": 6059
+        }
+    },
+    {
+        "name": "Home-Assistant-Config",
+        "description": "Home Assistant configuration files.",
+        "languages": {
+            "Jinja": 18345,
+            "Shell": 2998
+        }
+    },
+    {
+        "name": "ansible-netplan",
+        "description": "Ansible role to manage Netplan",
+        "languages": {
+            "Jinja": 1156,
+            "Shell": 381
+        }
+    },
+    {
+        "name": "ansible-role-kibana",
+        "description": "Ansible Role - Kibana",
+        "languages": {
+            "Jinja": 5719
+        }
+    },
+    {
+        "name": "template-formula",
+        "description": "SaltStack formula template filled with dummy content",
+        "languages": {
+            "Jinja": 25754,
+            "Ruby": 11187,
+            "Shell": 5987,
+            "SaltStack": 5333,
+            "JavaScript": 4710
+        }
+    },
+    {
+        "name": "ansible-playbooks",
+        "description": "Sample playbooks for the Palo Alto Networks Ansible modules.",
+        "languages": {
+            "Jinja": 414
+        }
+    },
+    {
+        "name": "ansible-haproxy",
+        "description": "Ansible role to set up (the latest version of) HAProxy in Ubuntu systems",
+        "languages": {
+            "Jinja": 24382,
+            "Shell": 2479,
+            "Dockerfile": 666
+        }
+    },
+    {
+        "name": "podman-container-systemd",
+        "description": "creates systemd files and creates containers using podman",
+        "languages": {
+            "Jinja": 5437
+        }
+    },
+    {
+        "name": "addon-plex",
+        "description": "Plex Media Server - Home Assistant Community Add-ons",
+        "languages": {
+            "Jinja": 2701,
+            "Dockerfile": 2230
+        }
+    },
+    {
+        "name": "cosmos-validators",
+        "description": "Ansible Script for Cosmos-based blockchain validators",
+        "languages": {
+            "Jinja": 71986,
+            "Shell": 5901
+        }
+    },
+    {
+        "name": "addon-zwave-js-ui",
+        "description": "Z-Wave JS UI - Home Assistant Community Add-ons",
+        "languages": {
+            "Jinja": 3397,
+            "Dockerfile": 2839,
+            "Groovy": 334
+        }
+    },
+    {
+        "name": "ansible-templates",
+        "description": "The complete Ansible tutorial, reference, awesome examples",
+        "languages": {
+            "Jinja": 97808,
+            "Shell": 1837,
+            "HTML": 60,
+            "PHP": 19
+        }
+    },
+    {
+        "name": "k8s-cluster-installation",
+        "description": "Bootstrap a k8s cluster with Ansible",
+        "languages": {
+            "Jinja": 14521,
+            "Python": 12029,
+            "HCL": 7697,
+            "Shell": 2789
+        }
+    },
+    {
+        "name": "moodlebox",
+        "description": "A Moodle server and Wi-Fi router on Raspberry Pi Zero 2w, 3, 4 and 5",
+        "languages": {
+            "Jinja": 5738,
+            "Shell": 3499,
+            "HTML": 2262,
+            "CSS": 1326
+        }
+    },
+    {
+        "name": "ansible-kafka",
+        "description": "Ansible role for installing and configuring Apache Kafka on RedHat and Debian platforms.",
+        "languages": {
+            "Jinja": 31527,
+            "YAML": 28931,
+            "Shell": 1233
+        }
+    },
+    {
+        "name": "ubuntu2004_cis",
+        "description": "Ubuntu CIS Hardening Ansible Role",
+        "languages": {
+            "Jinja": 9511,
+            "Makefile": 1007
+        }
+    },
+    {
+        "name": "ansible-k8s10x_and_k8s11x",
+        "description": "ansible\u4e00\u952e\u5b89\u88c5k8s10x\u548ck8s11x",
+        "languages": {
+            "Jinja": 4772,
+            "Shell": 212
+        }
+    },
+    {
+        "name": "drupal-pi",
+        "description": "Drupal on Docker on a Raspberry Pi. Pi Dramble's little brother.",
+        "languages": {
+            "Jinja": 2692,
+            "Ruby": 354
+        }
+    },
+    {
+        "name": "ansible-sudoers",
+        "description": "Controls the configuration of the default /etc/sudoers file and included files/directories.",
+        "languages": {
+            "Jinja": 5154
+        }
+    },
+    {
+        "name": "fedora-ansible",
+        "description": "Ansible playbooks for Fedora",
+        "languages": {
+            "Jinja": 89883,
+            "Python": 1539
+        }
+    },
+    {
+        "name": "shell-server",
+        "description": "#! shell server base images, ready to boot and allow user logins.",
+        "languages": {
+            "Jinja": 20017,
+            "Makefile": 1152,
+            "Shell": 373
+        }
+    },
+    {
+        "name": "Kubernetes-Manifests",
+        "description": "A collection of my Kubernetes Manifests managed by Kustomize & ArgoCD",
+        "languages": {
+            "Jinja": 14809,
+            "Shell": 2444,
+            "Dockerfile": 966,
+            "JavaScript": 413,
+            "HCL": 312
+        }
+    },
+    {
+        "name": "ap-airflow",
+        "description": "Astronomer Core Docker Images",
+        "languages": {
+            "Jinja": 53311,
+            "Python": 42843,
+            "Dockerfile": 25225,
+            "Shell": 18187,
+            "HTML": 994
+        }
+    },
+    {
+        "name": "awx-without-k8s",
+        "description": "AWX clustering using Ansible and Docker",
+        "languages": {
+            "Jinja": 22368,
+            "Shell": 3123
+        }
+    },
+    {
+        "name": "toolkit",
+        "description": "Ansible Content Collection for common network functions like dynamic documentation",
+        "languages": {
+            "Jinja": 38232,
+            "CSS": 6160
         }
     }
 ]
