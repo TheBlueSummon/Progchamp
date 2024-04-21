@@ -1,0 +1,66 @@
+[
+    {
+        "name": "redis",
+        "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+        "languages": {
+            "C": 6385298,
+            "Tcl": 2142262,
+            "Python": 40062,
+            "Shell": 23545,
+            "Ruby": 23513,
+            "Makefile": 20797,
+            "C++": 5987,
+            "Smarty": 1047,
+            "JavaScript": 953
+        }
+    },
+    {
+        "name": "etcd",
+        "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+        "languages": {
+            "Go": 5226805,
+            "Shell": 108028,
+            "Jsonnet": 59379,
+            "Makefile": 12460,
+            "Procfile": 8727,
+            "Dockerfile": 1570
+        }
+    },
+    {
+        "name": "leveldb",
+        "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
+        "languages": {
+            "C++": 871718,
+            "C": 28393,
+            "CMake": 16445
+        }
+    },
+    {
+        "name": "ShareX",
+        "description": "ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.",
+        "languages": {
+            "C#": 4642194,
+            "Inno Setup": 39432,
+            "CSS": 1353,
+            "HTML": 854
+        }
+    },
+    {
+        "name": "rocksdb",
+        "description": "A library that provides an embeddable, persistent key-value store for fast storage.",
+        "languages": {
+            "C++": 21807057,
+            "Java": 2601025,
+            "C": 425263,
+            "Python": 400923,
+            "Perl": 247170,
+            "Shell": 234565,
+            "Makefile": 179025,
+            "CMake": 108204,
+            "PowerShell": 15135,
+            "Assembly": 13922,
+            "BitBake": 8022,
+            "Dockerfile": 2676
+        }
+    }
+]

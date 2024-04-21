@@ -1,0 +1,58 @@
+[
+    {
+        "name": "opa",
+        "description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine.",
+        "languages": {
+            "Go": 6954216,
+            "C": 934493,
+            "C++": 707308,
+            "Open Policy Agent": 31065,
+            "Makefile": 22403,
+            "Shell": 18545,
+            "JavaScript": 14203,
+            "Python": 5616,
+            "Dockerfile": 2529
+        }
+    },
+    {
+        "name": "conftest",
+        "description": "Write tests against structured configuration data using the Open Policy Agent Rego query language",
+        "languages": {
+            "Go": 215287,
+            "Shell": 29943,
+            "Makefile": 2330,
+            "Open Policy Agent": 2106,
+            "Dockerfile": 1763
+        }
+    },
+    {
+        "name": "opal",
+        "description": "Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)",
+        "languages": {
+            "Python": 695990,
+            "Shell": 8858,
+            "Dockerfile": 7199,
+            "Makefile": 2823,
+            "Open Policy Agent": 1167
+        }
+    },
+    {
+        "name": "reinforcejs",
+        "description": "Reinforcement Learning Agents in Javascript (Dynamic Programming, Temporal Difference, Deep Q-Learning, Stochastic/Deterministic Policy Gradients)",
+        "languages": {
+            "HTML": 114323,
+            "JavaScript": 60489
+        }
+    },
+    {
+        "name": "on-policy",
+        "description": "This is the official implementation of Multi-Agent PPO (MAPPO).",
+        "languages": {
+            "Python": 798216,
+            "C++": 117823,
+            "Shell": 36067,
+            "C": 8347,
+            "CMake": 624
+        }
+    }
+]

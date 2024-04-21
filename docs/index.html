@@ -45,9 +45,13 @@
                 <h1><u>Julia</u></h1>
                 <p>This is dummy text for when we figure out how to import language description.</p>
             </div>
-            <div class="graph">Lang graph</div>
+            <div class="graph">
+                <div id="myholder"></div>
+            </div>
             <div class="sep-line"></div>
-            <div class="graph">Repo graph</div>
+            <div class="graph">
+                <div id="myholder"></div>
+            </div>
             <div class="info-box right smol" id="repo">
                 <span class="material-symbols-outlined arrow" id = 'arrow2'>
                     keyboard_arrow_down
@@ -62,6 +66,7 @@
         </div>
     </main>
 
+    <!-- handle clicks -->
     <script>
         function toggleClass(target) {
             target.classList.toggle('smol');
@@ -81,6 +86,51 @@
 
         arrow1.addEventListener('click', function() {toggleIcon(arrow1);});
         arrow2.addEventListener('click', function() {toggleIcon(arrow2);});
+    </script>
+
+    <!-- dependencies -->
+    <script src="https://cdn.jsdelivr.net/npm/@joint/core@4.0.1/dist/joint.js"></script>
+
+    <!-- code -->
+    <script type="text/javascript">
+
+        var namespace = joint.shapes;
+
+        var graph = new joint.dia.Graph({}, { cellNamespace: namespace });
+
+        var paper = new joint.dia.Paper({
+            el: document.getElementById('myholder'),
+            model: graph,
+            width: 600,
+            height: 100,
+            gridSize: 1,
+            cellViewNamespace: namespace
+        });
+
+        var rect = new joint.shapes.standard.Rectangle();
+        rect.position(100, 30);
+        rect.resize(100, 40);
+        rect.attr({
+            body: {
+                fill: 'blue'
+            },
+            label: {
+                text: 'Hello',
+                fill: 'white'
+            }
+        });
+        rect.addTo(graph);
+
+        var rect2 = rect.clone();
+        rect2.translate(-100, 0);
+        rect2.attr('label/text', 'World!');
+        rect2.addTo(graph);
+
+        var link = new joint.shapes.standard.Link();
+        link.source(rect);
+        link.target(rect2);
+        link.addTo(graph);
+
     </script>
 </body>
 </html>

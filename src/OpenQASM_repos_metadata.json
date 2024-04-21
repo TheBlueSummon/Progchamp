@@ -1,0 +1,61 @@
+[
+    {
+        "name": "qiskit-metapackage",
+        "description": "Qiskit is an open-source SDK for working with quantum computers at the level of circuits, algorithms, and application modules.",
+        "languages": {
+            "OpenQASM": 148406,
+            "Python": 122917,
+            "Shell": 5765
+        }
+    },
+    {
+        "name": "pyzx",
+        "description": "Python library for quantum circuit rewriting and optimisation using the ZX-calculus",
+        "languages": {
+            "OpenQASM": 25225230,
+            "Jupyter Notebook": 13904115,
+            "Python": 973034,
+            "JavaScript": 52188,
+            "Cython": 12550,
+            "Pascal": 2041,
+            "Batchfile": 259,
+            "Shell": 75
+        }
+    },
+    {
+        "name": "staq",
+        "description": "Full-stack quantum processing toolkit",
+        "languages": {
+            "OpenQASM": 7393435,
+            "C++": 1765855,
+            "CMake": 12601,
+            "Shell": 4819,
+            "Pascal": 2041,
+            "Python": 1715,
+            "Verilog": 1337,
+            "Dockerfile": 1018,
+            "C": 436
+        }
+    },
+    {
+        "name": "quantum-benchmarks",
+        "description": "benchmarking quantum circuit emulators for your daily research usage",
+        "languages": {
+            "OpenQASM": 3160464,
+            "Python": 48233,
+            "Shell": 13871,
+            "C++": 10106,
+            "Julia": 7458,
+            "Common Lisp": 2926,
+            "Batchfile": 437
+        }
+    },
+    {
+        "name": "bqskit",
+        "description": "Berkeley Quantum Synthesis Toolkit",
+        "languages": {
+            "OpenQASM": 5799816,
+            "Python": 1733362
+        }
+    }
+]
