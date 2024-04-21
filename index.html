@@ -173,7 +173,7 @@
                     style: {
                         shape: 'circle',
                         'background-color': '#FF9900',
-                        label: 'data(id)'
+                        label: 'bruh'
                     }
                 }
             ],
@@ -287,6 +287,23 @@
                 name: 'concentric'
             }
         });
+    </script>
+    <!-- Reading JSON data -->
+    <script>
+        fetch('src/4D_repos_metadata.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('not ok')
+                }
+                return response.json();
+            })
+            .then(data => {
+                la.$('#a').style('label',data[0]['name']);
+                console.log(data[0]['name'])
+            })
+            .catch(error => {
+                console.error(error)
+            });
     </script>
 </body>
 </html>
