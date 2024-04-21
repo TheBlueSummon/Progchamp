@@ -39,5 +39,1609 @@
             "Standard ML": 1417,
             "Shell": 913
         }
+    },
+    {
+        "name": "docker-bro",
+        "description": "Bro IDS Dockerfile",
+        "languages": {
+            "Zeek": 37051,
+            "Dockerfile": 18357,
+            "CMake": 8616,
+            "Shell": 5251,
+            "Makefile": 3297
+        }
+    },
+    {
+        "name": "dovehawk",
+        "description": "Dovehawk is a Zeek module that automatically imports MISP indicators and reports Sightings",
+        "languages": {
+            "Zeek": 23943,
+            "Standard ML": 907
+        }
+    },
+    {
+        "name": "bro-scripts",
+        "description": "Bro scripts to be shared with the community",
+        "languages": {
+            "Bro": 52539
+        }
+    },
+    {
+        "name": "CSI-SIEM",
+        "description": "CSI SIEM",
+        "languages": {
+            "Zeek": 3685008,
+            "Python": 370644,
+            "Shell": 183953,
+            "JavaScript": 167092,
+            "CSS": 164544,
+            "Dockerfile": 79553,
+            "HTML": 50166,
+            "PHP": 4600,
+            "PureBasic": 4049,
+            "Standard ML": 1417,
+            "Ruby": 746,
+            "Vim Script": 70
+        }
+    },
+    {
+        "name": "bro-sysmon",
+        "description": "How to Zeek Sysmon Logs!",
+        "languages": {
+            "Zeek": 46771,
+            "Python": 26778
+        }
+    },
+    {
+        "name": "file-extraction",
+        "description": "Extract files from network traffic with Zeek.",
+        "languages": {
+            "Zeek": 8159
+        }
+    },
+    {
+        "name": "docker-zeek",
+        "description": "Zeek IDS Dockerfile",
+        "languages": {
+            "Zeek": 41141,
+            "Dockerfile": 28114,
+            "Makefile": 3261,
+            "Shell": 1843
+        }
+    },
+    {
+        "name": "bro-scripts",
+        "description": "Various Bro scripts",
+        "languages": {
+            "Bro": 51965
+        }
+    },
+    {
+        "name": "BroMalware-Exercise",
+        "description": null,
+        "languages": {
+            "Bro": 10812,
+            "Standard ML": 211
+        }
+    },
+    {
+        "name": "GQUIC_Protocol_Analyzer",
+        "description": "GQUIC Protocol Analyzer for Zeek (Bro) Network Security Monitor",
+        "languages": {
+            "Zeek": 6099,
+            "C++": 4656,
+            "Makefile": 703,
+            "CMake": 388,
+            "Shell": 380
+        }
+    },
+    {
+        "name": "bro-scripts",
+        "description": null,
+        "languages": {
+            "Zeek": 6392
+        }
+    },
+    {
+        "name": "bro-scripts",
+        "description": "Misc. Bro scripts",
+        "languages": {
+            "Bro": 39736,
+            "Makefile": 359
+        }
+    },
+    {
+        "name": "Bro-samples",
+        "description": "Network Forensics Bro scripts & pcap samples",
+        "languages": {
+            "Bro": 112
+        }
+    },
+    {
+        "name": "Zeek-Network-Security-Monitor",
+        "description": "A Zeek Network Security Monitor tutorial that will cover the basics of creating a Zeek instance on your network in addition to all of the necessary hardware and setup and finally provide some examples of how you can use the power of Zeek to have absolute control over your network.",
+        "languages": {
+            "Zeek": 129
+        }
+    },
+    {
+        "name": "BotFlex",
+        "description": "BotFlex is an open source tool or bot detection and analysis",
+        "languages": {
+            "Bro": 96187,
+            "Shell": 5818
+        }
+    },
+    {
+        "name": "bro-scripts",
+        "description": "Bro-IDS scripts",
+        "languages": {
+            "Bro": 4101
+        }
+    },
+    {
+        "name": "zeek-flowmeter",
+        "description": "A Zeek script to generate features based on timing, volume and metadata for traffic classification.",
+        "languages": {
+            "Zeek": 36790
+        }
+    },
+    {
+        "name": "MegaDev",
+        "description": "Bro IDS + ELK Stack to detect and block data exfiltration",
+        "languages": {
+            "Bro": 24077,
+            "Scala": 19015,
+            "Python": 15283,
+            "Batchfile": 711
+        }
+    },
+    {
+        "name": "bro-apt1",
+        "description": "This is a script module for Bro that encapsulates and detects activity related to the Mandiant APT1 report.",
+        "languages": {
+            "Bro": 230
+        }
+    },
+    {
+        "name": "zeek-docs",
+        "description": "Documentation for Zeek",
+        "languages": {
+            "Zeek": 53782,
+            "Python": 46279,
+            "JavaScript": 3105,
+            "Shell": 1660,
+            "HTML": 1125,
+            "Makefile": 930,
+            "CSS": 657,
+            "C++": 448
+        }
+    },
+    {
+        "name": "zeek-cryptomining",
+        "description": "Detect cryptocurrency mining traffic with Zeek.",
+        "languages": {
+            "Zeek": 7141,
+            "Shell": 1449,
+            "Standard ML": 1417
+        }
+    },
+    {
+        "name": "zeek-plugin-enip",
+        "description": "Zeek network security monitor plugin that enables parsing of the Ethernet/IP and Common Industrial Protocol standards",
+        "languages": {
+            "Zeek": 94479,
+            "JavaScript": 33630,
+            "C++": 3193,
+            "Dockerfile": 1634,
+            "Makefile": 778,
+            "Shell": 380,
+            "CMake": 354
+        }
+    },
+    {
+        "name": "Joe-Sandbox-Bro",
+        "description": "JoeSandbox-Bro is a simple bro script which extracts files from your internet connection and analyzes them automatically on Joe Sandbox",
+        "languages": {
+            "Zeek": 8073
+        }
+    },
+    {
+        "name": "bro-scripts",
+        "description": "A collection of Bro scripts I've written",
+        "languages": {
+            "Bro": 12242,
+            "JavaScript": 4792,
+            "C++": 1911,
+            "CMake": 301,
+            "Standard ML": 130
+        }
+    },
+    {
+        "name": "zeek-scripts",
+        "description": "zeek-scripts",
+        "languages": {
+            "Bro": 141781
+        }
+    },
+    {
+        "name": "rpot2",
+        "description": "Real-time Packet Observation Tool",
+        "languages": {
+            "Bro": 197435,
+            "JavaScript": 44281,
+            "Shell": 24857,
+            "HTML": 7359,
+            "Python": 3890,
+            "Standard ML": 1887,
+            "CSS": 997
+        }
+    },
+    {
+        "name": "bro-scripts",
+        "description": "Various Bro scripts",
+        "languages": {
+            "Bro": 272737
+        }
+    },
+    {
+        "name": "hardenedlinux-zeek-scripts",
+        "description": null,
+        "languages": {
+            "Zeek": 159591,
+            "Nix": 9001,
+            "PHP": 5242,
+            "Python": 2476,
+            "Shell": 481,
+            "Standard ML": 346
+        }
+    },
+    {
+        "name": "bindings",
+        "description": "Addresses & function signatures for Geometry Dash",
+        "languages": {
+            "Zeek": 3907651,
+            "Java": 131731,
+            "C++": 87884,
+            "JavaScript": 12995,
+            "CMake": 10733,
+            "Python": 7332,
+            "Batchfile": 260
+        }
+    },
+    {
+        "name": "Knowledge-Graph-Analyze",
+        "description": "\u5229\u7528\u77e5\u8bc6\u56fe\u8c31\u5206\u6790\u7f51\u7edc\u5b89\u5168\u4e8b\u4ef6",
+        "languages": {
+            "Zeek": 135119,
+            "Python": 59559,
+            "Groovy": 1238
+        }
+    },
+    {
+        "name": "cve-2020-0601",
+        "description": "Zeek package to detect CVE-2020-0601",
+        "languages": {
+            "Zeek": 2739,
+            "Shell": 1687,
+            "Makefile": 15
+        }
+    },
+    {
+        "name": "zeek-plugin-s7comm",
+        "description": "Zeek network security monitor plugin that enables parsing of the S7 protocol",
+        "languages": {
+            "Zeek": 42916,
+            "JavaScript": 19456,
+            "C++": 3429,
+            "Dockerfile": 1638,
+            "Makefile": 778,
+            "Shell": 380,
+            "CMake": 363
+        }
+    },
+    {
+        "name": "rdfp",
+        "description": "Remote Desktop Client Fingerprint script for Zeek. Based off of https://github.com/0x4D31/fatt",
+        "languages": {
+            "Zeek": 3131
+        }
+    },
+    {
+        "name": "zeek-training",
+        "description": "Zeek Training Materials/Products",
+        "languages": {
+            "Zeek": 122494,
+            "Dockerfile": 1154,
+            "Batchfile": 80,
+            "Makefile": 15
+        }
+    },
+    {
+        "name": "ripple20",
+        "description": "A Zeek package for the passive detection of \"Ripple20\" vulnerabilities in the Treck TCP/IP stack.",
+        "languages": {
+            "Zeek": 18457
+        }
+    },
+    {
+        "name": "anomalous-dns",
+        "description": "A set of zeek scripts providing a module for tracking and correlating abnormal DNS behavior.",
+        "languages": {
+            "Zeek": 21180
+        }
+    },
+    {
+        "name": "rock-scripts",
+        "description": "Bro scripts for the ROCK platform. http://rocknsm.io",
+        "languages": {
+            "Zeek": 367035,
+            "Python": 8190,
+            "Shell": 2453
+        }
+    },
+    {
+        "name": "zeek-community-id",
+        "description": "Zeek support for Community ID flow hashing.",
+        "languages": {
+            "Zeek": 4153,
+            "Shell": 2074,
+            "CMake": 1230,
+            "C": 1135,
+            "C++": 764
+        }
+    },
+    {
+        "name": "cve-2022-26809",
+        "description": "Detects attempts and successful exploitation of CVE-2022-26809",
+        "languages": {
+            "Zeek": 3291,
+            "Shell": 1694,
+            "Makefile": 28
+        }
+    },
+    {
+        "name": "tcpdump2gureKDDCup99",
+        "description": "Creates a KDDCup99 format databse from traffic sniffed with tcpdump",
+        "languages": {
+            "Bro": 51065,
+            "C": 7511
+        }
+    },
+    {
+        "name": "bro-scripts",
+        "description": "Contributed Bro Scripts",
+        "languages": {
+            "Bro": 18810
+        }
+    },
+    {
+        "name": "Threat-Intelligence-Data",
+        "description": "Snort_rules detection bad actors. ",
+        "languages": {
+            "Zeek": 2233459
+        }
+    },
+    {
+        "name": "zeek-junk-drawer",
+        "description": "Zeek Junk Drawer - Just some scripts and a place to put them",
+        "languages": {
+            "Zeek": 25773
+        }
+    },
+    {
+        "name": "zeek-long-connections",
+        "description": "Zeek package for tracking long connections to report them before they have completed.",
+        "languages": {
+            "Zeek": 7272,
+            "Shell": 1715,
+            "Makefile": 28
+        }
+    },
+    {
+        "name": "json-streaming-logs",
+        "description": "Bro script package to create JSON formatted logs to stream into data analysis systems.",
+        "languages": {
+            "Zeek": 7119,
+            "Shell": 1357,
+            "Makefile": 28
+        }
+    },
+    {
+        "name": "smbfp",
+        "description": "Zeek package to generate a SMB client fingerprint",
+        "languages": {
+            "Zeek": 10015
+        }
+    },
+    {
+        "name": "zeek-plugin-bacnet",
+        "description": "Zeek network security monitor plugin that enables parsing of the BACnet standard building controls protocol",
+        "languages": {
+            "Zeek": 97538,
+            "JavaScript": 4209,
+            "C++": 2425,
+            "Dockerfile": 1624,
+            "Makefile": 778,
+            "Shell": 380,
+            "CMake": 364
+        }
+    },
+    {
+        "name": "spicy-noise",
+        "description": "A Spicy protocol analyzer for WireGuard",
+        "languages": {
+            "Zeek": 2953,
+            "Standard ML": 382
+        }
+    },
+    {
+        "name": "zeek-plugin-profinet",
+        "description": "Zeek network security monitor plugin that enables parsing of the Profinet protocol",
+        "languages": {
+            "Zeek": 15572,
+            "JavaScript": 8964,
+            "C++": 2697,
+            "Dockerfile": 1642,
+            "Makefile": 778,
+            "Shell": 380,
+            "CMake": 375
+        }
+    },
+    {
+        "name": "bro_scripts",
+        "description": "A collection of bro_scripts and signatures",
+        "languages": {
+            "Bro": 9718
+        }
+    },
+    {
+        "name": "securityonion-bro-scripts",
+        "description": null,
+        "languages": {
+            "Zeek": 28167
+        }
+    },
+    {
+        "name": "zeek-plugin-tds",
+        "description": "Zeek network security monitor plugin that enables parsing of the Tabular Data Stream (TDS) protocol",
+        "languages": {
+            "Zeek": 10139,
+            "JavaScript": 6925,
+            "C++": 3323,
+            "Dockerfile": 1632,
+            "Makefile": 778,
+            "Shell": 380,
+            "CMake": 350
+        }
+    },
+    {
+        "name": "bro.vim",
+        "description": "bro.vim - A simple plugin for working with the bro scripting languages.",
+        "languages": {
+            "Zeek": 7624,
+            "Vim Script": 4266
+        }
+    },
+    {
+        "name": "scratch_pad",
+        "description": "Bro Snippets",
+        "languages": {
+            "Bro": 154385,
+            "Python": 3845,
+            "Shell": 2686
+        }
+    },
+    {
+        "name": "brospects",
+        "description": "Experimental Bro scripts with good prospects for the official bro-scripts repository.",
+        "languages": {
+            "Bro": 5870
+        }
+    },
+    {
+        "name": "beginner_brogramming",
+        "description": "scripts to help beginners program in Bro",
+        "languages": {
+            "Bro": 11103
+        }
+    },
+    {
+        "name": "smtp-url-analysis",
+        "description": "Extracting and analyzing URLs from Emails for phishing events ",
+        "languages": {
+            "Zeek": 74485,
+            "Makefile": 15
+        }
+    },
+    {
+        "name": "Bro-Scripts",
+        "description": "A series of Bro Scripts created for detection purposes. ",
+        "languages": {
+            "Bro": 3690
+        }
+    },
+    {
+        "name": "zeek-EternalSafety",
+        "description": "Zeek package for detecting the Eternal* exploits and a set of SMBv1 protocol violations.",
+        "languages": {
+            "Zeek": 16634,
+            "Shell": 1687,
+            "Standard ML": 870,
+            "Makefile": 14
+        }
+    },
+    {
+        "name": "zeek-sublime",
+        "description": "Zeek scripting language highlighting/support for Sublime Text",
+        "languages": {
+            "Zeek": 10027
+        }
+    },
+    {
+        "name": "http-stalling-detector",
+        "description": "Detect HTTP stalling attacks like slowloris with Bro",
+        "languages": {
+            "Bro": 3900,
+            "Makefile": 14
+        }
+    },
+    {
+        "name": "Correlation-Framework",
+        "description": "A framework that correlates Bro events",
+        "languages": {
+            "Bro": 55647
+        }
+    },
+    {
+        "name": "cve-2021-44228",
+        "description": "Log4j Exploit Detection Logic for Zeek",
+        "languages": {
+            "Zeek": 22953,
+            "Shell": 1694,
+            "Standard ML": 499,
+            "Makefile": 28
+        }
+    },
+    {
+        "name": "bro-phishing",
+        "description": "Detect Phishing with Bro IDS",
+        "languages": {
+            "Bro": 6508
+        }
+    },
+    {
+        "name": "CVE-2021-42292",
+        "description": "A Zeek package to detect CVE-2021-42292, a Microsoft Excel local privilege escalation exploit.",
+        "languages": {
+            "Zeek": 2571,
+            "Shell": 1694,
+            "Makefile": 28
+        }
+    },
+    {
+        "name": "CnC-detection",
+        "description": "Detecting PowerShell Empire, Metasploit Meterpreter and Cobalt Strike agents by payload size sequence analysis and host correlation",
+        "languages": {
+            "Bro": 8820
+        }
+    },
+    {
+        "name": "Hunting_lateral_movement",
+        "description": "\u300a\u6a2a\u5411\u79fb\u52a8\u653b\u51fb\u4e0e\u68c0\u6d4b\u6280\u672f\u300b\u4e13\u680f\u6587\u7ae0",
+        "languages": {
+            "Bro": 8745
+        }
+    },
+    {
+        "name": "ssn-exposure",
+        "description": "Detect US Social Security Numbers with Zeek",
+        "languages": {
+            "Zeek": 6011
+        }
+    },
+    {
+        "name": "bro-scripts",
+        "description": null,
+        "languages": {
+            "Zeek": 64004
+        }
+    },
+    {
+        "name": "ThreatDetectionRules",
+        "description": "\u5a01\u80c1\u68c0\u6d4b\u89c4\u5219\u96c6",
+        "languages": {
+            "Zeek": 796
+        }
+    },
+    {
+        "name": "bro-simple-scan",
+        "description": null,
+        "languages": {
+            "Zeek": 13139
+        }
+    },
+    {
+        "name": "icsnpp-enip",
+        "description": "Zeek Ethernet/IP and CIP Parser - CISA ICSNPP",
+        "languages": {
+            "Zeek": 96308,
+            "JavaScript": 80337,
+            "C++": 5504,
+            "Shell": 2073,
+            "Standard ML": 1258,
+            "Makefile": 777,
+            "CMake": 355
+        }
+    },
+    {
+        "name": "detect-ransomware-filenames",
+        "description": null,
+        "languages": {
+            "Zeek": 3865,
+            "Python": 1829
+        }
+    },
+    {
+        "name": "credit-card-exposure",
+        "description": "Detect credit card exposures with Bro",
+        "languages": {
+            "Zeek": 39199840,
+            "Ruby": 791,
+            "Shell": 637,
+            "Makefile": 15
+        }
+    },
+    {
+        "name": "bro",
+        "description": "Bro things..",
+        "languages": {
+            "Bro": 6598
+        }
+    },
+    {
+        "name": "bro-securityonion",
+        "description": "Bro Scripts for SecurityOnion",
+        "languages": {
+            "Bro": 7771
+        }
+    },
+    {
+        "name": "multithreaded-exfil-detection",
+        "description": "A simple way of detecting multithreaded exfiltration in Zeek.",
+        "languages": {
+            "Zeek": 18555
+        }
+    },
+    {
+        "name": "emojifier",
+        "description": "Set your logs on fire with Emoji-\ud83d\udd25!",
+        "languages": {
+            "Zeek": 5258,
+            "Shell": 322
+        }
+    },
+    {
+        "name": "spl-spt",
+        "description": "Zeek plugin to generate data on per-packet sizes and intervals",
+        "languages": {
+            "Zeek": 2201
+        }
+    },
+    {
+        "name": "log-add-http-post-bodies",
+        "description": "Add POST body excerpt to Bro's HTTP log",
+        "languages": {
+            "Bro": 1228
+        }
+    },
+    {
+        "name": "dns-tunnels",
+        "description": null,
+        "languages": {
+            "Bro": 2636
+        }
+    },
+    {
+        "name": "zeek-agent-framework",
+        "description": "This project is no longer maintained. There's a successor at https://github.com/zeek-packages/zeek-agent-v2",
+        "languages": {
+            "Zeek": 65189
+        }
+    },
+    {
+        "name": "RuleGeneratorSCADA",
+        "description": "A prototype of rule generator for process-aware monitoring system implementing IEC-60870-5-104 protocol and Bro monitoring tool.",
+        "languages": {
+            "Bro": 548025,
+            "Python": 337781,
+            "Dockerfile": 666
+        }
+    },
+    {
+        "name": "scan-NG",
+        "description": "scan-detection policies for bro",
+        "languages": {
+            "Zeek": 212976
+        }
+    },
+    {
+        "name": "bro_vetting",
+        "description": "Bro scripts to monitor for new hosts within a subnet range that aren't whitelisted/vetted.",
+        "languages": {
+            "Bro": 7960
+        }
+    },
+    {
+        "name": "domain-tld",
+        "description": "Zeek script library for getting the effective TLD of a domain.",
+        "languages": {
+            "Zeek": 137748,
+            "Ruby": 1629
+        }
+    },
+    {
+        "name": "CVE-2021-31166",
+        "description": "HTTP Protocol Stack CVE-2021-31166",
+        "languages": {
+            "Zeek": 744
+        }
+    },
+    {
+        "name": "bro-domain-generation",
+        "description": "Bro script module for detecting malware using domain generation algorithms.",
+        "languages": {
+            "Bro": 4281
+        }
+    },
+    {
+        "name": "brocon-15",
+        "description": "brocon-15 scripts ",
+        "languages": {
+            "Bro": 82671
+        }
+    },
+    {
+        "name": "zeek-sniffpass",
+        "description": "Sniffpass will alert on cleartext passwords discovered in HTTP POST requests",
+        "languages": {
+            "Zeek": 5241,
+            "Shell": 619
+        }
+    },
+    {
+        "name": "zeek-tenzir",
+        "description": "Enables Zeek to communicate with Tenzir",
+        "languages": {
+            "Zeek": 2248
+        }
+    },
+    {
+        "name": "conn-burst",
+        "description": "A Bro package to identify connections that are bursting (lots of data and transferring quickly).",
+        "languages": {
+            "Bro": 5013
+        }
+    },
+    {
+        "name": "bro-scripts",
+        "description": null,
+        "languages": {
+            "Bro": 4589
+        }
+    },
+    {
+        "name": "BroTraining-2013-12",
+        "description": null,
+        "languages": {
+            "Bro": 8126
+        }
+    },
+    {
+        "name": "bro-scripts",
+        "description": "Assorted scripts for Bro",
+        "languages": {
+            "Bro": 15091,
+            "Awk": 498,
+            "Shell": 429
+        }
+    },
+    {
+        "name": "got_zoom",
+        "description": "A Zeek package that detects Zoom logins and meeting joins",
+        "languages": {
+            "Zeek": 2840
+        }
+    },
+    {
+        "name": "bro-scripts",
+        "description": "Bro stuff.",
+        "languages": {
+            "Bro": 6880
+        }
+    },
+    {
+        "name": "zerologon",
+        "description": "Zeek package to detect Zerologon",
+        "languages": {
+            "Zeek": 6443,
+            "Shell": 1689,
+            "Makefile": 28
+        }
+    },
+    {
+        "name": "gait",
+        "description": "Zeek Extension to Collect Metadata for Profiling of Endpoints and Proxies",
+        "languages": {
+            "Zeek": 35715
+        }
+    },
+    {
+        "name": "zeek-elf",
+        "description": "A Zeek ELF File Analyzer",
+        "languages": {
+            "Zeek": 7379,
+            "JavaScript": 4846,
+            "C++": 2556,
+            "Shell": 1829,
+            "Makefile": 719,
+            "CMake": 708
+        }
+    },
+    {
+        "name": "bro-lessons",
+        "description": "Bro Lessons by JP Bourget",
+        "languages": {
+            "Bro": 11109
+        }
+    },
+    {
+        "name": "zeek-open-connections",
+        "description": null,
+        "languages": {
+            "Zeek": 3894
+        }
+    },
+    {
+        "name": "top-dns",
+        "description": "Top DNS Measurement for Bro",
+        "languages": {
+            "Zeek": 3289,
+            "Makefile": 14
+        }
+    },
+    {
+        "name": "intel-extensions",
+        "description": "Extensions for Zeek's Intelligence Framework.",
+        "languages": {
+            "Zeek": 13423,
+            "Python": 2232,
+            "Shell": 481
+        }
+    },
+    {
+        "name": "zeek-scripts",
+        "description": "Bro Detection Scripts",
+        "languages": {
+            "Zeek": 11285
+        }
+    },
+    {
+        "name": "WebShell-Traffic-Dataset",
+        "description": "\u81ea\u5efa WebShell \u6d41\u91cf\u6570\u636e\u96c6",
+        "languages": {
+            "Zeek": 31078,
+            "Shell": 3422,
+            "Standard ML": 1417
+        }
+    },
+    {
+        "name": "icsnpp-modbus",
+        "description": "Zeek Modbus Extension Scripts - CISA ICSNPP",
+        "languages": {
+            "Zeek": 82687,
+            "Shell": 1694
+        }
+    },
+    {
+        "name": "malbroro",
+        "description": "Malware Bro roasts",
+        "languages": {
+            "Bro": 1607
+        }
+    },
+    {
+        "name": "puffer-fish",
+        "description": "A cli for puffing your repo with a fake language. Hit GitHub trending in a less popular language.",
+        "languages": {
+            "Bro": 10000,
+            "JavaScript": 4887
+        }
+    },
+    {
+        "name": "spicy-ldap",
+        "description": "LDAP analyzer",
+        "languages": {
+            "Zeek": 23860,
+            "CMake": 3583,
+            "Standard ML": 461,
+            "Shell": 200
+        }
+    },
+    {
+        "name": "SIGRed",
+        "description": "Detection of attempts to exploit Microsoft Windows DNS server via CVE-2020-1350 (AKA SIGRed)",
+        "languages": {
+            "Zeek": 4108
+        }
+    },
+    {
+        "name": "BsidesDC-Training",
+        "description": "2013-10 BsidesDC Training Resources",
+        "languages": {
+            "Bro": 17231,
+            "Standard ML": 1560
+        }
+    },
+    {
+        "name": "bro-scripts",
+        "description": "Collection of bro scripts ",
+        "languages": {
+            "Bro": 6715
+        }
+    },
+    {
+        "name": "misc-scripts",
+        "description": "random stuff ",
+        "languages": {
+            "Bro": 15541,
+            "Shell": 5523,
+            "Python": 1873
+        }
+    },
+    {
+        "name": "zeek-tls-log-alternative",
+        "description": "Zeek scripts that provide an alternative log file logging TLS/SSL traffic",
+        "languages": {
+            "Zeek": 12475,
+            "Shell": 429,
+            "Makefile": 15
+        }
+    },
+    {
+        "name": "novaha-bro-training",
+        "description": "novaha-bro-training",
+        "languages": {
+            "Bro": 2589
+        }
+    },
+    {
+        "name": "add-json",
+        "description": "Enables additional JSON-logging for Zeek.",
+        "languages": {
+            "Zeek": 5467,
+            "Shell": 481
+        }
+    },
+    {
+        "name": "bro-sccrew",
+        "description": "Bro module for the compromise indicators provided by Symantec in their Comment Crew report",
+        "languages": {
+            "Bro": 2015
+        }
+    },
+    {
+        "name": "brocon2015",
+        "description": "Configs, scripts, slides from BroCon 2015",
+        "languages": {
+            "Bro": 3082,
+            "JavaScript": 2289,
+            "Python": 424,
+            "Shell": 319
+        }
+    },
+    {
+        "name": "phish-analysis",
+        "description": "Suite of smtp related policies includes extracting and logging URLs from emails and various smtp anomaly detection heuristics to help flag phishing emails",
+        "languages": {
+            "Bro": 122933,
+            "Makefile": 15
+        }
+    },
+    {
+        "name": "CVE-2020-16898",
+        "description": "A network detection package for CVE-2020-16898 (Windows TCP/IP Remote Code Execution Vulnerability)",
+        "languages": {
+            "Zeek": 2518,
+            "Shell": 1689,
+            "Makefile": 28
+        }
+    },
+    {
+        "name": "bro-scripts",
+        "description": null,
+        "languages": {
+            "Bro": 17954
+        }
+    },
+    {
+        "name": "Bro-PCAP-Dissector",
+        "description": "Bro script to dissect PCAP traces",
+        "languages": {
+            "Bro": 13900
+        }
+    },
+    {
+        "name": "CVE-2017-5638_struts",
+        "description": "detection for Apache Struts recon and compromise ",
+        "languages": {
+            "Bro": 10867,
+            "Makefile": 15
+        }
+    },
+    {
+        "name": "netbase",
+        "description": "Netbase, short for Network Baseliner is a Zeek framework for making and recording quantitative observations about network device activity.",
+        "languages": {
+            "Zeek": 54170
+        }
+    },
+    {
+        "name": "bro-scripts",
+        "description": "various bro scripts ",
+        "languages": {
+            "Bro": 10081,
+            "Standard ML": 602
+        }
+    },
+    {
+        "name": "odd-services",
+        "description": "Detect weird services on a network.",
+        "languages": {
+            "Bro": 1933
+        }
+    },
+    {
+        "name": "icsnpp-dnp3",
+        "description": "Zeek DNP3 Extension Scripts - CISA ICSNPP",
+        "languages": {
+            "Zeek": 27185,
+            "Shell": 1694
+        }
+    },
+    {
+        "name": "broselytize",
+        "description": "Bro scripts from RyeSecurity blog and other fun things to do with Bro!",
+        "languages": {
+            "Bro": 5746
+        }
+    },
+    {
+        "name": "bro-react",
+        "description": "react stuff",
+        "languages": {
+            "Zeek": 5403,
+            "Python": 1067
+        }
+    },
+    {
+        "name": "bro-auth",
+        "description": "Authentication framework for Bro IDS.",
+        "languages": {
+            "Bro": 9176
+        }
+    },
+    {
+        "name": "bro-inventory-scripts",
+        "description": null,
+        "languages": {
+            "Bro": 48363
+        }
+    },
+    {
+        "name": "zeek-spicy-openvpn",
+        "description": "A Zeek OpenVPN protocol analyzer, based on Spicy.",
+        "languages": {
+            "Zeek": 7316,
+            "CMake": 3580,
+            "Standard ML": 2853,
+            "Shell": 200
+        }
+    },
+    {
+        "name": "PCAPProcessor",
+        "description": "This repo provides a sample PowerShell script to process folders of PCAPs against zeek and suricata for SIEM analysis",
+        "languages": {
+            "Zeek": 3569,
+            "PowerShell": 2930,
+            "Python": 216
+        }
+    },
+    {
+        "name": "CVE-2020-14882-weblogicRCE",
+        "description": "Detection of RCE in Oracle's WebLogic Server CVE-2020-14882 / CVE-2020-14750",
+        "languages": {
+            "Zeek": 7979
+        }
+    },
+    {
+        "name": "zeek-known-outbound",
+        "description": null,
+        "languages": {
+            "Zeek": 11762
+        }
+    },
+    {
+        "name": "bro-is-darknet",
+        "description": null,
+        "languages": {
+            "Zeek": 6867
+        }
+    },
+    {
+        "name": "zeek-jpeg",
+        "description": "A Zeek JPEG File Analyzer",
+        "languages": {
+            "Zeek": 4757,
+            "JavaScript": 2619,
+            "C++": 2421,
+            "Shell": 1829,
+            "Makefile": 719,
+            "CMake": 716
+        }
+    },
+    {
+        "name": "pcap2kdd",
+        "description": "A kddcup99 features extractor.",
+        "languages": {
+            "Bro": 51065,
+            "C": 7511,
+            "Python": 2494,
+            "Shell": 213
+        }
+    },
+    {
+        "name": "zeek-spicy-ospf",
+        "description": "A Zeek OSPF packet analyzer based on Spicy.",
+        "languages": {
+            "Zeek": 20209,
+            "CMake": 3573,
+            "Standard ML": 212,
+            "Shell": 200
+        }
+    },
+    {
+        "name": "pingback",
+        "description": "A Zeek package to detect the Pingback malware ICMP tunnel command and control (C2) network traffic.",
+        "languages": {
+            "Zeek": 1787
+        }
+    },
+    {
+        "name": "dns-security",
+        "description": "Bro script for DNS security.",
+        "languages": {
+            "Bro": 3593
+        }
+    },
+    {
+        "name": "bro-xorpe",
+        "description": "Bro IDS script to detect XOR'd binaries",
+        "languages": {
+            "Bro": 576647,
+            "Python": 1167
+        }
+    },
+    {
+        "name": "nxes",
+        "description": null,
+        "languages": {
+            "Bro": 278937,
+            "Shell": 4167,
+            "R": 937
+        }
+    },
+    {
+        "name": "icsnpp-synchrophasor",
+        "description": "Zeek parser for Synchrophasor Data Transfer for Power Systems (C37.118)",
+        "languages": {
+            "Zeek": 43286,
+            "CMake": 3622,
+            "Shell": 1694
+        }
+    },
+    {
+        "name": "Bro-PCAP-Dissector",
+        "description": null,
+        "languages": {
+            "Bro": 14036
+        }
+    },
+    {
+        "name": "dovehawk_dns",
+        "description": "DoveHawk Passive DNS Collector Module for Zeek",
+        "languages": {
+            "Zeek": 4048
+        }
+    },
+    {
+        "name": "bro-large_uploads",
+        "description": null,
+        "languages": {
+            "Zeek": 5297
+        }
+    },
+    {
+        "name": "brocon2016",
+        "description": null,
+        "languages": {
+            "Bro": 6563
+        }
+    },
+    {
+        "name": "zeek-vuln-scan",
+        "description": "A vulnerability scan detection script for Zeek",
+        "languages": {
+            "Zeek": 9908
+        }
+    },
+    {
+        "name": "log-add-vlan-everywhere",
+        "description": "Add VLAN tags to all Zeek logs",
+        "languages": {
+            "Zeek": 1270
+        }
+    },
+    {
+        "name": "zeek_globalwhitelist",
+        "description": "Logstretch public files",
+        "languages": {
+            "Zeek": 4786
+        }
+    },
+    {
+        "name": "bro_scripts",
+        "description": "Just a small collection of scripts for Bro IDS.",
+        "languages": {
+            "Bro": 6093
+        }
+    },
+    {
+        "name": "Zeek-BACnetIP",
+        "description": "A BACnet/IP protocol analyzer for the Zeek (Bro) IDS",
+        "languages": {
+            "Zeek": 36761,
+            "JavaScript": 23649,
+            "C++": 2592,
+            "Shell": 1809,
+            "CMake": 780,
+            "Makefile": 718,
+            "Standard ML": 114
+        }
+    },
+    {
+        "name": "bro_notice_correlation",
+        "description": null,
+        "languages": {
+            "Bro": 4086
+        }
+    },
+    {
+        "name": "callstranger-detector",
+        "description": "Zeek Plugin that detects CallStranger (CVE-2020-12695) attempts (http://callstranger.com/)",
+        "languages": {
+            "Zeek": 5410
+        }
+    },
+    {
+        "name": "intel-ext",
+        "description": "Extension for the Intel Framework in Bro 2.3 (deprecated by 2.5!)",
+        "languages": {
+            "Bro": 3650
+        }
+    },
+    {
+        "name": "CVE-2021-38647",
+        "description": "CVE-2021-38647 AKA \"OMIGOD\" vulnerability in Windows OMI ",
+        "languages": {
+            "Zeek": 7886,
+            "Shell": 1689,
+            "Makefile": 15
+        }
+    },
+    {
+        "name": "zeek-spicy-ipsec",
+        "description": "A Zeek IPSec protocol analyzer based on Spicy.",
+        "languages": {
+            "Zeek": 108471,
+            "CMake": 3588,
+            "Standard ML": 1236,
+            "Shell": 200
+        }
+    },
+    {
+        "name": "bro_scripts",
+        "description": "Collection of random Bro scripts.",
+        "languages": {
+            "Bro": 16300,
+            "Shell": 514
+        }
+    },
+    {
+        "name": "bro",
+        "description": "Bro Scripts",
+        "languages": {
+            "Bro": 10911
+        }
+    },
+    {
+        "name": "bro-scripts",
+        "description": "A list of scripts for Bro IDS, specifically tailored for C2 detection over DNS",
+        "languages": {
+            "Bro": 16546
+        }
+    },
+    {
+        "name": "bro-bulkflows",
+        "description": "Bro scripts to filter out large and fast flows.",
+        "languages": {
+            "Bro": 3313
+        }
+    },
+    {
+        "name": "baseliner",
+        "description": null,
+        "languages": {
+            "Bro": 3764
+        }
+    },
+    {
+        "name": "Chief117",
+        "description": "Covenant Detection for Zeek",
+        "languages": {
+            "Zeek": 7317
+        }
+    },
+    {
+        "name": "geoip-conn",
+        "description": "Add geolocation fields to Zeek \"conn\" logs",
+        "languages": {
+            "Zeek": 2380,
+            "Shell": 1341
+        }
+    },
+    {
+        "name": "bro_scripts",
+        "description": null,
+        "languages": {
+            "Bro": 84585,
+            "Shell": 7635,
+            "Python": 5032
+        }
+    },
+    {
+        "name": "bro-intel-scripts",
+        "description": "Bro network security monitor intelligence framework scripts",
+        "languages": {
+            "Bro": 506
+        }
+    },
+    {
+        "name": "intel-seen-more",
+        "description": "Additional seen-triggers for Zeek's intelligence framework.",
+        "languages": {
+            "Zeek": 6865,
+            "Shell": 481
+        }
+    },
+    {
+        "name": "icsnpp-profinet-io-cm",
+        "description": "Zeek Profinet I/O Context Manager Parser - CISA ICSNPP",
+        "languages": {
+            "Zeek": 61754,
+            "C++": 4314,
+            "CMake": 3648,
+            "Shell": 1747,
+            "Standard ML": 676,
+            "Makefile": 28
+        }
+    },
+    {
+        "name": "DOH-Zeek",
+        "description": "Zeek intel file indicators based on the block-doh by bambenek",
+        "languages": {
+            "Zeek": 1655
+        }
+    },
+    {
+        "name": "cve-2020-13777",
+        "description": "Zeek script to detect servers vulnerable to CVE-2020-13777",
+        "languages": {
+            "Zeek": 1991,
+            "Shell": 1687,
+            "Makefile": 15
+        }
+    },
+    {
+        "name": "zeek-package-IRC",
+        "description": "Zeek Package that extracts features from IRC communication",
+        "languages": {
+            "Zeek": 17662
+        }
+    },
+    {
+        "name": "CVE-2020-5902-F5BigIP",
+        "description": "A network detection package for CVE-2020-5902, a CVE10.0 vulnerability affecting F5 Networks, Inc BIG-IP devices.",
+        "languages": {
+            "Zeek": 2744
+        }
+    },
+    {
+        "name": "docker-zeek-kafka",
+        "description": "Zeek Dockerfile include kafka package",
+        "languages": {
+            "Zeek": 251545,
+            "Dockerfile": 2634,
+            "Standard ML": 302
+        }
+    },
+    {
+        "name": "flow_labels",
+        "description": "Provides a mechanism for loading knowledge about a monitored environment into Zeek.",
+        "languages": {
+            "Bro": 24966
+        }
+    },
+    {
+        "name": "zeek-profinet-analyzer",
+        "description": "Profinet packet analyzer plugin for Zeek.",
+        "languages": {
+            "Zeek": 5676
+        }
+    },
+    {
+        "name": "rpot",
+        "description": null,
+        "languages": {
+            "Bro": 122657,
+            "Shell": 15688,
+            "Dockerfile": 2041,
+            "Standard ML": 1417
+        }
+    },
+    {
+        "name": "ot-parsers",
+        "description": "a collection of OT and ICS protocol parsers for Zeek ",
+        "languages": {
+            "Zeek": 451553,
+            "CMake": 17970,
+            "Standard ML": 811
+        }
+    },
+    {
+        "name": "zeek-docker",
+        "description": "Zeek, dockerized",
+        "languages": {
+            "Zeek": 11939,
+            "Shell": 7043
+        }
+    },
+    {
+        "name": "bro-scripts",
+        "description": "Bro Scripts I created/use for Testing Issues",
+        "languages": {
+            "Bro": 1206
+        }
+    },
+    {
+        "name": "CVE-2022-21449",
+        "description": "Zeek script to detect exploitation attempts of CVE-2022-21449 targeting TLS clients",
+        "languages": {
+            "Zeek": 2883
+        }
+    },
+    {
+        "name": "zeek-log-all-http-headers",
+        "description": "Zeek package to log all HTTP headers and header values",
+        "languages": {
+            "Zeek": 1735
+        }
+    },
+    {
+        "name": "zeek-macho",
+        "description": "A Zeek Mach-o File Analyzer",
+        "languages": {
+            "Zeek": 16868,
+            "C++": 2483,
+            "JavaScript": 2412,
+            "Shell": 1829,
+            "CMake": 724,
+            "Makefile": 719
+        }
+    },
+    {
+        "name": "cve-2022-21907",
+        "description": "cve-2022-21907",
+        "languages": {
+            "Zeek": 1841
+        }
+    },
+    {
+        "name": "zeek-attack",
+        "description": "Gathering of scripts that explore using Zeek to detect MITRE ATT&CK techniques.",
+        "languages": {
+            "Zeek": 4340
+        }
+    },
+    {
+        "name": "intel-expire",
+        "description": "Per item expiration for Zeek's intelligence framework.",
+        "languages": {
+            "Zeek": 8904,
+            "Shell": 322
+        }
+    },
+    {
+        "name": "securityonion-tcpudpflow",
+        "description": null,
+        "languages": {
+            "Bro": 3925
+        }
+    },
+    {
+        "name": "bro_scripts",
+        "description": "bro \u811a\u672c\u6574\u7406",
+        "languages": {
+            "Bro": 7566
+        }
+    },
+    {
+        "name": "bro-training-material",
+        "description": null,
+        "languages": {
+            "Bro": 60240
+        }
+    },
+    {
+        "name": "BroTraining-Montreal",
+        "description": null,
+        "languages": {
+            "Bro": 17231,
+            "Standard ML": 1560
+        }
+    },
+    {
+        "name": "zeek-log-filtering",
+        "description": "A bunch of examples of zeek log filtering",
+        "languages": {
+            "Zeek": 2753,
+            "Shell": 2012,
+            "Makefile": 147
+        }
+    },
+    {
+        "name": "zeek-spicy-wireguard",
+        "description": "A Zeek Wireguard protocol analyzer based on Spicy.",
+        "languages": {
+            "Zeek": 6029,
+            "CMake": 3589,
+            "Standard ML": 239,
+            "Shell": 200
+        }
+    },
+    {
+        "name": "http-custom",
+        "description": "Scripts to define custom http log",
+        "languages": {
+            "Zeek": 4716
+        }
+    },
+    {
+        "name": "jsp-zeek",
+        "description": "Running Zeek within a Docker container for the JSP project",
+        "languages": {
+            "Zeek": 3598,
+            "Shell": 2836
+        }
     }
 ]

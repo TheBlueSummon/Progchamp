@@ -3,7 +3,7 @@
         "name": "minio",
         "description": "The Object Store for AI Data Infrastructure",
         "languages": {
-            "Go": 8195223,
+            "Go": 8194619,
             "Shell": 56763,
             "Makefile": 10319,
             "Mustache": 6628,
@@ -15,11 +15,11 @@
         "name": "pandas",
         "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
         "languages": {
-            "Python": 20401694,
+            "Python": 20402371,
             "Cython": 1289095,
             "HTML": 457285,
             "C": 352930,
-            "Shell": 70903,
+            "Shell": 70572,
             "Meson": 10753,
             "Smarty": 8486,
             "CSS": 6804,
@@ -54,6 +54,1816 @@
         "description": "Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
         "languages": {
             "Python": 381427
+        }
+    },
+    {
+        "name": "Detectron",
+        "description": "FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.",
+        "languages": {
+            "Python": 674763,
+            "CMake": 34081,
+            "Cython": 9364,
+            "C++": 2781,
+            "MATLAB": 1821,
+            "Cuda": 1685,
+            "Dockerfile": 742,
+            "Makefile": 487
+        }
+    },
+    {
+        "name": "Mask_RCNN",
+        "description": "Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow",
+        "languages": {
+            "Python": 199107
+        }
+    },
+    {
+        "name": "gson",
+        "description": "A Java serialization/deserialization library to convert Java Objects into JSON and back",
+        "languages": {
+            "Java": 1811770
+        }
+    },
+    {
+        "name": "redisson",
+        "description": "Redisson - Easy Redis Java client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache ...",
+        "languages": {
+            "Java": 15062609
+        }
+    },
+    {
+        "name": "yup",
+        "description": "Dead simple Object schema validation",
+        "languages": {
+            "TypeScript": 263705,
+            "JavaScript": 8672
+        }
+    },
+    {
+        "name": "winget-cli",
+        "description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).",
+        "languages": {
+            "C++": 10045897,
+            "C": 2403470,
+            "PowerShell": 2211188,
+            "C#": 1913276,
+            "Ada": 89079,
+            "CMake": 86942,
+            "Pascal": 75208,
+            "HTML": 46138,
+            "Makefile": 39840,
+            "JavaScript": 33396,
+            "DIGITAL Command Language": 27305,
+            "Shell": 23486,
+            "Assembly": 16413,
+            "Roff": 7800,
+            "Perl": 3897,
+            "M4": 3079,
+            "CSS": 2830,
+            "Dockerfile": 1983,
+            "SAS": 1847,
+            "Module Management System": 1545
+        }
+    },
+    {
+        "name": "seaweedfs",
+        "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",
+        "languages": {
+            "Go": 3334720,
+            "Java": 392555,
+            "HTML": 25763,
+            "Makefile": 9818,
+            "Smarty": 6436,
+            "Shell": 6409,
+            "Lua": 1515,
+            "Dockerfile": 586
+        }
+    },
+    {
+        "name": "deep-learning-for-image-processing",
+        "description": "deep learning for image processing including classification and object-detection etc.",
+        "languages": {
+            "Python": 2774321,
+            "HTML": 4455
+        }
+    },
+    {
+        "name": "Dapper",
+        "description": "Dapper - a simple object mapper for .Net",
+        "languages": {
+            "C#": 1115630,
+            "PowerShell": 1598,
+            "Batchfile": 247
+        }
+    },
+    {
+        "name": "IOPaint",
+        "description": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+        "languages": {
+            "Python": 1237861,
+            "TypeScript": 268042,
+            "JavaScript": 2642,
+            "CSS": 2215,
+            "Shell": 2024,
+            "Batchfile": 1254,
+            "HTML": 294
+        }
+    },
+    {
+        "name": "7days-golang",
+        "description": "7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7\u5929\u7528Go\u52a8\u624b\u5199/\u4ece\u96f6\u5b9e\u73b0\u7cfb\u5217",
+        "languages": {
+            "Go": 446058,
+            "HTML": 1539,
+            "Makefile": 1460,
+            "Shell": 1219,
+            "CSS": 68
+        }
+    },
+    {
+        "name": "frigate",
+        "description": "NVR with realtime local object detection for IP cameras",
+        "languages": {
+            "Python": 950837,
+            "TypeScript": 776785,
+            "CSS": 26724,
+            "C++": 22557,
+            "Dockerfile": 14190,
+            "Shell": 12376,
+            "JavaScript": 6014,
+            "Makefile": 5928,
+            "HCL": 3433,
+            "HTML": 1161,
+            "CMake": 602
+        }
+    },
+    {
+        "name": "efcore",
+        "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+        "languages": {
+            "C#": 69733285,
+            "PowerShell": 232181,
+            "TSQL": 130808,
+            "Shell": 126876,
+            "CMake": 15129,
+            "Visual Basic .NET": 5998,
+            "Batchfile": 3358,
+            "Python": 2731
+        }
+    },
+    {
+        "name": "ceph",
+        "description": "Ceph is a distributed object, block, and file storage platform ",
+        "languages": {
+            "C++": 48449030,
+            "Python": 11048943,
+            "Raku": 4171290,
+            "C": 3295327,
+            "TypeScript": 3039257,
+            "Shell": 2234552,
+            "CMake": 859300,
+            "HTML": 755362,
+            "Cython": 617203,
+            "Perl": 466933,
+            "Jsonnet": 376031,
+            "JavaScript": 138504,
+            "Java": 109488,
+            "Gherkin": 87423,
+            "SCSS": 49970,
+            "Assembly": 43728,
+            "Roff": 26436,
+            "Jinja": 20096,
+            "PowerShell": 8990,
+            "Makefile": 4959,
+            "Awk": 3196,
+            "Terra": 2127,
+            "DIGITAL Command Language": 2074,
+            "CSS": 1738,
+            "Dockerfile": 1448,
+            "Lua": 1304,
+            "SWIG": 951
+        }
+    },
+    {
+        "name": "detr",
+        "description": "End-to-End Object Detection with Transformers",
+        "languages": {
+            "Python": 169188,
+            "Dockerfile": 328
+        }
+    },
+    {
+        "name": "yolov7",
+        "description": "Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors",
+        "languages": {
+            "Jupyter Notebook": 43823193,
+            "Python": 524049,
+            "Shell": 2850,
+            "Dockerfile": 821
+        }
+    },
+    {
+        "name": "greenDAO",
+        "description": "greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.",
+        "languages": {
+            "Java": 956800,
+            "FreeMarker": 51909,
+            "CSS": 12808
+        }
+    },
+    {
+        "name": "PaddleDetection",
+        "description": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.",
+        "languages": {
+            "Python": 4987410,
+            "C++": 684609,
+            "Shell": 120081,
+            "Cuda": 57703,
+            "CMake": 33868,
+            "Makefile": 9691,
+            "C": 4600
+        }
+    },
+    {
+        "name": "shap-e",
+        "description": "Generate 3D objects conditioned on text or images",
+        "languages": {
+            "Python": 481006,
+            "Jupyter Notebook": 8520
+        }
+    },
+    {
+        "name": "deep_learning_object_detection",
+        "description": "A paper list of object detection using deep learning.",
+        "languages": {
+            "Python": 1699
+        }
+    },
+    {
+        "name": "COLA",
+        "description": "\ud83e\udd64 COLA: Clean Object-oriented & Layered Architecture",
+        "languages": {
+            "Java": 427797,
+            "Shell": 8677
+        }
+    },
+    {
+        "name": "mockery",
+        "description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).",
+        "languages": {
+            "PHP": 5364028,
+            "Shell": 2887,
+            "Makefile": 1700
+        }
+    },
+    {
+        "name": "orm",
+        "description": "Doctrine Object Relational Mapper (ORM)",
+        "languages": {
+            "PHP": 4966556,
+            "Shell": 724
+        }
+    },
+    {
+        "name": "AutoMapper",
+        "description": "A convention-based object-object mapper in .NET. ",
+        "languages": {
+            "C#": 2074429,
+            "PowerShell": 3349,
+            "Shell": 595
+        }
+    },
+    {
+        "name": "weaviate",
+        "description": "Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database\u200b.",
+        "languages": {
+            "Go": 10693883,
+            "Assembly": 117260,
+            "Shell": 66324,
+            "C": 41130,
+            "Python": 13091,
+            "Jinja": 3087,
+            "Dockerfile": 2234,
+            "Smarty": 1223,
+            "JavaScript": 861,
+            "HCL": 558
+        }
+    },
+    {
+        "name": "pytorch-grad-cam",
+        "description": "Advanced AI Explainability for computer vision.  Support for CNNs, Vision Transformers, Classification, Object detection, Segmentation, Image similarity and more.",
+        "languages": {
+            "Python": 98906
+        }
+    },
+    {
+        "name": "node-fs-extra",
+        "description": "Node.js: extra methods for the fs object like copy(), remove(), mkdirs()",
+        "languages": {
+            "JavaScript": 332281
+        }
+    },
+    {
+        "name": "maskrcnn-benchmark",
+        "description": "Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch.",
+        "languages": {
+            "Python": 540490,
+            "Cuda": 121498,
+            "C++": 19118,
+            "C": 10222,
+            "Dockerfile": 3924
+        }
+    },
+    {
+        "name": "ObjectMapper",
+        "description": "Simple JSON Object mapping written in Swift",
+        "languages": {
+            "Swift": 322644,
+            "Objective-C": 1646,
+            "Ruby": 859
+        }
+    },
+    {
+        "name": "DeepCopy",
+        "description": "Create deep copies (clones) of your objects",
+        "languages": {
+            "PHP": 59296
+        }
+    },
+    {
+        "name": "http-foundation",
+        "description": "Defines an object-oriented layer for the HTTP specification",
+        "languages": {
+            "PHP": 894267
+        }
+    },
+    {
+        "name": "U-2-Net",
+        "description": "The code for our newly accepted paper in Pattern Recognition 2020: \"U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection.\"",
+        "languages": {
+            "Python": 56063
+        }
+    },
+    {
+        "name": "factory_bot",
+        "description": "A library for setting up Ruby objects as test data.",
+        "languages": {
+            "Ruby": 271636,
+            "Gherkin": 2265
+        }
+    },
+    {
+        "name": "ysoserial",
+        "description": "A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.",
+        "languages": {
+            "Java": 235762,
+            "Dockerfile": 416
+        }
+    },
+    {
+        "name": "awesome-object-detection",
+        "description": "Awesome Object Detection based on handong1587 github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html",
+        "languages": {}
+    },
+    {
+        "name": "objection.js",
+        "description": "An SQL-friendly ORM for Node.js",
+        "languages": {
+            "JavaScript": 2154131,
+            "TypeScript": 95844,
+            "PEG.js": 6103,
+            "Shell": 231
+        }
+    },
+    {
+        "name": "CenterNet",
+        "description": "Object detection, 3D detection, and pose estimation using center point detection: ",
+        "languages": {
+            "Python": 387613,
+            "Cuda": 75790,
+            "C++": 67823,
+            "C": 65393,
+            "Shell": 10278,
+            "Cython": 6865,
+            "Makefile": 94
+        }
+    },
+    {
+        "name": "objection",
+        "description": "\ud83d\udcf1 objection - runtime mobile exploration",
+        "languages": {
+            "Python": 380618,
+            "TypeScript": 197395,
+            "JavaScript": 12250,
+            "Objective-C": 517,
+            "Makefile": 260
+        }
+    },
+    {
+        "name": "connectedhomeip",
+        "description": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",
+        "languages": {
+            "C++": 25219859,
+            "Kotlin": 8742627,
+            "Java": 7588313,
+            "Python": 4503464,
+            "C": 2216961,
+            "Objective-C": 1551988,
+            "Objective-C++": 1010731,
+            "ZAP": 826827,
+            "Shell": 300545,
+            "CMake": 200644,
+            "Jinja": 120724,
+            "Dockerfile": 82712,
+            "Swift": 28569,
+            "JavaScript": 2484,
+            "Emacs Lisp": 1042,
+            "Tcl": 311
+        }
+    },
+    {
+        "name": "marshmallow",
+        "description": "A lightweight library for converting complex objects to and from simple Python datatypes.",
+        "languages": {
+            "Python": 531966
+        }
+    },
+    {
+        "name": "msgpack",
+        "description": "MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.",
+        "languages": {}
+    },
+    {
+        "name": "class-transformer",
+        "description": "Decorator-based transformation, serialization, and deserialization between objects and classes. ",
+        "languages": {
+            "TypeScript": 225228,
+            "JavaScript": 824
+        }
+    },
+    {
+        "name": "collect.js",
+        "description": "\ud83d\udc8e \u00a0Convenient and dependency free wrapper for working with arrays and objects",
+        "languages": {
+            "JavaScript": 397488
+        }
+    },
+    {
+        "name": "object-enumerator",
+        "description": "Traverses array structures and object graphs to enumerate all referenced objects",
+        "languages": {
+            "PHP": 18527
+        }
+    },
+    {
+        "name": "oocss",
+        "description": "Object Oriented CSS Framework",
+        "languages": {
+            "JavaScript": 128496,
+            "CSS": 6442,
+            "Ruby": 1673,
+            "Shell": 543
+        }
+    },
+    {
+        "name": "object-reflector",
+        "description": "Allows reflection of object attributes, including inherited and non-public ones",
+        "languages": {
+            "PHP": 17946
+        }
+    },
+    {
+        "name": "Track-Anything",
+        "description": "Track-Anything is a flexible and interactive tool for video object tracking and segmentation, based on Segment Anything, XMem, and E2FGVI.",
+        "languages": {
+            "Python": 280437,
+            "HTML": 2206
+        }
+    },
+    {
+        "name": "yolo_tracking",
+        "description": "BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models",
+        "languages": {
+            "Python": 735403,
+            "Dockerfile": 1737
+        }
+    },
+    {
+        "name": "objective-c-style-guide",
+        "description": "The Objective-C Style Guide used by The New York Times",
+        "languages": {}
+    },
+    {
+        "name": "hibernate-orm",
+        "description": "Hibernate's core Object/Relational Mapping functionality",
+        "languages": {
+            "Java": 50961983,
+            "Shell": 63369,
+            "ANTLR": 55151,
+            "Dockerfile": 8317,
+            "HTML": 4442,
+            "Groovy": 2244,
+            "Kotlin": 900
+        }
+    },
+    {
+        "name": "ransack",
+        "description": "Object-based searching. ",
+        "languages": {
+            "Ruby": 261158
+        }
+    },
+    {
+        "name": "nanodet",
+        "description": "NanoDet-Plus\u26a1Super fast and lightweight anchor-free object detection model. \ud83d\udd25Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone\ud83d\udd25",
+        "languages": {
+            "Python": 460465,
+            "C++": 111315,
+            "Java": 27671,
+            "CMake": 2781
+        }
+    },
+    {
+        "name": "YOLOv6",
+        "description": "YOLOv6: a single-stage object detection framework dedicated to industrial applications.",
+        "languages": {
+            "Jupyter Notebook": 16081105,
+            "Python": 702627,
+            "C++": 99519,
+            "Java": 5990,
+            "CMake": 4892,
+            "Shell": 733
+        }
+    },
+    {
+        "name": "vavr",
+        "description": "v\u028cvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.",
+        "languages": {
+            "Java": 4439778,
+            "Scala": 180392,
+            "Shell": 494
+        }
+    },
+    {
+        "name": "dgiot",
+        "description": "Open source platform for iot , 6 min Quick Deployment,10M devices connection,Carrier level Stability;\u7269\u8054\u7f51\u5f00\u6e90\u5e73\u53f0,6\u5206\u949f\u5feb\u901f\u90e8\u7f72,\u5343\u4e07\u7ea7\u627f\u8f7d,\u7535\u4fe1\u7ea7\u7a33\u5b9a\u6027. Low code for Object model-Rule Engine-Data Channel-Configuration Page; Fully open source, Multi industrial protocols are compatible.\u7269\u6a21\u578b-\u89c4\u5219\u5f15\u64ce-\u6570\u636e\u901a\u9053-\u7ec4\u6001\u9875\u9762\u5168\u6d41\u7a0b\u96f6\u4ee3\u7801\u5f00\u53d1\u3001\u5168\u4e1a\u52a1\u5168\u94fe\u8def\u6a21\u62df\u538b\u6d4b\u3001\u524d\u540e\u7aef\u5b8c\u5168\u5f00\u6e90\u3001\u591a\u884c\u4e1a\u5de5\u4e1a\u534f\u8bae\u517c\u5bb9\u3002QQ\u7fa4:346566935",
+        "languages": {
+            "Erlang": 4950669,
+            "Shell": 282417,
+            "Java": 35810,
+            "Elixir": 22118,
+            "Dockerfile": 16983,
+            "Makefile": 15855,
+            "Batchfile": 8232,
+            "C": 5158,
+            "Python": 5152,
+            "HTML": 3765,
+            "PHP": 3336,
+            "JavaScript": 2296,
+            "Mustache": 1036
+        }
+    },
+    {
+        "name": "seamless-immutable",
+        "description": "Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects.",
+        "languages": {
+            "JavaScript": 156973
+        }
+    },
+    {
+        "name": "transitions",
+        "description": "A lightweight, object-oriented finite state machine implementation in Python with many extensions",
+        "languages": {
+            "Python": 484139,
+            "Shell": 35
+        }
+    },
+    {
+        "name": "fast_jsonapi",
+        "description": "No Longer Maintained - A lightning fast JSON:API serializer for Ruby Objects.",
+        "languages": {
+            "Ruby": 137110
+        }
+    },
+    {
+        "name": "SqlSugar",
+        "description": ".Net aot ORM    Fastest ORM   Simple Easy  Sqlite  orm Oracle ORM Mysql Orm  postgresql ORm  SqlServer oRm     \u8fbe\u68a6 ORM \u4eba\u5927\u91d1\u4ed3 ORM \u795e\u901aORM  C# ORM , C# ORM .NET ORM NET5 ORM .NET6 ORM ClickHouse orm QuestDb ,TDengine ORM,OceanBase orm,GaussDB orm ,Tidb orm Object/Relational Mapping",
+        "languages": {
+            "C#": 20296828,
+            "TSQL": 10601,
+            "Batchfile": 1557
+        }
+    },
+    {
+        "name": "phpunit-mock-objects",
+        "description": "Mock Object library for PHPUnit",
+        "languages": {
+            "PHP": 321740
+        }
+    },
+    {
+        "name": "GroundingDINO",
+        "description": "Official implementation of the paper \"Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection\"",
+        "languages": {
+            "Python": 280499,
+            "Cuda": 62201,
+            "C++": 7002,
+            "Jupyter Notebook": 3151,
+            "Dockerfile": 1065
+        }
+    },
+    {
+        "name": "ProxyManager",
+        "description": "\ud83c\udfa9\u2728\ud83c\udf08 OOP Proxy wrappers/utilities - generates and manages proxies of your objects",
+        "languages": {
+            "PHP": 893368
+        }
+    },
+    {
+        "name": "Object-Detection-Metrics",
+        "description": "Most popular metrics used to evaluate object detection algorithms.",
+        "languages": {
+            "Python": 53767
+        }
+    },
+    {
+        "name": "node-xml2js",
+        "description": "XML to JavaScript object converter.",
+        "languages": {
+            "CoffeeScript": 57990
+        }
+    },
+    {
+        "name": "mmdetection3d",
+        "description": "OpenMMLab's next-generation platform for general 3D object detection.",
+        "languages": {
+            "Python": 5233663,
+            "Cuda": 38226,
+            "Shell": 31430,
+            "C++": 21485,
+            "MATLAB": 6441,
+            "Dockerfile": 4153
+        }
+    },
+    {
+        "name": "JSONExport",
+        "description": "JSONExport is a desktop application for Mac OS X which enables you to export JSON objects as model classes with their associated constructors, utility methods, setters and getters in your favorite language.",
+        "languages": {
+            "Swift": 120496
+        }
+    },
+    {
+        "name": "oboe.js",
+        "description": "A streaming approach to JSON. Oboe.js speeds up web applications by providing parsed objects before the response completes.",
+        "languages": {
+            "JavaScript": 503314
+        }
+    },
+    {
+        "name": "flux-standard-action",
+        "description": "A human-friendly standard for Flux action objects.",
+        "languages": {
+            "JavaScript": 2015,
+            "TypeScript": 1254
+        }
+    },
+    {
+        "name": "cglib",
+        "description": "cglib - Byte Code Generation Library is high level API to generate and transform Java byte code. It is used by AOP, testing, data access frameworks to generate dynamic proxy objects and intercept field access.",
+        "languages": {
+            "Java": 796458
+        }
+    },
+    {
+        "name": "PHP-FFMpeg",
+        "description": "An object oriented PHP driver for FFMpeg binary",
+        "languages": {
+            "PHP": 437972
+        }
+    },
+    {
+        "name": "jsondiffpatch",
+        "description": "Diff & patch JavaScript objects",
+        "languages": {
+            "TypeScript": 136597,
+            "CSS": 5061,
+            "JavaScript": 1700
+        }
+    },
+    {
+        "name": "TOCropViewController",
+        "description": "A view controller for iOS that allows users to crop portions of UIImage objects",
+        "languages": {
+            "Objective-C": 245303,
+            "Swift": 43842,
+            "Ruby": 7669
+        }
+    },
+    {
+        "name": "Sugar",
+        "description": "A Javascript library for working with native objects.",
+        "languages": {
+            "JavaScript": 2015284,
+            "HTML": 363578,
+            "CSS": 3944
+        }
+    },
+    {
+        "name": "prop-types",
+        "description": "Runtime type checking for React props and similar objects",
+        "languages": {
+            "JavaScript": 180769
+        }
+    },
+    {
+        "name": "JavaScript-Load-Image",
+        "description": "Load images provided as File or Blob objects or via URL. Retrieve an optionally scaled, cropped or rotated HTML img or canvas element. Use methods to parse image metadata to extract IPTC and Exif tags as well as embedded thumbnail images, to overwrite the Exif Orientation value and to restore the complete image header after resizing.",
+        "languages": {
+            "JavaScript": 182684,
+            "HTML": 7439,
+            "CSS": 4365,
+            "Shell": 365
+        }
+    },
+    {
+        "name": "Imagine",
+        "description": "PHP Object Oriented image manipulation library",
+        "languages": {
+            "PHP": 717071,
+            "Shell": 2559
+        }
+    },
+    {
+        "name": "pysot",
+        "description": "SenseTime Research platform for single object tracking, implementing algorithms like SiamRPN and SiamMask.",
+        "languages": {
+            "Python": 316986,
+            "C": 42271,
+            "Cython": 20453,
+            "C++": 13023,
+            "MATLAB": 1287,
+            "Shell": 792,
+            "Makefile": 257
+        }
+    },
+    {
+        "name": "keras-retinanet",
+        "description": "Keras implementation of RetinaNet object detection.",
+        "languages": {
+            "Python": 313276,
+            "Cython": 1655
+        }
+    },
+    {
+        "name": "OpenPCDet",
+        "description": "OpenPCDet Toolbox for LiDAR-based 3D Object Detection.",
+        "languages": {
+            "Python": 1355208,
+            "Cuda": 115532,
+            "C++": 69570,
+            "Dockerfile": 5620,
+            "C": 4214,
+            "Shell": 3643
+        }
+    },
+    {
+        "name": "objectbox-java",
+        "description": "Java and Android Database - fast and lightweight without any ORM",
+        "languages": {
+            "Java": 1365681,
+            "Kotlin": 29428,
+            "Shell": 3792,
+            "Groovy": 3057,
+            "HTML": 691
+        }
+    },
+    {
+        "name": "jbuilder",
+        "description": "Jbuilder: generate JSON objects with a Builder-style DSL",
+        "languages": {
+            "Ruby": 85491
+        }
+    },
+    {
+        "name": "objectdetection_script",
+        "description": "\u4e00\u4e9b\u5173\u4e8e\u76ee\u6807\u68c0\u6d4b\u7684\u811a\u672c\u7684\u6539\u8fdb\u601d\u8def\u4ee3\u7801\uff0c\u8be6\u7ec6\u8bf7\u770breadme.md",
+        "languages": {
+            "Python": 1413506,
+            "Cuda": 57993,
+            "C++": 8224,
+            "Shell": 6795,
+            "Dockerfile": 3530
+        }
+    },
+    {
+        "name": "ByteTrack",
+        "description": "[ECCV 2022] ByteTrack: Multi-Object Tracking by Associating Every Detection Box",
+        "languages": {
+            "Python": 1080069,
+            "C++": 195852,
+            "CMake": 7695,
+            "C": 4558,
+            "Dockerfile": 2435
+        }
+    },
+    {
+        "name": "VoTT",
+        "description": "Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos. ",
+        "languages": {
+            "TypeScript": 1349996,
+            "JavaScript": 50620,
+            "SCSS": 26720,
+            "Shell": 10127,
+            "HTML": 4921,
+            "EJS": 1256
+        }
+    },
+    {
+        "name": "HandyJSON",
+        "description": "A handy swift json-object serialization/deserialization library",
+        "languages": {
+            "Swift": 290158,
+            "Shell": 1466,
+            "C": 1002,
+            "Ruby": 787
+        }
+    },
+    {
+        "name": "mongoengine",
+        "description": "A Python Object-Document-Mapper for working with MongoDB",
+        "languages": {
+            "Python": 1327968
+        }
+    },
+    {
+        "name": "Mapster",
+        "description": "A fast, fun and stimulating object to object Mapper",
+        "languages": {
+            "C#": 885624,
+            "Batchfile": 466
+        }
+    },
+    {
+        "name": "notebooks",
+        "description": "Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.",
+        "languages": {
+            "Jupyter Notebook": 237000073,
+            "Python": 7087
+        }
+    },
+    {
+        "name": "cdk8s",
+        "description": "Define Kubernetes native apps and abstractions using object-oriented programming",
+        "languages": {
+            "JavaScript": 94870,
+            "CSS": 57970,
+            "HTML": 15808,
+            "TypeScript": 6449,
+            "Shell": 1856
+        }
+    },
+    {
+        "name": "awesome_print",
+        "description": "Pretty print your Ruby objects with style -- in full color and with proper indentation",
+        "languages": {
+            "Ruby": 148476
+        }
+    },
+    {
+        "name": "grokking-the-object-oriented-design-interview",
+        "description": null,
+        "languages": {
+            "Python": 109676
+        }
+    },
+    {
+        "name": "dependency-injection",
+        "description": "Allows you to standardize and centralize the way objects are constructed in your application",
+        "languages": {
+            "PHP": 2050197
+        }
+    },
+    {
+        "name": "FairMOT",
+        "description": "[IJCV-2021] FairMOT: On the Fairness of Detection and Re-Identification in Multi-Object Tracking",
+        "languages": {
+            "Python": 356712,
+            "Dockerfile": 2854,
+            "Shell": 2360
+        }
+    },
+    {
+        "name": "mongoid",
+        "description": "The Official Ruby Object Mapper for MongoDB",
+        "languages": {
+            "Ruby": 4895134,
+            "Shell": 67488,
+            "HTML": 23983,
+            "Dockerfile": 185
+        }
+    },
+    {
+        "name": "persistence",
+        "description": "The Doctrine Persistence project is a library that provides common abstractions for object mapper persistence.",
+        "languages": {
+            "PHP": 183979
+        }
+    },
+    {
+        "name": "celluloid",
+        "description": "Actor-based concurrent object framework for Ruby",
+        "languages": {
+            "Ruby": 255396
+        }
+    },
+    {
+        "name": "nconf",
+        "description": "Hierarchical node.js configuration with files, environment variables, command-line arguments, and atomic object merging.",
+        "languages": {
+            "JavaScript": 95467
+        }
+    },
+    {
+        "name": "Toast",
+        "description": "An Objective-C category that adds toast notifications to the UIView object class.",
+        "languages": {
+            "Objective-C": 56649,
+            "Ruby": 661
+        }
+    },
+    {
+        "name": "virtus",
+        "description": "[DISCONTINUED ] Attributes on Steroids for Plain Old Ruby Objects",
+        "languages": {
+            "Ruby": 178703
+        }
+    },
+    {
+        "name": "sort",
+        "description": "Simple, online, and realtime tracking of multiple objects in a video sequence.",
+        "languages": {
+            "Python": 11739
+        }
+    },
+    {
+        "name": "AnyDoor",
+        "description": "Official implementations for paper: Anydoor: zero-shot object-level image customization",
+        "languages": {
+            "Python": 841277,
+            "Shell": 475
+        }
+    },
+    {
+        "name": "DAMO-YOLO",
+        "description": "DAMO-YOLO: a fast and accurate object detection method with some new techs, including NAS backbones, efficient RepGFPN, ZeroHead, AlignedOTA, and distillation enhancement.",
+        "languages": {
+            "Python": 419612,
+            "Shell": 811
+        }
+    },
+    {
+        "name": "shapely",
+        "description": "Manipulation and analysis of geometric objects",
+        "languages": {
+            "Python": 1014237,
+            "C": 260080,
+            "Cython": 21319,
+            "Shell": 2188,
+            "Batchfile": 824
+        }
+    },
+    {
+        "name": "tf-faster-rcnn",
+        "description": "Tensorflow Faster RCNN for Object Detection",
+        "languages": {
+            "Python": 194448,
+            "Shell": 6480,
+            "Cython": 5108,
+            "Cuda": 5064,
+            "MATLAB": 1821,
+            "Roff": 1195,
+            "C++": 146,
+            "Makefile": 94
+        }
+    },
+    {
+        "name": "MoreLINQ",
+        "description": "Extensions to LINQ to Objects",
+        "languages": {
+            "C#": 1810950,
+            "Batchfile": 4390,
+            "PowerShell": 2606,
+            "Shell": 2194
+        }
+    },
+    {
+        "name": "Toast-Swift",
+        "description": "A Swift extension that adds toast notifications to the UIView object class.",
+        "languages": {
+            "Swift": 44144,
+            "Ruby": 641,
+            "Objective-C": 589
+        }
+    },
+    {
+        "name": "Objective-C",
+        "description": "A few code snippets from my Xcode arsenal",
+        "languages": {
+            "Objective-C": 11962,
+            "Mercury": 1501
+        }
+    },
+    {
+        "name": "django-guardian",
+        "description": "Per object permissions for Django",
+        "languages": {
+            "Python": 368360,
+            "HTML": 30979,
+            "Shell": 269
+        }
+    },
+    {
+        "name": "pony",
+        "description": "Pony Object Relational Mapper",
+        "languages": {
+            "Python": 1295116,
+            "JavaScript": 26609,
+            "HTML": 3440,
+            "Batchfile": 1254,
+            "Shell": 744
+        }
+    },
+    {
+        "name": "microdiff",
+        "description": "A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.",
+        "languages": {
+            "JavaScript": 8240,
+            "TypeScript": 2273
+        }
+    },
+    {
+        "name": "SiamMask",
+        "description": "[CVPR2019] Fast Online Object Tracking and Segmentation: A Unifying Approach",
+        "languages": {
+            "Python": 398362,
+            "C": 74117,
+            "C++": 13023,
+            "Shell": 10971,
+            "Makefile": 257
+        }
+    },
+    {
+        "name": "mmtracking",
+        "description": "OpenMMLab Video Perception Toolbox. It supports Video Object Detection (VID), Multiple Object Tracking (MOT), Single Object Tracking (SOT), Video Instance Segmentation (VIS) with a unified framework.",
+        "languages": {
+            "Python": 1331286,
+            "Shell": 9216,
+            "Dockerfile": 1078
+        }
+    },
+    {
+        "name": "immutables",
+        "description": "Annotation processor to create immutable objects and builders. Feels like Guava's immutable collections but for regular value objects. JSON, Jackson, Gson, JAX-RS integrations included",
+        "languages": {
+            "Java": 3689355
+        }
+    },
+    {
+        "name": "YOLO-World",
+        "description": "[CVPR 2024] Real-Time Open-Vocabulary Object Detection",
+        "languages": {
+            "Jupyter Notebook": 1033060,
+            "Python": 603701,
+            "C++": 3713,
+            "Dockerfile": 1148,
+            "CMake": 1089,
+            "Shell": 928
+        }
+    },
+    {
+        "name": "sticky",
+        "description": "jQuery Plugin for Sticky Objects",
+        "languages": {
+            "JavaScript": 10085,
+            "HTML": 3171
+        }
+    },
+    {
+        "name": "pytorch-yolo-v3",
+        "description": "A PyTorch implementation of the YOLO v3 object detection algorithm",
+        "languages": {
+            "Python": 62264
+        }
+    },
+    {
+        "name": "FCOS",
+        "description": "FCOS: Fully Convolutional One-Stage Object Detection (ICCV'19)",
+        "languages": {
+            "Python": 536002,
+            "Cuda": 126507,
+            "C++": 19276,
+            "C": 10984,
+            "Dockerfile": 3563
+        }
+    },
+    {
+        "name": "wisper",
+        "description": "A micro library providing Ruby objects with Publish-Subscribe capabilities",
+        "languages": {
+            "Ruby": 48567,
+            "Shell": 74
+        }
+    },
+    {
+        "name": "AutoFixture",
+        "description": "AutoFixture is an open source library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability. Its primary goal is to allow developers to focus on what is being tested rather than how to setup the test scenario, by making it easier to create object graphs containing test data.",
+        "languages": {
+            "C#": 3801335,
+            "F#": 42075,
+            "Batchfile": 636,
+            "Puppet": 156
+        }
+    },
+    {
+        "name": "Dreambooth-Stable-Diffusion",
+        "description": "Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused on training faces, objects, and styles.",
+        "languages": {
+            "Jupyter Notebook": 4221930,
+            "Python": 498359,
+            "Shell": 3005
+        }
+    },
+    {
+        "name": "proposal-temporal",
+        "description": "Provides standard objects and functions for working with dates and times.",
+        "languages": {
+            "HTML": 1009817,
+            "JavaScript": 527778,
+            "Shell": 1740
+        }
+    },
+    {
+        "name": "ron",
+        "description": "Rusty Object Notation",
+        "languages": {
+            "Rust": 837701
+        }
+    },
+    {
+        "name": "objective-c-style-guide",
+        "description": "A style guide that outlines the coding conventions for Kodeco",
+        "languages": {}
+    },
+    {
+        "name": "simpledet",
+        "description": "A Simple and Versatile Framework for Object Detection and Instance Recognition",
+        "languages": {
+            "Python": 1780943,
+            "C++": 474826,
+            "Cuda": 212680,
+            "Cython": 13137,
+            "Shell": 5501,
+            "Dockerfile": 4746,
+            "Makefile": 153
+        }
+    },
+    {
+        "name": "node-orm2",
+        "description": "Object Relational Mapping",
+        "languages": {
+            "JavaScript": 648821,
+            "Makefile": 205
+        }
+    },
+    {
+        "name": "TMCache",
+        "description": "Fast parallel object cache for iOS and OS X.",
+        "languages": {
+            "Objective-C": 110651,
+            "Shell": 797,
+            "Ruby": 674
+        }
+    },
+    {
+        "name": "stampit",
+        "description": "OOP is better with stamps: Composable object factories.",
+        "languages": {
+            "JavaScript": 68726,
+            "TypeScript": 14797,
+            "HTML": 84
+        }
+    },
+    {
+        "name": "flutter_hooks",
+        "description": "React hooks for Flutter. Hooks are a new kind of object that manages a Widget life-cycles. They are used to increase code sharing between widgets and as a complete replacement for StatefulWidget.",
+        "languages": {
+            "Dart": 266911
+        }
+    },
+    {
+        "name": "olric",
+        "description": "Distributed in-memory object store. It can be used as an embedded Go library and a language-independent service.",
+        "languages": {
+            "Go": 818741,
+            "Dockerfile": 705,
+            "Shell": 410
+        }
+    },
+    {
+        "name": "sunspot",
+        "description": "Solr-powered search for Ruby objects",
+        "languages": {
+            "JavaScript": 1144139,
+            "Ruby": 721138,
+            "CSS": 225336,
+            "HTML": 181738,
+            "Shell": 74327,
+            "Batchfile": 47140,
+            "AMPL": 291
+        }
+    },
+    {
+        "name": "a-PyTorch-Tutorial-to-Object-Detection",
+        "description": "SSD: Single Shot MultiBox Detector | a PyTorch Tutorial to Object Detection",
+        "languages": {
+            "Python": 81286
+        }
+    },
+    {
+        "name": "diff",
+        "description": "Javascript utility for calculating deep difference, capturing changes, and applying changes across objects; for nodejs and the browser.",
+        "languages": {
+            "JavaScript": 40582,
+            "HTML": 983
+        }
+    },
+    {
+        "name": "boom",
+        "description": "HTTP-friendly error objects",
+        "languages": {
+            "JavaScript": 46860,
+            "TypeScript": 15594
+        }
+    },
+    {
+        "name": "Deformable-DETR",
+        "description": "Deformable DETR: Deformable Transformers for End-to-End Object Detection.",
+        "languages": {
+            "Python": 193167,
+            "Cuda": 62010,
+            "C++": 6172,
+            "Shell": 3530
+        }
+    },
+    {
+        "name": "TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10",
+        "description": "How to train a TensorFlow Object Detection Classifier for multiple object detection on Windows",
+        "languages": {
+            "Python": 22760
+        }
+    },
+    {
+        "name": "storj",
+        "description": "Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.",
+        "languages": {
+            "Go": 10348143,
+            "Vue": 1745758,
+            "TypeScript": 787070,
+            "HTML": 264304,
+            "Shell": 143921,
+            "Rich Text Format": 64772,
+            "JavaScript": 35702,
+            "SCSS": 27496,
+            "C#": 23544,
+            "Makefile": 23421,
+            "Svelte": 9307,
+            "Python": 6606,
+            "Earthly": 5574,
+            "CSS": 3326,
+            "Dockerfile": 3169,
+            "Batchfile": 2725
+        }
+    },
+    {
+        "name": "mAP",
+        "description": "mean Average Precision - This code evaluates the performance of your neural net for object recognition.",
+        "languages": {
+            "Python": 50663
+        }
+    },
+    {
+        "name": "BEVFormer",
+        "description": "[ECCV 2022] This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.",
+        "languages": {
+            "Python": 1104559,
+            "Shell": 810
+        }
+    },
+    {
+        "name": "kubectl-tree",
+        "description": "kubectl plugin to browse Kubernetes object hierarchies as a tree \ud83c\udf84 (star the repo if you are using)",
+        "languages": {
+            "Go": 18559
+        }
+    },
+    {
+        "name": "property-access",
+        "description": "Provides functions to read and write from/to an object or array using a simple string notation",
+        "languages": {
+            "PHP": 161093
+        }
+    },
+    {
+        "name": "dimple",
+        "description": "An object-oriented API for business analytics",
+        "languages": {
+            "JavaScript": 731186,
+            "HTML": 9218
+        }
+    },
+    {
+        "name": "deepmerge",
+        "description": "A library for deep (recursive) merging of Javascript objects",
+        "languages": {
+            "JavaScript": 23396,
+            "TypeScript": 1014
+        }
+    },
+    {
+        "name": "SNIPER",
+        "description": "SNIPER / AutoFocus is an efficient multi-scale object detection training / inference algorithm",
+        "languages": {
+            "Python": 454011,
+            "Cuda": 292624,
+            "Cython": 22173,
+            "C": 9633,
+            "C++": 6129,
+            "Shell": 4737,
+            "Dockerfile": 1232
+        }
+    },
+    {
+        "name": "AlamofireObjectMapper",
+        "description": "An Alamofire extension which converts JSON response data into swift objects using ObjectMapper",
+        "languages": {
+            "Swift": 30606,
+            "Objective-C": 1708,
+            "Ruby": 858
+        }
+    },
+    {
+        "name": "PINCache",
+        "description": "Fast, non-deadlocking parallel object cache for iOS, tvOS and OS X",
+        "languages": {
+            "Objective-C": 217371,
+            "Shell": 4738,
+            "Swift": 3424,
+            "Makefile": 1717,
+            "Ruby": 1197,
+            "C": 756
+        }
+    },
+    {
+        "name": "vifm",
+        "description": "Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.",
+        "languages": {
+            "C": 6473250,
+            "Roff": 251949,
+            "Makefile": 193704,
+            "Shell": 102317,
+            "M4": 67487,
+            "Lua": 58646,
+            "Vim Script": 51016,
+            "Perl": 16587,
+            "CSS": 9957,
+            "Python": 3407
+        }
+    },
+    {
+        "name": "video-object-removal",
+        "description": "Just draw a bounding box and you can remove the object you want to remove.",
+        "languages": {
+            "Python": 243275,
+            "C": 94223,
+            "Cuda": 55675,
+            "C++": 5113,
+            "Shell": 3064
+        }
+    },
+    {
+        "name": "kube-score",
+        "description": "Kubernetes object analysis with recommendations for improved reliability and security. kube-score actively prevents downtime and bugs in your Kubernetes YAML and Charts. Static code analysis for Kubernetes.",
+        "languages": {
+            "Go": 276801,
+            "Dockerfile": 4615,
+            "Shell": 3889,
+            "Python": 364
+        }
+    },
+    {
+        "name": "targets.vim",
+        "description": "Vim plugin that provides additional text objects",
+        "languages": {
+            "Vim Script": 89042,
+            "Makefile": 1769
+        }
+    },
+    {
+        "name": "learning-oop-in-php",
+        "description": "A collection of resources to learn object-oriented programming and related concepts for PHP developers.",
+        "languages": {}
+    },
+    {
+        "name": "reform",
+        "description": "Form objects decoupled from models.",
+        "languages": {
+            "Ruby": 150866
+        }
+    },
+    {
+        "name": "zero123",
+        "description": "Zero-1-to-3: Zero-shot One Image to 3D Object (ICCV 2023)",
+        "languages": {
+            "Python": 773834,
+            "Shell": 589
+        }
+    },
+    {
+        "name": "serializer",
+        "description": "Handles serializing and deserializing data structures, including object graphs, into array structures or other formats like XML and JSON.",
+        "languages": {
+            "PHP": 1062298
+        }
+    },
+    {
+        "name": "Segment-and-Track-Anything",
+        "description": "An open-source project dedicated to tracking and segmenting any objects in videos, either automatically or interactively. The primary algorithms utilized include the Segment Anything Model (SAM) for key-frame segmentation and Associating Objects with Transformers (AOT) for efficient tracking and propagation purposes.",
+        "languages": {
+            "Jupyter Notebook": 12808802,
+            "Python": 582109,
+            "Shell": 2717
+        }
+    },
+    {
+        "name": "scikit-plot",
+        "description": "An intuitive library to add plotting functionality to scikit-learn objects.",
+        "languages": {
+            "Python": 206985
+        }
+    },
+    {
+        "name": "Deep-Learning-for-Tracking-and-Detection",
+        "description": "Collection of papers, datasets, code and other resources for object tracking and detection using deep learning",
+        "languages": {
+            "HTML": 438517,
+            "Shell": 181
+        }
+    },
+    {
+        "name": "douyin-ios-objectc",
+        "description": "\u6296\u97f3 iOS Object-C\u7248",
+        "languages": {
+            "Objective-C": 420090,
+            "Ruby": 166
+        }
+    },
+    {
+        "name": "progress.js",
+        "description": "ProgressJs is a JavaScript and CSS3 library which help developers to create and manage progress bar for every objects on the page. ",
+        "languages": {
+            "JavaScript": 18383,
+            "CSS": 5274
+        }
+    },
+    {
+        "name": "vuex-orm",
+        "description": "The Vuex plugin to enable Object-Relational Mapping access to the Vuex Store.",
+        "languages": {
+            "TypeScript": 623030,
+            "JavaScript": 6892
+        }
+    },
+    {
+        "name": "Box",
+        "description": "Python dictionaries with advanced dot notation access",
+        "languages": {
+            "Python": 166619
+        }
+    },
+    {
+        "name": "Towards-Realtime-MOT",
+        "description": "Joint Detection and Embedding for fast multi-object tracking",
+        "languages": {
+            "Python": 137307,
+            "Dockerfile": 212
+        }
+    },
+    {
+        "name": "magic-copy",
+        "description": "Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.",
+        "languages": {
+            "TypeScript": 83427,
+            "JavaScript": 5164,
+            "Shell": 3476,
+            "Python": 721,
+            "Dockerfile": 467,
+            "HTML": 291
+        }
+    },
+    {
+        "name": "Paper",
+        "description": "Paper is a fast NoSQL-like storage for Java/Kotlin objects on Android with automatic schema migration support.",
+        "languages": {
+            "Java": 84607,
+            "Kotlin": 2780,
+            "Shell": 238
+        }
+    },
+    {
+        "name": "CenterTrack",
+        "description": "Simultaneous object detection and tracking using center points.",
+        "languages": {
+            "Python": 472336,
+            "Shell": 5233
+        }
+    },
+    {
+        "name": "YOLO_v3_tutorial_from_scratch",
+        "description": "Accompanying code for Paperspace tutorial series \"How to Implement YOLO v3 Object Detector from Scratch\"",
+        "languages": {
+            "Python": 31012
+        }
+    },
+    {
+        "name": "mapperly",
+        "description": "A .NET source generator for generating object mappings. No runtime reflection.",
+        "languages": {
+            "C#": 1870867,
+            "Shell": 1417
+        }
+    },
+    {
+        "name": "LiveScript",
+        "description": "LiveScript is a language which compiles to JavaScript. It has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate. While LiveScript adds many features to assist in functional style programming, it also has many improvements for object oriented and imperative programming. ",
+        "languages": {
+            "LiveScript": 383279,
+            "JavaScript": 7126,
+            "HTML": 2422,
+            "Makefile": 1308
+        }
+    },
+    {
+        "name": "elfshaker",
+        "description": "elfshaker stores binary objects efficiently",
+        "languages": {
+            "Rust": 220439,
+            "Shell": 61529,
+            "Go": 15953,
+            "Nix": 8961
+        }
+    },
+    {
+        "name": "norfair",
+        "description": "Lightweight Python library for adding real-time multi-object tracking to any detector.",
+        "languages": {
+            "Python": 198651
+        }
+    },
+    {
+        "name": "minio-go",
+        "description": "MinIO Go client SDK for S3 compatible object storage",
+        "languages": {
+            "Go": 1447912,
+            "Makefile": 1572
+        }
+    },
+    {
+        "name": "Getting-Things-Done-with-Pytorch",
+        "description": "Jupyter Notebook tutorials on solving real-world problems with Machine Learning & Deep Learning using PyTorch. Topics: Face detection with Detectron 2, Time Series anomaly detection with LSTM Autoencoders, Object Detection with YOLO v5, Build your first Neural Network, Time Series forecasting for Coronavirus daily cases, Sentiment Analysis with BERT.",
+        "languages": {
+            "Jupyter Notebook": 46825310
+        }
+    },
+    {
+        "name": "modelmapper",
+        "description": "Intelligent object mapping",
+        "languages": {
+            "Java": 1122388,
+            "Groovy": 500,
+            "Shell": 443
+        }
+    },
+    {
+        "name": "data-transfer-object",
+        "description": "Data transfer objects with batteries included",
+        "languages": {
+            "PHP": 66636
+        }
+    },
+    {
+        "name": "Objectron",
+        "description": "Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera moves around and above the object and captures it from different views. Each object is annotated with a 3D bounding box. The 3D bounding box describes the object\u2019s position, orientation, and dimensions. The dataset contains about 15K annotated video clips and 4M annotated images in the following categories: bikes, books, bottles, cameras, cereal boxes, chairs, cups, laptops, and shoes",
+        "languages": {
+            "Jupyter Notebook": 11990044,
+            "Python": 55115
+        }
+    },
+    {
+        "name": "js-search",
+        "description": "JS Search is an efficient, client-side search library for JavaScript and JSON objects",
+        "languages": {
+            "JavaScript": 61066,
+            "HTML": 575
+        }
+    },
+    {
+        "name": "kubric",
+        "description": "A data generation pipeline for creating semi-realistic synthetic multi-object videos with rich annotations such as instance segmentation masks, depth maps, and optical flow.",
+        "languages": {
+            "Jupyter Notebook": 6178517,
+            "Python": 926464,
+            "Makefile": 9314,
+            "Dockerfile": 7915,
+            "Shell": 5966
+        }
+    },
+    {
+        "name": "ObjectiveSugar",
+        "description": "ObjectiveC additions for humans. Ruby style.",
+        "languages": {
+            "Objective-C": 63354,
+            "Ruby": 995,
+            "Makefile": 393
+        }
+    },
+    {
+        "name": "countries",
+        "description": "All sorts of useful information about every country packaged as convenient little country objects. It includes data from ISO 3166 (countries and states/subdivisions ), ISO 4217 (currency), and E.164 (phone numbers).",
+        "languages": {
+            "Ruby": 105254
+        }
+    },
+    {
+        "name": "ocmock",
+        "description": "Mock objects for Objective-C",
+        "languages": {
+            "Objective-C": 403135,
+            "Ruby": 7721,
+            "Objective-C++": 6115,
+            "Makefile": 4915,
+            "C": 4908,
+            "Swift": 1700,
+            "MATLAB": 16
+        }
+    },
+    {
+        "name": "Watch.JS",
+        "description": "watch the changes of any object or attribute",
+        "languages": {
+            "JavaScript": 119120,
+            "CSS": 4827,
+            "HTML": 424
+        }
+    },
+    {
+        "name": "pytorch-retinanet",
+        "description": "Pytorch implementation of RetinaNet object detection.",
+        "languages": {
+            "Python": 83535
+        }
+    },
+    {
+        "name": "php-github-api",
+        "description": "A simple PHP GitHub API client, Object Oriented, tested and documented.",
+        "languages": {
+            "PHP": 793073
+        }
+    },
+    {
+        "name": "Multitarget-tracker",
+        "description": "Multiple Object Tracker, Based on  Hungarian algorithm + Kalman filter.",
+        "languages": {
+            "C++": 2520889,
+            "C": 1475629,
+            "Cuda": 368498,
+            "CMake": 45915,
+            "Python": 15857,
+            "Assembly": 8028,
+            "Batchfile": 2515,
+            "Shell": 400
+        }
+    },
+    {
+        "name": "nhibernate-core",
+        "description": "NHibernate Object Relational Mapper",
+        "languages": {
+            "C#": 23768905,
+            "TSQL": 935047,
+            "GAP": 44395,
+            "JavaScript": 34059,
+            "Visual Basic .NET": 14311,
+            "Batchfile": 11357,
+            "PowerShell": 7787,
+            "Shell": 4665,
+            "HTML": 1164
+        }
+    },
+    {
+        "name": "OpenTLD",
+        "description": "OpenTLD is an open source library for real-time 2D tracking of a single object in video. This repository is no longer under development. For latest version see: http://www.tldvision.com/tld2.html",
+        "languages": {
+            "MATLAB": 100918,
+            "C++": 56926,
+            "M": 20503,
+            "Objective-C": 10760,
+            "C": 869
+        }
+    },
+    {
+        "name": "redis-objects",
+        "description": "Map Redis types directly to Ruby objects",
+        "languages": {
+            "Ruby": 192897
+        }
+    },
+    {
+        "name": "darknet_ros",
+        "description": "YOLO ROS: Real-Time Object Detection for ROS",
+        "languages": {
+            "C++": 36482,
+            "CMake": 9746
+        }
+    },
+    {
+        "name": "component",
+        "description": "Managed lifecycle of stateful objects in Clojure",
+        "languages": {
+            "Clojure": 31948
+        }
+    },
+    {
+        "name": "featherlight",
+        "description": "Featherlight is a very lightweight jQuery lightbox plugin. It's simple yet flexible and easy to use. Featherlight has minimal css and uses no inline styles, everything is name-spaced, it's completely customizable via config object and offers image, ajax and iframe support out of the box. Featherlights small footprint weights about 4kB \u2013 in total.",
+        "languages": {
+            "JavaScript": 66504,
+            "HTML": 39021,
+            "CSS": 5958
+        }
+    },
+    {
+        "name": "dozer",
+        "description": "Dozer is a Java Bean to Java Bean mapper that recursively copies data from one object to another. ",
+        "languages": {
+            "Java": 2215730
+        }
+    },
+    {
+        "name": "her",
+        "description": "Her is an ORM (Object Relational Mapper) that maps REST resources to Ruby objects. It is designed to build applications that are powered by a RESTful API instead of a database.",
+        "languages": {
+            "Ruby": 233529,
+            "Roff": 333
+        }
+    },
+    {
+        "name": "object-fit-images",
+        "description": "\ud83d\uddfb Polyfill object-fit/object-position on <img>: IE9, IE10, IE11, Edge, Safari, ...",
+        "languages": {
+            "JavaScript": 6612,
+            "CSS": 1341,
+            "HTML": 143
+        }
+    },
+    {
+        "name": "idiorm",
+        "description": "A lightweight nearly-zero-configuration object-relational mapper and fluent query builder for PHP5.",
+        "languages": {
+            "PHP": 188678,
+            "Dockerfile": 7499
+        }
+    },
+    {
+        "name": "coco-annotator",
+        "description": ":pencil2: Web-based image segmentation tool for object detection, localization, and keypoints",
+        "languages": {
+            "Vue": 291369,
+            "Python": 142211,
+            "JavaScript": 65440,
+            "CSS": 4100,
+            "Dockerfile": 2457,
+            "HTML": 839,
+            "Shell": 465
+        }
+    },
+    {
+        "name": "DINO",
+        "description": "[ICLR 2023] Official implementation of the paper \"DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection\"",
+        "languages": {
+            "Python": 473905,
+            "Jupyter Notebook": 211316,
+            "Cuda": 62010,
+            "C++": 6172,
+            "Shell": 4501
         }
     }
 ]

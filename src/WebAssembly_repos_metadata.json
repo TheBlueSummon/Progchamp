@@ -62,5 +62,2503 @@
             "JavaScript": 11307,
             "Makefile": 462
         }
+    },
+    {
+        "name": "webassembly-examples",
+        "description": "Code examples that accompany the MDN WebAssembly documentation \u2014 see https://developer.mozilla.org/en-US/docs/WebAssembly. ",
+        "languages": {
+            "WebAssembly": 322055,
+            "JavaScript": 237220,
+            "HTML": 16576,
+            "C": 2582,
+            "Rust": 172
+        }
+    },
+    {
+        "name": "awesome-wasm-zh",
+        "description": "WebAssembly(wasm)\u8d44\u6e90\u7cbe\u9009",
+        "languages": {
+            "WebAssembly": 506
+        }
+    },
+    {
+        "name": "gc",
+        "description": "Branch of the spec repo scoped to discussion of GC integration in WebAssembly",
+        "languages": {
+            "WebAssembly": 10693104,
+            "Python": 603844,
+            "OCaml": 493176,
+            "JavaScript": 303304,
+            "Bikeshed": 87597,
+            "Makefile": 20025,
+            "Perl": 15547,
+            "Batchfile": 8672,
+            "Shell": 7267,
+            "HTML": 3148,
+            "CSS": 1165,
+            "TeX": 585,
+            "Standard ML": 346
+        }
+    },
+    {
+        "name": "threads",
+        "description": "Threads and Atomics in WebAssembly",
+        "languages": {
+            "WebAssembly": 2765241,
+            "OCaml": 278405,
+            "JavaScript": 180897,
+            "Python": 92502,
+            "Bikeshed": 78528,
+            "Batchfile": 21871,
+            "Makefile": 19992,
+            "Perl": 15547,
+            "Shell": 12935,
+            "HTML": 3148,
+            "CSS": 1057,
+            "TeX": 311,
+            "Standard ML": 257
+        }
+    },
+    {
+        "name": "interface-types",
+        "description": null,
+        "languages": {
+            "WebAssembly": 2262069,
+            "OCaml": 214820,
+            "JavaScript": 77109,
+            "Python": 29737,
+            "Batchfile": 24892,
+            "Makefile": 12816,
+            "Shell": 10003,
+            "CSS": 1057,
+            "Standard ML": 257
+        }
+    },
+    {
+        "name": "simd",
+        "description": "Branch of the spec repo scoped to discussion of SIMD in WebAssembly ",
+        "languages": {
+            "WebAssembly": 10516996,
+            "Python": 596759,
+            "OCaml": 404091,
+            "JavaScript": 267076,
+            "Batchfile": 21873,
+            "Makefile": 21659,
+            "Perl": 15547,
+            "Shell": 9416,
+            "HTML": 3148,
+            "CSS": 1123,
+            "TeX": 311,
+            "Standard ML": 164
+        }
+    },
+    {
+        "name": "waforth",
+        "description": "Small but complete dynamic Forth Interpreter/Compiler for and in WebAssembly",
+        "languages": {
+            "WebAssembly": 145125,
+            "TypeScript": 85249,
+            "Forth": 84984,
+            "JavaScript": 74575,
+            "C++": 24166,
+            "C": 11907,
+            "Makefile": 10347,
+            "CSS": 4849,
+            "HTML": 81
+        }
+    },
+    {
+        "name": "raw-wasm",
+        "description": "Raw WebAssembly demos",
+        "languages": {
+            "WebAssembly": 245052,
+            "HTML": 56053,
+            "JavaScript": 35858,
+            "Python": 18809,
+            "CSS": 4741,
+            "Roff": 2873,
+            "Makefile": 1450
+        }
+    },
+    {
+        "name": "wasm",
+        "description": "Haskell compiler infastructure for WebAssembly",
+        "languages": {
+            "WebAssembly": 2267199,
+            "Haskell": 25184,
+            "Yacc": 5873,
+            "Logos": 5758,
+            "Shell": 1860,
+            "JavaScript": 97
+        }
+    },
+    {
+        "name": "Uno.Wasm.Bootstrap",
+        "description": "A simple nuget package to run C# code in a WASM-compatible browser",
+        "languages": {
+            "WebAssembly": 8102004,
+            "JavaScript": 3042691,
+            "C#": 426059,
+            "HTML": 104276,
+            "TypeScript": 41204,
+            "CSS": 9509,
+            "Shell": 6246,
+            "C++": 3341,
+            "PowerShell": 2149,
+            "Batchfile": 1905,
+            "Python": 1561
+        }
+    },
+    {
+        "name": "wasabi",
+        "description": "A dynamic analysis framework for WebAssembly programs.",
+        "languages": {
+            "WebAssembly": 634249,
+            "Rust": 358140,
+            "JavaScript": 249564,
+            "HTML": 101187,
+            "Shell": 24272,
+            "Python": 13014,
+            "C": 837
+        }
+    },
+    {
+        "name": "esm-integration",
+        "description": "ECMAScript module integration",
+        "languages": {
+            "WebAssembly": 10494186,
+            "Python": 598775,
+            "OCaml": 409025,
+            "JavaScript": 269598,
+            "Bikeshed": 91540,
+            "Makefile": 23402,
+            "Perl": 15547,
+            "Batchfile": 8672,
+            "Shell": 7267,
+            "HTML": 3148,
+            "CSS": 1165,
+            "TeX": 585,
+            "Standard ML": 346
+        }
+    },
+    {
+        "name": "WasmExplorer",
+        "description": null,
+        "languages": {
+            "WebAssembly": 85359079,
+            "JavaScript": 135220,
+            "HTML": 28613,
+            "CSS": 1140
+        }
+    },
+    {
+        "name": "Web49",
+        "description": "Web49: WebAssembly Interpeter",
+        "languages": {
+            "WebAssembly": 3437946,
+            "C": 986613,
+            "C++": 268078,
+            "PHP": 20427,
+            "Python": 4392,
+            "Makefile": 2848,
+            "Lua": 1358
+        }
+    },
+    {
+        "name": "wizard-engine",
+        "description": "Research WebAssembly Engine",
+        "languages": {
+            "WebAssembly": 14215114,
+            "Shell": 39046,
+            "Makefile": 3862,
+            "C": 543,
+            "JavaScript": 347
+        }
+    },
+    {
+        "name": "examples",
+        "description": "A collection of AssemblyScript examples.",
+        "languages": {
+            "WebAssembly": 77765,
+            "TypeScript": 56775,
+            "HTML": 17709,
+            "JavaScript": 12969,
+            "Rust": 4248
+        }
+    },
+    {
+        "name": "wasm",
+        "description": "WebAssembly decoder & disassembler library",
+        "languages": {
+            "WebAssembly": 7776926,
+            "JavaScript": 1711296,
+            "HTML": 103133,
+            "Python": 45384,
+            "C++": 192
+        }
+    },
+    {
+        "name": "yoyow-core",
+        "description": "YOYOW Blockchain: You Own Your Own Words",
+        "languages": {
+            "WebAssembly": 6269741,
+            "C++": 4907195,
+            "CMake": 234875,
+            "HTML": 72284,
+            "C": 36251,
+            "Python": 35817,
+            "Ruby": 10769,
+            "Shell": 6415,
+            "Perl": 4937,
+            "Dockerfile": 608
+        }
+    },
+    {
+        "name": "wasker",
+        "description": "Wasm compiler for running Wasm on your favorite kernel",
+        "languages": {
+            "WebAssembly": 1305860,
+            "Rust": 147594,
+            "Dockerfile": 1692
+        }
+    },
+    {
+        "name": "as-bind",
+        "description": "Isomorphic library to handle passing high-level data structures between AssemblyScript and JavaScript \ud83e\udd1d\ud83d\ude80",
+        "languages": {
+            "WebAssembly": 300235,
+            "TypeScript": 25677,
+            "JavaScript": 16794,
+            "HTML": 1588
+        }
+    },
+    {
+        "name": "gxb-core",
+        "description": "GXChain Blockchain implementation",
+        "languages": {
+            "WebAssembly": 6601493,
+            "C++": 6437851,
+            "CMake": 67011,
+            "Python": 39459,
+            "C": 36251,
+            "Shell": 27630,
+            "Perl": 4939,
+            "Dockerfile": 1167
+        }
+    },
+    {
+        "name": "webNBT",
+        "description": "An HTML5 NBT-editor based on emscripten",
+        "languages": {
+            "WebAssembly": 16429655,
+            "JavaScript": 362881,
+            "PHP": 90672,
+            "CSS": 71253,
+            "C++": 24928,
+            "Less": 21041,
+            "HTML": 10841,
+            "C": 413,
+            "Makefile": 321
+        }
+    },
+    {
+        "name": "wasm-examples",
+        "description": "WebAssembly Examples",
+        "languages": {
+            "WebAssembly": 29116,
+            "HTML": 10035,
+            "JavaScript": 5765,
+            "C": 5696,
+            "Shell": 1314,
+            "Rust": 38
+        }
+    },
+    {
+        "name": "wasm2lua",
+        "description": "wasm2lua: converting WASM into Lua",
+        "languages": {
+            "WebAssembly": 3548749,
+            "TypeScript": 542192,
+            "C": 100158,
+            "JavaScript": 86745,
+            "Lua": 46760
+        }
+    },
+    {
+        "name": "memory64",
+        "description": "Memory with 64-bit indexes",
+        "languages": {
+            "WebAssembly": 10643599,
+            "Python": 597576,
+            "OCaml": 412439,
+            "JavaScript": 270590,
+            "Bikeshed": 77943,
+            "Makefile": 20025,
+            "Perl": 15547,
+            "Batchfile": 8672,
+            "Shell": 7267,
+            "HTML": 3148,
+            "CSS": 1165,
+            "TeX": 585,
+            "Standard ML": 346
+        }
+    },
+    {
+        "name": "Halite-III",
+        "description": "Season 3 of @twosigma's artificial intelligence programming challenge",
+        "languages": {
+            "WebAssembly": 23034260,
+            "JavaScript": 3620125,
+            "Python": 524104,
+            "C++": 304973,
+            "Vue": 219414,
+            "SCSS": 110250,
+            "Ruby": 86788,
+            "Swift": 57086,
+            "C#": 34133,
+            "HTML": 30689,
+            "TypeScript": 29259,
+            "Sass": 28891,
+            "Rust": 26180,
+            "Java": 24922,
+            "Clojure": 24129,
+            "PHP": 21888,
+            "Go": 21516,
+            "Julia": 19915,
+            "Kotlin": 19198,
+            "Scala": 16133,
+            "OCaml": 15464,
+            "D": 12806,
+            "Shell": 10983,
+            "PLpgSQL": 10760,
+            "CMake": 6455,
+            "CSS": 5101,
+            "Batchfile": 4338,
+            "Slim": 2851,
+            "Mako": 532,
+            "Makefile": 390,
+            "Emacs Lisp": 386
+        }
+    },
+    {
+        "name": "testsuite",
+        "description": "Mirror of the spec testsuite",
+        "languages": {
+            "WebAssembly": 12123613,
+            "Shell": 4873
+        }
+    },
+    {
+        "name": "scheme",
+        "description": "An R7RS Scheme implemented in WebAssembly ",
+        "languages": {
+            "WebAssembly": 844478,
+            "TypeScript": 366393,
+            "Scheme": 126828,
+            "JavaScript": 30536,
+            "HTML": 8189,
+            "CSS": 1350
+        }
+    },
+    {
+        "name": "reference-types",
+        "description": "Proposal for adding basic reference types (anyref)",
+        "languages": {
+            "WebAssembly": 3460844,
+            "OCaml": 277601,
+            "JavaScript": 254582,
+            "Python": 85530,
+            "Batchfile": 21871,
+            "Makefile": 21301,
+            "Perl": 15644,
+            "Shell": 13193,
+            "HTML": 3148,
+            "CSS": 1057,
+            "TeX": 311,
+            "Standard ML": 257
+        }
+    },
+    {
+        "name": "exception-handling",
+        "description": "Proposal to add exception handling to WebAssembly",
+        "languages": {
+            "WebAssembly": 10522020,
+            "Python": 624164,
+            "OCaml": 428592,
+            "JavaScript": 285831,
+            "Bikeshed": 89160,
+            "Makefile": 34942,
+            "Batchfile": 21873,
+            "Perl": 15547,
+            "Shell": 7267,
+            "HTML": 3635,
+            "CSS": 2330,
+            "TeX": 585,
+            "Standard ML": 185
+        }
+    },
+    {
+        "name": "VectorVisor",
+        "description": "VectorVisor is a vectorizing binary translator for GPUs, designed to make it easy to run many copies of a single-threaded WebAssembly program in parallel using GPUs",
+        "languages": {
+            "WebAssembly": 1142616,
+            "Rust": 1095455,
+            "Python": 247633,
+            "Go": 191210,
+            "Shell": 45707,
+            "C": 25085,
+            "TypeScript": 21417,
+            "Cuda": 4316,
+            "JavaScript": 2861,
+            "Makefile": 2230,
+            "HTML": 182
+        }
+    },
+    {
+        "name": "module-linking",
+        "description": "Proposal for allowing modules to define, import and export modules and instances",
+        "languages": {
+            "WebAssembly": 2601806,
+            "OCaml": 223585,
+            "JavaScript": 137958,
+            "Python": 56181,
+            "Batchfile": 21871,
+            "Makefile": 20085,
+            "Perl": 15547,
+            "Shell": 12980,
+            "HTML": 3168,
+            "CSS": 1057,
+            "Standard ML": 257
+        }
+    },
+    {
+        "name": "EOS-Dapp",
+        "description": "Game  Dapp Demo using EOS and React ",
+        "languages": {
+            "WebAssembly": 232845,
+            "JavaScript": 23821,
+            "C++": 14684,
+            "CSS": 1401
+        }
+    },
+    {
+        "name": "multi-memory",
+        "description": "Multiple per-module memories for Wasm",
+        "languages": {
+            "WebAssembly": 10639638,
+            "Python": 597510,
+            "OCaml": 411618,
+            "JavaScript": 267614,
+            "Bikeshed": 81198,
+            "Batchfile": 21873,
+            "Makefile": 21832,
+            "Perl": 15547,
+            "Shell": 7267,
+            "HTML": 3148,
+            "CSS": 1165,
+            "TeX": 585,
+            "Standard ML": 185
+        }
+    },
+    {
+        "name": "blockchain",
+        "description": "Learning on block chain, step by step",
+        "languages": {
+            "WebAssembly": 3124703,
+            "C++": 93408,
+            "JavaScript": 25303,
+            "Shell": 24603,
+            "Go": 5436,
+            "HTML": 5191,
+            "Ruby": 3643,
+            "CMake": 1860,
+            "CSS": 1132,
+            "Dockerfile": 1129
+        }
+    },
+    {
+        "name": "wasi-threads",
+        "description": null,
+        "languages": {
+            "WebAssembly": 15983,
+            "C": 2035,
+            "Assembly": 748,
+            "Shell": 447
+        }
+    },
+    {
+        "name": "wasm-wat-samples",
+        "description": "Samples of WebAssembly Text programs",
+        "languages": {
+            "WebAssembly": 43558,
+            "JavaScript": 23244,
+            "C": 910,
+            "Shell": 148
+        }
+    },
+    {
+        "name": "stack-switching",
+        "description": "A repository for the stack switching proposal.",
+        "languages": {
+            "WebAssembly": 10944955,
+            "Python": 632009,
+            "OCaml": 513600,
+            "JavaScript": 317963,
+            "Bikeshed": 102759,
+            "Makefile": 35989,
+            "Perl": 15547,
+            "Batchfile": 8672,
+            "Shell": 7267,
+            "HTML": 3635,
+            "CSS": 2330,
+            "TeX": 585,
+            "Standard ML": 346
+        }
+    },
+    {
+        "name": "xxhash-wasm",
+        "description": "A WebAssembly implementation of xxHash",
+        "languages": {
+            "WebAssembly": 28148,
+            "JavaScript": 14347,
+            "Dockerfile": 267
+        }
+    },
+    {
+        "name": "tail-call",
+        "description": "Proposal to add tail calls to WebAssembly",
+        "languages": {
+            "WebAssembly": 10551233,
+            "Python": 597511,
+            "OCaml": 411298,
+            "JavaScript": 267614,
+            "Bikeshed": 81196,
+            "Batchfile": 21873,
+            "Makefile": 21832,
+            "Perl": 15547,
+            "Shell": 7267,
+            "HTML": 3148,
+            "CSS": 1165,
+            "TeX": 585,
+            "Standard ML": 185
+        }
+    },
+    {
+        "name": "EOS-Dev-Book",
+        "description": null,
+        "languages": {
+            "WebAssembly": 288706,
+            "HTML": 109675,
+            "C++": 30199,
+            "JavaScript": 4854,
+            "CSS": 551,
+            "CMake": 271
+        }
+    },
+    {
+        "name": "rust-samples",
+        "description": null,
+        "languages": {
+            "WebAssembly": 225355,
+            "Rust": 172231,
+            "TypeScript": 6034,
+            "Just": 4090,
+            "HTML": 3652,
+            "C#": 3423,
+            "Handlebars": 2782,
+            "JavaScript": 1498,
+            "Dockerfile": 63,
+            "CSS": 56
+        }
+    },
+    {
+        "name": "owi",
+        "description": "WebAssembly Swissknife",
+        "languages": {
+            "WebAssembly": 3755751,
+            "C": 696859,
+            "OCaml": 478604,
+            "Perl": 70239,
+            "Raku": 59529,
+            "Python": 10013,
+            "Standard ML": 7418,
+            "JavaScript": 1361,
+            "Terra": 860,
+            "HTML": 361,
+            "Turing": 214
+        }
+    },
+    {
+        "name": "practice-wasm",
+        "description": "A WebAssembly VM with a full-featured Web UI debugger implemented in Rust.",
+        "languages": {
+            "WebAssembly": 1717176,
+            "Rust": 797486,
+            "C": 5156
+        }
+    },
+    {
+        "name": "greenwasm",
+        "description": "An implementation of the Webassembly spec in Rust",
+        "languages": {
+            "WebAssembly": 2758111,
+            "Rust": 211536,
+            "Python": 5434,
+            "Shell": 3975
+        }
+    },
+    {
+        "name": "web3.learning",
+        "description": "web3 projects source code reading notes",
+        "languages": {
+            "WebAssembly": 12272,
+            "C++": 414
+        }
+    },
+    {
+        "name": "function-references",
+        "description": "Proposal for Typed Function References",
+        "languages": {
+            "WebAssembly": 10557596,
+            "Python": 598292,
+            "OCaml": 433801,
+            "JavaScript": 269598,
+            "Bikeshed": 77757,
+            "Makefile": 20025,
+            "Perl": 15547,
+            "Batchfile": 8672,
+            "Shell": 7267,
+            "HTML": 3148,
+            "CSS": 1165,
+            "TeX": 585,
+            "Standard ML": 346
+        }
+    },
+    {
+        "name": "wasm-fingerprint",
+        "description": "\ud83d\udd96 Fast, small, reliable, embeddable browser canvas fingerprinting implemented in WebAssembly. ",
+        "languages": {
+            "WebAssembly": 864856,
+            "JavaScript": 17504,
+            "Rust": 2056,
+            "Python": 1289,
+            "HTML": 308
+        }
+    },
+    {
+        "name": "Basis-Universal-Transcoders",
+        "description": "A collection of optimized WebAssembly transcoders for Basis Universal compressed GPU texture formats.",
+        "languages": {
+            "WebAssembly": 1344318,
+            "TypeScript": 188176
+        }
+    },
+    {
+        "name": "as2d",
+        "description": "Bring the power of the CanvasRenderingContext2D prototype to AssemblyScript",
+        "languages": {
+            "WebAssembly": 1100984,
+            "TypeScript": 274320,
+            "JavaScript": 8001
+        }
+    },
+    {
+        "name": "bulk-memory-operations",
+        "description": "Bulk memory operations",
+        "languages": {
+            "WebAssembly": 3299083,
+            "OCaml": 258136,
+            "JavaScript": 247968,
+            "Python": 83899,
+            "Batchfile": 21871,
+            "Makefile": 20928,
+            "Perl": 15547,
+            "Shell": 13193,
+            "HTML": 3148,
+            "CSS": 1057,
+            "TeX": 311,
+            "Standard ML": 257
+        }
+    },
+    {
+        "name": "wasm-fun",
+        "description": "Non-trivial programs in hand-written WebAssembly",
+        "languages": {
+            "WebAssembly": 229995,
+            "HTML": 20977,
+            "Python": 188
+        }
+    },
+    {
+        "name": "rollup-plugin-wasm",
+        "description": "This module has moved and is now available at @rollup/plugin-wasm / https://github.com/rollup/plugins/blob/master/packages/wasm",
+        "languages": {
+            "WebAssembly": 12655,
+            "JavaScript": 4326
+        }
+    },
+    {
+        "name": "wasm-semantics",
+        "description": "A Prototype Formal Semantics of WebAssembly in K",
+        "languages": {
+            "WebAssembly": 921013,
+            "Python": 42391,
+            "Shell": 8230,
+            "Makefile": 5606,
+            "Dockerfile": 1310,
+            "Nix": 1113
+        }
+    },
+    {
+        "name": "wasm-binary-security",
+        "description": null,
+        "languages": {
+            "WebAssembly": 4069974,
+            "JavaScript": 574132,
+            "HTML": 514495,
+            "Assembly": 41369,
+            "Rust": 31813,
+            "C": 13486,
+            "Shell": 4256,
+            "C++": 1893,
+            "Python": 690
+        }
+    },
+    {
+        "name": "blake2b-wasm",
+        "description": "Blake2b implemented in WASM",
+        "languages": {
+            "WebAssembly": 100004,
+            "JavaScript": 9909,
+            "HTML": 254
+        }
+    },
+    {
+        "name": "contract",
+        "description": "Play EOS Game On",
+        "languages": {
+            "WebAssembly": 4142467,
+            "C++": 152045
+        }
+    },
+    {
+        "name": "Book-DISO-WebAssembly",
+        "description": "A book related repository which name is \u300a\u6df1\u5165\u6d45\u51fa WebAssembly\u300b",
+        "languages": {
+            "WebAssembly": 92561644,
+            "JavaScript": 14274427,
+            "HTML": 6274500,
+            "C++": 71719,
+            "Makefile": 1053,
+            "Shell": 810,
+            "Go": 148,
+            "Rust": 122,
+            "TypeScript": 60
+        }
+    },
+    {
+        "name": "multi-value",
+        "description": "Proposal to add multi-values to WebAssembly",
+        "languages": {
+            "WebAssembly": 2688848,
+            "OCaml": 227688,
+            "JavaScript": 138082,
+            "Python": 55918,
+            "Batchfile": 21871,
+            "Makefile": 19652,
+            "Perl": 15644,
+            "Shell": 12935,
+            "HTML": 3148,
+            "Standard ML": 1571,
+            "CSS": 1057
+        }
+    },
+    {
+        "name": "wasm-raytracer",
+        "description": "Raytracing: WebAssembly vs JavaScript",
+        "languages": {
+            "WebAssembly": 2706452,
+            "JavaScript": 18438,
+            "HTML": 16370,
+            "Rust": 10639,
+            "CSS": 1346
+        }
+    },
+    {
+        "name": "wasm-tutorial",
+        "description": "Introduction to WASM assembly",
+        "languages": {
+            "WebAssembly": 5499,
+            "Rust": 4117,
+            "HTML": 1709,
+            "JavaScript": 589,
+            "Makefile": 249,
+            "C": 198
+        }
+    },
+    {
+        "name": "hand-crafted-wasm",
+        "description": "Creative coding and other mischief in handwritten WebAssembly, using the WebAssembly .wat text format.",
+        "languages": {
+            "WebAssembly": 221041,
+            "HTML": 54131,
+            "JavaScript": 37118
+        }
+    },
+    {
+        "name": "notes",
+        "description": "My learning notes.",
+        "languages": {
+            "WebAssembly": 1843618,
+            "Jupyter Notebook": 366994,
+            "Ruby": 330760,
+            "Elixir": 206875,
+            "JavaScript": 82294,
+            "CSS": 45043,
+            "Swift": 44528,
+            "Rust": 36684,
+            "HTML": 33351,
+            "C": 28354,
+            "Python": 24154,
+            "Haskell": 17756,
+            "Shell": 17124,
+            "Assembly": 12533,
+            "Makefile": 9710,
+            "Go": 8783,
+            "Objective-C": 7366,
+            "COBOL": 6798,
+            "Erlang": 6348,
+            "TypeScript": 5775,
+            "PHP": 4833,
+            "C++": 4486,
+            "Lua": 4418,
+            "PLpgSQL": 3576,
+            "Elm": 2274,
+            "Smalltalk": 1914,
+            "R": 1624,
+            "Scheme": 1591,
+            "Vim Script": 1378,
+            "Standard ML": 657,
+            "Scala": 534,
+            "DTrace": 467,
+            "Dockerfile": 426,
+            "Ragel": 369,
+            "Java": 364,
+            "Gherkin": 259,
+            "J": 238,
+            "Kotlin": 62,
+            "Idris": 58,
+            "Procfile": 50,
+            "Racket": 13
+        }
+    },
+    {
+        "name": "slumps",
+        "description": "Cool code analysis research for WebAssembly",
+        "languages": {
+            "WebAssembly": 35671826,
+            "C": 11733002,
+            "JavaScript": 1317821,
+            "LLVM": 1039677,
+            "Shell": 585884,
+            "Python": 376788,
+            "HTML": 334514,
+            "TypeScript": 131768,
+            "C++": 21423,
+            "Dockerfile": 10068,
+            "Makefile": 4797,
+            "Rust": 2187,
+            "CSS": 769,
+            "Assembly": 677,
+            "SCSS": 325,
+            "Crystal": 182
+        }
+    },
+    {
+        "name": "hcaptcha-reverse",
+        "description": "Reverse engineered hcaptcha.",
+        "languages": {
+            "WebAssembly": 65678136,
+            "JavaScript": 5238361,
+            "HTML": 11073,
+            "Python": 940,
+            "Shell": 173
+        }
+    },
+    {
+        "name": "wasm-game-of-life",
+        "description": "Conway's Game of Life - hand written in WebAssembly",
+        "languages": {
+            "WebAssembly": 6794,
+            "JavaScript": 6495
+        }
+    },
+    {
+        "name": "subwasm",
+        "description": "Subwasm is a cli utility to look inside a Substrate WASM Runtime. It can inspect and compare the metadata of Substrate based runtimes such as Polkadot or Kusama.",
+        "languages": {
+            "WebAssembly": 45797205,
+            "Rust": 202549,
+            "Shell": 14883,
+            "Just": 3504,
+            "Ruby": 860,
+            "Python": 827
+        }
+    },
+    {
+        "name": "ArtOfWasm",
+        "description": "Code repo for \"The Art of WebAssembly\" by Rick Battagline",
+        "languages": {
+            "WebAssembly": 98959,
+            "JavaScript": 23969,
+            "HTML": 12121,
+            "TypeScript": 1100
+        }
+    },
+    {
+        "name": "lz4-wasm",
+        "description": "LZ4 block format encoder/decoder: a WebAssembly implementation",
+        "languages": {
+            "WebAssembly": 21827,
+            "JavaScript": 9405,
+            "HTML": 1421
+        }
+    },
+    {
+        "name": "wasm-opt-rs",
+        "description": "Rust bindings for Binaryen's wasm-opt",
+        "languages": {
+            "WebAssembly": 317691,
+            "Rust": 156574,
+            "C++": 12695,
+            "Shell": 1729
+        }
+    },
+    {
+        "name": "SECCON2017_online_CTF",
+        "description": null,
+        "languages": {
+            "WebAssembly": 21465834,
+            "JavaScript": 949680,
+            "C": 249930,
+            "Python": 108154,
+            "F#": 76876,
+            "C++": 67585,
+            "Arduino": 15802,
+            "Perl": 7937,
+            "PHP": 3879,
+            "HTML": 2925,
+            "Makefile": 2823,
+            "Smarty": 2398,
+            "Shell": 1276,
+            "Go": 623,
+            "CSS": 582
+        }
+    },
+    {
+        "name": "poetry",
+        "description": "A poetically dynamic and simple programming language that compiles to WebAssembly!",
+        "languages": {
+            "WebAssembly": 93081,
+            "JavaScript": 40230,
+            "HTML": 330
+        }
+    },
+    {
+        "name": "io-devices-lib",
+        "description": "Library for interacting with the Wasmer Experimental IO Devices",
+        "languages": {
+            "WebAssembly": 362951,
+            "TypeScript": 20866,
+            "Rust": 12569
+        }
+    },
+    {
+        "name": "swam",
+        "description": "WebAssembly engine in Scala",
+        "languages": {
+            "WebAssembly": 13506087,
+            "Scala": 891704,
+            "Shell": 6854,
+            "HTML": 4323,
+            "CSS": 4111,
+            "Ruby": 909
+        }
+    },
+    {
+        "name": "siphash24",
+        "description": "SipHash (2-4) implemented in pure Javascript and WebAssembly.",
+        "languages": {
+            "WebAssembly": 13352,
+            "JavaScript": 7607
+        }
+    },
+    {
+        "name": "heapviz",
+        "description": "Visualization tool for Chrome heap and allocation profiles",
+        "languages": {
+            "WebAssembly": 4156388,
+            "JavaScript": 218605,
+            "TypeScript": 94801,
+            "CSS": 10096,
+            "HTML": 1238,
+            "GLSL": 288,
+            "Shell": 175
+        }
+    },
+    {
+        "name": "js-promise-integration",
+        "description": "JavaScript Promise Integration",
+        "languages": {
+            "WebAssembly": 10494186,
+            "Python": 598775,
+            "OCaml": 409025,
+            "JavaScript": 279967,
+            "Bikeshed": 78029,
+            "Makefile": 23402,
+            "Perl": 15547,
+            "Batchfile": 8672,
+            "Shell": 7267,
+            "HTML": 3148,
+            "CSS": 1165,
+            "TeX": 585,
+            "Standard ML": 346
+        }
+    },
+    {
+        "name": "eosfilestore",
+        "description": "\ud83d\udcdc\ud83d\udd17 Immutable, censorship resistant, cheap, file storage on EOS blockchain",
+        "languages": {
+            "WebAssembly": 54856,
+            "TypeScript": 5524,
+            "JavaScript": 2866,
+            "C++": 241
+        }
+    },
+    {
+        "name": "js-types",
+        "description": "Proposal for adding type reflection to the JS API",
+        "languages": {
+            "WebAssembly": 10526602,
+            "Python": 597226,
+            "OCaml": 409741,
+            "JavaScript": 283960,
+            "Bikeshed": 86990,
+            "Batchfile": 21873,
+            "Makefile": 21790,
+            "Perl": 15547,
+            "Shell": 7267,
+            "HTML": 3148,
+            "CSS": 1123,
+            "TeX": 585,
+            "Standard ML": 185
+        }
+    },
+    {
+        "name": "wase",
+        "description": "WebAssembly made easy",
+        "languages": {
+            "WebAssembly": 71263,
+            "Nim": 18054,
+            "JavaScript": 1066,
+            "HTML": 756,
+            "Shell": 342,
+            "Batchfile": 284
+        }
+    },
+    {
+        "name": "ocaml-offchain",
+        "description": "Fork of WebAssembly reference interpreter with support for generating proofs needed for blockchain verification",
+        "languages": {
+            "WebAssembly": 2598618,
+            "OCaml": 476161,
+            "JavaScript": 96540,
+            "C": 26821,
+            "Batchfile": 15417,
+            "Python": 12029,
+            "Shell": 11267,
+            "C++": 10471,
+            "Makefile": 3554,
+            "Standard ML": 3044,
+            "Dockerfile": 385
+        }
+    },
+    {
+        "name": "wasm3_dino_rpi_pico",
+        "description": "WebAssembly Dino game for PPi Pico",
+        "languages": {
+            "WebAssembly": 30296,
+            "C": 12735,
+            "C++": 4341,
+            "CMake": 3827
+        }
+    },
+    {
+        "name": "flexible-vectors",
+        "description": "Vector operations for WebAssembly",
+        "languages": {
+            "WebAssembly": 2711919,
+            "OCaml": 235406,
+            "JavaScript": 138082,
+            "Bikeshed": 74795,
+            "Python": 55918,
+            "Batchfile": 21871,
+            "Makefile": 19652,
+            "Perl": 15547,
+            "Shell": 12935,
+            "TeX": 7230,
+            "HTML": 3148,
+            "CSS": 1057,
+            "Standard ML": 257
+        }
+    },
+    {
+        "name": "riffshare",
+        "description": "Music creation and collaboration platform",
+        "languages": {
+            "WebAssembly": 51133916,
+            "C++": 12551945,
+            "C": 6536905,
+            "JavaScript": 6386942,
+            "Objective-C++": 473856,
+            "HTML": 396173,
+            "Makefile": 167044,
+            "Objective-C": 111210,
+            "CMake": 54256,
+            "CSS": 29339,
+            "Java": 19782,
+            "PHP": 15666,
+            "R": 3997,
+            "Shell": 2630,
+            "Batchfile": 939,
+            "Ruby": 518
+        }
+    },
+    {
+        "name": "IchigoLisp",
+        "description": "LISP 1.5(-ish) implementation in WebAssembly",
+        "languages": {
+            "WebAssembly": 267516,
+            "JavaScript": 33740,
+            "HTML": 1624
+        }
+    },
+    {
+        "name": "wassail",
+        "description": "wassail (WebAssembly static analyzer and inspection library) is a toolkit to perform both lightweight and heavyweight static analysis of WebAssembly modules.",
+        "languages": {
+            "WebAssembly": 5888586,
+            "OCaml": 500947,
+            "C": 53368,
+            "HTML": 2886,
+            "Standard ML": 2291,
+            "JavaScript": 981,
+            "Makefile": 541,
+            "CSS": 512
+        }
+    },
+    {
+        "name": "old-docs.wasmer.io",
+        "description": "Wasmer Documentation (for standalone and embedded use cases)",
+        "languages": {
+            "WebAssembly": 13383,
+            "JavaScript": 11568,
+            "C": 2927,
+            "Rust": 2830,
+            "Makefile": 745,
+            "HTML": 219
+        }
+    },
+    {
+        "name": "js-pdk",
+        "description": "Write Extism plugins in JavaScript & TypeScript",
+        "languages": {
+            "WebAssembly": 27253843,
+            "Rust": 51661,
+            "JavaScript": 5507,
+            "Shell": 3554,
+            "Makefile": 1565
+        }
+    },
+    {
+        "name": "mandelbrot-threaded-webassembly",
+        "description": "A simple demonstration of WebAssembly threads",
+        "languages": {
+            "WebAssembly": 5641,
+            "HTML": 1445,
+            "JavaScript": 392
+        }
+    },
+    {
+        "name": "spine-raylib-runtimes",
+        "description": "Raylib implementation of the C spine runtimes.",
+        "languages": {
+            "WebAssembly": 32418042,
+            "JavaScript": 2257011,
+            "C": 2212184,
+            "HTML": 617409,
+            "Makefile": 5255
+        }
+    },
+    {
+        "name": "contract",
+        "description": "Powerful Firewall For EOS Contract",
+        "languages": {
+            "WebAssembly": 724987,
+            "C++": 25607
+        }
+    },
+    {
+        "name": "eos_luckpoint",
+        "description": "\u4e00\u4e2a\u5305\u542b\u524d\u540e\u7aef\u7684\u5b8c\u6574DAPP\u7ed3\u6784\u7684EOS\u6e38\u620f",
+        "languages": {
+            "WebAssembly": 87101,
+            "JavaScript": 14493,
+            "C++": 4019
+        }
+    },
+    {
+        "name": "content-security-policy",
+        "description": null,
+        "languages": {
+            "WebAssembly": 10519020,
+            "Python": 595823,
+            "OCaml": 404364,
+            "JavaScript": 267076,
+            "Batchfile": 21873,
+            "Makefile": 21659,
+            "Perl": 15547,
+            "Shell": 9416,
+            "HTML": 3148,
+            "CSS": 1123,
+            "TeX": 311,
+            "Standard ML": 164
+        }
+    },
+    {
+        "name": "decentwitter",
+        "description": "Decentralized Twitter on EOS",
+        "languages": {
+            "WebAssembly": 63862,
+            "TypeScript": 22960,
+            "HTML": 15882,
+            "CSS": 7146,
+            "JavaScript": 533,
+            "C++": 324
+        }
+    },
+    {
+        "name": "eostypescript",
+        "description": null,
+        "languages": {
+            "WebAssembly": 92212,
+            "TypeScript": 13701,
+            "Shell": 1393
+        }
+    },
+    {
+        "name": "wasm-aot-prototype",
+        "description": "AOT compiler and static runtime for WebAssembly",
+        "languages": {
+            "WebAssembly": 1055893,
+            "C++": 119303,
+            "C": 13014,
+            "Makefile": 3745,
+            "Python": 3192,
+            "Assembly": 314
+        }
+    },
+    {
+        "name": "relaxed-simd",
+        "description": "Relax the strict determinism requirements of SIMD operations.",
+        "languages": {
+            "WebAssembly": 10572185,
+            "Python": 601272,
+            "OCaml": 419739,
+            "JavaScript": 267614,
+            "Bikeshed": 78303,
+            "Makefile": 22355,
+            "Batchfile": 21873,
+            "Perl": 15547,
+            "Shell": 7267,
+            "HTML": 3148,
+            "CSS": 1165,
+            "TeX": 585,
+            "Standard ML": 185
+        }
+    },
+    {
+        "name": "JS-BigInt-integration",
+        "description": "JavaScript BigInt to WebAssembly i64 integration",
+        "languages": {
+            "WebAssembly": 2711919,
+            "OCaml": 234092,
+            "JavaScript": 175320,
+            "Python": 57332,
+            "Batchfile": 21871,
+            "Makefile": 19652,
+            "Perl": 15644,
+            "Shell": 12935,
+            "HTML": 3148,
+            "Standard ML": 1571,
+            "CSS": 1057
+        }
+    },
+    {
+        "name": "intro-to-web-assembly",
+        "description": null,
+        "languages": {
+            "WebAssembly": 245138,
+            "JavaScript": 23361,
+            "HTML": 3596,
+            "CSS": 1337,
+            "TypeScript": 1272
+        }
+    },
+    {
+        "name": "wasp",
+        "description": "Wasm System Plugins for Go",
+        "languages": {
+            "WebAssembly": 141391,
+            "JavaScript": 123086,
+            "Go": 46600,
+            "Rust": 6227,
+            "C": 2288,
+            "TypeScript": 1848,
+            "Makefile": 639,
+            "Java": 243,
+            "C#": 99
+        }
+    },
+    {
+        "name": "envoy-experiments",
+        "description": "Experiments with Envoy Proxy",
+        "languages": {
+            "WebAssembly": 660878,
+            "HCL": 7281,
+            "TypeScript": 2401,
+            "Dockerfile": 864,
+            "Makefile": 211
+        }
+    },
+    {
+        "name": "WebCPU",
+        "description": "Estimate the number of usable cores to perform data processing in the browser.",
+        "languages": {
+            "WebAssembly": 45957,
+            "JavaScript": 22697,
+            "HTML": 2713,
+            "C": 1264
+        }
+    },
+    {
+        "name": "stringref",
+        "description": null,
+        "languages": {
+            "WebAssembly": 10519020,
+            "Python": 595837,
+            "OCaml": 404364,
+            "JavaScript": 267081,
+            "Bikeshed": 79816,
+            "Batchfile": 21873,
+            "Makefile": 21659,
+            "Perl": 15547,
+            "Shell": 9416,
+            "HTML": 3148,
+            "CSS": 1123,
+            "TeX": 311,
+            "Standard ML": 164
+        }
+    },
+    {
+        "name": "bet-death-causes",
+        "description": "bet",
+        "languages": {
+            "WebAssembly": 1553573,
+            "C++": 1626
+        }
+    },
+    {
+        "name": "shady-crypt",
+        "description": "A Cryptographic Hashing and Pseudo-Random Number Generator Library",
+        "languages": {
+            "WebAssembly": 526758,
+            "C": 63976,
+            "JavaScript": 12194
+        }
+    },
+    {
+        "name": "provably-safe-sandboxing-wasm-usenix22",
+        "description": "Top-level companion software artifact for the paper \"Provably-Safe Multilingual Software Sandboxing using WebAssembly\"",
+        "languages": {
+            "WebAssembly": 12152008,
+            "C": 73319,
+            "Makefile": 22406,
+            "Rust": 21549,
+            "Python": 16595,
+            "Dockerfile": 5942,
+            "Shell": 1805
+        }
+    },
+    {
+        "name": "KWasm",
+        "description": "Embeddable WebAssembly Interpreter for the JVM, written in Kotlin",
+        "languages": {
+            "WebAssembly": 2728567,
+            "Kotlin": 1885614,
+            "Python": 3942
+        }
+    },
+    {
+        "name": "wasm-effect-handlers",
+        "description": " WebAssembly specification, reference interpreter, and test suite with effect handlers extension.",
+        "languages": {
+            "WebAssembly": 2525270,
+            "OCaml": 236207,
+            "JavaScript": 166950,
+            "Bikeshed": 70509,
+            "Python": 55766,
+            "Batchfile": 24884,
+            "Makefile": 20038,
+            "Perl": 15547,
+            "Shell": 13009,
+            "HTML": 3168,
+            "CSS": 1057,
+            "Standard ML": 257
+        }
+    },
+    {
+        "name": "walrus",
+        "description": "WebAssembly Lightweight RUntime",
+        "languages": {
+            "WebAssembly": 10381375,
+            "C++": 971404,
+            "C": 273311,
+            "CMake": 23119,
+            "Python": 20461
+        }
+    },
+    {
+        "name": "rust-wasm",
+        "description": "Demos of using rust with webassembly",
+        "languages": {
+            "WebAssembly": 4587088,
+            "JavaScript": 2839833,
+            "HTML": 111528,
+            "Rust": 92981,
+            "Vue": 8184,
+            "Makefile": 4900
+        }
+    },
+    {
+        "name": "diepssect",
+        "description": "A public repo for hacky diep stuff - networking protocol, WebAssembly, memory editing, & physics",
+        "languages": {
+            "WebAssembly": 82982172,
+            "C": 14538760,
+            "JavaScript": 427458,
+            "Makefile": 882
+        }
+    },
+    {
+        "name": "xsalsa20",
+        "description": "XSalsa20 implemented in Javascript and WebAssembly",
+        "languages": {
+            "WebAssembly": 21220,
+            "JavaScript": 18845
+        }
+    },
+    {
+        "name": "MultiVAC",
+        "description": "All-dimensional Sharding Flexible Blockchain",
+        "languages": {
+            "WebAssembly": 23697213,
+            "Go": 2816025,
+            "JavaScript": 263927,
+            "C++": 103328,
+            "HTML": 102676,
+            "Python": 3032,
+            "Shell": 2070,
+            "Makefile": 97
+        }
+    },
+    {
+        "name": "as-benchmarks",
+        "description": ":hourglass_flowing_sand:  :milky_way: AssemblyScript Benchmarks ",
+        "languages": {
+            "WebAssembly": 604030,
+            "JavaScript": 31943,
+            "TypeScript": 23545,
+            "HTML": 4324
+        }
+    },
+    {
+        "name": "uxn.wasm",
+        "description": "WebAssembly implementation of the Uxn virtual machine",
+        "languages": {
+            "WebAssembly": 151622,
+            "JavaScript": 80524,
+            "Makefile": 4552,
+            "C": 1153,
+            "HTML": 363
+        }
+    },
+    {
+        "name": "gameoflife-ts",
+        "description": null,
+        "languages": {
+            "WebAssembly": 92212,
+            "TypeScript": 13699,
+            "Shell": 1393
+        }
+    },
+    {
+        "name": "rabin-wasm",
+        "description": "Rabin fingerprinting implemented in WASM",
+        "languages": {
+            "WebAssembly": 104667,
+            "JavaScript": 16890,
+            "TypeScript": 4383,
+            "HTML": 1179
+        }
+    },
+    {
+        "name": "EXACT",
+        "description": "A Bare-Metal Intel 8086 Emulator Written in Raw WebAssembly.",
+        "languages": {
+            "WebAssembly": 164806,
+            "HTML": 13967
+        }
+    },
+    {
+        "name": "wasm-game-by-hand",
+        "description": "Write a WebAseembly game by hand",
+        "languages": {
+            "WebAssembly": 6773,
+            "TypeScript": 1126,
+            "JavaScript": 642
+        }
+    },
+    {
+        "name": "eos-shadows",
+        "description": "\u7b80\u5f71\u81f4\u529b\u4e8e\u6253\u9020\u57fa\u4e8eEOS\u7684\u6e38\u620f\u5e73\u53f0\uff0c\u4f60\u5728\u8fd9\u91cc\u65e2\u662f\u73a9\u5bb6\u4e5f\u662f\u6211\u4eec\u7684\u5408\u4f5c\u4eba",
+        "languages": {
+            "WebAssembly": 348514,
+            "C++": 13555
+        }
+    },
+    {
+        "name": "montgomery",
+        "description": "Fast implementation of multi-scalar multiplication in WebAssembly",
+        "languages": {
+            "WebAssembly": 385226,
+            "JavaScript": 249427,
+            "TypeScript": 244739
+        }
+    },
+    {
+        "name": "Learning-Blockchain-with-EOSIO",
+        "description": "A repo of the source code for the course \"Learning Blockchain with EOS and C++\"",
+        "languages": {
+            "WebAssembly": 249648,
+            "C++": 28152,
+            "JavaScript": 1771,
+            "Shell": 308
+        }
+    },
+    {
+        "name": "fluentbase",
+        "description": "A framework for building WASM-based ZK apps",
+        "languages": {
+            "WebAssembly": 2404986,
+            "Rust": 1376872,
+            "Makefile": 11592,
+            "Solidity": 1300,
+            "Assembly": 752
+        }
+    },
+    {
+        "name": "wasm2kt",
+        "description": "Web Assembly to Kotlin and Java converter. Allows to compile a C or C++ program/library, and generate a Kotlin or Java program/library.",
+        "languages": {
+            "WebAssembly": 3935990,
+            "Kotlin": 202862,
+            "JavaScript": 63839
+        }
+    },
+    {
+        "name": "libwasm",
+        "description": "A simple Web Assembly JIT Engine with no dependencies",
+        "languages": {
+            "WebAssembly": 2260253,
+            "C++": 126549,
+            "Assembly": 14147,
+            "Python": 3943,
+            "CMake": 1601,
+            "C": 358
+        }
+    },
+    {
+        "name": "wavm",
+        "description": "A High Performance XuperChain WASM Virtual Machine based on WAVM",
+        "languages": {
+            "WebAssembly": 9021630,
+            "C++": 1274334,
+            "C": 54398,
+            "CMake": 31095,
+            "Assembly": 10817,
+            "Shell": 9922,
+            "Go": 7149,
+            "Dockerfile": 532,
+            "Makefile": 517
+        }
+    },
+    {
+        "name": "rocket_rust_py",
+        "description": "The Rocket game, implemented in Rust, running in Python, via WASM",
+        "languages": {
+            "WebAssembly": 1780734,
+            "HTML": 227056,
+            "Jupyter Notebook": 18002,
+            "Python": 16576,
+            "C": 1305,
+            "CSS": 88,
+            "Batchfile": 47
+        }
+    },
+    {
+        "name": "safe",
+        "description": "\u57fa\u4e8e\u533a\u5757\u94fe\u7684\u53bb\u4e2d\u5fc3\u5316\u6570\u636e\u4ea4\u6613\u5e73\u53f0",
+        "languages": {
+            "WebAssembly": 6195855,
+            "C++": 3962990,
+            "C": 453686,
+            "CMake": 331844,
+            "JavaScript": 192649,
+            "HTML": 98965,
+            "Python": 76208,
+            "Shell": 70664,
+            "Java": 65778,
+            "CSS": 16058,
+            "Perl": 8834
+        }
+    },
+    {
+        "name": "xhlove-share",
+        "description": null,
+        "languages": {
+            "WebAssembly": 3669775,
+            "JavaScript": 2868362,
+            "Python": 29513
+        }
+    },
+    {
+        "name": "EOS-Proxy-Token",
+        "description": "Proxy token to allow mitigating EOSIO Ram exploit",
+        "languages": {
+            "WebAssembly": 346525,
+            "C++": 5497,
+            "Shell": 339
+        }
+    },
+    {
+        "name": "shared_contracts",
+        "description": "smart contracts for EOSIO",
+        "languages": {
+            "WebAssembly": 1093571,
+            "C++": 38348,
+            "Python": 2032,
+            "CMake": 540
+        }
+    },
+    {
+        "name": "eosshop",
+        "description": "Prototype ecommerce contract for EOS",
+        "languages": {
+            "WebAssembly": 128016,
+            "C++": 8728,
+            "Shell": 3498
+        }
+    },
+    {
+        "name": "wasm-anyref-demo",
+        "description": "Playing around with WebAssembly (Wasm) anyref using JavaScript's GC as the allocator",
+        "languages": {
+            "WebAssembly": 4887,
+            "JavaScript": 1846
+        }
+    },
+    {
+        "name": "quickjs-wasm-near",
+        "description": "QuickJS compiled to WebAssembly and a Web application for creating writing Javascript on top of NEAR Rust smart contracts",
+        "languages": {
+            "WebAssembly": 8344723,
+            "C": 2778519,
+            "JavaScript": 406028,
+            "HTML": 22060,
+            "Makefile": 12223,
+            "Shell": 4191,
+            "Rust": 1984
+        }
+    },
+    {
+        "name": "WebAssembly-Guide",
+        "description": "WebAssembly Guide",
+        "languages": {
+            "WebAssembly": 130
+        }
+    },
+    {
+        "name": "worker-assemblyscript-template",
+        "description": "A Cloudflare wrangler template for a AssemblyScript worker",
+        "languages": {
+            "WebAssembly": 31844,
+            "TypeScript": 2359,
+            "JavaScript": 796
+        }
+    },
+    {
+        "name": "c4wa",
+        "description": "A simplified subset of C transpiled into Web Assembly",
+        "languages": {
+            "WebAssembly": 406542,
+            "Java": 280003,
+            "C": 152191,
+            "JavaScript": 22435,
+            "ANTLR": 9450,
+            "Python": 3059,
+            "Shell": 2451,
+            "HTML": 580,
+            "Makefile": 562
+        }
+    },
+    {
+        "name": "exonum-wasmi",
+        "description": "Exonum + Wasmi",
+        "languages": {
+            "WebAssembly": 13769433,
+            "Rust": 30887,
+            "Shell": 1979
+        }
+    },
+    {
+        "name": "Eostrex-Smart-Contract",
+        "description": "Smart contract for onchain decentralised exchange for eosio.tokens",
+        "languages": {
+            "WebAssembly": 460734,
+            "C++": 17247
+        }
+    },
+    {
+        "name": "lottery",
+        "description": "a lottery base on eos contract",
+        "languages": {
+            "WebAssembly": 794637,
+            "C++": 21898
+        }
+    },
+    {
+        "name": "rust-ewasm",
+        "description": "[ORPHANE] Examples of compiling Rust code to ewasm contracts",
+        "languages": {
+            "WebAssembly": 3438065,
+            "Rust": 4393,
+            "Makefile": 1777
+        }
+    },
+    {
+        "name": "EOS_dApp_Security_Incident_Analysis",
+        "description": "EOS dApp Security Incident Analysis Demo",
+        "languages": {
+            "WebAssembly": 2863451,
+            "C++": 90800,
+            "Python": 747,
+            "JavaScript": 302
+        }
+    },
+    {
+        "name": "wasm-python-book",
+        "description": "\u300aWebAssembly\u539f\u7406\u4e0e\u6838\u5fc3\u6280\u672f\u300bWebAssembly\u89e3\u91ca\u5668\u7684Python\u5b9e\u73b0",
+        "languages": {
+            "WebAssembly": 2757410,
+            "Python": 1265543,
+            "ANTLR": 8564,
+            "HTML": 575,
+            "Batchfile": 139
+        }
+    },
+    {
+        "name": "memory-control",
+        "description": "A proposal to introduce finer grained control of WebAssembly memory.",
+        "languages": {
+            "WebAssembly": 10519048,
+            "Python": 595629,
+            "OCaml": 404091,
+            "JavaScript": 267076,
+            "Batchfile": 21873,
+            "Makefile": 21659,
+            "Perl": 15547,
+            "Shell": 9416,
+            "HTML": 3148,
+            "CSS": 1123,
+            "TeX": 311,
+            "Standard ML": 164
+        }
+    },
+    {
+        "name": "watr",
+        "description": "Light & fast wasm text compiler & formatter",
+        "languages": {
+            "WebAssembly": 300358,
+            "JavaScript": 76988,
+            "HTML": 1390
+        }
+    },
+    {
+        "name": "annotations",
+        "description": "Proposal for Custom Annotation Syntax in the Text Format",
+        "languages": {
+            "WebAssembly": 10504447,
+            "Python": 598953,
+            "OCaml": 439212,
+            "JavaScript": 270071,
+            "Bikeshed": 83104,
+            "Makefile": 24471,
+            "Perl": 15547,
+            "Batchfile": 8672,
+            "Shell": 7267,
+            "HTML": 3148,
+            "CSS": 1165,
+            "TeX": 585,
+            "Standard ML": 376
+        }
+    },
+    {
+        "name": "ProRatingEOS",
+        "description": "A dapp gives rating data provided by prochaintech",
+        "languages": {
+            "WebAssembly": 208238,
+            "C++": 18575,
+            "Shell": 118
+        }
+    },
+    {
+        "name": "as-sha256",
+        "description": "AssemblyScript implementation of SHA256",
+        "languages": {
+            "WebAssembly": 79266,
+            "JavaScript": 20928,
+            "TypeScript": 12268
+        }
+    },
+    {
+        "name": "proposal-type-imports",
+        "description": "Proposal for Type Imports & Exports",
+        "languages": {
+            "WebAssembly": 3508930,
+            "OCaml": 304672,
+            "JavaScript": 239497,
+            "Python": 57332,
+            "Batchfile": 21871,
+            "Makefile": 20522,
+            "Perl": 15547,
+            "Shell": 13193,
+            "HTML": 3148,
+            "CSS": 1057,
+            "Standard ML": 257
+        }
+    },
+    {
+        "name": "finite-wasm",
+        "description": "Cheating a little to solve the halting problem at scale",
+        "languages": {
+            "WebAssembly": 10531723,
+            "OCaml": 415807,
+            "Rust": 208249,
+            "Batchfile": 13201,
+            "Makefile": 4758,
+            "Standard ML": 274
+        }
+    },
+    {
+        "name": "tungsten",
+        "description": "Ricardian contract bond, claim, and arbitration management system",
+        "languages": {
+            "WebAssembly": 420003,
+            "CSS": 65550,
+            "Vue": 41211,
+            "JavaScript": 15144,
+            "C++": 9877,
+            "Python": 4740,
+            "HTML": 938
+        }
+    },
+    {
+        "name": "cdk-as",
+        "description": "Unofficial Experimental AssemblyScript CDK for DFINITY",
+        "languages": {
+            "WebAssembly": 1105658,
+            "TypeScript": 55149,
+            "JavaScript": 23318,
+            "Batchfile": 31
+        }
+    },
+    {
+        "name": "canvas-as",
+        "description": "A small canvas rendering framework powered by AssemblyScript \ud83c\udf89\ud83c\udf89\ud83c\udf89",
+        "languages": {
+            "WebAssembly": 794444,
+            "TypeScript": 118666,
+            "JavaScript": 1565,
+            "HTML": 283
+        }
+    },
+    {
+        "name": "sign-extension-ops",
+        "description": "Sign-extension opcodes",
+        "languages": {
+            "WebAssembly": 2639022,
+            "OCaml": 224573,
+            "JavaScript": 137958,
+            "Python": 56608,
+            "Batchfile": 21871,
+            "Makefile": 20190,
+            "Perl": 15644,
+            "Shell": 12980,
+            "HTML": 3168,
+            "Standard ML": 1571,
+            "CSS": 1057
+        }
+    },
+    {
+        "name": "constant-time",
+        "description": "Constant-time WebAssembly",
+        "languages": {
+            "WebAssembly": 2635726,
+            "OCaml": 224656,
+            "JavaScript": 138042,
+            "Python": 56608,
+            "Batchfile": 21871,
+            "Makefile": 20190,
+            "Perl": 15547,
+            "Shell": 12980,
+            "HTML": 3168,
+            "CSS": 1057,
+            "Standard ML": 257
+        }
+    },
+    {
+        "name": "funclets",
+        "description": "Proposal for adding funclets - flexible intraprocedural control flow",
+        "languages": {
+            "WebAssembly": 2418804,
+            "OCaml": 219111,
+            "JavaScript": 104589,
+            "Python": 56172,
+            "Batchfile": 24892,
+            "Makefile": 20039,
+            "Perl": 15547,
+            "Shell": 13009,
+            "HTML": 3168,
+            "CSS": 1057,
+            "Standard ML": 257
+        }
+    },
+    {
+        "name": "reversing_ewasm_contract_101",
+        "description": "Reversing Ewasm (Ethereum WebAssembly) contract 101 - Workshop",
+        "languages": {
+            "WebAssembly": 179217
+        }
+    },
+    {
+        "name": "BC6H-Decoder-WASM",
+        "description": "WebAssembly BC6H Decoder",
+        "languages": {
+            "WebAssembly": 487225,
+            "TypeScript": 55009
+        }
+    },
+    {
+        "name": "dapp-examples",
+        "description": null,
+        "languages": {
+            "WebAssembly": 2717634,
+            "C++": 257268,
+            "JavaScript": 130396,
+            "Shell": 15502,
+            "HTML": 1587,
+            "CMake": 864,
+            "CSS": 440
+        }
+    },
+    {
+        "name": "eosio-demo1-election",
+        "description": "My experiment on EOSIO blockchain to develop an election Smart Contract. I also develop a webapp which interacts with the blockchain.",
+        "languages": {
+            "WebAssembly": 177305,
+            "HTML": 5271,
+            "JavaScript": 5027,
+            "C++": 4040,
+            "Python": 3278
+        }
+    },
+    {
+        "name": "irespo",
+        "description": null,
+        "languages": {
+            "WebAssembly": 1883789,
+            "C++": 38640
+        }
+    },
+    {
+        "name": "cpp2wasm",
+        "description": "Compile simple C++ file into WebAssembly.",
+        "languages": {
+            "WebAssembly": 211299,
+            "JavaScript": 1740,
+            "Shell": 1537,
+            "C": 177
+        }
+    },
+    {
+        "name": "opaguide_src",
+        "description": null,
+        "languages": {
+            "WebAssembly": 3930921,
+            "Open Policy Agent": 27351,
+            "Go": 5589,
+            "Java": 1142,
+            "JavaScript": 707,
+            "HCL": 307,
+            "Shell": 169
+        }
+    },
+    {
+        "name": "nontrapping-float-to-int-conversions",
+        "description": "Proposal to add non-trapping float-to-int conversions to WebAssembly",
+        "languages": {
+            "WebAssembly": 2618720,
+            "OCaml": 228764,
+            "JavaScript": 137958,
+            "Bikeshed": 73000,
+            "Python": 56181,
+            "Batchfile": 21871,
+            "Makefile": 20085,
+            "Perl": 15547,
+            "Shell": 12980,
+            "HTML": 3168,
+            "CSS": 1057,
+            "Standard ML": 257
+        }
+    },
+    {
+        "name": "shared-everything-threads",
+        "description": "A draft proposal for spawning threads in WebAssembly",
+        "languages": {
+            "WebAssembly": 10488475,
+            "Python": 597484,
+            "OCaml": 408765,
+            "JavaScript": 269590,
+            "Bikeshed": 78328,
+            "Makefile": 22353,
+            "Batchfile": 21873,
+            "Perl": 15547,
+            "Shell": 7267,
+            "HTML": 3148,
+            "CSS": 1165,
+            "TeX": 585,
+            "Standard ML": 185
+        }
+    },
+    {
+        "name": "eosref",
+        "description": "Reference implementations of common EOS smart contract patterns",
+        "languages": {
+            "WebAssembly": 2117372,
+            "C++": 58450,
+            "Shell": 39332,
+            "JavaScript": 906,
+            "Dockerfile": 733
+        }
+    },
+    {
+        "name": "mutable-global",
+        "description": "Import & export of mutable globals",
+        "languages": {
+            "WebAssembly": 2288154,
+            "OCaml": 217211,
+            "JavaScript": 104454,
+            "Python": 55246,
+            "Batchfile": 24892,
+            "Makefile": 16550,
+            "Shell": 13009,
+            "HTML": 2641,
+            "Standard ML": 1747,
+            "CSS": 1057
+        }
+    },
+    {
+        "name": "eosocial",
+        "description": "Deprecated - :pencil: Sample dApp of Votable SNS run by EOS Testnet.",
+        "languages": {
+            "WebAssembly": 199386,
+            "JavaScript": 48428,
+            "C++": 6239,
+            "Shell": 1767,
+            "CSS": 1475,
+            "HTML": 975
+        }
+    },
+    {
+        "name": "EOSDACRandom",
+        "description": "A random number generator smart contract.",
+        "languages": {
+            "WebAssembly": 1021123,
+            "C++": 12111,
+            "Shell": 142
+        }
+    },
+    {
+        "name": "react-eos-game",
+        "description": null,
+        "languages": {
+            "WebAssembly": 232845,
+            "JavaScript": 22526,
+            "C++": 14341,
+            "Less": 1315
+        }
+    },
+    {
+        "name": "faasmjs",
+        "description": "Serverless browser offloading with Faasm and WebAssembly",
+        "languages": {
+            "WebAssembly": 636172,
+            "JavaScript": 16016,
+            "C++": 2582,
+            "Shell": 1293,
+            "HTML": 683,
+            "CMake": 608,
+            "CSS": 110
+        }
+    },
+    {
+        "name": "wps-backend",
+        "description": "Smart contract for the Worker Proposal System",
+        "languages": {
+            "WebAssembly": 1887444,
+            "JavaScript": 163100,
+            "C++": 98845,
+            "Shell": 2610,
+            "CMake": 2564
+        }
+    },
+    {
+        "name": "wava",
+        "description": "Java backend/toolchain for WebAssembly",
+        "languages": {
+            "WebAssembly": 36576133,
+            "Java": 14026396,
+            "LLVM": 6249320,
+            "C": 5042845,
+            "Assembly": 3300558,
+            "C++": 96366,
+            "Makefile": 39023,
+            "JavaScript": 30232,
+            "Charity": 26547,
+            "Shell": 23039,
+            "Dockerfile": 2136,
+            "Python": 1038,
+            "CMake": 554,
+            "Pascal": 70
+        }
+    },
+    {
+        "name": "eosgameworld",
+        "description": null,
+        "languages": {
+            "WebAssembly": 325710,
+            "C++": 10680
+        }
+    },
+    {
+        "name": "KEEP",
+        "description": "Kylin EOS Enhancement Proposals",
+        "languages": {
+            "WebAssembly": 148493,
+            "Shell": 9570,
+            "C++": 3635
+        }
+    },
+    {
+        "name": "c-to-wasm-compiler-project",
+        "description": "Small C to WebAsssembly compiler developed for the Compilers course at UFES",
+        "languages": {
+            "WebAssembly": 509423,
+            "C++": 117888,
+            "JavaScript": 52487,
+            "C": 38075,
+            "Yacc": 26153,
+            "Lex": 5895,
+            "Shell": 3501,
+            "Makefile": 3116,
+            "Python": 2137,
+            "CSS": 1595,
+            "HTML": 1225
+        }
+    },
+    {
+        "name": "Hack-Til-Dawn",
+        "description": null,
+        "languages": {
+            "WebAssembly": 1650365,
+            "C++": 37300,
+            "Shell": 4929
+        }
+    },
+    {
+        "name": "wasm-webidl-polyfill",
+        "description": null,
+        "languages": {
+            "WebAssembly": 39943,
+            "JavaScript": 27589,
+            "Python": 13247,
+            "C++": 4975,
+            "Makefile": 568,
+            "C": 526,
+            "HTML": 120
+        }
+    },
+    {
+        "name": "security",
+        "description": "Security by EOS LIVE team.",
+        "languages": {
+            "WebAssembly": 1852134,
+            "C++": 14148,
+            "Shell": 5473,
+            "CMake": 381
+        }
+    },
+    {
+        "name": "webassembly-game-boy",
+        "description": "\ud83c\udfae  WebAssembly Game Boy Emulator",
+        "languages": {
+            "WebAssembly": 28873,
+            "JavaScript": 267
+        }
+    },
+    {
+        "name": "extended-const",
+        "description": "Proposal for extended constant expressions",
+        "languages": {
+            "WebAssembly": 10497532,
+            "Python": 597572,
+            "OCaml": 409121,
+            "JavaScript": 269598,
+            "Bikeshed": 77738,
+            "Makefile": 20025,
+            "Perl": 15547,
+            "Batchfile": 8672,
+            "Shell": 7267,
+            "HTML": 3148,
+            "CSS": 1165,
+            "TeX": 585,
+            "Standard ML": 346
+        }
+    },
+    {
+        "name": "haskell-binaryen",
+        "description": "Haskell bindings to binaryen.",
+        "languages": {
+            "WebAssembly": 8517069,
+            "C++": 4207175,
+            "JavaScript": 1659686,
+            "Python": 239530,
+            "C": 156411,
+            "Haskell": 71786,
+            "CMake": 18996,
+            "Nix": 8900,
+            "Shell": 3959,
+            "Assembly": 818
+        }
+    },
+    {
+        "name": "openaichain",
+        "description": "\u81f4\u529b\u4e8e\u8bbe\u8ba1\u5168\u7403\u9886\u5148\u7684\u4eba\u5de5\u667a\u80fd\u533a\u5757\u94fe\u5e73\u53f0",
+        "languages": {
+            "WebAssembly": 6269741,
+            "C++": 5802223,
+            "Shell": 973567,
+            "Python": 411269,
+            "CMake": 258778,
+            "C": 196348,
+            "Makefile": 142692,
+            "M4": 131060,
+            "Roff": 18043,
+            "Perl": 8832,
+            "NSIS": 6752,
+            "QMake": 2019
+        }
+    },
+    {
+        "name": "conditional-sections",
+        "description": null,
+        "languages": {
+            "WebAssembly": 2601806,
+            "OCaml": 223908,
+            "JavaScript": 137958,
+            "Python": 56162,
+            "Batchfile": 24884,
+            "Makefile": 20086,
+            "Perl": 15644,
+            "Shell": 13009,
+            "HTML": 3168,
+            "CSS": 1057,
+            "Standard ML": 257
+        }
+    },
+    {
+        "name": "as-substrate",
+        "description": "Collection of libraries written in AssemblyScript",
+        "languages": {
+            "WebAssembly": 175299990,
+            "TypeScript": 44528,
+            "Shell": 1630,
+            "JavaScript": 392
+        }
+    },
+    {
+        "name": "ncurses-for-emscripten",
+        "description": "ncurses 6.1 compiled by emscripten for usage in a browser. It is compiled, loaded, but doesn't work! You are wanted to make it work!",
+        "languages": {
+            "WebAssembly": 21818914,
+            "C": 4382570,
+            "HTML": 4312472,
+            "Ada": 1085192,
+            "Roff": 1022899,
+            "JavaScript": 719491,
+            "Makefile": 402095,
+            "C++": 350826,
+            "Shell": 219147,
+            "Awk": 88541,
+            "sed": 27119,
+            "Batchfile": 18374,
+            "Objective-C": 14014,
+            "Perl": 12733,
+            "M4": 7729,
+            "NSIS": 5528,
+            "CSS": 4192
+        }
+    },
+    {
+        "name": "instrument-tracing",
+        "description": "Proposal to add instrumentation and tracing instructions to WebAssembly",
+        "languages": {
+            "WebAssembly": 2710873,
+            "OCaml": 234975,
+            "JavaScript": 175956,
+            "Python": 57488,
+            "Batchfile": 21871,
+            "Makefile": 19652,
+            "Perl": 15547,
+            "Shell": 12935,
+            "HTML": 3148,
+            "CSS": 1057,
+            "TeX": 311,
+            "Standard ML": 257
+        }
+    },
+    {
+        "name": "wats",
+        "description": "A simple WebAssembly compiler",
+        "languages": {
+            "WebAssembly": 112421,
+            "JavaScript": 4197,
+            "HTML": 1524
+        }
+    },
+    {
+        "name": "wasabi",
+        "description": null,
+        "languages": {
+            "WebAssembly": 556259,
+            "JavaScript": 51815,
+            "Objective-C": 17124,
+            "C": 4282,
+            "C++": 3580,
+            "Python": 196
+        }
+    },
+    {
+        "name": "w3bstream-examples",
+        "description": null,
+        "languages": {
+            "WebAssembly": 294480,
+            "C++": 63590,
+            "Solidity": 36102,
+            "Rust": 25063,
+            "JavaScript": 23551,
+            "TypeScript": 18549,
+            "Go": 4767,
+            "Python": 2769,
+            "Shell": 2571,
+            "Makefile": 1396,
+            "C": 811,
+            "CMake": 617,
+            "HTML": 364
+        }
+    },
+    {
+        "name": "wafy",
+        "description": "wafy\u662fwaiting for you \u5bfb\u4eba\u542f\u4e8b\u9879\u76ee\u7684\u667a\u80fd\u5408\u7ea6\uff0c\u76ee\u524d\u90e8\u7f72\u5728EOS kylin\u6d4b\u8bd5\u7f51\u3002",
+        "languages": {
+            "WebAssembly": 1656145,
+            "C++": 63513
+        }
+    },
+    {
+        "name": "contracts",
+        "description": "The collection of eosio contracts from MEET.ONE",
+        "languages": {
+            "WebAssembly": 421940,
+            "C++": 21738,
+            "Shell": 1605,
+            "CMake": 272
+        }
+    },
+    {
+        "name": "noise",
+        "description": null,
+        "languages": {
+            "WebAssembly": 5086925,
+            "JavaScript": 4932166,
+            "Roff": 15789,
+            "HTML": 8583,
+            "CSS": 7321,
+            "Python": 2264
+        }
+    },
+    {
+        "name": "ProSDKEOS",
+        "description": null,
+        "languages": {
+            "WebAssembly": 317538,
+            "JavaScript": 25829,
+            "Java": 12112,
+            "C++": 10712,
+            "Objective-C": 10690,
+            "Shell": 215
+        }
+    },
+    {
+        "name": "AccountPhoto",
+        "description": "Map a universal avatar against your EOS blockchain account (stored using the IPFS protocol).",
+        "languages": {
+            "WebAssembly": 103052,
+            "JavaScript": 18907,
+            "C++": 2101,
+            "HTML": 1117,
+            "CSS": 861
+        }
     }
 ]

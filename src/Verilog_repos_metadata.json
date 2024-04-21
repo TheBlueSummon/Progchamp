@@ -67,5 +67,2422 @@
             "Tcl": 1608,
             "Shell": 1485
         }
+    },
+    {
+        "name": "hw",
+        "description": "RTL, Cmodel, and testbench for NVDLA",
+        "languages": {
+            "Verilog": 41260533,
+            "C++": 2654779,
+            "C": 1891502,
+            "Perl": 75308,
+            "Makefile": 57986,
+            "Coq": 38846,
+            "Forth": 35668,
+            "Tcl": 26688,
+            "Shell": 18385,
+            "SystemVerilog": 11639,
+            "Ruby": 7211,
+            "Perl 6": 4137,
+            "Stata": 381
+        }
+    },
+    {
+        "name": "corundum",
+        "description": "Open source FPGA-based NIC and platform for in-network compute",
+        "languages": {
+            "Verilog": 15849391,
+            "Python": 7665475,
+            "Tcl": 6804702,
+            "Makefile": 2870382,
+            "C": 1281913,
+            "Shell": 50656,
+            "BitBake": 2904,
+            "sed": 70
+        }
+    },
+    {
+        "name": "basic_verilog",
+        "description": "Must-have verilog systemverilog modules",
+        "languages": {
+            "Verilog": 5845831,
+            "SystemVerilog": 1481718,
+            "VHDL": 1467831,
+            "HTML": 1461176,
+            "C++": 270881,
+            "Java": 136447,
+            "Tcl": 121465,
+            "C": 53262,
+            "Shell": 46327,
+            "Batchfile": 28817,
+            "Python": 11691,
+            "Makefile": 10342,
+            "Pascal": 9295,
+            "CSS": 5993,
+            "Fortran": 23
+        }
+    },
+    {
+        "name": "hdl",
+        "description": "HDL libraries and projects",
+        "languages": {
+            "Verilog": 5404278,
+            "Tcl": 3785954,
+            "Makefile": 306366,
+            "VHDL": 165440,
+            "SystemVerilog": 87053,
+            "Perl": 34513,
+            "Shell": 21058,
+            "MATLAB": 2587,
+            "Python": 1842
+        }
+    },
+    {
+        "name": "OpenROAD",
+        "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
+        "languages": {
+            "Verilog": 58693525,
+            "C++": 17436225,
+            "Tcl": 1864963,
+            "C": 658979,
+            "Yacc": 510137,
+            "Python": 410598,
+            "SWIG": 373773,
+            "CMake": 199719,
+            "Roff": 183952,
+            "Shell": 54218,
+            "Cuda": 7430,
+            "Dockerfile": 3754,
+            "Nix": 1401,
+            "Ruby": 552
+        }
+    },
+    {
+        "name": "verilog-axi",
+        "description": "Verilog AXI components for FPGA implementation",
+        "languages": {
+            "Verilog": 1093135,
+            "Python": 822858,
+            "Makefile": 66745,
+            "Tcl": 18559
+        }
+    },
+    {
+        "name": "serv",
+        "description": "SERV - The SErial RISC-V CPU",
+        "languages": {
+            "Verilog": 146864,
+            "Python": 9862,
+            "Tcl": 8498,
+            "C": 8367,
+            "C++": 8113,
+            "Assembly": 3652,
+            "SystemVerilog": 2836,
+            "CMake": 863,
+            "Mathematica": 436,
+            "Makefile": 280
+        }
+    },
+    {
+        "name": "zipcpu",
+        "description": "A small, light weight, RISC CPU soft core",
+        "languages": {
+            "Verilog": 2017386,
+            "C++": 407791,
+            "C": 139531,
+            "Makefile": 97663,
+            "Assembly": 44832,
+            "Perl": 42536,
+            "Lex": 32755,
+            "Yacc": 14879,
+            "Shell": 14170,
+            "HTML": 12091,
+            "SystemVerilog": 5597,
+            "Vim Script": 4985
+        }
+    },
+    {
+        "name": "e203_hbirdv2",
+        "description": "The Ultra-Low Power RISC-V Core",
+        "languages": {
+            "Verilog": 2080898,
+            "C": 595518,
+            "Assembly": 320934,
+            "Python": 58575,
+            "Tcl": 42279,
+            "Makefile": 22951,
+            "Perl": 20165,
+            "Scala": 3879,
+            "Shell": 1310,
+            "M4": 292
+        }
+    },
+    {
+        "name": "oh",
+        "description": "Verilog library for ASIC and FPGA designers",
+        "languages": {
+            "Verilog": 1492497,
+            "Tcl": 204297,
+            "C": 102814,
+            "Shell": 14645,
+            "Python": 10975,
+            "SystemVerilog": 10009,
+            "Perl": 5034,
+            "Assembly": 3465,
+            "Makefile": 3331,
+            "Batchfile": 631,
+            "JavaScript": 222
+        }
+    },
+    {
+        "name": "riscv",
+        "description": "RISC-V CPU Core (RV32IM)",
+        "languages": {
+            "Verilog": 482610,
+            "C++": 194717,
+            "C": 23506,
+            "Makefile": 3898
+        }
+    },
+    {
+        "name": "openc910",
+        "description": "OpenXuantie - OpenC910 Core",
+        "languages": {
+            "Verilog": 20859360,
+            "Assembly": 647420,
+            "C": 139480,
+            "SystemVerilog": 84248,
+            "Makefile": 22964,
+            "Tcl": 21249,
+            "C++": 4597,
+            "Raku": 3112,
+            "Perl": 1167,
+            "Shell": 903
+        }
+    },
+    {
+        "name": "vortex",
+        "description": null,
+        "languages": {
+            "Verilog": 9556630,
+            "PostScript": 2468607,
+            "C++": 2403777,
+            "SystemVerilog": 819098,
+            "C": 569695,
+            "Visual Basic 6.0": 202975,
+            "Tcl": 184180,
+            "Makefile": 74438,
+            "Shell": 47708,
+            "Python": 22526,
+            "Assembly": 7555,
+            "Dockerfile": 3243
+        }
+    },
+    {
+        "name": "amiga2000-gfxcard",
+        "description": "MNT VA2000, an Open Source Amiga 2/3/4000 Graphics Card (Zorro II/III), written in Verilog",
+        "languages": {
+            "Verilog": 257611,
+            "VHDL": 132182,
+            "C": 129981,
+            "Assembly": 9704,
+            "Shell": 4577,
+            "Makefile": 283,
+            "Batchfile": 264
+        }
+    },
+    {
+        "name": "verilog-pcie",
+        "description": "Verilog PCI express components",
+        "languages": {
+            "Verilog": 3384998,
+            "Python": 2257525,
+            "Tcl": 990630,
+            "Makefile": 493571,
+            "C": 23470,
+            "Shell": 4548
+        }
+    },
+    {
+        "name": "uhd",
+        "description": "The USRP\u2122 Hardware Driver Repository",
+        "languages": {
+            "Verilog": 26441703,
+            "C++": 16164898,
+            "C": 9494914,
+            "Python": 5309866,
+            "VHDL": 3539262,
+            "SystemVerilog": 2383045,
+            "HTML": 2235677,
+            "Tcl": 1907906,
+            "CMake": 419240,
+            "Makefile": 356744,
+            "Shell": 314199,
+            "Batchfile": 131185,
+            "Mako": 101445,
+            "Stata": 98692,
+            "Assembly": 43037,
+            "BitBake": 38816,
+            "Cadence": 34617,
+            "Roff": 29502,
+            "Lua": 22932,
+            "Dockerfile": 20167,
+            "TeX": 13998,
+            "JavaScript": 6824,
+            "Mathematica": 676,
+            "Perl": 311
+        }
+    },
+    {
+        "name": "miaow",
+        "description": "An open source GPU based off of the AMD Southern Islands ISA.",
+        "languages": {
+            "Verilog": 1571202,
+            "Stata": 188527,
+            "C": 132578,
+            "Tcl": 117041,
+            "C++": 56976,
+            "Makefile": 31286,
+            "Perl": 26451,
+            "VHDL": 8610,
+            "Coq": 8050,
+            "Shell": 846
+        }
+    },
+    {
+        "name": "ODriveHardware",
+        "description": "High performance motor control",
+        "languages": {
+            "Verilog": 7739
+        }
+    },
+    {
+        "name": "biriscv",
+        "description": "32-bit Superscalar RISC-V CPU",
+        "languages": {
+            "Verilog": 464348,
+            "C++": 96019,
+            "Makefile": 3910,
+            "C": 739
+        }
+    },
+    {
+        "name": "apio",
+        "description": ":seedling: Open source ecosystem for open FPGA boards",
+        "languages": {
+            "Verilog": 1432271,
+            "Python": 281779,
+            "Makefile": 1092
+        }
+    },
+    {
+        "name": "open-fpga-verilog-tutorial",
+        "description": "Learn how to design digital systems and synthesize them into an FPGA using only opensource tools",
+        "languages": {
+            "Verilog": 399147,
+            "Makefile": 167014,
+            "SystemVerilog": 146514,
+            "Coq": 46065,
+            "Python": 43406,
+            "Assembly": 2894
+        }
+    },
+    {
+        "name": "OpenFPGA",
+        "description": "An Open-source FPGA IP Generator",
+        "languages": {
+            "Verilog": 15275282,
+            "Tcl": 5443976,
+            "C++": 5269686,
+            "Python": 135544,
+            "CMake": 61120,
+            "Shell": 38101,
+            "Raku": 32380,
+            "Perl": 13026,
+            "C": 6864,
+            "VHDL": 6712,
+            "SourcePawn": 6397,
+            "Makefile": 5781,
+            "Dockerfile": 2388,
+            "Fortran": 406,
+            "SWIG": 137
+        }
+    },
+    {
+        "name": "riffa",
+        "description": "The RIFFA development repository",
+        "languages": {
+            "Verilog": 2104512,
+            "C": 250343,
+            "Tcl": 217782,
+            "Makefile": 203036,
+            "SystemVerilog": 56823,
+            "Java": 21822,
+            "Python": 11763,
+            "MATLAB": 10791,
+            "Inno Setup": 4442,
+            "Shell": 4397,
+            "Batchfile": 1431,
+            "C++": 1084
+        }
+    },
+    {
+        "name": "USB_C_Industrial_Camera_FPGA_USB3",
+        "description": "Source and Documentation files for USB C Industrial Camera Project, This repo contains PCB boards, FPGA , Camera and USB along with FPGA Firmware and USB Controller Firmware source.",
+        "languages": {
+            "Verilog": 2092579,
+            "C": 311018,
+            "Makefile": 1297,
+            "Assembly": 1007
+        }
+    },
+    {
+        "name": "step_into_mips",
+        "description": "\u4e00\u6b65\u4e00\u6b65\u5199MIPS CPU",
+        "languages": {
+            "Verilog": 48228
+        }
+    },
+    {
+        "name": "microwatt",
+        "description": "A tiny Open POWER ISA softcore written in VHDL 2008",
+        "languages": {
+            "Verilog": 5851250,
+            "VHDL": 1339345,
+            "C": 278376,
+            "Tcl": 113394,
+            "Assembly": 51344,
+            "Makefile": 18041,
+            "Python": 17016,
+            "Shell": 5451,
+            "C++": 5178,
+            "Rust": 1602
+        }
+    },
+    {
+        "name": "Verilog-Practice",
+        "description": "HDLBits website practices & solutions",
+        "languages": {
+            "Verilog": 95580,
+            "V": 149
+        }
+    },
+    {
+        "name": "cores",
+        "description": "Various HDL (Verilog) IP Cores",
+        "languages": {
+            "Verilog": 444261,
+            "C": 120930,
+            "C++": 53575,
+            "SystemVerilog": 29675,
+            "Makefile": 6904
+        }
+    },
+    {
+        "name": "pcileech-fpga",
+        "description": "FPGA modules used together with the PCILeech Direct Memory Access (DMA) Attack Software",
+        "languages": {
+            "Verilog": 2616464,
+            "SystemVerilog": 1207523,
+            "Tcl": 490325,
+            "Batchfile": 2940
+        }
+    },
+    {
+        "name": "openwifi-hw",
+        "description": "open-source IEEE 802.11 WiFi baseband FPGA (chip) design: FPGA, hardware",
+        "languages": {
+            "Verilog": 1084151,
+            "Tcl": 119633,
+            "Shell": 10015,
+            "MATLAB": 2256
+        }
+    },
+    {
+        "name": "riscv_vhdl",
+        "description": "Portable RISC-V System-on-Chip implementation: RTL, debugger and simulators",
+        "languages": {
+            "Verilog": 3911574,
+            "C++": 3411687,
+            "SystemVerilog": 1629093,
+            "VHDL": 1600200,
+            "Tcl": 76401,
+            "Python": 23535,
+            "Filebench WML": 21722,
+            "C": 21712,
+            "CMake": 18296,
+            "Makefile": 14028,
+            "Fortran": 7008,
+            "TeX": 5070,
+            "Shell": 2820,
+            "Batchfile": 1589
+        }
+    },
+    {
+        "name": "LeFlow",
+        "description": "Enabling Flexible FPGA High-Level Synthesis of Tensorflow Deep Neural Networks",
+        "languages": {
+            "Verilog": 33163121,
+            "V": 27670917,
+            "SystemVerilog": 982763,
+            "C++": 583039,
+            "Python": 84210,
+            "Tcl": 1498
+        }
+    },
+    {
+        "name": "riscv-formal",
+        "description": "RISC-V Formal Verification Framework",
+        "languages": {
+            "Verilog": 1460816,
+            "Python": 156095,
+            "SystemVerilog": 149560,
+            "Shell": 13238,
+            "C++": 9650,
+            "Makefile": 570
+        }
+    },
+    {
+        "name": "mips-cpu",
+        "description": "MIPS CPU implemented in Verilog",
+        "languages": {
+            "Verilog": 31654,
+            "Assembly": 3209,
+            "Makefile": 1546,
+            "C": 1309,
+            "Shell": 981,
+            "Perl": 860
+        }
+    },
+    {
+        "name": "FPGA-Imaging-Library",
+        "description": "An open source library for image processing on FPGA.",
+        "languages": {
+            "Verilog": 2877217,
+            "Tcl": 242753,
+            "Python": 224855,
+            "Stata": 144995,
+            "SystemVerilog": 128302,
+            "C": 12764,
+            "Makefile": 456
+        }
+    },
+    {
+        "name": "verilog",
+        "description": "Repository for basic (and not so basic) Verilog blocks with high re-use potential",
+        "languages": {
+            "Verilog": 63900,
+            "SystemVerilog": 3923,
+            "Stata": 121
+        }
+    },
+    {
+        "name": "OpenTimer",
+        "description": "A High-performance Timing Analysis Tool for VLSI Systems",
+        "languages": {
+            "Verilog": 25100802,
+            "C++": 3070799,
+            "Tcl": 1397983,
+            "C": 57882,
+            "CMake": 13923,
+            "Yacc": 11499,
+            "Shell": 5045,
+            "Python": 2424
+        }
+    },
+    {
+        "name": "graphics-gremlin",
+        "description": "Open source retro ISA video card",
+        "languages": {
+            "Verilog": 80828,
+            "Makefile": 2239
+        }
+    },
+    {
+        "name": "mor1kx",
+        "description": "mor1kx - an OpenRISC 1000 processor IP core",
+        "languages": {
+            "Verilog": 958399,
+            "SystemVerilog": 2133,
+            "Makefile": 924
+        }
+    },
+    {
+        "name": "FPGA-USB-Device",
+        "description": "An FPGA-based USB full-speed device core to implement USB-serial, USB-camera, USB-audio, USB-hid, etc. It requires only 3 FPGA common IOs rather than additional chips. \u57fa\u4e8eFPGA\u7684USB full-speed device\u7aef\u63a7\u5236\u5668\uff0c\u53ef\u5b9e\u73b0USB\u4e32\u53e3\u3001USB\u6444\u50cf\u5934\u3001USB\u97f3\u9891\u3001U\u76d8\u3001USB\u952e\u76d8\u7b49\u8bbe\u5907\uff0c\u53ea\u9700\u89813\u4e2aFPGA\u666e\u901aIO\uff0c\u800c\u4e0d\u9700\u8981\u989d\u5916\u7684\u63a5\u53e3\u82af\u7247\u3002",
+        "languages": {
+            "Verilog": 724685
+        }
+    },
+    {
+        "name": "fpu",
+        "description": "synthesiseable ieee 754 floating point library in verilog ",
+        "languages": {
+            "Verilog": 193146,
+            "Python": 58297,
+            "C++": 3028
+        }
+    },
+    {
+        "name": "verilog-i2c",
+        "description": "Verilog I2C interface for FPGA implementation",
+        "languages": {
+            "Verilog": 218934,
+            "Python": 155158
+        }
+    },
+    {
+        "name": "32-Verilog-Mini-Projects",
+        "description": "Implementing 32 Verilog Mini Projects. 32 bit adder, Array Multiplier, Barrel Shifter, Binary Divider 16 by 8, Booth Multiplication, CRC Coding, Carry Select and Carry Look Ahead Adder, Carry Skip and Carry Save Adder, Complex Multiplier, Dice Game, FIFO, Fixed Point Adder and Subtractor, Fixed Point Multiplier and Divider, Floating Point IEEE 754 Addition Subtraction, Floating Point IEEE 754 Division, Floating Point IEEE 754 Multiplication, Fraction Multiplier, High Radix Multiplier, I2C and SPI Protocols, LFSR and CFSR, Logarithm Implementation, Mealy and Moore State Machine Implementation of Sequence Detector, Modified Booth Algorithm, Pipelined Multiplier, Restoring and Non Restoring Division, Sequential Multiplier, Shift and Add Binary Multiplier, Traffic Light Controller, Universal_Shift_Register, BCD Adder, Dual Address RAM and Dual Address ROM",
+        "languages": {
+            "Verilog": 125960,
+            "Python": 408
+        }
+    },
+    {
+        "name": "ucr-eecs168-lab",
+        "description": "The lab schedules for EECS168 at UC Riverside",
+        "languages": {
+            "Verilog": 8053
+        }
+    },
+    {
+        "name": "CNN-FPGA",
+        "description": "\u4f7f\u7528Verilog\u5b9e\u73b0\u7684CNN\u6a21\u5757\uff0c\u53ef\u4ee5\u65b9\u4fbf\u7684\u5728FPGA\u9879\u76ee\u4e2d\u4f7f\u7528",
+        "languages": {
+            "Verilog": 22469
+        }
+    },
+    {
+        "name": "vroom",
+        "description": "VRoom! RISC-V CPU",
+        "languages": {
+            "Verilog": 2223811,
+            "SystemVerilog": 1191728,
+            "HTML": 1003610,
+            "C": 280971,
+            "Shell": 57532,
+            "Makefile": 45306,
+            "Python": 23815,
+            "C++": 5771,
+            "Assembly": 2370,
+            "Tcl": 865
+        }
+    },
+    {
+        "name": "CFU-Playground",
+        "description": "Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).    . . . . .   Online tutorial: https://google.github.io/CFU-Playground/   For reference docs, see the link below.",
+        "languages": {
+            "Verilog": 7408891,
+            "C++": 4936579,
+            "Python": 1767725,
+            "C": 453784,
+            "Makefile": 43264,
+            "Jupyter Notebook": 35820,
+            "Shell": 26458,
+            "Scala": 18649,
+            "SystemVerilog": 6923,
+            "RobotFramework": 6125,
+            "Assembly": 3800,
+            "Dockerfile": 1026,
+            "CMake": 976
+        }
+    },
+    {
+        "name": "VerilogBoy",
+        "description": "A Pi emulating a GameBoy sounds cheap. What about an FPGA?",
+        "languages": {
+            "Verilog": 941318,
+            "C": 580994,
+            "VHDL": 52420,
+            "C++": 42558,
+            "Assembly": 38093,
+            "SystemVerilog": 11583,
+            "Makefile": 7329,
+            "Cadence": 3923,
+            "Shell": 268,
+            "Python": 186
+        }
+    },
+    {
+        "name": "wb2axip",
+        "description": "Bus bridges and other odds and ends",
+        "languages": {
+            "Verilog": 1830286,
+            "Makefile": 52804,
+            "C++": 30890,
+            "VHDL": 21142,
+            "SystemVerilog": 17512,
+            "Shell": 4365
+        }
+    },
+    {
+        "name": "FPGA-FOC",
+        "description": "FPGA-based Field Oriented Control (FOC) for driving BLDC/PMSM motor. \u57fa\u4e8eFPGA\u7684FOC\u63a7\u5236\u5668\uff0c\u7528\u4e8e\u9a71\u52a8BLDC/PMSM\u7535\u673a\u3002",
+        "languages": {
+            "Verilog": 314286,
+            "Batchfile": 341
+        }
+    },
+    {
+        "name": "apicula",
+        "description": "Project Apicula \ud83d\udc1d: bitstream documentation for Gowin FPGAs",
+        "languages": {
+            "Verilog": 922814,
+            "Python": 523160,
+            "Jupyter Notebook": 84965,
+            "Tcl": 2558,
+            "Shell": 1904,
+            "Makefile": 1133,
+            "VHDL": 442,
+            "Dockerfile": 275
+        }
+    },
+    {
+        "name": "vdatp",
+        "description": "Volumetric Display using an Acoustically Trapped Particle",
+        "languages": {
+            "Verilog": 590118,
+            "HTML": 77189,
+            "C++": 60078,
+            "SystemVerilog": 42008,
+            "C": 18110,
+            "Python": 5906,
+            "Cuda": 4043,
+            "GLSL": 3579,
+            "QMake": 3474,
+            "Stata": 1969,
+            "Mathematica": 946,
+            "Standard ML": 32,
+            "Scheme": 21
+        }
+    },
+    {
+        "name": "RISC-V-Single-Cycle-CPU",
+        "description": "A RISC-V 32bit single-cycle CPU written in Logisim",
+        "languages": {
+            "Verilog": 46864,
+            "Scala": 38690,
+            "SystemVerilog": 21571,
+            "Makefile": 341,
+            "Assembly": 276,
+            "Shell": 31
+        }
+    },
+    {
+        "name": "tillitis-key1",
+        "description": "Board designs, FPGA verilog, firmware for TKey, the flexible and open USB security key \ud83d\udd11",
+        "languages": {
+            "Verilog": 277994,
+            "C": 182296,
+            "Python": 86452,
+            "Makefile": 29775,
+            "C++": 5976,
+            "CMake": 4811,
+            "Shell": 3651,
+            "Dockerfile": 3148,
+            "Assembly": 1529
+        }
+    },
+    {
+        "name": "convolution_network_on_FPGA",
+        "description": "CNN acceleration on virtex-7 FPGA with verilog HDL",
+        "languages": {
+            "Verilog": 506992,
+            "MATLAB": 6260
+        }
+    },
+    {
+        "name": "verilog-uart",
+        "description": "Verilog UART",
+        "languages": {
+            "Verilog": 86838,
+            "Python": 39824,
+            "Makefile": 33696,
+            "Tcl": 9706
+        }
+    },
+    {
+        "name": "AccDNN",
+        "description": "A compiler from AI model to RTL (Verilog) accelerator in FPGA hardware with auto design space exploration.",
+        "languages": {
+            "Verilog": 744788,
+            "Coq": 670917,
+            "SystemVerilog": 245617,
+            "Python": 153628,
+            "Stata": 74025,
+            "Shell": 15493,
+            "Tcl": 7254
+        }
+    },
+    {
+        "name": "netfpga",
+        "description": "NetFPGA 1G infrastructure and gateware",
+        "languages": {
+            "Verilog": 4589006,
+            "C": 1269565,
+            "Perl": 1248221,
+            "Java": 431748,
+            "Python": 213583,
+            "C++": 70180,
+            "Shell": 28857,
+            "JavaScript": 1579,
+            "Coq": 0
+        }
+    },
+    {
+        "name": "openofdm",
+        "description": "Sythesizable, modular Verilog implementation of 802.11 OFDM decoder.",
+        "languages": {
+            "Verilog": 37011310,
+            "VHDL": 10431276,
+            "Python": 132823,
+            "Tcl": 117455,
+            "Shell": 1907,
+            "Makefile": 1467
+        }
+    },
+    {
+        "name": "spispy",
+        "description": "An open source SPI flash emulator and monitor",
+        "languages": {
+            "Verilog": 157743,
+            "Coq": 17354,
+            "Perl": 6780,
+            "Makefile": 625,
+            "C++": 603
+        }
+    },
+    {
+        "name": "icesugar",
+        "description": "iCESugar FPGA Board (base on iCE40UP5k)",
+        "languages": {
+            "Verilog": 393503,
+            "C": 341889,
+            "SystemVerilog": 129028,
+            "Assembly": 116485,
+            "Makefile": 56106,
+            "Python": 30314,
+            "Shell": 16170,
+            "Nix": 5505,
+            "Tcl": 3566,
+            "C++": 3265,
+            "Perl": 2430,
+            "HTML": 2254,
+            "Scala": 1554
+        }
+    },
+    {
+        "name": "icezum",
+        "description": ":star2: IceZUM Alhambra: an Arduino-like Open FPGA electronic board",
+        "languages": {
+            "Verilog": 18371,
+            "SystemVerilog": 7490,
+            "Coq": 422
+        }
+    },
+    {
+        "name": "AMBA_AXI_AHB_APB",
+        "description": "AMBA bus lecture material",
+        "languages": {
+            "Verilog": 1022034,
+            "Shell": 36182,
+            "Makefile": 33368,
+            "Batchfile": 20083,
+            "C": 11827,
+            "Coq": 8921
+        }
+    },
+    {
+        "name": "verilog-6502",
+        "description": "A Verilog HDL model of the MOS 6502 CPU",
+        "languages": {
+            "Verilog": 35224
+        }
+    },
+    {
+        "name": "aes",
+        "description": "Verilog implementation of the symmetric block cipher AES (Advanced Encryption Standard) as specified in NIST FIPS 197. This implementation supports 128 and 256 bit keys.",
+        "languages": {
+            "Verilog": 178567,
+            "Python": 81253,
+            "Makefile": 4092,
+            "Tcl": 199
+        }
+    },
+    {
+        "name": "sha256",
+        "description": "Hardware implementation of the SHA-256 cryptographic hash function",
+        "languages": {
+            "Verilog": 173723,
+            "Python": 19790,
+            "Makefile": 4976,
+            "Tcl": 199
+        }
+    },
+    {
+        "name": "ridecore",
+        "description": "RIDECORE (RIsc-v Dynamic Execution CORE) is an Out-of-Order RISC-V processor written in Verilog HDL.",
+        "languages": {
+            "Verilog": 366664,
+            "C": 27634,
+            "Assembly": 22075,
+            "Makefile": 19780,
+            "SystemVerilog": 16755,
+            "C++": 10933
+        }
+    },
+    {
+        "name": "Digital-IDE",
+        "description": "\u5728vscode\u4e0a\u7684\u6570\u5b57\u8bbe\u8ba1\u5f00\u53d1\u63d2\u4ef6",
+        "languages": {
+            "Verilog": 12056266,
+            "VHDL": 9803498,
+            "V": 3637273,
+            "JavaScript": 2621164,
+            "Tcl": 1269643,
+            "SystemVerilog": 681564,
+            "C++": 365593,
+            "Makefile": 96234,
+            "C": 96187,
+            "CSS": 17788,
+            "Shell": 13814,
+            "HTML": 10893,
+            "Pawn": 3173,
+            "MATLAB": 2587,
+            "Python": 1579
+        }
+    },
+    {
+        "name": "core_ddr3_controller",
+        "description": "A DDR3 memory controller in Verilog for various FPGAs",
+        "languages": {
+            "Verilog": 321240,
+            "SystemVerilog": 55043,
+            "Makefile": 1244
+        }
+    },
+    {
+        "name": "Piccolo",
+        "description": "RISC-V CPU, simple 3-stage pipeline, for low-end applications (e.g., embedded, IoT)",
+        "languages": {
+            "Verilog": 40624029,
+            "Bluespec": 1221209,
+            "Python": 52174,
+            "C": 50155,
+            "Makefile": 42755,
+            "C++": 11301,
+            "GDB": 1318,
+            "Tcl": 390
+        }
+    },
+    {
+        "name": "zet",
+        "description": "Open source implementation of a x86 processor",
+        "languages": {
+            "Verilog": 877472,
+            "C": 184283,
+            "Assembly": 155518,
+            "Objective-C": 54992,
+            "Stata": 18659,
+            "Makefile": 13926,
+            "C++": 3541,
+            "Shell": 3004,
+            "PHP": 2762,
+            "TeX": 1446,
+            "Batchfile": 54
+        }
+    },
+    {
+        "name": "CNN-FPGA",
+        "description": "Implementation of CNN on ZYNQ FPGA to classify handwritten numbers using MNIST database",
+        "languages": {
+            "Verilog": 501209,
+            "Python": 14106,
+            "HTML": 3218,
+            "C++": 2013,
+            "Batchfile": 1003,
+            "Tcl": 449,
+            "Pascal": 284
+        }
+    },
+    {
+        "name": "HDL-Bits-Solutions",
+        "description": "This is a repository containing solutions to the problem statements given in HDL Bits website.",
+        "languages": {
+            "Verilog": 33147,
+            "V": 142
+        }
+    },
+    {
+        "name": "Verilog-Generator-of-Neural-Net-Digit-Detector-for-FPGA",
+        "description": "Verilog Generator of Neural Net Digit Detector for FPGA",
+        "languages": {
+            "Verilog": 425487,
+            "Python": 130544,
+            "SystemVerilog": 15884
+        }
+    },
+    {
+        "name": "Nuked-MD-FPGA",
+        "description": "Mega Drive/Genesis core written in Verilog",
+        "languages": {
+            "Verilog": 657550,
+            "Batchfile": 69
+        }
+    },
+    {
+        "name": "nandland",
+        "description": "All code found on nandland is here.  underconstruction.gif",
+        "languages": {
+            "Verilog": 149423,
+            "VHDL": 124904,
+            "SystemVerilog": 37085
+        }
+    },
+    {
+        "name": "openc906",
+        "description": "OpenXuantie - OpenC906 Core",
+        "languages": {
+            "Verilog": 6219632,
+            "Assembly": 490163,
+            "C": 209839,
+            "SystemVerilog": 77039,
+            "Tcl": 18243,
+            "Makefile": 15529,
+            "Raku": 3120,
+            "Shell": 892
+        }
+    },
+    {
+        "name": "sdram-controller",
+        "description": "Verilog SDRAM memory controller ",
+        "languages": {
+            "Verilog": 56173,
+            "Tcl": 10232,
+            "Stata": 1599
+        }
+    },
+    {
+        "name": "FPGA-Litecoin-Miner",
+        "description": "A litecoin scrypt miner implemented with FPGA on-chip memory. ",
+        "languages": {
+            "Verilog": 933344,
+            "Python": 399727,
+            "C": 321831,
+            "Tcl": 19421,
+            "Shell": 1408
+        }
+    },
+    {
+        "name": "Project-Zipline",
+        "description": "Defines a lossless compressed data format that is independent of CPU type, operating system, file system, and character set, and is suitable for compression using the XP10 algorithm.",
+        "languages": {
+            "Verilog": 4225348,
+            "SystemVerilog": 2766375,
+            "HTML": 2163359,
+            "Shell": 5958,
+            "Makefile": 5459,
+            "Tcl": 1247,
+            "Perl": 1023,
+            "PHP": 303
+        }
+    },
+    {
+        "name": "fpga_readings",
+        "description": "Recipe for FPGA cooking",
+        "languages": {
+            "Verilog": 670655,
+            "Tcl": 84972,
+            "C++": 22948,
+            "Makefile": 1681,
+            "C": 974,
+            "Shell": 61
+        }
+    },
+    {
+        "name": "fpga_pio",
+        "description": "An attempt to recreate the RP2040 PIO in an FPGA",
+        "languages": {
+            "Verilog": 108228,
+            "Python": 8451,
+            "Assembly": 2486,
+            "Makefile": 1974
+        }
+    },
+    {
+        "name": "f4pga-examples",
+        "description": "Example designs showing different ways to use F4PGA toolchains.",
+        "languages": {
+            "Verilog": 1867922,
+            "Tcl": 33105,
+            "Makefile": 12911,
+            "SystemVerilog": 10270
+        }
+    },
+    {
+        "name": "ZYNQ-NVDLA",
+        "description": "NVDLA (An Opensource DL Accelerator Framework) implementation on FPGA.",
+        "languages": {
+            "Verilog": 24255475,
+            "C": 4231867,
+            "C++": 3681781,
+            "TeX": 258898,
+            "Makefile": 30835,
+            "SystemVerilog": 16058,
+            "Shell": 4120,
+            "BitBake": 2592,
+            "Python": 2248,
+            "Batchfile": 2174,
+            "Tcl": 195
+        }
+    },
+    {
+        "name": "VeeRwolf",
+        "description": "FuseSoC-based SoC for SweRV EH1 and EL2",
+        "languages": {
+            "Verilog": 1119678,
+            "SystemVerilog": 118273,
+            "Tcl": 23053,
+            "Assembly": 18417,
+            "C": 14932,
+            "C++": 5039,
+            "Python": 1038,
+            "CMake": 820,
+            "Makefile": 700
+        }
+    },
+    {
+        "name": "OpenROAD-flow-scripts",
+        "description": "OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/",
+        "languages": {
+            "Verilog": 131073957,
+            "SourcePawn": 14041886,
+            "Coq": 3681315,
+            "Tcl": 3127510,
+            "Python": 251053,
+            "Makefile": 223360,
+            "Shell": 42750,
+            "Scala": 27178,
+            "Dockerfile": 1548,
+            "Perl": 1296,
+            "Ruby": 465,
+            "Smarty": 239
+        }
+    },
+    {
+        "name": "fpga_nes",
+        "description": "FPGA-based Nintendo Entertainment System Emulator",
+        "languages": {
+            "Verilog": 282180,
+            "Lua": 239792,
+            "C++": 105148,
+            "C": 47626,
+            "Coq": 6471,
+            "Assembly": 5371,
+            "Objective-C": 1076,
+            "Perl": 672
+        }
+    },
+    {
+        "name": "Digital-IDE",
+        "description": "All in one vscode plugin for HDL development",
+        "languages": {
+            "Verilog": 8783227,
+            "JavaScript": 3469218,
+            "TypeScript": 434423,
+            "C++": 367915,
+            "SystemVerilog": 84359,
+            "CSS": 81889,
+            "C": 17703,
+            "VHDL": 16165,
+            "Tcl": 13216,
+            "HTML": 8627,
+            "Python": 7872,
+            "Pawn": 3399,
+            "Batchfile": 497
+        }
+    },
+    {
+        "name": "raven-picorv32",
+        "description": "Silicon-validated SoC implementation of the PicoSoc/PicoRV32",
+        "languages": {
+            "Verilog": 139587,
+            "C": 122700,
+            "Coq": 92421,
+            "Tcl": 33283,
+            "Assembly": 7163,
+            "Makefile": 6251,
+            "G-code": 4147
+        }
+    },
+    {
+        "name": "caravel",
+        "description": "Caravel is a standard SoC harness with on chip resources to control and read/write operations from a user-dedicated space.",
+        "languages": {
+            "Verilog": 161967928,
+            "Tcl": 1862842,
+            "Python": 191929,
+            "Makefile": 141496,
+            "C": 84367,
+            "Shell": 77596,
+            "Assembly": 10429
+        }
+    },
+    {
+        "name": "wbuart32",
+        "description": "A simple, basic, formally verified UART controller",
+        "languages": {
+            "Verilog": 215189,
+            "C++": 42327,
+            "Makefile": 22067,
+            "Perl": 6841,
+            "HTML": 1261
+        }
+    },
+    {
+        "name": "FPGAandCNN",
+        "description": "\u57fa\u4e8eFPGA\u7684\u6570\u5b57\u8bc6\u522b-\u5b9e\u65f6\u89c6\u9891\u5904\u7406\u7684\u5b9a\u70b9\u5377\u79ef\u795e\u7ecf\u7f51\u7edc\u5b9e\u73b0",
+        "languages": {
+            "Verilog": 436365,
+            "Python": 132577,
+            "C++": 60549,
+            "HTML": 19308,
+            "SystemVerilog": 15884,
+            "CMake": 14317,
+            "C": 6175,
+            "Tcl": 1021,
+            "Mathematica": 358,
+            "Standard ML": 32
+        }
+    },
+    {
+        "name": "fpga",
+        "description": "The USRP\u2122 Hardware Driver FPGA Repository",
+        "languages": {
+            "Verilog": 40231725,
+            "VHDL": 3266399,
+            "C": 2440270,
+            "SystemVerilog": 925486,
+            "Tcl": 591817,
+            "Python": 271606,
+            "Shell": 259820,
+            "Makefile": 221138,
+            "Stata": 215349,
+            "Batchfile": 131219,
+            "HTML": 104907,
+            "PHP": 23996,
+            "MATLAB": 14731,
+            "C++": 12253,
+            "JavaScript": 6790,
+            "Assembly": 966,
+            "NASL": 504,
+            "Perl": 311
+        }
+    },
+    {
+        "name": "Analogue_Pocket_Neogeo",
+        "description": "Analogue Pocket Neogeo Core compatible with openFPGA",
+        "languages": {
+            "Verilog": 1240780,
+            "C++": 691010,
+            "SystemVerilog": 377085,
+            "HTML": 256619,
+            "VHDL": 174942,
+            "JavaScript": 161038,
+            "Shell": 154499,
+            "Tcl": 108038,
+            "C": 45729,
+            "CSS": 21206,
+            "Python": 2882,
+            "Scheme": 374,
+            "Mathematica": 345,
+            "Fortran": 320
+        }
+    },
+    {
+        "name": "twitchcore",
+        "description": "It's a core. Made on Twitch.",
+        "languages": {
+            "Verilog": 14572,
+            "Python": 9089,
+            "Shell": 2445,
+            "SystemVerilog": 1673,
+            "C": 1652
+        }
+    },
+    {
+        "name": "SCALE-MAMBA",
+        "description": "Repository for the SCALE-MAMBA MPC system",
+        "languages": {
+            "Verilog": 12058074,
+            "C++": 1414533,
+            "Assembly": 1138615,
+            "Rust": 1113981,
+            "Python": 637079,
+            "TeX": 195319,
+            "VHDL": 173949,
+            "Tcl": 46615,
+            "Shell": 27414,
+            "Makefile": 19993,
+            "C": 14571,
+            "CMake": 7638,
+            "Nix": 7375,
+            "Dockerfile": 907
+        }
+    },
+    {
+        "name": "ao486_MiSTer",
+        "description": "ao486 port for MiSTer",
+        "languages": {
+            "Verilog": 1984880,
+            "C": 738061,
+            "C++": 319249,
+            "SystemVerilog": 316847,
+            "VHDL": 221914,
+            "Tcl": 24156,
+            "Lua": 14294,
+            "Makefile": 10883,
+            "Assembly": 9900,
+            "Batchfile": 3213,
+            "Shell": 1108
+        }
+    },
+    {
+        "name": "ice40-playground",
+        "description": "Various iCE40 cores / projects to play around with (mostly targeted at the icebreaker)",
+        "languages": {
+            "Verilog": 812737,
+            "C": 119045,
+            "Python": 71493,
+            "Makefile": 12863,
+            "Assembly": 7409
+        }
+    },
+    {
+        "name": "ice40_ultraplus_examples",
+        "description": "Examples for iCE40 UltraPlus FPGA: BRAM, SPRAM, SPI, flash, DSP and a working RISC-V implementation",
+        "languages": {
+            "Verilog": 60738,
+            "C": 29987,
+            "Makefile": 5530,
+            "Assembly": 146,
+            "Shell": 115
+        }
+    },
+    {
+        "name": "Colorlight-FPGA-Projects",
+        "description": "current focus on Colorlight i5 and i9 & i9plus module",
+        "languages": {
+            "Verilog": 196296,
+            "Makefile": 9631,
+            "Shell": 5866,
+            "C++": 4127,
+            "Assembly": 1792,
+            "C": 1461,
+            "Python": 675
+        }
+    },
+    {
+        "name": "SimpleVOut",
+        "description": "A Simple FPGA Core for Creating VGA/DVI/HDMI/OpenLDI Signals",
+        "languages": {
+            "Verilog": 128862,
+            "SystemVerilog": 24690,
+            "Tcl": 23961,
+            "Python": 8674,
+            "C": 5391,
+            "Shell": 4400,
+            "C++": 1085
+        }
+    },
+    {
+        "name": "FPGA-ftdi245fifo",
+        "description": "FPGA-based USB fast data transmission using FT232H/FT600 chip. \u4f7f\u7528FT232H/FT600\u82af\u7247\u8fdb\u884cFPGA\u4e0e\u7535\u8111\u4e4b\u95f4\u7684\u9ad8\u901f\u6570\u636e\u4f20\u8f93\u3002",
+        "languages": {
+            "Verilog": 139064,
+            "Python": 20711,
+            "Tcl": 1563,
+            "Batchfile": 118
+        }
+    },
+    {
+        "name": "uvm_axi",
+        "description": "uvm AXI BFM(bus functional model)",
+        "languages": {
+            "Verilog": 148392,
+            "C": 10169,
+            "Python": 7174
+        }
+    },
+    {
+        "name": "DisplayPort_Verilog",
+        "description": "A Verilog implementation of DisplayPort protocol for FPGAs",
+        "languages": {
+            "Verilog": 529653,
+            "C": 15321,
+            "Makefile": 438
+        }
+    },
+    {
+        "name": "FPGA-SDcard-Reader",
+        "description": "An FPGA-based SD-card reader to read files from FAT16 or FAT32 formatted SD-cards. \u57fa\u4e8eFPGA\u7684SD\u5361\u8bfb\u53d6\u5668\uff0c\u53ef\u4ee5\u4eceFAT16\u6216FAT32\u683c\u5f0f\u7684SD\u5361\u4e2d\u8bfb\u53d6\u6587\u4ef6\u3002",
+        "languages": {
+            "Verilog": 91130,
+            "Batchfile": 184
+        }
+    },
+    {
+        "name": "xkISP",
+        "description": "xkISP\uff1aXinkai ISP IP Core (HLS)",
+        "languages": {
+            "Verilog": 4388941,
+            "C++": 1047797,
+            "Tcl": 982407,
+            "C": 444915,
+            "Makefile": 2356,
+            "Shell": 296
+        }
+    },
+    {
+        "name": "neuralNetwork",
+        "description": null,
+        "languages": {
+            "Verilog": 304268,
+            "Tcl": 192471,
+            "Python": 68169,
+            "C": 3557
+        }
+    },
+    {
+        "name": "xk265",
+        "description": "xk265\uff1aHEVC/H.265 Video Encoder IP Core (RTL)",
+        "languages": {
+            "Verilog": 5945324,
+            "Forth": 9401,
+            "Makefile": 2961
+        }
+    },
+    {
+        "name": "async_fifo",
+        "description": "A dual clock asynchronous FIFO written in verilog, tested with Icarus Verilog",
+        "languages": {
+            "Verilog": 23267,
+            "SystemVerilog": 12375,
+            "Shell": 4150,
+            "Makefile": 250,
+            "Forth": 112
+        }
+    },
+    {
+        "name": "usbcorev",
+        "description": "A full-speed device-side USB peripheral core written in Verilog.",
+        "languages": {
+            "Verilog": 31778,
+            "Python": 503
+        }
+    },
+    {
+        "name": "livehd",
+        "description": "Live Hardware Development (LiveHD), a productive infrastructure for Synthesis and Simulation",
+        "languages": {
+            "Verilog": 13588052,
+            "C++": 4068009,
+            "Shell": 212619,
+            "Starlark": 75346,
+            "Python": 49718,
+            "Tcl": 41498,
+            "C": 14221,
+            "Makefile": 7452,
+            "Scala": 2590,
+            "Roff": 1242
+        }
+    },
+    {
+        "name": "jtcores",
+        "description": "FPGA cores compatible with multiple arcade game machines and KiCAD schematics of arcade games. Working on MiSTer FPGA/Analogue Pocket",
+        "languages": {
+            "Verilog": 13496953,
+            "C++": 5552491,
+            "VHDL": 2011902,
+            "SystemVerilog": 432960,
+            "Go": 327612,
+            "Shell": 237984,
+            "Assembly": 233435,
+            "C": 133721,
+            "Tcl": 106930,
+            "HTML": 41244,
+            "Python": 29764,
+            "Pawn": 27417,
+            "Makefile": 4415,
+            "SourcePawn": 4248,
+            "Smalltalk": 2712,
+            "MATLAB": 1659,
+            "Forth": 1045,
+            "Awk": 815,
+            "M": 707,
+            "NASL": 216,
+            "Fortran": 54
+        }
+    },
+    {
+        "name": "RePlAce",
+        "description": "RePlAce global placement tool",
+        "languages": {
+            "Verilog": 7682276,
+            "C++": 269030,
+            "Tcl": 17270,
+            "CMake": 4301,
+            "SWIG": 2140,
+            "Dockerfile": 1793,
+            "Shell": 1156
+        }
+    },
+    {
+        "name": "libsystemctlm-soc",
+        "description": "SystemC/TLM-2.0 Co-simulation framework",
+        "languages": {
+            "Verilog": 16658764,
+            "C++": 2428469,
+            "SystemVerilog": 1933681,
+            "C": 242039,
+            "Makefile": 103215,
+            "Python": 90168,
+            "Shell": 8275
+        }
+    },
+    {
+        "name": "display_controller",
+        "description": "FPGA display controller with support for VGA, DVI, and HDMI.",
+        "languages": {
+            "Verilog": 48025,
+            "Python": 4012,
+            "Coq": 705
+        }
+    },
+    {
+        "name": "minimax",
+        "description": "Minimax: a Compressed-First, Microcoded RISC-V CPU",
+        "languages": {
+            "Verilog": 91398,
+            "C": 17216,
+            "Assembly": 15975,
+            "Python": 11513,
+            "VHDL": 6274,
+            "Dockerfile": 2553,
+            "Makefile": 2459,
+            "Shell": 1873,
+            "Tcl": 1024
+        }
+    },
+    {
+        "name": "MacroPlacement",
+        "description": "Macro Placement - benchmarks, evaluators, and reproducible results from leading methods in open source",
+        "languages": {
+            "Verilog": 406689625,
+            "Tcl": 132064289,
+            "SystemVerilog": 10025653,
+            "Python": 891201,
+            "MATLAB": 543032,
+            "C++": 265002,
+            "Stata": 90476,
+            "Shell": 86991,
+            "Cython": 81562,
+            "Makefile": 73488,
+            "CMake": 23193,
+            "C": 22417,
+            "HTML": 11380,
+            "Java": 2106
+        }
+    },
+    {
+        "name": "fpga-chip8",
+        "description": "CHIP-8 console on FPGA",
+        "languages": {
+            "Verilog": 36195,
+            "Makefile": 603
+        }
+    },
+    {
+        "name": "TinyFPGA-B-Series",
+        "description": "Open source design files for the TinyFPGA B-Series boards.  ",
+        "languages": {
+            "Verilog": 87111,
+            "Python": 25840,
+            "Makefile": 1697,
+            "C++": 1408
+        }
+    },
+    {
+        "name": "fpg1",
+        "description": "FPGA implementation of DEC PDP-1 computer (1959) in Verilog, with CRT, Teletype and Console.",
+        "languages": {
+            "Verilog": 325717,
+            "VHDL": 105925,
+            "SystemVerilog": 60687,
+            "Assembly": 4912,
+            "Tcl": 2159,
+            "Shell": 751
+        }
+    },
+    {
+        "name": "Single_instruction_cycle_OpenMIPS",
+        "description": "\u901a\u8fc7\u5b66\u4e60\u300a\u81ea\u5df1\u52a8\u624b\u5199CPU\u300b\uff0c\u5c06\u4e66\u4e2d\u5b9e\u73b0\u7684\u517c\u5bb9MIPS32\u6307\u4ee4\u96c6\u67b6\u6784\u7684\u5904\u7406\u5668\u2014\u2014OpenMIPS\uff08\u4e94\u7ea7\u6d41\u6c34\u7ebf\u7ed3\u6784\uff09\uff0c\u7b80\u5316\u6210\u5355\u6307\u4ee4\u5468\u671f\u5b9e\u73b0\u7684\u5904\u7406\u5668",
+        "languages": {
+            "Verilog": 256267,
+            "Assembly": 8371
+        }
+    },
+    {
+        "name": "Tang_E203_Mini",
+        "description": "LicheeTang \u8702\u9e1fE203 Core",
+        "languages": {
+            "Verilog": 2918335,
+            "Perl": 8310
+        }
+    },
+    {
+        "name": "open-register-design-tool",
+        "description": "Tool to generate register RTL, models, and docs using SystemRDL or JSpec input",
+        "languages": {
+            "Verilog": 10959897,
+            "SystemVerilog": 10704174,
+            "Java": 1742969,
+            "C++": 756471,
+            "C": 636349,
+            "Python": 188164,
+            "JavaScript": 65304,
+            "ANTLR": 31440,
+            "Shell": 17306
+        }
+    },
+    {
+        "name": "amiga_replacement_project",
+        "description": "This is an attempt to make clean Verilog sources for each chip on the Amiga.",
+        "languages": {
+            "Verilog": 302542,
+            "Tcl": 19621,
+            "Makefile": 2106
+        }
+    },
+    {
+        "name": "ez8",
+        "description": "The Easy 8-bit Processor",
+        "languages": {
+            "Verilog": 80446,
+            "Tcl": 15602,
+            "OCaml": 12249,
+            "Shell": 12148,
+            "SystemVerilog": 8606,
+            "C": 8118,
+            "Assembly": 4020,
+            "Fortran": 15
+        }
+    },
+    {
+        "name": "core_jpeg",
+        "description": "High throughput JPEG decoder in Verilog for FPGA",
+        "languages": {
+            "Verilog": 228592,
+            "C++": 36575,
+            "Makefile": 1742
+        }
+    },
+    {
+        "name": "RISC-V-CPU",
+        "description": "RISC-V CPU with 5-stage pipeline, implemented in Verilog HDL.",
+        "languages": {
+            "Verilog": 82892,
+            "C++": 21350,
+            "VHDL": 4336,
+            "Assembly": 1428,
+            "Python": 447,
+            "Makefile": 335,
+            "Shell": 180
+        }
+    },
+    {
+        "name": "fpganes",
+        "description": "NES in Verilog",
+        "languages": {
+            "Verilog": 333851,
+            "C++": 4677,
+            "Objective-C": 611
+        }
+    },
+    {
+        "name": "schoolMIPS",
+        "description": "CPU microarchitecture, step by step",
+        "languages": {
+            "Verilog": 51540,
+            "Shell": 7455,
+            "Batchfile": 2396,
+            "SystemVerilog": 1727,
+            "Tcl": 1457,
+            "Assembly": 1401
+        }
+    },
+    {
+        "name": "usb3_pipe",
+        "description": "USB3 PIPE interface for Xilinx 7-Series",
+        "languages": {
+            "Verilog": 258168,
+            "Python": 123275,
+            "C": 11766,
+            "SystemVerilog": 10823,
+            "Makefile": 101
+        }
+    },
+    {
+        "name": "fedar-f1-rv64im",
+        "description": "5-Stage Pipelined RV64IM RISC-V CPU design in Verilog.",
+        "languages": {
+            "Verilog": 36808,
+            "Shell": 1284,
+            "Assembly": 479
+        }
+    },
+    {
+        "name": "openfpga-GBC",
+        "description": null,
+        "languages": {
+            "Verilog": 373131,
+            "VHDL": 237672,
+            "SystemVerilog": 149137,
+            "Tcl": 58800,
+            "Shell": 25557,
+            "Fortran": 62
+        }
+    },
+    {
+        "name": "DetectHumanFaces",
+        "description": "Real time face detection based on Arm Cortex-M3 DesignStart and FPGA",
+        "languages": {
+            "Verilog": 3860638,
+            "C": 173362,
+            "Assembly": 6680,
+            "Tcl": 4333
+        }
+    },
+    {
+        "name": "FPGA-CAN",
+        "description": "An FPGA-based lightweight CAN bus controller. \u57fa\u4e8eFPGA\u7684\u8f7b\u91cf\u7ea7CAN\u603b\u7ebf\u63a7\u5236\u5668\u3002",
+        "languages": {
+            "Verilog": 61313,
+            "Batchfile": 114
+        }
+    },
+    {
+        "name": "FPGA-JPEG-LS-encoder",
+        "description": "An FPGA-based JPEG-LS encoder, which provides lossless and near-lossless image compression with high compression ratios. \u57fa\u4e8eFPGA\u7684JPEG-LS\u7f16\u7801\u5668\uff0c\u53ef\u5b9e\u73b0\u9ad8\u538b\u7f29\u7387\u7684\u65e0\u635f/\u8fd1\u65e0\u635f\u56fe\u50cf\u538b\u7f29\u3002",
+        "languages": {
+            "Verilog": 40478,
+            "Batchfile": 126
+        }
+    },
+    {
+        "name": "FPGA_Based_CNN",
+        "description": "FPGA based acceleration of Convolutional Neural Networks. The project is developed by Verilog for Altera DE5 Net platform.",
+        "languages": {
+            "Verilog": 224263,
+            "C": 96524,
+            "Batchfile": 69419,
+            "Tcl": 40074,
+            "SystemVerilog": 2205,
+            "Python": 1358,
+            "Shell": 647,
+            "Scheme": 586,
+            "Makefile": 355
+        }
+    },
+    {
+        "name": "FPGA-peripherals",
+        "description": ":seedling: :snowflake: Collection of open-source peripherals in Verilog",
+        "languages": {
+            "Verilog": 76662,
+            "SystemVerilog": 25053,
+            "Makefile": 11893,
+            "Python": 1756
+        }
+    },
+    {
+        "name": "vicii-kawari",
+        "description": "Commodore 64 VIC-II 6567/6569 Replacement Project",
+        "languages": {
+            "Verilog": 770421,
+            "C": 313554,
+            "Assembly": 155170,
+            "C++": 124534,
+            "Makefile": 43019,
+            "Java": 28708,
+            "SystemVerilog": 23422,
+            "Shell": 20774,
+            "Python": 11519,
+            "Tcl": 8336,
+            "Roff": 2061,
+            "HTML": 456,
+            "Batchfile": 320
+        }
+    },
+    {
+        "name": "caravel_user_project",
+        "description": "https://caravel-user-project.readthedocs.io",
+        "languages": {
+            "Verilog": 52240954,
+            "Tcl": 378822,
+            "C": 30166,
+            "Makefile": 23915,
+            "Python": 15815
+        }
+    },
+    {
+        "name": "archexp",
+        "description": "\u6d59\u6c5f\u5927\u5b66\u8ba1\u7b97\u673a\u4f53\u7cfb\u7ed3\u6784\u8bfe\u7a0b\u5b9e\u9a8c",
+        "languages": {
+            "Verilog": 63848,
+            "Python": 10385,
+            "Assembly": 248,
+            "Shell": 201
+        }
+    },
+    {
+        "name": "fomu-workshop",
+        "description": "Support files for participating in a Fomu workshop",
+        "languages": {
+            "Verilog": 160344,
+            "C": 69529,
+            "Python": 46761,
+            "Zig": 19212,
+            "Makefile": 13863,
+            "Rust": 6283,
+            "VHDL": 5308,
+            "Scala": 2669,
+            "Assembly": 1538,
+            "Shell": 284
+        }
+    },
+    {
+        "name": "Convolutional-Neural-Network",
+        "description": "Implementation of CNN using Verilog",
+        "languages": {
+            "Verilog": 61504
+        }
+    },
+    {
+        "name": "Practical-UVM-Step-By-Step",
+        "description": "This is the main repository for all the examples for the book Practical UVM",
+        "languages": {
+            "Verilog": 8357149,
+            "SystemVerilog": 1085388,
+            "C": 814988,
+            "Coq": 83189,
+            "Perl": 78150,
+            "Makefile": 63608,
+            "Objective-C": 23658,
+            "Tcl": 17814,
+            "Shell": 16125,
+            "C++": 8468,
+            "Python": 2883,
+            "Assembly": 335,
+            "Standard ML": 192,
+            "Stata": 168
+        }
+    },
+    {
+        "name": "SiliconRE",
+        "description": "Custom chips reverse-engineered from silicon",
+        "languages": {
+            "Verilog": 86813,
+            "Python": 28857,
+            "Batchfile": 130
+        }
+    },
+    {
+        "name": "or1200",
+        "description": "OpenRISC 1200 implementation",
+        "languages": {
+            "Verilog": 1200017,
+            "Shell": 2076,
+            "C++": 1901
+        }
+    },
+    {
+        "name": "breaks",
+        "description": "Nintendo Entertainment System (NES) / Famicom / Famiclones chip reversing",
+        "languages": {
+            "Verilog": 261977,
+            "Python": 27187,
+            "Batchfile": 4026,
+            "Assembly": 437
+        }
+    },
+    {
+        "name": "lpc_sniffer_tpm",
+        "description": "A low pin count sniffer for ICEStick - targeting TPM chips",
+        "languages": {
+            "Verilog": 31914,
+            "Makefile": 2600,
+            "Python": 1866
+        }
+    },
+    {
+        "name": "vm80a",
+        "description": "i8080 precise replica in Verilog, based on reverse engineering of real die",
+        "languages": {
+            "Verilog": 228458,
+            "Assembly": 98270,
+            "Stata": 51995,
+            "Batchfile": 1387,
+            "C": 729
+        }
+    },
+    {
+        "name": "iceGDROM",
+        "description": "An FPGA based GDROM emulator for the Sega Dreamcast",
+        "languages": {
+            "Verilog": 231225,
+            "C": 130172,
+            "Assembly": 11483,
+            "Makefile": 7241
+        }
+    },
+    {
+        "name": "icestation-32",
+        "description": "Compact FPGA game console",
+        "languages": {
+            "Verilog": 634617,
+            "C": 125058,
+            "C++": 120621,
+            "Makefile": 19205,
+            "Python": 8469,
+            "Assembly": 7702,
+            "Shell": 1902,
+            "SystemVerilog": 1126
+        }
+    },
+    {
+        "name": "DreamcastHDMI",
+        "description": "Dreamcast HDMI",
+        "languages": {
+            "Verilog": 610688,
+            "C": 602286,
+            "JavaScript": 411623,
+            "C++": 184828,
+            "HTML": 52114,
+            "SystemVerilog": 26967,
+            "CSS": 20687,
+            "VHDL": 14650,
+            "Shell": 11674,
+            "Python": 10411,
+            "V": 9677,
+            "PHP": 6715,
+            "Perl": 2734,
+            "Tcl": 491,
+            "Mathematica": 335
+        }
+    },
+    {
+        "name": "vgasim",
+        "description": "A Video display simulator",
+        "languages": {
+            "Verilog": 351062,
+            "C++": 80327,
+            "Makefile": 15030,
+            "Shell": 2682
+        }
+    },
+    {
+        "name": "icesugar-pro",
+        "description": "iCESugar series FPGA dev board",
+        "languages": {
+            "Verilog": 363037,
+            "C++": 4127,
+            "Makefile": 2068,
+            "Shell": 1817
+        }
+    },
+    {
+        "name": "clacc",
+        "description": "Deep Learning Accelerator (Convolution Neural Networks)",
+        "languages": {
+            "Verilog": 48598,
+            "Makefile": 1795
+        }
+    },
+    {
+        "name": "milkymist",
+        "description": "SoC design for Milkymist One - LM32, DDR SDRAM, 2D TMU, PFPU",
+        "languages": {
+            "Verilog": 834328,
+            "C": 540952,
+            "Python": 209274,
+            "TeX": 110168,
+            "Assembly": 36722,
+            "C++": 2772,
+            "Objective-C": 936,
+            "Shell": 318
+        }
+    },
+    {
+        "name": "ASIC-Design-Roadmap",
+        "description": "The journey of designing an ASIC (application specific integrated circuit) is long and involves a number of major steps \u2013 moving from a concept to specification to tape-outs. Although the end product is typically quite small (measured in nanometers), this long journey is interesting and filled with many engineering challenges.",
+        "languages": {
+            "Verilog": 243321,
+            "Tcl": 110082,
+            "Prolog": 2237
+        }
+    },
+    {
+        "name": "NPU_on_FPGA",
+        "description": "\u5728FPGA\u4e0a\u9762\u5b9e\u73b0\u4e00\u4e2aNPU\u8ba1\u7b97\u5355\u5143\u3002\u80fd\u591f\u6267\u884c\u77e9\u9635\u8fd0\u7b97\uff08ADD/ADDi/ADDs/MULT/MULTi/DOT\u7b49\uff09\u3001\u56fe\u50cf\u5904\u7406\u8fd0\u7b97\uff08CONV/POOL\u7b49\uff09\u3001\u975e\u7ebf\u6027\u6620\u5c04\uff08RELU/TANH/SIGM\u7b49\uff09\u3002",
+        "languages": {
+            "Verilog": 327182,
+            "Tcl": 71327,
+            "Python": 68152,
+            "Stata": 3336,
+            "Batchfile": 1759,
+            "Assembly": 656
+        }
+    },
+    {
+        "name": "cpu11",
+        "description": "Revengineered ancient PDP-11 CPUs, originals and clones",
+        "languages": {
+            "Verilog": 2355814,
+            "Stata": 1166848,
+            "Tcl": 278889,
+            "C": 267628,
+            "Python": 224790,
+            "Batchfile": 14815,
+            "Shell": 3823,
+            "AL": 3421,
+            "Makefile": 443
+        }
+    },
+    {
+        "name": "usb_cdc",
+        "description": "Single/Multi-channel Full Speed USB interface for FPGA and ASIC designs",
+        "languages": {
+            "Verilog": 132282
+        }
+    },
+    {
+        "name": "Fuxi",
+        "description": "Fuxi (\u4f0f\u7fb2) is a 32-bit pipelined RISC-V processor written in Chisel3.",
+        "languages": {
+            "Verilog": 392915,
+            "Scala": 168364,
+            "Tcl": 3940,
+            "Makefile": 560
+        }
+    },
+    {
+        "name": "fft-dit-fpga",
+        "description": "Verilog module for calculation of FFT.",
+        "languages": {
+            "Verilog": 29040,
+            "Python": 10324,
+            "Perl": 718
+        }
+    },
+    {
+        "name": "Toooba",
+        "description": "RISC-V Core; superscalar, out-of-order, multi-core capable; based on RISCY-OOO from MIT",
+        "languages": {
+            "Verilog": 171092711,
+            "Bluespec": 2450701,
+            "Makefile": 38894,
+            "C": 38570,
+            "Python": 19777,
+            "C++": 11301,
+            "Tcl": 620
+        }
+    },
+    {
+        "name": "Hardware-CNN",
+        "description": "A convolutional neural network implemented in hardware (verilog)",
+        "languages": {
+            "Verilog": 238559,
+            "Objective-C": 26280,
+            "Python": 14474,
+            "C": 4038,
+            "C++": 3440,
+            "MATLAB": 3377,
+            "HTML": 976,
+            "Shell": 791
+        }
+    },
+    {
+        "name": "spi-slave",
+        "description": "SPI Slave for FPGA in Verilog and VHDL",
+        "languages": {
+            "Verilog": 6446,
+            "SystemVerilog": 4208
+        }
+    },
+    {
+        "name": "2021_Spring_NCTU_ICLAB",
+        "description": "NCTU 2021 Spring Integrated Circuit Design Laboratory",
+        "languages": {
+            "Verilog": 837009,
+            "SystemVerilog": 85384,
+            "Python": 34204,
+            "Tcl": 33707,
+            "Io": 25132,
+            "Forth": 58
+        }
+    },
+    {
+        "name": "cnn_hardware_acclerator_for_fpga",
+        "description": "This is a fully parameterized verilog implementation of computation kernels for accleration of the Inference of Convolutional Neural Networks on FPGAs",
+        "languages": {
+            "Verilog": 23202,
+            "Python": 8293
+        }
+    },
+    {
+        "name": "iob-cache",
+        "description": "Verilog Configurable Cache",
+        "languages": {
+            "Verilog": 97648,
+            "Python": 23396,
+            "TeX": 7606,
+            "C++": 2937,
+            "Makefile": 2668,
+            "C": 740,
+            "Tcl": 295
+        }
+    },
+    {
+        "name": "mriscv",
+        "description": "A 32-bit Microcontroller featuring a RISC-V core",
+        "languages": {
+            "Verilog": 211441,
+            "Prolog": 1358
+        }
+    },
+    {
+        "name": "Minimig-AGA_MiSTer",
+        "description": null,
+        "languages": {
+            "Verilog": 767258,
+            "SystemVerilog": 459365,
+            "VHDL": 312422,
+            "Assembly": 108038,
+            "C": 31594,
+            "Tcl": 24660,
+            "SWIG": 6674,
+            "Batchfile": 1534,
+            "Python": 293
+        }
+    },
+    {
+        "name": "vsdflow",
+        "description": "VSDFLOW  is  an  automated  solution  to  programmers, hobbyists and small scale semiconductor technology entrepreneurs who can craft their ideas in RTL language, and convert the design to hardware using VSD (RTL-to-GDS) FLOW. VSDFLOW  is  completely  build  using OPHW tools, where the user gives input RTL in verilog. From here on the VSDFLOW takes control, RTL is synthesized (using Yosys). The synthesized netlist is given to PNR tool (Qflow) and finally Sign-off is done with STA tool (using Opentimer). The output of the flow is GDSII layout and performance & area metrics of your design. VSDFLOW also provide hooks at all stages for users working at different levels of design flow. It is tested for 30k instance count design like ARM Cortex-M0, and can be further tested for multi-million instance count using hierarchical or glue logic.",
+        "languages": {
+            "Verilog": 95720,
+            "Tcl": 34437,
+            "Shell": 9748
+        }
+    },
+    {
+        "name": "benchmarks",
+        "description": "EPFL logic synthesis benchmarks",
+        "languages": {
+            "Verilog": 21214577,
+            "VHDL": 19535386
+        }
+    },
+    {
+        "name": "R8051",
+        "description": " 8051 soft CPU core. 700-lines statements for 111 instructions . Fully synthesizable Verilog-2001 core.",
+        "languages": {
+            "Verilog": 305020,
+            "C": 63256
+        }
+    },
+    {
+        "name": "MobileNet-in-FPGA",
+        "description": "Generator of verilog description for FPGA MobileNet implementation",
+        "languages": {
+            "Verilog": 1436161,
+            "Python": 219686,
+            "Shell": 25557,
+            "Tcl": 25217,
+            "SystemVerilog": 5816,
+            "Fortran": 29
+        }
+    },
+    {
+        "name": "tekno-kizil",
+        "description": "KASIRGA - KIZIL Tak\u0131m\u0131 Teknofest 2023 \u00c7ip Tasar\u0131m\u0131 - KIZIL \u0130\u015flemci Projesi",
+        "languages": {
+            "Verilog": 374467928,
+            "Assembly": 185012482,
+            "C": 1871167,
+            "HTML": 432446,
+            "Python": 269025,
+            "Tcl": 237703,
+            "SystemVerilog": 182370,
+            "Makefile": 71337,
+            "SWIG": 28763,
+            "JavaScript": 28305,
+            "Perl": 21188,
+            "CSS": 18876,
+            "Shell": 6421,
+            "Stata": 4125,
+            "Scala": 3879,
+            "C++": 694,
+            "M4": 292
+        }
+    },
+    {
+        "name": "introduction-to-fpga",
+        "description": null,
+        "languages": {
+            "Verilog": 85353,
+            "C": 1142,
+            "Makefile": 165
+        }
+    },
+    {
+        "name": "a2o",
+        "description": null,
+        "languages": {
+            "Verilog": 17273658,
+            "VHDL": 228480,
+            "Tcl": 123958,
+            "SystemVerilog": 18262
+        }
+    },
+    {
+        "name": "NeoGeo_MiSTer",
+        "description": "NeoGeo for MiSTer",
+        "languages": {
+            "Verilog": 807277,
+            "C++": 706162,
+            "SystemVerilog": 504486,
+            "VHDL": 265671,
+            "C": 45780,
+            "Tcl": 24345,
+            "Batchfile": 707,
+            "Python": 257
+        }
+    },
+    {
+        "name": "iob-soc",
+        "description": "RISC-V System on Chip Template",
+        "languages": {
+            "Verilog": 462057,
+            "Python": 452554,
+            "Tcl": 83666,
+            "C": 61338,
+            "Makefile": 40748,
+            "TeX": 32883,
+            "SystemVerilog": 6195,
+            "C++": 4017,
+            "Shell": 3017,
+            "Nix": 2755,
+            "GLSL": 946,
+            "Assembly": 801
+        }
+    },
+    {
+        "name": "MIPS-pipeline-processor",
+        "description": "A pipelined implementation of the MIPS processor featuring hazard detection as well as forwarding",
+        "languages": {
+            "Verilog": 49886,
+            "Python": 1445,
+            "Coq": 1196
+        }
+    },
+    {
+        "name": "SM3_core",
+        "description": null,
+        "languages": {
+            "Verilog": 56398,
+            "SystemVerilog": 54713,
+            "C": 16394,
+            "Stata": 3054,
+            "Batchfile": 1196,
+            "Shell": 268
+        }
+    },
+    {
+        "name": "caravel_mpw-one",
+        "description": "Caravel is a standard SoC hardness with on chip resources to control and read/write operations from a user-dedicated space.",
+        "languages": {
+            "Verilog": 36762916,
+            "Shell": 158963,
+            "Tcl": 141979,
+            "Makefile": 84759,
+            "Python": 82787,
+            "C": 68908,
+            "Assembly": 10429
+        }
+    },
+    {
+        "name": "sdspi",
+        "description": "SD-Card controller, using either SPI, SDIO, or eMMC interfaces",
+        "languages": {
+            "Verilog": 610193,
+            "C": 129883,
+            "C++": 55700,
+            "Perl": 23105,
+            "Makefile": 17054,
+            "HTML": 2687
+        }
+    },
+    {
+        "name": "pcileech-wifi",
+        "description": "pcileech-fpga with wireless card emulation",
+        "languages": {
+            "Verilog": 5209744,
+            "Tcl": 419233,
+            "SystemVerilog": 221036,
+            "Batchfile": 745
+        }
+    },
+    {
+        "name": "synlig",
+        "description": "SystemVerilog support for Yosys",
+        "languages": {
+            "Verilog": 6587315,
+            "C++": 297831,
+            "Tcl": 223058,
+            "SystemVerilog": 155054,
+            "Python": 122127,
+            "Makefile": 81133,
+            "CMake": 17296,
+            "Shell": 14669,
+            "Slash": 238,
+            "C": 123
+        }
+    },
+    {
+        "name": "icebreaker-verilog-examples",
+        "description": "This repository contains small example designs that can be used with the open source icestorm flow.",
+        "languages": {
+            "Verilog": 271753,
+            "Makefile": 7790,
+            "C": 7515
+        }
+    },
+    {
+        "name": "cdbus",
+        "description": "CDBUS (Controller Distributed Bus) Protocol and IP Core",
+        "languages": {
+            "Verilog": 65169,
+            "Python": 51019,
+            "Makefile": 2282,
+            "Tcl": 1612,
+            "Shell": 601,
+            "V": 194
+        }
+    },
+    {
+        "name": "panologic-g2",
+        "description": "Pano Logic G2 Reverse Engineering Project",
+        "languages": {
+            "Verilog": 401447,
+            "Scala": 151353,
+            "C": 49332,
+            "Makefile": 10347,
+            "Ruby": 4216,
+            "Python": 2329,
+            "C++": 1043,
+            "Assembly": 380
+        }
+    },
+    {
+        "name": "corescore",
+        "description": "CoreScore",
+        "languages": {
+            "Verilog": 108090,
+            "Tcl": 26974,
+            "Python": 10850,
+            "C++": 3025,
+            "SystemVerilog": 1669,
+            "Assembly": 649,
+            "Mathematica": 436,
+            "Makefile": 269
+        }
+    },
+    {
+        "name": "CNN-Accelerator-VLSI",
+        "description": "Convolutional accelerator kernel, target ASIC & FPGA",
+        "languages": {
+            "Verilog": 96619,
+            "Python": 7507,
+            "Tcl": 2174,
+            "Shell": 1687,
+            "Makefile": 1358,
+            "Forth": 437,
+            "Fortran": 60
+        }
+    },
+    {
+        "name": "riskow",
+        "description": "Learning how to make a RISC-V ",
+        "languages": {
+            "Verilog": 82660,
+            "C": 6143,
+            "Makefile": 4483,
+            "Python": 2661,
+            "Assembly": 931
+        }
+    },
+    {
+        "name": "cpu",
+        "description": "A very primitive but hopefully self-educational CPU in Verilog",
+        "languages": {
+            "Verilog": 33732,
+            "Assembly": 3291,
+            "SystemVerilog": 1039,
+            "Makefile": 459
+        }
+    },
+    {
+        "name": "FPGA-CNN",
+        "description": "FPGA implementation of Cellular Neural Network (CNN)",
+        "languages": {
+            "Verilog": 476056,
+            "Java": 36782
+        }
+    },
+    {
+        "name": "dspfilters",
+        "description": "A collection of demonstration digital filters",
+        "languages": {
+            "Verilog": 206173,
+            "C++": 127931,
+            "Makefile": 16806,
+            "MATLAB": 16617,
+            "C": 5818,
+            "Shell": 2775
+        }
+    },
+    {
+        "name": "SOFA",
+        "description": "SOFA (Skywater Opensource FPGAs) based on Skywater 130nm PDK and OpenFPGA",
+        "languages": {
+            "Verilog": 214321556,
+            "Tcl": 42916696,
+            "Python": 242282,
+            "Makefile": 49165,
+            "Shell": 31269,
+            "C": 20935,
+            "Assembly": 2562,
+            "Batchfile": 791,
+            "V": 647
+        }
+    },
+    {
+        "name": "ODIN",
+        "description": "ODIN online-learning digital spiking neural network (SNN) processor - HDL source code and documentation.",
+        "languages": {
+            "Verilog": 144645,
+            "Coq": 14982
+        }
     }
 ]

@@ -35,5 +35,1643 @@
         "languages": {
             "VCL": 6180
         }
+    },
+    {
+        "name": "varnish-devicedetect",
+        "description": "VCL based device detection for Varnish Cache.",
+        "languages": {
+            "VCL": 9274,
+            "Python": 6686,
+            "Makefile": 521
+        }
+    },
+    {
+        "name": "security.vcl",
+        "description": "protect your websites with varnish rules",
+        "languages": {
+            "VCL": 2113273
+        }
+    },
+    {
+        "name": "varnish-5.0-configuration-templates",
+        "description": "A sane default configuration for Varnish 5.x",
+        "languages": {
+            "VCL": 15751
+        }
+    },
+    {
+        "name": "docker-compose",
+        "description": "Some examples of docker-compose stacks used at home and at work...",
+        "languages": {
+            "VCL": 2127
+        }
+    },
+    {
+        "name": "varnish-6.0-configuration-templates",
+        "description": "A sane default configuration for Varnish 6.x",
+        "languages": {
+            "VCL": 15810
+        }
+    },
+    {
+        "name": "CintoDeUtilidadesDocker",
+        "description": "My Docker templates repository :whale: :cloud: :whale: ",
+        "languages": {
+            "VCL": 16970,
+            "Dockerfile": 10742,
+            "JavaScript": 1551,
+            "PHP": 1138,
+            "Groovy": 1052,
+            "Shell": 374,
+            "Python": 206,
+            "HTML": 15
+        }
+    },
+    {
+        "name": "varnish-docker",
+        "description": "Automated build of Varnish with Docker",
+        "languages": {
+            "VCL": 3143,
+            "Dockerfile": 619,
+            "Shell": 442
+        }
+    },
+    {
+        "name": "docker-lamp",
+        "description": "Debian 9, Apache 2.4, MySQL 8.0/5.7/5.6/5.5/ and PHP 7.3/7.2/7.1/7.0/5.6 for Docker. Additional tools: phpMyAdmin and MailHog",
+        "languages": {
+            "VCL": 124688,
+            "PHP": 61190
+        }
+    },
+    {
+        "name": "Varnish-H2-Request-Smuggling",
+        "description": null,
+        "languages": {
+            "VCL": 260,
+            "Shell": 189,
+            "Dockerfile": 98
+        }
+    },
+    {
+        "name": "emby-direct",
+        "description": "Emby \u591a\u590d\u7528+\u8f7b\u91cf\u591a\u8d1f\u8f7d+\u9ad8\u901f\u7f13\u5b58",
+        "languages": {
+            "VCL": 1860,
+            "Python": 1558,
+            "Shell": 1501
+        }
+    },
+    {
+        "name": "magento2-varnish-redis-ssl-docker-compose",
+        "description": "Deploy Magento2 with Varnish Cache and Redis with SSL termination using Docker-compose tool",
+        "languages": {
+            "VCL": 6623,
+            "Shell": 1624
+        }
+    },
+    {
+        "name": "infra",
+        "description": null,
+        "languages": {
+            "VCL": 52864,
+            "HCL": 42909,
+            "HTML": 22461,
+            "Makefile": 227
+        }
+    },
+    {
+        "name": "magento-gitpod",
+        "description": null,
+        "languages": {
+            "VCL": 7540,
+            "Shell": 3123,
+            "JavaScript": 242
+        }
+    },
+    {
+        "name": "varnish-for-drupal",
+        "description": "Varnish 3.0 config for Drupal 7",
+        "languages": {
+            "VCL": 11671
+        }
+    },
+    {
+        "name": "varnish",
+        "description": "Lullabot's default Varnish VCL configurations",
+        "languages": {
+            "VCL": 13505
+        }
+    },
+    {
+        "name": "polyfill-useragent-normaliser",
+        "description": null,
+        "languages": {
+            "VCL": 93394,
+            "JavaScript": 36105,
+            "HCL": 602
+        }
+    },
+    {
+        "name": "vcl-json-generate",
+        "description": "A VCL module that allows you to generate JSON dynamically on the edge",
+        "languages": {
+            "VCL": 20138,
+            "HCL": 1321,
+            "JavaScript": 1006
+        }
+    },
+    {
+        "name": "magento-docker",
+        "description": ":whale: Bootstrap Magento 1.9 / 2.1 installation in Docker with fully integrated Kibana, Grafana, Portainer, cAdvisor, Prometheus, MailCatcher and more",
+        "languages": {
+            "VCL": 5561,
+            "Makefile": 2359,
+            "Shell": 134
+        }
+    },
+    {
+        "name": "docker-development-box",
+        "description": "\ud83d\udc33   Reach Digital Magento 2 Docker+local hybrid devbox \ud83d\udc33",
+        "languages": {
+            "VCL": 10346,
+            "Shell": 9432,
+            "Dockerfile": 198
+        }
+    },
+    {
+        "name": "varnish-jwt",
+        "description": "Varnish JWT token authentication with RS256",
+        "languages": {
+            "VCL": 4334,
+            "Dockerfile": 1063,
+            "Shell": 988
+        }
+    },
+    {
+        "name": "magento2-docker",
+        "description": "Magento 2 Docker to Development (For Apple Silicon): Nginx + Redis + PHP-FPM + MySQL + xDebug + Mailhog + RabbitMQ + OpenSearch + Varnish",
+        "languages": {
+            "VCL": 8248,
+            "Dockerfile": 4042,
+            "Shell": 930
+        }
+    },
+    {
+        "name": "le_community_packs",
+        "description": "Logentries Community Packs",
+        "languages": {
+            "VCL": 2935
+        }
+    },
+    {
+        "name": "govuk-cdn-config",
+        "description": "Configuration for GOV.UK's content delivery network",
+        "languages": {
+            "VCL": 351335,
+            "HTML": 64845,
+            "Ruby": 36957,
+            "Shell": 834
+        }
+    },
+    {
+        "name": "docker-varnish",
+        "description": null,
+        "languages": {
+            "VCL": 1275,
+            "Shell": 273
+        }
+    },
+    {
+        "name": "ingestly-endpoint",
+        "description": "Ingestly Endpoint for Real-Time Analytics powered by Fastly & Google BigQuery",
+        "languages": {
+            "VCL": 3951
+        }
+    },
+    {
+        "name": "DT2018",
+        "description": "\u041c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b \u0438 \u0437\u0430\u0434\u0430\u043d\u0438\u044f \u043f\u043e \u043a\u0443\u0440\u0441\u0443 \"\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u0441 \u0437\u0430\u0432\u0438\u0441\u0438\u043c\u044b\u043c\u0438 \u0442\u0438\u043f\u0430\u043c\u0438\" 2018 \u0433\u043e\u0434\u0430",
+        "languages": {
+            "VCL": 64
+        }
+    },
+    {
+        "name": "centminmod-magento2",
+        "description": "Magento 2.2.2 Install Guide For Centmin Mod Nginx LEMP Stacks",
+        "languages": {
+            "VCL": 23606
+        }
+    },
+    {
+        "name": "Canasta-DockerCompose",
+        "description": "Docker Compose stack template for Canasta",
+        "languages": {
+            "VCL": 4397,
+            "PHP": 635
+        }
+    },
+    {
+        "name": "docker-wordpress-nginx-hhvm-varnish",
+        "description": "Dockerized, fast Wordpress on NGINX+HHVM+VARNISH",
+        "languages": {
+            "VCL": 6434,
+            "Shell": 6188,
+            "PHP": 5305,
+            "Python": 637
+        }
+    },
+    {
+        "name": "Symfony2-Nginx-Varnish-config",
+        "description": "Configuration for Nginx (under Ubuntu/Debian) web server hosting Symfony2 application and accellerated by Varnish on .",
+        "languages": {
+            "VCL": 2609
+        }
+    },
+    {
+        "name": "openshift-cartridge-varnish",
+        "description": "Simple varnish cartridge to help speed up performance.",
+        "languages": {
+            "VCL": 36734,
+            "Shell": 12578
+        }
+    },
+    {
+        "name": "traefik-proxy",
+        "description": "The example use cases for Traefik Proxy - The Cloud Native Application Proxy",
+        "languages": {
+            "VCL": 234
+        }
+    },
+    {
+        "name": "varnish-virtual-hosts",
+        "description": "Varnish boilerplate configuration for clean virtual hosts management",
+        "languages": {
+            "VCL": 3392
+        }
+    },
+    {
+        "name": "toolbox",
+        "description": null,
+        "languages": {
+            "VCL": 38233,
+            "Shell": 15413,
+            "Python": 13718,
+            "Go": 12760,
+            "Makefile": 181,
+            "Dockerfile": 80
+        }
+    },
+    {
+        "name": "varnish-chart",
+        "description": "Helm chart for Varnish Cache",
+        "languages": {
+            "VCL": 4001,
+            "Mustache": 2399
+        }
+    },
+    {
+        "name": "varnish-bad-bot-detection",
+        "description": "A Varnish 4.0 subroutine for blocking bad bots (from http://omninoggin.com/web-development/block-unwanted-spam-bots-using-varnish-vcl/)",
+        "languages": {
+            "VCL": 6648
+        }
+    },
+    {
+        "name": "ansible-deploy",
+        "description": "Ansible scripts for deploying Hummingbird",
+        "languages": {
+            "VCL": 3845,
+            "Nginx": 2079,
+            "Shell": 804
+        }
+    },
+    {
+        "name": "docker-wordpress",
+        "description": "\ud83d\udc0b NGINX-PROXY(SSL) + VARNISH + NGINX + PHP-FPM + MYSQL",
+        "languages": {
+            "VCL": 4714,
+            "Shell": 4689,
+            "Makefile": 3085
+        }
+    },
+    {
+        "name": "magento2-docker",
+        "description": null,
+        "languages": {
+            "VCL": 7518,
+            "PHP": 3644,
+            "Dockerfile": 2083,
+            "Vim Script": 1376,
+            "Shell": 307
+        }
+    },
+    {
+        "name": "vcl-static-site-generator",
+        "description": "Convert a directory of files to VCL",
+        "languages": {
+            "VCL": 840,
+            "Shell": 692
+        }
+    },
+    {
+        "name": "uap-vcl",
+        "description": "uap-vcl is a VCL module which parses a User-Agent string",
+        "languages": {
+            "VCL": 62235,
+            "JavaScript": 4125
+        }
+    },
+    {
+        "name": "AWS_Magento2_Ansible",
+        "description": "Deployment script for AWS using Ansible",
+        "languages": {
+            "VCL": 7442,
+            "Shell": 44
+        }
+    },
+    {
+        "name": "magento2-varnish-docker-compose",
+        "description": "Magento 2 integration with Varnish Cache using Docker-compose tool",
+        "languages": {
+            "VCL": 6622,
+            "Shell": 933
+        }
+    },
+    {
+        "name": "varnish-wiki",
+        "description": "Varnish Web Developer Wiki Documentation",
+        "languages": {
+            "VCL": 82470,
+            "CSS": 25854,
+            "Python": 13236,
+            "Makefile": 8011,
+            "JavaScript": 6706,
+            "HTML": 5654,
+            "Shell": 50
+        }
+    },
+    {
+        "name": "chef-magento_varnish",
+        "description": "Installs varnish as adopted to Magento version",
+        "languages": {
+            "VCL": 33640,
+            "Ruby": 25264
+        }
+    },
+    {
+        "name": "terebinth",
+        "description": "Terebinth",
+        "languages": {
+            "VCL": 26071,
+            "Shell": 324
+        }
+    },
+    {
+        "name": "docker-magento2-production",
+        "description": "Production ready Magento 2 deployment with Docker (Nginx Proxy + Letsencrypt + Varnish + PHP7.2 + Redis + Backup).",
+        "languages": {
+            "VCL": 7241,
+            "Dockerfile": 5509,
+            "Shell": 3281,
+            "PHP": 670
+        }
+    },
+    {
+        "name": "docker-varnish-nginx-wordpress",
+        "description": "Repository for running multi-site varnish + nginx + wordpress + php-fpm installation on docker",
+        "languages": {
+            "VCL": 7159,
+            "Shell": 4716
+        }
+    },
+    {
+        "name": "docker-magento2",
+        "description": "Magento 2 environment under Docker",
+        "languages": {
+            "VCL": 7968,
+            "Shell": 7162,
+            "Dockerfile": 2753
+        }
+    },
+    {
+        "name": "dmt-infrastructure",
+        "description": "PsychonautWiki DMT infrastructure architecture & docker-configuration",
+        "languages": {
+            "VCL": 4374,
+            "Shell": 4345,
+            "Dockerfile": 3850,
+            "JavaScript": 1528
+        }
+    },
+    {
+        "name": "peer5-cors-config",
+        "description": null,
+        "languages": {
+            "VCL": 2898
+        }
+    },
+    {
+        "name": "magento2-ubuntu-dep",
+        "description": "Instala\u00e7\u00f5es de depend\u00eancias para servidor ubuntu 20 com Magento 2.4 otimizado para o m\u00e1ximo de performance",
+        "languages": {
+            "VCL": 17227,
+            "PHP": 2798,
+            "Shell": 2469
+        }
+    },
+    {
+        "name": "docker-varnish",
+        "description": "Devilbox's Varnish Docker Images",
+        "languages": {
+            "VCL": 50062,
+            "Makefile": 4902,
+            "Shell": 887
+        }
+    },
+    {
+        "name": "post-install",
+        "description": null,
+        "languages": {
+            "VCL": 12542,
+            "PHP": 11779,
+            "Shell": 464
+        }
+    },
+    {
+        "name": "tileserver-gl-site",
+        "description": null,
+        "languages": {
+            "VCL": 1397,
+            "Dockerfile": 48
+        }
+    },
+    {
+        "name": "moodle-varnish-cache-example",
+        "description": "A simple example of Moodle running on Varnish Cache",
+        "languages": {
+            "VCL": 8807,
+            "Dockerfile": 883,
+            "Makefile": 697
+        }
+    },
+    {
+        "name": "docker-magento2",
+        "description": "\u4e3a Magento 2 \u51c6\u5907\u7684docker-compose\u73af\u5883\uff0c\u76ee\u524d\u53ef\u7528\u5206\u652f\uff1amagento237\u3001magento243\u3001magento244",
+        "languages": {
+            "VCL": 8088,
+            "Dockerfile": 4848
+        }
+    },
+    {
+        "name": "VarnishNpmProxy",
+        "description": null,
+        "languages": {
+            "VCL": 3785
+        }
+    },
+    {
+        "name": "virtuoso-compose",
+        "description": "This repository contains a Docker Compose recipe for running Virtuoso + Varnish on Freebase e.g. for use with Aqqu.",
+        "languages": {
+            "VCL": 1462,
+            "Dockerfile": 889,
+            "Shell": 832
+        }
+    },
+    {
+        "name": "ding-deploy",
+        "description": "Deployscript for the ding.TING code",
+        "languages": {
+            "VCL": 13123,
+            "Python": 10658,
+            "PHP": 769
+        }
+    },
+    {
+        "name": "docker-php-devstack",
+        "description": "PHP development stack with Docker and Docker-compose",
+        "languages": {
+            "VCL": 5273
+        }
+    },
+    {
+        "name": "KnownUser.Fastly",
+        "description": null,
+        "languages": {
+            "VCL": 10848
+        }
+    },
+    {
+        "name": "terraform-fastly-service",
+        "description": "Terraform module for more easily defining a Fastly service, following Mastodon common use cases.",
+        "languages": {
+            "VCL": 33484,
+            "HCL": 25571
+        }
+    },
+    {
+        "name": "bagisto-varnish",
+        "description": "Varnish setup for Bagisto.",
+        "languages": {
+            "VCL": 6678,
+            "PHP": 2510
+        }
+    },
+    {
+        "name": "nginx-config",
+        "description": "Nginx configuration files",
+        "languages": {
+            "VCL": 23206,
+            "Nginx": 20282,
+            "Shell": 1979
+        }
+    },
+    {
+        "name": "lets-hitch-howto",
+        "description": "Quick howto for using Hitch, Varnish and Lets\u00a0Encrypt",
+        "languages": {
+            "VCL": 311
+        }
+    },
+    {
+        "name": "php-dev-docker",
+        "description": null,
+        "languages": {
+            "VCL": 35506,
+            "Shell": 27730,
+            "PHP": 3595,
+            "Dockerfile": 1812
+        }
+    },
+    {
+        "name": "varnish-cdn",
+        "description": "Double layered varnish CDN",
+        "languages": {
+            "VCL": 3799
+        }
+    },
+    {
+        "name": "Blacklist-Alpha",
+        "description": ":page_facing_up: Blacklists: Spammers Domains and Bad IPs",
+        "languages": {
+            "VCL": 89939,
+            "PHP": 7635,
+            "Makefile": 523
+        }
+    },
+    {
+        "name": "varnish-cache",
+        "description": "Varnish Cache for Plesk",
+        "languages": {
+            "VCL": 7109
+        }
+    },
+    {
+        "name": "varnish-auto",
+        "description": "Docker container using varnish, registrator, confd, and etcd to automatically load balance other containers.",
+        "languages": {
+            "VCL": 991
+        }
+    },
+    {
+        "name": "cnx-deploy",
+        "description": null,
+        "languages": {
+            "VCL": 34605,
+            "Python": 17505,
+            "Shell": 10570,
+            "Jinja": 5032,
+            "Dockerfile": 1651,
+            "JavaScript": 1631
+        }
+    },
+    {
+        "name": "nginx-varnish-wordpress",
+        "description": "Nginx tuning for best performance.",
+        "languages": {
+            "VCL": 6727
+        }
+    },
+    {
+        "name": "magento2-docker",
+        "description": "Magento 2.3 Apache Docker Image",
+        "languages": {
+            "VCL": 6647,
+            "Dockerfile": 4848,
+            "Shell": 1854
+        }
+    },
+    {
+        "name": "k8s-varnish-nginx",
+        "description": "This repository domonstrates how to deploy Varnish, a high-performance caching HTTP reverse proxy, on Kubernetes.",
+        "languages": {
+            "VCL": 9917
+        }
+    },
+    {
+        "name": "ansible-rax-magento-lamp-single",
+        "description": "Create Rackspace Cloud Server and install Magento with LAMP + Varnish",
+        "languages": {
+            "VCL": 6304,
+            "Python": 66
+        }
+    },
+    {
+        "name": "varnish-apikey",
+        "description": "Api management and caching using Varnish http-accelerator and Redis key-value store",
+        "languages": {
+            "VCL": 14048,
+            "Shell": 6059,
+            "Dockerfile": 1137
+        }
+    },
+    {
+        "name": "php-docker-stack",
+        "description": null,
+        "languages": {
+            "VCL": 10221,
+            "Shell": 5169
+        }
+    },
+    {
+        "name": "m2-jenkins-deploy",
+        "description": null,
+        "languages": {
+            "VCL": 7398,
+            "Dockerfile": 2562,
+            "PHP": 1812
+        }
+    },
+    {
+        "name": "pimcore-varnish",
+        "description": null,
+        "languages": {
+            "VCL": 25595,
+            "PHP": 17882,
+            "Twig": 2762,
+            "JavaScript": 2718,
+            "Shell": 1061
+        }
+    },
+    {
+        "name": "docker-magento-open-source",
+        "description": "Docker stack for bootstrapping Magento Open Source projects",
+        "languages": {
+            "VCL": 4870
+        }
+    },
+    {
+        "name": "m2-stack",
+        "description": null,
+        "languages": {
+            "VCL": 12712,
+            "Dockerfile": 9122,
+            "Shell": 6731
+        }
+    },
+    {
+        "name": "dockerxpec",
+        "description": null,
+        "languages": {
+            "VCL": 6627,
+            "Dockerfile": 3704,
+            "Shell": 1607
+        }
+    },
+    {
+        "name": "docker-varnish",
+        "description": "Varnish v6.2 on Docker",
+        "languages": {
+            "VCL": 1214,
+            "Dockerfile": 945,
+            "Shell": 181
+        }
+    },
+    {
+        "name": "rpi-varnish",
+        "description": "Raspberry Pi compatible Docker Image with Varnish.",
+        "languages": {
+            "VCL": 1224,
+            "Shell": 122
+        }
+    },
+    {
+        "name": "docker-hub-proxy",
+        "description": "Proxy (using Varnish server) for my docker-hub, a server with multiple docker containers with different applications, to make it available from Internet under different domains.",
+        "languages": {
+            "VCL": 1803,
+            "Shell": 481
+        }
+    },
+    {
+        "name": "varnish-vcl",
+        "description": null,
+        "languages": {
+            "VCL": 53566,
+            "Redcode": 5167
+        }
+    },
+    {
+        "name": "FRUCD-MotorController",
+        "description": null,
+        "languages": {
+            "VCL": 52627
+        }
+    },
+    {
+        "name": "wordpress.vcl",
+        "description": null,
+        "languages": {
+            "VCL": 21038
+        }
+    },
+    {
+        "name": "nexteuropa-vcl",
+        "description": "NextEuropa VCL configuration",
+        "languages": {
+            "VCL": 51878,
+            "Dockerfile": 172,
+            "Shell": 105
+        }
+    },
+    {
+        "name": "magento2-devlab",
+        "description": "Magento 2 DevLab",
+        "languages": {
+            "VCL": 18540,
+            "Shell": 9150
+        }
+    },
+    {
+        "name": "asm-provisioning",
+        "description": null,
+        "languages": {
+            "VCL": 3837,
+            "Shell": 10
+        }
+    },
+    {
+        "name": "probo-image-builder",
+        "description": "A docker image builder powered by ansible that builds the docker images for Probo.CI.",
+        "languages": {
+            "VCL": 22585,
+            "Shell": 20500,
+            "Dockerfile": 1108,
+            "PHP": 231
+        }
+    },
+    {
+        "name": "php-server",
+        "description": "Docker Compose project with Nginx, Naxsi, Varnish, PHP-FPM, and SSL termination. Tests only. Do not use it in production!",
+        "languages": {
+            "VCL": 14294,
+            "Dockerfile": 10244,
+            "CSS": 3082,
+            "PHP": 967,
+            "HTML": 27
+        }
+    },
+    {
+        "name": "magento-speed-tweaks",
+        "description": "List of actions to take to improve speed of magento installs",
+        "languages": {
+            "VCL": 16351
+        }
+    },
+    {
+        "name": "vcl-playground",
+        "description": null,
+        "languages": {
+            "VCL": 4383
+        }
+    },
+    {
+        "name": "dockerfiles",
+        "description": "my docker file",
+        "languages": {
+            "VCL": 6148,
+            "Dockerfile": 1585,
+            "Shell": 87
+        }
+    },
+    {
+        "name": "magento2-docker",
+        "description": "Magento2 + Varnish + PHP7 + Redis + SSL (cluster ready)",
+        "languages": {
+            "VCL": 3827,
+            "Shell": 181
+        }
+    },
+    {
+        "name": "SNU_2D_ProgrammingTools_IDE_VCL",
+        "description": "The VCL Programming language IDE submodule for SNU Programming Tools (2D Mode)",
+        "languages": {
+            "VCL": 212390,
+            "Roff": 3456,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "magento-nix",
+        "description": "Magento2 development environment built with Nix package manager",
+        "languages": {
+            "VCL": 8227,
+            "Nix": 7505,
+            "Shell": 4657,
+            "Makefile": 2790
+        }
+    },
+    {
+        "name": "varnish-wordpress-with-mobile",
+        "description": null,
+        "languages": {
+            "VCL": 11685
+        }
+    },
+    {
+        "name": "distributed-minio-with-varnish",
+        "description": "Distributed-Minio load-balanced via Varnish on CentOS",
+        "languages": {
+            "VCL": 2386,
+            "Shell": 594
+        }
+    },
+    {
+        "name": "Learn-VCL",
+        "description": "A repository for showcasing my knowledge of the VCL programming language, and continuing to learn the language",
+        "languages": {
+            "VCL": 212954,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "eea.docker.plone-climateadapt",
+        "description": "Docker image for Climate Adapt website",
+        "languages": {
+            "VCL": 7988,
+            "Python": 2354,
+            "Dockerfile": 964,
+            "Makefile": 55
+        }
+    },
+    {
+        "name": "dockerize-django",
+        "description": "Docker images to build a Django project",
+        "languages": {
+            "VCL": 29998,
+            "Python": 8700,
+            "Dockerfile": 3568,
+            "Shell": 1394,
+            "HTML": 98
+        }
+    },
+    {
+        "name": "varnish_vcl",
+        "description": "vcl files and CI/CD bamboo pipeline to AWS ",
+        "languages": {
+            "VCL": 524490,
+            "Python": 1810,
+            "Shell": 1401
+        }
+    },
+    {
+        "name": "wordpress_docker",
+        "description": "Docker Template for Wordpress with mariaDB and varnish",
+        "languages": {
+            "VCL": 17757,
+            "Dockerfile": 3338,
+            "Shell": 226
+        }
+    },
+    {
+        "name": "gw-scm",
+        "description": "gw-scm",
+        "languages": {
+            "VCL": 19184,
+            "Ruby": 5252,
+            "Shell": 2555
+        }
+    },
+    {
+        "name": "pimcore5-docker-symfony",
+        "description": "Pimcore 5 docker",
+        "languages": {
+            "VCL": 9824,
+            "Shell": 1314
+        }
+    },
+    {
+        "name": "dev-env",
+        "description": null,
+        "languages": {
+            "VCL": 8661
+        }
+    },
+    {
+        "name": "drupal-varnish-with-traefik",
+        "description": null,
+        "languages": {
+            "VCL": 1885,
+            "Dockerfile": 75
+        }
+    },
+    {
+        "name": "VCL",
+        "description": "VCL",
+        "languages": {
+            "VCL": 8954
+        }
+    },
+    {
+        "name": "Motorcontroller",
+        "description": "Code of the Curtis controllers",
+        "languages": {
+            "VCL": 113850,
+            "Batchfile": 198
+        }
+    },
+    {
+        "name": "varnish",
+        "description": ":whale: Dockette Varnish Dockerfile",
+        "languages": {
+            "VCL": 15525,
+            "Dockerfile": 583,
+            "Shell": 108
+        }
+    },
+    {
+        "name": "varnish-docker",
+        "description": "Docker with Varnish Cache",
+        "languages": {
+            "VCL": 775
+        }
+    },
+    {
+        "name": "varnish-docker-playground",
+        "description": "Playground for learning basics of Varnish 6, all set up in Docker with upstreams on PHP 7.2.",
+        "languages": {
+            "VCL": 1031,
+            "Makefile": 786,
+            "PHP": 508
+        }
+    },
+    {
+        "name": "docker-varnish",
+        "description": null,
+        "languages": {
+            "VCL": 6051,
+            "Shell": 2262,
+            "Dockerfile": 1359
+        }
+    },
+    {
+        "name": "magento2-docker-compose-dev",
+        "description": "Magento 2 development Docker-compose scaffold",
+        "languages": {
+            "VCL": 7234,
+            "Dockerfile": 1813,
+            "Shell": 199
+        }
+    },
+    {
+        "name": "falco-github-action",
+        "description": "Falco GitHub Action for Fastly VCL parsing and validation",
+        "languages": {
+            "VCL": 1309,
+            "Dockerfile": 215,
+            "Shell": 39
+        }
+    },
+    {
+        "name": "lando-configuration",
+        "description": "An iteratively developed Lando configuration file.",
+        "languages": {
+            "VCL": 10109
+        }
+    },
+    {
+        "name": "ansible-role-accelerator",
+        "description": "Ansible role for installation of Web Accelerator based on Varnish",
+        "languages": {
+            "VCL": 3219,
+            "Shell": 1378
+        }
+    },
+    {
+        "name": "vcl-the-game",
+        "description": "Easy to follow Varnish VCL",
+        "languages": {
+            "VCL": 73
+        }
+    },
+    {
+        "name": "docker-development-kit",
+        "description": null,
+        "languages": {
+            "VCL": 7280,
+            "Shell": 1265
+        }
+    },
+    {
+        "name": "fastly-lb-tutorial",
+        "description": null,
+        "languages": {
+            "VCL": 3110
+        }
+    },
+    {
+        "name": "magento2-docker",
+        "description": "The IT Nerd Magento 2.4.5 Open Source Docker",
+        "languages": {
+            "VCL": 5868,
+            "Dockerfile": 2669,
+            "Shell": 969
+        }
+    },
+    {
+        "name": "ansible-server-setup",
+        "description": null,
+        "languages": {
+            "VCL": 7135,
+            "Ruby": 1699,
+            "Shell": 1056,
+            "JavaScript": 152
+        }
+    },
+    {
+        "name": "magento2-docker",
+        "description": "Docker Devbox for Magento 2",
+        "languages": {
+            "VCL": 6633,
+            "Shell": 4071,
+            "Dockerfile": 1422
+        }
+    },
+    {
+        "name": "vagrant-ansible-ezplatform",
+        "description": "Vagrant & Ansible setup for eZ Platform",
+        "languages": {
+            "VCL": 10947,
+            "Ruby": 5184,
+            "Shell": 547
+        }
+    },
+    {
+        "name": "symfony-docker",
+        "description": null,
+        "languages": {
+            "VCL": 1752,
+            "Shell": 1630
+        }
+    },
+    {
+        "name": "ansible-simple-demo",
+        "description": "This is intended to be a simple intro example of Ansible which allows for a base LAMP, WordPress, or Drupal install.",
+        "languages": {
+            "VCL": 2926
+        }
+    },
+    {
+        "name": "Ansible-Magento",
+        "description": "Magento stack on rackspace cloud",
+        "languages": {
+            "VCL": 6841,
+            "Python": 81
+        }
+    },
+    {
+        "name": "docker-varnish-django",
+        "description": "Docker container for using Varnish in front of a Django application",
+        "languages": {
+            "VCL": 3213,
+            "Makefile": 725,
+            "Shell": 596
+        }
+    },
+    {
+        "name": "helm-k8s-varnish",
+        "description": "deploy varnish load balancer for object storage, swift",
+        "languages": {
+            "VCL": 2927,
+            "Smarty": 2168,
+            "Shell": 1192
+        }
+    },
+    {
+        "name": "drupal.sidekick",
+        "description": "Your Docker buddy stack to spin 3rd party services for development support: SMTP, Apache Solr, MariaDB",
+        "languages": {
+            "VCL": 25132,
+            "Shell": 228
+        }
+    },
+    {
+        "name": "edge-rate-limiting-terraform-example",
+        "description": "Example of Fastly's Edge Rate Limiting using Terraform",
+        "languages": {
+            "VCL": 18731,
+            "HCL": 5776
+        }
+    },
+    {
+        "name": "docker-varnish",
+        "description": "A Docker container with Varnish 4.x built on top of Debian 8",
+        "languages": {
+            "VCL": 8991,
+            "Dockerfile": 850,
+            "Shell": 176
+        }
+    },
+    {
+        "name": "docker-varnish",
+        "description": "varnish on docker (multi tag)",
+        "languages": {
+            "VCL": 2952,
+            "Shell": 787
+        }
+    },
+    {
+        "name": "terraform-varnish-example",
+        "description": "varnish example on docker, terraform deploy.",
+        "languages": {
+            "VCL": 4962,
+            "HCL": 1068
+        }
+    },
+    {
+        "name": "docker-varnish-wordpress",
+        "description": "\ud83d\udc33 Varnish + Docker optimized for WordPress",
+        "languages": {
+            "VCL": 6734,
+            "Shell": 602,
+            "Dockerfile": 378
+        }
+    },
+    {
+        "name": "Docker-Development-Environment",
+        "description": "Docker Development Environment",
+        "languages": {
+            "VCL": 2139,
+            "JavaScript": 587,
+            "Dockerfile": 519,
+            "Shell": 324,
+            "PHP": 262,
+            "Makefile": 99
+        }
+    },
+    {
+        "name": "connectives_cog_control",
+        "description": "This project investigates preschool children's comprehension of connectives (but and so) and its relationship to cognitive control.",
+        "languages": {
+            "VCL": 6060381,
+            "R": 956
+        }
+    },
+    {
+        "name": "docker-compose",
+        "description": null,
+        "languages": {
+            "VCL": 478
+        }
+    },
+    {
+        "name": "Magento-Ansible",
+        "description": null,
+        "languages": {
+            "VCL": 6842,
+            "Python": 77
+        }
+    },
+    {
+        "name": "wk-docker-spdysandwhich",
+        "description": "A docker image that can act as a www front end accelerator using the spdy-sanwhich concept",
+        "languages": {
+            "VCL": 7626,
+            "Shell": 1793
+        }
+    },
+    {
+        "name": "ansible-rax-magento-web_master_slave-db",
+        "description": "Create Rackspace server, configure LAMP on Master and Slave Servers, configure MySQL on DB server and configure lsync on Master Web server.",
+        "languages": {
+            "VCL": 6307,
+            "Python": 65
+        }
+    },
+    {
+        "name": "vscode-voice",
+        "description": "Settings, snippets etc. to make it easier to use Visual Studio Code by voice; uses Dragon + Vocola",
+        "languages": {
+            "VCL": 2647
+        }
+    },
+    {
+        "name": "ansiterible",
+        "description": null,
+        "languages": {
+            "VCL": 7142,
+            "Shell": 333
+        }
+    },
+    {
+        "name": "magento-cluster",
+        "description": "Magento 2 Cluster",
+        "languages": {
+            "VCL": 5396,
+            "PHP": 4651,
+            "Shell": 3068,
+            "JavaScript": 2151
+        }
+    },
+    {
+        "name": "tileserver-gl-varnish-docker",
+        "description": null,
+        "languages": {
+            "VCL": 7334,
+            "JavaScript": 2827,
+            "Dockerfile": 1765,
+            "Shell": 1760
+        }
+    },
+    {
+        "name": "varnish-cache",
+        "description": "Basic Varnish cache configuration",
+        "languages": {
+            "VCL": 2457
+        }
+    },
+    {
+        "name": "magento2_varnish-nginx",
+        "description": null,
+        "languages": {
+            "VCL": 5744
+        }
+    },
+    {
+        "name": "storagegrid-kubernetes-demo",
+        "description": null,
+        "languages": {
+            "VCL": 4103
+        }
+    },
+    {
+        "name": "docker-varnish-hls-cache",
+        "description": "Simple pre-configured varnish HLS server",
+        "languages": {
+            "VCL": 3947,
+            "Dockerfile": 648,
+            "Shell": 457
+        }
+    },
+    {
+        "name": "magento2-init",
+        "description": "Development environment for Magento 2 with Docker",
+        "languages": {
+            "VCL": 7810,
+            "Shell": 4607
+        }
+    },
+    {
+        "name": "varnish-conf-wp-ps",
+        "description": "Varnish default config file for using the service with WordPress and Google\u00b4s mod_pagespeed.",
+        "languages": {
+            "VCL": 9503
+        }
+    },
+    {
+        "name": "varnish",
+        "description": "Minimalist Varnish configuration",
+        "languages": {
+            "VCL": 10315
+        }
+    },
+    {
+        "name": "docker-magento",
+        "description": null,
+        "languages": {
+            "VCL": 7081,
+            "Dockerfile": 3074,
+            "Shell": 1725
+        }
+    },
+    {
+        "name": "code-by-voice",
+        "description": "Vocola2 support for a variety of languages/frameworks in Visual Studio Code",
+        "languages": {
+            "VCL": 8618,
+            "Python": 1121
+        }
+    },
+    {
+        "name": "craft-blitz-varnish",
+        "description": null,
+        "languages": {
+            "VCL": 11624,
+            "PHP": 5136
+        }
+    },
+    {
+        "name": "eea.climateadapt.plonebuildout",
+        "description": null,
+        "languages": {
+            "VCL": 9451,
+            "Shell": 825
+        }
+    },
+    {
+        "name": "helm-chart-magento1",
+        "description": "Helm chart for magento1 installation",
+        "languages": {
+            "VCL": 7845,
+            "Mustache": 3197,
+            "Shell": 300
+        }
+    },
+    {
+        "name": "m2vcl",
+        "description": "Export regression models to Varnish Configuration Language",
+        "languages": {
+            "VCL": 14617,
+            "Python": 12435
+        }
+    },
+    {
+        "name": "varnish",
+        "description": "Varnish vcl scripts and stuff",
+        "languages": {
+            "VCL": 2913
+        }
+    },
+    {
+        "name": "php_school",
+        "description": null,
+        "languages": {
+            "VCL": 7282,
+            "Shell": 2902,
+            "PHP": 471
+        }
+    },
+    {
+        "name": "docker-wikiteq-stack",
+        "description": null,
+        "languages": {
+            "VCL": 6324,
+            "Shell": 4168
+        }
+    },
+    {
+        "name": "edge-rate-limiting-terraform",
+        "description": "Example of configuring Edge Rate Limiting with Terraform",
+        "languages": {
+            "VCL": 18820,
+            "HCL": 6602,
+            "Shell": 735
+        }
+    },
+    {
+        "name": "varnish",
+        "description": "Configuration files for Varnish as transparent cache for StorageGRID",
+        "languages": {
+            "VCL": 3300,
+            "Dockerfile": 591
+        }
+    },
+    {
+        "name": "ploneorg.admin",
+        "description": "plone.org",
+        "languages": {
+            "VCL": 17740,
+            "Python": 15779,
+            "HTML": 10781,
+            "Makefile": 7754,
+            "Batchfile": 7217,
+            "CSS": 6578,
+            "Shell": 2325,
+            "Awk": 448
+        }
+    },
+    {
+        "name": "varnish-4-config-template",
+        "description": null,
+        "languages": {
+            "VCL": 3838
+        }
+    },
+    {
+        "name": "buildout",
+        "description": "Basic Buildout setup with the kitconcept best practices.",
+        "languages": {
+            "VCL": 7999,
+            "Makefile": 2640
+        }
+    },
+    {
+        "name": "puPilos",
+        "description": null,
+        "languages": {
+            "VCL": 8244,
+            "Dockerfile": 1459,
+            "PHP": 23
+        }
+    },
+    {
+        "name": "henry-vcl",
+        "description": "Henry's personal VCL projects repo",
+        "languages": {
+            "VCL": 33415
+        }
+    },
+    {
+        "name": "docker-lamp",
+        "description": "Docker para proyectos lamp",
+        "languages": {
+            "VCL": 124688,
+            "PHP": 61216
+        }
+    },
+    {
+        "name": "ereolen-dev",
+        "description": null,
+        "languages": {
+            "VCL": 11504,
+            "Shell": 9611
+        }
+    },
+    {
+        "name": "varnish-config",
+        "description": null,
+        "languages": {
+            "VCL": 19342
+        }
+    },
+    {
+        "name": "k8s-wordpress-stack",
+        "description": "Kubernetes manifests for running a WordPress blog.",
+        "languages": {
+            "VCL": 6107
+        }
+    },
+    {
+        "name": "varnish-alpine",
+        "description": "Varnish docker image base on alpine",
+        "languages": {
+            "VCL": 6148,
+            "Shell": 87
+        }
+    },
+    {
+        "name": "eea.docker.varnish-plonesaas",
+        "description": null,
+        "languages": {
+            "VCL": 13944,
+            "Dockerfile": 390
+        }
+    },
+    {
+        "name": "A-basic-Varnish-4.x-VCL-config-file",
+        "description": "Sane defaults and a good starting place to configure your Varnish 4.x server",
+        "languages": {
+            "VCL": 14971
+        }
+    },
+    {
+        "name": "deploy",
+        "description": "Automated deploy for Wordpress environments powered by ansible",
+        "languages": {
+            "VCL": 2841,
+            "PHP": 2785,
+            "Jinja": 817
+        }
+    },
+    {
+        "name": "varnish_vcl_test_environment",
+        "description": "A Docker based environment to test Varnish VCL files.",
+        "languages": {
+            "VCL": 6349,
+            "JavaScript": 959,
+            "Shell": 357
+        }
+    },
+    {
+        "name": "globaldots-fastly",
+        "description": null,
+        "languages": {
+            "VCL": 38857,
+            "Shell": 2364
+        }
+    },
+    {
+        "name": "Magento2",
+        "description": "Docker Compose for Magento2 Development",
+        "languages": {
+            "VCL": 7699,
+            "Dockerfile": 4567,
+            "PHP": 681
+        }
+    },
+    {
+        "name": "tree-sitter-vcl",
+        "description": null,
+        "languages": {
+            "VCL": 7989,
+            "JavaScript": 6501,
+            "Scheme": 805
+        }
+    },
+    {
+        "name": "varnish",
+        "description": null,
+        "languages": {
+            "VCL": 274,
+            "Dockerfile": 233,
+            "Shell": 80
+        }
+    },
+    {
+        "name": "docker-magento",
+        "description": "Docker containers with LAMP stack",
+        "languages": {
+            "VCL": 7658,
+            "Dockerfile": 1769,
+            "Shell": 125,
+            "PHP": 17
+        }
+    },
+    {
+        "name": "varnish-config",
+        "description": "Varnish 4 configuration example for WordPress",
+        "languages": {
+            "VCL": 13584
+        }
+    },
+    {
+        "name": "varnish-video-stream",
+        "description": null,
+        "languages": {
+            "VCL": 653,
+            "Dockerfile": 288,
+            "HTML": 164
+        }
+    },
+    {
+        "name": "performance-training",
+        "description": "Performance training environment",
+        "languages": {
+            "VCL": 7219,
+            "Makefile": 4146,
+            "Dockerfile": 2214
+        }
+    },
+    {
+        "name": "docker-sandbox",
+        "description": "Messing around with container-centric architectures, networking and scaling :)",
+        "languages": {
+            "VCL": 7316,
+            "Dockerfile": 7106,
+            "Shell": 2316,
+            "JavaScript": 2307,
+            "Makefile": 1278,
+            "HCL": 1124
+        }
+    },
+    {
+        "name": "natlink-macros",
+        "description": "Speech recognition macros using Natlink, Vocola, and Unimacro for Nuance Dragon",
+        "languages": {
+            "VCL": 21160,
+            "Python": 607
+        }
+    },
+    {
+        "name": "eccSchoolApp-infra",
+        "description": null,
+        "languages": {
+            "VCL": 644,
+            "Dockerfile": 394,
+            "Makefile": 343
+        }
+    },
+    {
+        "name": "eea.docker.climateadapt",
+        "description": null,
+        "languages": {
+            "VCL": 8504,
+            "Dockerfile": 67
+        }
+    },
+    {
+        "name": "varnish4.1-el6",
+        "description": null,
+        "languages": {
+            "VCL": 5557
+        }
+    },
+    {
+        "name": "amazon_promotion_swarm",
+        "description": null,
+        "languages": {
+            "VCL": 8337
+        }
     }
 ]

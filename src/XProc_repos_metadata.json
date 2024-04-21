@@ -38,5 +38,934 @@
         "languages": {
             "XProc": 18771
         }
+    },
+    {
+        "name": "Collection-API",
+        "description": "The public web API of the National Museum of Australia",
+        "languages": {
+            "XProc": 73173,
+            "XSLT": 39628,
+            "HTML": 19719,
+            "Shell": 1600
+        }
+    },
+    {
+        "name": "xproc-util",
+        "description": "XProc utilities for transpect",
+        "languages": {
+            "XProc": 237456,
+            "XSLT": 49024,
+            "HTML": 446,
+            "JavaScript": 19,
+            "CSS": 15
+        }
+    },
+    {
+        "name": "x4-mod-ui-extensions",
+        "description": null,
+        "languages": {
+            "XProc": 4273490,
+            "Batchfile": 3211,
+            "Lua": 1353
+        }
+    },
+    {
+        "name": "xprocspec",
+        "description": "A tool for testing XProc scripts",
+        "languages": {
+            "XProc": 227619,
+            "XSLT": 137176,
+            "HTML": 35005,
+            "CSS": 15012,
+            "JavaScript": 48,
+            "XQuery": 7
+        }
+    },
+    {
+        "name": "xprocbook",
+        "description": "XML Pipelines: A Guide to XProc",
+        "languages": {
+            "XProc": 111076,
+            "XSLT": 37736,
+            "CSS": 8382,
+            "Perl": 5995
+        }
+    },
+    {
+        "name": "cxan",
+        "description": "CXAN website and client",
+        "languages": {
+            "XProc": 214982,
+            "XSLT": 40311,
+            "XML": 33542,
+            "Shell": 16485,
+            "CSS": 3585,
+            "Makefile": 2359
+        }
+    },
+    {
+        "name": "depify-client",
+        "description": "depify client - manage xproc dependencies",
+        "languages": {
+            "XProc": 271998,
+            "HTML": 132282,
+            "XSLT": 121022,
+            "CSS": 15012,
+            "Eagle": 9845,
+            "Shell": 3859,
+            "ApacheConf": 166,
+            "JavaScript": 48,
+            "XQuery": 7
+        }
+    },
+    {
+        "name": "xforms-manager",
+        "description": "XForms based form manager",
+        "languages": {
+            "XProc": 150653,
+            "XSLT": 18451,
+            "CSS": 5030,
+            "Java": 3996
+        }
+    },
+    {
+        "name": "calabash-frontend",
+        "description": "Bash and .bat scripts, frequently used extensions, XML catalog for XML Calabash",
+        "languages": {
+            "XProc": 18122,
+            "Shell": 10253,
+            "Batchfile": 3397
+        }
+    },
+    {
+        "name": "xproc",
+        "description": "XProc various inputs and samples",
+        "languages": {
+            "XProc": 9558
+        }
+    },
+    {
+        "name": "PROV-RIF-SPARQL",
+        "description": "A gateway between the Public Record Office Victoria's OAI-PMH server's RIF-CS dataset, and a SPARQL store",
+        "languages": {
+            "XProc": 38370,
+            "Java": 23651,
+            "XSLT": 10611,
+            "Shell": 2049,
+            "CSS": 1010
+        }
+    },
+    {
+        "name": "NER-RDF-Pipeline",
+        "description": "A pipeline to generate RDF metadata from full text resources using Named Entity Recognition ",
+        "languages": {
+            "XProc": 42034,
+            "XSLT": 16247
+        }
+    },
+    {
+        "name": "rng-extension",
+        "description": "XML Calabash Relax NG validation extension step that returns a report with XPath error locations",
+        "languages": {
+            "XProc": 15465,
+            "Java": 6934,
+            "XSLT": 3713
+        }
+    },
+    {
+        "name": "XProcTwitterBot",
+        "description": "A Twitter bot for XML hackers",
+        "languages": {
+            "XProc": 20962
+        }
+    },
+    {
+        "name": "publishing-converter",
+        "description": "A development project from the Hybrid Publishing Lab, Leuphana University of L\u00fcneburg Innovation Incubator, financed by the European Regional Development Fund and co-funded by the German federal state of Lower Saxony. Multi-format publishing transformation magic pipeline.",
+        "languages": {
+            "XProc": 18158,
+            "Makefile": 4460,
+            "HTML": 3888,
+            "XSLT": 3684,
+            "CSS": 264
+        }
+    },
+    {
+        "name": "idmlvalidation",
+        "description": "An IDML Validator",
+        "languages": {
+            "XProc": 13062,
+            "Shell": 1747
+        }
+    },
+    {
+        "name": "XProc-3.0-book-sources",
+        "description": "Sources belonging to: XProc 3.0 - Programmer Reference\"",
+        "languages": {
+            "XProc": 5622,
+            "XSLT": 4268
+        }
+    },
+    {
+        "name": "epubcheck-transpect",
+        "description": "XProc pipeline to check EPUBs for compliance with IDPF EPUB2/3, Amazon MOBI/KF8 and custom Schematron",
+        "languages": {
+            "XProc": 31077,
+            "XSLT": 7770,
+            "Shell": 4344,
+            "CSS": 299
+        }
+    },
+    {
+        "name": "SNU_2D_ProgrammingTools_IDE_XProc",
+        "description": "The XProc Programming language IDE submodule for SNU Programming Tools (2D Mode)",
+        "languages": {
+            "XProc": 212284,
+            "Roff": 3456
+        }
+    },
+    {
+        "name": "Learn-XProc",
+        "description": "A repository for showcasing my knowledge of the XProc programming language, and continuing to learn the language",
+        "languages": {
+            "XProc": 212574
+        }
+    },
+    {
+        "name": "xproc-enrich",
+        "description": "Transform XProc source by adding default and step linking data",
+        "languages": {
+            "XProc": 23069,
+            "XSLT": 17672
+        }
+    },
+    {
+        "name": "nautico-mpc-sounds",
+        "description": null,
+        "languages": {
+            "XProc": 8428
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "My configs",
+        "languages": {
+            "XProc": 601201,
+            "Shell": 19689,
+            "Vim Script": 16487,
+            "Ruby": 979,
+            "Vim Snippet": 52
+        }
+    },
+    {
+        "name": "XProc",
+        "description": "XProc",
+        "languages": {
+            "XProc": 346
+        }
+    },
+    {
+        "name": "depify-packages",
+        "description": "depify - xproc package metada repository",
+        "languages": {
+            "XProc": 11311,
+            "Shell": 946
+        }
+    },
+    {
+        "name": "1.0-test-suite",
+        "description": "The XProc test suite",
+        "languages": {
+            "XProc": 12581,
+            "XSLT": 7732,
+            "HTML": 1455,
+            "Makefile": 62,
+            "XQuery": 7
+        }
+    },
+    {
+        "name": "cascade",
+        "description": "Libraries to implement a transpect cascade configuration",
+        "languages": {
+            "XProc": 54334,
+            "XSLT": 49606,
+            "XQuery": 13794
+        }
+    },
+    {
+        "name": "qualnet-",
+        "description": "\u521d\u59cb\u503c",
+        "languages": {
+            "XProc": 16181961,
+            "C": 4542223,
+            "C++": 4515906,
+            "AGS Script": 2136612,
+            "Python": 137817,
+            "HTML": 114304,
+            "Objective-C": 28489,
+            "Batchfile": 5755,
+            "QMake": 3077,
+            "Makefile": 356
+        }
+    },
+    {
+        "name": "thesis",
+        "description": "Master's Thesis",
+        "languages": {
+            "XProc": 98348905,
+            "TeX": 177921,
+            "Jupyter Notebook": 83230,
+            "Python": 67746,
+            "C": 31694,
+            "Shell": 16224,
+            "JavaScript": 1922,
+            "Makefile": 263
+        }
+    },
+    {
+        "name": "xproc-interoperability",
+        "description": "An interoperability tool for XProc",
+        "languages": {
+            "XProc": 9754
+        }
+    },
+    {
+        "name": "mu-2023-xproc",
+        "description": null,
+        "languages": {
+            "XProc": 7163
+        }
+    },
+    {
+        "name": "officeopenxml-validation",
+        "description": "Validation of Office Open XML File Format",
+        "languages": {
+            "XProc": 11279
+        }
+    },
+    {
+        "name": "xpl-pdp-10",
+        "description": null,
+        "languages": {
+            "XProc": 1099726,
+            "Makefile": 683
+        }
+    },
+    {
+        "name": "home-networking",
+        "description": "Master's Thesis: Developing a Solution for Multimedia Home Networking",
+        "languages": {
+            "XProc": 10160930,
+            "TeX": 638019,
+            "Shell": 606158,
+            "R": 1809
+        }
+    },
+    {
+        "name": "AVOSEIS",
+        "description": null,
+        "languages": {
+            "XProc": 294388,
+            "Roff": 84793,
+            "Perl": 80727,
+            "Python": 54426,
+            "PHP": 29316,
+            "Makefile": 9513,
+            "Fortran": 7147,
+            "Shell": 4840,
+            "CSS": 2237,
+            "HTML": 184
+        }
+    },
+    {
+        "name": "xml-prague-xproc-showroom-2017",
+        "description": "The example I presented at the XProc Showcase on the pre-conference day for XML Prague 2017",
+        "languages": {
+            "XProc": 5936,
+            "XSLT": 947
+        }
+    },
+    {
+        "name": "docx-flatten",
+        "description": "unzip a docx-file and flatten xml content to one xml document",
+        "languages": {
+            "XProc": 10956,
+            "XSLT": 3389,
+            "Shell": 371
+        }
+    },
+    {
+        "name": "xproc.org",
+        "description": "The xproc.org website",
+        "languages": {
+            "XProc": 19765,
+            "CSS": 15491,
+            "XSLT": 13842,
+            "Perl": 3283,
+            "Shell": 1071,
+            "JavaScript": 1030
+        }
+    },
+    {
+        "name": "BigFix",
+        "description": "fixlets, tasks, analyses, relevance",
+        "languages": {
+            "XProc": 10504,
+            "PowerShell": 6006
+        }
+    },
+    {
+        "name": "doc2oaepub",
+        "description": "create jats xml from documets with known structure and predefined styles (docx and odt)",
+        "languages": {
+            "XProc": 118229,
+            "Python": 12831,
+            "XSLT": 10141,
+            "Shell": 1140
+        }
+    },
+    {
+        "name": "JATS_Literatum_transpect",
+        "description": "transpect front-end for oXygenJATSframework_Literatum",
+        "languages": {
+            "XProc": 5972,
+            "XSLT": 5182,
+            "Makefile": 4770
+        }
+    },
+    {
+        "name": "working-with-zip-demo-prague-2020",
+        "description": "Presentation and source files for the working with zips in XProc 3.0 demo at XML Prague 2020",
+        "languages": {
+            "XProc": 1728
+        }
+    },
+    {
+        "name": "xproc-graphviz",
+        "description": "XProc library to run graphviz tools to generate svg",
+        "languages": {
+            "XProc": 8479,
+            "XSLT": 8376,
+            "JavaScript": 6919
+        }
+    },
+    {
+        "name": "da-2021-xproc",
+        "description": "Presentation, exercises and notes for the XProc 3.0 tutorial at Declarative Amsterdam 2021",
+        "languages": {
+            "XProc": 7187
+        }
+    },
+    {
+        "name": "oceania",
+        "description": "A Linked Open Data aggregator for cultural heritage metadata in New Zealand and Australia",
+        "languages": {
+            "XProc": 9042,
+            "JavaScript": 5410,
+            "XSLT": 1634
+        }
+    },
+    {
+        "name": "SearchEngineTesting",
+        "description": "Testing the performance of Search engine",
+        "languages": {
+            "XProc": 1307482,
+            "Python": 40810,
+            "PHP": 524,
+            "CSS": 214,
+            "JavaScript": 21
+        }
+    },
+    {
+        "name": "ai-data-converter",
+        "description": "Experiment with OpenAI Assistant and XProc pipeline for converting data. ",
+        "languages": {
+            "XProc": 12603
+        }
+    },
+    {
+        "name": "lediir-mobile-app",
+        "description": "Source code of mobile application of LeDIIR project",
+        "languages": {
+            "XProc": 3370,
+            "XSLT": 1202,
+            "Batchfile": 174
+        }
+    },
+    {
+        "name": "2015summer",
+        "description": "a repo for some codes ",
+        "languages": {
+            "XProc": 24625341,
+            "C": 38083,
+            "Java": 9456,
+            "C++": 7815,
+            "Shell": 925
+        }
+    },
+    {
+        "name": "idml_docx-to-docbook_epub-demo",
+        "description": null,
+        "languages": {
+            "XProc": 63748,
+            "XSLT": 20277,
+            "Makefile": 3371,
+            "CSS": 1531,
+            "Shell": 354
+        }
+    },
+    {
+        "name": "transformer",
+        "description": "HTML 2 EPUB conversion using the Transpect tool set",
+        "languages": {
+            "XProc": 10999,
+            "HTML": 5514,
+            "Makefile": 2870,
+            "XSLT": 1501
+        }
+    },
+    {
+        "name": "kindlegen-amzn",
+        "description": "XProc Wrapper for Amazon's Kindlegen.",
+        "languages": {
+            "XProc": 10494,
+            "XSLT": 2903
+        }
+    },
+    {
+        "name": "TroveProxy",
+        "description": "A transforming proxy and harvester for the National Library of Australia's Trove API",
+        "languages": {
+            "XProc": 76904,
+            "XSLT": 63440,
+            "Dockerfile": 547,
+            "Shell": 232
+        }
+    },
+    {
+        "name": "split-docx",
+        "description": "this module helps with splitting docx files",
+        "languages": {
+            "XProc": 29718,
+            "XSLT": 8546
+        }
+    },
+    {
+        "name": "htmltemplates",
+        "description": null,
+        "languages": {
+            "XProc": 14174,
+            "XSLT": 8104,
+            "CSS": 2578
+        }
+    },
+    {
+        "name": "xmlpl.org",
+        "description": "XmlPL - The XML Processing Language (Website)",
+        "languages": {
+            "XProc": 21854,
+            "HTML": 10504,
+            "C": 4225,
+            "PHP": 1813,
+            "Makefile": 1523,
+            "XSLT": 767,
+            "Shell": 657,
+            "CSS": 369,
+            "XQuery": 305,
+            "ApacheConf": 48
+        }
+    },
+    {
+        "name": "libxmlpl-cpp-standard",
+        "description": "XmlPL - The XML Processing Language (Standard Library)",
+        "languages": {
+            "XProc": 18561,
+            "Shell": 1681,
+            "Makefile": 1290
+        }
+    },
+    {
+        "name": "proj-eval",
+        "description": "Simple approatch to evaluate the complexity of a transpect project",
+        "languages": {
+            "XProc": 10969
+        }
+    },
+    {
+        "name": "macOS-Setup",
+        "description": null,
+        "languages": {
+            "XProc": 2156864,
+            "HTML": 770413
+        }
+    },
+    {
+        "name": "owark",
+        "description": "A copy of the Owark source, as of 2016-025",
+        "languages": {
+            "XProc": 97082,
+            "Java": 35771,
+            "XSLT": 25253,
+            "PHP": 20383
+        }
+    },
+    {
+        "name": "xmlpl",
+        "description": "XmlPL - The XML Processing Language",
+        "languages": {
+            "XProc": 197575,
+            "Makefile": 27049,
+            "Shell": 14412,
+            "C++": 4613
+        }
+    },
+    {
+        "name": "xtpxlib-container",
+        "description": "Xatapult XML Library - Container handling",
+        "languages": {
+            "XProc": 64967,
+            "XSLT": 32107,
+            "HTML": 14832
+        }
+    },
+    {
+        "name": "CE",
+        "description": "A website for browsing the collection of the National Museum of Australia, based on their Collection API",
+        "languages": {
+            "XProc": 18608,
+            "XSLT": 2303
+        }
+    },
+    {
+        "name": "Arf",
+        "description": null,
+        "languages": {
+            "XProc": 580807,
+            "Shell": 248
+        }
+    },
+    {
+        "name": "semex",
+        "description": "Extrection of semantic data (values+units, etc.) from tables",
+        "languages": {
+            "XProc": 21445,
+            "XSLT": 20842
+        }
+    },
+    {
+        "name": "epub2epub",
+        "description": "XProc library for migrating mostly older EPUBs to newer EPUB standards",
+        "languages": {
+            "XProc": 31115,
+            "XSLT": 6033
+        }
+    },
+    {
+        "name": "ltptrace",
+        "description": "Analysis and visualization of Wireshark  LTP traffic captures",
+        "languages": {
+            "XProc": 2105742,
+            "Python": 7713,
+            "Shell": 1663
+        }
+    },
+    {
+        "name": "webserver",
+        "description": "XmlPL webserver configuration scripts",
+        "languages": {
+            "XProc": 23673,
+            "PHP": 12716,
+            "Makefile": 416
+        }
+    },
+    {
+        "name": "xproc-examples",
+        "description": "Automatically exported from code.google.com/p/xproc-examples",
+        "languages": {
+            "XProc": 4238,
+            "XSLT": 2586
+        }
+    },
+    {
+        "name": "stepfriends",
+        "description": "A place for help each other with XProc 3.0 in Japanese.",
+        "languages": {
+            "XProc": 627
+        }
+    },
+    {
+        "name": "transpect-tutorial",
+        "description": "simple transpect tutorial",
+        "languages": {
+            "XProc": 1597,
+            "XSLT": 1395
+        }
+    },
+    {
+        "name": "blocklists",
+        "description": null,
+        "languages": {
+            "XProc": 134
+        }
+    },
+    {
+        "name": "html2xlsx",
+        "description": null,
+        "languages": {
+            "XProc": 16685,
+            "XSLT": 15107
+        }
+    },
+    {
+        "name": "xproc-1.0-tutorial",
+        "description": "xproc-1.0-tutorial",
+        "languages": {
+            "XProc": 12412,
+            "XSLT": 3110
+        }
+    },
+    {
+        "name": "WB4-Project",
+        "description": "sample project uploading",
+        "languages": {
+            "XProc": 6232271
+        }
+    },
+    {
+        "name": "calabash-distro",
+        "description": "The default XML Calabash distribution",
+        "languages": {
+            "XProc": 2678
+        }
+    },
+    {
+        "name": "xproc3kit",
+        "description": "XProc 3.0 oXygen Framework",
+        "languages": {
+            "XProc": 654
+        }
+    },
+    {
+        "name": "xproc-examples",
+        "description": "Automatically exported from code.google.com/p/xproc-examples",
+        "languages": {
+            "XProc": 4238,
+            "XSLT": 2586
+        }
+    },
+    {
+        "name": "mpd",
+        "description": "mpd",
+        "languages": {
+            "XProc": 833360,
+            "C": 330610,
+            "C++": 74285
+        }
+    },
+    {
+        "name": "pygmentize-xpl",
+        "description": "pygments front-end step for XProc pipelines, using p:exec",
+        "languages": {
+            "XProc": 3762
+        }
+    },
+    {
+        "name": "applicaa",
+        "description": null,
+        "languages": {
+            "XProc": 569554,
+            "C#": 424228,
+            "TSQL": 2946
+        }
+    },
+    {
+        "name": "xproc-plus-time",
+        "description": "Automatically exported from code.google.com/p/xproc-plus-time",
+        "languages": {
+            "XProc": 48172,
+            "XSLT": 45992,
+            "Eagle": 9845,
+            "HTML": 1455,
+            "Shell": 610,
+            "ApacheConf": 166,
+            "CSS": 153,
+            "XQuery": 7
+        }
+    },
+    {
+        "name": "xproc-merging-example",
+        "description": null,
+        "languages": {
+            "XProc": 6999,
+            "XSLT": 2864
+        }
+    },
+    {
+        "name": "cdss-app-tstool-test",
+        "description": "Colorado's Decision Support Systems (CDSS) TSTool application functional tests",
+        "languages": {
+            "XProc": 22368916,
+            "CAP CDS": 5751053,
+            "HTML": 1063908,
+            "Roff": 301658,
+            "Python": 62294,
+            "JavaScript": 20403,
+            "Fortran": 19726,
+            "Shell": 6265,
+            "C": 5052,
+            "Perl": 2869,
+            "Batchfile": 840,
+            "R": 797,
+            "Makefile": 510,
+            "Go": 71
+        }
+    },
+    {
+        "name": "example-xproc-lib",
+        "description": "example xproc lib that demonstrates depify packaging",
+        "languages": {
+            "XProc": 608
+        }
+    },
+    {
+        "name": "BL",
+        "description": null,
+        "languages": {
+            "XProc": 33933095,
+            "MATLAB": 308891,
+            "Shell": 2418
+        }
+    },
+    {
+        "name": "github-api",
+        "description": "XProc steps that implement the GitHub API",
+        "languages": {
+            "XProc": 6059
+        }
+    },
+    {
+        "name": "debug-single-xsltmode",
+        "description": "Just a test!",
+        "languages": {
+            "XProc": 3574
+        }
+    },
+    {
+        "name": "xproc3-framework",
+        "description": "A (very) basic framework to create and edit XProc 3.0 pipelines in oXygen XML Editor",
+        "languages": {
+            "XProc": 290
+        }
+    },
+    {
+        "name": "epubcheck-idpf",
+        "description": "XProc wrapper for IDPF's epubcheck",
+        "languages": {
+            "XProc": 13202,
+            "XSLT": 12351
+        }
+    },
+    {
+        "name": "pipeline-mod-mtm",
+        "description": "MTM specific modules for the DAISY Pipeline 2",
+        "languages": {
+            "XProc": 25463,
+            "Java": 10360,
+            "XSLT": 2467,
+            "Emacs Lisp": 205
+        }
+    },
+    {
+        "name": "archive.xproc.org",
+        "description": "Sources for the legacy xproc.org website",
+        "languages": {
+            "XProc": 16790,
+            "CSS": 9278,
+            "XSLT": 8402,
+            "Perl": 2884,
+            "Shell": 1246,
+            "HTML": 170
+        }
+    },
+    {
+        "name": "Bioinformatica",
+        "description": null,
+        "languages": {
+            "XProc": 7298
+        }
+    },
+    {
+        "name": "bib-parser",
+        "description": "XProc wrapper to include various parsers for bibliographic references",
+        "languages": {
+            "XProc": 7033
+        }
+    },
+    {
+        "name": "ace-daisy",
+        "description": "XProc wrapper for DAISY's accessibility checker",
+        "languages": {
+            "XProc": 13180,
+            "XSLT": 6176
+        }
+    },
+    {
+        "name": "epubcheck-extension",
+        "description": "IDPF epubcheck as XProc extension step for XML Calabash",
+        "languages": {
+            "XProc": 2057,
+            "Java": 2010
+        }
+    },
+    {
+        "name": "epub-font-subsetter",
+        "description": "Creates font subsets for embedded fonts",
+        "languages": {
+            "XProc": 24789,
+            "Shell": 1045
+        }
+    },
+    {
+        "name": "FileRimasti",
+        "description": null,
+        "languages": {
+            "XProc": 407251,
+            "Batchfile": 172026,
+            "PLSQL": 77898
+        }
+    },
+    {
+        "name": "calabash-xml-resolver-issue",
+        "description": "Just a minimal case to reproduce the issue",
+        "languages": {
+            "XProc": 1445,
+            "Batchfile": 266
+        }
+    },
+    {
+        "name": "bibliographicalXML-client",
+        "description": null,
+        "languages": {
+            "XProc": 4693,
+            "XSLT": 1764,
+            "Python": 260,
+            "CSS": 147
+        }
+    },
+    {
+        "name": "xproc_experiments",
+        "description": "experimenting with xml problems and xproc",
+        "languages": {
+            "XProc": 698,
+            "HTML": 306
+        }
+    },
+    {
+        "name": "epub2hub-lib",
+        "description": null,
+        "languages": {
+            "XProc": 11636,
+            "XSLT": 4450
+        }
     }
 ]

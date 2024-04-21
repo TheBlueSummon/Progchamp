@@ -60,5 +60,1811 @@
             "C++": 1899,
             "Assembly": 724
         }
+    },
+    {
+        "name": "xmos-speaker-dsp",
+        "description": "5.1 speaker DSP controller firmware based on the XMOS USB 2.0 Multichannel Audio Reference board",
+        "languages": {
+            "XC": 168367,
+            "C": 88558,
+            "Assembly": 53531,
+            "Python": 18470,
+            "C++": 7543,
+            "Makefile": 1544,
+            "Objective-C": 711
+        }
+    },
+    {
+        "name": "ale",
+        "description": "Abstraction Layer for Ephemerides (ALE)",
+        "languages": {
+            "XC": 34755244,
+            "HCL": 3786356,
+            "Python": 882541,
+            "Jupyter Notebook": 196855,
+            "C++": 191271,
+            "CMake": 8093,
+            "Batchfile": 526,
+            "Shell": 119
+        }
+    },
+    {
+        "name": "sc_i2s",
+        "description": "I2S Digital Audio Components",
+        "languages": {
+            "XC": 13964,
+            "Objective-C": 5169,
+            "C": 2076,
+            "C++": 541
+        }
+    },
+    {
+        "name": "sc_pwm",
+        "description": "PWM components",
+        "languages": {
+            "XC": 198345,
+            "Ruby": 82789,
+            "Objective-C": 49387,
+            "C": 39878,
+            "CSS": 32995,
+            "Python": 17199,
+            "C++": 15078,
+            "Perl": 10352,
+            "Lua": 10182,
+            "Assembly": 9267,
+            "Shell": 10
+        }
+    },
+    {
+        "name": "sc_adat",
+        "description": "Modules to receive and transmit ADAT streams",
+        "languages": {
+            "XC": 102569,
+            "C": 83677,
+            "Makefile": 4326,
+            "Objective-C": 2195
+        }
+    },
+    {
+        "name": "lib_agc",
+        "description": "Automatic gain control library",
+        "languages": {
+            "XC": 83237,
+            "Python": 34755,
+            "C": 25547,
+            "CMake": 23849,
+            "Makefile": 144
+        }
+    },
+    {
+        "name": "lib_spdif",
+        "description": "S/PDIF Library",
+        "languages": {
+            "XC": 55834,
+            "Python": 32670,
+            "Java": 8784,
+            "C": 6377,
+            "Makefile": 6130,
+            "Shell": 1855,
+            "CMake": 151
+        }
+    },
+    {
+        "name": "sc_spi",
+        "description": "XMOS SPI Master/Slave Software Component",
+        "languages": {
+            "XC": 22609,
+            "C": 10753,
+            "C++": 523
+        }
+    },
+    {
+        "name": "sc_canopen",
+        "description": "CANOpen protocol stack",
+        "languages": {
+            "XC": 80197,
+            "Objective-C": 57839,
+            "C": 48882,
+            "Python": 20966
+        }
+    },
+    {
+        "name": "sw_foc_motor_control",
+        "description": "XMOS S/W for Field-Oriented-Control of Motors",
+        "languages": {
+            "XC": 668581,
+            "C++": 243156,
+            "C": 47462,
+            "Objective-C": 1697
+        }
+    },
+    {
+        "name": "ssl_on_xmos",
+        "description": "sound source localization on xmos",
+        "languages": {
+            "XC": 19907,
+            "C": 19094,
+            "Makefile": 1250
+        }
+    },
+    {
+        "name": "lib_xud",
+        "description": "XMOS USB code and associated examples",
+        "languages": {
+            "XC": 168225,
+            "Python": 166650,
+            "Assembly": 115863,
+            "C": 109535,
+            "Makefile": 8105,
+            "CMake": 1686
+        }
+    },
+    {
+        "name": "sw_audio_analyzer",
+        "description": "Application for generating and analyzing audio signals",
+        "languages": {
+            "XC": 48568,
+            "C": 14857,
+            "Python": 4061,
+            "Objective-C": 2627,
+            "C++": 829
+        }
+    },
+    {
+        "name": "sc_jtag",
+        "description": "JTAG communication protocols",
+        "languages": {
+            "XC": 100219,
+            "C": 11598,
+            "C++": 450,
+            "Objective-C": 186
+        }
+    },
+    {
+        "name": "xcore_neopixel_buffered",
+        "description": "xCORE Driver for Adafruit NeoPixels",
+        "languages": {
+            "XC": 9130,
+            "C": 1676
+        }
+    },
+    {
+        "name": "sc_dsp_transforms",
+        "description": "DSP domain transformation components: FFT and DCT",
+        "languages": {
+            "XC": 545971,
+            "C": 23708,
+            "Objective-C": 12923,
+            "Assembly": 7406,
+            "Java": 1302,
+            "C++": 1202,
+            "Shell": 317
+        }
+    },
+    {
+        "name": "WOTTankRanges",
+        "description": "A mod that extends World of Tanks to calculate and save the tank's view range to a file to be loaded by XVM",
+        "languages": {
+            "XC": 87781,
+            "Python": 24826
+        }
+    },
+    {
+        "name": "doc_tips_and_tricks",
+        "description": null,
+        "languages": {
+            "XC": 3683
+        }
+    },
+    {
+        "name": "SeisSplit.jl",
+        "description": "Seismic shear wave splitting analysis in Julia",
+        "languages": {
+            "XC": 126338,
+            "Julia": 46796
+        }
+    },
+    {
+        "name": "sc_can",
+        "description": "CAN Phy/link layer component",
+        "languages": {
+            "XC": 37522,
+            "Assembly": 21943,
+            "C": 13664,
+            "C++": 1863
+        }
+    },
+    {
+        "name": "lib_adat",
+        "description": "Receive and transmit ADAT streams",
+        "languages": {
+            "XC": 92163,
+            "C": 85188,
+            "Makefile": 1189,
+            "CMake": 150
+        }
+    },
+    {
+        "name": "hw_slicekit_system",
+        "description": "Specifications and use models for Open Source Modular Development Hardware for XMOS applications ",
+        "languages": {
+            "XC": 31748,
+            "Perl": 1107,
+            "Shell": 513,
+            "D": 108
+        }
+    },
+    {
+        "name": "xvm_config",
+        "description": null,
+        "languages": {
+            "XC": 486329
+        }
+    },
+    {
+        "name": "lib_one_wire",
+        "description": "An efficient one wire controller server for XMOS xCORE devices",
+        "languages": {
+            "XC": 8672,
+            "C": 1581
+        }
+    },
+    {
+        "name": "sw_avb_lc",
+        "description": "Application firmware for the AVB-LC reference design",
+        "languages": {
+            "XC": 40774,
+            "C": 18844,
+            "Makefile": 7607,
+            "Objective-C": 7312,
+            "C++": 4262
+        }
+    },
+    {
+        "name": "XMOS-Fast-Shutter-Control",
+        "description": "A shutter control device for a scanning transmission electron microscope",
+        "languages": {
+            "XC": 18213,
+            "C": 226
+        }
+    },
+    {
+        "name": "sc_capacitive_sensing",
+        "description": "This is a software component to do capacitive sensing on an XCore",
+        "languages": {
+            "XC": 12277,
+            "C": 4352
+        }
+    },
+    {
+        "name": "lib_ethernet",
+        "description": "Ethernet MAC library",
+        "languages": {
+            "XC": 211180,
+            "Python": 189280,
+            "Assembly": 133966,
+            "C": 114982,
+            "Makefile": 28307
+        }
+    },
+    {
+        "name": "JSONx",
+        "description": "Extended JSON parser for XVM",
+        "languages": {
+            "XC": 239507,
+            "Python": 31253
+        }
+    },
+    {
+        "name": "sc_crypto",
+        "description": "Cryptographic algorithms for the Xcore",
+        "languages": {
+            "XC": 80785,
+            "Assembly": 32300,
+            "C": 12878,
+            "Objective-C": 8249,
+            "Perl": 1145,
+            "C++": 343
+        }
+    },
+    {
+        "name": "xmos-synthesizer",
+        "description": null,
+        "languages": {
+            "XC": 9442,
+            "C": 1423
+        }
+    },
+    {
+        "name": "sc_sncn_ethercat_drive",
+        "description": "Synapticon SOMANET Communication Protocol Layer for Motor Control over EtherCAT. Supports the CiA402 standard",
+        "languages": {
+            "XC": 111609,
+            "C": 21702,
+            "C++": 7616,
+            "Makefile": 367
+        }
+    },
+    {
+        "name": "sw_display_controller",
+        "description": "Demonstration display controller application",
+        "languages": {
+            "XC": 34422,
+            "Objective-C": 11328,
+            "C": 3616,
+            "C++": 2065
+        }
+    },
+    {
+        "name": "lib_spi",
+        "description": "SPI peripheral library",
+        "languages": {
+            "XC": 76943,
+            "Makefile": 42821,
+            "Python": 36098,
+            "C": 17733,
+            "JavaScript": 1643
+        }
+    },
+    {
+        "name": "lib_mic_array_board_support",
+        "description": "Microphone array board support library",
+        "languages": {
+            "XC": 112910,
+            "Makefile": 11994,
+            "C": 7444,
+            "Python": 4189,
+            "Shell": 553
+        }
+    },
+    {
+        "name": "sw_swallow_etherboot",
+        "description": "Ethernet booting of a grid of Swallow boards",
+        "languages": {
+            "XC": 1835,
+            "C++": 210,
+            "C": 127
+        }
+    },
+    {
+        "name": "module_midi_communication",
+        "description": "XMOS Audio Slice midi communication implementation",
+        "languages": {
+            "XC": 4145,
+            "C": 1769,
+            "C++": 267
+        }
+    },
+    {
+        "name": "XAE1000",
+        "description": "XMOS and Raspberry Pi Oscilloscope XAE 1000",
+        "languages": {
+            "XC": 26429,
+            "C": 8882,
+            "JavaScript": 2877
+        }
+    },
+    {
+        "name": "sc_audio_mixer",
+        "description": "Audio mixer component",
+        "languages": {
+            "XC": 10201,
+            "Makefile": 1836,
+            "C": 601,
+            "OpenEdge ABL": 348
+        }
+    },
+    {
+        "name": "xkmixer",
+        "description": "An audio mixer / USB sound card for the XCORE-200 Multichannel Audio Platform",
+        "languages": {
+            "XC": 11525,
+            "C": 1802,
+            "Makefile": 1199
+        }
+    },
+    {
+        "name": "XMOS",
+        "description": "XCORE-200-EXPLORER",
+        "languages": {
+            "XC": 79416,
+            "Makefile": 25870,
+            "C": 23628,
+            "C++": 13451,
+            "MATLAB": 5193,
+            "Python": 4296
+        }
+    },
+    {
+        "name": "lib_otpinfo",
+        "description": "Library for getting information out of OTP",
+        "languages": {
+            "XC": 3393,
+            "C": 1678,
+            "Python": 176
+        }
+    },
+    {
+        "name": "xvm-config",
+        "description": null,
+        "languages": {
+            "XC": 357720
+        }
+    },
+    {
+        "name": "lib_i2c",
+        "description": "I2C peripheral library",
+        "languages": {
+            "XC": 57180,
+            "Python": 43159,
+            "C": 26579,
+            "Makefile": 12975,
+            "JavaScript": 612,
+            "CMake": 167
+        }
+    },
+    {
+        "name": "xcore_neopixel_leds",
+        "description": "xCORE On-the-fly rendering to Adafruit NeoPixel strips",
+        "languages": {
+            "XC": 4100
+        }
+    },
+    {
+        "name": "xvm-default-config",
+        "description": "XVM's default config",
+        "languages": {
+            "XC": 470992
+        }
+    },
+    {
+        "name": "lib_lin",
+        "description": "The XMOS LIN library",
+        "languages": {
+            "XC": 18698,
+            "C": 10653,
+            "Objective-C": 3130
+        }
+    },
+    {
+        "name": "sc_modbus_rtu",
+        "description": "Modbus over serial repository",
+        "languages": {
+            "XC": 38475,
+            "C": 17455
+        }
+    },
+    {
+        "name": "lib_startkit_support",
+        "description": ":warning: OBSOLETE: startKIT support library",
+        "languages": {
+            "XC": 24161,
+            "C": 9363,
+            "Makefile": 375
+        }
+    },
+    {
+        "name": "cellautomatalib",
+        "description": "Cellular Automata Library",
+        "languages": {
+            "XC": 2128590,
+            "Forth": 1095347,
+            "Makefile": 240020,
+            "C": 193324,
+            "Lex": 60943,
+            "C++": 2350
+        }
+    },
+    {
+        "name": "BLDC",
+        "description": "BLDC control with XMOS",
+        "languages": {
+            "XC": 83161,
+            "C": 3632,
+            "MATLAB": 2798,
+            "Objective-C": 2783,
+            "Makefile": 1291,
+            "M": 142
+        }
+    },
+    {
+        "name": "cover",
+        "description": "Solvers for the exact set cover problem and variants",
+        "languages": {
+            "XC": 105779,
+            "C++": 69181,
+            "Python": 17329,
+            "Makefile": 779
+        }
+    },
+    {
+        "name": "SimpleFIFOTest",
+        "description": "XMOS fifo task, with test harness comprising producer and consumer tasks for torture tests.",
+        "languages": {
+            "XC": 7286,
+            "Makefile": 1690
+        }
+    },
+    {
+        "name": "sw_sncn_motorcontrol",
+        "description": "Synapticon SOMANET Motor Control demo application collection for BLDC and Brushed DC drives",
+        "languages": {
+            "XC": 10956,
+            "C": 4793,
+            "Makefile": 4704
+        }
+    },
+    {
+        "name": "Game-of-Life-XC",
+        "description": "This is Conway's Game of Life created in XC, to run concurrently on an XMOS board",
+        "languages": {
+            "XC": 48742,
+            "C": 36455,
+            "Makefile": 1203
+        }
+    },
+    {
+        "name": "sc_i2c",
+        "description": "XMOS",
+        "languages": {
+            "XC": 43351,
+            "C": 20369,
+            "Makefile": 4657
+        }
+    },
+    {
+        "name": "lib_lcd",
+        "description": "LCD library",
+        "languages": {
+            "XC": 23848,
+            "Python": 20265,
+            "C": 5461,
+            "Makefile": 5306,
+            "JavaScript": 916
+        }
+    },
+    {
+        "name": "sc_nbsp",
+        "description": "A generic channel-based communication module implementing NBSP (non-blocking bi-directional small-package protocol).",
+        "languages": {
+            "XC": 26926,
+            "C": 13565,
+            "Makefile": 1423
+        }
+    },
+    {
+        "name": "lib_sdram",
+        "description": "SDRAM library",
+        "languages": {
+            "XC": 44271,
+            "Pawn": 28524,
+            "C": 9611,
+            "Assembly": 9288,
+            "Pascal": 6162,
+            "Makefile": 3735
+        }
+    },
+    {
+        "name": "test_repo",
+        "description": "None",
+        "languages": {
+            "XC": 266
+        }
+    },
+    {
+        "name": "emtracker-rx",
+        "description": "Electromagnetic tracker receiver",
+        "languages": {
+            "XC": 76240,
+            "Objective-C": 6942,
+            "C": 6108,
+            "HTML": 4515,
+            "Makefile": 1038,
+            "C++": 894
+        }
+    },
+    {
+        "name": "sc_gamecube_controller",
+        "description": "Gamecube controller component",
+        "languages": {
+            "XC": 5190,
+            "C": 3442
+        }
+    },
+    {
+        "name": "sw_xk1a_examples",
+        "description": "Simple examples for the XK-1A development board",
+        "languages": {
+            "XC": 4082
+        }
+    },
+    {
+        "name": "app_somanetconnect_slave",
+        "description": "xC slave application for SOMANETconnect",
+        "languages": {
+            "XC": 4270,
+            "Makefile": 1267,
+            "Objective-C": 373,
+            "C++": 161,
+            "C": 130
+        }
+    },
+    {
+        "name": "XC",
+        "description": "XC",
+        "languages": {
+            "XC": 92
+        }
+    },
+    {
+        "name": "XMOS_gigabit_tcp_reflect",
+        "description": "XMOS xCORE-200 eXplorerKIT - Ethernet Gigabit TCP reflect",
+        "languages": {
+            "XC": 7968,
+            "Makefile": 1245,
+            "MATLAB": 1244,
+            "Objective-C": 993,
+            "C": 366
+        }
+    },
+    {
+        "name": "wot",
+        "description": null,
+        "languages": {
+            "XC": 383879,
+            "Python": 27425,
+            "Batchfile": 8235
+        }
+    },
+    {
+        "name": "sw_avb_audio_pll_loopback",
+        "description": "Loopback application to test AVB audio PLL",
+        "languages": {
+            "XC": 13415,
+            "C": 8798,
+            "Objective-C": 1076
+        }
+    },
+    {
+        "name": "SPDIF-ASRC-I2S-BRIDGE",
+        "description": null,
+        "languages": {
+            "XC": 31000,
+            "Makefile": 19165,
+            "C": 2624,
+            "D": 2013,
+            "C++": 1453
+        }
+    },
+    {
+        "name": "sncn_hardware",
+        "description": "Testing software for Synapticon hardware",
+        "languages": {
+            "XC": 448638,
+            "C": 260810,
+            "C++": 105237,
+            "Assembly": 57702,
+            "Scala": 23749,
+            "Objective-C": 13182,
+            "D": 11159,
+            "Shell": 55
+        }
+    },
+    {
+        "name": "RobixCube",
+        "description": "Spring 2014 POE Project",
+        "languages": {
+            "XC": 31658,
+            "C": 8602,
+            "Objective-C": 2546,
+            "Python": 2368,
+            "C++": 697
+        }
+    },
+    {
+        "name": "parallel-computing-cellular-automation",
+        "description": "UoB Project - Parallel computing cellular automation with XC",
+        "languages": {
+            "XC": 94633,
+            "C": 47291,
+            "Python": 20606,
+            "Shell": 2259,
+            "Objective-C": 1400,
+            "Makefile": 1002,
+            "GCC Machine Description": 715
+        }
+    },
+    {
+        "name": "game-of-life",
+        "description": "Concurrent implementation of Conway's Game of Life in XC for the XMOS Explorer kit.",
+        "languages": {
+            "XC": 51748,
+            "C": 36119,
+            "TeX": 18271,
+            "D": 3252,
+            "Makefile": 1931
+        }
+    },
+    {
+        "name": "lib_uart",
+        "description": "UART peripheral library",
+        "languages": {
+            "XC": 83397,
+            "Assembly": 48450,
+            "Python": 43854,
+            "Makefile": 32486,
+            "C": 27060,
+            "JavaScript": 322
+        }
+    },
+    {
+        "name": "sw_pintest",
+        "description": "Application for testing pin connectivity",
+        "languages": {
+            "XC": 15222,
+            "Makefile": 4759,
+            "C": 2632
+        }
+    },
+    {
+        "name": "Game-of-life",
+        "description": "Conway's game of life written in XC that makes use of concurrent programming",
+        "languages": {
+            "XC": 49996,
+            "C": 35610,
+            "Makefile": 7566
+        }
+    },
+    {
+        "name": "aos-wot-mods",
+        "description": "I forked my modpack so branding with AoS logos etc while I was a member of AoS",
+        "languages": {
+            "XC": 574592,
+            "NSIS": 85132,
+            "Shell": 550
+        }
+    },
+    {
+        "name": "COMS20001--Concurrent-Computing",
+        "description": "A (test) unit page for COMS20001 at the University of Bristol.",
+        "languages": {
+            "XC": 4047,
+            "C": 358
+        }
+    },
+    {
+        "name": "CANopenRTnet",
+        "description": "CANopen-over-RTnet XMOS implementation of a DS402 motor driver",
+        "languages": {
+            "XC": 90559,
+            "C": 9845,
+            "C++": 441
+        }
+    },
+    {
+        "name": "XVM-Config---Simple-but-effective",
+        "description": null,
+        "languages": {
+            "XC": 70023
+        }
+    },
+    {
+        "name": "xvm",
+        "description": "XVM files and config",
+        "languages": {
+            "XC": 252935
+        }
+    },
+    {
+        "name": "game-of-life",
+        "description": null,
+        "languages": {
+            "XC": 51883,
+            "C": 36455,
+            "Makefile": 3602
+        }
+    },
+    {
+        "name": "sw_gpio_examples",
+        "description": "Simple GPIO Examples",
+        "languages": {
+            "XC": 41889,
+            "C": 23468,
+            "C++": 334
+        }
+    },
+    {
+        "name": "template-wot-mods",
+        "description": "A no-nonsense, keep it simple World of Tanks mod pack",
+        "languages": {
+            "XC": 871465,
+            "Python": 793728,
+            "PowerShell": 775
+        }
+    },
+    {
+        "name": "bcat-tester",
+        "description": "xmos bcat: embedded RTOS AVB audio device",
+        "languages": {
+            "XC": 54855,
+            "C": 16704,
+            "Makefile": 1618
+        }
+    },
+    {
+        "name": "sw_flash_multiboot_example",
+        "description": "Example code that selects different images on flash boot",
+        "languages": {
+            "XC": 3501
+        }
+    },
+    {
+        "name": "USB_dual_CDC_explorer",
+        "description": "XMOS composite USB device with dual virtual COM ports",
+        "languages": {
+            "XC": 25479,
+            "C": 1517,
+            "Makefile": 1424,
+            "Objective-C": 250
+        }
+    },
+    {
+        "name": "USB_MULTI_CDC",
+        "description": "USB CDC with FIFO",
+        "languages": {
+            "XC": 17053,
+            "Makefile": 1318
+        }
+    },
+    {
+        "name": "lib_mic_array",
+        "description": "XMOS",
+        "languages": {
+            "XC": 162861,
+            "Python": 52158,
+            "Assembly": 51228,
+            "C": 27656,
+            "Makefile": 15992,
+            "Objective-C": 1512,
+            "Ruby": 77,
+            "Perl": 57
+        }
+    },
+    {
+        "name": "sc_sdram_burst",
+        "description": "SDRAM burst driver component",
+        "languages": {
+            "XC": 68549,
+            "Assembly": 19357,
+            "C": 17893,
+            "Objective-C": 11669,
+            "C++": 4761
+        }
+    },
+    {
+        "name": "game-of-life",
+        "description": "cc cw",
+        "languages": {
+            "XC": 14852,
+            "C": 7458,
+            "C++": 556
+        }
+    },
+    {
+        "name": "ImmunoMod",
+        "description": "Mod pack for World of Tanks PC game",
+        "languages": {
+            "XC": 837479,
+            "Python": 743119
+        }
+    },
+    {
+        "name": "sc_sncn_motorctrl_sin",
+        "description": "Implementation of Sinusoidal Motor Control for BLDC drives on SOMANET devices",
+        "languages": {
+            "XC": 237774,
+            "C": 99552,
+            "C++": 57539,
+            "Objective-C": 3757
+        }
+    },
+    {
+        "name": "xmos_virtual_address",
+        "description": "sw emulated segmentation and memory map implementation by virtual address resolver",
+        "languages": {
+            "XC": 42979,
+            "Assembly": 18585,
+            "C": 8674,
+            "Objective-C": 6669,
+            "Pascal": 6162,
+            "SourcePawn": 5228,
+            "Makefile": 1274
+        }
+    },
+    {
+        "name": "xvm-config",
+        "description": "litetex's XVM config \ud83c\udfae",
+        "languages": {
+            "XC": 470377
+        }
+    },
+    {
+        "name": "sc_sncn_motorcontrol",
+        "description": "Synapticon SOMANET Motor Control for BLDC and BDC drives. Features Position, Velocity and Torque Control",
+        "languages": {
+            "XC": 321057,
+            "C": 169753,
+            "C++": 31028,
+            "Makefile": 368
+        }
+    },
+    {
+        "name": "lib_display_controller",
+        "description": "Display controller library",
+        "languages": {
+            "XC": 39282,
+            "C": 5380,
+            "Makefile": 4919,
+            "Python": 3303
+        }
+    },
+    {
+        "name": "fernando-thesis",
+        "description": null,
+        "languages": {
+            "XC": 131972,
+            "C": 84103,
+            "Shell": 7141,
+            "C++": 1790,
+            "Objective-C": 1764
+        }
+    },
+    {
+        "name": "WorldOfTanksMods",
+        "description": "Daniel2682's ModPack",
+        "languages": {
+            "XC": 429238
+        }
+    },
+    {
+        "name": "lib_a_series_support",
+        "description": ":warning: OBSOLETE: A-series support library",
+        "languages": {
+            "XC": 22470,
+            "C": 13028,
+            "Makefile": 902
+        }
+    },
+    {
+        "name": "coop",
+        "description": null,
+        "languages": {
+            "XC": 0
+        }
+    },
+    {
+        "name": "WotMods",
+        "description": "A World of Tanks Modpack",
+        "languages": {
+            "XC": 433035
+        }
+    },
+    {
+        "name": "Encoder-Board-and-Code",
+        "description": "IN02-Encoder Firmware - XMOS",
+        "languages": {
+            "XC": 25219,
+            "Makefile": 1731
+        }
+    },
+    {
+        "name": "xvm",
+        "description": "My XVM config",
+        "languages": {
+            "XC": 426306
+        }
+    },
+    {
+        "name": "res_mods",
+        "description": "WOT mods",
+        "languages": {
+            "XC": 156509
+        }
+    },
+    {
+        "name": "Game-of-Life---xCore-200-Explorer-Kit-Cellular-Automaton-Farm",
+        "description": "Game of Life -  xCore-200 Explorer Kit: Cellular Automaton Farm",
+        "languages": {
+            "XC": 54623,
+            "C": 36474,
+            "Makefile": 1249
+        }
+    },
+    {
+        "name": "GameOfLife",
+        "description": null,
+        "languages": {
+            "XC": 39856,
+            "C": 36455,
+            "Makefile": 1203
+        }
+    },
+    {
+        "name": "game-of-life",
+        "description": null,
+        "languages": {
+            "XC": 248390,
+            "C": 35783,
+            "Makefile": 5758
+        }
+    },
+    {
+        "name": "xvm",
+        "description": null,
+        "languages": {
+            "XC": 431509,
+            "Python": 8550
+        }
+    },
+    {
+        "name": "xvm-config",
+        "description": null,
+        "languages": {
+            "XC": 436916
+        }
+    },
+    {
+        "name": "BOOK-QC.V1",
+        "description": "Quantum Phenomena Modeling in Parallel Executive Environment",
+        "languages": {
+            "XC": 14610488,
+            "Makefile": 6758
+        }
+    },
+    {
+        "name": "module_somanet_connect",
+        "description": null,
+        "languages": {
+            "XC": 2413,
+            "C": 979,
+            "Objective-C": 197
+        }
+    },
+    {
+        "name": "xmos_midi1",
+        "description": "xmos MIDI port first implementation",
+        "languages": {
+            "XC": 7960,
+            "C": 4056,
+            "Makefile": 1171
+        }
+    },
+    {
+        "name": "sw_services_example",
+        "description": null,
+        "languages": {
+            "XC": 1571
+        }
+    },
+    {
+        "name": "app_flash_util",
+        "description": "An interactive utility for startKit flash images",
+        "languages": {
+            "XC": 10455,
+            "C": 7998,
+            "D": 285
+        }
+    },
+    {
+        "name": "wot_mods",
+        "description": "Mods repository of World of Tanks, 0.8.8, SEA",
+        "languages": {
+            "XC": 1168860
+        }
+    },
+    {
+        "name": "xc",
+        "description": "Some samples of concurrent code written in the XC concurrent programming language for the XMOS XC-1A",
+        "languages": {
+            "XC": 82823,
+            "C": 4072,
+            "Batchfile": 294
+        }
+    },
+    {
+        "name": "COMS20001",
+        "description": "Concurrent Computing Rep.",
+        "languages": {
+            "XC": 17100,
+            "Makefile": 1167
+        }
+    },
+    {
+        "name": "DefenderAnts",
+        "description": "Ant game implemented with concurrency on clock-face LEDs on the XMOS XC-1A board",
+        "languages": {
+            "XC": 18039
+        }
+    },
+    {
+        "name": "XC-Concurrent-Programming",
+        "description": "Concurrent programs written in Xc",
+        "languages": {
+            "XC": 65021,
+            "C": 35619,
+            "Makefile": 7326,
+            "C++": 9
+        }
+    },
+    {
+        "name": "Embedded-Systems",
+        "description": "Repository containing the code base for my unmanned vehicle project",
+        "languages": {
+            "XC": 315233,
+            "C": 105552,
+            "Makefile": 28355,
+            "C++": 3
+        }
+    },
+    {
+        "name": "ConcurrentComputingLabwork",
+        "description": null,
+        "languages": {
+            "XC": 102644,
+            "C": 71220,
+            "Makefile": 1203
+        }
+    },
+    {
+        "name": "Ant-defender-game",
+        "description": "Repository for the coursework in the module Concurrent Computing (University of Bristol, 2018)",
+        "languages": {
+            "XC": 17417,
+            "C": 8470,
+            "Makefile": 1161
+        }
+    },
+    {
+        "name": "Concurrent-Computing",
+        "description": null,
+        "languages": {
+            "XC": 38427,
+            "C": 36455,
+            "Makefile": 1203
+        }
+    },
+    {
+        "name": "xvm_config",
+        "description": "Custom xvm config",
+        "languages": {
+            "XC": 223358
+        }
+    },
+    {
+        "name": "Controls-Staging",
+        "description": "This repo contains XMOS code for working with individual components",
+        "languages": {
+            "XC": 6315,
+            "Makefile": 2372,
+            "C++": 689,
+            "D": 331
+        }
+    },
+    {
+        "name": "xvm",
+        "description": "My XVM config",
+        "languages": {
+            "XC": 498444
+        }
+    },
+    {
+        "name": "woe2you-xvm",
+        "description": "woe2you's XVM config",
+        "languages": {
+            "XC": 207397
+        }
+    },
+    {
+        "name": "xmos-irda",
+        "description": null,
+        "languages": {
+            "XC": 100135,
+            "C": 64050,
+            "Makefile": 1203
+        }
+    },
+    {
+        "name": "wot-xvm-default-configs",
+        "description": "wot-xvm-default-configs",
+        "languages": {
+            "XC": 183551
+        }
+    },
+    {
+        "name": "app_somanetconnect_motor_control_old",
+        "description": null,
+        "languages": {
+            "XC": 4801,
+            "Makefile": 1334,
+            "C": 526,
+            "C++": 310
+        }
+    },
+    {
+        "name": "robot_master",
+        "description": "Master Controller (xk-1a) for 2014 CRC Robot",
+        "languages": {
+            "XC": 71522,
+            "C": 17524,
+            "C++": 7423,
+            "D": 1212
+        }
+    },
+    {
+        "name": "xcore_seven_seg",
+        "description": "xCORE Driver for Serial 7 Segment Display",
+        "languages": {
+            "XC": 7312,
+            "Objective-C": 1348
+        }
+    },
+    {
+        "name": "COMS20600",
+        "description": "COMS20600 Concurrency",
+        "languages": {
+            "XC": 54419,
+            "C": 4262,
+            "D": 591
+        }
+    },
+    {
+        "name": "Xvm_Wotangel",
+        "description": "WorkSpace",
+        "languages": {
+            "XC": 184031
+        }
+    },
+    {
+        "name": "XMOS",
+        "description": "files for xmos multichannel audio platform for the Virgil System",
+        "languages": {
+            "XC": 140122,
+            "C": 78164,
+            "Makefile": 3973,
+            "Python": 2110
+        }
+    },
+    {
+        "name": "buttons_motors_i2c",
+        "description": null,
+        "languages": {
+            "XC": 66415,
+            "C": 4297,
+            "C++": 3588,
+            "Makefile": 1516
+        }
+    },
+    {
+        "name": "app_multi-axis-motion-ethercat-dx",
+        "description": "SOMANET Multi-axis Motion Control Demo with EtherCAT and DX",
+        "languages": {
+            "XC": 15684,
+            "SourcePawn": 12078,
+            "Makefile": 529
+        }
+    },
+    {
+        "name": "app_etherxtag",
+        "description": "Experimental application to program xCORE devices over a network connection",
+        "languages": {
+            "XC": 48103,
+            "Assembly": 13415,
+            "C": 11942,
+            "Makefile": 1483,
+            "Python": 54
+        }
+    },
+    {
+        "name": "WoTConfig",
+        "description": null,
+        "languages": {
+            "XC": 234783,
+            "Python": 162411,
+            "Shell": 2150
+        }
+    },
+    {
+        "name": "Game-O-Life",
+        "description": null,
+        "languages": {
+            "XC": 48109,
+            "C": 5656,
+            "Makefile": 1263
+        }
+    },
+    {
+        "name": "concurrency-Game-of-Life",
+        "description": "multiwork Game of Life in XC",
+        "languages": {
+            "XC": 16206,
+            "C": 4435,
+            "Makefile": 3916
+        }
+    },
+    {
+        "name": "XMOS_startKIT",
+        "description": "Contains programs implemented on the XMOS startKIT development board",
+        "languages": {
+            "XC": 1542
+        }
+    },
+    {
+        "name": "sw_swallow_v13_example",
+        "description": "Swallow program example for XMOS v13+ tools",
+        "languages": {
+            "XC": 1448
+        }
+    },
+    {
+        "name": "Blur",
+        "description": "Blur",
+        "languages": {
+            "XC": 13418,
+            "C": 4262,
+            "D": 310
+        }
+    },
+    {
+        "name": "sc_flash_db",
+        "description": null,
+        "languages": {
+            "XC": 15911,
+            "C": 2766
+        }
+    },
+    {
+        "name": "app_ethernet_motorcontrol",
+        "description": "Let you control a motor connected to your SOMANET over Ethernet",
+        "languages": {
+            "XC": 211111,
+            "C": 200469,
+            "Assembly": 48082,
+            "C++": 32112,
+            "Lua": 10082,
+            "SourcePawn": 10056,
+            "Python": 7083,
+            "Makefile": 2135,
+            "Objective-C": 2093
+        }
+    },
+    {
+        "name": "EtherCeptor",
+        "description": "A low-level 100BASE-TX ethernet networking research tool",
+        "languages": {
+            "XC": 427681,
+            "C": 158904,
+            "Python": 150923,
+            "Assembly": 49757,
+            "Makefile": 38968,
+            "C++": 6916,
+            "Objective-C": 6784
+        }
+    },
+    {
+        "name": "Concurrent-Computing",
+        "description": null,
+        "languages": {
+            "XC": 115283,
+            "C": 36458,
+            "Makefile": 5858,
+            "C++": 3
+        }
+    },
+    {
+        "name": "EmbeddedSystem",
+        "description": null,
+        "languages": {
+            "XC": 400378,
+            "C": 155131,
+            "Makefile": 23141
+        }
+    },
+    {
+        "name": "lib_infrared",
+        "description": "Infrared library",
+        "languages": {
+            "XC": 7630,
+            "C": 951,
+            "Makefile": 188
+        }
+    },
+    {
+        "name": "openPnp1v1",
+        "description": "Code for XMOS xCORE-200 eXplorerKIT as a controller to openPnP",
+        "languages": {
+            "XC": 89717,
+            "C": 9090,
+            "MATLAB": 3852,
+            "Makefile": 1274,
+            "Objective-C": 908,
+            "C++": 349
+        }
+    },
+    {
+        "name": "GameOfLife",
+        "description": "A parallelised program that simulates Conway\u2019s Game of Life. It is designed to run on an xCore-200 multicore processor and is written in xC.",
+        "languages": {
+            "XC": 50706,
+            "C": 35613,
+            "Makefile": 3571,
+            "C++": 3
+        }
+    },
+    {
+        "name": "gmright2.leaning",
+        "description": "Welcome to gmright2 couse repostory start to lean more here by following all the step",
+        "languages": {
+            "XC": 2203,
+            "Logos": 897
+        }
+    },
+    {
+        "name": "XvmConfig",
+        "description": "The configuration repository for my XVM config for World Of Tanks",
+        "languages": {
+            "XC": 1056617
+        }
+    },
+    {
+        "name": "lxvm",
+        "description": "LeanXVM",
+        "languages": {
+            "XC": 625302,
+            "Ruby": 14568
+        }
+    },
+    {
+        "name": "AntDefenderGame",
+        "description": null,
+        "languages": {
+            "XC": 8463,
+            "Makefile": 1164
+        }
+    },
+    {
+        "name": "OSW_Essentials",
+        "description": "Some essential WoT mods for clan OSW",
+        "languages": {
+            "XC": 818939,
+            "Python": 35078
+        }
+    },
+    {
+        "name": "res_mods",
+        "description": null,
+        "languages": {
+            "XC": 859906
+        }
+    },
+    {
+        "name": "sc_a_series_support",
+        "description": "Support libraries for the xCORE-Analog devices",
+        "languages": {
+            "XC": 39620,
+            "C": 14968,
+            "Python": 4906,
+            "C++": 1668,
+            "Objective-C": 1599
+        }
+    },
+    {
+        "name": "XC-Game-Of-Life",
+        "description": "Game of Life built concurrently in XC",
+        "languages": {
+            "XC": 50032,
+            "C": 36455,
+            "Makefile": 1203
+        }
+    },
+    {
+        "name": "Mimir",
+        "description": "Personal World of Tanks Mod Packages",
+        "languages": {
+            "XC": 1445365,
+            "Python": 893214,
+            "PowerShell": 31600
+        }
+    },
+    {
+        "name": "COMS20001-game-of-life",
+        "description": "Concurrent implementation of Conway's Game of Life",
+        "languages": {
+            "XC": 74801,
+            "C": 45152,
+            "Makefile": 17635
+        }
+    },
+    {
+        "name": "res_mods__configs",
+        "description": "My WoT res_mods/configs -folder (based on QB's modpack + JustForLolzFYI's icon as the 6th sense icon)",
+        "languages": {
+            "XC": 513606,
+            "Python": 162235,
+            "PowerShell": 4919
+        }
+    },
+    {
+        "name": "xvm_for_wot",
+        "description": "Hi. This is the repository for the current XVM mod versions and my custom configurations. The mod is made for \"World Of Tanks\".",
+        "languages": {
+            "XC": 966247,
+            "Python": 949659
+        }
+    },
+    {
+        "name": "GameOfLife",
+        "description": "My teammate and I designed and implemented a concurrent multi-threaded program which simulates British mathematician John Horton Conway's cellular automaton game named \u2018The Game of Life\u2019,on XMOS's xCore-200 Explorer board. The game was developed in a XC, a parallel programming language.",
+        "languages": {
+            "XC": 44190,
+            "C": 36455,
+            "Makefile": 1203
+        }
+    },
+    {
+        "name": "XvmDependencies",
+        "description": null,
+        "languages": {
+            "XC": 366267,
+            "Python": 313715,
+            "Batchfile": 10989
+        }
+    },
+    {
+        "name": "xmos",
+        "description": null,
+        "languages": {
+            "XC": 13834,
+            "Makefile": 9196,
+            "C": 4537,
+            "Shell": 372
+        }
+    },
+    {
+        "name": "inferno-binutils-x86_64",
+        "description": null,
+        "languages": {
+            "XC": 3871429,
+            "XS": 3210675,
+            "C": 766942,
+            "C++": 28260
+        }
+    },
+    {
+        "name": "sc_sncn_ethercat_drive",
+        "description": "Synapticon SOMANET Communication Protocol Layer for Motor Control over EtherCAT. Supports the CiA402 standard",
+        "languages": {
+            "XC": 115762,
+            "C++": 17794,
+            "C": 12516,
+            "Makefile": 367
+        }
+    },
+    {
+        "name": "sw_dev_proj",
+        "description": "Repo of various coding projects",
+        "languages": {
+            "XC": 53445,
+            "C": 8273,
+            "Python": 6149,
+            "Makefile": 906
+        }
+    },
+    {
+        "name": "xcore_keypad",
+        "description": "xCORE keypad matrix driver module",
+        "languages": {
+            "XC": 4927,
+            "C": 878
+        }
+    },
+    {
+        "name": "concurrent_gol",
+        "description": "Game of life running concurrently on an XMOS board.",
+        "languages": {
+            "XC": 51184,
+            "C": 43280,
+            "Objective-C": 1813,
+            "Makefile": 1206,
+            "C++": 1036
+        }
+    },
+    {
+        "name": "apps_mfg_test_mixed_signal_slice",
+        "description": "Manufacturing Test code for mixed signal slice on A16 ",
+        "languages": {
+            "XC": 33644,
+            "C": 15628,
+            "C++": 8445
+        }
+    },
+    {
+        "name": "XVM-Minimalist-Configuration",
+        "description": "A minimalist XVM configuration file (World of Tanks XVM Mod)",
+        "languages": {
+            "XC": 12631
+        }
+    },
+    {
+        "name": "lib_spi_fast",
+        "description": "Faster SPI library",
+        "languages": {
+            "XC": 4689,
+            "C": 1407,
+            "Makefile": 1165
+        }
+    },
+    {
+        "name": "Concurrent-Computing",
+        "description": null,
+        "languages": {
+            "XC": 111018
+        }
+    },
+    {
+        "name": "antgame",
+        "description": null,
+        "languages": {
+            "XC": 10222,
+            "Makefile": 1165
+        }
+    },
+    {
+        "name": "Conway",
+        "description": null,
+        "languages": {
+            "XC": 46623,
+            "C": 35610,
+            "TeX": 19173,
+            "Makefile": 1203,
+            "Python": 1121
+        }
+    },
+    {
+        "name": "sc_adat",
+        "description": "XMOS",
+        "languages": {
+            "XC": 102569,
+            "C": 83677,
+            "Makefile": 4326,
+            "Objective-C": 2195
+        }
+    },
+    {
+        "name": "blog-data",
+        "description": null,
+        "languages": {
+            "XC": 101837,
+            "CSS": 8800,
+            "Batchfile": 65
+        }
+    },
+    {
+        "name": "xvm-config",
+        "description": null,
+        "languages": {
+            "XC": 365508
+        }
+    },
+    {
+        "name": "mic_array_project",
+        "description": null,
+        "languages": {
+            "XC": 6861,
+            "Python": 2772,
+            "Makefile": 1355,
+            "C": 77
+        }
+    },
+    {
+        "name": "xmos-zdz",
+        "description": "Spark protection device for electrical substations. XMOS multicore processor, xC language and GOOSE/GSE (IEC 61850) protocol",
+        "languages": {
+            "XC": 125591,
+            "C": 36784,
+            "Assembly": 6127,
+            "Makefile": 1282
+        }
+    },
+    {
+        "name": "POSTagging",
+        "description": "Part Of Speech Tagger. Implemented Vertibri Algorithm along with smoothing",
+        "languages": {
+            "XC": 192780,
+            "Java": 55618,
+            "Makefile": 48
+        }
+    },
+    {
+        "name": "xvm",
+        "description": "xvm config",
+        "languages": {
+            "XC": 281458
+        }
+    },
+    {
+        "name": "xvm-config",
+        "description": null,
+        "languages": {
+            "XC": 351795
+        }
+    },
+    {
+        "name": "game_of_life",
+        "description": null,
+        "languages": {
+            "XC": 47040,
+            "C": 35610,
+            "Makefile": 5742,
+            "D": 1076,
+            "Java": 950
+        }
+    },
+    {
+        "name": "AD7265_preprocess",
+        "description": "AD7265 sampling, data pre-processing",
+        "languages": {
+            "XC": 10068
+        }
+    },
+    {
+        "name": "XvmConfig",
+        "description": null,
+        "languages": {
+            "XC": 192268
+        }
+    },
+    {
+        "name": "xvm_config",
+        "description": null,
+        "languages": {
+            "XC": 87787
+        }
+    },
+    {
+        "name": "sw_access_control",
+        "description": null,
+        "languages": {
+            "XC": 12008,
+            "C": 5135,
+            "Objective-C": 515,
+            "C++": 264
+        }
+    },
+    {
+        "name": "wot_mods",
+        "description": "World of Tanks mod compilation",
+        "languages": {
+            "XC": 1238859,
+            "JavaScript": 47
+        }
+    },
+    {
+        "name": "Game_Of_Life_XC",
+        "description": null,
+        "languages": {
+            "XC": 104953,
+            "C": 72913,
+            "Makefile": 4843,
+            "C++": 3
+        }
+    },
+    {
+        "name": "XC-GameOfLife",
+        "description": "XC code to iterate over the game of life for a XMOS board",
+        "languages": {
+            "XC": 218180,
+            "C": 36455,
+            "Makefile": 1221
+        }
     }
 ]

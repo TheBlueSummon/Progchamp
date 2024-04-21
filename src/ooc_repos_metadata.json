@@ -43,5 +43,1409 @@
             "ooc": 42825,
             "Shell": 118
         }
+    },
+    {
+        "name": "ooc-gtk",
+        "description": "GTK2 bindings for ooc",
+        "languages": {
+            "ooc": 20250
+        }
+    },
+    {
+        "name": "sam",
+        "description": ":package: sam keeps your ooc repos up-to-date",
+        "languages": {
+            "ooc": 37238
+        }
+    },
+    {
+        "name": "mustang",
+        "description": "A template engine for the ooc programming language. Inspired by Mustache and CTemplates.",
+        "languages": {
+            "ooc": 18781
+        }
+    },
+    {
+        "name": "ooc-web",
+        "description": "A web application and server specification for ooc",
+        "languages": {
+            "ooc": 11912
+        }
+    },
+    {
+        "name": "yajit",
+        "description": "A small JIT-compiler written in ooc, for ooc (providing closures and partials)",
+        "languages": {
+            "ooc": 9718
+        }
+    },
+    {
+        "name": "inception-engine",
+        "description": "flexible game engine in ooc, with an ingame console to adjust everything in realtime",
+        "languages": {
+            "ooc": 107072
+        }
+    },
+    {
+        "name": "llamacore",
+        "description": "ooc development kit - collections, text manipulation, math, crypto, os - all nice and portable",
+        "languages": {
+            "ooc": 175502
+        }
+    },
+    {
+        "name": "ooc-cairo",
+        "description": "Libcairo bindings for ooc",
+        "languages": {
+            "ooc": 4400
+        }
+    },
+    {
+        "name": "ooc-yajl",
+        "description": "yajl binding for ooc",
+        "languages": {
+            "ooc": 14697
+        }
+    },
+    {
+        "name": "ooc-glew",
+        "description": "GLEW (OpenGL) bindings for the ooc programming language",
+        "languages": {
+            "ooc": 289076,
+            "Ruby": 5786
+        }
+    },
+    {
+        "name": "fallacious",
+        "description": "Torrent client daemon + user-friendly web application to facilitate content search, download and streaming",
+        "languages": {
+            "ooc": 4986,
+            "Shell": 153
+        }
+    },
+    {
+        "name": "reincarnate",
+        "description": "package management for ooc",
+        "languages": {
+            "ooc": 68177
+        }
+    },
+    {
+        "name": "ooc-lua",
+        "description": "lua binding for ooc",
+        "languages": {
+            "ooc": 34651,
+            "Lua": 18589
+        }
+    },
+    {
+        "name": "scissors",
+        "description": "Running ooc with scissors",
+        "languages": {
+            "ooc": 13061,
+            "Shell": 182
+        }
+    },
+    {
+        "name": "Stirling3d",
+        "description": "Graphical and Physical engine written in ooc 0.3",
+        "languages": {
+            "ooc": 75153,
+            "C": 10806
+        }
+    },
+    {
+        "name": "ooc-llvm",
+        "description": "ooc bindings for LLVM",
+        "languages": {
+            "ooc": 26524
+        }
+    },
+    {
+        "name": "ooc-zeromq",
+        "description": "\u00d8MQ bindings for ooc",
+        "languages": {
+            "ooc": 5966
+        }
+    },
+    {
+        "name": "optparse",
+        "description": "command line option parsing for ooc",
+        "languages": {
+            "ooc": 7944
+        }
+    },
+    {
+        "name": "bootcamp",
+        "description": "ooc compatibility kit - test suite and tools to verify the compliance of an ooc implementation",
+        "languages": {
+            "ooc": 167185,
+            "Shell": 1941,
+            "C": 556
+        }
+    },
+    {
+        "name": "ooc-kean",
+        "description": "ooc port of parts of Kean.",
+        "languages": {
+            "ooc": 1347845,
+            "C": 271544,
+            "GLSL": 10379,
+            "Shell": 2698
+        }
+    },
+    {
+        "name": "vamos",
+        "description": "Component-based 2D game engine written in ooc/sdl2",
+        "languages": {
+            "ooc": 64737
+        }
+    },
+    {
+        "name": "ooc-coroutine",
+        "description": "Coroutines for ooc! using Steve Dekorte's libcoroutine",
+        "languages": {
+            "ooc": 1122
+        }
+    },
+    {
+        "name": "ooch",
+        "description": "ooc httpd",
+        "languages": {
+            "ooc": 483
+        }
+    },
+    {
+        "name": "woot",
+        "description": "unit testing system written in ooc (candidate for the ooc compiler test suite)",
+        "languages": {
+            "ooc": 7571
+        }
+    },
+    {
+        "name": "ooc-uriparser",
+        "description": "URI parser written in ooc",
+        "languages": {
+            "ooc": 7254
+        }
+    },
+    {
+        "name": "ooczmq",
+        "description": "A czmq wrapper for ooc, allowing \u00d8MQ 2.0 and 3.0 compatibility",
+        "languages": {
+            "ooc": 12835
+        }
+    },
+    {
+        "name": "ooc-ruby",
+        "description": "Inline Ruby in ooc",
+        "languages": {
+            "ooc": 16517
+        }
+    },
+    {
+        "name": "slights",
+        "description": "HTTP server written in ooc",
+        "languages": {
+            "ooc": 12355
+        }
+    },
+    {
+        "name": "decadence",
+        "description": "And thus, all llamaistas went their own ways, creating their own languages, leaving the mothership which they loved and lived for.",
+        "languages": {
+            "ooc": 14088
+        }
+    },
+    {
+        "name": "idev2",
+        "description": "attempt to make an ide in ooc for ooc from scratch",
+        "languages": {
+            "ooc": 25675,
+            "C": 9391
+        }
+    },
+    {
+        "name": "bleep",
+        "description": "Sound library for ooc",
+        "languages": {
+            "ooc": 4372
+        }
+    },
+    {
+        "name": "lixp",
+        "description": "Some kind of Lisp in ooc",
+        "languages": {
+            "ooc": 31002
+        }
+    },
+    {
+        "name": "ooc-curl",
+        "description": "CURL bindings for ooc",
+        "languages": {
+            "ooc": 16016
+        }
+    },
+    {
+        "name": "alone",
+        "description": "A Ludum Dare #22 entry in ooc",
+        "languages": {
+            "ooc": 85878,
+            "Shell": 2238
+        }
+    },
+    {
+        "name": "danooc",
+        "description": "A simple and fast directory analyzer. Gives absolute and percentage memory statistics!",
+        "languages": {
+            "ooc": 4838
+        }
+    },
+    {
+        "name": "ooc-mongodb",
+        "description": "wire-level mongodb driver",
+        "languages": {
+            "ooc": 30927
+        }
+    },
+    {
+        "name": "oocket",
+        "description": "ooc socket library (for linux)",
+        "languages": {
+            "ooc": 4633
+        }
+    },
+    {
+        "name": "ooci",
+        "description": "experimental ooc repl",
+        "languages": {
+            "ooc": 1892
+        }
+    },
+    {
+        "name": "gifnooc",
+        "description": "coonfig for ooc",
+        "languages": {
+            "ooc": 11101
+        }
+    },
+    {
+        "name": "ooc-bdd",
+        "description": "Pretend you're a Rubyist with BDD for ooc",
+        "languages": {
+            "ooc": 3429
+        }
+    },
+    {
+        "name": "ooc-uriparser",
+        "description": "ooc binding to the uriparser library",
+        "languages": {
+            "ooc": 5385
+        }
+    },
+    {
+        "name": "ooc-cairo",
+        "description": "cairo binding for ooc",
+        "languages": {
+            "ooc": 23658
+        }
+    },
+    {
+        "name": "ooc-yaml",
+        "description": "YAML parsing and emitting for the ooc language. Powered by LibYAML.",
+        "languages": {
+            "ooc": 8903
+        }
+    },
+    {
+        "name": "OneGameAMonth_Feb",
+        "description": "1GAM February project",
+        "languages": {
+            "ooc": 24322
+        }
+    },
+    {
+        "name": "ooc-sqlite3",
+        "description": "sqlite3 bindings for ooc",
+        "languages": {
+            "ooc": 6649
+        }
+    },
+    {
+        "name": "oocini",
+        "description": "Binding to iniparser (http://ndevilla.free.fr/iniparser/) for ooc (will be rewritten in pure ooc though)",
+        "languages": {
+            "ooc": 7236
+        }
+    },
+    {
+        "name": "alarmoo",
+        "description": "A cool alarm clock written in ooc, which launches mplayer with your favorite music on a given hour",
+        "languages": {
+            "ooc": 1126
+        }
+    },
+    {
+        "name": "proof",
+        "description": "An unit testing framework for the ooc programming language",
+        "languages": {
+            "ooc": 2901
+        }
+    },
+    {
+        "name": "johnqadamant",
+        "description": "The 10 seconds to John Q in the 1824 election are back - and they're pissed.",
+        "languages": {
+            "ooc": 34159
+        }
+    },
+    {
+        "name": "herge",
+        "description": "A parser generator",
+        "languages": {
+            "ooc": 18541
+        }
+    },
+    {
+        "name": "sparrow",
+        "description": "Multiplatform GUI framework written entirely in ooc.",
+        "languages": {
+            "ooc": 12479
+        }
+    },
+    {
+        "name": "ooc-sdl",
+        "description": "SDL bindings for ooc",
+        "languages": {
+            "ooc": 38873
+        }
+    },
+    {
+        "name": "gooc-gen",
+        "description": "ooc binding generator based on the ooc GObject-Introspection binding, ooc-gi",
+        "languages": {
+            "ooc": 40232
+        }
+    },
+    {
+        "name": "ooc-lua",
+        "description": null,
+        "languages": {
+            "ooc": 129464
+        }
+    },
+    {
+        "name": "ooc-gdk",
+        "description": "GDK bindings for ooc",
+        "languages": {
+            "ooc": 1109
+        }
+    },
+    {
+        "name": "ooc-httpd",
+        "description": "Basic ooc HTTPd with app support and an example FileServer",
+        "languages": {
+            "ooc": 17743
+        }
+    },
+    {
+        "name": "sdk",
+        "description": ":rotating_light: DEPRECATED :rotating_light: An SDK written from scratch? Possibly?",
+        "languages": {
+            "ooc": 2955
+        }
+    },
+    {
+        "name": "deadlogger",
+        "description": "dead (-simple) logging for ooc",
+        "languages": {
+            "ooc": 7790,
+            "Python": 6304,
+            "Shell": 3083
+        }
+    },
+    {
+        "name": "ooc-uv",
+        "description": "ooc bindings for libuv",
+        "languages": {
+            "ooc": 7109
+        }
+    },
+    {
+        "name": "SNU_2D_ProgrammingTools_IDE_Ooc",
+        "description": "The Ooc Programming language IDE submodule for SNU Programming Tools.",
+        "languages": {
+            "ooc": 212618,
+            "Roff": 3456
+        }
+    },
+    {
+        "name": "dangerzone",
+        "description": "A reddit super fill up clone!",
+        "languages": {
+            "ooc": 31025
+        }
+    },
+    {
+        "name": "ooc-wmlscript",
+        "description": "a WMLScript Interpreter in ooc",
+        "languages": {
+            "ooc": 82349,
+            "Turing": 67187,
+            "Perl": 2434
+        }
+    },
+    {
+        "name": "matrix",
+        "description": "gauss and such algorithms on matrices..",
+        "languages": {
+            "ooc": 2971
+        }
+    },
+    {
+        "name": "ooc-brick",
+        "description": "ooc bindings for the brick engine",
+        "languages": {
+            "ooc": 38540,
+            "Python": 142
+        }
+    },
+    {
+        "name": "OOCms",
+        "description": "OOCms is a fully customizable CMS (Content Managment System) written in native ooc, using OOCsv and OOCgi",
+        "languages": {}
+    },
+    {
+        "name": "nuit-ooc",
+        "description": "NUI Toolkit (NUIT for short, pronounced [nut] as in \"newt\").  A graphics-library-agnostic UI module for the ooc programming language. (Migrated to https://git.sr.ht/~nilium/nuit-ooc)",
+        "languages": {
+            "ooc": 116046
+        }
+    },
+    {
+        "name": "magic-chess",
+        "description": "Open-source chess engine written in magic/ooc",
+        "languages": {
+            "ooc": 27709,
+            "Shell": 113
+        }
+    },
+    {
+        "name": "spry",
+        "description": "a spry little IRC library",
+        "languages": {
+            "ooc": 11111
+        }
+    },
+    {
+        "name": "yoTredwoPehT",
+        "description": "coo ni ekamer yoT redwoP ehT",
+        "languages": {
+            "ooc": 1592
+        }
+    },
+    {
+        "name": "plumber",
+        "description": "A simple pipes puzzle game",
+        "languages": {
+            "ooc": 13807
+        }
+    },
+    {
+        "name": "hiworld",
+        "description": "An experiment",
+        "languages": {
+            "ooc": 25
+        }
+    },
+    {
+        "name": "ooc-ircd",
+        "description": "pure ooc irc server",
+        "languages": {
+            "ooc": 10600
+        }
+    },
+    {
+        "name": "spooc",
+        "description": "Context/Specification-style unit testing for ooc",
+        "languages": {
+            "ooc": 18898
+        }
+    },
+    {
+        "name": "ultipoly",
+        "description": "7DRTS entry (MiniLD #44) - real-time monopoly on steroids",
+        "languages": {
+            "ooc": 14177
+        }
+    },
+    {
+        "name": "endorse",
+        "description": "A few extension to make ooc friendlier for web development",
+        "languages": {
+            "ooc": 712
+        }
+    },
+    {
+        "name": "clooc",
+        "description": "Commandline/Optionparser framework for ooc",
+        "languages": {
+            "ooc": 7847
+        }
+    },
+    {
+        "name": "oocarray",
+        "description": "ooc arrays tests",
+        "languages": {
+            "ooc": 4533
+        }
+    },
+    {
+        "name": "boulvouzoun",
+        "description": "Yet another neural disaster",
+        "languages": {
+            "ooc": 3457
+        }
+    },
+    {
+        "name": "ooc-sfml",
+        "description": "ooc binding to SFML",
+        "languages": {
+            "ooc": 32882
+        }
+    },
+    {
+        "name": "curiosity",
+        "description": "An ambient exploration adventure.",
+        "languages": {
+            "ooc": 22406
+        }
+    },
+    {
+        "name": "ooc-event",
+        "description": "ooc wrapper for libevent",
+        "languages": {
+            "ooc": 1781
+        }
+    },
+    {
+        "name": "oocbot",
+        "description": "Tiny IRC bot written in ooc",
+        "languages": {
+            "ooc": 927
+        }
+    },
+    {
+        "name": "dye",
+        "description": "A graphics library for ooc",
+        "languages": {
+            "ooc": 125336,
+            "GLSL": 1021
+        }
+    },
+    {
+        "name": "Learn-Ooc",
+        "description": "A repository for showcasing my knowledge of the Ooc programming language, and continuing to learn the language.",
+        "languages": {
+            "ooc": 213180
+        }
+    },
+    {
+        "name": "ooc-sdl",
+        "description": "SDL 1.2  bindings for ooc 0.3+",
+        "languages": {
+            "ooc": 16270
+        }
+    },
+    {
+        "name": "ooc-uuid",
+        "description": "do uuids in ooc",
+        "languages": {
+            "ooc": 1198
+        }
+    },
+    {
+        "name": "oocircd",
+        "description": "IRCd attempt in ooc",
+        "languages": {
+            "ooc": 2132
+        }
+    },
+    {
+        "name": "ooc-lacewing",
+        "description": "ooc bindings for lacewing, a cross-platform networking I/O library",
+        "languages": {
+            "ooc": 23997
+        }
+    },
+    {
+        "name": "ooc-redis",
+        "description": "OOC Redis API",
+        "languages": {
+            "ooc": 15438
+        }
+    },
+    {
+        "name": "onig-ooc",
+        "description": "ooc bindings for the Oniguruma regular expression library (Migrated to https://git.sr.ht/~nilium/onig-ooc)",
+        "languages": {
+            "ooc": 14413
+        }
+    },
+    {
+        "name": "ooc-mxml",
+        "description": "bindings for the Mini-XML parser and generator",
+        "languages": {
+            "ooc": 8473
+        }
+    },
+    {
+        "name": "ultipoly-server",
+        "description": "Server for ultipoly",
+        "languages": {
+            "ooc": 37317
+        }
+    },
+    {
+        "name": "ooc-glade",
+        "description": "Glade 2 bindings for ooc",
+        "languages": {
+            "ooc": 306
+        }
+    },
+    {
+        "name": "ooc-glu",
+        "description": "glu bindings for ooc",
+        "languages": {
+            "ooc": 575
+        }
+    },
+    {
+        "name": "ooc-gl",
+        "description": "OpenGL bindings for ooc",
+        "languages": {
+            "ooc": 134781
+        }
+    },
+    {
+        "name": "oocubeb",
+        "description": "ooc port of libcubeb",
+        "languages": {
+            "ooc": 909
+        }
+    },
+    {
+        "name": "llamaweb",
+        "description": "Simple web framework for ooc. Not MVC(yet?)",
+        "languages": {
+            "ooc": 5456
+        }
+    },
+    {
+        "name": "OOCsv",
+        "description": "CSV databases editor, reader and saver written in OOC -- part of a greater plan :p",
+        "languages": {}
+    },
+    {
+        "name": "ooc-plot",
+        "description": "A simple graphic plotting program for ooc, using cairo =)",
+        "languages": {
+            "ooc": 4686,
+            "Lua": 599
+        }
+    },
+    {
+        "name": "toy-raytracer",
+        "description": "Just playing with ooc",
+        "languages": {
+            "ooc": 5035
+        }
+    },
+    {
+        "name": "glossac",
+        "description": "\"\u0393\u03bb\u03ce\u03c3\u03c3\u03b1\" (greek pseudo-language) compiler",
+        "languages": {
+            "ooc": 75959,
+            "Shell": 201
+        }
+    },
+    {
+        "name": "crowbarcentral-grep",
+        "description": "A grep ripoff in ooc",
+        "languages": {
+            "ooc": 685
+        }
+    },
+    {
+        "name": "ooc-rsvg",
+        "description": "librsvg bindings for ooc",
+        "languages": {
+            "ooc": 1071
+        }
+    },
+    {
+        "name": "bioboy",
+        "description": "A platformer... with a twist!",
+        "languages": {
+            "ooc": 34975,
+            "Shell": 862
+        }
+    },
+    {
+        "name": "bounty",
+        "description": null,
+        "languages": {
+            "ooc": 7105
+        }
+    },
+    {
+        "name": "oocui",
+        "description": "ooc bindings for the IUP GUI framework",
+        "languages": {
+            "ooc": 12067
+        }
+    },
+    {
+        "name": "fluke",
+        "description": "An flv muxer in ooc",
+        "languages": {
+            "ooc": 10016,
+            "Python": 1361,
+            "C": 428,
+            "Shell": 100
+        }
+    },
+    {
+        "name": "nonfi",
+        "description": "GTK+ network manager for Linux written in ooc",
+        "languages": {
+            "ooc": 1101
+        }
+    },
+    {
+        "name": "establichment",
+        "description": "My LD 23 Jam entry",
+        "languages": {
+            "ooc": 26379
+        }
+    },
+    {
+        "name": "semester-project",
+        "description": "Specialization in rock, the ooc compiler",
+        "languages": {
+            "ooc": 2177,
+            "Assembly": 1281,
+            "C": 802,
+            "Shell": 566
+        }
+    },
+    {
+        "name": "ldkit",
+        "description": "Game development kit, originally developed for Ludum Dare",
+        "languages": {
+            "ooc": 39918
+        }
+    },
+    {
+        "name": "ooc-ftgl",
+        "description": "ftgl bindings for ooc",
+        "languages": {
+            "ooc": 1486
+        }
+    },
+    {
+        "name": "ooc-neko",
+        "description": "Generate neko-xml (nxml) code out of ooc",
+        "languages": {
+            "ooc": 8291
+        }
+    },
+    {
+        "name": "doll",
+        "description": "An ooc game engine (maybe?)",
+        "languages": {
+            "ooc": 5649
+        }
+    },
+    {
+        "name": "FTW",
+        "description": "ooc windowing",
+        "languages": {
+            "ooc": 4008
+        }
+    },
+    {
+        "name": "langsniff",
+        "description": "Extremely simple language detection",
+        "languages": {
+            "ooc": 10804
+        }
+    },
+    {
+        "name": "spatula",
+        "description": "Attempted something-Lisp implementation in ooc",
+        "languages": {
+            "ooc": 10346
+        }
+    },
+    {
+        "name": "sonofaj",
+        "description": "Son Of A J...!",
+        "languages": {
+            "ooc": 63119,
+            "Python": 1100
+        }
+    },
+    {
+        "name": "ooc-event",
+        "description": "a libevent binding for ooc (but incomplete)",
+        "languages": {}
+    },
+    {
+        "name": "zombieconfig",
+        "description": "Dead simple configuration file parsing for ooc",
+        "languages": {
+            "ooc": 1930
+        }
+    },
+    {
+        "name": "eo",
+        "description": "A stack-based, dynamic programming language.",
+        "languages": {
+            "ooc": 90279,
+            "Shell": 1102,
+            "Vim Script": 688
+        }
+    },
+    {
+        "name": "ooc-gsl",
+        "description": null,
+        "languages": {
+            "ooc": 37295
+        }
+    },
+    {
+        "name": "ooc-freetype2",
+        "description": "FreeType2 bindings for the ooc programming language (Migrated to https://git.sr.ht/~nilium/ooc-freetype2)",
+        "languages": {
+            "ooc": 18537
+        }
+    },
+    {
+        "name": "ooc-redis",
+        "description": "ooc bindings for redis based off of hiredis",
+        "languages": {
+            "ooc": 1370
+        }
+    },
+    {
+        "name": "ooc-chipmunk",
+        "description": "A Chipmunk Game Dynamics binding for ooc",
+        "languages": {
+            "ooc": 23001
+        }
+    },
+    {
+        "name": "rocknomancer",
+        "description": "GUI for ooc's package manager, reincarnate",
+        "languages": {
+            "ooc": 28252
+        }
+    },
+    {
+        "name": "backtrace",
+        "description": "Some snippets to make debugging easier in ooc",
+        "languages": {
+            "ooc": 4107
+        }
+    },
+    {
+        "name": "oc-c89",
+        "description": "C89 backend for the oc compiler",
+        "languages": {
+            "ooc": 26563,
+            "Shell": 476
+        }
+    },
+    {
+        "name": "opcodes",
+        "description": "Toy mnemonics-to-machine-code-translator written in ooc",
+        "languages": {
+            "ooc": 5999
+        }
+    },
+    {
+        "name": "dye-bench",
+        "description": "A few benchmarks to see what makes sense, graphics library-wise",
+        "languages": {
+            "ooc": 6552
+        }
+    },
+    {
+        "name": "ooc-tap",
+        "description": null,
+        "languages": {
+            "ooc": 9325,
+            "Perl": 979
+        }
+    },
+    {
+        "name": "OOCgi",
+        "description": "OOCgi is a CGI class that generates parsed header output written in ooc -- part of a greater plan :p",
+        "languages": {}
+    },
+    {
+        "name": "ooc-mhash",
+        "description": "Partial ooc binding for the Mhash hashing library",
+        "languages": {
+            "ooc": 2072
+        }
+    },
+    {
+        "name": "legithief",
+        "description": "Ludum Dare #25 - who knows what it'll end up being!",
+        "languages": {
+            "ooc": 84970
+        }
+    },
+    {
+        "name": "ooc-gi",
+        "description": "GObject-Introspection bindings for ooc",
+        "languages": {
+            "ooc": 20477
+        }
+    },
+    {
+        "name": "playing-with-ooc",
+        "description": "well, this looks pretty darn cool",
+        "languages": {
+            "ooc": 98
+        }
+    },
+    {
+        "name": "ooc-portaudio",
+        "description": "Bindings for the portaudio library",
+        "languages": {
+            "ooc": 3275
+        }
+    },
+    {
+        "name": "nuit-test",
+        "description": "Samples/tests/etc. for nuit-ooc (Migrated to https://git.sr.ht/~nilium/nuit-test)",
+        "languages": {
+            "ooc": 29680
+        }
+    },
+    {
+        "name": "Texbloader",
+        "description": "Parse and covert KLab's Texb image.",
+        "languages": {
+            "ooc": 28316
+        }
+    },
+    {
+        "name": "ooc-readline",
+        "description": "GNU readline bindings for ooc",
+        "languages": {
+            "ooc": 319
+        }
+    },
+    {
+        "name": "crowbar",
+        "description": "Functional rule-oriented ooc spin-off",
+        "languages": {
+            "ooc": 6871
+        }
+    },
+    {
+        "name": "chi",
+        "description": "Tentative interpreter",
+        "languages": {
+            "ooc": 2549
+        }
+    },
+    {
+        "name": "ooc-sdl_ttf",
+        "description": "SDL_ttf bindings for the ooc programming language (Migrated to https://git.sr.ht/~nilium/ooc-sdl_ttf)",
+        "languages": {
+            "ooc": 3472
+        }
+    },
+    {
+        "name": "ooc-fmod",
+        "description": "FMOD ooc bindings",
+        "languages": {
+            "ooc": 29524
+        }
+    },
+    {
+        "name": "oc-magog",
+        "description": "Another frontend for oc",
+        "languages": {
+            "ooc": 2516,
+            "Shell": 444
+        }
+    },
+    {
+        "name": "ooc-js",
+        "description": "ooc to javascript experiment",
+        "languages": {
+            "ooc": 283
+        }
+    },
+    {
+        "name": "vivace",
+        "description": "Allegro for ooc",
+        "languages": {
+            "ooc": 519
+        }
+    },
+    {
+        "name": "ooc-allegro5",
+        "description": "OOC wrappers for the Allegro5.1.x library",
+        "languages": {
+            "ooc": 69848,
+            "Ruby": 5251,
+            "Shell": 57
+        }
+    },
+    {
+        "name": "auto-click",
+        "description": "Multitasking auto clicker written in ooc (with a bit of C, I was too bored to bind xlib for ooc :P) that allows you to continue using your mouse normally",
+        "languages": {
+            "ooc": 3520,
+            "C": 2374,
+            "C++": 393,
+            "Shell": 262
+        }
+    },
+    {
+        "name": "ooc-sdl_image",
+        "description": "SDL_image bindings for the ooc programming language (Migrated to https://git.sr.ht/~nilium/ooc-sdl_image)",
+        "languages": {
+            "ooc": 2015
+        }
+    },
+    {
+        "name": "ooc-check",
+        "description": "testing assertions and utilities for ooc.",
+        "languages": {
+            "ooc": 3762
+        }
+    },
+    {
+        "name": "issue849",
+        "description": "Testing https://github.com/fasterthanlime/rock/pull/849",
+        "languages": {
+            "ooc": 50
+        }
+    },
+    {
+        "name": "ooc-math",
+        "description": "Math library for OOC.",
+        "languages": {
+            "ooc": 127248
+        }
+    },
+    {
+        "name": "zmq-sanity",
+        "description": "A few sanity tests for \u00d8MQ",
+        "languages": {
+            "ooc": 831
+        }
+    },
+    {
+        "name": "ooc-gobject",
+        "description": "A (minimalistic) GObject binding. ie. g_type_init",
+        "languages": {
+            "ooc": 39
+        }
+    },
+    {
+        "name": "newsdk",
+        "description": "Where crazy stuff *used to* happen. Deprecated, don't even attempt to use!",
+        "languages": {
+            "ooc": 25186,
+            "C": 1264
+        }
+    },
+    {
+        "name": "OptionParser.ooc",
+        "description": "OptionParser",
+        "languages": {
+            "ooc": 2912
+        }
+    },
+    {
+        "name": "poland-ooc",
+        "description": "Poland for OOC",
+        "languages": {
+            "ooc": 47558,
+            "Pure Data": 2696
+        }
+    },
+    {
+        "name": "duklite",
+        "description": "A bridge between sqlite and duktape",
+        "languages": {
+            "ooc": 5278
+        }
+    },
+    {
+        "name": "ooc-retour",
+        "description": "Recast and Detour in ooc",
+        "languages": {
+            "ooc": 220335
+        }
+    },
+    {
+        "name": "ooc-vecmath",
+        "description": "Simple module that implements vectors and matrices in pure ooc",
+        "languages": {
+            "ooc": 6263
+        }
+    },
+    {
+        "name": "magic-flow",
+        "description": "Library for writing video processing applications in Magic.",
+        "languages": {
+            "ooc": 14284,
+            "GLSL": 523
+        }
+    },
+    {
+        "name": "gonzales",
+        "description": "A simple HTTP server library for ooc",
+        "languages": {
+            "ooc": 4649
+        }
+    },
+    {
+        "name": "oocurses",
+        "description": "ooc bindings to the ncurses terminal UI library",
+        "languages": {
+            "ooc": 685
+        }
+    },
+    {
+        "name": "ooc-tmdb",
+        "description": "Messing around with the TMDb API in ooc",
+        "languages": {
+            "ooc": 1405
+        }
+    },
+    {
+        "name": "inlining-tests",
+        "description": "A few codes to test rock's emerging ability to inline generic functions. Handle with care. Uses proof.",
+        "languages": {
+            "ooc": 29206
+        }
+    },
+    {
+        "name": "gnaar",
+        "description": "An asset toolchain framework based on dye",
+        "languages": {
+            "ooc": 76811,
+            "Makefile": 685
+        }
+    },
+    {
+        "name": "ooc-draw-gpu-android",
+        "description": "Android specific GPU accelerated versions of ooc-draw classes.",
+        "languages": {
+            "ooc": 15647,
+            "C": 212
+        }
+    },
+    {
+        "name": "ooc-draw-gpu-pc",
+        "description": "PC specific, GPU accelerated versions of ooc-draw classes.",
+        "languages": {
+            "ooc": 15937
+        }
+    },
+    {
+        "name": "daily",
+        "description": null,
+        "languages": {
+            "ooc": 6454
+        }
+    },
+    {
+        "name": "ooc-theater",
+        "description": "A simplistic, mostly undocumented ooc library for managing sprites and scenes in SDL.",
+        "languages": {
+            "ooc": 5357
+        }
+    },
+    {
+        "name": "ooc-base",
+        "description": "Base library for OOC acting as a complement to the SDK.",
+        "languages": {
+            "ooc": 43629
+        }
+    },
+    {
+        "name": "jambuddy.oc",
+        "description": "Music bot that automatically adjusts to the player",
+        "languages": {
+            "ooc": 11205
+        }
+    },
+    {
+        "name": "ooc-sdk-lite",
+        "description": "Lightweight SDK-replacement for OOC which is usable also without garbage collector.",
+        "languages": {
+            "ooc": 398045,
+            "C": 1149
+        }
+    },
+    {
+        "name": "icmadness",
+        "description": "Ice Cream Madness - mad tricyclying fun",
+        "languages": {
+            "ooc": 13332
+        }
+    },
+    {
+        "name": "ooc-microhttpd",
+        "description": "ooc bindings for libmicrohttpd",
+        "languages": {
+            "ooc": 4084
+        }
+    },
+    {
+        "name": "housedsl",
+        "description": "A weak attempt at doing a DSL (Domain-Specific Language) in ooc - improve it!",
+        "languages": {
+            "ooc": 1076
+        }
+    },
+    {
+        "name": "chipmunk-luaffi",
+        "description": "Trying to make ooc + lua + Chipmunk2D play nice.",
+        "languages": {
+            "ooc": 2027
+        }
+    },
+    {
+        "name": "playground",
+        "description": "Playing with ooc & vamos",
+        "languages": {
+            "ooc": 1088
+        }
+    },
+    {
+        "name": "le8c",
+        "description": "le8c",
+        "languages": {
+            "ooc": 25642,
+            "GAP": 6745
+        }
+    },
+    {
+        "name": "aplomb",
+        "description": "Separating Axis Theorem for polygon-polygon collision detection in ooc + duktape interop",
+        "languages": {
+            "ooc": 9939
+        }
+    },
+    {
+        "name": "ooc-opengl",
+        "description": "OpenGL wrappers for ooc.",
+        "languages": {
+            "ooc": 87076
+        }
+    },
+    {
+        "name": "roguelike",
+        "description": "7DRL / One Game a Month entry",
+        "languages": {
+            "ooc": 27662
+        }
+    },
+    {
+        "name": "quantum-bench",
+        "description": "Benchmarking the Quantum Physics engine and stuff",
+        "languages": {
+            "ooc": 1171
+        }
+    },
+    {
+        "name": "ooc-draw-gpu",
+        "description": "GPU accelerated versions of ooc-draw classes.",
+        "languages": {
+            "ooc": 30850
+        }
+    },
+    {
+        "name": "penpal",
+        "description": "Native ooc library for handling AutoCAD DWG drawings",
+        "languages": {
+            "ooc": 4401
+        }
+    },
+    {
+        "name": "quantum",
+        "description": "A 2D physics engine hacked together in ooc",
+        "languages": {
+            "ooc": 40455
+        }
+    },
+    {
+        "name": "neuf",
+        "description": "As the name indicates, me messing with rendering shapes and stuff",
+        "languages": {
+            "ooc": 24914
+        }
+    },
+    {
+        "name": "raang",
+        "description": "A stripped down version of gnaar",
+        "languages": {
+            "ooc": 14620
+        }
+    },
+    {
+        "name": "ooc-vorbis",
+        "description": "libvorbis bindings for ooc",
+        "languages": {
+            "ooc": 3687
+        }
+    },
+    {
+        "name": "paththat",
+        "description": "CPU bidirectional path tracer in pure ooc (someday)",
+        "languages": {
+            "ooc": 34006
+        }
+    },
+    {
+        "name": "binaryjson.ooc",
+        "description": "An ooc implemention of KLab's Binary JSON.",
+        "languages": {
+            "ooc": 16477
+        }
+    },
+    {
+        "name": "testrepo",
+        "description": null,
+        "languages": {
+            "ooc": 83
+        }
+    },
+    {
+        "name": "ooc-android-debug",
+        "description": "Debug functions for android in ooc",
+        "languages": {
+            "ooc": 154
+        }
+    },
+    {
+        "name": "ooc-utf8",
+        "description": null,
+        "languages": {
+            "ooc": 2692
+        }
     }
 ]

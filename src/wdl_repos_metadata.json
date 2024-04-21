@@ -43,5 +43,1675 @@
         "languages": {
             "WDL": 665686
         }
+    },
+    {
+        "name": "gatk4-somatic-snvs-indels",
+        "description": "This repo has been archived, these workflows are still available in the GATK repository under the scripts directory. The workflows are also organized in Dockstore in the GATK Best Practices Workflows collection.",
+        "languages": {
+            "WDL": 54056
+        }
+    },
+    {
+        "name": "gatk4-rnaseq-germline-snps-indels",
+        "description": "Workflows for processing RNA data for germline short variant discovery with GATK v4 and related tools",
+        "languages": {
+            "WDL": 20590
+        }
+    },
+    {
+        "name": "five-dollar-genome-analysis-pipeline",
+        "description": "Workflows used for WGS data processing -- replaced by https://github.com/gatk-workflows/gatk4-genome-processing-pipeline",
+        "languages": {
+            "WDL": 102666
+        }
+    },
+    {
+        "name": "broad-prod-wgs-germline-snps-indels",
+        "description": "Workflows for germline short variant discovery in WGS data. PairedEndSingleSampleWf has been superseded in Broad production by https://github.com/gatk-workflows/five-dollar-genome-analysis-pipeline",
+        "languages": {
+            "WDL": 207934
+        }
+    },
+    {
+        "name": "hic-pipeline",
+        "description": "HiC uniform processing pipeline",
+        "languages": {
+            "WDL": 81879,
+            "Python": 63746,
+            "Dockerfile": 8222,
+            "MATLAB": 7490,
+            "Shell": 809
+        }
+    },
+    {
+        "name": "cumulus",
+        "description": "Cloud-based scalable and efficient single-cell genomics workflows",
+        "languages": {
+            "WDL": 518774,
+            "Dockerfile": 218189,
+            "Python": 52427,
+            "C++": 19769,
+            "Shell": 9397,
+            "R": 7178,
+            "Makefile": 226
+        }
+    },
+    {
+        "name": "gatk4-exome-analysis-pipeline",
+        "description": "This WDL pipeline implements data pre-processing and initial variant calling according to the GATK Best Practices for germline SNP and Indel discovery in human exome sequencing data.",
+        "languages": {
+            "WDL": 102698
+        }
+    },
+    {
+        "name": "viral-pipelines",
+        "description": "viral-ngs: complete pipelines",
+        "languages": {
+            "WDL": 676209,
+            "Shell": 17235,
+            "Scala": 9687,
+            "Jinja": 2476,
+            "Python": 838
+        }
+    },
+    {
+        "name": "skylab",
+        "description": "Soon to be deprecated in favor of broadinstitute/warp github repo. Previously: Secondary analysis pipelines",
+        "languages": {
+            "WDL": 336322,
+            "R": 83203,
+            "Python": 41472,
+            "Jupyter Notebook": 32728,
+            "Dockerfile": 29729,
+            "Shell": 18268
+        }
+    },
+    {
+        "name": "gatk3-4-rnaseq-germline-snps-indels",
+        "description": "Workflows for processing RNA data for germline short variant discovery with GATK (v3+v4) and related tools",
+        "languages": {
+            "WDL": 24828
+        }
+    },
+    {
+        "name": "sv-pipeline",
+        "description": "Pipeline for structural variation detection in cohorts",
+        "languages": {
+            "WDL": 49161,
+            "Shell": 20778,
+            "Dockerfile": 19276,
+            "Python": 7201
+        }
+    },
+    {
+        "name": "snakemake_nextflow_wdl",
+        "description": "simple comparison of snakemake, nextflow and cromwell/wdl",
+        "languages": {
+            "WDL": 1377,
+            "Python": 1322,
+            "Nextflow": 1156,
+            "Shell": 62
+        }
+    },
+    {
+        "name": "gatk4-somatic-cnvs",
+        "description": "This repo is archived, these workflows will be housed in the GATK repository under the scripts directory. These workflows are also organized in Dockstore in the GATK Best Practices Workflows collection.",
+        "languages": {
+            "WDL": 86894
+        }
+    },
+    {
+        "name": "HiFi-human-WGS-WDL",
+        "description": null,
+        "languages": {
+            "WDL": 45294
+        }
+    },
+    {
+        "name": "long-read-rna-pipeline",
+        "description": "ENCODE long read RNA-seq pipeline",
+        "languages": {
+            "WDL": 41262,
+            "Python": 12191,
+            "Dockerfile": 4052,
+            "Shell": 639
+        }
+    },
+    {
+        "name": "public_health_viral_genomics",
+        "description": "Bioinformatics workflows for genomic characterization, submission preparation, and genomic epidemiology of viral pathogens of concern, especially SARS-CoV-2",
+        "languages": {
+            "WDL": 401981,
+            "Python": 18353,
+            "Shell": 4290
+        }
+    },
+    {
+        "name": "seq-format-conversion",
+        "description": "Workflows for converting between sequence data formats",
+        "languages": {
+            "WDL": 14945
+        }
+    },
+    {
+        "name": "RNA-seq",
+        "description": "A BioWDL pipeline for processing RNA-seq data, starting with FASTQ files to produce expression measures and VCFs. Category:Multi-Sample",
+        "languages": {
+            "WDL": 30422,
+            "Python": 1589,
+            "Shell": 207
+        }
+    },
+    {
+        "name": "workflows",
+        "description": "Bioinformatics workflows developed for and used on the St. Jude Cloud project.",
+        "languages": {
+            "WDL": 344545,
+            "Python": 5523,
+            "Dockerfile": 1876,
+            "Shell": 464
+        }
+    },
+    {
+        "name": "public_health_bioinformatics",
+        "description": "Bioinformatics workflows for genomic characterization, submission preparation, and genomic epidemiology of pathogens of public health concern.",
+        "languages": {
+            "WDL": 1072496
+        }
+    },
+    {
+        "name": "public_health_bacterial_genomics",
+        "description": null,
+        "languages": {
+            "WDL": 416509
+        }
+    },
+    {
+        "name": "parabricks-wdl",
+        "description": "Accelerated genomics workflows in the Workflow Description Language",
+        "languages": {
+            "WDL": 77087,
+            "Makefile": 1225
+        }
+    },
+    {
+        "name": "napu_wf",
+        "description": "WDL workflows for variant calling and assembly using ONT",
+        "languages": {
+            "WDL": 60794,
+            "Dockerfile": 10699,
+            "Python": 492
+        }
+    },
+    {
+        "name": "gatk4-genome-processing-pipeline",
+        "description": "Workflows used for processing whole genome sequence data + germline variant calling. This Repository has been archived, please visit the link the ReadMe to obtain the latest version of the workflow.",
+        "languages": {
+            "WDL": 103605
+        }
+    },
+    {
+        "name": "germline-DNA",
+        "description": "A BioWDL variantcalling pipeline for germline DNA data. Starting with FASTQ files to produce VCF files. Category:Multi-Sample",
+        "languages": {
+            "WDL": 50265,
+            "Python": 4134
+        }
+    },
+    {
+        "name": "finemapping-pipeline",
+        "description": "Statistical fine-mapping pipeline in FinnGen",
+        "languages": {
+            "WDL": 40001,
+            "Python": 39824,
+            "R": 11030,
+            "Dockerfile": 3464,
+            "Shell": 1518
+        }
+    },
+    {
+        "name": "gatk4-mitochondria-pipeline",
+        "description": "This repo is be archived, these workflows are still housed housed in the GATK repository under the scripts directory. The workflows are also organized in Dockstore in the GATK Best Practices Workflows collection.",
+        "languages": {
+            "WDL": 33359
+        }
+    },
+    {
+        "name": "GATK-for-Microbes",
+        "description": null,
+        "languages": {
+            "WDL": 46587,
+            "Python": 9094,
+            "Dockerfile": 777
+        }
+    },
+    {
+        "name": "palantir-workflows",
+        "description": "Utility workflows for the DSP hydro.gen team (formerly palantir)",
+        "languages": {
+            "WDL": 553734,
+            "Python": 245751,
+            "Jupyter Notebook": 61661,
+            "Dockerfile": 26525,
+            "R": 25786,
+            "Shell": 24467,
+            "Makefile": 1012
+        }
+    },
+    {
+        "name": "saige-pipelines",
+        "description": null,
+        "languages": {
+            "WDL": 24622,
+            "Python": 12426,
+            "R": 5253,
+            "Shell": 2158
+        }
+    },
+    {
+        "name": "epi-SHARE-seq-pipeline",
+        "description": "Epigenomics Program pipeline to analyze SHARE-seq data.",
+        "languages": {
+            "WDL": 177949,
+            "Python": 118936,
+            "Jupyter Notebook": 110297,
+            "R": 56484,
+            "Dockerfile": 36355,
+            "Shell": 4662,
+            "Vim Script": 2444
+        }
+    },
+    {
+        "name": "mirna-seq-pipeline",
+        "description": null,
+        "languages": {
+            "WDL": 16766,
+            "Python": 11782,
+            "Dockerfile": 1620,
+            "Shell": 639
+        }
+    },
+    {
+        "name": "vg_wdl",
+        "description": "Workflow Description Language (WDL) scripts for common vg workflows",
+        "languages": {
+            "WDL": 586656,
+            "Shell": 62363,
+            "Python": 592
+        }
+    },
+    {
+        "name": "reproducible-workflows",
+        "description": "Reproducible Workflows, curated at the Fred Hutch",
+        "languages": {
+            "WDL": 33509,
+            "Nextflow": 25507,
+            "Common Workflow Language": 4918,
+            "Shell": 2323
+        }
+    },
+    {
+        "name": "transyflag",
+        "description": "A coot trans flag using GitHub language colors!",
+        "languages": {
+            "WDL": 90,
+            "XSLT": 85,
+            "EmberScript": 80,
+            "ZIL": 75,
+            "VBScript": 70
+        }
+    },
+    {
+        "name": "pb-human-wgs-workflow-wdl",
+        "description": null,
+        "languages": {
+            "WDL": 173423,
+            "Shell": 1649
+        }
+    },
+    {
+        "name": "BIGstack",
+        "description": null,
+        "languages": {
+            "WDL": 234237,
+            "Shell": 26182
+        }
+    },
+    {
+        "name": "topmed-workflows",
+        "description": "a place for topmed workflows",
+        "languages": {
+            "WDL": 129958,
+            "Common Workflow Language": 123357,
+            "Shell": 24108,
+            "Python": 8872,
+            "Dockerfile": 6945
+        }
+    },
+    {
+        "name": "pipelines",
+        "description": "Pipelines for processing malaria parasite and mosquito genome sequence data.",
+        "languages": {
+            "WDL": 168637,
+            "Python": 144555,
+            "R": 142874,
+            "Shell": 41940,
+            "Dockerfile": 23730
+        }
+    },
+    {
+        "name": "liftover_plink_beds",
+        "description": "Converting UK Biobank genome-wide genotyping data from one reference build to another",
+        "languages": {
+            "WDL": 11299,
+            "Dockerfile": 1309
+        }
+    },
+    {
+        "name": "facets",
+        "description": "Implementation of FACETS for Terra",
+        "languages": {
+            "WDL": 6816,
+            "R": 5886,
+            "Python": 3736,
+            "Dockerfile": 1182
+        }
+    },
+    {
+        "name": "gatk4-pathseq",
+        "description": "This repo is archived, the these workflows are still available in the GATK repository under the scripts directory. The workflows are also organized in Dockstore in the GATK Best Practices Workflows collection.",
+        "languages": {
+            "WDL": 20781
+        }
+    },
+    {
+        "name": "DeepVariant-GLnexus-WDL",
+        "description": "WDL workflow for population variant calling using htsget, DeepVariant, and GLnexus",
+        "languages": {
+            "WDL": 19529,
+            "Python": 4043
+        }
+    },
+    {
+        "name": "HiFi-somatic-WDL",
+        "description": "Tumor-normal variant calling workflow using HiFi reads",
+        "languages": {
+            "WDL": 95492,
+            "R": 26382,
+            "Python": 6201,
+            "Dockerfile": 3280,
+            "Shell": 1569
+        }
+    },
+    {
+        "name": "capanno",
+        "description": "cwl/wdl/sm/nf files, tool and workflow metadata, and input specifications.",
+        "languages": {
+            "WDL": 9249467,
+            "Common Workflow Language": 427239,
+            "Shell": 124094,
+            "Nextflow": 77795,
+            "Python": 65895,
+            "Jinja": 43785,
+            "C++": 9142,
+            "Dockerfile": 5925,
+            "R": 881,
+            "Makefile": 221
+        }
+    },
+    {
+        "name": "Sentieon-WDL",
+        "description": "WDL pipelines for the Sentieon tools",
+        "languages": {
+            "WDL": 71500,
+            "Python": 8581,
+            "Dockerfile": 3114
+        }
+    },
+    {
+        "name": "somatic-variantcalling",
+        "description": "A pipeline for somatic variantcalling. Category:Single-Sample",
+        "languages": {
+            "WDL": 43870
+        }
+    },
+    {
+        "name": "gatk4-cnn-variant-filter",
+        "description": "This repo is archived, the these workflows are still available in the GATK repository under the scripts directory. The workflows are also organized in Dockstore in the GATK Best Practices Workflows collection.",
+        "languages": {
+            "WDL": 28968
+        }
+    },
+    {
+        "name": "structural-variantcalling",
+        "description": "A workflow for calling structural variants. Category:Single-Sample",
+        "languages": {
+            "WDL": 25193
+        }
+    },
+    {
+        "name": "MIGNON",
+        "description": "Mechanistic integrative analysis of RNA-Seq data",
+        "languages": {
+            "WDL": 48604,
+            "R": 8836,
+            "Shell": 2660
+        }
+    },
+    {
+        "name": "Reads2Map",
+        "description": "A collection of WDL bioinformatic workflows to benchmark markers coming from different pipelines using linkage map quality as a diagnosis.",
+        "languages": {
+            "WDL": 250564,
+            "Shell": 19954,
+            "Dockerfile": 12156,
+            "Python": 9458,
+            "R": 3912
+        }
+    },
+    {
+        "name": "rna-seq",
+        "description": "bioinformatics pipelines",
+        "languages": {
+            "WDL": 163631
+        }
+    },
+    {
+        "name": "WGSinCancerDiagnostics",
+        "description": null,
+        "languages": {
+            "WDL": 51232
+        }
+    },
+    {
+        "name": "ArCH",
+        "description": null,
+        "languages": {
+            "WDL": 179786,
+            "Julia": 85777,
+            "R": 44879
+        }
+    },
+    {
+        "name": "WorkflowPlanning",
+        "description": "This is primarily a repo for capturing policies and discussions around the different workflows for NMDC.  This is also used for project management related pieces.",
+        "languages": {
+            "WDL": 83556,
+            "Shell": 52074,
+            "R": 2556,
+            "Dockerfile": 2555
+        }
+    },
+    {
+        "name": "regenie-pipelines",
+        "description": "WDL pipelines for running regenie",
+        "languages": {
+            "WDL": 69053,
+            "Python": 23381,
+            "R": 5602,
+            "Shell": 1523,
+            "Dockerfile": 1317
+        }
+    },
+    {
+        "name": "cellprofiler-on-Terra",
+        "description": "Run CellProfiler on Terra.  Contains workflows that enable a full end-to-end Cell Painting pipeline.",
+        "languages": {
+            "WDL": 53399,
+            "Jupyter Notebook": 18187,
+            "Python": 17825,
+            "Shell": 5262,
+            "Dockerfile": 2738
+        }
+    },
+    {
+        "name": "C-BIRD",
+        "description": ":microbe: Bacterial Identification and Antimicrobial Resistance :pill:",
+        "languages": {
+            "WDL": 46984,
+            "HTML": 26422,
+            "Python": 1137,
+            "Shell": 892
+        }
+    },
+    {
+        "name": "mondrian",
+        "description": null,
+        "languages": {
+            "WDL": 164316,
+            "Shell": 38926,
+            "Python": 6239
+        }
+    },
+    {
+        "name": "analysis_pipeline_WDL",
+        "description": "Collection of WDL workflows based off the University of Washington TOPMed DCC Best Practices for GWAS. The WDL structure was based upon CWLs written by the Seven Bridges development team.",
+        "languages": {
+            "WDL": 160012,
+            "Python": 10121,
+            "Shell": 1279,
+            "R": 594
+        }
+    },
+    {
+        "name": "panel-imp",
+        "description": "\ud83d\udc41\ufe0f Imputation workflow for targeted panel sequencing",
+        "languages": {
+            "WDL": 6721,
+            "Shell": 3723,
+            "R": 2528
+        }
+    },
+    {
+        "name": "bioinfo-praticas",
+        "description": "Pr\u00e1tica para experimentar algumas ferramentas de desenvolvimento, no contexto de bioinfo.",
+        "languages": {
+            "WDL": 10699
+        }
+    },
+    {
+        "name": "seaseq",
+        "description": "Abraham's lab - ChipSeq Pipeline",
+        "languages": {
+            "WDL": 437762,
+            "R": 37842,
+            "Python": 25331,
+            "Perl": 16473,
+            "Shell": 10389
+        }
+    },
+    {
+        "name": "dnase-seq-pipeline",
+        "description": "ENCODE DNase-seq pipeline",
+        "languages": {
+            "WDL": 187189,
+            "Python": 10458,
+            "Dockerfile": 5085,
+            "Shell": 430,
+            "BlitzBasic": 260,
+            "ActionScript": 256,
+            "JavaScript": 133
+        }
+    },
+    {
+        "name": "gatk4-basic-joint-genotyping",
+        "description": "Basic joint genotyping with GATK4. NOT Best Practices, only for teaching/demo purposes.",
+        "languages": {
+            "WDL": 8601
+        }
+    },
+    {
+        "name": "intel-gatk3-4-germline-snps-indels",
+        "description": "Workflows for processing and variant discovery with GATK (v3+v4) optimized by Intel for on-premises infrastructure",
+        "languages": {
+            "WDL": 121786
+        }
+    },
+    {
+        "name": "gtx-fpga",
+        "description": null,
+        "languages": {
+            "WDL": 12644
+        }
+    },
+    {
+        "name": "mochawdl",
+        "description": "MoChA WDL pipelines",
+        "languages": {
+            "WDL": 273978
+        }
+    },
+    {
+        "name": "bfx-tools-wdl",
+        "description": "WDL tasks for commonly used BFX tools",
+        "languages": {
+            "WDL": 176774,
+            "Shell": 3118,
+            "Makefile": 84
+        }
+    },
+    {
+        "name": "amp-pd-workflows",
+        "description": "Pipeline definitions used to construct AMP-PD data products",
+        "languages": {
+            "WDL": 160285
+        }
+    },
+    {
+        "name": "HiFi-human-assembly-WDL",
+        "description": null,
+        "languages": {
+            "WDL": 24290
+        }
+    },
+    {
+        "name": "fungal-wdl",
+        "description": "Broad fungal method repository",
+        "languages": {
+            "WDL": 55530,
+            "Dockerfile": 1538,
+            "Shell": 638
+        }
+    },
+    {
+        "name": "gatk4-somatic-with-preprocessing",
+        "description": null,
+        "languages": {
+            "WDL": 137247
+        }
+    },
+    {
+        "name": "intel-gatk4-somatic-with-preprocessing",
+        "description": "Workflows for data pre-processing and initial calling of somatic SNP, Indel, and copy number variants optimized by Intel for on-premises infrastructure",
+        "languages": {
+            "WDL": 139468,
+            "Shell": 7388
+        }
+    },
+    {
+        "name": "wdl-docs",
+        "description": "WDL usage documentation including introductory materials, tutorials and cookbook examples",
+        "languages": {
+            "WDL": 3554
+        }
+    },
+    {
+        "name": "sentieon-amazon-omics",
+        "description": "Sentieon pipelines for Amazon Omics",
+        "languages": {
+            "WDL": 53573,
+            "Dockerfile": 4506,
+            "Shell": 3508,
+            "Python": 1730
+        }
+    },
+    {
+        "name": "scCloud",
+        "description": "scCloud workflows",
+        "languages": {
+            "WDL": 174116,
+            "C++": 22940,
+            "Dockerfile": 17446,
+            "Python": 12627,
+            "Shell": 6157,
+            "R": 5370,
+            "Makefile": 260
+        }
+    },
+    {
+        "name": "A3Tools",
+        "description": "Experimental Acknex8 conversion tool for levels designed in Acknex3 - migrated from SVN",
+        "languages": {
+            "WDL": 783313,
+            "C": 388502,
+            "C++": 70130,
+            "HLSL": 2460,
+            "Batchfile": 1229,
+            "Makefile": 552
+        }
+    },
+    {
+        "name": "cromwell-output-reorganization",
+        "description": null,
+        "languages": {
+            "WDL": 1939,
+            "Dockerfile": 612
+        }
+    },
+    {
+        "name": "wdl_germline_pipeline",
+        "description": "development location for a wdl based germline pipeline with scatter gather parallelization",
+        "languages": {
+            "WDL": 20045,
+            "Python": 7272,
+            "Shell": 4861,
+            "Dockerfile": 1160
+        }
+    },
+    {
+        "name": "metaAssembly",
+        "description": "Workflow for metagenome assembly",
+        "languages": {
+            "WDL": 25048,
+            "Shell": 689
+        }
+    },
+    {
+        "name": "grobtrack",
+        "description": "Track eval and PV of 1. g4 on chessdb.cn.",
+        "languages": {
+            "WDL": 7762275,
+            "Python": 15118,
+            "Shell": 4551
+        }
+    },
+    {
+        "name": "variant-interpretation",
+        "description": null,
+        "languages": {
+            "WDL": 333716,
+            "R": 174838,
+            "Python": 86231,
+            "Shell": 1083
+        }
+    },
+    {
+        "name": "intel-gatk4-germline-snps-indels",
+        "description": "Workflows for germline short variant discovery with GATK4 optimized by Intel for on-premises infrastructure",
+        "languages": {
+            "WDL": 181916
+        }
+    },
+    {
+        "name": "terra_utilities",
+        "description": null,
+        "languages": {
+            "WDL": 50301
+        }
+    },
+    {
+        "name": "wdl-common",
+        "description": null,
+        "languages": {
+            "WDL": 45788
+        }
+    },
+    {
+        "name": "MobiDL",
+        "description": "MobidicWDL workflows",
+        "languages": {
+            "WDL": 228331,
+            "Shell": 72629,
+            "Python": 14977
+        }
+    },
+    {
+        "name": "CDPHE-SARS-CoV-2",
+        "description": "Workflows for the assembly and analysis of SARS-CoV-2 whole genome tiled amplicon sequencing",
+        "languages": {
+            "WDL": 84990,
+            "Python": 63701
+        }
+    },
+    {
+        "name": "aws-gatk-sv",
+        "description": "This repo will host the templates and scripts needed for enabling gatk-sv pipeline on Cromwell EC2 server",
+        "languages": {
+            "WDL": 1515764,
+            "Python": 1101081,
+            "R": 804347,
+            "Shell": 413565,
+            "Java": 82799,
+            "Dockerfile": 57731,
+            "Jupyter Notebook": 10676,
+            "Cython": 1238
+        }
+    },
+    {
+        "name": "Testathon-2020",
+        "description": "Repo For the WDL Testathon held  February 18 - 19, 2020",
+        "languages": {
+            "WDL": 15260,
+            "Python": 9587
+        }
+    },
+    {
+        "name": "analysis-wdls",
+        "description": "Scalable genomic analysis pipelines, written in WDL",
+        "languages": {
+            "WDL": 498743,
+            "Shell": 114
+        }
+    },
+    {
+        "name": "GAS_identification",
+        "description": null,
+        "languages": {
+            "WDL": 45007
+        }
+    },
+    {
+        "name": "vcfToGds",
+        "description": "Convert Vcf files to Gds format",
+        "languages": {
+            "WDL": 1286,
+            "R": 411,
+            "Dockerfile": 263
+        }
+    },
+    {
+        "name": "TAG-public",
+        "description": "Official workflows published by the Broad Institute's Genomics Platform Translation Analysis Group (TAG)",
+        "languages": {
+            "WDL": 356759,
+            "Shell": 2597
+        }
+    },
+    {
+        "name": "pipeline-template",
+        "description": "A pipeline template for modular pipelines",
+        "languages": {
+            "WDL": 8272
+        }
+    },
+    {
+        "name": "telomere-length-pipeline",
+        "description": "A cloud-based pipeline to estimate telomere lengths from WGS data using Telseq",
+        "languages": {
+            "WDL": 5064,
+            "Dockerfile": 3032,
+            "Shell": 207
+        }
+    },
+    {
+        "name": "wdl",
+        "description": "WDL-based pipelines",
+        "languages": {
+            "WDL": 211883,
+            "Shell": 1579
+        }
+    },
+    {
+        "name": "SRA-RNAseq",
+        "description": null,
+        "languages": {
+            "WDL": 4655
+        }
+    },
+    {
+        "name": "biocloud_gwas_workflows",
+        "description": null,
+        "languages": {
+            "WDL": 412002
+        }
+    },
+    {
+        "name": "wdl_sandbox",
+        "description": "WDL / Cromwell Sandbox",
+        "languages": {
+            "WDL": 4461,
+            "Python": 3321,
+            "Shell": 2022,
+            "Dockerfile": 133
+        }
+    },
+    {
+        "name": "adapt-pipes",
+        "description": "Workflows to run ADAPT on AWS Batch.",
+        "languages": {
+            "WDL": 17512
+        }
+    },
+    {
+        "name": "ReadsQC",
+        "description": null,
+        "languages": {
+            "WDL": 32690,
+            "Shell": 490
+        }
+    },
+    {
+        "name": "trust4-wdl",
+        "description": null,
+        "languages": {
+            "WDL": 5446,
+            "Dockerfile": 2076
+        }
+    },
+    {
+        "name": "topology-tools",
+        "description": "Processing pipelines for HiC and other 3D genome tools",
+        "languages": {
+            "WDL": 42420,
+            "R": 24624,
+            "Dockerfile": 8924,
+            "Shell": 8496,
+            "Python": 7381
+        }
+    },
+    {
+        "name": "metaT",
+        "description": "Metatranscriptomics workflow",
+        "languages": {
+            "WDL": 97635,
+            "Python": 16022,
+            "R": 2636,
+            "Dockerfile": 1728,
+            "Shell": 516
+        }
+    },
+    {
+        "name": "mg_annotation",
+        "description": "Metagenome Annotation Workflow",
+        "languages": {
+            "WDL": 83915,
+            "Dockerfile": 11808,
+            "Python": 4852,
+            "Shell": 349,
+            "Makefile": 7
+        }
+    },
+    {
+        "name": "intel-faster-alternative-samples",
+        "description": "Miscellaneous workflows optimized by Intel to be fast-running",
+        "languages": {
+            "WDL": 14271
+        }
+    },
+    {
+        "name": "fix_replace_mito_contigs",
+        "description": "Workflow to identify, then remove MT contigs from Hifiasm assemblies. Then replace with corrected contigs.",
+        "languages": {
+            "WDL": 5739,
+            "Python": 2898
+        }
+    },
+    {
+        "name": "cfMedipsQc",
+        "description": "cfMedipsQC workflow produces a set of metrics files for sequencing data generated in methylation profiling of circulating Free DNA.",
+        "languages": {
+            "WDL": 27881,
+            "Shell": 440
+        }
+    },
+    {
+        "name": "uofaBioWDL",
+        "description": "UofA BioWDL genomic workflows",
+        "languages": {
+            "WDL": 6643
+        }
+    },
+    {
+        "name": "uger-cromwell",
+        "description": "Cromwell template for running on UGER with Singularity",
+        "languages": {
+            "WDL": 8789,
+            "Shell": 183
+        }
+    },
+    {
+        "name": "GATK4_WDL_Script",
+        "description": "GATK4 somatic variants discovery via wdl script based on broad institute",
+        "languages": {
+            "WDL": 38842
+        }
+    },
+    {
+        "name": "RecausalNucleotideNetworks",
+        "description": "Improving deep learning variant calling methods for BGI-SEQ",
+        "languages": {
+            "WDL": 6965,
+            "Shell": 6546,
+            "Python": 5025,
+            "Jupyter Notebook": 2204,
+            "Makefile": 1088
+        }
+    },
+    {
+        "name": "titan",
+        "description": "Public health bioinformatics repository for WDL workflows to analyze viral genomes. ",
+        "languages": {
+            "WDL": 44232
+        }
+    },
+    {
+        "name": "variantEffectPredictor",
+        "description": "Variant Effect Predictor Workflow",
+        "languages": {
+            "WDL": 20157,
+            "Shell": 508
+        }
+    },
+    {
+        "name": "covid-processing-pipeline",
+        "description": "Workflows and containers for processing COVID-19 data.",
+        "languages": {
+            "WDL": 6161
+        }
+    },
+    {
+        "name": "gatk-variantcalling",
+        "description": "A pipeline that calls variants on a group of BAM files. Category:Multi-Sample",
+        "languages": {
+            "WDL": 34696,
+            "Python": 4935
+        }
+    },
+    {
+        "name": "healthomics-workflows",
+        "description": "UltimaGenomics repository for workflows compatible with AWS HealthOmics",
+        "languages": {
+            "WDL": 587188,
+            "HTML": 492988
+        }
+    },
+    {
+        "name": "AWE",
+        "description": "Wrapper for Cromwell workflow engine, adding auth, multiuser, github integration & more",
+        "languages": {
+            "WDL": 21497,
+            "Python": 12951,
+            "Dockerfile": 1225,
+            "Shell": 130
+        }
+    },
+    {
+        "name": "cromwellGATK4",
+        "description": null,
+        "languages": {
+            "WDL": 53202,
+            "Shell": 562
+        }
+    },
+    {
+        "name": "mesmer-wdl-workflow",
+        "description": null,
+        "languages": {
+            "WDL": 24679
+        }
+    },
+    {
+        "name": "gwas-terra-workflow",
+        "description": "genome-wide association study (GWAS) workflows",
+        "languages": {
+            "WDL": 15977,
+            "R": 10170
+        }
+    },
+    {
+        "name": "SNU_2D_ProgrammingTools_IDE_WDL",
+        "description": "The WDL Programming language IDE submodule for SNU Programming Tools.",
+        "languages": {
+            "WDL": 212902,
+            "Roff": 3456
+        }
+    },
+    {
+        "name": "cromwell-on-ibmcloud",
+        "description": "Cromwell on IBM Cloud",
+        "languages": {
+            "WDL": 12578,
+            "Shell": 9161
+        }
+    },
+    {
+        "name": "microrunqc-wdl",
+        "description": null,
+        "languages": {
+            "WDL": 12978
+        }
+    },
+    {
+        "name": "seq-format-validation",
+        "description": "Workflows for validating sequence data formats",
+        "languages": {
+            "WDL": 2710
+        }
+    },
+    {
+        "name": "gwas-pipelines",
+        "description": "This is a GWAS pipeline that is intended to be run with biobank size data",
+        "languages": {
+            "WDL": 66926,
+            "R": 11358,
+            "Dockerfile": 2669
+        }
+    },
+    {
+        "name": "gatk-tool-wdls",
+        "description": "Autogenerated WDLs for GATK Tools",
+        "languages": {
+            "WDL": 604511
+        }
+    },
+    {
+        "name": "utility-wdls",
+        "description": "Short workflows to run common tasks.",
+        "languages": {
+            "WDL": 5152
+        }
+    },
+    {
+        "name": "card_workflows",
+        "description": "WDL workflows for the NIH CARD long-read sequencing project",
+        "languages": {
+            "WDL": 12019,
+            "Dockerfile": 4476
+        }
+    },
+    {
+        "name": "WorkFlow_fastq2vcf",
+        "description": "A Cromwell workflow to call and filter variants from sequencing data.",
+        "languages": {
+            "WDL": 58879,
+            "Shell": 11452,
+            "Groovy": 4397
+        }
+    },
+    {
+        "name": "BatVI",
+        "description": "WDL and docker image for running BatVI ",
+        "languages": {
+            "WDL": 6610,
+            "Python": 4730,
+            "Dockerfile": 3420,
+            "Shell": 230
+        }
+    },
+    {
+        "name": "Plink_GWAS",
+        "description": "WDL workflow for running a plink GWAS.",
+        "languages": {
+            "WDL": 8067,
+            "Dockerfile": 2700
+        }
+    },
+    {
+        "name": "azure-warp-joint-calling",
+        "description": "Exploration of Joint Calling Exomes with Cromwell on Azure using WARP Joint Calling Pipeline",
+        "languages": {
+            "WDL": 70336,
+            "Shell": 193
+        }
+    },
+    {
+        "name": "kallisto-bustools_workflow",
+        "description": null,
+        "languages": {
+            "WDL": 22101,
+            "Dockerfile": 556
+        }
+    },
+    {
+        "name": "genomic_analyses",
+        "description": null,
+        "languages": {
+            "WDL": 147899
+        }
+    },
+    {
+        "name": "MDL-workflows",
+        "description": "Workflow, utilities and other artefacts developed by or for the Methods Development Lab at the Broad Institute",
+        "languages": {
+            "WDL": 45140
+        }
+    },
+    {
+        "name": "HiFi-MAG-WDL",
+        "description": "WDL workflow for metagenomics",
+        "languages": {
+            "WDL": 48832
+        }
+    },
+    {
+        "name": "pcawg-broad-wgs-variant-caller",
+        "description": null,
+        "languages": {
+            "WDL": 19061
+        }
+    },
+    {
+        "name": "samtools-view",
+        "description": "sam tools view workflow",
+        "languages": {
+            "WDL": 4047,
+            "Dockerfile": 683
+        }
+    },
+    {
+        "name": "brown_lab_warp",
+        "description": "Subroutines of WARP for germline exome calling",
+        "languages": {
+            "WDL": 577904,
+            "Scala": 288656,
+            "Shell": 111622,
+            "Python": 109000,
+            "R": 22907,
+            "Dockerfile": 18774,
+            "Jupyter Notebook": 7823,
+            "JavaScript": 6262,
+            "Stylus": 1470,
+            "Vue": 1451
+        }
+    },
+    {
+        "name": "generic-wdl-script",
+        "description": "This generic wdl script will be for users seeking to quickly run a shell command",
+        "languages": {
+            "WDL": 2182
+        }
+    },
+    {
+        "name": "giraffe-dv-wdl",
+        "description": "These workflows have moved; see https://github.com/vgteam/vg_wdl and specifically the giraffedv branch for current versions.",
+        "languages": {
+            "WDL": 81270
+        }
+    },
+    {
+        "name": "hmmcopy",
+        "description": "Calls Copy Number Variants on sequencing data from cancer patients",
+        "languages": {
+            "WDL": 5753,
+            "R": 2774,
+            "Shell": 858
+        }
+    },
+    {
+        "name": "QC",
+        "description": "A BioWDL workflow for gathering QC metrics on and prepocessing FASTQ files. Category:Single-Sample",
+        "languages": {
+            "WDL": 8306
+        }
+    },
+    {
+        "name": "variant-effect-predictor-tool",
+        "description": null,
+        "languages": {
+            "WDL": 6387
+        }
+    },
+    {
+        "name": "rna_mutect_cloud",
+        "description": "Call somatic variants in bulk RNA-seq data in the cloud",
+        "languages": {
+            "WDL": 30261
+        }
+    },
+    {
+        "name": "Learn-WDL",
+        "description": "A repository for showcasing my knowledge of the wdl programming language, and continuing to learn the language.",
+        "languages": {
+            "WDL": 178587
+        }
+    },
+    {
+        "name": "wdl-conformance-tests",
+        "description": null,
+        "languages": {
+            "WDL": 80761,
+            "Python": 80310,
+            "Makefile": 1159,
+            "Shell": 648
+        }
+    },
+    {
+        "name": "long-reads-public-codebase",
+        "description": "This Repo will be for the sharing of code for the long reads analysis initiative.",
+        "languages": {
+            "WDL": 554396,
+            "Dockerfile": 3361,
+            "Shell": 1160,
+            "Python": 992
+        }
+    },
+    {
+        "name": "biofx-workflows",
+        "description": "Mass General Brigham Personalized Medicine Bioinformatic Workflows",
+        "languages": {
+            "WDL": 292348
+        }
+    },
+    {
+        "name": "Mitochondria-Pipeline",
+        "description": "MitochondriaPipeline",
+        "languages": {
+            "WDL": 20635
+        }
+    },
+    {
+        "name": "usher-public-workflow",
+        "description": "A Dockstore WDL Workflow that uses UShER to place your consensus.fasta sequences on the SARS-CoV-2 phylogeny",
+        "languages": {
+            "WDL": 8381
+        }
+    },
+    {
+        "name": "UKBB-WES",
+        "description": null,
+        "languages": {
+            "WDL": 4795,
+            "R": 3320
+        }
+    },
+    {
+        "name": "villages-sqtl-pipeline",
+        "description": null,
+        "languages": {
+            "WDL": 1562
+        }
+    },
+    {
+        "name": "cromwell-kccg-mutect2-chip",
+        "description": "Detect clonal haematopoiesis of indeterminate potential (CHIP) mutations using the GATK4 Mutect2 somatic variant calling pipeline and the Cromwell workflow engine.",
+        "languages": {
+            "WDL": 136685,
+            "R": 71040,
+            "Python": 19988,
+            "Shell": 10049,
+            "Dockerfile": 3597
+        }
+    },
+    {
+        "name": "microbiome_pipelines",
+        "description": null,
+        "languages": {
+            "WDL": 103226,
+            "Dockerfile": 4706,
+            "Python": 327
+        }
+    },
+    {
+        "name": "topmed-workflow-variant-calling",
+        "description": null,
+        "languages": {
+            "WDL": 47964,
+            "Shell": 4257
+        }
+    },
+    {
+        "name": "wf_cfmedip",
+        "description": "Workflow for cfMeDIP data analysis using Docker",
+        "languages": {
+            "WDL": 17928,
+            "R": 12788,
+            "Python": 8925,
+            "Dockerfile": 2489
+        }
+    },
+    {
+        "name": "wdl-workflows",
+        "description": "Configuration file templates to run WDL workflows with Cromwell",
+        "languages": {
+            "WDL": 124378,
+            "Dockerfile": 589
+        }
+    },
+    {
+        "name": "wdl_scripts",
+        "description": null,
+        "languages": {
+            "WDL": 27777
+        }
+    },
+    {
+        "name": "training-resources",
+        "description": "Training materials for staff and community members",
+        "languages": {
+            "WDL": 5373
+        }
+    },
+    {
+        "name": "wdl-hub",
+        "description": "A centralized repository for organizing, storing, and sharing my WDL tasks and workflows.",
+        "languages": {
+            "WDL": 37589,
+            "Shell": 6346,
+            "Python": 2769
+        }
+    },
+    {
+        "name": "CDPHE-influenza",
+        "description": null,
+        "languages": {
+            "WDL": 35325,
+            "Python": 22098
+        }
+    },
+    {
+        "name": "centaur",
+        "description": "Cromwell integration testing environment",
+        "languages": {
+            "WDL": 189099,
+            "Scala": 68944,
+            "Shell": 5169
+        }
+    },
+    {
+        "name": "Whole-Exome-Sequencing-Workflow",
+        "description": "WES workflow using WDL language",
+        "languages": {
+            "WDL": 21978
+        }
+    },
+    {
+        "name": "qc_imputation",
+        "description": "Genotype QC and imputation pipeline",
+        "languages": {
+            "WDL": 97496,
+            "Python": 8353,
+            "Shell": 3164,
+            "Dockerfile": 145
+        }
+    },
+    {
+        "name": "SRANWRP",
+        "description": "Wraps up some SRA-related utilities",
+        "languages": {
+            "WDL": 42974
+        }
+    },
+    {
+        "name": "gatk-preprocess",
+        "description": "A BioWDL workflow for preprocessing BAM files for variantcalling. Based on the GATK Best Practices. Category:Single-Sample",
+        "languages": {
+            "WDL": 7344,
+            "Python": 812
+        }
+    },
+    {
+        "name": "pipeline",
+        "description": "Pipeline Workflows",
+        "languages": {
+            "WDL": 272471,
+            "C++": 123148,
+            "Python": 14249,
+            "R": 2395,
+            "Dockerfile": 1680
+        }
+    },
+    {
+        "name": "tetralogy-of-fallot",
+        "description": "Accompanies the Tetralogy of Fallot Terra Workspace",
+        "languages": {
+            "WDL": 43642
+        }
+    },
+    {
+        "name": "fetch-dbgap-data-workflow",
+        "description": null,
+        "languages": {
+            "WDL": 1488,
+            "Dockerfile": 826
+        }
+    },
+    {
+        "name": "celseq2-wdl",
+        "description": null,
+        "languages": {
+            "WDL": 936,
+            "Dockerfile": 696,
+            "Shell": 126
+        }
+    },
+    {
+        "name": "nanopore-tools",
+        "description": "Tools for Oxford Nanopore ",
+        "languages": {
+            "WDL": 58684,
+            "Python": 13933,
+            "Dockerfile": 5961,
+            "Shell": 1861
+        }
+    },
+    {
+        "name": "trellis-mvp-gatk",
+        "description": "GATK with five-dollar-genome-analysis-pipeline on GCP for MVP",
+        "languages": {
+            "WDL": 94700,
+            "Shell": 4244
+        }
+    },
+    {
+        "name": "GATK-For-Primates",
+        "description": "GATK For Primates Best Practices Protocol",
+        "languages": {
+            "WDL": 193461,
+            "Python": 8106
+        }
+    },
+    {
+        "name": "gutbugs_microbiome",
+        "description": null,
+        "languages": {
+            "WDL": 14144
+        }
+    },
+    {
+        "name": "cas-designer",
+        "description": null,
+        "languages": {
+            "WDL": 2316,
+            "Dockerfile": 1719,
+            "Shell": 1352
+        }
+    },
+    {
+        "name": "workflow_development_guide",
+        "description": null,
+        "languages": {
+            "WDL": 854,
+            "Dockerfile": 470
+        }
+    },
+    {
+        "name": "wdl_assembly_wf",
+        "description": "A small workflow for the assembly of short-read illumina data",
+        "languages": {
+            "WDL": 3488
+        }
+    },
+    {
+        "name": "mycosnp-wdl",
+        "description": "A WDL wrapper of CDCGov/mycosnp-nf for Terra.bio",
+        "languages": {
+            "WDL": 13546,
+            "Dockerfile": 3033
+        }
+    },
+    {
+        "name": "gatk-sv-single-sample",
+        "description": "WDLs for the Single Sample GATK-SV pipeline",
+        "languages": {
+            "WDL": 753003,
+            "Shell": 2004,
+            "Python": 1599
+        }
+    },
+    {
+        "name": "tg-wdl-LILAC-workflow",
+        "description": "Workflow for LILAC data from Berger Lab",
+        "languages": {
+            "WDL": 45197,
+            "R": 4196
+        }
+    },
+    {
+        "name": "ToolWrappers",
+        "description": "CWL and WDL Tool Definitions converted by Acclimatise",
+        "languages": {
+            "WDL": 33454850,
+            "Common Workflow Language": 31344369
+        }
+    },
+    {
+        "name": "dockstore-test",
+        "description": "testing Dockstore integration",
+        "languages": {
+            "WDL": 662
+        }
+    },
+    {
+        "name": "ecobabe",
+        "description": null,
+        "languages": {
+            "WDL": 14144
+        }
+    },
+    {
+        "name": "somatic_variant",
+        "description": "Variant calling to identify Clonal hematopoiesis mutation ",
+        "languages": {
+            "WDL": 6391
+        }
+    },
+    {
+        "name": "parabricks-omics-private-workflows",
+        "description": "For running private Parabricks workflows on Amazon Omics",
+        "languages": {
+            "WDL": 29341,
+            "TypeScript": 29263,
+            "Python": 19287,
+            "Makefile": 1883,
+            "JavaScript": 1791,
+            "Dockerfile": 949,
+            "Shell": 33
+        }
+    },
+    {
+        "name": "bamQC",
+        "description": "Workflow to run bam-qc-metrics (https://github.com/oicr-gsi/bam-qc-metrics)",
+        "languages": {
+            "WDL": 36194,
+            "Shell": 360
+        }
+    },
+    {
+        "name": "somatic_workflow",
+        "description": "WDL workflows for multi-sample somatic analysis of tissue or liquid biopsy samples from cancer patients.",
+        "languages": {
+            "WDL": 275079,
+            "Python": 93175,
+            "Shell": 5013
+        }
+    },
+    {
+        "name": "ww-vc-trio",
+        "description": "Variant calling WDL workflow using a trio of variant callers and analyzing consensus among them",
+        "languages": {
+            "WDL": 20579
+        }
+    },
+    {
+        "name": "gatk-workflows",
+        "description": "The new standard in cloud bioinformatics (WDL+Cromwell)",
+        "languages": {
+            "WDL": 144079
+        }
+    },
+    {
+        "name": "Workflows",
+        "description": "WDL workflows ",
+        "languages": {
+            "WDL": 91447,
+            "Shell": 701
+        }
+    },
+    {
+        "name": "clinical-validation",
+        "description": "Check if a VCF for a benchmark sample matches the given output.",
+        "languages": {
+            "WDL": 12368,
+            "Python": 4428,
+            "Dockerfile": 111
+        }
+    },
+    {
+        "name": "arriba",
+        "description": "Fusion caller which runs off of STAR bam",
+        "languages": {
+            "WDL": 5100,
+            "Shell": 304
+        }
     }
 ]

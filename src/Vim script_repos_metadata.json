@@ -42,5 +42,1730 @@
             "HTML": 253,
             "Haml": 39
         }
+    },
+    {
+        "name": "scripting_course",
+        "description": ":notebook: Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim.",
+        "languages": {
+            "Vim Script": 4606,
+            "Shell": 3042
+        }
+    },
+    {
+        "name": "fern.vim",
+        "description": "\ud83c\udf3f General purpose asynchronous tree viewer written in Pure Vim script",
+        "languages": {
+            "Vim Script": 302776
+        }
+    },
+    {
+        "name": "vim-jsx-pretty",
+        "description": ":flashlight: [Vim script] JSX and TSX syntax pretty highlighting for vim.",
+        "languages": {
+            "Vim Script": 22831,
+            "JavaScript": 5056
+        }
+    },
+    {
+        "name": "asyncomplete.vim",
+        "description": "async completion in pure vim script for vim8 and neovim",
+        "languages": {
+            "Vim Script": 26720
+        }
+    },
+    {
+        "name": "vimllearn",
+        "description": "A book for VimL Script language",
+        "languages": {
+            "Vim Script": 14369,
+            "Shell": 11094,
+            "Perl": 4187,
+            "HTML": 282,
+            "Python": 213
+        }
+    },
+    {
+        "name": "vimfiler.vim",
+        "description": ":file_folder: Powerful file explorer implemented by Vim script",
+        "languages": {
+            "Vim Script": 241858
+        }
+    },
+    {
+        "name": "vim-indent-object",
+        "description": "Vim plugin that defines a new text object representing lines of code at the same indent level. Useful for python/vim scripts, etc.",
+        "languages": {
+            "Vim Script": 7740
+        }
+    },
+    {
+        "name": "vim-gnupg",
+        "description": "This script implements transparent editing of gpg encrypted files.",
+        "languages": {
+            "Vim Script": 42450
+        }
+    },
+    {
+        "name": "vim-scriptease",
+        "description": "scriptease.vim: A Vim plugin for Vim plugins",
+        "languages": {
+            "Vim Script": 31120
+        }
+    },
+    {
+        "name": "CamelCaseMotion",
+        "description": "A vim script to provide CamelCase motion through words (fork of inkarkat's camelcasemotion script)",
+        "languages": {
+            "Vim Script": 18667
+        }
+    },
+    {
+        "name": "vim-fish",
+        "description": "Vim support for editing fish scripts",
+        "languages": {
+            "Vim Script": 6285,
+            "Shell": 10
+        }
+    },
+    {
+        "name": "vim-misc",
+        "description": "Miscellaneous auto-load Vim scripts",
+        "languages": {
+            "Vim Script": 97574
+        }
+    },
+    {
+        "name": "python-syntax",
+        "description": "Python syntax highlighting script for Vim",
+        "languages": {
+            "Vim Script": 26044,
+            "Python": 2717
+        }
+    },
+    {
+        "name": "cfg",
+        "description": "dotfiles and related syncing scripts",
+        "languages": {
+            "Vim Script": 969710,
+            "Shell": 83698,
+            "Haskell": 7454,
+            "Python": 4548,
+            "Makefile": 3046,
+            "Lua": 2274,
+            "CoffeeScript": 1402,
+            "CSS": 1360,
+            "Ruby": 704,
+            "C": 138,
+            "HTML": 134
+        }
+    },
+    {
+        "name": "vim-bufkill",
+        "description": "Git repo for http://www.vim.org/scripts/script.php?script_id=1147",
+        "languages": {
+            "Vim Script": 32591
+        }
+    },
+    {
+        "name": "vim-themis",
+        "description": "A testing framework for Vim script.",
+        "languages": {
+            "Vim Script": 128616,
+            "Batchfile": 1168,
+            "Shell": 740
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "Dotfiles and an install script for easy set up",
+        "languages": {
+            "Vim Script": 129864,
+            "Shell": 24161,
+            "Vim Snippet": 2585,
+            "Ruby": 452
+        }
+    },
+    {
+        "name": "8cc.vim",
+        "description": "C Compiler written in Vim script",
+        "languages": {
+            "Vim Script": 6484871,
+            "C": 64
+        }
+    },
+    {
+        "name": "vim-linux-coding-style",
+        "description": "Vim plugin to respect the Linux kernel coding style http://www.vim.org/scripts/script.php?script_id=4369",
+        "languages": {
+            "Vim Script": 2819
+        }
+    },
+    {
+        "name": "vim-vspec",
+        "description": "Vim plugin: Testing framework for Vim script",
+        "languages": {
+            "Vim Script": 67393,
+            "Shell": 21740,
+            "Ruby": 310
+        }
+    },
+    {
+        "name": "fuzzyfinder_textmate",
+        "description": "A vim script that extends the fuzzyfinder plugin to support TextMate style file searches (e.g. cmd-T) (Unmaintained now, see http://weblog.jamisbuck.org/2009/1/28/the-future-of-fuzzyfinder-textmate)",
+        "languages": {
+            "Vim Script": 5735
+        }
+    },
+    {
+        "name": "ZFVimIM",
+        "description": "vim\u8f93\u5165\u6cd5 / Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files",
+        "languages": {
+            "Vim Script": 129220,
+            "Python": 13199,
+            "Batchfile": 3759,
+            "Shell": 3126
+        }
+    },
+    {
+        "name": "GitHub.vim",
+        "description": "Another github v3 api implemented in vim script",
+        "languages": {
+            "Vim Script": 70835,
+            "Makefile": 546
+        }
+    },
+    {
+        "name": "Dotfiles",
+        "description": "My [NeoVim + Tmux + Fish Shell] Setup /w install scripts",
+        "languages": {
+            "Vim Script": 47197,
+            "C++": 18747,
+            "Shell": 11450,
+            "CSS": 3300,
+            "GDB": 55
+        }
+    },
+    {
+        "name": "detectindent",
+        "description": "Vim script for automatically detecting indent settings",
+        "languages": {
+            "Vim Script": 7194
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "My dotfiles (Zsh / Vim / Neovim / Git / scripts) - (not much in sync / outdated)",
+        "languages": {
+            "Vim Script": 1051344,
+            "JavaScript": 186915,
+            "Shell": 84499,
+            "Ruby": 26449,
+            "Lua": 18011,
+            "Python": 13894,
+            "Makefile": 9224,
+            "Perl": 2644
+        }
+    },
+    {
+        "name": "eskk.vim",
+        "description": "eskk is pure Vim script implementation of input method engine SKK",
+        "languages": {
+            "Vim Script": 369592,
+            "Python": 2183,
+            "TypeScript": 791
+        }
+    },
+    {
+        "name": "context_filetype.vim",
+        "description": "Context filetype library for Vim script",
+        "languages": {
+            "Vim Script": 24259,
+            "HTML": 435,
+            "Common Lisp": 94
+        }
+    },
+    {
+        "name": "vim-vimlparser",
+        "description": "Vim script parser",
+        "languages": {
+            "Vim Script": 338378,
+            "Python": 293730,
+            "JavaScript": 284441,
+            "Shell": 1974,
+            "Makefile": 1304,
+            "Batchfile": 348
+        }
+    },
+    {
+        "name": "vim-processing",
+        "description": "Create and run processing sketches in Vim. Development repository for vim script 2115.",
+        "languages": {
+            "Vim Script": 21617,
+            "Python": 7542,
+            "AppleScript": 573
+        }
+    },
+    {
+        "name": "go-vimlparser",
+        "description": ":zap: Vim Script Parser written in Go",
+        "languages": {
+            "Vim Script": 321054,
+            "Go": 93638,
+            "Shell": 1121,
+            "Batchfile": 114
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "My configuration files and personal collection of scripts.",
+        "languages": {
+            "Vim Script": 306504,
+            "Shell": 176777,
+            "Python": 82576,
+            "Rust": 57585,
+            "Nushell": 31095,
+            "JavaScript": 2691,
+            "Less": 142
+        }
+    },
+    {
+        "name": "vim-hooks",
+        "description": "Easily hook shell scripts into Vim autocmd events.",
+        "languages": {
+            "Vim Script": 42173,
+            "Shell": 1786
+        }
+    },
+    {
+        "name": "ProVim",
+        "description": "Repository to hold dotfiles and scripts specific to ProVim",
+        "languages": {
+            "Vim Script": 3783568,
+            "Clojure": 33645,
+            "Shell": 23297,
+            "Makefile": 12140,
+            "Ruby": 10683,
+            "Python": 3436,
+            "Erlang": 2152,
+            "JavaScript": 1064,
+            "CSS": 308
+        }
+    },
+    {
+        "name": "PHP-Indenting-for-VIm",
+        "description": "The official VIm indent script for PHP",
+        "languages": {
+            "Vim Script": 89795
+        }
+    },
+    {
+        "name": "vim-projectroot",
+        "description": "Find out which project a file belongs to, easy to use in scripts/mappings",
+        "languages": {
+            "Vim Script": 5402
+        }
+    },
+    {
+        "name": "neco-vim",
+        "description": "The Vim Script completion source for neocomplete/deoplete/ddc",
+        "languages": {
+            "Vim Script": 27013,
+            "TypeScript": 1168,
+            "Python": 936
+        }
+    },
+    {
+        "name": "vim-unbundle",
+        "description": "\ud83c\udf81 Fast, filetype-lazy loader of Vim scripts & plugins",
+        "languages": {
+            "Vim Script": 3857
+        }
+    },
+    {
+        "name": "vim-brain",
+        "description": "Neural Networks written in Vim script",
+        "languages": {
+            "Vim Script": 6235,
+            "Jupyter Notebook": 4144
+        }
+    },
+    {
+        "name": "robotframework-vim",
+        "description": "Some vim scripts for use with the Robot framework.",
+        "languages": {
+            "Vim Script": 17928
+        }
+    },
+    {
+        "name": "bash-support.vim",
+        "description": "BASH IDE -- Write and run BASH-scripts using menus and hotkeys.",
+        "languages": {
+            "Vim Script": 206734,
+            "TeX": 12433,
+            "Shell": 1318
+        }
+    },
+    {
+        "name": "bash-support",
+        "description": "Edit Bash scripts in Vim/gVim. Insert code snippets, run, check, and debug the code and look up help.",
+        "languages": {
+            "Vim Script": 366591,
+            "TeX": 16266,
+            "Lua": 12186,
+            "Shell": 1258
+        }
+    },
+    {
+        "name": "indentpython.vim",
+        "description": "An alternative indentation script for python",
+        "languages": {
+            "Vim Script": 5645
+        }
+    },
+    {
+        "name": "writegood.vim",
+        "description": "Vim plugin for Matt Might's '3 shell scripts that can improve your writing'",
+        "languages": {
+            "Vim Script": 4117
+        }
+    },
+    {
+        "name": "vim-renamer",
+        "description": "Git repo for http://www.vim.org/scripts/script.php?script_id=1721",
+        "languages": {
+            "Vim Script": 35676
+        }
+    },
+    {
+        "name": "gso",
+        "description": "\ud83c\udfc3  Google StackOverflow in Vim. Copy-pastes the code directly in your script.",
+        "languages": {
+            "Vim Script": 6346,
+            "Python": 3255,
+            "Dockerfile": 800,
+            "Shell": 88
+        }
+    },
+    {
+        "name": "vim-reload",
+        "description": "Automatic reloading of Vim scripts ((file-type) plug-ins, auto-load/syntax/indent scripts, color schemes)",
+        "languages": {
+            "Vim Script": 8922
+        }
+    },
+    {
+        "name": "L9",
+        "description": "Vim-script library",
+        "languages": {
+            "Vim Script": 28510,
+            "Python": 2322
+        }
+    },
+    {
+        "name": "underscore.vim",
+        "description": "Vim script utility library :heartbeat: The sky is the limit!",
+        "languages": {
+            "Vim Script": 17891
+        }
+    },
+    {
+        "name": "simple-javascript-indenter",
+        "description": "A vim javascript indent script",
+        "languages": {
+            "Vim Script": 10327,
+            "JavaScript": 3866
+        }
+    },
+    {
+        "name": "vim-shellcheck",
+        "description": "Vim wrapper for ShellCheck, a static analysis tool for shell scripts.",
+        "languages": {
+            "Vim Script": 4132,
+            "Makefile": 230
+        }
+    },
+    {
+        "name": "JavaScript-Indent",
+        "description": "Javascript indenter (HTML indent is included)",
+        "languages": {
+            "Vim Script": 16747
+        }
+    },
+    {
+        "name": "vim-git-branch-info",
+        "description": "A Vim script to return info about the Git branches.",
+        "languages": {
+            "Vim Script": 10108,
+            "Makefile": 148
+        }
+    },
+    {
+        "name": "vim-scmdiff",
+        "description": "Vim script to highlight lines changed from a base version in SCM",
+        "languages": {
+            "Vim Script": 5175
+        }
+    },
+    {
+        "name": "systemverilog.vim",
+        "description": "SystemVerilog vim scripts",
+        "languages": {
+            "Vim Script": 19212
+        }
+    },
+    {
+        "name": "pgmnt.vim",
+        "description": ":art: Template engine for Vim color schemes, in pure Vim script",
+        "languages": {
+            "Vim Script": 14283
+        }
+    },
+    {
+        "name": "vim-skip",
+        "description": "simple movement script for vim",
+        "languages": {
+            "Vim Script": 12999
+        }
+    },
+    {
+        "name": "Efficient-office",
+        "description": "Alfred-Workflows\uff0cVim\uff0cScript\uff0cMac",
+        "languages": {
+            "Vim Script": 55620,
+            "Shell": 33729,
+            "Python": 9030,
+            "Go": 1391,
+            "AppleScript": 1294,
+            "PHP": 158
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "small scripts and config files",
+        "languages": {
+            "Vim Script": 42220,
+            "Shell": 28221,
+            "CSS": 1170
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "My dotfiles, with simple install script.",
+        "languages": {
+            "Vim Script": 171292,
+            "Python": 54058,
+            "Shell": 17076,
+            "Vim Snippet": 5850,
+            "R": 1338,
+            "TeX": 409,
+            "C++": 144,
+            "HTML": 131,
+            "Perl": 122
+        }
+    },
+    {
+        "name": "Vimdown",
+        "description": "A dirty tool to convert .vimrc and .vim script files to markdown",
+        "languages": {
+            "Vim Script": 36159,
+            "Python": 18459,
+            "Shell": 5421,
+            "JavaScript": 237
+        }
+    },
+    {
+        "name": "better-indent-support-for-php-with-html",
+        "description": "This script allows you to indent HTML sections in PHP files",
+        "languages": {
+            "Vim Script": 1096
+        }
+    },
+    {
+        "name": "bspwm-install",
+        "description": "Script for setup a lightweight bspwm environment on Arch Linux",
+        "languages": {
+            "Vim Script": 19788,
+            "Shell": 18298,
+            "Python": 11286
+        }
+    },
+    {
+        "name": "yaml-vim",
+        "description": "YAML Highlight script for VIM editor",
+        "languages": {
+            "Vim Script": 9610,
+            "Ruby": 2900
+        }
+    },
+    {
+        "name": "vim-debugger",
+        "description": ":feet: Vim script debugger :bug:",
+        "languages": {
+            "Vim Script": 113823
+        }
+    },
+    {
+        "name": "vimling",
+        "description": "Small vim scripts for writing IPA and other special characters",
+        "languages": {
+            "Vim Script": 5829
+        }
+    },
+    {
+        "name": "syntax-vim-ex",
+        "description": "An excellent Vim's syntax highlighting file for Vim script",
+        "languages": {
+            "Vim Script": 80983
+        }
+    },
+    {
+        "name": "vim-rabbit-ui",
+        "description": "Rich UI Vim script Library",
+        "languages": {
+            "Vim Script": 43882
+        }
+    },
+    {
+        "name": "perl-support.vim",
+        "description": "Perl IDE -- Write and run Perl-scripts using menus and hotkeys.",
+        "languages": {
+            "Vim Script": 323917,
+            "Perl": 32344,
+            "TeX": 19410,
+            "Shell": 1063
+        }
+    },
+    {
+        "name": "vim-slurper",
+        "description": "Vim script for slurper gem to provide file specific syntax highlighting and key mappings.",
+        "languages": {
+            "Vim Script": 3985
+        }
+    },
+    {
+        "name": "vim-game_engine",
+        "description": "This is Game Engine for Vim script.",
+        "languages": {
+            "Vim Script": 67569
+        }
+    },
+    {
+        "name": "python-syntax",
+        "description": "Python syntax highlighting script for Vim",
+        "languages": {
+            "Vim Script": 15946
+        }
+    },
+    {
+        "name": "vim-osx-colorpicker",
+        "description": "Vim color picker script for OS X ",
+        "languages": {
+            "Vim Script": 8809
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "My system configuration for macOS, consisting of config dotfiles and shell scripts",
+        "languages": {
+            "Vim Script": 49796,
+            "Shell": 10500,
+            "JavaScript": 3164,
+            "Ruby": 3092
+        }
+    },
+    {
+        "name": "vim-fish-syntax",
+        "description": "Syntax and ftplugin files for fish shell scripts",
+        "languages": {
+            "Vim Script": 7115
+        }
+    },
+    {
+        "name": "vim-Verdin",
+        "description": "An omni completion function for Vim script",
+        "languages": {
+            "Vim Script": 141863
+        }
+    },
+    {
+        "name": "GAR",
+        "description": "Gato's Auto Ricer - GAR",
+        "languages": {
+            "Vim Script": 12495,
+            "Shell": 5076,
+            "SCSS": 1544,
+            "CSS": 331
+        }
+    },
+    {
+        "name": "dwmricer",
+        "description": "DWM Auto Install and Ricing Script",
+        "languages": {
+            "Vim Script": 4756,
+            "Shell": 1946
+        }
+    },
+    {
+        "name": "Vim",
+        "description": "Vim Scripts (TCL and SQL Syntax, custom color)",
+        "languages": {
+            "Vim Script": 204330,
+            "Shell": 728
+        }
+    },
+    {
+        "name": "vinel",
+        "description": "VINEL Is Not Emacs Lisp - Lisp dialect compiling to Vim Script.",
+        "languages": {
+            "Vim Script": 16626
+        }
+    },
+    {
+        "name": "laptop",
+        "description": "Setup script and dotfiles",
+        "languages": {
+            "Vim Script": 13129,
+            "Shell": 11372
+        }
+    },
+    {
+        "name": "nvim",
+        "description": "\u2764\ufe0f  A neovim config repo.",
+        "languages": {
+            "Vim Script": 99531,
+            "Shell": 474
+        }
+    },
+    {
+        "name": "vim-run-in-blender",
+        "description": "Execute python scripts in Blender without leaving Vim",
+        "languages": {
+            "Vim Script": 475
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "Config scripts I use in my $HOME for various Linux apps",
+        "languages": {
+            "Vim Script": 1095488,
+            "Shell": 134515,
+            "Python": 130359,
+            "JavaScript": 65085,
+            "Roff": 58104,
+            "CSS": 22890,
+            "PHP": 20708,
+            "Vim Snippet": 3447
+        }
+    },
+    {
+        "name": "vim-backslash",
+        "description": "Automatically insert a leading backslash when editing Vim scripts",
+        "languages": {
+            "Vim Script": 4708
+        }
+    },
+    {
+        "name": "qline.vim",
+        "description": "The quick, fully-customizable status line plugin written in cutting-edge Vim9 script.",
+        "languages": {
+            "Vim Script": 25613
+        }
+    },
+    {
+        "name": "vital-power-assert",
+        "description": ":muscle: Power Assert in Vim script",
+        "languages": {
+            "Vim Script": 266763,
+            "Shell": 419
+        }
+    },
+    {
+        "name": "daveconfig",
+        "description": "A collection of settings and tiny scripts for many things. Note: only main branch is safe!",
+        "languages": {
+            "Vim Script": 397693,
+            "Perl": 145277,
+            "Shell": 104994,
+            "Python": 36182,
+            "AutoHotkey": 23753,
+            "Batchfile": 15784,
+            "JavaScript": 3752,
+            "AppleScript": 2280,
+            "C#": 1599,
+            "C++": 1347,
+            "HTML": 1087,
+            "Lua": 895,
+            "Makefile": 57
+        }
+    },
+    {
+        "name": "vim-bundle-mako",
+        "description": "A collection of vim scripts for the mako templating engine, in a vim bundle form (usable with pathogen.vim)",
+        "languages": {
+            "Vim Script": 18069
+        }
+    },
+    {
+        "name": "vim-skeletons",
+        "description": "Quickly scaffold template files in your favorite editor using UltiSnips templates",
+        "languages": {
+            "Vim Script": 4061,
+            "PHP": 105,
+            "JavaScript": 104
+        }
+    },
+    {
+        "name": "System",
+        "description": "dotfiles, handy scripts, and new-system configuration stuff",
+        "languages": {
+            "Vim Script": 93946,
+            "Shell": 70317,
+            "Lua": 44435,
+            "Sieve": 31877,
+            "Perl": 24268,
+            "Ruby": 10365,
+            "PowerShell": 6453,
+            "AutoHotkey": 4435,
+            "JavaScript": 4131,
+            "AppleScript": 2706,
+            "CSS": 1770,
+            "Dhall": 1636,
+            "TypeScript": 1144,
+            "CoffeeScript": 743
+        }
+    },
+    {
+        "name": "vim-unittest",
+        "description": "Unit Testing Framework for Vim script",
+        "languages": {
+            "Vim Script": 102442,
+            "Shell": 4928
+        }
+    },
+    {
+        "name": "php-getter-setter.vim",
+        "description": "a vim plugin to generate php getters and setters from class properties -- http://www.vim.org/scripts/script.php?script_id=1707",
+        "languages": {
+            "Vim Script": 24591
+        }
+    },
+    {
+        "name": "hatena-vim",
+        "description": "Vim scripts for posting/updating hatena diary/group",
+        "languages": {
+            "Vim Script": 26532
+        }
+    },
+    {
+        "name": "vim-magnum",
+        "description": "magnum.vim \u2013 Pure Vim script big integer library",
+        "languages": {
+            "Vim Script": 77531
+        }
+    },
+    {
+        "name": "vim-vimconsole",
+        "description": "This is immediate-window for Vim script. It is like Google Chrome Developer Console.",
+        "languages": {
+            "Vim Script": 42134
+        }
+    },
+    {
+        "name": "scripts",
+        "description": "Scripts collection for system administration",
+        "languages": {
+            "Vim Script": 1194550,
+            "Shell": 361679,
+            "Python": 270124,
+            "Ruby": 15307,
+            "R": 2285,
+            "CoffeeScript": 1402,
+            "HTML": 455
+        }
+    },
+    {
+        "name": "vim-mql4",
+        "description": "Vim syntax definition for MQL4 programming language (Metatrader 4 *.mq4 scripts)",
+        "languages": {
+            "Vim Script": 27726
+        }
+    },
+    {
+        "name": "vim-autograd",
+        "description": "Automatic differentiation library written in pure Vim script.",
+        "languages": {
+            "Vim Script": 49348
+        }
+    },
+    {
+        "name": "R-Vim-runtime",
+        "description": "Vim runtime scripts of file types that include R code",
+        "languages": {
+            "Vim Script": 71444,
+            "R": 41443,
+            "Shell": 558
+        }
+    },
+    {
+        "name": "vim-addon-nix",
+        "description": "some scripts assisting wirting .nix files",
+        "languages": {
+            "Vim Script": 13422,
+            "Nix": 3116
+        }
+    },
+    {
+        "name": "VimIRC.vim",
+        "description": "An IRC client script",
+        "languages": {
+            "Vim Script": 197459
+        }
+    },
+    {
+        "name": ".dotfiles",
+        "description": "sagotsky's dotfiles and scripts",
+        "languages": {
+            "Vim Script": 280156,
+            "Shell": 259067,
+            "Emacs Lisp": 181071,
+            "Python": 29526,
+            "Ruby": 22750,
+            "Perl": 11962,
+            "Haskell": 9864,
+            "CSS": 8764,
+            "Lua": 1080,
+            "Vim Snippet": 793,
+            "NASL": 41
+        }
+    },
+    {
+        "name": "vim-makefile",
+        "description": "A lightweight non-dependency Makefile for install, uninstall, bundle, distribute Vim plugin scripts.  ",
+        "languages": {
+            "Vim Script": 1022,
+            "Perl": 560,
+            "Shell": 307
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "biegunka scripts to keep various environments' configuration updated",
+        "languages": {
+            "Vim Script": 46303,
+            "Haskell": 21986,
+            "Nix": 15686,
+            "E": 6887,
+            "Shell": 5901,
+            "Ruby": 18
+        }
+    },
+    {
+        "name": "setcolors.vim",
+        "description": "Shameless rip from http://vim.wikia.com/wiki/Switch_color_schemes#Script",
+        "languages": {
+            "Vim Script": 3747
+        }
+    },
+    {
+        "name": "perl-support",
+        "description": "Edit Perl scripts in Vim/gVim. Insert code snippets, run, check, and profile the code and look up help.",
+        "languages": {
+            "Vim Script": 426940,
+            "Perl": 32096,
+            "TeX": 19761,
+            "Lua": 12127,
+            "Shell": 1003,
+            "Raku": 213
+        }
+    },
+    {
+        "name": "lua-support",
+        "description": "Edit Lua scripts in Vim/gVim/Neovim. Insert code snippets, run, compile, and check the code and look up help.",
+        "languages": {
+            "Vim Script": 337348,
+            "Lua": 53453
+        }
+    },
+    {
+        "name": "imcsc-vim",
+        "description": "Input method control scripts collection for Vim",
+        "languages": {
+            "Vim Script": 5190,
+            "C": 3964,
+            "Python": 1964,
+            "Makefile": 355
+        }
+    },
+    {
+        "name": "exception.vim",
+        "description": "Vim plugin for tracing exceptions thrown by VimL scripts.",
+        "languages": {
+            "Vim Script": 2511
+        }
+    },
+    {
+        "name": "vim-mark",
+        "description": "my clone for http://www.vim.org/scripts/script.php?script_id=2666",
+        "languages": {
+            "Vim Script": 77210
+        }
+    },
+    {
+        "name": "python.vim--Vasiliev",
+        "description": "Enhanced version of the python syntax highlighting script",
+        "languages": {
+            "Vim Script": 15880
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "Config's and scripts ",
+        "languages": {
+            "Vim Script": 4613931,
+            "Emacs Lisp": 4534476,
+            "Python": 245611,
+            "Shell": 101696,
+            "JavaScript": 39610,
+            "CSS": 22209,
+            "C++": 9552,
+            "Perl": 2073,
+            "C": 1001
+        }
+    },
+    {
+        "name": "tabulous",
+        "description": "Vim plugin for setting the tabline including the tab page labels. It is lightweight and written in pure Vim script.",
+        "languages": {
+            "Vim Script": 6430
+        }
+    },
+    {
+        "name": "vim-color-patch",
+        "description": ":rainbow: Load colorscheme patch script automatically !!",
+        "languages": {
+            "Vim Script": 5852
+        }
+    },
+    {
+        "name": "vimscript",
+        "description": "Exercism exercises in Vim script.",
+        "languages": {
+            "Vim Script": 59150,
+            "Shell": 3658
+        }
+    },
+    {
+        "name": "homedir",
+        "description": "my configs, scripts and tools in one place",
+        "languages": {
+            "Vim Script": 8767,
+            "Shell": 2403
+        }
+    },
+    {
+        "name": "vimrc",
+        "description": "A shell script to deploy my vim configuration",
+        "languages": {
+            "Vim Script": 15467,
+            "Vim Snippet": 1758,
+            "Shell": 1240
+        }
+    },
+    {
+        "name": "chalice",
+        "description": "Chalice for Vim - 2ch.net browser written in vim script.",
+        "languages": {
+            "Vim Script": 195245,
+            "Shell": 983
+        }
+    },
+    {
+        "name": "LearnVimL",
+        "description": "A suggested path for learning Vim's scripting language, VimL ",
+        "languages": {
+            "Vim Script": 10117
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "My shell configuration and scripts. My \"dotfiles\". ... Over a decade of tuning my environments. \u231a\ud83d\ude2e\ud83e\udd2f",
+        "languages": {
+            "Vim Script": 49610,
+            "Shell": 40023,
+            "Vim Snippet": 2491,
+            "Makefile": 463
+        }
+    },
+    {
+        "name": "vim-for-python",
+        "description": "vim scripts and configuration to ease the python programming using vim",
+        "languages": {
+            "Vim Script": 42101
+        }
+    },
+    {
+        "name": "vim-applescript",
+        "description": "Vim utility scripts for AppleScript",
+        "languages": {
+            "Vim Script": 14817
+        }
+    },
+    {
+        "name": "VimBookmarking",
+        "description": "A Vim Script which provides a bookmarking facility",
+        "languages": {
+            "Vim Script": 8936
+        }
+    },
+    {
+        "name": "vide",
+        "description": "\ud83c\udf44IDE layer for Vim. Beginner-friendly, user-oriented, made with \u2764 for community. All in Vim-script",
+        "languages": {
+            "Vim Script": 35300,
+            "Shell": 5185,
+            "PowerShell": 5146,
+            "Batchfile": 517
+        }
+    },
+    {
+        "name": "Mark",
+        "description": "a little script to highlight several words in different colors simultaneously",
+        "languages": {
+            "Vim Script": 13401
+        }
+    },
+    {
+        "name": "vim-script-runner",
+        "description": "A vim plugin for running perl, python, ruby, bash, etc. scripts inside of vim.",
+        "languages": {
+            "Vim Script": 2296,
+            "Shell": 77
+        }
+    },
+    {
+        "name": "vim-budoux",
+        "description": "BudouX Vim script implementation (experimental)",
+        "languages": {
+            "Vim Script": 2823
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "My dotfiles / setup scripts for vim, neovim, vscode, zsh, tmux, intellij etc.",
+        "languages": {
+            "Vim Script": 308543,
+            "Shell": 6964,
+            "JavaScript": 2277
+        }
+    },
+    {
+        "name": "DotFiles",
+        "description": "rcfiles, dotfiles, vim files, shell scripts",
+        "languages": {
+            "Vim Script": 528147,
+            "Roff": 91820,
+            "Shell": 84602,
+            "Python": 38527,
+            "Vim Snippet": 1030
+        }
+    },
+    {
+        "name": "android-stuff",
+        "description": "Random scripts and files I use for Android reversing",
+        "languages": {
+            "Vim Script": 6790
+        }
+    },
+    {
+        "name": "vim-eco",
+        "description": "Eco (embedded coffee-script) support for Vim",
+        "languages": {
+            "Vim Script": 8278,
+            "Ruby": 121
+        }
+    },
+    {
+        "name": "AfterColors.vim",
+        "description": "Provides support for after/colors/ scripts",
+        "languages": {
+            "Vim Script": 2387
+        }
+    },
+    {
+        "name": "VimColorSchemeTest-Ruby",
+        "description": "A script to create samples of installed vim color schemes",
+        "languages": {
+            "Vim Script": 771331,
+            "JavaScript": 74788,
+            "Ruby": 9209,
+            "Python": 397
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "Config and mini-scripts tuned for vim, zsh, i3, urxvt, repls, etc",
+        "languages": {
+            "Vim Script": 466984,
+            "Shell": 453797,
+            "Python": 199158,
+            "Perl": 45026,
+            "Vim Snippet": 14716,
+            "R": 10000,
+            "Ruby": 7950,
+            "Clojure": 4323,
+            "Makefile": 1488,
+            "Awk": 1313,
+            "C++": 1152,
+            "HTML": 1100,
+            "Pug": 1094,
+            "DIGITAL Command Language": 837,
+            "C": 484,
+            "CoffeeScript": 303,
+            "AGS Script": 222,
+            "Racket": 182,
+            "LiveScript": 68
+        }
+    },
+    {
+        "name": "vim-pine-script",
+        "description": "Vim support to edit TradingView's Pine Script files",
+        "languages": {
+            "Vim Script": 7201
+        }
+    },
+    {
+        "name": "autoload_cscope.vim",
+        "description": "Script that will search for and load cscope.out databases automatically",
+        "languages": {
+            "Vim Script": 5737
+        }
+    },
+    {
+        "name": "vfix",
+        "description": "Vfix : Vim, Debugging, Vim-scripts",
+        "languages": {
+            "Vim Script": 25753
+        }
+    },
+    {
+        "name": "haus",
+        "description": "Personal dotfiles, scripts, libraries, and documentation",
+        "languages": {
+            "Vim Script": 5273513,
+            "Shell": 1356331,
+            "Python": 1194639,
+            "Ruby": 557520,
+            "Vim Snippet": 144944,
+            "Clojure": 64047,
+            "Go": 56849,
+            "Perl": 50414,
+            "Elixir": 41323,
+            "HTML": 36084,
+            "Makefile": 32961,
+            "PLpgSQL": 32602,
+            "Roff": 21720,
+            "Gherkin": 15542,
+            "CoffeeScript": 9274,
+            "Scheme": 9244,
+            "Batchfile": 7734,
+            "JavaScript": 7158,
+            "Dockerfile": 2181,
+            "Less": 1841,
+            "Rust": 493,
+            "CSS": 203,
+            "Haml": 39
+        }
+    },
+    {
+        "name": "vim-scripts",
+        "description": "Misc Vim scripts",
+        "languages": {
+            "Vim Script": 9533
+        }
+    },
+    {
+        "name": "coq.vim",
+        "description": "Pathogen-compatible distribution of Vicent Aravantinos' vim scripts for Coq.",
+        "languages": {
+            "Vim Script": 33807
+        }
+    },
+    {
+        "name": "vim-amake",
+        "description": "An example Vim plugin for asynchronous script runner",
+        "languages": {
+            "Vim Script": 218
+        }
+    },
+    {
+        "name": "YAR",
+        "description": "Yet Another Rice - YAR",
+        "languages": {
+            "Vim Script": 11673,
+            "Shell": 6452
+        }
+    },
+    {
+        "name": "matlab.vim",
+        "description": "vim script for matlab (a copy from somewhere)",
+        "languages": {
+            "Vim Script": 23780,
+            "Shell": 14677
+        }
+    },
+    {
+        "name": "RaspberryPI_installs",
+        "description": "Install scripts for my Raspberry Pis.",
+        "languages": {
+            "Vim Script": 287560,
+            "Shell": 16372
+        }
+    },
+    {
+        "name": "nand2-vim-syn",
+        "description": "Vim syntax highlighting scripts for the nand2tetris course AKA The Elements of Computing Systems",
+        "languages": {
+            "Vim Script": 1675
+        }
+    },
+    {
+        "name": "VimScripts",
+        "description": "myself vim scripts",
+        "languages": {
+            "Vim Script": 260788,
+            "Lua": 22311,
+            "Shell": 8091,
+            "Batchfile": 486
+        }
+    },
+    {
+        "name": "vim-shiny",
+        "description": ":flashlight: [Vim script]  A plugin goal is  user friendly highlight.",
+        "languages": {
+            "Vim Script": 71778
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "My various dotfiles with a simple script to link them all up.",
+        "languages": {
+            "Vim Script": 26591,
+            "Shell": 15416
+        }
+    },
+    {
+        "name": "vitamine",
+        "description": "Vim plugins, scripts and resources for my daily use.",
+        "languages": {
+            "Vim Script": 72537,
+            "Shell": 363
+        }
+    },
+    {
+        "name": "vesting",
+        "description": "The best testing framework for Vim script",
+        "languages": {
+            "Vim Script": 18137
+        }
+    },
+    {
+        "name": "jsoncodecs.vim",
+        "description": "json library in vim-script",
+        "languages": {
+            "Vim Script": 1545
+        }
+    },
+    {
+        "name": "the-ocamlspot.vim",
+        "description": "A wrapper Vim plugin for OCamlSpotter  written in pure Vim Script.",
+        "languages": {
+            "Vim Script": 14781
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "Various dotfiles and scripts",
+        "languages": {
+            "Vim Script": 107842,
+            "C": 84805,
+            "Python": 75142,
+            "JavaScript": 16293,
+            "C++": 15913,
+            "Shell": 15776,
+            "Roff": 5165,
+            "Makefile": 2870,
+            "CSS": 2228
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "My configs and config management scripts.",
+        "languages": {
+            "Vim Script": 118691,
+            "Lua": 74573,
+            "Shell": 30259,
+            "JavaScript": 913,
+            "Ruby": 157
+        }
+    },
+    {
+        "name": "vimrc",
+        "description": "My personal vimrc configuration files\uff0cdotfiles and other scripts.",
+        "languages": {
+            "Vim Script": 272572,
+            "Shell": 94035,
+            "Lua": 44771,
+            "Python": 10095,
+            "C": 1364,
+            "Awk": 1056,
+            "PowerShell": 980,
+            "Vim Snippet": 767,
+            "AutoHotkey": 275
+        }
+    },
+    {
+        "name": "dotfiles-scripts",
+        "description": null,
+        "languages": {
+            "Vim Script": 7847,
+            "Shell": 4925,
+            "CSS": 4163
+        }
+    },
+    {
+        "name": "vimrc-vundle-script",
+        "description": "\uc5ec\ub7ec \ub9ac\ub205\uc2a4 \ud658\uacbd\uc5d0\uc11c\uc758 vimrc, vim plugin \ud30c\uc77c \ub3d9\uae30\ud654\ub97c \uc704\ud55c \uc800\uc7a5\uc18c",
+        "languages": {
+            "Vim Script": 5170
+        }
+    },
+    {
+        "name": "vim-coffee-script",
+        "description": "CoffeeScript support for vim",
+        "languages": {
+            "Vim Script": 42453
+        }
+    },
+    {
+        "name": "vim-ember-script",
+        "description": "Adds ember-script support to vim.",
+        "languages": {
+            "Vim Script": 2020
+        }
+    },
+    {
+        "name": "personal_preferences",
+        "description": "A few scripts used for my development computer.",
+        "languages": {
+            "Vim Script": 14331,
+            "Shell": 5542
+        }
+    },
+    {
+        "name": "configs",
+        "description": "My configs: vimrc, bashrc, screenrc, ant script, etc.",
+        "languages": {
+            "Vim Script": 574583,
+            "Shell": 68473,
+            "Python": 57778,
+            "Makefile": 17921,
+            "Perl": 2993,
+            "GDB": 560,
+            "Erlang": 423,
+            "HTML": 101,
+            "C++": 54,
+            "C": 53
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "dotfiles and scripts",
+        "languages": {
+            "Vim Script": 101802,
+            "Lua": 43193,
+            "Shell": 29372,
+            "JavaScript": 4212,
+            "Python": 4192,
+            "CSS": 1228,
+            "R": 345,
+            "Emacs Lisp": 108
+        }
+    },
+    {
+        "name": "underscore.vim",
+        "description": "Vim script utility library",
+        "languages": {
+            "Vim Script": 17891
+        }
+    },
+    {
+        "name": "indent-awk.vim",
+        "description": "Indenting for AWK script (vim9)",
+        "languages": {
+            "Vim Script": 16837
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "My dotfiles and a simple python script to manage the symlinks",
+        "languages": {
+            "Vim Script": 227695,
+            "Lua": 31442,
+            "Shell": 16982,
+            "Dockerfile": 444
+        }
+    },
+    {
+        "name": "BowlingKata-NodeJs-VIM",
+        "description": "A VIM script to demonstrate the bowling kata written with NodeJS and the Mocha unit test framework",
+        "languages": {
+            "Vim Script": 32412
+        }
+    },
+    {
+        "name": "JavaScript-syntax",
+        "description": "Better JavaScrirpt syntax support",
+        "languages": {
+            "Vim Script": 15357
+        }
+    },
+    {
+        "name": "macOS_settings",
+        "description": "My startup scripts, aliases, setting for Bash",
+        "languages": {
+            "Vim Script": 2635,
+            "Shell": 805
+        }
+    },
+    {
+        "name": "indenthtml.vim",
+        "description": "alternative html indent script",
+        "languages": {
+            "Vim Script": 14878
+        }
+    },
+    {
+        "name": ".dotfiles",
+        "description": "Configuration and Install scripts for development using Arch, macOS, and Ubuntu",
+        "languages": {
+            "Vim Script": 38238,
+            "Shell": 12381,
+            "Ruby": 2543,
+            "Emacs Lisp": 2047,
+            "Lua": 719
+        }
+    },
+    {
+        "name": "vim-vimscript_indentexpr",
+        "description": "Vim script's indentexpr supporting legacy Vim script syntax and Vim9 script syntax if possible.",
+        "languages": {
+            "Vim Script": 20706
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "My configuration scripts",
+        "languages": {
+            "Vim Script": 87302,
+            "Vim Snippet": 9762,
+            "Shell": 6007,
+            "Lua": 5831,
+            "CSS": 3997,
+            "JavaScript": 1246,
+            "Python": 590
+        }
+    },
+    {
+        "name": "acme-setup",
+        "description": "A collection of scripts and commands and notes-to-self on my Acme text editor setup",
+        "languages": {
+            "Vim Script": 3510,
+            "Shell": 1935
+        }
+    },
+    {
+        "name": "vim-vimscript_lasterror",
+        "description": "jump to the Vim script's last error",
+        "languages": {
+            "Vim Script": 10377
+        }
+    },
+    {
+        "name": "rope-omni",
+        "description": "A vim script to provide a ropevim omnicomplete function.",
+        "languages": {
+            "Vim Script": 2425
+        }
+    },
+    {
+        "name": "mattutils",
+        "description": "Repository for all my random tools and scripts I use",
+        "languages": {
+            "Vim Script": 126568,
+            "C": 87390,
+            "Python": 64690,
+            "Shell": 21858,
+            "C++": 13428,
+            "Makefile": 2734,
+            "CMake": 333,
+            "GDB": 102
+        }
+    },
+    {
+        "name": "vim-aftercolors",
+        "description": "Provides support for after/colors/ scripts (Mirrors Peter Hodge's AfterColors.vim on vim.org)",
+        "languages": {
+            "Vim Script": 2387
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "My Arch Linux setup for a lean, secure, command-line driven development environment with modular configuration management using shell scripts.",
+        "languages": {
+            "Vim Script": 84327,
+            "Shell": 82766
+        }
+    },
+    {
+        "name": "ack.vim",
+        "description": "Plugin for the Perl module / CLI script 'ack'",
+        "languages": {
+            "Vim Script": 1322
+        }
+    },
+    {
+        "name": "yaksha",
+        "description": "Personal linux automation for ansible playbooks, dockerfiles, dotfiles, scripts and random daemons!",
+        "languages": {
+            "Vim Script": 244276,
+            "Shell": 179981,
+            "Python": 21217,
+            "Julia": 4709,
+            "Less": 791
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "Personal configuration files, scripts, etc.",
+        "languages": {
+            "Vim Script": 70093,
+            "Shell": 31850,
+            "Vim Snippet": 23642,
+            "Python": 6371,
+            "JavaScript": 4536,
+            "CSS": 1937,
+            "GDB": 1093
+        }
+    },
+    {
+        "name": "txt.vim",
+        "description": "Universal syntax script for all txt docs, logs and other types",
+        "languages": {
+            "Vim Script": 4392
+        }
+    },
+    {
+        "name": "vim-benchmark",
+        "description": "Benchmarking Tool for Vim script",
+        "languages": {
+            "Vim Script": 3787
+        }
+    },
+    {
+        "name": "marslo.vim",
+        "description": "The color configurated by Marslo, including 256 and 16. The github repo for vim plug: http://www.vim.org/scripts/script.php?script_id=4772",
+        "languages": {
+            "Vim Script": 22083
+        }
+    },
+    {
+        "name": "vim-linux",
+        "description": "vim and some usable script tips",
+        "languages": {
+            "Vim Script": 2581,
+            "Shell": 1132
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "Some useful rc files and scripts for me",
+        "languages": {
+            "Vim Script": 130761,
+            "Shell": 48047,
+            "Ruby": 4598,
+            "CSS": 108
+        }
+    },
+    {
+        "name": "vim-sqf-syntax",
+        "description": "Syntax highlighting file for vim or neovim for Arma's SQF script syntax",
+        "languages": {
+            "Vim Script": 61156,
+            "Python": 6031
+        }
+    },
+    {
+        "name": "ZFVimJob",
+        "description": "useful job utils for vim/neovim, group job, async run, auto script, abstract job output, etc",
+        "languages": {
+            "Vim Script": 147816
+        }
+    },
+    {
+        "name": "vim-syntax-legend",
+        "description": "A script to save the result of a Vim syntax highlighting test sample as diff-able text file.",
+        "languages": {
+            "Vim Script": 3370,
+            "Shell": 1080
+        }
+    },
+    {
+        "name": "awk-support",
+        "description": "Edit AWK scripts in Vim/gVim. Insert code snippets, run, and check the code and look up help.",
+        "languages": {
+            "Vim Script": 280753,
+            "Lua": 13291,
+            "TeX": 11627,
+            "Shell": 1301
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "\ud83c\udfe1 Welcome to my dotfiles.",
+        "languages": {
+            "Vim Script": 19860,
+            "Shell": 7745,
+            "Lua": 2658
+        }
+    },
+    {
+        "name": "EnhancedCommentify",
+        "description": "The Vim script",
+        "languages": {
+            "Vim Script": 47423
+        }
+    },
+    {
+        "name": "AdminScripts",
+        "description": "Collection of scripts use for infrastructure maintenance.",
+        "languages": {
+            "Vim Script": 381667,
+            "Shell": 341058,
+            "Perl": 53732,
+            "C": 21177,
+            "HTML": 17955,
+            "Python": 14155,
+            "CSS": 13272,
+            "JavaScript": 12608,
+            "PHP": 9814,
+            "Gnuplot": 2853
+        }
+    },
+    {
+        "name": "ccase.vim",
+        "description": "Script to setup maps/menus to add in using Clearcase.",
+        "languages": {
+            "Vim Script": 80647
+        }
     }
 ]

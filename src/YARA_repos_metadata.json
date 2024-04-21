@@ -49,5 +49,1638 @@
             "Dockerfile": 607,
             "Shell": 513
         }
+    },
+    {
+        "name": "malware-ioc",
+        "description": "Indicators of Compromises (IOC) of our various investigations",
+        "languages": {
+            "YARA": 148274,
+            "Perl": 35615,
+            "Python": 8711,
+            "Kaitai Struct": 4953,
+            "Makefile": 320
+        }
+    },
+    {
+        "name": "Qu1cksc0pe",
+        "description": "All-in-One malware analysis tool.",
+        "languages": {
+            "YARA": 5139573,
+            "Python": 371812,
+            "Shell": 6826,
+            "PowerShell": 6164,
+            "JavaScript": 2146,
+            "Dockerfile": 684
+        }
+    },
+    {
+        "name": "mimikatz",
+        "description": null,
+        "languages": {
+            "YARA": 2833
+        }
+    },
+    {
+        "name": "Manalyze",
+        "description": "A static analyzer for PE executables.",
+        "languages": {
+            "YARA": 1779378,
+            "C++": 692495,
+            "Python": 46664,
+            "CMake": 9996,
+            "C": 2166
+        }
+    },
+    {
+        "name": "ghidra_scripts",
+        "description": "Scripts for the Ghidra software reverse engineering suite.",
+        "languages": {
+            "YARA": 72994,
+            "Python": 12714
+        }
+    },
+    {
+        "name": "Mitigating-Web-Shells",
+        "description": "Guidance for mitigation web shells. #nsacyber",
+        "languages": {
+            "YARA": 43865,
+            "Python": 7828,
+            "PowerShell": 5194
+        }
+    },
+    {
+        "name": "Ukraine-Cyber-Operations",
+        "description": "Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine.",
+        "languages": {
+            "YARA": 42760
+        }
+    },
+    {
+        "name": "LOLDrivers",
+        "description": "Living Off The Land Drivers",
+        "languages": {
+            "YARA": 2952432,
+            "Python": 104291,
+            "Jinja": 10038
+        }
+    },
+    {
+        "name": "protections-artifacts",
+        "description": "Elastic Security detection content for Endpoint",
+        "languages": {
+            "YARA": 1410612,
+            "Lua": 211420
+        }
+    },
+    {
+        "name": "reversinglabs-yara-rules",
+        "description": "ReversingLabs YARA Rules",
+        "languages": {
+            "YARA": 2877327
+        }
+    },
+    {
+        "name": "peframe",
+        "description": "PEframe is a open source tool to perform static analysis on Portable Executable malware and malicious MS Office documents.",
+        "languages": {
+            "YARA": 4059724,
+            "Python": 42773,
+            "Shell": 1372
+        }
+    },
+    {
+        "name": "ThreatHunting",
+        "description": "Tools for hunting for threats.",
+        "languages": {
+            "YARA": 47127
+        }
+    },
+    {
+        "name": "sunburst_countermeasures",
+        "description": null,
+        "languages": {
+            "YARA": 26369
+        }
+    },
+    {
+        "name": "Yara-Rules",
+        "description": "Repository of YARA rules made by Trellix ATR Team",
+        "languages": {
+            "YARA": 450288
+        }
+    },
+    {
+        "name": "GCTI",
+        "description": null,
+        "languages": {
+            "YARA": 166110
+        }
+    },
+    {
+        "name": "IoCs",
+        "description": "Sophos-originated indicators-of-compromise from published reports",
+        "languages": {
+            "YARA": 677
+        }
+    },
+    {
+        "name": "whohk",
+        "description": "whohk\uff0clinux\u4e0b\u4e00\u6b3e\u5f3a\u5927\u7684\u5e94\u6025\u54cd\u5e94\u5de5\u5177  \u5728linux\u4e0b\u7684\u5e94\u6025\u54cd\u5e94\u5f80\u5f80\u9700\u8981\u901a\u8fc7\u7e41\u7410\u7684\u547d\u4ee4\u884c\u6765\u67e5\u770b\u5404\u4e2a\u70b9\u7684\u60c5\u51b5\uff0c\u6709\u7684\u65f6\u5019\u8fd8\u9700\u8981\u505a\u4e00\u4e9b\u683c\u5f0f\u5904\u7406\uff0c\u8fd9\u5bf9\u4e8elinux\u4e0b\u547d\u4ee4\u4e0d\u662f\u5f88\u719f\u6089\u7684\u4eba\u6bd4\u8f83\u4e0d\u53cb\u597d\u3002\u672c\u5de5\u5177\u5c06linux\u4e0b\u5e94\u6025\u54cd\u5e94\u4e2d\u5e38\u7528\u7684\u4e00\u4e9b\u64cd\u4f5c\u7ed9\u96c6\u5408\u4e86\u8d77\u6765\uff0c\u5e76\u5904\u7406\u6210\u4e86\u8f83\u4e3a\u53cb\u597d\u7684\u683c\u5f0f\uff0c\u53ea\u9700\u8981\u901a\u8fc7\u4e00\u4e2a\u53c2\u6570\u5c31\u80fd\u4ee3\u66ff\u7e41\u7410\u590d\u6742\u7684\u547d\u4ee4\u6765\u5b9e\u73b0\u5bf9\u5404\u4e2a\u70b9\u7684\u68c0\u67e5\u3002",
+        "languages": {
+            "YARA": 341766,
+            "Python": 26106
+        }
+    },
+    {
+        "name": "freki",
+        "description": ":wolf: Malware analysis platform",
+        "languages": {
+            "YARA": 1659743,
+            "Python": 69965,
+            "HTML": 50510,
+            "CSS": 3746,
+            "Shell": 1764,
+            "Dockerfile": 1117,
+            "Makefile": 149
+        }
+    },
+    {
+        "name": "d-eyes",
+        "description": "D-Eyes\u4e3aM-SEC\u793e\u533a\u4e00\u6b3e\u68c0\u6d4b\u4e0e\u54cd\u5e94\u5de5\u5177",
+        "languages": {
+            "YARA": 596780,
+            "Go": 171799
+        }
+    },
+    {
+        "name": "Icewater",
+        "description": "16,432 Free Yara rules created by",
+        "languages": {
+            "YARA": 16167026
+        }
+    },
+    {
+        "name": "RmTools",
+        "description": "\u84dd\u961f\u5e94\u6025\u5de5\u5177",
+        "languages": {
+            "YARA": 4364840,
+            "Python": 791
+        }
+    },
+    {
+        "name": "Hamburglar",
+        "description": "Hamburglar -- collect useful information from urls, directories, and files",
+        "languages": {
+            "YARA": 30358,
+            "Python": 19262
+        }
+    },
+    {
+        "name": "Malleable-CS-Profiles",
+        "description": "A list of python tools to help create an OPSEC-safe Cobalt Strike profile.",
+        "languages": {
+            "YARA": 47137,
+            "Python": 2429
+        }
+    },
+    {
+        "name": "Open-Source-YARA-rules",
+        "description": "YARA Rules I come across on the internet",
+        "languages": {
+            "YARA": 21969273
+        }
+    },
+    {
+        "name": "DailyIOC",
+        "description": "IOC from articles, tweets for archives",
+        "languages": {
+            "YARA": 620508,
+            "JavaScript": 31644
+        }
+    },
+    {
+        "name": "lolcerts",
+        "description": "A repository of code signing certificates known to have been leaked or stolen, then abused by threat actors",
+        "languages": {
+            "YARA": 4041,
+            "Python": 2846,
+            "Jinja": 414
+        }
+    },
+    {
+        "name": "PEpper",
+        "description": " An open source script to perform malware static analysis on Portable Executable ",
+        "languages": {
+            "YARA": 5728632,
+            "Python": 55983,
+            "Shell": 2054
+        }
+    },
+    {
+        "name": "Yara-rules",
+        "description": "Collection of private Yara rules.",
+        "languages": {
+            "YARA": 132927
+        }
+    },
+    {
+        "name": "bincapz",
+        "description": "enumerate binary capabilities, including malicious behaviors",
+        "languages": {
+            "YARA": 356610,
+            "Go": 59913,
+            "Makefile": 1790
+        }
+    },
+    {
+        "name": "malware-indicators",
+        "description": "Citizen Lab Malware Reports",
+        "languages": {
+            "YARA": 26146,
+            "Python": 11907
+        }
+    },
+    {
+        "name": "stalkerware-indicators",
+        "description": "Indicators of stalkerware apps",
+        "languages": {
+            "YARA": 6486,
+            "Python": 5569
+        }
+    },
+    {
+        "name": "patrolaroid",
+        "description": "A production-friendly malware scanner for your AWS cloud",
+        "languages": {
+            "YARA": 722583,
+            "Go": 17541,
+            "Makefile": 346
+        }
+    },
+    {
+        "name": "detection",
+        "description": "Detection in the form of Yara, Snort and ClamAV signatures.",
+        "languages": {
+            "YARA": 1250181,
+            "Python": 11962
+        }
+    },
+    {
+        "name": "PhishingKit-Yara-Rules",
+        "description": "Repository of Yara rules dedicated to Phishing Kits Zip files",
+        "languages": {
+            "YARA": 542599
+        }
+    },
+    {
+        "name": "Binary-files",
+        "description": "EarthWorm/Termite \u505c\u6b62\u66f4\u65b0",
+        "languages": {
+            "YARA": 1151
+        }
+    },
+    {
+        "name": "WALKOFF-Apps",
+        "description": "WALKOFF-enabled applications. #nsacyber",
+        "languages": {
+            "YARA": 4288932,
+            "Python": 402062,
+            "JavaScript": 116851,
+            "HTML": 19577,
+            "Shell": 5331,
+            "CSS": 3325,
+            "Makefile": 1950,
+            "PowerShell": 24
+        }
+    },
+    {
+        "name": "Emergency-response-notes",
+        "description": "Linux/Windows/\u5e94\u6025\u54cd\u5e94\u4e2a\u4eba\u7b14\u8bb0",
+        "languages": {
+            "YARA": 8729680,
+            "JavaScript": 1971588,
+            "Python": 726179,
+            "C++": 212452,
+            "Java": 193088,
+            "Shell": 156269,
+            "HTML": 96928,
+            "Batchfile": 21312,
+            "ASP.NET": 12837,
+            "C": 2738,
+            "Smarty": 1789,
+            "PowerShell": 1498
+        }
+    },
+    {
+        "name": "yara-forensics",
+        "description": "Set of Yara rules for finding files using magics headers",
+        "languages": {
+            "YARA": 61022,
+            "Shell": 391
+        }
+    },
+    {
+        "name": "Orion",
+        "description": "A YARA rules repository continuously updated for monitoring the old and new threats from articles, incidents responses ...",
+        "languages": {
+            "YARA": 389521
+        }
+    },
+    {
+        "name": "heyserial",
+        "description": "Programmatically create hunting rules for deserialization exploitation with multiple keywords, gadget chains, object types, encodings, and rule types",
+        "languages": {
+            "YARA": 69951,
+            "Python": 34979,
+            "PowerShell": 4339,
+            "Shell": 2639
+        }
+    },
+    {
+        "name": "god-mode-rules",
+        "description": "God Mode Detection Rules",
+        "languages": {
+            "YARA": 4921
+        }
+    },
+    {
+        "name": "balbuzard",
+        "description": "Balbuzard is a package of malware analysis tools in python to extract patterns of interest from suspicious files (IP addresses, domain names, known file headers, interesting strings, etc).  It can also crack malware obfuscation such as XOR, ROL, etc by bruteforcing and checking for those patterns.",
+        "languages": {
+            "YARA": 3880466,
+            "Python": 116388,
+            "HTML": 52951,
+            "Batchfile": 2929
+        }
+    },
+    {
+        "name": "yara-rules",
+        "description": null,
+        "languages": {
+            "YARA": 945174
+        }
+    },
+    {
+        "name": "APT-Ecosystem",
+        "description": "This repository contains the website and the tools which are part of the joint research between Check Point Research and Intezer to map the connections inside the APT Ecosystem of Russia.",
+        "languages": {
+            "YARA": 805089,
+            "JavaScript": 41981,
+            "HTML": 7001,
+            "Python": 6053,
+            "CSS": 4171
+        }
+    },
+    {
+        "name": "DataCon2020",
+        "description": "DataCon2020\u5927\u6570\u636e\u5b89\u5168\u5206\u6790\u5927\u8d5b\uff0c\ud83c\udfc6\u3010\u65b9\u5411\u4e94\u3011\u6076\u610f\u4ee3\u7801\u5206\u6790\u51a0\u519b\u6e90\u7801\u3002",
+        "languages": {
+            "YARA": 1064973,
+            "Jupyter Notebook": 580890,
+            "Python": 58272,
+            "C": 529,
+            "Shell": 230
+        }
+    },
+    {
+        "name": "signator-rules",
+        "description": "Collection of rules created using YARA-Signator over Malpedia",
+        "languages": {
+            "YARA": 11116022
+        }
+    },
+    {
+        "name": "DetectRaptor",
+        "description": "A repository to share publicly available Velociraptor detection content",
+        "languages": {
+            "YARA": 373010,
+            "Python": 26043
+        }
+    },
+    {
+        "name": "rootkits",
+        "description": null,
+        "languages": {
+            "YARA": 2207
+        }
+    },
+    {
+        "name": "lw-yara",
+        "description": "Yara Ruleset  for scanning Linux servers for shells, spamming, phishing and other webserver baddies",
+        "languages": {
+            "YARA": 636074
+        }
+    },
+    {
+        "name": "masc",
+        "description": "A Web Malware Scanner",
+        "languages": {
+            "YARA": 23347276,
+            "Python": 42542
+        }
+    },
+    {
+        "name": "YaraHunts",
+        "description": "Random hunting ordiented yara rules",
+        "languages": {
+            "YARA": 32890
+        }
+    },
+    {
+        "name": "jpcert-yara",
+        "description": "JPCERT/CC public YARA rules repository ",
+        "languages": {
+            "YARA": 219262
+        }
+    },
+    {
+        "name": "DefenderYara",
+        "description": "Extracted Yara rules from Windows Defender mpavbase and mpasbase",
+        "languages": {
+            "YARA": 77879323
+        }
+    },
+    {
+        "name": "quicksand",
+        "description": "QuickSand document and PDF malware analysis tool written in Python",
+        "languages": {
+            "YARA": 121898,
+            "Python": 61280,
+            "JavaScript": 8477,
+            "Dockerfile": 2834,
+            "HTML": 682
+        }
+    },
+    {
+        "name": "ClaMP",
+        "description": "A Malware classifier dataset built with header fields\u2019 values of Portable Executable files",
+        "languages": {
+            "YARA": 530728,
+            "Python": 55129,
+            "Shell": 206
+        }
+    },
+    {
+        "name": "yarasigs",
+        "description": "Various Yara signatures (possibly to be included in a release later).",
+        "languages": {
+            "YARA": 1116605
+        }
+    },
+    {
+        "name": "pecli",
+        "description": "CLI tool to analyze PE files",
+        "languages": {
+            "YARA": 601890,
+            "Python": 67670,
+            "Makefile": 166
+        }
+    },
+    {
+        "name": "2023",
+        "description": "Rules Shared by the Community from 100 Days of YARA 2023",
+        "languages": {
+            "YARA": 32298236,
+            "Python": 7684,
+            "Awk": 746
+        }
+    },
+    {
+        "name": "Yara-Rules",
+        "description": "Repository of Yara Rules",
+        "languages": {
+            "YARA": 41163
+        }
+    },
+    {
+        "name": "OSQuery",
+        "description": null,
+        "languages": {
+            "YARA": 195
+        }
+    },
+    {
+        "name": "2024",
+        "description": "Rules shared by the community from 100 Days of YARA 2024",
+        "languages": {
+            "YARA": 692115
+        }
+    },
+    {
+        "name": "Yara-detection-rules",
+        "description": "Yara Rules for Modern Malware",
+        "languages": {
+            "YARA": 47549
+        }
+    },
+    {
+        "name": "YARA_Rules",
+        "description": null,
+        "languages": {
+            "YARA": 28857
+        }
+    },
+    {
+        "name": "YARA-rules",
+        "description": "Some YARA rules i will add from time to time",
+        "languages": {
+            "YARA": 24905
+        }
+    },
+    {
+        "name": "iocs",
+        "description": "This repository is for Indicators of Compromise (IOCs) from Zscaler ThreatLabz public reports",
+        "languages": {
+            "YARA": 20861,
+            "HTML": 8631
+        }
+    },
+    {
+        "name": "panopticon",
+        "description": "A YARA Rule Performance Measurement Tool",
+        "languages": {
+            "YARA": 223776,
+            "Python": 20182
+        }
+    },
+    {
+        "name": "research",
+        "description": "Telsy CTI Research Team",
+        "languages": {
+            "YARA": 21955,
+            "Go": 3862,
+            "Python": 3163
+        }
+    },
+    {
+        "name": "yara4ida",
+        "description": "Unofficial YARA IDA Pro plugin, along with an unparalleled crypto/hash/compression rule set based on Luigi Auriemma's signsrch signatures.",
+        "languages": {
+            "YARA": 8973666,
+            "C++": 378307,
+            "C": 249067
+        }
+    },
+    {
+        "name": "malware-notes",
+        "description": "Notes and IoCs of fresh malware",
+        "languages": {
+            "YARA": 2007
+        }
+    },
+    {
+        "name": "reversinglabs-siem-rules",
+        "description": "A collection of various SIEM rules relating to malware family groups.",
+        "languages": {
+            "YARA": 5190
+        }
+    },
+    {
+        "name": "Yara-Rules",
+        "description": null,
+        "languages": {
+            "YARA": 359594
+        }
+    },
+    {
+        "name": "yara-rules",
+        "description": "Repository of yara rules",
+        "languages": {
+            "YARA": 9380
+        }
+    },
+    {
+        "name": "Hachi",
+        "description": "This tool maps a file's behavior on MITRE ATT&CK matrix.",
+        "languages": {
+            "YARA": 1067066,
+            "Python": 107927,
+            "HTML": 48788
+        }
+    },
+    {
+        "name": "yara-rules-vt",
+        "description": "Collection of YARA rules designed for usage through VirusTotal.com.",
+        "languages": {
+            "YARA": 49018
+        }
+    },
+    {
+        "name": "detections",
+        "description": "A home for detection content developed by the delivr.to team",
+        "languages": {
+            "YARA": 4391
+        }
+    },
+    {
+        "name": "detections",
+        "description": "Threat intelligence and threat detection indicators (IOC, IOA)",
+        "languages": {
+            "YARA": 403
+        }
+    },
+    {
+        "name": "docker-yara",
+        "description": "Yara Dockerfile",
+        "languages": {
+            "YARA": 5975376,
+            "Dockerfile": 17707,
+            "Makefile": 2500
+        }
+    },
+    {
+        "name": "static_file_analysis",
+        "description": "Analysis of file (doc, pdf, exe, ...) in deep (emmbedded file(s)) with clamscan and yara rules",
+        "languages": {
+            "YARA": 7167861,
+            "Python": 152135,
+            "Dockerfile": 11497,
+            "HTML": 10717,
+            "Shell": 1900
+        }
+    },
+    {
+        "name": "FARA",
+        "description": "Repository that contains a set of purposefully erroneous Yara rules.",
+        "languages": {
+            "YARA": 13953
+        }
+    },
+    {
+        "name": "ThreatHunting-Keywords-yara-rules",
+        "description": "yara detection rules for hunting with the threathunting-keywords project",
+        "languages": {
+            "YARA": 29188565,
+            "Python": 16481
+        }
+    },
+    {
+        "name": "cs_yara",
+        "description": "check cs yara rules",
+        "languages": {
+            "YARA": 1069
+        }
+    },
+    {
+        "name": "yarasploit",
+        "description": "YaraSploit is a collection of Yara rules generated from Metasploit framework shellcodes.",
+        "languages": {
+            "YARA": 2890530
+        }
+    },
+    {
+        "name": "Log4j_Detector",
+        "description": "Detection of Log4j in memory",
+        "languages": {
+            "YARA": 3009,
+            "Shell": 520,
+            "Batchfile": 445
+        }
+    },
+    {
+        "name": "Incident-Response-with-Threat-Intelligence",
+        "description": "Incident Response with Threat Intelligence, published by Packt",
+        "languages": {
+            "YARA": 478,
+            "Roff": 134
+        }
+    },
+    {
+        "name": "yara-rules",
+        "description": "Collection of YARA signatures from individual research",
+        "languages": {
+            "YARA": 46786
+        }
+    },
+    {
+        "name": "Burp-Yara-Rules",
+        "description": "Yara rules to be used with the Burp Yara-Scanner extension",
+        "languages": {
+            "YARA": 186938
+        }
+    },
+    {
+        "name": "MSDT_CVE-2022-30190",
+        "description": "This Repository Talks about the Follina MSDT from Defender Perspective",
+        "languages": {
+            "YARA": 328
+        }
+    },
+    {
+        "name": "bootloaders",
+        "description": "bootloaders.io is a curated list of known malicious bootloaders for various operating systems. The project aims to assist security professionals in staying informed and mitigating potential threats associated with bootloaders.",
+        "languages": {
+            "YARA": 230917,
+            "Python": 70175,
+            "JavaScript": 46530,
+            "HTML": 32644,
+            "Sass": 29270,
+            "Jinja": 9839
+        }
+    },
+    {
+        "name": "nviso-cti",
+        "description": null,
+        "languages": {
+            "YARA": 32376
+        }
+    },
+    {
+        "name": "tech-CSI",
+        "description": "cPanel Security Scan",
+        "languages": {
+            "YARA": 364397,
+            "Perl": 194810
+        }
+    },
+    {
+        "name": "XProtect",
+        "description": "macOS XProtect definition files",
+        "languages": {
+            "YARA": 139424
+        }
+    },
+    {
+        "name": "macos-ttps-yara",
+        "description": "A ruleset to find potentially malicious code in macOS malware samples",
+        "languages": {
+            "YARA": 9931
+        }
+    },
+    {
+        "name": "ail-yara-rules",
+        "description": "A set of YARA rules for the AIL framework to detect leak or information disclosure",
+        "languages": {
+            "YARA": 30096,
+            "Shell": 340
+        }
+    },
+    {
+        "name": "ConventionEngine",
+        "description": "ConventionEngine - A Yara Rulepack for PDB Path Hunting",
+        "languages": {
+            "YARA": 57736
+        }
+    },
+    {
+        "name": "BlueBox",
+        "description": "BlueBox Malware analysis Box and Cyber threat intelligence.",
+        "languages": {
+            "YARA": 5955485,
+            "CSS": 1630832,
+            "Python": 260670,
+            "HTML": 122784,
+            "JavaScript": 35568,
+            "Shell": 2260
+        }
+    },
+    {
+        "name": "yara-rules",
+        "description": null,
+        "languages": {
+            "YARA": 1953188
+        }
+    },
+    {
+        "name": "blue-team",
+        "description": "Some portable tools, some YARA, some Python, and a little bit of love.  Not all of these tools can be used in incident response.  Use PEs with caution.",
+        "languages": {
+            "YARA": 11395222,
+            "C++": 10770237,
+            "HTML": 9300410,
+            "Python": 7970958,
+            "PowerShell": 5719181,
+            "C#": 4365926,
+            "C": 2004101,
+            "Perl": 1184668,
+            "CSS": 739450,
+            "JavaScript": 696579,
+            "CMake": 638027,
+            "VBScript": 578380,
+            "Shell": 400685,
+            "Vue": 232113,
+            "Rich Text Format": 216481,
+            "Batchfile": 187501,
+            "Objective-C++": 135902,
+            "Rust": 88348,
+            "Max": 39419,
+            "Java": 31057,
+            "Ruby": 22594,
+            "Makefile": 21824,
+            "Assembly": 10278,
+            "Dockerfile": 9933,
+            "RobotFramework": 7375,
+            "Classic ASP": 4343,
+            "Roff": 4267,
+            "Inno Setup": 3719,
+            "Thrift": 3263,
+            "PHP": 1250,
+            "Smalltalk": 1037,
+            "JSONiq": 53
+        }
+    },
+    {
+        "name": "Log4j-CVE-Detect",
+        "description": "Detections for CVE-2021-44228 inside of nested binaries",
+        "languages": {
+            "YARA": 2502,
+            "Python": 1638,
+            "Shell": 750
+        }
+    },
+    {
+        "name": "ThreatMon-Reports-IOC",
+        "description": null,
+        "languages": {
+            "YARA": 20589
+        }
+    },
+    {
+        "name": "YaraRules",
+        "description": "Multiple rules for yara-project for detect compiler/packer/protector",
+        "languages": {
+            "YARA": 11094
+        }
+    },
+    {
+        "name": "yara-rules",
+        "description": "A collection of my yara rules",
+        "languages": {
+            "YARA": 4393
+        }
+    },
+    {
+        "name": "ioc_signatures",
+        "description": "Repository with selected IOCs and YARA rules for threat hunting.",
+        "languages": {
+            "YARA": 43771
+        }
+    },
+    {
+        "name": "operation-wocao",
+        "description": "Operation Wocao - Indicators of Compromise",
+        "languages": {
+            "YARA": 15211
+        }
+    },
+    {
+        "name": "Holmes-Totem",
+        "description": "Investigation Planner for fast running analysis with predictable execution time. For example, static analysis.",
+        "languages": {
+            "YARA": 6110160,
+            "Go": 108211,
+            "Python": 105006,
+            "Scala": 98949,
+            "Dockerfile": 12938,
+            "Shell": 1905
+        }
+    },
+    {
+        "name": "stelftools",
+        "description": "cross-architecture static library detector for IoT malware",
+        "languages": {
+            "YARA": 4314625515,
+            "Python": 198590,
+            "Shell": 2307
+        }
+    },
+    {
+        "name": "rustomware",
+        "description": "Simple ransomware written in Rust. Part of the building a rustomware blog post.",
+        "languages": {
+            "YARA": 2647,
+            "Rust": 2137
+        }
+    },
+    {
+        "name": "yara",
+        "description": "Malice Yara Plugin",
+        "languages": {
+            "YARA": 2215087,
+            "Go": 10021,
+            "Makefile": 4186,
+            "Dockerfile": 1833,
+            "Shell": 222
+        }
+    },
+    {
+        "name": "infection_scanner",
+        "description": null,
+        "languages": {
+            "YARA": 371558,
+            "Perl": 3261,
+            "Shell": 1033
+        }
+    },
+    {
+        "name": "100DaysOfYARA",
+        "description": null,
+        "languages": {
+            "YARA": 48961
+        }
+    },
+    {
+        "name": "threathunters",
+        "description": null,
+        "languages": {
+            "YARA": 6659
+        }
+    },
+    {
+        "name": "yara-rules",
+        "description": "Repository of Yara rules created by the Stratosphere team",
+        "languages": {
+            "YARA": 13745,
+            "Python": 796,
+            "Shell": 382
+        }
+    },
+    {
+        "name": "public_yara_rules",
+        "description": "a collection of public yara rules",
+        "languages": {
+            "YARA": 14398
+        }
+    },
+    {
+        "name": "Yara-Unprotect",
+        "description": "This repository regroups the Yara Rules for the Unprotect Project",
+        "languages": {
+            "YARA": 771563
+        }
+    },
+    {
+        "name": "YARA-Signatures",
+        "description": "A collection of my public YARA signatures for various malware families",
+        "languages": {
+            "YARA": 38106
+        }
+    },
+    {
+        "name": "yara-language-nsfw",
+        "description": "Lists of not-suitable-for-work words as YARA rules",
+        "languages": {
+            "YARA": 275609,
+            "Makefile": 315
+        }
+    },
+    {
+        "name": "Stalkerware",
+        "description": null,
+        "languages": {
+            "YARA": 6155
+        }
+    },
+    {
+        "name": "PoshC2_IOCs",
+        "description": "A list of IOCs applicable to PoshC2",
+        "languages": {
+            "YARA": 2669
+        }
+    },
+    {
+        "name": "Hephaestus-terminal-management",
+        "description": "### A security tool for enterprise terminal management that named Hephaestus",
+        "languages": {
+            "YARA": 5903109,
+            "C": 3101612,
+            "C++": 226578,
+            "Yacc": 108984,
+            "Lex": 46026,
+            "Starlark": 33327,
+            "M4": 13799,
+            "Makefile": 10568,
+            "Python": 8265,
+            "Batchfile": 6455,
+            "Roff": 5648,
+            "JavaScript": 5208,
+            "Inno Setup": 5184,
+            "Vue": 4631,
+            "SCSS": 2217,
+            "HTML": 2134,
+            "Shell": 1808,
+            "Assembly": 324
+        }
+    },
+    {
+        "name": "pulsesecure_exploitation_countermeasures",
+        "description": null,
+        "languages": {
+            "YARA": 24248
+        }
+    },
+    {
+        "name": "VinCSS-RE-Tools-Ultilities",
+        "description": "VinCSS Reverse Engineering, Malware Analysing Tools & Ultilities",
+        "languages": {
+            "YARA": 334719,
+            "C": 47705,
+            "Python": 37513,
+            "C++": 36933,
+            "Pascal": 26476,
+            "Batchfile": 210
+        }
+    },
+    {
+        "name": "2022",
+        "description": null,
+        "languages": {
+            "YARA": 5610
+        }
+    },
+    {
+        "name": "Detection",
+        "description": null,
+        "languages": {
+            "YARA": 39642
+        }
+    },
+    {
+        "name": "research",
+        "description": "Resources from Trend Micro Research teams",
+        "languages": {
+            "YARA": 17878,
+            "Python": 1687,
+            "Shell": 1181
+        }
+    },
+    {
+        "name": "YaraRules",
+        "description": null,
+        "languages": {
+            "YARA": 9511
+        }
+    },
+    {
+        "name": "yara-rules",
+        "description": "Yara rules for detecting malware",
+        "languages": {
+            "YARA": 72150,
+            "Makefile": 141
+        }
+    },
+    {
+        "name": "iocs",
+        "description": "IoC's, PCRE's, YARA's etc",
+        "languages": {
+            "YARA": 93425,
+            "Python": 2822,
+            "Shell": 573
+        }
+    },
+    {
+        "name": "fireeye-red-team-countermeasure-scanner",
+        "description": "A scanner to detect the use of stolen FireEye red team tools",
+        "languages": {
+            "YARA": 185264,
+            "PowerShell": 4815
+        }
+    },
+    {
+        "name": "Signatures",
+        "description": "\ud83d\udea7 Currently transfering TLP:CLEAR rules from TLP:AMBER repository...",
+        "languages": {
+            "YARA": 39860
+        }
+    },
+    {
+        "name": "threat-research",
+        "description": "Repository of tools, YARA rules, and code-snippets from Stairwell's research team.",
+        "languages": {
+            "YARA": 60646,
+            "Python": 22047
+        }
+    },
+    {
+        "name": "vt-public-crowdsourced-yara",
+        "description": "Share your Yara rules with VirusTotal",
+        "languages": {
+            "YARA": 21681
+        }
+    },
+    {
+        "name": "OutlookNTLM_CVE-2023-23397",
+        "description": null,
+        "languages": {
+            "YARA": 4948,
+            "PowerShell": 2939
+        }
+    },
+    {
+        "name": "YaraSyntax",
+        "description": "YARA package for Sublime Text",
+        "languages": {
+            "YARA": 2399
+        }
+    },
+    {
+        "name": "malware-analysis-feed",
+        "description": "[MAF - Malware Analysis Feed] This repository aim to collect useful scripts and rules for the detection of malware families analyzed by ZAYOTEM.",
+        "languages": {
+            "YARA": 16707,
+            "PowerShell": 5927,
+            "Python": 5551,
+            "Batchfile": 150
+        }
+    },
+    {
+        "name": "malware-lab",
+        "description": "Public repository containing materials for various malware-related streams.",
+        "languages": {
+            "YARA": 10941,
+            "C++": 1774
+        }
+    },
+    {
+        "name": "Cerebro",
+        "description": "Scripts and lists to help generate YARA friendly string mutations",
+        "languages": {
+            "YARA": 58310,
+            "Python": 25780
+        }
+    },
+    {
+        "name": "audit-node-modules-with-yara",
+        "description": "Audit Node Module folder with YARA rules to identify possible malicious packages hiding in node_moudles",
+        "languages": {
+            "YARA": 7524,
+            "TypeScript": 4584,
+            "Makefile": 2221,
+            "Dockerfile": 1545
+        }
+    },
+    {
+        "name": "ost-map",
+        "description": null,
+        "languages": {
+            "YARA": 231508,
+            "JavaScript": 87695,
+            "PowerShell": 11880,
+            "CSS": 9848,
+            "HTML": 3907
+        }
+    },
+    {
+        "name": "yara-rules",
+        "description": "Yara rules written by me, for free use.",
+        "languages": {
+            "YARA": 37398
+        }
+    },
+    {
+        "name": "log4j",
+        "description": "Detection rules to look for Log4J usage and exploitation",
+        "languages": {
+            "YARA": 2325
+        }
+    },
+    {
+        "name": "100-Days-of-YARA-2024",
+        "description": null,
+        "languages": {
+            "YARA": 127182,
+            "Python": 4426
+        }
+    },
+    {
+        "name": "cti_report_collection",
+        "description": "Repository collecting and automagically processing public threat intelligence reports.",
+        "languages": {
+            "YARA": 35040,
+            "Shell": 5262,
+            "Python": 403
+        }
+    },
+    {
+        "name": "badthings-tools",
+        "description": "This repository contains dynamic and static tools for IoT malware analysis",
+        "languages": {
+            "YARA": 93237,
+            "Dockerfile": 24996,
+            "Shell": 10764
+        }
+    },
+    {
+        "name": "yara_rules",
+        "description": "Yara rules",
+        "languages": {
+            "YARA": 1560778
+        }
+    },
+    {
+        "name": "apihash_to_yara",
+        "description": "Generates YARA rules to detect malware using API hashing",
+        "languages": {
+            "YARA": 1322560,
+            "Python": 29522
+        }
+    },
+    {
+        "name": "XPR-dump",
+        "description": "Helper scripts to automate the extraction of YARA rules from XProtectRemediators",
+        "languages": {
+            "YARA": 44696,
+            "Python": 3850,
+            "Shell": 774
+        }
+    },
+    {
+        "name": "YaraRules",
+        "description": "Yaras Random",
+        "languages": {
+            "YARA": 2752909
+        }
+    },
+    {
+        "name": "Yara-Rules",
+        "description": "A collection of Yara rules I have created so far",
+        "languages": {
+            "YARA": 8422
+        }
+    },
+    {
+        "name": "WOPR",
+        "description": "Globally distributed honeypots and HoneyNets IOCs and file reversing",
+        "languages": {
+            "YARA": 36848,
+            "PowerShell": 401
+        }
+    },
+    {
+        "name": "Cutter-Yara-Plugin",
+        "description": "Apply YARA rules to your Cutter projects.",
+        "languages": {
+            "YARA": 3437139,
+            "Python": 3370,
+            "PowerShell": 692
+        }
+    },
+    {
+        "name": "yara-rulz",
+        "description": "Collection of generic YARA rules",
+        "languages": {
+            "YARA": 12852
+        }
+    },
+    {
+        "name": "TDM",
+        "description": null,
+        "languages": {
+            "YARA": 32125
+        }
+    },
+    {
+        "name": "Snakepit",
+        "description": "A scalable framework for binary analysis in a containered environment.",
+        "languages": {
+            "YARA": 6074698,
+            "Python": 2711128,
+            "HTML": 95942,
+            "Smarty": 28213,
+            "JavaScript": 9205,
+            "Makefile": 6005,
+            "Batchfile": 5103,
+            "Shell": 2362,
+            "Dockerfile": 2220,
+            "CSS": 1306
+        }
+    },
+    {
+        "name": "2020-evasion-competition",
+        "description": "Defense from the 2020 Microsoft Evasion Competition",
+        "languages": {
+            "YARA": 3666388,
+            "Python": 142326,
+            "Shell": 4313,
+            "Dockerfile": 2290
+        }
+    },
+    {
+        "name": "IoCData",
+        "description": "IoC Feed for security analysts etc.",
+        "languages": {
+            "YARA": 10181
+        }
+    },
+    {
+        "name": "securityonion-strelka",
+        "description": null,
+        "languages": {
+            "YARA": 16129,
+            "Shell": 2964
+        }
+    },
+    {
+        "name": "YARA",
+        "description": "Hundred Days of Yara Challenge",
+        "languages": {
+            "YARA": 27350
+        }
+    },
+    {
+        "name": "threat-team",
+        "description": "IOCs from Threat Analysis Group (TAG)",
+        "languages": {
+            "YARA": 1298
+        }
+    },
+    {
+        "name": "detection",
+        "description": "Threat Detection Rules (Snort/Sigma/Yara)",
+        "languages": {
+            "YARA": 4993
+        }
+    },
+    {
+        "name": "siglearn",
+        "description": "Code for BH21 talk: \"Generating YARA Rules by Classifying Malicious Byte Sequences\"",
+        "languages": {
+            "YARA": 493488,
+            "Python": 19289
+        }
+    },
+    {
+        "name": "webshell-detect",
+        "description": "Detect webshells.",
+        "languages": {
+            "YARA": 7352853,
+            "Python": 9256
+        }
+    },
+    {
+        "name": "kicomav-db",
+        "description": "This project is a collection of malware signatures for KicomAV.",
+        "languages": {
+            "YARA": 15438
+        }
+    },
+    {
+        "name": "rules",
+        "description": "Cyber Threats Detection Rules ",
+        "languages": {
+            "YARA": 7474
+        }
+    },
+    {
+        "name": "YARA-sort",
+        "description": "Yara sort",
+        "languages": {
+            "YARA": 596085,
+            "C++": 28622,
+            "Shell": 6963,
+            "QMake": 2730,
+            "Batchfile": 2532,
+            "C": 1364
+        }
+    },
+    {
+        "name": "SolarWindsIOCScanner",
+        "description": "SolarWindsIOCScanner",
+        "languages": {
+            "YARA": 37078,
+            "Batchfile": 16443
+        }
+    },
+    {
+        "name": "detection-rules",
+        "description": "Collection of my own detection rules",
+        "languages": {
+            "YARA": 19257
+        }
+    },
+    {
+        "name": "is-wos",
+        "description": "Information Stealers Wall of Sheep (IS-WOS)",
+        "languages": {
+            "YARA": 106206
+        }
+    },
+    {
+        "name": "CTIA",
+        "description": "Cyber Threat Intelligence Appliance",
+        "languages": {
+            "YARA": 5975376,
+            "HTML": 964702,
+            "JavaScript": 904391,
+            "Go": 611777,
+            "Scala": 196006,
+            "Shell": 95911,
+            "Python": 76059,
+            "Dockerfile": 48230,
+            "CSS": 26239,
+            "Smarty": 18506,
+            "PHP": 9236,
+            "Makefile": 4507,
+            "PowerShell": 1636
+        }
+    },
+    {
+        "name": "MalwareFamilyIdentify",
+        "description": "\u6076\u610f\u8f6f\u4ef6\u5bb6\u65cf\u6837\u672c\u8bc6\u522b/\u5206\u7c7b\u5668",
+        "languages": {
+            "YARA": 13253,
+            "Python": 5747
+        }
+    },
+    {
+        "name": "yara-rules",
+        "description": null,
+        "languages": {
+            "YARA": 6154
+        }
+    },
+    {
+        "name": "TheSAS2021-Red-Kelpie",
+        "description": "Indicators of compromise, YARA rules, and Python scripts to supplement the TheSAS2021 talk \"Learning to ChaCha with Red Kelpie\"",
+        "languages": {
+            "YARA": 23400,
+            "Python": 988
+        }
+    },
+    {
+        "name": "log4j-CVE-2021-44228-Public-IoCs",
+        "description": "Public IoCs about log4j CVE-2021-44228",
+        "languages": {
+            "YARA": 7234
+        }
+    },
+    {
+        "name": "Coronavirus-Phishing-Yara-Rules",
+        "description": "Repository of Cofense Coronavirus Phishing Yara Rules (details can be found here: https://cofense.com/solutions/topic/coronavirus-infocenter/)",
+        "languages": {
+            "YARA": 55388
+        }
+    },
+    {
+        "name": "Detection_Engineering_Signatures",
+        "description": "YARA, SIGMA, SNORT Rules based on Malware Analysis",
+        "languages": {
+            "YARA": 19626
+        }
+    },
+    {
+        "name": "Threat-Intelligence",
+        "description": "A collection of threat intelligence data such as IOC, Yara and Snort/Suricata Rules etc.",
+        "languages": {
+            "YARA": 163
+        }
+    },
+    {
+        "name": "yara-rules-public",
+        "description": "A set of public Yara rules",
+        "languages": {
+            "YARA": 10188
+        }
+    },
+    {
+        "name": "malware-ioc",
+        "description": "Indicators of Compromise (IOCs) for malware we have researched",
+        "languages": {
+            "YARA": 589
+        }
+    },
+    {
+        "name": "Rapid7-Labs",
+        "description": "Rapid7 Labs operates as the division of Rapid7 focused on threat research. It is renowned for providing comprehensive threat intelligence, research and analytics.",
+        "languages": {
+            "YARA": 21388,
+            "Python": 5181
+        }
+    },
+    {
+        "name": "Yara",
+        "description": "Yara rules",
+        "languages": {
+            "YARA": 22791
+        }
+    },
+    {
+        "name": "Yara-Rules",
+        "description": null,
+        "languages": {
+            "YARA": 4502
+        }
+    },
+    {
+        "name": "threat-needle",
+        "description": "\ud83d\udee0\ufe0f Not your average network forensic tool \ud83d\udee0\ufe0f",
+        "languages": {
+            "YARA": 3541747,
+            "CSS": 211997,
+            "Python": 65856,
+            "HTML": 32071,
+            "SCSS": 22433,
+            "JavaScript": 13362,
+            "Makefile": 976,
+            "Dockerfile": 232,
+            "PowerShell": 42
+        }
+    },
+    {
+        "name": "cobaltstrike-sleepmask-yara",
+        "description": "Just a git repo for the sleepmask detection rule i found in https://codex-7.gitbook.io/codexs-terminal-window/blue-team/detecting-cobalt-strike/sleep-mask-kit-iocs",
+        "languages": {
+            "YARA": 375
+        }
+    },
+    {
+        "name": "Malware-IOCs",
+        "description": "some of my IOCs from malware investigations",
+        "languages": {
+            "YARA": 874
+        }
+    },
+    {
+        "name": "factual-rules",
+        "description": "Factual rules are YARA rules to find legitimate software on raw disk acquisition.",
+        "languages": {
+            "YARA": 788238
+        }
+    },
+    {
+        "name": "YARA",
+        "description": "A small repository of personal YARA rules I can make public",
+        "languages": {
+            "YARA": 18660
+        }
+    },
+    {
+        "name": "yararules",
+        "description": "misc yara rules",
+        "languages": {
+            "YARA": 48064
+        }
+    },
+    {
+        "name": "YaraRules",
+        "description": null,
+        "languages": {
+            "YARA": 1166
+        }
+    },
+    {
+        "name": "dfir-lab",
+        "description": null,
+        "languages": {
+            "YARA": 4434
+        }
+    },
+    {
+        "name": "js-yara-rules",
+        "description": "Yara rules for malicious javascript files from public repositories or written by me.",
+        "languages": {
+            "YARA": 73935,
+            "Shell": 68
+        }
+    },
+    {
+        "name": "yara_rules",
+        "description": null,
+        "languages": {
+            "YARA": 79074
+        }
+    },
+    {
+        "name": "yara",
+        "description": "Listing of YARA rules I wrote for Live and Retro hunts. Includes Jupyter infostealer, suspicious powershell, dll hijacking, vbs downloaders and maldocs.",
+        "languages": {
+            "YARA": 14451
+        }
+    },
+    {
+        "name": "YARA_for_config_extraction",
+        "description": null,
+        "languages": {
+            "YARA": 4131,
+            "C": 2117
+        }
+    },
+    {
+        "name": "pyc_rules",
+        "description": "Yara rules on PYC files to determine PYC version",
+        "languages": {
+            "YARA": 21022
+        }
+    },
+    {
+        "name": "Yara-rules",
+        "description": "Yara rules for various malware",
+        "languages": {
+            "YARA": 76103
+        }
+    },
+    {
+        "name": "yara",
+        "description": "Yara rules created during some investigations",
+        "languages": {
+            "YARA": 8929
+        }
+    },
+    {
+        "name": "yara_repo",
+        "description": "Repository of Yara Rules created by TjNel",
+        "languages": {
+            "YARA": 10239
+        }
     }
 ]

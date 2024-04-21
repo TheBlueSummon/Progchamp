@@ -19,7 +19,7 @@
 <body>
     <header>
         <div class="logo">
-            <img src="../gfx/pogchamp-twitch-own3d.png">
+            <img src="gfx/pogchamp-twitch-own3d.png">
         </div>
         <form>
             <div class="search">
@@ -33,7 +33,7 @@
             <div class="toggle-options">
                 Merge
                 <div class="sep-line"></div>
-                Sort
+                <b>Sort</b>
                 <div class="sep-line"></div>
                 Shell
             </div>
@@ -46,9 +46,9 @@
                 <span class="material-symbols-outlined arrow" id = 'arrow2'>
                     keyboard_arrow_down
                     </span>
-                <h1><u>Qutee.jl</u></h1>
-                <p>This is dummy text for description/README.md placeholder.</p>
-                <ul> <h3>Langauges used:</h3>
+                <h1 id="reponame"><u>Qutee.jl</u></h1>
+                <p id="repodes">This is dummy text for description/README.md placeholder.</p>
+                <ul id="repolang"> <h3>Langauges used:</h3>
                     <li><b>69%</b> L1</li>
                     <li><b>42%</b> L2</li>
                 </ul>
@@ -63,6 +63,74 @@
             </div>
         </div>
     </main>
+
+    <!-- Initial processing of data -->
+    <script>
+        // Fetch is UGLY 
+        fetch('langList.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Failed to fetch data.json');
+                }
+                return response.json();
+            })
+            .then(langList => {
+
+        fetch('languages.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Failed to fetch data.json');
+                }
+                return response.json();
+            })
+            .then(langData => {
+
+        // Function to load JSON file and return its content
+        async function loadJSON(filename) {
+            const response = await fetch(encodeURIComponent(filename));
+            if (!response.ok) {
+                throw new Error('Failed to fetch ' + filename);
+            }
+            return response.json();
+        }
+
+        // Function to load and aggregate JSON data from multiple files
+        async function comboJSON(names) {
+            let aggregateData = [];
+
+            for (let name of names) {
+                // Construct filename
+                let filename = 'src/' + name + '_repos_metadata.json';
+                
+                try {
+                    // Load JSON data from file
+                    let jsonData = await loadJSON(filename);
+                    aggregateData.append(jsonData);
+                } catch (error) {
+                    console.error('Error loading JSON file:', error.message);
+                }
+            }
+
+            return aggregateData;
+        }
+
+        comboJSON(langList)
+            .then(repoData => {
+                console.log(repoData[200])
+            })
+            .catch(error => {
+                console.error('Error aggregating JSON files:', error.message);
+            });
+
+            })
+            .catch(error => {
+                console.error('Error fetching data:', error);
+            });
+            })
+            .catch(error => {
+                console.error('Error fetching data:', error);
+            });
+    </script>
 
     <!-- handle clicks -->
     <script>
@@ -79,6 +147,7 @@
             container: document.getElementById('langviz'),
             elements: [
                 { data: { id: 'a' } },
+                { data: { id: '0' } },
                 { data: { id: '1' } },
                 { data: { id: '2' } },
                 { data: { id: '3' } },
@@ -88,7 +157,13 @@
                 { data: { id: '7' } },
                 { data: { id: '8' } },
                 { data: { id: '9' } },
-                { data: { id: '10' } },
+                {
+                    data: {
+                        id: 'a0',
+                        source: 'a',
+                        target: '0',
+                    }
+                },
                 {
                     data: {
                         id: 'a1',
@@ -151,13 +226,6 @@
                         source: 'a',
                         target: '9',
                     }
-                },
-                {
-                    data: {
-                        id: 'a10',
-                        source: 'a',
-                        target: '10',
-                    }
                 }],
             style : [
                 {
@@ -165,15 +233,18 @@
                     style: {
                         shape: 'circle',
                         'background-color': 'blue',
-                        label: 'data(id)'
+                        label: 'data(id)',
+                        'text-valign': 'center',
+                        'color': '#FF9900',
+                        'font-size': 8
                     }
                 },
                 {
                     selector: '#a',
                     style: {
-                        shape: 'circle',
                         'background-color': '#FF9900',
-                        label: 'bruh'
+                        label: 'bruh',
+                        'color': 'blue'
                     }
                 }
             ],
@@ -185,6 +256,7 @@
             container: document.getElementById('repoviz'),
             elements: [
                 { data: { id: 'a' } },
+                { data: { id: '0' } },
                 { data: { id: '1' } },
                 { data: { id: '2' } },
                 { data: { id: '3' } },
@@ -194,7 +266,13 @@
                 { data: { id: '7' } },
                 { data: { id: '8' } },
                 { data: { id: '9' } },
-                { data: { id: '10' } },
+                {
+                    data: {
+                        id: 'a0',
+                        source: 'a',
+                        target: '0',
+                    }
+                },
                 {
                     data: {
                         id: 'a1',
@@ -256,13 +334,6 @@
                         id: 'a9',
                         source: 'a',
                         target: '9',
-                    }
-                },
-                {
-                    data: {
-                        id: 'a10',
-                        source: 'a',
-                        target: '10',
                     }
                 }],
             style : [
@@ -290,6 +361,30 @@
     </script>
     <!-- Reading JSON data -->
     <script>
+        function changeData(target, data) {
+            target.textContent = data;
+        }
+        function updateRepo(data) {
+            var rn = document.getElementById('reponame');
+                var rd = document.getElementById('repodes');
+                changeData(rn, data[0]['name'])
+                changeData(rd, data[0]['description']);
+                
+                var list = document.getElementById('repolang')
+                // Remove all existing list items from the ul element
+                while (list.firstChild) {
+                    list.removeChild(list.firstChild);
+                }
+                // Iterate through the languages and add to list
+                for (var l in data[0]['languages']) {
+                    var listItem = document.createElement('li');
+                    listItem.textContent = l + ': ' + data[0]['languages'][l];
+                    list.appendChild(listItem);
+                }
+        }
+        
+        
+
         fetch('src/4D_repos_metadata.json')
             .then(response => {
                 if (!response.ok) {
@@ -299,11 +394,12 @@
             })
             .then(data => {
                 la.$('#a').style('label',data[0]['name']);
-                console.log(data[0]['name'])
+                updateRepo(data);
             })
             .catch(error => {
                 console.error(error)
             });
+        
     </script>
 </body>
 </html>

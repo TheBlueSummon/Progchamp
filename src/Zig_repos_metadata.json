@@ -3,11 +3,11 @@
         "name": "bun",
         "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
         "languages": {
-            "Zig": 15564041,
+            "Zig": 15419748,
             "C++": 6076946,
             "TypeScript": 2610032,
             "C": 836456,
-            "JavaScript": 208969,
+            "JavaScript": 209012,
             "Shell": 89969,
             "Makefile": 81800,
             "CMake": 48828,
@@ -26,7 +26,7 @@
         "name": "zig",
         "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
         "languages": {
-            "Zig": 42989151,
+            "Zig": 43027427,
             "C": 739285,
             "C++": 388837,
             "CMake": 62227,
@@ -74,6 +74,1723 @@
             "Shell": 22763,
             "C": 16264,
             "Python": 5145
+        }
+    },
+    {
+        "name": "mach",
+        "description": "zig game engine & graphics toolkit",
+        "languages": {
+            "Zig": 3986417,
+            "WGSL": 110024,
+            "JavaScript": 12746,
+            "C": 1835,
+            "C++": 687,
+            "Shell": 78
+        }
+    },
+    {
+        "name": "zls",
+        "description": "A Zig language server supporting Zig developers with features like autocomplete and goto definition",
+        "languages": {
+            "Zig": 1916978,
+            "Nix": 2570
+        }
+    },
+    {
+        "name": "libxev",
+        "description": "libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.",
+        "languages": {
+            "Zig": 613318,
+            "CSS": 6990,
+            "C++": 4714,
+            "Nix": 2837,
+            "JavaScript": 899,
+            "TypeScript": 716,
+            "MDX": 253
+        }
+    },
+    {
+        "name": "dockerc",
+        "description": "container image to single executable compiler",
+        "languages": {
+            "Zig": 18361
+        }
+    },
+    {
+        "name": "capy",
+        "description": "\ud83d\udcbbBuild one codebase and get native UI on Windows, Linux and Web",
+        "languages": {
+            "Zig": 802722,
+            "JavaScript": 25595,
+            "Nix": 1904,
+            "C": 995,
+            "Java": 793,
+            "HTML": 518,
+            "GLSL": 371,
+            "Shell": 113
+        }
+    },
+    {
+        "name": "buzz",
+        "description": "\ud83d\udc68\u200d\ud83d\ude80  buzz, A small/lightweight statically typed scripting language",
+        "languages": {
+            "Zig": 1524222,
+            "Lua": 6341,
+            "Dart": 4552,
+            "TypeScript": 1652,
+            "HTML": 398
+        }
+    },
+    {
+        "name": "cyber",
+        "description": "Fast and concurrent scripting.",
+        "languages": {
+            "Zig": 1940163,
+            "C": 166954,
+            "Lua": 12816,
+            "Java": 8184,
+            "Wren": 7244,
+            "JavaScript": 7221,
+            "Python": 6581,
+            "Shell": 1096,
+            "PHP": 1002,
+            "Ruby": 716,
+            "Vim Script": 693,
+            "C++": 614,
+            "WebAssembly": 378,
+            "Rust": 305,
+            "Go": 299,
+            "Raku": 251
+        }
+    },
+    {
+        "name": "graffiti",
+        "description": "HTML/CSS engine for node.js and deno.",
+        "languages": {
+            "Zig": 117752,
+            "JavaScript": 33574,
+            "CSS": 1617
+        }
+    },
+    {
+        "name": "chinadns-ng",
+        "description": "chinadns \u91cd\u6784\u589e\u5f3a\u7248\uff0c\u652f\u6301\u9ed1\u767d\u540d\u5355\uff0cipset/nftset",
+        "languages": {
+            "Zig": 226137,
+            "C": 99528,
+            "Shell": 2102
+        }
+    },
+    {
+        "name": "microzig",
+        "description": "Unified abstraction layer and HAL for several microcontrollers",
+        "languages": {
+            "Zig": 677589,
+            "C": 194133,
+            "Assembly": 51571,
+            "Python": 33062,
+            "Nix": 3320,
+            "Shell": 575,
+            "RobotFramework": 522
+        }
+    },
+    {
+        "name": "arocc",
+        "description": "A C compiler written in Zig.",
+        "languages": {
+            "Zig": 1488561,
+            "C": 279449,
+            "Dockerfile": 1746
+        }
+    },
+    {
+        "name": "zig-clap",
+        "description": "Simple command line argument parsing library",
+        "languages": {
+            "Zig": 88186
+        }
+    },
+    {
+        "name": "poop",
+        "description": "Performance Optimizer Observation Platform",
+        "languages": {
+            "Zig": 31162
+        }
+    },
+    {
+        "name": "zigmod",
+        "description": "\ud83d\udce6 A package manager for the Zig programming language.",
+        "languages": {
+            "Zig": 125623,
+            "Shell": 2148,
+            "Nix": 161
+        }
+    },
+    {
+        "name": "gyro",
+        "description": "A  Zig package manager with an index, build runner, and build dependencies.",
+        "languages": {
+            "Zig": 237619,
+            "Nix": 2414
+        }
+    },
+    {
+        "name": "pixi",
+        "description": "Pixel art editor made with Zig.",
+        "languages": {
+            "Zig": 505511,
+            "C++": 416636,
+            "C": 94456,
+            "Objective-C": 7970,
+            "WGSL": 374
+        }
+    },
+    {
+        "name": "zigup",
+        "description": "Download and manage zig compilers.",
+        "languages": {
+            "Zig": 70293
+        }
+    },
+    {
+        "name": "bog",
+        "description": "Small, strongly typed, embeddable language.",
+        "languages": {
+            "Zig": 583976,
+            "C": 2256
+        }
+    },
+    {
+        "name": "zig-cookbook",
+        "description": "Simple Zig programs that demonstrate good practices to accomplish common programming tasks.",
+        "languages": {
+            "Zig": 56487,
+            "JavaScript": 2049,
+            "Makefile": 533,
+            "C": 450,
+            "CSS": 102
+        }
+    },
+    {
+        "name": "dida",
+        "description": "Differential dataflow for mere mortals",
+        "languages": {
+            "Zig": 264456,
+            "JavaScript": 4883,
+            "Nix": 1717,
+            "Shell": 515
+        }
+    },
+    {
+        "name": "pluto",
+        "description": "An x86 kernel written in Zig",
+        "languages": {
+            "Zig": 1037685,
+            "Assembly": 41608,
+            "Shell": 1210,
+            "Makefile": 602
+        }
+    },
+    {
+        "name": "linuxwave",
+        "description": "Generate music from the entropy of Linux \ud83d\udc27\ud83c\udfb5",
+        "languages": {
+            "Zig": 19736,
+            "HTML": 2727,
+            "Shell": 935,
+            "Dockerfile": 367
+        }
+    },
+    {
+        "name": "zf",
+        "description": "a commandline fuzzy finder designed for filtering filepaths",
+        "languages": {
+            "Zig": 98362,
+            "C": 1001,
+            "Shell": 770
+        }
+    },
+    {
+        "name": "mewz",
+        "description": "A unikernel designed specifically for running Wasm applications and compatible with WASI",
+        "languages": {
+            "Zig": 156099,
+            "Assembly": 11715,
+            "C": 10443,
+            "Shell": 3455,
+            "Dockerfile": 1647,
+            "CMake": 613,
+            "GDB": 56
+        }
+    },
+    {
+        "name": "kernel-zig",
+        "description": ":floppy_disk: hobby x86 kernel zig",
+        "languages": {
+            "Zig": 89136,
+            "Assembly": 4330,
+            "Shell": 1086,
+            "GDB": 92
+        }
+    },
+    {
+        "name": "tyvm",
+        "description": "An experimental bytecode interpreter / type-checker for type-level Typescript",
+        "languages": {
+            "Zig": 78231,
+            "Rust": 74641,
+            "TypeScript": 44823,
+            "Nix": 1729,
+            "CSS": 1368,
+            "Makefile": 1037,
+            "JavaScript": 655,
+            "C": 234
+        }
+    },
+    {
+        "name": "dt",
+        "description": "dt - duct tape for your unix pipes",
+        "languages": {
+            "Zig": 93835,
+            "Nix": 1851,
+            "Shell": 595
+        }
+    },
+    {
+        "name": "zigimg",
+        "description": "Zig library for reading and writing different image formats",
+        "languages": {
+            "Zig": 601428,
+            "AMPL": 183
+        }
+    },
+    {
+        "name": "mecha",
+        "description": "A parser combinator library for Zig",
+        "languages": {
+            "Zig": 82962
+        }
+    },
+    {
+        "name": "zap",
+        "description": "An asynchronous runtime with a focus on performance and resource efficiency.",
+        "languages": {
+            "Zig": 98780
+        }
+    },
+    {
+        "name": "zig-network",
+        "description": "A smallest-common-subset of socket functions for crossplatform networking, TCP & UDP",
+        "languages": {
+            "Zig": 69720,
+            "AMPL": 212
+        }
+    },
+    {
+        "name": "vulkan-zig",
+        "description": "Vulkan binding generator for Zig",
+        "languages": {
+            "Zig": 190797,
+            "AMPL": 169,
+            "Shell": 80
+        }
+    },
+    {
+        "name": "waylock",
+        "description": "[mirror] A small, secure Wayland screenlocker",
+        "languages": {
+            "Zig": 53676
+        }
+    },
+    {
+        "name": "hop",
+        "description": null,
+        "languages": {
+            "Zig": 30862,
+            "Makefile": 1893
+        }
+    },
+    {
+        "name": "tetris",
+        "description": "A simple tetris clone written in zig programming language.",
+        "languages": {
+            "Zig": 74728
+        }
+    },
+    {
+        "name": "zhp",
+        "description": "A Http server written in Zig",
+        "languages": {
+            "Zig": 350324,
+            "HTML": 13474,
+            "Python": 962,
+            "CSS": 265,
+            "AMPL": 151
+        }
+    },
+    {
+        "name": "Cubyz",
+        "description": "Voxel game with extensive modding API and procedural generated content.",
+        "languages": {
+            "Zig": 936202,
+            "GLSL": 40803,
+            "Batchfile": 1832,
+            "Shell": 1736,
+            "Python": 1359
+        }
+    },
+    {
+        "name": "zgl",
+        "description": "Zig OpenGL Wrapper",
+        "languages": {
+            "Zig": 627998
+        }
+    },
+    {
+        "name": "http.zig",
+        "description": "An HTTP/1.1 server for zig",
+        "languages": {
+            "Zig": 279835,
+            "Makefile": 130,
+            "HTML": 41
+        }
+    },
+    {
+        "name": "ZigGBA",
+        "description": "Work in progress SDK for creating Game Boy Advance games using Zig programming language.",
+        "languages": {
+            "Zig": 60533
+        }
+    },
+    {
+        "name": "mach-glfw",
+        "description": "Ziggified GLFW bindings with 100% API coverage, zero-fuss installation, cross compilation, and more.",
+        "languages": {
+            "Zig": 319939
+        }
+    },
+    {
+        "name": "cosmic",
+        "description": "A platform for computing and creating applications.",
+        "languages": {
+            "Zig": 2779995,
+            "JavaScript": 138463,
+            "C": 91684,
+            "GLSL": 30586,
+            "HTML": 12432,
+            "C++": 8015,
+            "Rust": 6518,
+            "CSS": 48
+        }
+    },
+    {
+        "name": "pgzx",
+        "description": "Create PostgreSQL extensions using Zig.",
+        "languages": {
+            "Zig": 183167,
+            "Shell": 17191,
+            "Nix": 13869,
+            "C": 1803,
+            "Dockerfile": 1137
+        }
+    },
+    {
+        "name": "ZigAndroidTemplate",
+        "description": "This repository contains a example on how to create a minimal Android app in Zig.",
+        "languages": {
+            "Zig": 292239,
+            "Nix": 1904,
+            "Java": 450
+        }
+    },
+    {
+        "name": "focus",
+        "description": "Minimalist text editor",
+        "languages": {
+            "Zig": 290193,
+            "HTML": 3188,
+            "CSS": 1368,
+            "Nix": 1165,
+            "Shell": 258
+        }
+    },
+    {
+        "name": "bkg",
+        "description": "Package Bun apps into a single executable",
+        "languages": {
+            "Zig": 410844,
+            "Shell": 2918
+        }
+    },
+    {
+        "name": "zig_cheatsheet",
+        "description": "Zig adalah bahasa pemrograman dan toolchain tujuan umum untuk memelihara perangkat lunak yang kuat, optimal, dan dapat digunakan kembali.",
+        "languages": {
+            "Zig": 1801
+        }
+    },
+    {
+        "name": "imp",
+        "description": "Various experiments in relational programming",
+        "languages": {
+            "Zig": 77622,
+            "Nix": 1364,
+            "Shell": 60
+        }
+    },
+    {
+        "name": "ziggy-pydust",
+        "description": "A toolkit for building Python extensions in Zig.",
+        "languages": {
+            "Zig": 239369,
+            "Python": 59364
+        }
+    },
+    {
+        "name": "zig-webui",
+        "description": "Use any web browser as GUI, with Zig in the backend and HTML5 in the frontend.",
+        "languages": {
+            "Zig": 45086,
+            "HTML": 12825,
+            "CSS": 4112,
+            "JavaScript": 3152,
+            "TypeScript": 679,
+            "Python": 242
+        }
+    },
+    {
+        "name": "sdk",
+        "description": "TinyVG software development kit",
+        "languages": {
+            "Zig": 211813,
+            "C#": 68904,
+            "JavaScript": 4250,
+            "C": 2918,
+            "Makefile": 709,
+            "Shell": 328
+        }
+    },
+    {
+        "name": "zware",
+        "description": "Zig WebAssembly Runtime Engine",
+        "languages": {
+            "Zig": 356103,
+            "WebAssembly": 67359,
+            "Shell": 12504
+        }
+    },
+    {
+        "name": "routez",
+        "description": "Http server for Zig",
+        "languages": {
+            "Zig": 54649
+        }
+    },
+    {
+        "name": "fastfilter",
+        "description": "fastfilter: Binary fuse & xor filters for Zig (faster and smaller than bloom filters)",
+        "languages": {
+            "Zig": 70135
+        }
+    },
+    {
+        "name": "scoop-search",
+        "description": "Fast `scoop search` drop-in replacement \ud83d\ude80",
+        "languages": {
+            "Zig": 29488
+        }
+    },
+    {
+        "name": "zig-string",
+        "description": "A String Library made for Zig",
+        "languages": {
+            "Zig": 24863
+        }
+    },
+    {
+        "name": "HellOS",
+        "description": "\"hello world\" x86 kernel example",
+        "languages": {
+            "Zig": 2722
+        }
+    },
+    {
+        "name": "rheia",
+        "description": "A blockchain written in Zig.",
+        "languages": {
+            "Zig": 524948,
+            "C": 106053
+        }
+    },
+    {
+        "name": "bork",
+        "description": "A TUI chat client tailored for livecoding on Twitch.",
+        "languages": {
+            "Zig": 242428,
+            "HTML": 345,
+            "AMPL": 106
+        }
+    },
+    {
+        "name": "redis-cuckoofilter",
+        "description": "Hashing-function agnostic Cuckoo filters for Redis",
+        "languages": {
+            "Zig": 57760,
+            "C": 31221
+        }
+    },
+    {
+        "name": "tokamak",
+        "description": "Server-side framework for Zig, relying heavily on dependency injection.",
+        "languages": {
+            "Zig": 40064
+        }
+    },
+    {
+        "name": "zigwin32",
+        "description": "Zig bindings for Win32 generated by https://github.com/marlersoft/zigwin32gen",
+        "languages": {
+            "Zig": 92072196
+        }
+    },
+    {
+        "name": "gotta-go-fast",
+        "description": "Performance Tracking for Zig",
+        "languages": {
+            "Zig": 20952408,
+            "C": 2054907,
+            "Assembly": 389294
+        }
+    },
+    {
+        "name": "websocket.zig",
+        "description": "A websocket implementation for zig",
+        "languages": {
+            "Zig": 115552,
+            "Shell": 980,
+            "Makefile": 194
+        }
+    },
+    {
+        "name": "zld",
+        "description": "Zig's ld drop-in replacement",
+        "languages": {
+            "Zig": 1559254
+        }
+    },
+    {
+        "name": "zalgebra",
+        "description": "Linear algebra library for games and real-time graphics.",
+        "languages": {
+            "Zig": 94759
+        }
+    },
+    {
+        "name": "clashos",
+        "description": "multiplayer arcade game for bare metal Raspberry Pi 3 B+",
+        "languages": {
+            "Zig": 44456
+        }
+    },
+    {
+        "name": "futureproof",
+        "description": "A live editor for fragment shaders, powered by Neovim, WebGPU, and Zig!",
+        "languages": {
+            "Zig": 154473,
+            "GLSL": 10956,
+            "Vim Script": 1725
+        }
+    },
+    {
+        "name": "known-folders",
+        "description": "Provides access to well-known folders across several operating systems",
+        "languages": {
+            "Zig": 16774,
+            "AMPL": 124
+        }
+    },
+    {
+        "name": "zig-args",
+        "description": "Simple-to-use argument parser with struct-based config",
+        "languages": {
+            "Zig": 51252,
+            "AMPL": 174
+        }
+    },
+    {
+        "name": "zig-ecs",
+        "description": null,
+        "languages": {
+            "Zig": 149601,
+            "AMPL": 95
+        }
+    },
+    {
+        "name": "pacman.zig",
+        "description": "Simple Pacman clone written in Zig.",
+        "languages": {
+            "Zig": 110996,
+            "GLSL": 1739,
+            "Metal": 1626,
+            "HLSL": 1200
+        }
+    },
+    {
+        "name": "wisp",
+        "description": "Lisp in WebAssembly",
+        "languages": {
+            "Zig": 1746708,
+            "JavaScript": 1071730,
+            "wisp": 85604,
+            "Common Lisp": 21578,
+            "CSS": 16032,
+            "TeX": 11161,
+            "HTML": 4328,
+            "Emacs Lisp": 1715,
+            "Nix": 1443,
+            "TypeScript": 873,
+            "Shell": 643,
+            "Makefile": 440,
+            "AMPL": 187,
+            "Ruby": 129
+        }
+    },
+    {
+        "name": "zine",
+        "description": "Fast, Scalable, Flexible Static Site Generator (SSG)",
+        "languages": {
+            "Zig": 420038,
+            "JavaScript": 3176,
+            "AMPL": 159,
+            "HTML": 130
+        }
+    },
+    {
+        "name": "zig-okredis",
+        "description": "Zero-allocation Client for Redis 6+",
+        "languages": {
+            "Zig": 269490,
+            "AMPL": 116
+        }
+    },
+    {
+        "name": "aftersun",
+        "description": "Top-down 2D RPG",
+        "languages": {
+            "Zig": 477867,
+            "WGSL": 18275
+        }
+    },
+    {
+        "name": "mach-core",
+        "description": "window+input+GPU, truly cross-platform",
+        "languages": {
+            "Zig": 255590,
+            "JavaScript": 12746,
+            "C": 415
+        }
+    },
+    {
+        "name": "LoLa",
+        "description": "LoLa is a small programming language meant to be embedded into games.",
+        "languages": {
+            "Zig": 414270,
+            "CSS": 17772,
+            "HTML": 9193,
+            "JavaScript": 7185,
+            "Nix": 1577
+        }
+    },
+    {
+        "name": "ziglua",
+        "description": "Zig bindings for the Lua C API",
+        "languages": {
+            "Zig": 250717,
+            "Makefile": 420,
+            "C++": 401
+        }
+    },
+    {
+        "name": "jams",
+        "description": null,
+        "languages": {
+            "Zig": 424856,
+            "Go": 18946,
+            "C": 5377,
+            "Nix": 3719,
+            "JavaScript": 1008,
+            "HTML": 38
+        }
+    },
+    {
+        "name": "jetzig",
+        "description": "Jetzig is a web framework written in Zig",
+        "languages": {
+            "Zig": 228743
+        }
+    },
+    {
+        "name": "ziglibc",
+        "description": null,
+        "languages": {
+            "Zig": 138076,
+            "C": 78996,
+            "Assembly": 1123,
+            "Shell": 274
+        }
+    },
+    {
+        "name": "mach-gpu",
+        "description": "mach/gpu: truly cross-platform WebGPU graphics for Zig",
+        "languages": {
+            "Zig": 328857,
+            "C": 966,
+            "C++": 687
+        }
+    },
+    {
+        "name": "viewstamped-replication-made-famous",
+        "description": "A $20k consensus challenge based on TigerBeetle's implementation of the pioneering Viewstamped Replication protocol.",
+        "languages": {
+            "Zig": 449715,
+            "Batchfile": 4776,
+            "Shell": 3476
+        }
+    },
+    {
+        "name": "OffensiveZig",
+        "description": "Some attempts at using Zig(https://ziglang.org/) in penetration testing.",
+        "languages": {
+            "Zig": 25165
+        }
+    },
+    {
+        "name": "zig-js",
+        "description": "Access the JS host environment from Zig compiled to WebAssembly.",
+        "languages": {
+            "Zig": 30290,
+            "TypeScript": 16958,
+            "Nix": 1479,
+            "JavaScript": 269,
+            "HTML": 247
+        }
+    },
+    {
+        "name": "zig-protobuf",
+        "description": "a protobuf 3 implementation for zig.",
+        "languages": {
+            "Zig": 310911,
+            "Shell": 1470,
+            "Dockerfile": 161
+        }
+    },
+    {
+        "name": "fundude",
+        "description": "Gameboy emulator: Zig -> wasm",
+        "languages": {
+            "Zig": 335169,
+            "TypeScript": 48051,
+            "C": 15455,
+            "HTML": 464
+        }
+    },
+    {
+        "name": "dvui",
+        "description": null,
+        "languages": {
+            "Zig": 807892,
+            "C++": 282848,
+            "C": 201317,
+            "JavaScript": 20343,
+            "HTML": 876
+        }
+    },
+    {
+        "name": "raylib.zig",
+        "description": "Idiomatic Zig bindings for raylib utilizing raylib_parser",
+        "languages": {
+            "Zig": 371426,
+            "C": 211108,
+            "HTML": 15860
+        }
+    },
+    {
+        "name": "getty",
+        "description": "A (de)serialization framework for Zig",
+        "languages": {
+            "Zig": 519964
+        }
+    },
+    {
+        "name": "MiniPixel",
+        "description": "A tiny pixel art editor",
+        "languages": {
+            "Zig": 438546,
+            "C": 219157,
+            "Objective-C": 253
+        }
+    },
+    {
+        "name": "apple_pie",
+        "description": "Basic HTTP server implementation in Zig",
+        "languages": {
+            "Zig": 172637,
+            "AMPL": 159
+        }
+    },
+    {
+        "name": "colorstorm",
+        "description": "A color theme generator for editors and terminal emulators",
+        "languages": {
+            "Zig": 14742,
+            "Vim Script": 3532,
+            "Makefile": 1292,
+            "Shell": 698,
+            "Less": 436
+        }
+    },
+    {
+        "name": "glibc-abi-tool",
+        "description": "A repository that collects glibc .abilist files for every version and a tool to combine them into one dataset.",
+        "languages": {
+            "Zig": 48111
+        }
+    },
+    {
+        "name": "interface.zig",
+        "description": "Dynamic dispatch for zig made easy",
+        "languages": {
+            "Zig": 22845
+        }
+    },
+    {
+        "name": "zig-libgc",
+        "description": "Zig-friendly library for interfacing with libgc (bdwgc) -- the Boehm-Demers-Weiser conservative garbage collector",
+        "languages": {
+            "Zig": 8601,
+            "Nix": 1492
+        }
+    },
+    {
+        "name": "libflightplan",
+        "description": "A library for reading and writing flight plans in various formats. Available as both a C and Zig library.",
+        "languages": {
+            "Zig": 61888,
+            "C": 6366,
+            "Nix": 3048
+        }
+    },
+    {
+        "name": "zig-regex",
+        "description": "A regex implementation for the zig programming language",
+        "languages": {
+            "Zig": 118651,
+            "C": 1100
+        }
+    },
+    {
+        "name": "Florence",
+        "description": "The Renaissance of Operating Systems",
+        "languages": {
+            "Zig": 505740,
+            "Assembly": 1289
+        }
+    },
+    {
+        "name": "zua",
+        "description": "An implementation of Lua 5.1 in Zig, for learning purposes",
+        "languages": {
+            "Zig": 303549
+        }
+    },
+    {
+        "name": "zig-objc",
+        "description": "Objective-C runtime bindings for Zig (Zig calling ObjC).",
+        "languages": {
+            "Zig": 50318,
+            "Nix": 1434
+        }
+    },
+    {
+        "name": "mach-gpu-dawn",
+        "description": "Google's Dawn WebGPU implementation, cross-compiled with Zig into a single static library",
+        "languages": {
+            "Zig": 71062,
+            "C++": 2630,
+            "Shell": 1609,
+            "Python": 273
+        }
+    },
+    {
+        "name": "zigself",
+        "description": "An implementation of the Self programming language in Zig",
+        "languages": {
+            "Zig": 599228,
+            "Self": 95449,
+            "Shell": 127
+        }
+    },
+    {
+        "name": "flow",
+        "description": "Flow Control: a programmer's text editor",
+        "languages": {
+            "Zig": 680605,
+            "Shell": 1274
+        }
+    },
+    {
+        "name": "zero-graphics",
+        "description": "Application framework based on OpenGL ES 2.0. Runs on desktop machines, Android phones and the web",
+        "languages": {
+            "Zig": 632345,
+            "C++": 50102,
+            "JavaScript": 43589,
+            "C": 5897,
+            "Python": 2181
+        }
+    },
+    {
+        "name": "rayray",
+        "description": "A tiny GPU raytracer, using Zig and WebGPU",
+        "languages": {
+            "Zig": 169461,
+            "C++": 14977,
+            "GLSL": 1595
+        }
+    },
+    {
+        "name": "glsl_analyzer",
+        "description": "Language server for GLSL (autocomplete, goto-definition, formatter, and more)",
+        "languages": {
+            "Zig": 189683,
+            "Python": 46806,
+            "GLSL": 7515,
+            "Just": 1118,
+            "JavaScript": 569,
+            "Shell": 382
+        }
+    },
+    {
+        "name": "zig-spec",
+        "description": null,
+        "languages": {
+            "Zig": 426079,
+            "Yacc": 18347,
+            "C": 1611,
+            "Shell": 732,
+            "Makefile": 263
+        }
+    },
+    {
+        "name": "zig-cli",
+        "description": "A simple package for building command line apps in Zig",
+        "languages": {
+            "Zig": 46163
+        }
+    },
+    {
+        "name": "learnopengl",
+        "description": "https://learnopengl.com tutorials ported to zig",
+        "languages": {
+            "Zig": 166887,
+            "GLSL": 30296
+        }
+    },
+    {
+        "name": "zig.SteamManifestPatcher",
+        "description": "Patches steam at runtime to re-allow the use of download_depot to downpatch games.",
+        "languages": {
+            "Zig": 8547
+        }
+    },
+    {
+        "name": "zig-wasm-dom",
+        "description": "Zig + WebAssembly + JS + DOM",
+        "languages": {
+            "Zig": 5377,
+            "JavaScript": 4016,
+            "HTML": 517
+        }
+    },
+    {
+        "name": "zig-upaya",
+        "description": "Zig-based framework for creating game tools and helper apps",
+        "languages": {
+            "Zig": 662925,
+            "C": 652824,
+            "C++": 4496
+        }
+    },
+    {
+        "name": "zig-qoi",
+        "description": "Quite OK Image format encoder/decoder written in Zig",
+        "languages": {
+            "Zig": 32044
+        }
+    },
+    {
+        "name": "zig-patterns",
+        "description": "Common Zig patterns for you and your friends :)",
+        "languages": {
+            "Zig": 17047
+        }
+    },
+    {
+        "name": "kirei",
+        "description": "\ud83c\udf38 The prettiest keyboard software",
+        "languages": {
+            "Zig": 189804,
+            "NCL": 14268,
+            "C": 6564,
+            "Assembly": 5039,
+            "Nix": 1026
+        }
+    },
+    {
+        "name": "llama2.zig",
+        "description": "Inference Llama 2 in one file of pure Zig",
+        "languages": {
+            "Zig": 55598
+        }
+    },
+    {
+        "name": "sig",
+        "description": "a Solana validator client implementation written in Zig",
+        "languages": {
+            "Zig": 1003093,
+            "Python": 5344
+        }
+    },
+    {
+        "name": "avr-arduino-zig",
+        "description": "Arduino using Zig!",
+        "languages": {
+            "Zig": 55116
+        }
+    },
+    {
+        "name": "tls13-zig",
+        "description": "The first TLS1.3 implementation in Zig(master/HEAD) only with std.",
+        "languages": {
+            "Zig": 542405,
+            "Shell": 9488,
+            "Go": 2995,
+            "Dockerfile": 636
+        }
+    },
+    {
+        "name": "zigrocks",
+        "description": "Writing a SQL database, take two: Zig and RocksDB",
+        "languages": {
+            "Zig": 65731,
+            "Shell": 674
+        }
+    },
+    {
+        "name": "zig-ios-example",
+        "description": "Minimal build.zig for targeting iOS",
+        "languages": {
+            "Zig": 2265,
+            "Objective-C": 1121
+        }
+    },
+    {
+        "name": "zlm",
+        "description": "Zig linear mathemathics",
+        "languages": {
+            "Zig": 38873,
+            "AMPL": 130
+        }
+    },
+    {
+        "name": "ctregex.zig",
+        "description": "Compile time regular expressions in zig",
+        "languages": {
+            "Zig": 43311,
+            "AMPL": 152
+        }
+    },
+    {
+        "name": "zig-gamekit",
+        "description": "Companion repo for zig-renderkit for making 2D games",
+        "languages": {
+            "Zig": 659370,
+            "C": 599650,
+            "C++": 3769,
+            "Makefile": 1909,
+            "Metal": 1793,
+            "GLSL": 811
+        }
+    },
+    {
+        "name": "zig-v8",
+        "description": "Simple V8 builds with C and Zig bindings.",
+        "languages": {
+            "Zig": 106633,
+            "C++": 40871,
+            "C": 31825,
+            "Python": 428
+        }
+    },
+    {
+        "name": "pike",
+        "description": "Async I/O for Zig",
+        "languages": {
+            "Zig": 111900,
+            "AMPL": 78
+        }
+    },
+    {
+        "name": "zvisor",
+        "description": "Zig-based Hypervisor",
+        "languages": {
+            "Zig": 73152
+        }
+    },
+    {
+        "name": "redis-rope",
+        "description": "\ud83e\udea2 A fast native data type for manipulating large strings in Redis",
+        "languages": {
+            "Zig": 42244,
+            "Rust": 10998
+        }
+    },
+    {
+        "name": "zig-nodejs-example",
+        "description": "Node.js Native Module written in Zig",
+        "languages": {
+            "Zig": 15732,
+            "Shell": 793,
+            "JavaScript": 65
+        }
+    },
+    {
+        "name": "NextWM",
+        "description": "Manual tiling wayland compositor. ( Work In Progress )",
+        "languages": {
+            "Zig": 126740,
+            "C": 5051,
+            "Rust": 3984,
+            "Go": 3489,
+            "Nix": 2438,
+            "Makefile": 1827
+        }
+    },
+    {
+        "name": "s2s",
+        "description": "A zig binary serialization format.",
+        "languages": {
+            "Zig": 31353
+        }
+    },
+    {
+        "name": "requestz",
+        "description": "HTTP client for Zig \ud83e\udd8e",
+        "languages": {
+            "Zig": 29486
+        }
+    },
+    {
+        "name": "ZT",
+        "description": "A zig based Imgui Application framework",
+        "languages": {
+            "Zig": 683219,
+            "Shell": 1783,
+            "Makefile": 271,
+            "AMPL": 144,
+            "Dockerfile": 91
+        }
+    },
+    {
+        "name": "wazm",
+        "description": "Web Assembly Zig Machine",
+        "languages": {
+            "Zig": 169852
+        }
+    },
+    {
+        "name": "IUPforZig",
+        "description": "IUP (Portable User Interface Toolkit) bindings for the Zig language.",
+        "languages": {
+            "Zig": 8286668,
+            "Batchfile": 2041,
+            "Shell": 1436
+        }
+    },
+    {
+        "name": "zig-yaml",
+        "description": "YAML parser for Zig",
+        "languages": {
+            "Zig": 105206
+        }
+    },
+    {
+        "name": "async_io_uring",
+        "description": "An event loop in Zig using io_uring and coroutines",
+        "languages": {
+            "Zig": 77657
+        }
+    },
+    {
+        "name": "moonshine",
+        "description": "A general purpose ray traced renderer built with Zig + Vulkan",
+        "languages": {
+            "Zig": 407614,
+            "HLSL": 62204,
+            "C++": 47114,
+            "Python": 666
+        }
+    },
+    {
+        "name": "Zig",
+        "description": "Collection of Algorithms implemented in Zig.",
+        "languages": {
+            "Zig": 106552,
+            "Batchfile": 1266,
+            "Shell": 1215
+        }
+    },
+    {
+        "name": "koino",
+        "description": "[mirror] CommonMark + GFM compatible Markdown parser and renderer",
+        "languages": {
+            "Zig": 161215,
+            "Nix": 787,
+            "Makefile": 149
+        }
+    },
+    {
+        "name": "pg.zig",
+        "description": "Native PostgreSQL driver / client for Zig",
+        "languages": {
+            "Zig": 228849,
+            "Makefile": 392,
+            "Dockerfile": 75
+        }
+    },
+    {
+        "name": "h11",
+        "description": "I/O agnostic HTTP/1.1 implementation for Zig \ud83e\udd8e",
+        "languages": {
+            "Zig": 59433
+        }
+    },
+    {
+        "name": "yazap",
+        "description": "\ud83d\udd27 The ultimate Zig library for seamless command line parsing. Effortlessly handles options, subcommands, and custom arguments with ease.",
+        "languages": {
+            "Zig": 83541
+        }
+    },
+    {
+        "name": "repository",
+        "description": "A community-maintained repository of zig packages",
+        "languages": {
+            "Zig": 17332
+        }
+    },
+    {
+        "name": "rem",
+        "description": "An HTML parsing library, written in Zig.",
+        "languages": {
+            "Zig": 981642
+        }
+    },
+    {
+        "name": "libvaxis",
+        "description": "a modern tui library written in zig",
+        "languages": {
+            "Zig": 193004
+        }
+    },
+    {
+        "name": "zig-toml",
+        "description": "A TOML parser written in Zig",
+        "languages": {
+            "Zig": 40185
+        }
+    },
+    {
+        "name": "http",
+        "description": "HTTP core types for Zig \ud83e\uddb4",
+        "languages": {
+            "Zig": 96080
+        }
+    },
+    {
+        "name": "ziggy",
+        "description": "A data serialization language for expressing clear API messages, config files, etc.",
+        "languages": {
+            "Zig": 373371,
+            "C": 144473,
+            "TypeScript": 12185,
+            "JavaScript": 7076,
+            "Rust": 6602,
+            "C++": 1834,
+            "Scheme": 1266,
+            "Python": 778
+        }
+    },
+    {
+        "name": "mach-sysgpu",
+        "description": "Highly experimental, blazingly fast, lean & mean descendant of WebGPU written in Zig",
+        "languages": {
+            "Zig": 2065916,
+            "WGSL": 33318,
+            "Shell": 78
+        }
+    },
+    {
+        "name": "mustache-zig",
+        "description": "Logic-less templates for Zig",
+        "languages": {
+            "Zig": 625859,
+            "HTML": 5610,
+            "Shell": 3254,
+            "Dockerfile": 996
+        }
+    },
+    {
+        "name": "zigwin32gen",
+        "description": "Generates Complete Zig bindings for Win32.  See https://github.com/marlersoft/zigwin32 for the bindings themselves.",
+        "languages": {
+            "Zig": 185475,
+            "Python": 5303
+        }
+    },
+    {
+        "name": "bof-launcher",
+        "description": "Beacon Object File (BOF) launcher - library for executing BOF files in C/C++/Zig applications",
+        "languages": {
+            "Zig": 209095,
+            "C": 85312,
+            "Python": 6753,
+            "Assembly": 3388,
+            "Shell": 1439
+        }
+    },
+    {
+        "name": "Zig-AoC-Template",
+        "description": "A template for Advent of Code participants using Zig",
+        "languages": {
+            "Zig": 43592
+        }
+    },
+    {
+        "name": "zaml",
+        "description": "\ud83d\ude80  Fast YAML 1.2 parsing library for Python 3",
+        "languages": {
+            "Zig": 96750,
+            "Python": 3466,
+            "Shell": 644
+        }
+    },
+    {
+        "name": "zorrow",
+        "description": "Borrowchecker in Zig",
+        "languages": {
+            "Zig": 5896
+        }
+    },
+    {
+        "name": "sdl-zig-demo",
+        "description": "SDL2 hello world in zig",
+        "languages": {
+            "Zig": 3063
+        }
+    },
+    {
+        "name": "simdjzon",
+        "description": "simdjson port to zig",
+        "languages": {
+            "Zig": 319894,
+            "Julia": 4077,
+            "Shell": 2100,
+            "C++": 683
+        }
+    },
+    {
+        "name": "legend-of-swarkland",
+        "description": "Turn-based action fantasy puzzle game inspired by NetHack and Crypt of the Necrodancer",
+        "languages": {
+            "Zig": 379318,
+            "Python": 7306
+        }
+    },
+    {
+        "name": "ZWL",
+        "description": "Zig Windowing Library",
+        "languages": {
+            "Zig": 138217,
+            "AMPL": 200
+        }
+    },
+    {
+        "name": "GodotZigBindings",
+        "description": "Zig lang bindings for Godot Engine GDNative",
+        "languages": {
+            "Zig": 340404
+        }
+    },
+    {
+        "name": "zeroman",
+        "description": null,
+        "languages": {
+            "Zig": 106455,
+            "JavaScript": 9619,
+            "HTML": 7161,
+            "GLSL": 1271,
+            "Shell": 132
+        }
+    },
+    {
+        "name": "mach-examples",
+        "description": "Mach engine examples",
+        "languages": {
+            "Zig": 6875
+        }
+    },
+    {
+        "name": "zigx",
+        "description": null,
+        "languages": {
+            "Zig": 388519,
+            "C": 128438,
+            "C++": 16969,
+            "Python": 8556,
+            "Shell": 424
+        }
+    },
+    {
+        "name": "zek",
+        "description": null,
+        "languages": {
+            "Zig": 103848,
+            "Shell": 445
+        }
+    },
+    {
+        "name": "zzz",
+        "description": "Simple and boring human readable data format for Zig.",
+        "languages": {
+            "Zig": 40292,
+            "AMPL": 110
+        }
+    },
+    {
+        "name": "zasm",
+        "description": "multi-target assembler and disassembler",
+        "languages": {
+            "Zig": 60950,
+            "Assembly": 387
+        }
+    },
+    {
+        "name": "zig-wlroots",
+        "description": "[mirror] Zig bindings for wlroots",
+        "languages": {
+            "Zig": 257366
+        }
+    },
+    {
+        "name": "weekend-raytracer-zig",
+        "description": "A Zig implementation of the \"Ray Tracing in One Weekend\" book",
+        "languages": {
+            "Zig": 26454
+        }
+    },
+    {
+        "name": "pbui-main",
+        "description": "The main repository for the PBUI project ",
+        "languages": {
+            "Zig": 85854,
+            "Python": 80
+        }
+    },
+    {
+        "name": "zig-graph",
+        "description": "Directed graph data structure for Zig",
+        "languages": {
+            "Zig": 23483,
+            "Nix": 1492
+        }
+    },
+    {
+        "name": "iguanaTLS",
+        "description": "Minimal, experimental TLS 1.2 implementation in Zig",
+        "languages": {
+            "Zig": 235093,
+            "AMPL": 180
+        }
+    },
+    {
+        "name": "hzzp",
+        "description": null,
+        "languages": {
+            "Zig": 66506,
+            "Shell": 147,
+            "AMPL": 110
+        }
+    },
+    {
+        "name": "raspberrypi-rp2040",
+        "description": "MicroZig Hardware Support Package for Raspberry Pi RP2040",
+        "languages": {
+            "Zig": 320279,
+            "C": 194133,
+            "Assembly": 51571
+        }
+    },
+    {
+        "name": "didot",
+        "description": "Zig 3D game engine.",
+        "languages": {
+            "Zig": 486678,
+            "GLSL": 2476
+        }
+    },
+    {
+        "name": "zig-bare-metal-raspberry-pi",
+        "description": "Bare metal raspberry pi program written in zig",
+        "languages": {
+            "Zig": 75317
+        }
+    },
+    {
+        "name": "zigfsm",
+        "description": "A finite state machine library for Zig",
+        "languages": {
+            "Zig": 64875
+        }
+    },
+    {
+        "name": "zig-wayland",
+        "description": "[mirror] Zig wayland scanner and libwayland bindings",
+        "languages": {
+            "Zig": 127991
+        }
+    },
+    {
+        "name": "jaz",
+        "description": "A JVM implementation in Zig!",
+        "languages": {
+            "Zig": 67179,
+            "Java": 239
+        }
+    },
+    {
+        "name": "zig-hyperloglog",
+        "description": "Zig library for HyperLogLog estimation",
+        "languages": {
+            "Zig": 23426
+        }
+    },
+    {
+        "name": "ziglint",
+        "description": "A linting suite for Zig",
+        "languages": {
+            "Zig": 37303
+        }
+    },
+    {
+        "name": "zigcv",
+        "description": "zig bindings for OpenCV4",
+        "languages": {
+            "Zig": 500410,
+            "Dockerfile": 2224
+        }
+    },
+    {
+        "name": "zpm",
+        "description": "Zig package manager helper",
+        "languages": {
+            "Zig": 15560
+        }
+    },
+    {
+        "name": "zig-vulkan-triangle",
+        "description": "simple triangle displayed using vulkan, glfw, and zig",
+        "languages": {
+            "Zig": 572467,
+            "GLSL": 667
+        }
+    },
+    {
+        "name": "regz",
+        "description": "Generate zig code from ATDF or SVD files for microcontrollers.",
+        "languages": {
+            "Zig": 314965
+        }
+    },
+    {
+        "name": "zigly",
+        "description": "The easiest way to write services for Fastly's Compute@Edge in Zig.",
+        "languages": {
+            "Zig": 107565
+        }
+    },
+    {
+        "name": "wasmtime-zig",
+        "description": "Zig embedding of Wasmtime",
+        "languages": {
+            "Zig": 13510,
+            "Shell": 2997
+        }
+    },
+    {
+        "name": "zee_alloc",
+        "description": "tiny Zig allocator primarily targeting WebAssembly",
+        "languages": {
+            "Zig": 40379
+        }
+    },
+    {
+        "name": "roguelike",
+        "description": "A stealth roguelike in development phase.",
+        "languages": {
+            "Zig": 1462161,
+            "Janet": 67357,
+            "Lua": 4585,
+            "Shell": 2743,
+            "Just": 1127,
+            "Python": 577
+        }
+    },
+    {
+        "name": "bytebox",
+        "description": "Standalone WebAssembly VM.",
+        "languages": {
+            "Zig": 788976,
+            "C": 5662,
+            "Python": 1540,
+            "Shell": 179
+        }
+    },
+    {
+        "name": "Zig-PSP",
+        "description": "A project to bring the Zig Programming Language to the Sony PlayStation Portable!",
+        "languages": {
+            "Zig": 392206,
+            "C": 31829,
+            "Assembly": 640
+        }
+    },
+    {
+        "name": "zig-cuckoofilter",
+        "description": "Production-ready Cuckoo Filters for any C ABI compatible target.",
+        "languages": {
+            "Zig": 45608,
+            "C": 4375,
+            "Python": 4308,
+            "JavaScript": 2035,
+            "Go": 1765
+        }
+    },
+    {
+        "name": "qml_zig",
+        "description": "QML bindings for the Zig programming language",
+        "languages": {
+            "Zig": 41405
         }
     }
 ]
