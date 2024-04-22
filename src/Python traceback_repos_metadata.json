@@ -36,5 +36,1477 @@
             "Python": 623689,
             "Batchfile": 3799
         }
+    },
+    {
+        "name": "pdbr",
+        "description": "pdb + Rich library",
+        "languages": {
+            "Python": 44444,
+            "Dockerfile": 206,
+            "Shell": 188,
+            "Makefile": 187
+        }
+    },
+    {
+        "name": "python-tblib",
+        "description": "Serialization library for Exceptions and Tracebacks.",
+        "languages": {
+            "Python": 31054
+        }
+    },
+    {
+        "name": "catcher",
+        "description": "Beautiful tracebacks for Python",
+        "languages": {
+            "Python": 12454,
+            "Makefile": 1675
+        }
+    },
+    {
+        "name": "traceprint",
+        "description": "traceprint is a Python package that adds stack trace links to the builtin print function, so that editors such as PyCharm can link to the source of the print call.",
+        "languages": {
+            "Python": 4551,
+            "Shell": 190
+        }
+    },
+    {
+        "name": "pyinspect",
+        "description": "find functions when you can't remember their name",
+        "languages": {
+            "Python": 88580,
+            "Shell": 676
+        }
+    },
+    {
+        "name": "backtrace",
+        "description": "Makes Python tracebacks human friendly",
+        "languages": {
+            "Python": 17640,
+            "Makefile": 2098
+        }
+    },
+    {
+        "name": "friendly-traceback",
+        "description": "Friendlier Python tracebacks.",
+        "languages": {
+            "Python": 993124,
+            "Batchfile": 6550
+        }
+    },
+    {
+        "name": "django-monkey-team",
+        "description": "Django middleware and userscript that displays debug tracebacks on production sites (where you would have DEBUG = False) only to developers.",
+        "languages": {
+            "Python": 11950,
+            "JavaScript": 1132
+        }
+    },
+    {
+        "name": "polog",
+        "description": "\u041b\u043e\u0433\u0433\u0435\u0440 \u043d\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u044f",
+        "languages": {
+            "Python": 752224,
+            "Shell": 150
+        }
+    },
+    {
+        "name": "pdbp",
+        "description": "pdbp (Pdb+): A drop-in replacement for pdb and pdbpp. To replace \"pdb\", add \"import pdbp\" to an \"__init__.py\" file.",
+        "languages": {
+            "Python": 63928
+        }
+    },
+    {
+        "name": "colored-traceback.py",
+        "description": "Automatically color Python's uncaught exception tracebacks",
+        "languages": {
+            "Python": 4919,
+            "Makefile": 331
+        }
+    },
+    {
+        "name": "pretty-traceback",
+        "description": "Human readable stacktraces for Python.",
+        "languages": {
+            "Python": 44388,
+            "Shell": 21079,
+            "Makefile": 17436,
+            "Dockerfile": 2361
+        }
+    },
+    {
+        "name": "friendly",
+        "description": "Friendly-traceback's version used in most situations",
+        "languages": {
+            "Python": 104981,
+            "Batchfile": 3591
+        }
+    },
+    {
+        "name": "logger_tt",
+        "description": "Logging makes simple. Log even the exception that you forgot to catch. Log messages from your print(msg). Support multiprocessing logging too.",
+        "languages": {
+            "Python": 108867
+        }
+    },
+    {
+        "name": "wthell",
+        "description": "wthell is a debugging tool for python to interactively check frame stack when your code quit unexpectedly ",
+        "languages": {
+            "Python": 11288,
+            "Makefile": 624
+        }
+    },
+    {
+        "name": "python-tracebackturbo",
+        "description": "Improved Python Traceback Module",
+        "languages": {
+            "Python": 23886
+        }
+    },
+    {
+        "name": "tbgrep",
+        "description": "Extracts Python Tracebacks from text",
+        "languages": {
+            "Python": 10559
+        }
+    },
+    {
+        "name": "xtraceback",
+        "description": "A verbose Python traceback formatter",
+        "languages": {
+            "Python": 417307
+        }
+    },
+    {
+        "name": "sotrace",
+        "description": "Get and open StackOverflow posts for your tracebacks.",
+        "languages": {
+            "Python": 5745
+        }
+    },
+    {
+        "name": "forensics",
+        "description": "Code Implementation for Traceback of Data Poisoning Attacks in Neural Networks",
+        "languages": {
+            "Python": 48856
+        }
+    },
+    {
+        "name": "tracefront",
+        "description": "Format Python tracebacks better.",
+        "languages": {
+            "Python": 15668
+        }
+    },
+    {
+        "name": "tracerite",
+        "description": "Tracebacks for Humans (in Jupyter notebooks)",
+        "languages": {
+            "Python": 18627,
+            "CSS": 4010
+        }
+    },
+    {
+        "name": "offlinetb",
+        "description": "Small utility for distilling Python traceback for offline analysis",
+        "languages": {
+            "Python": 17709,
+            "JavaScript": 5196,
+            "CSS": 2204,
+            "HTML": 578,
+            "Makefile": 197
+        }
+    },
+    {
+        "name": "python-sensitive-variables",
+        "description": "strip local variables in tracebacks",
+        "languages": {
+            "Python": 12433,
+            "Makefile": 154
+        }
+    },
+    {
+        "name": "quickfix.py",
+        "description": "Run a Python script and format the exception traceback as Vim quickfix",
+        "languages": {
+            "Python": 5984,
+            "Makefile": 2678
+        }
+    },
+    {
+        "name": "dogslow-sentry",
+        "description": "A Django middleware that logs tracebacks of slow requests to Sentry",
+        "languages": {
+            "Python": 21890,
+            "Makefile": 759,
+            "Shell": 365
+        }
+    },
+    {
+        "name": "exception",
+        "description": ":x: Extract unique Python exceptions with their traceback from a log file.",
+        "languages": {
+            "Python": 11842,
+            "Makefile": 2278
+        }
+    },
+    {
+        "name": "gdb-ddemangle",
+        "description": "GDB plugin for demngling D code in traceback",
+        "languages": {
+            "Python": 1742,
+            "D": 164,
+            "Makefile": 95
+        }
+    },
+    {
+        "name": "DAMIT",
+        "description": "DAMIT: DDoS Attack Mitigation and IP Traceback",
+        "languages": {
+            "Python": 99206,
+            "Shell": 346
+        }
+    },
+    {
+        "name": "deb-python-traceback2",
+        "description": "Debian package build scripts for python-traceback2 project",
+        "languages": {
+            "Python": 58090,
+            "Makefile": 70
+        }
+    },
+    {
+        "name": "ptb",
+        "description": "Python Traceback For Humans",
+        "languages": {
+            "Python": 8250
+        }
+    },
+    {
+        "name": "Telegram-Scraper",
+        "description": " import sys import csv import traceback import time import random import json  from telethon.sync import TelegramClient #Client Module to Login  from telethon.tl.functions.messages import GetDialogsRequest from telethon.tl.types import InputPeerEmpty, InputPeerChannel, InputPeerUser, InputPeerChat  from telethon.errors.rpcerrorlist import PeerFloodError, UserPrivacyRestrictedError, UserAlreadyParticipantError   from telethon.tl.functions.channels import InviteToChannelRequest from telethon.tl.functions.messages import AddChatUserRequest   credential_file = \"credentials.json\" #Relative Path of File which consists Telegram Credentials(api_id, api_hash, phone)  start_index = 0 continue_script = False  if len(sys.argv) == 5:     g_index_scrapper = sys.argv[1]     g_index_adder = sys.argv[2]     mode = sys.argv[3]     start_index = sys.argv[4]     continue_script = True  #Login & Verification Code try:     credentials = json.load(open(credential_file, 'r')) except:     print(\"credentials.json File not present in the directory\")     exit()  try:     client = TelegramClient(credentials['phone'], credentials['api_id'], credentials['api_hash'])     client.connect() except:     print(\"Could not create Telegram Client, Please check your Credentials in credentials.json file\")     exit()   if not client.is_user_authorized():     client.send_code_request(credentials['phone'])     client.sign_in(credentials['phone'], input('Enter  veryfication code: '))  #Chat parameters chats = [] last_date = None chunk_size = 200 # No of latest chats to load groups = []  try:     result = client(GetDialogsRequest(         offset_date=last_date,         offset_id=0,         offset_peer=InputPeerEmpty(),         limit=chunk_size,         hash=0     ))     chats.extend(result.chats) except:     print(\"Unable to gather chats from server. Please Check Chat parameters.\")     exit()  for chat in chats:     try:         groups.append(chat)     except:         continue  if len(groups) == 0:     print(\"No Groups or Channels found.\")     exit()  print('Available Groups and Channels:') i=1 for g in groups:     print(str(i) + '- ' + g.title)     i+=1  #User Inputs if not continue_script:     g_index_scrapper = input(\"Enter the index of Group/Channel to SCRAPE users from: \")     target_group_scrapper = groups[int(g_index_scrapper)-1]      g_index_adder = input(\"Enter the index of Group/Channel to ADD users to: \")     target_group_adder = groups[int(g_index_adder)-1]      mode = int(input(\"Enter 1 to add by username or 2 to add by ID: \"))  if(mode not in [1,2]):     sys.exit(\"Invalid Mode Selected. Please Try Again.\")  #Fetching participants from server all_participants = [] print('Fetching Members...')  try:     all_participants = client.get_participants(target_group_scrapper, aggressive=True) except:      print(\"Unable to fetch participants of\", target_group_scrapper)     exit()  if len(all_participants) == 0:     print(\"No user found in\", target_group_scrapper + '.', \"Please check the group.\")     exit()  try:     target_group_entity_adder = InputPeerChannel(target_group_adder.id, target_group_adder.access_hash)     isChannel = True except:     target_group_entity_adder = InputPeerChat(target_group_adder.id)     isChannel = False  n = 0 user_added_count = 0    for i in range(start_index,len(all_participants)):     user = all_participants[i]     n += 1     if n % 50 == 0:         time.sleep(900)      try:         print(\"Adding {}\".format(user.id))         if mode == 1:             try:                 if user.username != None:                     user_to_add = client.get_input_entity(user.username)             except:                  continue                      elif mode == 2:             user_to_add = InputPeerUser(user.id, user.access_hash)                  if isChannel:             client(InviteToChannelRequest(target_group_entity_adder, [user_to_add]))         else:             client(AddChatUserRequest(target_group_adder.id, user_to_add,fwd_limit=50))          user_added_count += 1         wait_time = random.randrange(60, 180)         print(\"Waiting for\",wait_time, \"Seconds...\")         time.sleep(wait_time)     except PeerFloodError:         print(\"Getting Flood Error from telegram. Script is stopping now. Please try again after some time.\")         print(\"Run the following command after few hours to contiune where you left off:\")         print(\"python3 scrapper_and_adder.py\", g_index_scrapper, g_index_adder, mode, i)         sys.exit()     except UserPrivacyRestrictedError:         print(\"The user's privacy settings do not allow you to do this. Skipping.\")     except UserAlreadyParticipantError:         continue     except:         traceback.print_exc()         print(\"Unexpected Error\")         continue",
+        "languages": {
+            "Python": 20639
+        }
+    },
+    {
+        "name": "infi.traceback",
+        "description": "better tracebacks",
+        "languages": {
+            "Python": 9836
+        }
+    },
+    {
+        "name": "asynctb",
+        "description": "Traceback tools for Python async programming",
+        "languages": {
+            "Python": 159628,
+            "Shell": 5406
+        }
+    },
+    {
+        "name": "chronostar",
+        "description": "A stellar orbit traceback code",
+        "languages": {
+            "Python": 1116079,
+            "C": 308199,
+            "SWIG": 4608,
+            "C++": 2106,
+            "Shell": 1163,
+            "Makefile": 1032
+        }
+    },
+    {
+        "name": "sublime-python-traceback",
+        "description": "Easy navigation in your python tracebacks",
+        "languages": {
+            "Python": 7069
+        }
+    },
+    {
+        "name": "traceback2",
+        "description": "Backport of the Python stdlib traceback module",
+        "languages": {
+            "Python": 58890,
+            "Makefile": 70
+        }
+    },
+    {
+        "name": "rich-traceback",
+        "description": "Informative Tracebacks for Python logging module",
+        "languages": {
+            "Python": 10438
+        }
+    },
+    {
+        "name": "torch-localize",
+        "description": "Decorators for better tracebacks in PyTorch",
+        "languages": {
+            "Python": 5369
+        }
+    },
+    {
+        "name": "python-tracebackturbo3",
+        "description": "A drop-in replacement for the python3 traceback module that enables dumping of the local variable scope aside normal stack traces.",
+        "languages": {
+            "Python": 24630
+        }
+    },
+    {
+        "name": "pygenie",
+        "description": "My version of pygenie modifiyed to have a setup.py. Original version: http://traceback.org/2008/03/31/measuring-cyclomatic-complexity-of-python-code/",
+        "languages": {
+            "Python": 12920
+        }
+    },
+    {
+        "name": "error_catcher",
+        "description": "Convenient and comprehensive traceback decorator for Python scripts.",
+        "languages": {
+            "Python": 9538
+        }
+    },
+    {
+        "name": "gantt-trampoline",
+        "description": "\ud83d\udcca\u23f1\ufe0f A script generating GANTT Diagrams from TrampolineRTOS apps' traceback.",
+        "languages": {
+            "Python": 32179
+        }
+    },
+    {
+        "name": "dogslow",
+        "description": "Dogslow is a Django request watchdog middleware class that logs tracebacks of slow requests.  ",
+        "languages": {
+            "Python": 11235
+        }
+    },
+    {
+        "name": "pyspark-sugar",
+        "description": "Set python traceback on dataframe actions, enrich spark UI with actual business logic stages of spark application.",
+        "languages": {
+            "Python": 5035
+        }
+    },
+    {
+        "name": "Python-Cyclomatic-Complexity",
+        "description": "Clone of http://svn.traceback.org/python/cyclic_complexity/",
+        "languages": {
+            "Python": 12414
+        }
+    },
+    {
+        "name": "loggify",
+        "description": "Capture prints and tracebacks to a log file with 2 lines of code",
+        "languages": {
+            "Python": 5297
+        }
+    },
+    {
+        "name": "glance.py",
+        "description": "Highlight stack traces so you can glance at your terminal instead of studying it.",
+        "languages": {
+            "Python": 8160
+        }
+    },
+    {
+        "name": "friendly_idle",
+        "description": "Version of IDLE patched at import time to incorporate the best features from friendly/friendly-traceback",
+        "languages": {
+            "Python": 12749,
+            "Batchfile": 769
+        }
+    },
+    {
+        "name": "Learn-PythonTraceback",
+        "description": "A repository for showcasing my knowledge of the Python Traceback programming language, and continuing to learn the language",
+        "languages": {
+            "Python": 212610,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "traceback-examples",
+        "description": "Examples of the traceback and cgitb modules, as part of a module of the month talk at @pdxpython",
+        "languages": {
+            "Python": 1899
+        }
+    },
+    {
+        "name": "prettytraceback",
+        "description": "Pretty tracebacks for Python everywhere",
+        "languages": {
+            "Python": 2746
+        }
+    },
+    {
+        "name": "python-loctraceback",
+        "description": "Python 3.6 API traceback module adding in fragment decomplation info for more precise location information",
+        "languages": {
+            "Python": 93438,
+            "Makefile": 2104,
+            "Shell": 1668
+        }
+    },
+    {
+        "name": "lancome",
+        "description": ":girl: Lanc\u00f4me, The choice to fill your exception outputs with beauty.",
+        "languages": {
+            "Python": 6302
+        }
+    },
+    {
+        "name": "logging-discord",
+        "description": "The Logging Discord is a tool that simplifies the logging of error messages to a Discord channel. It allows you to send error messages with custom information, including a traceback and specific messages.",
+        "languages": {
+            "Python": 32228
+        }
+    },
+    {
+        "name": "Loguru-Discord",
+        "description": "Lightweight, easy-to-use Discord sink for Loguru.",
+        "languages": {
+            "Python": 13376
+        }
+    },
+    {
+        "name": "telegram-exception-alerts",
+        "description": "Decorator that sends exception information and traceback as Telegram message",
+        "languages": {
+            "Python": 4129
+        }
+    },
+    {
+        "name": "pyctb",
+        "description": "Python Customized Tracebacks",
+        "languages": {
+            "Python": 7941
+        }
+    },
+    {
+        "name": "traceback-gui",
+        "description": "Display your traceback in a tkinter window. And you can view variables in each frame through tkinter.ttk.Treeview widget.",
+        "languages": {
+            "Python": 9860
+        }
+    },
+    {
+        "name": "xontrib-readable-traceback",
+        "description": "Make traceback easier to see for xonsh.",
+        "languages": {
+            "Python": 1065
+        }
+    },
+    {
+        "name": "traceback-path-mapper",
+        "description": "PyCharm is unable to deal with tracebacks from remote servers. This is a simple script to patch Python tracebacks, replacing remote paths with local ones.",
+        "languages": {
+            "Python": 3622
+        }
+    },
+    {
+        "name": "Python-Traceback-Examples",
+        "description": "Examples of Python traceback, as there were no repositories purely in Python traceback before this.",
+        "languages": {
+            "Python": 1646
+        }
+    },
+    {
+        "name": "tbget",
+        "description": "Tool for extracting Python tracebacks from anything.",
+        "languages": {
+            "Python": 8890
+        }
+    },
+    {
+        "name": "tracewhack",
+        "description": "Fuzzily match python tracebacks to tracked bugs.",
+        "languages": {
+            "Python": 22150,
+            "Shell": 339
+        }
+    },
+    {
+        "name": "ProteinAlignment-GapPenaltyTraceback-BLOSUM62Matrix",
+        "description": "Protein alignment using gap penalty traceback with the Blosum62 Matrix",
+        "languages": {
+            "Python": 14185
+        }
+    },
+    {
+        "name": "SNU_2D_ProgrammingTools_IDE_PythonTraceback",
+        "description": "The Python Traceback Programming language IDE submodule for SNU Programming Tools (2D Mode)",
+        "languages": {
+            "Python": 212382,
+            "Roff": 3456,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "tracegrep",
+        "description": "Grep utils to parse Python traceback from plain text",
+        "languages": {
+            "Python": 3020,
+            "Makefile": 326
+        }
+    },
+    {
+        "name": "timeframe",
+        "description": "Python timeframe tool for time monitoring for each event, error handling, traceback recording...",
+        "languages": {
+            "Python": 20188
+        }
+    },
+    {
+        "name": "python-dvg-debug-functions",
+        "description": "Python module to neatly print debug information to the terminal output, well-suited for multithreaded programs.",
+        "languages": {
+            "Python": 11827
+        }
+    },
+    {
+        "name": "MyErrVisualizer",
+        "description": "MyErrVisualizer is an utility to better showcase a Traceback generated from Errors while running a Python File",
+        "languages": {
+            "Python": 11441,
+            "HTML": 8161,
+            "CSS": 1166,
+            "JavaScript": 132
+        }
+    },
+    {
+        "name": "Fast-NW-and-SW-Pairwise-alignment-using-numba-JIT",
+        "description": "This project includes Needleman-Wunsch and Smith-Waterman algorithms and their afine gap variations (Gotoh) written to work with Cython, PyPy and Numba. Numba JIT shows greater performance. For Best performance use gotoh_jit.py to get only the best score and use gotoh_jit_traceback to get the best alignment",
+        "languages": {
+            "Python": 45137
+        }
+    },
+    {
+        "name": "leetcode",
+        "description": "leetcode \u5237\u9898\u653b\u7565\uff08python\uff09\uff0c \u8bb0\u5f55DP , DFS ,BFS , Traceback\u5e38\u89c1\u7c7b\u578b\u3002\u4ee3\u7801\u89c4\u8303\uff0c\u6574\u7406\u5b8c\u6bd5\uff0c\u5f00\u7bb1\u53ef\u5b66\u3002",
+        "languages": {
+            "Python": 57890
+        }
+    },
+    {
+        "name": "Python_Memory_Architecture",
+        "description": "These scripts are written to demonstrate the process of Python Memory Allocation, Partitioning and Mapping. The Python \u2018tracemalloc\u2019 module is used to trace memory allocations. The tracemalloc module is a debug tool to trace memory blocks allocated by Python.  It provides the following information: > Traceback where an object was allocated.  > Statistics on allocated memory blocks per filename and per line number: total size, number and average size of allocated memory blocks.  > Compute the differences between two snapshots to detect memory leaks. To trace most memory blocks allocated by Python, the module should be started as early as possible by setting the PYTHONTRACEMALLOC environment variable to 1, or by using -X tracemalloc command line option.  The tracemalloc.start() function can be called at runtime to start tracing Python memory allocations. Compiled and presented by Vakindu Philliam.",
+        "languages": {
+            "Python": 29343,
+            "C": 16052
+        }
+    },
+    {
+        "name": "node-sample-traceback",
+        "description": "The node sample traceback is an example of the process for packet marking using the node sample probabilistic method to traceback the packets from an attacker to the victim.",
+        "languages": {
+            "Python": 6208
+        }
+    },
+    {
+        "name": "powertb",
+        "description": "Tracebacks with superpowers",
+        "languages": {
+            "Python": 2821
+        }
+    },
+    {
+        "name": "django-traceback.py",
+        "description": "Traceback model and utils",
+        "languages": {
+            "Python": 2428
+        }
+    },
+    {
+        "name": "NID_Traceback",
+        "description": null,
+        "languages": {
+            "Python": 31801,
+            "HTML": 12575
+        }
+    },
+    {
+        "name": "tracint",
+        "description": "tracebacks <-> lists of ints",
+        "languages": {
+            "Python": 1881
+        }
+    },
+    {
+        "name": "package-traceback",
+        "description": "Traceback utilities in the Mys programming language.",
+        "languages": {
+            "Python": 1932
+        }
+    },
+    {
+        "name": "ReprTraceback",
+        "description": null,
+        "languages": {
+            "Python": 9144
+        }
+    },
+    {
+        "name": "rich-tracebacks",
+        "description": "Automatic installation of Rich's tracebacks",
+        "languages": {
+            "Python": 1101
+        }
+    },
+    {
+        "name": "p0-traceback",
+        "description": "CMU 15-410 P0-traceback",
+        "languages": {
+            "Python": 285685,
+            "C": 17335,
+            "Makefile": 6010,
+            "Shell": 3187,
+            "Assembly": 3184
+        }
+    },
+    {
+        "name": "email_function_failure_traceback",
+        "description": "Failed Function Error Traceback Emailing",
+        "languages": {
+            "Python": 1334
+        }
+    },
+    {
+        "name": "datasette-show-errors",
+        "description": "Datasette plugin for displaying error tracebacks",
+        "languages": {
+            "Python": 1303
+        }
+    },
+    {
+        "name": "tbtrim",
+        "description": "A utility to trim Python traceback information.",
+        "languages": {
+            "Python": 14607,
+            "Makefile": 1249
+        }
+    },
+    {
+        "name": "Traceback-OptiverChallenge-HackCambridgeAtlas",
+        "description": "This repository contains the project of Team Traceback for the Optiver Challenge as part of the HackCambridge Atlas 2022 Hackathon.",
+        "languages": {
+            "Python": 91348,
+            "Jupyter Notebook": 26763
+        }
+    },
+    {
+        "name": "Diggy",
+        "description": "A dwarf that digs for tracebacks in amo-validator.",
+        "languages": {
+            "Python": 5995
+        }
+    },
+    {
+        "name": "nose-curtain",
+        "description": "Filters the unittest assertion frame from nose failure tracebacks",
+        "languages": {
+            "Python": 8036
+        }
+    },
+    {
+        "name": "Unwind",
+        "description": "A simple solution to analyze and extract information from traceback",
+        "languages": {
+            "Python": 17789
+        }
+    },
+    {
+        "name": "django-query-debugger",
+        "description": "Prints queries executed on you projects along with line traceback.",
+        "languages": {
+            "Python": 4782
+        }
+    },
+    {
+        "name": "pymistake",
+        "description": "Put on PYTHONPATH to get better tracebacks and automatic postmortem debugging.",
+        "languages": {
+            "Python": 26117
+        }
+    },
+    {
+        "name": "rabbit",
+        "description": "RabbitMQ (pika), Watchdog, MySQL, Telebot, smtplib, traceback, sys, telebot, threading, re, time, logging",
+        "languages": {
+            "Python": 9117,
+            "Dockerfile": 187
+        }
+    },
+    {
+        "name": "dogslow",
+        "description": "Dogslow is a Django watchdog middleware class that logs tracebacks of slow requests.",
+        "languages": {
+            "Python": 20377,
+            "Makefile": 911
+        }
+    },
+    {
+        "name": "python_printind",
+        "description": "Print function indented by the calling function stack depth using the traceback module",
+        "languages": {
+            "Python": 5741
+        }
+    },
+    {
+        "name": "tripod",
+        "description": "Tripod is a module that samples running scripts, logging tracebacks to a temp file.",
+        "languages": {
+            "Python": 8181
+        }
+    },
+    {
+        "name": "errorbuster",
+        "description": "Format traceback object to JSON for human read and easy process in Report System",
+        "languages": {
+            "Python": 4014
+        }
+    },
+    {
+        "name": "jumpToError",
+        "description": "NVDA Addon to Open your editor to a file and line mentioned in a traceback",
+        "languages": {
+            "Python": 5365,
+            "CSS": 502,
+            "Smarty": 260,
+            "Batchfile": 32
+        }
+    },
+    {
+        "name": "prettytb",
+        "description": "Prints stack tracebacks showing each frame's local variables and improves visual feedback using colors.",
+        "languages": {
+            "Python": 18664
+        }
+    },
+    {
+        "name": "ctrl_c",
+        "description": "Python module to cleanly exit a script by pressing Ctrl+C, i.e., no more Traceback for KeyboardInterrupt",
+        "languages": {
+            "Python": 467
+        }
+    },
+    {
+        "name": "WindowsPathDeletePy",
+        "description": "A previledged fullstack python program with windows UI that can delete everypath using admin previledges with traceback logs  ",
+        "languages": {
+            "Python": 9670,
+            "PowerShell": 1277,
+            "Batchfile": 285
+        }
+    },
+    {
+        "name": "Python_Introspect_Extraction",
+        "description": "Python inspecting and extracting live Objects. \u2018inspect\u2019 Python module is used to inspect and extract live objects. The inspect module provides several useful functions to help get information about live objects such as modules, classes, methods, functions, tracebacks, frame objects, and code objects. For example, it can help you examine the contents of a class, retrieve the source code of a method, extract and format the argument list for a function, or get all the information you need to display a detailed traceback. There are four main kinds of services provided by this module: type checking, getting source code, inspecting classes and functions, and examining the interpreter stack.",
+        "languages": {
+            "Python": 16756
+        }
+    },
+    {
+        "name": "TracebackSLAM",
+        "description": null,
+        "languages": {
+            "Python": 104465,
+            "CMake": 3468,
+            "Lua": 1982
+        }
+    },
+    {
+        "name": "kodi-traceback2",
+        "description": "traceback2 packed for KODI",
+        "languages": {
+            "Python": 57697,
+            "Shell": 445,
+            "Makefile": 70
+        }
+    },
+    {
+        "name": "python-traceback2",
+        "description": null,
+        "languages": {
+            "Python": 57697,
+            "Makefile": 70
+        }
+    },
+    {
+        "name": "traceback",
+        "description": "Auto created by Programming Hero",
+        "languages": {
+            "Python": 1362
+        }
+    },
+    {
+        "name": "traceback",
+        "description": null,
+        "languages": {
+            "Python": 286144,
+            "C": 15762,
+            "Makefile": 5799,
+            "Shell": 3187,
+            "Assembly": 1528,
+            "C++": 676
+        }
+    },
+    {
+        "name": "Traceback",
+        "description": null,
+        "languages": {
+            "Python": 608
+        }
+    },
+    {
+        "name": "traceback",
+        "description": null,
+        "languages": {
+            "Python": 6759
+        }
+    },
+    {
+        "name": "Traceback",
+        "description": null,
+        "languages": {
+            "Python": 608
+        }
+    },
+    {
+        "name": "TraceBack",
+        "description": null,
+        "languages": {
+            "Python": 534333,
+            "Tcl": 24432,
+            "PowerShell": 1449,
+            "Batchfile": 1331
+        }
+    },
+    {
+        "name": "traceback",
+        "description": "small script to grab the relevant functions out an ASA crash traceback.",
+        "languages": {
+            "Python": 2643
+        }
+    },
+    {
+        "name": "Traceback",
+        "description": null,
+        "languages": {
+            "Python": 417
+        }
+    },
+    {
+        "name": "traceback",
+        "description": null,
+        "languages": {
+            "Python": 2237
+        }
+    },
+    {
+        "name": "traceback",
+        "description": null,
+        "languages": {
+            "Python": 285660,
+            "C": 18316,
+            "Shell": 3187,
+            "Assembly": 1413
+        }
+    },
+    {
+        "name": "tracebackfinder",
+        "description": null,
+        "languages": {
+            "Python": 1650
+        }
+    },
+    {
+        "name": "tracebacklogging",
+        "description": "This code is meant as a quick way to log errors from your code.",
+        "languages": {
+            "Python": 2270
+        }
+    },
+    {
+        "name": "tracebacks",
+        "description": null,
+        "languages": {
+            "Python": 1890
+        }
+    },
+    {
+        "name": "event_traceback",
+        "description": "\u6295\u8bc9\u4e8b\u4ef6\u56de\u6eaf",
+        "languages": {
+            "Python": 18667
+        }
+    },
+    {
+        "name": "traceback_test",
+        "description": "Test methods for using tracebacks to encapsulate error handling",
+        "languages": {
+            "Python": 2232
+        }
+    },
+    {
+        "name": "relative_traceback",
+        "description": null,
+        "languages": {
+            "Python": 5582
+        }
+    },
+    {
+        "name": "mwk-traceback",
+        "description": "Package for customizing exceptions and warnings messages",
+        "languages": {
+            "Python": 12686
+        }
+    },
+    {
+        "name": "pyretic-traceback",
+        "description": " Distributed and intradomain traceback code for Pyretic.",
+        "languages": {
+            "Python": 274550,
+            "Shell": 131
+        }
+    },
+    {
+        "name": "traceback_center",
+        "description": null,
+        "languages": {
+            "Python": 26973,
+            "JavaScript": 23459,
+            "HTML": 10571,
+            "CSS": 3422,
+            "Mako": 494,
+            "Shell": 25
+        }
+    },
+    {
+        "name": "Traceback_example",
+        "description": "This is the example of the traceback given in errors",
+        "languages": {
+            "Python": 639
+        }
+    },
+    {
+        "name": "no_traceback",
+        "description": null,
+        "languages": {
+            "Python": 46935,
+            "Batchfile": 765,
+            "Makefile": 634
+        }
+    },
+    {
+        "name": "traceback_stats",
+        "description": null,
+        "languages": {
+            "Python": 12782,
+            "Dockerfile": 545,
+            "Makefile": 304
+        }
+    },
+    {
+        "name": "traceback_http",
+        "description": null,
+        "languages": {
+            "Python": 2250
+        }
+    },
+    {
+        "name": "traceback_notifier",
+        "description": null,
+        "languages": {
+            "Python": 4100,
+            "HTML": 328
+        }
+    },
+    {
+        "name": "charmed_traceback",
+        "description": "Traceback intercept hook, providing applying Jetbrains style traceback highlighting, providing much easier debugging and log searching.",
+        "languages": {
+            "Python": 4639
+        }
+    },
+    {
+        "name": "cassini-traceback",
+        "description": "My entry for NaNoGenMo 2019",
+        "languages": {
+            "Python": 12922
+        }
+    },
+    {
+        "name": "traceback-publisher",
+        "description": "Simple ROS library that allows any python-based node to publish errors into the `/rosout` topic. It can work both on main and child threads.",
+        "languages": {
+            "Python": 1615,
+            "CMake": 482
+        }
+    },
+    {
+        "name": "nti.nose_traceback_info",
+        "description": "Make nose output __traceback_info for more useful tracebacks using zope.exceptions",
+        "languages": {
+            "Python": 7429
+        }
+    },
+    {
+        "name": "Python_traceback_module",
+        "description": "Python_traceback\u6a21\u5757",
+        "languages": {
+            "Python": 1458
+        }
+    },
+    {
+        "name": "dismiss_debug_traceback",
+        "description": "Dismiss debug traceback for production or some security problems",
+        "languages": {
+            "Python": 1933
+        }
+    },
+    {
+        "name": "traceback.openrobot.xyz",
+        "description": "The source code for https://traceback.openrobot.xyz.",
+        "languages": {
+            "Python": 1470
+        }
+    },
+    {
+        "name": "python-traceback-signal",
+        "description": null,
+        "languages": {
+            "Python": 1073
+        }
+    },
+    {
+        "name": "sphinx-autosummary-tracebacks",
+        "description": null,
+        "languages": {
+            "Python": 2009,
+            "Batchfile": 799,
+            "Makefile": 638
+        }
+    },
+    {
+        "name": "tbhandler",
+        "description": "Automated detailed traceback visualization",
+        "languages": {
+            "Python": 15388
+        }
+    },
+    {
+        "name": "PythonicTracebackDebugger",
+        "description": "A platform-independent compiler-independent C++ runtime debugger. On uncaught exception or segfault, it will print out the location (source file and line number) of the error and the call stack at the time of the error.",
+        "languages": {
+            "Python": 10626,
+            "C++": 2436
+        }
+    },
+    {
+        "name": "alfred-traceback_cleaner",
+        "description": null,
+        "languages": {
+            "Python": 330
+        }
+    },
+    {
+        "name": "Information-Flow-Traceback",
+        "description": null,
+        "languages": {
+            "Python": 16093
+        }
+    },
+    {
+        "name": "python_traceback_cycle",
+        "description": null,
+        "languages": {
+            "Python": 6335
+        }
+    },
+    {
+        "name": "python-traceback-projectizer",
+        "description": "Small script that uses pygments to highlight projectpath",
+        "languages": {
+            "Python": 1280
+        }
+    },
+    {
+        "name": "edge-sample-traceback",
+        "description": "The files are an example of performing the edge sample algorithm for traceback of packets from an attacker to the victim",
+        "languages": {
+            "Python": 7937
+        }
+    },
+    {
+        "name": "python_traceback_study",
+        "description": null,
+        "languages": {
+            "Python": 1874,
+            "Ruby": 1783
+        }
+    },
+    {
+        "name": "testsuite-prettyprint-traceback",
+        "description": "testsuite-prettyprint-traceback is a nose2 plugin that prettyprints traceback on failures and errors.",
+        "languages": {
+            "Python": 9175,
+            "Shell": 5195
+        }
+    },
+    {
+        "name": "python-traceback-test",
+        "description": "An erroneous python app",
+        "languages": {
+            "Python": 327,
+            "Dockerfile": 120
+        }
+    },
+    {
+        "name": "marking-and-traceback",
+        "description": null,
+        "languages": {
+            "Python": 2049
+        }
+    },
+    {
+        "name": "contextualized",
+        "description": "Get tracebacks with context. (Python)",
+        "languages": {
+            "Python": 3923
+        }
+    },
+    {
+        "name": "generative_answer_traceback",
+        "description": null,
+        "languages": {
+            "Python": 39526
+        }
+    },
+    {
+        "name": "traceback-ai-gpt-reccomendations",
+        "description": null,
+        "languages": {
+            "Python": 216903,
+            "PowerShell": 24167,
+            "Batchfile": 1435,
+            "Dockerfile": 675
+        }
+    },
+    {
+        "name": "lambda-traceback-redirect-response",
+        "description": null,
+        "languages": {
+            "Python": 4587,
+            "Makefile": 349
+        }
+    },
+    {
+        "name": "lambda-traceback-slack-proxy",
+        "description": null,
+        "languages": {
+            "Python": 1182,
+            "Makefile": 151
+        }
+    },
+    {
+        "name": "exception-hook",
+        "description": "Getting more information from Tracebacks",
+        "languages": {
+            "Python": 1542
+        }
+    },
+    {
+        "name": "friendly-pandas",
+        "description": "Friendly tracebacks for Pandas users.",
+        "languages": {
+            "Python": 11414,
+            "Batchfile": 300
+        }
+    },
+    {
+        "name": "traceback-ai-gpt-final",
+        "description": null,
+        "languages": {
+            "Python": 217335,
+            "PowerShell": 24167,
+            "Batchfile": 1435,
+            "Dockerfile": 675
+        }
+    },
+    {
+        "name": "Allignment-Matrix-and-traceback",
+        "description": "Needleman Wunsch Algorithm ",
+        "languages": {
+            "Python": 1998
+        }
+    },
+    {
+        "name": "traceback-ai-gpt-codesummary",
+        "description": null,
+        "languages": {
+            "Python": 88324113,
+            "Cython": 1415536,
+            "C": 502193,
+            "XSLT": 367413,
+            "C++": 341249,
+            "Fortran": 26511,
+            "PowerShell": 24167,
+            "Jupyter Notebook": 23564,
+            "Roff": 14656,
+            "CSS": 11098,
+            "JavaScript": 10521,
+            "ANTLR": 10016,
+            "Smarty": 8747,
+            "Perl": 7590,
+            "Forth": 3966,
+            "Assembly": 3086,
+            "Batchfile": 1614,
+            "Shell": 946,
+            "Dockerfile": 687
+        }
+    },
+    {
+        "name": "ExceptionBus",
+        "description": "Base Class Exception + Traceback. Stack: Python.",
+        "languages": {
+            "Python": 766
+        }
+    },
+    {
+        "name": "django-watcher",
+        "description": "Watch django log files for Traceback",
+        "languages": {
+            "Python": 3101
+        }
+    },
+    {
+        "name": "reltb",
+        "description": "Relative file names in Python tracebacks.",
+        "languages": {
+            "Python": 1199
+        }
+    },
+    {
+        "name": "Python-Logger-Tracebacks-Rotativo-Backups",
+        "description": "Exemplo de como criar Log Rotativo dos Tracebacks (que ao chegar ao tamanho limite em bytes passa a escrever em outro arquivo deixando o anterior como historico) utilizando o Python.",
+        "languages": {
+            "Python": 779
+        }
+    },
+    {
+        "name": "network-flow",
+        "description": "Algorithm development for network flow traceback",
+        "languages": {
+            "Python": 12659
+        }
+    },
+    {
+        "name": "tracey",
+        "description": "Highlight your Python tracebacks using pygments.",
+        "languages": {
+            "Python": 2969
+        }
+    },
+    {
+        "name": "python-tibidi",
+        "description": "Dump your traceback into a file.",
+        "languages": {
+            "Python": 12068
+        }
+    },
+    {
+        "name": "cython_3.12_traceback_leak",
+        "description": "Code to reproduce a reference leak in Cython with CPython 3.12a6+",
+        "languages": {
+            "Python": 5119,
+            "Makefile": 365,
+            "Cython": 44
+        }
+    },
+    {
+        "name": "python-dtraceback",
+        "description": "Python sys.traceback with deparsing for location",
+        "languages": {
+            "Python": 14430
+        }
+    },
+    {
+        "name": "traceb",
+        "description": "Alternative to the standard python traceback module",
+        "languages": {
+            "Python": 15586
+        }
+    },
+    {
+        "name": "friendly_idle",
+        "description": "Customized version of friendly-traceback for Python's IDLE",
+        "languages": {
+            "Python": 14644,
+            "Batchfile": 436
+        }
+    },
+    {
+        "name": "tracedate",
+        "description": "Determine the version of discord.py based on a traceback",
+        "languages": {
+            "Python": 11307
+        }
+    },
+    {
+        "name": "discord-webhook-crash-reporter",
+        "description": "sends a python traceback.format_exc() to a discord webhook",
+        "languages": {
+            "Python": 3759
+        }
+    },
+    {
+        "name": "runtime-warning-enable-tracemalloc-to-get-the-object-allocation-traceback",
+        "description": "A repository for an article at https://bobbyhadz.com/blog/runtime-warning-enable-tracemalloc-to-get-the-object-allocation-traceback",
+        "languages": {
+            "Python": 205
+        }
+    },
+    {
+        "name": "faust",
+        "description": "Automated traceback of traffic to cloud functions and domain fronting",
+        "languages": {
+            "Python": 28939
+        }
+    },
+    {
+        "name": "extract_exception",
+        "description": "Extract traceback form python log file, then send email notify",
+        "languages": {
+            "Python": 2467
+        }
+    },
+    {
+        "name": "pyblematcher",
+        "description": "Serializer for python tracebacks and other patterns to match different problems",
+        "languages": {
+            "Python": 12619
+        }
+    },
+    {
+        "name": "inspect-recursive",
+        "description": null,
+        "languages": {
+            "Python": 9117,
+            "Shell": 212
+        }
+    },
+    {
+        "name": "func_export",
+        "description": "script with GUI that strips the function names from an ASA crash traceback",
+        "languages": {
+            "Python": 2956
+        }
+    },
+    {
+        "name": "dogslow",
+        "description": "Dogslow is a Django watchdog middleware class that logs tracebacks of slow requests.",
+        "languages": {
+            "Python": 14398
+        }
+    },
+    {
+        "name": "illuminati_and_stuff",
+        "description": "a pyramid tween that returns the traceback to the client for 500 responses",
+        "languages": {
+            "Python": 3693,
+            "Makefile": 285
+        }
+    },
+    {
+        "name": "notifyexception",
+        "description": "It send all the occurred tracebacks and exceptions to django Admin Mail-IDs.",
+        "languages": {
+            "Python": 3215
+        }
+    },
+    {
+        "name": "pep3134",
+        "description": "Exception Chaining and Embedded Tracebacks (PEP 3134, PEP 409, PEP 415) for Python 2",
+        "languages": {
+            "Python": 13419
+        }
+    },
+    {
+        "name": "tracegpt",
+        "description": "File watcher and command reloader that automaticaly sends tracebacks to ChatGPT for some added help.",
+        "languages": {
+            "Python": 3495
+        }
+    },
+    {
+        "name": "Python-as-a-systemd-service",
+        "description": "run a python function as a systemd service. Having exceptions handling with a custom mail sent in case of a critical error, and complete logging with traceback.",
+        "languages": {
+            "Python": 4690
+        }
+    },
+    {
+        "name": "py_classic_error",
+        "description": "classic way to show python errors",
+        "languages": {
+            "Python": 942
+        }
+    },
+    {
+        "name": "xlformula",
+        "description": "Python package for building and linting* heavily nested Excel formulas. (* linting has not yet been implemented.)",
+        "languages": {
+            "Python": 88776
+        }
+    },
+    {
+        "name": "TelegramBot",
+        "description": "Tutorial project: creating a Telegram Bot with the FastApi framework.",
+        "languages": {
+            "Python": 8128
+        }
+    },
+    {
+        "name": "Intro_to_TF",
+        "description": "Introductory script to creating neural networks on the Iris dataset with tensorflow. Following tutorial from http://www.insightsbot.com/tensorflow-tutorial-iris-classification-with-sgd/. Still trying to resolve traceback errors.",
+        "languages": {
+            "Python": 5283
+        }
+    },
+    {
+        "name": "OGBot",
+        "description": "A bot with a wide range of commands",
+        "languages": {
+            "Python": 5137,
+            "Dockerfile": 324
+        }
+    },
+    {
+        "name": "4DByD",
+        "description": "A console for developers, created by developers. The console listens to a particular log file that is logging errors real-time. It reports the errors in a live rolling table. On clicking a specific error on the table, 4DByD opens all the files in the traceback in a VSCode project.",
+        "languages": {
+            "Python": 14284,
+            "HTML": 5874,
+            "JavaScript": 5606,
+            "CSS": 1355
+        }
+    },
+    {
+        "name": "Ticketing-System",
+        "description": "This repo is the codebase for a mockup task ticketing system. This system helps teams to determine what work is avaiable alongside who completed what jobs, thereby making traceback and understanding for managers and colleagues much easier since they can find who did what and contact them about any questions.",
+        "languages": {
+            "Python": 47646,
+            "HTML": 35092,
+            "CSS": 8501
+        }
+    },
+    {
+        "name": "sudoku",
+        "description": "In this repository I'm developing a python app which generates sudoku puzzles of different difficulties, times the games, keeps a record of the best times and offers the possibility to customize the colors of the GUI. For this I'm using object oriented programming and traceback functions, as well as the python Tkinter library to develop the GUI.",
+        "languages": {
+            "Python": 34012
+        }
     }
 ]

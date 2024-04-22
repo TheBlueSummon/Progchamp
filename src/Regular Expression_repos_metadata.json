@@ -62,5 +62,1707 @@
             "JavaScript": 743,
             "HTML": 204
         }
+    },
+    {
+        "name": "path-to-regexp",
+        "description": "Turn a path string such as `/user/:name` into a regular expression",
+        "languages": {
+            "TypeScript": 71685
+        }
+    },
+    {
+        "name": "css-selector",
+        "description": "Converts CSS selectors to XPath expressions",
+        "languages": {
+            "PHP": 177426,
+            "HTML": 16640
+        }
+    },
+    {
+        "name": "latexify_py",
+        "description": "A library to generate LaTeX expression from Python code.",
+        "languages": {
+            "Python": 231627,
+            "Shell": 154
+        }
+    },
+    {
+        "name": "grex",
+        "description": "A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases",
+        "languages": {
+            "Rust": 437897,
+            "Python": 17043
+        }
+    },
+    {
+        "name": "regulex",
+        "description": ":construction: Regular Expression Excited!",
+        "languages": {
+            "TypeScript": 295250,
+            "CSS": 4178,
+            "HTML": 3756,
+            "JavaScript": 1217
+        }
+    },
+    {
+        "name": "expr",
+        "description": "Expression language and expression evaluation for Go",
+        "languages": {
+            "Go": 482217,
+            "Shell": 327
+        }
+    },
+    {
+        "name": "Masuit.Tools",
+        "description": "\u5168\u9f84\u6bb5\u53cb\u597d\u7684C#\u4e07\u80fd\u5de5\u5177\u5e93\uff0c\u7801\u6570\u5410\u53f8\u5e93\uff0c\u5305\u542b\u4e00\u4e9b\u5e38\u7528\u7684\u64cd\u4f5c\u7c7b\uff0c\u5927\u90fd\u662f\u9759\u6001\u7c7b\uff0c\u52a0\u5bc6\u89e3\u5bc6\uff0c\u53cd\u5c04\u64cd\u4f5c\uff0c\u6743\u91cd\u968f\u673a\u7b5b\u9009\u7b97\u6cd5\uff0c\u5206\u5e03\u5f0f\u77edid\uff0c\u8868\u8fbe\u5f0f\u6811\uff0clinq\u6269\u5c55\uff0c\u6587\u4ef6\u538b\u7f29\uff0c\u591a\u7ebf\u7a0b\u4e0b\u8f7d\uff0c\u786c\u4ef6\u4fe1\u606f\uff0c\u5b57\u7b26\u4e32\u6269\u5c55\u65b9\u6cd5\uff0c\u65e5\u671f\u65f6\u95f4\u6269\u5c55\u64cd\u4f5c\uff0c\u4e2d\u56fd\u519c\u5386\uff0c\u5927\u6587\u4ef6\u62f7\u8d1d\uff0c\u56fe\u50cf\u88c1\u526a\uff0c\u9a8c\u8bc1\u7801\uff0c\u65ad\u70b9\u7eed\u4f20\uff0c\u96c6\u5408\u6269\u5c55\u3001Excel\u5bfc\u51fa\u7b49\u5e38\u7528\u5c01\u88c5\u3002\u8bf8\u591a\u529f\u80fd\u96c6\u4e00\u8eab\uff0c\u4ee3\u7801\u91cf\u4e0d\u52302MB\uff01",
+        "languages": {
+            "C#": 1619529
+        }
+    },
+    {
+        "name": "cron-expression",
+        "description": "CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due",
+        "languages": {
+            "PHP": 75483
+        }
+    },
+    {
+        "name": "ChinaMobilePhoneNumberRegex",
+        "description": "Regular expressions that match the mobile phone number in mainland China. / \u4e00\u7ec4\u5339\u914d\u4e2d\u56fd\u5927\u9646\u624b\u673a\u53f7\u7801\u7684\u6b63\u5219\u8868\u8fbe\u5f0f\u3002",
+        "languages": {}
+    },
+    {
+        "name": "hyperscan",
+        "description": "High-performance regular expression matching library",
+        "languages": {
+            "C++": 6955919,
+            "C": 2155834,
+            "Ragel": 95118,
+            "CMake": 77790,
+            "Python": 25615,
+            "Shell": 934
+        }
+    },
+    {
+        "name": "super-expressive",
+        "description": "\ud83e\udd9c Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language",
+        "languages": {
+            "JavaScript": 48690
+        }
+    },
+    {
+        "name": "melody",
+        "description": "Melody is a language that compiles to regular expressions and aims to be more readable and maintainable",
+        "languages": {
+            "Rust": 76183
+        }
+    },
+    {
+        "name": "vis",
+        "description": "A vi-like editor based on Plan 9's structural regular expressions",
+        "languages": {
+            "C": 785282,
+            "Lua": 704905,
+            "Makefile": 10415,
+            "Shell": 5687,
+            "Dockerfile": 1002
+        }
+    },
+    {
+        "name": "superjson",
+        "description": "Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.",
+        "languages": {
+            "TypeScript": 64636,
+            "JavaScript": 2356,
+            "Shell": 57
+        }
+    },
+    {
+        "name": "retrolambda",
+        "description": "Backport of Java 8's lambda expressions to Java 7, 6 and 5",
+        "languages": {
+            "Java": 241656,
+            "Shell": 5535,
+            "Makefile": 839
+        }
+    },
+    {
+        "name": "govaluate",
+        "description": "Arbitrary expression evaluation for golang",
+        "languages": {
+            "Go": 177418,
+            "Shell": 760
+        }
+    },
+    {
+        "name": "RulesEngine",
+        "description": "A Json based Rules Engine with extensive Dynamic expression support",
+        "languages": {
+            "C#": 230614,
+            "PowerShell": 1030
+        }
+    },
+    {
+        "name": "regex",
+        "description": "An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.",
+        "languages": {
+            "Rust": 5439660,
+            "C": 41867,
+            "Shell": 7331,
+            "RenderScript": 4438
+        }
+    },
+    {
+        "name": "regexgen",
+        "description": "Generate regular expressions that match a set of strings",
+        "languages": {
+            "JavaScript": 19987
+        }
+    },
+    {
+        "name": "xregexp",
+        "description": "Extended JavaScript regular expressions",
+        "languages": {
+            "JavaScript": 332060,
+            "TypeScript": 7976,
+            "HTML": 3770
+        }
+    },
+    {
+        "name": "compile-time-regular-expressions",
+        "description": "Compile Time Regular Expression in C++",
+        "languages": {
+            "C++": 6410062,
+            "CMake": 4595,
+            "Makefile": 4402,
+            "JavaScript": 2497,
+            "Python": 1897
+        }
+    },
+    {
+        "name": "serialize-javascript",
+        "description": "Serialize JavaScript to a superset of JSON that includes regular expressions and functions.",
+        "languages": {
+            "JavaScript": 33520
+        }
+    },
+    {
+        "name": "expression-language",
+        "description": "Provides an engine that can compile and evaluate expressions",
+        "languages": {
+            "PHP": 139415
+        }
+    },
+    {
+        "name": "JavaVerbalExpressions",
+        "description": "Java regular expressions made easy.",
+        "languages": {
+            "Java": 73868,
+            "Shell": 389
+        }
+    },
+    {
+        "name": "EmojiPackage",
+        "description": "\u8868\u60c5\u5305\u8d44\u6e90\u5408\u96c6\uff0c\u5f20\u5f20\u90fd\u662f\u7ecf\u5178",
+        "languages": {}
+    },
+    {
+        "name": "mathquill",
+        "description": "Easily type math in your webapp",
+        "languages": {
+            "TypeScript": 274067,
+            "JavaScript": 249277,
+            "HTML": 109086,
+            "Less": 15099,
+            "Makefile": 6090,
+            "Shell": 4782,
+            "CSS": 791
+        }
+    },
+    {
+        "name": "PHPVerbalExpressions",
+        "description": "PHP Regular expressions made easy",
+        "languages": {
+            "PHP": 43359
+        }
+    },
+    {
+        "name": "cel-spec",
+        "description": "Common Expression Language -- specification and binary representation",
+        "languages": {
+            "Go": 49146,
+            "Starlark": 26203,
+            "Shell": 935
+        }
+    },
+    {
+        "name": "regexper-static",
+        "description": "Regular Expression Visualization Site (static site version) -- migrated to https://gitlab.com/javallone/regexper-static",
+        "languages": {
+            "JavaScript": 156956,
+            "HTML": 15364,
+            "CSS": 9418
+        }
+    },
+    {
+        "name": "mathAI",
+        "description": "\u4e00\u4e2a\u62cd\u7167\u505a\u9898\u7a0b\u5e8f\u3002\u8f93\u5165\u4e00\u5f20\u5305\u542b\u6570\u5b66\u8ba1\u7b97\u9898\u7684\u56fe\u7247\uff0c\u8f93\u51fa\u8bc6\u522b\u51fa\u7684\u6570\u5b66\u8ba1\u7b97\u5f0f\u4ee5\u53ca\u8ba1\u7b97\u7ed3\u679c\u3002This is a mathematic expression recognition project.",
+        "languages": {
+            "Python": 111182,
+            "JavaScript": 3755,
+            "CSS": 2045
+        }
+    },
+    {
+        "name": "oniguruma",
+        "description": "regular expression library",
+        "languages": {
+            "C": 2537545,
+            "Shell": 64509,
+            "Python": 49364,
+            "HTML": 17279,
+            "CMake": 12115,
+            "Makefile": 8673,
+            "M4": 2659,
+            "C++": 1193,
+            "Batchfile": 464
+        }
+    },
+    {
+        "name": "numexpr",
+        "description": "Fast numerical array expression evaluator for Python, NumPy, Pandas, PyTables and more",
+        "languages": {
+            "Python": 168801,
+            "C++": 150512,
+            "C": 20997
+        }
+    },
+    {
+        "name": "cel-go",
+        "description": "Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)",
+        "languages": {
+            "Go": 2256357,
+            "Starlark": 50604,
+            "TypeScript": 31663,
+            "HTML": 9120,
+            "ANTLR": 6603,
+            "SCSS": 6519,
+            "Shell": 4881
+        }
+    },
+    {
+        "name": "DECA",
+        "description": "DECA: Detailed Expression Capture and Animation (SIGGRAPH 2021)",
+        "languages": {
+            "Python": 268202,
+            "Cuda": 10800,
+            "Jupyter Notebook": 6725,
+            "Shell": 2144,
+            "C++": 1478,
+            "Dockerfile": 870
+        }
+    },
+    {
+        "name": "regexper",
+        "description": "Regular Expression Visualization Site",
+        "languages": {
+            "JavaScript": 33111,
+            "Ruby": 28638,
+            "HTML": 3381,
+            "CSS": 2085
+        }
+    },
+    {
+        "name": "PEGTL",
+        "description": "Parsing Expression Grammar Template Library",
+        "languages": {
+            "C++": 1161873,
+            "CMake": 11566,
+            "Makefile": 1685
+        }
+    },
+    {
+        "name": "croner",
+        "description": "Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser.",
+        "languages": {
+            "JavaScript": 140615,
+            "TypeScript": 12510
+        }
+    },
+    {
+        "name": "openfl",
+        "description": "The Open Flash Library for creative expression on the web, desktop, mobile and consoles.",
+        "languages": {
+            "Haxe": 4755542,
+            "JavaScript": 8151,
+            "HTML": 2996,
+            "GLSL": 957,
+            "Shell": 491,
+            "Dockerfile": 215,
+            "CSS": 166,
+            "Batchfile": 32
+        }
+    },
+    {
+        "name": "DynamicExpresso",
+        "description": "C# expressions interpreter",
+        "languages": {
+            "C#": 396463
+        }
+    },
+    {
+        "name": "Penlight",
+        "description": "A set of pure Lua libraries focusing on input data handling (such as reading configuration files), functional programming (such as map, reduce, placeholder expressions,etc), and OS path management.  Much of the functionality is inspired by the Python standard libraries.",
+        "languages": {
+            "Lua": 706339
+        }
+    },
+    {
+        "name": "randexp.js",
+        "description": "Create random strings that match a given regular expression.",
+        "languages": {
+            "JavaScript": 19951,
+            "TypeScript": 1133
+        }
+    },
+    {
+        "name": "BlingFire",
+        "description": "A lightning fast Finite State machine and REgular expression manipulation library.",
+        "languages": {
+            "C++": 9249854,
+            "Batchfile": 197384,
+            "Perl": 178881,
+            "Python": 110316,
+            "C#": 38781,
+            "Gnuplot": 28995,
+            "C": 27854,
+            "CMake": 6756,
+            "Yacc": 5805,
+            "JavaScript": 5230,
+            "HTML": 2994,
+            "Makefile": 2249,
+            "Shell": 293
+        }
+    },
+    {
+        "name": "H-Viewer",
+        "description": "An android feed reader application which fetch data with selector and regular expression.",
+        "languages": {
+            "Java": 1314867
+        }
+    },
+    {
+        "name": "Facial-Expression-Recognition.Pytorch",
+        "description": "A CNN based pytorch implementation on facial expression recognition (FER2013 and CK+), achieving 73.112% (state-of-the-art) in FER2013 and 94.64% in CK+ dataset",
+        "languages": {
+            "Python": 87131
+        }
+    },
+    {
+        "name": "py_regular_expressions",
+        "description": "Learn Python Regular Expressions step by step from beginner to advanced levels",
+        "languages": {
+            "Python": 31352
+        }
+    },
+    {
+        "name": "emoji-regex",
+        "description": "A regular expression to match all Emoji-only symbols as per the Unicode Standard.",
+        "languages": {
+            "JavaScript": 17211
+        }
+    },
+    {
+        "name": "birdseye",
+        "description": "Graphical Python debugger which lets you easily view the values of all evaluated expressions",
+        "languages": {
+            "JavaScript": 367425,
+            "Python": 142935,
+            "CSS": 36462,
+            "HTML": 17668,
+            "Shell": 1696
+        }
+    },
+    {
+        "name": "grepWin",
+        "description": "A powerful and fast search tool using regular expressions",
+        "languages": {
+            "C++": 456153,
+            "C": 11841,
+            "JavaScript": 2612,
+            "Batchfile": 2136,
+            "PowerShell": 449
+        }
+    },
+    {
+        "name": "go-tagexpr",
+        "description": "An interesting go struct tag expression syntax for field validation, etc.",
+        "languages": {
+            "Go": 307962
+        }
+    },
+    {
+        "name": "PythonVerbalExpressions",
+        "description": "Python regular expressions made easy",
+        "languages": {
+            "Python": 13180
+        }
+    },
+    {
+        "name": "Objective-C-RegEx-Categories",
+        "description": "NSRegularExpression extensions that make regular expressions easier in Objective-C, Swift, iOS, OSX",
+        "languages": {
+            "Objective-C": 40073
+        }
+    },
+    {
+        "name": "CommonRegex",
+        "description": "A collection of common regular expressions bundled with an easy to use interface.",
+        "languages": {
+            "Python": 20135
+        }
+    },
+    {
+        "name": "System.Linq.Dynamic.Core",
+        "description": "The .NET Standard / .NET Core version from the System Linq Dynamic functionality.",
+        "languages": {
+            "HTML": 6317911,
+            "C#": 1639163,
+            "CSS": 73944,
+            "JavaScript": 38879,
+            "Batchfile": 870,
+            "PowerShell": 748,
+            "ASP.NET": 109
+        }
+    },
+    {
+        "name": "tinyexpr",
+        "description": "tiny recursive descent expression parser, compiler, and evaluation engine for math expressions",
+        "languages": {
+            "C": 51952,
+            "Makefile": 919
+        }
+    },
+    {
+        "name": "FlexLayout",
+        "description": "A powerful Android layout view that use java expression in layout params to describe relative positions.",
+        "languages": {
+            "Java": 51539
+        }
+    },
+    {
+        "name": "rust-peg",
+        "description": "Parsing Expression Grammar (PEG) parser generator for Rust",
+        "languages": {
+            "Rust": 378853,
+            "Shell": 415
+        }
+    },
+    {
+        "name": "xhp-lib",
+        "description": "Class libraries for XHP. XHP is a Hack feature that augments the syntax of the language such that XML document fragments become valid Hack expressions.",
+        "languages": {
+            "Hack": 210309
+        }
+    },
+    {
+        "name": "scripting_course",
+        "description": ":notebook: Books, reference guides and resources on Regular Expressions, CLI one-liners, Scripting Languages and Vim.",
+        "languages": {
+            "Vim Script": 4606,
+            "Shell": 3042
+        }
+    },
+    {
+        "name": "regexpbuilderphp",
+        "description": "\ud83e\udd89 human-readable regular expressions",
+        "languages": {
+            "PHP": 45498
+        }
+    },
+    {
+        "name": "type-exercise-in-rust",
+        "description": "Learn Rust black magics by implementing an expression framework in database systems",
+        "languages": {
+            "Rust": 442299
+        }
+    },
+    {
+        "name": "rnaseq_tutorial",
+        "description": "Informatics for RNA-seq: A web resource for analysis on the cloud. Educational tutorials and working pipelines for RNA-seq analysis including an introduction to: cloud computing, critical file formats, reference genomes, gene annotation, expression, differential expression, alternative splicing, data visualization, and interpretation.",
+        "languages": {
+            "R": 48192,
+            "Perl": 17443,
+            "Shell": 6391
+        }
+    },
+    {
+        "name": "jsonpath",
+        "description": "Query and manipulate JavaScript objects with JSONPath expressions.  Robust JSONPath engine for Node.js.",
+        "languages": {
+            "JavaScript": 276822,
+            "Dockerfile": 23
+        }
+    },
+    {
+        "name": "pomsky",
+        "description": "A new, portable, regular expression language",
+        "languages": {
+            "Rust": 451001,
+            "Shell": 5629,
+            "JavaScript": 2936,
+            "Just": 2446,
+            "Java": 2275,
+            "C#": 1814,
+            "Python": 1027
+        }
+    },
+    {
+        "name": "control-flag",
+        "description": "A system to flag anomalous source code expressions by learning typical expressions from training data",
+        "languages": {
+            "C++": 137302,
+            "Python": 10472,
+            "CMake": 8888,
+            "Shell": 6604
+        }
+    },
+    {
+        "name": "taco",
+        "description": "The Tensor Algebra Compiler (taco) computes sparse tensor expressions on CPUs and GPUs",
+        "languages": {
+            "C++": 3289959,
+            "Python": 131781,
+            "Shell": 12555,
+            "CMake": 11058,
+            "C": 2290,
+            "Ruby": 1986,
+            "Makefile": 584
+        }
+    },
+    {
+        "name": "cRonstrue",
+        "description": "JavaScript library that translates Cron expressions into human readable descriptions",
+        "languages": {
+            "TypeScript": 231882,
+            "JavaScript": 7221
+        }
+    },
+    {
+        "name": "CSharpVerbalExpressions",
+        "description": null,
+        "languages": {
+            "C#": 46183
+        }
+    },
+    {
+        "name": "aesara",
+        "description": "Aesara is a Python library for defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays.",
+        "languages": {
+            "Python": 7353029,
+            "C++": 128872,
+            "C": 128148,
+            "Cython": 23996,
+            "HTML": 3085,
+            "Makefile": 2408,
+            "CSS": 1750,
+            "Shell": 600
+        }
+    },
+    {
+        "name": "Golang-Regex-Tutorial",
+        "description": "Golang - Regular Expression Tutorial",
+        "languages": {
+            "Perl": 1406,
+            "Makefile": 796
+        }
+    },
+    {
+        "name": "re2j",
+        "description": "linear time regular expression matching in Java",
+        "languages": {
+            "Java": 498635,
+            "HTML": 282906,
+            "Perl": 2784
+        }
+    },
+    {
+        "name": "expr-eval",
+        "description": "Mathematical expression evaluator in JavaScript",
+        "languages": {
+            "JavaScript": 181291
+        }
+    },
+    {
+        "name": "ComplexEventExtraction",
+        "description": "A concept and obvious expression pattern collection of Chinese compound event extraction which then be evolved into ComplexEventGraph\uff0c\u672c\u9879\u76ee\u63d0\u51fa\u4e86\u4e2d\u6587\u590d\u5408\u4e8b\u4ef6\u7684\u6982\u5ff5\u4e0e\u663e\u5f0f\u6a21\u5f0f\uff0c\u5305\u62ec\u6761\u4ef6\u4e8b\u4ef6\u3001\u56e0\u679c\u4e8b\u4ef6\u3001\u987a\u627f\u4e8b\u4ef6\u3001\u53cd\u8f6c\u4e8b\u4ef6\u7b49\u4e8b\u4ef6\u62bd\u53d6\uff0c\u5e76\u5f62\u6210\u4e8b\u7406\u56fe\u8c31\u3002",
+        "languages": {
+            "Python": 9285
+        }
+    },
+    {
+        "name": "frak",
+        "description": "Transform collections of strings into regular expressions.",
+        "languages": {
+            "Clojure": 13062,
+            "JavaScript": 2609
+        }
+    },
+    {
+        "name": "NativeJIT",
+        "description": "A C++ expression -> x64 JIT",
+        "languages": {
+            "C++": 7521154,
+            "Python": 451787,
+            "Assembly": 307950,
+            "CMake": 38600,
+            "Shell": 30348,
+            "Makefile": 25787,
+            "M4": 25387,
+            "C": 17144,
+            "PowerShell": 9427,
+            "Go": 4116,
+            "Batchfile": 3877
+        }
+    },
+    {
+        "name": "rust-script",
+        "description": "Run Rust files and expressions as scripts without any setup or compilation step.",
+        "languages": {
+            "Rust": 97105,
+            "Shell": 2873
+        }
+    },
+    {
+        "name": "FastExpressionCompiler",
+        "description": "Fast Compiler for C# Expression Trees and the lightweight LightExpression alternative. Diagnostic and code generation tools for the expressions.",
+        "languages": {
+            "C#": 2246080,
+            "Batchfile": 4628,
+            "PowerShell": 726
+        }
+    },
+    {
+        "name": "proposal-do-expressions",
+        "description": "Proposal for `do` expressions",
+        "languages": {
+            "HTML": 100377,
+            "JavaScript": 9493
+        }
+    },
+    {
+        "name": "jeelizWeboji",
+        "description": "JavaScript/WebGL real-time face tracking and expression detection library. Build your own emoticons animated in real time in the browser! SVG and THREE.js integration demos are provided.",
+        "languages": {
+            "JavaScript": 1363075,
+            "Python": 4324
+        }
+    },
+    {
+        "name": "mvel",
+        "description": "MVEL (MVFLEX Expression Language)",
+        "languages": {
+            "Java": 2011742
+        }
+    },
+    {
+        "name": "filtrex",
+        "description": "A simple, safe, JavaScript Filter Expression compiler for end-users",
+        "languages": {
+            "JavaScript": 277418,
+            "HTML": 9425,
+            "CSS": 619,
+            "Makefile": 53
+        }
+    },
+    {
+        "name": "passerine",
+        "description": "A small extensible programming language designed for concise expression with little code.",
+        "languages": {
+            "Rust": 226908
+        }
+    },
+    {
+        "name": "substrait",
+        "description": "A cross platform way to express data transformation, relational algebra, standardized record expression and plans.",
+        "languages": {
+            "Python": 24227,
+            "HTML": 3554,
+            "Shell": 2044,
+            "CSS": 126
+        }
+    },
+    {
+        "name": "treetop",
+        "description": "A Ruby-based parsing DSL based on parsing expression grammars.",
+        "languages": {
+            "Ruby": 287737,
+            "Gnuplot": 345
+        }
+    },
+    {
+        "name": "glisp",
+        "description": "Glisp is a Lisp-based design tool that combines generative approaches with traditional design methods, empowering artists to discover new forms of expression.",
+        "languages": {
+            "TypeScript": 202122,
+            "Vue": 161120,
+            "JavaScript": 47081,
+            "HTML": 3218,
+            "Stylus": 2675
+        }
+    },
+    {
+        "name": "cron-expression-descriptor",
+        "description": "A .NET library that converts cron expressions into human readable descriptions.",
+        "languages": {
+            "C#": 335495,
+            "JavaScript": 2065
+        }
+    },
+    {
+        "name": "peg",
+        "description": "Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator.",
+        "languages": {
+            "Go": 79885
+        }
+    },
+    {
+        "name": "form",
+        "description": "The FORM project for symbolic manipulation of very big expressions",
+        "languages": {
+            "C": 3793893,
+            "C++": 780269,
+            "Visual Basic 6.0": 154929,
+            "Shell": 51493,
+            "M4": 43342,
+            "Makefile": 6107
+        }
+    },
+    {
+        "name": "EvalEx",
+        "description": "EvalEx is a handy expression evaluator for Java, that allows to evaluate simple mathematical and boolean expressions.",
+        "languages": {
+            "Java": 589603
+        }
+    },
+    {
+        "name": "Cronos",
+        "description": "A fully-featured .NET library for working with Cron expressions. Built with time zones in mind and intuitively handles daylight saving time transitions",
+        "languages": {
+            "C#": 263113,
+            "PowerShell": 893,
+            "Batchfile": 381
+        }
+    },
+    {
+        "name": "recurrentjs",
+        "description": "Deep Recurrent Neural Networks and LSTMs in Javascript. More generally also arbitrary expression graphs with automatic differentiation.",
+        "languages": {
+            "HTML": 107846,
+            "JavaScript": 18281
+        }
+    },
+    {
+        "name": "RegexGenerator",
+        "description": "This project contains the source code of a tool for generating regular expressions for text extraction:  1. automatically, 2. based only on examples of the desired behavior, 3. without any external hint about how the target regex should look like",
+        "languages": {
+            "Java": 431089,
+            "Shell": 456
+        }
+    },
+    {
+        "name": "EmoPy",
+        "description": "A deep neural net toolkit for emotion analysis via Facial Expression Recognition (FER)",
+        "languages": {
+            "Python": 102470,
+            "Makefile": 602
+        }
+    },
+    {
+        "name": "spyql",
+        "description": "Query data on the command line with SQL-like SELECTs powered by Python expressions",
+        "languages": {
+            "Jupyter Notebook": 943812,
+            "Python": 134628,
+            "Makefile": 2306
+        }
+    },
+    {
+        "name": "AWESOME-FER",
+        "description": "Top conferences & Journals focused on Facial expression recognition (FER)/ Facial action unit (FAU)  ",
+        "languages": {}
+    },
+    {
+        "name": "libfsm",
+        "description": "DFA regular expression library & friends",
+        "languages": {
+            "C": 1397331,
+            "Makefile": 75179,
+            "Awk": 28403,
+            "XSLT": 15455,
+            "Perl": 11381,
+            "CSS": 7452,
+            "Shell": 6246,
+            "Less": 5998,
+            "JavaScript": 3893,
+            "Scilab": 3493,
+            "Python": 2493
+        }
+    },
+    {
+        "name": "MathParser.org-mXparser",
+        "description": "Math Parser Java Android C# .NET/MONO (.NET Framework, .NET Core, .NET Standard, .NET PCL, Xamarin.Android, Xamarin.iOS) CLS Library - a super easy, rich and flexible mathematical expression parser (expression evaluator, expression provided as plain text / strings) for JAVA and C#. Main features: rich built-in library of operators, constants, math functions, user defined: arguments, functions, recursive functions and general recursion (direct / indirect). Additionally parser provides grammar and internal syntax checking.",
+        "languages": {
+            "HTML": 5195344,
+            "Java": 4272465,
+            "C#": 4079753,
+            "TypeScript": 1596392,
+            "Batchfile": 2974,
+            "F#": 1947,
+            "C++": 1916,
+            "Visual Basic .NET": 1656,
+            "C": 328
+        }
+    },
+    {
+        "name": "procyon",
+        "description": "Procyon is a suite of Java metaprogramming tools, including a rich reflection API, a LINQ-inspired expression tree API for runtime code generation, and a Java decompiler.",
+        "languages": {
+            "Java": 6297967,
+            "Jasmin": 13156
+        }
+    },
+    {
+        "name": "commonregex",
+        "description": "\ud83c\udf6b A collection of common regular expressions for Go",
+        "languages": {
+            "Go": 24552
+        }
+    },
+    {
+        "name": "picomatch",
+        "description": "Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions. Used by GraphQL, Jest, Astro, Snowpack, Storybook, bulma, Serverless, fdir, Netlify, AWS Amplify, Revogrid, rollup, routify, open-wc, imba, ava, docusaurus, fast-glob, globby, chokidar, anymatch, cloudflare/miniflare, pts, and more than 5 million projects! Please follow picomatch's author: https://github.com/jonschlinkert",
+        "languages": {
+            "JavaScript": 734230
+        }
+    },
+    {
+        "name": "exrex",
+        "description": "Irregular methods on regular expressions",
+        "languages": {
+            "Python": 25866
+        }
+    },
+    {
+        "name": "qlbridge",
+        "description": "A golang expression evaluator & Library to build SQL query engine based functionality. ",
+        "languages": {
+            "Go": 1368197,
+            "Shell": 3304
+        }
+    },
+    {
+        "name": "ngrep",
+        "description": "ngrep is like GNU grep applied to the network layer. It's a PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. It understands many kinds of protocols, including IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw, across a wide variety of interface types, and understands BPF filter logic in the same fashion as more common packet sniffing tools, such as tcpdump and snoop.",
+        "languages": {
+            "C": 241188,
+            "Roff": 15337,
+            "Makefile": 13327,
+            "Shell": 5598,
+            "Perl": 2477,
+            "C++": 138
+        }
+    },
+    {
+        "name": "facial-expression-recognition",
+        "description": null,
+        "languages": {
+            "Python": 1181
+        }
+    },
+    {
+        "name": "WhatIf",
+        "description": "\u2614 Fluent syntactic sugar of Kotlin for handling single if-else statements, nullable, collections, and booleans.",
+        "languages": {
+            "Kotlin": 120644
+        }
+    },
+    {
+        "name": "dom-expressions",
+        "description": "A Fine-Grained Runtime for Performant DOM Rendering",
+        "languages": {
+            "JavaScript": 613551,
+            "TypeScript": 25744
+        }
+    },
+    {
+        "name": "cpp-peglib",
+        "description": "A single file C++ header-only PEG (Parsing Expression Grammars) library",
+        "languages": {
+            "C++": 477150,
+            "CMake": 2921,
+            "Pascal": 1357,
+            "Vim Script": 629,
+            "Makefile": 126
+        }
+    },
+    {
+        "name": "jsep",
+        "description": "JavaScript Expression Parser",
+        "languages": {
+            "JavaScript": 477539,
+            "CSS": 17290,
+            "HTML": 8222,
+            "Shell": 527
+        }
+    },
+    {
+        "name": "SoulverCore",
+        "description": "A powerful Swift framework for evaluating natural language math expressions",
+        "languages": {
+            "Swift": 113502
+        }
+    },
+    {
+        "name": "Expression",
+        "description": "A cross-platform Swift library for evaluating mathematical expressions at runtime",
+        "languages": {
+            "Swift": 300148,
+            "Objective-C": 1750
+        }
+    },
+    {
+        "name": "MLEmojiLabel",
+        "description": "Automatic URL recognition and custom expression like wechat",
+        "languages": {
+            "Objective-C": 169820,
+            "Shell": 5053,
+            "Ruby": 769
+        }
+    },
+    {
+        "name": "RingNet",
+        "description": "Learning to Regress 3D Face Shape and Expression from an Image without 3D Supervision",
+        "languages": {
+            "Python": 44288
+        }
+    },
+    {
+        "name": "constexpr-8cc",
+        "description": "Compile-time C Compiler implemented as C++14 constant expressions",
+        "languages": {
+            "C++": 5242361,
+            "Python": 4052,
+            "Shell": 472,
+            "C": 349
+        }
+    },
+    {
+        "name": "tiny-compiler",
+        "description": "A tiny evaluator and compiler of arithmetic expressions.",
+        "languages": {
+            "JavaScript": 3591
+        }
+    },
+    {
+        "name": "mememoji",
+        "description": "A facial expression classification system that recognizes 6 basic emotions: happy, sad, surprise, fear, anger and neutral.",
+        "languages": {
+            "Jupyter Notebook": 1915928,
+            "Python": 15673
+        }
+    },
+    {
+        "name": "regexploit",
+        "description": "Find regular expressions which are vulnerable to ReDoS (Regular Expression Denial of Service)",
+        "languages": {
+            "Python": 93561,
+            "JavaScript": 5275,
+            "C#": 722
+        }
+    },
+    {
+        "name": "pregex",
+        "description": "PRegEx - Programmable Regular Expressions",
+        "languages": {
+            "Python": 419498
+        }
+    },
+    {
+        "name": "tensor-sensor",
+        "description": "The goal of this library is to generate more helpful exception messages for matrix algebra expressions for numpy, pytorch, jax, tensorflow, keras, fastai. ",
+        "languages": {
+            "Jupyter Notebook": 924340,
+            "Python": 110205
+        }
+    },
+    {
+        "name": "hnix",
+        "description": "A Haskell re-implementation of the Nix expression language",
+        "languages": {
+            "Nix": 845806,
+            "Haskell": 548613,
+            "Shell": 5658,
+            "Makefile": 68
+        }
+    },
+    {
+        "name": "MLLabel",
+        "description": "UILabel replacement with TextKit. Support link and expression. ",
+        "languages": {
+            "Objective-C": 503523,
+            "Shell": 7953,
+            "C": 1601,
+            "Ruby": 615
+        }
+    },
+    {
+        "name": "herbie",
+        "description": "Optimize floating-point expressions for accuracy",
+        "languages": {
+            "HTML": 669025,
+            "Racket": 602095,
+            "Scheme": 116307,
+            "JavaScript": 112755,
+            "CSS": 27617,
+            "Rust": 20395,
+            "Shell": 6057,
+            "Makefile": 2536,
+            "Dockerfile": 900
+        }
+    },
+    {
+        "name": "roslyn-linq-rewrite",
+        "description": "Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.",
+        "languages": {
+            "C#": 291314,
+            "PowerShell": 2948,
+            "Batchfile": 1537
+        }
+    },
+    {
+        "name": "mathics-core",
+        "description": "An open-source Mathematica. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute them.",
+        "languages": {
+            "Python": 3896823,
+            "Mathematica": 406935,
+            "HTML": 175608,
+            "TeX": 15246,
+            "Perl": 13328,
+            "Makefile": 6751,
+            "Shell": 5948
+        }
+    },
+    {
+        "name": "CircleRecyclerView",
+        "description": "the library is a loop RecyclerView(expression), can show some effects when display",
+        "languages": {
+            "Java": 34644
+        }
+    },
+    {
+        "name": "multiface",
+        "description": "Hosts the Multiface dataset, which is a multi-view dataset of multiple identities performing a sequence of facial expressions.",
+        "languages": {
+            "Python": 99123,
+            "Shell": 13462,
+            "HTML": 2286
+        }
+    },
+    {
+        "name": "PSGAN",
+        "description": "PyTorch code for \"PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer\" (CVPR 2020 Oral)",
+        "languages": {
+            "Python": 100893
+        }
+    },
+    {
+        "name": "gval",
+        "description": "Expression evaluation in golang",
+        "languages": {
+            "Go": 133395
+        }
+    },
+    {
+        "name": "vexcl",
+        "description": "VexCL is a C++ vector expression template library for OpenCL/CUDA/OpenMP",
+        "languages": {
+            "C++": 1845850,
+            "CMake": 29557,
+            "Shell": 1088
+        }
+    },
+    {
+        "name": "surgeon",
+        "description": "Declarative DOM extraction expression evaluator. \ud83d\udc68\u200d\u2695\ufe0f",
+        "languages": {
+            "JavaScript": 56473
+        }
+    },
+    {
+        "name": "cronexpr",
+        "description": "Cron expression parser in Go language (golang)",
+        "languages": {
+            "Go": 44990
+        }
+    },
+    {
+        "name": "FluentDateTime",
+        "description": "Allows cleaner DateTime expressions and operations",
+        "languages": {
+            "C#": 171492
+        }
+    },
+    {
+        "name": "seshat",
+        "description": "Handwritten math expression parser",
+        "languages": {
+            "C++": 418290,
+            "Makefile": 3143
+        }
+    },
+    {
+        "name": "fuzzy_match",
+        "description": "Find a needle (a document or record) in a haystack using string similarity and (optionally) regular expression rules. Uses Dice's Coefficient (aka Pair Similiarity) and Levenshtein Distance internally.",
+        "languages": {
+            "Ruby": 56721
+        }
+    },
+    {
+        "name": "Guitar",
+        "description": "A Cross-Platform String and Regular Expression Library written in Swift.",
+        "languages": {
+            "Swift": 36818,
+            "Ruby": 1197,
+            "Objective-C": 491
+        }
+    },
+    {
+        "name": "ReLA",
+        "description": "[CVPR2023 Highlight] GRES: Generalized Referring Expression Segmentation",
+        "languages": {
+            "Python": 207917,
+            "Cuda": 62296,
+            "C++": 6887,
+            "Shell": 729
+        }
+    },
+    {
+        "name": "AlignTab",
+        "description": "An alignment plugin for Sublime Text using regular expression",
+        "languages": {
+            "Python": 24069
+        }
+    },
+    {
+        "name": "json-joy",
+        "description": "JSON CRDT, JSON CRDT Patch, JSON Patch+, JSON Predicate, CBOR, MessagePack, UBJSON, JSON Reactive RPC, JSON-RPC 2.0, JSON Pointer, JSON Expression, JSON Type",
+        "languages": {
+            "TypeScript": 2412384,
+            "JavaScript": 104005
+        }
+    },
+    {
+        "name": "Regex",
+        "description": "A delightful and expressive regular expression type for Swift.",
+        "languages": {
+            "Swift": 37872,
+            "Ruby": 2906,
+            "Shell": 749,
+            "Objective-C": 140,
+            "Dockerfile": 97
+        }
+    },
+    {
+        "name": "Onigmo",
+        "description": "Onigmo is a regular expressions library forked from Oniguruma.",
+        "languages": {
+            "C": 1478536,
+            "Objective-C": 838956,
+            "Python": 108182,
+            "Ruby": 76629,
+            "Makefile": 18155,
+            "C++": 15305,
+            "Shell": 3091,
+            "M4": 1908,
+            "Batchfile": 67
+        }
+    },
+    {
+        "name": "gcem",
+        "description": "A C++ compile-time math library using generalized constant expressions",
+        "languages": {
+            "C++": 285530,
+            "Jupyter Notebook": 8618,
+            "CMake": 6992,
+            "Makefile": 2095
+        }
+    },
+    {
+        "name": "CalcBinding",
+        "description": "Advanced WPF Binding which supports expressions in Path property and other features",
+        "languages": {
+            "C#": 211534
+        }
+    },
+    {
+        "name": "Facial-Expression-Recognition",
+        "description": "Facial-Expression-Recognition in TensorFlow. Detecting faces in video and recognize the expression(emotion).",
+        "languages": {
+            "Python": 13572
+        }
+    },
+    {
+        "name": "NixOS-Guide",
+        "description": "NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.",
+        "languages": {
+            "Nix": 37
+        }
+    },
+    {
+        "name": "vim-sexp",
+        "description": "Precision Editing for S-expressions",
+        "languages": {
+            "Vim Script": 106660
+        }
+    },
+    {
+        "name": "FacialExpressionRecognition",
+        "description": "\u4eba\u8138\u8bc6\u522b\u4e4b\u8868\u60c5\u8bc6\u522b\u9879\u76ee\u76f8\u5173\u6e90\u7801",
+        "languages": {
+            "Python": 91330,
+            "Shell": 139
+        }
+    },
+    {
+        "name": "ngx_http_substitutions_filter_module",
+        "description": "a filter module which can do both regular expression and fixed string substitutions for nginx",
+        "languages": {
+            "Perl": 420269,
+            "Raku": 55410,
+            "C": 35455,
+            "Shell": 1043
+        }
+    },
+    {
+        "name": "SwiftVerbalExpressions",
+        "description": "Swift Port of VerbalExpressions",
+        "languages": {
+            "Swift": 10429
+        }
+    },
+    {
+        "name": "Flee",
+        "description": " Fast Lightweight Expression Evaluator",
+        "languages": {
+            "C#": 727256,
+            "JavaScript": 738
+        }
+    },
+    {
+        "name": "go-restructure",
+        "description": "Match regular expressions into struct fields",
+        "languages": {
+            "Go": 94631
+        }
+    },
+    {
+        "name": "social-media-profiles-regexs",
+        "description": ":card_index: Extract social media profiles and more with regular expressions",
+        "languages": {
+            "Python": 4851,
+            "Makefile": 98
+        }
+    },
+    {
+        "name": "verbal_expressions",
+        "description": "Make difficult regular expressions easy! Ruby port of the awesome VerbalExpressions repo - https://github.com/jehna/VerbalExpressions",
+        "languages": {
+            "Ruby": 15659
+        }
+    },
+    {
+        "name": "SmartRename",
+        "description": "A Windows Shell Extension for more advanced bulk renaming using search and replace or regular expressions",
+        "languages": {
+            "C++": 180540,
+            "C": 9595
+        }
+    },
+    {
+        "name": "exprtk",
+        "description": "C++ Mathematical Expression Parsing And Evaluation Library https://www.partow.net/programming/exprtk/index.html",
+        "languages": {
+            "C++": 1993807,
+            "Makefile": 2266
+        }
+    },
+    {
+        "name": "sublemacspro",
+        "description": "Emacs Pro Essentials brings the most common emacs features and key bindings that you love to Sublime Text. The kill and mark rings, i-search, registers, numeric arguments, and cursor motion commands for chars/words/lines/s-expressions are all there and multi-cursor enhanced! Also, improved switch to buffer and zap/jump to char/string, and more!",
+        "languages": {
+            "Python": 152385
+        }
+    },
+    {
+        "name": "ExpressionEvaluator",
+        "description": "A Simple Math and Pseudo C# Expression Evaluator in One C# File. Can also execute small C# like scripts",
+        "languages": {
+            "C#": 557649
+        }
+    },
+    {
+        "name": "Jexl",
+        "description": "Javascript Expression Language: Powerful context-based expression parser and evaluator",
+        "languages": {
+            "JavaScript": 88212
+        }
+    },
+    {
+        "name": "goomba",
+        "description": "gooMBA is a Hex-Rays Decompiler plugin to simplify Mixed Boolean-Arithmetic (MBA) expressions",
+        "languages": {
+            "C++": 108582,
+            "Makefile": 7789,
+            "Batchfile": 802,
+            "Shell": 469,
+            "C": 262
+        }
+    },
+    {
+        "name": "FakeDns",
+        "description": "A regular-expression based python MITM DNS server with support for DNS Rebinding attacks",
+        "languages": {
+            "Python": 29022,
+            "Dockerfile": 151
+        }
+    },
+    {
+        "name": "zprint",
+        "description": "Executables, uberjar, and library to beautifully format Clojure and Clojurescript source code and s-expressions.",
+        "languages": {
+            "Clojure": 2128014,
+            "Shell": 4846
+        }
+    },
+    {
+        "name": "Pegged",
+        "description": "A Parsing Expression Grammar (PEG) module, using the D programming language.",
+        "languages": {
+            "D": 509181,
+            "Python": 7056,
+            "TeX": 2614,
+            "Shell": 1861,
+            "Batchfile": 1342,
+            "Makefile": 982
+        }
+    },
+    {
+        "name": "eslisp",
+        "description": "un-opinionated S-expression syntax and macro system for JavaScript",
+        "languages": {
+            "LiveScript": 89946,
+            "Makefile": 745,
+            "JavaScript": 375
+        }
+    },
+    {
+        "name": "regexp-examples",
+        "description": "Generate strings that match a given regular expression",
+        "languages": {
+            "Ruby": 67572
+        }
+    },
+    {
+        "name": "hexpress",
+        "description": "Human Expressions, a human way to define regular expressions",
+        "languages": {
+            "Ruby": 26137
+        }
+    },
+    {
+        "name": "PlayPicdio",
+        "description": "\u5b89\u5353\u5e73\u53f0\u4e0b\uff0c\u56fe\u7247\u6216\u89c6\u9891\u8f6c\u5316\u4e3aascii\uff0c\u56fe\u7247\u8f6c\u5316\u6210\u4f4e\u591a\u8fb9\u5f62\u98ce\u683c\u56fe\u5f62\uff0cemoji\u8868\u60c5\u586b\u5145\u56fe\u7247\uff0c\u5408\u5e76\u89c6\u9891\u7528\u5230ffmpeg\u5e93\u3002\u5df2\u5b9e\u73b0\u5e26\u8272\u5f69\u7684ascii\u7801\u56fe\u7247\u6216\u89c6\u9891.On the Android platform, the picture or video is converted to ascii, the picture is converted into a low-poly style graphic, the emoji expression is filled with the picture, and the merged video is used in the ffmpeg library. Adding color ascii code pictures or videos later. Android\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u3067\u306f\u3001\u753b\u50cf\u307e\u305f\u306f\u30d3\u30c7\u30aa\u306fASCII\u306b\u5909\u63db\u3055\u308c\u3001\u753b\u50cf\u306f\u4f4e\u30dd\u30ea\u30b9\u30bf\u30a4\u30eb\u306e\u30b0\u30e9\u30d5\u30a3\u30c3\u30af\u306b\u5909\u63db\u3055\u308c\u3001\u7d75\u6587\u5b57\u8868\u73fe\u306f\u753b\u50cf\u3067\u57cb\u3081\u3089\u308c\u3001\u30de\u30fc\u30b8\u3055\u308c\u305f\u30d3\u30c7\u30aa\u306fffmpeg\u30e9\u30a4\u30d6\u30e9\u30ea\u3067\u4f7f\u7528\u3055\u308c\u307e\u3059\u3002 \u30ab\u30e9\u30fcASCII\u30b3\u30fc\u30c9\u306e\u5199\u771f\u3084\u30d3\u30c7\u30aa\u3092\u5f8c\u3067\u8ffd\u52a0\u3059\u308b",
+        "languages": {
+            "Java": 2232815,
+            "C": 39835,
+            "C++": 12340,
+            "Kotlin": 12107,
+            "CMake": 3675,
+            "AIDL": 995,
+            "Makefile": 507
+        }
+    },
+    {
+        "name": "python-regex-cheatsheet",
+        "description": "Python 2.7 Regular Expression cheatsheet, as a restructured text document and Makefile to convert it to PDF",
+        "languages": {
+            "Makefile": 230
+        }
+    },
+    {
+        "name": "Expression-Net",
+        "description": "Deep 3DMM facial expression parameter extraction",
+        "languages": {
+            "Python": 144838
+        }
+    },
+    {
+        "name": "nerdamer",
+        "description": "a symbolic math expression evaluator for javascript",
+        "languages": {
+            "JavaScript": 1305707,
+            "HTML": 4994
+        }
+    },
+    {
+        "name": "SymbolicUtils.jl",
+        "description": "Symbolic expressions, rewriting and simplification",
+        "languages": {
+            "Julia": 177962
+        }
+    },
+    {
+        "name": "node2nix",
+        "description": "Generate Nix expressions to build NPM packages",
+        "languages": {
+            "Nix": 749901,
+            "JavaScript": 90133,
+            "Shell": 1113
+        }
+    },
+    {
+        "name": "Serialize.Linq",
+        "description": "C# library to serialize LINQ expressions",
+        "languages": {
+            "C#": 239170
+        }
+    },
+    {
+        "name": "re-build",
+        "description": "Building regular expressions with natural language",
+        "languages": {
+            "JavaScript": 38977,
+            "HTML": 504
+        }
+    },
+    {
+        "name": "laravel-cte",
+        "description": "Laravel queries with common table expressions",
+        "languages": {
+            "PHP": 52638
+        }
+    },
+    {
+        "name": "ruby_parser",
+        "description": "ruby_parser is a ruby parser written in pure ruby. It outputs s-expressions which can be manipulated and converted back to ruby via the ruby2ruby gem.",
+        "languages": {
+            "Ruby": 371567,
+            "Yacc": 234030,
+            "REXX": 8098
+        }
+    },
+    {
+        "name": "ncalc",
+        "description": "Mathematical Expressions Evaluator for .NET",
+        "languages": {
+            "C#": 297560,
+            "GAP": 10848
+        }
+    },
+    {
+        "name": "node-re2",
+        "description": "node.js bindings for RE2: fast, safe alternative to backtracking regular expression engines.",
+        "languages": {
+            "JavaScript": 65173,
+            "C++": 50431,
+            "Python": 6469,
+            "TypeScript": 855
+        }
+    },
+    {
+        "name": "exp4j",
+        "description": "A tiny math expression evaluator for the Java programming language",
+        "languages": {
+            "Java": 224970
+        }
+    },
+    {
+        "name": "wring",
+        "description": "Extract content from webpages using CSS Selectors, XPath, and JS expressions",
+        "languages": {
+            "PureScript": 32738,
+            "JavaScript": 5480,
+            "Shell": 445
+        }
+    },
+    {
+        "name": "MeViS",
+        "description": "[ICCV 2023] MeViS: A Large-scale Benchmark for Video Segmentation with Motion Expressions",
+        "languages": {
+            "Python": 607190,
+            "Cuda": 62296,
+            "C++": 6887,
+            "Shell": 729
+        }
+    },
+    {
+        "name": "ozzo-routing",
+        "description": "An extremely fast Go (golang) HTTP router that supports regular expression route matching. Comes with full support for building RESTful APIs.",
+        "languages": {
+            "Go": 150522
+        }
+    },
+    {
+        "name": "nsregextester",
+        "description": "A simple Mac OS X application for testing native regular expressions.",
+        "languages": {
+            "HTML": 21357,
+            "Objective-C": 5351,
+            "CSS": 525
+        }
+    },
+    {
+        "name": "ExpressionEngine",
+        "description": "ExpressionEngine is a flexible, feature-rich, free open-source content management platform that empowers hundreds of thousands of individuals and organizations around the world to easily manage their web site.",
+        "languages": {
+            "PHP": 14799042,
+            "JavaScript": 3101224,
+            "SCSS": 447091,
+            "HTML": 235603,
+            "Less": 166213,
+            "CSS": 165132,
+            "Vue": 50481,
+            "Hack": 32912,
+            "TypeScript": 32554,
+            "Ruby": 9102,
+            "Shell": 3004,
+            "Dockerfile": 72
+        }
+    },
+    {
+        "name": "proposal-throw-expressions",
+        "description": "Proposal for ECMAScript 'throw' expressions",
+        "languages": {
+            "JavaScript": 1253
+        }
+    },
+    {
+        "name": "facial-expression-recognition-using-cnn",
+        "description": "Deep facial expressions recognition using Opencv and Tensorflow. Recognizing facial expressions from images or camera stream",
+        "languages": {
+            "Python": 39678
+        }
+    },
+    {
+        "name": "AutoFilterer",
+        "description": "AutoFilterer is a mini filtering framework library for dotnet. The main purpose of the library is to generate LINQ expressions for Entities over DTOs automatically. The first aim is to be compatible with Open API 3.0 Specifications",
+        "languages": {
+            "C#": 205338,
+            "Dockerfile": 1197
+        }
+    },
+    {
+        "name": "OpenVHead",
+        "description": "A 3D virtual head control system for VTuber in Unity with smooth motion and robust facial expressions",
+        "languages": {
+            "C#": 24856,
+            "Python": 13475
+        }
+    },
+    {
+        "name": "MagicDance",
+        "description": "MagicPose: Realistic Human Poses and Facial Expressions Retargeting with Identity-aware Diffusion",
+        "languages": {
+            "Python": 3222665,
+            "Java": 113288,
+            "Swift": 58465,
+            "Shell": 10121,
+            "C++": 9891,
+            "CMake": 6607,
+            "Thrift": 2913,
+            "Dockerfile": 922,
+            "Ruby": 408
+        }
+    },
+    {
+        "name": "proposal-module-expressions",
+        "description": null,
+        "languages": {
+            "HTML": 91775
+        }
+    },
+    {
+        "name": "deep-regex",
+        "description": "Code for the paper Neural Generation of Regular Expressions from Natural Language with Minimal Domain Knowledge (EMNLP 2016). http://arxiv.org/abs/1608.03000",
+        "languages": {
+            "Python": 65804,
+            "Lua": 60985,
+            "Shell": 4235
+        }
+    },
+    {
+        "name": "Eval-Expression.NET",
+        "description": "C# Eval Expression | Evaluate, Compile, and Execute C# code and expression at runtime. ",
+        "languages": {
+            "C#": 188289
+        }
+    },
+    {
+        "name": "simpleeval",
+        "description": "Simple Safe Sandboxed Extensible Expression Evaluator for Python",
+        "languages": {
+            "Python": 64350,
+            "Makefile": 623
+        }
+    },
+    {
+        "name": "Facemoji",
+        "description": "\ud83d\ude06 A voice chatbot that can imitate your expression. OpenCV+Dlib+Live2D+Moments Recorder+Turing Robot+Iflytek IAT+Iflytek TTS",
+        "languages": {
+            "C#": 130997,
+            "Smalltalk": 9570
+        }
+    },
+    {
+        "name": "ResidualMaskingNetwork",
+        "description": "ICPR 2020: Facial Expression Recognition using Residual Masking Network",
+        "languages": {
+            "Python": 670877,
+            "Shell": 700
+        }
+    },
+    {
+        "name": "face-analysis-sdk",
+        "description": "Facial detection, landmark tracking and expression transfer library for Windows, Linux and Mac",
+        "languages": {
+            "C++": 603148,
+            "Emacs Lisp": 78628,
+            "Objective-C": 6151,
+            "IDL": 1597,
+            "Shell": 1268
+        }
+    },
+    {
+        "name": "CompactConstraint",
+        "description": "Simple NSLayoutConstraint expression parser for more readable autolayout code.",
+        "languages": {
+            "Objective-C": 18383,
+            "Ruby": 556
+        }
+    },
+    {
+        "name": "json_expressions",
+        "description": "JSON matchmaking for all your API testing needs.",
+        "languages": {
+            "Ruby": 59567
+        }
+    },
+    {
+        "name": "regularity",
+        "description": "A friendly regular expression builder for Ruby",
+        "languages": {
+            "Ruby": 9551
+        }
     }
 ]

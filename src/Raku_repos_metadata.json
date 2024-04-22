@@ -12,7 +12,7 @@
         "name": "rakudo",
         "description": "\ud83e\udd8b Rakudo \u2013 Raku on MoarVM, JVM, and JS",
         "languages": {
-            "Raku": 7443540,
+            "Raku": 7444879,
             "Java": 142585,
             "Perl": 96300,
             "C": 76149,
@@ -59,6 +59,1686 @@
             "Vue": 59096,
             "CSS": 37348,
             "HTML": 1532
+        }
+    },
+    {
+        "name": "examples",
+        "description": "Many examples of Raku code",
+        "languages": {
+            "Raku": 610403,
+            "HTML": 56732,
+            "Perl": 10131,
+            "CSS": 5118,
+            "C": 1667,
+            "Shell": 1237,
+            "Makefile": 917,
+            "Dockerfile": 771
+        }
+    },
+    {
+        "name": "doc",
+        "description": "\ud83e\udd8b Raku documentation",
+        "languages": {
+            "Raku": 83000,
+            "Shell": 931,
+            "Makefile": 674
+        }
+    },
+    {
+        "name": "zef",
+        "description": "Raku Module Management",
+        "languages": {
+            "Raku": 302811
+        }
+    },
+    {
+        "name": "roast",
+        "description": "\ud83e\udd8b Raku test suite",
+        "languages": {
+            "Raku": 15322072,
+            "Perl": 211446,
+            "Turing": 1734,
+            "Roff": 1714
+        }
+    },
+    {
+        "name": "App-Rak",
+        "description": "21st century grep / find / ack / ag / rg on steroids",
+        "languages": {
+            "Raku": 116720
+        }
+    },
+    {
+        "name": "alma",
+        "description": "ALgoloid with MAcros -- a language with Algol-family syntax where macros take center stage",
+        "languages": {
+            "Raku": 290759,
+            "D": 1623,
+            "Perl": 493,
+            "Shell": 62
+        }
+    },
+    {
+        "name": "old-design-docs",
+        "description": "Raku language design documents",
+        "languages": {
+            "Raku": 93055,
+            "HTML": 15862,
+            "CSS": 6754
+        }
+    },
+    {
+        "name": "rakudo-and-nqp-internals-course",
+        "description": "A course on Rakudo and NQP internals, developed by Edument AB.",
+        "languages": {
+            "Raku": 23762,
+            "Perl": 7265,
+            "Makefile": 1877,
+            "TeX": 876
+        }
+    },
+    {
+        "name": "Inline-Perl5",
+        "description": "Use Perl 5 code in a Raku program",
+        "languages": {
+            "Raku": 142385,
+            "C": 47193,
+            "Perl": 8623,
+            "Makefile": 528
+        }
+    },
+    {
+        "name": "DBIish",
+        "description": "Database interface for Raku",
+        "languages": {
+            "Raku": 273404
+        }
+    },
+    {
+        "name": "starctf2021",
+        "description": "Official source code and writeups of *CTF2021",
+        "languages": {
+            "Raku": 3251623,
+            "C": 198714,
+            "Python": 50604,
+            "C++": 48931,
+            "PHP": 22408,
+            "HTML": 17855,
+            "Assembly": 8563,
+            "Makefile": 6636,
+            "Dockerfile": 5169,
+            "Solidity": 3338,
+            "Shell": 2400,
+            "Sage": 2335,
+            "Rust": 838,
+            "Perl": 665,
+            "JavaScript": 534
+        }
+    },
+    {
+        "name": "raku-jupyter-kernel",
+        "description": "Raku Kernel for Jupyter notebooks",
+        "languages": {
+            "Raku": 73026,
+            "Jupyter Notebook": 47587,
+            "Dockerfile": 1361
+        }
+    },
+    {
+        "name": "p6-Crust",
+        "description": "PSGI library stack for Perl6",
+        "languages": {
+            "Raku": 130410,
+            "Batchfile": 18
+        }
+    },
+    {
+        "name": "Red",
+        "description": "A WiP ORM for Raku",
+        "languages": {
+            "Raku": 355310,
+            "Dockerfile": 785,
+            "Shell": 305,
+            "Makefile": 132
+        }
+    },
+    {
+        "name": "McUsd",
+        "description": "Simple USD scene geometry with a variety of UsdPreviewSurface materials applied",
+        "languages": {
+            "Raku": 1523
+        }
+    },
+    {
+        "name": "voidvault",
+        "description": "Bootstrap Void with FDE",
+        "languages": {
+            "Raku": 311263,
+            "Shell": 14361
+        }
+    },
+    {
+        "name": "Sparrow6",
+        "description": "Raku Automation Framework",
+        "languages": {
+            "Raku": 147399,
+            "Perl": 4092,
+            "Shell": 2476,
+            "Python": 2355,
+            "PowerShell": 1945,
+            "Ruby": 1440
+        }
+    },
+    {
+        "name": "lua-resty-beanstalkd",
+        "description": "non-blocking beanstalkd client lib for ngx_lua",
+        "languages": {
+            "Raku": 31479,
+            "Lua": 12582,
+            "Perl": 6462,
+            "Shell": 2517,
+            "Makefile": 425
+        }
+    },
+    {
+        "name": "mi6",
+        "description": "minimal authoring tool for Raku",
+        "languages": {
+            "Raku": 50207
+        }
+    },
+    {
+        "name": "GTK-Simple",
+        "description": "Simplistic GTK bindings for Rakudo",
+        "languages": {
+            "Raku": 78334
+        }
+    },
+    {
+        "name": "cro-http",
+        "description": "HTTP (including HTTPS and HTTP/2) support for the Cro library for building distributed systems in Raku.",
+        "languages": {
+            "Raku": 647509,
+            "Perl": 10605,
+            "HTML": 50,
+            "CSS": 16
+        }
+    },
+    {
+        "name": "spamassassin-extremeshok_fromreplyto",
+        "description": "Configures spamassassin to score mails with various rules against the reply-to, from and to headers.",
+        "languages": {
+            "Raku": 8282,
+            "Perl": 6075
+        }
+    },
+    {
+        "name": "Humming-Bird",
+        "description": "A fun and performant web application framework for Raku",
+        "languages": {
+            "Raku": 38153,
+            "CSS": 23
+        }
+    },
+    {
+        "name": "Inline-Python",
+        "description": "Inline::Python for Perl 6",
+        "languages": {
+            "Raku": 33790,
+            "C": 10534,
+            "Dockerfile": 2699,
+            "Makefile": 428,
+            "Python": 154
+        }
+    },
+    {
+        "name": "http-useragent",
+        "description": "Web user agent class for Perl 6.",
+        "languages": {
+            "Raku": 120842
+        }
+    },
+    {
+        "name": "DIE-corpus",
+        "description": "Corpus set used by DIE",
+        "languages": {
+            "Raku": 537357025,
+            "JavaScript": 64304857,
+            "C++": 504834,
+            "Python": 13747
+        }
+    },
+    {
+        "name": "termie",
+        "description": "A console for your console",
+        "languages": {
+            "Raku": 36837,
+            "Vim Script": 503,
+            "Shell": 246,
+            "Makefile": 105,
+            "BitBake": 9
+        }
+    },
+    {
+        "name": "raku-api-discord",
+        "description": "Raku module for interacting with the Discord API.",
+        "languages": {
+            "Raku": 69865
+        }
+    },
+    {
+        "name": "advent",
+        "description": "Contains all data relating to the annual Raku Advent event held 1-25 December",
+        "languages": {
+            "Raku": 1033
+        }
+    },
+    {
+        "name": "XML",
+        "description": "An Object-Oriented XML Library for Raku",
+        "languages": {
+            "Raku": 47372
+        }
+    },
+    {
+        "name": "libdigest-raku",
+        "description": "Raku implementation of various digests ",
+        "languages": {
+            "Raku": 25405
+        }
+    },
+    {
+        "name": "Pakku",
+        "description": "Package Manager for the Raku Programming Language",
+        "languages": {
+            "Raku": 203007
+        }
+    },
+    {
+        "name": "gptrixie",
+        "description": "A tool to generate NativeCall code from C headers",
+        "languages": {
+            "Raku": 23551
+        }
+    },
+    {
+        "name": "LearningPerl6_Downloads",
+        "description": "The downloads for LearningPerl6.com, here as a backup",
+        "languages": {
+            "Raku": 4113
+        }
+    },
+    {
+        "name": "cro-core",
+        "description": "The heart of the Cro library for building distributed systems in Raku, including pipeline composition and TCP support.",
+        "languages": {
+            "Raku": 150942
+        }
+    },
+    {
+        "name": "json_fast",
+        "description": "a naive imperative json parser in perl6, to evaluate performance against JSON::Tiny",
+        "languages": {
+            "Raku": 55032
+        }
+    },
+    {
+        "name": "perl6-slang-sql",
+        "description": null,
+        "languages": {
+            "Raku": 3927
+        }
+    },
+    {
+        "name": "Terminal-Print",
+        "description": "Terminal::Print is a pure Raku layer for printing to terminal screens",
+        "languages": {
+            "Raku": 58762
+        }
+    },
+    {
+        "name": "atom-language",
+        "description": "Atom/Github Raku Syntax Highlighting Support \ud83e\udd8b",
+        "languages": {
+            "Raku": 137136,
+            "JavaScript": 30992,
+            "Less": 333
+        }
+    },
+    {
+        "name": "raku-ncurses",
+        "description": "Raku interface to NCurses library",
+        "languages": {
+            "Raku": 50932
+        }
+    },
+    {
+        "name": "raku",
+        "description": "Exercism exercises in Raku",
+        "languages": {
+            "Raku": 383317,
+            "Shell": 2288,
+            "Mustache": 811
+        }
+    },
+    {
+        "name": "spitsh",
+        "description": "\ud83d\udc7bThe Spook in the Shell\ud83d\udc1a compiler",
+        "languages": {
+            "Raku": 505509
+        }
+    },
+    {
+        "name": "yamlish",
+        "description": "An implementation of YAML in Raku",
+        "languages": {
+            "Raku": 40468
+        }
+    },
+    {
+        "name": "perl6em",
+        "description": "Perl 6, el musical",
+        "languages": {
+            "Raku": 13241,
+            "CSS": 5143,
+            "Shell": 1774,
+            "R": 719
+        }
+    },
+    {
+        "name": "Web-App",
+        "description": "A Web Application foundation for Raku",
+        "languages": {
+            "Raku": 30551
+        }
+    },
+    {
+        "name": "dex-backend",
+        "description": "Backend for Digital Excellence Platform",
+        "languages": {
+            "Raku": 7494480,
+            "C#": 1867581,
+            "HTML": 35641,
+            "JavaScript": 8817,
+            "Dockerfile": 2945,
+            "Less": 1845,
+            "CSS": 1485,
+            "Batchfile": 383,
+            "Shell": 235
+        }
+    },
+    {
+        "name": "external_file",
+        "description": "Allow access to \"external files\" from PostgreSQL server file systems.",
+        "languages": {
+            "Raku": 4559,
+            "PLpgSQL": 4168,
+            "Makefile": 792
+        }
+    },
+    {
+        "name": "Perl6-Math-Matrix",
+        "description": "fully featured data type for matrix math",
+        "languages": {
+            "Raku": 94169,
+            "Shell": 473
+        }
+    },
+    {
+        "name": "raku-fez",
+        "description": "This project is for 'fez', raku's cool new shiny dist uploader & manager.  If you're a module author you should definitely be using this sweet thang. ;;;;;;;;;;;;;;  This project and the underlying infrastructure is supported out of my own pocket and through donations.  If you'd like to donate please check here: https://www.patreon.com/oynot",
+        "languages": {
+            "Raku": 81515,
+            "Shell": 109
+        }
+    },
+    {
+        "name": "_",
+        "description": "The Raku utility library",
+        "languages": {
+            "Raku": 15790
+        }
+    },
+    {
+        "name": "P6-Data-Dump-Tree",
+        "description": "Renders data structures in a tree fashion",
+        "languages": {
+            "Raku": 131024
+        }
+    },
+    {
+        "name": "raku-Template-Mustache",
+        "description": "Raku library for the Mustache template format",
+        "languages": {
+            "Raku": 37660,
+            "Mustache": 693,
+            "MAXScript": 14
+        }
+    },
+    {
+        "name": "eqemu-maps",
+        "description": "EQEmuMap .map and .path reference files for the internal EQEmu Server functions",
+        "languages": {
+            "Raku": 11594,
+            "Makefile": 1456,
+            "GLSL": 949
+        }
+    },
+    {
+        "name": "clifford",
+        "description": "Geometric Algebra in Raku",
+        "languages": {
+            "Raku": 11460
+        }
+    },
+    {
+        "name": "perl6-http-client",
+        "description": "Build HTTP Clients easily with Perl 6",
+        "languages": {
+            "Raku": 17921
+        }
+    },
+    {
+        "name": "WWW",
+        "description": "No-nonsense simple HTTPS client with JSON decoder",
+        "languages": {
+            "Raku": 8970,
+            "Dockerfile": 244
+        }
+    },
+    {
+        "name": "raku-libcurl",
+        "description": "A Raku interface to libcurl.",
+        "languages": {
+            "Raku": 95408,
+            "Makefile": 884
+        }
+    },
+    {
+        "name": "HTTP-Server-Async",
+        "description": "Raku HTTP::Server::Async",
+        "languages": {
+            "Raku": 15560
+        }
+    },
+    {
+        "name": "PDF-raku",
+        "description": "Low level tools for reading, writing and manipulation of PDFs",
+        "languages": {
+            "Raku": 287750
+        }
+    },
+    {
+        "name": "raku-Vikna",
+        "description": "(Very) Simplistic console UI framework.",
+        "languages": {
+            "Raku": 51706,
+            "Makefile": 4887
+        }
+    },
+    {
+        "name": "raku-terminal-table",
+        "description": "Advanced table generate module for perl6",
+        "languages": {
+            "Raku": 62663
+        }
+    },
+    {
+        "name": "raku-mongodb-driver",
+        "description": "MongoDB driver for Raku",
+        "languages": {
+            "Raku": 367981,
+            "HTML": 28569
+        }
+    },
+    {
+        "name": "whateverable",
+        "description": "\ud83e\udd16 Different IRC bots that operate on a bunch of prebuilt Rakudo versions",
+        "languages": {
+            "Raku": 366403,
+            "Shell": 1587,
+            "Dockerfile": 380
+        }
+    },
+    {
+        "name": "P6-LibraryMake",
+        "description": null,
+        "languages": {
+            "Raku": 7673,
+            "Makefile": 164,
+            "C": 99
+        }
+    },
+    {
+        "name": "perl6-data-dump",
+        "description": "a colorful? data dumper for perl6",
+        "languages": {
+            "Raku": 16392
+        }
+    },
+    {
+        "name": "Acme-Anguish",
+        "description": "Interpreter for Anguish programming language",
+        "languages": {
+            "Raku": 4568
+        }
+    },
+    {
+        "name": "lingua",
+        "description": "A compiler in Raku",
+        "languages": {
+            "Raku": 5315,
+            "Perl": 181
+        }
+    },
+    {
+        "name": "test-mock",
+        "description": "Test::Mock - a module for simply generating and checking mock objects",
+        "languages": {
+            "Raku": 10096
+        }
+    },
+    {
+        "name": "HTTP-Easy",
+        "description": "Make HTTP servers (with PSGI support) easily with Raku",
+        "languages": {
+            "Raku": 9898
+        }
+    },
+    {
+        "name": "Color",
+        "description": "Raku module for format conversion and math operations on colours",
+        "languages": {
+            "Raku": 25383
+        }
+    },
+    {
+        "name": "Grammar-BNF",
+        "description": "Parse BNF and ABNF grammars and generate Perl 6 grammars from them",
+        "languages": {
+            "Raku": 42515
+        }
+    },
+    {
+        "name": "spreadsheet-xlsx",
+        "description": "Work with Excel (XLSX) spreadsheets in Raku.",
+        "languages": {
+            "Raku": 124028
+        }
+    },
+    {
+        "name": "sparky",
+        "description": "Lightweight CI server  and task runner ",
+        "languages": {
+            "Raku": 77202,
+            "JavaScript": 22659,
+            "Dockerfile": 2158,
+            "Shell": 916,
+            "CSS": 28
+        }
+    },
+    {
+        "name": "z",
+        "description": "Helper script for Rakudo core development",
+        "languages": {
+            "Raku": 16740
+        }
+    },
+    {
+        "name": "openssl",
+        "description": "OpenSSL bindings for Perl 6",
+        "languages": {
+            "Raku": 44116
+        }
+    },
+    {
+        "name": "raku-magickwand",
+        "description": "ImageMagick's MagickWand API Bindings for Raku",
+        "languages": {
+            "Raku": 360890
+        }
+    },
+    {
+        "name": "IRC-Client",
+        "description": "Raku module for building IRC (Internet Relay Chat) clients",
+        "languages": {
+            "Raku": 30645,
+            "Perl": 1238
+        }
+    },
+    {
+        "name": "kitchen-sink",
+        "description": "Everything but.",
+        "languages": {
+            "Raku": 81965,
+            "Haxe": 39315,
+            "JavaScript": 37377,
+            "Rust": 36374,
+            "Emacs Lisp": 34220,
+            "Red": 30010,
+            "TypeScript": 27446,
+            "Lua": 27116,
+            "Ruby": 26804,
+            "Nim": 21221,
+            "D": 16193,
+            "Swift": 9856,
+            "Common Lisp": 9217,
+            "Tcl": 8641,
+            "C++": 8063,
+            "Kotlin": 8031,
+            "Fennel": 7883,
+            "Rebol": 7848,
+            "Racket": 6013,
+            "C": 5936,
+            "Janet": 5398,
+            "Python": 4898,
+            "Odin": 4325,
+            "Scheme": 4120,
+            "Dart": 3032,
+            "PHP": 2956,
+            "Zig": 2932,
+            "OCaml": 2464,
+            "Go": 2409,
+            "Elixir": 2251,
+            "Julia": 2179,
+            "V": 2129,
+            "Roff": 1436,
+            "Perl": 1264,
+            "Elm": 1101,
+            "C#": 902,
+            "Shell": 719,
+            "Makefile": 401,
+            "Crystal": 353,
+            "HTML": 234,
+            "Awk": 225,
+            "Pascal": 155,
+            "Chapel": 145
+        }
+    },
+    {
+        "name": "perl6-libyaml",
+        "description": "libyaml rap group, it's a hit in lyon",
+        "languages": {
+            "Raku": 5630,
+            "C": 2571,
+            "Makefile": 466,
+            "Shell": 308
+        }
+    },
+    {
+        "name": "Sway-PreviewKeys",
+        "description": "Program for showing Sway window manager's key bindings associated with a mode",
+        "languages": {
+            "Raku": 15385
+        }
+    },
+    {
+        "name": "Text-Markov",
+        "description": "Markov-chain based text generator for Raku language. Generate superficially real-looking text.",
+        "languages": {
+            "Raku": 2215
+        }
+    },
+    {
+        "name": "jmp.nigelhamilton.com",
+        "description": "jmp - search files and jump to matching lines in a text editor",
+        "languages": {
+            "Raku": 26642
+        }
+    },
+    {
+        "name": "Matrix-Client",
+        "description": "Matrix client for Raku",
+        "languages": {
+            "Raku": 40706,
+            "Mustache": 5889
+        }
+    },
+    {
+        "name": "Karabiner-CompModGenerator",
+        "description": "Generate complex modifcations for the Karabiner-Elements app on macOS",
+        "languages": {
+            "Raku": 11590,
+            "Shell": 194
+        }
+    },
+    {
+        "name": "Template6",
+        "description": "Template6: A TT-like template engine for Raku",
+        "languages": {
+            "Raku": 17871
+        }
+    },
+    {
+        "name": "raku-selenium-webdriver",
+        "description": "Raku bindings for Selenium WebDriver",
+        "languages": {
+            "Raku": 29246
+        }
+    },
+    {
+        "name": "oo-monitors",
+        "description": "Monitors with condition variables for Raku",
+        "languages": {
+            "Raku": 6495
+        }
+    },
+    {
+        "name": "CSV",
+        "description": "Text::CSV for the Raku Programming Language",
+        "languages": {
+            "Raku": 242521,
+            "Perl": 27417,
+            "Rust": 3148,
+            "Makefile": 2940,
+            "C++": 789,
+            "C": 682,
+            "Shell": 618,
+            "Lua": 452,
+            "Java": 386,
+            "Go": 314,
+            "Python": 290,
+            "PHP": 267,
+            "Julia": 200,
+            "R": 163,
+            "Vim Script": 114,
+            "Ruby": 108
+        }
+    },
+    {
+        "name": "SDL2_raw-p6",
+        "description": "Low-level NativeCall binding to SDL2",
+        "languages": {
+            "Raku": 26318
+        }
+    },
+    {
+        "name": "Math-Symbolic",
+        "description": "Symbolic math for Raku",
+        "languages": {
+            "Raku": 65938,
+            "Shell": 115
+        }
+    },
+    {
+        "name": "Terminal-ANSIColor",
+        "description": "Colorize terminal output",
+        "languages": {
+            "Raku": 6632
+        }
+    },
+    {
+        "name": "JSON-RPC",
+        "description": "JSON-RPC client and server for Raku language.",
+        "languages": {
+            "Raku": 22011
+        }
+    },
+    {
+        "name": "SparrowCI",
+        "description": "SparrowCI - super fun and flexible CI system with many programming languages support",
+        "languages": {
+            "Raku": 76567,
+            "JavaScript": 27171,
+            "CSS": 984,
+            "Shell": 715
+        }
+    },
+    {
+        "name": "6pm",
+        "description": "A npm for perl6",
+        "languages": {
+            "Raku": 10134
+        }
+    },
+    {
+        "name": "sparrowdo",
+        "description": "Run Sparrow tasks remotely",
+        "languages": {
+            "Raku": 26717,
+            "Shell": 2847
+        }
+    },
+    {
+        "name": "ake",
+        "description": "A Raku make-a-like inspired by rake",
+        "languages": {
+            "Raku": 22082
+        }
+    },
+    {
+        "name": "learn-raku-by-examples",
+        "description": "Learn Raku By Examples",
+        "languages": {
+            "Raku": 468166
+        }
+    },
+    {
+        "name": "Web-App-MVC",
+        "description": "Build MVC Web Applications in Raku",
+        "languages": {
+            "Raku": 10958
+        }
+    },
+    {
+        "name": "raku-DOM-Tiny",
+        "description": "A lightweight HTML/XML parser and DOM manipulator",
+        "languages": {
+            "Raku": 216033
+        }
+    },
+    {
+        "name": "SuperMAIN",
+        "description": "Raku MAIN() with superpowers",
+        "languages": {
+            "Raku": 8950
+        }
+    },
+    {
+        "name": "CoreHackers-Sourcery",
+        "description": "Raku module: show source locations of core methods and subs",
+        "languages": {
+            "Raku": 3909
+        }
+    },
+    {
+        "name": "raku-study",
+        "description": "Exploratory programming using the Raku language",
+        "languages": {
+            "Raku": 783700,
+            "HTML": 601059,
+            "Perl": 127149,
+            "Emacs Lisp": 12439,
+            "Shell": 2781,
+            "Awk": 212
+        }
+    },
+    {
+        "name": "PDF-Grammar-raku",
+        "description": "Raku PDF Grammars - for content streams and overall file structure",
+        "languages": {
+            "Raku": 76784
+        }
+    },
+    {
+        "name": "XLSX-Writer",
+        "description": "Perl 6 wrapper for libxlsxwriter",
+        "languages": {
+            "Raku": 30399
+        }
+    },
+    {
+        "name": "Fluent",
+        "description": "An implementation of Project Fluent for Perl 6",
+        "languages": {
+            "Raku": 50952,
+            "Fluent": 1152,
+            "Perl": 379
+        }
+    },
+    {
+        "name": "Documentable",
+        "description": "Documentation API: caching, parsing, indexing and generating documentation",
+        "languages": {
+            "Raku": 113869,
+            "JavaScript": 58252,
+            "SCSS": 32730,
+            "Mustache": 4532,
+            "CoffeeScript": 2153,
+            "Dockerfile": 1212,
+            "HTML": 255
+        }
+    },
+    {
+        "name": "NativeLibs",
+        "description": "Native libraries utilities for Perl6",
+        "languages": {
+            "Raku": 9458,
+            "C": 140
+        }
+    },
+    {
+        "name": "Raku-Grammar--HTTP",
+        "description": "Raku HTTP request, response, and message body parsing grammar",
+        "languages": {
+            "Raku": 56706
+        }
+    },
+    {
+        "name": "Twitter",
+        "description": "Raku module: Twitter API",
+        "languages": {
+            "Raku": 20723
+        }
+    },
+    {
+        "name": "raku-Chart-Gnuplot",
+        "description": "A Raku naive Gnuplot bindings",
+        "languages": {
+            "Raku": 135442,
+            "Jupyter Notebook": 22335
+        }
+    },
+    {
+        "name": "raku-Physics-Measure",
+        "description": "do calculations on objects with value, units and error",
+        "languages": {
+            "Raku": 71879,
+            "Dockerfile": 271
+        }
+    },
+    {
+        "name": "raku-dbpg",
+        "description": "DB::Pg - PostgreSQL database interaction",
+        "languages": {
+            "Raku": 60438,
+            "Makefile": 935
+        }
+    },
+    {
+        "name": "p6-markdown",
+        "description": null,
+        "languages": {
+            "Raku": 33268
+        }
+    },
+    {
+        "name": "LibXML-raku",
+        "description": "Raku bindings to the libxml2 native library",
+        "languages": {
+            "Raku": 966854,
+            "C": 148896,
+            "Makefile": 6012,
+            "Perl": 997
+        }
+    },
+    {
+        "name": "cro-websocket",
+        "description": "Web socket support for the Cro library for building distributed systems in Raku.",
+        "languages": {
+            "Raku": 78200
+        }
+    },
+    {
+        "name": "p6-io-socket-async-ssl",
+        "description": "Asynchronous TLS sockets in Raku",
+        "languages": {
+            "Raku": 57966,
+            "Shell": 892
+        }
+    },
+    {
+        "name": "Test-META",
+        "description": "Test that a Perl 6 project has a good and proper META file",
+        "languages": {
+            "Raku": 12379
+        }
+    },
+    {
+        "name": "hygen-sanbox",
+        "description": null,
+        "languages": {
+            "Raku": 1933,
+            "JavaScript": 1466,
+            "Perl": 87
+        }
+    },
+    {
+        "name": "Template-Mojo",
+        "description": "A templating system for Raku similar to Perl's Mojo::Template",
+        "languages": {
+            "Raku": 5417,
+            "Tcl": 889
+        }
+    },
+    {
+        "name": "raku-dbsqlite",
+        "description": "SQLite access for Raku",
+        "languages": {
+            "Raku": 25372,
+            "Makefile": 1078
+        }
+    },
+    {
+        "name": "Cascade",
+        "description": "An esoteric language based on overlapping tree-like structures",
+        "languages": {
+            "Raku": 5705
+        }
+    },
+    {
+        "name": "advent-of-raku-2020",
+        "description": "Advent of Code solutions in the Raku programming language",
+        "languages": {
+            "Raku": 294945,
+            "Perl": 953
+        }
+    },
+    {
+        "name": "BasicTest",
+        "description": "A test module showing the integration of a foreign language with RakuAST and slangs",
+        "languages": {
+            "Raku": 21536
+        }
+    },
+    {
+        "name": "LearnRakuWith",
+        "description": "Learn Raku with interactive coding and a tight feedback loop",
+        "languages": {
+            "Raku": 18184
+        }
+    },
+    {
+        "name": "qutebrowser-userscripts",
+        "description": "userscripts for qutebrowser (written in Raku)",
+        "languages": {
+            "Raku": 11201
+        }
+    },
+    {
+        "name": "raku-all-modules",
+        "description": "Combination of all modules from the Raku ecosystem, for easier 'git grep'ability",
+        "languages": {
+            "Raku": 41321528,
+            "C++": 3793505,
+            "C": 3364629,
+            "HTML": 3330546,
+            "JavaScript": 3153840,
+            "ANTLR": 1318734,
+            "Perl": 670304,
+            "Makefile": 390529,
+            "Shell": 374577,
+            "Objective-C++": 256724,
+            "Python": 215100,
+            "Rich Text Format": 205211,
+            "CSS": 101359,
+            "Ruby": 74030,
+            "Jupyter Notebook": 57412,
+            "SCSS": 32825,
+            "Objective-C": 25413,
+            "Roff": 16902,
+            "Terra": 13766,
+            "Mustache": 12813,
+            "Gherkin": 11326,
+            "Dockerfile": 10486,
+            "QMake": 9403,
+            "Assembly": 8259,
+            "PowerShell": 7582,
+            "Rust": 6296,
+            "CMake": 3022,
+            "XSLT": 2854,
+            "Brainfuck": 2275,
+            "CoffeeScript": 2153,
+            "D": 2129,
+            "M4": 2114,
+            "Batchfile": 1620,
+            "Modula-3": 1341,
+            "Lua": 1024,
+            "Tcl": 889,
+            "Java": 772,
+            "Gnuplot": 762,
+            "Fortran": 725,
+            "PHP": 633,
+            "Go": 628,
+            "R": 326,
+            "TeX": 311,
+            "Visual Basic .NET": 250,
+            "Vim Script": 228,
+            "Closure Templates": 183,
+            "Classic ASP": 121,
+            "MAXScript": 14
+        }
+    },
+    {
+        "name": "hey_3",
+        "description": "Hey! An Interruption and Time Tracking Command line app.",
+        "languages": {
+            "Raku": 46282,
+            "Shell": 10369
+        }
+    },
+    {
+        "name": "Ddt",
+        "description": "Distribution Development Tool for the Perl 6 Programming Language ",
+        "languages": {
+            "Raku": 30859
+        }
+    },
+    {
+        "name": "p6-app-installermaker-wix",
+        "description": "Tool to make basic WiX installers for Perl 6 apps, bundling MoarVM/Rakudo.",
+        "languages": {
+            "Raku": 13544
+        }
+    },
+    {
+        "name": "Near-Threshold-SRAM",
+        "description": "This place provide different SRAM cells netlist to be simulated with HSpice tool in sub-20nm FinFET technologies.",
+        "languages": {
+            "Raku": 256139,
+            "SourcePawn": 23681,
+            "MATLAB": 2224,
+            "PHP": 2124,
+            "Python": 200,
+            "C++": 5
+        }
+    },
+    {
+        "name": "raku-log-async",
+        "description": "Thread-safe, asynchronous logging with Raku",
+        "languages": {
+            "Raku": 8221
+        }
+    },
+    {
+        "name": "getopt-long6",
+        "description": "A powerful getopt implementation for Raku",
+        "languages": {
+            "Raku": 43591
+        }
+    },
+    {
+        "name": "anthy",
+        "description": "neither for distributions nor practical use...",
+        "languages": {
+            "Raku": 4468585,
+            "Perl": 1932927,
+            "C": 910595,
+            "Shell": 332692,
+            "Makefile": 302191,
+            "Terra": 153177,
+            "Emacs Lisp": 80249,
+            "M4": 949
+        }
+    },
+    {
+        "name": "Raku-BusyIndicator",
+        "description": "Luxafor Indicators based on Google Calendar and Webcam Status",
+        "languages": {
+            "Raku": 32667,
+            "Shell": 492
+        }
+    },
+    {
+        "name": "cairo-p6",
+        "description": "A NativeCall binding to the Cairo 2d graphics library for Perl 6",
+        "languages": {
+            "Raku": 63142
+        }
+    },
+    {
+        "name": "perl6-gumbo",
+        "description": "Gumbo (a C lib to parse HTML5) perl6 binding",
+        "languages": {
+            "Raku": 24959,
+            "HTML": 923
+        }
+    },
+    {
+        "name": "Inline-C",
+        "description": "A Raku slang to allow embedding of C code",
+        "languages": {
+            "Raku": 2943
+        }
+    },
+    {
+        "name": "Intl-CLDR",
+        "description": "CLDR data for Raku",
+        "languages": {
+            "Raku": 427169,
+            "Perl": 1463
+        }
+    },
+    {
+        "name": "cro-webapp",
+        "description": "Utilities for building server-side web applications using Cro, including templating.",
+        "languages": {
+            "Raku": 88916
+        }
+    },
+    {
+        "name": "Blin",
+        "description": "\ud83e\udd5e Project Blin \u2013 Toasting Reinvented",
+        "languages": {
+            "Raku": 41410,
+            "Dockerfile": 1504,
+            "Shell": 192
+        }
+    },
+    {
+        "name": "Shell-DSL",
+        "description": "A Raku module that provides a shell-like experience for running external commands and redirecting their I/O's. A command's standard output can be captured, and commands can be connected to form a pipeline easily.",
+        "languages": {
+            "Raku": 33094,
+            "Shell": 1069
+        }
+    },
+    {
+        "name": "oo-actors",
+        "description": "Simple actors support for Perl 6.",
+        "languages": {
+            "Raku": 1667
+        }
+    },
+    {
+        "name": "jani-models",
+        "description": "A library of formal models in the jani-model format.",
+        "languages": {
+            "Raku": 330
+        }
+    },
+    {
+        "name": "Perl-6-Deep-Dive",
+        "description": "Perl 6 Deep Dive, published by Packt",
+        "languages": {
+            "Raku": 77222,
+            "Perl": 5634,
+            "C++": 117
+        }
+    },
+    {
+        "name": "cro-ldap",
+        "description": "LDAP support for the Cro library for building distributed systems in Raku",
+        "languages": {
+            "Raku": 109131,
+            "Perl": 4064
+        }
+    },
+    {
+        "name": "raku-manifest-stop-war",
+        "description": "Stop the war manifest in Raku",
+        "languages": {
+            "Raku": 3277
+        }
+    },
+    {
+        "name": "archvault",
+        "description": "Bootstrap Arch with FDE",
+        "languages": {
+            "Raku": 185825,
+            "Shell": 1818
+        }
+    },
+    {
+        "name": "Elvie",
+        "description": "Source files for the 'Elvie' cartoon series that appeared in Linux Voice magazine",
+        "languages": {
+            "Raku": 98
+        }
+    },
+    {
+        "name": "LOMN-Beta",
+        "description": "Everything you need to build the Beta version of The Legend of Mata Nui",
+        "languages": {
+            "Raku": 26624,
+            "Python": 23454,
+            "Terra": 14336,
+            "Makefile": 7860,
+            "Perl": 5120,
+            "Turing": 1024,
+            "Batchfile": 35
+        }
+    },
+    {
+        "name": "Raku-Steering-Council",
+        "description": "RSC Papers",
+        "languages": {
+            "Raku": 4313
+        }
+    },
+    {
+        "name": "tap-harness6",
+        "description": "A TAP harness for Raku",
+        "languages": {
+            "Raku": 40878
+        }
+    },
+    {
+        "name": "English-Chinese-Rakudocs",
+        "description": "English-Chinese translation of Raku documentation / Raku \u6587\u6863\u4e2d\u82f1\u6587\u5bf9\u7167\u7ffb\u8bd1",
+        "languages": {
+            "Raku": 2212422
+        }
+    },
+    {
+        "name": "io-socket-ssl",
+        "description": "IO::Socket::SSL for Perl 6 using OpenSSL",
+        "languages": {
+            "Raku": 7138
+        }
+    },
+    {
+        "name": "GlotIO",
+        "description": "Raku module implementing http://glot.io API",
+        "languages": {
+            "Raku": 11926
+        }
+    },
+    {
+        "name": "File-Find",
+        "description": "File::Find Raku module",
+        "languages": {
+            "Raku": 7008
+        }
+    },
+    {
+        "name": "p6-ecma262regex",
+        "description": "ECMA262Regex validation, parsing, and compilation",
+        "languages": {
+            "Raku": 12954
+        }
+    },
+    {
+        "name": "grammar-experimentation",
+        "description": "An experimental programming language containing a higher-order type system",
+        "languages": {
+            "Raku": 7196,
+            "JavaScript": 2059
+        }
+    },
+    {
+        "name": "raku-RaCoCo",
+        "description": "Raku Code Coverage tool.",
+        "languages": {
+            "Raku": 49819,
+            "HTML": 5850
+        }
+    },
+    {
+        "name": "Smack",
+        "description": "The reference implementation of RakuWAPI",
+        "languages": {
+            "Raku": 172762,
+            "HTML": 59
+        }
+    },
+    {
+        "name": "rakubrew.org",
+        "description": "rakubrew.org website",
+        "languages": {
+            "Raku": 11867,
+            "CSS": 3867,
+            "Shell": 2672,
+            "PowerShell": 1760,
+            "Batchfile": 1673,
+            "Dockerfile": 925
+        }
+    },
+    {
+        "name": "gcc-warnings-tools",
+        "description": "Scripts to parse and process gcc warning options.",
+        "languages": {
+            "Raku": 14926,
+            "C++": 7575,
+            "Makefile": 723
+        }
+    },
+    {
+        "name": "raku-toml",
+        "description": null,
+        "languages": {
+            "Raku": 28782,
+            "Perl": 6341
+        }
+    },
+    {
+        "name": "CSS-Grammar-raku",
+        "description": "Raku core CSS grammars",
+        "languages": {
+            "Raku": 51297,
+            "CSS": 29246
+        }
+    },
+    {
+        "name": "Raku-Text--Table--Simple",
+        "description": "Create basic tables from a two dimensional array",
+        "languages": {
+            "Raku": 5515
+        }
+    },
+    {
+        "name": "TinyID",
+        "description": "Shorten and obfuscate IDs in Raku language.",
+        "languages": {
+            "Raku": 794
+        }
+    },
+    {
+        "name": "RakuPowerTools",
+        "description": "The Perl Power Tools, but in Raku",
+        "languages": {
+            "Raku": 17435,
+            "Makefile": 47
+        }
+    },
+    {
+        "name": "META6",
+        "description": "Do things with Raku META files",
+        "languages": {
+            "Raku": 15919
+        }
+    },
+    {
+        "name": "G-TADS",
+        "description": "German Library Extension for TADS 3",
+        "languages": {
+            "Raku": 838618,
+            "HTML": 486297,
+            "Perl": 340897,
+            "C": 13600,
+            "Terra": 2265,
+            "Batchfile": 466
+        }
+    },
+    {
+        "name": "raku-HTTP-Tinyish",
+        "description": null,
+        "languages": {
+            "Raku": 9382
+        }
+    },
+    {
+        "name": "prism-benchmarks",
+        "description": "The PRISM benchmark suite: A set of probabilistic models and accompanying probabilistic model checking tasks for testing and benchmarking.",
+        "languages": {
+            "Raku": 118154,
+            "Pascal": 8385,
+            "Shell": 504
+        }
+    },
+    {
+        "name": "path-finder",
+        "description": "Iterative, recursive file finder for Perl 6",
+        "languages": {
+            "Raku": 50981
+        }
+    },
+    {
+        "name": "p6-ssh-libssh",
+        "description": "Asynchronous binding for libssh; client-only and limited functionality so far.",
+        "languages": {
+            "Raku": 51230
+        }
+    },
+    {
+        "name": "Term-Choose-p6",
+        "description": null,
+        "languages": {
+            "Raku": 150665
+        }
+    },
+    {
+        "name": "SCGI",
+        "description": "A SCGI library for Raku",
+        "languages": {
+            "Raku": 10214
+        }
+    },
+    {
+        "name": "p6-math-constants",
+        "description": "A few Mathematics and Physics constants",
+        "languages": {
+            "Raku": 12460,
+            "Python": 1030
+        }
+    },
+    {
+        "name": "Muldis_Data_Language",
+        "description": "Muldis Data Language (MDL) - Relational database application programming language",
+        "languages": {
+            "Raku": 70983
+        }
+    },
+    {
+        "name": "raku-file-which",
+        "description": "Cross platform Raku executable path finder (aka which on UNIX)",
+        "languages": {
+            "Raku": 8699,
+            "Shell": 109,
+            "Batchfile": 77
+        }
+    },
+    {
+        "name": "EventExpressionLanguage",
+        "description": null,
+        "languages": {
+            "Raku": 37261
+        }
+    },
+    {
+        "name": "perl6-csv-parser",
+        "description": null,
+        "languages": {
+            "Raku": 12199
+        }
+    },
+    {
+        "name": "biotope-generator",
+        "description": "A file generator for the biotope project written with plop",
+        "languages": {
+            "Raku": 8202,
+            "JavaScript": 4652,
+            "Perl": 2237
+        }
+    },
+    {
+        "name": "raku-Inline-J",
+        "description": "Use the J programming language inside Raku",
+        "languages": {
+            "Raku": 23652
+        }
+    },
+    {
+        "name": "EERPG",
+        "description": "EERPG - Emergent Economies for Role Playing Games",
+        "languages": {
+            "Raku": 39141
+        }
+    },
+    {
+        "name": "Chronic",
+        "description": "Scheduling thingy for Raku",
+        "languages": {
+            "Raku": 25617
+        }
+    },
+    {
+        "name": "PDF-Class-raku",
+        "description": "PDF Document Object Model (under construction)",
+        "languages": {
+            "Raku": 513621,
+            "Makefile": 993
+        }
+    },
+    {
+        "name": "p6-LogP6",
+        "description": "Full customizable logging library inspired by idea of separate logging and its configuration.",
+        "languages": {
+            "Raku": 123581,
+            "Perl": 12819
+        }
+    },
+    {
+        "name": "p6-HTTP-Parser",
+        "description": null,
+        "languages": {
+            "Raku": 8166
+        }
+    },
+    {
+        "name": "GeoIP2",
+        "description": "MaxMind GeoIP v2 libraries reader for Raku language.",
+        "languages": {
+            "Raku": 13011
+        }
+    },
+    {
+        "name": "zap-api-raku",
+        "description": "A Raku module for the OWASP ZAP API.",
+        "languages": {
+            "Raku": 109348
+        }
+    },
+    {
+        "name": "raku-pod-render",
+        "description": "Renders Raku POD to HTML, or MarkDown. GUI to take POD from a Module and create a README.md from it. Other output formats possible by changing templates",
+        "languages": {
+            "Raku": 183379,
+            "SCSS": 10265,
+            "CSS": 9489,
+            "CoffeeScript": 1221,
+            "Mustache": 1092
+        }
+    },
+    {
+        "name": "Shell-Command",
+        "description": "Provide cross-platform routines emulating common *NIX shell commands",
+        "languages": {
+            "Raku": 3223
+        }
+    },
+    {
+        "name": "jsonhound",
+        "description": "system for parsing JSON data structures and identifying anomalies",
+        "languages": {
+            "Raku": 28594,
+            "Perl": 954,
+            "Dockerfile": 161
+        }
+    },
+    {
+        "name": "p6-Email-MIME",
+        "description": "Port of Perl 5's Email::MIME",
+        "languages": {
+            "Raku": 29529
+        }
+    },
+    {
+        "name": "raku-primesieve",
+        "description": "Raku bindings for primesieve",
+        "languages": {
+            "Raku": 3158,
+            "Makefile": 995
+        }
+    },
+    {
+        "name": "MUGS",
+        "description": "MUGS root; includes docs and depends on all released repos",
+        "languages": {
+            "Raku": 3985,
+            "Dockerfile": 343
+        }
+    },
+    {
+        "name": "NTU_PhysicalDesign_201902",
+        "description": "\u5f35\u8000\u6587\u8001\u5e2b\u7684\"\u5948\u7c73\u7a4d\u9ad4\u96fb\u8def\u5be6\u9ad4\u8a2d\u8a08\"\u4f5c\u696d(Physical Design)",
+        "languages": {
+            "Raku": 1072668,
+            "Jupyter Notebook": 512044,
+            "Prolog": 445214,
+            "C++": 97674,
+            "Makefile": 1141,
+            "TeX": 155
         }
     }
 ]

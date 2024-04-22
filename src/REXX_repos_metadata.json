@@ -53,5 +53,1798 @@
         "languages": {
             "REXX": 1262080
         }
+    },
+    {
+        "name": "dbb",
+        "description": "The helpful and handy location for finding and sharing example IBM Dependency Based Build (DBB) scripts and snippets.",
+        "languages": {
+            "REXX": 1056820,
+            "Groovy": 265403,
+            "Shell": 180410,
+            "Game Maker Language": 141215,
+            "JCL": 13469,
+            "Java": 2919,
+            "COBOL": 1496,
+            "Assembly": 186
+        }
+    },
+    {
+        "name": "zorow",
+        "description": "z/OS Open Repository of Workflows (zorow), is an open source community dedicated to contributing and collaborating on z/OSMF workflows. Hosted by Open Mainframe Project",
+        "languages": {
+            "REXX": 174951,
+            "JCL": 117720,
+            "SQLPL": 20377,
+            "Shell": 19034
+        }
+    },
+    {
+        "name": "zos",
+        "description": "RACF and z/OS tools and info",
+        "languages": {
+            "REXX": 22862,
+            "C": 19879
+        }
+    },
+    {
+        "name": "IRRXUTIL",
+        "description": "z/OS ReXX IRRXUTIL samples",
+        "languages": {
+            "REXX": 17628
+        }
+    },
+    {
+        "name": "zOS-BCPii",
+        "description": "zOS Base Control Program internal interface",
+        "languages": {
+            "REXX": 567110,
+            "C++": 54858,
+            "C": 7594,
+            "JCL": 3717
+        }
+    },
+    {
+        "name": "da",
+        "description": "Mainframe Disassembler in REXX. This can be very handy for mainframe sites that have somehow lost the source code to an important executable. All you need to do is run the DA edit macro against the output from an AMBLIST module listing of the executable. It is an iterative process, but at the end of the day you will have an assembler source file that, when assembled, should recreate the executable load module. With some effort it should also be possible to reconstruct an equivalent high level language (COBOL, PLI, etc) source file from the assembly language source.",
+        "languages": {
+            "REXX": 559598
+        }
+    },
+    {
+        "name": "BREXXTODON",
+        "description": "A REXX based mastodon reader for MVS 3.8j",
+        "languages": {
+            "REXX": 17021
+        }
+    },
+    {
+        "name": "rexxxmlparser",
+        "description": "An XML parser written in the REXX programming language. It runs on mainframes (z/OS Rexx) as well as Windows and Linux (Regina or ooRexx).",
+        "languages": {
+            "REXX": 302324,
+            "Apex": 94797
+        }
+    },
+    {
+        "name": "t-rexx",
+        "description": "Unit testing framework for Rexx",
+        "languages": {
+            "REXX": 749,
+            "Batchfile": 500,
+            "Shell": 477
+        }
+    },
+    {
+        "name": "rexxpanels",
+        "description": "examples of how to get TSO panels to work with REXX",
+        "languages": {
+            "REXX": 342
+        }
+    },
+    {
+        "name": "rexx-repository",
+        "description": "Source and Library repository for all things Rexx",
+        "languages": {
+            "REXX": 5480048,
+            "C": 917010,
+            "Assembly": 795867,
+            "AngelScript": 410044,
+            "Batchfile": 402091,
+            "TeX": 281361,
+            "Visual Basic 6.0": 232904,
+            "Perl": 221633,
+            "Makefile": 219921,
+            "Apex": 216911,
+            "SWIG": 128882,
+            "CMake": 120287,
+            "C++": 83789,
+            "Raku": 61275,
+            "VBA": 36607,
+            "HTML": 29144,
+            "OpenEdge ABL": 17492,
+            "PLSQL": 13496,
+            "ObjectScript": 8228,
+            "Shell": 6710,
+            "POV-Ray SDL": 4320,
+            "R": 3158,
+            "Java": 2008
+        }
+    },
+    {
+        "name": "umadapple",
+        "description": "Bad Apple in Amiga Anim format, complete with a guide on how to make your own Sound Anims",
+        "languages": {
+            "REXX": 624517,
+            "Python": 186
+        }
+    },
+    {
+        "name": "Katabatia",
+        "description": "Rogue-like game for Commodore 64",
+        "languages": {
+            "REXX": 259,
+            "Batchfile": 166
+        }
+    },
+    {
+        "name": "CATMAP",
+        "description": "Map the catalog (i.e. find /) for z/OS",
+        "languages": {
+            "REXX": 16740
+        }
+    },
+    {
+        "name": "broadcom-product-scripts",
+        "description": "Samples for use cases involving Broadcom products",
+        "languages": {
+            "REXX": 698345,
+            "JCL": 213695,
+            "Java": 169071,
+            "COBOL": 141159,
+            "Assembly": 99548,
+            "Python": 62718,
+            "Shell": 55805,
+            "C": 7944,
+            "C++": 3376,
+            "Batchfile": 1522,
+            "Makefile": 1423,
+            "CSS": 246
+        }
+    },
+    {
+        "name": "ispftips",
+        "description": "ISPF Tips and Tricks for Developers",
+        "languages": {
+            "REXX": 558564
+        }
+    },
+    {
+        "name": "mainframe-misc",
+        "description": "Random small bits of useful things for mainframes (MVS 3.8J primarily). This repo will be moving to a new organization - \"FuzzyMainframes\".  This repo will be archived.",
+        "languages": {
+            "REXX": 4078
+        }
+    },
+    {
+        "name": "rex-build",
+        "description": "Rex Build and Test Scripts",
+        "languages": {
+            "REXX": 105223,
+            "Perl": 44297,
+            "Perl 6": 38196,
+            "Smarty": 5121,
+            "Makefile": 809,
+            "Shell": 469
+        }
+    },
+    {
+        "name": "rexx",
+        "description": "Exercism exercises in Rexx.",
+        "languages": {
+            "REXX": 640759,
+            "Batchfile": 371445,
+            "Shell": 352106,
+            "PowerShell": 1857
+        }
+    },
+    {
+        "name": "znetboot",
+        "description": "ZNETBOOT makes it easy to bring up Linux on z/VM",
+        "languages": {
+            "REXX": 26930
+        }
+    },
+    {
+        "name": "rexx-fan",
+        "description": "Stand-alone Rexx tools: ooRexx or Regina not limited to Windows NT",
+        "languages": {
+            "REXX": 1764604
+        }
+    },
+    {
+        "name": "SCEPSIS",
+        "description": "Simple CPU Emulator Program (Student Instruction System)",
+        "languages": {
+            "REXX": 111239,
+            "Batchfile": 5
+        }
+    },
+    {
+        "name": "Db2z",
+        "description": "Db2 z rexx codes ",
+        "languages": {
+            "REXX": 444509,
+            "Assembly": 10331
+        }
+    },
+    {
+        "name": "zpxe",
+        "description": "PXE-like network booting functionality for z/VM guests",
+        "languages": {
+            "REXX": 11443
+        }
+    },
+    {
+        "name": "Antenna",
+        "description": "Antenna Design with CST studio 2017",
+        "languages": {
+            "REXX": 64400,
+            "AMPL": 13699,
+            "CartoCSS": 166,
+            "Fantom": 158,
+            "Ada": 127
+        }
+    },
+    {
+        "name": "pdsegen",
+        "description": "PDSE Version 2 Member Generation ISPF Application",
+        "languages": {
+            "REXX": 1063192
+        }
+    },
+    {
+        "name": "rexxc",
+        "description": "REXX compiler in BREXX/Regina",
+        "languages": {
+            "REXX": 12580
+        }
+    },
+    {
+        "name": "racfadm",
+        "description": "User friendly RACF Administration and Reporting ISPF dialog",
+        "languages": {
+            "REXX": 1723629
+        }
+    },
+    {
+        "name": "Rosetta-Code-Research",
+        "description": "Exploiting Programming Languages Energy Consumption",
+        "languages": {
+            "REXX": 2248973,
+            "C": 1177221,
+            "Java": 1104148,
+            "Ada": 1049843,
+            "D": 1035741,
+            "Go": 1029326,
+            "Python": 929242,
+            "C++": 927552,
+            "Fortran": 812641,
+            "Tcl": 730046,
+            "Haskell": 712034,
+            "Racket": 705513,
+            "Perl 6": 623076,
+            "JavaScript": 596850,
+            "Common Lisp": 586797,
+            "Ruby": 565045,
+            "Scala": 519986,
+            "AutoHotkey": 514072,
+            "COBOL": 480736,
+            "Objective-J": 447338,
+            "Erlang": 398112,
+            "Forth": 385934,
+            "Perl": 380459,
+            "Pascal": 371366,
+            "JSONiq": 341859,
+            "Prolog": 315091,
+            "Lua": 298596,
+            "Nim": 295648,
+            "C#": 294848,
+            "Clojure": 294128,
+            "PicoLisp": 293119,
+            "AppleScript": 288030,
+            "Groovy": 268603,
+            "Visual Basic": 258012,
+            "Shell": 246564,
+            "PHP": 242188,
+            "MATLAB": 212841,
+            "Awk": 202572,
+            "Swift": 196852,
+            "R": 190313,
+            "Eiffel": 186877,
+            "CoffeeScript": 174291,
+            "Oz": 168741,
+            "Scheme": 166034,
+            "E": 151592,
+            "Objective-C": 145899,
+            "Ring": 128288,
+            "Lasso": 122943,
+            "Batchfile": 122508,
+            "Smalltalk": 115517,
+            "Factor": 108966,
+            "ActionScript": 91193,
+            "XSLT": 80891,
+            "M": 78405,
+            "Jasmin": 73820,
+            "GAP": 71256,
+            "Rebol": 68968,
+            "Standard ML": 66494,
+            "ABAP": 58273,
+            "Ceylon": 57555,
+            "Logtalk": 54233,
+            "Turing": 52001,
+            "Dart": 46165,
+            "Pike": 42036,
+            "Elm": 38280,
+            "Brainfuck": 35759,
+            "OCaml": 35589,
+            "M4": 33782,
+            "F#": 33403,
+            "ColdFusion": 33272,
+            "PostScript": 31462,
+            "PLSQL": 26995,
+            "Io": 25912,
+            "SAS": 21299,
+            "HyPhy": 20332,
+            "Game Maker Language": 19105,
+            "Clean": 18030,
+            "ECL": 17717,
+            "Vala": 17471,
+            "CMake": 16143,
+            "APL": 16140,
+            "LOLCODE": 15979,
+            "PureBasic": 13627,
+            "NewLisp": 13015,
+            "Mirah": 10988,
+            "LSL": 10926,
+            "VHDL": 9562,
+            "Verilog": 8107,
+            "Coq": 7439,
+            "Vim Script": 7225,
+            "Pony": 6457,
+            "SQLPL": 5769,
+            "TeX": 5610,
+            "Makefile": 5592,
+            "Shen": 5411,
+            "Red": 5402,
+            "Fantom": 5138,
+            "XQuery": 4533,
+            "Self": 3943,
+            "Dylan": 3562,
+            "Hy": 3559,
+            "Zimpl": 3512,
+            "PLpgSQL": 3279,
+            "Lex": 3162,
+            "ooc": 3040,
+            "HTML": 2949,
+            "Moocode": 2931,
+            "Mercury": 2487,
+            "Emacs Lisp": 2449,
+            "IDL": 2410,
+            "Parrot": 2385,
+            "Julia": 2238,
+            "Roff": 2161,
+            "Agda": 1861,
+            "OpenSCAD": 1824,
+            "Arc": 1677,
+            "Mathematica": 1637,
+            "XProc": 1143,
+            "Rust": 1104,
+            "GLSL": 1076,
+            "MoonScript": 897,
+            "Squirrel": 896,
+            "Limbo": 645,
+            "AMPL": 604,
+            "Boo": 595,
+            "Nit": 532,
+            "J": 442,
+            "Gnuplot": 410,
+            "Elixir": 305,
+            "Nix": 263,
+            "QMake": 147,
+            "Opa": 74,
+            "DTrace": 71
+        }
+    },
+    {
+        "name": "synchronize",
+        "description": "Very simple synchronization tool based on ssh keeping track of the file changes in a remote and a local system",
+        "languages": {
+            "REXX": 18408,
+            "C++": 12840,
+            "R": 2358,
+            "Makefile": 1210
+        }
+    },
+    {
+        "name": "zfstools",
+        "description": "Useful ZFS Tools for use under ISPF",
+        "languages": {
+            "REXX": 186775
+        }
+    },
+    {
+        "name": "REXX-tools",
+        "description": null,
+        "languages": {
+            "REXX": 1335
+        }
+    },
+    {
+        "name": "CSM-Rexx-Collection",
+        "description": "Collection of z/OS Rexx scripts and tools for automation of IBM Copy Services Manager",
+        "languages": {
+            "REXX": 304784
+        }
+    },
+    {
+        "name": "CBTView",
+        "description": "The Official CBT ISPF Dialog - Quick and Easy Access to the CBTTape from ISPF",
+        "languages": {
+            "REXX": 603916
+        }
+    },
+    {
+        "name": "ai-challenge",
+        "description": null,
+        "languages": {
+            "REXX": 1172269,
+            "C": 658108,
+            "Java": 631822,
+            "Go": 599221,
+            "D": 582478,
+            "C++": 577377,
+            "Ada": 516106,
+            "Python": 432402,
+            "Racket": 424358,
+            "Tcl": 407530,
+            "AutoHotkey": 364719,
+            "Haskell": 359103,
+            "Common Lisp": 331216,
+            "JavaScript": 316910,
+            "Scala": 301887,
+            "Ruby": 300664,
+            "Perl 6": 295171,
+            "PicoLisp": 194612,
+            "Nim": 178991,
+            "Clojure": 178977,
+            "Jupyter Notebook": 176635,
+            "Objective-J": 140603,
+            "Jasmin": 25919,
+            "OCaml": 5560,
+            "NewLisp": 3694,
+            "Shell": 2115,
+            "Makefile": 1825,
+            "Lex": 825,
+            "Roff": 803,
+            "J": 149
+        }
+    },
+    {
+        "name": "ezmenu",
+        "description": "New Simplified ISPF Menu Creation",
+        "languages": {
+            "REXX": 96644
+        }
+    },
+    {
+        "name": "Learn-REXX",
+        "description": "A repository for showcasing my knowledge of the REXX programming language, and continuing to learn the language.",
+        "languages": {
+            "REXX": 426248
+        }
+    },
+    {
+        "name": "IBMIMBI",
+        "description": "Research on IBM i PASE",
+        "languages": {
+            "REXX": 31997,
+            "CLIPS": 4337,
+            "Batchfile": 213
+        }
+    },
+    {
+        "name": "GraphicsTablet36Notes",
+        "description": "36\u8bb0\u667a\u80fd\u7b14\u8bb0\u672c\u7b2c\u4e09\u65b9\u9a71\u52a8\u7a0b\u5e8f",
+        "languages": {
+            "REXX": 96601,
+            "R": 73397,
+            "C": 29459,
+            "C++": 3885
+        }
+    },
+    {
+        "name": "zUTILS",
+        "description": "Utilities i developed for system setup",
+        "languages": {
+            "REXX": 34937,
+            "C": 1824
+        }
+    },
+    {
+        "name": "rexx-repository",
+        "description": "Source and libraries for all things Rexx ",
+        "languages": {
+            "REXX": 2881204,
+            "C": 529533,
+            "Makefile": 194786,
+            "Apex": 159597,
+            "CMake": 120287,
+            "Rebol": 66191,
+            "Visual Basic": 44837,
+            "R": 42382,
+            "C++": 41051,
+            "HTML": 29144,
+            "PLSQL": 13496,
+            "Shell": 2307,
+            "Java": 2008,
+            "Batchfile": 410
+        }
+    },
+    {
+        "name": "whoson",
+        "description": "Display all TSO users by LPAR across SYSPLEX",
+        "languages": {
+            "REXX": 12620
+        }
+    },
+    {
+        "name": "octamed-arexx-repo",
+        "description": "my ARexx scripts for OctaMED SoundStudio",
+        "languages": {
+            "REXX": 16149,
+            "Assembly": 4310
+        }
+    },
+    {
+        "name": "aux2svg",
+        "description": "This converts a CICS Auxiliary Trace print file into an html file that can be viewed with a web browser. Scalable Vector Graphics (SVG) is used to display a UML Sequence Diagram that represents the trace. This allows you to quickly diagnose IBM CICS Transaction Server issues.",
+        "languages": {
+            "REXX": 155744
+        }
+    },
+    {
+        "name": "ims-zosmf-dbdc",
+        "description": "Provision a full IMS TM/DB system using z/OSMF Cloud Provisioning and Management ",
+        "languages": {
+            "REXX": 10025
+        }
+    },
+    {
+        "name": "Amiga-ADPro-Toaster-SANYO-GVR-S950",
+        "description": "Amiga Arexx scripts integrating Art Department Pro, Video Toaster, and Sanyo GVRS-950 SVHS single-frame video recorder.",
+        "languages": {
+            "REXX": 18761
+        }
+    },
+    {
+        "name": "VTE-CAD-CAM-System",
+        "description": "A CAD/CAM soloution for GDDM on mainframes",
+        "languages": {
+            "REXX": 5626
+        }
+    },
+    {
+        "name": "dicts",
+        "description": "dicts for RHVoice",
+        "languages": {
+            "REXX": 182102,
+            "Batchfile": 16270
+        }
+    },
+    {
+        "name": "Treasure",
+        "description": "A simple z/OS Mainframe game written in REXX",
+        "languages": {
+            "REXX": 22441
+        }
+    },
+    {
+        "name": "GPRUsingHornAntenna",
+        "description": "Ground Penetration Radar Using Horn Antenna",
+        "languages": {
+            "REXX": 10810,
+            "AMPL": 6621,
+            "MATLAB": 1539,
+            "CartoCSS": 166,
+            "Fantom": 158,
+            "Ada": 127
+        }
+    },
+    {
+        "name": "SNU_2D_ProgrammingTools_IDE_Rexx",
+        "description": "The Rexx Programming language IDE submodule for SNU Programming Tools (2D Mode) ",
+        "languages": {
+            "REXX": 431740
+        }
+    },
+    {
+        "name": "CRISP-R",
+        "description": "REXX, zOS, REPLACE, JSON TO STEM",
+        "languages": {
+            "REXX": 12785
+        }
+    },
+    {
+        "name": "RxMacroLib",
+        "description": "Rexx Macro Space based framework for OS/2 REXX developers.",
+        "languages": {
+            "REXX": 26924
+        }
+    },
+    {
+        "name": "ispfllv",
+        "description": "ISPF ISPLIST/ISPLOG Sysout Viewer",
+        "languages": {
+            "REXX": 74324
+        }
+    },
+    {
+        "name": "MVS_BBS",
+        "description": "a BBS for MVS 3.8",
+        "languages": {
+            "REXX": 2846
+        }
+    },
+    {
+        "name": "Pashua-Binding-Rexx",
+        "description": "Rexx binding for Pashua",
+        "languages": {
+            "REXX": 6625
+        }
+    },
+    {
+        "name": "Rexx",
+        "description": null,
+        "languages": {
+            "REXX": 5314
+        }
+    },
+    {
+        "name": "ztsohelp",
+        "description": "ISPF Dialog to simplify access to TSO Help information",
+        "languages": {
+            "REXX": 538097
+        }
+    },
+    {
+        "name": "ZCCREXX",
+        "description": "REXX productivity tool for calling IBM CCA API on z/OS",
+        "languages": {
+            "REXX": 520
+        }
+    },
+    {
+        "name": "ftpb",
+        "description": "ISPF Dialog to drive FTP - both foreground and batch",
+        "languages": {
+            "REXX": 74324
+        }
+    },
+    {
+        "name": "xmitip",
+        "description": "z/OS e-mail client",
+        "languages": {
+            "REXX": 1829892,
+            "Assembly": 160460
+        }
+    },
+    {
+        "name": "some-rexx-scripts",
+        "description": null,
+        "languages": {
+            "REXX": 5910
+        }
+    },
+    {
+        "name": "piv",
+        "description": "PIV is a REXX procedure that you can run in batch to verify that a z/OS system is in the state you expect it to be after making a change.",
+        "languages": {
+            "REXX": 61863
+        }
+    },
+    {
+        "name": "zVM-Automation-Scripts",
+        "description": "All my day to day z/VM administration automation scripts",
+        "languages": {
+            "REXX": 14952
+        }
+    },
+    {
+        "name": "RexxProject",
+        "description": null,
+        "languages": {
+            "REXX": 9456
+        }
+    },
+    {
+        "name": "RosettaCodeContributions",
+        "description": "Contributions I've made and extracts from the RosettaCode programming chrestomathy site.",
+        "languages": {
+            "REXX": 867989,
+            "Java": 214933,
+            "C": 54568,
+            "Perl": 42372,
+            "C++": 24540,
+            "HTML": 23945,
+            "Python": 21525,
+            "Ruby": 9231,
+            "Awk": 3112,
+            "Shell": 2674,
+            "Fortran": 2418,
+            "Raku": 1152,
+            "JavaScript": 1096
+        }
+    },
+    {
+        "name": "sharevar",
+        "description": "Share REXX Variables, and stems, between REXX Execs",
+        "languages": {
+            "REXX": 28960
+        }
+    },
+    {
+        "name": "aoc2020",
+        "description": "Advent of Code 2020",
+        "languages": {
+            "REXX": 2930
+        }
+    },
+    {
+        "name": "zCS-SMF",
+        "description": "A little tool for analysing SMF 119 records from z/OS Communications Server IP Services",
+        "languages": {
+            "REXX": 34268,
+            "JCL": 2175
+        }
+    },
+    {
+        "name": "ff.pam",
+        "description": "FFmpeg Rexx + NT shell scripts (not only) based on the PAM (Portable Arbitrary Map) format",
+        "languages": {
+            "REXX": 126063,
+            "Batchfile": 46628
+        }
+    },
+    {
+        "name": "NikomStat",
+        "description": "(Swedish) Genererar statistik f\u00f6r BBS-systemet Nikom",
+        "languages": {
+            "REXX": 9507
+        }
+    },
+    {
+        "name": "sdsfxdd",
+        "description": "Extract Spool Files to Datasets using SDSF - Generalized",
+        "languages": {
+            "REXX": 22471
+        }
+    },
+    {
+        "name": "MigratingzPDT",
+        "description": "Files used to migrate to a new level of z/OS on zPDT and ADCD",
+        "languages": {
+            "REXX": 8046,
+            "JCL": 7751
+        }
+    },
+    {
+        "name": "zinstall",
+        "description": "ZIGI Installation and ISPF Statistics Utilities",
+        "languages": {
+            "REXX": 76085
+        }
+    },
+    {
+        "name": "KEXX",
+        "description": "KEDIT macro collection",
+        "languages": {
+            "REXX": 768981,
+            "IDL": 2581
+        }
+    },
+    {
+        "name": "getipldt",
+        "description": "Display IPL Date/Time/Release for All LPARs in SYSPLEX",
+        "languages": {
+            "REXX": 2601
+        }
+    },
+    {
+        "name": "omvsman",
+        "description": "OMVS Manpage ISPF Dialog - view and search",
+        "languages": {
+            "REXX": 74324
+        }
+    },
+    {
+        "name": "Goodies",
+        "description": "Various tools to make z/OS and associated products easier to use",
+        "languages": {
+            "REXX": 24954,
+            "Python": 2966
+        }
+    },
+    {
+        "name": "SPFPVv122",
+        "description": "SPF/PC v1.2.2",
+        "languages": {
+            "REXX": 13490
+        }
+    },
+    {
+        "name": "unloaddb2-samples",
+        "description": null,
+        "languages": {
+            "REXX": 2175
+        }
+    },
+    {
+        "name": "ZabbiZ-CE",
+        "description": "Public reporitory for ZabbiZ-CE",
+        "languages": {
+            "REXX": 39448
+        }
+    },
+    {
+        "name": "z-zos",
+        "description": null,
+        "languages": {
+            "REXX": 761750,
+            "Assembly": 366024,
+            "COBOL": 346869,
+            "C": 283963,
+            "HTML": 276808,
+            "TypeScript": 71770,
+            "Python": 45180,
+            "Shell": 14348,
+            "Java": 13165,
+            "Makefile": 5769,
+            "Roff": 5616,
+            "Perl": 4681,
+            "CSS": 4326,
+            "JavaScript": 3254
+        }
+    },
+    {
+        "name": "aoc2022",
+        "description": "Advent of Code 2022",
+        "languages": {
+            "REXX": 44736,
+            "Python": 13757
+        }
+    },
+    {
+        "name": "cmstar",
+        "description": "CMS TAR",
+        "languages": {
+            "REXX": 49555
+        }
+    },
+    {
+        "name": "githelp",
+        "description": "ISPF application to display git help information",
+        "languages": {
+            "REXX": 31631
+        }
+    },
+    {
+        "name": "Rexx2Cobol",
+        "description": "A simple, effective and extensible Rexx script that generates useful COBOL routines using ZOWE CLI",
+        "languages": {
+            "REXX": 23900
+        }
+    },
+    {
+        "name": "txt2pdf",
+        "description": "Covert z/OS data to PDF",
+        "languages": {
+            "REXX": 613779,
+            "Assembly": 108053
+        }
+    },
+    {
+        "name": "IBM-Z-zOS",
+        "description": null,
+        "languages": {
+            "REXX": 743631,
+            "Java": 509467,
+            "Assembly": 369357,
+            "C": 347439,
+            "COBOL": 346869,
+            "HTML": 276808,
+            "TypeScript": 71770,
+            "Python": 45180,
+            "JCL": 20198,
+            "Shell": 15859,
+            "Makefile": 8424,
+            "Roff": 5616,
+            "Perl": 4681,
+            "CSS": 4326,
+            "JavaScript": 3254,
+            "C++": 1668
+        }
+    },
+    {
+        "name": "smallhexrexx",
+        "description": "school project",
+        "languages": {
+            "REXX": 466
+        }
+    },
+    {
+        "name": "only",
+        "description": null,
+        "languages": {
+            "REXX": 22476
+        }
+    },
+    {
+        "name": "batch_patching",
+        "description": null,
+        "languages": {
+            "REXX": 331020,
+            "Jinja": 48806
+        }
+    },
+    {
+        "name": "imc-editmacs",
+        "description": "ISPF Master Class - Edit Macros Examples",
+        "languages": {
+            "REXX": 39723
+        }
+    },
+    {
+        "name": "REXX",
+        "description": null,
+        "languages": {
+            "REXX": 252606,
+            "HTML": 229092,
+            "CSS": 3797,
+            "Batchfile": 124
+        }
+    },
+    {
+        "name": "GDDM",
+        "description": "All Comunity Made GDDM Projects in one collection",
+        "languages": {
+            "REXX": 1265
+        }
+    },
+    {
+        "name": "zBimEditProcedures",
+        "description": "These Procedures and Data Members are for use with the z/VSE version of the BIM-EDIT Program Product from Connectivity Systems International.",
+        "languages": {
+            "REXX": 13718
+        }
+    },
+    {
+        "name": "splunk-common-commands",
+        "description": null,
+        "languages": {
+            "REXX": 512
+        }
+    },
+    {
+        "name": "relpdse",
+        "description": "ISPF command in REXX to do a partial space release of a PDSE",
+        "languages": {
+            "REXX": 5151
+        }
+    },
+    {
+        "name": "master_the_mainframe_2018_final_challenge",
+        "description": "Repository with all REXX and JCL code of part 3 challenge 15, reviewed. ",
+        "languages": {
+            "REXX": 10716
+        }
+    },
+    {
+        "name": "zsync",
+        "description": "ISPF application to sync two partitioned dataset",
+        "languages": {
+            "REXX": 69262
+        }
+    },
+    {
+        "name": "ElectromagneticAntennaDesigns",
+        "description": "Antennas developed for the transmission, reflection and distribution of electromagnetic waves.",
+        "languages": {
+            "REXX": 144782,
+            "AMPL": 75897,
+            "Dylan": 948,
+            "Fantom": 948,
+            "CartoCSS": 830,
+            "Ada": 762
+        }
+    },
+    {
+        "name": "lstproc",
+        "description": "Dynamically Determine System Proclibs and Display using ISRDDN",
+        "languages": {
+            "REXX": 73071
+        }
+    },
+    {
+        "name": "CalculatorREXX",
+        "description": null,
+        "languages": {
+            "REXX": 8872
+        }
+    },
+    {
+        "name": "AccidentalPrject",
+        "description": null,
+        "languages": {
+            "REXX": 35
+        }
+    },
+    {
+        "name": "edsl",
+        "description": "Enhanced Data Set List ISPF Dialog",
+        "languages": {
+            "REXX": 150210
+        }
+    },
+    {
+        "name": "mtm2019-p3ch15",
+        "description": "Submission for part 3, challenge 15 of Master the Mainframe 2019.",
+        "languages": {
+            "REXX": 76006
+        }
+    },
+    {
+        "name": "d88-rexx",
+        "description": "Handle D88 disk images. WIP.",
+        "languages": {
+            "REXX": 7188
+        }
+    },
+    {
+        "name": "Rexx",
+        "description": "Aprendizaje del Lenguaje Rexx",
+        "languages": {
+            "REXX": 2691
+        }
+    },
+    {
+        "name": "IOCDS-2-XLS",
+        "description": "This tool combines a REXX Exec: \u201cIOCDS 2 XLS.REX\u201d, which runs under the OOREXX interpreter on Windows, and a VBA, which is a script in the spreadsheet: \u201cIOCDS VBA2.xls\u201d to convert an IOCDS deck (in plain text) into an Excel spreadsheet.",
+        "languages": {
+            "REXX": 5851
+        }
+    },
+    {
+        "name": "Unknown-Coaxial-Cable-Dielectric-Constant-Measurement",
+        "description": "The Course Project of Electromagnetics",
+        "languages": {
+            "REXX": 295360,
+            "AMPL": 261916,
+            "VBA": 13392,
+            "TeX": 12286,
+            "CartoCSS": 664,
+            "Dylan": 632,
+            "Fantom": 632,
+            "Ada": 508
+        }
+    },
+    {
+        "name": "savelab",
+        "description": "SAVELAB - Save, Restore, and Manage saved ISPF Edit Labels",
+        "languages": {
+            "REXX": 74324
+        }
+    },
+    {
+        "name": "plpispf",
+        "description": "Product Launch Point (PLP) - a dynamic ISPF menu system",
+        "languages": {
+            "REXX": 55982
+        }
+    },
+    {
+        "name": "zstart",
+        "description": "Update and Manage the ISPF ZSTART auto-start variable",
+        "languages": {
+            "REXX": 56430
+        }
+    },
+    {
+        "name": "tryit",
+        "description": "TRYIT - ISPF Edit Macro to trying out REXX, Panels, etc. while in Edit.",
+        "languages": {
+            "REXX": 74324
+        }
+    },
+    {
+        "name": "netrc",
+        "description": "Simple ISPF Dialog to manage a users NETRC dataset",
+        "languages": {
+            "REXX": 79730
+        }
+    },
+    {
+        "name": "altlibst",
+        "description": "Display active ALTLIB allocations",
+        "languages": {
+            "REXX": 2925
+        }
+    },
+    {
+        "name": "MiniLabs",
+        "description": "Evil Mainframe Mini Labs",
+        "languages": {
+            "REXX": 64980,
+            "Python": 43658
+        }
+    },
+    {
+        "name": "chrysopoeia",
+        "description": "Metallurgy",
+        "languages": {
+            "REXX": 8154
+        }
+    },
+    {
+        "name": "ShapesInfo",
+        "description": "Get information and (optionally) display Blitz Basic 2 \"shapes\" files in a shell window",
+        "languages": {
+            "REXX": 3503
+        }
+    },
+    {
+        "name": "Autonomic",
+        "description": "enlaces de c\u00f3digo",
+        "languages": {
+            "REXX": 22723,
+            "Kotlin": 6745,
+            "Raku": 6318,
+            "Pony": 6073,
+            "Java": 4386,
+            "LFE": 4352,
+            "Python": 3589,
+            "Groovy": 3012,
+            "Rust": 2962,
+            "C#": 2739,
+            "Visual Basic .NET": 2605,
+            "Ada": 2530,
+            "C++": 2266,
+            "COBOL": 2246,
+            "Standard ML": 1428,
+            "Shell": 1278,
+            "D": 1113,
+            "Clojure": 850,
+            "ABAP": 848,
+            "HTML": 822,
+            "Verilog": 648,
+            "R": 524,
+            "Awk": 501,
+            "Erlang": 486,
+            "V": 479,
+            "Curry": 433,
+            "Scheme": 429,
+            "Crystal": 421,
+            "Red": 355
+        }
+    },
+    {
+        "name": "MTM-2019",
+        "description": "My entry for IBM's Master the Mainframe 2019 Part 3 Challenge 15. Two simple reports to mess around with REXX and learn more about z/OS.",
+        "languages": {
+            "REXX": 12275
+        }
+    },
+    {
+        "name": "zowe-gse-uk",
+        "description": null,
+        "languages": {
+            "REXX": 20
+        }
+    },
+    {
+        "name": "rexx-monitor",
+        "description": "Moniteur cod\u00e9 en Rexx",
+        "languages": {
+            "REXX": 728092,
+            "C": 4517,
+            "Shell": 2369
+        }
+    },
+    {
+        "name": "Rexx",
+        "description": null,
+        "languages": {
+            "REXX": 11948
+        }
+    },
+    {
+        "name": "Luhn-compatible-credit-cards",
+        "description": "A Rexx program that generates Luhn compatible credit cards on the fly",
+        "languages": {
+            "REXX": 1860
+        }
+    },
+    {
+        "name": "pdsync",
+        "description": null,
+        "languages": {
+            "REXX": 22338
+        }
+    },
+    {
+        "name": "pdsb4g",
+        "description": "PDS Bridge for GIT",
+        "languages": {
+            "REXX": 12120
+        }
+    },
+    {
+        "name": "demo-stuart",
+        "description": "Just a demo",
+        "languages": {
+            "REXX": 271785
+        }
+    },
+    {
+        "name": "Rexx-scripts",
+        "description": null,
+        "languages": {
+            "REXX": 1151
+        }
+    },
+    {
+        "name": "rexx",
+        "description": null,
+        "languages": {
+            "REXX": 6972
+        }
+    },
+    {
+        "name": "PPI-Principles-of-Computer-Engineering",
+        "description": "FIIT STU 1. Semester",
+        "languages": {
+            "REXX": 2650
+        }
+    },
+    {
+        "name": "imc-lists",
+        "description": "ISPF Master Class - DSLISTs, Member Lists, and UDLISTs (Oh My!) Example execs",
+        "languages": {
+            "REXX": 30397
+        }
+    },
+    {
+        "name": "dbb_personal",
+        "description": null,
+        "languages": {
+            "REXX": 1046075,
+            "Groovy": 389340,
+            "COBOL": 357778,
+            "Game Maker Language": 141215,
+            "Java": 28535,
+            "Shell": 14996,
+            "Assembly": 7953,
+            "JavaScript": 7437,
+            "Python": 1758,
+            "HTML": 801,
+            "CSS": 519
+        }
+    },
+    {
+        "name": "dbb-chg",
+        "description": null,
+        "languages": {
+            "REXX": 1046075,
+            "Groovy": 237730,
+            "Game Maker Language": 141215,
+            "Shell": 12574,
+            "COBOL": 1496,
+            "Assembly": 186
+        }
+    },
+    {
+        "name": "devbuild-rexx",
+        "description": "software dev build rex active microsoft Rexx language",
+        "languages": {
+            "REXX": 4359
+        }
+    },
+    {
+        "name": "running-exec",
+        "description": "Exec      Article     Talk      Read     Edit     View history",
+        "languages": {
+            "REXX": 6120
+        }
+    },
+    {
+        "name": "devcups-rexx",
+        "description": "CUPS      Article     Talk      Read     Edit     View history",
+        "languages": {
+            "REXX": 2460
+        }
+    },
+    {
+        "name": "CBT434",
+        "description": "Mark Zelden collection of Utilities and execs",
+        "languages": {
+            "REXX": 197
+        }
+    },
+    {
+        "name": "Rexx",
+        "description": "Some IBM Mainframe Rexx scripts that I have knocked out along the way",
+        "languages": {
+            "REXX": 5020
+        }
+    },
+    {
+        "name": "LearningREXX",
+        "description": null,
+        "languages": {
+            "REXX": 3905
+        }
+    },
+    {
+        "name": "MQRACF",
+        "description": "Files and utilities making it easier to use MQ on z/OS",
+        "languages": {
+            "REXX": 5030
+        }
+    },
+    {
+        "name": "Rexim-Assembler",
+        "description": null,
+        "languages": {
+            "REXX": 8342
+        }
+    },
+    {
+        "name": "dbb2",
+        "description": null,
+        "languages": {
+            "REXX": 409335,
+            "Groovy": 376672,
+            "COBOL": 358061,
+            "Game Maker Language": 61713,
+            "Java": 28535,
+            "Shell": 18933,
+            "Assembly": 7953,
+            "JavaScript": 7437,
+            "Python": 1758,
+            "HTML": 801,
+            "CSS": 519
+        }
+    },
+    {
+        "name": "aoc-2021",
+        "description": "Advent of Code 2021",
+        "languages": {
+            "REXX": 10239
+        }
+    },
+    {
+        "name": "OREXXGON",
+        "description": null,
+        "languages": {
+            "REXX": 16582
+        }
+    },
+    {
+        "name": "Hangman-REXX-TSO-ISPF",
+        "description": null,
+        "languages": {
+            "REXX": 2927
+        }
+    },
+    {
+        "name": "dbb-new",
+        "description": null,
+        "languages": {
+            "REXX": 1046075,
+            "Groovy": 237730,
+            "Game Maker Language": 141215,
+            "Shell": 12574,
+            "COBOL": 1496,
+            "Assembly": 186
+        }
+    },
+    {
+        "name": "MenuManagerSamples",
+        "description": "Samples used in the IBM Developer for z/OS Menu Manager documentation",
+        "languages": {
+            "REXX": 72
+        }
+    },
+    {
+        "name": "IR-Network-Server",
+        "description": "Internet Relay Chat Protocol",
+        "languages": {
+            "REXX": 5080,
+            "JavaScript": 641,
+            "Python": 624,
+            "R": 440,
+            "D": 324,
+            "C++": 317
+        }
+    },
+    {
+        "name": "devcall-rexx",
+        "description": "Call      Article     Talk      Read     Edit     View history",
+        "languages": {
+            "REXX": 1108
+        }
+    },
+    {
+        "name": "CBT788",
+        "description": "MA1K Application for MQ series by C.Schneiderwent",
+        "languages": {
+            "REXX": 3012
+        }
+    },
+    {
+        "name": "AOC23",
+        "description": null,
+        "languages": {
+            "REXX": 3218
+        }
+    },
+    {
+        "name": "AmigaPouetDownloader",
+        "description": "Pouet scraper on arexx for classic amigas",
+        "languages": {
+            "REXX": 10667,
+            "JavaScript": 4013,
+            "Dockerfile": 122
+        }
+    },
+    {
+        "name": "inews",
+        "description": "ISPF News Dialog",
+        "languages": {
+            "REXX": 74765
+        }
+    },
+    {
+        "name": "TextTools",
+        "description": "Set of Text Tools supporting different RexxLA implementations",
+        "languages": {
+            "REXX": 6708
+        }
+    },
+    {
+        "name": "Number1_Share",
+        "description": "Simple Brightside Rexx Pipeline Project",
+        "languages": {
+            "REXX": 21606
+        }
+    },
+    {
+        "name": "bbsdocs",
+        "description": "Bulletin Board Software and supplemental development documentation and notes.",
+        "languages": {
+            "REXX": 124925,
+            "HTML": 96100,
+            "Makefile": 9160,
+            "SCSS": 7585,
+            "Ruby": 1016
+        }
+    },
+    {
+        "name": "ITAU-SetUp",
+        "description": "ITAU Demo set up files",
+        "languages": {
+            "REXX": 4626
+        }
+    },
+    {
+        "name": "Planer-inverted-F-antenns-cst-project-",
+        "description": null,
+        "languages": {
+            "REXX": 104471,
+            "AMPL": 58531,
+            "Standard ML": 1655,
+            "CartoCSS": 166,
+            "Dylan": 158,
+            "Fantom": 158,
+            "Ada": 127
+        }
+    },
+    {
+        "name": "ispfmasschg",
+        "description": "ISPF Edit Macro Mass Change Facility",
+        "languages": {
+            "REXX": 96443,
+            "Pan": 23018
+        }
+    },
+    {
+        "name": "automotion-rexx",
+        "description": "Automation      Article     Talk      Read     Edit     View history",
+        "languages": {
+            "REXX": 11627
+        }
+    },
+    {
+        "name": "devsubmit-rexx",
+        "description": "Submit      Article     Talk      Read     Edit     View history",
+        "languages": {
+            "REXX": 1081
+        }
+    },
+    {
+        "name": "CBT588",
+        "description": "Automated System Shutdown from Sergey Makogonov",
+        "languages": {
+            "REXX": 102115
+        }
+    },
+    {
+        "name": "AngularCut-Millimeter-Wave-Antenna-CoaxialFeed-using-CST-",
+        "description": "This project presents an novel microstrip antenna for millimeter wave wave application.  The the patch is designed with octagonal annular ring structure with Defected Ground Surface.  The antenna is designed at 43.5 GHz with very good performance obtaining a reflection coefficient",
+        "languages": {
+            "REXX": 391515,
+            "AMPL": 47134,
+            "CartoCSS": 166,
+            "Dylan": 158,
+            "Fantom": 158,
+            "Ada": 127
+        }
+    },
+    {
+        "name": "WaaS-Demo-App",
+        "description": "A distributed App runtime for Demo on a WaaS Instance",
+        "languages": {
+            "REXX": 42646,
+            "JCL": 20413
+        }
+    },
+    {
+        "name": "AoC-2023-Mainframe-Edition",
+        "description": "Solutions of AoC 2023",
+        "languages": {
+            "REXX": 57599,
+            "COBOL": 32799,
+            "Java": 13684,
+            "Makefile": 419
+        }
+    },
+    {
+        "name": "rexxsucks",
+        "description": "it sucks",
+        "languages": {
+            "REXX": 10879
+        }
+    },
+    {
+        "name": "Heath-Checker-zOS-RACF",
+        "description": null,
+        "languages": {
+            "REXX": 82118,
+            "Assembly": 15060,
+            "JCL": 1359
+        }
+    },
+    {
+        "name": "RndmProgr4tyler",
+        "description": null,
+        "languages": {
+            "REXX": 289
+        }
+    },
+    {
+        "name": "Rexx-Proyect",
+        "description": "Desarrollo en Rexx para el parseo de Jcl's",
+        "languages": {
+            "REXX": 44130
+        }
+    },
+    {
+        "name": "rexx",
+        "description": null,
+        "languages": {
+            "REXX": 532
+        }
+    },
+    {
+        "name": "sfadbu",
+        "description": "Simple ooREXX code to backup files and directories",
+        "languages": {
+            "REXX": 20575
+        }
+    },
+    {
+        "name": "REXX",
+        "description": null,
+        "languages": {
+            "REXX": 3420
+        }
+    },
+    {
+        "name": "ITAU",
+        "description": "ITAU Sample Demo",
+        "languages": {
+            "REXX": 32550
+        }
+    },
+    {
+        "name": "AWG",
+        "description": "iSeries payground",
+        "languages": {
+            "REXX": 1463
+        }
+    },
+    {
+        "name": "omvscopy",
+        "description": "ISPF Dialog to Copy between z/OS and OMVS (both directions)",
+        "languages": {
+            "REXX": 872
+        }
+    },
+    {
+        "name": "Mainframe",
+        "description": null,
+        "languages": {
+            "REXX": 483346,
+            "Assembly": 71180,
+            "COBOL": 5,
+            "Java": 5,
+            "SAS": 5
+        }
+    },
+    {
+        "name": "rexxscripts",
+        "description": null,
+        "languages": {
+            "REXX": 21456
+        }
+    },
+    {
+        "name": "ReXX",
+        "description": null,
+        "languages": {
+            "REXX": 3156
+        }
+    },
+    {
+        "name": "t-rexx",
+        "description": "Unit testing framework for Rexx",
+        "languages": {
+            "REXX": 13567,
+            "Batchfile": 5593,
+            "Shell": 5095,
+            "PowerShell": 3626
+        }
+    },
+    {
+        "name": "tso-xmas",
+        "description": null,
+        "languages": {
+            "REXX": 13293
+        }
+    },
+    {
+        "name": "fly-tools",
+        "description": "Fly      Article     Talk      Read     View source     View history",
+        "languages": {
+            "REXX": 6897
+        }
+    },
+    {
+        "name": "CBT526",
+        "description": "Top Secret Security Administration package",
+        "languages": {
+            "REXX": 21080
+        }
+    },
+    {
+        "name": "txt4tts_RU",
+        "description": "\u041f\u043e\u043f\u044b\u0442\u043a\u0430 \u0440\u0430\u0431\u043e\u0442\u044b \u0441\u043e \u0441\u043b\u043e\u0432\u0430\u0440\u044f\u043c\u0438 \u0437\u0430\u043c\u0435\u043d \u0434\u043b\u044f \u043f\u043e\u0434\u0433\u043e\u0442\u043e\u0432\u043a\u0438 \u0442\u0435\u043a\u0441\u0442\u0430 \u043a \u043f\u0440\u043e\u0438\u0437\u043d\u043e\u0448\u0435\u043d\u0438\u044e \u0433\u043e\u043b\u043e\u0441\u043e\u0432\u044b\u043c \u0434\u0432\u0438\u0436\u043a\u043e\u043c. \u041f\u0438\u0448\u0435\u0442\u0441\u044f \u043d\u0430 Java + RegExp. \u0420\u0435\u043f\u043e\u0437\u0438\u0442\u043e\u0440\u0438\u0439 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u0442 \u0434\u0432\u0430 \u043f\u0440\u043e\u0435\u043a\u0442\u0430: \u043f\u043e\u0434 Win \u0438 \u043f\u043e\u0434 Android",
+        "languages": {
+            "REXX": 298937,
+            "Java": 83686
+        }
+    },
+    {
+        "name": "demochamptalk",
+        "description": "demo only",
+        "languages": {
+            "REXX": 261
+        }
+    },
+    {
+        "name": "rexx_programs",
+        "description": "Mainframe rexx scripting codes!",
+        "languages": {
+            "REXX": 11560
+        }
+    },
+    {
+        "name": "gseuk-lswg-demo",
+        "description": "Demo repo for the session for LSWG on March 18 2020",
+        "languages": {
+            "REXX": 63
+        }
+    },
+    {
+        "name": "rexx",
+        "description": null,
+        "languages": {
+            "REXX": 48325
+        }
+    },
+    {
+        "name": "euro",
+        "description": null,
+        "languages": {
+            "REXX": 123146,
+            "JCL": 10589
+        }
+    },
+    {
+        "name": "another-buffer",
+        "description": "Buffer overflow protection",
+        "languages": {
+            "REXX": 5162,
+            "Python": 2438,
+            "JavaScript": 1016,
+            "D": 877,
+            "C++": 545
+        }
+    },
+    {
+        "name": "exec-program",
+        "description": "Exec      Article     Talk      Read     Edit     View history",
+        "languages": {
+            "REXX": 10841,
+            "R": 2526,
+            "Python": 1492,
+            "C++": 932,
+            "D": 806,
+            "JavaScript": 538
+        }
+    },
+    {
+        "name": "CBT314",
+        "description": "Lionel Dyck Collection of Utilities. TX thru Z",
+        "languages": {
+            "REXX": 48677
+        }
+    },
+    {
+        "name": "mf-rexx",
+        "description": "Mainframe REXX Codes",
+        "languages": {
+            "REXX": 45912
+        }
+    },
+    {
+        "name": "umbrella",
+        "description": null,
+        "languages": {
+            "REXX": 178493
+        }
+    },
+    {
+        "name": "PPI",
+        "description": null,
+        "languages": {
+            "REXX": 2264
+        }
+    },
+    {
+        "name": "eCryptFS",
+        "description": "Programas em Rexx para criptografar diret\u00f3rios",
+        "languages": {
+            "REXX": 15253
+        }
     }
 ]

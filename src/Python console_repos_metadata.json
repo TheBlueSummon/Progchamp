@@ -42,12 +42,1582 @@
         "name": "xonsh",
         "description": ":shell: Python-powered, cross-platform, Unix-gazing shell.",
         "languages": {
-            "Python": 2254340,
+            "Python": 2255984,
             "Xonsh": 9219,
             "HTML": 1053,
             "Shell": 430,
             "Batchfile": 138,
             "PowerShell": 21
+        }
+    },
+    {
+        "name": "buku",
+        "description": ":bookmark: Personal mini-web in text",
+        "languages": {
+            "Python": 417988,
+            "Roff": 29743,
+            "HTML": 18881,
+            "Shell": 5918,
+            "JavaScript": 2281,
+            "Dockerfile": 604,
+            "Makefile": 505,
+            "CSS": 229,
+            "Batchfile": 63
+        }
+    },
+    {
+        "name": "googler",
+        "description": ":mag: Google from the terminal",
+        "languages": {
+            "Python": 140238,
+            "Roff": 11762,
+            "Shell": 4836,
+            "Makefile": 856
+        }
+    },
+    {
+        "name": "nvitop",
+        "description": "An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management.",
+        "languages": {
+            "Python": 695438,
+            "Shell": 15542,
+            "Dockerfile": 1300
+        }
+    },
+    {
+        "name": "s-tui",
+        "description": "Terminal-based CPU stress and monitoring utility",
+        "languages": {
+            "Python": 119207,
+            "Makefile": 507,
+            "Shell": 153
+        }
+    },
+    {
+        "name": "asciimatics",
+        "description": "A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations",
+        "languages": {
+            "Python": 756291
+        }
+    },
+    {
+        "name": "consoleme",
+        "description": "A Central Control Plane for AWS Permissions and Access",
+        "languages": {
+            "Python": 1501738,
+            "JavaScript": 386349,
+            "HCL": 33221,
+            "Shell": 6066,
+            "Makefile": 4806,
+            "CSS": 4436,
+            "Smarty": 1802,
+            "HTML": 1750,
+            "Dockerfile": 1150,
+            "PHP": 638
+        }
+    },
+    {
+        "name": "python-miio",
+        "description": "Python library & console tool for controlling Xiaomi smart appliances",
+        "languages": {
+            "Python": 1334593
+        }
+    },
+    {
+        "name": "pudb",
+        "description": "Full-screen console debugger for Python",
+        "languages": {
+            "Python": 288583,
+            "Shell": 116
+        }
+    },
+    {
+        "name": "ddgr",
+        "description": ":duck: DuckDuckGo from the terminal",
+        "languages": {
+            "Python": 73322,
+            "Roff": 9189,
+            "Shell": 3487,
+            "Makefile": 582
+        }
+    },
+    {
+        "name": "urwid",
+        "description": "Console user interface library for Python (official repo)",
+        "languages": {
+            "Python": 1322905,
+            "JavaScript": 12947,
+            "CSS": 359,
+            "Dockerfile": 327
+        }
+    },
+    {
+        "name": "geeknote",
+        "description": "Console client for Evernote.",
+        "languages": {
+            "Python": 136163
+        }
+    },
+    {
+        "name": "pytermgui",
+        "description": "Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!",
+        "languages": {
+            "Python": 663853,
+            "Shell": 1421,
+            "Makefile": 629
+        }
+    },
+    {
+        "name": "radian",
+        "description": "A 21 century R console",
+        "languages": {
+            "Python": 171501,
+            "R": 6868,
+            "Julia": 549,
+            "Makefile": 107
+        }
+    },
+    {
+        "name": "asciichart",
+        "description": "Nice-looking lightweight console ASCII line charts \u256d\u2508\u256f for NodeJS, browsers and terminal, no dependencies",
+        "languages": {
+            "Python": 10111,
+            "JavaScript": 7822,
+            "HTML": 5270
+        }
+    },
+    {
+        "name": "video-to-ascii",
+        "description": "It is a simple python package to play videos in the terminal using characters as pixels",
+        "languages": {
+            "Python": 22642,
+            "Dockerfile": 92
+        }
+    },
+    {
+        "name": "Terminus",
+        "description": "Bring a real terminal to Sublime Text",
+        "languages": {
+            "Python": 137982
+        }
+    },
+    {
+        "name": "dronesploit",
+        "description": "Drone pentesting framework console",
+        "languages": {
+            "Python": 54207,
+            "AGS Script": 8999
+        }
+    },
+    {
+        "name": "RecoverPy",
+        "description": "Interactively find and recover deleted or :point_right: overwritten :point_left: files from your terminal",
+        "languages": {
+            "Python": 64229,
+            "CSS": 4196
+        }
+    },
+    {
+        "name": "inventory-hunter",
+        "description": "\u26a1\ufe0f Get notified as soon as your next CPU, GPU, or game console is in stock",
+        "languages": {
+            "Python": 71862,
+            "Shell": 6051,
+            "PowerShell": 3036,
+            "JavaScript": 1025,
+            "Dockerfile": 538
+        }
+    },
+    {
+        "name": "imgp",
+        "description": ":camera_flash: Fast batch image resizer and rotator",
+        "languages": {
+            "Python": 24426,
+            "Roff": 6648,
+            "Shell": 2970,
+            "Makefile": 522
+        }
+    },
+    {
+        "name": "extract_otp_secrets",
+        "description": "Extract one time password (OTP) secrets from QR codes exported by two-factor authentication (2FA) apps such as \"Google Authenticator\". The exported QR codes from authentication apps can be captured by camera, read from images, or read from text files. The secrets can be exported to JSON or CSV, or printed as QR codes to console.",
+        "languages": {
+            "Python": 103160,
+            "Shell": 32721,
+            "Dockerfile": 3433
+        }
+    },
+    {
+        "name": "TerminalView",
+        "description": "Terminal inside Sublime Text 3 view",
+        "languages": {
+            "Python": 449933
+        }
+    },
+    {
+        "name": "python-progressbar",
+        "description": "Progressbar 2 - A progress bar for Python 2 and Python 3 - \"pip install progressbar2\"",
+        "languages": {
+            "Python": 299104
+        }
+    },
+    {
+        "name": "suplemon",
+        "description": ":lemon: Console (CLI) text editor with multi cursor support. Suplemon replicates Sublime Text like functionality in the terminal. Try it out, give feedback, fork it!",
+        "languages": {
+            "Python": 221419,
+            "Shell": 1057
+        }
+    },
+    {
+        "name": "git-repo-updater",
+        "description": "A console script that allows you to easily update multiple git repositories at once",
+        "languages": {
+            "Python": 27301
+        }
+    },
+    {
+        "name": "yaspin",
+        "description": "A lightweight terminal spinner for Python with safe pipes and redirects \ud83c\udf81",
+        "languages": {
+            "Python": 54500,
+            "Makefile": 2925
+        }
+    },
+    {
+        "name": "topydo",
+        "description": "A powerful todo list application for the console, using the todo.txt format.",
+        "languages": {
+            "Python": 679068
+        }
+    },
+    {
+        "name": "vim-minimap",
+        "description": "A Sublime-like minimap for VIM, based on the Drawille console-based drawing library",
+        "languages": {
+            "Python": 39174,
+            "Vim Script": 2777
+        }
+    },
+    {
+        "name": "terminaltables",
+        "description": "Project no longer maintained.",
+        "languages": {
+            "Python": 175213
+        }
+    },
+    {
+        "name": "ipyida",
+        "description": "IPython console integration for IDA Pro",
+        "languages": {
+            "Python": 36583
+        }
+    },
+    {
+        "name": "traceback_with_variables",
+        "description": "Adds variables to python traceback. Simple, lightweight, controllable. Debug reasons of exceptions by logging or pretty printing colorful variable contexts for each frame in a stacktrace, showing every value. Dump locals environments after errors to console, files, and loggers. Works in Jupyter and IPython. Install with pip or conda.",
+        "languages": {
+            "Python": 37244
+        }
+    },
+    {
+        "name": "pulsemixer",
+        "description": "CLI and curses mixer for PulseAudio",
+        "languages": {
+            "Python": 88175,
+            "Shell": 407
+        }
+    },
+    {
+        "name": "yas3fs",
+        "description": "YAS3FS (Yet Another S3-backed File System) is a Filesystem in Userspace (FUSE) interface to Amazon S3. It was inspired by s3fs but rewritten from scratch to implement a distributed cache synchronized by Amazon SNS notifications. A web console is provided to easily monitor the nodes of a cluster.",
+        "languages": {
+            "Python": 189506,
+            "Shell": 3204,
+            "Vim Snippet": 151
+        }
+    },
+    {
+        "name": "khard",
+        "description": "Console vcard client",
+        "languages": {
+            "Python": 333425,
+            "Nix": 1578,
+            "Shell": 690
+        }
+    },
+    {
+        "name": "stig",
+        "description": "TUI and CLI for the BitTorrent client Transmission",
+        "languages": {
+            "Python": 1805116,
+            "Makefile": 925
+        }
+    },
+    {
+        "name": "unsilence",
+        "description": "Console Interface and Library to remove silent parts of a media file \ud83d\udd08",
+        "languages": {
+            "Python": 44868,
+            "Dockerfile": 465
+        }
+    },
+    {
+        "name": "colorful",
+        "description": "Terminal string styling done right, in Python :snake: :tada:",
+        "languages": {
+            "Python": 77242
+        }
+    },
+    {
+        "name": "ydcv",
+        "description": "YouDao Console Version - Simple wrapper for Youdao online translate (Chinese <-> English) service API, as an alternative to the StarDict Console Version(sdcv).",
+        "languages": {
+            "Python": 18049
+        }
+    },
+    {
+        "name": "curses-menu",
+        "description": "A simple console menu system in python using the curses library",
+        "languages": {
+            "Python": 90041
+        }
+    },
+    {
+        "name": "wasabi",
+        "description": "\ud83c\udf63 A lightweight console printing and formatting toolkit",
+        "languages": {
+            "Python": 67289,
+            "Jupyter Notebook": 835
+        }
+    },
+    {
+        "name": "aioconsole",
+        "description": "Asynchronous console and interfaces for asyncio",
+        "languages": {
+            "Python": 75776
+        }
+    },
+    {
+        "name": "rentry",
+        "description": "Markdown pastebin from command line",
+        "languages": {
+            "Python": 5518
+        }
+    },
+    {
+        "name": "ninfs",
+        "description": "FUSE filesystem Python scripts for Nintendo console files",
+        "languages": {
+            "Python": 289600,
+            "NSIS": 4413,
+            "Nix": 2272,
+            "Shell": 1848,
+            "Batchfile": 650
+        }
+    },
+    {
+        "name": "NoteSH",
+        "description": "NoteSH fully functional sticky notes App in your Terminal! ",
+        "languages": {
+            "Python": 56658,
+            "CSS": 5882
+        }
+    },
+    {
+        "name": "mitype",
+        "description": "Typing speed test in terminal",
+        "languages": {
+            "Python": 140365
+        }
+    },
+    {
+        "name": "qtconsole",
+        "description": "Jupyter Qt Console",
+        "languages": {
+            "Python": 429415
+        }
+    },
+    {
+        "name": "django-querycount",
+        "description": "Middleware that Prints the number of DB queries to the runserver console.",
+        "languages": {
+            "Python": 14680
+        }
+    },
+    {
+        "name": "pdd",
+        "description": ":date: Tiny date, time diff calculator with piggybacked timers",
+        "languages": {
+            "Python": 24689,
+            "Roff": 4467,
+            "Shell": 1839,
+            "Makefile": 1236
+        }
+    },
+    {
+        "name": "sqlcrush",
+        "description": "console based database editor",
+        "languages": {
+            "Python": 66957,
+            "PLpgSQL": 49601,
+            "TSQL": 410
+        }
+    },
+    {
+        "name": "skimpy",
+        "description": "skimpy is a light weight tool that provides summary statistics about variables in data frames within the console.",
+        "languages": {
+            "Python": 61061,
+            "Makefile": 875
+        }
+    },
+    {
+        "name": "enlighten",
+        "description": "Enlighten Progress Bar for Python Console Apps",
+        "languages": {
+            "Python": 219959,
+            "Jupyter Notebook": 5207
+        }
+    },
+    {
+        "name": "console-menu",
+        "description": "A simple Python menu system for building terminal user interfaces.",
+        "languages": {
+            "Python": 177257
+        }
+    },
+    {
+        "name": "wpm",
+        "description": "Typeracer-like console app for measuring your WPM",
+        "languages": {
+            "Python": 75487,
+            "Makefile": 1558
+        }
+    },
+    {
+        "name": "python-console-snake",
+        "description": "Lightweight snake game running in the console",
+        "languages": {
+            "Python": 17301
+        }
+    },
+    {
+        "name": "whatsapp-web",
+        "description": "WhatsApp chat from [command line, terminal, console, cli] :no_mobile_phones:",
+        "languages": {
+            "Python": 9357
+        }
+    },
+    {
+        "name": "vectorsynthesis",
+        "description": "This library allows the creation and manipulation of vector shapes using audio signals sent directly to oscilloscopes, modified Vectrex consoles, ILDA laser displays, and oscilloscope emulation software using the Pure Data programming environment. Please scroll down for more info in the README below.",
+        "languages": {
+            "Python": 359416
+        }
+    },
+    {
+        "name": "AutoSplit",
+        "description": "Easy to use image comparison based auto splitter for speedrunning on console or PC.",
+        "languages": {
+            "Python": 472169,
+            "PowerShell": 6217
+        }
+    },
+    {
+        "name": "jupyter_console",
+        "description": "Jupyter Terminal Console",
+        "languages": {
+            "Python": 56814
+        }
+    },
+    {
+        "name": "Doga",
+        "description": ":chart_with_upwards_trend: HTTP log monitoring console for Humans",
+        "languages": {
+            "Python": 20352
+        }
+    },
+    {
+        "name": "chromelogger-python",
+        "description": "Python library for logging variables to Google Chrome console",
+        "languages": {
+            "Python": 4607
+        }
+    },
+    {
+        "name": "python-sploitkit",
+        "description": "Devkit for building Metasploit-like consoles",
+        "languages": {
+            "Python": 183043
+        }
+    },
+    {
+        "name": "survey",
+        "description": "A simple library for creating beautiful interactive prompts.",
+        "languages": {
+            "Python": 232818
+        }
+    },
+    {
+        "name": "DahuaConsole",
+        "description": "Dahua Console, access internal debug console and/or other researched functions in Dahua devices. Feel free to contribute in this project.",
+        "languages": {
+            "Python": 290943
+        }
+    },
+    {
+        "name": "bad-apple",
+        "description": "Bad Apple printed out on the console with Python!",
+        "languages": {
+            "Python": 40283
+        }
+    },
+    {
+        "name": "firelogger.py",
+        "description": "Python library for FireLogger -  a logger console integrated into Firebug",
+        "languages": {
+            "Python": 109872
+        }
+    },
+    {
+        "name": "ci_edit",
+        "description": "A terminal text editor with mouse support and ctrl+Q to quit.",
+        "languages": {
+            "Python": 865502,
+            "Rust": 9249,
+            "Shell": 5986
+        }
+    },
+    {
+        "name": "xonsh-cheatsheet",
+        "description": "Cheat sheet for xonsh shell with copy-pastable examples. The best doc for the new users.",
+        "languages": {
+            "Python": 1701
+        }
+    },
+    {
+        "name": "google-searchconsole",
+        "description": "A wrapper for the Google Search Console API.",
+        "languages": {
+            "Python": 28236
+        }
+    },
+    {
+        "name": "px",
+        "description": "ps, top and pstree for human beings",
+        "languages": {
+            "Python": 296353,
+            "Shell": 8426
+        }
+    },
+    {
+        "name": "speedometer",
+        "description": "Chart network TX/RX and file download rates on the console",
+        "languages": {
+            "Python": 43888,
+            "Shell": 1738
+        }
+    },
+    {
+        "name": "killchain",
+        "description": "A unified console to perform the \"kill chain\" stages of attacks.",
+        "languages": {
+            "Python": 9681
+        }
+    },
+    {
+        "name": "aws_consoler",
+        "description": "A utility to convert your AWS CLI credentials into AWS console access.",
+        "languages": {
+            "Python": 18438,
+            "Makefile": 2282
+        }
+    },
+    {
+        "name": "terraform-aws-clickops-notifier",
+        "description": "Get notified when actions are taken in the AWS Console.",
+        "languages": {
+            "Python": 27299,
+            "HCL": 22933,
+            "Shell": 1333
+        }
+    },
+    {
+        "name": "python-cfonts",
+        "description": "Sexy fonts for the console",
+        "languages": {
+            "Python": 46273,
+            "Makefile": 256
+        }
+    },
+    {
+        "name": "goxtool",
+        "description": "display Mt.Gox live market data (in the console) and experiment with trading bots",
+        "languages": {
+            "Python": 210196
+        }
+    },
+    {
+        "name": "rich-pixels",
+        "description": "A Rich-compatible library for writing pixel images and ASCII art to the terminal.",
+        "languages": {
+            "Python": 11255
+        }
+    },
+    {
+        "name": "djangocms-installer",
+        "description": "Console wizard to bootstrap django CMS projects",
+        "languages": {
+            "Python": 160394,
+            "HTML": 7122
+        }
+    },
+    {
+        "name": "tableprint",
+        "description": "Pretty console printing :clipboard: of tabular data in python :snake:",
+        "languages": {
+            "Python": 22692
+        }
+    },
+    {
+        "name": "ConsolePi",
+        "description": "Raspberry Pi Based Serial Console Server, with PushBullet Notification of IP changes, Automatic VPN termination, custom menu, Power Outlet Control, and a lot more",
+        "languages": {
+            "Python": 457456,
+            "Shell": 424318,
+            "Jinja": 7082
+        }
+    },
+    {
+        "name": "Sim2600",
+        "description": "Visual6502.org transistor-level simulation of the Atari 2600 game console",
+        "languages": {
+            "Python": 133701,
+            "Shell": 955,
+            "Batchfile": 59
+        }
+    },
+    {
+        "name": "beaupy",
+        "description": "A Python library of interactive CLI elements you have been looking for",
+        "languages": {
+            "Python": 126492
+        }
+    },
+    {
+        "name": "yachalk",
+        "description": "\ud83d\udd8d\ufe0f  Terminal string styling done right ",
+        "languages": {
+            "Python": 52361,
+            "Shell": 263
+        }
+    },
+    {
+        "name": "ydcmd",
+        "description": "\u041a\u043e\u043d\u0441\u043e\u043b\u044c\u043d\u044b\u0439 \u043a\u043b\u0438\u0435\u043d\u0442 Linux/FreeBSD \u0434\u043b\u044f \u0440\u0430\u0431\u043e\u0442\u044b \u0441 \u042f\u043d\u0434\u0435\u043a\u0441.\u0414\u0438\u0441\u043a (Yandex.Disk) \u043f\u043e\u0441\u0440\u0435\u0434\u0441\u0442\u0432\u043e\u043c REST API",
+        "languages": {
+            "Python": 97552,
+            "Shell": 1459,
+            "Batchfile": 573
+        }
+    },
+    {
+        "name": "cocos2d-console",
+        "description": "cocos2d command line tool",
+        "languages": {
+            "Python": 550780,
+            "Lua": 379399,
+            "Csound Document": 7863,
+            "C++": 5262,
+            "JavaScript": 1668,
+            "Shell": 785,
+            "Makefile": 493,
+            "Batchfile": 152
+        }
+    },
+    {
+        "name": "upass",
+        "description": "Console UI for pass.",
+        "languages": {
+            "Python": 44716,
+            "Shell": 14388
+        }
+    },
+    {
+        "name": "WeatherFlow_PiConsole",
+        "description": "Raspberry Pi Python console for WeatherFlow Tempest and Smart Home Weather Stations",
+        "languages": {
+            "Python": 679220,
+            "kvlang": 93936,
+            "Shell": 44835
+        }
+    },
+    {
+        "name": "VodRecovery",
+        "description": "The purpose of this script is to obtain videos or clips that are either marked as \"sub-only\" or have been deleted on Twitch.",
+        "languages": {
+            "Python": 41783
+        }
+    },
+    {
+        "name": "hacker-top",
+        "description": "A top-like program for monitoring hacker news from the console",
+        "languages": {
+            "Python": 43140
+        }
+    },
+    {
+        "name": "kaa",
+        "description": "kaa - console text editor",
+        "languages": {
+            "Python": 750041,
+            "C": 255866,
+            "Cython": 18918,
+            "Shell": 749
+        }
+    },
+    {
+        "name": "ConsoleDraw",
+        "description": "A python module to update the console without flashing.",
+        "languages": {
+            "Python": 4849
+        }
+    },
+    {
+        "name": "agenda",
+        "description": "Org agenda in the console",
+        "languages": {
+            "Python": 23420
+        }
+    },
+    {
+        "name": "i3-quickterm",
+        "description": "A small drop-down terminal for i3 and sway",
+        "languages": {
+            "Python": 37964
+        }
+    },
+    {
+        "name": "slack-sql",
+        "description": ":tada: Bring SQL console to Slack",
+        "languages": {
+            "Python": 753495,
+            "C": 152418,
+            "Makefile": 7417,
+            "Batchfile": 6990
+        }
+    },
+    {
+        "name": "prescons",
+        "description": "A \"pseudo-interactive\" python console for live coding in presentations",
+        "languages": {
+            "Python": 8216
+        }
+    },
+    {
+        "name": "mkdocs-material-boilerplate",
+        "description": "MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with Docker, pipenv, and GitHub Actions.",
+        "languages": {
+            "Python": 1017,
+            "Dockerfile": 425,
+            "CSS": 246
+        }
+    },
+    {
+        "name": "Movies-and-Series-Scraper",
+        "description": "A console application to scrape a valid watching links for any movie or series with exact season and episode number, you can also download a whole season with one click.",
+        "languages": {
+            "Python": 5611
+        }
+    },
+    {
+        "name": "console-logging",
+        "description": "Better, prettier commandline logging for Python--with colors! :ghost:",
+        "languages": {
+            "Python": 13007
+        }
+    },
+    {
+        "name": "console_video",
+        "description": "a tool based on ffmpeg that plays video in console!",
+        "languages": {
+            "Python": 32156
+        }
+    },
+    {
+        "name": "pymixconsole",
+        "description": "Headless multitrack mixing console in Python",
+        "languages": {
+            "Python": 79463
+        }
+    },
+    {
+        "name": "panwid",
+        "description": "A collection of widgets for urwid.",
+        "languages": {
+            "Python": 208502
+        }
+    },
+    {
+        "name": "alv",
+        "description": "A console-based alignment viewer",
+        "languages": {
+            "Python": 62343
+        }
+    },
+    {
+        "name": "win-unicode-console",
+        "description": "A Python package to enable Unicode support when running Python from Windows console.",
+        "languages": {
+            "Python": 35398
+        }
+    },
+    {
+        "name": "pywinpty",
+        "description": "Pseudoterminals for Windows in Python",
+        "languages": {
+            "Python": 25744,
+            "Rust": 12470
+        }
+    },
+    {
+        "name": "notas-musicais",
+        "description": "Notas musicais \u00e9 um CLI para ajudar na forma\u00e7\u00e3o de escalas, acordes e campos harm\u00f4nicos.",
+        "languages": {
+            "Python": 15625
+        }
+    },
+    {
+        "name": "multiplex",
+        "description": "View output of multiple processes, in parallel, in the console, with an interactive TUI",
+        "languages": {
+            "Python": 121574
+        }
+    },
+    {
+        "name": "MK01-OnlyRAT",
+        "description": "OnlyRAT is the only RAT you'll ever need. We will be able to use this tool to remotely command and control windows computers.Once installed we will have remote administrative access to our target that we can connect to through Python console on our attacker pc. The onlyrat console has plenty of payloads we can then use on our target.",
+        "languages": {
+            "Python": 16804,
+            "PowerShell": 8484,
+            "Batchfile": 4212,
+            "Shell": 2099
+        }
+    },
+    {
+        "name": "consolemd",
+        "description": "render markdown to the console (not just highlight it)",
+        "languages": {
+            "Python": 32526
+        }
+    },
+    {
+        "name": "click-didyoumean",
+        "description": "Enable git-like did-you-mean feature in click :sparkles:",
+        "languages": {
+            "Python": 4754
+        }
+    },
+    {
+        "name": "pulseaudio-mixer-cli",
+        "description": "Interactive python/ncurses UI to control volume of pulse streams with some automation",
+        "languages": {
+            "Python": 39789
+        }
+    },
+    {
+        "name": "gunicorn-console",
+        "description": "A curses application for managing gunicorn processes.",
+        "languages": {
+            "Python": 11195
+        }
+    },
+    {
+        "name": "python-draftlog",
+        "description": ":scroll: Fancy logs with expandable tools. Bring life to your terminal!",
+        "languages": {
+            "Python": 12544
+        }
+    },
+    {
+        "name": "dota2-clarity",
+        "description": "Custom console scripts for Dota 2.",
+        "languages": {
+            "Python": 7459,
+            "AutoHotkey": 458
+        }
+    },
+    {
+        "name": "mytimer",
+        "description": "A Geeky Timer for Terminal Enthusiasts",
+        "languages": {
+            "Python": 23690,
+            "Shell": 395,
+            "Batchfile": 385
+        }
+    },
+    {
+        "name": "consolewrap",
+        "description": "This plugin helps you to work easily with log statements",
+        "languages": {
+            "Python": 29874
+        }
+    },
+    {
+        "name": "termgraph",
+        "description": "terminal candle stick graph library",
+        "languages": {
+            "Python": 7765
+        }
+    },
+    {
+        "name": "coinwatch",
+        "description": "Coinmarketcap console client to keep track of your crypto currency trades - are you winning or losing?",
+        "languages": {
+            "Python": 56418,
+            "Makefile": 6817
+        }
+    },
+    {
+        "name": "HandyGCCS",
+        "description": "Handheld Game Console Controller Support (Handy Geeks) for Linux ",
+        "languages": {
+            "Python": 153338,
+            "Shell": 559,
+            "Makefile": 75
+        }
+    },
+    {
+        "name": "lorem",
+        "description": "python lorem ipsum generator for the console",
+        "languages": {
+            "Python": 87032,
+            "Shell": 2871
+        }
+    },
+    {
+        "name": "picon",
+        "description": "Run your code in python interactive console from the command line",
+        "languages": {
+            "Python": 3085
+        }
+    },
+    {
+        "name": "gptsploit",
+        "description": "Instructions pour cr\u00e9er un custom GPT connect\u00e9 \u00e0 une console Kali Linux",
+        "languages": {
+            "Python": 2383
+        }
+    },
+    {
+        "name": "ishell",
+        "description": "Create shell environments with Python",
+        "languages": {
+            "Python": 15515,
+            "Makefile": 118
+        }
+    },
+    {
+        "name": "TxtStyle",
+        "description": "Command-line tool for colorizing console output and log files based on regular expressions",
+        "languages": {
+            "Python": 36914,
+            "Shell": 1623
+        }
+    },
+    {
+        "name": "tdsr",
+        "description": "A console screen reader for macOS and Linux",
+        "languages": {
+            "Python": 29560
+        }
+    },
+    {
+        "name": "vm-console-client-python",
+        "description": "the UNOFFICIAL (but useful) Python library for the Rapid7 InsightVM/Nexpose RESTful API",
+        "languages": {
+            "Python": 4162279,
+            "Shell": 4926
+        }
+    },
+    {
+        "name": "pytest-console-scripts",
+        "description": "Pytest plugin for testing console scripts",
+        "languages": {
+            "Python": 33835
+        }
+    },
+    {
+        "name": "django-admin-shell",
+        "description": "Django/Python shell for django admin site.",
+        "languages": {
+            "Python": 31416,
+            "HTML": 3792,
+            "JavaScript": 2578,
+            "CSS": 2186,
+            "Shell": 7
+        }
+    },
+    {
+        "name": "nojava-ipmi-kvm",
+        "description": "nojava-ipmi-kvm is a utility to access Java based ipmi kvm consoles without a local java installation.",
+        "languages": {
+            "Python": 46397,
+            "JavaScript": 5899,
+            "Shell": 3191,
+            "Makefile": 2297
+        }
+    },
+    {
+        "name": "xontrib-rc-awesome",
+        "description": "\ud83d\udc53 \ud83d\udc1a Make your xonsh RC file installable with awesome snippets of code.",
+        "languages": {
+            "Python": 17562
+        }
+    },
+    {
+        "name": "videotop",
+        "description": "A console browser for online videos for websites like YouTube",
+        "languages": {
+            "Python": 21870
+        }
+    },
+    {
+        "name": "wm3con",
+        "description": "F-Secure Virus World Map / Console Edition",
+        "languages": {
+            "Python": 9140
+        }
+    },
+    {
+        "name": "discogstagger",
+        "description": "Console based audio-file metadata tagger that uses the Discogs.com API v2 (JSON based).  Relies on the Mutagen and discogs-client libraries. Currently supports FLAC and MP3 file types.",
+        "languages": {
+            "Python": 47333
+        }
+    },
+    {
+        "name": "py-junos-netconify",
+        "description": "Junos console/bootstrap automation Python module",
+        "languages": {
+            "Python": 51689,
+            "Shell": 70
+        }
+    },
+    {
+        "name": "python-sdk",
+        "description": "python sdk for FISCO BCOS",
+        "languages": {
+            "Python": 1104656,
+            "C++": 46163,
+            "Shell": 45438,
+            "Solidity": 40791,
+            "C": 30162,
+            "Makefile": 7746,
+            "JavaScript": 3830,
+            "Cython": 3426,
+            "Dockerfile": 1193
+        }
+    },
+    {
+        "name": "Google-Search-Console-bulk-query",
+        "description": "A script to iterate through the available filters on Google Search Console, minimising sampling issues by extracting each possible combination of filters.",
+        "languages": {
+            "Python": 10889
+        }
+    },
+    {
+        "name": "python-sample-console-app",
+        "description": "Please see https://github.com/microsoftgraph/msgraph-training-pythondjangoapp for a Python sample.",
+        "languages": {
+            "Python": 12017,
+            "HTML": 1801
+        }
+    },
+    {
+        "name": "awsume-console-plugin",
+        "description": "This is a plugin that enables you to use your assumed role credentials to open the AWS console in your default browser.",
+        "languages": {
+            "Python": 9628
+        }
+    },
+    {
+        "name": "kagsa",
+        "description": "KAGSA PROGRAMMING LANGUAGE",
+        "languages": {
+            "Python": 94421
+        }
+    },
+    {
+        "name": "vcromclaim",
+        "description": "A program to extract ROMs, manuals, and saves from Wii Virtual Console games in a NAND dump",
+        "languages": {
+            "Python": 57379
+        }
+    },
+    {
+        "name": "cocoapods-graph",
+        "description": " This tool generates a dependencies graph report, printing on console or saving on a json or creating a html with a interactive disc to navigate through it.",
+        "languages": {
+            "Python": 10212
+        }
+    },
+    {
+        "name": "Terminality",
+        "description": "A Sublime Text 3 Plugin for Sublime Text's Internal Console",
+        "languages": {
+            "Python": 78199
+        }
+    },
+    {
+        "name": "3DSkit",
+        "description": "A multi-purpose and pluggable program to extract and repack files found in 3DS (and some other Nintendo consoles) games",
+        "languages": {
+            "Python": 403420,
+            "C": 36540
+        }
+    },
+    {
+        "name": "sd-webui-pixink-console",
+        "description": null,
+        "languages": {
+            "Python": 4389
+        }
+    },
+    {
+        "name": "Sublime-SymfonyCommander",
+        "description": "A Sublime Text 2 package that integrates the symfony 2 console right into your editor.",
+        "languages": {
+            "Python": 23999
+        }
+    },
+    {
+        "name": "kw_condition",
+        "description": "\ud0a4\uc6c0 \uc99d\uad8c \uc870\uac74 \uac80\uc0c9\uc2dd \uc0ac\uc6a9 Console App",
+        "languages": {
+            "Python": 99621
+        }
+    },
+    {
+        "name": "upodder",
+        "description": "simple console/terminal podcast downloader",
+        "languages": {
+            "Python": 12744,
+            "Makefile": 93
+        }
+    },
+    {
+        "name": "tipi",
+        "description": "TI-99/4A to Raspberry PI messaging through console sideport",
+        "languages": {
+            "Python": 261675,
+            "C": 70657,
+            "HTML": 29698,
+            "Verilog": 21390,
+            "Shell": 18377,
+            "Assembly": 7486,
+            "CSS": 5251,
+            "Makefile": 3043,
+            "XSLT": 2844,
+            "Batchfile": 396
+        }
+    },
+    {
+        "name": "pygamelib",
+        "description": "A (not so) small python library for console (as in terminal) game development. It is developed as a framework to help learn development and python in an entertaining way.",
+        "languages": {
+            "Python": 1237920,
+            "Makefile": 1063
+        }
+    },
+    {
+        "name": "zezere",
+        "description": "Zezere is a provisioning service for Fedora IoT. It can be used for deploying Fedora IoT to devices without needing a physical console.",
+        "languages": {
+            "Python": 117380,
+            "HTML": 7500,
+            "Shell": 583,
+            "Dockerfile": 189
+        }
+    },
+    {
+        "name": "Console-Cheat-Codes",
+        "description": "A collection of cheat codes made or modified by me for console games.",
+        "languages": {
+            "Python": 11180
+        }
+    },
+    {
+        "name": "msf-remote-console",
+        "description": "A remote msfconsole written in Python 2.7 to connect to the msfrcpd server of metasploit. This tool gives you the ability to load modules permanently as daemon on your server like autopwn2.",
+        "languages": {
+            "Python": 12664,
+            "Shell": 1399
+        }
+    },
+    {
+        "name": "screeps_console",
+        "description": "Standalone Interactive Screeps Console",
+        "languages": {
+            "Python": 41333,
+            "Makefile": 949,
+            "Shell": 433
+        }
+    },
+    {
+        "name": "tuxdrive",
+        "description": "Console based DIY Google Drive Client",
+        "languages": {
+            "Python": 24003
+        }
+    },
+    {
+        "name": "Download-Google-Images",
+        "description": "Code to mass download images from Google Images using JavaScript Console Window and python script.",
+        "languages": {
+            "Python": 1764,
+            "JavaScript": 658
+        }
+    },
+    {
+        "name": "colorclass",
+        "description": "Colorful worry-free console applications for Linux, Mac OS X, and Windows.",
+        "languages": {
+            "Python": 142615
+        }
+    },
+    {
+        "name": "docker-console",
+        "description": "Web Terminal For Docker ",
+        "languages": {
+            "Python": 2273,
+            "HTML": 811,
+            "Shell": 62
+        }
+    },
+    {
+        "name": "drugwars",
+        "description": ":moneybag: The Classic 80s MS-DOS Game re-written in Python :moneybag: Play in Console or in your Browser",
+        "languages": {
+            "Python": 37110
+        }
+    },
+    {
+        "name": "Prass",
+        "description": "Console processor for ASS subtitles",
+        "languages": {
+            "Python": 50798
+        }
+    },
+    {
+        "name": "gstreamer-phone",
+        "description": "gstreamer based SIP console videophone, designed especially for the Raspberry Pi",
+        "languages": {
+            "Python": 8597,
+            "Shell": 3179
+        }
+    },
+    {
+        "name": "py-candlestick-chart",
+        "description": "Draw candlesticks charts right into your terminal, using Python!",
+        "languages": {
+            "Python": 35550,
+            "Shell": 181
+        }
+    },
+    {
+        "name": "pwman3",
+        "description": "Console based password management application",
+        "languages": {
+            "Python": 209904,
+            "Makefile": 3466,
+            "Shell": 2099,
+            "Dockerfile": 340,
+            "JavaScript": 283
+        }
+    },
+    {
+        "name": "colorconsole",
+        "description": "Python comes with batteries included, but console applications have no color. This project brings a very simple interface to colored console output. It does not replace curses or more sophisticated libraries. If you just need to print colored text using the same API on Linux, Windows and Mac OS X, colorconsole can be a good option. It uses ctypes to access Windows console API routines and ANSI escape codes for xterm on Linux and Mac OS X.",
+        "languages": {
+            "Python": 35677
+        }
+    },
+    {
+        "name": "FBConsole",
+        "description": "frame buffer console class for MicroPython",
+        "languages": {
+            "Python": 12544
+        }
+    },
+    {
+        "name": "reddit-top",
+        "description": "A top-like program for monitoring reddit from the console",
+        "languages": {
+            "Python": 30909
+        }
+    },
+    {
+        "name": "ssterm",
+        "description": "A simple console-based serial port terminal, written in Python.",
+        "languages": {
+            "Python": 37099,
+            "C": 1863
+        }
+    },
+    {
+        "name": "sdwdate",
+        "description": "Secure Distributed Web Date; privacy, anonymity and Tor friendly; console time fetcher and daemon; optional graphical user interface etc. Website: https://www.kicksecure.com/wiki/sdwdate",
+        "languages": {
+            "Python": 80763,
+            "Shell": 19199,
+            "C": 3177,
+            "Roff": 1182
+        }
+    },
+    {
+        "name": "click-extra",
+        "description": "\ud83c\udf08 Extra colorization and configuration loading for Click.",
+        "languages": {
+            "Python": 361023
+        }
+    },
+    {
+        "name": "coto",
+        "description": "Undocumented AWS Management Console APIs SDK for Python",
+        "languages": {
+            "Python": 75934
+        }
+    },
+    {
+        "name": "konsole",
+        "description": "Readable, pleasing console output for Python",
+        "languages": {
+            "Python": 13840
+        }
+    },
+    {
+        "name": "harview",
+        "description": "A commandline tool which takes as input a .har (HTTP Archive) file and dumps a human-readable summary of it to the console",
+        "languages": {
+            "Python": 7688
+        }
+    },
+    {
+        "name": "moulti",
+        "description": "Moulti is a CLI-driven Terminal User Interface (TUI) that enables you to assign the numerous lines emitted by your scripts to visual, collapsible blocks called steps.",
+        "languages": {
+            "Python": 105579,
+            "Shell": 1848,
+            "Dockerfile": 1037
+        }
+    },
+    {
+        "name": "poezio",
+        "description": " Console XMPP client in python",
+        "languages": {
+            "Python": 1217125,
+            "C": 16562,
+            "Roff": 7891,
+            "Rust": 6249,
+            "Shell": 2905,
+            "Dockerfile": 824,
+            "Makefile": 783
+        }
+    },
+    {
+        "name": "PyconChat",
+        "description": "A Python console chat application featuring group conversations, file sharing and offline messaging.",
+        "languages": {
+            "Python": 15553
+        }
+    },
+    {
+        "name": "xontrib-prompt-bar",
+        "description": "The bar prompt for xonsh shell with customizable sections and Starship support.",
+        "languages": {
+            "Python": 7758
+        }
+    },
+    {
+        "name": "joystick",
+        "description": "Real-time plotting and logging while console controlling",
+        "languages": {
+            "Python": 94936
+        }
+    },
+    {
+        "name": "PixelPlayer",
+        "description": "PixelPlayer can play video in console",
+        "languages": {
+            "Python": 7264,
+            "C++": 5324,
+            "C": 444
+        }
+    },
+    {
+        "name": "werkzeug-debug-console-bypass",
+        "description": "Werkzeug has a debug console that requires a pin. It's possible to bypass this with an LFI vulnerability or use it as a local privilege escalation vector.",
+        "languages": {
+            "Python": 2386,
+            "Dockerfile": 394
+        }
+    },
+    {
+        "name": "turses",
+        "description": "A Twitter client for the console.",
+        "languages": {
+            "Python": 238063,
+            "Makefile": 974
+        }
+    },
+    {
+        "name": "fenrir",
+        "description": "An TTY screenreader for Linux.",
+        "languages": {
+            "Python": 695906,
+            "Roff": 72796,
+            "Shell": 28987
+        }
+    },
+    {
+        "name": "cli-screenview",
+        "description": "A remote screen viewer for your text-only console.",
+        "languages": {
+            "Python": 12182
+        }
+    },
+    {
+        "name": "wot-debugserver",
+        "description": "World of Tanks debug console",
+        "languages": {
+            "Python": 5830,
+            "Shell": 340,
+            "Batchfile": 51
+        }
+    },
+    {
+        "name": "topalias",
+        "description": "Linux bash/zsh aliases generator",
+        "languages": {
+            "Python": 21630,
+            "Shell": 12938,
+            "Makefile": 2877,
+            "Dockerfile": 855
+        }
+    },
+    {
+        "name": "redlure-console",
+        "description": "Distributed phishing framework designed to streamline offensive security phishing",
+        "languages": {
+            "Python": 114962
+        }
+    },
+    {
+        "name": "gsc-logger",
+        "description": "Google Search Console Logger for Google App Engine",
+        "languages": {
+            "Python": 19915,
+            "HTML": 1555,
+            "JavaScript": 484
+        }
+    },
+    {
+        "name": "homebrewhub",
+        "description": "A digital repository of of homebrews, patches, hackroms for old consoles. Provides community submission, tagging and rating features.",
+        "languages": {
+            "Python": 19979,
+            "Shell": 788,
+            "Dockerfile": 733,
+            "Makefile": 709
+        }
+    },
+    {
+        "name": "GoogleSearchConsole-Tutorial",
+        "description": null,
+        "languages": {
+            "Python": 26128,
+            "Jupyter Notebook": 12062
+        }
+    },
+    {
+        "name": "python-roborock",
+        "description": "Python library & console tool for controlling Roborock vacuum",
+        "languages": {
+            "Python": 196025,
+            "JavaScript": 146
+        }
+    },
+    {
+        "name": "git-ctm",
+        "description": "\u23f3 git Commit Time Machine \u231b",
+        "languages": {
+            "Python": 3835,
+            "Makefile": 1268,
+            "Shell": 1086
+        }
+    },
+    {
+        "name": "Chata",
+        "description": ":guitar::magic_wand: DSP made easy. The Chata programming language! :long_drum:",
+        "languages": {
+            "Python": 2876
+        }
+    },
+    {
+        "name": "tree-format",
+        "description": "Python library for printing trees on the console",
+        "languages": {
+            "Python": 14433
+        }
+    },
+    {
+        "name": "cvcalib",
+        "description": "Powerful console application for calibration (incl. stereo calibration) of cameras based on the OpenCV library.",
+        "languages": {
+            "Python": 221286
+        }
+    },
+    {
+        "name": "powerapps-docstring",
+        "description": "PowerApps-docstring is a console based, pipeline ready application that automatically generates user and technical documentation for Power Apps.",
+        "languages": {
+            "Python": 28320,
+            "kvlang": 7454
+        }
+    },
+    {
+        "name": "google-search-console-connector",
+        "description": null,
+        "languages": {
+            "Python": 34853
+        }
+    },
+    {
+        "name": "confconsole",
+        "description": "TurnKey Linux Configuration Console",
+        "languages": {
+            "Python": 114498,
+            "Shell": 23929,
+            "HTML": 616
+        }
+    },
+    {
+        "name": "screeps-stats",
+        "description": "Access Screeps Console, Performance, and Statistics Data via Kibana and ElasticSearch",
+        "languages": {
+            "Python": 18150,
+            "JavaScript": 10293,
+            "Shell": 7362,
+            "Makefile": 2120
+        }
+    },
+    {
+        "name": "Game-Console-Activity-to-Discord",
+        "description": "Share your ACTUAL game console activity on Discord!",
+        "languages": {
+            "Python": 8365
         }
     }
 ]

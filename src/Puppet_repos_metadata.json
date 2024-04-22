@@ -48,5 +48,1855 @@
             "Shell": 1237,
             "Dockerfile": 234
         }
+    },
+    {
+        "name": "symfony2-vagrant",
+        "description": "Symfony2 Vagrant development setup with Nginx, MySQL,PhpMyAdmin, MongoDb and other handfull tools",
+        "languages": {
+            "Puppet": 5729
+        }
+    },
+    {
+        "name": "operations-puppet",
+        "description": "Wikimedia Foundation operates some of the largest collaborative projects in the world. This is the Puppet repo for our servers. This repository is a mirror; see https://www.mediawiki.org/wiki/Developer_access for contributing.",
+        "languages": {
+            "Puppet": 6296793,
+            "HTML": 3692349,
+            "Python": 2861968,
+            "Ruby": 2347791,
+            "Vim Script": 1456968,
+            "Shell": 1328964,
+            "Perl": 484234,
+            "Lua": 102013,
+            "PHP": 52216,
+            "CSS": 34117,
+            "Awk": 27548,
+            "JavaScript": 17383,
+            "Pascal": 17183,
+            "GDB": 14241,
+            "Roff": 13004,
+            "Closure Templates": 9445,
+            "Logos": 5385,
+            "Makefile": 4935,
+            "Dockerfile": 4394,
+            "R": 3611,
+            "Augeas": 1950,
+            "Groovy": 1294,
+            "RPC": 1241,
+            "Jinja": 492,
+            "Smarty": 451,
+            "Slim": 73
+        }
+    },
+    {
+        "name": "puppet-rvm",
+        "description": "A puppet module for installing and using RVM (Ruby Version Manager)",
+        "languages": {
+            "Puppet": 15353,
+            "Ruby": 10699
+        }
+    },
+    {
+        "name": "Ghost-Vagrant",
+        "description": "Vagrant setup for developing Ghost",
+        "languages": {
+            "Puppet": 7387,
+            "Pascal": 655,
+            "Ruby": 296
+        }
+    },
+    {
+        "name": "puppet-sandbox",
+        "description": "A Vagrant-based Puppet development environment for creating new modules",
+        "languages": {
+            "Puppet": 9757,
+            "HTML": 1568
+        }
+    },
+    {
+        "name": "phalcon-rest",
+        "description": "A Base project for APIs using the Phalcon framework",
+        "languages": {
+            "Puppet": 370862,
+            "Ruby": 280736,
+            "Shell": 85116,
+            "PHP": 31873,
+            "HTML": 8435,
+            "Pascal": 5155,
+            "ApacheConf": 1027
+        }
+    },
+    {
+        "name": "hexagonal-symfony",
+        "description": "Sandbox for experimenting with Cockburn's hexagonal ideas with Symfony2",
+        "languages": {
+            "Puppet": 378043,
+            "Ruby": 358577,
+            "PHP": 77051,
+            "Shell": 50262,
+            "Perl": 41847
+        }
+    },
+    {
+        "name": "pentesting-playground",
+        "description": "Code for installing various security minded tools onto Vagrant powered virtual machines",
+        "languages": {
+            "Puppet": 5299,
+            "Ruby": 528
+        }
+    },
+    {
+        "name": "python-dev-bootstrap",
+        "description": "A Vagrant VM based Python Development Bootstrap",
+        "languages": {
+            "Puppet": 9198
+        }
+    },
+    {
+        "name": "maverick",
+        "description": "UAV Autonomous Systems Management",
+        "languages": {
+            "Puppet": 1926066,
+            "Ruby": 1759331,
+            "HTML": 509599,
+            "Python": 244273,
+            "Shell": 102116,
+            "Pascal": 16102,
+            "CSS": 12097,
+            "Dockerfile": 712,
+            "Makefile": 649
+        }
+    },
+    {
+        "name": "puppi",
+        "description": "Puppet module to manage applications deployments and servers local management",
+        "languages": {
+            "Puppet": 266349,
+            "Shell": 87518,
+            "Ruby": 38417,
+            "HTML": 3423
+        }
+    },
+    {
+        "name": "puppet-rbenv",
+        "description": "Puppet manifest for rbenv installation",
+        "languages": {
+            "Puppet": 18350,
+            "Ruby": 13006
+        }
+    },
+    {
+        "name": "vagrant-php-box",
+        "description": "Set up super fast a PHP5 development box with apache, mysql, phpmyadmin and whatever else that you may need",
+        "languages": {
+            "Puppet": 2167,
+            "PHP": 81
+        }
+    },
+    {
+        "name": "rails-starter-box",
+        "description": "Base Vagrant box for development of Rails apps",
+        "languages": {
+            "Puppet": 1634
+        }
+    },
+    {
+        "name": "wp-vagrant",
+        "description": "WordPress Vagrant boxes for testing PHP 5.3, 5.4, and 5.5",
+        "languages": {
+            "Puppet": 1899,
+            "Shell": 795
+        }
+    },
+    {
+        "name": "govuk-puppet",
+        "description": "Decommissioned: Puppet manifests that used to provision the legacy GOV.UK stack.",
+        "languages": {
+            "Puppet": 1026037,
+            "HTML": 344761,
+            "Ruby": 230226,
+            "Shell": 216818,
+            "Python": 207023,
+            "Perl": 22095,
+            "JavaScript": 1851,
+            "Dockerfile": 1277
+        }
+    },
+    {
+        "name": "salt-sandbox",
+        "description": "A Vagrant-based Salt development environment for creating new modules",
+        "languages": {
+            "Puppet": 4810,
+            "HTML": 466,
+            "SaltStack": 158
+        }
+    },
+    {
+        "name": "cis-puppet",
+        "description": "Center for Internet Security Linux Benchmark implementation for PuppetLabs",
+        "languages": {
+            "Puppet": 108946,
+            "Shell": 12349,
+            "Ruby": 3916,
+            "HTML": 1321
+        }
+    },
+    {
+        "name": "puppet-gluster",
+        "description": "puppet module for gluster",
+        "languages": {
+            "Puppet": 128186,
+            "Ruby": 65179,
+            "Pascal": 21196,
+            "Python": 8722,
+            "Makefile": 7577,
+            "HTML": 639
+        }
+    },
+    {
+        "name": "vagrant-golang",
+        "description": "A very easy to use golang environment for use with vagrant.",
+        "languages": {
+            "Puppet": 1541,
+            "Go": 73
+        }
+    },
+    {
+        "name": "drupal-lxc-vagrant-docker",
+        "description": "Deploy and develop on Drupal with LXC, Vagrant and Docker. Includes: nginx,php-fpm,apc,xhprof,mysql,phpmyadim,composer",
+        "languages": {
+            "Puppet": 376198,
+            "Ruby": 352094,
+            "Shell": 82848,
+            "Perl": 41847,
+            "HTML": 18742,
+            "PHP": 4619,
+            "Pascal": 1098
+        }
+    },
+    {
+        "name": "puppetlabs-openstack",
+        "description": "Puppet Labs Reference and Testing Deployment Module for OpenStack (master tracks Kilo)",
+        "languages": {
+            "Puppet": 85259,
+            "Ruby": 25438,
+            "Shell": 11179,
+            "Python": 10941,
+            "HTML": 5020,
+            "Pascal": 28
+        }
+    },
+    {
+        "name": "vagrant-baseline",
+        "description": "Dev sandbox with batteries included",
+        "languages": {
+            "Puppet": 26825,
+            "Shell": 817
+        }
+    },
+    {
+        "name": "DeadDropDocs",
+        "description": "Installation, configuration and security hardening guidance for DeadDrop",
+        "languages": {
+            "Puppet": 38854,
+            "Perl": 12646,
+            "Shell": 4527,
+            "Ruby": 557,
+            "Racket": 85
+        }
+    },
+    {
+        "name": "puppet-puppet",
+        "description": "Puppet module for Puppet client and server",
+        "languages": {
+            "Puppet": 135954,
+            "Ruby": 99797,
+            "HTML": 23577
+        }
+    },
+    {
+        "name": "puppet-php",
+        "description": "Generic Puppet module to manage PHP on many platforms",
+        "languages": {
+            "Puppet": 75702,
+            "Ruby": 61193,
+            "HTML": 19302,
+            "Pascal": 226
+        }
+    },
+    {
+        "name": "vagrant-puppetmaster",
+        "description": "Vagrant config for a testing setup with a Puppet Master, Puppet Dashboard and PuppetDB",
+        "languages": {
+            "Puppet": 2675,
+            "Shell": 1535,
+            "Ruby": 894,
+            "Pascal": 20
+        }
+    },
+    {
+        "name": "puppet-textmate-bundle",
+        "description": "a TextMate puppet manifests bundle",
+        "languages": {
+            "Puppet": 261
+        }
+    },
+    {
+        "name": "flaming-archer",
+        "description": "Photo 365 application. Built to support my own 365 project and to learn a few new technologies.",
+        "languages": {
+            "Puppet": 381835,
+            "Ruby": 361126,
+            "PHP": 282423,
+            "Python": 88596,
+            "JavaScript": 60773,
+            "Shell": 51132,
+            "Perl": 41847,
+            "CSS": 5870
+        }
+    },
+    {
+        "name": "puppet-zabbix",
+        "description": "Puppet module for creating and maintaining zabbix components with puppet.",
+        "languages": {
+            "Puppet": 219474,
+            "Ruby": 216197,
+            "HTML": 66785,
+            "Shell": 11777,
+            "Pascal": 142
+        }
+    },
+    {
+        "name": "proviso",
+        "description": "Proviso aims to be an SDK+API to provision platform-independent local VMs for Drupal development.",
+        "languages": {
+            "Puppet": 1800,
+            "Shell": 862
+        }
+    },
+    {
+        "name": "percona-xtradb-cluster-tutorial",
+        "description": "NOTE: This repo has been rehomed here: https://github.com/percona/xtradb-cluster-tutorial",
+        "languages": {
+            "Puppet": 26660,
+            "Ruby": 10230,
+            "Perl": 916,
+            "Shell": 441
+        }
+    },
+    {
+        "name": "puppet-gitlab",
+        "description": "Puppet module to manage Gitlab (Omnibus)",
+        "languages": {
+            "Puppet": 39375,
+            "Ruby": 30514,
+            "HTML": 19680,
+            "Shell": 1069
+        }
+    },
+    {
+        "name": "puppet-playground",
+        "description": "A Vagrant MultiOS environment to test Puppet code and modules ",
+        "languages": {
+            "Puppet": 18607,
+            "Ruby": 18338,
+            "Shell": 9348,
+            "Pascal": 151
+        }
+    },
+    {
+        "name": "puppet-openstack-integration",
+        "description": "Collection of scripts and manifests for module testing. Mirror of code maintained at opendev.org.",
+        "languages": {
+            "Puppet": 189461,
+            "Shell": 47419,
+            "Ruby": 6220,
+            "HTML": 148
+        }
+    },
+    {
+        "name": "puppet-tp",
+        "description": "Tiny Puppet - The Universal Installer",
+        "languages": {
+            "Puppet": 175572,
+            "Ruby": 81143,
+            "HTML": 17455,
+            "Shell": 14421,
+            "Dockerfile": 226
+        }
+    },
+    {
+        "name": "puppet-graphite",
+        "description": "Puppet module for graphite monitoring tools",
+        "languages": {
+            "Puppet": 74029,
+            "HTML": 53237,
+            "Ruby": 49771,
+            "Shell": 27446,
+            "Python": 601,
+            "Dockerfile": 234
+        }
+    },
+    {
+        "name": "puppet-php",
+        "description": "Puppet module to manage php (Apache, CLI, FPM)",
+        "languages": {
+            "Puppet": 10814,
+            "Ruby": 426
+        }
+    },
+    {
+        "name": "puppet-system",
+        "description": "Manage Linux system resources and services from hiera configuration",
+        "languages": {
+            "Puppet": 31839,
+            "Ruby": 13832,
+            "Perl": 8626,
+            "HTML": 1280,
+            "Dockerfile": 572
+        }
+    },
+    {
+        "name": "puppet-nexus",
+        "description": "A Puppet Module for Nexus (Maven)",
+        "languages": {
+            "Puppet": 3593,
+            "Shell": 3476,
+            "Ruby": 1838,
+            "Pascal": 14
+        }
+    },
+    {
+        "name": "puppet-filebeat",
+        "description": null,
+        "languages": {
+            "Puppet": 72569,
+            "Ruby": 48758,
+            "HTML": 48108,
+            "Dockerfile": 234
+        }
+    },
+    {
+        "name": "puppet-icinga2",
+        "description": "Puppet module to manage Icinga 2",
+        "languages": {
+            "Puppet": 185980,
+            "Ruby": 145222,
+            "Pascal": 496
+        }
+    },
+    {
+        "name": "Magento-Vagrant-Puppet-Nginx",
+        "description": "Installs magento and a nginx server",
+        "languages": {
+            "Puppet": 5168
+        }
+    },
+    {
+        "name": "vagrant-ubuntu-tomcat7",
+        "description": "NOT SUPPORTED ANYMORE!! An automated single command environment for java/jee development using oracle JDK 7, tomcat7, maven and git.",
+        "languages": {
+            "Puppet": 4535,
+            "Ruby": 168
+        }
+    },
+    {
+        "name": "puppet-prometheus",
+        "description": "Puppet module for prometheus",
+        "languages": {
+            "Puppet": 358695,
+            "Ruby": 188353,
+            "Shell": 13466,
+            "HTML": 7473,
+            "Dockerfile": 576,
+            "Pascal": 165
+        }
+    },
+    {
+        "name": "alexpdp7",
+        "description": "My personal monorepo: blog, writing, personal infra, tools...",
+        "languages": {
+            "Puppet": 51228,
+            "Python": 41171,
+            "Emacs Lisp": 4487,
+            "Shell": 2110,
+            "Rust": 513
+        }
+    },
+    {
+        "name": "biemond-oradb",
+        "description": "Puppet Oracle Database Module",
+        "languages": {
+            "Puppet": 146040,
+            "Ruby": 89897,
+            "HTML": 89797,
+            "Shell": 997
+        }
+    },
+    {
+        "name": "vagrant-graphite",
+        "description": "An Example puppetized setup of grahpite, jmxtrans, collectd , logster ",
+        "languages": {
+            "Puppet": 10542,
+            "Ruby": 2632,
+            "Shell": 336
+        }
+    },
+    {
+        "name": "puppet-mongodb",
+        "description": "A Puppet module for installing MongoDB on Ubuntu.",
+        "languages": {
+            "Puppet": 3123,
+            "Ruby": 410
+        }
+    },
+    {
+        "name": "pupfiles",
+        "description": "Puppet desktop setup scripts",
+        "languages": {
+            "Puppet": 68185,
+            "Shell": 19717,
+            "HTML": 5672,
+            "Pascal": 1682,
+            "Python": 1470
+        }
+    },
+    {
+        "name": "puppet-foreman",
+        "description": "UNOFFICIAL CLONE use https://github.com/theforeman/foreman-installer",
+        "languages": {
+            "Puppet": 20438,
+            "Ruby": 3276
+        }
+    },
+    {
+        "name": "vagrants",
+        "description": "Vagrant files to provision Couchbase VMs",
+        "languages": {
+            "Puppet": 16624,
+            "PHP": 1213,
+            "Shell": 1141
+        }
+    },
+    {
+        "name": "puppet-cinder",
+        "description": "OpenStack Cinder Puppet Module. Mirror of code maintained at opendev.org.",
+        "languages": {
+            "Puppet": 292217,
+            "Ruby": 288407,
+            "Python": 9253,
+            "Pascal": 72
+        }
+    },
+    {
+        "name": "puppet-icinga2-legacy",
+        "description": "(legacy) Puppet module for Icinga 2 (EOL)",
+        "languages": {
+            "Puppet": 112382,
+            "Ruby": 76432,
+            "HTML": 40011
+        }
+    },
+    {
+        "name": "Stagr",
+        "description": "Staging Server installer for Fortrabbit",
+        "languages": {
+            "Puppet": 4130,
+            "Ruby": 639
+        }
+    },
+    {
+        "name": "puppetlabs-puppetdb",
+        "description": "A puppet module for installing and managing puppetdb",
+        "languages": {
+            "Puppet": 132380,
+            "Ruby": 120447,
+            "HTML": 157,
+            "Pascal": 50
+        }
+    },
+    {
+        "name": "puppet-puppetboard",
+        "description": "Puppet module to install and manage puppetboard",
+        "languages": {
+            "Puppet": 20812,
+            "Ruby": 13941,
+            "HTML": 1451,
+            "Python": 366
+        }
+    },
+    {
+        "name": "sublime-text-puppet",
+        "description": null,
+        "languages": {
+            "Puppet": 256
+        }
+    },
+    {
+        "name": "puppet-php",
+        "description": "Puppet module to manage PHP on debian and ubuntu",
+        "languages": {
+            "Puppet": 110736,
+            "Ruby": 26441,
+            "HTML": 19200,
+            "Augeas": 2283
+        }
+    },
+    {
+        "name": "puppet-heat",
+        "description": "OpenStack Heat Puppet Module. Mirror of code maintained at opendev.org.",
+        "languages": {
+            "Puppet": 158636,
+            "Ruby": 152129,
+            "Python": 9233
+        }
+    },
+    {
+        "name": "puppet-nginx",
+        "description": "Basic module for configuring nginx via puppet",
+        "languages": {
+            "Puppet": 9684,
+            "Ruby": 434
+        }
+    },
+    {
+        "name": "vagrant-puppet-django",
+        "description": "Vagrant for Django development using Puppet.",
+        "languages": {
+            "Puppet": 6451,
+            "Python": 2967,
+            "HTML": 807,
+            "ApacheConf": 238
+        }
+    },
+    {
+        "name": "vagrant-mongobox",
+        "description": "A simple little Vagrant box for running MongoDB",
+        "languages": {
+            "Puppet": 15
+        }
+    },
+    {
+        "name": "puppet-pxe",
+        "description": "Puppet module for deploying a PXE boot server",
+        "languages": {
+            "Puppet": 19500,
+            "Ruby": 10244,
+            "HTML": 583
+        }
+    },
+    {
+        "name": "wordpress",
+        "description": null,
+        "languages": {
+            "Puppet": 9322,
+            "Augeas": 2955,
+            "Ruby": 1227
+        }
+    },
+    {
+        "name": "internationalization-mvc4",
+        "description": "[Obsolete] Internationalized MVC4 Templates (see Code52/aspnet-internationalization)",
+        "languages": {
+            "Puppet": 94669,
+            "PowerShell": 5671,
+            "C#": 4328,
+            "JavaScript": 2363,
+            "ASP": 1285,
+            "Shell": 887
+        }
+    },
+    {
+        "name": "cmits",
+        "description": "Configuration Management for IT Systems",
+        "languages": {
+            "Puppet": 810663,
+            "Python": 203796,
+            "Augeas": 191231,
+            "TeX": 180226,
+            "Ruby": 171640,
+            "Pascal": 81547,
+            "ApacheConf": 48055,
+            "Shell": 41721,
+            "Makefile": 12382,
+            "HTML": 2306
+        }
+    },
+    {
+        "name": "puppetlabs-razor",
+        "description": "Puppet module to install Razor.",
+        "languages": {
+            "Puppet": 6813,
+            "Shell": 5793,
+            "Ruby": 2318,
+            "HTML": 1060
+        }
+    },
+    {
+        "name": "vagrant-oracle-xe",
+        "description": "Vagrant provisioning Oracle Database XE 11g on Ubuntu 11.10",
+        "languages": {
+            "Puppet": 2838,
+            "Shell": 1267
+        }
+    },
+    {
+        "name": "puppet-wp",
+        "description": "This module enables the easy use of WP CLI to control your WordPress site through Puppet manifests",
+        "languages": {
+            "Puppet": 13992,
+            "Ruby": 3590,
+            "Shell": 91,
+            "HTML": 65
+        }
+    },
+    {
+        "name": "puppet-yum",
+        "description": "Puppet module for Yum",
+        "languages": {
+            "Puppet": 114746,
+            "HTML": 5105,
+            "Pascal": 4653,
+            "Ruby": 1056
+        }
+    },
+    {
+        "name": "vagrant-javadev-box",
+        "description": "A Vagrant box to build a basic Java dev box, configured with puppet",
+        "languages": {
+            "Puppet": 1568
+        }
+    },
+    {
+        "name": "puppet-ipa",
+        "description": "puppet module for freeipa",
+        "languages": {
+            "Puppet": 159092,
+            "Ruby": 43424,
+            "Python": 17026,
+            "Makefile": 7314,
+            "Pascal": 3268,
+            "Shell": 1563
+        }
+    },
+    {
+        "name": "vagrant-hadoop-cluster",
+        "description": "Deploying hadoop in a virtualized cluster in simple steps",
+        "languages": {
+            "Puppet": 4159,
+            "Ruby": 3878,
+            "Shell": 2240
+        }
+    },
+    {
+        "name": "puppet-apache",
+        "description": "Apache Puppet Module",
+        "languages": {
+            "Puppet": 49263,
+            "Ruby": 11530,
+            "HTML": 3992
+        }
+    },
+    {
+        "name": "wasted",
+        "description": "Web Application STack for Extreme Development",
+        "languages": {
+            "Puppet": 22841,
+            "Batchfile": 1919,
+            "Ruby": 1555,
+            "Shell": 724
+        }
+    },
+    {
+        "name": "aws-apim",
+        "description": null,
+        "languages": {
+            "Puppet": 28003,
+            "Shell": 23147,
+            "HTML": 15441
+        }
+    },
+    {
+        "name": "puppet-hadoop",
+        "description": "Hadopp Module For Puppet. ",
+        "languages": {
+            "Puppet": 16759,
+            "Ruby": 1278
+        }
+    },
+    {
+        "name": "SublimePuppet",
+        "description": "Puppet (puppetlabs.com) highlighting, snippets and completion for Sublime Text 2 or 3",
+        "languages": {
+            "Puppet": 256
+        }
+    },
+    {
+        "name": "puppet-lanserver",
+        "description": "Puppet module to fully deploy all neccesarry services to run a LAN party at any size with ease",
+        "languages": {
+            "Puppet": 42119,
+            "Shell": 19586,
+            "HTML": 9683,
+            "JavaScript": 6285,
+            "CSS": 1553
+        }
+    },
+    {
+        "name": "vagrant-magento-hhvm",
+        "description": "A vagrant configuration for getting a basic version of Magento with HHVM up and running.",
+        "languages": {
+            "Puppet": 14106,
+            "Shell": 10864,
+            "Vim Script": 10301
+        }
+    },
+    {
+        "name": "wazuh-puppet",
+        "description": "Wazuh - Puppet module",
+        "languages": {
+            "Puppet": 134129,
+            "HTML": 54763,
+            "Ruby": 13233,
+            "Shell": 2030
+        }
+    },
+    {
+        "name": "vagrant-puppet-librarian",
+        "description": "A base to use librarian and puppet with vagrant in simple and reliable fashion. ",
+        "languages": {
+            "Puppet": 1419,
+            "Shell": 903
+        }
+    },
+    {
+        "name": "puppet-bacula",
+        "description": "Bacula module to manage all components of bacula",
+        "languages": {
+            "Puppet": 30604,
+            "HTML": 13957,
+            "Ruby": 10753
+        }
+    },
+    {
+        "name": "vagrant-nodejs",
+        "description": "A simple Vagrant VM setup for NodeJS development.",
+        "languages": {
+            "Puppet": 5443,
+            "Ruby": 4577,
+            "JavaScript": 481
+        }
+    },
+    {
+        "name": "vagrant-desktop-images",
+        "description": "Ubuntu Desktop images for Vagrant ",
+        "languages": {
+            "Puppet": 5534,
+            "Ruby": 1428,
+            "Makefile": 427,
+            "Shell": 413
+        }
+    },
+    {
+        "name": "securing-kafka-blog",
+        "description": "Secure Kafka cluster (in a VM) for development and testing",
+        "languages": {
+            "Puppet": 12814
+        }
+    },
+    {
+        "name": "puppet-pyrocms",
+        "description": "Puppet manifests for running PyroCMS with MySQL, PostgreSQL and SQLite",
+        "languages": {
+            "Puppet": 281363,
+            "Ruby": 74181,
+            "Shell": 59022,
+            "Perl": 43346,
+            "JavaScript": 80
+        }
+    },
+    {
+        "name": "loja-virtual-devops-puppet",
+        "description": "Reposit\u00f3rio com c\u00f3digo puppet exemplo",
+        "languages": {
+            "Puppet": 6962,
+            "Ruby": 6809,
+            "Shell": 232
+        }
+    },
+    {
+        "name": "puppet-nginx",
+        "description": "[UNMAINTAINED] Puppet Nginx module",
+        "languages": {
+            "Puppet": 38982,
+            "Ruby": 9313,
+            "HTML": 5683
+        }
+    },
+    {
+        "name": "commerce-dev-environment",
+        "description": "vagrant-puppet based dev environment for open source e-commerce systems (Magento, OXID, Shopware)",
+        "languages": {
+            "Puppet": 2557,
+            "Ruby": 2489
+        }
+    },
+    {
+        "name": "puppet-cron",
+        "description": "Puppet module to manage cron jobs via /etc/cron.d",
+        "languages": {
+            "Puppet": 10104,
+            "Ruby": 5565,
+            "HTML": 663
+        }
+    },
+    {
+        "name": "vagrant-php-src-dev",
+        "description": "Uses Vagrant to provision a basic virtual environment for hacking on the PHP core.",
+        "languages": {
+            "Puppet": 5664,
+            "Shell": 890
+        }
+    },
+    {
+        "name": "drupal8.dev",
+        "description": "Vagrant machine for drupal 8 or any other php project",
+        "languages": {
+            "Puppet": 18358,
+            "Vim Script": 10301,
+            "Shell": 9114,
+            "Ruby": 1037
+        }
+    },
+    {
+        "name": "puppet-sysctl",
+        "description": "Puppet module to manage sysctl parameters",
+        "languages": {
+            "Puppet": 5655,
+            "Ruby": 1307,
+            "HTML": 232
+        }
+    },
+    {
+        "name": "operations-puppet-kafka",
+        "description": "Mirror of https://gerrit.wikimedia.org/g/operations/puppet/kafka See https://www.mediawiki.org/wiki/Developer_access for contributing",
+        "languages": {
+            "Puppet": 73417,
+            "HTML": 16089,
+            "Ruby": 607,
+            "Makefile": 211
+        }
+    },
+    {
+        "name": "puppet-vmwaretools",
+        "description": "Puppet module to manage VMware Operating System Specific Packages for VMware tools installation.",
+        "languages": {
+            "Puppet": 34880,
+            "Ruby": 29218,
+            "HTML": 523
+        }
+    },
+    {
+        "name": "Magento-Vagrant-Puppet",
+        "description": "A Vagrantfile and some puppet scripts for an installation of a magento shop",
+        "languages": {
+            "Puppet": 5351,
+            "Ruby": 1598
+        }
+    },
+    {
+        "name": "matomo-dev-environment",
+        "description": "Matomo Development Environment (Vagrant)",
+        "languages": {
+            "Puppet": 14171,
+            "Ruby": 4514,
+            "Shell": 2897,
+            "PHP": 2304,
+            "Dockerfile": 1080,
+            "Pascal": 14
+        }
+    },
+    {
+        "name": "puppet-newrelic",
+        "description": "puppet module for installing the New Relic server monitor",
+        "languages": {
+            "Puppet": 2933
+        }
+    },
+    {
+        "name": "puppet-micro-integrator",
+        "description": null,
+        "languages": {
+            "Puppet": 19326,
+            "Shell": 16123,
+            "HTML": 4756
+        }
+    },
+    {
+        "name": "vagrant-pxe",
+        "description": "Configures a Virtual Machine to be a PXE server using DNSMasq",
+        "languages": {
+            "Puppet": 1329,
+            "Shell": 449,
+            "Ruby": 231
+        }
+    },
+    {
+        "name": "web_development_vm_how_to",
+        "description": "Instructions and scripts to quickly set up development and production environments for PHP, Nginx, and MySQL based infrastructure.",
+        "languages": {
+            "Puppet": 1001,
+            "Ruby": 901
+        }
+    },
+    {
+        "name": "percona-cluster",
+        "description": "Percona XtraDB Cluster test",
+        "languages": {
+            "Puppet": 11332,
+            "Ruby": 10230
+        }
+    },
+    {
+        "name": "puppet-puppet",
+        "description": "100% free range, organic, pesticide free Puppet module for managing Puppet",
+        "languages": {
+            "Puppet": 46646,
+            "Ruby": 34448,
+            "HTML": 5184,
+            "Pascal": 201
+        }
+    },
+    {
+        "name": "vagrant-craft",
+        "description": "A puppet provisioned Vagrant development server for Craft CMS websites/applications. It uses the standard Vagrant Ubuntu Precise base box (precise64.box).",
+        "languages": {
+            "Puppet": 5179,
+            "PHP": 803
+        }
+    },
+    {
+        "name": "wp-calypso-bootstrap",
+        "description": "Development environment for Calypso - built with Vagrant and Puppet",
+        "languages": {
+            "Puppet": 5810,
+            "Shell": 2705
+        }
+    },
+    {
+        "name": "puppet-classifier",
+        "description": "A Rule based Node Classifier using Hiera",
+        "languages": {
+            "Puppet": 8305,
+            "Ruby": 3329,
+            "Pascal": 83
+        }
+    },
+    {
+        "name": "emscripten-vagrant",
+        "description": null,
+        "languages": {
+            "Puppet": 2269,
+            "Ruby": 479
+        }
+    },
+    {
+        "name": "puppet-icingaweb2",
+        "description": "Puppet module to manage Icinga Web 2",
+        "languages": {
+            "Puppet": 173386,
+            "Ruby": 110434,
+            "Dockerfile": 234,
+            "HTML": 196,
+            "Pascal": 116
+        }
+    },
+    {
+        "name": "puppet",
+        "description": "Puppet config for OCF servers and lab machines",
+        "languages": {
+            "Puppet": 362741,
+            "Python": 162776,
+            "Shell": 83525,
+            "HTML": 77356,
+            "Ruby": 5200,
+            "Jinja": 3854,
+            "JavaScript": 1528,
+            "Makefile": 899
+        }
+    },
+    {
+        "name": "vagrant-dev-lamp",
+        "description": "Base LAMP (PHP) stack with vagrant that includes remote debugging, profiling with xhprof and other common PHP QA tools.",
+        "languages": {
+            "Puppet": 4380,
+            "Ruby": 3000,
+            "PHP": 1266
+        }
+    },
+    {
+        "name": "puppet-network",
+        "description": "Puppet module to manage networking on Suse, Debian and RedHat. ",
+        "languages": {
+            "Puppet": 62937,
+            "HTML": 21584,
+            "Ruby": 21242,
+            "Shell": 3876
+        }
+    },
+    {
+        "name": "sublime-text-puppet-DEPRECATED",
+        "description": "Sublime Text (2) Plugin for Puppet",
+        "languages": {
+            "Puppet": 256
+        }
+    },
+    {
+        "name": "buildfarm_deployment",
+        "description": null,
+        "languages": {
+            "Puppet": 51582,
+            "Python": 13777,
+            "HTML": 13489,
+            "Shell": 11139,
+            "Groovy": 990,
+            "Ruby": 506
+        }
+    },
+    {
+        "name": "logstash-fundamentals",
+        "description": null,
+        "languages": {
+            "Puppet": 17765,
+            "Vim Script": 3678,
+            "Shell": 1559
+        }
+    },
+    {
+        "name": "neo4j-puppet",
+        "description": "Puppet module for installing Neo4j on Linux systems",
+        "languages": {
+            "Puppet": 8057,
+            "Shell": 991,
+            "Ruby": 937
+        }
+    },
+    {
+        "name": "jenkins-example",
+        "description": "A demonstration of a continuous integration pipeline focused on security testing",
+        "languages": {
+            "Puppet": 4877,
+            "Ruby": 3653,
+            "Shell": 856
+        }
+    },
+    {
+        "name": "puppet-kafka",
+        "description": "The kafka module for managing the installation and configuration of Apache Kafka",
+        "languages": {
+            "Puppet": 55598,
+            "Ruby": 48195,
+            "Shell": 4548,
+            "HTML": 2234
+        }
+    },
+    {
+        "name": "puppet-orchestrator-for-mysql",
+        "description": "Puppet Module used with Orchestrator",
+        "languages": {
+            "Puppet": 12127,
+            "HTML": 173
+        }
+    },
+    {
+        "name": "puppet-logstashforwarder",
+        "description": "Puppet module for Logstash Forwarder",
+        "languages": {
+            "Puppet": 30581,
+            "Ruby": 25508,
+            "Shell": 7327,
+            "HTML": 146
+        }
+    },
+    {
+        "name": "puppet-boilerplate-modules",
+        "description": "Puppet module boilerplates to boost your efficiency and code quality. (Puppet >= 2.7.x only)",
+        "languages": {
+            "Puppet": 135896,
+            "Shell": 57453
+        }
+    },
+    {
+        "name": "puppet-openldap",
+        "description": "LDAP Configuration Management Module for Puppet",
+        "languages": {
+            "Puppet": 26060,
+            "HTML": 22931,
+            "Ruby": 6722,
+            "Shell": 433
+        }
+    },
+    {
+        "name": "puppet-puppetexplorer",
+        "description": "Puppet module for installing Puppet Explorer",
+        "languages": {
+            "Puppet": 8260,
+            "Ruby": 5221,
+            "HTML": 762
+        }
+    },
+    {
+        "name": "puppet-windows",
+        "description": "Puppet configurations for common Windows administration",
+        "languages": {
+            "Puppet": 29916,
+            "Python": 11331,
+            "HTML": 5559
+        }
+    },
+    {
+        "name": "oscar",
+        "description": "Drupal development environments in a jiffy.",
+        "languages": {
+            "Puppet": 7935,
+            "Ruby": 5826,
+            "Shell": 1645,
+            "Python": 1400
+        }
+    },
+    {
+        "name": "puppetlabs-peadm",
+        "description": "A Puppet module defining Bolt plans used to automate Puppet Enterprise deployments",
+        "languages": {
+            "Puppet": 153999,
+            "Ruby": 82197,
+            "Shell": 31285,
+            "Pascal": 3653,
+            "Python": 3179,
+            "Dockerfile": 2244,
+            "PowerShell": 1116
+        }
+    },
+    {
+        "name": "spark-vagrant-vm",
+        "description": "Spark Vagrant VM definition and runnable examples.",
+        "languages": {
+            "Puppet": 6886,
+            "Scala": 5512,
+            "Shell": 2586,
+            "Ruby": 1487
+        }
+    },
+    {
+        "name": "kickstack",
+        "description": "This repository is long obsolete, and has been superseded by much better options to deploy OpenStack.",
+        "languages": {
+            "Puppet": 68165
+        }
+    },
+    {
+        "name": "puppet-wordpress",
+        "description": "Puppet module to set up an instance of wordpress",
+        "languages": {
+            "Puppet": 7524,
+            "Ruby": 426
+        }
+    },
+    {
+        "name": "cptserver",
+        "description": "A student web development environment using vagrant, virtualbox, and puppet.",
+        "languages": {
+            "Puppet": 10067,
+            "PHP": 1427,
+            "Shell": 34
+        }
+    },
+    {
+        "name": "learning-puppet4",
+        "description": "Learning Puppet 4 setup and exercises",
+        "languages": {
+            "Puppet": 8398,
+            "Pascal": 3528,
+            "Ruby": 2350,
+            "Shell": 581
+        }
+    },
+    {
+        "name": "puppet-archive",
+        "description": null,
+        "languages": {
+            "Puppet": 11863,
+            "Ruby": 7267
+        }
+    },
+    {
+        "name": "puppet-munki",
+        "description": null,
+        "languages": {
+            "Puppet": 22580,
+            "Ruby": 5058,
+            "Pascal": 2252,
+            "Shell": 224
+        }
+    },
+    {
+        "name": "puppet-users",
+        "description": "User account managed module for Puppet",
+        "languages": {
+            "Puppet": 15000,
+            "Shell": 4600,
+            "Ruby": 725
+        }
+    },
+    {
+        "name": "puppet-vmwaretools",
+        "description": "Puppet module for non-OSP VMware Tools Installation",
+        "languages": {
+            "Puppet": 18350,
+            "Ruby": 12685,
+            "Shell": 1495
+        }
+    },
+    {
+        "name": "awaseroot",
+        "description": "http://awaseroot.wordpress.com",
+        "languages": {
+            "Puppet": 17044,
+            "Shell": 9991,
+            "Python": 5094,
+            "PHP": 96
+        }
+    },
+    {
+        "name": "puppetlabs-passenger",
+        "description": "Puppet Labs Module for Passenger",
+        "languages": {
+            "Puppet": 8233,
+            "Ruby": 7442,
+            "HTML": 648
+        }
+    },
+    {
+        "name": "puppet-roadwarrior",
+        "description": "Configures a road warrior style IKEv2 VPN with StrongSwan and cert-based authentication ideal for mobile devices",
+        "languages": {
+            "Puppet": 16170,
+            "HTML": 8011,
+            "Ruby": 2718
+        }
+    },
+    {
+        "name": "pe-razor-vagrant-stack",
+        "description": "This is a vagrant stack for testing Razor in PE",
+        "languages": {
+            "Puppet": 5469,
+            "Ruby": 147
+        }
+    },
+    {
+        "name": "vagrant-debian-php-vm",
+        "description": "Vagrant: Debian VM (wheezy 64bit) with PHP 5.5.7, MySQL, Nginx, Redis",
+        "languages": {
+            "Puppet": 6392
+        }
+    },
+    {
+        "name": "symfony2-puppet",
+        "description": "A simple layout of your Vagrant / puppet manifests that you can drop into your root directory of your symfony2 project",
+        "languages": {
+            "Puppet": 5464,
+            "Ruby": 1305
+        }
+    },
+    {
+        "name": "puppet-manila",
+        "description": "OpenStack Manila Puppet Module. Mirror of code maintained at opendev.org.",
+        "languages": {
+            "Puppet": 209250,
+            "Ruby": 194274,
+            "Python": 9253
+        }
+    },
+    {
+        "name": "gds-boxen",
+        "description": "Apple Macbook setup via Puppet - forked from https://github.com/boxen/our-boxen",
+        "languages": {
+            "Puppet": 27685,
+            "Ruby": 22926,
+            "Shell": 3803,
+            "Pascal": 2686,
+            "HTML": 692
+        }
+    },
+    {
+        "name": "my-vagrant-puppet-lamp",
+        "description": null,
+        "languages": {
+            "Puppet": 3639,
+            "Ruby": 507
+        }
+    },
+    {
+        "name": "vagrant-common-lisp",
+        "description": "Common Lisp Vagrantfile",
+        "languages": {
+            "Puppet": 5329,
+            "Common Lisp": 197,
+            "Emacs Lisp": 101
+        }
+    },
+    {
+        "name": "vagrant-puppet-demo",
+        "description": "Demo project to illustrate the automatic setup of development/testing environments with Vagrant and Puppet",
+        "languages": {
+            "Puppet": 2087,
+            "Ruby": 876
+        }
+    },
+    {
+        "name": "lamp-stack",
+        "description": null,
+        "languages": {
+            "Puppet": 2078
+        }
+    },
+    {
+        "name": "puppet-ldap",
+        "description": "OpenLDAP module for puppet",
+        "languages": {
+            "Puppet": 33838,
+            "HTML": 18301,
+            "Ruby": 13579
+        }
+    },
+    {
+        "name": "puppet-bind",
+        "description": "Puppet BIND DNS server module",
+        "languages": {
+            "Puppet": 11886,
+            "HTML": 4589,
+            "Ruby": 2589
+        }
+    },
+    {
+        "name": "puppet-demo",
+        "description": null,
+        "languages": {
+            "Puppet": 6781,
+            "Ruby": 2813,
+            "HTML": 781
+        }
+    },
+    {
+        "name": "puppet-graphite",
+        "description": null,
+        "languages": {
+            "Puppet": 58139,
+            "HTML": 55448,
+            "Shell": 4736,
+            "Perl": 2777,
+            "Ruby": 1968,
+            "Pascal": 17
+        }
+    },
+    {
+        "name": "puppet-patching",
+        "description": "Puppet module to use when patching a system.",
+        "languages": {
+            "Puppet": 85485,
+            "PowerShell": 45479,
+            "Shell": 30930,
+            "Ruby": 29545,
+            "Makefile": 3474,
+            "Dockerfile": 234
+        }
+    },
+    {
+        "name": "vagrant-puppet-nginx-uwsgi-flask",
+        "description": "A pretty bare set up for running Flask in nginx through uwsgi in Vagrant deployed by Puppet. Got it?",
+        "languages": {
+            "Puppet": 2854,
+            "HTML": 454,
+            "Python": 164
+        }
+    },
+    {
+        "name": "puppet-mac_admin",
+        "description": "A Puppet module to administer Mac OS X Machines",
+        "languages": {
+            "Puppet": 23119,
+            "HTML": 10246,
+            "Ruby": 8315,
+            "Shell": 3491,
+            "Python": 1165
+        }
+    },
+    {
+        "name": "puppet-postgres",
+        "description": "Puppet Postgres Module",
+        "languages": {
+            "Puppet": 9511,
+            "Ruby": 426
+        }
+    },
+    {
+        "name": "puppet-composer",
+        "description": "A very flexible puppet module to install and use the composer PHP dependency manager.",
+        "languages": {
+            "Puppet": 18388,
+            "Ruby": 17292,
+            "HTML": 1675
+        }
+    },
+    {
+        "name": "vagrant-hadoop",
+        "description": "Vagrant configuration to bootstrap a Hadoop cluster",
+        "languages": {
+            "Puppet": 3221,
+            "Shell": 2240,
+            "Ruby": 1103
+        }
+    },
+    {
+        "name": "vagrant",
+        "description": "Vagrant configuration suitable for running ReactPHP.",
+        "languages": {
+            "Puppet": 4971,
+            "PHP": 20
+        }
+    },
+    {
+        "name": "aspnet-internationalization",
+        "description": "NuGet packages to make i18n easy for developers",
+        "languages": {
+            "Puppet": 98066,
+            "C#": 19889,
+            "PowerShell": 6409,
+            "JavaScript": 2686,
+            "ASP": 1267,
+            "Shell": 1013
+        }
+    },
+    {
+        "name": "puppet-cassandra",
+        "description": "A Puppet module to install Apache Cassandra from the DataStax distribution",
+        "languages": {
+            "Puppet": 21799,
+            "Ruby": 15767
+        }
+    },
+    {
+        "name": "apigility-blog-example",
+        "description": "Simple example of a restful blog API built using Apigility",
+        "languages": {
+            "Puppet": 376542,
+            "Ruby": 305917,
+            "Shell": 50262,
+            "Perl": 41847,
+            "PHP": 40228
+        }
+    },
+    {
+        "name": "django-vagrant",
+        "description": "A Vagrant instance to help you get started with the Django framework.",
+        "languages": {
+            "Puppet": 2197
+        }
+    },
+    {
+        "name": "puppet-locales",
+        "description": "Manage locales with puppet",
+        "languages": {
+            "Puppet": 12508,
+            "Ruby": 2930,
+            "HTML": 2036,
+            "Dockerfile": 576
+        }
+    },
+    {
+        "name": "foreman-infra",
+        "description": "Puppet modules and scripts to manage Foreman project infrastructure",
+        "languages": {
+            "Puppet": 99407,
+            "HTML": 42333,
+            "Python": 32476,
+            "Ruby": 28891,
+            "Shell": 27656,
+            "Pascal": 924
+        }
+    },
+    {
+        "name": "Portable-Vagrant",
+        "description": "Virtual box for development",
+        "languages": {
+            "Puppet": 9549,
+            "PHP": 666,
+            "Python": 166
+        }
+    },
+    {
+        "name": "st2workroom",
+        "description": "Vagrant environment used to play with StackStorm, develop StackStorm for your environment, or develop on StackStorm itself! ",
+        "languages": {
+            "Puppet": 90005,
+            "Shell": 44031,
+            "HTML": 12409,
+            "Ruby": 10484,
+            "Pascal": 2172
+        }
+    },
+    {
+        "name": "puppet-nginx-hardening",
+        "description": "Nginx Web Server Hardening with Puppet",
+        "languages": {
+            "Puppet": 3432,
+            "Ruby": 2234,
+            "HTML": 602
+        }
+    },
+    {
+        "name": "puppet-phpqatools",
+        "description": "Enables provisioning of PHP QA Tools (http://phpqatools.org) using Puppet 2.6+.",
+        "languages": {
+            "Puppet": 3343,
+            "Ruby": 426
+        }
+    },
+    {
+        "name": "puppet-openstack-cookiecutter",
+        "description": "Cookiecutter template for a compliant OpenStack puppet-modules. Mirror of code maintained at opendev.org.",
+        "languages": {
+            "Puppet": 37316,
+            "Ruby": 33924,
+            "Shell": 9749,
+            "Python": 9556
+        }
+    },
+    {
+        "name": "ubuntu1404-mongodb26",
+        "description": "Ubuntu 14.04 + MongoDB 2.6",
+        "languages": {
+            "Puppet": 653
+        }
+    },
+    {
+        "name": "nrdev",
+        "description": "Puppet-provisioned Vagrant environment for local development of https://github.com/mtgred/netrunner",
+        "languages": {
+            "Puppet": 4869
+        }
+    },
+    {
+        "name": "drupal-puppet",
+        "description": "Puppet modules for managing Drupal and the LAMP stack",
+        "languages": {
+            "Puppet": 22337,
+            "Ruby": 4341,
+            "Augeas": 2402
+        }
+    },
+    {
+        "name": "Structuremap.MVC5",
+        "description": null,
+        "languages": {
+            "Puppet": 11046,
+            "Shell": 168
+        }
+    },
+    {
+        "name": "vagrant-vm",
+        "description": "Setup for my Vagrant VMs",
+        "languages": {
+            "Puppet": 127942,
+            "Ruby": 38432,
+            "HTML": 13561,
+            "Shell": 2955,
+            "Python": 908,
+            "Pascal": 699
+        }
+    },
+    {
+        "name": "liga-solidaria-storage",
+        "description": "Projeto de Storage para a Liga Solid\u00e1ria",
+        "languages": {
+            "Puppet": 379062,
+            "Ruby": 358577,
+            "Shell": 50262,
+            "Perl": 41847,
+            "PHP": 25183
+        }
+    },
+    {
+        "name": "puppet-dell",
+        "description": "dell specific installations (openmanage and others)",
+        "languages": {
+            "Puppet": 24638,
+            "Shell": 15541,
+            "Ruby": 12541
+        }
+    },
+    {
+        "name": "puppet-play",
+        "description": "Puppet Module for Play Framework",
+        "languages": {
+            "Puppet": 8080,
+            "Ruby": 426
+        }
+    },
+    {
+        "name": "puppet-st2",
+        "description": "Puppet Module to install and configure StackStorm, IFTTT for Ops",
+        "languages": {
+            "Puppet": 138096,
+            "Ruby": 90202,
+            "Python": 49754,
+            "Dockerfile": 6380,
+            "Shell": 4250,
+            "HTML": 3874,
+            "Makefile": 3326,
+            "Pascal": 988
+        }
+    },
+    {
+        "name": "puppet",
+        "description": "Brightbox battle-tested puppet modules for web cluster management",
+        "languages": {
+            "Puppet": 42180,
+            "Ruby": 18862,
+            "Shell": 600
+        }
+    },
+    {
+        "name": "puppet-rbenv",
+        "description": "Puppet module to install rbenv ruby manager for systemwide use",
+        "languages": {
+            "Puppet": 18323,
+            "Ruby": 15428,
+            "Dockerfile": 168,
+            "Shell": 97
+        }
+    },
+    {
+        "name": "vagrant-phabricator",
+        "description": "Vagrant for Phabricator",
+        "languages": {
+            "Puppet": 3345,
+            "HTML": 1042,
+            "Ruby": 579
+        }
+    },
+    {
+        "name": "paskernel",
+        "description": "Nikolay Nikolov's tiny bootable x86 OS written in pascal.",
+        "languages": {
+            "Puppet": 12037,
+            "Assembly": 1125,
+            "Shell": 348
+        }
+    },
+    {
+        "name": "puppet-splunk",
+        "description": "Deploy Splunk instances on Windows and Linux in simple, distributed or (multisite) clustered topologies. Demoed by Splunk at .conf2017",
+        "languages": {
+            "Puppet": 77209,
+            "Ruby": 36373
+        }
+    },
+    {
+        "name": "vps-dev-setup",
+        "description": "Puppet and Vagrant configuration files to setup a development environment similar to ServerGrove",
+        "languages": {
+            "Puppet": 4614
+        }
+    },
+    {
+        "name": "federated-wiki",
+        "description": null,
+        "languages": {
+            "Puppet": 8577,
+            "Ruby": 4477
+        }
+    },
+    {
+        "name": "vagrant-devstack",
+        "description": "This project will allow you automate the creation of a VM with devstack installed and running. It uses vagrant to create the VM and puppet to configure the VM so all required software is installed and running.",
+        "languages": {
+            "Puppet": 2241,
+            "Ruby": 1567
+        }
+    },
+    {
+        "name": "vagrant-wordpress",
+        "description": "Simple Vagrant setup for WordPress",
+        "languages": {
+            "Puppet": 7037,
+            "Ruby": 3706,
+            "HTML": 1706,
+            "Nginx": 467
+        }
+    },
+    {
+        "name": "vagrant-puppet-LAMP",
+        "description": "LAMP setup with vagrant and puppet",
+        "languages": {
+            "Puppet": 5412,
+            "Ruby": 515
+        }
+    },
+    {
+        "name": "Dynatrace-AppMon-Puppet",
+        "description": "Installs the Dynatrace Application Monitoring solution using Puppet.",
+        "languages": {
+            "Puppet": 79371,
+            "Ruby": 58768,
+            "Shell": 33249,
+            "HTML": 7188
+        }
+    },
+    {
+        "name": "puppet-drbd",
+        "description": "Basic module for configuring active-passive drbd resources",
+        "languages": {
+            "Puppet": 13996,
+            "Ruby": 9171,
+            "HTML": 1550
+        }
+    },
+    {
+        "name": "symfony2-puppet-new",
+        "description": "A generic symfony2 project managed with vagrant / puppet",
+        "languages": {
+            "Puppet": 251065,
+            "Ruby": 49044,
+            "PHP": 46853,
+            "Shell": 33414,
+            "CSS": 2204
+        }
+    },
+    {
+        "name": "otto",
+        "description": "You got your platform in my application management! You got your application in my platform management!",
+        "languages": {
+            "Puppet": 11579,
+            "Java": 1680,
+            "Scala": 540
+        }
+    },
+    {
+        "name": "php-dev-vm",
+        "description": "PHP Development VM using Vagrant + Puppet",
+        "languages": {
+            "Puppet": 3309,
+            "Ruby": 1315,
+            "PHP": 28
+        }
+    },
+    {
+        "name": "vagrant-symfony2-nginx-php54fpm-dev-box",
+        "description": "Vagrant Precise Development Box with Nginx and PHP 5.4 for Symfony2 Development",
+        "languages": {
+            "Puppet": 4840,
+            "PHP": 728
+        }
     }
 ]
