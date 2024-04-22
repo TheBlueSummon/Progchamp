@@ -50,5 +50,1973 @@
             "Dockerfile": 14823,
             "Shell": 5189
         }
+    },
+    {
+        "name": "mag",
+        "description": "Assembly and binning of metagenomes",
+        "languages": {
+            "Nextflow": 259535,
+            "Python": 38992,
+            "Groovy": 36838,
+            "Shell": 8478,
+            "R": 6153,
+            "HTML": 2455
+        }
+    },
+    {
+        "name": "chipseq",
+        "description": "ChIP-seq peak-calling, QC and differential analysis pipeline.",
+        "languages": {
+            "Nextflow": 154814,
+            "Groovy": 45074,
+            "R": 29674,
+            "Python": 29649,
+            "Perl": 4085,
+            "HTML": 2498
+        }
+    },
+    {
+        "name": "scrnaseq",
+        "description": "A single-cell RNAseq pipeline for 10X genomics data",
+        "languages": {
+            "Nextflow": 109903,
+            "Groovy": 28219,
+            "Python": 24863,
+            "R": 3316,
+            "HTML": 2509
+        }
+    },
+    {
+        "name": "atacseq",
+        "description": "ATAC-seq peak-calling and QC analysis pipeline",
+        "languages": {
+            "Nextflow": 197729,
+            "Python": 35429,
+            "R": 29687,
+            "Groovy": 28274,
+            "Perl": 4085,
+            "HTML": 2497
+        }
+    },
+    {
+        "name": "ampliseq",
+        "description": "Amplicon sequencing analysis workflow using DADA2 and QIIME2",
+        "languages": {
+            "Nextflow": 449769,
+            "Python": 26015,
+            "R": 19953,
+            "Shell": 6158,
+            "HTML": 2508,
+            "Groovy": 1376,
+            "CSS": 1002
+        }
+    },
+    {
+        "name": "nanoseq",
+        "description": "Nanopore demultiplexing, QC and alignment pipeline",
+        "languages": {
+            "Nextflow": 161407,
+            "Groovy": 50315,
+            "R": 11389,
+            "Python": 11211,
+            "Perl": 4017,
+            "HTML": 2492
+        }
+    },
+    {
+        "name": "methylseq",
+        "description": "Methylation (Bisulfite-Sequencing) analysis pipeline using Bismark or bwa-meth + MethylDackel",
+        "languages": {
+            "Nextflow": 127344,
+            "Groovy": 28656,
+            "Python": 9652,
+            "TeX": 2750,
+            "HTML": 2555
+        }
+    },
+    {
+        "name": "CalliNGS-NF",
+        "description": "GATK RNA-Seq Variant Calling in Nextflow",
+        "languages": {
+            "Nextflow": 14767,
+            "R": 8243
+        }
+    },
+    {
+        "name": "rnafusion",
+        "description": "RNA-seq analysis pipeline for detection of gene-fusions",
+        "languages": {
+            "Nextflow": 105257,
+            "Python": 24719,
+            "HTML": 2524
+        }
+    },
+    {
+        "name": "eager",
+        "description": "A fully reproducible and state-of-the-art ancient DNA analysis pipeline",
+        "languages": {
+            "Nextflow": 223844,
+            "Groovy": 36935,
+            "Python": 31803,
+            "HTML": 2496,
+            "Dockerfile": 564
+        }
+    },
+    {
+        "name": "fetchngs",
+        "description": "Pipeline to fetch metadata and raw FastQ files from public databases",
+        "languages": {
+            "Nextflow": 76119,
+            "Python": 22999,
+            "HTML": 2516
+        }
+    },
+    {
+        "name": "viralrecon",
+        "description": "Assembly and intrahost/low-frequency variant calling for viral samples",
+        "languages": {
+            "Nextflow": 214362,
+            "Groovy": 66840,
+            "Python": 65418,
+            "R": 15901,
+            "HTML": 5131
+        }
+    },
+    {
+        "name": "What_the_Phage",
+        "description": "WtP: Phage identification via nextflow and docker or singularity",
+        "languages": {
+            "Nextflow": 170445,
+            "Shell": 9196,
+            "Dockerfile": 6800,
+            "Python": 5984,
+            "R": 5152
+        }
+    },
+    {
+        "name": "mcmicro",
+        "description": "Multiple-choice microscopy pipeline",
+        "languages": {
+            "Nextflow": 42062,
+            "Python": 19006,
+            "Groovy": 12809,
+            "Shell": 1027
+        }
+    },
+    {
+        "name": "h3agwas",
+        "description": "GWAS Pipeline for H3Africa",
+        "languages": {
+            "Nextflow": 559789,
+            "Python": 482105,
+            "Perl": 229057,
+            "R": 152602,
+            "Shell": 850
+        }
+    },
+    {
+        "name": "training",
+        "description": "Nextflow training material ",
+        "languages": {
+            "Nextflow": 39594,
+            "R": 8243,
+            "Shell": 92,
+            "Python": 72,
+            "Groovy": 37
+        }
+    },
+    {
+        "name": "nextflow-demos",
+        "description": "Example Nextflow pipelines and programming techniques",
+        "languages": {
+            "Nextflow": 113781,
+            "Makefile": 14342,
+            "Python": 13581,
+            "HTML": 5285,
+            "Shell": 2127,
+            "Groovy": 1652,
+            "Common Workflow Language": 903,
+            "R": 464,
+            "TeX": 296,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "pgsc_calc",
+        "description": "The Polygenic Score Catalog Calculator is a nextflow pipeline for polygenic score calculation",
+        "languages": {
+            "Nextflow": 132580,
+            "Groovy": 35679,
+            "Shell": 5540,
+            "Python": 3327,
+            "HTML": 2566,
+            "Dockerfile": 1561,
+            "Makefile": 1052,
+            "CSS": 280
+        }
+    },
+    {
+        "name": "bacannot",
+        "description": "Generic but comprehensive pipeline for prokaryotic genome annotation and interrogation with interactive reports and shiny app.",
+        "languages": {
+            "Nextflow": 130347,
+            "Groovy": 43976,
+            "R": 30200,
+            "Dockerfile": 7434,
+            "Python": 5203,
+            "Shell": 531
+        }
+    },
+    {
+        "name": "NanoCLUST",
+        "description": "NanoCLUST is an analysis pipeline for UMAP-based classification of amplicon-based full-length 16S rRNA nanopore reads",
+        "languages": {
+            "Nextflow": 51171,
+            "Python": 28292,
+            "Dockerfile": 5121,
+            "HTML": 2535,
+            "R": 1124
+        }
+    },
+    {
+        "name": "taxprofiler",
+        "description": "Highly parallelised multi-taxonomic profiling of shotgun short- and long-read metagenomic data",
+        "languages": {
+            "Nextflow": 221409,
+            "HTML": 2559
+        }
+    },
+    {
+        "name": "ncov2019-artic-nf",
+        "description": "A Nextflow pipeline for running the ARTIC network's fieldbioinformatics tools (https://github.com/artic-network/fieldbioinformatics), with a focus on ncov2019 ",
+        "languages": {
+            "Nextflow": 38181,
+            "Shell": 19581,
+            "Python": 18329,
+            "Dockerfile": 1337
+        }
+    },
+    {
+        "name": "master_of_pores",
+        "description": " Nextflow pipeline for analysis of direct RNA Nanopore reads",
+        "languages": {
+            "Nextflow": 67382,
+            "R": 5704,
+            "HCL": 3853,
+            "Shell": 2269
+        }
+    },
+    {
+        "name": "wf-human-variation",
+        "description": null,
+        "languages": {
+            "Nextflow": 176807,
+            "Python": 142626,
+            "Groovy": 60333,
+            "R": 5252,
+            "Shell": 2833
+        }
+    },
+    {
+        "name": "configs",
+        "description": "Config files used to define parameters specific to compute environments at different Institutions",
+        "languages": {
+            "Nextflow": 266451,
+            "Python": 2630
+        }
+    },
+    {
+        "name": "vsn-pipelines",
+        "description": "A repository of pipelines for single-cell data in Nextflow DSL2",
+        "languages": {
+            "Nextflow": 435248,
+            "Python": 219816,
+            "Jupyter Notebook": 111983,
+            "R": 56768,
+            "Dockerfile": 24161,
+            "Shell": 1785
+        }
+    },
+    {
+        "name": "hic",
+        "description": "Analysis of Chromosome Conformation Capture data (Hi-C)",
+        "languages": {
+            "Nextflow": 84740,
+            "Python": 77410,
+            "Groovy": 48224,
+            "C++": 35215,
+            "HTML": 2464,
+            "Shell": 2256
+        }
+    },
+    {
+        "name": "raredisease",
+        "description": "Call and score variants from WGS/WES of rare disease patients.",
+        "languages": {
+            "Nextflow": 373983,
+            "Python": 11358,
+            "HTML": 2533,
+            "Groovy": 2257,
+            "Shell": 629
+        }
+    },
+    {
+        "name": "MetONTIIME",
+        "description": "A Meta-barcoding pipeline for analysing ONT data in QIIME2 framework",
+        "languages": {
+            "Nextflow": 27447,
+            "R": 6728,
+            "Dockerfile": 891
+        }
+    },
+    {
+        "name": "smrnaseq",
+        "description": "A small-RNA sequencing analysis pipeline",
+        "languages": {
+            "Nextflow": 133125,
+            "R": 4988,
+            "HTML": 2494
+        }
+    },
+    {
+        "name": "cutandrun",
+        "description": "Analysis pipeline for CUT&RUN and CUT&TAG experiments that includes QC, support for spike-ins, IgG controls, peak calling and downstream analysis.",
+        "languages": {
+            "Nextflow": 240231,
+            "Python": 47655,
+            "Groovy": 34134,
+            "Perl": 4386,
+            "HTML": 2632,
+            "Awk": 1963,
+            "Dockerfile": 175
+        }
+    },
+    {
+        "name": "rnaseq-nf",
+        "description": "A proof of concept of RNAseq pipeline",
+        "languages": {
+            "Nextflow": 7102,
+            "Dockerfile": 398,
+            "Makefile": 219,
+            "Shell": 134
+        }
+    },
+    {
+        "name": "nextNEOpi",
+        "description": "nextNEOpi: a comprehensive pipeline for computational neoantigen prediction",
+        "languages": {
+            "Nextflow": 209551,
+            "R": 117320,
+            "Python": 77929,
+            "Perl": 13191,
+            "Shell": 2746,
+            "HTML": 2406
+        }
+    },
+    {
+        "name": "MUFFIN",
+        "description": "hybrid assembly and differential binning workflow for metagenomics, transcriptomics and pathway analysis",
+        "languages": {
+            "Nextflow": 75060,
+            "Python": 67627
+        }
+    },
+    {
+        "name": "rare-disease-wf",
+        "description": "(WIP) best-practices workflow for rare disease",
+        "languages": {
+            "Nextflow": 34750,
+            "HTML": 6084,
+            "SystemVerilog": 3433,
+            "Dockerfile": 3430,
+            "Python": 734
+        }
+    },
+    {
+        "name": "nf-gwas",
+        "description": "A nextflow pipeline to perform state-of-the-art genome-wide association studies.",
+        "languages": {
+            "Nextflow": 68207,
+            "Java": 10263,
+            "R": 5717,
+            "Groovy": 5241,
+            "Dockerfile": 2083,
+            "Shell": 396
+        }
+    },
+    {
+        "name": "funcscan",
+        "description": "(Meta-)genome screening for functional and natural product gene sequences",
+        "languages": {
+            "Nextflow": 129418,
+            "Groovy": 36914,
+            "Python": 23850,
+            "HTML": 2518
+        }
+    },
+    {
+        "name": "YAMP",
+        "description": "YAMP: Yet Another Metagenomic Pipeline",
+        "languages": {
+            "Nextflow": 41042,
+            "Shell": 9010,
+            "Python": 1650
+        }
+    },
+    {
+        "name": "hlatyping",
+        "description": "Precision HLA typing from next-generation sequencing data",
+        "languages": {
+            "Nextflow": 66898,
+            "Groovy": 46427,
+            "Python": 16047,
+            "HTML": 2515
+        }
+    },
+    {
+        "name": "MpGAP",
+        "description": "Multi-platform genome assembly pipeline for Illumina, Nanopore and PacBio reads",
+        "languages": {
+            "Nextflow": 36307,
+            "Dockerfile": 2161
+        }
+    },
+    {
+        "name": "bacass",
+        "description": "Simple bacterial assembly and annotation pipeline",
+        "languages": {
+            "Nextflow": 78447,
+            "Python": 11220,
+            "HTML": 2472
+        }
+    },
+    {
+        "name": "variant-calling-pipeline-gatk4",
+        "description": "Variant Calling Pipeline Using GATK4 and Nextflow",
+        "languages": {
+            "Nextflow": 10849,
+            "Dockerfile": 4347,
+            "Shell": 1277
+        }
+    },
+    {
+        "name": "bactmap",
+        "description": "A mapping-based pipeline for creating a phylogeny from bacterial whole genome sequences",
+        "languages": {
+            "Nextflow": 121166,
+            "Groovy": 41188,
+            "Python": 13247,
+            "HTML": 2528
+        }
+    },
+    {
+        "name": "tractoflow",
+        "description": "TractoFlow: A robust, efficient and reproducible diffusion MRI pipeline leveraging Nextflow & Singularity",
+        "languages": {
+            "Nextflow": 73533
+        }
+    },
+    {
+        "name": "HiFi-16S-workflow",
+        "description": "Nextflow pipeline to analyze PacBio HiFi full-length 16S data",
+        "languages": {
+            "Nextflow": 52682,
+            "R": 51057,
+            "Shell": 1760
+        }
+    },
+    {
+        "name": "pangenome",
+        "description": "Renders a collection of sequences into a pangenome graph.",
+        "languages": {
+            "Nextflow": 84916,
+            "HTML": 2798
+        }
+    },
+    {
+        "name": "pipeliner",
+        "description": "A flexible Nextflow-based framework for the definition of sequencing data processing pipelines",
+        "languages": {
+            "Nextflow": 61057,
+            "Python": 54133,
+            "Shell": 8305,
+            "R": 597,
+            "Dockerfile": 248
+        }
+    },
+    {
+        "name": "airrflow",
+        "description": "B-cell and T-cell Adaptive Immune Receptor Repertoire (AIRR) sequencing analysis pipeline using the Immcantation framework",
+        "languages": {
+            "Nextflow": 216642,
+            "Python": 36571,
+            "R": 14967,
+            "Shell": 13196,
+            "HTML": 2522,
+            "CSS": 1057
+        }
+    },
+    {
+        "name": "differentialabundance",
+        "description": "Differential abundance analysis for feature/ observation matrices from platforms such as RNA-seq ",
+        "languages": {
+            "Nextflow": 116863,
+            "Groovy": 27030,
+            "Python": 9429,
+            "HTML": 2584,
+            "CSS": 1002
+        }
+    },
+    {
+        "name": "nf-LO",
+        "description": "A Nextflow workflow to generate lift over files for any pair of genomes",
+        "languages": {
+            "Nextflow": 105086,
+            "Shell": 12228,
+            "Dockerfile": 2722,
+            "q": 243
+        }
+    },
+    {
+        "name": "pipelines-nextflow",
+        "description": "A set of workflows written in Nextflow for Genome Annotation.",
+        "languages": {
+            "Nextflow": 56093
+        }
+    },
+    {
+        "name": "proteinfold",
+        "description": "Protein 3D structure prediction pipeline",
+        "languages": {
+            "Nextflow": 80740,
+            "Groovy": 50424,
+            "Python": 5464,
+            "HTML": 2513
+        }
+    },
+    {
+        "name": "poreCov",
+        "description": "SARS-CoV-2 workflow for nanopore sequence data",
+        "languages": {
+            "Nextflow": 103982,
+            "Python": 55451,
+            "Shell": 3979,
+            "R": 1680
+        }
+    },
+    {
+        "name": "wf-metagenomics",
+        "description": "Metagenomic classification of long-read sequencing data",
+        "languages": {
+            "Nextflow": 123940,
+            "Python": 111419,
+            "Groovy": 60333
+        }
+    },
+    {
+        "name": "spatialvi",
+        "description": "Pipeline for processing spatially-resolved gene counts with spatial coordinates and image data. Designed for 10x Genomics Visium transcriptomics.",
+        "languages": {
+            "Nextflow": 61452,
+            "SCSS": 4733,
+            "HTML": 2735,
+            "Python": 916,
+            "Groovy": 416
+        }
+    },
+    {
+        "name": "aradeepopsis",
+        "description": "A versatile, fully open-source pipeline to extract phenotypic measurements from plant images",
+        "languages": {
+            "Nextflow": 32030,
+            "Python": 13572,
+            "R": 12831,
+            "Groovy": 2839,
+            "Dockerfile": 1181
+        }
+    },
+    {
+        "name": "circrna",
+        "description": "circRNA quantification, differential expression analysis and miRNA target prediction of RNA-Seq data",
+        "languages": {
+            "Nextflow": 180547,
+            "R": 47892,
+            "Shell": 9382,
+            "Python": 4476,
+            "HTML": 2533
+        }
+    },
+    {
+        "name": "Cecret",
+        "description": "Reference-based consensus creation",
+        "languages": {
+            "Nextflow": 120468,
+            "Python": 26717,
+            "Shell": 21433
+        }
+    },
+    {
+        "name": "grape-nf",
+        "description": "An automated RNA-seq pipeline using Nextflow",
+        "languages": {
+            "Nextflow": 54088,
+            "Dockerfile": 15654,
+            "Python": 13058,
+            "Shell": 7763,
+            "Makefile": 5986,
+            "Awk": 425
+        }
+    },
+    {
+        "name": "demultiplex",
+        "description": "Demultiplexing pipeline for sequencing data",
+        "languages": {
+            "Nextflow": 118151,
+            "Groovy": 30580,
+            "HTML": 2524,
+            "Python": 39
+        }
+    },
+    {
+        "name": "rnatoy",
+        "description": "A proof of concept RNA-Seq pipeline with Nextflow",
+        "languages": {
+            "Nextflow": 3725,
+            "Dockerfile": 925
+        }
+    },
+    {
+        "name": "epitopeprediction",
+        "description": "A bioinformatics best-practice analysis pipeline for epitope prediction and annotation",
+        "languages": {
+            "Nextflow": 115502,
+            "Python": 71044,
+            "HTML": 2590,
+            "Shell": 230
+        }
+    },
+    {
+        "name": "metagenomics",
+        "description": "A Nextflow workflow for QC, evaluation, and profiling of metagenomic samples using short- and long-read technologies",
+        "languages": {
+            "Nextflow": 67138,
+            "Groovy": 44654,
+            "Python": 11069,
+            "HTML": 3604
+        }
+    },
+    {
+        "name": "GEMmaker",
+        "description": "A workflow for construction of Gene Expression count Matrices (GEMs). Useful for Differential Gene Expression (DGE) analysis and Gene Co-Expression Network (GCN) construction",
+        "languages": {
+            "Nextflow": 116808,
+            "Python": 45521,
+            "Groovy": 42997,
+            "HTML": 5814,
+            "Shell": 3228,
+            "Dockerfile": 1663
+        }
+    },
+    {
+        "name": "rnasplice",
+        "description": "rnasplice is a bioinformatics pipeline for RNA-seq alternative splicing analysis",
+        "languages": {
+            "Nextflow": 238595,
+            "Python": 72499,
+            "R": 37140,
+            "Groovy": 36897,
+            "HTML": 2501
+        }
+    },
+    {
+        "name": "rnadeseq",
+        "description": "Differential gene expression analysis and pathway analysis of RNAseq data",
+        "languages": {
+            "Nextflow": 86774,
+            "Groovy": 25640,
+            "Python": 11244,
+            "TeX": 9817,
+            "R": 7783,
+            "HTML": 3457,
+            "Dockerfile": 1014,
+            "CSS": 430
+        }
+    },
+    {
+        "name": "proteomicslfq",
+        "description": "Proteomics label-free quantification (LFQ) analysis pipeline",
+        "languages": {
+            "Nextflow": 79250,
+            "R": 48511,
+            "Python": 12789,
+            "HTML": 2690,
+            "Dockerfile": 2040
+        }
+    },
+    {
+        "name": "nf-hack17-tutorial",
+        "description": "Nextflow basic tutorial for newbie users ",
+        "languages": {
+            "Nextflow": 9013
+        }
+    },
+    {
+        "name": "MeRIPseqPipe",
+        "description": "MeRIPseqPipe\uff1aAn integrated analysis pipeline for MeRIP-seq data based on Nextflow.",
+        "languages": {
+            "Nextflow": 84970,
+            "R": 53394,
+            "Shell": 22869,
+            "Perl": 15975,
+            "Groovy": 6432,
+            "Python": 6337,
+            "HTML": 2469,
+            "Dockerfile": 1463
+        }
+    },
+    {
+        "name": "mycosnp-nf",
+        "description": "CDCgov/mycosnp-nf",
+        "languages": {
+            "Nextflow": 8335199,
+            "Groovy": 42895,
+            "Python": 37836,
+            "Perl": 7778,
+            "HTML": 2840,
+            "Shell": 2713,
+            "R": 1990
+        }
+    },
+    {
+        "name": "NAF_dataset",
+        "description": "Form images from U.S. National Archives annotated with text bounding boxes, classes, relationships, and transcription.",
+        "languages": {
+            "Nextflow": 304658,
+            "Shell": 47759,
+            "Python": 10568
+        }
+    },
+    {
+        "name": "DeepVariant",
+        "description": "Deep Variant as a Nextflow pipeline",
+        "languages": {
+            "Nextflow": 14598,
+            "Shell": 1169,
+            "Dockerfile": 1104
+        }
+    },
+    {
+        "name": "mhcquant",
+        "description": "Identify and quantify MHC eluted peptides from mass spectrometry raw data",
+        "languages": {
+            "Nextflow": 162182,
+            "Python": 112168,
+            "Groovy": 30737,
+            "HTML": 2511
+        }
+    },
+    {
+        "name": "compare_genomes",
+        "description": "A comparative genomics workflow using Nextflow, conda, Julia and R",
+        "languages": {
+            "Nextflow": 50406,
+            "Julia": 21633,
+            "R": 10629,
+            "Shell": 3690
+        }
+    },
+    {
+        "name": "CAMITAX",
+        "description": "CAMITAX: Taxon labels for microbial genomes",
+        "languages": {
+            "Nextflow": 13545,
+            "Python": 9609
+        }
+    },
+    {
+        "name": "multifish",
+        "description": "EASI-FISH analysis pipeline for spatial transcriptomics",
+        "languages": {
+            "Nextflow": 118391,
+            "Python": 40121,
+            "Dockerfile": 7283,
+            "Shell": 2608
+        }
+    },
+    {
+        "name": "rnavar",
+        "description": "gatk4 RNA variant calling pipeline",
+        "languages": {
+            "Nextflow": 101348,
+            "Groovy": 43871,
+            "Python": 9283,
+            "HTML": 2467
+        }
+    },
+    {
+        "name": "geneshot",
+        "description": null,
+        "languages": {
+            "Nextflow": 175385,
+            "Python": 45422,
+            "Shell": 7438
+        }
+    },
+    {
+        "name": "ngs-preprocess",
+        "description": "A pipeline for preprocessing NGS data from Illumina, Nanopore and PacBio technologies",
+        "languages": {
+            "Nextflow": 26662,
+            "Dockerfile": 669
+        }
+    },
+    {
+        "name": "nfcamp-tutorial",
+        "description": "A tutorial for DLS-2 migration",
+        "languages": {
+            "Nextflow": 37322,
+            "Dockerfile": 203,
+            "Makefile": 70
+        }
+    },
+    {
+        "name": "TransPi",
+        "description": "TransPi \u2013 a comprehensive TRanscriptome ANalysiS PIpeline for de novo transcriptome assembly",
+        "languages": {
+            "Nextflow": 149562,
+            "Shell": 47734,
+            "R": 11945,
+            "Python": 6008,
+            "Dockerfile": 748
+        }
+    },
+    {
+        "name": "quantms",
+        "description": "Quantitative mass spectrometry workflow. Currently supports proteomics experiments with complex experimental designs for DDA-LFQ, DDA-Isobaric and DIA-LFQ quantification.",
+        "languages": {
+            "Nextflow": 151639,
+            "Python": 66154,
+            "R": 46439,
+            "Groovy": 26281,
+            "HTML": 2488
+        }
+    },
+    {
+        "name": "BioNextflow",
+        "description": "A collection of modules and sub-workflows for Nextflow",
+        "languages": {
+            "Nextflow": 219775,
+            "Perl": 5347,
+            "Python": 1558,
+            "R": 1450,
+            "Roff": 835
+        }
+    },
+    {
+        "name": "alignment-nf",
+        "description": "Whole Exome/Whole Genome Sequencing alignment pipeline",
+        "languages": {
+            "Nextflow": 21029,
+            "HTML": 5795,
+            "Dockerfile": 1469,
+            "Shell": 692,
+            "Roff": 636
+        }
+    },
+    {
+        "name": "sc2-illumina-pipeline",
+        "description": "Bioinformatics pipeline for SARS-CoV-2 sequencing at CZ Biohub",
+        "languages": {
+            "Nextflow": 23086,
+            "Python": 10471,
+            "R": 2537,
+            "Dockerfile": 717,
+            "Makefile": 119
+        }
+    },
+    {
+        "name": "NextflowModules",
+        "description": "UMCU Genetics Nextflow modules",
+        "languages": {
+            "Nextflow": 105501
+        }
+    },
+    {
+        "name": "wf-basecalling",
+        "description": null,
+        "languages": {
+            "Nextflow": 67832,
+            "Groovy": 60333,
+            "Python": 22526,
+            "Shell": 1765
+        }
+    },
+    {
+        "name": "nextflow-example",
+        "description": "A simple DSL2 workflow: tutorial",
+        "languages": {
+            "Nextflow": 29172,
+            "Python": 7581,
+            "Shell": 1801
+        }
+    },
+    {
+        "name": "wf-pore-c",
+        "description": null,
+        "languages": {
+            "Nextflow": 65245,
+            "Groovy": 60333,
+            "Python": 19761
+        }
+    },
+    {
+        "name": "isoseq",
+        "description": "Genome annotation with PacBio Iso-Seq. Takes raw subreads as input, generate Full Length Non Chemiric (FLNC) sequences and produce a bed annotation. ",
+        "languages": {
+            "Nextflow": 76147,
+            "Groovy": 26238,
+            "Python": 8701,
+            "HTML": 2498
+        }
+    },
+    {
+        "name": "annotate_my_genomes",
+        "description": "A genome annotation pipeline that use short and long sequencing reads alignments from animal genomes",
+        "languages": {
+            "Nextflow": 69367,
+            "Shell": 68620,
+            "Python": 28564,
+            "Dockerfile": 5866,
+            "Perl": 1916
+        }
+    },
+    {
+        "name": "clean",
+        "description": "A nextflow pipeline for decontamination of short reads, long reads and contigs ",
+        "languages": {
+            "Nextflow": 54269
+        }
+    },
+    {
+        "name": "porefile",
+        "description": "A Nextflow full-length 16S profiling pipeline for ONT reads",
+        "languages": {
+            "Nextflow": 35636,
+            "R": 9540,
+            "Dockerfile": 466,
+            "Singularity": 445,
+            "Shell": 260
+        }
+    },
+    {
+        "name": "viroprofiler",
+        "description": "A containerized bioinformatics pipeline for viral metagenomic data analysis",
+        "languages": {
+            "Nextflow": 128032,
+            "Python": 69941,
+            "Groovy": 43740,
+            "Dockerfile": 8916,
+            "Perl": 6397,
+            "HTML": 2499,
+            "Shell": 1932,
+            "R": 1902
+        }
+    },
+    {
+        "name": "analysis-TAGADA",
+        "description": "GENE-SWitCH project RNA-Seq analysis pipeline",
+        "languages": {
+            "Nextflow": 61179,
+            "Python": 9201,
+            "Dockerfile": 2097
+        }
+    },
+    {
+        "name": "kallisto-nf",
+        "description": "A nextflow implementation of Kallisto & Sleuth RNA-Seq Tools",
+        "languages": {
+            "Nextflow": 4182,
+            "R": 1276
+        }
+    },
+    {
+        "name": "meripseqpipe",
+        "description": "MeRIP-seq analysis pipeline arranged multiple alignment tools, peakCalling tools, Merge Peaks' methods and methylation analysis methods.",
+        "languages": {
+            "Nextflow": 128522,
+            "R": 68464,
+            "Shell": 24635,
+            "Perl": 15975,
+            "Python": 9387,
+            "Groovy": 6432,
+            "HTML": 2627,
+            "Dockerfile": 1473
+        }
+    },
+    {
+        "name": "AMRplusplus",
+        "description": null,
+        "languages": {
+            "Nextflow": 51338,
+            "Python": 19448,
+            "Dockerfile": 2629,
+            "Singularity": 1863,
+            "Shell": 1271
+        }
+    },
+    {
+        "name": "MOP2",
+        "description": "Master of Pores 2",
+        "languages": {
+            "Nextflow": 67513,
+            "HCL": 16894,
+            "Perl": 4836,
+            "R": 2576,
+            "Shell": 2493
+        }
+    },
+    {
+        "name": "crisprseq",
+        "description": "A pipeline for the analysis of CRISPR edited data. It allows the evaluation of the quality of gene editing experiments using targeted next generation sequencing (NGS) data (`targeted`) as well as the discovery of important genes from knock-out or activation CRISPR-Cas9 screens using CRISPR pooled DNA (`screening`).",
+        "languages": {
+            "Nextflow": 131314,
+            "R": 99741,
+            "Python": 57797,
+            "Groovy": 28203,
+            "HTML": 2497
+        }
+    },
+    {
+        "name": "wf-clone-validation",
+        "description": null,
+        "languages": {
+            "Nextflow": 68371,
+            "Python": 64961,
+            "Groovy": 60333
+        }
+    },
+    {
+        "name": "nanoflow",
+        "description": ":microscope: De novo assembly of nanopore reads using nextflow",
+        "languages": {
+            "Nextflow": 6626,
+            "Shell": 383,
+            "Makefile": 111
+        }
+    },
+    {
+        "name": "Grandeur",
+        "description": "UPHL's Reference Free Pipeline",
+        "languages": {
+            "Nextflow": 111324,
+            "Python": 80135,
+            "Shell": 12299
+        }
+    },
+    {
+        "name": "SPANDx",
+        "description": "SPANDx - Comparative genomics for next-generation haploid sequence data",
+        "languages": {
+            "Nextflow": 65957,
+            "Shell": 62287
+        }
+    },
+    {
+        "name": "cookiecutter",
+        "description": "DEPRECIATED! Please use nf-core/tools instead",
+        "languages": {
+            "Nextflow": 28222,
+            "HTML": 2555,
+            "Python": 1344,
+            "R": 1124,
+            "Dockerfile": 339
+        }
+    },
+    {
+        "name": "tronflow-mutect2",
+        "description": "Nextflow pipeline for Mutect2 somatic variant calling best practices",
+        "languages": {
+            "Nextflow": 17797,
+            "Shell": 10240,
+            "Makefile": 410
+        }
+    },
+    {
+        "name": "maliampi",
+        "description": "Maximum Likelihood Amplicon Pipeline",
+        "languages": {
+            "Nextflow": 133343,
+            "Python": 2059,
+            "Dockerfile": 519
+        }
+    },
+    {
+        "name": "neoflow",
+        "description": "NeoFlow: a proteogenomics pipeline for neoantigen discovery",
+        "languages": {
+            "Nextflow": 30224,
+            "Python": 19962,
+            "R": 10863
+        }
+    },
+    {
+        "name": "chipimputation",
+        "description": "Genotype Imputation Pipeline for H3Africa",
+        "languages": {
+            "Nextflow": 116931,
+            "Python": 37332,
+            "R": 18539,
+            "Dockerfile": 13376,
+            "HTML": 3791,
+            "Shell": 205
+        }
+    },
+    {
+        "name": "kmermaid",
+        "description": " k-mer similarity analysis pipeline",
+        "languages": {
+            "Nextflow": 99283,
+            "Python": 13392,
+            "HTML": 2507,
+            "Dockerfile": 705
+        }
+    },
+    {
+        "name": "nf-flu",
+        "description": "Influenza genome analysis Nextflow workflow",
+        "languages": {
+            "Nextflow": 60082,
+            "Python": 56389,
+            "Groovy": 38739,
+            "V": 3699,
+            "Shell": 1076
+        }
+    },
+    {
+        "name": "workflows-nextflow",
+        "description": "Workflow management with Nextflow and nf-core",
+        "languages": {
+            "Nextflow": 44860
+        }
+    },
+    {
+        "name": "hadge",
+        "description": "Comprehensive pipeline for donor demultiplexing in single cell",
+        "languages": {
+            "Nextflow": 123634,
+            "Python": 71713,
+            "R": 53294,
+            "Shell": 15395
+        }
+    },
+    {
+        "name": "PUMATAC",
+        "description": "Pipeline for Universal Mapping of ATAC-seq",
+        "languages": {
+            "Nextflow": 258474,
+            "Python": 86948,
+            "Jupyter Notebook": 63975,
+            "R": 11373,
+            "Shell": 8917,
+            "Dockerfile": 7507
+        }
+    },
+    {
+        "name": "TADA",
+        "description": "TADA - Targeted Amplicon Diversity Analysis - a DADA2-focused Nextflow workflow for any targeted amplicon region",
+        "languages": {
+            "Nextflow": 108590,
+            "R": 55403,
+            "Python": 12356,
+            "Groovy": 8974,
+            "HTML": 3871,
+            "Perl": 3780,
+            "Shell": 1787,
+            "Dockerfile": 1036
+        }
+    },
+    {
+        "name": "wave-showcase",
+        "description": "Examples showing how to configure Nextflow to run with Wave containers provisioning service",
+        "languages": {
+            "Nextflow": 3201,
+            "Shell": 840,
+            "Dockerfile": 633
+        }
+    },
+    {
+        "name": "hgtseq",
+        "description": "A pipeline to investigate horizontal gene transfer from NGS data",
+        "languages": {
+            "Nextflow": 92553,
+            "Groovy": 47625,
+            "Python": 9429,
+            "HTML": 2497
+        }
+    },
+    {
+        "name": "pocp",
+        "description": "Calculation of the Percentage of Conserved Proteins following Qin, Xie et al. 2014 but using DIAMOND instead of BLASTP for alignments.",
+        "languages": {
+            "Nextflow": 19070,
+            "Ruby": 17725,
+            "Python": 3576
+        }
+    },
+    {
+        "name": "eDNAFlow",
+        "description": null,
+        "languages": {
+            "Nextflow": 22577,
+            "Python": 13142,
+            "Shell": 8648,
+            "R": 1619
+        }
+    },
+    {
+        "name": "nf-hack18",
+        "description": "Nextflow workshop 2018 -- Training pages -> https://nextflow-io.github.io/nf-hack18/",
+        "languages": {
+            "Nextflow": 11905,
+            "R": 8243,
+            "Shell": 4060,
+            "Makefile": 2344,
+            "HTML": 1717,
+            "Ruby": 1438
+        }
+    },
+    {
+        "name": "gwas",
+        "description": "UNDER CONSTRUCTION: A pipeline for Genome Wide Association Studies",
+        "languages": {
+            "Nextflow": 113492,
+            "Python": 91578,
+            "Groovy": 47868,
+            "HTML": 2464
+        }
+    },
+    {
+        "name": "piper-nf",
+        "description": "RNA mapping pipeline",
+        "languages": {
+            "Nextflow": 52299,
+            "Perl": 43667,
+            "Shell": 15406
+        }
+    },
+    {
+        "name": "nxf-kraken2",
+        "description": "A simple nextflow pipeline for running kraken2 and bracken in a docker container",
+        "languages": {
+            "Nextflow": 14789,
+            "R": 4090,
+            "Dockerfile": 963
+        }
+    },
+    {
+        "name": "16S-rDNA-dada2-pipeline",
+        "description": "**DEFUNCT** dada2-based Nextflow pipeline for multiple amplicon data. See website for up-to-date version",
+        "languages": {
+            "Nextflow": 75419,
+            "R": 14578,
+            "Groovy": 6017,
+            "HTML": 3712,
+            "Shell": 1512,
+            "Python": 816,
+            "Dockerfile": 403
+        }
+    },
+    {
+        "name": "covigator-ngs-pipeline",
+        "description": "A Nextflow pipeline for NGS variant calling on SARS-CoV-2. From FASTQ files to normalized and annotated VCF files from GATK, BCFtools, LoFreq and iVar.",
+        "languages": {
+            "Nextflow": 44726,
+            "Shell": 30736,
+            "Python": 29250,
+            "Makefile": 716
+        }
+    },
+    {
+        "name": "clipseq",
+        "description": "CLIP sequencing analysis pipeline for QC, pre-mapping, genome mapping, UMI deduplication, and multiple peak-calling options.",
+        "languages": {
+            "Nextflow": 91432,
+            "Groovy": 25906,
+            "Python": 15974,
+            "Perl": 3766,
+            "HTML": 2463,
+            "Dockerfile": 710
+        }
+    },
+    {
+        "name": "treeval",
+        "description": "Pipelines for the production of Treeval data",
+        "languages": {
+            "Nextflow": 211749,
+            "Groovy": 50113,
+            "Perl": 45421,
+            "Python": 34412,
+            "Shell": 3633,
+            "AngelScript": 2620,
+            "HTML": 2525
+        }
+    },
+    {
+        "name": "readsimulator",
+        "description": "A pipeline to simulate sequencing reads, such as Amplicon, Target Capture, Metagenome, and Whole genome data. ",
+        "languages": {
+            "Nextflow": 191319,
+            "Groovy": 31381,
+            "Python": 9429,
+            "HTML": 2516
+        }
+    },
+    {
+        "name": "polishCLR",
+        "description": "A nextflow pipeline for polishing CLR assemblies",
+        "languages": {
+            "Nextflow": 46733,
+            "Shell": 2692,
+            "Dockerfile": 483
+        }
+    },
+    {
+        "name": "cs-nf-pipelines",
+        "description": "The Jackson Laboratory Computational Sciences Nextflow based analysis pipelines",
+        "languages": {
+            "Nextflow": 1085906,
+            "Python": 349144,
+            "R": 190874,
+            "Shell": 20673,
+            "Perl": 20527,
+            "Groovy": 3744
+        }
+    },
+    {
+        "name": "chip-nf",
+        "description": "An automated ChIP-seq pipeline using Nextfow",
+        "languages": {
+            "Nextflow": 27411,
+            "Dockerfile": 4389,
+            "Shell": 420,
+            "Awk": 260
+        }
+    },
+    {
+        "name": "nf-training-advanced",
+        "description": "Customer workshop materials",
+        "languages": {
+            "Nextflow": 1849,
+            "Dockerfile": 1355,
+            "Shell": 491,
+            "R": 179,
+            "Python": 72,
+            "Groovy": 37
+        }
+    },
+    {
+        "name": "dualrnaseq",
+        "description": "Analysis of Dual RNA-seq data - an experimental method for interrogating host-pathogen interactions through simultaneous RNA-seq.",
+        "languages": {
+            "Nextflow": 185840,
+            "Python": 99030,
+            "Shell": 15995,
+            "R": 13565,
+            "HTML": 2495,
+            "Dockerfile": 727
+        }
+    },
+    {
+        "name": "nextflow-idioms",
+        "description": "Short idioms and patterns for transforming, merging and managing files and channels in Nextflow.",
+        "languages": {
+            "Nextflow": 25320
+        }
+    },
+    {
+        "name": "wgs-structvar",
+        "description": "Whole Genome Sequenceing Structural Variation Pipelines",
+        "languages": {
+            "Nextflow": 20175,
+            "Perl": 4755,
+            "Shell": 456
+        }
+    },
+    {
+        "name": "metaGT",
+        "description": "Pipeline for metagenome and metatranscriptome joint assembly",
+        "languages": {
+            "Nextflow": 36158,
+            "Groovy": 26444,
+            "Python": 5787,
+            "HTML": 2484
+        }
+    },
+    {
+        "name": "geneidx",
+        "description": "Nextflow pipeline for genome annotation of protein-coding genes",
+        "languages": {
+            "Nextflow": 79083,
+            "Groovy": 45688,
+            "Jupyter Notebook": 33178,
+            "Perl": 30933,
+            "Python": 15825,
+            "Awk": 3798,
+            "HTML": 2535,
+            "Dockerfile": 1246,
+            "Shell": 661
+        }
+    },
+    {
+        "name": "metaboigniter",
+        "description": "Pre-processing of mass spectrometry-based metabolomics data with quantification and identification based on MS1 and MS2 data.",
+        "languages": {
+            "Nextflow": 173568,
+            "Python": 76033,
+            "Shell": 9914,
+            "HTML": 2547
+        }
+    },
+    {
+        "name": "parabricks-nextflow",
+        "description": "Accelerated genomics workflows in NextFlow",
+        "languages": {
+            "Nextflow": 5573
+        }
+    },
+    {
+        "name": "nf-anvio-pangenome",
+        "description": "Analyze a set of genomes with the anvi'o pangenome pipeline",
+        "languages": {
+            "Nextflow": 11313,
+            "Shell": 2134
+        }
+    },
+    {
+        "name": "plasmIDent",
+        "description": null,
+        "languages": {
+            "Nextflow": 18343,
+            "R": 10263,
+            "Dockerfile": 1000
+        }
+    },
+    {
+        "name": "genomeannotator",
+        "description": "Pipeline for the identification of (coding) gene structures in draft genomes.",
+        "languages": {
+            "Nextflow": 56378,
+            "Groovy": 42634,
+            "Python": 5841,
+            "HTML": 2447
+        }
+    },
+    {
+        "name": "oncoanalyser",
+        "description": "A comprehensive cancer DNA/RNA analysis and reporting pipeline",
+        "languages": {
+            "Nextflow": 357105,
+            "Groovy": 37756,
+            "HTML": 2542,
+            "Dockerfile": 805
+        }
+    },
+    {
+        "name": "dryad",
+        "description": "Dryad is a pipeline to construct reference free core-genome or SNP phylogenetic trees for examining prokaryote relatedness in outbreaks.",
+        "languages": {
+            "Nextflow": 26719
+        }
+    },
+    {
+        "name": "hello",
+        "description": "Classic hello world script in Nextflow language",
+        "languages": {
+            "Nextflow": 259
+        }
+    },
+    {
+        "name": "vipr",
+        "description": "Assembly and intrahost / low-frequency variant calling for viral samples",
+        "languages": {
+            "Nextflow": 20611,
+            "Python": 3437,
+            "Dockerfile": 470
+        }
+    },
+    {
+        "name": "exoseq",
+        "description": "Please consider using/contributing to https://github.com/nf-core/sarek",
+        "languages": {
+            "Nextflow": 55789,
+            "Python": 2179,
+            "Shell": 880,
+            "Dockerfile": 437
+        }
+    },
+    {
+        "name": "nf-workflows",
+        "description": "Repository of Nextflow+BioContainers workflows",
+        "languages": {
+            "Nextflow": 60932,
+            "Shell": 19955,
+            "Python": 5980,
+            "Groovy": 4440,
+            "R": 2548
+        }
+    },
+    {
+        "name": "nextflow-spark",
+        "description": null,
+        "languages": {
+            "Nextflow": 26557,
+            "Dockerfile": 574
+        }
+    },
+    {
+        "name": "splicing-pipelines-nf",
+        "description": "Repository for the Anczukow-Lab splicing pipeline ",
+        "languages": {
+            "Nextflow": 72386,
+            "R": 38121,
+            "Shell": 37330,
+            "Python": 23159,
+            "Dockerfile": 3321,
+            "Awk": 629
+        }
+    },
+    {
+        "name": "aquascope",
+        "description": null,
+        "languages": {
+            "Nextflow": 76526,
+            "Groovy": 42382,
+            "Python": 4372,
+            "HTML": 2564
+        }
+    },
+    {
+        "name": "luslab-nf-modules",
+        "description": "Luslab nextflow modules",
+        "languages": {
+            "Nextflow": 309309,
+            "Dockerfile": 2957,
+            "Awk": 2114,
+            "R": 1184,
+            "Shell": 245
+        }
+    },
+    {
+        "name": "genomeassembler",
+        "description": null,
+        "languages": {
+            "Nextflow": 100242,
+            "Groovy": 47836,
+            "Python": 9429,
+            "HTML": 2575,
+            "Awk": 806
+        }
+    },
+    {
+        "name": "nascent",
+        "description": "Nascent Transcription Processing Pipeline",
+        "languages": {
+            "Nextflow": 114262,
+            "Groovy": 41287,
+            "R": 8670,
+            "Python": 4990,
+            "Perl": 4085,
+            "HTML": 2482
+        }
+    },
+    {
+        "name": "noveltree",
+        "description": "NovelTree is a highly parallelized and computationally efficient phylogenomic workflow that infers gene families, gene family trees, species trees, and gene family evolutionary history.",
+        "languages": {
+            "Nextflow": 94809,
+            "Groovy": 37480,
+            "Python": 28520,
+            "R": 16740,
+            "Dockerfile": 11167,
+            "HTML": 2623
+        }
+    },
+    {
+        "name": "roundabout",
+        "description": "Finding regions of similarity between plasmids",
+        "languages": {
+            "Nextflow": 12936,
+            "Python": 10448
+        }
+    },
+    {
+        "name": "bohra",
+        "description": "A pipeline for bioinformatics analysis of bacterial genomes",
+        "languages": {
+            "Nextflow": 177058,
+            "Python": 89238,
+            "HTML": 17087,
+            "Shell": 13336,
+            "Perl": 5179
+        }
+    },
+    {
+        "name": "RedClib",
+        "description": "Red-C data processing",
+        "languages": {
+            "Nextflow": 53843,
+            "C": 27912,
+            "Python": 24872,
+            "Shell": 422
+        }
+    },
+    {
+        "name": "hic-scaffolding-nf",
+        "description": "Nextflow pipeline for scaffolding genome assemblies with Hi-C reads",
+        "languages": {
+            "Nextflow": 3971
+        }
+    },
+    {
+        "name": "egapx",
+        "description": "Eukaryotic Genome Annotation Pipeline-External caller scripts and documentation",
+        "languages": {
+            "Nextflow": 81789,
+            "Python": 12596
+        }
+    },
+    {
+        "name": "RNA2CM",
+        "description": "Pipeline for the identification of cancer-related mutations from RNA-seq data ",
+        "languages": {
+            "Nextflow": 23865,
+            "Dockerfile": 1188
+        }
+    },
+    {
+        "name": "bamtofastq",
+        "description": "Converts bam or cram files to fastq format and does quality control.",
+        "languages": {
+            "Nextflow": 57024,
+            "Groovy": 26651,
+            "HTML": 2529
+        }
+    },
+    {
+        "name": "pheweb-rg-pipeline",
+        "description": "Genetic correlation calculation pipeline via summary statistics for PheWeb",
+        "languages": {
+            "Nextflow": 9749,
+            "Python": 9217
+        }
+    },
+    {
+        "name": "octapus",
+        "description": "Bacterial Operon Finder for Functional Organization",
+        "languages": {
+            "Nextflow": 54092,
+            "Python": 53871,
+            "Shell": 2016,
+            "Dockerfile": 216
+        }
+    },
+    {
+        "name": "EM-seq",
+        "description": "Tools and Data related to Enzymatic Methylation Sequencing",
+        "languages": {
+            "Nextflow": 29560,
+            "Python": 9256,
+            "Shell": 1162
+        }
+    },
+    {
+        "name": "diaproteomics",
+        "description": "Automated quantitative analysis of DIA proteomics mass spectrometry measurements.",
+        "languages": {
+            "Nextflow": 95922,
+            "Python": 32342,
+            "Groovy": 25809,
+            "R": 10028,
+            "HTML": 2570,
+            "Dockerfile": 840
+        }
+    },
+    {
+        "name": "scRNAseq_pipelines",
+        "description": null,
+        "languages": {
+            "Nextflow": 31142,
+            "R": 4935,
+            "Dockerfile": 2219
+        }
+    },
+    {
+        "name": "GATK-flow",
+        "description": "Nextflow implementation of the GATK HaplotypeCaller pipeline",
+        "languages": {
+            "Nextflow": 42940,
+            "Shell": 1509
+        }
+    },
+    {
+        "name": "gatk4-germline-snps-indels",
+        "description": "Workflow for germline short variant discovery using GATK4",
+        "languages": {
+            "Nextflow": 31510,
+            "Shell": 1871,
+            "Dockerfile": 221
+        }
+    },
+    {
+        "name": "viralclust",
+        "description": "Small pipeline to cluster viral genomes based on their k-mer content. WiP",
+        "languages": {
+            "Nextflow": 60830,
+            "Python": 53470
+        }
+    },
+    {
+        "name": "phaseimpute",
+        "description": null,
+        "languages": {
+            "Nextflow": 212700,
+            "HTML": 2503
+        }
+    },
+    {
+        "name": "metatdenovo",
+        "description": "Assembly and annotation of metatranscriptomic or metagenomic data for prokaryotic, eukaryotic and viruses.",
+        "languages": {
+            "Nextflow": 116122,
+            "Groovy": 49715,
+            "Python": 9429,
+            "HTML": 2555
+        }
+    },
+    {
+        "name": "exllsm-circuit-reconstruction",
+        "description": "Nextflow pipeline encapsulating workflows for analyzing expansion lattice light-sheet microscopy (ExLLSM) imagery",
+        "languages": {
+            "Nextflow": 185983,
+            "Python": 21795,
+            "Dockerfile": 9043,
+            "Shell": 3781
+        }
+    },
+    {
+        "name": "cellranger",
+        "description": "Nextflow pipeline wrapper for executing Cell Ranger",
+        "languages": {
+            "Nextflow": 30672,
+            "Groovy": 26444,
+            "Shell": 5516,
+            "Python": 4436,
+            "HTML": 2564,
+            "Dockerfile": 1299
+        }
+    },
+    {
+        "name": "microbial-rnaseq",
+        "description": "Analysis of RNAseq data from (host-associated) microbial mixtures",
+        "languages": {
+            "Nextflow": 32811,
+            "Python": 2157,
+            "Shell": 1166
+        }
+    },
+    {
+        "name": "manuscripts",
+        "description": "Code and data for manuscripts.",
+        "languages": {
+            "Nextflow": 134227,
+            "R": 99294,
+            "Python": 75080,
+            "Shell": 32554
+        }
+    },
+    {
+        "name": "genomeassembly",
+        "description": "Implementation of ToL genome assembly workflows",
+        "languages": {
+            "Nextflow": 113994,
+            "Groovy": 47338,
+            "Shell": 6469,
+            "HTML": 2619,
+            "Python": 1626
+        }
+    },
+    {
+        "name": "main",
+        "description": "Nextflow wrapper built around nf-core/modules",
+        "languages": {
+            "Nextflow": 56469,
+            "Groovy": 45951,
+            "Python": 9573,
+            "HTML": 2438
+        }
+    },
+    {
+        "name": "targene-pipeline",
+        "description": "Nextflow pipeline for Targeted-Learning of genetic effects",
+        "languages": {
+            "Nextflow": 30000,
+            "Julia": 12098
+        }
+    },
+    {
+        "name": "aws-gatk-recipe-nextflow-pipeline",
+        "description": null,
+        "languages": {
+            "Nextflow": 58005
+        }
+    },
+    {
+        "name": "PhyloMagnet",
+        "description": "screening metagenomes for arbitrary lineages, using gene-centric assembly methods and phylogenetics",
+        "languages": {
+            "Nextflow": 31913,
+            "Python": 14424,
+            "Shell": 1806
+        }
+    },
+    {
+        "name": "bact-builder",
+        "description": "Bact-Builder: Microbial de novo genome assembly pipeline",
+        "languages": {
+            "Nextflow": 49123
+        }
+    },
+    {
+        "name": "ramdaq",
+        "description": null,
+        "languages": {
+            "Nextflow": 170130,
+            "R": 39828,
+            "Python": 9028,
+            "HTML": 2453,
+            "Shell": 1742,
+            "Dockerfile": 728
+        }
+    },
+    {
+        "name": "multiplesequencealign",
+        "description": "A pipeline to run and systematically evaluate Multiple Sequence Alignment (MSA) methods.",
+        "languages": {
+            "Nextflow": 94942,
+            "Python": 12154,
+            "HTML": 2616
+        }
+    },
+    {
+        "name": "nanostring",
+        "description": "An analysis pipeline for Nanostring nCounter expression data.",
+        "languages": {
+            "Nextflow": 78232,
+            "Groovy": 50271,
+            "R": 32666,
+            "Python": 10043,
+            "HTML": 2504
+        }
+    },
+    {
+        "name": "ALPPACA",
+        "description": "A tooL for Prokaryotic Phylogeny And Clustering Analysis",
+        "languages": {
+            "Nextflow": 31924,
+            "R": 5116,
+            "Shell": 411
+        }
+    },
+    {
+        "name": "nxf-fastqc",
+        "description": "A simple fastp-MultiQC nextflow pipeline",
+        "languages": {
+            "Nextflow": 10951,
+            "R": 1417,
+            "Dockerfile": 873,
+            "Shell": 272
+        }
+    },
+    {
+        "name": "NanoRTax",
+        "description": "Real-time analysis pipeline for nanopore 16S rRNA data",
+        "languages": {
+            "Nextflow": 63981,
+            "Python": 44943,
+            "HTML": 2563,
+            "Dockerfile": 665,
+            "CSS": 246,
+            "Jupyter Notebook": 144
+        }
+    },
+    {
+        "name": "qMRFlow",
+        "description": "A collection of full-stack data-driven workflows to process qMRI data. ",
+        "languages": {
+            "Nextflow": 34326,
+            "Dockerfile": 376,
+            "Shell": 37
+        }
+    },
+    {
+        "name": "nf-pipeline-regenie",
+        "description": "GWAS and rare variants tests at high speed using regenie",
+        "languages": {
+            "Nextflow": 114622,
+            "Python": 13502,
+            "R": 8149,
+            "Dockerfile": 4451,
+            "Shell": 372,
+            "CSS": 54
+        }
+    },
+    {
+        "name": "samba",
+        "description": "Standardized and Automated MetaBarcoding Analyses workflow (Mirror)",
+        "languages": {
+            "Nextflow": 91055,
+            "R": 80162,
+            "HTML": 56740,
+            "Python": 46531,
+            "Shell": 27572,
+            "CSS": 4771,
+            "Dockerfile": 2055
+        }
+    },
+    {
+        "name": "fastquorum",
+        "description": "Pipeline to produce consensus reads using unique molecular indexes/barcodes (UMIs)",
+        "languages": {
+            "Nextflow": 75414,
+            "Groovy": 42676,
+            "Python": 9234,
+            "HTML": 2513
+        }
+    },
+    {
+        "name": "Donut_Falls",
+        "description": "Basic workflow for nanopore sequencing data",
+        "languages": {
+            "Nextflow": 65677,
+            "Python": 10036,
+            "Shell": 6461
+        }
+    },
+    {
+        "name": "prok-quality",
+        "description": "Assessing the quality of prokaryotic genomes, filtering and dereplication",
+        "languages": {
+            "Nextflow": 10272,
+            "Python": 6073
+        }
+    },
+    {
+        "name": "phylopipe",
+        "description": "Pipeline to build a massive tree from global data",
+        "languages": {
+            "Nextflow": 96229,
+            "Python": 74222,
+            "R": 2843
+        }
     }
 ]
