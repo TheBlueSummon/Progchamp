@@ -89,3 +89,68 @@ function mergeSortRepos(og, repos) {
         mergeSort(distances, 0, distances.length);
         return distances.map(item => item.repo);
     }
+
+// Returns a 2D array that, for each language, shows the most closely related languages 
+function langSort(langList, list2lang, repos) {
+    // initialize the arrays
+    var languages = new Array(langList.length); // string names
+    var langVals = new Array(langList.length);  // similarity values
+    for (let i=0;i<langList.length;++i) {
+        languages[i] = [...langList];
+        langVals[i] = new Array(langList.length);
+        for (let j=0;j<langList.length;++j) {
+            langVals[i][j] = 0;
+        }
+        langVals[i][i] += 500;
+    }
+
+    // Calculating similarity between languages by simply summing %lang1 * %lang2 among all repos
+    for (let r in repos) {
+        if (repos[r]['languages']) {
+        let p = new Array(Object.keys(repos[r]['languages']).length);
+        sum = 0
+        for (let l in repos[r]['languages']) {
+            sum += repos[r]['languages'][l];
+        }
+        let index = 0;
+        for (let l in repos[r]['languages']) {
+            p[index] = repos[r]['languages'][l] / sum;
+            ++index;
+        }
+        index = 0
+        for (let l in repos[r]['languages']) {
+            if(l in list2lang){
+            let s = list2lang[l];
+            let index2 = 0
+            for (let l2 in repos[r]['languages']) {
+                if(l2 in list2lang){
+                let t = list2lang[l2];
+                langVals[s][t] += p[index]*p[index2];}
+                ++index2;
+            }}
+            ++index;
+        }}
+    }
+
+    // Sorting our languages based on similarity
+    for (let i=0; i<languages.length; ++i) {
+        let n = langVals[i].length;
+        // Rearrange elements at each n/2, n/4, n/8, ... intervals
+        for (let interval = Math.floor(n / 2); interval > 0; interval = Math.floor(interval / 2)) {
+            // Iterates through the array to look for possible swaps
+            for (let index = interval; index < n; ++index) {
+                let temp = langVals[i][index];
+                let temp_lang = languages[i][index];
+                var back;
+                // backtracks and swaps if index is larger than a previous(varying elements away) element
+                for (back = index; back >= interval && langVals[i][back - interval] < temp; back -= interval) {
+                    langVals[i][back] = langVals[i][back - interval];
+                    languages[i][back] = languages[i][back - interval];
+                }
+                langVals[i][back] = temp;
+                languages[i][back] = temp_lang;
+            }
+        }
+    }   
+    return languages; 
+}
