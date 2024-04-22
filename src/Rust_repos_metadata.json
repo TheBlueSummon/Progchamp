@@ -4,8 +4,8 @@
         "description": "A modern runtime for JavaScript and TypeScript.",
         "languages": {
             "Rust": 6115066,
-            "JavaScript": 3867283,
-            "TypeScript": 2812797,
+            "JavaScript": 3868435,
+            "TypeScript": 2812959,
             "CSS": 5754,
             "C": 3902,
             "Lua": 678,
@@ -16,18 +16,18 @@
         "name": "rust",
         "description": "Empowering everyone to build reliable and efficient software.",
         "languages": {
-            "Rust": 91999582,
+            "Rust": 92058672,
             "JavaScript": 494465,
-            "Shell": 449314,
-            "Fluent": 343265,
+            "Shell": 449552,
+            "Fluent": 343565,
             "HTML": 286005,
             "Python": 282691,
             "Makefile": 223450,
             "TypeScript": 222876,
-            "C++": 165086,
+            "C++": 165314,
             "PowerShell": 106086,
             "CSS": 90903,
-            "Dockerfile": 80993,
+            "Dockerfile": 80892,
             "C": 42972,
             "Roff": 12773,
             "Assembly": 12198,
@@ -45,8 +45,8 @@
         "name": "tauri",
         "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
         "languages": {
-            "Rust": 2047930,
-            "TypeScript": 183778,
+            "Rust": 2048165,
+            "TypeScript": 183819,
             "NSIS": 86055,
             "Kotlin": 62827,
             "JavaScript": 51229,
@@ -83,10 +83,10 @@
         "name": "rustdesk",
         "description": "An open-source remote desktop, and alternative to TeamViewer.",
         "languages": {
-            "Rust": 3869148,
+            "Rust": 3881865,
             "Dart": 1536982,
             "C": 121177,
-            "C++": 109509,
+            "C++": 110695,
             "Python": 74603,
             "Kotlin": 67581,
             "Rich Text Format": 60361,
@@ -103,6 +103,2321 @@
             "Ruby": 2834,
             "AppleScript": 1347,
             "Objective-C": 68
+        }
+    },
+    {
+        "name": "fuel-core",
+        "description": "Rust full node implementation of the Fuel v2 protocol.",
+        "languages": {
+            "Rust": 2906508,
+            "Shell": 6110,
+            "Dockerfile": 3573,
+            "Smarty": 679
+        }
+    },
+    {
+        "name": "alacritty",
+        "description": "A cross-platform, OpenGL terminal emulator.",
+        "languages": {
+            "Rust": 1091063,
+            "Shell": 26322,
+            "GLSL": 11108,
+            "Makefile": 3257
+        }
+    },
+    {
+        "name": "rustlings",
+        "description": ":crab: Small exercises to get you used to reading and writing Rust code!",
+        "languages": {
+            "Rust": 155600,
+            "Shell": 4671,
+            "PowerShell": 3045,
+            "Nix": 2616
+        }
+    },
+    {
+        "name": "ChatGPT",
+        "description": "\ud83d\udd2e ChatGPT Desktop Application (Mac, Windows and Linux)",
+        "languages": {
+            "Rust": 65239,
+            "HTML": 1502,
+            "TypeScript": 1438,
+            "Ruby": 919,
+            "Shell": 93
+        }
+    },
+    {
+        "name": "bat",
+        "description": "A cat(1) clone with wings.",
+        "languages": {
+            "Rust": 398675,
+            "Python": 8968,
+            "Shell": 3653,
+            "Batchfile": 38
+        }
+    },
+    {
+        "name": "ripgrep",
+        "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+        "languages": {
+            "Rust": 1692259,
+            "Python": 47804,
+            "Shell": 38203,
+            "Roff": 13849,
+            "Ruby": 804
+        }
+    },
+    {
+        "name": "fuels-rs",
+        "description": "Fuel Network Rust SDK",
+        "languages": {
+            "Rust": 1255122,
+            "Shell": 972
+        }
+    },
+    {
+        "name": "meilisearch",
+        "description": "A lightning-fast search API that fits effortlessly into your apps, websites, and workflow",
+        "languages": {
+            "Rust": 4236815,
+            "Shell": 5572,
+            "Dockerfile": 1458
+        }
+    },
+    {
+        "name": "awesome-rust",
+        "description": "A curated list of Rust code and resources.",
+        "languages": {
+            "Rust": 42595
+        }
+    },
+    {
+        "name": "starship",
+        "description": "\u2604\ud83c\udf0c\ufe0f  The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+        "languages": {
+            "Rust": 1341210,
+            "Shell": 40636,
+            "PowerShell": 15578,
+            "Lua": 2062,
+            "Xonsh": 1370,
+            "HTML": 1243,
+            "Nu": 1161,
+            "Elvish": 1073
+        }
+    },
+    {
+        "name": "vaultwarden",
+        "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+        "languages": {
+            "Rust": 945571,
+            "Handlebars": 121698,
+            "Jinja": 9718,
+            "Shell": 7766,
+            "HCL": 6510,
+            "Python": 3546,
+            "Makefile": 165
+        }
+    },
+    {
+        "name": "bevy",
+        "description": "A refreshingly simple data-driven game engine built in Rust",
+        "languages": {
+            "Rust": 8100130,
+            "WGSL": 335204,
+            "Smarty": 12235,
+            "Mermaid": 1784,
+            "GLSL": 1716,
+            "Shell": 1322
+        }
+    },
+    {
+        "name": "lapce",
+        "description": "Lightning-fast and Powerful Code Editor written in Rust",
+        "languages": {
+            "Rust": 2134675,
+            "Scheme": 101635,
+            "Dockerfile": 16835,
+            "HCL": 5951,
+            "Makefile": 3132,
+            "Shell": 2624,
+            "PowerShell": 1232
+        }
+    },
+    {
+        "name": "zed",
+        "description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+        "languages": {
+            "Rust": 12260223,
+            "Scheme": 124991,
+            "Shell": 44874,
+            "Metal": 26584,
+            "JavaScript": 25582,
+            "WGSL": 20822,
+            "Rich Text Format": 19772,
+            "Swift": 18949,
+            "Python": 18485,
+            "Dockerfile": 1002,
+            "TypeScript": 769,
+            "Objective-C": 203,
+            "Procfile": 135,
+            "C": 60
+        }
+    },
+    {
+        "name": "fd",
+        "description": "A simple, fast and user-friendly alternative to 'find'",
+        "languages": {
+            "Rust": 229572,
+            "Shell": 11640,
+            "Makefile": 1077
+        }
+    },
+    {
+        "name": "helix",
+        "description": "A post-modern modal text editor.",
+        "languages": {
+            "Rust": 2488503,
+            "Scheme": 525195,
+            "Handlebars": 15528,
+            "Nix": 11378,
+            "CSS": 4090,
+            "Shell": 2638,
+            "Elvish": 2075,
+            "C++": 1043
+        }
+    },
+    {
+        "name": "swc",
+        "description": "Rust-based platform for the Web",
+        "languages": {
+            "Rust": 10581182,
+            "JavaScript": 420238,
+            "TypeScript": 158673,
+            "Shell": 26594,
+            "Python": 3015,
+            "SCSS": 22
+        }
+    },
+    {
+        "name": "nushell",
+        "description": "A new type of shell",
+        "languages": {
+            "Rust": 8915316,
+            "Nushell": 183956,
+            "Python": 7912,
+            "Shell": 3960,
+            "Dockerfile": 1325,
+            "PowerShell": 1003,
+            "Batchfile": 802
+        }
+    },
+    {
+        "name": "typst",
+        "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+        "languages": {
+            "Rust": 2930865,
+            "Typst": 436547,
+            "TypeScript": 14305,
+            "Nix": 3644,
+            "PostScript": 1943,
+            "Dockerfile": 1717
+        }
+    },
+    {
+        "name": "influxdb",
+        "description": "Scalable datastore for metrics, events, and real-time analytics",
+        "languages": {
+            "Rust": 594322,
+            "HTML": 9508,
+            "Python": 3707,
+            "Dockerfile": 2124,
+            "Shell": 1359
+        }
+    },
+    {
+        "name": "ruff",
+        "description": "An extremely fast Python linter and code formatter, written in Rust.",
+        "languages": {
+            "Rust": 8858635,
+            "Python": 199992,
+            "TypeScript": 75523,
+            "Shell": 18271,
+            "JavaScript": 2048,
+            "HTML": 1601,
+            "CSS": 1552,
+            "Dockerfile": 1352
+        }
+    },
+    {
+        "name": "polars",
+        "description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust",
+        "languages": {
+            "Rust": 9810112,
+            "Python": 5194742,
+            "Makefile": 13470,
+            "R": 2189,
+            "CSS": 1585
+        }
+    },
+    {
+        "name": "comprehensive-rust",
+        "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+        "languages": {
+            "Rust": 180125,
+            "JavaScript": 40511,
+            "Assembly": 21097,
+            "Handlebars": 20909,
+            "Shell": 5266,
+            "C": 3663,
+            "Makefile": 2691,
+            "AIDL": 2406,
+            "CSS": 1522,
+            "Java": 892
+        }
+    },
+    {
+        "name": "surrealdb",
+        "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+        "languages": {
+            "Rust": 4593059,
+            "Nix": 12557,
+            "Dockerfile": 1759,
+            "Makefile": 1041,
+            "Shell": 68
+        }
+    },
+    {
+        "name": "turbo",
+        "description": "Incremental bundler and build system optimized for JavaScript\u00a0and TypeScript, written in Rust \u2013 including Turbopack and Turborepo.",
+        "languages": {
+            "Rust": 6638576,
+            "TypeScript": 784299,
+            "Perl": 219668,
+            "JavaScript": 200682,
+            "Cap'n Proto": 130043,
+            "Raku": 29722,
+            "Shell": 20178,
+            "Makefile": 8837,
+            "CSS": 5286,
+            "Dockerfile": 3292,
+            "HTML": 2644,
+            "Handlebars": 2052,
+            "WebAssembly": 497,
+            "C++": 396,
+            "Go": 291,
+            "MDX": 267,
+            "Pug": 49,
+            "C": 25
+        }
+    },
+    {
+        "name": "tokio",
+        "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+        "languages": {
+            "Rust": 4710309
+        }
+    },
+    {
+        "name": "fish-shell",
+        "description": "The user-friendly command line shell.",
+        "languages": {
+            "Rust": 3058877,
+            "Shell": 864538,
+            "Python": 256189,
+            "CMake": 67975,
+            "JavaScript": 24217,
+            "HTML": 23757,
+            "CSS": 13702,
+            "Dockerfile": 11161,
+            "C++": 9358,
+            "Objective-C": 3586,
+            "Makefile": 3337,
+            "C": 2845,
+            "Roff": 355
+        }
+    },
+    {
+        "name": "firecracker",
+        "description": "Secure and fast microVMs for serverless computing.",
+        "languages": {
+            "Rust": 3572927,
+            "Python": 718275,
+            "Shell": 78100,
+            "C": 12944,
+            "Dockerfile": 6333
+        }
+    },
+    {
+        "name": "tools",
+        "description": "Unified developer tools for JavaScript, TypeScript, and the web",
+        "languages": {
+            "Rust": 7195843,
+            "JavaScript": 1015867,
+            "TypeScript": 620616,
+            "MDX": 89928,
+            "Astro": 48350,
+            "SCSS": 37244,
+            "CSS": 5303,
+            "Shell": 4711,
+            "Just": 2855,
+            "Dockerfile": 337,
+            "PowerShell": 14
+        }
+    },
+    {
+        "name": "Rocket",
+        "description": "A web framework for Rust.",
+        "languages": {
+            "Rust": 2345425,
+            "Shell": 13478,
+            "Jinja": 572,
+            "Handlebars": 111,
+            "HTML": 43
+        }
+    },
+    {
+        "name": "exa",
+        "description": "A modern replacement for \u2018ls\u2019.",
+        "languages": {
+            "Rust": 402528,
+            "Shell": 34024,
+            "Just": 2644
+        }
+    },
+    {
+        "name": "rust-course",
+        "description": "\u201c\u8fde\u7eed\u516d\u5e74\u6210\u4e3a\u5168\u4e16\u754c\u6700\u53d7\u559c\u7231\u7684\u8bed\u8a00\uff0c\u65e0 GC \u4e5f\u65e0\u9700\u624b\u52a8\u5185\u5b58\u7ba1\u7406\u3001\u6781\u9ad8\u7684\u6027\u80fd\u548c\u5b89\u5168\u6027\u3001\u8fc7\u7a0b/OO/\u51fd\u6570\u5f0f\u7f16\u7a0b\u3001\u4f18\u79c0\u7684\u5305\u7ba1\u7406\u3001JS \u672a\u6765\u57fa\u77f3\" \u2014 \u5de5\u4f5c\u4e4b\u4f59\u7684\u7b2c\u4e8c\u8bed\u8a00\u6765\u8bd5\u8bd5 Rust \u5427\u3002<<Rust\u8bed\u8a00\u5723\u7ecf>>\u62e5\u6709\u5168\u9762\u4e14\u6df1\u5165\u7684\u8bb2\u89e3\u3001\u751f\u52a8\u8d34\u5207\u7684\u793a\u4f8b\u3001\u5fb7\u8299\u822c\u4e1d\u6ed1\u7684\u5185\u5bb9\uff0c\u751a\u81f3\u8fd8\u6709JS\u7a0b\u5e8f\u5458\u5173\u6ce8\u7684 WASM \u548c Deno \u7b49\u4e13\u9898\u3002\u8fd9\u53ef\u80fd\u662f\u76ee\u524d\u6700\u7528\u5fc3\u7684 Rust \u4e2d\u6587\u5b66\u4e60\u6559\u7a0b / Book ",
+        "languages": {
+            "Rust": 124419,
+            "Handlebars": 15789,
+            "JavaScript": 5516,
+            "Shell": 5118,
+            "PowerShell": 3022,
+            "CSS": 2896
+        }
+    },
+    {
+        "name": "Pake",
+        "description": "\ud83e\udd31\ud83c\udffb Turn any webpage into a desktop app with Rust.  \ud83e\udd31\ud83c\udffb \u5229\u7528 Rust \u8f7b\u677e\u6784\u5efa\u8f7b\u91cf\u7ea7\u591a\u7aef\u684c\u9762\u5e94\u7528",
+        "languages": {
+            "Rust": 16365
+        }
+    },
+    {
+        "name": "iced",
+        "description": "A cross-platform GUI library for Rust, inspired by Elm",
+        "languages": {
+            "Rust": 1655652,
+            "WGSL": 21136
+        }
+    },
+    {
+        "name": "delta",
+        "description": "A syntax-highlighting pager for git, diff, and grep output",
+        "languages": {
+            "Rust": 959149,
+            "Shell": 44556,
+            "Makefile": 4610,
+            "Ruby": 1012,
+            "Dockerfile": 327,
+            "Python": 131
+        }
+    },
+    {
+        "name": "actix-web",
+        "description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.",
+        "languages": {
+            "Rust": 2365255,
+            "Shell": 10067,
+            "Just": 741,
+            "JavaScript": 23
+        }
+    },
+    {
+        "name": "Rust",
+        "description": " All Algorithms implemented in Rust ",
+        "languages": {
+            "Rust": 1068871
+        }
+    },
+    {
+        "name": "hyperfine",
+        "description": "A command-line benchmarking tool",
+        "languages": {
+            "Rust": 186881,
+            "Python": 10978
+        }
+    },
+    {
+        "name": "xi-editor",
+        "description": "A modern editor with a backend written in Rust.",
+        "languages": {
+            "Rust": 1457118,
+            "Python": 51033,
+            "C++": 3953,
+            "Makefile": 3573,
+            "Shell": 1415
+        }
+    },
+    {
+        "name": "egui",
+        "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+        "languages": {
+            "Rust": 3036456,
+            "Python": 14101,
+            "HTML": 13401,
+            "Shell": 11247,
+            "WGSL": 3850,
+            "GLSL": 1730
+        }
+    },
+    {
+        "name": "difftastic",
+        "description": "a structural diff that understands syntax \ud83d\udfe5\ud83d\udfe9",
+        "languages": {
+            "Rust": 521735,
+            "CSS": 55256,
+            "HTML": 47728,
+            "JavaScript": 28537,
+            "Just": 796,
+            "Shell": 310
+        }
+    },
+    {
+        "name": "sonic",
+        "description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
+        "languages": {
+            "Rust": 660780,
+            "Shell": 5816,
+            "JavaScript": 4024,
+            "Dockerfile": 497
+        }
+    },
+    {
+        "name": "v86",
+        "description": "x86 PC emulator and x86-to-wasm JIT, running in the browser",
+        "languages": {
+            "Rust": 1176257,
+            "JavaScript": 1164307,
+            "C": 962623,
+            "WebAssembly": 128455,
+            "Assembly": 59895,
+            "HTML": 27966,
+            "C++": 21066,
+            "Makefile": 16721,
+            "Python": 11873,
+            "CSS": 6216,
+            "Dockerfile": 5818,
+            "Shell": 3088
+        }
+    },
+    {
+        "name": "pingora",
+        "description": "A library for building fast, reliable and evolvable network services.",
+        "languages": {
+            "Rust": 1493374,
+            "Dockerfile": 941,
+            "Shell": 137,
+            "HTML": 13
+        }
+    },
+    {
+        "name": "zoxide",
+        "description": "A smarter cd command. Supports all major shells.",
+        "languages": {
+            "Rust": 63909,
+            "Shell": 11684,
+            "Just": 1478,
+            "Nix": 1363
+        }
+    },
+    {
+        "name": "dioxus",
+        "description": "Fullstack GUI library for web, desktop, mobile, and more.",
+        "languages": {
+            "Rust": 2083814,
+            "R": 49469,
+            "TypeScript": 35148,
+            "JavaScript": 16442,
+            "HTML": 6953,
+            "RenderScript": 2479,
+            "Nix": 1931,
+            "Shell": 1271,
+            "Dockerfile": 349
+        }
+    },
+    {
+        "name": "relay",
+        "description": "Relay is a JavaScript framework for building data-driven React applications.",
+        "languages": {
+            "Rust": 4442133,
+            "JavaScript": 3527741,
+            "HTML": 103086,
+            "MDX": 46893,
+            "CSS": 43445,
+            "TypeScript": 27527,
+            "Shell": 2033,
+            "Python": 1730
+        }
+    },
+    {
+        "name": "qdrant",
+        "description": "Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+        "languages": {
+            "Rust": 4604390,
+            "Python": 552365,
+            "Shell": 72177,
+            "Dockerfile": 5506,
+            "JavaScript": 1502,
+            "Mermaid": 970
+        }
+    },
+    {
+        "name": "wasmer",
+        "description": "\ud83d\ude80 The leading Wasm Runtime supporting WASIX, WASI and Emscripten",
+        "languages": {
+            "Rust": 8168155,
+            "C++": 204795,
+            "HTML": 199631,
+            "C": 131650,
+            "Makefile": 36721,
+            "Python": 30788,
+            "Shell": 6836,
+            "Swift": 4867,
+            "Nix": 4062,
+            "Inno Setup": 3126,
+            "JavaScript": 510,
+            "Dockerfile": 332,
+            "Batchfile": 30
+        }
+    },
+    {
+        "name": "atuin",
+        "description": "\u2728 Magical shell history",
+        "languages": {
+            "Rust": 586516,
+            "TypeScript": 39747,
+            "Shell": 27290,
+            "PLpgSQL": 3330,
+            "Nix": 3258,
+            "Xonsh": 2805,
+            "JavaScript": 2223,
+            "Nushell": 2090,
+            "CSS": 1855,
+            "Dockerfile": 910,
+            "HTML": 407
+        }
+    },
+    {
+        "name": "RustPython",
+        "description": "A Python Interpreter written in Rust",
+        "languages": {
+            "Rust": 3538844,
+            "Python": 628212,
+            "JavaScript": 30196,
+            "EJS": 6422,
+            "CSS": 4868,
+            "Shell": 3965,
+            "PowerShell": 500,
+            "HTML": 359
+        }
+    },
+    {
+        "name": "czkawka",
+        "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+        "languages": {
+            "Rust": 1115738,
+            "Fluent": 791285,
+            "Shell": 1903,
+            "Dockerfile": 394
+        }
+    },
+    {
+        "name": "zellij",
+        "description": "A terminal workspace with batteries included",
+        "languages": {
+            "Rust": 4481548,
+            "Shell": 3133
+        }
+    },
+    {
+        "name": "tabby",
+        "description": "Self-hosted AI coding assistant",
+        "languages": {
+            "Rust": 549832,
+            "Python": 74127,
+            "HTML": 19887,
+            "C++": 13265,
+            "TypeScript": 6661,
+            "Scheme": 3916,
+            "Shell": 2577,
+            "Makefile": 1954,
+            "JavaScript": 1546,
+            "PowerShell": 26
+        }
+    },
+    {
+        "name": "anki",
+        "description": "Anki's shared backend and web components, and the Qt frontend",
+        "languages": {
+            "Rust": 2325834,
+            "Python": 1580565,
+            "TypeScript": 555503,
+            "Svelte": 544002,
+            "SCSS": 54120,
+            "Shell": 12832,
+            "NSIS": 11721,
+            "JavaScript": 6307,
+            "Starlark": 6171,
+            "Swift": 3862,
+            "Roff": 2212,
+            "Batchfile": 1963,
+            "HTML": 627,
+            "CSS": 613,
+            "TeX": 178,
+            "Rich Text Format": 111
+        }
+    },
+    {
+        "name": "cube",
+        "description": "\ud83d\udcca  Cube \u2014 The Semantic Layer for Building Data Applications",
+        "languages": {
+            "Rust": 6625823,
+            "TypeScript": 3519884,
+            "JavaScript": 967556,
+            "Dockerfile": 42432,
+            "ANTLR": 33136,
+            "Python": 14622,
+            "Jinja": 6671,
+            "HTML": 4331,
+            "Shell": 3210,
+            "Less": 608
+        }
+    },
+    {
+        "name": "just",
+        "description": "\ud83e\udd16 Just a command runner",
+        "languages": {
+            "Rust": 645220,
+            "Shell": 24302,
+            "Makefile": 4799,
+            "CSS": 1275,
+            "HTML": 787,
+            "Nushell": 375,
+            "Just": 57
+        }
+    },
+    {
+        "name": "gitui",
+        "description": "Blazing \ud83d\udca5 fast terminal-ui for git written in rust \ud83e\udd80",
+        "languages": {
+            "Rust": 967662,
+            "Makefile": 3011
+        }
+    },
+    {
+        "name": "coreutils",
+        "description": "Cross-platform Rust rewrite of the GNU coreutils",
+        "languages": {
+            "Rust": 4707158,
+            "Shell": 62751,
+            "Batchfile": 10824,
+            "Makefile": 8740,
+            "Python": 7028,
+            "Nushell": 4588
+        }
+    },
+    {
+        "name": "diem",
+        "description": "Diem\u2019s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.",
+        "languages": {
+            "Rust": 18411652,
+            "JavaScript": 434443,
+            "SMT": 262895,
+            "CSS": 109692,
+            "Shell": 102217,
+            "TeX": 87160,
+            "Boogie": 44693,
+            "Dockerfile": 20713,
+            "Python": 18840,
+            "Java": 3939,
+            "C#": 3791,
+            "Mustache": 3775,
+            "Go": 2314,
+            "Jupyter Notebook": 2124,
+            "C++": 1538,
+            "Smarty": 1049,
+            "HTML": 231
+        }
+    },
+    {
+        "name": "mdBook",
+        "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
+        "languages": {
+            "Rust": 410958,
+            "JavaScript": 44859,
+            "CSS": 33093,
+            "Handlebars": 15867,
+            "Shell": 2201
+        }
+    },
+    {
+        "name": "spotify-tui",
+        "description": "Spotify for the terminal written in Rust \ud83d\ude80",
+        "languages": {
+            "Rust": 362109,
+            "HTML": 981
+        }
+    },
+    {
+        "name": "vector",
+        "description": "A high-performance observability data pipeline.",
+        "languages": {
+            "Rust": 10146945,
+            "CUE": 6243541,
+            "HTML": 224098,
+            "TypeScript": 130608,
+            "JavaScript": 43656,
+            "Shell": 24426,
+            "Sass": 19746,
+            "Ruby": 13291,
+            "Dockerfile": 12789,
+            "CSS": 12286,
+            "Lua": 9638,
+            "PowerShell": 1461,
+            "Python": 1310,
+            "Starlark": 671,
+            "Batchfile": 230,
+            "DIGITAL Command Language": 173
+        }
+    },
+    {
+        "name": "tree-sitter",
+        "description": "An incremental parsing system for programming tools",
+        "languages": {
+            "Rust": 1377992,
+            "C": 649367,
+            "JavaScript": 140162,
+            "Shell": 21284,
+            "C++": 14082,
+            "Makefile": 6998,
+            "HTML": 4131,
+            "Swift": 2874,
+            "Python": 2497,
+            "Batchfile": 1535,
+            "Go": 691,
+            "Zig": 482,
+            "Dockerfile": 127
+        }
+    },
+    {
+        "name": "axum",
+        "description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper",
+        "languages": {
+            "Rust": 948100,
+            "HTML": 54,
+            "JavaScript": 18
+        }
+    },
+    {
+        "name": "fnm",
+        "description": "\ud83d\ude80 Fast and simple Node.js version manager, built in Rust",
+        "languages": {
+            "Rust": 116092,
+            "TypeScript": 36522,
+            "JavaScript": 15614,
+            "Shell": 8612,
+            "Batchfile": 258
+        }
+    },
+    {
+        "name": "slint",
+        "description": "Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.",
+        "languages": {
+            "Rust": 4866064,
+            "Slint": 1201423,
+            "C++": 284967,
+            "TypeScript": 236127,
+            "Python": 36313,
+            "Objective-C": 35213,
+            "CMake": 34302,
+            "JavaScript": 22482,
+            "Java": 18055,
+            "CSS": 7663,
+            "Shell": 6003,
+            "HTML": 2110,
+            "C": 498
+        }
+    },
+    {
+        "name": "gleam",
+        "description": "\u2b50\ufe0f A friendly language for building type-safe, scalable systems!",
+        "languages": {
+            "Rust": 2424441,
+            "Gleam": 59966,
+            "JavaScript": 43038,
+            "HTML": 29393,
+            "CSS": 23787,
+            "Erlang": 8259,
+            "Shell": 4928,
+            "Cap'n Proto": 4596,
+            "Makefile": 3892,
+            "TypeScript": 1973,
+            "PowerShell": 723,
+            "Elixir": 560,
+            "Dockerfile": 429
+        }
+    },
+    {
+        "name": "leptos",
+        "description": "Build fast web applications with Rust.",
+        "languages": {
+            "Rust": 1940491,
+            "JavaScript": 15116,
+            "Gherkin": 5779,
+            "SCSS": 2257,
+            "Nix": 1125,
+            "Shell": 911,
+            "HTML": 712
+        }
+    },
+    {
+        "name": "tikv",
+        "description": "Distributed transactional key-value database, originally created to complement TiDB",
+        "languages": {
+            "Rust": 22136039,
+            "Python": 378407,
+            "Perl": 182788,
+            "Makefile": 16662,
+            "Shell": 14570,
+            "C": 6514,
+            "Dockerfile": 4003
+        }
+    },
+    {
+        "name": "ruffle",
+        "description": "A Flash Player emulator written in Rust",
+        "languages": {
+            "Rust": 7143524,
+            "ActionScript": 596095,
+            "TypeScript": 294239,
+            "Fluent": 277900,
+            "JavaScript": 111614,
+            "HTML": 51948,
+            "WGSL": 38846,
+            "CSS": 13391,
+            "GLSL": 6041,
+            "Shell": 1213,
+            "Dockerfile": 920
+        }
+    },
+    {
+        "name": "wasmtime",
+        "description": "A fast and secure runtime for WebAssembly",
+        "languages": {
+            "Rust": 14392813,
+            "WebAssembly": 4905052,
+            "Common Lisp": 1473213,
+            "C": 245665,
+            "Shell": 21207,
+            "C++": 19349,
+            "JavaScript": 12814,
+            "Assembly": 8217,
+            "OCaml": 6903,
+            "CMake": 4741,
+            "Makefile": 1432,
+            "Dockerfile": 820,
+            "CSS": 275
+        }
+    },
+    {
+        "name": "navi",
+        "description": "An interactive cheatsheet tool for the command-line",
+        "languages": {
+            "Rust": 105899,
+            "Shell": 16794,
+            "Elvish": 704,
+            "Makefile": 181
+        }
+    },
+    {
+        "name": "book",
+        "description": "The Rust Programming Language",
+        "languages": {
+            "Rust": 300880,
+            "XSLT": 21058,
+            "Shell": 10624,
+            "HTML": 9902,
+            "JavaScript": 2740,
+            "CSS": 1455
+        }
+    },
+    {
+        "name": "universal-android-debloater",
+        "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",
+        "languages": {
+            "Rust": 144178
+        }
+    },
+    {
+        "name": "carbonyl",
+        "description": "Chromium running inside your terminal",
+        "languages": {
+            "Rust": 89046,
+            "C++": 13802,
+            "JavaScript": 12616,
+            "Shell": 10575,
+            "C": 1667,
+            "Dockerfile": 1394,
+            "Python": 286
+        }
+    },
+    {
+        "name": "hyper",
+        "description": "An HTTP library for Rust",
+        "languages": {
+            "Rust": 876053,
+            "C": 35085,
+            "Shell": 1371,
+            "Makefile": 428
+        }
+    },
+    {
+        "name": "sniffnet",
+        "description": "Comfortably monitor your Internet traffic \ud83d\udd75\ufe0f\u200d\u2642\ufe0f",
+        "languages": {
+            "Rust": 788948,
+            "Rich Text Format": 10415,
+            "Shell": 1417
+        }
+    },
+    {
+        "name": "wezterm",
+        "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+        "languages": {
+            "Rust": 14814853,
+            "Python": 78636,
+            "Shell": 60973,
+            "Inno Setup": 8041,
+            "GLSL": 5442,
+            "Nix": 5165,
+            "WGSL": 3641,
+            "Ruby": 1577,
+            "Makefile": 46
+        }
+    },
+    {
+        "name": "rust-analyzer",
+        "description": "A Rust compiler front-end for IDEs",
+        "languages": {
+            "Rust": 11782372,
+            "TypeScript": 222876,
+            "HTML": 200687,
+            "JavaScript": 1540,
+            "Shell": 120,
+            "RenderScript": 45
+        }
+    },
+    {
+        "name": "candle",
+        "description": "Minimalist ML framework for Rust",
+        "languages": {
+            "Rust": 3657913,
+            "Cuda": 265868,
+            "Metal": 246914,
+            "Python": 197110,
+            "HTML": 133437,
+            "C++": 121144,
+            "JavaScript": 47922,
+            "Shell": 1425,
+            "Makefile": 269
+        }
+    },
+    {
+        "name": "clap",
+        "description": "A full featured, fast Command Line Argument Parser for Rust",
+        "languages": {
+            "Rust": 2244467,
+            "Shell": 166269,
+            "PowerShell": 36063,
+            "Nushell": 15000,
+            "JavaScript": 14774,
+            "Elvish": 10875,
+            "Roff": 7449,
+            "Makefile": 1419
+        }
+    },
+    {
+        "name": "asciinema",
+        "description": "Terminal session recorder \ud83d\udcf9",
+        "languages": {
+            "Rust": 132888,
+            "CSS": 41761,
+            "Shell": 3469,
+            "Dockerfile": 3271,
+            "Nix": 1625,
+            "HTML": 1470
+        }
+    },
+    {
+        "name": "pyxel",
+        "description": "A retro game engine for Python",
+        "languages": {
+            "Rust": 297160,
+            "Python": 227458,
+            "GLSL": 15814,
+            "HTML": 14904,
+            "JavaScript": 14638,
+            "Makefile": 4236,
+            "CSS": 1808,
+            "Shell": 1272,
+            "C": 17
+        }
+    },
+    {
+        "name": "rust-raspberrypi-OS-tutorials",
+        "description": ":books: Learn to write an embedded OS in Rust :crab:",
+        "languages": {
+            "Rust": 2586259,
+            "Makefile": 265998,
+            "Ruby": 184647,
+            "Assembly": 99867,
+            "Dockerfile": 4660,
+            "Shell": 2086
+        }
+    },
+    {
+        "name": "static-analysis",
+        "description": "\u2699\ufe0f A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.",
+        "languages": {
+            "Rust": 19522,
+            "Makefile": 360
+        }
+    },
+    {
+        "name": "lemmy",
+        "description": "\ud83d\udc00 A link aggregator and forum for the fediverse",
+        "languages": {
+            "Rust": 1622200,
+            "PLpgSQL": 383514,
+            "TypeScript": 120102,
+            "Shell": 31643,
+            "Dockerfile": 3454,
+            "JavaScript": 70
+        }
+    },
+    {
+        "name": "zola",
+        "description": "A fast static site generator in a single binary with everything built-in. https://www.getzola.org",
+        "languages": {
+            "Rust": 744197,
+            "HTML": 13683,
+            "Python": 5104,
+            "Dockerfile": 382,
+            "SCSS": 155,
+            "CSS": 35,
+            "JavaScript": 17
+        }
+    },
+    {
+        "name": "lsd",
+        "description": "The next gen ls command",
+        "languages": {
+            "Rust": 447583,
+            "Shell": 4242
+        }
+    },
+    {
+        "name": "neon",
+        "description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.",
+        "languages": {
+            "Rust": 6155177,
+            "Python": 1560084,
+            "C": 491872,
+            "Makefile": 16597,
+            "TLA": 15009,
+            "JavaScript": 14763,
+            "Shell": 13230,
+            "C++": 12765,
+            "Dockerfile": 6709,
+            "Swift": 3307,
+            "PLpgSQL": 2430,
+            "HTML": 1328,
+            "Java": 970,
+            "C#": 678
+        }
+    },
+    {
+        "name": "RustScan",
+        "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
+        "languages": {
+            "Rust": 78943,
+            "Dockerfile": 978,
+            "Perl": 710,
+            "Makefile": 642,
+            "Shell": 563,
+            "Python": 465
+        }
+    },
+    {
+        "name": "solana",
+        "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+        "languages": {
+            "Rust": 20294350,
+            "Shell": 475198,
+            "C": 175236,
+            "C++": 31981,
+            "Python": 19505,
+            "Makefile": 17989,
+            "JavaScript": 10200,
+            "Dockerfile": 5309
+        }
+    },
+    {
+        "name": "cargo",
+        "description": "The Rust package manager",
+        "languages": {
+            "Rust": 7770256,
+            "Roff": 367147,
+            "JavaScript": 14318,
+            "Shell": 13291,
+            "Python": 3683,
+            "Dockerfile": 1623
+        }
+    },
+    {
+        "name": "diesel",
+        "description": "A safe, extensible ORM and Query Builder for Rust",
+        "languages": {
+            "Rust": 3414036,
+            "Shell": 3505,
+            "PLpgSQL": 2290
+        }
+    },
+    {
+        "name": "neovide",
+        "description": "No Nonsense Neovim Client in Rust",
+        "languages": {
+            "Rust": 602738,
+            "Handlebars": 14835,
+            "Lua": 10126,
+            "CSS": 4112,
+            "Shell": 3317,
+            "JavaScript": 1888,
+            "Dockerfile": 1680
+        }
+    },
+    {
+        "name": "py-spy",
+        "description": "Sampling profiler for Python programs",
+        "languages": {
+            "Rust": 780422,
+            "Python": 17944,
+            "Shell": 1223
+        }
+    },
+    {
+        "name": "sqlx",
+        "description": "\ud83e\uddf0 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",
+        "languages": {
+            "Rust": 2033831,
+            "Python": 11846,
+            "Shell": 3537,
+            "Dockerfile": 2031,
+            "PLpgSQL": 1365,
+            "TSQL": 383
+        }
+    },
+    {
+        "name": "rye",
+        "description": "a Hassle-Free Python Experience",
+        "languages": {
+            "Rust": 408359,
+            "NASL": 160067,
+            "Python": 22638,
+            "Jinja": 3302,
+            "Shell": 2858,
+            "C++": 2510,
+            "Makefile": 684
+        }
+    },
+    {
+        "name": "uv",
+        "description": "An extremely fast Python package installer and resolver, written in Rust.",
+        "languages": {
+            "Rust": 3380269,
+            "C++": 224399,
+            "Python": 124465,
+            "Shell": 13353,
+            "Mustache": 7437,
+            "Batchfile": 5084,
+            "Nushell": 3903,
+            "PowerShell": 2813,
+            "Dockerfile": 2250,
+            "Jupyter Notebook": 2137
+        }
+    },
+    {
+        "name": "Infinite-Storage-Glitch",
+        "description": "ISG lets you use YouTube as cloud storage for ANY files, not just video",
+        "languages": {
+            "Rust": 41162,
+            "Dockerfile": 910
+        }
+    },
+    {
+        "name": "rust-by-practice",
+        "description": "Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.",
+        "languages": {
+            "Rust": 143805,
+            "Handlebars": 31578,
+            "JavaScript": 13190,
+            "CSS": 3993,
+            "Shell": 2955
+        }
+    },
+    {
+        "name": "pyo3",
+        "description": "Rust bindings for the Python interpreter",
+        "languages": {
+            "Rust": 2548921,
+            "Python": 63017,
+            "Shell": 4569,
+            "Makefile": 2794,
+            "HTML": 1425,
+            "C": 93
+        }
+    },
+    {
+        "name": "wgpu",
+        "description": "Cross-platform, safe, pure-rust graphics api.",
+        "languages": {
+            "Rust": 7409729,
+            "WGSL": 1826489,
+            "JavaScript": 216303,
+            "GLSL": 145035,
+            "HLSL": 136239,
+            "Nix": 2258,
+            "HTML": 431
+        }
+    },
+    {
+        "name": "hurl",
+        "description": "Hurl, run and test HTTP requests with plain text.",
+        "languages": {
+            "Rust": 1714552,
+            "Python": 150984,
+            "Shell": 86764,
+            "PowerShell": 67638,
+            "HTML": 64420,
+            "Roff": 15120,
+            "JavaScript": 6791,
+            "CSS": 6551,
+            "NSIS": 4884,
+            "Emacs Lisp": 2790,
+            "Vim Script": 2241,
+            "Dockerfile": 2086,
+            "C": 192
+        }
+    },
+    {
+        "name": "tui-rs",
+        "description": "Build terminal user interfaces and dashboards using Rust",
+        "languages": {
+            "Rust": 486145
+        }
+    },
+    {
+        "name": "rust-clippy",
+        "description": "A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/",
+        "languages": {
+            "Rust": 7656913,
+            "HTML": 27923,
+            "JavaScript": 21121,
+            "RenderScript": 2656,
+            "Shell": 2339,
+            "Python": 1041
+        }
+    },
+    {
+        "name": "hyperswitch",
+        "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+        "languages": {
+            "Rust": 12633911,
+            "JavaScript": 4151373,
+            "Nix": 436940,
+            "PLpgSQL": 63802,
+            "HTML": 52823,
+            "Shell": 32041,
+            "CSS": 18594,
+            "Dockerfile": 3278,
+            "Makefile": 2009
+        }
+    },
+    {
+        "name": "gping",
+        "description": "Ping, but with a graph",
+        "languages": {
+            "Rust": 44748,
+            "Roff": 2981,
+            "Dockerfile": 377
+        }
+    },
+    {
+        "name": "rayon",
+        "description": "Rayon: A data parallelism library for Rust",
+        "languages": {
+            "Rust": 1234733,
+            "Shell": 1317
+        }
+    },
+    {
+        "name": "biome",
+        "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+        "languages": {
+            "Rust": 10264284,
+            "JavaScript": 1154571,
+            "TypeScript": 550804,
+            "CSS": 261630,
+            "Just": 4362,
+            "Shell": 2294,
+            "HTML": 465
+        }
+    },
+    {
+        "name": "broot",
+        "description": "A new way to see and navigate directory trees : https://dystroy.org/broot",
+        "languages": {
+            "Rust": 965254,
+            "RenderScript": 29651,
+            "HTML": 14715,
+            "CSS": 10381,
+            "JavaScript": 6773,
+            "Shell": 4756
+        }
+    },
+    {
+        "name": "xsv",
+        "description": "A fast CSV command line toolkit written in Rust.",
+        "languages": {
+            "Rust": 210985,
+            "Shell": 8059,
+            "Makefile": 571,
+            "Vim Script": 56
+        }
+    },
+    {
+        "name": "tokei",
+        "description": "Count your code, quickly.",
+        "languages": {
+            "Rust": 150855,
+            "Shell": 2109,
+            "HTML": 823,
+            "Earthly": 451
+        }
+    },
+    {
+        "name": "volta",
+        "description": "Volta: JS Toolchains as Code. \u26a1",
+        "languages": {
+            "Rust": 906711,
+            "Shell": 47932,
+            "Dockerfile": 609,
+            "Batchfile": 28
+        }
+    },
+    {
+        "name": "monolith",
+        "description": "\u2b1b\ufe0f CLI tool for saving complete web pages as a single HTML file",
+        "languages": {
+            "Rust": 301078,
+            "HTML": 2637,
+            "Dockerfile": 588,
+            "Makefile": 363,
+            "CSS": 198,
+            "JavaScript": 131
+        }
+    },
+    {
+        "name": "tantivy",
+        "description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust",
+        "languages": {
+            "Rust": 3820170,
+            "Python": 1066,
+            "Makefile": 103
+        }
+    },
+    {
+        "name": "windows-rs",
+        "description": "Rust for Windows",
+        "languages": {
+            "Rust": 154250396,
+            "C": 1317156,
+            "TypeScript": 16938,
+            "JavaScript": 1114,
+            "HTML": 845,
+            "HLSL": 320,
+            "Batchfile": 281
+        }
+    },
+    {
+        "name": "talent-plan",
+        "description": "open source training courses about distributed database and distributed systems",
+        "languages": {
+            "Rust": 395105,
+            "Go": 23021,
+            "Makefile": 1158
+        }
+    },
+    {
+        "name": "spotifyd",
+        "description": "A spotify daemon",
+        "languages": {
+            "Rust": 96301,
+            "Shell": 1556
+        }
+    },
+    {
+        "name": "prql",
+        "description": "PRQL is a modern language for transforming data \u2014 a simple, powerful, pipelined SQL replacement",
+        "languages": {
+            "Rust": 985790,
+            "JavaScript": 49953,
+            "CSS": 32999,
+            "HTML": 25686,
+            "C#": 12587,
+            "PHP": 12175,
+            "Java": 11606,
+            "Elixir": 9697,
+            "TypeScript": 8176,
+            "C": 6544,
+            "C++": 5074,
+            "Zig": 4499,
+            "Python": 4441,
+            "Shell": 3744,
+            "Nix": 2528,
+            "Makefile": 1077,
+            "Dockerfile": 775,
+            "Handlebars": 292
+        }
+    },
+    {
+        "name": "aliyundrive-webdav",
+        "description": "\u963f\u91cc\u4e91\u76d8 WebDAV \u670d\u52a1",
+        "languages": {
+            "Rust": 98766,
+            "HTML": 30514,
+            "Lua": 6259,
+            "Python": 6233,
+            "Shell": 3469,
+            "Makefile": 2342,
+            "Dockerfile": 817
+        }
+    },
+    {
+        "name": "openobserve",
+        "description": "\ud83d\ude80 10x easier, \ud83d\ude80 140x lower storage cost, \ud83d\ude80 high performance,  \ud83d\ude80 petabyte scale - Elasticsearch/Splunk/Datadog alternative for \ud83d\ude80 (logs, metrics, traces, RUM, Error tracking, Session replay).",
+        "languages": {
+            "Rust": 2937954,
+            "Vue": 2383146,
+            "TypeScript": 697213,
+            "JavaScript": 442833,
+            "Python": 111614,
+            "Svelte": 22197,
+            "SCSS": 5113,
+            "CSS": 2825,
+            "Shell": 2715,
+            "HTML": 1587,
+            "Dockerfile": 1516,
+            "Sass": 547,
+            "Makefile": 316
+        }
+    },
+    {
+        "name": "druid",
+        "description": "A data-first Rust-native UI design toolkit. ",
+        "languages": {
+            "Rust": 2470573,
+            "Fluent": 3419,
+            "HTML": 1042,
+            "JavaScript": 119
+        }
+    },
+    {
+        "name": "warp",
+        "description": "A super-easy, composable, web server framework for warp speeds.",
+        "languages": {
+            "Rust": 376286
+        }
+    },
+    {
+        "name": "espanso",
+        "description": "Cross-platform Text Expander written in Rust",
+        "languages": {
+            "Rust": 1449966,
+            "C++": 1125472,
+            "C": 33196,
+            "Objective-C++": 31022,
+            "Shell": 4011,
+            "Inno Setup": 2640,
+            "Objective-C": 1399,
+            "AppleScript": 1117,
+            "Ruby": 502,
+            "Python": 46,
+            "Batchfile": 23
+        }
+    },
+    {
+        "name": "reqwest",
+        "description": "An easy and powerful Rust HTTP Client",
+        "languages": {
+            "Rust": 674020
+        }
+    },
+    {
+        "name": "nom",
+        "description": "Rust parser combinator framework",
+        "languages": {
+            "Rust": 721087
+        }
+    },
+    {
+        "name": "onefetch",
+        "description": "Command-line Git information tool",
+        "languages": {
+            "Rust": 169403,
+            "Makefile": 708,
+            "Dockerfile": 125
+        }
+    },
+    {
+        "name": "tonic",
+        "description": "A native gRPC client & server implementation with async/await support.",
+        "languages": {
+            "Rust": 946656,
+            "Shell": 4922,
+            "HCL": 1530
+        }
+    },
+    {
+        "name": "quiche",
+        "description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3",
+        "languages": {
+            "Rust": 2314129,
+            "C": 105067,
+            "Shell": 6309,
+            "Makefile": 2950,
+            "Dockerfile": 1982
+        }
+    },
+    {
+        "name": "bottom",
+        "description": "Yet another cross-platform graphical process/system monitor.",
+        "languages": {
+            "Rust": 1050367,
+            "Python": 16707,
+            "Shell": 249
+        }
+    },
+    {
+        "name": "oxc",
+        "description": "\u2693 A collection of JavaScript tools written in Rust.",
+        "languages": {
+            "Rust": 5853896,
+            "JavaScript": 111952,
+            "TypeScript": 11815,
+            "HTML": 10585,
+            "Just": 3808,
+            "Svelte": 463,
+            "Vue": 286,
+            "Astro": 254,
+            "Handlebars": 242,
+            "CoffeeScript": 45
+        }
+    },
+    {
+        "name": "hexyl",
+        "description": "A command-line hex viewer",
+        "languages": {
+            "Rust": 108846
+        }
+    },
+    {
+        "name": "genact",
+        "description": "\ud83c\udf00 A nonsense activity generator",
+        "languages": {
+            "Rust": 104890,
+            "HTML": 1189,
+            "Makefile": 740,
+            "CSS": 170,
+            "Dockerfile": 70
+        }
+    },
+    {
+        "name": "bandwhich",
+        "description": "Terminal bandwidth utilization tool",
+        "languages": {
+            "Rust": 160834
+        }
+    },
+    {
+        "name": "serde",
+        "description": "Serialization framework for Rust",
+        "languages": {
+            "Rust": 1117966
+        }
+    },
+    {
+        "name": "bloop",
+        "description": "bloop is a fast code search engine written in Rust.",
+        "languages": {
+            "Rust": 1190359,
+            "TypeScript": 961655,
+            "CSS": 125400,
+            "Scheme": 87343,
+            "NSIS": 22883,
+            "JavaScript": 11633,
+            "Nix": 6563,
+            "HTML": 2023,
+            "Dockerfile": 1713
+        }
+    },
+    {
+        "name": "xray",
+        "description": "An experimental next-generation Electron-based text editor",
+        "languages": {
+            "Rust": 861503,
+            "JavaScript": 94955,
+            "TypeScript": 31630,
+            "HTML": 4963,
+            "Shell": 3035
+        }
+    },
+    {
+        "name": "eww",
+        "description": "ElKowars wacky widgets",
+        "languages": {
+            "Rust": 489709,
+            "TypeScript": 6515,
+            "Nix": 2923
+        }
+    },
+    {
+        "name": "tokenizers",
+        "description": "\ud83d\udca5 Fast State-of-the-Art Tokenizers optimized for Research and Production",
+        "languages": {
+            "Rust": 1106951,
+            "Python": 318277,
+            "Jupyter Notebook": 76261,
+            "TypeScript": 39063,
+            "JavaScript": 7388,
+            "CSS": 4850,
+            "Makefile": 4008,
+            "HTML": 297
+        }
+    },
+    {
+        "name": "substrate",
+        "description": "Substrate: The platform for blockchain innovators",
+        "languages": {
+            "Rust": 18059238,
+            "WebAssembly": 234034,
+            "Shell": 34919,
+            "Handlebars": 14354,
+            "Dockerfile": 3798,
+            "Python": 2681,
+            "JavaScript": 2105,
+            "EJS": 1373,
+            "Nix": 500
+        }
+    },
+    {
+        "name": "actix",
+        "description": "Actor framework for Rust.",
+        "languages": {
+            "Rust": 341693
+        }
+    },
+    {
+        "name": "psst",
+        "description": "Fast and multi-platform Spotify client with native GUI",
+        "languages": {
+            "Rust": 712040,
+            "Shell": 204
+        }
+    },
+    {
+        "name": "bottlerocket",
+        "description": "An operating system designed for hosting containers",
+        "languages": {
+            "Rust": 2181058,
+            "Go": 57248,
+            "Shell": 44792
+        }
+    },
+    {
+        "name": "bore",
+        "description": "\ud83d\udd73 bore is a simple CLI tool for making tunnels to localhost",
+        "languages": {
+            "Rust": 26384,
+            "Shell": 1106,
+            "Dockerfile": 218
+        }
+    },
+    {
+        "name": "amethyst",
+        "description": "Data-oriented and data-driven game engine written in Rust",
+        "languages": {
+            "Rust": 1540321,
+            "GLSL": 26438,
+            "Shell": 14254,
+            "CSS": 1955,
+            "JavaScript": 802,
+            "Makefile": 792
+        }
+    },
+    {
+        "name": "gitoxide",
+        "description": "An idiomatic, lean, fast & safe pure Rust implementation of Git",
+        "languages": {
+            "Rust": 6815531,
+            "Shell": 68888,
+            "Just": 12501,
+            "Makefile": 7100
+        }
+    },
+    {
+        "name": "yazi",
+        "description": "\ud83d\udca5 Blazing fast terminal file manager written in Rust, based on async I/O.",
+        "languages": {
+            "Rust": 554248,
+            "Lua": 25694,
+            "Nix": 3972,
+            "Shell": 1583
+        }
+    },
+    {
+        "name": "shadowsocks-rust",
+        "description": "A Rust port of shadowsocks",
+        "languages": {
+            "Rust": 2662697,
+            "Shell": 32083,
+            "Python": 4799,
+            "Ruby": 2040,
+            "Smarty": 2028,
+            "Dockerfile": 2013,
+            "PowerShell": 1875,
+            "Makefile": 835
+        }
+    },
+    {
+        "name": "neon",
+        "description": "Rust bindings for writing safe and fast native Node.js modules.",
+        "languages": {
+            "Rust": 467069,
+            "JavaScript": 79606,
+            "TypeScript": 11392,
+            "Handlebars": 791,
+            "HTML": 535
+        }
+    },
+    {
+        "name": "dust",
+        "description": "A more intuitive version of du in rust",
+        "languages": {
+            "Rust": 103193,
+            "PowerShell": 10583,
+            "Shell": 9152,
+            "Elvish": 5456,
+            "Roff": 4052
+        }
+    },
+    {
+        "name": "sled",
+        "description": "the champagne of beta embedded databases",
+        "languages": {
+            "Rust": 1016144,
+            "Python": 6138,
+            "Shell": 5659
+        }
+    },
+    {
+        "name": "ratatui",
+        "description": "Rust library that's all about cooking up terminal user interfaces (TUIs) \ud83d\udc68\u200d\ud83c\udf73\ud83d\udc00",
+        "languages": {
+            "Rust": 1535963,
+            "Shell": 536
+        }
+    },
+    {
+        "name": "rathole",
+        "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+        "languages": {
+            "Rust": 138341,
+            "Shell": 1576,
+            "Gnuplot": 486,
+            "Dockerfile": 397
+        }
+    },
+    {
+        "name": "citybound",
+        "description": "A work-in-progress, open-source, multi-player city simulation game.",
+        "languages": {
+            "Rust": 730644,
+            "JavaScript": 64446,
+            "TypeScript": 60378,
+            "Less": 10500,
+            "HTML": 3814
+        }
+    },
+    {
+        "name": "ZLUDA",
+        "description": "CUDA on AMD GPUs",
+        "languages": {
+            "Rust": 9328071,
+            "LLVM": 647070,
+            "Assembly": 396563,
+            "C": 151057,
+            "C++": 137112,
+            "Cuda": 20951,
+            "Python": 17663,
+            "C#": 1152,
+            "Cap'n Proto": 1100,
+            "Dockerfile": 228
+        }
+    },
+    {
+        "name": "git-cliff",
+        "description": "A highly customizable Changelog Generator that follows Conventional Commit specifications \u26f0\ufe0f ",
+        "languages": {
+            "Rust": 136228,
+            "TypeScript": 9485,
+            "JavaScript": 6112,
+            "CSS": 4000,
+            "Shell": 1590,
+            "Dockerfile": 1559,
+            "HTML": 1392
+        }
+    },
+    {
+        "name": "foundry",
+        "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+        "languages": {
+            "Rust": 4730677,
+            "Shell": 11682,
+            "Solidity": 4554,
+            "Dockerfile": 1831,
+            "Nix": 1621
+        }
+    },
+    {
+        "name": "min-sized-rust",
+        "description": "\ud83e\udd80 How to minimize Rust binary size \ud83d\udce6",
+        "languages": {
+            "Rust": 2167
+        }
+    },
+    {
+        "name": "rspack",
+        "description": "A fast Rust-based web bundler \ud83e\udd80\ufe0f",
+        "languages": {
+            "Rust": 3172439,
+            "TypeScript": 1206142,
+            "JavaScript": 1028447,
+            "MDX": 915942,
+            "CSS": 96264,
+            "Less": 25273,
+            "HTML": 16862,
+            "WebAssembly": 8193,
+            "SCSS": 7984,
+            "Vue": 1592,
+            "CoffeeScript": 1066,
+            "Dockerfile": 793,
+            "Pug": 306,
+            "EJS": 126
+        }
+    },
+    {
+        "name": "abstreet",
+        "description": "Transportation planning and traffic simulation software for creating cities friendlier to walking, biking, and public transit",
+        "languages": {
+            "Rust": 4376746,
+            "Shell": 27228,
+            "Python": 15230,
+            "HTML": 14973,
+            "TypeScript": 14664,
+            "GLSL": 6596,
+            "Go": 5308,
+            "Makefile": 4408,
+            "CSS": 206
+        }
+    },
+    {
+        "name": "wasm-bindgen",
+        "description": "Facilitating high-level interactions between Wasm modules and JavaScript",
+        "languages": {
+            "Rust": 10510970,
+            "JavaScript": 120054,
+            "WebAssembly": 31284,
+            "HTML": 11221,
+            "TypeScript": 7066,
+            "Shell": 4747
+        }
+    },
+    {
+        "name": "Fyrox",
+        "description": "3D and 2D game engine written in Rust",
+        "languages": {
+            "Rust": 6687561,
+            "GLSL": 145033,
+            "CSS": 841,
+            "HTML": 572,
+            "JavaScript": 568
+        }
+    },
+    {
+        "name": "databend",
+        "description": "\ud835\uddd7\ud835\uddee\ud835\ude01\ud835\uddee, \ud835\uddd4\ud835\uddfb\ud835\uddee\ud835\uddf9\ud835\ude06\ud835\ude01\ud835\uddf6\ud835\uddf0\ud835\ude00 & \ud835\uddd4\ud835\udddc. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com",
+        "languages": {
+            "Rust": 21841029,
+            "Shell": 362016,
+            "Python": 130899,
+            "Jinja": 33034,
+            "Dockerfile": 7063,
+            "Makefile": 3950
+        }
+    },
+    {
+        "name": "notion-zh_CN",
+        "description": "notion \u4e2d\u6587\u5316",
+        "languages": {
+            "Rust": 16427,
+            "JavaScript": 12691,
+            "Shell": 1420,
+            "PowerShell": 552
+        }
+    },
+    {
+        "name": "eza",
+        "description": "A modern, maintained replacement for ls",
+        "languages": {
+            "Rust": 573184,
+            "Shell": 16046,
+            "Nix": 9739,
+            "Just": 7891,
+            "Nushell": 4161,
+            "Brainfuck": 176
+        }
+    },
+    {
+        "name": "polkadot",
+        "description": "Polkadot Node Implementation",
+        "languages": {
+            "Rust": 10067319,
+            "Shell": 56940,
+            "Ruby": 10427,
+            "Dockerfile": 6037,
+            "JavaScript": 4766,
+            "Handlebars": 2851,
+            "HTML": 1334,
+            "CSS": 132
+        }
+    },
+    {
+        "name": "HVM",
+        "description": "A massively parallel, optimal functional runtime in Rust",
+        "languages": {
+            "Rust": 257646,
+            "JavaScript": 6095,
+            "Nix": 2344
+        }
+    },
+    {
+        "name": "burn",
+        "description": "Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.",
+        "languages": {
+            "Rust": 4168173,
+            "Python": 99343,
+            "Shell": 1087,
+            "PowerShell": 814
+        }
+    },
+    {
+        "name": "rust-gpu",
+        "description": "\ud83d\udc09 Making Rust a first-class language and ecosystem for GPU shaders \ud83d\udea7",
+        "languages": {
+            "Rust": 1536711,
+            "Nix": 2306
+        }
+    },
+    {
+        "name": "htmlq",
+        "description": "Like jq, but for HTML.",
+        "languages": {
+            "Rust": 17721,
+            "Nix": 1324
+        }
+    },
+    {
+        "name": "crossbeam",
+        "description": "Tools for concurrent programming in Rust",
+        "languages": {
+            "Rust": 1248253,
+            "Shell": 10060,
+            "Go": 4294,
+            "Python": 3800
+        }
+    },
+    {
+        "name": "ffsend",
+        "description": ":mailbox_with_mail: Easily and securely share files from the command line. A fully featured Firefox Send client.",
+        "languages": {
+            "Rust": 207133,
+            "Shell": 11150,
+            "Dockerfile": 135
+        }
+    },
+    {
+        "name": "Graphite",
+        "description": "2D raster & vector editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.",
+        "languages": {
+            "Rust": 2527002,
+            "Svelte": 345661,
+            "TypeScript": 211907,
+            "SCSS": 42118,
+            "JavaScript": 31169,
+            "HTML": 16236,
+            "CSS": 3756,
+            "Nix": 1869,
+            "WGSL": 1038,
+            "Handlebars": 816,
+            "Shell": 626
+        }
+    },
+    {
+        "name": "parity-ethereum",
+        "description": "The fast, light, and robust client for Ethereum-like networks.",
+        "languages": {
+            "Rust": 6097868,
+            "Shell": 16341,
+            "Solidity": 12184,
+            "Dockerfile": 6961,
+            "PowerShell": 613
+        }
+    },
+    {
+        "name": "komorebi",
+        "description": "A tiling window manager for Windows \ud83c\udf49",
+        "languages": {
+            "Rust": 624042,
+            "AutoHotkey": 13837,
+            "Just": 1602
+        }
+    },
+    {
+        "name": "jj",
+        "description": "A Git-compatible VCS that is both simple and powerful",
+        "languages": {
+            "Rust": 4151565,
+            "Nix": 6495
+        }
+    },
+    {
+        "name": "rust-blog",
+        "description": "Educational blog posts for Rust beginners",
+        "languages": {
+            "Rust": 105
+        }
+    },
+    {
+        "name": "rolldown",
+        "description": "Fast Rust bundler for JavaScript with Rollup-compatible API.",
+        "languages": {
+            "Rust": 440496,
+            "JavaScript": 250814,
+            "TypeScript": 53890,
+            "Vue": 5469,
+            "Just": 2708,
+            "CSS": 1209,
+            "HTML": 358
+        }
+    },
+    {
+        "name": "mcfly",
+        "description": "Fly through your shell history. Great Scott!",
+        "languages": {
+            "Rust": 180840,
+            "Shell": 18569,
+            "PowerShell": 4232,
+            "Ruby": 951
+        }
+    },
+    {
+        "name": "grex",
+        "description": "A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases",
+        "languages": {
+            "Rust": 437897,
+            "Python": 17043
+        }
+    },
+    {
+        "name": "websocat",
+        "description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions",
+        "languages": {
+            "Rust": 408569,
+            "Shell": 4050,
+            "C": 3615,
+            "Dockerfile": 778
+        }
+    },
+    {
+        "name": "Weylus",
+        "description": "Use your tablet as graphic tablet/touch screen on your computer.",
+        "languages": {
+            "Rust": 180991,
+            "C": 50171,
+            "TypeScript": 35246,
+            "HTML": 4584,
+            "CSS": 3850,
+            "Shell": 3006,
+            "Dockerfile": 1493
+        }
+    },
+    {
+        "name": "risingwave",
+        "description": "Cloud-native SQL stream processing, analytics, and management. KsqlDB and Apache Flink alternative. \ud83d\ude80 10x more productive. \ud83d\ude80 10x more cost-efficient.",
+        "languages": {
+            "Rust": 18982372,
+            "Java": 717510,
+            "Python": 487271,
+            "Shell": 243856,
+            "TypeScript": 143790,
+            "Go": 73756,
+            "Dockerfile": 14509,
+            "JavaScript": 13173,
+            "PHP": 6093,
+            "Ruby": 5490,
+            "PLpgSQL": 980,
+            "PureBasic": 843,
+            "CSS": 403,
+            "Roff": 64
+        }
+    },
+    {
+        "name": "sea-orm",
+        "description": "\ud83d\udc1a An async & dynamic ORM for Rust",
+        "languages": {
+            "Rust": 1755409,
+            "Shell": 6124
+        }
+    },
+    {
+        "name": "ripgrep-all",
+        "description": "rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.",
+        "languages": {
+            "Rust": 137638,
+            "Nix": 4225,
+            "Shell": 131
+        }
+    },
+    {
+        "name": "iron",
+        "description": "An Extensible, Concurrent Web Framework for Rust",
+        "languages": {
+            "Rust": 118028
+        }
+    },
+    {
+        "name": "gyroflow",
+        "description": "Video stabilization using gyroscope data",
+        "languages": {
+            "Rust": 1429323,
+            "QML": 511151,
+            "C": 29407,
+            "WGSL": 24585,
+            "GLSL": 21319,
+            "C++": 13850,
+            "Just": 2559,
+            "Batchfile": 1561,
+            "JavaScript": 1555,
+            "Shell": 1231,
+            "Dockerfile": 640
+        }
+    },
+    {
+        "name": "mio",
+        "description": "Metal I/O library for Rust.",
+        "languages": {
+            "Rust": 602840,
+            "Makefile": 1868
+        }
+    },
+    {
+        "name": "quickwit",
+        "description": "Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.",
+        "languages": {
+            "Rust": 6906833,
+            "TypeScript": 115462,
+            "Python": 47781,
+            "HCL": 26693,
+            "JavaScript": 21425,
+            "Shell": 18589,
+            "Makefile": 10744,
+            "Dockerfile": 6941,
+            "PLpgSQL": 4455,
+            "HTML": 1935,
+            "CSS": 927
+        }
+    },
+    {
+        "name": "mise",
+        "description": "dev tools, env vars, task runner",
+        "languages": {
+            "Rust": 869904,
+            "Shell": 81196,
+            "Dockerfile": 3358,
+            "Nix": 2500,
+            "Just": 1914,
+            "Ruby": 844
+        }
+    },
+    {
+        "name": "lightningcss",
+        "description": "An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.",
+        "languages": {
+            "Rust": 2930827,
+            "JavaScript": 141060,
+            "HTML": 49322,
+            "CSS": 8691,
+            "C": 7351
+        }
+    },
+    {
+        "name": "wasm-pack",
+        "description": "\ud83d\udce6\u2728 your favorite rust -> wasm workflow tool!",
+        "languages": {
+            "Rust": 232116,
+            "JavaScript": 1474
+        }
+    },
+    {
+        "name": "cross",
+        "description": "\u201cZero setup\u201d cross compilation and \u201ccross testing\u201d of Rust crates",
+        "languages": {
+            "Rust": 497067,
+            "Shell": 164799,
+            "Dockerfile": 102861,
+            "Python": 62399,
+            "Makefile": 5655,
+            "CMake": 3715
+        }
+    },
+    {
+        "name": "idiomatic-rust",
+        "description": "\ud83e\udd80 A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust.",
+        "languages": {
+            "Rust": 4752,
+            "Makefile": 67
         }
     }
 ]

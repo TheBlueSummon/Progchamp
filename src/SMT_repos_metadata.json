@@ -68,5 +68,2052 @@
             "Ruby": 161,
             "Makefile": 133
         }
+    },
+    {
+        "name": "precious-plastic-kit",
+        "description": "Precious Plastic Downloadpack",
+        "languages": {
+            "SMT": 9553460,
+            "C++": 16099
+        }
+    },
+    {
+        "name": "mbed-HDK",
+        "description": "DEPRECATED mbed HDK - This repository is not being maintained. For the latest updates, please use: https://github.com/ARMmbed/mbed-HDK-Eagle-Projects",
+        "languages": {
+            "SMT": 4703
+        }
+    },
+    {
+        "name": "mbed-HDK-Eagle-Projects",
+        "description": "Collection of Eagle projects for targets, interfaces, shields and more",
+        "languages": {
+            "SMT": 2399
+        }
+    },
+    {
+        "name": "bitwuzla",
+        "description": "Bitwuzla is a Satisfiability Modulo Theories (SMT) solver for the theories of fixed-size bit-vectors, floating-point arithmetic, arrays and uninterpreted functions and their combinations. Its name is derived from an Austrian dialect expression that can be translated as \u201csomeone who tinkers with bits\u201d.",
+        "languages": {
+            "SMT": 29018420,
+            "C++": 3401385,
+            "Python": 105215,
+            "Meson": 101918,
+            "Cython": 68413,
+            "C": 5754,
+            "Shell": 1050
+        }
+    },
+    {
+        "name": "dreal4",
+        "description": "Automated Reasoning in Nonlinear Theories of Reals",
+        "languages": {
+            "SMT": 1286465,
+            "C++": 786563,
+            "Python": 91656,
+            "Starlark": 77834,
+            "Shell": 30299,
+            "Yacc": 26449,
+            "LLVM": 16760,
+            "Jupyter Notebook": 1745,
+            "Dockerfile": 990,
+            "C": 850
+        }
+    },
+    {
+        "name": "yools",
+        "description": "Tools for Yul.",
+        "languages": {
+            "SMT": 442086,
+            "Rust": 118470,
+            "Yul": 9753
+        }
+    },
+    {
+        "name": "cyberdeck",
+        "description": null,
+        "languages": {
+            "SMT": 200910
+        }
+    },
+    {
+        "name": "Eustathios-Spider-V2",
+        "description": "Update to Eustathios with a little bit of HercuLien Design Changes",
+        "languages": {
+            "SMT": 244527,
+            "OpenSCAD": 7270,
+            "GAP": 4933,
+            "G-code": 1057
+        }
+    },
+    {
+        "name": "storm",
+        "description": "A blackbox mutational fuzzer for detecting critical bugs in SMT solvers",
+        "languages": {
+            "SMT": 780429,
+            "Python": 92194
+        }
+    },
+    {
+        "name": "code2inv",
+        "description": "Code2Inv: Learning Loop Invariants for Program Verification",
+        "languages": {
+            "SMT": 802368,
+            "Python": 188665,
+            "C++": 137575,
+            "C": 54625,
+            "Shell": 3891,
+            "Makefile": 3506,
+            "Dockerfile": 888,
+            "Objective-C": 270
+        }
+    },
+    {
+        "name": "fastsmt",
+        "description": "Learning to Solve SMT Formulas Fast",
+        "languages": {
+            "SMT": 840530,
+            "Python": 243983,
+            "Shell": 14993,
+            "C++": 4855,
+            "Roff": 141
+        }
+    },
+    {
+        "name": "holpy",
+        "description": "Implementation of higher-order logic in Python",
+        "languages": {
+            "SMT": 11821183,
+            "Python": 2367489,
+            "Jupyter Notebook": 438664,
+            "Vue": 226097,
+            "TeX": 14835,
+            "C++": 14568,
+            "JavaScript": 2006,
+            "HTML": 591,
+            "TypeScript": 278,
+            "Shell": 39
+        }
+    },
+    {
+        "name": "rust-horn",
+        "description": "RustHorn: A CHC-based automated verifier for Rust",
+        "languages": {
+            "SMT": 2853979,
+            "Rust": 321539,
+            "C": 87158,
+            "Java": 5166,
+            "Makefile": 2038,
+            "Shell": 1631
+        }
+    },
+    {
+        "name": "dreal3",
+        "description": "There is a new version of dReal, available at https://github.com/dreal/dreal4",
+        "languages": {
+            "SMT": 2617285,
+            "C++": 1294094,
+            "C": 1056417,
+            "OCaml": 392170,
+            "HTML": 135241,
+            "CMake": 125449,
+            "Yacc": 84526,
+            "LLVM": 30267,
+            "Shell": 26934,
+            "CoffeeScript": 21801,
+            "CSS": 5760,
+            "Makefile": 4300,
+            "MATLAB": 2608,
+            "Python": 1373,
+            "Standard ML": 1060,
+            "Dockerfile": 594
+        }
+    },
+    {
+        "name": "cafesat",
+        "description": "The CafeSat SMT solver for Scala",
+        "languages": {
+            "SMT": 2346877,
+            "Scala": 261656
+        }
+    },
+    {
+        "name": "nikon-gp1-diy",
+        "description": "A low-cost GPS module for Nikon DSLRs",
+        "languages": {
+            "SMT": 3198
+        }
+    },
+    {
+        "name": "scala-smtlib",
+        "description": "Scala library for parsing and printing the SMT-LIB format",
+        "languages": {
+            "SMT": 1653377,
+            "Scala": 329677
+        }
+    },
+    {
+        "name": "gdp-paper",
+        "description": "Ghosts of Departed Proofs",
+        "languages": {
+            "SMT": 676165,
+            "TeX": 624734,
+            "HTML": 86339,
+            "Haskell": 64163,
+            "PostScript": 3502,
+            "CSS": 3330,
+            "Makefile": 2137
+        }
+    },
+    {
+        "name": "mc2",
+        "description": "[research] A modular SMT solver in OCaml, based on mcSAT",
+        "languages": {
+            "SMT": 14664564,
+            "OCaml": 284883,
+            "Python": 9592,
+            "Makefile": 2064,
+            "Common Lisp": 1242,
+            "Shell": 574
+        }
+    },
+    {
+        "name": "z3-ios",
+        "description": "run z3 on iOS for some reason",
+        "languages": {
+            "SMT": 7976596,
+            "Objective-C": 6870,
+            "C": 1535,
+            "Makefile": 96
+        }
+    },
+    {
+        "name": "doc",
+        "description": "Documentation",
+        "languages": {
+            "SMT": 2425092529,
+            "HTML": 1574566,
+            "TeX": 687859,
+            "Python": 60857,
+            "Jupyter Notebook": 8322,
+            "Shell": 4269,
+            "JavaScript": 2153,
+            "CSS": 1159
+        }
+    },
+    {
+        "name": "Skeptik",
+        "description": "A library for Proof Theory (especially Proof Compression) in Scala.",
+        "languages": {
+            "SMT": 1529726,
+            "Scala": 1001201,
+            "Assembly": 255066,
+            "Perl": 47093,
+            "TeX": 42731,
+            "C": 34692,
+            "Mathematica": 30312,
+            "Shell": 14332
+        }
+    },
+    {
+        "name": "benchmarks",
+        "description": "Benchmarks for SyGuS Competition (SyGuS-Comp)",
+        "languages": {
+            "SMT": 204301325
+        }
+    },
+    {
+        "name": "rust-smt-ir",
+        "description": null,
+        "languages": {
+            "SMT": 27725406,
+            "Rust": 443898
+        }
+    },
+    {
+        "name": "Awesome-WisBlock",
+        "description": "Learn how to make a custom WisBlock Sensor or IO module. Share your custom boards here.",
+        "languages": {
+            "SMT": 57402873
+        }
+    },
+    {
+        "name": "Promega",
+        "description": "Official M3D Promega Repository for tracking SD Card Configs, Slicer Configs, and Issues Voting/Tracking",
+        "languages": {
+            "SMT": 677883,
+            "GAP": 61004,
+            "HTML": 1596
+        }
+    },
+    {
+        "name": "TPDB",
+        "description": "The Termination Problem Database",
+        "languages": {
+            "SMT": 239453161,
+            "C": 19839455,
+            "Haskell": 3243612,
+            "Prolog": 415688,
+            "XSLT": 17649
+        }
+    },
+    {
+        "name": "BrainDeadMPPT",
+        "description": "LTC4015 solar multi-chemistry battery charger (35V/8A)",
+        "languages": {
+            "SMT": 201863,
+            "Gnuplot": 135111,
+            "Shell": 555,
+            "PLSQL": 550
+        }
+    },
+    {
+        "name": "OPEN-SOURCE-LARGE-FORMAT-CNC-MACHINE-3D-PRINTER",
+        "description": "The documentation and designfiles for a Open source large format CNC-machine made with OpenBuilds parts",
+        "languages": {
+            "SMT": 23670222
+        }
+    },
+    {
+        "name": "WEEDINATOR",
+        "description": "WEEDINATOR agricultural robot files",
+        "languages": {
+            "SMT": 14584787,
+            "C": 1605799,
+            "C++": 1038742,
+            "Objective-C": 24111,
+            "Processing": 4688,
+            "Shell": 4223,
+            "PHP": 892,
+            "Makefile": 236
+        }
+    },
+    {
+        "name": "z3test",
+        "description": "Test and benchmark repository for Z3.",
+        "languages": {
+            "SMT": 30597538,
+            "C#": 767752,
+            "Python": 137821,
+            "C++": 24888,
+            "ASP.NET": 21980,
+            "Batchfile": 4777,
+            "CSS": 3966,
+            "Shell": 2183
+        }
+    },
+    {
+        "name": "benchmarks",
+        "description": "Tons of Inductive Problems: The Benchmarks",
+        "languages": {
+            "SMT": 771475,
+            "Haskell": 139726,
+            "Shell": 253,
+            "Makefile": 130
+        }
+    },
+    {
+        "name": "sidekick",
+        "description": "A modular library for CDCL(T) SMT solvers, with [wip] proof generation.",
+        "languages": {
+            "SMT": 6272190,
+            "OCaml": 727903,
+            "Python": 5389,
+            "Makefile": 2988,
+            "Common Lisp": 1356,
+            "Shell": 1098,
+            "Lua": 663,
+            "Standard ML": 290
+        }
+    },
+    {
+        "name": "smtlibv2-grammar",
+        "description": "ANTLR SMT-LIB v2 Grammar",
+        "languages": {
+            "SMT": 31102,
+            "ANTLR": 17504,
+            "Java": 2180
+        }
+    },
+    {
+        "name": "nice-nano-holder",
+        "description": null,
+        "languages": {
+            "SMT": 133028
+        }
+    },
+    {
+        "name": "xsat",
+        "description": "A Fast Floating-Point Satisfiability Solver",
+        "languages": {
+            "SMT": 524972,
+            "Python": 82044,
+            "C++": 14642,
+            "C": 8842,
+            "Makefile": 3851,
+            "Dockerfile": 2151,
+            "Shell": 312
+        }
+    },
+    {
+        "name": "flexDrive",
+        "description": "Compact hyperdrive for up to 16 independently movable electrodes",
+        "languages": {
+            "SMT": 29034
+        }
+    },
+    {
+        "name": "SMT-LIB-benchmarks-pytorch-shapes",
+        "description": "SMT-LIB benchmarks for shape computations from deep learning models in PyTorch",
+        "languages": {
+            "SMT": 87234881,
+            "Python": 2773,
+            "Shell": 63
+        }
+    },
+    {
+        "name": "matching-logic-prover",
+        "description": null,
+        "languages": {
+            "SMT": 143044,
+            "OCaml": 100831,
+            "Python": 22627,
+            "Shell": 2335,
+            "Roff": 2154,
+            "Dockerfile": 1922,
+            "Standard ML": 1214
+        }
+    },
+    {
+        "name": "FormalMethods-2022",
+        "description": "Obsolete",
+        "languages": {
+            "SMT": 100994,
+            "Python": 53969
+        }
+    },
+    {
+        "name": "hosma",
+        "description": "High Order Spherical Microphone Array",
+        "languages": {
+            "SMT": 7302,
+            "Python": 5016
+        }
+    },
+    {
+        "name": "reopt-vcg",
+        "description": "A translation verifier for Reopt (https://github.com/GaloisInc/reopt)",
+        "languages": {
+            "SMT": 8927039,
+            "LLVM": 2250960,
+            "Lean": 25542,
+            "Shell": 24181,
+            "Makefile": 10913,
+            "Haskell": 9656,
+            "Dockerfile": 658
+        }
+    },
+    {
+        "name": "dreal2",
+        "description": "Please check dreal4 instead.  ",
+        "languages": {
+            "SMT": 22783803,
+            "C++": 1141073,
+            "C": 963391,
+            "Python": 289283,
+            "Shell": 73381,
+            "Yacc": 62899,
+            "CMake": 57904,
+            "LLVM": 18813,
+            "MATLAB": 11326,
+            "Gnuplot": 10774,
+            "Makefile": 9357,
+            "TeX": 2513
+        }
+    },
+    {
+        "name": "Hierarchical-Program-Triggered-RL",
+        "description": "This folder contains the experiments and code for Hierarchical Program Triggered RL paper",
+        "languages": {
+            "SMT": 9345022,
+            "Python": 1202586,
+            "Shell": 2295
+        }
+    },
+    {
+        "name": "CVC4-archived",
+        "description": " CVC4 is an efficient open-source automatic theorem prover for satisfiability modulo theories (SMT) problems.",
+        "languages": {
+            "SMT": 42076040,
+            "C++": 12908740,
+            "OpenEdge ABL": 440495,
+            "Shell": 311292,
+            "CMake": 286664,
+            "GAP": 232106,
+            "Python": 124827,
+            "SWIG": 77920,
+            "Emacs Lisp": 30182,
+            "C": 19761,
+            "Java": 17858,
+            "Perl": 8889,
+            "Makefile": 6640,
+            "Awk": 236
+        }
+    },
+    {
+        "name": "RInGen",
+        "description": "Regular Invariant Generator and SMTLIB2 code transformer",
+        "languages": {
+            "SMT": 5103167,
+            "F#": 238801,
+            "Shell": 1715
+        }
+    },
+    {
+        "name": "scara_plotter",
+        "description": "scara parallel arm robot plotter with ESP8266 and data transfer over wifi",
+        "languages": {
+            "SMT": 1037882,
+            "Jupyter Notebook": 123582,
+            "C++": 10781,
+            "C": 7119
+        }
+    },
+    {
+        "name": "batsmt",
+        "description": "[wip] Modular SMT solver in rust",
+        "languages": {
+            "SMT": 1451756,
+            "Rust": 332746,
+            "Makefile": 1072,
+            "Shell": 480
+        }
+    },
+    {
+        "name": "qmaxuse",
+        "description": "QMaxUSE: A query-based verification tool for verifying UML class diagrams with extreme size of OCL invariants.",
+        "languages": {
+            "SMT": 26058958,
+            "HTML": 11081308,
+            "Java": 8433316,
+            "GAP": 320461,
+            "Shell": 9868,
+            "CSS": 4272,
+            "Batchfile": 3989,
+            "C": 3565,
+            "Makefile": 2545,
+            "Emacs Lisp": 1733,
+            "Perl": 715,
+            "Ruby": 133
+        }
+    },
+    {
+        "name": "korn",
+        "description": null,
+        "languages": {
+            "SMT": 91591960,
+            "HTML": 25467657,
+            "C": 1126042,
+            "Scala": 126215,
+            "SWIG": 75100,
+            "Java": 70126,
+            "Isabelle": 55988,
+            "Assembly": 35769,
+            "Lex": 9299,
+            "Shell": 4277,
+            "Gnuplot": 2432,
+            "Makefile": 1423,
+            "Python": 597
+        }
+    },
+    {
+        "name": "lazybv2int",
+        "description": "A prototype SMT-solver for the theory of bit-vectors and uninterpreted functions.",
+        "languages": {
+            "SMT": 76446172,
+            "C++": 1115700,
+            "C": 184333,
+            "TeX": 44009,
+            "Python": 24878,
+            "Shell": 13891,
+            "CMake": 4571,
+            "Makefile": 1596,
+            "sed": 92
+        }
+    },
+    {
+        "name": "mariposa",
+        "description": null,
+        "languages": {
+            "SMT": 5470053,
+            "Jupyter Notebook": 2846016,
+            "Rust": 654567,
+            "Python": 172638
+        }
+    },
+    {
+        "name": "benchmarks",
+        "description": "A hub for sharing ideas on planning, executing and evaluating benchmarks.",
+        "languages": {
+            "SMT": 11108797,
+            "C": 2566908,
+            "C++": 2249019,
+            "HTML": 59065,
+            "Shell": 29651,
+            "CSS": 6191,
+            "Makefile": 4736
+        }
+    },
+    {
+        "name": "HistFuzz",
+        "description": "A practical fuzzing tool for SMT solvers",
+        "languages": {
+            "SMT": 1442965,
+            "Python": 845845,
+            "ANTLR": 21375,
+            "Shell": 77
+        }
+    },
+    {
+        "name": "platereader",
+        "description": "Designs for a miniaturized plate reader for high-throughput phenotypic screening.",
+        "languages": {
+            "SMT": 13754
+        }
+    },
+    {
+        "name": "rust-smt-ir-examples",
+        "description": null,
+        "languages": {
+            "SMT": 27744681,
+            "HTML": 1340207,
+            "Jupyter Notebook": 884800,
+            "Rust": 277396,
+            "Python": 51452,
+            "Shell": 4198
+        }
+    },
+    {
+        "name": "dz3-artifact",
+        "description": "Artifact for the PLDI 2021 paper: Symbolic Boolean Derivatives for Efficiently Solving Extended Regular Expression Constraints.",
+        "languages": {
+            "SMT": 44339377,
+            "C++": 295156,
+            "Python": 32966,
+            "Shell": 2032,
+            "Dockerfile": 523
+        }
+    },
+    {
+        "name": "Warp-hardware",
+        "description": "Hardware for the Cambridge Physical Computation Laboratory's Warp Embedded Multi-Sensor Platform.",
+        "languages": {
+            "SMT": 8118,
+            "PLSQL": 6953,
+            "Makefile": 52
+        }
+    },
+    {
+        "name": "maxsmt-playground",
+        "description": "Collection of MaxSMT solvers",
+        "languages": {
+            "SMT": 358259,
+            "Scala": 21930
+        }
+    },
+    {
+        "name": "diet",
+        "description": "discrete interval encoding trees (DIETs) - deprecated in favour of https://github.com/andrewthad/primitive-containers/tree/master/src-diet-map-indef",
+        "languages": {
+            "SMT": 15272667,
+            "HTML": 785997,
+            "Haskell": 48557,
+            "Nix": 5121,
+            "CSS": 1665
+        }
+    },
+    {
+        "name": "apalache-tests",
+        "description": "Benchmarks for apalache",
+        "languages": {
+            "SMT": 1282338,
+            "TLA": 291433,
+            "Python": 39437,
+            "Makefile": 4392,
+            "Shell": 4205
+        }
+    },
+    {
+        "name": "chc_benchmarks_solidity",
+        "description": null,
+        "languages": {
+            "SMT": 1286027529,
+            "Shell": 677
+        }
+    },
+    {
+        "name": "bat_egg_smt",
+        "description": "Toy `QF_UF` SMT solver written in Rust",
+        "languages": {
+            "SMT": 717532089,
+            "Rust": 187131
+        }
+    },
+    {
+        "name": "omt_python_examples",
+        "description": "OMT Examples using OptiMathSAT's python API",
+        "languages": {
+            "SMT": 496586,
+            "Python": 128851
+        }
+    },
+    {
+        "name": "Icebreaker-Case",
+        "description": "A case for the Icebreaker FPGA board",
+        "languages": {
+            "SMT": 235280
+        }
+    },
+    {
+        "name": "ISV",
+        "description": "Integrated Security Validation in RTL Models",
+        "languages": {
+            "SMT": 216096,
+            "C": 212663,
+            "Shell": 4817,
+            "Dockerfile": 2090,
+            "C++": 1579,
+            "Verilog": 783,
+            "Makefile": 143
+        }
+    },
+    {
+        "name": "benchmark-challenge-2018",
+        "description": "Collection of submissions for the 2018 Runtime Verification Benchmark Challenge",
+        "languages": {
+            "SMT": 56032088,
+            "Java": 672084,
+            "GAP": 98642,
+            "C++": 84368,
+            "JavaScript": 69480,
+            "HTML": 23309,
+            "Prolog": 21603,
+            "Python": 20716,
+            "Shell": 11600,
+            "Xtend": 10474,
+            "Makefile": 9701,
+            "Ruby": 1693,
+            "Dockerfile": 334
+        }
+    },
+    {
+        "name": "regex-smt-benchmarks",
+        "description": "A collection of regular expression benchmarks for SMT string solvers.",
+        "languages": {
+            "SMT": 4639599
+        }
+    },
+    {
+        "name": "write-ups",
+        "description": null,
+        "languages": {
+            "SMT": 1943502,
+            "Python": 563781,
+            "TeX": 551512,
+            "C#": 46695,
+            "Assembly": 18592,
+            "F#": 2447,
+            "Makefile": 1076,
+            "C++": 1062
+        }
+    },
+    {
+        "name": "smt-jit",
+        "description": "Simple JIT evaluator for a subset of SMT-LIB",
+        "languages": {
+            "SMT": 16240398,
+            "C++": 608214,
+            "CMake": 5225,
+            "Shell": 3420,
+            "C": 1769,
+            "Dockerfile": 1151
+        }
+    },
+    {
+        "name": "hornspec",
+        "description": "Specification synthesizer based on CHC/SyGuS. Supports Maximality and Non-Vacuity constraints.",
+        "languages": {
+            "SMT": 1888160,
+            "C++": 584590,
+            "Jupyter Notebook": 186806,
+            "Python": 101796,
+            "CMake": 13207,
+            "HCL": 8257,
+            "Shell": 3848,
+            "Smarty": 512
+        }
+    },
+    {
+        "name": "OpenILA",
+        "description": "Internal Logic Analyser for FPGA Projects",
+        "languages": {
+            "SMT": 12280,
+            "Verilog": 9784,
+            "Python": 3263,
+            "Makefile": 1998,
+            "SystemVerilog": 296,
+            "Forth": 51
+        }
+    },
+    {
+        "name": "what4-solvers",
+        "description": "Multi-platform binary creation for solvers of the versions most suitable for use with What4",
+        "languages": {
+            "SMT": 946,
+            "CMake": 606
+        }
+    },
+    {
+        "name": "PerformanceTest",
+        "description": null,
+        "languages": {
+            "SMT": 1402725,
+            "C#": 871527,
+            "PowerShell": 60659,
+            "ASP.NET": 25788,
+            "CSS": 3966
+        }
+    },
+    {
+        "name": "SL-COMP19",
+        "description": "Resources for the SL-COMP 2019 edition ",
+        "languages": {
+            "SMT": 3348154
+        }
+    },
+    {
+        "name": "Stanford-FAST",
+        "description": null,
+        "languages": {
+            "SMT": 230912099,
+            "Verilog": 76632,
+            "SystemVerilog": 43070,
+            "Tcl": 41101,
+            "Python": 34289,
+            "C++": 28773,
+            "Shell": 8004,
+            "TeX": 1752,
+            "Makefile": 736
+        }
+    },
+    {
+        "name": "Vrikxa-3D-model-Nanoleaf-Rhythm",
+        "description": "Hi everyone, This repository contains 3D model of my take on Nanoleaf rhythm which I call Vrikxa. File is in STL format. Hope you like it and make sure to let me know if you find any bug in design or you want to improve it. I will gladly include your merge requests.",
+        "languages": {
+            "SMT": 36837
+        }
+    },
+    {
+        "name": "StringSolversTests",
+        "description": "This repository provides the artifact for the paper: \"Automatically Testing String Solvers\", A. Bugariu and P. M\u00fcller, ICSE'20",
+        "languages": {
+            "SMT": 40528377,
+            "Java": 336674,
+            "Shell": 2955,
+            "Dockerfile": 528
+        }
+    },
+    {
+        "name": "smtlib-utils",
+        "description": "A parser and some utils for SMTLIB. For a fully compliant parser, see https://github.com/Gbury/dolmen/.",
+        "languages": {
+            "SMT": 4290133,
+            "OCaml": 35131,
+            "Python": 4500,
+            "Makefile": 1261,
+            "Shell": 231
+        }
+    },
+    {
+        "name": "HSmtMuc",
+        "description": "Minimal unsatisfiable core extractor for SMT",
+        "languages": {
+            "SMT": 624290,
+            "C++": 79355,
+            "Python": 2190,
+            "Makefile": 573
+        }
+    },
+    {
+        "name": "sublime-smtlib",
+        "description": "SMTLIB syntax highlighting for Sublime Text 3",
+        "languages": {
+            "SMT": 8594
+        }
+    },
+    {
+        "name": "io-board",
+        "description": "Multi-purpose BNC input/output board",
+        "languages": {
+            "SMT": 2632
+        }
+    },
+    {
+        "name": "FormalMethods-2021",
+        "description": null,
+        "languages": {
+            "SMT": 41712,
+            "Python": 16139,
+            "OpenEdge ABL": 1979
+        }
+    },
+    {
+        "name": "qbricks.github.io",
+        "description": null,
+        "languages": {
+            "SMT": 49648279,
+            "OCaml": 287072,
+            "Shell": 10527,
+            "Makefile": 8559,
+            "Dockerfile": 4910,
+            "Python": 227,
+            "HTML": 63
+        }
+    },
+    {
+        "name": "ATMakers-Hardware",
+        "description": "PCB Design files and other hardware artifacts from ATMakers.org",
+        "languages": {
+            "SMT": 2884,
+            "Prolog": 2670
+        }
+    },
+    {
+        "name": "haploid",
+        "description": "SMT Preprocessing via EqSat",
+        "languages": {
+            "SMT": 477322,
+            "Rust": 94911,
+            "Python": 44872,
+            "Shell": 261
+        }
+    },
+    {
+        "name": "VAJRA",
+        "description": "TACAS 2020 Artifacts for \"Verifying Array Manipulating Programs with Full-program Induction\"",
+        "languages": {
+            "SMT": 896688,
+            "C++": 567044,
+            "C": 247698,
+            "Yacc": 23512,
+            "Java": 18723,
+            "Makefile": 6659,
+            "CMake": 4137,
+            "Shell": 1679,
+            "Lex": 1384
+        }
+    },
+    {
+        "name": "smtcomp14-sl",
+        "description": "Benchmark and tools for the theory of Separation Logic (QF_S) at SMTCOMP 2014",
+        "languages": {
+            "SMT": 1663525,
+            "C": 1072989,
+            "OCaml": 47451,
+            "TeX": 24320,
+            "Makefile": 5733,
+            "C++": 5441,
+            "Shell": 5210,
+            "OpenEdge ABL": 3584,
+            "Objective-C": 3572,
+            "HTML": 1155,
+            "Scilab": 1027,
+            "Assembly": 477
+        }
+    },
+    {
+        "name": "Ropey",
+        "description": "Neural-guided Inductive Generalization.",
+        "languages": {
+            "SMT": 42286341,
+            "C++": 20237675,
+            "Python": 863765,
+            "C#": 500393,
+            "C": 421868,
+            "Java": 369122,
+            "CMake": 273018,
+            "OCaml": 214555,
+            "Shell": 38648,
+            "HTML": 15745,
+            "Dockerfile": 7736,
+            "Batchfile": 2433,
+            "Makefile": 103
+        }
+    },
+    {
+        "name": "jconstraints",
+        "description": "A constraint solver abstraction layer for Java",
+        "languages": {
+            "SMT": 2079112,
+            "Java": 1401539,
+            "Kotlin": 17965,
+            "GAP": 4324,
+            "Shell": 81
+        }
+    },
+    {
+        "name": "XSTRESSOR",
+        "description": null,
+        "languages": {
+            "SMT": 106922,
+            "Python": 60224
+        }
+    },
+    {
+        "name": "FormalMethods2023",
+        "description": "GitHub repository for lab lectures of the Formal Methods course (University of Trento)",
+        "languages": {
+            "SMT": 62329,
+            "Python": 41553
+        }
+    },
+    {
+        "name": "TGRop",
+        "description": "An automated ROP generation work",
+        "languages": {
+            "SMT": 9114246,
+            "Python": 3928609,
+            "C": 3390430,
+            "C++": 677670,
+            "Shell": 132662,
+            "Cython": 128897,
+            "CMake": 120778,
+            "Jupyter Notebook": 20586,
+            "Makefile": 12470,
+            "Assembly": 8590,
+            "Dockerfile": 8042
+        }
+    },
+    {
+        "name": "uclidfc",
+        "description": null,
+        "languages": {
+            "SMT": 220677,
+            "Scala": 190598,
+            "Shell": 368
+        }
+    },
+    {
+        "name": "ulx2s",
+        "description": "PCB for ULX2S",
+        "languages": {
+            "SMT": 8329
+        }
+    },
+    {
+        "name": "fuzzersynthesis",
+        "description": null,
+        "languages": {
+            "SMT": 1533327,
+            "C++": 265639,
+            "CMake": 14322
+        }
+    },
+    {
+        "name": "verilog-fifos",
+        "description": "Formally verified async and sync FIFO",
+        "languages": {
+            "SMT": 272896,
+            "Verilog": 89902,
+            "Stata": 4757,
+            "SystemVerilog": 4505,
+            "Makefile": 644
+        }
+    },
+    {
+        "name": "Learn-SMT",
+        "description": "A repository for showcasing my knowledge of the SMT programming language, and continuing to learn the language",
+        "languages": {
+            "SMT": 212292,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "cs492-fall23",
+        "description": null,
+        "languages": {
+            "SMT": 2360
+        }
+    },
+    {
+        "name": "neugus",
+        "description": null,
+        "languages": {
+            "SMT": 10109075,
+            "OCaml": 126700,
+            "Standard ML": 2948,
+            "Shell": 2895,
+            "Ruby": 108
+        }
+    },
+    {
+        "name": "Rock64_drawings",
+        "description": "Dravings of Rock64",
+        "languages": {
+            "SMT": 1547259
+        }
+    },
+    {
+        "name": "BokkyPooBahsDateTimeLibrary",
+        "description": "Formal verification of the popular BokkyPooBah's DateTimeLibrary",
+        "languages": {
+            "SMT": 5813,
+            "Python": 5809,
+            "Solidity": 5354
+        }
+    },
+    {
+        "name": "SL-COMP18",
+        "description": "Resources for the SL-COMP 2018 edition",
+        "languages": {
+            "SMT": 3435716,
+            "C++": 756716,
+            "C": 731725,
+            "TeX": 74974,
+            "Yacc": 46609,
+            "Shell": 10521,
+            "Lex": 5972,
+            "Makefile": 5554,
+            "CMake": 4956
+        }
+    },
+    {
+        "name": "liquidmeta",
+        "description": null,
+        "languages": {
+            "SMT": 21749603,
+            "Haskell": 10825721,
+            "Coq": 3003944,
+            "HTML": 702120,
+            "Makefile": 96440,
+            "Shell": 36620,
+            "CSS": 1665
+        }
+    },
+    {
+        "name": "deadlockPSNs",
+        "description": "Investigation of deadlocks in Packet Switching Networks - nuXmv NuSmv z3 xMAS",
+        "languages": {
+            "SMT": 3237486,
+            "Java": 258996
+        }
+    },
+    {
+        "name": "quip-book",
+        "description": "Book for Quip, a proof format for first-order and higher-order theorem provers ",
+        "languages": {
+            "SMT": 207,
+            "Makefile": 85
+        }
+    },
+    {
+        "name": "EnvSynSamples",
+        "description": "Samples for Env. Inv. Synthesis",
+        "languages": {
+            "SMT": 2332584,
+            "Verilog": 1798635,
+            "C++": 81459,
+            "Shell": 35591,
+            "CMake": 31785,
+            "Python": 23562,
+            "Makefile": 10166,
+            "Tcl": 143
+        }
+    },
+    {
+        "name": "iam",
+        "description": " I am an Inglorious Adding Machine",
+        "languages": {
+            "SMT": 781716,
+            "TeX": 91677,
+            "Haskell": 80853,
+            "HTML": 12775,
+            "Makefile": 433
+        }
+    },
+    {
+        "name": "odd-or-even",
+        "description": "Different ways to solve a problem using different languages",
+        "languages": {
+            "SMT": 5829,
+            "HTML": 4820,
+            "CSS": 1665,
+            "Racket": 1217,
+            "Agda": 872,
+            "Inform 7": 628,
+            "OCaml": 237,
+            "Go": 227,
+            "Python": 208,
+            "Haskell": 185,
+            "Smalltalk": 80
+        }
+    },
+    {
+        "name": "kilimanjaro",
+        "description": "Gotta climb to get to the top",
+        "languages": {
+            "SMT": 9553460,
+            "JavaScript": 181114,
+            "SCSS": 5889,
+            "HTML": 4214,
+            "CSS": 3329
+        }
+    },
+    {
+        "name": "Modest-Probabilistic-Models-for-NoC",
+        "description": null,
+        "languages": {
+            "SMT": 119950,
+            "Shell": 48671,
+            "Python": 41022,
+            "C": 38303,
+            "MATLAB": 13061
+        }
+    },
+    {
+        "name": "prophic3",
+        "description": "Experiments with prophecy variables for symbolic model checking.",
+        "languages": {
+            "SMT": 236980485,
+            "C": 1224854,
+            "C++": 909138,
+            "Python": 166455,
+            "Java": 43965,
+            "Shell": 5963,
+            "CMake": 3712,
+            "Batchfile": 1274,
+            "Makefile": 935
+        }
+    },
+    {
+        "name": "SMT-based-STDCELL-Layout-Generator-for-VFET",
+        "description": null,
+        "languages": {
+            "SMT": 5173041,
+            "Perl": 164810
+        }
+    },
+    {
+        "name": "amaya",
+        "description": null,
+        "languages": {
+            "SMT": 3478677,
+            "Python": 694464,
+            "TeX": 8543,
+            "Shell": 420,
+            "Makefile": 155
+        }
+    },
+    {
+        "name": "Wombit",
+        "description": null,
+        "languages": {
+            "SMT": 8599108,
+            "C": 2275729,
+            "C++": 2101103,
+            "CMake": 107287,
+            "Yacc": 85005,
+            "Python": 49852,
+            "Lex": 22880,
+            "Shell": 21925,
+            "Perl": 17998,
+            "Java": 3800
+        }
+    },
+    {
+        "name": "SNU_2D_ProgrammingTools_IDE_SMT",
+        "description": "The SMT Programming language IDE submodule for SNU Programming Tools (2D Mode)",
+        "languages": {
+            "SMT": 212004,
+            "Roff": 3456,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "cdsat",
+        "description": "cdsat",
+        "languages": {
+            "SMT": 245746,
+            "Rust": 143459,
+            "Shell": 413,
+            "Ruby": 343
+        }
+    },
+    {
+        "name": "RecommendationEngine",
+        "description": "Recommendation Engine Module",
+        "languages": {
+            "SMT": 2223317117,
+            "Python": 387250
+        }
+    },
+    {
+        "name": "Alphasense-B4-multisensor-board",
+        "description": "An electronic board for use with multiple sensors of Alphasense B4 series",
+        "languages": {
+            "SMT": 29191,
+            "C++": 12976
+        }
+    },
+    {
+        "name": "chc-benchmarks",
+        "description": "Collection of CHC benchmarks in the format of CHC-COMP",
+        "languages": {
+            "SMT": 58645
+        }
+    },
+    {
+        "name": "Venus",
+        "description": "VU-meter on soviet VFD, or on LEDs",
+        "languages": {
+            "SMT": 609912,
+            "C": 8188,
+            "Makefile": 3911
+        }
+    },
+    {
+        "name": "automated-reasoning",
+        "description": null,
+        "languages": {
+            "SMT": 62151,
+            "Python": 46836
+        }
+    },
+    {
+        "name": "pecos",
+        "description": "CHC solver based on partial evaluation and constraint specialisation",
+        "languages": {
+            "SMT": 914028,
+            "Prolog": 90696,
+            "Java": 37327,
+            "Python": 24654,
+            "Shell": 9756
+        }
+    },
+    {
+        "name": "precious-plastic-starterkit-mix",
+        "description": "Starterkit for a Mix Workspace",
+        "languages": {
+            "SMT": 9553460
+        }
+    },
+    {
+        "name": "Spek1",
+        "description": "My version of the Spot Micro quadruped robot dog",
+        "languages": {
+            "SMT": 42822779,
+            "Python": 192603
+        }
+    },
+    {
+        "name": "dreal-next",
+        "description": "Experiments with features before they are ready for release. ",
+        "languages": {
+            "SMT": 27136059,
+            "C": 1093735,
+            "C++": 857312,
+            "Python": 274908,
+            "CMake": 95536,
+            "Yacc": 81937,
+            "Shell": 38534,
+            "LLVM": 28651,
+            "Gnuplot": 10774,
+            "MATLAB": 10599,
+            "Makefile": 7379,
+            "TeX": 2513
+        }
+    },
+    {
+        "name": "formal-verification-project",
+        "description": "CS550 Formal Verification Project, EPFL, Winter 2021-2022",
+        "languages": {
+            "SMT": 33592,
+            "TeX": 15758,
+            "Scala": 7940,
+            "Makefile": 2644,
+            "Python": 1631,
+            "CSS": 86,
+            "Shell": 86
+        }
+    },
+    {
+        "name": "benchmarks",
+        "description": "Functional program verification problems, as caml programs and as Horn clauses.",
+        "languages": {
+            "SMT": 13370840,
+            "OCaml": 391979,
+            "Rust": 13611,
+            "Shell": 7265,
+            "Standard ML": 824,
+            "Makefile": 101
+        }
+    },
+    {
+        "name": "vmt-chc-benchmarks",
+        "description": null,
+        "languages": {
+            "SMT": 120987068
+        }
+    },
+    {
+        "name": "hwmcc20-mlir",
+        "description": "An MLIR representation of HWMCC20 Benchmarks",
+        "languages": {
+            "SMT": 384159308,
+            "LLVM": 349301324,
+            "MLIR": 156457796,
+            "Python": 22740,
+            "Shell": 13216
+        }
+    },
+    {
+        "name": "benchmarks",
+        "description": "Benchmarks",
+        "languages": {
+            "SMT": 588585602,
+            "Python": 378125,
+            "Shell": 182999,
+            "MATLAB": 21083,
+            "OCaml": 14442,
+            "Gnuplot": 11541,
+            "Makefile": 7995,
+            "TeX": 5026,
+            "Standard ML": 278
+        }
+    },
+    {
+        "name": "soldercubes",
+        "description": "Design files for the Soldercubes self-reconfiguring modular robot system.",
+        "languages": {
+            "SMT": 188
+        }
+    },
+    {
+        "name": "cyphert-rfunctions",
+        "description": "SAT solving with R-function",
+        "languages": {
+            "SMT": 13731925,
+            "OCaml": 62768,
+            "Verilog": 38204,
+            "Python": 24481,
+            "Makefile": 258
+        }
+    },
+    {
+        "name": "learn-sat-smt",
+        "description": "Documentation and examples for learning SAT/SMT solving",
+        "languages": {
+            "SMT": 7899,
+            "Python": 5145
+        }
+    },
+    {
+        "name": "aZ3",
+        "description": "A solver for All-solution Satisfiabiiity Modulo Theories",
+        "languages": {
+            "SMT": 1889395,
+            "Java": 18190,
+            "C": 13731,
+            "Python": 1700,
+            "Shell": 413,
+            "Makefile": 347
+        }
+    },
+    {
+        "name": "ringen-adt-benchmarks",
+        "description": "ADT benchmarks generated by the RInGen tool",
+        "languages": {
+            "SMT": 2080554
+        }
+    },
+    {
+        "name": "z3jit",
+        "description": "A JIT engine to compile z3 constraints to make model-validation as fast as possible",
+        "languages": {
+            "SMT": 196217,
+            "Rust": 52431
+        }
+    },
+    {
+        "name": "tripod-piezo-driver",
+        "description": "Driver for low-side control of piezoelectric actuators in tripod configuration",
+        "languages": {
+            "SMT": 6334
+        }
+    },
+    {
+        "name": "vmcai2020-inv-syn-benchmarks",
+        "description": "The Benchmarking Examples for Environment Invariant Synthesis",
+        "languages": {
+            "SMT": 85016076,
+            "C++": 144539,
+            "Coq": 106321,
+            "Verilog": 40764,
+            "CMake": 23673,
+            "Python": 18704,
+            "Shell": 4550,
+            "C": 229,
+            "Makefile": 220
+        }
+    },
+    {
+        "name": "rchc",
+        "description": "Regular CHC solver",
+        "languages": {
+            "SMT": 132807,
+            "Rust": 87338
+        }
+    },
+    {
+        "name": "TheSy",
+        "description": null,
+        "languages": {
+            "SMT": 2460401,
+            "Rust": 182080,
+            "Python": 59739,
+            "Isabelle": 59630,
+            "Jupyter Notebook": 12771,
+            "Dockerfile": 347
+        }
+    },
+    {
+        "name": "polysynth",
+        "description": "Polynomial Program Synthesis",
+        "languages": {
+            "SMT": 26941231,
+            "Python": 262073,
+            "Racket": 205389,
+            "C": 46551,
+            "Shell": 3777,
+            "Dockerfile": 438
+        }
+    },
+    {
+        "name": "TPO-DP",
+        "description": "The source code and the traces used in \"Deciding Type-Based Partial-Order Constraints for Path-Sensitive Analysis\"  paper by Elena Sherman, Brady J. Garvin, Matthew B. Dwyer (ACM Trans. Softw. Eng. Methodol)",
+        "languages": {
+            "SMT": 1397093352,
+            "Java": 140594
+        }
+    },
+    {
+        "name": "Invariant-Generation",
+        "description": null,
+        "languages": {
+            "SMT": 648771,
+            "C": 422835,
+            "TeX": 332200,
+            "Prolog": 300264,
+            "C++": 42178,
+            "Shell": 2733,
+            "Perl": 2294
+        }
+    },
+    {
+        "name": "sabbath",
+        "description": null,
+        "languages": {
+            "SMT": 3465513,
+            "Python": 482854
+        }
+    },
+    {
+        "name": "axiom-profiler-2",
+        "description": "The axiom profiler for exploring and visualizing SMT solver quantifier instantiations (made via E-matching).",
+        "languages": {
+            "SMT": 143990871,
+            "Rust": 531204,
+            "CSS": 24590,
+            "HTML": 1159
+        }
+    },
+    {
+        "name": "bset",
+        "description": null,
+        "languages": {
+            "SMT": 57974432,
+            "OpenEdge ABL": 9443573,
+            "Makefile": 8292
+        }
+    },
+    {
+        "name": "rocksat-boards",
+        "description": "Mines RockSat-X Circuit Boards. Eagle projects, boards, schematics, and libraries",
+        "languages": {
+            "SMT": 30554
+        }
+    },
+    {
+        "name": "precious-plastic-starterkit-machine",
+        "description": "Starterkit for a Machine Shop",
+        "languages": {
+            "SMT": 9553460,
+            "C++": 16099
+        }
+    },
+    {
+        "name": "Eagle-library",
+        "description": "The custom connectors and components EagleCAD library.",
+        "languages": {
+            "SMT": 2011050,
+            "Rich Text Format": 8664
+        }
+    },
+    {
+        "name": "chc-comp19-benchmarks",
+        "description": "Benchmarks from the CHC-COMP 2019",
+        "languages": {
+            "SMT": 596012373,
+            "Python": 894
+        }
+    },
+    {
+        "name": "FEEDI",
+        "description": "Software and CAD models of the footband FEEDI providing navigation information via haptic feedback",
+        "languages": {
+            "SMT": 1409002,
+            "Java": 112311,
+            "C++": 23878,
+            "C": 3224
+        }
+    },
+    {
+        "name": "formal_symbiyosys",
+        "description": "My experiments with SymbiYosys",
+        "languages": {
+            "SMT": 554277,
+            "Verilog": 175167,
+            "SystemVerilog": 13332,
+            "Coq": 5658,
+            "Makefile": 1336,
+            "Python": 979
+        }
+    },
+    {
+        "name": "echc",
+        "description": null,
+        "languages": {
+            "SMT": 78982
+        }
+    },
+    {
+        "name": "Multiple_Couriers_Planning",
+        "description": "It has become very common nowadays, especially after the outbreak of the COVID-19 pandemic, to send or receive items online (food, goods, clothes, documents, . . . ). Hence, it is more and more important for companies to efficiently schedule the dispatching of items through different couriers, in order to minimize the transportation costs. As the combinatorial decision and optimization expert, the student is assigned to solve the Multiple Couriers Planning (MCP) problem which is defined as follows. We have m couriers that must distribute n \u2265 m items at different customer locations. Each courier i has a maximum load size li. Each item j has a distribution point dj and a size sj (which can represent for instance a weight or a volume). The goal of MCP is to decide for each courier the items to be distributed and plan a tour (i.e. a sequence of location points to visit) to perform the necessary distribution tasks. Each courier tour must start and end at a given origin point o. Moreover, the maximum load li of the courier i should be respected when items are assigned to it. The objective is to minimize the total tour distance.",
+        "languages": {
+            "SMT": 33449280,
+            "Python": 123255,
+            "Shell": 2864
+        }
+    },
+    {
+        "name": "global_routing",
+        "description": null,
+        "languages": {
+            "SMT": 28757,
+            "Python": 16591,
+            "Shell": 57
+        }
+    },
+    {
+        "name": "OpenEventSpace",
+        "description": "Modular system of easy to build structural panels for room dividers, stages and exhibition furniture",
+        "languages": {
+            "SMT": 1253685
+        }
+    },
+    {
+        "name": "smtlib",
+        "description": "SMT-Lib v2 Tools for Haskell and Agda",
+        "languages": {
+            "SMT": 696739,
+            "HTML": 107090,
+            "Haskell": 22641,
+            "CSS": 8144,
+            "JavaScript": 7521,
+            "Agda": 1799,
+            "Makefile": 268
+        }
+    },
+    {
+        "name": "k_d0",
+        "description": null,
+        "languages": {
+            "SMT": 2243,
+            "JavaScript": 1903
+        }
+    },
+    {
+        "name": "verilog2smtExample",
+        "description": null,
+        "languages": {
+            "SMT": 82353202,
+            "Verilog": 31119030,
+            "Coq": 17955
+        }
+    },
+    {
+        "name": "CompositionalTioco",
+        "description": "The tioco conformance testing theory focuses on generating test cases based on implementation and specification models.",
+        "languages": {
+            "SMT": 42157019,
+            "C++": 14698524,
+            "Java": 694223,
+            "OpenEdge ABL": 440497,
+            "Shell": 345338,
+            "CMake": 328258,
+            "Python": 229208,
+            "GAP": 213242,
+            "SRecode Template": 79408,
+            "Emacs Lisp": 30182,
+            "C": 26962,
+            "Perl": 9103,
+            "Roff": 8806,
+            "Makefile": 6640,
+            "Awk": 236
+        }
+    },
+    {
+        "name": "solcsmtr-benchmarks",
+        "description": null,
+        "languages": {
+            "SMT": 235896
+        }
+    },
+    {
+        "name": "SMT-SLS-Solver",
+        "description": "SMT solver, implemented by stochastic local search with bit-blasting",
+        "languages": {
+            "SMT": 71024186,
+            "Kotlin": 39390
+        }
+    },
+    {
+        "name": "apl-research-puzzle",
+        "description": null,
+        "languages": {
+            "SMT": 105708
+        }
+    },
+    {
+        "name": "RobotArm_6DOF",
+        "description": "3d printable Robot Arm with position feedback. ROS and MoveIt integration available",
+        "languages": {
+            "SMT": 57923418,
+            "CMake": 162544,
+            "Python": 27242,
+            "Shell": 4793,
+            "C++": 812
+        }
+    },
+    {
+        "name": "formal-verif",
+        "description": "A repository for formal verification using Yosys.",
+        "languages": {
+            "SMT": 67863,
+            "Verilog": 14697
+        }
+    },
+    {
+        "name": "freqhorn",
+        "description": "A CHC solver that supports linear clauses, Integer arithmetic, and arrays.",
+        "languages": {
+            "SMT": 921794,
+            "C++": 609280,
+            "Jupyter Notebook": 186806,
+            "Python": 101796,
+            "CMake": 13015,
+            "HCL": 8257,
+            "Shell": 3848,
+            "Smarty": 512
+        }
+    },
+    {
+        "name": "SuFuVerificationDataset",
+        "description": null,
+        "languages": {
+            "SMT": 822226,
+            "Haskell": 500812,
+            "Python": 6788
+        }
+    },
+    {
+        "name": "mu-gie",
+        "description": "same old Boogie with a mutating twist",
+        "languages": {
+            "SMT": 5729774,
+            "Haskell": 142342,
+            "Perl": 797
+        }
+    },
+    {
+        "name": "dreamspace-circular-plastic",
+        "description": "Community Innovation project to engage people for plastic awareness in Sri Lanka",
+        "languages": {
+            "SMT": 4310705
+        }
+    },
+    {
+        "name": "hoice-haskell",
+        "description": null,
+        "languages": {
+            "SMT": 13534857,
+            "Haskell": 115718,
+            "Shell": 7302,
+            "Python": 3643,
+            "Makefile": 912
+        }
+    },
+    {
+        "name": "spi-bridge",
+        "description": "connect two SPI masters with fifos, similar to SPI-UART-UART-SPI ",
+        "languages": {
+            "SMT": 74617,
+            "Verilog": 25845
+        }
+    },
+    {
+        "name": "kicad-user-library",
+        "description": "Symbols, footprints and 3D models for Kicad",
+        "languages": {
+            "SMT": 228854
+        }
+    },
+    {
+        "name": "monadic-quicksort-verification",
+        "description": "A Liquid Haskell verification of Mu and Chiang's \"Deriving Monadic Quicksort.\"",
+        "languages": {
+            "SMT": 22253522,
+            "HTML": 1742692,
+            "Haskell": 351777,
+            "CSS": 1665,
+            "TeX": 127
+        }
+    },
+    {
+        "name": "smt_encoded_regex",
+        "description": "These are notes and small regexes written in SMT from when I was experimenting with transforming regex to SMT, which I later found has been done better by Microsoft in their automata-z3 project, which led to me abandoning this project.",
+        "languages": {
+            "SMT": 7208593,
+            "Python": 122
+        }
+    },
+    {
+        "name": "coursera-advanced-algorithms",
+        "description": "Coursera Advanced Algorithms Exercises",
+        "languages": {
+            "SMT": 216096,
+            "C": 168301,
+            "Python": 31481,
+            "Java": 24021,
+            "Objective-C": 15520,
+            "C++": 12841,
+            "Shell": 5245
+        }
+    },
+    {
+        "name": "2020CAD",
+        "description": null,
+        "languages": {
+            "SMT": 227105
+        }
+    },
+    {
+        "name": "engineering-model-library",
+        "description": "Highly detailed, mechanically accurate engineering 3d models for mechanical constraint evaluation or visual renderings",
+        "languages": {
+            "SMT": 829258
+        }
+    },
+    {
+        "name": "SpeCS",
+        "description": "SPARQL Query Containment Solver",
+        "languages": {
+            "SMT": 197512,
+            "C++": 66334,
+            "Lex": 2344,
+            "Makefile": 555
+        }
+    },
+    {
+        "name": "spf-wca-llm",
+        "description": null,
+        "languages": {
+            "SMT": 2055960,
+            "Python": 161769,
+            "Java": 29368
+        }
+    },
+    {
+        "name": "FACPL",
+        "description": "Formal Access Control Policy Language",
+        "languages": {
+            "SMT": 3599056,
+            "Java": 1788666,
+            "Xtend": 271905,
+            "Shell": 187
+        }
+    },
+    {
+        "name": "ctfs",
+        "description": "A repository containing exploits and tools written during ctfs, to be inspected together with writeups.",
+        "languages": {
+            "SMT": 88563,
+            "Assembly": 2892,
+            "C++": 2568
+        }
+    },
+    {
+        "name": "smts",
+        "description": null,
+        "languages": {
+            "SMT": 69326007,
+            "JavaScript": 107487,
+            "C++": 102000,
+            "Python": 91089,
+            "HTML": 17799,
+            "Shell": 13359,
+            "TypeScript": 13106,
+            "CSS": 10021,
+            "CMake": 6790,
+            "Dockerfile": 1876,
+            "C": 753
+        }
+    },
+    {
+        "name": "bosy",
+        "description": null,
+        "languages": {
+            "SMT": 261024,
+            "Rust": 203586,
+            "C": 77579,
+            "Shell": 4115,
+            "CMake": 838,
+            "Dockerfile": 522,
+            "Makefile": 119,
+            "Objective-C": 62
+        }
+    },
+    {
+        "name": "ASME-2023-Hackathon-Autodesk",
+        "description": "This is the repository for ASME IDETC2023 Autodesk Hackathon challenge",
+        "languages": {
+            "SMT": 162204396,
+            "Jupyter Notebook": 23243277,
+            "Python": 62396
+        }
+    },
+    {
+        "name": "ProgramSynthesisPipeline",
+        "description": "Repository for software artifacts concerning my Master's Thesis",
+        "languages": {
+            "SMT": 99232,
+            "Python": 68129,
+            "Java": 287
+        }
+    },
+    {
+        "name": "nunchaku-problems",
+        "description": "Set of problems for exercizing Nunchaku",
+        "languages": {
+            "SMT": 26899,
+            "OCaml": 2247,
+            "Isabelle": 1310,
+            "Makefile": 1021,
+            "Shell": 358
+        }
+    },
+    {
+        "name": "ltl-planner",
+        "description": null,
+        "languages": {
+            "SMT": 505854,
+            "C": 217100,
+            "C++": 168589,
+            "Yacc": 51178,
+            "CMake": 6372,
+            "Lex": 3479,
+            "Makefile": 2680,
+            "Shell": 1334,
+            "Perl": 810
+        }
+    },
+    {
+        "name": "patmos-sail",
+        "description": "Sail ISA model of Patmos",
+        "languages": {
+            "SMT": 10704966,
+            "Python": 19655,
+            "C": 6914,
+            "Shell": 5377,
+            "Makefile": 5185,
+            "OCaml": 3829,
+            "Assembly": 288
+        }
+    },
+    {
+        "name": "design-models",
+        "description": "Design Models in Lustre and Verilog",
+        "languages": {
+            "SMT": 27893,
+            "SystemVerilog": 18073,
+            "Verilog": 18017,
+            "Tcl": 1244
+        }
+    },
+    {
+        "name": "smt-d",
+        "description": "A small SMT solver implementation for QF_UF and LRA[WIP]. 2021\u5e74\u5ea6\u306e\u60c5\u5831\u7279\u5225\u6f14\u7fd2I\u306b\u3066\u66f8\u3044\u305f\u30d7\u30ed\u30b0\u30e9\u30e0",
+        "languages": {
+            "SMT": 1236410,
+            "D": 134186,
+            "Shell": 555,
+            "Dockerfile": 115
+        }
+    },
+    {
+        "name": "ComSpen",
+        "description": null,
+        "languages": {
+            "SMT": 1996289,
+            "C++": 611530,
+            "CMake": 1486
+        }
+    },
+    {
+        "name": "PR",
+        "description": "Repositorio para problemas de Programaci\u00f3n con Restricciones (Constraint Programming)",
+        "languages": {
+            "SMT": 25076,
+            "Python": 20781
+        }
+    },
+    {
+        "name": "smt-triggen",
+        "description": "This repository provides the artifact for the paper: \"Identifying Overly Restrictive Matching Patterns in SMT-Based Program Verifiers\", A. Bugariu, A. Ter-Gabrielyan, and P. M\u00fcller, FM'21.",
+        "languages": {
+            "SMT": 41428368,
+            "Python": 375933,
+            "Shell": 12943,
+            "Dockerfile": 1317
+        }
+    },
+    {
+        "name": "sls-reachability",
+        "description": "Code and benchmarks for paper presented at VMCAI 2020, \"Solving LIA* Using Approximations\" by Maxwell Levatich, Nikolaj Bj\u00f8rner, Ruzica Pisakc, and Sharon Shoham",
+        "languages": {
+            "SMT": 146378,
+            "Python": 36304,
+            "Shell": 68
+        }
     }
 ]
