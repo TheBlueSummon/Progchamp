@@ -34,7 +34,7 @@
         "name": "kicad-source-mirror",
         "description": "This is an active mirror of the KiCad development branch, which is hosted at GitLab (updated every time something is pushed). Pull requests on GitHub are not accepted or watched.",
         "languages": {
-            "C++": 40360767,
+            "C++": 40364005,
             "C": 28367150,
             "CMake": 546186,
             "Python": 414129,
@@ -56,5 +56,1693 @@
         "name": "altium-library",
         "description": "Open source Altium Database Library with over 200,000 high quality components and full 3d models.",
         "languages": {}
+    },
+    {
+        "name": "pslab-hardware",
+        "description": "PSLab Hardware Design and Schematics https://pslab.io",
+        "languages": {
+            "Prolog": 695616,
+            "Python": 3369
+        }
+    },
+    {
+        "name": "laravel-schematics",
+        "description": "A Laravel package making a diagram of your models, relations and the ability to build them with it",
+        "languages": {
+            "Vue": 94766,
+            "PHP": 91665,
+            "JavaScript": 31588,
+            "Blade": 2357,
+            "SCSS": 97
+        }
+    },
+    {
+        "name": "schematic",
+        "description": "Automatically generate ContentProviders",
+        "languages": {
+            "Java": 172230,
+            "Kotlin": 46597
+        }
+    },
+    {
+        "name": "openwash-hardware",
+        "description": "OpenWash Hardware Schematics",
+        "languages": {}
+    },
+    {
+        "name": "vive-diy-position-sensor",
+        "description": "Code & schematics for position tracking sensor using HTC Vive's Lighthouse system and a Teensy board.",
+        "languages": {
+            "C++": 582671,
+            "CMake": 16779,
+            "C": 1731,
+            "Makefile": 130
+        }
+    },
+    {
+        "name": "diy-layout-creator",
+        "description": "multi platform circuit layout and schematic drawing tool",
+        "languages": {
+            "HTML": 3527410,
+            "Java": 3280192,
+            "Roff": 886599,
+            "PHP": 46267,
+            "Shell": 36096,
+            "Objective-C": 34259,
+            "Inno Setup": 31777,
+            "Python": 13891,
+            "Batchfile": 3964,
+            "CSS": 1420,
+            "C": 575
+        }
+    },
+    {
+        "name": "altium2kicad",
+        "description": "Altium to KiCad converter for PCB and schematics",
+        "languages": {
+            "Perl": 318345,
+            "Makefile": 465,
+            "Shell": 418
+        }
+    },
+    {
+        "name": "kicad-library",
+        "description": "The schematic and 3D libraries for KiCad 4.0.  Note that the footprint libraries are the *.pretty repos themselves. This is an orphaned repo, the news about the v5 libs, http://kicad.org/post/kicad-official-libraries/.",
+        "languages": {
+            "HTML": 16547,
+            "CMake": 6135,
+            "OpenSCAD": 2858,
+            "Shell": 282,
+            "Makefile": 184
+        }
+    },
+    {
+        "name": "OpenNoteBlockStudio",
+        "description": "An open-source Minecraft music maker.",
+        "languages": {
+            "Yacc": 23806265,
+            "Game Maker Language": 1116419,
+            "NSIS": 10964,
+            "C++": 9963,
+            "Python": 4496,
+            "Batchfile": 173
+        }
+    },
+    {
+        "name": "kicad-symbols",
+        "description": "Official KiCad schematic symbol libraries for Kicad 5",
+        "languages": {
+            "CMake": 2739
+        }
+    },
+    {
+        "name": "RiftDK1",
+        "description": "Firmware, Schematics, and Mechanicals for the Oculus Rift Development Kit 1",
+        "languages": {
+            "C": 1775403,
+            "C++": 53697
+        }
+    },
+    {
+        "name": "litematica",
+        "description": "A modern client-side schematic mod for Minecraft",
+        "languages": {
+            "Java": 1487757,
+            "GLSL": 226
+        }
+    },
+    {
+        "name": "netlistsvg",
+        "description": "draws an SVG schematic from a JSON netlist",
+        "languages": {
+            "JavaScript": 1313465,
+            "TypeScript": 66862,
+            "Makefile": 205
+        }
+    },
+    {
+        "name": "BlockRevealers",
+        "description": "Ideas for revealing content in a schematic box look as seen around the Web lately.",
+        "languages": {
+            "HTML": 40172,
+            "CSS": 15055,
+            "JavaScript": 6392
+        }
+    },
+    {
+        "name": "kiri",
+        "description": "Kiri is a visual tool designed for reviewing schematics and layouts of KiCad projects that are version-controlled with Git.",
+        "languages": {
+            "Shell": 133771,
+            "JavaScript": 54398,
+            "HTML": 17160,
+            "Python": 16846,
+            "CSS": 6615,
+            "Makefile": 1114
+        }
+    },
+    {
+        "name": "gb-schematics",
+        "description": "Game Boy -related schematics",
+        "languages": {}
+    },
+    {
+        "name": "kicad-ESP8266",
+        "description": "Schematic symbols and PCB footprints for ESP8266 modules",
+        "languages": {
+            "OpenSCAD": 9633
+        }
+    },
+    {
+        "name": "FileToVox",
+        "description": "Tool for convert files into Magicavoxel file",
+        "languages": {
+            "C#": 78662
+        }
+    },
+    {
+        "name": "DevTerm",
+        "description": "This code repository offers downloads for the latest images of various DevTerm models, as well as kernel patches, keyboard firmware, the source code for screen and printer drivers, hardware schematics, assembly instructions, and essential technical documents.",
+        "languages": {
+            "C": 1253228,
+            "C++": 68750,
+            "Makefile": 32247,
+            "Python": 25897,
+            "Shell": 16897,
+            "Roff": 9414,
+            "TeX": 4317
+        }
+    },
+    {
+        "name": "schematics",
+        "description": "Nest architecture element generation based on Angular schematics \ud83c\udfac",
+        "languages": {
+            "TypeScript": 315058,
+            "JavaScript": 12177,
+            "Shell": 149
+        }
+    },
+    {
+        "name": "bit-preserve",
+        "description": "Project for capturing vintage, classic, aka old computer schematics in KiCad.",
+        "languages": {
+            "HTML": 655826
+        }
+    },
+    {
+        "name": "schematic",
+        "description": "A Go point of view on JSON Schema",
+        "languages": {
+            "Go": 48245
+        }
+    },
+    {
+        "name": "jest-schematic",
+        "description": "Angular schematic for adding Jest and the required files to an Angular CLI project",
+        "languages": {
+            "HTML": 46817,
+            "TypeScript": 40307,
+            "JavaScript": 404,
+            "CSS": 160
+        }
+    },
+    {
+        "name": "eagle-files",
+        "description": "littleBits Schematics and PCBs",
+        "languages": {}
+    },
+    {
+        "name": "ObjToSchematic",
+        "description": "A tool to convert 3D models into Minecraft formats such as .schematic, .litematic, .schem and .nbt",
+        "languages": {
+            "TypeScript": 623872,
+            "GLSL": 18025,
+            "CSS": 12643,
+            "JavaScript": 1970,
+            "HTML": 1346
+        }
+    },
+    {
+        "name": "klepcbgen",
+        "description": "Generates a KiCAD schematic and PCB layout using a Keyboard Layout Editor json file as input",
+        "languages": {
+            "Smarty": 81836,
+            "Python": 26641
+        }
+    },
+    {
+        "name": "DMG-CPU-Inside",
+        "description": "Reverse-engineered schematics for DMG-CPU-B",
+        "languages": {}
+    },
+    {
+        "name": "esp-dev-kits",
+        "description": "Docs, Schematics, Factory Firmwares for ESP Development Kits",
+        "languages": {
+            "C": 514237046,
+            "Shell": 354070,
+            "Makefile": 48076,
+            "Python": 40712,
+            "CMake": 36972,
+            "Roff": 36507,
+            "C++": 20718,
+            "HTML": 19663,
+            "SAS": 14485,
+            "WebAssembly": 14265,
+            "Module Management System": 13904,
+            "M4": 12238,
+            "Assembly": 8693,
+            "Smalltalk": 6052,
+            "StringTemplate": 4252
+        }
+    },
+    {
+        "name": "RC2014",
+        "description": "Official RC2014 repository for hardware schematics / software and more!",
+        "languages": {
+            "Assembly": 1309714,
+            "C": 198234,
+            "BASIC": 43685,
+            "Python": 9986,
+            "C++": 9378,
+            "Makefile": 4099,
+            "FreeBasic": 1559,
+            "Batchfile": 156
+        }
+    },
+    {
+        "name": "MicroMechBoard",
+        "description": "Source files and schematics for a very small, 33-key mechanical keyboard",
+        "languages": {
+            "Eagle": 1951606,
+            "C": 44126,
+            "C++": 31940,
+            "Makefile": 17780,
+            "Objective-C": 773
+        }
+    },
+    {
+        "name": "nx-electron",
+        "description": "Electron schematics for nrwl nx platform",
+        "languages": {
+            "TypeScript": 70775,
+            "JavaScript": 986
+        }
+    },
+    {
+        "name": "8bit-cpu",
+        "description": "Schematics & code for my 74LS-based 8-bit MK1 CPU",
+        "languages": {
+            "Python": 25505,
+            "Assembly": 16198,
+            "C++": 16008
+        }
+    },
+    {
+        "name": "rat-ratgdo",
+        "description": "Open source schematics for ratgdo PCB",
+        "languages": {
+            "HTML": 479604
+        }
+    },
+    {
+        "name": "SearchUIEffects",
+        "description": "A couple of schematic, inspirational proof-of-concepts for how to show the search interface on a website using CSS animations.",
+        "languages": {
+            "HTML": 49373,
+            "CSS": 44120,
+            "JavaScript": 14502
+        }
+    },
+    {
+        "name": "xschem",
+        "description": "A schematic editor for VLSI/Asic/Analog custom designs, netlist backends for VHDL, Spice and Verilog. The tool is focused on hierarchy and parametric designs, to maximize circuit reuse.",
+        "languages": {
+            "C": 2394285,
+            "Tcl": 470736,
+            "Awk": 244439,
+            "Roff": 74463,
+            "Shell": 67376,
+            "Yacc": 20551,
+            "VHDL": 13950,
+            "Lex": 12624,
+            "Makefile": 12285,
+            "Batchfile": 1240,
+            "CMake": 774
+        }
+    },
+    {
+        "name": "DSKY_EL_replica",
+        "description": "Schematic, PCB layout, mechanical CAD, and firmware to create a replica of the DSKY with electroluminescent display",
+        "languages": {
+            "C++": 84778,
+            "Processing": 3906
+        }
+    },
+    {
+        "name": "openmv-boards",
+        "description": "OpenMV boards, schematics, and layout",
+        "languages": {}
+    },
+    {
+        "name": "uConsole",
+        "description": "This code repository offers downloads for the latest images of various uConsole models, along with kernel patches, firmware for the keyboard and 4G expansion module, hardware schematics, assembly instructions, and essential technical documents.",
+        "languages": {
+            "C++": 39249,
+            "C": 3717,
+            "Shell": 3155
+        }
+    },
+    {
+        "name": "orb-hardware",
+        "description": "Hardware specifications and schematics for the Worldcoin Orb.",
+        "languages": {
+            "Shell": 188
+        }
+    },
+    {
+        "name": "RiftDK2",
+        "description": "Firmware, Schematics, and Mechanicals for the Oculus Rift Development Kit 2",
+        "languages": {
+            "C": 2727455,
+            "Assembly": 184297,
+            "HTML": 117425,
+            "Shell": 57275,
+            "C++": 42280,
+            "Objective-C": 3383
+        }
+    },
+    {
+        "name": "Schematica",
+        "description": "Import schematics, export schematics, build schematics. All inside Minecraft!",
+        "languages": {
+            "Java": 392706,
+            "GLSL": 227
+        }
+    },
+    {
+        "name": "oregano",
+        "description": "Schematic capture and circuit simulator",
+        "languages": {
+            "C": 1005563,
+            "HTML": 20169,
+            "Python": 17253,
+            "Awk": 14825,
+            "Tcl": 2233,
+            "Shell": 1507,
+            "C++": 1211,
+            "Perl": 728,
+            "Roff": 689,
+            "Dockerfile": 436
+        }
+    },
+    {
+        "name": "QSchematic",
+        "description": "A library that allows creating diagrams such as flowcharts or even proper engineering schematics within a Qt application.",
+        "languages": {
+            "C++": 292660,
+            "CMake": 13472
+        }
+    },
+    {
+        "name": "JLC2KiCad_lib",
+        "description": "JLC2KICAD_lib is a python script that generate a component library (schematic, footprint and 3D model ) for KiCad from the JLCPCB/easyEDA library.",
+        "languages": {
+            "Python": 51393
+        }
+    },
+    {
+        "name": "jtcores",
+        "description": "FPGA cores compatible with multiple arcade game machines and KiCAD schematics of arcade games. Working on MiSTer FPGA/Analogue Pocket",
+        "languages": {
+            "Verilog": 13496953,
+            "C++": 5552491,
+            "VHDL": 2011902,
+            "SystemVerilog": 432960,
+            "Go": 327612,
+            "Shell": 237984,
+            "Assembly": 233435,
+            "C": 133721,
+            "Tcl": 106930,
+            "HTML": 41244,
+            "Python": 29764,
+            "Pawn": 27417,
+            "Makefile": 4415,
+            "SourcePawn": 4248,
+            "Smalltalk": 2712,
+            "MATLAB": 1659,
+            "Forth": 1045,
+            "Awk": 815,
+            "M": 707,
+            "NASL": 216,
+            "Fortran": 54
+        }
+    },
+    {
+        "name": "unreal_schematics",
+        "description": "Schematics from Unreal official training at https://learn.unrealengine.com/home/LearningPath/113226",
+        "languages": {}
+    },
+    {
+        "name": "QNodeView",
+        "description": "Qt5 suite that supports displaying and editing nodes in a graph-like flow. Similar to Unreal Kismet, Frostbite 3 Schematics or Allegorithmic Substance Designer UIs.",
+        "languages": {
+            "C++": 41607,
+            "QMake": 1198,
+            "C": 1070
+        }
+    },
+    {
+        "name": "nativescript-schematics",
+        "description": "nativescript, mobile, schematics, angular",
+        "languages": {
+            "TypeScript": 235284,
+            "HTML": 6477,
+            "JavaScript": 964,
+            "SCSS": 705,
+            "CSS": 336
+        }
+    },
+    {
+        "name": "kicad-jlcpcb-bom-plugin",
+        "description": "Export a JLCPCB Compatible BOM directly from your KiCad schematic",
+        "languages": {
+            "Python": 3151
+        }
+    },
+    {
+        "name": "bastlSchematics",
+        "description": "all hw design schematics in one place",
+        "languages": {}
+    },
+    {
+        "name": "BlueESC",
+        "description": "Simple, open-source ESC that uses the SimonK firmware.",
+        "languages": {
+            "Eagle": 881996
+        }
+    },
+    {
+        "name": "easy-pdk-programmer-hardware",
+        "description": "Easy PDK programmer for PADAUK microcontroller. EDA, schematic, gerber, bom, housing stl, firmware",
+        "languages": {
+            "HTML": 210859
+        }
+    },
+    {
+        "name": "KiPart",
+        "description": "Python package for generating multi-unit schematic symbols for KiCad from a CSV file.",
+        "languages": {
+            "Python": 129268,
+            "Makefile": 4950,
+            "HTML": 595,
+            "Shell": 202,
+            "Batchfile": 135
+        }
+    },
+    {
+        "name": "uhk60v1-electronics",
+        "description": "The schematic and PCBs of the UHK 60 v1",
+        "languages": {
+            "JavaScript": 14594,
+            "Shell": 5488,
+            "Python": 589
+        }
+    },
+    {
+        "name": "transit-map",
+        "description": "Generate a schematic map (\u201cmetro map\u201d) for a given (transit) network graph using Mixed Integer Programming.",
+        "languages": {
+            "JavaScript": 33631
+        }
+    },
+    {
+        "name": "python-altium",
+        "description": "Altium schematic format documentation, SVG converter and TK viewer",
+        "languages": {
+            "Python": 100717
+        }
+    },
+    {
+        "name": "EspruinoBoard",
+        "description": "Espruino and Puck.js Board Schematics",
+        "languages": {
+            "OpenSCAD": 27071,
+            "JavaScript": 15205,
+            "Shell": 5198,
+            "Makefile": 557
+        }
+    },
+    {
+        "name": "TR-9",
+        "description": "TR-9 - M17 protocol compatible handheld - schematics, PCB design files, BOM.",
+        "languages": {
+            "HTML": 460127
+        }
+    },
+    {
+        "name": "dji-hardware-schematics",
+        "description": "Community made schematics for the DJI drones and devices.",
+        "languages": {}
+    },
+    {
+        "name": "cypress-schematic",
+        "description": "**\u26d4\ufe0f  DEPRECATED** Add cypress to an Angular CLI project",
+        "languages": {
+            "TypeScript": 57671,
+            "HTML": 54530,
+            "JavaScript": 4943,
+            "CSS": 160,
+            "SCSS": 160
+        }
+    },
+    {
+        "name": "open-watch",
+        "description": "An open-source handmade smartwatch. All of the codes, PCBs and schematics are available. \u231a",
+        "languages": {
+            "C": 4353702,
+            "C++": 400210,
+            "Java": 189219,
+            "HTML": 158821,
+            "Makefile": 146339,
+            "Assembly": 9430,
+            "CMake": 308
+        }
+    },
+    {
+        "name": "dls-schematics",
+        "description": "Schematics for DLS - The Digital Logic Simulator game http://makingartstudios.itch.io/dls",
+        "languages": {
+            "Lua": 64782,
+            "JavaScript": 59443
+        }
+    },
+    {
+        "name": "pcbdl",
+        "description": "PCB Design Language: A programming way to design schematics.",
+        "languages": {
+            "Python": 87792,
+            "Makefile": 2980
+        }
+    },
+    {
+        "name": "openrov-electronics",
+        "description": "Electronics for OpenROV.  Include schematics and other diagrams",
+        "languages": {
+            "C++": 16811,
+            "PLSQL": 7809
+        }
+    },
+    {
+        "name": "Temperature_sensing_stirbar",
+        "description": "Schematics, PCB layout, and firmware for an RFID temperature sensor",
+        "languages": {
+            "C": 97412,
+            "Batchfile": 13237,
+            "Makefile": 8946,
+            "Pascal": 2988,
+            "SMT": 2565
+        }
+    },
+    {
+        "name": "Schematics",
+        "description": null,
+        "languages": {
+            "C": 433316,
+            "CSS": 233543,
+            "ANTLR": 141648,
+            "HTML": 42747,
+            "Makefile": 36076,
+            "Shell": 2243,
+            "BitBake": 1329
+        }
+    },
+    {
+        "name": "ng-morph",
+        "description": "Code mutations in your project or schematics were never easier than now.",
+        "languages": {
+            "TypeScript": 228792,
+            "HTML": 13632,
+            "JavaScript": 1527,
+            "Less": 1072
+        }
+    },
+    {
+        "name": "ngrx-course-v7",
+        "description": "Angular Ngrx Course - includes Store, Effects, Entity, Router Store, Schematics",
+        "languages": {
+            "TypeScript": 55456,
+            "HTML": 6198,
+            "CSS": 2730,
+            "JavaScript": 1729
+        }
+    },
+    {
+        "name": "prettier-schematic",
+        "description": "Add Prettier to an Angular project",
+        "languages": {
+            "HTML": 27746,
+            "TypeScript": 24198,
+            "JavaScript": 2037,
+            "CSS": 80
+        }
+    },
+    {
+        "name": "ZeroPhone-PCBs",
+        "description": "PCB files for ZeroPhone - for gerbers and schematics, go to \"Releases\" tab!",
+        "languages": {
+            "OpenSCAD": 3068
+        }
+    },
+    {
+        "name": "openmovement",
+        "description": "Open Movement devices are miniature, embeddable, open source sensors developed at Newcastle University, UK. The source code for the firmware and software is available under a BSD 2-clause license, and the hardware (PCB designs, layouts and schematics), enclosure designs and documentation are available under a Creative Commons 3.0 BY Attribution License.",
+        "languages": {
+            "C": 15866467,
+            "JavaScript": 5981692,
+            "C#": 1078021,
+            "Java": 137867,
+            "MATLAB": 111033,
+            "Makefile": 108481,
+            "C++": 70579,
+            "HTML": 63648,
+            "Python": 50834,
+            "CSS": 41841,
+            "Objective-C": 39664,
+            "Batchfile": 16845,
+            "Swift": 8816,
+            "Inno Setup": 8175,
+            "PHP": 5929,
+            "Shell": 2690,
+            "Visual Basic .NET": 2518,
+            "BitBake": 288
+        }
+    },
+    {
+        "name": "schematic",
+        "description": "Craft Setup Sync",
+        "languages": {
+            "PHP": 273479,
+            "Shell": 164
+        }
+    },
+    {
+        "name": "vscode-angular-schematics",
+        "description": "Ultimate Angular code generation in Visual Studio Code",
+        "languages": {}
+    },
+    {
+        "name": "super-sixteen",
+        "description": "Code and schematics for the Super Sixteen Eurorack sequencer",
+        "languages": {
+            "C++": 146367,
+            "Makefile": 75052,
+            "C": 9955,
+            "Shell": 282
+        }
+    },
+    {
+        "name": "solo2-hw",
+        "description": "Hardware schematic and layout for Solo 2",
+        "languages": {}
+    },
+    {
+        "name": "ng-lib-schematics",
+        "description": "\ud83d\udd25 Easily create Angular libraries using Schematics",
+        "languages": {
+            "JavaScript": 28300,
+            "TypeScript": 9301,
+            "HTML": 26,
+            "CSS": 22
+        }
+    },
+    {
+        "name": "rpieffectbox",
+        "description": "This repo contains the code and schematics for the Raspberry pi based guitar effect box built by Ben Jacobs of DoItNow Labs.",
+        "languages": {
+            "Pure Data": 19130,
+            "Eagle": 5851,
+            "Python": 2323
+        }
+    },
+    {
+        "name": "Homebrew-Gameboy-Cartridge",
+        "description": "Eagle library, schematic, and board files for a Homebrew Gameboy Cartridge PCB.",
+        "languages": {}
+    },
+    {
+        "name": "random-keyboard-parts.pretty",
+        "description": "KiCad Footprint and Schematic modules for various keyboard parts, prepared as necessary",
+        "languages": {}
+    },
+    {
+        "name": "ngx-tailwind",
+        "description": "\ud83d\udca8   Simple Angular schematic that initializes Tailwind CSS in your project and adds a custom webpack config to your build process.",
+        "languages": {
+            "TypeScript": 15963,
+            "JavaScript": 489,
+            "HTML": 302,
+            "SCSS": 177
+        }
+    },
+    {
+        "name": "M5-Schematic",
+        "description": "Most of the schematics of M5Stack boards",
+        "languages": {
+            "Shell": 294,
+            "Python": 194
+        }
+    },
+    {
+        "name": "flaskerize",
+        "description": "Python CLI build/dev tool for templated code generation and project modification. Think Angular schematics for Python.",
+        "languages": {
+            "Python": 100826,
+            "HTML": 1028,
+            "Shell": 67
+        }
+    },
+    {
+        "name": "AltiumDesigner-Libraries",
+        "description": "Personal schematic symbol and footprint libraries for Altium Designer.",
+        "languages": {}
+    },
+    {
+        "name": "open-amiga-sampler",
+        "description": "Open source schematics, parts lists and documentation for building generic mono Amiga sampler cartridges",
+        "languages": {
+            "OpenSCAD": 10429,
+            "C++": 5185
+        }
+    },
+    {
+        "name": "vrcpu",
+        "description": "Code, documentation, schematics, notes for my Ben Eater inspired breadboard computer and emulator",
+        "languages": {
+            "JavaScript": 1119864,
+            "HTML": 111011,
+            "Assembly": 56045,
+            "C++": 55800,
+            "C": 25888,
+            "PHP": 12833,
+            "CSS": 11416,
+            "Hack": 11403,
+            "Batchfile": 376
+        }
+    },
+    {
+        "name": "ANET-3D-Board-V1.0",
+        "description": "Anet 3D Printer Board - Schematic and Board",
+        "languages": {}
+    },
+    {
+        "name": "Qucs-RFlayout",
+        "description": "Export Qucs RF schematics to KiCad layouts & OpenEMS scripts",
+        "languages": {
+            "C++": 1237445,
+            "CMake": 20851,
+            "Nix": 2987
+        }
+    },
+    {
+        "name": "schematic",
+        "description": "Combine configuration with building a Component system",
+        "languages": {
+            "Clojure": 38964
+        }
+    },
+    {
+        "name": "shapeshifter",
+        "description": "\ud83d\udc3a Generate relational schemas, PropTypes, Flow aliases, and TypeScript interfaces from JSON or GraphQL schematic files.",
+        "languages": {
+            "TypeScript": 213960,
+            "JavaScript": 79896
+        }
+    },
+    {
+        "name": "Lite2Edit",
+        "description": "Java application: Converts Litematics to WorldEdit schematics",
+        "languages": {
+            "Java": 11732
+        }
+    },
+    {
+        "name": "schematic-ipsum",
+        "description": "A simple service that generates fake JSON data in accordance with a JSON Schema",
+        "languages": {
+            "CoffeeScript": 15791,
+            "JavaScript": 4332,
+            "CSS": 3641,
+            "Shell": 164
+        }
+    },
+    {
+        "name": "oregano",
+        "description": "Schematic capture and circuit simulator",
+        "languages": {
+            "C": 873238,
+            "Shell": 16630,
+            "Perl": 364
+        }
+    },
+    {
+        "name": "reload-pro",
+        "description": "Schematics and code for the Re:load Pro",
+        "languages": {
+            "C": 522864,
+            "C++": 172208,
+            "HTML": 18563
+        }
+    },
+    {
+        "name": "bme280",
+        "description": "Raspberry PI schematics & python module to drive a Bosch BME280 digital sensor module",
+        "languages": {
+            "Python": 19855
+        }
+    },
+    {
+        "name": "agc_hardware",
+        "description": "Schematics and board layouts for an Apollo Guidance Computer replica",
+        "languages": {}
+    },
+    {
+        "name": "XCircuit",
+        "description": "XCircuit circuit drawing and schematic capture tool",
+        "languages": {
+            "C": 4438227,
+            "Tcl": 306318,
+            "Shell": 218801,
+            "Makefile": 213568,
+            "Roff": 55142,
+            "NSIS": 45449,
+            "Python": 17439,
+            "Prolog": 8975,
+            "PostScript": 740,
+            "SourcePawn": 76
+        }
+    },
+    {
+        "name": "EL_driver_multi",
+        "description": "Schematic, PCB, and firmware to build a multi-channel electroluminescent driver",
+        "languages": {
+            "C++": 26303,
+            "Processing": 10558
+        }
+    },
+    {
+        "name": "FPGA-Oscilloscope",
+        "description": "Design, Documentation, Schematic, Board, Code files for the FPGA Oscilloscope project using an Altera Cyclone III FPGA.",
+        "languages": {
+            "VHDL": 8262808,
+            "C": 2712544,
+            "Verilog": 444444,
+            "Assembly": 363295,
+            "TeX": 305592,
+            "C++": 236175,
+            "SystemVerilog": 142413,
+            "XSLT": 12482,
+            "Mercury": 2820,
+            "MATLAB": 2539,
+            "Scilab": 2456,
+            "Shell": 2452,
+            "Stata": 2426,
+            "D": 1421,
+            "Standard ML": 64
+        }
+    },
+    {
+        "name": "circuit-simulator",
+        "description": "\u00a9 2011 MIT - It's a circuit simulator like PSpice written in Javascript. Uses two js libraries: cktsim.js and schematic.js",
+        "languages": {
+            "JavaScript": 193034,
+            "HTML": 521
+        }
+    },
+    {
+        "name": "schematics-utilities",
+        "description": "\ud83d\udee0\ufe0f Useful exported utilities for working with Schematics",
+        "languages": {
+            "TypeScript": 79149,
+            "Shell": 698
+        }
+    },
+    {
+        "name": "Onion-Hardware",
+        "description": "Schematic of Onion Omega2 Docks and Expansions",
+        "languages": {}
+    },
+    {
+        "name": "KiCad-Schematic-Symbol-Libraries",
+        "description": "Schematic symbol libraries for FPGAs & microcontrollers.",
+        "languages": {
+            "Python": 54144,
+            "Makefile": 2623
+        }
+    },
+    {
+        "name": "EasyEdaThemes",
+        "description": "Dark and Light theme overhaul for the EasyEda web based Schematic/PCB designer.",
+        "languages": {
+            "CSS": 24695,
+            "JavaScript": 14497
+        }
+    },
+    {
+        "name": "ay-3-8910_reverse_engineered",
+        "description": "The reverse-engineered AY-3-8910 chip. Transistor-level schematics, verilog model and a testbench with tools, that can render register dump files into .flac soundtrack.",
+        "languages": {
+            "Verilog": 35864,
+            "Python": 3065,
+            "Shell": 495
+        }
+    },
+    {
+        "name": "schematic",
+        "description": "type-safe JSON spec and validation tool",
+        "languages": {
+            "Haskell": 94683,
+            "Shell": 1503,
+            "Nix": 898
+        }
+    },
+    {
+        "name": "HumanIdiogramLibrary",
+        "description": "Resource of human chromosome schematics & images",
+        "languages": {}
+    },
+    {
+        "name": "maplemini",
+        "description": "Maple Mini schematics and layout",
+        "languages": {}
+    },
+    {
+        "name": "ochin-CM4",
+        "description": "It' the repository for the docs and schematics related to the ochin-CM4 Carrier Board",
+        "languages": {
+            "Shell": 128760
+        }
+    },
+    {
+        "name": "Alternate-KiCad-Library",
+        "description": "Alternate KiCad Library is a massive symbol and footprint library containing refreshed, new symbols and footprints for KiCad focused on improving Schematic and PCB readability and aesthetics, mainly intended for hobbyist use.",
+        "languages": {}
+    },
+    {
+        "name": "schematics",
+        "description": ":wrench: Schematics for @ngxs/store ",
+        "languages": {
+            "TypeScript": 32949
+        }
+    },
+    {
+        "name": "d3-hwschematic",
+        "description": "D3.js and ELK based schematic visualizer",
+        "languages": {
+            "JavaScript": 77050,
+            "CSS": 2723
+        }
+    },
+    {
+        "name": "CraftLib",
+        "description": "\ud83c\udfae CraftLib wraps the entire Minecraft codebase as a Java / Kotlin library. Supports protocol, NBT, chat and schematics. 1.7.x - 1.8.x",
+        "languages": {
+            "Kotlin": 769147
+        }
+    },
+    {
+        "name": "NucleoTNC",
+        "description": "The Nucleo TNC is a breadboard implementation of the Mobilinkd TNC3 using a STM32L432KC Nucleo32 board. This TNC faithfully implements the audio section and EEPROM storage of the TNC3. It omits the battery charging and Bluetooth components of the TNC3. It presents as a KISS TNC over a USB serial port.  This repository contains the build instructions, KiCAD schematics, and firmware source code.",
+        "languages": {
+            "C": 6173123,
+            "C++": 418893,
+            "HTML": 380746,
+            "Jupyter Notebook": 89164,
+            "Assembly": 13690
+        }
+    },
+    {
+        "name": "freetronics_kicad_library",
+        "description": "Freetronics KiCad schematic symbol & footprint library",
+        "languages": {}
+    },
+    {
+        "name": "Cherry-MX-Breakout-Board",
+        "description": "Cherry MX Breakout Boards with reverse-mounted addressable RGB LED and hot-swap.",
+        "languages": {}
+    },
+    {
+        "name": "kicad-utils",
+        "description": "KiCAD library / schematic / pcb parser and plotter written in TypeScript (JavaScript)",
+        "languages": {
+            "JavaScript": 6833263,
+            "TypeScript": 539155,
+            "HTML": 10143
+        }
+    },
+    {
+        "name": "fv1-pedal-platform",
+        "description": "Schematics, code, and pcb layouts for an FV-1 guitar effects pedal",
+        "languages": {
+            "C": 300343,
+            "JavaScript": 29185,
+            "C++": 26372,
+            "Vue": 11189,
+            "HTML": 613
+        }
+    },
+    {
+        "name": "pictologic",
+        "description": "Mindustry mod that adds an ingame PNG to logic display schematic converter.",
+        "languages": {
+            "JavaScript": 11753
+        }
+    },
+    {
+        "name": "kicad-exports",
+        "description": "Auto generate exports (schematics, gerbers, plots) for any KiCAD5 project.",
+        "languages": {
+            "HTML": 184138,
+            "Shell": 16300,
+            "Makefile": 1606,
+            "Dockerfile": 687
+        }
+    },
+    {
+        "name": "ngx.tools",
+        "description": "Discover Angular packages, libraries and schematics \ud83d\ude80",
+        "languages": {
+            "TypeScript": 34821,
+            "HTML": 22353,
+            "CSS": 5860,
+            "SCSS": 4557,
+            "JavaScript": 2172,
+            "Shell": 474
+        }
+    },
+    {
+        "name": "L3D-Hardware",
+        "description": "Eagle schematics and layout for the L3D cube",
+        "languages": {
+            "Eagle": 12200704,
+            "C++": 59047,
+            "Arduino": 47463
+        }
+    },
+    {
+        "name": "fujinet-hardware",
+        "description": "Schematics and design files for FujiNet hardware",
+        "languages": {
+            "HTML": 515644
+        }
+    },
+    {
+        "name": "foc_esc",
+        "description": "Design, docs, algo's, schematics for an ESC intended to run with a Field Oriented Control algorithm.",
+        "languages": {
+            "C": 2009041,
+            "HTML": 74777,
+            "Python": 31398,
+            "C++": 25586,
+            "Objective-C": 3591,
+            "Shell": 75
+        }
+    },
+    {
+        "name": "schematics",
+        "description": "Schematics for adding Okta and Auth0 Auth to your projects",
+        "languages": {
+            "TypeScript": 89829,
+            "JavaScript": 14562,
+            "Shell": 7474,
+            "Vue": 4311,
+            "HTML": 2878,
+            "Pug": 494
+        }
+    },
+    {
+        "name": "keebio-components",
+        "description": "KiCAD components for schematics",
+        "languages": {}
+    },
+    {
+        "name": "Electronic-Cheat-Sheet-and-Schematics-MegaCollection",
+        "description": "A lot of Files of various Electronic Shit that I have collected over the years. Cheatsheet, Schematics, Pinouts, Pdf, and More...   Enjoy it ;)",
+        "languages": {}
+    },
+    {
+        "name": "Peacefair-PZEM-004T-",
+        "description": "reverse-engineered schematics and interface software ",
+        "languages": {
+            "Python": 22610
+        }
+    },
+    {
+        "name": "6502",
+        "description": "svg schematic of the 6502 microprocessor",
+        "languages": {}
+    },
+    {
+        "name": "NBTEditor",
+        "description": "Editor for Minecraft NBT and schematic files",
+        "languages": {
+            "C++": 82713,
+            "CMake": 1730,
+            "C": 631,
+            "QMake": 184
+        }
+    },
+    {
+        "name": "made-with-love",
+        "description": "\ud83d\ude80 An experimental project which demonstrates an Angular Package which contains Angular Elements and Schematics",
+        "languages": {
+            "TypeScript": 11563,
+            "JavaScript": 2741,
+            "HTML": 680,
+            "CSS": 201
+        }
+    },
+    {
+        "name": "angular-toolkit",
+        "description": "Angular Schematics and Builders for `@ionic/angular` apps.",
+        "languages": {
+            "TypeScript": 63432,
+            "HTML": 312
+        }
+    },
+    {
+        "name": "KiField",
+        "description": "Edit/insert/delete part fields in KiCad schematics or libraries using a spreadsheet.",
+        "languages": {
+            "Python": 126329,
+            "Makefile": 12781,
+            "HTML": 595,
+            "Shell": 87
+        }
+    },
+    {
+        "name": "pighixxx-uploads-archive",
+        "description": "Archive of PighiXXX website uploads \u2014 pinouts, schematics, ABC book, fastener labels, ...",
+        "languages": {}
+    },
+    {
+        "name": "S9miner_sample",
+        "description": "Schematics and sample projects for S9 antminer control board sold as development board",
+        "languages": {
+            "HTML": 111811697,
+            "C": 18523190,
+            "Verilog": 4033072,
+            "SystemVerilog": 3617124,
+            "Tcl": 1508733,
+            "C++": 1359894,
+            "Scala": 335605,
+            "Assembly": 210638,
+            "Shell": 166058,
+            "Makefile": 149176,
+            "Stata": 104836,
+            "CartoCSS": 16080,
+            "Forth": 5207,
+            "Pascal": 1136
+        }
+    },
+    {
+        "name": "scuri",
+        "description": "Automate Angular unit test and boilerplate with this schematic.",
+        "languages": {
+            "TypeScript": 359466,
+            "Shell": 4542,
+            "Dockerfile": 961,
+            "JavaScript": 602,
+            "PowerShell": 599
+        }
+    },
+    {
+        "name": "GC-01-Geiger-Counter",
+        "description": "Code and schematics for the GC-01 Geiger counter",
+        "languages": {
+            "C++": 38528
+        }
+    },
+    {
+        "name": "mindcode",
+        "description": "A high level language for Mindustry Logic and Mindustry Schematics.",
+        "languages": {
+            "Java": 2242084,
+            "ANTLR": 15586,
+            "PowerShell": 2889,
+            "Shell": 1652,
+            "Dockerfile": 493,
+            "Batchfile": 359,
+            "Procfile": 159
+        }
+    },
+    {
+        "name": "Mosaic",
+        "description": "A modern schematic entry and simulation program",
+        "languages": {
+            "Clojure": 73121,
+            "CSS": 15389,
+            "HTML": 1951
+        }
+    },
+    {
+        "name": "EuclideanSequencer",
+        "description": "Source code and schematics for the Rebel Technology Euclidean Sequencer, Stoicheia.",
+        "languages": {
+            "C++": 33919,
+            "C": 23289,
+            "Makefile": 6124
+        }
+    },
+    {
+        "name": "CircuiTikZ-Tool",
+        "description": "UI application to speed up schematic drawing with LaTex CircuiTikZ",
+        "languages": {
+            "Java": 187225
+        }
+    },
+    {
+        "name": "circuit_recognizer",
+        "description": "final project that propose a way to convert hand-drawn circuit to computer schematic",
+        "languages": {
+            "Python": 41381,
+            "HTML": 1
+        }
+    },
+    {
+        "name": "arduino_uno_r3_from_scratch",
+        "description": "Complete KiCad Arduino UNO R3 Schematic and BOM",
+        "languages": {}
+    },
+    {
+        "name": "4ms-kicad-lib",
+        "description": "libraries for KiCAD schematics and footprints",
+        "languages": {
+            "Shell": 939
+        }
+    },
+    {
+        "name": "KiCad-Libraries",
+        "description": "KiCad schematic symbols and footprints for various projects.",
+        "languages": {
+            "OpenSCAD": 33574,
+            "Python": 31066,
+            "HTML": 1688
+        }
+    },
+    {
+        "name": "loom",
+        "description": "Software suite for the automated generation of geographically correct or schematic transit maps. ",
+        "languages": {
+            "C++": 1144530,
+            "CMake": 26606,
+            "Python": 6376,
+            "Dockerfile": 1057
+        }
+    },
+    {
+        "name": "LatencyTester",
+        "description": "Firmware, Schematics, and Mechanicals for the Oculus Latency Tester",
+        "languages": {
+            "C": 1734628,
+            "C++": 51834
+        }
+    },
+    {
+        "name": "schematic",
+        "description": "\ud83d\udcd0 schematic",
+        "languages": {
+            "Elixir": 68067
+        }
+    },
+    {
+        "name": "SchematicWebViewer",
+        "description": "An NPM package to facilitate importing and viewing of modern Minecraft schematics.",
+        "languages": {
+            "TypeScript": 51565,
+            "JavaScript": 1919,
+            "HTML": 241
+        }
+    },
+    {
+        "name": "MSX-USB",
+        "description": "Schematics, drivers, debug tools, to make USB devices on the MSX a reality",
+        "languages": {
+            "C": 929271,
+            "HTML": 650283,
+            "Assembly": 362158,
+            "C++": 243879,
+            "VHDL": 172317,
+            "Makefile": 30465,
+            "Verilog": 14131,
+            "C#": 4940,
+            "Mathematica": 763,
+            "Stata": 479
+        }
+    },
+    {
+        "name": "cgxkb",
+        "description": "Build guides and schematics of the CGx Keyboard series.",
+        "languages": {}
+    },
+    {
+        "name": "artemisa",
+        "description": "Schematics, PCB designs and HDL simulations to build a 8-bits MSX computer",
+        "languages": {
+            "C++": 54517,
+            "Assembly": 29302,
+            "Verilog": 25737,
+            "C": 4115,
+            "Makefile": 4037
+        }
+    },
+    {
+        "name": "rc2014-ym2149",
+        "description": "KiCad schematics and gerbers for a YM sound card for the RC2014. See it in action here: https://www.youtube.com/watch?v=-iLwi9FagFE",
+        "languages": {
+            "HTML": 289450,
+            "Assembly": 59277,
+            "Dockerfile": 1059,
+            "BASIC": 810,
+            "Makefile": 775
+        }
+    },
+    {
+        "name": "PaperCubes",
+        "description": "\ud83c\udfe1\ud83d\udda8 An App which converts your minecraft .schematic files to blueprints for papercraft",
+        "languages": {
+            "C++": 113747,
+            "JavaScript": 32576,
+            "Python": 29005,
+            "Makefile": 19006,
+            "HTML": 10414,
+            "Handlebars": 3564,
+            "C": 935
+        }
+    },
+    {
+        "name": "Schematic",
+        "description": "Minimalistic library that helps your IDE to understand a structure of associative arrays in your PHP applications",
+        "languages": {
+            "PHP": 20350
+        }
+    },
+    {
+        "name": "kicad-skip",
+        "description": "kicad s-expression schematic/layout file manipulation",
+        "languages": {
+            "Python": 125407
+        }
+    },
+    {
+        "name": "Ultim809",
+        "description": "Schematics, design files, and software for my Ultim809 homebrew 8-bit computer.",
+        "languages": {
+            "Assembly": 147114,
+            "Python": 21322,
+            "Vim Script": 7774,
+            "C": 93
+        }
+    },
+    {
+        "name": "electron",
+        "description": "A mixed signal netlist language (pre-alpha)",
+        "languages": {
+            "TypeScript": 322250,
+            "HTML": 44733,
+            "JavaScript": 15678,
+            "CSS": 1609
+        }
+    },
+    {
+        "name": "eurorack",
+        "description": "Schematics of Super Synthesis production modules ",
+        "languages": {
+            "C": 11044384,
+            "Makefile": 232179,
+            "Assembly": 24100
+        }
+    },
+    {
+        "name": "ng-cli-pug-loader",
+        "description": ":sparkles: Angular schematics to add .pug to your project",
+        "languages": {
+            "TypeScript": 14469,
+            "JavaScript": 1818
+        }
+    },
+    {
+        "name": "Teensy-4.1-example",
+        "description": "Kicad files to make a custom Teensy 4.1, based on the official Teensy schematics. Tested and verified.",
+        "languages": {
+            "HTML": 371134
+        }
+    },
+    {
+        "name": "audioxtreamer",
+        "description": "ASIO driver, Usb Driver, FX2LP Firmware, VHDL Fpga, Schematics & PCB Layout for the AudioXtreamer, a USB 2.0 32ch Audio/Midi interface for retrofitting into digital mixers/interfaces.",
+        "languages": {
+            "C++": 238936,
+            "VHDL": 114708,
+            "C": 20697
+        }
+    },
+    {
+        "name": "open-source-schematics",
+        "description": "released krtkl schematics",
+        "languages": {}
+    },
+    {
+        "name": "macse30mlb",
+        "description": "Macintosh SE/30 Main Logic Board Schematic Drawings",
+        "languages": {
+            "Shell": 1941
+        }
+    },
+    {
+        "name": "microbit-v2-hardware",
+        "description": "The schematic and Bill of Material for the BBC micro:bit V2",
+        "languages": {}
+    },
+    {
+        "name": "kegboard",
+        "description": "Kegbot's Arduino Kegerator controller, a flexible multi-function board. Firmware, schematics, Python library. Flow sensing, DS1820 temperature sensing, relay control, ID-12 RFID, and buzzer support.",
+        "languages": {
+            "Python": 41650,
+            "C": 38578,
+            "C++": 33391,
+            "Makefile": 17230
+        }
+    },
+    {
+        "name": "BPL",
+        "description": "The Blind Public License is a restrictive license that does not allow any person to read, view, interpret, emulate, debug, disassemble, reverse engineer, or execute (\"Observing\") any included code, schematics or engineering diagrams (the \"Technology\").",
+        "languages": {}
+    },
+    {
+        "name": "hardware-pinoccio",
+        "description": "The schematics, board layout, and datasheets for the Pinoccio board",
+        "languages": {
+            "C": 1550555,
+            "Eagle": 810601,
+            "C++": 631570,
+            "Makefile": 462442,
+            "Python": 57536,
+            "Objective-C": 36862,
+            "Lua": 8601,
+            "Prolog": 3876
+        }
+    },
+    {
+        "name": "ESP_NIXIE",
+        "description": "Code and schematics for driving a Nixie tube clock with a NodeMCU 1.0 ESP8266 development board",
+        "languages": {
+            "C++": 30660
+        }
+    },
+    {
+        "name": "inverter-hardware",
+        "description": "Eagle schematics of inverter main board, sensor boards and gate drivers",
+        "languages": {}
+    },
+    {
+        "name": "4bit-microcomputer",
+        "description": "MikroLeo project files (schematic, PCB, assembler, emulator/debugger, circuit simulation file, documentation, example of programs etc). MikroLeo is a 4-bit microcomputer developed mainly for educational purposes and distributed for free under open-source licenses.",
+        "languages": {
+            "Python": 32372,
+            "C": 18955,
+            "C++": 6457,
+            "Assembly": 1823
+        }
+    },
+    {
+        "name": "beacon-schematic",
+        "description": "Schematic of the Ethereum 2.0 Beacon Chain specification",
+        "languages": {}
+    },
+    {
+        "name": "EvilCrowRF-Beta",
+        "description": "Documentation, gerbers, design and schematic.",
+        "languages": {
+            "C++": 3439
+        }
+    },
+    {
+        "name": "XuLA2",
+        "description": "Everything to do with the XuLA2 FPGA board: schematics, layout, firmware, example FPGA designs, documentation, etc.",
+        "languages": {
+            "C": 236399,
+            "VHDL": 70072,
+            "C++": 40463,
+            "Makefile": 18333,
+            "Python": 9438,
+            "Verilog": 7132,
+            "Batchfile": 2251
+        }
+    },
+    {
+        "name": "kicad-schlib",
+        "description": "Alternative KiCad schematic library",
+        "languages": {
+            "Python": 41108,
+            "Shell": 3952,
+            "Makefile": 1395
+        }
+    },
+    {
+        "name": "modded-schematics",
+        "description": "Schematic files for modded Minecraft that can be used with Schemetica and WorldEdit.",
+        "languages": {}
+    },
+    {
+        "name": "tp4056",
+        "description": "TP4056 charger kicad schematics",
+        "languages": {}
+    },
+    {
+        "name": "scopy_hardware",
+        "description": "Scopy MVP Schematics/Hardware Design Files",
+        "languages": {}
+    },
+    {
+        "name": "LittleSixteen",
+        "description": "Commodore 16 schematics and PCB, redrawn in Kicad",
+        "languages": {}
+    },
+    {
+        "name": "talk-to-esp32",
+        "description": "I did a video series showing how you can use the app, the schematics you can follow, and also put a code example, youtube video playlist: https://bit.ly/34qoYDY",
+        "languages": {
+            "C++": 1586585,
+            "CMake": 17713,
+            "Shell": 6161,
+            "C": 1236,
+            "Makefile": 776
+        }
+    },
+    {
+        "name": "msx-cartridge",
+        "description": "Schematics and PCB designs of cartridges for MSX systems",
+        "languages": {
+            "C++": 5719,
+            "Ruby": 4716
+        }
+    },
+    {
+        "name": "mini-pcie-card-template",
+        "description": "Altium Designer 13 Board layout template containing an empty Mini PCI Express PCB. foot print library and schematic symbol.",
+        "languages": {
+            "Altium Designer": 38248
+        }
+    },
+    {
+        "name": "ampfactory",
+        "description": "A collection of tube amplifier schematics for guitar and bass",
+        "languages": {}
+    },
+    {
+        "name": "gsg-kicad-lib",
+        "description": "GSG's schematic symbols and modules for KiCad",
+        "languages": {}
+    },
+    {
+        "name": "RT1052V2",
+        "description": "SphinxEVK hardware design files, including PDF schematics and AltiumDesigner PCB layout.",
+        "languages": {}
+    },
+    {
+        "name": "led-panel-docs",
+        "description": "This repository contains RGB Matrix panel documentation. Schematics, datasheets and more.",
+        "languages": {}
+    },
+    {
+        "name": "ng-samurai",
+        "description": "Angular schematics to improve tree shaking of Angular libraries",
+        "languages": {
+            "TypeScript": 37120,
+            "JavaScript": 225
+        }
+    },
+    {
+        "name": "schematic",
+        "description": "Configuration and schema crate.",
+        "languages": {
+            "Rust": 335361,
+            "JavaScript": 147
+        }
+    },
+    {
+        "name": "basicengine-pcb",
+        "description": "Schematics and PCB layout for the BASIC Engine home computer",
+        "languages": {}
+    },
+    {
+        "name": "4KW-230V-Inverter",
+        "description": "With these schematics and PCB's, it's possible to create a 230V AC 4KW inverter. The main processor is based on Arduino Nano, with help from a graphic processor Arduino Mega2560, to run the demanding graphic and interface to front buttons.",
+        "languages": {
+            "C++": 60089
+        }
+    },
+    {
+        "name": "SchematicsPack",
+        "description": "A Mindustry mod that adds high quality schematics with easy sorting.",
+        "languages": {
+            "JavaScript": 14116
+        }
+    },
+    {
+        "name": "SMART-Response-XE-schematics",
+        "description": "Schematics of the SMART Response XE terminal",
+        "languages": {}
+    },
+    {
+        "name": "schema-cave",
+        "description": "Various old schematics of retired and unreleased modules.",
+        "languages": {}
+    },
+    {
+        "name": "NES",
+        "description": "Schematics for the NES",
+        "languages": {}
+    },
+    {
+        "name": "jest",
+        "description": "Angular schematic for adding Jest and the required files to an Angular CLI project",
+        "languages": {
+            "TypeScript": 26772,
+            "JavaScript": 2158,
+            "HTML": 1435,
+            "CSS": 80
+        }
+    },
+    {
+        "name": "OpenOrCadParser",
+        "description": "OpenOrCadParser - FOSS Parser for Cadence OrCAD designs.",
+        "languages": {
+            "C++": 474377,
+            "Python": 14827,
+            "CMake": 13217,
+            "Shell": 811
+        }
     }
 ]

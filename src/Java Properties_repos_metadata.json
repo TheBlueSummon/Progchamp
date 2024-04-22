@@ -48,5 +48,1554 @@
         "languages": {
             "Java": 1715270
         }
+    },
+    {
+        "name": "junit-quickcheck",
+        "description": "Property-based testing, JUnit-style",
+        "languages": {
+            "Java": 1651765
+        }
+    },
+    {
+        "name": "owner",
+        "description": "Get rid of the boilerplate code in properties based configuration.",
+        "languages": {
+            "Java": 452366,
+            "CSS": 32508,
+            "HTML": 19937,
+            "Shell": 483
+        }
+    },
+    {
+        "name": "SpringBoot",
+        "description": "springboot\u7528\u6cd5\u548c\u4e0e\u5404\u79cd\u6846\u67b6\u3001\u7ec4\u4ef6\u7b49\u7ed3\u5408\u4f7f\u7528\uff0c\u5305\u62ecspringboot\u7684\u6ce8\u89e3\u5206\u6790\u3001\u8def\u5f84\u5206\u6790\u3001\u53d6\u5f97\u5185\u7f6e\u5bf9\u8c61\u3001\u9879\u76ee\u6253\u5305\u3001\u914d\u7f6e\u73af\u5883\u5c5e\u6027\u3001\u8bfb\u53d6\u8d44\u6e90\u6587\u4ef6\u3001Bean\u914d\u7f6e\u3001\u6a21\u677f\u6e32\u67d3\u3001\u57fa\u4e8eyml\u7684\u591aprofile\u914d\u7f6e\u3001\u57fa\u4e8eproperties\u7684\u591aprofile\u3001\u6dfb\u52a0\u6570\u636e\u9a8c\u8bc1\u3001\u914d\u7f6e\u9519\u8bef\u9875\u3001\u5168\u5c40\u5f02\u5e38\u5904\u7406\u3001\u914d\u7f6eTomcat\u8fd0\u884c\u3001\u914d\u7f6ehttps\u8bbf\u95ee\u8def\u5f84\u3001\u4fe1\u606f\u663e\u793a\u3001\u5185\u7f6e\u5bf9\u8c61\u3001\u663e\u793a\u5bf9\u8c61\u4fe1\u606f\u3001\u6587\u4ef6\u4e0a\u4f20\u3001\u4f7f\u7528\u6587\u4ef6\u670d\u52a1\u5668\u3001\u62e6\u622a\u5668\u3001\u914d\u7f6edruid\u6570\u636e\u5e93\u8fde\u63a5\u6c60\u3001\u6574\u5408MyBatis\u6846\u67b6\u3001\u4e8b\u52a1\u63a7\u5236\u3001Druid\u76d1\u63a7\u3001\u6574\u5408ActiveMQ\u3001\u6574\u5408RabbitMQ\u3001\u6574\u5408kafka\u3001\u90ae\u4ef6\u53d1\u9001\u3001\u5b9a\u65f6\u8c03\u5ea6\u3001Actuator\u76d1\u63a7\u3001\u6574\u5408Redis\u6570\u636e\u5e93\u3001\u6574\u5408Restfui\u6846\u67b6\u3001\u6574\u5408Shiro",
+        "languages": {
+            "Java": 153474,
+            "HTML": 96588,
+            "JavaScript": 3192
+        }
+    },
+    {
+        "name": "MicroCommunity",
+        "description": "HC is open source Property Management Software(saas)",
+        "languages": {
+            "Java": 27326727,
+            "JavaScript": 106246,
+            "CSS": 14741,
+            "HTML": 6986,
+            "Batchfile": 2788,
+            "Shell": 2473,
+            "Dockerfile": 737
+        }
+    },
+    {
+        "name": "ObjectLogger",
+        "description": "A powerful and easy-to-use operational logging system that supports analysis of changes in object properties. \u5f3a\u5927\u4e14\u6613\u7528\u7684\u64cd\u4f5c\u65e5\u5fd7\u8bb0\u5f55\u7cfb\u7edf,\u652f\u6301\u5bf9\u8c61\u5c5e\u6027\u7684\u53d8\u5316\u5206\u6790\u3002",
+        "languages": {
+            "Java": 50509
+        }
+    },
+    {
+        "name": "jqwik",
+        "description": "Property-Based Testing on the JUnit Platform",
+        "languages": {
+            "Java": 3218590,
+            "Kotlin": 119104
+        }
+    },
+    {
+        "name": "PdfViewer",
+        "description": "Simple Android PDF viewer based on pdf.js and content providers. The app doesn't require any permissions. The PDF stream is fed into the sandboxed WebView without giving it access to content or files. CSP is used to enforce that the JavaScript and styling properties within the WebView are entirely static.",
+        "languages": {
+            "Java": 38969,
+            "Kotlin": 17488,
+            "JavaScript": 12656,
+            "CSS": 1862,
+            "HTML": 445
+        }
+    },
+    {
+        "name": "QuickTheories",
+        "description": "Property based testing for Java 8",
+        "languages": {
+            "Java": 470775
+        }
+    },
+    {
+        "name": "scenic-view",
+        "description": "Scenic View is a JavaFX application designed to make it simple to understand the current state of your application scenegraph, and to also easily manipulate properties of the scenegraph without having to keep editing your code. This lets you find bugs, and get things pixel perfect without having to do the compile-check-compile dance.",
+        "languages": {
+            "Java": 632346,
+            "CSS": 3958
+        }
+    },
+    {
+        "name": "sslcontext-kickstart",
+        "description": "\ud83d\udd10 A lightweight high level library for configuring a http client or server based on SSLContext or other properties such as TrustManager, KeyManager or Trusted Certificates to communicate over SSL TLS for one way authentication or two way authentication provided by the SSLFactory. Support for Java, Scala and Kotlin based clients with examples. Available client examples are: Apache HttpClient, OkHttp, Spring RestTemplate, Spring WebFlux WebClient Jetty and Netty, the old and the new JDK HttpClient, the old and the new Jersey Client, Google HttpClient, Unirest, Retrofit, Feign, Methanol, Vertx, Scala client Finagle, Featherbed, Dispatch Reboot, AsyncHttpClient, Sttp, Akka, Requests Scala, Http4s Blaze, Kotlin client Fuel, http4k Kohttp and Ktor. Also gRPC, WebSocket and ElasticSearch examples are included",
+        "languages": {
+            "Java": 1240017,
+            "Shell": 98
+        }
+    },
+    {
+        "name": "quickperf",
+        "description": "QuickPerf is a testing library for Java to quickly evaluate and improve some performance-related properties",
+        "languages": {
+            "Java": 1376421
+        }
+    },
+    {
+        "name": "jackson-dataformats-text",
+        "description": "Uber-project for (some) standard Jackson textual format backends: csv, properties, yaml (xml to be added in future)",
+        "languages": {
+            "Java": 1405194,
+            "Logos": 23503,
+            "Lex": 16372
+        }
+    },
+    {
+        "name": "mojito",
+        "description": "An automation platform that enables continuous localization.",
+        "languages": {
+            "Java": 4964508,
+            "JavaScript": 654337,
+            "SCSS": 18202,
+            "Python": 8871,
+            "HTML": 5229,
+            "Shell": 2630,
+            "TypeScript": 2207,
+            "Dockerfile": 1217
+        }
+    },
+    {
+        "name": "i18n-editor",
+        "description": "GUI for editing your i18n translation files",
+        "languages": {
+            "Java": 219497,
+            "Inno Setup": 1992
+        }
+    },
+    {
+        "name": "GradientDrawableTuner",
+        "description": "\ud83d\udd79\ufe0f See how the properties of Android's \"shape\" affect the Drawable's appearance, intuitively.",
+        "languages": {
+            "Java": 78965
+        }
+    },
+    {
+        "name": "squiggly",
+        "description": "The Squiggly Filter is a Jackson JSON PropertyFilter, which selects properties of an object/list/map using a subset of the Facebook Graph API filtering syntax.",
+        "languages": {
+            "Java": 109057,
+            "Shell": 2381,
+            "ANTLR": 2009
+        }
+    },
+    {
+        "name": "os-maven-plugin",
+        "description": "A Maven plugin that sets various useful properties detected from ${os.name} and ${os.arch} properties.",
+        "languages": {
+            "Java": 40735,
+            "Shell": 1289,
+            "Groovy": 886
+        }
+    },
+    {
+        "name": "spring-dotenv",
+        "description": "Provides a Dotenv property source for Spring",
+        "languages": {
+            "Java": 14983
+        }
+    },
+    {
+        "name": "dd-plist",
+        "description": "A java library providing support for ASCII, XML and binary property lists.",
+        "languages": {
+            "Java": 486609
+        }
+    },
+    {
+        "name": "android-logger",
+        "description": "Useful logger for Android based on standard android.util.Log class. Simple lightweight (< 50 Kb) implementation of SLF4J API. Easy but powerful configuration via properties file and some additional helpful logging methods. Easy analogue of popular log4j library.",
+        "languages": {
+            "Java": 114785
+        }
+    },
+    {
+        "name": "Springy_Facebook_Rebound",
+        "description": "Springy makes Android Property animation easy to use. ",
+        "languages": {
+            "Java": 27926
+        }
+    },
+    {
+        "name": "WaveView",
+        "description": " Imitate the Android progress of  method, At present support functions:1. waveview to support the dynamic change of progress 2. waveview to support the progress callback Activity or fragments, use mask effect and the property animation 3. waveview to support custom change wave properties, including color wave, wave speed, wave shape of container (currently support circle, rectangular, and mask drawable).",
+        "languages": {
+            "Java": 28671
+        }
+    },
+    {
+        "name": "pgql-lang",
+        "description": "PGQL is an SQL-based query language for property graphs",
+        "languages": {
+            "Java": 648109,
+            "Shell": 2242,
+            "Batchfile": 420
+        }
+    },
+    {
+        "name": "eclipse-rbe",
+        "description": "Eclipse plugin for editing Java resource bundles. Lets you manage all localized .properties files in one screen. Some features: sorted keys, warning icons on missing keys/values, conversion to/from Unicode, hierarchical view of keys, and more.",
+        "languages": {
+            "Java": 435637,
+            "XSLT": 7395,
+            "HTML": 2093,
+            "CSS": 731
+        }
+    },
+    {
+        "name": "WeixinMultiPlatform",
+        "description": "weixin-mp-java \u57fa\u4e8eJava\uff0cSpring\uff0cMaven\u5b9e\u73b0\u7684\u5fae\u4fe1\u516c\u4f17\u5e73\u53f0\u4e00\u6574\u5957\u4ee3\u7801\uff0c\u4ece\u524d\u7aefController\u5230\u540e\u7aef\u7684Dao\u7684\u5b9e\u73b0<br /> ==============  1.0.1 2013-1\u6708\u66f4\u65b0: \u652f\u6301\u4e0a\u4f20\u4e0b\u8f7d\u591a\u5a92\u4f53\u6587\u4ef6 \u652f\u6301\u63a5\u6536\u6d88\u606f(\u8bed\u97f3\u4f3c\u4e4e\u603b\u6709\u95ee\u9898,\u540c\u65f6\u6536\u5230\u6765\u81ea\u5fae\u4fe1\u4e24\u4e2a\u670d\u52a1\u5668\u7684\u7a7a\u7684POST\u7684\u8bf7\u6c42,\u8bba\u575b\u4e0a\u4e5f\u6709\u5f88\u591a\u4eba\u53cd\u6620\u6b64\u60c5\u51b5) \u652f\u6301\u7528\u6237\u7ba1\u7406 \u652f\u6301\u81ea\u5b9a\u4e49\u83dc\u5355CRD \u652f\u6301\u63a8\u5e7f\u652f\u6301\u63a5\u53e3  \u5f3a\u5316\u6d4b\u8bd5\u4ee3\u7801 \u4f18\u5316\u4ee3\u7801\u7ed3\u6784,\u589e\u52a0WxMessageHandlerIfc, \u53ea\u8981\u5b9e\u73b0\u8be5\u63a5\u53e3\u7684\u6240\u6709spring bean\u5728\u6536\u5230\u6d88\u606f\u540e\u90fd\u4f1a\u88ab\u81ea\u52a8\u8c03\u7528.  ==============  \u5b9e\u73b0\u529f\u80fd\uff1a\u6d88\u606f\u63a5\u53e3,\u901a\u7528\u63a5\u53e3\u548c\u83dc\u5355\u63a5\u53e3\uff08\u6ca1\u6709\u5185\u6d4b\u53f7\u65e0\u6cd5\u6d4b\u8bd5\uff09<br />  ==============  \u7531\u4e8e\u6d89\u53ca\u7684\u6846\u67b6\u6bd4\u8f83\u6742\u4e71\uff0c\u5728\u6b64\u4e00\u4e00\u89e3\u91ca\uff1a<br />  1. \u7b80\u4fbf\u5b9e\u7528\u7684\u524d\u7f6e\u6761\u4ef6\uff1a<br />    \u4f60\u7684\u9879\u76ee\u662f\u57fa\u4e8eSpring\uff0cMaven\uff0cHibernate\u67b6\u6784\uff1b<br />    \u4f60\u7684\u9879\u76ee\u81f3\u5c11\u6709\u4e00\u4e2a\u5df2\u7ecf\u5b58\u5728\u7684\u914d\u7f6e\u6587\u4ef6\uff1b<br />    \u9700\u8981\u5728\u914d\u7f6e\u6587\u4ef6(\u4f8b\u5b50\uff1aapplication.properties)\u4e2d\u6dfb\u52a0<br />      wx_token=your_token<br />      wx_appid=asdf<br />      wx_appsecret=secret<br />    \u6ca1\u6709\u5728\u7ebf\u7684Maven\u4ed3\u5e93\uff0c\u5f3a\u70c8\u5efa\u8baeclone\u4ee3\u7801\u5230\u672c\u5730\u4f5c\u4e3a\u5b50\u5de5\u7a0b\u4f7f\u7528\uff1b<br />  2. \u5982\u679c\u4f60\u662f\u901a\u8fc7spring-annotation\u914d\u7f6ebean\u7684\u8bdd\uff0c\u90a3\u4e48\u53ea\u8981\u5728\u4f60\u7684Spring xml\u914d\u7f6e\u6587\u4ef6\u91cc\u52a0\u5165\u4ee5\u4e0b\u4e24\u53e5\u4fbf\u53ef\uff1a<br />    \t&lt;context:component-scan base-package=\"com.hamster.weixinmp\" /&gt;<br /> \t&lt;util:properties id=\"wxProperties\" location=\"classpath:/application.properties\"/&gt;<br />    \u5982\u679c\u6ca1\u6709util\u7684\u8bdd\uff0c\u5728beans xml\u58f0\u660e\u4e2d\u52a0\u5165\uff1a<br />       xmlns:util=\"http://www.springframework.org/schema/util\"<br />       xsi:schemaLocation=\"\u2026..<br /> \t\thttp://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-3.1.xsd\"<br />    \u5728org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean\u7684packageToScan\u4e2d\u6dfb\u52a0org.hamster.weixinmp.dao  3. \u5982\u679c\u4e0d\u60f3\u7528\u6570\u636e\u5e93\uff0c\u90a3\u4e48\u53ea\u626b\u63cfcom.hamster.weixinmp.service\u548ccom.hamster.weixinmp.controller\u5373\u53ef\uff0c\u6240\u6709\u7684dao\u5728wxService\u4e2d\u914d\u7f6e\u6a21\u5f0f\u5747\u4e3a\u53ef\u9009\uff0c\u5982\u679c\u6ca1\u6709\u6ce8\u5165\uff0c\u5219\u4e0d\u4f1a\u6267\u884c\u5b58\u50a8\u64cd\u4f5c\uff1b<br />  4. \u9879\u76ee\u4f7f\u7528\u4e86lombok\u751f\u6210Getter/Setter, toString, hashCode, equals\u65b9\u6cd5\uff0clombok\u6709eclipse\u63d2\u4ef6\uff0c\u5177\u4f53\u600e\u4e48\u5b89\u88c5\u8bf7\u770b\u8fd9\u91cc\uff1ahttp://projectlombok.org/download.html\uff0c\u5982\u679c\u4e0d\u60f3\u7528lombok\u7684\u8bdd\u90a3\u4e48\u5c31\u624b\u52a8\u5220\u6389\u90a3\u4e9b\u6ce8\u89e3\u5e76\u7528eclipse\u7b49\u5de5\u5177\u91cd\u65b0\u751f\u6210\u4e00\u4e0b\u8fd9\u4e9b\u65b9\u6cd5\u4fbf\u53ef\u3002<br />  5. \u5982\u679c\u4f60\u7684\u9879\u76ee\u662f\u901a\u8fc7xml\u7684\u65b9\u5f0f\u914d\u7f6e\u7684\u8bdd\uff0c\u4f60\u9700\u8981\u5c06\u6240\u6709\u7684dao\uff0cservice\u548ccontroller\u914d\u7f6e\u5230xml\u4e2d\uff08\u6d69\u5927\u7684\u5de5\u7a0b= =\uff09<br />  6. \u6570\u636e\u5e93\u7684\u524d\u7f00\u4e3awx_\uff0c\u4e00\u822c\u6765\u8bf4\u4e0d\u4f1a\u6709\u51b2\u7a81\uff0c\u771f\u51b2\u7a81\u4e86\u90a3\u5c31\u81ea\u5df1\u624b\u52a8\u6539\u6539\u5427\uff0c\u53cd\u6b63\u4e5f\u4e0d\u9ebb\u70e6<br />  7. \u6570\u636e\u5e93\u6709\u4e9b\u989d\u5916\u7684\u5b57\u6bb5\uff0c\u6bd4\u5982\u81ea\u589e\u957f\u7684id\uff0ccreated_date\u7b49\uff0c\u7528\u4e0d\u5230\u5c31\u65e0\u89c6\u5427<br />  8. \u5982\u679c\u4f60\u4e0d\u7528maven\u7684\u8bdd\u2026\u2026\u90a3\u5c31\u628ajava\u4ee3\u7801\u90fd\u62f7\u8d1d\u5230\u81ea\u5df1\u7684\u5de5\u7a0b\u91cc\u9762\u53bb\u5427\u2026\u2026<br />",
+        "languages": {
+            "Java": 202049,
+            "HTML": 832
+        }
+    },
+    {
+        "name": "joda-beans",
+        "description": "Java library to provide an API for beans and properties.",
+        "languages": {
+            "Java": 3078586,
+            "CSS": 1682,
+            "HTML": 153
+        }
+    },
+    {
+        "name": "AbilityChart",
+        "description": "A custom view that can show many property with lines or area",
+        "languages": {
+            "Java": 21117
+        }
+    },
+    {
+        "name": "metawidget",
+        "description": "Metawidget is a smart User Interface widget that populates itself, either statically or at runtime, with UI components to match the properties of your business objects. ",
+        "languages": {
+            "Java": 4121734,
+            "JavaScript": 1243718,
+            "PHP": 157633,
+            "HTML": 90689,
+            "CSS": 83660,
+            "Hack": 2364,
+            "Groovy": 1235,
+            "Scala": 1100,
+            "FreeMarker": 538
+        }
+    },
+    {
+        "name": "kripton",
+        "description": "A Java/Kotlin library for Android platform, to manage bean's persistence in SQLite, SharedPreferences, JSON, XML, Properties, Yaml, CBOR.",
+        "languages": {
+            "Java": 22785692,
+            "ANTLR": 44743,
+            "PLpgSQL": 2390,
+            "Shell": 342,
+            "Batchfile": 248
+        }
+    },
+    {
+        "name": "aem-component-generator",
+        "description": "AEM Component Generator is a java project that enables developers to generate the base structure of an AEM component using a JSON configuration file specifying component and dialog properties and other configuration options.",
+        "languages": {
+            "Java": 131722
+        }
+    },
+    {
+        "name": "PentagonFloatingActionButton",
+        "description": "Android property animation - The Value Animator",
+        "languages": {
+            "Java": 10209
+        }
+    },
+    {
+        "name": "hypothesis-java",
+        "description": "Advanced property-based (QuickCheck-like) testing for Java. Feasibility prototype.",
+        "languages": {
+            "Java": 37476
+        }
+    },
+    {
+        "name": "LanServerProperties",
+        "description": "Enhance the vanilla \"Open to LAN\" Gui for listening port customization and removal of enforced authentication",
+        "languages": {
+            "Java": 44464,
+            "JavaScript": 10617
+        }
+    },
+    {
+        "name": "furnace",
+        "description": "A Property Graph Algorithms Package (no longer active - see Apache TinkerPop)",
+        "languages": {
+            "Java": 125081,
+            "Groovy": 10810
+        }
+    },
+    {
+        "name": "props2js",
+        "description": "Tool to convert Java properties files into JavaScript",
+        "languages": {
+            "Java": 12283
+        }
+    },
+    {
+        "name": "CNN-TA",
+        "description": "Algorithmic Financial Trading with Deep Convolutional Neural Networks: Time Series to Image Conversion Approach: A novel algorithmic trading model CNN-TA using a 2-D convolutional neural network based on image processing properties.",
+        "languages": {
+            "Java": 1026766,
+            "Python": 5856
+        }
+    },
+    {
+        "name": "Hotel-Properties-Management-System",
+        "description": "Hotel Management System",
+        "languages": {
+            "Java": 390430
+        }
+    },
+    {
+        "name": "ReloadablePropertiesAnnotation",
+        "description": "Dynamic property configurations reload during runtime utilising Java 7 WatchService API, Google Guava and Spring 3.2.5",
+        "languages": {
+            "Java": 65542
+        }
+    },
+    {
+        "name": "easy-props",
+        "description": "The simple, stupid properties library for Java",
+        "languages": {
+            "Java": 170052
+        }
+    },
+    {
+        "name": "SweetHome",
+        "description": "SweetHome is a property management system for managers and residents to better communicate with one another",
+        "languages": {
+            "Java": 95413
+        }
+    },
+    {
+        "name": "jetCheck",
+        "description": "Property-based test framework ",
+        "languages": {
+            "Java": 123782
+        }
+    },
+    {
+        "name": "rx-property-android",
+        "description": "Bindable and observable property for Android Data Binding",
+        "languages": {
+            "Java": 171415,
+            "Kotlin": 3509
+        }
+    },
+    {
+        "name": "MaxibonKataJava",
+        "description": "Maxibon kata for Java Developers. The main goal is to practice property based testing.",
+        "languages": {
+            "Java": 16591
+        }
+    },
+    {
+        "name": "data-mediator",
+        "description": "a data mediator framework bind callbacks for any property",
+        "languages": {
+            "Java": 1337337
+        }
+    },
+    {
+        "name": "android-properties",
+        "description": "Android Library for reading properties file stored in assets folder",
+        "languages": {
+            "Java": 7767
+        }
+    },
+    {
+        "name": "Simple-JNDI",
+        "description": "Access property files via JNDI lookups. Get a DataSource from JNDI.",
+        "languages": {
+            "Java": 497304
+        }
+    },
+    {
+        "name": "Doramon",
+        "description": "\u4e2a\u4eba\u5de5\u5177\u6c47\u603b\uff1a\u4e00\u81f4\u6027\u54c8\u5e0c\u5de5\u5177\uff0cBitmap\u5de5\u5177\uff0c\u5e03\u9686\u8fc7\u6ee4\u5668\u53c2\u6570\u751f\u6210\u5668\uff0cYaml\u548cproperties\u4e92\u8f6c\u5de5\u5177\uff0c\u4e00\u952e\u5f0f\u751f\u6210\u6574\u4e2a\u524d\u540e\u7aef\u5de5\u5177\uff0c\u5355\u673a\u9ad8\u6027\u80fd\u5e42\u7b49\u5de5\u5177\uff0czookeeper\u5ba2\u6237\u7aef\u5de5\u5177\uff0c\u5206\u5e03\u5f0f\u5168\u5c40id\u751f\u6210\u5668\uff0c\u65f6\u95f4\u8f6c\u6362\u5de5\u5177\uff0cHttp\u5c01\u88c5\u5de5\u5177",
+        "languages": {
+            "Java": 349307,
+            "Groovy": 2831
+        }
+    },
+    {
+        "name": "spring-boot-base",
+        "description": "Licence GitHub Release  \u7b80\u4ecb  Spring Boot API Project Seed \u662f\u4e00\u4e2a\u57fa\u4e8eSpring Boot & MyBatis\u7684\u79cd\u5b50\u9879\u76ee\uff0c\u7528\u4e8e\u5feb\u901f\u6784\u5efa\u4e2d\u5c0f\u578bAPI\u3001RESTful API\u9879\u76ee\uff0c\u8be5\u79cd\u5b50\u9879\u76ee\u5df2\u7ecf\u6709\u8fc7\u591a\u4e2a\u771f\u5b9e\u9879\u76ee\u7684\u5b9e\u8df5\uff0c\u7a33\u5b9a\u3001\u7b80\u5355\u3001\u5feb\u901f\uff0c\u4f7f\u6211\u4eec\u6446\u8131\u90a3\u4e9b\u91cd\u590d\u52b3\u52a8\uff0c\u4e13\u6ce8\u4e8e\u4e1a\u52a1\u4ee3\u7801\u7684\u7f16\u5199\uff0c\u51cf\u5c11\u52a0\u73ed\u3002\u4e0b\u9762\u662f\u4e00\u4e2a\u7b80\u5355\u7684\u4f7f\u7528\u6f14\u793a\uff0c\u770b\u5982\u4f55\u57fa\u4e8e\u672c\u9879\u76ee\u5728\u77ed\u77ed\u51e0\u5341\u79d2\u949f\u5185\u5b9e\u73b0\u4e00\u5957\u7b80\u5355\u7684API\uff0c\u5e76\u8fd0\u884c\u63d0\u4f9b\u670d\u52a1\u3002    \u7279\u5f81&\u63d0\u4f9b  \u6700\u4f73\u5b9e\u8df5\u7684\u9879\u76ee\u7ed3\u6784\u3001\u914d\u7f6e\u6587\u4ef6\u3001\u7cbe\u7b80\u7684POM\uff08\u67e5\u770b\u9879\u76ee\u7ed3\u6784\u56fe\uff09 \u7edf\u4e00\u54cd\u5e94\u7ed3\u679c\u5c01\u88c5\u53ca\u751f\u6210\u5de5\u5177 \u7edf\u4e00\u5f02\u5e38\u5904\u7406 \u7b80\u5355\u7684\u63a5\u53e3\u7b7e\u540d\u8ba4\u8bc1 \u5e38\u7528\u57fa\u7840\u65b9\u6cd5\u62bd\u8c61\u5c01\u88c5 \u4f7f\u7528Druid Spring Boot Starter \u96c6\u6210Druid\u6570\u636e\u5e93\u8fde\u63a5\u6c60\u4e0e\u76d1\u63a7 \u4f7f\u7528FastJsonHttpMessageConverter\uff0c\u63d0\u9ad8JSON\u5e8f\u5217\u5316\u901f\u5ea6 \u96c6\u6210MyBatis\u3001\u901a\u7528Mapper\u63d2\u4ef6\u3001PageHelper\u5206\u9875\u63d2\u4ef6\uff0c\u5b9e\u73b0\u5355\u8868\u4e1a\u52a1\u96f6SQL \u63d0\u4f9b\u4ee3\u7801\u751f\u6210\u5668\u6839\u636e\u8868\u540d\u751f\u6210\u5bf9\u5e94\u7684Model\u3001Mapper\u3001MapperXML\u3001Service\u3001ServiceImpl\u3001Controller\u7b49\u57fa\u7840\u4ee3\u7801\uff0c\u5176\u4e2dController\u6a21\u677f\u9ed8\u8ba4\u63d0\u4f9bPOST\u548cRESTful\u4e24\u5957\uff0c\u6839\u636e\u9700\u6c42\u5728CodeGenerator.genController(tableName)\u65b9\u6cd5\u4e2d\u81ea\u5df1\u9009\u62e9\uff0c\u9ed8\u8ba4\u4f7f\u7528POST\u6a21\u677f\u3002\u4ee3\u7801\u6a21\u677f\u53ef\u6839\u636e\u5b9e\u9645\u9879\u76ee\u7684\u9700\u6c42\u6765\u6269\u5c55\uff0c\u7531\u4e8e\u6bcf\u4e2a\u516c\u53f8\u4e1a\u52a1\u90fd\u4e0d\u592a\u4e00\u6837\uff0c\u6240\u4ee5\u53ea\u63d0\u4f9b\u4e86\u4e00\u4e9b\u6bd4\u8f83\u57fa\u7840\u3001\u901a\u7528\u7684\u6a21\u677f\uff0c\u4e3b\u8981\u662f\u63d0\u4f9b\u4e00\u4e2a\u601d\u8def\u6765\u51cf\u5c11\u91cd\u590d\u4ee3\u7801\u7684\u7f16\u5199\uff0c\u6211\u5728\u5b9e\u9645\u9879\u76ee\u7684\u4f7f\u7528\u4e2d\uff0c\u5176\u5b9e\u6839\u636e\u516c\u53f8\u4e1a\u52a1\u7684\u62bd\u8c61\u7f16\u5199\u4e86\u5927\u91cf\u7684\u6a21\u677f\u3002\u53e6\u5916\uff0c\u4f7f\u7528\u6a21\u677f\u4e5f\u6709\u52a9\u4e8e\u4fdd\u6301\u56e2\u961f\u4ee3\u7801\u98ce\u683c\u7684\u7edf\u4e00 \u53e6\u6709\u5f69\u86cb\uff0c\u5f85\u4f60\u63a2\u7d22   \u5feb\u901f\u5f00\u59cb  \u514b\u9686\u9879\u76ee \u5bf9test\u5305\u5185\u7684\u4ee3\u7801\u751f\u6210\u5668CodeGenerator\u8fdb\u884c\u914d\u7f6e\uff0c\u4e3b\u8981\u662fJDBC\uff0c\u56e0\u4e3a\u8981\u6839\u636e\u8868\u540d\u6765\u751f\u6210\u4ee3\u7801 \u5982\u679c\u53ea\u662f\u60f3\u6839\u636e\u4e0a\u9762\u7684\u6f14\u793a\u6765\u4eb2\u81ea\u8bd5\u8bd5\u7684\u8bdd\u53ef\u4ee5\u4f7f\u7528test resources\u76ee\u5f55\u4e0b\u7684demo-user.sql\uff0c\u5426\u5219\u5ffd\u7565\u8be5\u6b65 \u8f93\u5165\u8868\u540d\uff0c\u8fd0\u884cCodeGenerator.main()\u65b9\u6cd5\uff0c\u751f\u6210\u57fa\u7840\u4ee3\u7801\uff08\u53ef\u80fd\u9700\u8981\u5237\u65b0\u9879\u76ee\u76ee\u5f55\u624d\u4f1a\u51fa\u6765\uff09 \u6839\u636e\u4e1a\u52a1\u5728\u57fa\u7840\u4ee3\u7801\u4e0a\u8fdb\u884c\u6269\u5c55 \u5bf9\u5f00\u53d1\u73af\u5883\u914d\u7f6e\u6587\u4ef6application-dev.properties\u8fdb\u884c\u914d\u7f6e\uff0c\u542f\u52a8\u9879\u76ee\uff0cHave Fun\uff01   \u5f00\u53d1\u5efa\u8bae  \u8868\u540d\uff0c\u5efa\u8bae\u4f7f\u7528\u5c0f\u5199\uff0c\u591a\u4e2a\u5355\u8bcd\u4f7f\u7528\u4e0b\u5212\u7ebf\u62fc\u63a5 Model\u5185\u6210\u5458\u53d8\u91cf\u5efa\u8bae\u4e0e\u8868\u5b57\u6bb5\u6570\u91cf\u5bf9\u5e94\uff0c\u5982\u9700\u6269\u5c55\u6210\u5458\u53d8\u91cf\uff08\u6bd4\u5982\u8fde\u8868\u67e5\u8be2\uff09\u5efa\u8bae\u521b\u5efaDTO\uff0c\u5426\u5219\u9700\u5728\u6269\u5c55\u7684\u6210\u5458\u53d8\u91cf\u4e0a\u52a0@Transient\u6ce8\u89e3\uff0c\u8be6\u60c5\u89c1\u901a\u7528Mapper\u63d2\u4ef6\u6587\u6863\u8bf4\u660e \u5efa\u8bae\u4e1a\u52a1\u5931\u8d25\u76f4\u63a5\u4f7f\u7528ServiceException(\"message\")\u629b\u51fa\uff0c\u7531\u7edf\u4e00\u5f02\u5e38\u5904\u7406\u5668\u6765\u5c01\u88c5\u4e1a\u52a1\u5931\u8d25\u7684\u54cd\u5e94\u7ed3\u679c\uff0c\u6bd4\u5982throw new ServiceException(\"\u8be5\u624b\u673a\u53f7\u5df2\u88ab\u6ce8\u518c\")\uff0c\u4f1a\u76f4\u63a5\u88ab\u5c01\u88c5\u4e3a{\"code\":400,\"message\":\"\u8be5\u624b\u673a\u53f7\u5df2\u88ab\u6ce8\u518c\"}\u8fd4\u56de\uff0c\u65e0\u9700\u81ea\u5df1\u5904\u7406\uff0c\u5c3d\u60c5\u629b\u51fa \u9700\u8981\u5de5\u5177\u7c7b\u7684\u8bdd\u5efa\u8bae\u5148\u4eceapache-commons-*\u548cguava\u4e2d\u627e\uff0c\u5b9e\u5728\u6ca1\u6709\u518d\u9020\u8f6e\u5b50\u6216\u5f15\u5165\u7c7b\u5e93\uff0c\u5c3d\u91cf\u7cbe\u7b80\u9879\u76ee \u5f00\u53d1\u89c4\u8303\u5efa\u8bae\u9075\u5faa\u963f\u91cc\u5df4\u5df4Java\u5f00\u53d1\u624b\u518c\uff08\u6700\u65b0\u7248\u4e0b\u8f7d) \u5efa\u8bae\u5728\u516c\u53f8\u5185\u90e8\u4f7f\u7528ShowDoc\u3001SpringFox-Swagger2 \u3001RAP\u7b49\u5f00\u6e90\u9879\u76ee\u6765\u7f16\u5199\u3001\u7ba1\u7406API\u6587\u6863   \u6280\u672f\u9009\u578b&\u6587\u6863  Spring Boot\uff08\u67e5\u770bSpring Boot\u5b66\u4e60&\u4f7f\u7528\u6307\u5357\uff09 MyBatis\uff08\u67e5\u770b\u5b98\u65b9\u4e2d\u6587\u6587\u6863\uff09 MyBatisb\u901a\u7528Mapper\u63d2\u4ef6\uff08\u67e5\u770b\u5b98\u65b9\u4e2d\u6587\u6587\u6863\uff09 MyBatis PageHelper\u5206\u9875\u63d2\u4ef6\uff08\u67e5\u770b\u5b98\u65b9\u4e2d\u6587\u6587\u6863\uff09 Druid Spring Boot Starter\uff08\u67e5\u770b\u5b98\u65b9\u4e2d\u6587\u6587\u6863\uff09 Fastjson\uff08\u67e5\u770b\u5b98\u65b9\u4e2d\u6587\u6587\u6863\uff09 \u5176\u4ed6\u7565 License  \u65e0\uff0c\u7eaf\u7cb9\u5f00\u6e90\u5206\u4eab\uff0c\u611f\u8c22\u5927\u5bb6 Star & Fork \u7684\u652f\u6301\u3002",
+        "languages": {
+            "Java": 33222,
+            "FreeMarker": 10706,
+            "TSQL": 2079
+        }
+    },
+    {
+        "name": "cerberus",
+        "description": "The Cerberus micro-service, a secure property store for cloud applications. It includes a REST API, authentication and encryption features, as well as a self-service web UI for users.",
+        "languages": {
+            "Java": 1359160,
+            "JavaScript": 276262,
+            "Groovy": 123645,
+            "SCSS": 73750,
+            "Shell": 3122,
+            "HTML": 2160,
+            "CSS": 1126
+        }
+    },
+    {
+        "name": "CSSReorder",
+        "description": ":warning: This plugin is not maintained and may not work in modern IntelliJ IDE's. Reorder CSS properties at your needs. Right now plugin in very early dev stage, be patient and stay tuned for updates.",
+        "languages": {
+            "Java": 23771,
+            "HTML": 1824,
+            "CSS": 1422
+        }
+    },
+    {
+        "name": "java-properties-to-json",
+        "description": "Simple java framework for conversion java properties to JSON object. ",
+        "languages": {
+            "Java": 248178,
+            "Groovy": 120578
+        }
+    },
+    {
+        "name": "BiomeTweaker",
+        "description": "Used to tweak various properties of biomes",
+        "languages": {
+            "Java": 214552
+        }
+    },
+    {
+        "name": "properties-maven-plugin",
+        "description": "The Properties Maven Plugin",
+        "languages": {
+            "Java": 73281,
+            "Groovy": 2862
+        }
+    },
+    {
+        "name": "android-tutorial",
+        "description": "Tutorial of property animation and fragments in android.",
+        "languages": {
+            "Java": 23668
+        }
+    },
+    {
+        "name": "Confucius",
+        "description": "A lightweight Java configuration library",
+        "languages": {
+            "Java": 77059
+        }
+    },
+    {
+        "name": "fx-gson",
+        "description": "A set of type adapters for Google Gson to make JavaFX properties serialization more natural",
+        "languages": {
+            "Java": 139751
+        }
+    },
+    {
+        "name": "cdn",
+        "description": "Simple and fast property-based configuration library for JVM apps, similar to JSON5 standard, also with JSON & YAML-like targets \ud83e\uddfe",
+        "languages": {
+            "Java": 157883,
+            "Kotlin": 80950
+        }
+    },
+    {
+        "name": "jkind",
+        "description": "JKind - An infinite-state model checker for safety properties in Lustre",
+        "languages": {
+            "Java": 1015248,
+            "ANTLR": 6981,
+            "Shell": 1829,
+            "Batchfile": 176,
+            "Makefile": 86
+        }
+    },
+    {
+        "name": "apron",
+        "description": "Advanced Properties \u2014 Read and write Java .properties files in a more sane manner.",
+        "languages": {
+            "Java": 365819
+        }
+    },
+    {
+        "name": "lib-i18n",
+        "description": "The library `Lib-I18N` allows a developer to bind a key-value pair of a `.properties` file to a [StringBinding]. This makes it very easy to change the language during runtime in a [JavaFX] application.",
+        "languages": {
+            "Java": 134147,
+            "CSS": 1329
+        }
+    },
+    {
+        "name": "MedRefGlass",
+        "description": "Fun facial recognition hack for Google Glass. To run you need to put your own API key/secret in: MedRefAppEngineServer/web/oauth.properties",
+        "languages": {
+            "Java": 101117
+        }
+    },
+    {
+        "name": "owl2neo4j",
+        "description": "Convert OWL to labeled property graph and import into Neo4J",
+        "languages": {
+            "Java": 46001,
+            "TeX": 355,
+            "Shell": 301
+        }
+    },
+    {
+        "name": "spring-boot-parameter-store-integration",
+        "description": "A tiny library used to integrate AWS Parameter Store in Spring Boot's powerful property injection.",
+        "languages": {
+            "Java": 50398
+        }
+    },
+    {
+        "name": "Android-Automotive-Info-App",
+        "description": "This is a sample Android Automotive App, it uses the different car apis and UI elements built specifically for automotive, to access the different sensors and VHAL properties for the car.",
+        "languages": {
+            "Java": 936934,
+            "Kotlin": 32721
+        }
+    },
+    {
+        "name": "FarmControl",
+        "description": "A plugin for controlling the size and other properties of farms.",
+        "languages": {
+            "Java": 156414
+        }
+    },
+    {
+        "name": "log4j-properties-converter",
+        "description": "Convert log4j.properties to log4j.xml.",
+        "languages": {
+            "Java": 38745,
+            "CSS": 6900,
+            "HTML": 6630,
+            "Shell": 817,
+            "Batchfile": 599
+        }
+    },
+    {
+        "name": "avaje-config",
+        "description": "Application configuration / properties loading for JVM applications",
+        "languages": {
+            "Java": 200603,
+            "Shell": 1219
+        }
+    },
+    {
+        "name": "ConfigMe",
+        "description": "A simple configuration management library for any Java project!",
+        "languages": {
+            "Java": 828926
+        }
+    },
+    {
+        "name": "hesperides",
+        "description": "Configuration management tool providing universal text file templating and properties editing through a REST API or a webapp (backend part)",
+        "languages": {
+            "Java": 1305864,
+            "Gherkin": 182363,
+            "Kotlin": 12337,
+            "Scala": 10949,
+            "Python": 7661,
+            "HTML": 4219,
+            "Dockerfile": 2157,
+            "JavaScript": 1129,
+            "Shell": 777,
+            "Smarty": 191
+        }
+    },
+    {
+        "name": "act",
+        "description": "Executable state charts, property based testing and more.",
+        "languages": {
+            "Java": 132174
+        }
+    },
+    {
+        "name": "spring-zookeeper",
+        "description": "springframework and zookeeper integration on property placeholder configurer",
+        "languages": {
+            "Java": 32802
+        }
+    },
+    {
+        "name": "Guice-configuration",
+        "description": "Guice configuration module allows inject values from files as JSON, HOCON and Properties format",
+        "languages": {
+            "Java": 67670
+        }
+    },
+    {
+        "name": "spring-configuration-property-documenter",
+        "description": "Tool to document Spring Configuration Properties - Leave us a feedback: https://github.com/rodnansol/spring-configuration-property-documenter/discussions/74",
+        "languages": {
+            "Java": 353662,
+            "HTML": 62332,
+            "Handlebars": 18491,
+            "Just": 2924,
+            "Shell": 1475
+        }
+    },
+    {
+        "name": "springboot",
+        "description": "\u81f4\u529b\u4e8espringboot \u5de5\u4f5c\u548c\u5b66\u4e60\u4e2d\u7b80\u5355\u53c8\u5b9e\u7528\u7684demo",
+        "languages": {
+            "Java": 204736,
+            "HTML": 3860,
+            "CSS": 137
+        }
+    },
+    {
+        "name": "binding-tc",
+        "description": "AEB - Android Easy Binding. Android View properties binding to the Business Objects (known as POJO).",
+        "languages": {
+            "Java": 263441,
+            "XSLT": 55793,
+            "Batchfile": 4715,
+            "Shell": 905
+        }
+    },
+    {
+        "name": "spring-hocon-property-source",
+        "description": "Property source loader for Spring that is able to parse and load HOCON config files",
+        "languages": {
+            "Java": 4192
+        }
+    },
+    {
+        "name": "amazon-neptune-csv-to-rdf-converter",
+        "description": "Amazon Neptune CSV to RDF Converter is a tool for Amazon Neptune that converts property graphs stored as comma separated values into RDF graphs.",
+        "languages": {
+            "Java": 215287
+        }
+    },
+    {
+        "name": "gradle-fury",
+        "description": "An alternative Gradle helper to publish multi-flavored Android artifacts to local and remote Maven repositories with pretty POM files using simple property configuration.",
+        "languages": {
+            "Java": 367674,
+            "XSLT": 29051,
+            "HTML": 13039,
+            "Shell": 11247,
+            "CSS": 1126,
+            "Kotlin": 344
+        }
+    },
+    {
+        "name": "silencio",
+        "description": "Silencio is a Java library for transforming and converting XML, JSON, YAML, Properties and other formats. It is applicable for most operations such as obfuscation, encryption, minimisation (minifying), anonymous. Library is fully customizable and extensible.",
+        "languages": {
+            "Java": 149736
+        }
+    },
+    {
+        "name": "externalized-properties",
+        "description": "A lightweight and extensible library to resolve application properties from various external sources.",
+        "languages": {
+            "Java": 1155478,
+            "Kotlin": 476
+        }
+    },
+    {
+        "name": "property-alliance",
+        "description": "Simple library to abstract access to properties on data objects",
+        "languages": {
+            "Java": 128290,
+            "CSS": 892
+        }
+    },
+    {
+        "name": "properties",
+        "description": "JavaFX like properties",
+        "languages": {
+            "Java": 74059
+        }
+    },
+    {
+        "name": "cdi-properties",
+        "description": "CDI Properties is a CDI extension that leverages resource bundle injection in Java EE applications.",
+        "languages": {
+            "Java": 321488,
+            "HTML": 1539
+        }
+    },
+    {
+        "name": "jsonfilter",
+        "description": "A POJO property filter for Resful JSON output bases on fastjson and springboot.",
+        "languages": {
+            "Java": 19329
+        }
+    },
+    {
+        "name": "ZKConfig",
+        "description": "ZkConfig\u662f\u4e3azookeeper\u5f00\u53d1\u7684\u914d\u7f6e\u670d\u52a1\u5de5\u5177\u5305\uff0c\u80fd\u4e0e\u73b0\u6709\u7684Java\u7cfb\u7edf\u8fdb\u884c\u826f\u597d\u7684\u96c6\u6210\uff0c\u4e5f\u53ef\u4ee5\u4f7f\u7528\u4e0e\u975ejava\u7cfb\u7edf\u4ee5\u72ec\u7acb\u8fdb\u7a0b\u8fd0\u884c\u3002\u63d0\u4f9b\u4e0espring\u8fdb\u884c\u96c6\u6210\u7684\u63d2\u4ef6\u3002\u91c7\u7528\u6ce8\u89e3\u65b9\u5f0f\u5bf9\u9700\u8981\u52a8\u6001\u66f4\u65b0\u7684\u5185\u5b58\u6570\u636e\u5bf9\u8c61\u8fdb\u884c\u6807\u6ce8\u3002 ZkConfig\u7528\u4e8e\u89e3\u51b3\u5728\u7cfb\u7edf\u96c6\u7fa4\u4e2d\u914d\u7f6e\u6587\u4ef6\u7684\u5b9e\u65f6\u540c\u6b65\u3002\u5f53\u4efb\u610f\u4e00\u53f0\u670d\u52a1\u5668\u914d\u7f6e\u6587\u4ef6\u53d1\u751f\u53d8\u5316\u7684\u65f6\u5019\uff0c\u6240\u6709\u96c6\u7fa4\u670d\u52a1\u5668\u914d\u7f6e\u6587\u4ef6\u5b9e\u73b0\u540c\u6b65\u66f4\u65b0\uff0c\u5e76\u4e14\u5728\u4e0d\u542f\u52a8web\u5bb9\u5668\u7684\u60c5\u51b5\u4e0b\uff0c\u5b9e\u73b0\u5185\u5b58\u914d\u7f6e\u5bf9\u8c61\u7684\u5b9e\u65f6\u66f4\u65b0\u3002 \u76ee\u524d\u652f\u6301\u6240\u6709\u79cd\u7c7b\u914d\u7f6e\u6587\u4ef6\u7684\u540c\u6b65\u66f4\u65b0\uff0c\u4ec5\u652f\u6301\u6269\u5c55\u540d\u4e3a.properties\u4e0e.cfg\u7ed3\u5c3e\u7684\u5065\u503c\u5bf9\u6587\u4ef6\u683c\u5f0f\u7684\u5185\u5b58\u6570\u636e\u5bf9\u8c61\u5b9e\u65f6\u540c\u6b65\u3002\u5176\u4f59\u914d\u7f6e\u6587\u4ef6\u4ec5\u652f\u6301\u78c1\u76d8\u6570\u636e\u540c\u6b65\u3002",
+        "languages": {
+            "Java": 69765
+        }
+    },
+    {
+        "name": "SimplePropertiesEditor",
+        "description": "Eclipse plug-in for editing Java properties files, automatically converts non-ASCII characters to unicode escape sequences.",
+        "languages": {
+            "Java": 15649
+        }
+    },
+    {
+        "name": "mondrian-server",
+        "description": "Mondrian 8 OLAP server with XMLA endpoint and Saiku in a self-contained .war file, configured though a single .properties file",
+        "languages": {
+            "Java": 122276,
+            "JavaScript": 29722
+        }
+    },
+    {
+        "name": "DynamicSineWaveView",
+        "description": "A View that can display the animated sine wave, and the wave properties can be dynamic change",
+        "languages": {
+            "Java": 13172
+        }
+    },
+    {
+        "name": "rocoto",
+        "description": "expanded properties file parsing for Google Guice",
+        "languages": {
+            "Java": 134418
+        }
+    },
+    {
+        "name": "CircleProgressBar",
+        "description": "A progressBar with progress by change progressDrawable property.",
+        "languages": {
+            "Java": 4534
+        }
+    },
+    {
+        "name": "properties-maven-plugin",
+        "description": "The Properties Maven Plugin",
+        "languages": {
+            "Java": 67766,
+            "Groovy": 1095
+        }
+    },
+    {
+        "name": "SiteCrawler",
+        "description": "This is a Java library which can be used to crawl the content of some of web properties (www.salesforce.com, blogs.salesforce.com for example). It supports dynamic scaling (depending on available machine power (CPU, RAM) and network capacity) out of the box. It also has a Plugin structure, which allows others to write code (plugins) that act on the crawled pages.",
+        "languages": {
+            "Java": 126670,
+            "Shell": 1084
+        }
+    },
+    {
+        "name": "pact-annotation-processor",
+        "description": "Pact DSL Builder annotation processor to create request bodies based on annotations. It allows to specify static values for properties also through Example annotation",
+        "languages": {
+            "Java": 73248
+        }
+    },
+    {
+        "name": "blog-manage-and-reload-spring-properties",
+        "description": null,
+        "languages": {
+            "Java": 1260
+        }
+    },
+    {
+        "name": "spring-s3-properties-loader",
+        "description": "Spring component to load external properties from AWS S3",
+        "languages": {
+            "Java": 36112
+        }
+    },
+    {
+        "name": "metagen",
+        "description": "Annotation processor for generating compile-time safe property expressions",
+        "languages": {
+            "Java": 229438
+        }
+    },
+    {
+        "name": "CDI-Config",
+        "description": "CDI Config module that allows you to inject property files values directly into your Java classes.",
+        "languages": {
+            "Java": 18363
+        }
+    },
+    {
+        "name": "fill-textview",
+        "description": "Custom Android TextView implementation that sets the font size property so that the content fills the available space.",
+        "languages": {
+            "Java": 3909
+        }
+    },
+    {
+        "name": "nb-springboot-configuration-support",
+        "description": "A Netbeans plugin offering autocomplete support for spring boot configuration properties",
+        "languages": {
+            "Java": 17201,
+            "CSS": 727
+        }
+    },
+    {
+        "name": "jmx2snmp",
+        "description": "Expose application JMX properties via SNMP",
+        "languages": {
+            "Java": 33257
+        }
+    },
+    {
+        "name": "swing-fx-properties",
+        "description": "Adaptation of JavaFX properties for Swing.",
+        "languages": {
+            "Java": 1778214
+        }
+    },
+    {
+        "name": "spring-boot-demos",
+        "description": "Multiple spring boot samples written in Java or Kotlin.",
+        "languages": {
+            "Java": 44399,
+            "Kotlin": 37889,
+            "Makefile": 4116
+        }
+    },
+    {
+        "name": "properties-maven-extension",
+        "description": "Maven extension to supply build properties",
+        "languages": {
+            "Java": 7226
+        }
+    },
+    {
+        "name": "Presage2",
+        "description": "PRESAGE is a simulation platform for rapid prototyping of Agent Societies. It enables designers to investigate the effect of agent design, network properties and the physical environment on individual agent behaviour and long-term collective global performance. ",
+        "languages": {
+            "Java": 601737
+        }
+    },
+    {
+        "name": "lib-fxml",
+        "description": "The `Lib-FXML` library simplifies the loading of [JavaFX] relevant files (model, view, controller, .fxml, .css, .properties) and enables a standardized handling of the data flow to (in, from) the gui.",
+        "languages": {
+            "Java": 177906,
+            "CSS": 5111
+        }
+    },
+    {
+        "name": "jspy",
+        "description": "Tool which displays the component properties of any java Swing application.",
+        "languages": {
+            "Java": 41378
+        }
+    },
+    {
+        "name": "jmeter-live-changes-config",
+        "description": "JMeter Plugin exposing a REST API allowing users to manipulate thread values, variables, properties on-the-go.",
+        "languages": {
+            "Java": 35623
+        }
+    },
+    {
+        "name": "nestedScrollCompat-listview",
+        "description": "This is Android's good old List View which is compatible with Material Design properties, it has nested scroll enabled, so that the Views/toolbars collapse on movement.",
+        "languages": {
+            "Java": 8185
+        }
+    },
+    {
+        "name": "expressive-reasoning-graph-store",
+        "description": "Expressive Reasoning Graph Store (ERGS) is an OWL reasoner and an RDF triple store built on top of a Property Graph architecture.",
+        "languages": {
+            "Java": 1112535,
+            "XSLT": 7302,
+            "Dockerfile": 1597,
+            "Shell": 974
+        }
+    },
+    {
+        "name": "FCF-Real-Estate-Monaco-Android-App",
+        "description": " :house_with_garden: Catalogue to browse FCF Real-Estate Monaco properties for sale & renting (2016)",
+        "languages": {
+            "Java": 236155
+        }
+    },
+    {
+        "name": "jackson-morphed-result",
+        "description": "Add, remove, and otherwise manipulate the properties of an object serialized with Jackson, at run time without modifying the target object.",
+        "languages": {
+            "Java": 16026
+        }
+    },
+    {
+        "name": "motion-kit",
+        "description": "Small utility classes that make Android property animations a bit easier to create",
+        "languages": {
+            "Java": 23705
+        }
+    },
+    {
+        "name": "spring-boot-configuration-properties-demo",
+        "description": "Spring Boot externalized environment based configuration with @ConfigurationProperties and Spring Profiles ",
+        "languages": {
+            "Java": 4551
+        }
+    },
+    {
+        "name": "L2pe",
+        "description": "Lineage 2 unreal object properties editor.",
+        "languages": {
+            "Java": 57589
+        }
+    },
+    {
+        "name": "MinecraftForge-Mods-ServerPropertiesLAN",
+        "description": "A CoreMod to generate server.properties file for every Local game ...!",
+        "languages": {
+            "Java": 41111
+        }
+    },
+    {
+        "name": "ConvertYamlAndProperties",
+        "description": "IntelliJ IDEA plugin",
+        "languages": {
+            "Java": 19067
+        }
+    },
+    {
+        "name": "scoped-system-properties",
+        "description": "Easy to use, lock-free, thread-safe scoped system properties to avoid changing global state.",
+        "languages": {
+            "Java": 28158,
+            "Kotlin": 4820
+        }
+    },
+    {
+        "name": "JavaChess",
+        "description": "24-bit ANSI colored, console-based chess using Java.  Optional multi-threaded AI using Minimax with alpha-beta pruning.  Fully configurable properties including: ply depth, thread pool size, optional AI time limit, all colors, and more.",
+        "languages": {
+            "Java": 178764
+        }
+    },
+    {
+        "name": "ProjectLocationUpdater",
+        "description": "This Eclipse plugin adds a property page to update the project location by editing the \".location\" file in your workspace.",
+        "languages": {
+            "Java": 41041,
+            "HTML": 1219
+        }
+    },
+    {
+        "name": "tennera",
+        "description": "Various Java i18n tools, including tools for processing the Gettext and Properties formats",
+        "languages": {
+            "Java": 116205,
+            "C": 95
+        }
+    },
+    {
+        "name": "Android-AnimationBanner",
+        "description": "Banner made by Property Animation",
+        "languages": {
+            "Java": 25733
+        }
+    },
+    {
+        "name": "spring-boot-mybatis",
+        "description": "Test project to show that mybatis @MapperScan causes Spring Boot's property mechanism to fail",
+        "languages": {
+            "Java": 7855,
+            "Groovy": 986
+        }
+    },
+    {
+        "name": "nmessage",
+        "description": "Simple, flexible and helpful library to handle messages with internationalization support for Java 8+",
+        "languages": {
+            "Java": 140580
+        }
+    },
+    {
+        "name": "Atosym",
+        "description": "algebraic expressions parsing and evaluation through a property system based algorithm ",
+        "languages": {
+            "Java": 271804
+        }
+    },
+    {
+        "name": "graft",
+        "description": "A static analysis tool for Java programs, based on the theory of code property graphs.",
+        "languages": {
+            "Java": 161626
+        }
+    },
+    {
+        "name": "ardor",
+        "description": "This is a mirror of the Ardor blockchain originally posted on BitBucket by Jelurida, the entity protecting the development and Intellectual Property of Ardor. This mirror is managed by Ardor / Nxt Group",
+        "languages": {
+            "Java": 5909810,
+            "JavaScript": 1820717,
+            "HTML": 874921,
+            "CSS": 96332,
+            "Shell": 24957,
+            "IDL": 14671,
+            "Python": 6381,
+            "Batchfile": 3758,
+            "Dockerfile": 1344
+        }
+    },
+    {
+        "name": "Jess",
+        "description": "Jess is short for Joern extended by Semantic Slicing. This tool allows you to import C code into a Code Property Graph, and then compute a Semantic Slice (a subset of your program implementing a selected functionality).",
+        "languages": {
+            "Java": 2030733,
+            "Python": 325523,
+            "Groovy": 36604,
+            "ANTLR": 28128,
+            "C": 22908,
+            "Shell": 2137,
+            "C++": 706
+        }
+    },
+    {
+        "name": "write-text-files-maven-plugin",
+        "description": "Create text files with content specified in pom.xml (it's possible use maven properties).",
+        "languages": {
+            "Java": 2357
+        }
+    },
+    {
+        "name": "props-to-constants-generator",
+        "description": "Properties file to Java constants",
+        "languages": {
+            "Java": 54277,
+            "Makefile": 419
+        }
+    },
+    {
+        "name": "android-getprop",
+        "description": "getting system properties from Anndroid app without using getprop cmd",
+        "languages": {
+            "Java": 1576,
+            "Groovy": 422
+        }
+    },
+    {
+        "name": "options",
+        "description": "A small library for managing sets of JVM properties to configure an app or library.",
+        "languages": {
+            "Java": 39008
+        }
+    },
+    {
+        "name": "SDL",
+        "description": "The Simple Declarative Language provides an easy way to describe lists, maps, and trees of typed data in a compact, easy to read representation. The simple and intuitive API allows you to read, write, and access all the datastructures using a single class. For property files, configuration files, logs, and simple serialization requirements, SDL provides a compelling alternative to XML and Properties files. Implementations are available for Java and .NET with more languages on the way.",
+        "languages": {
+            "Java": 131655
+        }
+    },
+    {
+        "name": "holon-core",
+        "description": "Holon Platform Core module: represents the platform foundation, providing the definition of the overall architecture, base structures and APIs.",
+        "languages": {
+            "Java": 2859632
+        }
+    },
+    {
+        "name": "datatree",
+        "description": "Extensible Java Library for reading, manipulating and writing hierarchical data structures from/to various formats.",
+        "languages": {
+            "Java": 342268,
+            "JavaScript": 2768,
+            "Stylus": 63,
+            "HTML": 53
+        }
+    },
+    {
+        "name": "jackson-dataformat-properties",
+        "description": "(DEPRECATED) -- moved under `jackson-dataformats-text`",
+        "languages": {
+            "Java": 148510
+        }
+    },
+    {
+        "name": "sonar-jproperties-plugin",
+        "description": "SonarQube Java Properties Analyzer",
+        "languages": {
+            "Java": 412264,
+            "HTML": 14132,
+            "Shell": 799
+        }
+    },
+    {
+        "name": "properties-to-yaml-converter",
+        "description": "Java implementation to convert Properties files to Yaml",
+        "languages": {
+            "Java": 23862
+        }
+    },
+    {
+        "name": "if97",
+        "description": "IF97 - water & steam properties Java library",
+        "languages": {
+            "Java": 446100,
+            "PHP": 25963
+        }
+    },
+    {
+        "name": "Scriptus",
+        "description": "Maven plugin which writes Git version into build properties.",
+        "languages": {
+            "Java": 5602
+        }
+    },
+    {
+        "name": "Surgical",
+        "description": "A tool for dynamically filtering entity properties based on Jackson.",
+        "languages": {
+            "Java": 13804
+        }
+    },
+    {
+        "name": "JavaDemo",
+        "description": "\u8be5\u5de5\u7a0b\u662fJava\u57fa\u7840\u77e5\u8bc6\u5b66\u4e60\u7cfb\u5217\u7684\u96c6\u5408\uff0c\u5728JavaDemo\u7cfb\u5217\u4e2d\uff0c\u4e3b\u8981\u6d89\u53ca\u5230\u4e86\u53cd\u5c04\uff08Reflection\uff09\u3001Saxparser\u89e3\u6790XML\u6587\u4ef6\u3001Properties\u5c5e\u6027\u6587\u4ef6\u64cd\u4f5c\uff0c\u8be5\u7cfb\u5217\u662fThinkingInJava\u7cfb\u5217\u7684\u8865\u5145\uff0c\u5e76\u4f1a\u4e0d\u65ad\u6267\u884c\u66f4\u65b0\u4e2d\uff0c\u6d3b\u5230\u8001\u5b66\u5230\u8001\uff01",
+        "languages": {
+            "Java": 94512
+        }
+    },
+    {
+        "name": "faster-than-reflection",
+        "description": "High performance field, property, and method access using bytecode generation",
+        "languages": {
+            "Java": 251412
+        }
+    },
+    {
+        "name": "Testing_Configuration_Properties",
+        "description": "A simple setup to test Spring Boot's @ConfigurationProperties",
+        "languages": {
+            "Java": 10107
+        }
+    },
+    {
+        "name": "WebDriverElementLocator",
+        "description": "Automated approach to extract object properties",
+        "languages": {
+            "Java": 17745
+        }
+    },
+    {
+        "name": "env-config",
+        "description": "A simple utility to manage environment configs in Java-based projects by merging .properties files and environment variables overrides.",
+        "languages": {
+            "Java": 84487
+        }
+    },
+    {
+        "name": "JavaFxPropertyHelperNBPlugin",
+        "description": "NetBeans plugin which will generate get/set methods for JavaFx properties.",
+        "languages": {
+            "Java": 28147
+        }
+    },
+    {
+        "name": "property-binder",
+        "description": "A Java library for typed access to property files",
+        "languages": {
+            "Java": 468387
+        }
+    },
+    {
+        "name": "coteafs-datasource",
+        "description": ":ledger: Simple Data file to object parser supports JSON, YML, XML and properties file format.",
+        "languages": {
+            "Java": 42545
+        }
+    },
+    {
+        "name": "rxtx",
+        "description": "\u5bf9java\u7684\u901a\u4fe1\u6846\u67b6rxtx\u8fdb\u884c\u4e86\u8fdb\u4e00\u6b65\u7684\u5c01\u88c5\uff0c\u901a\u8fc7\u4f20\u5165properties\u5bf9\u8c61\u4fbf\u53ef\u4ee5\u5b9e\u73b0\u4e32\u53e3\u7684\u76d1\u542c\u914d\u7f6e",
+        "languages": {
+            "Java": 32720
+        }
+    },
+    {
+        "name": "l2fprod-common",
+        "description": "Property sheet (aka Java Bean Property Editor) Swing component from L2FProd with redesigned and partially rewritten API. Original L2FProd project has not been updated for years and the code here is new, customized and reworked code with partially backward-uncompatible API. It works fine, but please use on your own risk. Plan to release to Maven Central as OSGi bundle.",
+        "languages": {
+            "Java": 381943
+        }
+    },
+    {
+        "name": "CircleMenuLayout",
+        "description": "CircleMenuLayout is a half circle layout.If you want to change it to a whole circle,you need updata some properties. Importantly,you can't set different picture for differrent out item.",
+        "languages": {
+            "Java": 44750
+        }
+    },
+    {
+        "name": "android-OverscrollViewPager",
+        "description": "android-OverscrollViewPager is an extension of ViewPager provided with a overscroll behavior callback along with a orientation property.",
+        "languages": {
+            "Java": 16397
+        }
+    },
+    {
+        "name": "Peking-University-Open-Research-Data-Platform",
+        "description": "PKU Open Research Data is a customization of Harvard Dataverse, including: (1) bilingual interface (Chinese and English): not only the elements in Bundle.properties file, but also the metadata of dataverse and dataset. (2) authorization: implement GroupProvider and CredentialsAuthenticationProvider for Peking University users. (3) usage statistic: logging the events of viewing dataset, viewing dataverse, downloading file, joining group request, accept join group request and reject join group request. Indexing the events and providing for manager of dataverse or dataset to search and view them. (4) datacite doi (https://mds.datacite.org/) register module. (5) home page to display featured dataverses no matter where it is in the dataverse tree. (6) user management based on explicit group: display explicit group on dataset page so that user can apply for joining group, a explicit group management interface so that dataverse manager can accept, reject, delete, add user. (7) and others ...  Wellcome to visit our service http://opendata.pku.edu.cn/ .",
+        "languages": {
+            "Java": 3992004,
+            "HTML": 1042974,
+            "JavaScript": 222469,
+            "Shell": 89351,
+            "Python": 57507,
+            "Perl": 52549,
+            "CSS": 49058,
+            "R": 26512,
+            "Makefile": 3037,
+            "Ruby": 1670,
+            "XSLT": 455
+        }
+    },
+    {
+        "name": "PhoneTest",
+        "description": "Retrieve device properties, display properties and OS ",
+        "languages": {
+            "Java": 3182
+        }
+    },
+    {
+        "name": "quickperf-live",
+        "description": "Ease your work on Spring Boot applications: quickly generate functional non-regression tests, diagnose performance and generate non-regression tests on performance-related properties.",
+        "languages": {
+            "Java": 264924,
+            "HTML": 198
+        }
+    },
+    {
+        "name": "MobsPropertiesRandomness",
+        "description": "Data Pack Driven Properties modifiers for Minecraft (Forge)",
+        "languages": {
+            "Java": 132041
+        }
+    },
+    {
+        "name": "mesosframework",
+        "description": "Create a mesos framework with just an application.properties file!",
+        "languages": {
+            "Java": 11503,
+            "Shell": 7132,
+            "Batchfile": 5006
+        }
+    },
+    {
+        "name": "chimpcheck",
+        "description": "Combinator Library for writing test generators and test properties for Android Apps",
+        "languages": {
+            "Java": 128240,
+            "Scala": 90813,
+            "Shell": 68826,
+            "JavaScript": 23373,
+            "Dockerfile": 2738,
+            "HTML": 2688,
+            "CSS": 913
+        }
+    },
+    {
+        "name": "RDFstarPGConnectionTools",
+        "description": "A collection of tools that connect the RDF* model and Property Graphs.",
+        "languages": {
+            "Java": 38557
+        }
+    },
+    {
+        "name": "hg-revision-plugin",
+        "description": "The hg-revision-plugin is designed to get Mercurial repository properties based on the commit history",
+        "languages": {
+            "Java": 104255
+        }
+    },
+    {
+        "name": "Spreadsheet-Complexity-Analyser",
+        "description": "This software (prototype) extracts values of Excel spreadsheet properties and calculates a tentative spreadsheet complexity assessment based on threshold values.",
+        "languages": {
+            "Java": 35491
+        }
+    },
+    {
+        "name": "admintool",
+        "description": "Extendable Admin UI ",
+        "languages": {
+            "Java": 727066,
+            "JavaScript": 485234,
+            "HTML": 239786,
+            "CSS": 22852,
+            "TSQL": 9771,
+            "PLSQL": 3026
+        }
+    },
+    {
+        "name": "net.cactusthorn.config",
+        "description": "Configuration library based on annotation processing",
+        "languages": {
+            "Java": 725127
+        }
+    },
+    {
+        "name": "lib-preferences",
+        "description": "Lib-Preferences is a library for easy storing simple data to a Preferences.properties file in a Java(FX) & Maven desktop application.",
+        "languages": {
+            "Java": 117105
+        }
+    },
+    {
+        "name": "properties-to-yaml",
+        "description": "Convert properties file to yaml structure",
+        "languages": {
+            "Java": 35131
+        }
+    },
+    {
+        "name": "write-properties-file-maven-plugin",
+        "description": "Maven plugin to write Properties Files",
+        "languages": {
+            "Java": 2776
+        }
+    },
+    {
+        "name": "hibernate-types-querydsl-apt",
+        "description": "Extensions for QueryDSL APT to map entity properties mapped with Hibernate-Types.",
+        "languages": {
+            "Java": 165047
+        }
+    },
+    {
+        "name": "tscfg-maven-plugin",
+        "description": "Maven plugin that generates the boiler-plate Java code for a Typesafe Config properties file using tscfg.",
+        "languages": {
+            "Java": 9755,
+            "Groovy": 525
+        }
+    },
+    {
+        "name": "property-inject",
+        "description": "Simple CDI extension to support injection of java.util.Properties values",
+        "languages": {
+            "Java": 119019
+        }
+    },
+    {
+        "name": "property-editor",
+        "description": "An editor for hierarchical properties as Java Swing component",
+        "languages": {
+            "Java": 34852
+        }
+    },
+    {
+        "name": "NoMySQL",
+        "description": "This is a sample Spring Project to show how to use HSQLDB and JavaConfig. This example also will show how to use @PropertySource for reading properties and using the Environment Object to add properties to your objects. This Project is using Java, Spring, Hibernate, Maven, jUnit, Log4J, HSQLDB and Github. ",
+        "languages": {
+            "Java": 14384
+        }
+    },
+    {
+        "name": "android_apps_propmodder",
+        "description": "Open Source program that modifies system properties via the /system/build.prop for the Android platform *REQUIRES ROOT ACCESS*",
+        "languages": {
+            "Java": 41547
+        }
+    },
+    {
+        "name": "jackson-nested-prop-filter",
+        "description": "Jackson nested property filter that performs with almost no overhead",
+        "languages": {
+            "Java": 23546
+        }
+    },
+    {
+        "name": "paillier",
+        "description": "Java implementation of Paillier algorithm. This is one of the few known system that preserves additive homomorphic properties. JCA PaillierProvider follows  the requirements of Java Cryptography Architecture Reference Guide for Java Platform Standard Edition 6 issued by Oracle.",
+        "languages": {
+            "Java": 94201
+        }
+    },
+    {
+        "name": "simple-game-engine",
+        "description": "A simple game engine written in java swing, where shapes can be added, their properties (color, position, speed, bounce) can be changed and movement features can be added to certain shapes with real physics rules.",
+        "languages": {
+            "Java": 33047
+        }
+    },
+    {
+        "name": "react-native-blur-image",
+        "description": "React Native Image with cross platform blurRadius property.",
+        "languages": {
+            "Java": 17876,
+            "JavaScript": 597
+        }
+    },
+    {
+        "name": "osm2graph-neo4j",
+        "description": "Imports OpenStreetMap data into a Neo4j graph database. Produces a simple schema that includes nodes, ways, and all properties/tags contained in the source OSM data.",
+        "languages": {
+            "Java": 26161
+        }
+    },
+    {
+        "name": "ThinkingInJava",
+        "description": "\u300aJava\u7f16\u7a0b\u601d\u60f3 \u7b2c4\u7248\u300b\u4f8b\u7a0b\u96c6\u5408\uff0c\u5305\u542b\u6570\u7ec4\u3001bignumber\u3001\u63a5\u53e3\u56de\u8c03\uff08\u4effbutton\u76d1\u542c\u4e8b\u4ef6\u5b9e\u73b0\uff09\u3001\u96c6\u5408\uff08collection\uff09\u3001\u81ea\u5b9a\u4e49Comparator\u5668\u3001String\u4e0eByte\u7684\u76f8\u4e92\u8f6c\u6362\u3001\u6cdb\u578b\u3001\u81ea\u5b9a\u4e49Iterable\u3001Properties\u7c7b\u7684\u8bfb\u53d6\u5199\u5165\u64cd\u4f5c\u3001\u96c6\u5408\u6392\u5e8f\u3001\u6808Stack\u3001\u5b57\u7b26\u4e32\u64cd\u4f5c\u3001\u7ebf\u7a0b\u64cd\u4f5c\u3001\u57fa\u672c\u5de5\u5177\u7c7b\uff08DateTime\u3001NULL\u3001Random\u3001Time\uff09\u3001\u6768\u8f89\u4e09\u89d2",
+        "languages": {
+            "Java": 139266
+        }
+    },
+    {
+        "name": "person-details",
+        "description": "An application to teach how to use Swagger UI for easy testing of the CRUD operations,Integration Testing using Mockito for positive and negative scenarios,Repository JPA methods Junit test cases for positive and negative scenarios using testEntityManager,Created securityConfig class to extend security for authentication and authorization,Oauth2 properties to extend advanced security maintenance,The documentation by swagger,The docker image",
+        "languages": {
+            "Java": 26429,
+            "Dockerfile": 168
+        }
+    },
+    {
+        "name": "SpringPropertiesReloaded",
+        "description": "A PropertyPlaceholderConfigurer for the Spring Framework that reacts to changing property files",
+        "languages": {
+            "Java": 33750
+        }
+    },
+    {
+        "name": "magic-config",
+        "description": "bluemagic properties library",
+        "languages": {
+            "Java": 139937
+        }
+    },
+    {
+        "name": "DatabaseConfiguration",
+        "description": "Spring load properties from the database",
+        "languages": {
+            "Java": 8195
+        }
+    },
+    {
+        "name": "springboot-aws-secret-manager",
+        "description": "how to use AWS secret manager service with spring-boot framework as application properties configuration",
+        "languages": {
+            "Java": 11391
+        }
+    },
+    {
+        "name": "android-complex-property-animations-demo",
+        "description": "Demonstration of choreographed property animations",
+        "languages": {
+            "Java": 5951
+        }
+    },
+    {
+        "name": "props4j",
+        "description": "Comfortable Properties for Java",
+        "languages": {
+            "Java": 102809,
+            "Batchfile": 32,
+            "Shell": 20
+        }
+    },
+    {
+        "name": "vault-spring-boot-starter",
+        "description": "Spring Vault Property Injection. Get started using Vault secret management.",
+        "languages": {
+            "Java": 40280
+        }
+    },
+    {
+        "name": "generative",
+        "description": "Tools for generative and property based testing in java.",
+        "languages": {
+            "Java": 59175,
+            "Shell": 1205
+        }
+    },
+    {
+        "name": "demo-properties-migrator",
+        "description": "Showcase of the properties migrator",
+        "languages": {
+            "Java": 1581
+        }
+    },
+    {
+        "name": "RedRainView",
+        "description": "redraniview by Property Animation and B\u00e9zier curve",
+        "languages": {
+            "Java": 10420
+        }
+    },
+    {
+        "name": "Real-Estate-Broker_Application",
+        "description": "Real Estate Broker Application: Application where Broker can Add The properties and Customer can view The Properties,and buy Rent the Property",
+        "languages": {
+            "Java": 56965,
+            "TypeScript": 8817,
+            "HTML": 3233,
+            "CSS": 253
+        }
+    },
+    {
+        "name": "auto-value-node",
+        "description": "An AutoValue extension that makes properties in AutoValue classes accessible as nodes.",
+        "languages": {
+            "Java": 70305,
+            "Shell": 987
+        }
+    },
+    {
+        "name": "jdatechooser",
+        "description": "DateChooser is a JavaBeans library with swing components for date selection. It contains 3 datepicker beans: the panel, combo editor and the dialog window. All components support visual property customization without any IDE",
+        "languages": {
+            "Java": 509324,
+            "Stata": 7609
+        }
+    },
+    {
+        "name": "aws-appconfig-with-quarkus",
+        "description": "This repository shows how to natively extend Quarkus with a custom ConfigSource to use AWS AppConfig values when injecting config properties with @ConfigProperty.",
+        "languages": {
+            "Java": 12866,
+            "TypeScript": 3406,
+            "JavaScript": 157
+        }
+    },
+    {
+        "name": "confectory",
+        "description": "The modular configuration framework for Java applications",
+        "languages": {
+            "Java": 680259
+        }
+    },
+    {
+        "name": "Face-Recognition-QR-Code-Based-Attendence-Security-System",
+        "description": "Java and Python Based Student Security Attendence System, uses the property of Face Recognition and QR Based Attendence Punching by students also sending GSM Arrival Message to guardians. Includes many Admin Functionalites for School Organisation.",
+        "languages": {
+            "Java": 71451,
+            "Python": 5161,
+            "Batchfile": 159
+        }
     }
 ]

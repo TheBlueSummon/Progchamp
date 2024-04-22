@@ -70,5 +70,1894 @@
         "languages": {
             "Jsonnet": 3179
         }
+    },
+    {
+        "name": "examples",
+        "description": "A repository to host extended examples and tutorials",
+        "languages": {
+            "Jsonnet": 6403554,
+            "Jupyter Notebook": 3224278,
+            "Python": 519908,
+            "Shell": 35152,
+            "Dockerfile": 29907,
+            "HTML": 24896,
+            "Makefile": 20439,
+            "CSS": 13943,
+            "Jinja": 13921,
+            "JavaScript": 8954
+        }
+    },
+    {
+        "name": "argocd-example-apps",
+        "description": "Example Apps to Demonstrate Argo CD",
+        "languages": {
+            "Jsonnet": 7401,
+            "Mustache": 2132
+        }
+    },
+    {
+        "name": "grafonnet-lib",
+        "description": "Jsonnet library for generating Grafana dashboard files.",
+        "languages": {
+            "Jsonnet": 150587,
+            "JavaScript": 3663,
+            "Makefile": 1487,
+            "Shell": 931,
+            "Dockerfile": 596,
+            "HTML": 289
+        }
+    },
+    {
+        "name": "kube-prod-runtime",
+        "description": "A standard infrastructure environment for Kubernetes",
+        "languages": {
+            "Jsonnet": 146430,
+            "Go": 127836,
+            "Shell": 16237,
+            "Makefile": 7208,
+            "Python": 1308,
+            "Dockerfile": 824
+        }
+    },
+    {
+        "name": "cluster-monitoring",
+        "description": "Cluster monitoring stack for clusters based on Prometheus Operator",
+        "languages": {
+            "Jsonnet": 42433,
+            "Shell": 9604,
+            "Makefile": 3925
+        }
+    },
+    {
+        "name": "jsonnet-libs",
+        "description": "Grafana Labs' Jsonnet libraries",
+        "languages": {
+            "Jsonnet": 3893174,
+            "Makefile": 68314,
+            "Mustache": 13812,
+            "Shell": 11232,
+            "Nix": 2612,
+            "HTML": 455,
+            "Dockerfile": 255
+        }
+    },
+    {
+        "name": "kube-thanos",
+        "description": "Kubernetes specific configuration for deploying Thanos.",
+        "languages": {
+            "Jsonnet": 116342,
+            "Makefile": 6439,
+            "Shell": 1224
+        }
+    },
+    {
+        "name": "ksonnet-lib",
+        "description": "Codegen for Kubernetes-API-compatible Jsonnet libraries",
+        "languages": {
+            "Jsonnet": 9849878,
+            "Go": 349769,
+            "JSONiq": 3425,
+            "Dockerfile": 2426,
+            "Shell": 112
+        }
+    },
+    {
+        "name": "aws-microservices-deploy-options",
+        "description": "This repo contains a simple application that consists of three microservices. Each application is deployed using different Compute options on AWS.",
+        "languages": {
+            "Jsonnet": 2417489,
+            "JavaScript": 2967,
+            "Shell": 988,
+            "Dockerfile": 573,
+            "Smarty": 237
+        }
+    },
+    {
+        "name": "fairing",
+        "description": "Python SDK for building, training, and deploying ML models",
+        "languages": {
+            "Jsonnet": 2440311,
+            "Python": 523314,
+            "Dockerfile": 2103,
+            "Jupyter Notebook": 1573,
+            "Shell": 439
+        }
+    },
+    {
+        "name": "pytorch-operator",
+        "description": "PyTorch on Kubernetes",
+        "languages": {
+            "Jsonnet": 7274209,
+            "Go": 191214,
+            "Python": 140133,
+            "Shell": 19585,
+            "Jupyter Notebook": 16567,
+            "Dockerfile": 481
+        }
+    },
+    {
+        "name": "karabiner-windows-mode",
+        "description": "Karabiner-Elements complex ruleset to make using macOS friendlier by enabling common keyboard functionality used in Linux and Windows.",
+        "languages": {
+            "Jsonnet": 18623,
+            "Makefile": 274
+        }
+    },
+    {
+        "name": "grafonnet",
+        "description": "Jsonnet library for generating Grafana dashboards.",
+        "languages": {
+            "Jsonnet": 109297,
+            "Shell": 2578,
+            "Makefile": 1604,
+            "CSS": 1363
+        }
+    },
+    {
+        "name": "kubernetes-grafana",
+        "description": "The future of Grafana on Kubernetes with Prometheus.",
+        "languages": {
+            "Jsonnet": 10554,
+            "Makefile": 734
+        }
+    },
+    {
+        "name": "tns",
+        "description": "Observability Demo App ",
+        "languages": {
+            "Jsonnet": 51106,
+            "Go": 19467,
+            "Shell": 4652,
+            "Makefile": 2016,
+            "Dockerfile": 1035
+        }
+    },
+    {
+        "name": "kube-libsonnet",
+        "description": "Bitnami's jsonnet library for building Kubernetes manifests",
+        "languages": {
+            "Jsonnet": 51799,
+            "Makefile": 5406,
+            "Dockerfile": 936,
+            "Shell": 781
+        }
+    },
+    {
+        "name": "k8s-libsonnet",
+        "description": "k8s jsonnet library",
+        "languages": {
+            "Jsonnet": 17232035
+        }
+    },
+    {
+        "name": "k8s",
+        "description": "Code generator for Jsonnet Kubernetes libraries.",
+        "languages": {
+            "Jsonnet": 191955,
+            "Go": 49954,
+            "Shell": 3175,
+            "Makefile": 2640,
+            "CSS": 1363,
+            "Dockerfile": 843
+        }
+    },
+    {
+        "name": "community",
+        "description": "Information about the Kubeflow community including proposals and governance information.",
+        "languages": {
+            "Jsonnet": 6350556,
+            "Jupyter Notebook": 4035521,
+            "Shell": 40474,
+            "HTML": 30151,
+            "Python": 25692,
+            "Go": 14784,
+            "Jinja": 3413,
+            "Makefile": 2428,
+            "Dockerfile": 389
+        }
+    },
+    {
+        "name": "thermostat",
+        "description": "Collection of NLP model explanations and accompanying analysis tools",
+        "languages": {
+            "Jsonnet": 175965,
+            "Python": 150241,
+            "Jupyter Notebook": 107863
+        }
+    },
+    {
+        "name": "kube-manifests",
+        "description": "A collection of misc Kubernetes configs for various jobs, as used in Bitnami's production clusters.",
+        "languages": {
+            "Jsonnet": 77686,
+            "Shell": 4590,
+            "Makefile": 1108,
+            "Dockerfile": 653
+        }
+    },
+    {
+        "name": "kubernetes-tools",
+        "description": "Some tools for kubernetes.",
+        "languages": {
+            "Jsonnet": 3760317,
+            "Jupyter Notebook": 785582,
+            "Shell": 512615,
+            "Go": 101364,
+            "Mustache": 83810,
+            "Smarty": 29814,
+            "Makefile": 19965,
+            "HTML": 11710,
+            "Jinja": 5846,
+            "Dockerfile": 5805,
+            "Python": 2322
+        }
+    },
+    {
+        "name": "slo-libsonnet",
+        "description": "Generate Prometheus alerting & recording rules and Grafana dashboards for your SLOs.",
+        "languages": {
+            "Jsonnet": 15704,
+            "Makefile": 4883,
+            "Shell": 544
+        }
+    },
+    {
+        "name": "ircot",
+        "description": "Repository for Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions, ACL23",
+        "languages": {
+            "Jsonnet": 613553,
+            "Python": 424482,
+            "Shell": 286518,
+            "Dockerfile": 1326
+        }
+    },
+    {
+        "name": "depccg",
+        "description": "A* CCG Parser with a Supertag and Dependency Factored Model",
+        "languages": {
+            "Jsonnet": 9883731,
+            "C": 8162243,
+            "Python": 361518,
+            "C++": 15709,
+            "Cython": 10253,
+            "Makefile": 203,
+            "Shell": 70
+        }
+    },
+    {
+        "name": "kubebench",
+        "description": "Repository for benchmarking",
+        "languages": {
+            "Jsonnet": 2709200,
+            "Go": 153797,
+            "JavaScript": 47430,
+            "Shell": 18677,
+            "Python": 17856,
+            "Dockerfile": 6879,
+            "HTML": 3417,
+            "Makefile": 30
+        }
+    },
+    {
+        "name": "cortex-jsonnet",
+        "description": "Deprecated: see https://github.com/grafana/mimir/tree/main/operations/mimir instead",
+        "languages": {
+            "Jsonnet": 289883,
+            "Makefile": 2352,
+            "Dockerfile": 2084,
+            "Shell": 691
+        }
+    },
+    {
+        "name": "ankhmorpork",
+        "description": "@paulfantom's GitOps managed kube cluster running in a cupboard. Built with fancy tools :sparkles:",
+        "languages": {
+            "Jsonnet": 186040,
+            "Shell": 11166,
+            "Groovy": 5718,
+            "Jinja": 4008,
+            "Makefile": 3566,
+            "HCL": 625
+        }
+    },
+    {
+        "name": "earthengine-catalog",
+        "description": "Earth Engine Public Data Catalog in STAC form",
+        "languages": {
+            "Jsonnet": 22197049,
+            "Python": 585655,
+            "Starlark": 11129
+        }
+    },
+    {
+        "name": "grafana-dashboards",
+        "description": "Grafana dashboard management demo for PromCon 2019",
+        "languages": {
+            "Jsonnet": 7493,
+            "Shell": 6216,
+            "Dockerfile": 765
+        }
+    },
+    {
+        "name": "k8s-alpha",
+        "description": "Technology preview of the jsonnet-libs/k8s generator",
+        "languages": {
+            "Jsonnet": 43432256,
+            "Shell": 163
+        }
+    },
+    {
+        "name": "ml-testing-accelerators",
+        "description": "Testing framework for Deep Learning models (Tensorflow and PyTorch) on Google Cloud hardware accelerators (TPU and GPU)",
+        "languages": {
+            "Jsonnet": 180468,
+            "Python": 160906,
+            "Shell": 21472,
+            "Jinja": 10258,
+            "Starlark": 8001,
+            "Dockerfile": 7853
+        }
+    },
+    {
+        "name": "sysadm-homeworks",
+        "description": null,
+        "languages": {
+            "Jsonnet": 451,
+            "JavaScript": 238,
+            "HCL": 172,
+            "Shell": 81
+        }
+    },
+    {
+        "name": "Kubernetes",
+        "description": "K8S Kubeadm\u548c\u4e8c\u8fdb\u5236\u90e8\u7f72\u9ad8\u53ef\u7528\u96c6\u7fa4",
+        "languages": {
+            "Jsonnet": 116595,
+            "Shell": 7426,
+            "Go": 4443,
+            "Makefile": 2243,
+            "Dockerfile": 585
+        }
+    },
+    {
+        "name": "kustomize-libsonnet",
+        "description": "A jsonnet library that implements most of the kustomize operations",
+        "languages": {
+            "Jsonnet": 10015
+        }
+    },
+    {
+        "name": "udig",
+        "description": "public-key addressed TCP tunnel broker",
+        "languages": {
+            "Jsonnet": 25120,
+            "Go": 23838
+        }
+    },
+    {
+        "name": "k8s-buildkite-plugin",
+        "description": "Run any buildkite build step as a Kubernetes Job",
+        "languages": {
+            "Jsonnet": 15103,
+            "Shell": 13600,
+            "Dockerfile": 588
+        }
+    },
+    {
+        "name": "grafana-dashboards",
+        "description": "Grafana Dashboards useful for k8s + JupyterHub",
+        "languages": {
+            "Jsonnet": 62829,
+            "Python": 6565
+        }
+    },
+    {
+        "name": "walm",
+        "description": "Warp Application Lifecycle Manager\uff0c\u5e94\u7528\u751f\u547d\u5468\u671f\u7ba1\u7406",
+        "languages": {
+            "Jsonnet": 9222971,
+            "Go": 1457098,
+            "Makefile": 1833,
+            "Dockerfile": 988
+        }
+    },
+    {
+        "name": "Adaptive-RAG",
+        "description": null,
+        "languages": {
+            "Jsonnet": 786384,
+            "Python": 575135,
+            "Shell": 14856,
+            "Dockerfile": 1358
+        }
+    },
+    {
+        "name": "k8s-home",
+        "description": "Manifests used for home (private) k8s cluster",
+        "languages": {
+            "Jsonnet": 291401,
+            "Shell": 1452
+        }
+    },
+    {
+        "name": "kubernetes-grafana-mixin",
+        "description": "Kubernetes Grafana Dashboards Mixin",
+        "languages": {
+            "Jsonnet": 42495,
+            "Makefile": 580,
+            "Shell": 134
+        }
+    },
+    {
+        "name": "h2o-kubeflow",
+        "description": null,
+        "languages": {
+            "Jsonnet": 24725,
+            "Shell": 12782,
+            "Python": 6119,
+            "Makefile": 1464
+        }
+    },
+    {
+        "name": "django-mixin",
+        "description": "Monitoring mixin for Django-prometheus. A set of Grafana dashboards and Prometheus rules for Django.",
+        "languages": {
+            "Jsonnet": 72640,
+            "Makefile": 2515,
+            "Go": 481
+        }
+    },
+    {
+        "name": "grafana-dashboard",
+        "description": "Dashboard for Tarantool application and database server monitoring with Grafana",
+        "languages": {
+            "Jsonnet": 230089,
+            "Lua": 29751,
+            "Shell": 3517,
+            "Makefile": 3466,
+            "Dockerfile": 1310
+        }
+    },
+    {
+        "name": "kubernetes-config",
+        "description": "configuration for kubernetes",
+        "languages": {
+            "Jsonnet": 39454
+        }
+    },
+    {
+        "name": "workshop",
+        "description": null,
+        "languages": {
+            "Jsonnet": 119190,
+            "HCL": 11081,
+            "Shell": 6821,
+            "Go": 4443,
+            "Makefile": 2375,
+            "JavaScript": 990,
+            "Dockerfile": 585
+        }
+    },
+    {
+        "name": "test-infra",
+        "description": "Falco workflow & testing infrastructure",
+        "languages": {
+            "Jsonnet": 70629,
+            "Shell": 60801,
+            "HCL": 58956,
+            "Makefile": 15276,
+            "Go": 13718,
+            "JavaScript": 12277,
+            "HTML": 11891,
+            "Dockerfile": 6501
+        }
+    },
+    {
+        "name": "influxdb-examples",
+        "description": "Examples / Demos I've used to show how to work, configure, and abuse InfluxDB",
+        "languages": {
+            "Jsonnet": 14101,
+            "JavaScript": 6959,
+            "Makefile": 5080,
+            "Python": 2279,
+            "HTML": 1721,
+            "Shell": 1464,
+            "Smarty": 1421,
+            "CSS": 930,
+            "Dockerfile": 853
+        }
+    },
+    {
+        "name": "quickstart",
+        "description": "Get started with Fiberplane; Collaborative Notebooks for Developers",
+        "languages": {
+            "Jsonnet": 14919,
+            "Python": 2693,
+            "Shell": 99
+        }
+    },
+    {
+        "name": "argo-cd-mixin",
+        "description": "Monitoring mixin for ArgoCD. A set of Grafana dashboards and Prometheus rules for ArgoCD.",
+        "languages": {
+            "Jsonnet": 65062,
+            "Makefile": 2580,
+            "Go": 481
+        }
+    },
+    {
+        "name": "configuration",
+        "description": "Red Hat Observability Service",
+        "languages": {
+            "Jsonnet": 631491,
+            "Go": 210412,
+            "Makefile": 23840,
+            "Shell": 15658,
+            "Dockerfile": 708
+        }
+    },
+    {
+        "name": "govuk-content-schemas",
+        "description": "Definitions of the data formats used to represent content on GOV.UK",
+        "languages": {
+            "Jsonnet": 252537,
+            "Ruby": 39546,
+            "Shell": 226,
+            "Makefile": 133
+        }
+    },
+    {
+        "name": "monitoring",
+        "description": "OpenEBS Monitoring add-on. A set of Grafana, Prometheus, and alert manager plugins. ",
+        "languages": {
+            "Jsonnet": 36523,
+            "Mustache": 2530,
+            "Makefile": 2272,
+            "Shell": 1740,
+            "Go": 488
+        }
+    },
+    {
+        "name": "sponnet",
+        "description": "Jsonnet library specifically for Spinnaker",
+        "languages": {
+            "Jsonnet": 29385,
+            "Shell": 524
+        }
+    },
+    {
+        "name": "xtd",
+        "description": "Extended Jsonnet standard library",
+        "languages": {
+            "Jsonnet": 59462,
+            "Makefile": 324
+        }
+    },
+    {
+        "name": "coredns-mixin",
+        "description": "A set of Prometheus alerts & grafana dashboards for CoreDNS.",
+        "languages": {
+            "Jsonnet": 18290,
+            "Makefile": 1114
+        }
+    },
+    {
+        "name": "jsonnet-modifiers",
+        "description": "Jsonnet library for modifying nested structures",
+        "languages": {
+            "Jsonnet": 6941
+        }
+    },
+    {
+        "name": "sre-monitoring-as-code",
+        "description": "Monitoring-as-Code (MaC) is a jsonnet mixin implementation of SLIs/SLO/Error Budgets using the open-source monitoring and alerting eco-system of Prometheus and Grafana.",
+        "languages": {
+            "Jsonnet": 248469,
+            "Java": 34740,
+            "Vue": 32218,
+            "JavaScript": 21305,
+            "Shell": 9845,
+            "Dockerfile": 3226,
+            "HTML": 2088
+        }
+    },
+    {
+        "name": "kubernetes-monitoring",
+        "description": "Monitor your Kubernetes infrastructure and applications at a glance using semaphore principle (green/orange/red) ",
+        "languages": {
+            "Jsonnet": 698824,
+            "Smarty": 2131,
+            "Makefile": 1730,
+            "Dockerfile": 1449,
+            "Shell": 1100
+        }
+    },
+    {
+        "name": "recipes",
+        "description": "The public data models of third party integrations for Rakam",
+        "languages": {
+            "Jsonnet": 492355,
+            "Python": 5568
+        }
+    },
+    {
+        "name": "blackbox-exporter-mixin",
+        "description": "A mixin for the blackbox-exporter. A set of Grafana dashboards and Prometheus rules for the Blackbox-exporter.. ",
+        "languages": {
+            "Jsonnet": 23374,
+            "Makefile": 2653,
+            "Go": 481
+        }
+    },
+    {
+        "name": "homelab",
+        "description": "IaC for my homelab & personal cloud.",
+        "languages": {
+            "Jsonnet": 104678,
+            "HCL": 100505,
+            "Smarty": 24109,
+            "Go": 9147,
+            "Shell": 7399,
+            "Python": 6066
+        }
+    },
+    {
+        "name": "core",
+        "description": "Terraform jsonnet library.",
+        "languages": {
+            "Jsonnet": 54625,
+            "Go": 5887
+        }
+    },
+    {
+        "name": "ceph-mixins",
+        "description": "A set of Grafana dashboards and Prometheus alerts for Ceph.",
+        "languages": {
+            "Jsonnet": 30206,
+            "Makefile": 1103,
+            "Shell": 808
+        }
+    },
+    {
+        "name": "haskell-jsonnet",
+        "description": "\ud83c\udf8f Haskell implementation of Jsonnet",
+        "languages": {
+            "Jsonnet": 154446,
+            "Haskell": 103266,
+            "Nix": 1117
+        }
+    },
+    {
+        "name": "jsonnet-training-course",
+        "description": null,
+        "languages": {
+            "Jsonnet": 50707,
+            "Makefile": 3866,
+            "JavaScript": 3527,
+            "CSS": 2748,
+            "Shell": 1277,
+            "HTML": 707,
+            "Dockerfile": 578
+        }
+    },
+    {
+        "name": "tanka-argocd-demo",
+        "description": "A demo of using Tanka as a plugin for ArgoCD",
+        "languages": {
+            "Jsonnet": 6026
+        }
+    },
+    {
+        "name": "inoculation-by-finetuning",
+        "description": "Code for the paper \"Inoculation by Fine-Tuning: A Method for Analyzing Challenge Datasets\", to be presented at NAACL 2019.",
+        "languages": {
+            "Jsonnet": 57671,
+            "Python": 7146,
+            "Shell": 5662
+        }
+    },
+    {
+        "name": "crdsonnet",
+        "description": "A library to generate a runtime Jsonnet library directly from JSON Schemas, CRDs or OpenAPI components.",
+        "languages": {
+            "Jsonnet": 53034,
+            "Makefile": 1045
+        }
+    },
+    {
+        "name": "chainer-operator",
+        "description": "Repository for chainer operator",
+        "languages": {
+            "Jsonnet": 3778017,
+            "Go": 103294,
+            "Shell": 11774,
+            "Dockerfile": 1016
+        }
+    },
+    {
+        "name": "Prometheus-workshop",
+        "description": "Repository for prometheus workshop",
+        "languages": {
+            "Jsonnet": 119190,
+            "Shell": 9401,
+            "Go": 4443,
+            "Makefile": 2375,
+            "Dockerfile": 585
+        }
+    },
+    {
+        "name": "testonnet",
+        "description": "A unit testing framework for Jsonnet.",
+        "languages": {
+            "Jsonnet": 6672,
+            "Makefile": 156
+        }
+    },
+    {
+        "name": "monitoring-mixins",
+        "description": "Monitoring mixins",
+        "languages": {
+            "Jsonnet": 109186,
+            "Makefile": 8322,
+            "Shell": 6855,
+            "Python": 5176
+        }
+    },
+    {
+        "name": "nodelocaldns-mixin",
+        "description": "A set of Prometheus alerts for Node Local DNS. ",
+        "languages": {
+            "Jsonnet": 13324,
+            "Makefile": 1113
+        }
+    },
+    {
+        "name": "loki-kube-prometheus",
+        "description": "Grafana's Loki integrated with kube-prometheus monitoring stack",
+        "languages": {
+            "Jsonnet": 16166,
+            "Makefile": 381
+        }
+    },
+    {
+        "name": "performance-dashboards",
+        "description": "Performance dashboards from the Perf & Scale team",
+        "languages": {
+            "Jsonnet": 777031,
+            "Shell": 12362,
+            "Python": 5065,
+            "Makefile": 2274,
+            "Dockerfile": 514
+        }
+    },
+    {
+        "name": "ksonnet-examples",
+        "description": "Ksonnet example applications",
+        "languages": {
+            "Jsonnet": 18110
+        }
+    },
+    {
+        "name": "RelEx",
+        "description": "RelEx - A simple framework for Relation Extraction built on AllenNLP",
+        "languages": {
+            "Jsonnet": 172693,
+            "Python": 112880
+        }
+    },
+    {
+        "name": "plantbuild",
+        "description": "test, build and push docker images, and deploy to kubernetes cluster",
+        "languages": {
+            "Jsonnet": 30834,
+            "Shell": 8609,
+            "Dockerfile": 341
+        }
+    },
+    {
+        "name": "helm-jsonnet",
+        "description": "Proof of concept rendering Helm charts from Jsonnet",
+        "languages": {
+            "Jsonnet": 7833,
+            "Nix": 5677,
+            "Makefile": 1180
+        }
+    },
+    {
+        "name": "writers-toolkit",
+        "description": "Technical documentation guidelines for Grafana Labs documentation",
+        "languages": {
+            "Jsonnet": 16754,
+            "Shell": 12209,
+            "Makefile": 4082,
+            "Go": 2251,
+            "Dockerfile": 1362
+        }
+    },
+    {
+        "name": "ingress-nginx-mixin",
+        "description": "Monitoring mixin for Ingress-nginx. A set of Grafana dashboards and Prometheus rules for Ingress-nginx.",
+        "languages": {
+            "Jsonnet": 46645,
+            "Makefile": 2653,
+            "Go": 481
+        }
+    },
+    {
+        "name": "ansible-drone",
+        "description": "Ansible role to configure drone (server and agent)",
+        "languages": {
+            "Jsonnet": 800
+        }
+    },
+    {
+        "name": "promql-jsonnet",
+        "description": "A Jsonnet based DSL for writing PromQL queries. This is useful for automatically creating dashboards on grafana with prometheus.",
+        "languages": {
+            "Jsonnet": 26563,
+            "Shell": 1184
+        }
+    },
+    {
+        "name": "dashboards",
+        "description": "All our dashboards for Grafana",
+        "languages": {
+            "Jsonnet": 18175,
+            "Shell": 9140,
+            "Makefile": 2716,
+            "Mustache": 1050
+        }
+    },
+    {
+        "name": "kapitan-examples",
+        "description": "Kapitan examples",
+        "languages": {
+            "Jsonnet": 9150,
+            "Smarty": 7109,
+            "Shell": 4908
+        }
+    },
+    {
+        "name": "aqua-renovate-config",
+        "description": "Renovate Configuration to update packages and registries of aqua",
+        "languages": {
+            "Jsonnet": 12270,
+            "Shell": 116
+        }
+    },
+    {
+        "name": "grafana-dashboards",
+        "description": "Various Grafana dashboards for Swarm",
+        "languages": {
+            "Jsonnet": 151639,
+            "Shell": 2060
+        }
+    },
+    {
+        "name": "pg_gatherer",
+        "description": "Metric collector for PostgreSQL",
+        "languages": {
+            "Jsonnet": 78094,
+            "Lua": 62365,
+            "Go": 59563,
+            "Makefile": 2623,
+            "Dockerfile": 1374
+        }
+    },
+    {
+        "name": "snapcraft-mycroft-core",
+        "description": "This project is for building mycroft-core snaps",
+        "languages": {
+            "Jsonnet": 8884,
+            "Shell": 4238
+        }
+    },
+    {
+        "name": "stackql-actions-demo",
+        "description": "GitHub Actions for using `stackql` in workflows, for more information see https://github.com/stackql/stackql and give us a \u2b50 while you're there!",
+        "languages": {
+            "Jsonnet": 1374,
+            "HCL": 1047
+        }
+    },
+    {
+        "name": "kube-prometheus-pushgateway",
+        "description": "Kubernetes Prometheus Pushgateway in Jsonnet format",
+        "languages": {
+            "Jsonnet": 3402,
+            "Makefile": 767
+        }
+    },
+    {
+        "name": "jsonnet-parser-combinators",
+        "description": null,
+        "languages": {
+            "Jsonnet": 12398,
+            "Shell": 106
+        }
+    },
+    {
+        "name": "linkerd2-mixin",
+        "description": "A mixin for monitoring multiple Linkerd 2 meshes from a single Grafana instance",
+        "languages": {
+            "Jsonnet": 43956,
+            "Makefile": 174
+        }
+    },
+    {
+        "name": "snowflake-prometheus-exporter",
+        "description": "A golang based prometheus metrics exporter for Snowflake.",
+        "languages": {
+            "Jsonnet": 51507,
+            "Go": 45232,
+            "Makefile": 1141,
+            "Dockerfile": 266
+        }
+    },
+    {
+        "name": "GuwenCOMBO",
+        "description": "Tokenizer POS-tagger and Dependency-parser for Classical Chinese",
+        "languages": {
+            "Jsonnet": 16778,
+            "Python": 4043,
+            "Shell": 1887
+        }
+    },
+    {
+        "name": "spinnaker-mixin",
+        "description": "Prometheus Mixin for Spinnaker https://spinnaker.io/",
+        "languages": {
+            "Jsonnet": 130933,
+            "Makefile": 3017
+        }
+    },
+    {
+        "name": "k",
+        "description": "Experimental fork of ksonnet-lib maintained by Grafana Labs, Red Hat and others :)",
+        "languages": {
+            "Jsonnet": 28421253,
+            "Go": 253039,
+            "Makefile": 94
+        }
+    },
+    {
+        "name": "flux-mixin",
+        "description": "Community maintained Prometheus Monitoring Mixin for Flux",
+        "languages": {
+            "Jsonnet": 27982,
+            "Makefile": 348,
+            "Nix": 226
+        }
+    },
+    {
+        "name": "barista",
+        "description": "A Python and Jsonnet framework for handling espanso configurations",
+        "languages": {
+            "Jsonnet": 73536,
+            "Python": 9960
+        }
+    },
+    {
+        "name": "kfserving-lts",
+        "description": null,
+        "languages": {
+            "Jsonnet": 2434415,
+            "Python": 1860674,
+            "Go": 1251102,
+            "TypeScript": 78886,
+            "Shell": 36788,
+            "HTML": 17922,
+            "Makefile": 16071,
+            "Dockerfile": 10549,
+            "JavaScript": 1828,
+            "SCSS": 1789,
+            "CSS": 224
+        }
+    },
+    {
+        "name": "talks",
+        "description": "Resources from talks, webinars, etc I've given",
+        "languages": {
+            "Jsonnet": 12145,
+            "Python": 8311,
+            "Shell": 4928,
+            "JavaScript": 3768,
+            "Dockerfile": 2313,
+            "Makefile": 1167,
+            "HTML": 16
+        }
+    },
+    {
+        "name": "elasticsearch-mixin",
+        "description": null,
+        "languages": {
+            "Jsonnet": 39599,
+            "Makefile": 1067
+        }
+    },
+    {
+        "name": "k8s-support",
+        "description": "Setup for the kubernetes systems to control and run all the MLab nodes around the world",
+        "languages": {
+            "Jsonnet": 113028,
+            "Shell": 108233
+        }
+    },
+    {
+        "name": "potsie",
+        "description": ":bar_chart: Grafana dashboards suite for learning analytics",
+        "languages": {
+            "Jsonnet": 52409,
+            "TypeScript": 25135,
+            "Shell": 7253,
+            "Makefile": 4469,
+            "Python": 2232,
+            "Dockerfile": 832,
+            "JavaScript": 660
+        }
+    },
+    {
+        "name": "nasa-swpc-exporter",
+        "description": "Prometheus exporter for current space-weather data collected from NASA's Space Weather Prediction Center.",
+        "languages": {
+            "Jsonnet": 5770,
+            "Python": 1308,
+            "Makefile": 826,
+            "Dockerfile": 104
+        }
+    },
+    {
+        "name": "drone-cache",
+        "description": "Drone plugin for caching your build workspace",
+        "languages": {
+            "Jsonnet": 6459,
+            "Go": 5203
+        }
+    },
+    {
+        "name": "postman-jsonnet",
+        "description": "Write postman unit test suites declaratively using Jsonnet.",
+        "languages": {
+            "Jsonnet": 48267,
+            "JavaScript": 10493
+        }
+    },
+    {
+        "name": "grafana-dashboards",
+        "description": null,
+        "languages": {
+            "Jsonnet": 58375,
+            "Shell": 753,
+            "Makefile": 266
+        }
+    },
+    {
+        "name": "nlu-incremental-symbol-learning",
+        "description": "incremental symbol learning for natural language understanding",
+        "languages": {
+            "Jsonnet": 16823626,
+            "Python": 1302393,
+            "Shell": 63531
+        }
+    },
+    {
+        "name": "Amortized-Interpretability",
+        "description": "Codebase for the ACL 2023 paper \"Efficient Shapley Values Estimation by Amortization for Text Classification\"",
+        "languages": {
+            "Jsonnet": 345607,
+            "Python": 288733,
+            "Jupyter Notebook": 107863,
+            "Shell": 1221
+        }
+    },
+    {
+        "name": "better-promptability",
+        "description": null,
+        "languages": {
+            "Jsonnet": 253046,
+            "Python": 135193
+        }
+    },
+    {
+        "name": "Mastering-Prometheus",
+        "description": "Mastering Prometheus, published by Packt",
+        "languages": {
+            "Jsonnet": 10569,
+            "Go": 2669,
+            "HCL": 1343,
+            "Python": 396,
+            "Dockerfile": 244,
+            "Makefile": 68
+        }
+    },
+    {
+        "name": "kubeflow-0.7.0",
+        "description": "kubeflow-0.7.0\u4e8c\u6b21\u5f00\u53d1\u4ee3\u7801",
+        "languages": {
+            "Jsonnet": 36646182,
+            "Go": 751550,
+            "Python": 327280,
+            "TypeScript": 280074,
+            "JavaScript": 229549,
+            "Shell": 78997,
+            "HTML": 54960,
+            "CSS": 50921,
+            "Makefile": 35893,
+            "Dockerfile": 18797,
+            "PowerShell": 7883,
+            "Ruby": 666
+        }
+    },
+    {
+        "name": "infra",
+        "description": "Home of Infra (Productivity) that hosts configs for prow and other infrastructure related things.",
+        "languages": {
+            "Jsonnet": 68702,
+            "HCL": 49875,
+            "Go": 28281,
+            "Shell": 17035,
+            "Makefile": 16316,
+            "Dockerfile": 12979,
+            "Python": 1883
+        }
+    },
+    {
+        "name": "tekton-demo",
+        "description": "Demonstration of Tekton pipelines to supplement our blog post",
+        "languages": {
+            "Jsonnet": 28496,
+            "Makefile": 9850
+        }
+    },
+    {
+        "name": "crossplane-libsonnet",
+        "description": "crossplane jsonnet library",
+        "languages": {
+            "Jsonnet": 55612283
+        }
+    },
+    {
+        "name": "observe",
+        "description": null,
+        "languages": {
+            "Jsonnet": 7071
+        }
+    },
+    {
+        "name": "tempo-local-dev",
+        "description": "A local development setup to work on Grafana Tempo",
+        "languages": {
+            "Jsonnet": 9873,
+            "Makefile": 1335,
+            "Starlark": 1288,
+            "HCL": 911
+        }
+    },
+    {
+        "name": "vscode-theme-enough",
+        "description": "A minimal theme for Visual Studio Code.",
+        "languages": {
+            "Jsonnet": 13611
+        }
+    },
+    {
+        "name": "templates",
+        "description": "Programmatically generate Fiberplane notebooks for repeatable workflows",
+        "languages": {
+            "Jsonnet": 19610
+        }
+    },
+    {
+        "name": "components",
+        "description": "Stack components in Hub format",
+        "languages": {
+            "Jsonnet": 844668,
+            "Makefile": 225600,
+            "HCL": 123436,
+            "Python": 62678,
+            "JavaScript": 55486,
+            "Shell": 51932,
+            "Mustache": 23479,
+            "HTML": 17180,
+            "Dockerfile": 10011,
+            "CSS": 1144,
+            "Ruby": 518,
+            "Jinja": 307,
+            "Smarty": 70
+        }
+    },
+    {
+        "name": "argocd-nix-flakes-plugin",
+        "description": "ArgoCD Plugin running Nix flakes apps",
+        "languages": {
+            "Jsonnet": 5550,
+            "Nix": 4009
+        }
+    },
+    {
+        "name": "fluxcd-libsonnet",
+        "description": "fluxcd jsonnet library",
+        "languages": {
+            "Jsonnet": 6277392
+        }
+    },
+    {
+        "name": "esphome-libsonnet",
+        "description": "Jsonnet library for generating ESPHome configurations.",
+        "languages": {
+            "Jsonnet": 47664,
+            "C++": 37109,
+            "Shell": 1930,
+            "C": 1239,
+            "Python": 1131,
+            "Makefile": 328
+        }
+    },
+    {
+        "name": "miso_uds",
+        "description": null,
+        "languages": {
+            "Jsonnet": 920067,
+            "Python": 795943,
+            "Jupyter Notebook": 79832,
+            "Shell": 36741
+        }
+    },
+    {
+        "name": "Legacy-KTRules",
+        "description": "Legacy V1 Kill Team rules, captured in json/jsonnet format for use in the KTManagerApp",
+        "languages": {
+            "Jsonnet": 583024,
+            "Python": 3366,
+            "Shell": 2377
+        }
+    },
+    {
+        "name": "k8s-jsonnet-libs",
+        "description": "Jsonnet Libs repo - mostly generated with jsonnet-libs/k8s project",
+        "languages": {
+            "Jsonnet": 80884280,
+            "Makefile": 1840,
+            "CSS": 1044,
+            "Shell": 457
+        }
+    },
+    {
+        "name": "jsonnet-libs",
+        "description": "Unity Jsonnet libs",
+        "languages": {
+            "Jsonnet": 13104,
+            "Makefile": 452
+        }
+    },
+    {
+        "name": "kubernetes",
+        "description": null,
+        "languages": {
+            "Jsonnet": 120922,
+            "Groovy": 5208,
+            "JavaScript": 5008,
+            "Shell": 4457,
+            "Go": 4443,
+            "Makefile": 1616,
+            "HTML": 1590,
+            "Python": 1428,
+            "CSS": 440,
+            "Dockerfile": 322,
+            "Java": 52
+        }
+    },
+    {
+        "name": "emp-exp",
+        "description": null,
+        "languages": {
+            "Jsonnet": 95198,
+            "Python": 55139,
+            "Shell": 6666
+        }
+    },
+    {
+        "name": "thanos-exemplars-demo",
+        "description": "A Demo for using Exemplars with Thanos!",
+        "languages": {
+            "Jsonnet": 22857,
+            "Makefile": 2710,
+            "Shell": 536
+        }
+    },
+    {
+        "name": "jsonnet-patterns",
+        "description": "Examples of jsonnet template patterns",
+        "languages": {
+            "Jsonnet": 8346
+        }
+    },
+    {
+        "name": "logql-jsonnet",
+        "description": "A Jsonnet based DSL for writing LogQL queries. This is useful for automatically creating dashboards on Grafana",
+        "languages": {
+            "Jsonnet": 120876,
+            "Shell": 16369,
+            "Makefile": 2755
+        }
+    },
+    {
+        "name": "render",
+        "description": null,
+        "languages": {
+            "Jsonnet": 11302,
+            "Go": 7385,
+            "Smarty": 1832,
+            "Shell": 90
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "Akshay's dotfiles.",
+        "languages": {
+            "Jsonnet": 17816,
+            "Vim Script": 11374,
+            "Shell": 6235,
+            "Makefile": 4040
+        }
+    },
+    {
+        "name": "prometheus-operatorAlert",
+        "description": "kube-operator\u4f7f\u7528PrometheusAlertk\u30018s1.18-Prometheus-PrometheusAlert",
+        "languages": {
+            "Jsonnet": 112139,
+            "Go": 12483,
+            "Shell": 3956,
+            "Makefile": 1395,
+            "Dockerfile": 122
+        }
+    },
+    {
+        "name": "loki-jsonnet",
+        "description": null,
+        "languages": {
+            "Jsonnet": 25957,
+            "Shell": 387
+        }
+    },
+    {
+        "name": "machete",
+        "description": "Utility functions for Jsonnet",
+        "languages": {
+            "Jsonnet": 4440
+        }
+    },
+    {
+        "name": "stackql-gcp-foundations",
+        "description": "GCP foundations using StackQL",
+        "languages": {
+            "Jsonnet": 3330
+        }
+    },
+    {
+        "name": "rabbitmq-mixin",
+        "description": "Monitoring mixin for RabbitMQ. A set of Grafana dashboards and Prometheus rules for RabbitMQ.",
+        "languages": {
+            "Jsonnet": 14579,
+            "Makefile": 1342
+        }
+    },
+    {
+        "name": "agola-example-go",
+        "description": "Agola Go example",
+        "languages": {
+            "Jsonnet": 1582,
+            "Go": 127
+        }
+    },
+    {
+        "name": "vector_jsonnet",
+        "description": "Jsonnet library to generate Vector configuration",
+        "languages": {
+            "Jsonnet": 24508,
+            "Shell": 4452
+        }
+    },
+    {
+        "name": "tanka-grafanacon-2020",
+        "description": "Demo for GrafanaCon 2020",
+        "languages": {
+            "Jsonnet": 6971,
+            "Shell": 895
+        }
+    },
+    {
+        "name": "kubeflow-dev",
+        "description": "Some utilities to help with kubeflow development",
+        "languages": {
+            "Jsonnet": 48807365,
+            "Go": 3845628,
+            "Python": 394498,
+            "Shell": 287632,
+            "JavaScript": 191210,
+            "Makefile": 82209,
+            "Jinja": 65274,
+            "TypeScript": 61609,
+            "HTML": 58586,
+            "CSS": 37600,
+            "Dockerfile": 25114,
+            "PowerShell": 7205,
+            "Pug": 3972,
+            "Smarty": 2385
+        }
+    },
+    {
+        "name": "jsonnet-libs",
+        "description": "A collection of Jsonnet libraries used by LetsBuild",
+        "languages": {
+            "Jsonnet": 73495
+        }
+    },
+    {
+        "name": "k8s-locust",
+        "description": "\u57fa\u4e8ek8s+locust+boomer\u7684\u5206\u5e03\u5f0f\u538b\u529b\u6d4b\u8bd5\u65b9\u6848\u843d\u5730",
+        "languages": {
+            "Jsonnet": 120922,
+            "Python": 108493,
+            "HTML": 81998,
+            "Go": 38490,
+            "Shell": 5462,
+            "Dockerfile": 2184,
+            "Makefile": 1616,
+            "Java": 1394,
+            "Lua": 339
+        }
+    },
+    {
+        "name": "drone-libsonnet",
+        "description": "Jsonnet library for generating Drone pipelines.",
+        "languages": {
+            "Jsonnet": 18027,
+            "Makefile": 217
+        }
+    },
+    {
+        "name": "knowledgeable-stories",
+        "description": "2nd iteration of the story models to incorporate multitask learning and richer semantic knowledgebase, event and character based understanding.",
+        "languages": {
+            "Jsonnet": 659230,
+            "Python": 483639,
+            "Shell": 16170
+        }
+    },
+    {
+        "name": "docker-prometheus-mixin",
+        "description": "Docker image containing promtool, amtool and jsonnet to implement prometheus mix-in",
+        "languages": {
+            "Jsonnet": 5370,
+            "Makefile": 3527,
+            "Dockerfile": 572
+        }
+    },
+    {
+        "name": "lonely-mountain",
+        "description": "A set of useful functions for Jsonnet",
+        "languages": {
+            "Jsonnet": 5985,
+            "Makefile": 130
+        }
+    },
+    {
+        "name": "kubeflow-manifests",
+        "description": null,
+        "languages": {
+            "Jsonnet": 2424921,
+            "Roff": 138091,
+            "Python": 49923,
+            "Go": 48803,
+            "Shell": 40070,
+            "HTML": 11242,
+            "Makefile": 3230,
+            "Smarty": 1079
+        }
+    },
+    {
+        "name": "opendosm-clickhouse",
+        "description": null,
+        "languages": {
+            "Jsonnet": 1482,
+            "Dockerfile": 382,
+            "Shell": 181
+        }
+    },
+    {
+        "name": "thanos_prometheus_project",
+        "description": null,
+        "languages": {
+            "Jsonnet": 2037,
+            "Shell": 947
+        }
+    },
+    {
+        "name": "cloudflight-libsonnet",
+        "description": "Utilities and premade modules to ease working with Kubernets and OpenShift.",
+        "languages": {
+            "Jsonnet": 643735,
+            "Makefile": 327
+        }
+    },
+    {
+        "name": "sre-enablement-content",
+        "description": null,
+        "languages": {
+            "Jsonnet": 3034,
+            "Shell": 79,
+            "Mustache": 77
+        }
+    },
+    {
+        "name": "stackql-demo",
+        "description": null,
+        "languages": {
+            "Jsonnet": 11068,
+            "PowerShell": 5590,
+            "Shell": 2152
+        }
+    },
+    {
+        "name": "scalable_ml_with_kubeflow",
+        "description": null,
+        "languages": {
+            "Jsonnet": 48899544,
+            "Go": 1626271,
+            "Python": 309542,
+            "TypeScript": 250118,
+            "JavaScript": 206102,
+            "Shell": 150110,
+            "Jupyter Notebook": 90104,
+            "HTML": 67154,
+            "CSS": 50708,
+            "Makefile": 39132,
+            "Dockerfile": 22551,
+            "PowerShell": 7883,
+            "Ruby": 666
+        }
+    },
+    {
+        "name": "k8s-geomap-dashboard",
+        "description": "Kubernetes GeoMap Dashboard",
+        "languages": {
+            "Jsonnet": 10454,
+            "Shell": 5612,
+            "Makefile": 800
+        }
+    },
+    {
+        "name": "grafana-operator-libsonnet",
+        "description": "grafana-operator jsonnet library",
+        "languages": {
+            "Jsonnet": 6780467
+        }
+    },
+    {
+        "name": "environment",
+        "description": "A production like environment for developers, devops, qa, secops, sysadmin, ops and SREs to test applications in production scenario. ",
+        "languages": {
+            "Jsonnet": 176657,
+            "Shell": 128217,
+            "Makefile": 28136,
+            "Go": 11296,
+            "Smarty": 5836,
+            "Dockerfile": 602
+        }
+    },
+    {
+        "name": "dxsonnet",
+        "description": "Just another Jsonnet library: a collection of generic jsonnet functions",
+        "languages": {
+            "Jsonnet": 5880
+        }
+    },
+    {
+        "name": "devoxx-dashboard-as-code",
+        "description": "Dashboard as code example for Devoxx France",
+        "languages": {
+            "Jsonnet": 5834,
+            "Smarty": 3584,
+            "Makefile": 2053,
+            "Mermaid": 223
+        }
+    },
+    {
+        "name": "prometheus-alerting",
+        "description": null,
+        "languages": {
+            "Jsonnet": 182966,
+            "Go": 11296,
+            "Shell": 5394,
+            "Makefile": 2153
+        }
+    },
+    {
+        "name": "CartographerDSL",
+        "description": "A jsonnet DSL for writing CircleCI configs",
+        "languages": {
+            "Jsonnet": 22734,
+            "Makefile": 3818,
+            "Go": 3485,
+            "Dockerfile": 214
+        }
+    },
+    {
+        "name": "allennlp-distributed-training",
+        "description": "Experiments to benchmark AllenNLP distributed training.",
+        "languages": {
+            "Jsonnet": 24072,
+            "Python": 12150
+        }
+    },
+    {
+        "name": "drone-containership",
+        "description": "Drone plugin for deploying to ContainerShip",
+        "languages": {
+            "Jsonnet": 6475,
+            "Go": 2517
+        }
+    },
+    {
+        "name": "argo-gitops",
+        "description": "GitOps with ArgoCD",
+        "languages": {
+            "Jsonnet": 4029
+        }
+    },
+    {
+        "name": "cert-manager-libsonnet",
+        "description": "cert-manager jsonnet library",
+        "languages": {
+            "Jsonnet": 10927068
+        }
+    },
+    {
+        "name": "my-kube-prometheus",
+        "description": null,
+        "languages": {
+            "Jsonnet": 2778,
+            "Shell": 633
+        }
+    },
+    {
+        "name": "istio-libsonnet",
+        "description": "istio jsonnet library",
+        "languages": {
+            "Jsonnet": 2586543
+        }
+    },
+    {
+        "name": "jsonnet-libs",
+        "description": "Libraries to help simplify Outreach manifests",
+        "languages": {
+            "Jsonnet": 106151,
+            "Shell": 871,
+            "Makefile": 25
+        }
+    },
+    {
+        "name": "Model_Distillation",
+        "description": null,
+        "languages": {
+            "Jsonnet": 128392,
+            "Python": 72679,
+            "HTML": 1647,
+            "CSS": 240
+        }
+    },
+    {
+        "name": "mjpitz",
+        "description": "The next iteration of my personal site. This monorepo contains all my public Helm charts, container images, deployed infrastructure, Grafana dashboards, and site content.",
+        "languages": {
+            "Jsonnet": 120823,
+            "Smarty": 62052,
+            "Astro": 28005,
+            "TeX": 27280,
+            "HCL": 18201,
+            "MDX": 8637,
+            "Makefile": 6630,
+            "Shell": 4941,
+            "CSS": 4693,
+            "Dockerfile": 2389,
+            "TypeScript": 1177,
+            "JavaScript": 753
+        }
+    },
+    {
+        "name": "home-assistant-libsonnet",
+        "description": "Jsonnet library for Home Assistant configurations",
+        "languages": {
+            "Jsonnet": 19501,
+            "Shell": 1460,
+            "Makefile": 127
+        }
+    },
+    {
+        "name": "drone-codedeploy",
+        "description": "Drone plugin for deploying to CodeDeploy",
+        "languages": {
+            "Jsonnet": 6469,
+            "Go": 4023
+        }
+    },
+    {
+        "name": "mycroft",
+        "description": null,
+        "languages": {
+            "Jsonnet": 8884,
+            "Shell": 4322
+        }
+    },
+    {
+        "name": "hashicorp-google",
+        "description": "Jsonnet library for hashicorp/google Terraform provider.",
+        "languages": {
+            "Jsonnet": 14392460
+        }
+    },
+    {
+        "name": "custom-dashboards",
+        "description": null,
+        "languages": {
+            "Jsonnet": 73749,
+            "Go": 15964,
+            "Makefile": 5692,
+            "Dockerfile": 791,
+            "Shell": 395
+        }
+    },
+    {
+        "name": "keboola-as-code-templates",
+        "description": "Templates repository for Keboola as Code CLI client",
+        "languages": {
+            "Jsonnet": 1567223,
+            "PLpgSQL": 36296,
+            "Python": 1469
+        }
+    },
+    {
+        "name": "siteinfo",
+        "description": "M-Lab Public Site Information Automation",
+        "languages": {
+            "Jsonnet": 319567,
+            "Python": 33791,
+            "Shell": 8861,
+            "Makefile": 3437
+        }
+    },
+    {
+        "name": "kube-prometheus",
+        "description": null,
+        "languages": {
+            "Jsonnet": 3948,
+            "Shell": 704
+        }
+    },
+    {
+        "name": "DecomP-ODQA",
+        "description": "Official repository for ODQA experiments from Decomposed Prompting: A Modular Approach for Solving Complex Tasks, ICLR23",
+        "languages": {
+            "Jsonnet": 466134,
+            "Python": 413189,
+            "Shell": 7739,
+            "Dockerfile": 1326
+        }
+    },
+    {
+        "name": "github-actions-libsonnet",
+        "description": "Jsonnet library for generating Github Actions workflows.",
+        "languages": {
+            "Jsonnet": 59236,
+            "Makefile": 109
+        }
+    },
+    {
+        "name": "Deckhouse-in-Deckhouse",
+        "description": "Run Deckhouse in Deckhouse using virtualization module",
+        "languages": {
+            "Jsonnet": 9333
+        }
+    },
+    {
+        "name": "blog",
+        "description": "My personal blog",
+        "languages": {
+            "Jsonnet": 1375,
+            "HTML": 779,
+            "Dockerfile": 415,
+            "HCL": 84
+        }
+    },
+    {
+        "name": "kubecfg-nonroot-nginx",
+        "description": "Non-root Nginx container example. Uses Ksonnet for object definition and Kubecfg for object management",
+        "languages": {
+            "Jsonnet": 621702,
+            "Shell": 932
+        }
+    },
+    {
+        "name": "kube-prometheus-libsonnet",
+        "description": "kube-prometheus jsonnet library",
+        "languages": {
+            "Jsonnet": 10422126
+        }
+    },
+    {
+        "name": "astsonnet",
+        "description": "Jsonnet library to generate jsonnet code.",
+        "languages": {
+            "Jsonnet": 77112,
+            "Makefile": 492
+        }
+    },
+    {
+        "name": "alertmanager-libsonnet",
+        "description": "Jsonnet library for configuring alertmanager and installing it on Kubernetes.",
+        "languages": {
+            "Jsonnet": 26705,
+            "Makefile": 892,
+            "Go": 301
+        }
+    },
+    {
+        "name": "prometheus-kubernetes",
+        "description": null,
+        "languages": {
+            "Jsonnet": 2426,
+            "Makefile": 1024,
+            "Shell": 337
+        }
+    },
+    {
+        "name": "middleware-on-kubernetes",
+        "description": null,
+        "languages": {
+            "Jsonnet": 176657,
+            "Go": 109002,
+            "Shell": 71728,
+            "Dockerfile": 23435,
+            "Smarty": 9129,
+            "Python": 2397,
+            "Makefile": 2101
+        }
+    },
+    {
+        "name": "argocd-installer",
+        "description": null,
+        "languages": {
+            "Jsonnet": 804118,
+            "Mustache": 271319,
+            "Smarty": 40084
+        }
+    },
+    {
+        "name": "eks-jsonnet",
+        "description": "eks jsonnet demo",
+        "languages": {
+            "Jsonnet": 20723
+        }
     }
 ]

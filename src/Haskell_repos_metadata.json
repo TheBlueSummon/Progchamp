@@ -12,7 +12,7 @@
         "name": "pandoc",
         "description": "Universal markup converter",
         "languages": {
-            "Haskell": 4045832,
+            "Haskell": 4045900,
             "Roff": 321734,
             "Rich Text Format": 259644,
             "Lua": 90668,
@@ -60,6 +60,2264 @@
             "Dockerfile": 1856,
             "Ruby": 276,
             "Python": 275
+        }
+    },
+    {
+        "name": "purescript",
+        "description": "A strongly-typed language that compiles to JavaScript",
+        "languages": {
+            "Haskell": 1910127,
+            "PureScript": 717850,
+            "Yacc": 32400,
+            "JavaScript": 23229,
+            "Less": 20348,
+            "CSS": 18940,
+            "Shell": 16110,
+            "Makefile": 2933,
+            "Dhall": 1747
+        }
+    },
+    {
+        "name": "compiler",
+        "description": "Compiler for Elm, a functional language for reliable webapps.",
+        "languages": {
+            "Haskell": 1403319,
+            "Elm": 50863,
+            "NSIS": 7831,
+            "JavaScript": 4683,
+            "Shell": 2433,
+            "CSS": 2227,
+            "Rich Text Format": 1176,
+            "Python": 1163,
+            "Dockerfile": 1137,
+            "VBScript": 1096,
+            "Batchfile": 354
+        }
+    },
+    {
+        "name": "unison",
+        "description": "A friendly programming language from the future",
+        "languages": {
+            "Haskell": 4778089,
+            "Racket": 237962,
+            "Scheme": 110279,
+            "Nix": 11014,
+            "Vim Script": 7504,
+            "Shell": 7026,
+            "UrWeb": 1504,
+            "Dockerfile": 633,
+            "Dhall": 68
+        }
+    },
+    {
+        "name": "Carp",
+        "description": "A statically typed lisp, without a GC, for real-time applications.",
+        "languages": {
+            "Haskell": 805552,
+            "C": 68330,
+            "Shell": 8319,
+            "Python": 3674,
+            "Nix": 1175,
+            "PowerShell": 1134,
+            "Emacs Lisp": 57
+        }
+    },
+    {
+        "name": "simplex-chat",
+        "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps \ud83d\udcf1!",
+        "languages": {
+            "Haskell": 2411145,
+            "Kotlin": 2135515,
+            "Swift": 1651649,
+            "HTML": 171433,
+            "TypeScript": 106102,
+            "JavaScript": 86156,
+            "CSS": 76112,
+            "C++": 76018,
+            "Shell": 41356,
+            "Nix": 32873,
+            "C": 30047,
+            "CMake": 9120,
+            "Nunjucks": 6137,
+            "Dockerfile": 1185,
+            "Objective-C": 1009,
+            "Awk": 481
+        }
+    },
+    {
+        "name": "Haxl",
+        "description": "A Haskell library that simplifies access to remote data, such as databases or web-based services. ",
+        "languages": {
+            "Haskell": 292117
+        }
+    },
+    {
+        "name": "ihp",
+        "description": "\ud83d\udd25 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness",
+        "languages": {
+            "Haskell": 2162535,
+            "JavaScript": 114697,
+            "Nix": 45209,
+            "CSS": 34573,
+            "HTML": 14259,
+            "Shell": 9880,
+            "Python": 7092,
+            "Makefile": 2701,
+            "PLpgSQL": 466
+        }
+    },
+    {
+        "name": "fp-course",
+        "description": "Functional Programming Course",
+        "languages": {
+            "Haskell": 267481,
+            "Nix": 2211,
+            "Shell": 406,
+            "Batchfile": 240
+        }
+    },
+    {
+        "name": "duckling",
+        "description": "Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.",
+        "languages": {
+            "Haskell": 11441032,
+            "Dockerfile": 954
+        }
+    },
+    {
+        "name": "stack",
+        "description": "The Haskell Tool Stack",
+        "languages": {
+            "Haskell": 1983947,
+            "Shell": 40080,
+            "Dockerfile": 7178,
+            "Emacs Lisp": 318,
+            "C": 219,
+            "Batchfile": 51
+        }
+    },
+    {
+        "name": "cardano-sl",
+        "description": "Cryptographic currency implementing Ouroboros PoS protocol",
+        "languages": {
+            "Haskell": 6587947,
+            "Nix": 1600437,
+            "PureScript": 311942,
+            "HTML": 217850,
+            "Shell": 76693,
+            "CSS": 54967,
+            "JavaScript": 47584,
+            "Python": 36838,
+            "Makefile": 6928,
+            "TSQL": 3275,
+            "Batchfile": 539
+        }
+    },
+    {
+        "name": "kmonad",
+        "description": "An advanced keyboard manager",
+        "languages": {
+            "Haskell": 218157,
+            "C++": 17747,
+            "Nix": 16681,
+            "C": 10578,
+            "Shell": 2152,
+            "Dockerfile": 457,
+            "Makefile": 206
+        }
+    },
+    {
+        "name": "Idris-dev",
+        "description": "A Dependently Typed Functional Programming Language",
+        "languages": {
+            "Haskell": 2152304,
+            "Idris": 1202839,
+            "C": 234750,
+            "JavaScript": 43268,
+            "Shell": 40341,
+            "Makefile": 7018,
+            "CSS": 3432,
+            "Scheme": 2236,
+            "Perl": 1479,
+            "CMake": 1192,
+            "Nix": 912,
+            "Java": 422
+        }
+    },
+    {
+        "name": "write-you-a-haskell",
+        "description": "Building a modern functional compiler from first principles. (http://dev.stephendiehl.com/fun/)",
+        "languages": {
+            "Haskell": 150626,
+            "CSS": 8802,
+            "OCaml": 5330,
+            "Python": 3236,
+            "JavaScript": 3200,
+            "Yacc": 2651,
+            "C++": 2591,
+            "Logos": 2298,
+            "HTML": 2191,
+            "Makefile": 2048,
+            "LLVM": 1160,
+            "C": 1150,
+            "Shell": 188,
+            "Standard ML": 169
+        }
+    },
+    {
+        "name": "xmonad",
+        "description": "The core of xmonad, a small but functional ICCCM-compliant tiling window manager",
+        "languages": {
+            "Haskell": 196540,
+            "Nix": 4041,
+            "Shell": 735
+        }
+    },
+    {
+        "name": "koka",
+        "description": "Koka language compiler and interpreter",
+        "languages": {
+            "Haskell": 2296041,
+            "C": 650833,
+            "JavaScript": 126712,
+            "Shell": 83540,
+            "C++": 61755,
+            "TypeScript": 55790,
+            "C#": 46286,
+            "OCaml": 25601,
+            "Java": 23502,
+            "Swift": 22692,
+            "Lex": 20791,
+            "CMake": 14912,
+            "Batchfile": 13555,
+            "Lean": 11781,
+            "Dockerfile": 8712,
+            "Python": 7828,
+            "Emacs Lisp": 4166,
+            "Vim Script": 3753,
+            "HTML": 1961,
+            "sed": 1121,
+            "Less": 535
+        }
+    },
+    {
+        "name": "cardano-node",
+        "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
+        "languages": {
+            "Haskell": 3752789,
+            "Shell": 774356,
+            "Nix": 362045,
+            "jq": 80235,
+            "JSONiq": 32888,
+            "Python": 23924,
+            "C": 13867,
+            "Makefile": 12751,
+            "Emacs Lisp": 4731,
+            "Gnuplot": 3388
+        }
+    },
+    {
+        "name": "awesome-haskell",
+        "description": "A collection of awesome Haskell links, frameworks, libraries and software. Inspired by awesome projects line.",
+        "languages": {
+            "Haskell": 104
+        }
+    },
+    {
+        "name": "ghc",
+        "description": "Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).",
+        "languages": {
+            "Haskell": 39980476,
+            "C": 3912504,
+            "Terra": 477617,
+            "Makefile": 388042,
+            "Python": 327469,
+            "JavaScript": 312403,
+            "Raku": 299664,
+            "C++": 280022,
+            "M4": 230140,
+            "Lex": 178094,
+            "Puppet": 174430,
+            "Shell": 144386,
+            "Gnuplot": 103851,
+            "Yacc": 71884,
+            "Assembly": 29203,
+            "Game Maker Language": 28328,
+            "Nix": 22779,
+            "Logos": 7140,
+            "HTML": 6144,
+            "Perl": 5237,
+            "DTrace": 4164,
+            "Roff": 3841,
+            "Batchfile": 1966,
+            "CSS": 984,
+            "Emacs Lisp": 734,
+            "Objective-C": 729,
+            "Objective-C++": 535,
+            "Haxe": 218,
+            "PostScript": 63
+        }
+    },
+    {
+        "name": "Simula",
+        "description": "Linux VR Desktop",
+        "languages": {
+            "Haskell": 346210,
+            "GDScript": 50987,
+            "Nix": 40021,
+            "Shell": 14287,
+            "Dhall": 10643,
+            "C": 10597,
+            "Python": 4257,
+            "GDB": 1026,
+            "GLSL": 988,
+            "Makefile": 773
+        }
+    },
+    {
+        "name": "hledger",
+        "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
+        "languages": {
+            "Haskell": 1753605,
+            "Roff": 428745,
+            "JavaScript": 400052,
+            "Shell": 143200,
+            "Just": 72490,
+            "Makefile": 51607,
+            "Python": 15212,
+            "Cap'n Proto": 12732,
+            "CSS": 4176,
+            "Dockerfile": 3694,
+            "M4": 3581,
+            "Procfile": 2900,
+            "Lua": 2794,
+            "Awk": 2111,
+            "HTML": 1479,
+            "Objective-J": 1032,
+            "Jasmin": 881,
+            "CMake": 34
+        }
+    },
+    {
+        "name": "Functional-Programming",
+        "description": "Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python",
+        "languages": {
+            "Haskell": 162601,
+            "Scala": 32996,
+            "OCaml": 8181,
+            "Scheme": 7817,
+            "Makefile": 964,
+            "Nix": 374
+        }
+    },
+    {
+        "name": "hakyll",
+        "description": "A static website compiler library in Haskell",
+        "languages": {
+            "Haskell": 417848,
+            "HTML": 9283,
+            "CSS": 6387,
+            "TeX": 336
+        }
+    },
+    {
+        "name": "ghcjs",
+        "description": "Haskell to JavaScript compiler, based on GHC",
+        "languages": {
+            "Haskell": 3675526,
+            "JavaScript": 1083690,
+            "C": 513504,
+            "Pascal": 467872,
+            "Gnuplot": 103851,
+            "Shell": 32522,
+            "TypeScript": 20873,
+            "CSS": 20373,
+            "C++": 15118,
+            "Game Maker Language": 14164,
+            "PowerShell": 2334,
+            "TeX": 2140,
+            "HTML": 1534,
+            "Dockerfile": 1219,
+            "Python": 243
+        }
+    },
+    {
+        "name": "eta",
+        "description": "The Eta Programming Language, a dialect of Haskell on the JVM",
+        "languages": {
+            "Haskell": 12330574,
+            "Java": 499693,
+            "Pascal": 113934,
+            "Logos": 107599,
+            "C": 15375,
+            "Shell": 5187,
+            "C++": 3882,
+            "Batchfile": 1970,
+            "Dockerfile": 1176,
+            "Nix": 1034
+        }
+    },
+    {
+        "name": "yesod",
+        "description": "A RESTful Haskell web framework built on WAI.",
+        "languages": {
+            "Haskell": 1077160,
+            "HTML": 2225,
+            "Dockerfile": 1281,
+            "Shell": 603,
+            "CSS": 222,
+            "JavaScript": 46
+        }
+    },
+    {
+        "name": "wire-server",
+        "description": "\ud83c\uddea\ud83c\uddfa Wire back-end services",
+        "languages": {
+            "Haskell": 12024131,
+            "HTML": 1354102,
+            "Nix": 335365,
+            "Shell": 120607,
+            "Python": 79336,
+            "Smarty": 54554,
+            "Rust": 48416,
+            "Makefile": 45305,
+            "Mustache": 17797,
+            "C": 12943,
+            "jq": 10188,
+            "JavaScript": 1883,
+            "DIGITAL Command Language": 1497,
+            "Dockerfile": 1192
+        }
+    },
+    {
+        "name": "haskell-language-server",
+        "description": "Official haskell ide support via language server (LSP). Successor of ghcide & haskell-ide-engine.",
+        "languages": {
+            "Haskell": 2794846,
+            "JavaScript": 106101,
+            "TypeScript": 42906,
+            "Shell": 25138,
+            "Nix": 13833,
+            "HTML": 7818,
+            "Makefile": 6615,
+            "Python": 3148
+        }
+    },
+    {
+        "name": "wiwinwlh",
+        "description": "What I Wish I Knew When Learning Haskell",
+        "languages": {
+            "Haskell": 195372,
+            "TeX": 58008,
+            "PLpgSQL": 42877,
+            "HTML": 37025,
+            "Shell": 17748,
+            "CSS": 6525,
+            "Makefile": 2676,
+            "C": 1189,
+            "Agda": 1179,
+            "Yacc": 842,
+            "Lex": 634,
+            "Nix": 625,
+            "JavaScript": 410,
+            "OCaml": 134
+        }
+    },
+    {
+        "name": "haskell-ide-engine",
+        "description": "The engine for haskell ide-integration. Not an IDE",
+        "languages": {
+            "Haskell": 683171,
+            "Shell": 1905,
+            "COBOL": 982,
+            "Roff": 567,
+            "Nix": 315,
+            "Batchfile": 66
+        }
+    },
+    {
+        "name": "agda",
+        "description": "Agda is a dependently typed programming language / interactive theorem prover.",
+        "languages": {
+            "Haskell": 6485528,
+            "Agda": 3291632,
+            "TeX": 762798,
+            "PostScript": 498628,
+            "HTML": 336411,
+            "Emacs Lisp": 174373,
+            "Yacc": 77419,
+            "Makefile": 69464,
+            "Shell": 23350,
+            "JavaScript": 23003,
+            "Lex": 13441,
+            "Nix": 2546,
+            "CSS": 1793,
+            "Perl": 466
+        }
+    },
+    {
+        "name": "patat",
+        "description": "Terminal-based presentations using Pandoc",
+        "languages": {
+            "Haskell": 177523,
+            "Makefile": 2499,
+            "Shell": 398
+        }
+    },
+    {
+        "name": "futhark",
+        "description": ":boom::computer::boom: A data-parallel functional programming language",
+        "languages": {
+            "Haskell": 4152818,
+            "Futhark": 1175387,
+            "C": 511191,
+            "Python": 110267,
+            "Yacc": 36699,
+            "JavaScript": 17880,
+            "Nix": 15327,
+            "Shell": 14704,
+            "Lex": 9554,
+            "Makefile": 3636,
+            "CSS": 3128,
+            "Cuda": 2397,
+            "Roff": 1502,
+            "TeX": 501
+        }
+    },
+    {
+        "name": "xdg-ninja",
+        "description": "A shell script which checks your $HOME for unwanted files and directories.",
+        "languages": {
+            "Haskell": 16741,
+            "Shell": 9076,
+            "Nix": 2222,
+            "Makefile": 657,
+            "Dockerfile": 305
+        }
+    },
+    {
+        "name": "corrode",
+        "description": "C to Rust translator",
+        "languages": {
+            "Haskell": 29501,
+            "Python": 10972,
+            "Batchfile": 2260,
+            "Makefile": 509
+        }
+    },
+    {
+        "name": "miso",
+        "description": ":ramen: A tasty Haskell front-end framework",
+        "languages": {
+            "Haskell": 218999,
+            "JavaScript": 55902,
+            "Nix": 16040,
+            "Dockerfile": 588
+        }
+    },
+    {
+        "name": "gitit",
+        "description": "A wiki using HAppS, pandoc, and git",
+        "languages": {
+            "Haskell": 272672,
+            "JavaScript": 100494,
+            "CSS": 20160,
+            "StringTemplate": 5032,
+            "Roff": 3779,
+            "Shell": 2052,
+            "TeX": 1747,
+            "HTML": 1090,
+            "Makefile": 123
+        }
+    },
+    {
+        "name": "dapptools",
+        "description": "Dapp, Seth, Hevm, and more",
+        "languages": {
+            "Haskell": 526709,
+            "Shell": 151634,
+            "Nix": 86935,
+            "Solidity": 26061,
+            "Go": 18168,
+            "JavaScript": 11242,
+            "Emacs Lisp": 10855,
+            "C++": 8953,
+            "C": 8154,
+            "Python": 5923,
+            "Makefile": 2677,
+            "Dockerfile": 1705,
+            "CSS": 422,
+            "HTML": 147
+        }
+    },
+    {
+        "name": "asterius",
+        "description": "DEPRECATED in favor of ghc wasm backend, see https://www.tweag.io/blog/2022-11-22-wasm-backend-merged-in-ghc",
+        "languages": {
+            "Haskell": 1277035,
+            "JavaScript": 191190,
+            "C": 64027,
+            "Nix": 12092,
+            "Starlark": 8825,
+            "Python": 6062,
+            "Shell": 5199,
+            "HTML": 3601
+        }
+    },
+    {
+        "name": "lens",
+        "description": "Lenses, Folds, and Traversals - Join us on web.libera.chat #haskell-lens",
+        "languages": {
+            "Haskell": 1163367,
+            "Shell": 2243,
+            "C": 453
+        }
+    },
+    {
+        "name": "lamdu",
+        "description": "lamdu - towards the next generation IDE",
+        "languages": {
+            "Haskell": 1199790,
+            "JavaScript": 21431,
+            "Nix": 17669,
+            "Shell": 2674,
+            "Inno Setup": 1470,
+            "Dhall": 1428,
+            "HTML": 720,
+            "jq": 302,
+            "Python": 235,
+            "Emacs Lisp": 3
+        }
+    },
+    {
+        "name": "servant",
+        "description": "Main repository for the servant libraries \u2014 DSL for describing, serving, querying, mocking, documenting web applications and more!",
+        "languages": {
+            "Haskell": 825502,
+            "Shell": 11092,
+            "Nix": 2987,
+            "Python": 352
+        }
+    },
+    {
+        "name": "erd",
+        "description": "Translates a plain text description of a relational database schema to a graphical entity-relationship diagram.",
+        "languages": {
+            "Haskell": 52143,
+            "Nix": 2490,
+            "Shell": 1771,
+            "Dockerfile": 673,
+            "Makefile": 321,
+            "Vim Script": 57
+        }
+    },
+    {
+        "name": "taskell",
+        "description": "Command-line Kanban board/task manager with support for Trello boards and GitHub projects",
+        "languages": {
+            "Haskell": 216888
+        }
+    },
+    {
+        "name": "zsh-git-prompt",
+        "description": "Informative git prompt for zsh",
+        "languages": {
+            "Haskell": 12092,
+            "Shell": 3535,
+            "Python": 2323
+        }
+    },
+    {
+        "name": "scotty",
+        "description": "Haskell web framework inspired by Ruby's Sinatra, using WAI and Warp (Official Repository)",
+        "languages": {
+            "Haskell": 124617,
+            "Makefile": 59
+        }
+    },
+    {
+        "name": "aura",
+        "description": "A secure, multilingual package manager for Arch Linux and the AUR.",
+        "languages": {
+            "Haskell": 362106,
+            "Rust": 238366,
+            "Roff": 44711,
+            "Fluent": 9430,
+            "Shell": 3200
+        }
+    },
+    {
+        "name": "HLearn",
+        "description": "Homomorphic machine learning",
+        "languages": {
+            "Haskell": 295176,
+            "C++": 31658,
+            "Shell": 9083,
+            "Java": 3060,
+            "C": 2289,
+            "R": 1356,
+            "Python": 756,
+            "Makefile": 479
+        }
+    },
+    {
+        "name": "brick",
+        "description": "A declarative Unix terminal UI library written in Haskell",
+        "languages": {
+            "Haskell": 500309,
+            "Shell": 253
+        }
+    },
+    {
+        "name": "cabal",
+        "description": "Official upstream development repository for Cabal and cabal-install",
+        "languages": {
+            "Haskell": 6935935,
+            "Shell": 42597,
+            "Python": 16415,
+            "Dockerfile": 15667,
+            "Vim Script": 15386,
+            "C": 12154,
+            "Makefile": 12091,
+            "C++": 10755,
+            "Lex": 10339,
+            "M4": 1208,
+            "Batchfile": 325,
+            "HTML": 126,
+            "JavaScript": 103,
+            "Standard ML": 18,
+            "COBOL": 10,
+            "TeX": 5
+        }
+    },
+    {
+        "name": "haskell",
+        "description": "Haskell bindings for TensorFlow",
+        "languages": {
+            "Haskell": 350270,
+            "Dockerfile": 4561,
+            "Shell": 2383
+        }
+    },
+    {
+        "name": "real-world-haskell-cn",
+        "description": "\u300aReal World Haskell\u300b\u4e2d\u6587\u7ffb\u8bd1\u9879\u76ee",
+        "languages": {
+            "Haskell": 143386,
+            "Python": 8180,
+            "Makefile": 6354,
+            "Batchfile": 5116,
+            "HTML": 3057,
+            "C": 667
+        }
+    },
+    {
+        "name": "dex-lang",
+        "description": "Research language for array processing in the Haskell/ML family",
+        "languages": {
+            "Haskell": 1687043,
+            "Python": 112385,
+            "Julia": 25339,
+            "C": 17056,
+            "Makefile": 16131,
+            "TypeScript": 15068,
+            "C++": 13741,
+            "Nix": 3324,
+            "Shell": 2729,
+            "CSS": 2121,
+            "Emacs Lisp": 1886,
+            "HTML": 369
+        }
+    },
+    {
+        "name": "plutus",
+        "description": "The Plutus language implementation and tools",
+        "languages": {
+            "Haskell": 4225453,
+            "Smarty": 43091,
+            "R": 37822,
+            "Nix": 26033,
+            "Agda": 16929,
+            "Awk": 11718,
+            "Shell": 8993,
+            "JavaScript": 872,
+            "Python": 777
+        }
+    },
+    {
+        "name": "neuron",
+        "description": "Future-proof note-taking and publishing based on Zettelkasten (superseded by Emanote: https://github.com/srid/emanote)",
+        "languages": {
+            "Haskell": 263498,
+            "Nix": 13679,
+            "Shell": 1733
+        }
+    },
+    {
+        "name": "yi",
+        "description": "The Haskell-Scriptable Editor",
+        "languages": {
+            "Haskell": 1428389,
+            "Logos": 4520,
+            "Nix": 767,
+            "Makefile": 200
+        }
+    },
+    {
+        "name": "niv",
+        "description": "Easy dependency management for Nix projects",
+        "languages": {
+            "Haskell": 92875,
+            "Nix": 29757,
+            "Shell": 482,
+            "HTML": 226
+        }
+    },
+    {
+        "name": "haste-compiler",
+        "description": "A GHC-based Haskell to JavaScript compiler",
+        "languages": {
+            "Haskell": 3550906,
+            "C": 741267,
+            "JavaScript": 226893,
+            "C++": 124519,
+            "Pascal": 113781,
+            "Shell": 14529,
+            "Yacc": 5822,
+            "Logos": 4019,
+            "Makefile": 170
+        }
+    },
+    {
+        "name": "grenade",
+        "description": "Deep Learning in Haskell",
+        "languages": {
+            "Haskell": 223776,
+            "C": 8959,
+            "Shell": 2048
+        }
+    },
+    {
+        "name": "hlint",
+        "description": "Haskell source code suggestions",
+        "languages": {
+            "Haskell": 403879,
+            "HTML": 4154,
+            "Emacs Lisp": 3987,
+            "Roff": 1300,
+            "Dockerfile": 1252,
+            "Batchfile": 352,
+            "Shell": 294,
+            "PowerShell": 196
+        }
+    },
+    {
+        "name": "plutus-pioneer-program",
+        "description": "This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.",
+        "languages": {
+            "Haskell": 145844,
+            "TypeScript": 104959,
+            "Shell": 31028,
+            "JavaScript": 29530,
+            "HTML": 13512,
+            "Nix": 7390,
+            "Dockerfile": 4613,
+            "CSS": 1538
+        }
+    },
+    {
+        "name": "clash-compiler",
+        "description": "Haskell to VHDL/Verilog/SystemVerilog compiler",
+        "languages": {
+            "Haskell": 6516665,
+            "C": 225297,
+            "Tcl": 24706,
+            "Shell": 24530,
+            "Nix": 18093,
+            "Dockerfile": 5021,
+            "Python": 3162,
+            "Makefile": 791,
+            "PowerShell": 624,
+            "CSS": 140
+        }
+    },
+    {
+        "name": "haskell-trainings",
+        "description": "Haskell 101 and 102: slides and codelabs",
+        "languages": {
+            "Haskell": 121989,
+            "TeX": 119442,
+            "Makefile": 14283,
+            "Dockerfile": 1414
+        }
+    },
+    {
+        "name": "elm-format",
+        "description": "elm-format formats Elm source code according to a standard set of rules based on the official Elm Style Guide",
+        "languages": {
+            "Haskell": 629039,
+            "Elm": 242855,
+            "JavaScript": 122892,
+            "HTML": 76618,
+            "Nix": 25971,
+            "Python": 13743,
+            "Shell": 11565,
+            "Lua": 10991,
+            "Dockerfile": 2492,
+            "Makefile": 1937,
+            "Batchfile": 402,
+            "PowerShell": 197,
+            "CSS": 46
+        }
+    },
+    {
+        "name": "gifcurry",
+        "description": "\ud83d\ude0e The open-source, Haskell-built video editor for GIF makers.",
+        "languages": {
+            "Haskell": 259921,
+            "CSS": 14551,
+            "Makefile": 4542,
+            "Shell": 4022
+        }
+    },
+    {
+        "name": "ImplicitCAD",
+        "description": "A math-inspired CAD program in haskell. CSG, bevels, and shells; 2D & 3D geometry; 2D gcode generation...",
+        "languages": {
+            "Haskell": 458488,
+            "JavaScript": 62040,
+            "Makefile": 8417,
+            "Nix": 2199,
+            "OpenSCAD": 625
+        }
+    },
+    {
+        "name": "fay",
+        "description": "A proper subset of Haskell that compiles to JavaScript",
+        "languages": {
+            "Haskell": 460229,
+            "ReScript": 1072,
+            "Shell": 458
+        }
+    },
+    {
+        "name": "greenclip",
+        "description": "Simple clipboard manager to be integrated with rofi - Static binary available",
+        "languages": {
+            "Haskell": 24588,
+            "Dockerfile": 1367
+        }
+    },
+    {
+        "name": "articles",
+        "description": "Miscellaneous articles. The readme is the table of contents.",
+        "languages": {
+            "Haskell": 39067,
+            "HTML": 19737,
+            "Makefile": 67
+        }
+    },
+    {
+        "name": "codeworld",
+        "description": "Educational computer programming environment using Haskell",
+        "languages": {
+            "Haskell": 837109,
+            "JavaScript": 256859,
+            "CSS": 50687,
+            "HTML": 41275,
+            "Shell": 24439,
+            "Dockerfile": 299
+        }
+    },
+    {
+        "name": "aeson",
+        "description": "A fast Haskell JSON library",
+        "languages": {
+            "Haskell": 882758,
+            "Shell": 1980,
+            "Makefile": 156
+        }
+    },
+    {
+        "name": "fossa-cli",
+        "description": "Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.",
+        "languages": {
+            "Haskell": 2979958,
+            "Rust": 143109,
+            "Shell": 40745,
+            "PowerShell": 7677,
+            "Makefile": 6281,
+            "Python": 1284,
+            "Nix": 893
+        }
+    },
+    {
+        "name": "course-plan",
+        "description": "\ud83d\udcdc Haskell course info, plan, video lectures, slides",
+        "languages": {
+            "Haskell": 71
+        }
+    },
+    {
+        "name": "developers-roadmap",
+        "description": "How to learn front-end or back-end development",
+        "languages": {
+            "Haskell": 3086
+        }
+    },
+    {
+        "name": "liquidhaskell",
+        "description": "Liquid Types For Haskell",
+        "languages": {
+            "Haskell": 8759281,
+            "C": 286667,
+            "Shell": 32836,
+            "Python": 27299,
+            "M4": 6833,
+            "Roff": 5983,
+            "Makefile": 4148,
+            "Perl": 3973,
+            "Gnuplot": 1277,
+            "Nix": 811,
+            "Ruby": 581,
+            "CSS": 572,
+            "R": 482
+        }
+    },
+    {
+        "name": "ghcid",
+        "description": "Very low feature GHCi based IDE",
+        "languages": {
+            "Haskell": 90827,
+            "TypeScript": 10862,
+            "Vim Script": 9000,
+            "Emacs Lisp": 4681
+        }
+    },
+    {
+        "name": "haskell-must-watch",
+        "description": "Huge list of  videos, talks, courses for Haskell programming language.",
+        "languages": {
+            "Haskell": 7413
+        }
+    },
+    {
+        "name": "cryptol",
+        "description": "Cryptol: The Language of Cryptography",
+        "languages": {
+            "Haskell": 1969899,
+            "Python": 205513,
+            "Dockerfile": 7602,
+            "Shell": 6165,
+            "Vim Script": 5101,
+            "C": 4223,
+            "Smarty": 1892,
+            "Makefile": 1685
+        }
+    },
+    {
+        "name": "reanimate",
+        "description": "Haskell library for building declarative animations based on SVG graphics",
+        "languages": {
+            "Haskell": 753899,
+            "Elm": 30928,
+            "Nix": 2377,
+            "Shell": 191
+        }
+    },
+    {
+        "name": "kitten",
+        "description": "A statically typed concatenative systems programming language.",
+        "languages": {
+            "Haskell": 427607,
+            "C": 31251,
+            "Makefile": 3638,
+            "Emacs Lisp": 2760,
+            "Vim Script": 1896
+        }
+    },
+    {
+        "name": "queryparser",
+        "description": "Parsing and analysis of Vertica, Hive, and Presto SQL.",
+        "languages": {
+            "Haskell": 1280577
+        }
+    },
+    {
+        "name": "reflex",
+        "description": "Interactive programs without callbacks or side-effects. Functional Reactive Programming (FRP) uses composable events and time-varying values to describe interactive systems as pure functions. Just like other pure functional code, functional reactive code is easier to get right on the first try, maintain, and reuse.",
+        "languages": {
+            "Haskell": 570485,
+            "C": 7750,
+            "Nix": 7333,
+            "Shell": 92
+        }
+    },
+    {
+        "name": "software-design-in-haskell",
+        "description": "Software Design in Haskell. A structured set of materials. How to build real-world applications in Haskell.",
+        "languages": {
+            "Haskell": 258
+        }
+    },
+    {
+        "name": "HaLVM",
+        "description": "The Haskell Lightweight Virtual Machine (HaLVM): GHC running on Xen",
+        "languages": {
+            "Haskell": 241107,
+            "C": 32664,
+            "Makefile": 22235,
+            "Assembly": 16353,
+            "M4": 13571,
+            "Shell": 5801,
+            "C++": 2306
+        }
+    },
+    {
+        "name": "fp-course",
+        "description": "Functional Programming Course",
+        "languages": {
+            "Haskell": 333906,
+            "Java": 17447,
+            "Scala": 11135,
+            "Idris": 7507,
+            "Nix": 3631,
+            "Agda": 2849,
+            "Emacs Lisp": 1113
+        }
+    },
+    {
+        "name": "polysemy",
+        "description": ":gemini: higher-order, no-boilerplate monads",
+        "languages": {
+            "Haskell": 290174,
+            "Nix": 3415
+        }
+    },
+    {
+        "name": "kaleidoscope",
+        "description": "Haskell LLVM JIT Compiler Tutorial",
+        "languages": {
+            "Haskell": 97419,
+            "CSS": 3003,
+            "Makefile": 1419,
+            "C": 1194,
+            "LLVM": 359,
+            "Shell": 127
+        }
+    },
+    {
+        "name": "grin",
+        "description": "GRIN is a compiler back-end for lazy and strict functional languages with whole program optimization support.",
+        "languages": {
+            "Haskell": 1372755,
+            "LLVM": 70369,
+            "Assembly": 69117,
+            "C++": 37075,
+            "TeX": 13722,
+            "C": 12010,
+            "Nix": 8362,
+            "Roff": 991,
+            "Shell": 642
+        }
+    },
+    {
+        "name": "intero",
+        "description": null,
+        "languages": {
+            "Haskell": 288090,
+            "Emacs Lisp": 163775,
+            "C": 3033,
+            "Shell": 623,
+            "C++": 307
+        }
+    },
+    {
+        "name": "hasktorch",
+        "description": "Tensors and neural networks in Haskell",
+        "languages": {
+            "Haskell": 5529051,
+            "Nix": 22228,
+            "C++": 19513,
+            "HTML": 13053,
+            "Jupyter Notebook": 10700,
+            "Shell": 4375,
+            "Python": 2197,
+            "CSS": 1699,
+            "C": 1376,
+            "Dockerfile": 1253
+        }
+    },
+    {
+        "name": "kit",
+        "description": "Kit: a magical, high performance programming language, designed for game development.",
+        "languages": {
+            "Haskell": 538441,
+            "Kit": 140182,
+            "Yacc": 28454,
+            "Logos": 9216,
+            "Shell": 5414,
+            "Vim Script": 3207,
+            "C": 1161
+        }
+    },
+    {
+        "name": "matterhorn",
+        "description": "A feature-rich Unix terminal client for the Mattermost chat system",
+        "languages": {
+            "Haskell": 1033238,
+            "Shell": 19004
+        }
+    },
+    {
+        "name": "leksah",
+        "description": "Haskell IDE",
+        "languages": {
+            "Haskell": 1421775,
+            "JavaScript": 731170,
+            "HTML": 410645,
+            "CSS": 122309,
+            "Makefile": 116493,
+            "Shell": 42446,
+            "Nix": 14355,
+            "Dockerfile": 11196,
+            "NSIS": 6677,
+            "Ruby": 5535,
+            "Batchfile": 2371,
+            "XSLT": 851
+        }
+    },
+    {
+        "name": "LtuPatternFactory",
+        "description": "Lambda the ultimate Pattern Factory: FP, Haskell, Typeclassopedia vs Software Design Patterns",
+        "languages": {
+            "Haskell": 60419
+        }
+    },
+    {
+        "name": "learn4haskell",
+        "description": "\ud83d\udc69\u200d\ud83c\udfeb \ud83d\udc68\u200d\ud83c\udfeb Learn Haskell basics in 4 pull requests",
+        "languages": {
+            "Haskell": 118829,
+            "Makefile": 1647
+        }
+    },
+    {
+        "name": "linux_notification_center",
+        "description": "A notification daemon/center for linux",
+        "languages": {
+            "Haskell": 93227,
+            "Makefile": 4213,
+            "Shell": 3145,
+            "CSS": 1950
+        }
+    },
+    {
+        "name": "stylish-haskell",
+        "description": "Haskell code prettifier",
+        "languages": {
+            "Haskell": 332983,
+            "Nix": 2423,
+            "Makefile": 1617,
+            "Shell": 1047
+        }
+    },
+    {
+        "name": "toodles",
+        "description": "Project management directly from the TODOs in your codebase",
+        "languages": {
+            "Haskell": 43825,
+            "HTML": 10152,
+            "JavaScript": 8399,
+            "CSS": 2051,
+            "Python": 649
+        }
+    },
+    {
+        "name": "turtle",
+        "description": "Shell programming, Haskell style",
+        "languages": {
+            "Haskell": 220667,
+            "Nix": 1436
+        }
+    },
+    {
+        "name": "obelisk",
+        "description": "Functional reactive web and mobile applications, with batteries included.",
+        "languages": {
+            "Haskell": 350158,
+            "Nix": 55802,
+            "C": 1235,
+            "Shell": 400,
+            "JavaScript": 206,
+            "CSS": 21
+        }
+    },
+    {
+        "name": "ormolu",
+        "description": "A formatter for Haskell source code",
+        "languages": {
+            "Haskell": 545365,
+            "Nix": 17479,
+            "PureScript": 9481,
+            "JavaScript": 2186,
+            "Shell": 1354,
+            "C": 909,
+            "HTML": 298,
+            "SCSS": 144
+        }
+    },
+    {
+        "name": "radicle-alpha",
+        "description": "A peer-to-peer stack for code collaboration",
+        "languages": {
+            "Haskell": 301299,
+            "Shell": 13002,
+            "Dockerfile": 1912,
+            "Nix": 332,
+            "Ruby": 41
+        }
+    },
+    {
+        "name": "egison",
+        "description": "The Egison Programming Language",
+        "languages": {
+            "Haskell": 340106,
+            "Emacs Lisp": 13922,
+            "Python": 5216
+        }
+    },
+    {
+        "name": "optparse-applicative",
+        "description": "Applicative option parser",
+        "languages": {
+            "Haskell": 151861
+        }
+    },
+    {
+        "name": "megaparsec",
+        "description": "Industrial-strength monadic parser combinator library",
+        "languages": {
+            "Haskell": 408130,
+            "Nix": 4979
+        }
+    },
+    {
+        "name": "accelerate",
+        "description": "Embedded language for high-performance array computations",
+        "languages": {
+            "Haskell": 1928651,
+            "C": 107872,
+            "C++": 11213,
+            "Shell": 1503
+        }
+    },
+    {
+        "name": "pandoc-crossref",
+        "description": "Pandoc filter for cross-references",
+        "languages": {
+            "Haskell": 130344,
+            "SourcePawn": 48314,
+            "TeX": 31656,
+            "Nix": 3862,
+            "Makefile": 1258,
+            "Shell": 1125
+        }
+    },
+    {
+        "name": "conduit",
+        "description": "A streaming data library",
+        "languages": {
+            "Haskell": 639162,
+            "C": 1120
+        }
+    },
+    {
+        "name": "bsc",
+        "description": "Bluespec Compiler (BSC)",
+        "languages": {
+            "Haskell": 5719868,
+            "Bluespec": 1531223,
+            "Emacs Lisp": 1243802,
+            "C++": 481166,
+            "Verilog": 330494,
+            "Shell": 96366,
+            "Tcl": 88159,
+            "C": 76846,
+            "Makefile": 52673,
+            "Vim Script": 25155,
+            "Smalltalk": 4733,
+            "Perl": 3583,
+            "Roff": 3558,
+            "Python": 913,
+            "Dockerfile": 512
+        }
+    },
+    {
+        "name": "project-m36",
+        "description": "Project: M36 Relational Algebra Engine",
+        "languages": {
+            "Haskell": 977746,
+            "Jupyter Notebook": 53882,
+            "JavaScript": 16520,
+            "Nix": 9448,
+            "HTML": 8323,
+            "Python": 7479,
+            "C": 1310,
+            "PLpgSQL": 1272,
+            "PostScript": 406,
+            "Shell": 377
+        }
+    },
+    {
+        "name": "detexify-hs-backend",
+        "description": "Detexify Backend written in Haskell",
+        "languages": {
+            "Haskell": 24941,
+            "Ruby": 119,
+            "Shell": 118
+        }
+    },
+    {
+        "name": "bench",
+        "description": "Command-line benchmark tool",
+        "languages": {
+            "Haskell": 3878,
+            "Nix": 2203
+        }
+    },
+    {
+        "name": "unused",
+        "description": "Deprecated; see https://github.com/unused-code/unused",
+        "languages": {
+            "Haskell": 88108,
+            "Dockerfile": 892
+        }
+    },
+    {
+        "name": "tetris",
+        "description": "A terminal interface for Tetris",
+        "languages": {
+            "Haskell": 23785,
+            "Dockerfile": 438
+        }
+    },
+    {
+        "name": "streamly",
+        "description": "High performance, concurrent functional programming abstractions",
+        "languages": {
+            "Haskell": 4166465,
+            "Nix": 26224,
+            "Shell": 15303,
+            "C": 8284,
+            "Objective-C": 8261,
+            "M4": 1555,
+            "JavaScript": 876
+        }
+    },
+    {
+        "name": "rio",
+        "description": "A standard library for Haskell",
+        "languages": {
+            "Haskell": 225621
+        }
+    },
+    {
+        "name": "parsec",
+        "description": "A monadic parser combinator library",
+        "languages": {
+            "Haskell": 137839
+        }
+    },
+    {
+        "name": "waymonad",
+        "description": "A wayland compositor based on ideas from and inspired by xmonad",
+        "languages": {
+            "Haskell": 578428,
+            "C": 2199,
+            "Shell": 910
+        }
+    },
+    {
+        "name": "neut",
+        "description": "A dependently-typed programming language with static memory management",
+        "languages": {
+            "Haskell": 719959,
+            "JavaScript": 183610,
+            "CSS": 10476,
+            "Shell": 8924,
+            "TypeScript": 4934,
+            "Handlebars": 2952,
+            "Dockerfile": 1486,
+            "C": 51
+        }
+    },
+    {
+        "name": "Rome",
+        "description": "Carthage cache for S3, Minio, Ceph, Google Storage, Artifactory and many others ",
+        "languages": {
+            "Haskell": 224679,
+            "Shell": 134686,
+            "Python": 2594,
+            "Ruby": 2231
+        }
+    },
+    {
+        "name": "wai",
+        "description": "Haskell Web Application Interface",
+        "languages": {
+            "Haskell": 766600,
+            "HTML": 2831,
+            "JavaScript": 2261,
+            "CSS": 1124
+        }
+    },
+    {
+        "name": "swarm",
+        "description": "Resource gathering + programming game",
+        "languages": {
+            "Haskell": 1357563,
+            "Sway": 45373,
+            "Shell": 10083,
+            "Emacs Lisp": 4561,
+            "JavaScript": 4252,
+            "HTML": 2154,
+            "CSS": 1337,
+            "Vim Script": 1303,
+            "TypeScript": 1184,
+            "Lua": 147
+        }
+    },
+    {
+        "name": "cachix",
+        "description": "Command line client for Nix binary cache hosting:",
+        "languages": {
+            "Haskell": 311513,
+            "Nix": 5067
+        }
+    },
+    {
+        "name": "elm-platform",
+        "description": "Bundle of all core development tools for Elm",
+        "languages": {
+            "Haskell": 8147,
+            "NSIS": 7992,
+            "JavaScript": 7872,
+            "Shell": 3067,
+            "Visual Basic": 1096,
+            "Batchfile": 473
+        }
+    },
+    {
+        "name": "shake",
+        "description": "Shake build system",
+        "languages": {
+            "Haskell": 734924,
+            "TeX": 120595,
+            "JavaScript": 105139,
+            "TypeScript": 41832,
+            "HTML": 18288,
+            "C#": 18044,
+            "Shell": 548,
+            "C": 417,
+            "CSS": 214
+        }
+    },
+    {
+        "name": "sixten",
+        "description": "Functional programming with fewer indirections",
+        "languages": {
+            "Haskell": 521673,
+            "Vim Script": 3014,
+            "LLVM": 244
+        }
+    },
+    {
+        "name": "cardano-wallet",
+        "description": "HTTP server & command-line for managing UTxOs and HD wallets in Cardano.",
+        "languages": {
+            "Haskell": 7475174,
+            "Markdown": 451293,
+            "Ruby": 384769,
+            "Nix": 84645,
+            "Shell": 45515,
+            "Lean": 8661,
+            "Just": 4182,
+            "Dockerfile": 3298,
+            "Agda": 2503,
+            "Dhall": 2023,
+            "HTML": 1784
+        }
+    },
+    {
+        "name": "espial",
+        "description": " Espial is an open-source, web-based bookmarking server.",
+        "languages": {
+            "Haskell": 99053,
+            "PureScript": 62720,
+            "Python": 4603,
+            "CSS": 4466,
+            "Makefile": 2320,
+            "JavaScript": 1816,
+            "Dhall": 1682,
+            "Shell": 285,
+            "Dockerfile": 106
+        }
+    },
+    {
+        "name": "hspec",
+        "description": "A Testing Framework for Haskell",
+        "languages": {
+            "Haskell": 427354,
+            "Python": 4729,
+            "Shell": 1292
+        }
+    },
+    {
+        "name": "emanote",
+        "description": "Emanate a structured view of your plain-text notes",
+        "languages": {
+            "Haskell": 191390,
+            "HTML": 45177,
+            "Nix": 19071,
+            "CSS": 6645,
+            "Just": 615
+        }
+    },
+    {
+        "name": "pboy",
+        "description": "a small .pdf management tool with a command-line UI",
+        "languages": {
+            "Haskell": 35354,
+            "Nix": 640,
+            "Shell": 614
+        }
+    },
+    {
+        "name": "oden",
+        "description": "The Oden Programming Language (NO LONGER IN ACTIVE DEVELOPMENT)",
+        "languages": {
+            "Haskell": 422894,
+            "Go": 8174,
+            "Shell": 3575,
+            "Makefile": 2936
+        }
+    },
+    {
+        "name": "hoogle",
+        "description": "Haskell API search engine",
+        "languages": {
+            "Haskell": 200177,
+            "JavaScript": 59226,
+            "CSS": 19002,
+            "HTML": 5235,
+            "C": 3794,
+            "Batchfile": 127
+        }
+    },
+    {
+        "name": "glance",
+        "description": "A visual Haskell",
+        "languages": {
+            "Haskell": 213210
+        }
+    },
+    {
+        "name": "distributed-process",
+        "description": "Cloud Haskell core library",
+        "languages": {
+            "Haskell": 449862,
+            "Erlang": 3018,
+            "Nix": 1821
+        }
+    },
+    {
+        "name": "alga",
+        "description": "Algebraic graphs",
+        "languages": {
+            "Haskell": 951522
+        }
+    },
+    {
+        "name": "cgrep",
+        "description": "Cgrep: a context-aware grep for source codes",
+        "languages": {
+            "Haskell": 320197,
+            "Lua": 965,
+            "Ruby": 882,
+            "PHP": 873,
+            "Go": 817,
+            "C++": 789,
+            "F#": 699,
+            "Perl": 683,
+            "JavaScript": 633,
+            "Chapel": 623,
+            "CoffeeScript": 620,
+            "Python": 446,
+            "Shell": 441,
+            "OCaml": 440,
+            "Zig": 348,
+            "Makefile": 315,
+            "HTML": 275,
+            "Dhall": 265,
+            "Erlang": 259,
+            "CMake": 258,
+            "TeX": 239,
+            "C": 124
+        }
+    },
+    {
+        "name": "dnngraph",
+        "description": "A DSL for deep neural networks, supporting Caffe and Torch",
+        "languages": {
+            "Haskell": 38665,
+            "Protocol Buffer": 35515,
+            "Python": 470,
+            "Shell": 334,
+            "Lua": 59
+        }
+    },
+    {
+        "name": "summoner",
+        "description": "\ud83d\udd2e \ud83d\udd27 Tool for scaffolding batteries-included production-level Haskell projects",
+        "languages": {
+            "Haskell": 188305,
+            "Mustache": 311
+        }
+    },
+    {
+        "name": "quickcheck",
+        "description": "Automatic testing of Haskell programs.",
+        "languages": {
+            "Haskell": 249329,
+            "Shell": 1569
+        }
+    },
+    {
+        "name": "hstream",
+        "description": "HStreamDB is an open-source, cloud-native streaming database for IoT and beyond. Modernize your data stack for real-time applications.",
+        "languages": {
+            "Haskell": 3175529,
+            "C++": 290609,
+            "Python": 141438,
+            "Thrift": 70079,
+            "Dockerfile": 7361,
+            "Makefile": 6099,
+            "Shell": 3054,
+            "Smarty": 2533,
+            "C": 2213,
+            "Pawn": 1473
+        }
+    },
+    {
+        "name": "relude",
+        "description": "\ud83c\udf00 Safe, performant, user-friendly and lightweight Haskell standard library",
+        "languages": {
+            "Haskell": 226288,
+            "Dhall": 54360
+        }
+    },
+    {
+        "name": "brittany",
+        "description": "haskell source code formatter",
+        "languages": {
+            "Haskell": 537851,
+            "Dockerfile": 870
+        }
+    },
+    {
+        "name": "taffybar",
+        "description": "A gtk based status bar for tiling window managers such as XMonad",
+        "languages": {
+            "Haskell": 323388,
+            "Nix": 6900,
+            "CSS": 2546
+        }
+    },
+    {
+        "name": "Spock",
+        "description": "Another Haskell web framework for rapid development",
+        "languages": {
+            "Haskell": 160326,
+            "Shell": 433
+        }
+    },
+    {
+        "name": "ghc-mod",
+        "description": "Happy Haskell Hacking for editors. DEPRECATED",
+        "languages": {
+            "Haskell": 389099,
+            "Emacs Lisp": 68129,
+            "Shell": 14929,
+            "TeX": 1767,
+            "Makefile": 1366
+        }
+    },
+    {
+        "name": "haskell-hedgehog",
+        "description": "Release with confidence, state-of-the-art property testing for Haskell.",
+        "languages": {
+            "Haskell": 341892
+        }
+    },
+    {
+        "name": "nix-output-monitor",
+        "description": "Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.",
+        "languages": {
+            "Haskell": 144804,
+            "Nix": 6692,
+            "Shell": 951,
+            "Dhall": 80
+        }
+    },
+    {
+        "name": "Haskell-Data-Analysis-Cookbook",
+        "description": "Accompanying Source Code for the Haskell Data Analysis Cookbook",
+        "languages": {
+            "Haskell": 103070,
+            "Makefile": 10946,
+            "HTML": 865
+        }
+    },
+    {
+        "name": "stanford-cs240h",
+        "description": "Course materials for Stanford CS240h, \"Functional Systems in Haskell\"",
+        "languages": {
+            "Haskell": 17822,
+            "Perl": 4304
+        }
+    },
+    {
+        "name": "fused-effects",
+        "description": "A fast, flexible, fused effect system for Haskell",
+        "languages": {
+            "Haskell": 190717,
+            "Shell": 2663
+        }
+    },
+    {
+        "name": "tip-toi-reveng",
+        "description": "Trying to understand the file format of Tip Toi",
+        "languages": {
+            "Haskell": 349160,
+            "C": 52111,
+            "Perl": 44909,
+            "HTML": 25601,
+            "Nix": 15143,
+            "Shell": 10051,
+            "Python": 7228,
+            "CSS": 3286,
+            "JavaScript": 1297,
+            "Makefile": 946,
+            "Batchfile": 817
+        }
+    },
+    {
+        "name": "haskell-exercises",
+        "description": "A little course to learn about some of the more obscure GHC extensions.",
+        "languages": {
+            "Haskell": 111924
+        }
+    },
+    {
+        "name": "transient",
+        "description": "A full stack, reactive architecture for general purpose programming.  Algebraic and monadically composable primitives for concurrency, parallelism, event handling, transactions, multithreading, Web, and distributed computing with complete de-inversion of control (No callbacks, no blocking, pure state)",
+        "languages": {
+            "Haskell": 420296,
+            "Dockerfile": 559
+        }
+    },
+    {
+        "name": "tasty",
+        "description": "Modern and extensible testing framework for Haskell",
+        "languages": {
+            "Haskell": 223528,
+            "Shell": 4335,
+            "Awk": 453,
+            "R": 328
+        }
+    },
+    {
+        "name": "applied-fp-course",
+        "description": "Applied Functional Programming Course - Move from exercises to a working app!",
+        "languages": {
+            "Haskell": 117481,
+            "Nix": 1673
+        }
+    },
+    {
+        "name": "purescript-native",
+        "description": "A native compiler backend for PureScript (via C++ or Golang)",
+        "languages": {
+            "Haskell": 85654,
+            "Nix": 1391,
+            "Go": 1337
+        }
+    },
+    {
+        "name": "forest-compiler",
+        "description": "A multi-syntax functional programming language that compiles to WebAssembly.",
+        "languages": {
+            "Haskell": 108434,
+            "Ruby": 4116,
+            "JavaScript": 2311,
+            "Nix": 853,
+            "Makefile": 244
+        }
+    },
+    {
+        "name": "LambdaHack",
+        "description": "Haskell game engine library for roguelike dungeon crawlers; please offer feedback, e.g., after trying out the sample game with the web frontend at",
+        "languages": {
+            "Haskell": 2490275,
+            "Makefile": 27824,
+            "NSIS": 4410,
+            "JavaScript": 145
+        }
+    },
+    {
+        "name": "rasa",
+        "description": "Extremely modular text editor built in Haskell",
+        "languages": {
+            "Haskell": 95523
+        }
+    },
+    {
+        "name": "hpack",
+        "description": "hpack: A modern format for Haskell packages",
+        "languages": {
+            "Haskell": 327137,
+            "Shell": 11129
+        }
+    },
+    {
+        "name": "nix-tree",
+        "description": "Interactively browse dependency graphs of Nix derivations.",
+        "languages": {
+            "Haskell": 47836,
+            "Nix": 1993,
+            "Shell": 1394
+        }
+    },
+    {
+        "name": "FP-Course-ITMO",
+        "description": "Slides and other materials for functional programming lectures ITMO university",
+        "languages": {
+            "Haskell": 15368,
+            "Nix": 775
+        }
+    },
+    {
+        "name": "legion",
+        "description": "Simple blockchain server written in Haskell for educational purposes",
+        "languages": {
+            "Haskell": 15641
+        }
+    },
+    {
+        "name": "helm",
+        "description": "A functionally reactive game engine, with headgear to protect you from the headache of game development provided.",
+        "languages": {
+            "Haskell": 91242
+        }
+    },
+    {
+        "name": "haskell-opaleye",
+        "description": null,
+        "languages": {
+            "Haskell": 647051
+        }
+    },
+    {
+        "name": "copilot",
+        "description": "A stream-based runtime-verification framework for generating hard real-time C code.",
+        "languages": {
+            "Haskell": 615400,
+            "Shell": 202
+        }
+    },
+    {
+        "name": "ghcide",
+        "description": "A library for building Haskell IDE tooling",
+        "languages": {
+            "Haskell": 985929,
+            "Nix": 8211,
+            "C": 760,
+            "Batchfile": 588,
+            "Shell": 173
+        }
+    },
+    {
+        "name": "amazonka",
+        "description": "A comprehensive Amazon Web Services SDK for Haskell.",
+        "languages": {
+            "Haskell": 270522420,
+            "Shell": 4826,
+            "Nix": 4588
+        }
+    },
+    {
+        "name": "reach-lang",
+        "description": "Reach: The Safest and Smartest DApp Programming Language",
+        "languages": {
+            "Haskell": 1356981,
+            "TypeScript": 964705,
+            "JavaScript": 393814,
+            "Shell": 47075,
+            "Python": 28808,
+            "Makefile": 22527,
+            "HTML": 9636,
+            "MDX": 9555,
+            "Dockerfile": 8545,
+            "Solidity": 7094,
+            "C#": 5789,
+            "Go": 4540,
+            "SMT": 3569,
+            "CSS": 2715,
+            "Racket": 1330
+        }
+    },
+    {
+        "name": "hakatime",
+        "description": "Wakatime server implementation & analytics dashboard",
+        "languages": {
+            "Haskell": 159443,
+            "JavaScript": 98806,
+            "CSS": 3123,
+            "Nix": 2469,
+            "Dockerfile": 1949,
+            "PLpgSQL": 1742,
+            "Shell": 996,
+            "HTML": 828,
+            "Makefile": 441
+        }
+    },
+    {
+        "name": "HaskellR",
+        "description": "The full power of R in Haskell.",
+        "languages": {
+            "Haskell": 258269,
+            "R": 33095,
+            "Nix": 6229,
+            "Jupyter Notebook": 5268,
+            "Batchfile": 4018,
+            "C": 3559,
+            "Shell": 1905,
+            "Makefile": 1738,
+            "Dockerfile": 465,
+            "Rez": 59
+        }
+    },
+    {
+        "name": "Perspec",
+        "description": "Scriptable desktop app to correct the perspective of images",
+        "languages": {
+            "Haskell": 48554,
+            "Shell": 1314,
+            "Makefile": 1268,
+            "HTML": 282
+        }
+    },
+    {
+        "name": "pact",
+        "description": "The Pact Smart Contract Language",
+        "languages": {
+            "Haskell": 2573416,
+            "Pact": 239733,
+            "C": 78618,
+            "Shell": 6042,
+            "Nix": 3131
+        }
+    },
+    {
+        "name": "beam",
+        "description": "A type-safe, non-TH Haskell SQL library and ORM",
+        "languages": {
+            "Haskell": 1097389,
+            "PLpgSQL": 50741,
+            "Shell": 7206,
+            "Nix": 3031
+        }
+    },
+    {
+        "name": "hython",
+        "description": "Haskell-powered Python 3 interpreter",
+        "languages": {
+            "Haskell": 83801,
+            "Python": 32454,
+            "Yacc": 21319,
+            "Makefile": 280
+        }
+    },
+    {
+        "name": "xmonad-contrib",
+        "description": "Contributed modules for xmonad",
+        "languages": {
+            "Haskell": 2491852,
+            "C": 4413,
+            "Shell": 3754,
+            "Nix": 1757
+        }
+    },
+    {
+        "name": "granule",
+        "description": "A statically-typed linear functional language with graded modal types for fine-grained program reasoning",
+        "languages": {
+            "Haskell": 1073680,
+            "Agda": 169415,
+            "Yacc": 34927,
+            "Lex": 8867,
+            "Nix": 3909,
+            "Dockerfile": 1125
+        }
+    },
+    {
+        "name": "elaboration-zoo",
+        "description": "Minimal implementations for dependent type checking and elaboration",
+        "languages": {
+            "Haskell": 374530,
+            "Agda": 2104
+        }
+    },
+    {
+        "name": "stan",
+        "description": "\ud83d\udd75\ufe0f Haskell STatic ANalyser",
+        "languages": {
+            "Haskell": 292643,
+            "HTML": 68908,
+            "Shell": 523
+        }
+    },
+    {
+        "name": "monomer",
+        "description": "An easy to use, cross platform, GUI library for writing Haskell applications.",
+        "languages": {
+            "Haskell": 1514398,
+            "C": 8574,
+            "Nix": 6130,
+            "Shell": 545
+        }
+    },
+    {
+        "name": "cubicaltt",
+        "description": "Experimental implementation of Cubical Type Theory",
+        "languages": {
+            "Haskell": 118159,
+            "Emacs Lisp": 8043,
+            "Makefile": 3163,
+            "Vim Script": 879
+        }
+    },
+    {
+        "name": "hindent",
+        "description": "Haskell pretty printer",
+        "languages": {
+            "Haskell": 329837,
+            "Emacs Lisp": 11308,
+            "Shell": 1463,
+            "Dockerfile": 778,
+            "Nix": 367
+        }
+    },
+    {
+        "name": "scheme",
+        "description": "Write You a Scheme",
+        "languages": {
+            "Haskell": 54032,
+            "Scheme": 13347,
+            "Shell": 1056
+        }
+    },
+    {
+        "name": "eff",
+        "description": "\ud83d\udea7 a work in progress effect system for Haskell \ud83d\udea7",
+        "languages": {
+            "Haskell": 56187
+        }
+    },
+    {
+        "name": "zero-bs-haskell",
+        "description": "Learn Haskell, with tiny lessons.",
+        "languages": {
+            "Haskell": 28040,
+            "JavaScript": 17684,
+            "HTML": 6353,
+            "Makefile": 702,
+            "Shell": 658
+        }
+    },
+    {
+        "name": "config-files",
+        "description": "A collection of my config files.",
+        "languages": {
+            "Haskell": 188136,
+            "Shell": 6964,
+            "Vim Script": 6666,
+            "Batchfile": 538
+        }
+    },
+    {
+        "name": "pi-forall",
+        "description": "A demo implementation of a simple dependently-typed language",
+        "languages": {
+            "Haskell": 587738,
+            "Makefile": 13417
+        }
+    },
+    {
+        "name": "bulletproofs",
+        "description": "Bulletproofs are short non-interactive zero-knowledge proofs that require no trusted setup ",
+        "languages": {
+            "Haskell": 75955
+        }
+    },
+    {
+        "name": "reactive-banana",
+        "description": "Library for functional reactive programming in Haskell.",
+        "languages": {
+            "Haskell": 253093,
+            "TeX": 38238,
+            "Makefile": 2068,
+            "Shell": 255
+        }
+    },
+    {
+        "name": "haskoin-core",
+        "description": "Haskoin Core is a Bitcoin and Bitcoin Cash library",
+        "languages": {
+            "Haskell": 674979,
+            "Shell": 17123
+        }
+    },
+    {
+        "name": "stgi",
+        "description": "A user-centric visual STG implementation to help understand GHC/Haskell's execution model.",
+        "languages": {
+            "Haskell": 304288,
+            "Shell": 2147
+        }
+    },
+    {
+        "name": "FP101x-Content-2015",
+        "description": "FP101x - Functional Programming MOOC 2015 Content Repository",
+        "languages": {
+            "Haskell": 36988
+        }
+    },
+    {
+        "name": "attoparsec",
+        "description": "A fast Haskell library for parsing ByteStrings",
+        "languages": {
+            "Haskell": 238861,
+            "Makefile": 112
+        }
+    },
+    {
+        "name": "hasql",
+        "description": "The fastest PostgreSQL libpq-based driver for Haskell",
+        "languages": {
+            "Haskell": 118056,
+            "Shell": 329
         }
     }
 ]

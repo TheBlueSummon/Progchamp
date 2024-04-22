@@ -3,14 +3,14 @@
         "name": "hertzbeat",
         "description": "Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.",
         "languages": {
-            "Java": 2270587,
+            "Java": 2295249,
             "TypeScript": 499065,
             "HTML": 331072,
             "Less": 308546,
-            "JavaScript": 35697,
+            "JavaScript": 35796,
             "CSS": 30525,
-            "Shell": 25248,
-            "Batchfile": 7330,
+            "Shell": 25783,
+            "Batchfile": 7623,
             "Dockerfile": 3348,
             "Smarty": 1877,
             "Makefile": 821
@@ -53,6 +53,1640 @@
             "HTML": 18681,
             "CSS": 1906,
             "Python": 1497
+        }
+    },
+    {
+        "name": "JavaCode",
+        "description": "I specifically cover the following topics: Java primitive data types, declaration statements, expression statements, importing class libraries, excepting user input, checking for valid input, catching errors in input, math functions, if statement, relational operators, logical operators, ternary operator, switch statement, and looping.   How class variables differ from local variables, Java Exception handling, the difference between run time and checked exceptions, Arrays, and UML Diagrams.  Monsters gameboard, Java collection classes, Java ArrayLists, Linked Lists, manipulating Strings and StringBuilders, Polymorphism, Inheritance, Protected, Final, Instanceof, interfaces, abstract classes, abstract methods.  You need interfaces and abstract classes because Java doesn't allow you to inherit from more than one other class.  Java threads, Regular Expressions, Graphical User Interfaces (GUI) using Java Swing and its components, GUI Event Handling, ChangeListener, JOptionPane, combo boxes, list boxes, JLists, DefaultListModel, using JScrollpane with JList, JSpinner, JTree, Flow, Border, and Box Layout Managers.  Created a calculator layout with Java Swing's GridLayout, GridBagLayout, GridBagConstraints, Font, and Insets.  JLabel, JTextField, JComboBox, JSpinner, JSlider, JRadioButton, ButtonGroup, JCheckBox, JTextArea, JScrollPane, ChangeListener, pack, create and delete files and directories. How to pull lists of files from directories and manipulate them, write to and read character streams from files. PrintWriter, BufferedWriter, FileWriter, BufferedReader, FileReader, common file exceptions  Binary Streams - DataOutputStream, FileOutputStream, BufferedOutputStream, all of the reading and writing primitive type methods, setup Java JDBC in Eclipse, connect to a MySQL database, query it and get the results of a query.  JTables, JEditorPane Swing component. HyperlinkEvent and HyperlinkListener.  Java JApplet, Java Servlets with Tomcat, GET and POST methods, Java Server Pages, parsing XML with Java, Java XPath, JDOM2 library, and 2D graphics.   *Created a Java Paint Application using swing, events, mouse events, Graphics2D, ArrayList  *Designed a Java Video Game like Asteroids with collision detection and shooting torpedos which also played sound in a JFrame, and removed items from the screen when they were destroyed.  Rotating polygons, and Making Java Executable.  Model View Controller (MVC) The Model is the class that contains the data and the methods needed to use the data. The View is the interface. The Controller coordinates interactions between the Model and View.  DESIGN PATTERNS:  Strategy design patternis used if you need to dynamically change an algorithm used by an object at run time. The pattern also allows you to eliminate code duplication. It separates behavior from super and subclasses.  The Observer pattern is a software design pattern in which an object, called the subject (Publisher), maintains a list of its dependents, called observers (Subscribers), and notifies them automatically of any state changes, usually by calling one of their methods.  The Factory design pattern is used when you want to define the class of an object at runtime. It also allows you to encapsulate object creation so that you can keep all object creation code in one place  The Abstract Factory Design Pattern is like a factory, but everything is encapsulated.  The Singleton pattern is used when you want to eliminate the option of instantiating more than one object. (Scrabble letters app)  The Builder Design Pattern is used when you want to have many classes help in the creation of an object. By having different classes build the object you can then easily create many different types of objects without being forced to rewrite code. The Builder pattern provides a different way to make complex objects like you'd make using the Abstract Factory design pattern.  The Prototype design pattern is used for creating new objects (instances) by cloning (copying) other objects. It allows for the adding of any subclass instance of a known super class at run time. It is used when there are numerous potential classes that you want to only use if needed at runtime. The major benefit of using the Prototype pattern is that it reduces the need for creating potentially unneeded subclasses.  Java Reflection is an API and it's used to manipulate classes and everything in a class including fields, methods, constructors, private data, etc. (TestingReflection.java)  The Decorator allows you to modify an object dynamically. You would use it when you want the capabilities of inheritance with subclasses, but you need to add functionality at run time. It is more flexible than inheritance. The Decorator Design Pattern simplifies code because you add functionality using many simple classes. Also, rather than rewrite old code you can extend it with new code and that is always good. (Pizza app)  The Command design pattern allows you to store a list of commands for later use. With it you can store multiple commands in a class to use over and over. (ElectronicDevice app)  The Adapter pattern is used when you want to translate one interface of a class into another interface. Allows 2 incompatible interfaces to work together. It allows the use of the available interface and the target interface. Any class can work together as long as the Adapter solves the issue that all classes must implement every method defined by the shared interface. (EnemyAttacker app)   The Facade pattern basically says that you should simplify your methods so that much of what is done is in the background. In technical terms you should decouple the client from the sub components needed to perform an operation. (Bank app)  The Bridge Pattern is used to decouple an abstraction from its implementation so that the two can vary independently. Progressively adding functionality while separating out major differences using abstract classes. (EntertainmentDevice app)  In a Template Method pattern, you define a method (algorithm) in an abstract class. It contains both abstract methods and non-abstract methods. The subclasses that extend this abstract class then override those methods that don't make sense for them to use in the default way. (Sandwich app)  The Iterator pattern provides you with a uniform way to access different collections of Objects. You can also write polymorphic code because you can refer to each collection of objects because they'll implement the same interface. (SongIterator app)  The Composite design pattern is used to structure data into its individual parts as well as represent the inner workings of every part of a larger object. The composite pattern also allows you to treat both groups of parts in the same way as you treat the parts polymorphically. You can structure data, or represent the inner working of every part of a whole object individually. (SongComponent app)  The flyweight design pattern is used to dramatically increase the speed of your code when you are using many similar objects. To reduce memory usage the flyweight design pattern shares Objects that are the same rather than creating new ones. (FlyWeightTest app)  State Pattern allows an object to alter its behavior when its internal state changes. The object will appear to change its class. (ATMState)  The Proxy design pattern limits access to just the methods you want made accessible in another class. It can be used for security reasons, because an Object is intensive to create, or is accessed from a remote location. You can think of it as a gate keeper that blocks access to another Object. (TestATMMachine)  The Chain of Responsibility pattern has a group of objects that are expected to between them be able to solve a problem. If the first Object can't solve it, it passes the data to the next Object in the chain. (TestCalcChain)  The Interpreter pattern is used to convert one representation of data into another. The context cantains the information that will be interpreted. The expression is an abstract class that defines all the methods needed to perform the different conversions. The terminal or concrete expressions provide specific conversions on different types of data. (MeasurementConversion)  The Mediator design pattern is used to handle communication between related objects (Colleagues). All communication is handled by a Mediator Object and the Colleagues don't need to know anything about each other to work together. (TestStockMediator)  The Memento design pattern provides a way to store previous states of an Object easily. It has 3 main classes: 1) Memento: The basic object that is stored in different states.  2) Originator: Sets and Gets values from the currently targeted Memento. Creates new Mementos and assigns current values to them.  3) Caretaker: Holds an ArrayList that contains all previous versions of the Memento. It can store and retrieve stored Mementos. (TestMemento)  The Visitor design pattern allows you to add methods to classes of different types without much altering to those classes. You can make completely different methods depending on the class used with this pattern. (VisitorTest)",
+        "languages": {
+            "Java": 417411,
+            "JavaScript": 238700,
+            "XSLT": 20252,
+            "HTML": 8460
+        }
+    },
+    {
+        "name": "JSP_Tutorials",
+        "description": "CaveOfProgramming Java Server Pages Tutorial Notes",
+        "languages": {
+            "Java": 61479,
+            "CSS": 3747
+        }
+    },
+    {
+        "name": "pages",
+        "description": "Jakarta Server Pages",
+        "languages": {
+            "Java": 2590545,
+            "HTML": 1202377,
+            "Roff": 71714,
+            "CSS": 11749,
+            "Grammatical Framework": 10968,
+            "FreeMarker": 3069,
+            "NASL": 2063,
+            "Pascal": 1350,
+            "C++": 21
+        }
+    },
+    {
+        "name": "auto",
+        "description": "Automation tool to write tests for Http Api, Web Page Action, and Command Line based application with embedded mock server and highly configurable reports",
+        "languages": {
+            "Java": 260289
+        }
+    },
+    {
+        "name": "GT-FHIR",
+        "description": "Georgia Tech FHIR Server Web Page",
+        "languages": {
+            "Java": 667010,
+            "CSS": 125549,
+            "HTML": 115262,
+            "JavaScript": 70568
+        }
+    },
+    {
+        "name": "link-advertise",
+        "description": "\u662f\u9762\u5411\u4f01\u4e1a\u5e7f\u544a\u6295\u653e\u94fe\u5f0f\u8ddf\u8e2a\u7684\u5f00\u6e90\u7cfb\u7edf\uff08\u7c7b\u4f3cDSP\uff09\u3002\u5176\u4e2d\u5305\u542b \u7ec4\u7ec7\u67b6\u6784\u670d\u52a1(Organization Server)\u3001\u7d20\u6750\u670d\u52a1(Material Server)\u3001\u843d\u5730\u9875\u670d\u52a1(Landing Page Server)\u3001\u6253\u70b9\u670d\u52a1(Dot Server)\u3001\u5e7f\u544a\u6295\u653e\u670d\u52a1(Advertise Server)\u3001\u6293\u53d6\u6570\u636e\u670d\u52a1(Grab Data Server)\u3001\u4f1a\u8bdd\u670d\u52a1(Talk Server)\u3001\u8868\u5355\u6536\u96c6\u670d\u52a1(Form Collection Server)\u3001\u9500\u552e\u6570\u636e\u8ddf\u8e2a\u670d\u52a1(Sales Tracking Server)\u3001\u62a5\u8868\u670d\u52a1(Report Server)",
+        "languages": {
+            "Java": 55080,
+            "JavaScript": 3246
+        }
+    },
+    {
+        "name": "ApacheFOP.Serverless",
+        "description": "A ready to use serverless implementation of Apache FOP via Azure Functions. This provides a micro-service for dynamically rendering quality PDF binary outputs from XSL-FO source using Apache FOP. When combined with the ease and simplicity of Azure Functions this project is a powerful, efficient, and scalable PDF Reporting Service that generates high quality, true paged media, reports for any environment and any client technology (.Net, NodeJS/JavaScript, Ruby,  Mobile iOS/Android, Powershell, even Windows/Mac apps, etc.)!",
+        "languages": {
+            "Java": 57736,
+            "HTML": 9017,
+            "Batchfile": 49
+        }
+    },
+    {
+        "name": "Flight-Booking-System-JavaServlets_App",
+        "description": "\u2708\ufe0f An enterprise level Flight Booking System for Turkish Airlines (web-application) based on the Model View Controller (MVC) Architecture made using Java Servlets, Java Server Pages (JSPs). Moreover authentication and authorization for users is implemented. The web-application is also secured against SQL Injection and Cross-Site Scripting attacks.",
+        "languages": {
+            "Java": 248164,
+            "JavaScript": 30338,
+            "CSS": 16940
+        }
+    },
+    {
+        "name": "Android_Attack_app",
+        "description": "Developed an attack android application. It is designed for people who are under attack. They would press a button on their phone and it will gather their current location and start recording a 5 second video with sound. This will then automatically send the location and video straight to the police or friend. The application also can activate using voice recognition e.g. when the word \u201chelp\u201d is said. Along with the voice recognition, if the voice reaches a certain decibel level then it will activate. With the app I also developed a website which will be able to take in the videos and also display all them. There is a Servlet on the server that takes in the videos and then converts them into the necessary format to display them on the site. After conversion it then stores the video in a database for record. This website only can be used by authorised individuals through a login system. I also developed a statistics analysis page to discover the number of attacks in each area in a particular country. Various other additives where implemented on the app such as sending the video through email, created an animation on how to use the app and application multi language selection. ",
+        "languages": {
+            "Java": 76856
+        }
+    },
+    {
+        "name": "ServerStatus",
+        "description": "Status page and uptime monitor for XMPP servers",
+        "languages": {
+            "Java": 33045,
+            "FreeMarker": 9488
+        }
+    },
+    {
+        "name": "single-page-application-server",
+        "description": "A base image for single page applications.",
+        "languages": {
+            "Java": 63342,
+            "Shell": 1952,
+            "HTML": 1171,
+            "Dockerfile": 747,
+            "Makefile": 343,
+            "JavaScript": 51,
+            "CSS": 29,
+            "TypeScript": 7
+        }
+    },
+    {
+        "name": "Beginning-JavaServer-Pages",
+        "description": "jsp\u7a0b\u5e8f\u8bbe\u8ba1(\u7b2c\u4e8c\u7248)--\u4e66\u4e0a\u4f5c\u4e1a\u548c\u8bfe\u7a0b\u8bbe\u8ba1",
+        "languages": {
+            "Java": 218058
+        }
+    },
+    {
+        "name": "oauth-proxy",
+        "description": "Implementation of Single Page Application (SPA) Proxy security pattern as introduced in the blog post https://medium.facilelogin.com/thirty-solution-patterns-with-the-wso2-identity-server-16f9fd0c0389",
+        "languages": {
+            "Java": 67369,
+            "JavaScript": 5071,
+            "HTML": 2526
+        }
+    },
+    {
+        "name": "frontcache",
+        "description": "Frontcache - page fragment cache designed to boost web app performance. It reduces server response time for dynamic pages, reduces load on backend systems multiple times, increases application's resilience. Works as Servlet Filter or Standalone Cache Server.",
+        "languages": {
+            "Java": 448287,
+            "HTML": 86634,
+            "JavaScript": 76554,
+            "Shell": 64709,
+            "AMPL": 52659,
+            "Ruby": 30081,
+            "XSLT": 26926,
+            "Batchfile": 21218,
+            "CSS": 16475,
+            "Python": 9513,
+            "Dockerfile": 3048,
+            "Gnuplot": 752
+        }
+    },
+    {
+        "name": "BookMyTrain",
+        "description": "A project on Online Railway Ticket Reservation System to get started off with JDBC, Java Server pages and Java Servlets.",
+        "languages": {
+            "Java": 68151,
+            "CSS": 15442,
+            "JavaScript": 1446,
+            "HTML": 398
+        }
+    },
+    {
+        "name": "JPhant_Java_Based_Phant_Library",
+        "description": "JPhant: Java Library for PHant Access  https://github.com/JPhant/JPhant_Java_Based_Phant_Library  *** Features ***   Fully Configurable (Public/Private/Delete Keys, Fieldnames, BaseURL, ProxyHost & Port, use GET or POST.)   Can Handle multiple simultaneous Phant Data Streams in same program.   Can use GET or POST (Using POST will encrypt your PrivateKey and Data in transit.)   Can Send/Receive any Character 0 through 127   Support for Paging (Data > 50K.)    * Add Data using Get or Post Methods (Configurable.)   * Get Data in efficient Format: String[][] aaExample = { {\"Field1\", \"Field2\"}, {\"Value1\", \"Value2\"}... }   *\t(Or Get Data in Raw Formats - Csv, Json, Jsonp.)   * Clear all Data   * Get Status in efficient Format (a Stats class encapsulating Cap, PageCount, Remaining, and Used.)   *\t(Or Get Status in Raw Formats - Csv, Json, Jsonp.)   * Get Rate Limits (Limit, Remaining, Reset - only valid after addData().)   * Convert to/from supported Data Structures (String[][] and ArrayList<ArrayList<String>>.)   * Smart CSV Extraction (handles embedded Quotes, Commas, Carriage Returns, and Line Feeds.)   * Automatic Retries on HTTPConnection Errors (up to 5 retries.)   * Can optionally use a ProxyHost and Port (if you're behind a company Firewall/Proxy Server.)  -------------------------------------------------------------------------   I'm going to be very busy for the next few months, and can't develop this further.  I hereby put this \"as is\" in the Public Domain, I hope someone will pick it up and run with it. Here is a quick overview...  ------------------------------------------------------------------------- To use:  1) --- Initialize --- 1a) Create a class that implements JPhantConfig and enter the appropriate Keys and Fieldnames.     (see JPhant_Config_0.java for an example.)  2) --- Configure --- 2a) Instantiate a JPhant instance, for example...     JPhant jPhant0 = new JPhant(new JPhant_Config_0());  3) --- High Level Commands --- 3a) To Clear All data...     jPhant0.clear();  3b) To Add Data (Fieldnames must exactly match Fields Phant Stream was created with...     String[][] aasAddData = new String[][] { {\"Field1\", \"Field2\"}, {\"Value1\", \"Value2\"} };     jPhant0.addData(aasAddData);  3c) To Get Data...     String[][] aasGetData = jPhant0.getData();     for(String[] asRow : aasGetData) {         for(String sField : asRow) {             System.out.print(sField+\", \");         }         System.out.println();     }  3d) To Get Status...     jPhant.Stats jpsStats0 = jPhant0.getStatus();     System.out.println(\"jpsStats0=\"+jpsStats0.toString());  3e) To Get Rate Limits...     System.out.println(\"getXRateLimitLimit()=\"+jPhant0.getXRateLimitLimit());     System.out.println(\"getXRateLimitRemaining()=\"+jPhant0.getXRateLimitRemainin());     System.out.println(\"getXRateLimitReset()=\"+jPhant0.getXRateLimitReset());  4) --- Low Level Raw Data Commands --- 4a) To get Data in Raw Format...     System.out.println(\"getData.CSV=\"+jPhant0.getData(JPhant.Format.csv).replace(\"\\r\", \"\\\\r\").replace(\"\\n\", \"\\\\n\"));     System.out.println(\"getData.JSON=\"+jPhant0.getData(JPhant.Format.json).replace(\"\\r\", \"\\\\r\").replace(\"\\n\", \"\\\\n\"));     System.out.println(\"getData.JSONP=\"+jPhant0.getData(JPhant.Format.jsonp).replace(\"\\r\", \"\\\\r\").replace(\"\\n\", \"\\\\n\"));  4b) To get Status in Raw Format...     System.out.println(\"getStatus.CSV=\"+jPhant0.getStatus(JPhant.Format.csv).replace(\"\\r\", \"\\\\r\").replace(\"\\n\", \"\\\\n\"));     System.out.println(\"getStatus.JSON=\"+jPhant0.getStatus(JPhant.Format.json).replace(\"\\r\", \"\\\\r\").replace(\"\\n\", \"\\\\n\"));     System.out.println(\"getStatus.JSONP=\"+jPhant0.getStatus(JPhant.Format.jsonp).replace(\"\\r\", \"\\\\r\").replace(\"\\n\", \"\\\\n\"));  ------------------------------------------------------------------------- Phant returns data in CSV Format like...   Field1, Field2   Value1, Value2   ...   , ...  So the most obvious data structure to use is something like...   String[][] aaExample = { {\"Field1\", \"Field2\"}, {\"Value1\", \"Value2\"}... }  And the Collection equivalent...   ArrayList<ArrayList<String>> alalData = new ArrayList<ArrayList<String>>();  There are functions to support converting to/from String[][] and ArrayList<ArrayList<String>>.   toStringArrayListOfStringArrayLists(String[][])   toStringArrayOfStringArrays(ArrayList<ArrayList<String>>)  As a convenience, if these two functions are passed null, they return the first element filled in with Fieldnames.  You can handle multiple Phant Streams in one program with separate Phant variables and Configurations, like...   JPhant jPhant0 = new JPhant(new JPhant_Config_0());   JPhant jPhant1 = new JPhant(new JPhant_Config_1());  ------------------------------------------------------------------------- What isn't working yet...   * It should support the entire UTF-8 Character set, but appears to only work for characters 0 through 127.   * Has support for Paging when Data > 50K, but doesn't appear to be working as I expected.   * I was going to add support for the Timestamp Field that Phant automatically returns.   * AddData() only adds the first row of data passed to it, I was going to add Bulk Updates when multiple rows of data are passed in.  ------------------------------------------------------------------------- I hope that when this other project that is pulling me away is over, I can get back to this. In the mean time, feel free to develop it as you see fit.",
+        "languages": {
+            "Java": 33249
+        }
+    },
+    {
+        "name": "Leftovers-The-Ecommerce-Food-Web-App",
+        "description": "During this full year university project course I worked within a team of eight people to develop a web application to prevent kiwi\u2019s from throwing away one third of our food. By providing food companies with an e-commerce platform to sell food products close to expiring to cost conscious individuals, our team hopes to address this issue. The project ran within an scrum and agile processing framework, where we closely communicated with the product owner to develop the application he had envisioned. The project consisted of six sprints. During each sprint we would initially plan out what stories we would take on, split them up into tasks in substantial detail and log the time and completion on Jira. Additionally, to keep everyone on the same page we had two standups a week with our scrum master. Furthermore, we used a range of strategies on our workflow to improve code quality and minimise risk. This Included the use of code reviews before finishing each task, the use of task branching to prevent  merge conflicts, substantial automated unit and integration testing with Junit, and automated acceptance testing with cucumber.  Moreover, to keep  our team members accountable for their mistakes we created a wiki that includes strict code styles, decision making policies, definition of done, yellow card policy, git policy, user manuals, and our testing procedures. Our technology stack used a client-server pattern for our web application, where VueJS was used on the frontend, spring boot for the backend, RESTful APIs to connect the two, MarinaDB for storing data externally, and gradle, sonarqube, npm, git, and a CI/CD pipeline to improve code quality and for seamless collaboration within the team. I took on a leadership role within the team by helping teammates solve complex problems, completing admin tasks such as setting up the CI/CD pipeline and cucumber, and providing a bridge between our team and the product owner and scrum team. This project is still ongoing and will be finished in October.",
+        "languages": {
+            "Java": 945112,
+            "TypeScript": 267239,
+            "Vue": 169965,
+            "Gherkin": 18036,
+            "JavaScript": 2939,
+            "CSS": 2320,
+            "Shell": 2055,
+            "Python": 1584,
+            "HTML": 910
+        }
+    },
+    {
+        "name": "uups",
+        "description": "Pretty error page for Java Web Servers",
+        "languages": {
+            "Java": 23085,
+            "CSS": 10412,
+            "HTML": 7924,
+            "JavaScript": 4965
+        }
+    },
+    {
+        "name": "tika-page-extractor",
+        "description": "Tika per page PDF extractor server returning content as JSON.",
+        "languages": {
+            "Java": 15136
+        }
+    },
+    {
+        "name": "onlinerecruitment",
+        "description": "A simple Web Based  recruitment Platform similar to Internshala or any recruitment website build using Java Server Pages",
+        "languages": {
+            "Java": 144064,
+            "CSS": 63695,
+            "JavaScript": 56396,
+            "HTML": 41168,
+            "PHP": 1242
+        }
+    },
+    {
+        "name": "Commander4j",
+        "description": "Commander4j Production Recording and Labelling using EAN128 barcodes. Now includes Weight Checks, Waste Logging, Quality Control and much more. Supports mySQL, MS SQL Server and Oracle Databases. Java Swing Client and Javascript web pages for Zebra/Morotolla/Symbol wireless mobile computers.",
+        "languages": {
+            "Java": 6477028,
+            "HTML": 81396,
+            "JavaScript": 17197,
+            "CSS": 5644,
+            "Shell": 2093,
+            "Batchfile": 743
+        }
+    },
+    {
+        "name": "Student-Login-Registration-System-JSP-Servlet-SQL",
+        "description": "Student Exam Login Registration using JSP, servlets, JDBC, mySQL database, tomcat server and eclipse IDE. The control goes from the JSP registration page to a servlet on submitting the form and store user data in SQL table schema. Eclipse IDE for Enterprise Java and Web Developers",
+        "languages": {
+            "Java": 42021,
+            "CSS": 7684
+        }
+    },
+    {
+        "name": "E-commerce-Website-by-Java-Spring-Boot",
+        "description": "A person named Nahid wants to sell his products online. So he decided to create his own e-commerce website. But creating a full e-commerce is expensive. So he decided to have limited features. He wants to sell 3 types of product, RAM, MOTHERBOARD and GRAPHICS CARD. He wants to show the products with their prices, add a new product, update the details of the products, and delete them. He also wants some analytics: 1) Which product is profitable for his business (top 5) 2) Total number of products sold. Now you have to create an application with these limited features. To build this application you need to use the following technologies: Backend: Spring-Boot Build Tool: Maven Database: MySQL or PostgreSQL Frontend: use any technology you are comfortable with. So you need to create 6 pages to serve the purpose: 1) Give user a Dashboard to show statistics 2) Give user a window to add products. 3) Show all products with a delete button next to each item. 4) Give a window to update product\u2019s information 5) Login page 6) About page which will be accessible by everyone. (accessible feature should be configured in Spring security ) **page designing is not a big cencern. You can use any frontend template or basic bootstrap template. Following requirements must be completed: Each product must have these four properties: Name, price, profit percentage, product type. By using profit percentage you can calculate the most profitable product. Paginate all the products. Frontend data validation is good. But server side data validation is must. Make sure no invalid data can enter the database. For this use JPA validation. Don\u2019t use your own custom methods. You must design the codebase in such a way that it can be integrated with web services very easily. HINT: Interface for Services, DTO, Mapper.",
+        "languages": {
+            "Java": 24893
+        }
+    },
+    {
+        "name": "McWiki",
+        "description": "A plugin for Bukkit and related servers that effectively displays gamepedia pages within the game.",
+        "languages": {
+            "Java": 43848
+        }
+    },
+    {
+        "name": "jetty-angular2-spa",
+        "description": "Single Page App using Jetty for API server and Angular 2 for the front end framework",
+        "languages": {
+            "Java": 7137,
+            "TypeScript": 4065,
+            "HTML": 3040,
+            "JavaScript": 569,
+            "CSS": 20
+        }
+    },
+    {
+        "name": "Passing-data-from-Server-to-JSP",
+        "description": "Suppose some data at the Server side has been created and now in order to pass that information in a JSP page, there is a need of request.getAttribute() method. This, in fact differentiates the getAttribute() and getParameter() methods. The latter is used to pass Client side data to a JSP.",
+        "languages": {
+            "Java": 4306
+        }
+    },
+    {
+        "name": "Android-MVVM-with-Room-Database-and-Paging-Movies-List-Details-Application",
+        "description": "     The description of this project is first we will send a retrofit request  to the server for top hollywood movies which includes name,poster,and rating of the movies after that we will store that data (movies) into Room Database and then shows into recyclerview through paging and after that whenever   i click on any of the movie , it goes to next page where we can see the descriptions and details of particular movie  .Alright",
+        "languages": {
+            "Java": 24397
+        }
+    },
+    {
+        "name": "Java-Enterprise-7-Glassfish-4-Netbeans-project-management-offices-callcenters-and-DB",
+        "description": "The system was developed using Java Enterprise 7.0 and glassfish server 4.0. It consists of: -Two callcenters (B1,B2) made with WebServices and Enterprice Application Client, than communicate by jms/queue -Every callcenter controls five offices and the callcenter communicate with them by the same number (five) of jms/queue .  Any request that may be send to the callcenter through Web Page and Servlet consists:  Unique identifier (ID) List of signals, which indicates which offices we have need to contact. The request is handled in a transactional context through the \"two-phase commit\" protocol.  Every request received to the office consists:  Read from the database Resolve the signal Write to database. Every office has three active replicas of the same database and communicate with the databases by jms/Topic.",
+        "languages": {
+            "Java": 245536,
+            "CSS": 85903,
+            "JavaScript": 33320,
+            "Shell": 20363,
+            "Perl": 84,
+            "Ruby": 45
+        }
+    },
+    {
+        "name": "book-java-server-pages-jsp",
+        "description": "2010 - JSP source code of my book. (JSP kitap kodlar\u0131m.)",
+        "languages": {
+            "Java": 440789,
+            "PHP": 6268,
+            "XSLT": 1838,
+            "CSS": 1324
+        }
+    },
+    {
+        "name": "Learn-Java-Server-Pages",
+        "description": "A repository for showcasing my knowledge of the Java Server Pages programming language, and continuing to learn the language.",
+        "languages": {
+            "Java": 644142,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "Registration-Login-pages",
+        "description": "This project has used JSP, HTML, Java, and Connected to the Server.",
+        "languages": {
+            "Java": 9059,
+            "CSS": 4316
+        }
+    },
+    {
+        "name": "microphone-on-the-web",
+        "description": "An applet for recording audio on web pages and uploading them to a web server.",
+        "languages": {
+            "Java": 52254
+        }
+    },
+    {
+        "name": "spring-boot-mpa-with-vite",
+        "description": "Prototype for building spring boot multi page application with vite as build an dev server",
+        "languages": {
+            "Java": 2000,
+            "HTML": 1535,
+            "JavaScript": 1418,
+            "Vue": 1347,
+            "CSS": 192
+        }
+    },
+    {
+        "name": "Rummy",
+        "description": "Rummy is a well known card game, see the wikipedia page for rules or anything the like. This application is based on a client-server-model designed for two players.",
+        "languages": {
+            "Java": 114000
+        }
+    },
+    {
+        "name": "TechBlog_JSP_Servlet",
+        "description": "this is the complete website using JSP (Java Server Pages) and Servlet for the technology blog site. it has complete functionalities of database, login, signup, user modification, post modification and many more too with using some like and comment plugins for more features",
+        "languages": {
+            "Java": 166388,
+            "JavaScript": 1164,
+            "CSS": 140
+        }
+    },
+    {
+        "name": "Secure-REST-API-using-Spring-Boot-Starter-Security",
+        "description": "Traditional authentication approaches like login pages or session identification are good for web based clients involving human interaction but this does not really fit well when communicating with [REST API] clients which may not even be a web application. Think of an API over a server which tries to communicate with another API on a totally different server or instances, without any human intervention. Basic Authentication provides a solution for this problem, although not very secure as other security features like OAuth2 etc. With Basic Authentication, clients send it\u2019s Base64 encoded credentials with each request, using HTTP [Authorization] header . That means each request is independent of other request and server may/does not maintain any state information for the client, that is good for scalability point of view.",
+        "languages": {
+            "Java": 5314
+        }
+    },
+    {
+        "name": "AndroidMirror-WebRTC",
+        "description": "\u4e00\u4e2a\u5b8c\u6574\u7684\u57fa\u4e8eWebRTC\u7684\u6700\u5c0f\u5316\u5b89\u5353\u955c\u50cf\uff08\u542b\u7cfb\u7edf\u97f3\u9891\u97f3\u9891\uff09\u5b66\u4e60\u578b\u9879\u76ee\uff0c\u5185\u9644\u4fe1\u4ee4\u670d\u52a1\u5668\u548c\u955c\u50cf\u63a5\u6536Web\u9875\u9762\u3002A complete learning project based on WebRTC that allows minimal Android mirroring (with system audio), including a signaling server and a web page for receiving the mirrored screen.",
+        "languages": {
+            "Java": 872923,
+            "Kotlin": 48330,
+            "HTML": 4362
+        }
+    },
+    {
+        "name": "SpringBoot_RESTful_JPA_CRUD_JSP_Bootstrap",
+        "description": "Create a simple Spring framework with a UI, API, and Database that you can search for students. \u25cf Create a database using the dbms of your choice (examples are: SQL Server, SQL Anywhere, MySQL,Oracle DB, h2, mongoDB, etc.). \u25cf Create a table to import 22 student records provided in the next page in CSV format. Use generally appropriate data types. \u25cf Create an application using Spring Framework \u25cf Application should have a UI with a simple header, footer, search box etc. \u25cf The application should allow a user to: \u25cb Display the imported data in a tabular format . \u25cb Search for data using a search box. Students can be searched by multiple criteria like, Student Name, Grade level etc..or by a single criteria like Grade Level. \u25cb Display the search results in a tabular format. \u25cb Add a Student (Bonus Points). \u25cb Edit a Student (Bonus Points). \u25cf You may use frontend frameworks such as Bootstrap, or Javascript libraries or jQuery if you wish to create a more interactive UI design.",
+        "languages": {
+            "Java": 24403
+        }
+    },
+    {
+        "name": "Java_Server_Pages",
+        "description": null,
+        "languages": {
+            "Java": 18163
+        }
+    },
+    {
+        "name": "Social-Network-for-College",
+        "description": "Website created using JavaServer Pages (JSP), Servlets, GlassFish Server, Oracle SQL Developer",
+        "languages": {
+            "Java": 55104
+        }
+    },
+    {
+        "name": "Learn-JSP-java-server-pages",
+        "description": null,
+        "languages": {
+            "Java": 11393
+        }
+    },
+    {
+        "name": "mThreeStocks",
+        "description": "A fullstack app that pulls from a ReSTful server, stores it in MariaDb, and then creates an HTML page and apache server.",
+        "languages": {
+            "Java": 230788,
+            "JavaScript": 13688,
+            "HTML": 7679
+        }
+    },
+    {
+        "name": "Web-Application-using-Java-Server-Pages",
+        "description": "Basic Web Appliaction that lets the user to sign-up, log-in and adopt pets and learn about raising them.",
+        "languages": {
+            "Java": 56024,
+            "HTML": 16212
+        }
+    },
+    {
+        "name": "vems",
+        "description": "VEMS is a deliberately created vulnerable application which can be used to learn and perform different web based attacks. It is a JAVA based web application using Java Server Pages (JSP) as server side scripting language and Oracle XE as database. ",
+        "languages": {
+            "Java": 74674,
+            "CSS": 66928,
+            "JavaScript": 13072
+        }
+    },
+    {
+        "name": "jsp-levelups",
+        "description": "Java server pages content hourse",
+        "languages": {
+            "Java": 5995
+        }
+    },
+    {
+        "name": "FMM-Web-Server",
+        "description": "A simple web server for static pages with basic capabilities.",
+        "languages": {
+            "Java": 11513
+        }
+    },
+    {
+        "name": "sms_web_relay",
+        "description": "receive web page via sms, send sms via web url",
+        "languages": {
+            "Java": 13970
+        }
+    },
+    {
+        "name": "jpa-paging-and-sorting",
+        "description": "Server side paging and sorting using Java Spring Boot",
+        "languages": {
+            "Java": 4884
+        }
+    },
+    {
+        "name": "HR-Web-Application-Style-Two",
+        "description": "In this style, I have used Java Server Pages, Beans, Custom Tags for developing an web application.",
+        "languages": {
+            "Java": 67048,
+            "JavaScript": 1069,
+            "CSS": 941
+        }
+    },
+    {
+        "name": "fastforward",
+        "description": "tiny Web application server with Redis database for Single Page Applications",
+        "languages": {
+            "Java": 1660,
+            "Shell": 1516
+        }
+    },
+    {
+        "name": "spring-boot-thymeleaf-and-htmx",
+        "description": "progressive, server-side rendered, multi-page applications with Spring Boot and HTMX",
+        "languages": {
+            "Java": 3340,
+            "HTML": 2523
+        }
+    },
+    {
+        "name": "e-commerce-app",
+        "description": "An E-Commerce web application built using Jakarta EE 9 technologies. Namely, Jakarta Server Pages, Jakarta Servlet and Jakarta Persistence as our second project at the Information Technology Institute. It takes full advantage of Tailwind CSS components to build create a beautiful and modern user interface.",
+        "languages": {
+            "Java": 547130,
+            "JavaScript": 39765,
+            "CSS": 58
+        }
+    },
+    {
+        "name": "Dazzle-Dine-E-food-Ordeing-Services",
+        "description": "This project is an e-food ordering services of a restaurant. It is designed using HTML, CSS, Javascript, JSP(Java Server Pages) & MySql database.",
+        "languages": {
+            "Java": 413830,
+            "CSS": 55608,
+            "HTML": 1784
+        }
+    },
+    {
+        "name": "civ5-pitboss-status",
+        "description": "A status page for Pitboss servers in Civilization V that shows the progress of the current turn, who has yet to go, and other helpful information.",
+        "languages": {
+            "Java": 16962
+        }
+    },
+    {
+        "name": "WebPoker",
+        "description": "This is a functioning Poker Game running on a web server. Server side logic is written Java and sent to an HTML page with JavaScript via JSON strings. Implements multithreading, websocket connections, multiple users, unit testing, and repeatability in addition to a graphical user interface.",
+        "languages": {
+            "Java": 75165,
+            "HTML": 26254,
+            "CSS": 84
+        }
+    },
+    {
+        "name": "single-sign-on-v1",
+        "description": "Be based on Apereo cas 4.2, the project can return sso client's login page or json (some sso clients' theme may be different with others, or some sso clients is C/S mode need return json by sso server), by setting the login url on sso client.",
+        "languages": {
+            "Java": 853950,
+            "HTML": 59072,
+            "CSS": 12924,
+            "JavaScript": 8505
+        }
+    },
+    {
+        "name": "Secure-REST-API-Using-Spring-Basic-Authentication",
+        "description": "Traditional authentication approaches like login pages or session identification are good for web based clients involving human interaction but this does not really fit well when communicating with [REST API] clients which may not even be a web application. Think of an API over a server which tries to communicate with another API on a totally different server or instances, without any human intervention. Basic Authentication provides a solution for this problem, although not very secure as other security features like OAuth2 etc. With Basic Authentication, clients send it\u2019s Base64 encoded credentials with each request, using HTTP [Authorization] header . That means each request is independent of other request and server may/does not maintain any state information for the client, that is good for scalability point of view.",
+        "languages": {
+            "Java": 19445
+        }
+    },
+    {
+        "name": "single-sign-on-v2",
+        "description": "Be based on Apereo(Jasig) cas 4.2+, the project can return sso client's login page or json (some sso clients' theme may be different with others, or some sso clients is C/S mode need return json by sso server), by setting the login url on sso client.",
+        "languages": {
+            "Java": 848038,
+            "HTML": 29536,
+            "CSS": 10290,
+            "JavaScript": 8505
+        }
+    },
+    {
+        "name": "Renaissance-Hotels",
+        "description": "A Hotel Management System using Java Server Pages.",
+        "languages": {
+            "Java": 66114,
+            "CSS": 55452
+        }
+    },
+    {
+        "name": "Java-Server-Pages",
+        "description": null,
+        "languages": {
+            "Java": 20809,
+            "CSS": 2162,
+            "HTML": 822,
+            "JavaScript": 242
+        }
+    },
+    {
+        "name": "SNU_2D_ProgrammingTools_IDE_Java-Server-Pages",
+        "description": "The Java Server Pages Programming language submodule for SNU Programming Tools (2D Mode)",
+        "languages": {
+            "Java": 641142,
+            "Roff": 3456,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "Sports-Management-System",
+        "description": "Basic sports management system with emphasis on database management. Technologies for implementation - 1. JSP(Java Server Pages) from JEE(Java Enterprise Edition) for server side. 2. MySQL as DBMS. 3. IDE-Eclipse ",
+        "languages": {
+            "Java": 61291,
+            "CSS": 2730,
+            "JavaScript": 524
+        }
+    },
+    {
+        "name": "Java-EE-Chat-App-with-Servlet",
+        "description": "Java Server Page JSP",
+        "languages": {
+            "Java": 41490,
+            "JavaScript": 1518
+        }
+    },
+    {
+        "name": "JAVA_Server_Page_Basics",
+        "description": "This repository contains basic java server page contents",
+        "languages": {
+            "Java": 3652,
+            "HTML": 2273
+        }
+    },
+    {
+        "name": "tsps-menu-tpl",
+        "description": "Create new Menus and Pages in BMC TrueSight Presentation Server",
+        "languages": {
+            "Java": 44373,
+            "HTML": 1420,
+            "JavaScript": 1302,
+            "CSS": 381
+        }
+    },
+    {
+        "name": "Online-Banking-Portal",
+        "description": "Online Banking Portal created using Servlets & Java Server Pages (JSP).",
+        "languages": {
+            "Java": 99406
+        }
+    },
+    {
+        "name": "java-web-jsp",
+        "description": "Sistema Web (CRUD) Utilizando Java Server Pages JSP e Servlets",
+        "languages": {
+            "Java": 20989,
+            "CSS": 1354
+        }
+    },
+    {
+        "name": "Employee_Management_System_AdvancedJava_Jsp",
+        "description": "Employee management System using Jsp (java server page) , tomcat server .",
+        "languages": {
+            "Java": 26946
+        }
+    },
+    {
+        "name": "CRUD-JSP-Java-MySQL",
+        "description": "CRUD usando Java Server Pages (JSP) y conectado a la base de datos (MySQL) ",
+        "languages": {
+            "Java": 14013,
+            "HTML": 549
+        }
+    },
+    {
+        "name": "Page-as-Place-Wowza",
+        "description": "Wowza Server Side Code for Page as Place Project",
+        "languages": {
+            "Java": 7406
+        }
+    },
+    {
+        "name": "ssrsproxy",
+        "description": "A java server page (jsp) proxy for SSRS 2008",
+        "languages": {
+            "Java": 9561,
+            "ASP": 7964
+        }
+    },
+    {
+        "name": "bookstore-webapp-vue",
+        "description": "A bookstore web application project. The uploaded repo contains it's client-side and server-side. Covers category page, home page, checkout page, confirmation page.",
+        "languages": {
+            "Java": 63252,
+            "Vue": 39559,
+            "JavaScript": 12703,
+            "CSS": 4303,
+            "HTML": 2015
+        }
+    },
+    {
+        "name": "DataTablesSpringBootDemo",
+        "description": "Server-side mode for a DataTables page using Spring Boot",
+        "languages": {
+            "Java": 12503,
+            "HTML": 1678
+        }
+    },
+    {
+        "name": "Upload-Excel-API",
+        "description": "This application helps to upload an Excel file to Server Directory and will save Excel Record to DB then Display All records in UI page",
+        "languages": {
+            "Java": 8871,
+            "Shell": 6468,
+            "Batchfile": 4994,
+            "HTML": 4604
+        }
+    },
+    {
+        "name": "CRUD-operation_Java_RestApi",
+        "description": "CRUD operation using java, Servlet , JSP (java Server page) , JDBC (java database Connection ), MySql",
+        "languages": {
+            "Java": 18826
+        }
+    },
+    {
+        "name": "Basic-JSP-Programs",
+        "description": "This Repository will show you the basic implementation of the java server page (JSP) programs.",
+        "languages": {
+            "Java": 434,
+            "HTML": 260
+        }
+    },
+    {
+        "name": "Proxy-Server",
+        "description": "A proxy server is a server (a computer system or an application) that acts as an intermediary for requests from clients seeking resources from other servers. A client connects to the proxy server, requesting some service, such as a file, connection, web page, or other resource, available from a different server. The proxy provides the resource by connecting to the relevant server and requesting the service on behalf of the client. It also caches responses from the remote server, and returns subsequent requests for the same content directly.",
+        "languages": {
+            "Java": 19432
+        }
+    },
+    {
+        "name": "BankManagementProject",
+        "description": "Created a simple multitier Bank Application using Java Server Pages, Servlets, and JDBC for accessing SQL Server. Maintained and verified users\u2019 information and accounts using JavaScript and performed basic operations such as Account Transfer and Deposit ",
+        "languages": {
+            "Java": 60656,
+            "JavaScript": 4217,
+            "CSS": 471
+        }
+    },
+    {
+        "name": "java-webapp-exercise",
+        "description": " Using Tomcat Web Server with Eclipse. HTTP requests and responses. HTML forms. Servlets. JSP pages and the JSP Standard Tag Library (JSTL). Accessing a database in a Java Web Application",
+        "languages": {
+            "Java": 23435,
+            "HTML": 3579,
+            "JavaScript": 1430,
+            "CSS": 539
+        }
+    },
+    {
+        "name": "Servlet-Database-connection",
+        "description": "This is a program to connect your server and database and transfer the the data from jsp page to database.",
+        "languages": {
+            "Java": 2781
+        }
+    },
+    {
+        "name": "Admission_Application",
+        "description": "This project aims to develop a student admission web application using Java Server Pages (JSP) adhering to specific requirements. The application will facilitate a seamless admission process for prospective students and manage their applications electronically.",
+        "languages": {
+            "Java": 31637
+        }
+    },
+    {
+        "name": "App",
+        "description": "An app that displays substitution schedules over a secure HTTPS connection as an app with a home page, info, and a Discord server.",
+        "languages": {
+            "Java": 142333
+        }
+    },
+    {
+        "name": "Spring_Security",
+        "description": "This is mave_project here am making login user admin to enter id pass to authentication server n goes to own page and logout function",
+        "languages": {
+            "Java": 2659
+        }
+    },
+    {
+        "name": "RummyZ",
+        "description": "Rummy is a well known card game, see the wikipedia page for rules or anything the like. This application is based on a client-server-model.",
+        "languages": {
+            "Java": 224322
+        }
+    },
+    {
+        "name": "JSP_Day2",
+        "description": "jsp-forward-and-include is a GitHub repository that contains a set of Java Server Pages (JSP) examples demonstrating the use of the forward and include elements. The examples illustrate how to use these elements to create a modular approach to JSP development.",
+        "languages": {
+            "Java": 1709,
+            "HTML": 909
+        }
+    },
+    {
+        "name": "CheetahWebserver",
+        "description": "This webserver is a best choice for writing REST server side API in Java. Fast with no depenency to Spring or any framework. It is also an alternative to Tomcat for HTML dynamic pages creation in Java, and only requires 256MB of RAM to run.",
+        "languages": {
+            "Java": 13003544
+        }
+    },
+    {
+        "name": "AttendancePortal",
+        "description": "PROJECT DESCRIPTION: Web Application that facilitates the student to see their attendance and teachers to manage their respective student's attendance day and class wise.  Technologies USED:  a) backend: have used JSP (java server pages) to power backend, MySQL for database management.  b) frontend: HTML, CSS, and BOOTSTRAP for User interface and structure for the website.  HIGHLIGHTS: Demonstration of integration of JSP with Bootstrap and MySQL database;",
+        "languages": {
+            "Java": 24174,
+            "HTML": 4552,
+            "CSS": 1336
+        }
+    },
+    {
+        "name": "Automotive_Customization_System",
+        "description": "The application allows multiple users to get access to the server, and modify the data (which is cars) in the server. The application also allows each user to configure their car and upload it to the server. The server and client object was implemented using Object Oriented Programing to encapsulate the design and access. Link Hash Map is used as the main container for this project (instead of a real database). The updated data is written to a text file to simplifier the process. The container can be replaced with a database system (SQL Server or My SQL) and will perform the full function of an API. The project can be extended to a full e-commerce page if the following component is added: a better GUI for the clients, payment API (Paypal), and a database system.",
+        "languages": {
+            "Java": 185584
+        }
+    },
+    {
+        "name": "DDoS-attack-using-Botnets",
+        "description": "It is a CLI-based Java application which allows the user to make 'n' number o connections to a host causing a DDoS attack. One of the commands in the program allows the user to initiate a web server and serve a virtual HTML page which has multiple links pointing to a dummy webpage.",
+        "languages": {
+            "Java": 21597
+        }
+    },
+    {
+        "name": "selenium-cucumber-jvm-testNG-pom-bdd",
+        "description": "This is an example of Selenium WebDriver Framework with Cucumber BDD using Page Object Model design pattern. This framework is created with Selenium WebDriver (Java), Cucumber-JVM, Maven, TestNG, WebDriverManager, Spark Extent Reports.  A Dummy Website application is used in this framework as the application under test. Simply pull the code for Dummy Website and you are good to go. There is no need for any web server to run this application. The application is available at https://github.com/cgjangid/dummy-local-website",
+        "languages": {
+            "Java": 13771,
+            "Gherkin": 1817
+        }
+    },
+    {
+        "name": "Java-Talk",
+        "description": "Java Talk  In simple word it is just a quora for java developers having queries related to java only. The basic idea of the project is to provide a connectivity to the java learners with java experts or other java learners with help of which they can post and resolve their java related queries .The query which has been posted is public and anyone who is willing to resolve the query can post their answers.One query can have multiple answers by bdifferent or same user so that the most efficient answer can be selected .This web app also comes with the facility of testing the ones java skills by providing to them a online mcq test.Although the innitial phase of this project is logging in and if the user is new then he has to register himself.Also this project comes with the facility of session tracking due to which a user can not directly visit a user's home page which also provide a security to the user's account.The back end or server side code of this web app is entirely based on jsp with connectivity provided through jdbc and the database used is Mysql (iske alawa apache tomcat include karna ho to karliyo machine used or server used mein!!!!!).Apart from these the front end of the web app has been defined by the efficient use of html,css and javascript.[Use of all three languages chas been kept interconnected and well organised - ye line apne hisab se dekh le ].Along with the knowledge of all languages mentioned above the use of core java is also kept into the account as one part of the project i.e.,the online test is made entirely out of the core java knowledge and skills.",
+        "languages": {
+            "Java": 103509,
+            "HTML": 14836,
+            "Batchfile": 307
+        }
+    },
+    {
+        "name": "scalable-web-and-application-server",
+        "description": "A high load-balancing and availability HTTP server like Apache Tomcat capable of running Java servlets and render dynamic web pages.",
+        "languages": {}
+    },
+    {
+        "name": "ServletsAndJsp",
+        "description": "Exploration of Java Enterprise web applications, Servlets and Java Server Pages.",
+        "languages": {
+            "Java": 11723
+        }
+    },
+    {
+        "name": "PageServer",
+        "description": "Authorization and Accounting backend servlet for NINJa",
+        "languages": {
+            "Java": 301131,
+            "XSLT": 59560
+        }
+    },
+    {
+        "name": "compumundo",
+        "description": "Example web app made in Netbeans with Java Server Pages and a JDBC connection to Derby.",
+        "languages": {
+            "Java": 128902
+        }
+    },
+    {
+        "name": "JavaServer-Pages",
+        "description": null,
+        "languages": {
+            "Java": 100078,
+            "HTML": 12417,
+            "CSS": 3082
+        }
+    },
+    {
+        "name": "Java-Server-Pages",
+        "description": "Creating web app using Java ",
+        "languages": {
+            "Java": 14606
+        }
+    },
+    {
+        "name": "CRUDJavaServerPages",
+        "description": null,
+        "languages": {
+            "Java": 27645,
+            "CSS": 844
+        }
+    },
+    {
+        "name": "java-server-pages-jsp",
+        "description": "Java Serisi 02 - JSP (JavaServer Pages)",
+        "languages": {
+            "Java": 332404,
+            "HTML": 34159,
+            "CSS": 27403,
+            "JavaScript": 3218,
+            "PHP": 344
+        }
+    },
+    {
+        "name": "CRUDJavaServerPages-UPDATE",
+        "description": null,
+        "languages": {
+            "Java": 32163,
+            "CSS": 844
+        }
+    },
+    {
+        "name": "Java-Server-Pages-Forum",
+        "description": "A forum website application. This application allows its users to  sign up for a profile, and log into the system; view categories, topics under  categories, comments under topics, and replies under comments. The application  functionality also allows for its users to update their profile details and recover a  password should it be forgotten.",
+        "languages": {
+            "Java": 143502,
+            "CSS": 9448,
+            "HTML": 982
+        }
+    },
+    {
+        "name": "Beginning-JavaServer-Pages",
+        "description": "\u8001\u65bd\u6709\u3001\u4e1c\u897f\u7684",
+        "languages": {
+            "Java": 124253
+        }
+    },
+    {
+        "name": "JavaServer-Pages-Project",
+        "description": null,
+        "languages": {
+            "Java": 102762,
+            "JavaScript": 968
+        }
+    },
+    {
+        "name": "JSP",
+        "description": "Java Server Pages",
+        "languages": {
+            "Java": 528021,
+            "CSS": 168128,
+            "JavaScript": 36840,
+            "HTML": 5883
+        }
+    },
+    {
+        "name": "Mini-Java-Projects",
+        "description": "Mini Projects Based on Java based Technologies like Java Servlets, Spring, Hibernate, Java Server Pages (JSP), Java Server Faces (JSF), Other Technologies used here are JavaFx, WSDF, XHTML and HTML",
+        "languages": {
+            "Java": 64835,
+            "HTML": 48795,
+            "CSS": 992
+        }
+    },
+    {
+        "name": "tapestry-virtual-pages",
+        "description": "A prototype to server virtual pages in Tapestry 5",
+        "languages": {
+            "Java": 21523
+        }
+    },
+    {
+        "name": "PageShape",
+        "description": "Experiment with compile-once-use-anywhere templates with client and server-side renderers.",
+        "languages": {
+            "Java": 18302,
+            "PHP": 6643,
+            "JavaScript": 4698
+        }
+    },
+    {
+        "name": "PhoenixRisingServer",
+        "description": "PhoenixRising - Dylan Page",
+        "languages": {
+            "Java": 8302143,
+            "E": 2428,
+            "Batchfile": 719
+        }
+    },
+    {
+        "name": "JSP",
+        "description": "Java Server Page",
+        "languages": {
+            "Java": 276102,
+            "JavaScript": 240006,
+            "HTML": 91465,
+            "PLSQL": 4842
+        }
+    },
+    {
+        "name": "JSP_STUDY",
+        "description": "JAVA Server Page",
+        "languages": {
+            "Java": 275507,
+            "PLSQL": 15303,
+            "HTML": 12196,
+            "CSS": 7131,
+            "JavaScript": 1133
+        }
+    },
+    {
+        "name": "JSP",
+        "description": "Java Server Page",
+        "languages": {
+            "Java": 23370,
+            "CSS": 10387
+        }
+    },
+    {
+        "name": "online-shopping-project",
+        "description": "Its a general online shopping project which involves 1.JSP(JAVA SERVER PAGE) for backend, 2.Servlets(controllers) for sending request of client to  server. 3.DAO(Data Access Object) methods for interfacing with database DAO implementation(DAOimpl) and java classes for creating objects",
+        "languages": {
+            "Java": 93665
+        }
+    },
+    {
+        "name": "JSP-JDBC-WebPage",
+        "description": "Java Server Page-JDBC-Web page",
+        "languages": {
+            "Java": 17594,
+            "JavaScript": 968
+        }
+    },
+    {
+        "name": "lumiere-server",
+        "description": "Simple and lightweight web server for creating basic pages using Java \u2b50",
+        "languages": {
+            "Java": 17399,
+            "Shell": 597
+        }
+    },
+    {
+        "name": "SummerTraining2020",
+        "description": "In this repository, I will daily add on the code that I practice as a part of my summer training on Java, Java Server Pages, Angular framework with HTML, CSS and JavaScript, TypeScript along with MySQL as database",
+        "languages": {
+            "Java": 295295,
+            "CSS": 118470,
+            "HTML": 18854,
+            "JavaScript": 2545,
+            "TSQL": 2195
+        }
+    },
+    {
+        "name": "ems-jsp",
+        "description": "Examination Management System using Java Server Pages",
+        "languages": {
+            "Java": 27248,
+            "JavaScript": 2488
+        }
+    },
+    {
+        "name": "Oauth-authorization-server",
+        "description": "Login Page using HTTP, Authentication",
+        "languages": {
+            "Java": 21520
+        }
+    },
+    {
+        "name": "java-server-page",
+        "description": "A simple jsp landing page",
+        "languages": {
+            "Java": 15316,
+            "HTML": 7275
+        }
+    },
+    {
+        "name": "Multithreaded_HTTP_Server",
+        "description": "HTTP server for static content (i.e., files like images, style sheets, and HTML pages).",
+        "languages": {
+            "Java": 60623
+        }
+    },
+    {
+        "name": "Java_Web",
+        "description": "P\u00e1gina web creada utilizando Java Server Pages (JSP).",
+        "languages": {
+            "Java": 102007
+        }
+    },
+    {
+        "name": "First-Steps-in-JSP",
+        "description": "Simple example with Java Server Pages and Servlets.",
+        "languages": {
+            "Java": 40752
+        }
+    },
+    {
+        "name": "JspSignUP",
+        "description": "Introduction to Java Server Page",
+        "languages": {
+            "Java": 1129,
+            "HTML": 970
+        }
+    },
+    {
+        "name": "CRUD-JSP",
+        "description": "CRUD em JAVA SERVER PAGE",
+        "languages": {
+            "Java": 3752,
+            "HTML": 2566
+        }
+    },
+    {
+        "name": "newsportal",
+        "description": "Web App Java Server Page",
+        "languages": {
+            "Java": 177588,
+            "CSS": 128760,
+            "JavaScript": 5016,
+            "HTML": 1221
+        }
+    },
+    {
+        "name": "Curso_de_JavaServer_Pages_Jsp_Gratis_Alex_JDev_Treinamento_on_line",
+        "description": "Assistindo e treinando JAVA com curso do youtube",
+        "languages": {
+            "Java": 14509
+        }
+    },
+    {
+        "name": "ONLINE-CALCULATOR-WITH-JSP",
+        "description": "Online Calculator with help of JSP-Java Server Pages",
+        "languages": {
+            "Java": 4792,
+            "HTML": 2151
+        }
+    },
+    {
+        "name": "EnterPrice",
+        "description": "A B2C e-shop written in Java Server Pages",
+        "languages": {
+            "Java": 282295,
+            "CSS": 20590,
+            "JavaScript": 713
+        }
+    },
+    {
+        "name": "jsp-twitter-clone",
+        "description": "Twitter clone created using Java Server Pages and Java Servlets.",
+        "languages": {
+            "Java": 161555,
+            "CSS": 11976,
+            "HTML": 536
+        }
+    },
+    {
+        "name": "Noteblox-Server",
+        "description": "NoteBLOX is an on-page support and collaboration tool for websites.",
+        "languages": {
+            "Java": 156134,
+            "JavaScript": 12311,
+            "HTML": 1128
+        }
+    },
+    {
+        "name": "exotic-fish-java",
+        "description": "Exotic fish website built on Java servlets and server pages",
+        "languages": {
+            "Java": 75938,
+            "HTML": 42184,
+            "CSS": 12482,
+            "JavaScript": 11990,
+            "PHP": 840
+        }
+    },
+    {
+        "name": "JavaWebServer",
+        "description": "Web Server made in java capable of hosting any web page.",
+        "languages": {
+            "Java": 9472,
+            "HTML": 723
+        }
+    },
+    {
+        "name": "Sports-Management-System-Using-Jsp",
+        "description": "A Basic Sports Management Web Application  using java server pages (JSP)",
+        "languages": {
+            "Java": 87895,
+            "HTML": 10235,
+            "CSS": 4910
+        }
+    },
+    {
+        "name": "rsp-tetris",
+        "description": "A Tetris game web application in Java with Reactive Server Pages.",
+        "languages": {
+            "Java": 15249,
+            "CSS": 1412
+        }
+    },
+    {
+        "name": "OnlineBankingPortal",
+        "description": "Java Server Pages and Java Servlets based basic Online Banking Portal",
+        "languages": {
+            "Java": 232645,
+            "CSS": 184008
+        }
+    },
+    {
+        "name": "J2EE_HW4",
+        "description": "Build a website server to store user's favorite website pages",
+        "languages": {
+            "Java": 54158
+        }
+    },
+    {
+        "name": "KiboThrift",
+        "description": "Aplikasi WebSite Jual/Beli Baju Bekas, menggunakan (OOP) Java Server Pages",
+        "languages": {
+            "Java": 214632,
+            "CSS": 51742
+        }
+    },
+    {
+        "name": "todo-list-jsp",
+        "description": "To-do list app using Java Server Pages and MVC pattern",
+        "languages": {
+            "Java": 13328,
+            "CSS": 1846
+        }
+    },
+    {
+        "name": "Payment_Project",
+        "description": "Payment UI Page + Server and Independent Gateway",
+        "languages": {
+            "Java": 23896,
+            "JavaScript": 7800,
+            "CSS": 2735,
+            "HTML": 1721
+        }
+    },
+    {
+        "name": "game-of-selections",
+        "description": "The web application to management of selections and edicts using Java Server Pages.",
+        "languages": {
+            "Java": 354653,
+            "JavaScript": 59512
+        }
+    },
+    {
+        "name": "rsp-admin",
+        "description": "A back-office admin web UI framework on top of Reactive Server Pages.",
+        "languages": {
+            "Java": 70845,
+            "CSS": 79
+        }
+    },
+    {
+        "name": "E-SAHAYA",
+        "description": "It is a full stack development project with help of java server pages.",
+        "languages": {
+            "Java": 72218,
+            "CSS": 18451,
+            "HTML": 10344,
+            "JavaScript": 544
+        }
+    },
+    {
+        "name": "Jsp-view-in-springboot",
+        "description": "Java server page(JSP) view  in  Springboot application",
+        "languages": {
+            "Java": 1899
+        }
+    },
+    {
+        "name": "ServerPackCreatorExampleAddon",
+        "description": "An example addon for ServerPackCreator for use in version 3.x.x. JavaDocs available at https://griefed.pages.griefed.de/ServerPackCreatorExampleAddon/ or https://griefed.github.io/ServerPackCreatorExampleAddon/",
+        "languages": {
+            "Java": 115445
+        }
+    },
+    {
+        "name": "JAVA-AWT-SWING-JSP",
+        "description": "Various Practicals and tasks using Abstract Window Toolkit Components, Swing Components, Java Server Pages.",
+        "languages": {
+            "Java": 37258,
+            "HTML": 3404
+        }
+    },
+    {
+        "name": "jessop",
+        "description": "Jessop is a polyglot templating language in the style of Java Server Pages (JSPs).",
+        "languages": {
+            "Java": 215189,
+            "HTML": 2334,
+            "CSS": 2065
+        }
+    },
+    {
+        "name": "Programming_school_2",
+        "description": "Development of Programming_school application use Java Server Pages , servlets technology, data access object. ",
+        "languages": {
+            "Java": 63973,
+            "CSS": 160
+        }
+    },
+    {
+        "name": "java-programming",
+        "description": "Java can be used to create complete applications that may run on a single computer or be distributed among servers and clients in a network. It can also be used to build a small application module or applet (a simply designed, small application) for use as part of a Web page",
+        "languages": {
+            "Java": 1673
+        }
+    },
+    {
+        "name": "Banking-Management-System-Website",
+        "description": "The website is built using technologies like html, css, javascript,  mysql, JSP(java server pages).",
+        "languages": {
+            "Java": 101244,
+            "CSS": 2903
+        }
+    },
+    {
+        "name": "CognitoDemoThymeleaf",
+        "description": "This is the CognitoDemo application with web pages rewritten to use Thymeleaf templates, rather than the Java Server Pages used by the CognitoDemo application.",
+        "languages": {
+            "Java": 84418,
+            "HTML": 28084,
+            "CSS": 1128
+        }
+    },
+    {
+        "name": "Jack_mobile_money_system",
+        "description": "A network application that supports mobile money transactions and overall management implemented using java server pages",
+        "languages": {
+            "Java": 64148
+        }
+    },
+    {
+        "name": "MailServer",
+        "description": "The MailServer is an application designed to serve HTTP requests from users and provide users also a form to send their emails and an administrative status page for their messages.",
+        "languages": {
+            "Java": 35988
+        }
+    },
+    {
+        "name": "JspUyelikSistemi",
+        "description": "Java Server Page ile haz\u0131rlanm\u0131\u015f , Mysql ile ba\u011flant\u0131l\u0131 bir \u00fcyelik sistemi.",
+        "languages": {
+            "Java": 6881
+        }
+    },
+    {
+        "name": "M7Server",
+        "description": "Welcome to the M7 Firing System page. I designed the M7 firing system as an easy to use and safe system to ignite fireworks using a Raspberry Pi and an Android app. .   ",
+        "languages": {
+            "Java": 60644,
+            "HTML": 678
+        }
+    },
+    {
+        "name": "jsp_action",
+        "description": "This is a simple web project showing how to create a jsp application with java and java server pages",
+        "languages": {
+            "Java": 3910
+        }
+    },
+    {
+        "name": "javawebserver",
+        "description": "Web Server made in java capable of hosting any web page. With a custom error page and dynamic path.",
+        "languages": {
+            "Java": 5100,
+            "HTML": 726
+        }
+    },
+    {
+        "name": "sea-web",
+        "description": "Web system with Spring Boot and server-side page with Angular JS",
+        "languages": {
+            "Java": 47481,
+            "HTML": 33512,
+            "JavaScript": 1964,
+            "CSS": 250
+        }
+    },
+    {
+        "name": "network-programming",
+        "description": "networks programs from university labs (dns, server-client, page extracting with json)",
+        "languages": {
+            "Java": 13853,
+            "Python": 621
+        }
+    },
+    {
+        "name": "All-About-Movies-using-jsp-and-servlet",
+        "description": "Use tomcat server to access these files. Open the login page first.  ",
+        "languages": {
+            "Java": 38946,
+            "CSS": 2340
+        }
+    },
+    {
+        "name": "Internet-Programming",
+        "description": "MVC design pattern, Servlets, Java Server Pages and Enterprise Java Beans (EJBs) to solve problems arising in the software industry.",
+        "languages": {
+            "Java": 35013,
+            "HTML": 3095
+        }
+    },
+    {
+        "name": "SimpleAndroidHTTPServer",
+        "description": "A simple http server that runs on android. Currently only displays a simple index.html page and a 404 error page",
+        "languages": {
+            "Java": 17504,
+            "HTML": 528,
+            "CSS": 25
+        }
+    },
+    {
+        "name": "Fatec-Zona-Sul_WebProjetoPadaria",
+        "description": "Projeto java web feito com Java Server Pages (JSP) que utiliza do Framework Materialize para estiliza\u00e7\u00e3o e do banco de dados MySQL.",
+        "languages": {
+            "Java": 53242,
+            "HTML": 1192
+        }
+    },
+    {
+        "name": "Blood-Bank-Management-System",
+        "description": "\u2022 Java Server Pages \u2022 TomCat,Java JDBC \u2022 HTML,CSS,MySql \u2022 Apache HTTP Server  This Project is build for local level blood Management,Donor can Register itself and can receiver can request for blood.",
+        "languages": {
+            "Java": 21171,
+            "CSS": 3821,
+            "HTML": 999
+        }
+    },
+    {
+        "name": "E-Commerce-Web-Application_Adv-Java",
+        "description": "Basic languages and technologies used in this project are Java Server Pages, Java Beans, Java Servlet, MySql, HTML5, CSS, and BOOTSTRAP, Java, TOMCAT Server, Weblogic, DreamWeaver, Google chrome or Mozilla Firefox browser.",
+        "languages": {
+            "Java": 199880,
+            "JavaScript": 62136,
+            "CSS": 36399,
+            "CoffeeScript": 19515,
+            "HTML": 10216
+        }
+    },
+    {
+        "name": "File-Sharing-Web-API-Server-using-Java",
+        "description": "Designed a Web Server for clients to visit web pages using Multi-threading, Servlets, JSP, JSF, HTML and CSS. Used Server Socket, Socket and Inet4Address libraries to provide chat functionality to users and designed database in MySQL to store the chat history of users. Maintained entire web applications from HTML, SQL to J2EE. Threshold is set to 4 so, the server will terminate automatically after 4 succesful requests.",
+        "languages": {
+            "Java": 5149,
+            "HTML": 2098
+        }
+    },
+    {
+        "name": "jsptask",
+        "description": "I have created Login /  Register page using Java Server Pages , and myswql using  database using MVC framework with proper validation of each input on both client side as well as server side. I have also written JUnit test case for the each activity.",
+        "languages": {
+            "Java": 21495
+        }
+    },
+    {
+        "name": "swingheil-web-app",
+        "description": "It's a back-end server and provides web page for swing dance event organizer. ",
+        "languages": {
+            "Java": 7943,
+            "CSS": 1615
+        }
+    },
+    {
+        "name": "Remote-Viewer-Application-Windows-Server",
+        "description": "Web server \u2022 Stores and updates image data received from desktop application which is associated with a specific project using project name, password, and unique ID. \u2022 It provides image by authenticating request from web browser with respect to projects. \u2022 It has web page stored which can be accessed by web browsers.",
+        "languages": {
+            "Java": 23618
+        }
+    },
+    {
+        "name": "Online-personal-counselling",
+        "description": "Basically this is an advance java project where i have used Apache tomcat server. For the server side i used servlets and java server pages. For the front end i used  HTML and CSS and little bit of javascript. For database i have used MySQL. ",
+        "languages": {
+            "Java": 109659,
+            "CSS": 8533
+        }
+    },
+    {
+        "name": "jaguar",
+        "description": "Login page for JAGUAR. Created to learn Java back-end and experiment with client-server programming.",
+        "languages": {
+            "Java": 45732,
+            "HTML": 24954,
+            "CSS": 620
+        }
+    },
+    {
+        "name": "starbound-workshop-to-human-readable",
+        "description": "Pulls the name for your starbound mods from their steam workshop pages' HTML to make your mods more readable for an external copy, or server.",
+        "languages": {
+            "Java": 10363
+        }
+    },
+    {
+        "name": "JAVA-HTTP-SERVER-html-javscript",
+        "description": "The project was intended to create an HTTP server that works on port 80. This is a custom server where you can change the port and provide the required HTML in the html field and required js in the javascript field and it will be delivered to the client requested the page.",
+        "languages": {
+            "Java": 1876
+        }
+    },
+    {
+        "name": "Attendance-Management-System",
+        "description": "A web application to automate the traditional pen and paper scheme of attendance management in colleges . The project uses MySQL, HTML, Javascript and Java Server Pages.",
+        "languages": {
+            "Java": 181162,
+            "CSS": 3580
+        }
+    },
+    {
+        "name": "Quiz-Web-Application",
+        "description": "This is a web-based Quiz Application built with Java Web-Technologies like JSP(Java Server Pages), Java Servlets, JDBC Drivers. The database used in this application is MYSQL.",
+        "languages": {
+            "Java": 56083,
+            "CSS": 7838
+        }
+    },
+    {
+        "name": "spring-mvc",
+        "description": "Spring Model-View-Control Project using java server page, java persistence API, and Spring Boot version 2.2.1",
+        "languages": {
+            "Java": 5455
+        }
+    },
+    {
+        "name": "pokemonDB",
+        "description": "For Dickinson College Comp378 final presentation, we constructed a dynamic web page that can interact with the database server.",
+        "languages": {
+            "Java": 56801,
+            "CSS": 5443
+        }
+    },
+    {
+        "name": "HTTPResponseCodes",
+        "description": "This java app checks websites availability and also get http response code of the page if server is available.",
+        "languages": {
+            "Java": 3551,
+            "HTML": 97
+        }
+    },
+    {
+        "name": "Java-JSP_Academia",
+        "description": "Projeto em Java para web, para saber qual o pacote de um cliente de uma Academia, e exibir o resultado em uma segunda p\u00e1gina, utilizando Java Server Pages com NetBens.",
+        "languages": {
+            "Java": 7649
+        }
+    },
+    {
+        "name": "Andriod-app-with-cpanel-login-page",
+        "description": "Login authentication page for an Android app with cpanel web-hosting using back-end Java and PHP on server side  ",
+        "languages": {
+            "Java": 5190,
+            "PHP": 648
+        }
+    },
+    {
+        "name": "VerifyWeb",
+        "description": "VerifyWeb is a system for verifying new players on your server using a form with captcha on a web page.",
+        "languages": {
+            "Java": 6241,
+            "PHP": 4613,
+            "CSS": 1716
+        }
+    },
+    {
+        "name": "EMS-Springboot",
+        "description": "Developed a Multi-Page Monolithic Application using Spring (MVC) which uses the View layer as Java Server Pages (JSP). This project was developed while learning the Advanced Java Module at CDAC. It fetched data of Employees from MySQL and persisted using the JPA Repository.",
+        "languages": {
+            "Java": 102140,
+            "HTML": 9920
+        }
+    },
+    {
+        "name": "RestAssured-Demo-Project",
+        "description": "demo restAssured framework for performing crud operations end to end scenario using page object model, pojo class, testNG API testData provider, Serialization , deserialization , jacksonDataBind and json server integrating with allure reporting and jenkins server ",
+        "languages": {
+            "Java": 11401
+        }
+    },
+    {
+        "name": "Online-Council",
+        "description": "It is an project on online counselling system.It is written in java .This project includes many Jsp pages (Java Server Pages).User first need to register himself and then he can login after he will be able to querry about counselling  .Admin page is also available through which he can see which user has logged in and whats there querry and For storing the data ORACLE database is used.",
+        "languages": {
+            "Java": 220450,
+            "HTML": 182587,
+            "JavaScript": 3239,
+            "CSS": 530
+        }
+    },
+    {
+        "name": "Pharmacyproject",
+        "description": "Online Pharmacy Management is developed for a Pharmacy which want to manage routine operation. Pharmacy management system is developed in Java Server Pages with netbeans as a IDE. It has a good GUI with HTML and CSS.",
+        "languages": {
+            "Java": 172749,
+            "Hack": 4016,
+            "CSS": 2164
+        }
+    },
+    {
+        "name": "Sistema-Farmacia-Java-",
+        "description": "Internal Web application created for a Pharmacy management. Helps on the daily management of a small to medium sized Pharmacy, where the main focus is the product stock control, with a relation based on its stock quantity, its details and company providers. Built With Java EE on Java Server Pages and Java Server Faces (JSF) XHTML framework",
+        "languages": {
+            "Java": 20123,
+            "HTML": 14718,
+            "CSS": 258,
+            "JavaScript": 252
+        }
+    },
+    {
+        "name": "Movie-recommender-web-app",
+        "description": "The client (Angular) gets a list of movies to rate from the server (Spring Boot) and sends the posts the ratings back. It is then redirected to the recommendations page where it gets a list of recommended movies from the server",
+        "languages": {
+            "Java": 28543,
+            "TypeScript": 13327,
+            "HTML": 7941,
+            "JavaScript": 2335,
+            "Sass": 934
+        }
+    },
+    {
+        "name": "Elena_Http",
+        "description": "This project is mainly to simulate the HTTP server, including the main functions: 1 upload attachments 2, return the dynamic loading page according to the requested address",
+        "languages": {
+            "Java": 89436
+        }
+    },
+    {
+        "name": "Servlet",
+        "description": "Back end server API in Java. Renders HTML to the user. Accepts user input through a form and modify it then return it back to the page.",
+        "languages": {
+            "Java": 3080,
+            "HTML": 658
+        }
+    },
+    {
+        "name": "SQLite-Infinite-Pagination",
+        "description": "How to page SQLite data using Infinite/Endless scroll at the server side.We first add data and show in a RecyclerView. More at http://camposha.info",
+        "languages": {
+            "Java": 9503
+        }
+    },
+    {
+        "name": "WebShoeShop",
+        "description": "Shoe Store. That's a web application written on Java with Java Servlet Pages instead of common HTML. I'm also used here the Bootstrap library. As a server, I was using the GlassFish to compile a whole project to a browser.",
+        "languages": {
+            "Java": 93876
+        }
+    },
+    {
+        "name": "uww-alumni-web-app",
+        "description": "UWW's alumni web application.  Calculates and displays various graduate statistics from MySQL database of graduates from the computer science department.  Front end uses Java Server Pages.  Implements Google Maps API and Word Cloud.  See average salary, employment rate, employer and school locations, and more.",
+        "languages": {
+            "Java": 46649,
+            "CSS": 4044,
+            "JavaScript": 1071
+        }
+    },
+    {
+        "name": "JSTL_CRUD_Operation",
+        "description": "The JSTL CRUD Operation is a project that aims to provide a user-friendly and efficient web application for performing CRUD operations (Create, Read, Update, and Delete) on a database. This project uses Java Server Pages Standard Tag Library (JSTL) to perform database operations.",
+        "languages": {
+            "Java": 13137
+        }
+    },
+    {
+        "name": "dasein-cloud-rackspace",
+        "description": "DEPRECATED -> Support for the old Rackspace Cloud Servers + Cloud Files. For more information on Dasein Cloud, see the Dasein Cloud home page at https://github.com/greese/dasein-cloud.",
+        "languages": {
+            "Java": 227814
+        }
+    },
+    {
+        "name": "Twitter-Sentiment-Analysis",
+        "description": "This project deals with building an user interface using Java Server Pages where the user enters a query as a hashtag or a simple word and gets the analysis based on tweets on that topic. The analysis is done using a python script running in the backend.",
+        "languages": {
+            "Java": 30917,
+            "CSS": 9080,
+            "Python": 5053,
+            "HTML": 1417
+        }
+    },
+    {
+        "name": "Nutrilite",
+        "description": "A food ordering web application using Java (Java Server Pages), which allows users to customize food orders, ingredients, quantity based on health needs such as basic metabolic rate, diet needs, fasting requirements and medical issues. We have implemented database logic using JDBC API\u2019s to connect to MySQL database.",
+        "languages": {
+            "Java": 51104,
+            "HTML": 4188
+        }
+    },
+    {
+        "name": "retrotime",
+        "description": "It is an angular single-page application with RESTful web services. The web services on back-end/server side were developed using Spring, Spring Data, JPA/Hibernate and a few other tools.",
+        "languages": {
+            "Java": 89839,
+            "JavaScript": 62870,
+            "HTML": 27250,
+            "CSS": 12246
         }
     }
 ]

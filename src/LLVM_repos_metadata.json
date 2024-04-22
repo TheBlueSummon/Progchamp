@@ -76,5 +76,3317 @@
             "Shell": 19577,
             "Dockerfile": 937
         }
+    },
+    {
+        "name": "swift-llvm",
+        "description": null,
+        "languages": {
+            "LLVM": 131753512,
+            "C++": 82565298,
+            "Assembly": 47836974,
+            "Python": 971620,
+            "C": 848808,
+            "CMake": 523558,
+            "OCaml": 305839,
+            "Go": 144690,
+            "Shell": 97233,
+            "HTML": 37873,
+            "Perl": 25354,
+            "Vim Script": 17467,
+            "CSS": 12605,
+            "Emacs Lisp": 10692,
+            "Objective-C": 10229,
+            "Batchfile": 9003,
+            "Dockerfile": 5884,
+            "Pawn": 1572,
+            "Swift": 271,
+            "Roff": 39,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "Pluto",
+        "description": "Obfuscator based on LLVM 14.0.6",
+        "languages": {
+            "LLVM": 284836255,
+            "C++": 266643252,
+            "C": 83446370,
+            "Assembly": 73003318,
+            "Objective-C": 4027149,
+            "Python": 2296230,
+            "HTML": 1604242,
+            "CMake": 974963,
+            "Objective-C++": 827309,
+            "Cuda": 659308,
+            "OCaml": 363424,
+            "Go": 150081,
+            "Perl": 123140,
+            "Shell": 111293,
+            "Roff": 61430,
+            "JavaScript": 59783,
+            "Batchfile": 32263,
+            "CSS": 30521,
+            "Emacs Lisp": 29427,
+            "C#": 27973,
+            "Vim Script": 21206,
+            "Fortran": 13264,
+            "Dockerfile": 9713,
+            "Makefile": 6982,
+            "M": 6965,
+            "Cool": 5402,
+            "TypeScript": 2805,
+            "AppleScript": 1429,
+            "RenderScript": 741,
+            "SWIG": 635,
+            "Swift": 271,
+            "Rust": 200,
+            "Pawn": 54
+        }
+    },
+    {
+        "name": "Tigress_protection",
+        "description": "Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM.",
+        "languages": {
+            "LLVM": 29821094,
+            "Python": 22134958,
+            "C": 4626168,
+            "Shell": 97345,
+            "Perl": 88282,
+            "CMake": 22573,
+            "Dockerfile": 1708,
+            "C++": 361
+        }
+    },
+    {
+        "name": "mapping-high-level-constructs-to-llvm-ir",
+        "description": "A guide that explains how high level programming language constructs are mapped to the LLVM intermediate language.",
+        "languages": {
+            "LLVM": 55654,
+            "Python": 12182,
+            "C++": 6091,
+            "Makefile": 2075,
+            "Dockerfile": 1476,
+            "Batchfile": 838,
+            "Rust": 400
+        }
+    },
+    {
+        "name": "clspv",
+        "description": "Clspv is a compiler for OpenCL C to Vulkan compute shaders",
+        "languages": {
+            "LLVM": 2789305,
+            "C": 2237942,
+            "C++": 1579378,
+            "Python": 71642,
+            "CMake": 32801,
+            "Shell": 22759,
+            "Cool": 4944,
+            "Batchfile": 3924,
+            "Perl": 2008,
+            "Clojure": 118
+        }
+    },
+    {
+        "name": "DirtyCred",
+        "description": "Kernel exploitation technique",
+        "languages": {
+            "LLVM": 755227,
+            "C++": 100446,
+            "CMake": 1429,
+            "Makefile": 631
+        }
+    },
+    {
+        "name": "llvm-hs",
+        "description": "Haskell bindings for LLVM",
+        "languages": {
+            "LLVM": 76290454,
+            "Haskell": 781785,
+            "C++": 116255,
+            "C": 36593,
+            "Nix": 1628
+        }
+    },
+    {
+        "name": "llvm-ir",
+        "description": "LLVM IR in natural Rust data structures",
+        "languages": {
+            "LLVM": 741426,
+            "Rust": 578763,
+            "Makefile": 11734,
+            "C": 2791,
+            "Shell": 539,
+            "C++": 201
+        }
+    },
+    {
+        "name": "SPIRV-LLVM-Translator",
+        "description": "A tool and a library for bi-directional translation between SPIR-V and LLVM IR",
+        "languages": {
+            "LLVM": 10988495,
+            "C++": 2149140,
+            "C": 833602,
+            "CMake": 11539,
+            "Shell": 5772,
+            "Python": 3269,
+            "Pawn": 2548,
+            "Cool": 1078
+        }
+    },
+    {
+        "name": "UV_K5_playground",
+        "description": null,
+        "languages": {
+            "LLVM": 1673131,
+            "C": 471972,
+            "C++": 115738,
+            "CMake": 32021,
+            "Assembly": 7181,
+            "Python": 4105,
+            "Shell": 133
+        }
+    },
+    {
+        "name": "vellvm",
+        "description": "The Vellvm (Verified LLVM) coq development.",
+        "languages": {
+            "LLVM": 22497346,
+            "Coq": 6617263,
+            "OCaml": 188312,
+            "Shell": 32180,
+            "C": 23975,
+            "Makefile": 6327,
+            "Nix": 6185,
+            "Verilog": 1
+        }
+    },
+    {
+        "name": "anvill",
+        "description": "anvill forges beautiful LLVM bitcode out of raw machine code",
+        "languages": {
+            "LLVM": 2131064,
+            "C++": 917375,
+            "Python": 254741,
+            "CMake": 38246,
+            "Shell": 30664,
+            "C": 4116,
+            "Dockerfile": 4110,
+            "SMT": 2176
+        }
+    },
+    {
+        "name": "reopt",
+        "description": "A tool for analyzing x86-64 binaries.",
+        "languages": {
+            "LLVM": 1170998,
+            "Haskell": 874507,
+            "Assembly": 185011,
+            "TypeScript": 94792,
+            "C": 52204,
+            "Shell": 21684,
+            "Python": 13766,
+            "Makefile": 9318,
+            "Dockerfile": 4660,
+            "CSS": 847,
+            "C++": 166,
+            "HTML": 130
+        }
+    },
+    {
+        "name": "sys",
+        "description": "Sys: A Static/Symbolic Tool for Finding Good Bugs in Good (Browser) Code",
+        "languages": {
+            "LLVM": 691948,
+            "Haskell": 560175,
+            "Python": 4335,
+            "C": 4143,
+            "Dockerfile": 1245
+        }
+    },
+    {
+        "name": "dagger",
+        "description": "Binary Translator to LLVM IR",
+        "languages": {
+            "LLVM": 68754458,
+            "C++": 62556941,
+            "Assembly": 28247379,
+            "Mirah": 1898269,
+            "C": 710632,
+            "Python": 654361,
+            "CMake": 369625,
+            "OCaml": 301514,
+            "Go": 128706,
+            "Shell": 80205,
+            "Perl": 27776,
+            "Vim Script": 17243,
+            "Objective-C": 12653,
+            "Emacs Lisp": 9440,
+            "CSS": 6061,
+            "Batchfile": 4464,
+            "PHP": 1544,
+            "Makefile": 1427,
+            "Roff": 39,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "cheerp-llvm",
+        "description": "Legacy repo, migrated to cheerp-compiler monorepo",
+        "languages": {
+            "LLVM": 135124422,
+            "C++": 85356611,
+            "Assembly": 53252219,
+            "Python": 979764,
+            "C": 849596,
+            "CMake": 527965,
+            "OCaml": 305839,
+            "Go": 149213,
+            "Shell": 97233,
+            "HTML": 37873,
+            "Perl": 25574,
+            "Vim Script": 17467,
+            "Objective-C": 13776,
+            "CSS": 12605,
+            "Emacs Lisp": 10710,
+            "Batchfile": 9005,
+            "Dockerfile": 5884,
+            "NASL": 5780,
+            "Makefile": 2290,
+            "Starlark": 284,
+            "Swift": 271,
+            "Roff": 39,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "emscripten-fastcomp",
+        "description": "LLVM plus Emscripten's asm.js backend",
+        "languages": {
+            "LLVM": 85578717,
+            "C++": 70583304,
+            "Assembly": 27695104,
+            "C": 768471,
+            "Python": 744409,
+            "CMake": 436569,
+            "OCaml": 302911,
+            "Go": 135594,
+            "Shell": 96709,
+            "Perl": 25354,
+            "HTML": 20526,
+            "Vim Script": 17324,
+            "Batchfile": 12694,
+            "CSS": 12438,
+            "Objective-C": 10246,
+            "Emacs Lisp": 9440,
+            "Dockerfile": 6546,
+            "NASL": 5714,
+            "Swift": 271,
+            "Roff": 39
+        }
+    },
+    {
+        "name": "pil21",
+        "description": "PicoLisp is an open source Lisp dialect. It is based on LLVM and compiles and runs on any 64-bit POSIX system. Its most prominent features are simplicity and minimalism. ",
+        "languages": {
+            "LLVM": 3535791,
+            "PicoLisp": 975847,
+            "C": 113357,
+            "Common Lisp": 71484,
+            "JavaScript": 31967,
+            "CSS": 5498,
+            "Lex": 3722,
+            "Makefile": 2238,
+            "Shell": 126
+        }
+    },
+    {
+        "name": "llvm",
+        "description": "Fork of the LLVM Compiler Infrastructure",
+        "languages": {
+            "LLVM": 110270100,
+            "C++": 76210525,
+            "Assembly": 40813213,
+            "Python": 895335,
+            "C": 837359,
+            "CMake": 491367,
+            "OCaml": 304968,
+            "Go": 139356,
+            "Shell": 95545,
+            "Perl": 25354,
+            "HTML": 20612,
+            "Vim Script": 17437,
+            "CSS": 12438,
+            "Emacs Lisp": 10676,
+            "Objective-C": 10226,
+            "Batchfile": 7688,
+            "Dockerfile": 5797,
+            "NASL": 5724,
+            "Starlark": 284,
+            "Swift": 271,
+            "Roff": 39
+        }
+    },
+    {
+        "name": "TreeNewBee",
+        "description": "\u6811\u65b0\u98ce",
+        "languages": {
+            "LLVM": 30119,
+            "Smali": 8190,
+            "JavaScript": 5453,
+            "C#": 4890,
+            "Objective-C++": 4381,
+            "Visual Basic .NET": 3984,
+            "Euphoria": 3982,
+            "Java": 3965,
+            "Kotlin": 3352,
+            "C++": 3176,
+            "Go": 3012,
+            "C": 3004,
+            "OCaml": 2977,
+            "Rust": 2863,
+            "TypeScript": 2826,
+            "Swift": 2743,
+            "Shell": 2516,
+            "Python": 2447,
+            "CMake": 2391,
+            "MATLAB": 2308,
+            "Scala": 2193,
+            "PowerShell": 2102,
+            "PHP": 2045,
+            "Lua": 1925,
+            "AutoHotkey": 1861,
+            "Ruby": 1661
+        }
+    },
+    {
+        "name": "adin-llvm",
+        "description": "Specialized version of the LLVM compiler with the ADIN code transformer pass",
+        "languages": {
+            "LLVM": 123153895,
+            "C++": 78654116,
+            "Assembly": 42998587,
+            "Python": 937703,
+            "C": 857515,
+            "CMake": 500708,
+            "OCaml": 304959,
+            "Go": 140704,
+            "Shell": 96045,
+            "Perl": 25354,
+            "HTML": 20612,
+            "Vim Script": 17442,
+            "CSS": 12438,
+            "Emacs Lisp": 10683,
+            "Objective-C": 10226,
+            "Batchfile": 8357,
+            "Dockerfile": 5797,
+            "NASL": 5724,
+            "Starlark": 284,
+            "Swift": 271,
+            "Roff": 39
+        }
+    },
+    {
+        "name": "TicklingVMProtect",
+        "description": "Assets for the \"Tickling VMProtect with LLVM\" blog post.",
+        "languages": {
+            "LLVM": 641863,
+            "C++": 174607,
+            "Shell": 1223
+        }
+    },
+    {
+        "name": "Tapir-LLVM",
+        "description": "Tapir extension to LLVM for optimizing Parallel Programs",
+        "languages": {
+            "LLVM": 130276935,
+            "C++": 79963248,
+            "Assembly": 43000961,
+            "Python": 938056,
+            "C": 840212,
+            "CMake": 504292,
+            "OCaml": 308904,
+            "Go": 140700,
+            "Shell": 96087,
+            "Perl": 25354,
+            "HTML": 20847,
+            "Vim Script": 17442,
+            "CSS": 12438,
+            "Emacs Lisp": 10856,
+            "Objective-C": 10226,
+            "Batchfile": 8934,
+            "Dockerfile": 5797,
+            "Pawn": 1544,
+            "Swift": 271,
+            "Roff": 39,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "savior-source",
+        "description": "source code for savior fuzzer",
+        "languages": {
+            "LLVM": 70423255,
+            "C": 3681452,
+            "C++": 2142032,
+            "Makefile": 1192247,
+            "Python": 235264,
+            "Roff": 190276,
+            "Shell": 161123,
+            "CMake": 105579,
+            "HTML": 17367,
+            "CSS": 8500,
+            "Perl": 3002,
+            "M4": 1547,
+            "Dockerfile": 1055,
+            "PLpgSQL": 172,
+            "Rich Text Format": 21,
+            "JavaScript": 20
+        }
+    },
+    {
+        "name": "llvm-mirror",
+        "description": "NOTE: The LLVM project now operates official Git mirrors as well: http://llvm.org/docs/GettingStarted.html#git-mirror -- An automated mirror of llvm/trunk from LLVM's SVN. Updates hourly. Release branches and tags are tracked manually. This mirror is *not* commit-ID compatible with the official Git mirrors.",
+        "languages": {
+            "LLVM": 139035668,
+            "C++": 86305007,
+            "Assembly": 53797008,
+            "Python": 1014377,
+            "C": 852170,
+            "CMake": 536242,
+            "OCaml": 306665,
+            "Go": 149205,
+            "Shell": 97425,
+            "HTML": 37873,
+            "Perl": 25574,
+            "Vim Script": 17497,
+            "CSS": 12605,
+            "Emacs Lisp": 10556,
+            "Objective-C": 10226,
+            "Batchfile": 9834,
+            "Dockerfile": 5884,
+            "PHP": 2667,
+            "Swift": 271,
+            "Roff": 39,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "malc",
+        "description": "Mal (Make A Lisp) compiler",
+        "languages": {
+            "LLVM": 24628,
+            "Python": 21451,
+            "Shell": 5910,
+            "Dockerfile": 288
+        }
+    },
+    {
+        "name": "Iril",
+        "description": "Compiles LLVM IR (bytecode) or C to .NET Assemblies",
+        "languages": {
+            "LLVM": 1935998,
+            "C#": 798241,
+            "Shell": 791,
+            "Makefile": 408
+        }
+    },
+    {
+        "name": "nanotube",
+        "description": null,
+        "languages": {
+            "LLVM": 2282708,
+            "C++": 1942009,
+            "Python": 168946,
+            "C": 143353,
+            "Shell": 14088
+        }
+    },
+    {
+        "name": "checkedc-llvm",
+        "description": "Thiis is a *deprecated* repo that contains a version of LLVM that was being modified to support Checked C.   We have moved to a single (mono) repo setup, following the lead of the LLVM community.  See https://github.com/Microsoft/checkedc-clang instead.",
+        "languages": {
+            "LLVM": 123142169,
+            "C++": 78604207,
+            "Assembly": 42998587,
+            "Python": 945233,
+            "C": 857515,
+            "CMake": 503238,
+            "OCaml": 304959,
+            "Go": 140704,
+            "Shell": 96045,
+            "Perl": 25354,
+            "HTML": 20612,
+            "Vim Script": 17442,
+            "CSS": 12438,
+            "Emacs Lisp": 10683,
+            "Objective-C": 10226,
+            "Batchfile": 7850,
+            "Dockerfile": 5797,
+            "NASL": 5724,
+            "Starlark": 284,
+            "Swift": 271,
+            "Roff": 39
+        }
+    },
+    {
+        "name": "AngrCTF_FITM",
+        "description": "Angr CTF From introduction to mastery",
+        "languages": {
+            "LLVM": 11384879,
+            "C": 4792112,
+            "Python": 28689
+        }
+    },
+    {
+        "name": "minotaur",
+        "description": "A description of Minotaur can be found in https://arxiv.org/abs/2306.00229.",
+        "languages": {
+            "LLVM": 22898537,
+            "C": 214526,
+            "Python": 205263,
+            "C++": 160673,
+            "Assembly": 15579,
+            "Perl": 11988,
+            "CMake": 9400,
+            "Dockerfile": 1823,
+            "Shell": 1165
+        }
+    },
+    {
+        "name": "fennec",
+        "description": "Rewriting functions in compiled binaries using McSema",
+        "languages": {
+            "LLVM": 3736655,
+            "C": 13285,
+            "Shell": 12575,
+            "C++": 3502,
+            "CMake": 94
+        }
+    },
+    {
+        "name": "sparrow",
+        "description": "The Sparrow programming language",
+        "languages": {
+            "LLVM": 1364501,
+            "C++": 1244462,
+            "C": 104578,
+            "Python": 46120,
+            "CMake": 24556,
+            "Makefile": 4685,
+            "Shell": 3682,
+            "Perl": 1359,
+            "Dockerfile": 1010,
+            "Prolog": 541
+        }
+    },
+    {
+        "name": "likely",
+        "description": "A compiler intermediate representation for image recognition and heterogeneous computing.",
+        "languages": {
+            "LLVM": 713690,
+            "C++": 286928,
+            "C": 82201,
+            "TeX": 55335,
+            "CMake": 32289,
+            "HTML": 3878,
+            "Common Lisp": 2207,
+            "NewLisp": 245
+        }
+    },
+    {
+        "name": "MetalShaderTools",
+        "description": "Tools and samples for understanding Apple's Metal shading language and its LLVM Bitcode shader files",
+        "languages": {
+            "LLVM": 5834,
+            "Assembly": 3746,
+            "Metal": 2850,
+            "C": 1101,
+            "Python": 986,
+            "Shell": 515
+        }
+    },
+    {
+        "name": "schism",
+        "description": "Semi-implicit Cross-scale Hydroscience Integrated System Model (SCHISM)",
+        "languages": {
+            "LLVM": 52642144,
+            "Fortran": 11600656,
+            "C": 9296872,
+            "Python": 1057963,
+            "TeX": 319582,
+            "MATLAB": 214786,
+            "Yacc": 189529,
+            "CMake": 145749,
+            "Perl": 118278,
+            "Shell": 99418,
+            "Makefile": 87794,
+            "Pascal": 48484,
+            "C++": 42668,
+            "Gnuplot": 31869,
+            "Ruby": 4740,
+            "NCL": 4158,
+            "Grace": 3814,
+            "Roff": 1665,
+            "Dockerfile": 1138,
+            "Assembly": 880,
+            "Batchfile": 312
+        }
+    },
+    {
+        "name": "M680x0-llvm",
+        "description": "M68K LLVM Port",
+        "languages": {
+            "LLVM": 121824674,
+            "C++": 78889400,
+            "Assembly": 42719169,
+            "Python": 931681,
+            "C": 833803,
+            "CMake": 502996,
+            "OCaml": 304959,
+            "Go": 140684,
+            "Shell": 97630,
+            "Perl": 25354,
+            "HTML": 20847,
+            "Vim Script": 17442,
+            "CSS": 12438,
+            "Emacs Lisp": 10683,
+            "Objective-C": 10226,
+            "Batchfile": 7688,
+            "Dockerfile": 5797,
+            "PHP": 1544,
+            "Swift": 271,
+            "Roff": 39,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "SiMBA-",
+        "description": "Port of MBA Solver SiMBA to C/C++",
+        "languages": {
+            "LLVM": 7540679,
+            "C++": 217082,
+            "C": 17567,
+            "Python": 13716,
+            "CMake": 5880
+        }
+    },
+    {
+        "name": "public-notes",
+        "description": "A collection of (public) notes on assorted topics",
+        "languages": {
+            "LLVM": 10838
+        }
+    },
+    {
+        "name": "IR2Vec",
+        "description": "Implementation of IR2Vec, published in ACM TACO",
+        "languages": {
+            "LLVM": 16471954,
+            "Jupyter Notebook": 1618572,
+            "C++": 347296,
+            "Python": 105993,
+            "C": 21022,
+            "Shell": 10590,
+            "CMake": 8186,
+            "Dockerfile": 2184
+        }
+    },
+    {
+        "name": "scheme2llvm",
+        "description": "Based on scheme to LLVM compiler from https://web.archive.org/web/20111220233738/http://www.ida.liu.se/~tobnu/scheme2llvm/",
+        "languages": {
+            "LLVM": 1100006,
+            "Scheme": 71460,
+            "Makefile": 879,
+            "Awk": 313,
+            "Shell": 179
+        }
+    },
+    {
+        "name": "llvm-hs-pretty",
+        "description": "Pretty printer for LLVM AST to Textual IR",
+        "languages": {
+            "LLVM": 125664,
+            "Haskell": 64387,
+            "Nix": 2654
+        }
+    },
+    {
+        "name": "replace_function_name",
+        "description": "LLVM IR\u7f16\u8bd1\u65f6\u66ff\u6362\u51fd\u6570\u540d",
+        "languages": {
+            "LLVM": 72823740,
+            "C++": 62725657,
+            "Assembly": 24715954,
+            "Mirah": 2180694,
+            "C": 711487,
+            "Python": 621616,
+            "CMake": 375019,
+            "OCaml": 301670,
+            "Go": 128706,
+            "Shell": 89764,
+            "Perl": 27776,
+            "Vim Script": 17307,
+            "Objective-C": 12653,
+            "Emacs Lisp": 9440,
+            "Batchfile": 4464,
+            "PHP": 1544,
+            "Roff": 39,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "pacxx-llvm",
+        "description": "Programming Accelerators with C++ (PACXX)",
+        "languages": {
+            "LLVM": 85057219,
+            "C++": 69571449,
+            "Assembly": 27691535,
+            "Mirah": 3056064,
+            "C": 750767,
+            "Python": 744365,
+            "CMake": 434089,
+            "OCaml": 302911,
+            "Go": 135594,
+            "Shell": 92820,
+            "Perl": 25354,
+            "HTML": 20526,
+            "Vim Script": 17324,
+            "Batchfile": 12694,
+            "CSS": 12438,
+            "Objective-C": 10746,
+            "Emacs Lisp": 9440,
+            "PHP": 1544,
+            "Swift": 271,
+            "Roff": 39,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "chocopy-llvm",
+        "description": "A repo to store the compiler project",
+        "languages": {
+            "LLVM": 515054,
+            "C++": 376667,
+            "Assembly": 315156,
+            "Python": 181367,
+            "HTML": 22698,
+            "Java": 21296,
+            "CMake": 9582,
+            "Yacc": 7035,
+            "C": 6477,
+            "ANTLR": 4957,
+            "CSS": 3373,
+            "Lex": 2340,
+            "Shell": 389
+        }
+    },
+    {
+        "name": "llvm2smt",
+        "description": "Experimental translation of llvm to smt.",
+        "languages": {
+            "LLVM": 119708182,
+            "SMT": 602996,
+            "OCaml": 224098,
+            "Standard ML": 27688,
+            "Makefile": 4136
+        }
+    },
+    {
+        "name": "c910-llvm",
+        "description": "\u5e73\u5934\u54e5\u7384\u94c1C910\u7684LLVM\u5de5\u5177\u94fe\u652f\u6301\uff0c\u7531PLCT\u5b9e\u9a8c\u5ba4\u63d0\u4f9b\uff0c\u975e\u5b98\u65b9\u7248\u672c",
+        "languages": {
+            "LLVM": 134149982,
+            "C++": 83394947,
+            "Assembly": 53248582,
+            "Python": 973614,
+            "C": 859045,
+            "CMake": 524830,
+            "OCaml": 305839,
+            "Go": 149213,
+            "Shell": 97290,
+            "HTML": 37638,
+            "Perl": 25574,
+            "Vim Script": 17494,
+            "CSS": 12605,
+            "Objective-C": 11853,
+            "Emacs Lisp": 10710,
+            "Batchfile": 9003,
+            "Dockerfile": 5884,
+            "NASL": 5780,
+            "Starlark": 284,
+            "Swift": 271,
+            "Roff": 39
+        }
+    },
+    {
+        "name": "brainfuck_compilers",
+        "description": "Learn assembly with entirely too many brainfuck compilers",
+        "languages": {
+            "LLVM": 1974613,
+            "WebAssembly": 1177390,
+            "Assembly": 1156324,
+            "Rust": 44439,
+            "Brainfuck": 23066,
+            "Dockerfile": 482
+        }
+    },
+    {
+        "name": "llvm-pretty-bc-parser",
+        "description": "Parser for the llvm bitcode format",
+        "languages": {
+            "LLVM": 1949791,
+            "Haskell": 329424,
+            "Nix": 9795,
+            "C": 4438,
+            "Shell": 3912,
+            "Dockerfile": 1162,
+            "C++": 625
+        }
+    },
+    {
+        "name": "validating-binary-decompilation",
+        "description": "Scalable Validator for Binary Lifters",
+        "languages": {
+            "LLVM": 19365894220,
+            "Makefile": 38837154,
+            "Python": 28824622,
+            "Assembly": 642843,
+            "C++": 420016,
+            "Perl": 301929,
+            "C": 301173,
+            "PostScript": 30630,
+            "Shell": 27439,
+            "R": 15268,
+            "CMake": 10582,
+            "Objective-C": 1682
+        }
+    },
+    {
+        "name": "llvm-to-snes",
+        "description": "LLVM IR \u2192 WLA DX (ASM 65c816) \u2192 SNES Rom",
+        "languages": {
+            "LLVM": 72256385,
+            "C++": 65782248,
+            "Assembly": 24517386,
+            "C": 744101,
+            "Python": 647330,
+            "CMake": 410536,
+            "OCaml": 301514,
+            "Go": 135215,
+            "Shell": 93279,
+            "Perl": 27776,
+            "Vim Script": 17314,
+            "Batchfile": 12694,
+            "Objective-C": 12653,
+            "Emacs Lisp": 9440,
+            "CSS": 6061,
+            "Dockerfile": 5737,
+            "NASL": 5714,
+            "Roff": 39,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "lif",
+        "description": "A tool to eliminate timing-based side channels",
+        "languages": {
+            "LLVM": 6548137,
+            "C": 149040,
+            "C++": 128183,
+            "Haskell": 62442,
+            "Assembly": 25453,
+            "Clojure": 16780,
+            "CMake": 3969,
+            "Python": 498
+        }
+    },
+    {
+        "name": "RetSpill",
+        "description": "RetSpill: Igniting User-Controlled Data to Burn Away Linux Kernel Protections",
+        "languages": {
+            "LLVM": 755227,
+            "C": 719956,
+            "C++": 164496,
+            "Python": 108802,
+            "Shell": 27423,
+            "Makefile": 4150,
+            "CMake": 1426,
+            "Dockerfile": 1205
+        }
+    },
+    {
+        "name": "CNNIOT",
+        "description": null,
+        "languages": {
+            "LLVM": 29051165,
+            "C++": 11980011,
+            "Ada": 5256948,
+            "VHDL": 1147776,
+            "Verilog": 569718,
+            "Tcl": 204984,
+            "Makefile": 19526,
+            "Python": 16541,
+            "Jupyter Notebook": 8790,
+            "Shell": 8065,
+            "C": 572,
+            "Pascal": 284
+        }
+    },
+    {
+        "name": "llvm-semantics",
+        "description": "Formal semantics of LLVM IR in K",
+        "languages": {
+            "LLVM": 46383005,
+            "Makefile": 3972,
+            "TeX": 741,
+            "C": 499
+        }
+    },
+    {
+        "name": "llvm-semantics",
+        "description": "Formal semantics of LLVM IR in K",
+        "languages": {
+            "LLVM": 108175395,
+            "Assembly": 27691535,
+            "C": 1402919,
+            "Python": 109510,
+            "OCaml": 84988,
+            "C++": 73166,
+            "HTML": 20526,
+            "Objective-C": 10246,
+            "Java": 8569,
+            "CSS": 6219,
+            "CMake": 4255,
+            "Makefile": 2719,
+            "Shell": 437,
+            "Swift": 271,
+            "Roff": 39,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "processwarp",
+        "description": null,
+        "languages": {
+            "LLVM": 2736348,
+            "C": 1271195,
+            "C++": 860407,
+            "Assembly": 543919,
+            "Shell": 362889,
+            "TeX": 323102,
+            "Groff": 216187,
+            "Makefile": 157147,
+            "Java": 72969,
+            "M4": 72318,
+            "HTML": 18874,
+            "Python": 16586,
+            "JavaScript": 13800,
+            "CMake": 13655,
+            "Ruby": 2297,
+            "CSS": 1145,
+            "Objective-C": 36
+        }
+    },
+    {
+        "name": "vandalir",
+        "description": null,
+        "languages": {
+            "LLVM": 63271939,
+            "Rust": 189858,
+            "C": 66158,
+            "Python": 19481,
+            "C++": 4288,
+            "Shell": 3468,
+            "Makefile": 1011
+        }
+    },
+    {
+        "name": "sionnx",
+        "description": "Auto-gen Tests Tool for ONNX Compliance",
+        "languages": {
+            "LLVM": 120772594,
+            "C++": 80348638,
+            "Assembly": 45286438,
+            "Python": 996629,
+            "C": 838705,
+            "CMake": 514505,
+            "OCaml": 414841,
+            "Go": 141288,
+            "Shell": 97206,
+            "HTML": 37873,
+            "Perl": 25354,
+            "Roff": 24063,
+            "Vim Script": 17449,
+            "CSS": 15944,
+            "Batchfile": 14026,
+            "Emacs Lisp": 10683,
+            "Objective-C": 10254,
+            "Dockerfile": 5884,
+            "Pawn": 1572,
+            "Swift": 271,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "llvm-gbz80",
+        "description": "LLVM port to the GBZ80 CPU",
+        "languages": {
+            "LLVM": 108642786,
+            "C++": 75507565,
+            "Assembly": 40690446,
+            "Python": 842092,
+            "C": 813038,
+            "CMake": 451844,
+            "OCaml": 302603,
+            "Go": 139079,
+            "Shell": 95545,
+            "Perl": 25354,
+            "HTML": 20612,
+            "Vim Script": 17437,
+            "CSS": 12438,
+            "Emacs Lisp": 10676,
+            "Objective-C": 10226,
+            "Batchfile": 7688,
+            "Dockerfile": 5797,
+            "PHP": 1544,
+            "Swift": 271,
+            "Roff": 39,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "pFuzzer",
+        "description": "The parser-directed Fuzzer",
+        "languages": {
+            "LLVM": 16442502,
+            "HTML": 16000443,
+            "C": 2982432,
+            "Java": 264221,
+            "Python": 236812,
+            "C++": 37009,
+            "Shell": 17116,
+            "Meson": 9278
+        }
+    },
+    {
+        "name": "llvm-capstone",
+        "description": "llvm with tablegen backend for capstone disassembler",
+        "languages": {
+            "LLVM": 373004072,
+            "C++": 117080543,
+            "Assembly": 90657467,
+            "Python": 1396051,
+            "C": 1200007,
+            "CMake": 744524,
+            "OCaml": 363075,
+            "Shell": 85100,
+            "HTML": 45232,
+            "Perl": 25599,
+            "Roff": 24404,
+            "Vim Script": 21232,
+            "Batchfile": 19080,
+            "CSS": 15944,
+            "Emacs Lisp": 11673,
+            "Objective-C": 9142,
+            "Jupyter Notebook": 6852,
+            "Dockerfile": 5073,
+            "TypeScript": 2805,
+            "Makefile": 1795,
+            "Swift": 271,
+            "Pawn": 52
+        }
+    },
+    {
+        "name": "KRFAnalysis",
+        "description": "Collection of LLVM passes and triage tools for use with the KRF fuzzer",
+        "languages": {
+            "LLVM": 33689765,
+            "C++": 31326,
+            "Python": 22688,
+            "Dockerfile": 559,
+            "CMake": 321,
+            "C": 111
+        }
+    },
+    {
+        "name": "ir-examples",
+        "description": "LLVM IR Examples",
+        "languages": {
+            "LLVM": 10765295,
+            "C": 3726,
+            "Crystal": 3102,
+            "C++": 476
+        }
+    },
+    {
+        "name": "Saturn_Results",
+        "description": "This repo contains the tests and results that were done during the research of SATURN",
+        "languages": {
+            "LLVM": 13628923,
+            "Python": 73437,
+            "Assembly": 72960,
+            "C": 49119,
+            "C++": 27118,
+            "Shell": 1530
+        }
+    },
+    {
+        "name": "GNN-DSE",
+        "description": "DAC'22 paper: \"Automated Accelerator Optimization Aided by Graph Neural Networks\"",
+        "languages": {
+            "LLVM": 451264,
+            "C": 247864,
+            "Python": 190519,
+            "Makefile": 30790,
+            "Tcl": 2821,
+            "Shell": 319
+        }
+    },
+    {
+        "name": "GLeeFuzz",
+        "description": null,
+        "languages": {
+            "LLVM": 112274790,
+            "C++": 1234745,
+            "Python": 467279,
+            "HTML": 37390,
+            "C": 19155,
+            "JavaScript": 13949,
+            "CMake": 11773,
+            "Dockerfile": 2751,
+            "Shell": 1009
+        }
+    },
+    {
+        "name": "ATPESC_MachineLearning",
+        "description": "Lecture and hands-on material for Track 8- Machine Learning of  Argonne Training Program on Extreme-Scale Computing",
+        "languages": {
+            "LLVM": 1769405,
+            "Jupyter Notebook": 1141097,
+            "Python": 138570,
+            "Roff": 20632,
+            "Shell": 9151
+        }
+    },
+    {
+        "name": "llvm-revec",
+        "description": "Revectorization passes integrated into the LLVM compiler infrastructure",
+        "languages": {
+            "LLVM": 106704232,
+            "C++": 74800103,
+            "Assembly": 39810643,
+            "Python": 838335,
+            "C": 811143,
+            "CMake": 448155,
+            "OCaml": 302603,
+            "Go": 138110,
+            "Shell": 95529,
+            "Perl": 25354,
+            "HTML": 20612,
+            "Vim Script": 17437,
+            "CSS": 12438,
+            "Emacs Lisp": 10383,
+            "Objective-C": 10226,
+            "Batchfile": 7692,
+            "Dockerfile": 5797,
+            "PHP": 1544,
+            "Swift": 271,
+            "Roff": 39,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "metalift",
+        "description": "A program synthesis framework for verified lifting applications",
+        "languages": {
+            "LLVM": 3892797,
+            "Python": 478348,
+            "Racket": 120660,
+            "Java": 73560,
+            "SMT": 35834,
+            "C++": 15854,
+            "C": 8380,
+            "JavaScript": 8062,
+            "Shell": 3210,
+            "CSS": 2462,
+            "Nix": 1486,
+            "CMake": 1127
+        }
+    },
+    {
+        "name": "esl",
+        "description": "Compiler for a new programming language: Embedded Systems Language (ESL).",
+        "languages": {
+            "LLVM": 7526409,
+            "Shell": 5910,
+            "Makefile": 2768,
+            "Assembly": 1470
+        }
+    },
+    {
+        "name": "bruh",
+        "description": "Bitcode, Readable for Us Humans",
+        "languages": {
+            "LLVM": 1507633,
+            "C++": 186508,
+            "CMake": 3377,
+            "Objective-C": 1660,
+            "C": 543,
+            "Rust": 498,
+            "Swift": 172
+        }
+    },
+    {
+        "name": "NVPTX-SPIRV-Translator",
+        "description": "The translator that supports translating NVPTX to SPIR-V. This translator is modified from LLVM-SPIR-V Translator.",
+        "languages": {
+            "LLVM": 1653135,
+            "C++": 1522961,
+            "C": 656175,
+            "Shell": 11309,
+            "Python": 7865,
+            "CMake": 6147
+        }
+    },
+    {
+        "name": "yali",
+        "description": "A framework to analyze a space formed by the combination of program encodings, obfuscation passes and stochastic classification models.",
+        "languages": {
+            "LLVM": 44362368,
+            "Jupyter Notebook": 289519,
+            "Python": 130552,
+            "Shell": 33855,
+            "Dockerfile": 5718,
+            "C++": 5491,
+            "CMake": 3676
+        }
+    },
+    {
+        "name": "fuzzing-with-sanitizers",
+        "description": "Tools, documentation and test inputs for fuzzing opensource projects with AddressSanitizer and friends.",
+        "languages": {
+            "LLVM": 23313091
+        }
+    },
+    {
+        "name": "parts-llvm",
+        "description": "PARTS / LLVM compiler",
+        "languages": {
+            "LLVM": 85062100,
+            "C++": 69711244,
+            "Assembly": 27691535,
+            "C": 920695,
+            "Python": 744365,
+            "CMake": 436888,
+            "OCaml": 302911,
+            "Go": 135594,
+            "Shell": 92820,
+            "Perl": 25354,
+            "HTML": 20526,
+            "Vim Script": 17324,
+            "Batchfile": 12694,
+            "CSS": 12438,
+            "Objective-C": 10746,
+            "Emacs Lisp": 9440,
+            "Dockerfile": 6546,
+            "Pawn": 1544,
+            "Swift": 271,
+            "Roff": 39,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "AI_compiler_development_guide",
+        "description": "Free resource for the book AI Compiler Development Guide",
+        "languages": {
+            "LLVM": 3272
+        }
+    },
+    {
+        "name": "ticompile",
+        "description": "Explore JIT in TiDB",
+        "languages": {
+            "LLVM": 193622,
+            "Go": 99440,
+            "C++": 10502,
+            "CMake": 1000,
+            "Makefile": 863,
+            "Assembly": 261,
+            "C": 93
+        }
+    },
+    {
+        "name": "Tiger-ocaml-llvm-compiler",
+        "description": "A minimal compiler written in OCaml that compiles Tiger to LLVM IR then to assembly code",
+        "languages": {
+            "LLVM": 153213,
+            "OCaml": 100530,
+            "Assembly": 51274,
+            "C": 3355,
+            "Python": 2941,
+            "Shell": 1719,
+            "Makefile": 1095
+        }
+    },
+    {
+        "name": "AC632Nuke",
+        "description": "\u73e0\u6d77\u6770\u7406AC632N\u7cfb\u5217\u82af\u7247\u7814\u7a76",
+        "languages": {
+            "LLVM": 10379010,
+            "C": 3783664,
+            "Makefile": 9460,
+            "Python": 5724,
+            "Assembly": 426,
+            "Shell": 182
+        }
+    },
+    {
+        "name": "AilProtect",
+        "description": "a code virtualizer based on angr",
+        "languages": {
+            "LLVM": 580803,
+            "Python": 37480,
+            "C++": 36298,
+            "Assembly": 1675
+        }
+    },
+    {
+        "name": "Cardinal",
+        "description": "Similarity Analysis to Defeat Malware Compiler Variations",
+        "languages": {
+            "LLVM": 4147965,
+            "Python": 144963,
+            "Shell": 70150,
+            "C++": 3271,
+            "Gnuplot": 987,
+            "CMake": 740
+        }
+    },
+    {
+        "name": "vivado_hls_tutorial",
+        "description": "Source code of basic Xilinx Vivado HLS image processing tutorial using HLS openCV functions",
+        "languages": {
+            "LLVM": 39622162,
+            "C++": 26850880,
+            "Ada": 4363363,
+            "VHDL": 559647,
+            "Verilog": 389674,
+            "Tcl": 167677,
+            "Makefile": 25870,
+            "C": 11240,
+            "Shell": 1007
+        }
+    },
+    {
+        "name": "embeddedHaskellAetherling",
+        "description": null,
+        "languages": {
+            "LLVM": 377125519,
+            "Verilog": 173977753,
+            "VHDL": 145279415,
+            "C++": 55694175,
+            "Ada": 6434683,
+            "Tcl": 898399,
+            "Haskell": 784307,
+            "Python": 211187,
+            "Shell": 26088,
+            "Makefile": 21245,
+            "Scala": 18571,
+            "C": 2872,
+            "Pascal": 1704
+        }
+    },
+    {
+        "name": "j2-llvm",
+        "description": "LLVM backend for the J2 Core (Hitachi SuperH SH-2 clone)",
+        "languages": {
+            "LLVM": 84889690,
+            "C++": 66326443,
+            "Assembly": 27689495,
+            "Mirah": 3050424,
+            "C": 716815,
+            "Python": 710489,
+            "CMake": 398887,
+            "OCaml": 302911,
+            "Go": 129095,
+            "Shell": 92596,
+            "Perl": 25354,
+            "HTML": 20526,
+            "Vim Script": 17324,
+            "Objective-C": 10746,
+            "Emacs Lisp": 9440,
+            "CSS": 6219,
+            "Batchfile": 4464,
+            "PHP": 1544,
+            "Swift": 271,
+            "Roff": 39,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "SinScheme",
+        "description": "Sinister's Scheme Compiler!",
+        "languages": {
+            "LLVM": 335442,
+            "Assembly": 197059,
+            "Racket": 133403,
+            "C++": 34983,
+            "Scheme": 15857,
+            "C": 11927
+        }
+    },
+    {
+        "name": "llvm-forth",
+        "description": "LLVM Forth Experiments",
+        "languages": {
+            "LLVM": 171106,
+            "JavaScript": 7715,
+            "Makefile": 1081
+        }
+    },
+    {
+        "name": "CuPBoP-AMD",
+        "description": "CuPBoP-AMD is a CUDA translator that translates CUDA programs at NVVM IR level to HIP-compatible IR that can run on AMD GPUs. ",
+        "languages": {
+            "LLVM": 2421125,
+            "C": 1565845,
+            "Cuda": 1136850,
+            "C++": 498505,
+            "Perl": 419258,
+            "Makefile": 102949,
+            "Shell": 70662,
+            "CMake": 17728,
+            "Roff": 2936
+        }
+    },
+    {
+        "name": "vandalir",
+        "description": null,
+        "languages": {
+            "LLVM": 57801486,
+            "Python": 42713,
+            "C++": 1114,
+            "Shell": 138
+        }
+    },
+    {
+        "name": "LLVMCallGraph",
+        "description": "LLVM Call Graph",
+        "languages": {
+            "LLVM": 78181,
+            "Makefile": 9975,
+            "C++": 9384,
+            "CMake": 297,
+            "Shell": 227,
+            "C": 220
+        }
+    },
+    {
+        "name": "Tigress_angr",
+        "description": "Futile attempt to solve the Tigress challenges using angr",
+        "languages": {
+            "LLVM": 271864,
+            "Python": 9465,
+            "C": 195
+        }
+    },
+    {
+        "name": "adworld.xctf-REVERSE",
+        "description": "\u653b\u9632\u4e16\u754c\u9006\u5411\u9898",
+        "languages": {
+            "LLVM": 1478081,
+            "C": 509242,
+            "Python": 74969,
+            "C++": 43773,
+            "Shell": 11272,
+            "JavaScript": 10030,
+            "Batchfile": 7650,
+            "CSS": 2635,
+            "D": 1517,
+            "HTML": 1373,
+            "Java": 1124,
+            "CMake": 159
+        }
+    },
+    {
+        "name": "llvm_stuff",
+        "description": "LLVM based devirtualization PoC\u2019s.",
+        "languages": {
+            "LLVM": 3617861,
+            "C++": 52732,
+            "Brainfuck": 44312,
+            "CMake": 9439,
+            "Shell": 529
+        }
+    },
+    {
+        "name": "linux-bitcode",
+        "description": "Pre-built bitcode files for the Linux kernel",
+        "languages": {
+            "LLVM": 2283686
+        }
+    },
+    {
+        "name": "CubicleOS",
+        "description": "Compartmentalised monolithic library OS",
+        "languages": {
+            "LLVM": 8989130,
+            "C": 5221594,
+            "Python": 662763,
+            "Perl": 208892,
+            "Assembly": 155074,
+            "C++": 87522,
+            "Makefile": 53370,
+            "Yacc": 15475,
+            "Shell": 13580,
+            "Lex": 9764,
+            "Awk": 3748,
+            "HTML": 1106
+        }
+    },
+    {
+        "name": "SysYF-Compiler",
+        "description": "2021\u5e74\u4e2d\u56fd\u79d1\u5b66\u6280\u672f\u5927\u5b66\u7f16\u8bd1\u539f\u7406(H)\u8bfe\u7a0b\u5b9e\u9a8c\u9879\u76ee",
+        "languages": {
+            "LLVM": 3879305,
+            "C++": 548549,
+            "Python": 4188,
+            "CMake": 3238,
+            "C": 787
+        }
+    },
+    {
+        "name": "Hanoi",
+        "description": "61\u7a2e\u985e\u306e\u30d7\u30ed\u30b0\u30e9\u30df\u30f3\u30b0\u8a00\u8a9e\u3067\u30cf\u30ce\u30a4\u306e\u5854\u3092\u5b9f\u88c5\u3010\u3069\u306a\u305f\u3067\u3082\u30d7\u30eb\u30ea\u30af\u304a\u5f85\u3061\u3057\u3066\u3044\u307e\u3059\u263a\ufe0f\u3011",
+        "languages": {
+            "LLVM": 1014,
+            "Brainfuck": 861,
+            "PureScript": 770,
+            "Elm": 485,
+            "Shell": 470,
+            "Assembly": 436,
+            "Nemerle": 406,
+            "Ada": 404,
+            "TypeScript": 399,
+            "JavaScript": 392,
+            "Fortran": 390,
+            "Idris": 377,
+            "Vim Script": 368,
+            "Visual Basic .NET": 360,
+            "Java": 345,
+            "Rust": 327,
+            "Groovy": 324,
+            "C#": 321,
+            "Haskell": 294,
+            "Erlang": 262,
+            "Crystal": 261,
+            "Dart": 261,
+            "Go": 251,
+            "Scala": 247,
+            "Kotlin": 236,
+            "Pascal": 232,
+            "V": 232,
+            "C++": 230,
+            "PowerShell": 230,
+            "C": 226,
+            "D": 223,
+            "Clojure": 217,
+            "Nim": 215,
+            "Swift": 211,
+            "Pike": 209,
+            "Fantom": 203,
+            "Elixir": 200,
+            "OCaml": 199,
+            "Io": 194,
+            "Perl": 187,
+            "PHP": 185,
+            "Lua": 183,
+            "Julia": 182,
+            "Common Lisp": 170,
+            "Scheme": 163,
+            "R": 161,
+            "Mathematica": 154,
+            "Alloy": 153,
+            "F#": 148,
+            "Awk": 140,
+            "CoffeeScript": 138,
+            "Ruby": 135,
+            "Python": 132
+        }
+    },
+    {
+        "name": "llvm",
+        "description": "An LLVM clone modified for use in RetDec and associated tools.",
+        "languages": {
+            "LLVM": 123246608,
+            "C++": 74363153,
+            "Assembly": 42999698,
+            "Python": 937723,
+            "C": 837097,
+            "CMake": 503376,
+            "OCaml": 304959,
+            "Go": 140700,
+            "Shell": 96045,
+            "Perl": 25354,
+            "HTML": 20847,
+            "Vim Script": 17469,
+            "CSS": 12438,
+            "Emacs Lisp": 10683,
+            "Objective-C": 10226,
+            "Batchfile": 8934,
+            "Dockerfile": 5797,
+            "NASL": 5724,
+            "Starlark": 284,
+            "Swift": 271,
+            "Roff": 39,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "mn812_module",
+        "description": "Driver and documentation for an mn812 audio mixer module",
+        "languages": {
+            "LLVM": 28632,
+            "C": 20627,
+            "OpenSCAD": 3672,
+            "CMake": 396
+        }
+    },
+    {
+        "name": "Kleenex",
+        "description": "C++ wrapper around KLEE and AFL for intelligent, coverage guided fuzzing. Developed while doing research at MWR Infosecurity",
+        "languages": {
+            "LLVM": 269054,
+            "C": 21753,
+            "C++": 6389,
+            "Makefile": 2801,
+            "Shell": 200
+        }
+    },
+    {
+        "name": "syllabus",
+        "description": "Syllabus for COP-3402 Fall 2019",
+        "languages": {
+            "LLVM": 34655,
+            "C": 11297,
+            "Assembly": 7086,
+            "Python": 703,
+            "Shell": 536,
+            "Makefile": 477,
+            "Ruby": 299
+        }
+    },
+    {
+        "name": "datuner",
+        "description": "DATuner Repository ",
+        "languages": {
+            "LLVM": 168565010,
+            "C++": 23823775,
+            "C": 216521,
+            "Python": 52813,
+            "Perl": 24095,
+            "Makefile": 16108,
+            "Tcl": 14647,
+            "MATLAB": 13459,
+            "Shell": 11277,
+            "Objective-C": 3251
+        }
+    },
+    {
+        "name": "VHC_CTF_2023",
+        "description": "Codebase for challenges in VHC_CTF_2023",
+        "languages": {
+            "LLVM": 52386,
+            "Python": 41970,
+            "CSS": 14036,
+            "Jupyter Notebook": 9062,
+            "HTML": 7624,
+            "PHP": 7406,
+            "C": 6448,
+            "Dockerfile": 4656,
+            "Shell": 3957,
+            "C++": 3625,
+            "JavaScript": 3415
+        }
+    },
+    {
+        "name": "parallel-and-distributed-computing-homework",
+        "description": "\u4e2d\u5c71\u5927\u5b662020\u5e74\u5e76\u884c\u4e0e\u5206\u5e03\u5f0f\u8ba1\u7b97\u4f5c\u4e1a",
+        "languages": {
+            "LLVM": 30486,
+            "C++": 23718,
+            "Cuda": 21467,
+            "C": 15443,
+            "Shell": 496
+        }
+    },
+    {
+        "name": "llvm-boehmgc-sample",
+        "description": "Example to use Boehm GC on LLVM IR.",
+        "languages": {
+            "LLVM": 2311,
+            "C": 461,
+            "Shell": 384
+        }
+    },
+    {
+        "name": "f4pga-xc7-bram-patch",
+        "description": "Tool for updating the contents of BlockRAMs found in Xilinx 7 series bitstreams.",
+        "languages": {
+            "LLVM": 8286358,
+            "Python": 188941,
+            "Tcl": 19120,
+            "HTML": 14888,
+            "Shell": 12181,
+            "SystemVerilog": 5435,
+            "Makefile": 765,
+            "Pascal": 568
+        }
+    },
+    {
+        "name": "DiffTune",
+        "description": null,
+        "languages": {
+            "LLVM": 123293886,
+            "C++": 81775263,
+            "Assembly": 43003369,
+            "Python": 1027895,
+            "C": 859333,
+            "CMake": 514605,
+            "OCaml": 414001,
+            "Go": 140700,
+            "Starlark": 138002,
+            "Shell": 97757,
+            "Perl": 25354,
+            "Roff": 23975,
+            "HTML": 20612,
+            "Vim Script": 17442,
+            "CSS": 15777,
+            "Batchfile": 14026,
+            "Emacs Lisp": 10683,
+            "Objective-C": 10226,
+            "Dockerfile": 7025,
+            "NASL": 5724,
+            "Makefile": 2433,
+            "Swift": 271
+        }
+    },
+    {
+        "name": "CSE231-LLVM_Program_Analysis",
+        "description": "Program Analysis framework using LLVM. Course project of Advanced Compiler",
+        "languages": {
+            "LLVM": 276248,
+            "C++": 103538,
+            "C": 18721,
+            "CMake": 8403,
+            "Python": 7561,
+            "Shell": 1410
+        }
+    },
+    {
+        "name": "LLVM-obf",
+        "description": "LLVM IR/bitcode obfuscator",
+        "languages": {
+            "LLVM": 66990945,
+            "C++": 53528661,
+            "Assembly": 13682024,
+            "Python": 550162,
+            "Objective-C": 399111,
+            "Mirah": 349248,
+            "C": 332849,
+            "CMake": 316731,
+            "OCaml": 298050,
+            "Go": 127006,
+            "Shell": 75680,
+            "Perl": 27776,
+            "Vim Script": 16946,
+            "Emacs Lisp": 9440,
+            "Batchfile": 3471,
+            "SourcePawn": 1544,
+            "Roff": 39
+        }
+    },
+    {
+        "name": "FPGA_Games",
+        "description": "FPGA Games Gathered from GitHub in one place",
+        "languages": {
+            "LLVM": 45304954,
+            "Verilog": 35983820,
+            "VHDL": 13270194,
+            "HTML": 1136691,
+            "C": 1064119,
+            "Makefile": 325999,
+            "SystemVerilog": 239678,
+            "C++": 218352,
+            "Forth": 197709,
+            "Shell": 121934,
+            "Tcl": 72308,
+            "Assembly": 43542,
+            "Batchfile": 29472,
+            "Stata": 21843,
+            "C#": 20321,
+            "JavaScript": 17249,
+            "AMPL": 8577,
+            "MATLAB": 4832,
+            "Python": 2985,
+            "Mathematica": 2896,
+            "OpenSCAD": 2593,
+            "Java": 1708,
+            "Pascal": 670,
+            "Perl": 610,
+            "Scheme": 434,
+            "Standard ML": 224,
+            "Fortran": 27
+        }
+    },
+    {
+        "name": "MiniC-Compiler",
+        "description": "ZJU\u7f16\u8bd1\u539f\u7406\u5927\u4f5c\u4e1a",
+        "languages": {
+            "LLVM": 99641,
+            "C++": 56722,
+            "Assembly": 39293,
+            "Yacc": 7535,
+            "C": 7124,
+            "JavaScript": 5144,
+            "Lex": 3838,
+            "CMake": 917,
+            "HTML": 420,
+            "Makefile": 109
+        }
+    },
+    {
+        "name": "ollvm-14.x",
+        "description": "WIP",
+        "languages": {
+            "LLVM": 272275711,
+            "C++": 105343307,
+            "Assembly": 67840077,
+            "Python": 1175609,
+            "C": 972312,
+            "CMake": 672990,
+            "OCaml": 363424,
+            "Go": 149886,
+            "Shell": 94527,
+            "HTML": 40551,
+            "Perl": 25599,
+            "Vim Script": 21191,
+            "CSS": 12605,
+            "Emacs Lisp": 11644,
+            "Batchfile": 9778,
+            "Objective-C": 9142,
+            "Dockerfile": 5884,
+            "TypeScript": 2805,
+            "Starlark": 284,
+            "Swift": 271,
+            "Roff": 39
+        }
+    },
+    {
+        "name": "NVPTX-SPIRV-Translator",
+        "description": null,
+        "languages": {
+            "LLVM": 1653135,
+            "C++": 1522961,
+            "C": 656175,
+            "Shell": 11309,
+            "Python": 7865,
+            "CMake": 6147
+        }
+    },
+    {
+        "name": "SYCLomatic-test",
+        "description": null,
+        "languages": {
+            "LLVM": 35340640,
+            "Assembly": 31004453,
+            "C++": 5176093,
+            "Cuda": 4142407,
+            "C": 2557210,
+            "Python": 290902,
+            "CMake": 44966,
+            "Makefile": 4786,
+            "Shell": 2735
+        }
+    },
+    {
+        "name": "Clara",
+        "description": null,
+        "languages": {
+            "LLVM": 57338293,
+            "C++": 7842238,
+            "C": 7710019,
+            "UnrealScript": 726555,
+            "Python": 554119,
+            "Shell": 393075,
+            "Hack": 271915,
+            "Makefile": 224556,
+            "TeX": 202681,
+            "Perl": 195266,
+            "Roff": 164859,
+            "Java": 52628,
+            "Ruby": 41987,
+            "Vim Script": 21113,
+            "Click": 19948,
+            "M4": 5747,
+            "XSLT": 4975,
+            "CMake": 4490,
+            "Yacc": 3267
+        }
+    },
+    {
+        "name": "nwqsim",
+        "description": "High-performance simulator for executing QIR on GPU and CPU backends",
+        "languages": {
+            "LLVM": 8447471,
+            "Cuda": 2398380,
+            "C++": 1951486,
+            "Python": 122216,
+            "Makefile": 25284,
+            "OpenQASM": 11697,
+            "CMake": 7800,
+            "Shell": 4974
+        }
+    },
+    {
+        "name": "llvm-gencode-samples",
+        "description": "Reposit\u00f3rio de exemplos de gera\u00e7\u00e3o de c\u00f3digo intermedi\u00e1rio do LLVM, o LLVM-IR utilizando as LLVM C API e llvmlite (Python).",
+        "languages": {
+            "LLVM": 85631,
+            "Python": 76116,
+            "C": 71978,
+            "C++": 20486,
+            "Makefile": 18106,
+            "Assembly": 10895
+        }
+    },
+    {
+        "name": "Clean-Code-with-CSharp-Second-Edition",
+        "description": "Clean Code with C# Second Edition, published by Packt",
+        "languages": {
+            "LLVM": 8979777,
+            "JavaScript": 5239846,
+            "Java": 4609031,
+            "C#": 710586,
+            "HTML": 39721,
+            "AIDL": 4937,
+            "RAML": 416,
+            "Gherkin": 301
+        }
+    },
+    {
+        "name": "mlir-vitis",
+        "description": "\ud83d\udce5 \ud83c\udfaf (1,4/4) an MLIR-based toolchain with Vitis HLS LLVM input/output targeting FPGAs. ",
+        "languages": {
+            "LLVM": 6981945,
+            "MLIR": 1996823,
+            "CMake": 18904,
+            "Python": 11554
+        }
+    },
+    {
+        "name": "precise-leak-sanitizer",
+        "description": "A dynamic memory leak detector that can pinpoint where memory is lost, using LLVM pass",
+        "languages": {
+            "LLVM": 406968724,
+            "C++": 267261172,
+            "C": 236374645,
+            "Assembly": 99377048,
+            "Objective-C": 4191664,
+            "Python": 2607903,
+            "HTML": 1872404,
+            "CMake": 1486295,
+            "Objective-C++": 865965,
+            "Cuda": 742612,
+            "OCaml": 328977,
+            "Shell": 152103,
+            "HLSL": 139858,
+            "Awk": 127345,
+            "Perl": 108547,
+            "JavaScript": 68221,
+            "Jupyter Notebook": 41237,
+            "Roff": 35336,
+            "Batchfile": 34605,
+            "Emacs Lisp": 31813,
+            "CSS": 28234,
+            "C#": 27973,
+            "Vim Script": 21232,
+            "Pawn": 17347,
+            "Fortran": 13220,
+            "Makefile": 9570,
+            "Dockerfile": 8987,
+            "M": 6976,
+            "Cool": 5401,
+            "TypeScript": 2805,
+            "AppleScript": 1429,
+            "RenderScript": 812,
+            "SWIG": 638,
+            "Swift": 271,
+            "Rust": 200,
+            "BitBake": 52
+        }
+    },
+    {
+        "name": "tinyvm",
+        "description": "A simple VM to play with OSR in LLVM",
+        "languages": {
+            "LLVM": 1428632,
+            "C++": 195315,
+            "C": 95610,
+            "Shell": 7419,
+            "Makefile": 2809
+        }
+    },
+    {
+        "name": "gpuDranoDynamicAnalysis",
+        "description": "An llvm pass for counting global uncoalesced acceses for cuda code via dynamic analysis.",
+        "languages": {
+            "LLVM": 29264950,
+            "Cuda": 1181568,
+            "C": 240440,
+            "C++": 193862,
+            "Makefile": 37309,
+            "Shell": 3412,
+            "Python": 2838,
+            "CMake": 971
+        }
+    },
+    {
+        "name": "Obfvious",
+        "description": null,
+        "languages": {
+            "LLVM": 178766023,
+            "C++": 176575408,
+            "Assembly": 57390507,
+            "C": 32892829,
+            "Objective-C": 3874828,
+            "Python": 2024478,
+            "HTML": 1463690,
+            "Objective-C++": 938258,
+            "CMake": 822446,
+            "Cuda": 477503,
+            "OCaml": 415486,
+            "Go": 149822,
+            "Perl": 124081,
+            "Shell": 98821,
+            "JavaScript": 42269,
+            "Roff": 34995,
+            "Cool": 28985,
+            "Emacs Lisp": 28433,
+            "C#": 27973,
+            "Batchfile": 27432,
+            "CSS": 24339,
+            "Vim Script": 17615,
+            "Fortran": 13328,
+            "Dockerfile": 9833,
+            "Makefile": 8489,
+            "M": 5280,
+            "TypeScript": 2805,
+            "AppleScript": 1429,
+            "RenderScript": 741,
+            "SWIG": 635,
+            "Starlark": 284,
+            "Swift": 271,
+            "Rust": 200
+        }
+    },
+    {
+        "name": "minijava-compiler",
+        "description": "MiniJava to LLVM IR compiler",
+        "languages": {
+            "LLVM": 251913,
+            "Java": 105035,
+            "Makefile": 682
+        }
+    },
+    {
+        "name": "llvm_upt",
+        "description": "llvm backend for upt, a self-defined cpu",
+        "languages": {
+            "LLVM": 139040107,
+            "C++": 86407904,
+            "Assembly": 53797008,
+            "Python": 1014092,
+            "C": 852170,
+            "CMake": 537266,
+            "OCaml": 306665,
+            "Go": 149205,
+            "Shell": 97425,
+            "HTML": 37873,
+            "Perl": 25574,
+            "Vim Script": 17497,
+            "CSS": 12605,
+            "Emacs Lisp": 10556,
+            "Objective-C": 10226,
+            "Batchfile": 9834,
+            "Dockerfile": 5884,
+            "PHP": 2667,
+            "Starlark": 284,
+            "Swift": 271,
+            "Roff": 39,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "llvm-cjg",
+        "description": "An LLVM backend for my custom 32-bit RISC CPU https://scholarworks.rit.edu/theses/9550/",
+        "languages": {
+            "LLVM": 59996297,
+            "C++": 58280209,
+            "Assembly": 14311960,
+            "Mirah": 1079943,
+            "Python": 590337,
+            "Objective-C": 402254,
+            "CMake": 344235,
+            "C": 331459,
+            "OCaml": 300942,
+            "Go": 125628,
+            "Shell": 79669,
+            "Vim Script": 17212,
+            "Perl": 17037,
+            "Emacs Lisp": 9440,
+            "CSS": 5963,
+            "Batchfile": 3964,
+            "SourcePawn": 1544,
+            "Roff": 39,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "lz",
+        "description": "A minimal in MLIR dialect along the lines of STG to represent laziness.",
+        "languages": {
+            "LLVM": 5007840,
+            "C++": 1102194,
+            "MLIR": 429715,
+            "Haskell": 133053,
+            "Lean": 121918,
+            "Python": 50587,
+            "TeX": 21668,
+            "CMake": 13692,
+            "C": 13473,
+            "Shell": 10308,
+            "Makefile": 9053,
+            "Rust": 3901,
+            "Dockerfile": 114
+        }
+    },
+    {
+        "name": "llvm-pass-examples",
+        "description": "Some simple LLVM Pass examples",
+        "languages": {
+            "LLVM": 24635,
+            "C++": 24415,
+            "CMake": 1197
+        }
+    },
+    {
+        "name": "EmployeeMAUIAPP",
+        "description": null,
+        "languages": {
+            "LLVM": 8983829,
+            "Java": 4618392,
+            "C#": 166466,
+            "AIDL": 4937
+        }
+    },
+    {
+        "name": "shard",
+        "description": null,
+        "languages": {
+            "LLVM": 72629731,
+            "C++": 66797615,
+            "Assembly": 24700852,
+            "C": 1489974,
+            "Python": 803485,
+            "CMake": 420491,
+            "OCaml": 410712,
+            "Go": 135215,
+            "Shell": 108655,
+            "Perl": 27776,
+            "Roff": 18838,
+            "Batchfile": 17786,
+            "Vim Script": 17334,
+            "Makefile": 11760,
+            "Emacs Lisp": 9440,
+            "CSS": 9400,
+            "Objective-C": 7931,
+            "Dockerfile": 5737,
+            "NASL": 5714,
+            "HTML": 613
+        }
+    },
+    {
+        "name": "llvm",
+        "description": "DO NOT USE. Use llvm-project instead",
+        "languages": {
+            "LLVM": 123034469,
+            "C++": 78873685,
+            "Assembly": 42780807,
+            "Python": 955335,
+            "C": 833803,
+            "CMake": 505257,
+            "OCaml": 304959,
+            "Go": 140684,
+            "Shell": 96045,
+            "Perl": 25354,
+            "HTML": 20847,
+            "Vim Script": 17442,
+            "CSS": 12438,
+            "Emacs Lisp": 10683,
+            "Objective-C": 10226,
+            "Batchfile": 7688,
+            "Dockerfile": 5797,
+            "PHP": 1544,
+            "Swift": 271,
+            "Roff": 39,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "nvm",
+        "description": null,
+        "languages": {
+            "LLVM": 72625682,
+            "C++": 66803229,
+            "Assembly": 24700852,
+            "Mirah": 2162492,
+            "C": 750543,
+            "Python": 698979,
+            "CMake": 421664,
+            "OCaml": 410712,
+            "Go": 135215,
+            "Shell": 89528,
+            "Perl": 27776,
+            "Roff": 18838,
+            "Batchfile": 17478,
+            "Vim Script": 17334,
+            "Objective-C": 12653,
+            "Emacs Lisp": 9440,
+            "CSS": 9400,
+            "PHP": 1544,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "Simulee",
+        "description": null,
+        "languages": {
+            "LLVM": 8428748,
+            "Cuda": 309144,
+            "Python": 254132,
+            "C++": 213980
+        }
+    },
+    {
+        "name": "seahorn-tutorial",
+        "description": "Supplementary files for SSFT 2015 summer school",
+        "languages": {
+            "LLVM": 51161,
+            "C": 51134,
+            "Python": 25277,
+            "SMT": 17917
+        }
+    },
+    {
+        "name": "HOG_ZYNQ",
+        "description": "The reference platform described in this report, uses a Xilinx ZYNQ-7000 hardware platform ZC702 as the real-time processing element applied to the problem of pedestrian tracking using a histogram of oriented gradients (HOG) and a machine learning based classification.",
+        "languages": {
+            "LLVM": 157942783,
+            "C++": 47508263,
+            "Ada": 4225629,
+            "VHDL": 782860,
+            "Verilog": 547500,
+            "Tcl": 244772,
+            "Makefile": 40057,
+            "C": 14491,
+            "Batchfile": 1221,
+            "Pascal": 284
+        }
+    },
+    {
+        "name": "fragbyte",
+        "description": "GLSL to bytecode compiler and VM",
+        "languages": {
+            "LLVM": 641833,
+            "Java": 193198,
+            "C++": 52565,
+            "C": 19628,
+            "ANTLR": 10850,
+            "GLSL": 7504,
+            "Makefile": 439
+        }
+    },
+    {
+        "name": "ska",
+        "description": "Static Kernel Analyzer (SKA)",
+        "languages": {
+            "LLVM": 1235928,
+            "C++": 217598,
+            "CMake": 4107,
+            "Shell": 3487,
+            "C": 2083
+        }
+    },
+    {
+        "name": "agc-llvm",
+        "description": "LLVM for the Apollo Guidance Computer",
+        "languages": {
+            "LLVM": 124350036,
+            "C++": 79044096,
+            "Assembly": 44112113,
+            "Python": 940125,
+            "C": 837349,
+            "CMake": 503293,
+            "OCaml": 305799,
+            "Go": 141292,
+            "Shell": 96625,
+            "Perl": 25354,
+            "HTML": 20847,
+            "Vim Script": 17442,
+            "CSS": 12438,
+            "Emacs Lisp": 10683,
+            "Objective-C": 10226,
+            "Batchfile": 8934,
+            "Dockerfile": 5884,
+            "PHP": 1572,
+            "Swift": 271,
+            "Roff": 39,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "callgraph-profiler-template",
+        "description": "A template for an introductory project on dynamic analysis using LLVM",
+        "languages": {
+            "LLVM": 38585,
+            "C++": 11436,
+            "CMake": 3627,
+            "Python": 2218,
+            "Makefile": 1637,
+            "C": 1457
+        }
+    },
+    {
+        "name": "cs131-chocopy4",
+        "description": null,
+        "languages": {
+            "LLVM": 544206,
+            "C++": 476001,
+            "Assembly": 442610,
+            "Python": 66004,
+            "HTML": 22698,
+            "Java": 21296,
+            "Yacc": 17536,
+            "CMake": 9617,
+            "Lex": 7079,
+            "C": 6477,
+            "ANTLR": 4957,
+            "CSS": 3373,
+            "Shell": 389
+        }
+    },
+    {
+        "name": "llvm-opt-benchmark",
+        "description": null,
+        "languages": {
+            "LLVM": 32855861733,
+            "Shell": 52104,
+            "Python": 6943,
+            "C": 2594,
+            "CMake": 2238
+        }
+    },
+    {
+        "name": "polli",
+        "description": "Enable Polyhedral JIT compilation",
+        "languages": {
+            "LLVM": 1041843,
+            "C++": 330671,
+            "CMake": 16438,
+            "PHP": 11281,
+            "C": 8713
+        }
+    },
+    {
+        "name": "parasail_git",
+        "description": "Open source files from the Parasail 8 release",
+        "languages": {
+            "LLVM": 27002899,
+            "Ada": 7401836,
+            "Yacc": 747891,
+            "QMake": 427038,
+            "Lex": 205888,
+            "Shell": 122439,
+            "Emacs Lisp": 19044,
+            "PHP": 15704,
+            "Makefile": 11991,
+            "Awk": 8116,
+            "Vim Script": 4628
+        }
+    },
+    {
+        "name": "llvm_playground",
+        "description": null,
+        "languages": {
+            "LLVM": 4008,
+            "Makefile": 1703,
+            "C": 679,
+            "C++": 557
+        }
+    },
+    {
+        "name": "minijava-testsuite",
+        "description": "A test-suite for the MiniJava compiler we implement in the Compilers Course",
+        "languages": {
+            "LLVM": 148395,
+            "Java": 79582
+        }
+    },
+    {
+        "name": "llisp",
+        "description": "A Lisp interpreter implemented in LLVM IR",
+        "languages": {
+            "LLVM": 34560,
+            "Makefile": 1076,
+            "Shell": 1033
+        }
+    },
+    {
+        "name": "slides",
+        "description": "Kumpulan slide presentasi seminar, talk, workshop",
+        "languages": {
+            "LLVM": 226926,
+            "Python": 31064,
+            "C++": 3447,
+            "C#": 2709,
+            "C": 2167,
+            "JavaScript": 413
+        }
+    },
+    {
+        "name": "occlum",
+        "description": null,
+        "languages": {
+            "LLVM": 115540513,
+            "C++": 88885083,
+            "Assembly": 42858602,
+            "C": 9207010,
+            "Makefile": 1029403,
+            "Python": 1013693,
+            "Shell": 600028,
+            "OCaml": 548386,
+            "CMake": 509985,
+            "Rust": 470808,
+            "Perl": 206199,
+            "Java": 186292,
+            "Go": 140684,
+            "Roff": 127521,
+            "TeX": 117609,
+            "HTML": 64563,
+            "CSS": 22561,
+            "Vim Script": 17442,
+            "Batchfile": 12780,
+            "Awk": 12418,
+            "Objective-C": 11898,
+            "Emacs Lisp": 10683,
+            "Dockerfile": 7354,
+            "Pawn": 1544,
+            "M4": 999,
+            "sed": 451,
+            "Swift": 271,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "amdgpu-code",
+        "description": "Any code related to AMDGPUs",
+        "languages": {
+            "LLVM": 769898,
+            "C++": 189669,
+            "Assembly": 122227,
+            "Makefile": 16264,
+            "C": 593
+        }
+    },
+    {
+        "name": "CLILL",
+        "description": "Proof-of-concept LLVM IR to MSIL translator (opposite of LLILC, hence the name)",
+        "languages": {
+            "LLVM": 47591,
+            "C#": 19157,
+            "C": 3726,
+            "C++": 476
+        }
+    },
+    {
+        "name": "CSE231",
+        "description": "UCSD CSE231 project",
+        "languages": {
+            "LLVM": 1898313,
+            "C": 236130,
+            "C++": 57916,
+            "TeX": 37025,
+            "Shell": 5228,
+            "Makefile": 2496
+        }
+    },
+    {
+        "name": "HARP",
+        "description": "ICCAD'23 Best Paper Award candidate: Robust GNN-based Representation Learning for HLS",
+        "languages": {
+            "LLVM": 419162,
+            "Python": 284380,
+            "C": 199179,
+            "Makefile": 48333,
+            "Shell": 1092
+        }
+    },
+    {
+        "name": "aria",
+        "description": "The compiler for the Aria language using Lex, Yacc, LLVM and POSIX Threads",
+        "languages": {
+            "LLVM": 139379284,
+            "C": 190373,
+            "Yacc": 21620,
+            "Lex": 8262,
+            "Lua": 3889,
+            "Makefile": 3539,
+            "Shell": 1313,
+            "C++": 889
+        }
+    },
+    {
+        "name": "wasm-sample",
+        "description": "WebAssembly Sample",
+        "languages": {
+            "LLVM": 2402,
+            "HTML": 1510,
+            "Assembly": 1465,
+            "Makefile": 681,
+            "C": 113
+        }
+    },
+    {
+        "name": "llvm_clang_instrument_example",
+        "description": "A simple example of instrumentation for C++ using LLVM and Clang",
+        "languages": {
+            "LLVM": 82556,
+            "C++": 5504,
+            "CMake": 1362,
+            "Shell": 325
+        }
+    },
+    {
+        "name": "CSC4180-Compiler",
+        "description": "CUHK-SZ CSC4180: Compiler Construction Course for Undergraduate Students",
+        "languages": {
+            "LLVM": 53580,
+            "C++": 53028,
+            "Yacc": 27619,
+            "Python": 26093,
+            "Jupyter Notebook": 16467,
+            "Assembly": 8277,
+            "Lex": 7909,
+            "Shell": 3173,
+            "C": 2912,
+            "Makefile": 900,
+            "Mathematica": 878,
+            "MATLAB": 645,
+            "M": 69
+        }
+    },
+    {
+        "name": "cuda-memtrace",
+        "description": "LLVM Plugin to Instrument Global Memory Accesses in CUDA Kernels",
+        "languages": {
+            "LLVM": 71777,
+            "C++": 30899,
+            "TeX": 19158,
+            "Cuda": 18650,
+            "C": 11110,
+            "Python": 9447,
+            "CMake": 6192,
+            "Makefile": 519
+        }
+    },
+    {
+        "name": "llvm-obfuscator",
+        "description": "ollvm based on llvm 7.0",
+        "languages": {
+            "LLVM": 106701876,
+            "C++": 74706628,
+            "Assembly": 40150876,
+            "Python": 838717,
+            "C": 810522,
+            "CMake": 448748,
+            "OCaml": 302603,
+            "Go": 138110,
+            "Shell": 95545,
+            "Perl": 25354,
+            "HTML": 20612,
+            "Vim Script": 17437,
+            "CSS": 12438,
+            "Emacs Lisp": 10383,
+            "Objective-C": 10226,
+            "Batchfile": 7584,
+            "Dockerfile": 5797,
+            "Pawn": 1544,
+            "Swift": 271,
+            "Roff": 39,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "ARI",
+        "description": null,
+        "languages": {
+            "LLVM": 334386829,
+            "Assembly": 236680767,
+            "C": 176632316,
+            "C++": 105566145,
+            "Makefile": 13807419,
+            "Roff": 6278108,
+            "Python": 5894272,
+            "HTML": 3710987,
+            "Shell": 1636568,
+            "CMake": 1111347,
+            "OCaml": 407451,
+            "Pascal": 253102,
+            "MATLAB": 247404,
+            "Batchfile": 192254,
+            "RPC": 156284,
+            "CSS": 146459,
+            "Go": 145824,
+            "Fortran": 114055,
+            "Lua": 87888,
+            "Tcl": 73680,
+            "XC": 73550,
+            "XS": 73183,
+            "Swift": 72242,
+            "JavaScript": 71729,
+            "Perl": 70177,
+            "Jupyter Notebook": 56652,
+            "TeX": 46454,
+            "C#": 46410,
+            "M4": 34560,
+            "Yacc": 31039,
+            "Processing": 29302,
+            "Java": 26627,
+            "EmberScript": 19928,
+            "Vim Script": 16946,
+            "NASL": 14764,
+            "Lex": 14151,
+            "OpenEdge ABL": 13535,
+            "Emacs Lisp": 9577,
+            "Objective-C": 7956,
+            "XSLT": 7345,
+            "Nasal": 6117,
+            "Cuda": 3713,
+            "PowerShell": 3424,
+            "GDB": 3039,
+            "PHP": 2777,
+            "PureBasic": 1574,
+            "Scilab": 1502,
+            "Vala": 1473,
+            "D": 1232,
+            "Ruby": 708,
+            "VHDL": 663,
+            "R": 514,
+            "SAS": 363,
+            "Io": 307,
+            "Monkey C": 274,
+            "Cython": 270,
+            "SWIG": 164,
+            "F#": 159,
+            "Erlang": 121,
+            "Scala": 95,
+            "Boo": 79
+        }
+    },
+    {
+        "name": "qir-book",
+        "description": "Documentation/Examples for the QIR community",
+        "languages": {
+            "LLVM": 13293,
+            "Jupyter Notebook": 7506,
+            "TeX": 6317,
+            "Dockerfile": 2377,
+            "Q#": 1106,
+            "Shell": 868,
+            "Python": 738
+        }
+    },
+    {
+        "name": "Simulee",
+        "description": null,
+        "languages": {
+            "LLVM": 8454957,
+            "Cuda": 316466,
+            "C++": 220842,
+            "Python": 212448
+        }
+    },
+    {
+        "name": "sip-oblivious-hashing",
+        "description": null,
+        "languages": {
+            "LLVM": 343187,
+            "C++": 57520,
+            "Shell": 4589,
+            "C": 1384,
+            "CMake": 1206
+        }
+    },
+    {
+        "name": "Enzyme-GPU-Tests",
+        "description": "This repo contains the benchmarks for Enzyme on GPU's",
+        "languages": {
+            "LLVM": 5504578,
+            "Cuda": 485691,
+            "C": 58961,
+            "C++": 36415,
+            "Julia": 27635,
+            "Python": 17662,
+            "Makefile": 12600,
+            "Shell": 398
+        }
+    },
+    {
+        "name": "perf-taint",
+        "description": "Taint-based program analysis framework for empirical performance modeling.",
+        "languages": {
+            "LLVM": 34493001,
+            "C": 7822222,
+            "C++": 373455,
+            "Assembly": 323009,
+            "Makefile": 196777,
+            "M4": 154308,
+            "Shell": 117362,
+            "Perl": 33281,
+            "CMake": 7453
+        }
+    },
+    {
+        "name": "TicklingVMProtect",
+        "description": "Assets for the \"Tickling VMProtect with LLVM\" blog post.",
+        "languages": {
+            "LLVM": 532396,
+            "C++": 463096,
+            "Python": 16618,
+            "CMake": 8144,
+            "Shell": 1223,
+            "Batchfile": 1057
+        }
+    },
+    {
+        "name": "abstract_vuln_finder",
+        "description": "Checking for buffer overflows using abstract interpretation on lifted llvm bitcode (not finished)",
+        "languages": {
+            "LLVM": 2827553,
+            "C++": 80611,
+            "CMake": 5629,
+            "Shell": 99
+        }
+    },
+    {
+        "name": "Mirai-Family",
+        "description": "Benchmark Mirai Family",
+        "languages": {
+            "LLVM": 40348951,
+            "C": 7136654,
+            "Shell": 1232
+        }
+    },
+    {
+        "name": "llvm-prepo",
+        "description": "Program repository project has moved to https://github.com/SNSystems/llvm-project-prepo",
+        "languages": {
+            "LLVM": 106645295,
+            "C++": 74816443,
+            "Assembly": 40146139,
+            "Python": 881935,
+            "C": 810522,
+            "CMake": 453699,
+            "OCaml": 302603,
+            "Go": 138110,
+            "Shell": 95529,
+            "Perl": 25354,
+            "HTML": 20612,
+            "Vim Script": 17437,
+            "CSS": 12438,
+            "Emacs Lisp": 10383,
+            "Objective-C": 10226,
+            "Batchfile": 7692,
+            "Dockerfile": 5797,
+            "PHP": 1544,
+            "Swift": 271,
+            "Roff": 39,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "benchmarks",
+        "description": null,
+        "languages": {
+            "LLVM": 116930,
+            "Rust": 7859
+        }
+    },
+    {
+        "name": "TrackFM",
+        "description": "A compiler to automatically transform applications into disaggregated memory apps.",
+        "languages": {
+            "LLVM": 34314228,
+            "C++": 895708,
+            "C": 716361,
+            "Roff": 674779,
+            "Makefile": 507302,
+            "Shell": 175122,
+            "Python": 153021,
+            "CMake": 127943,
+            "Perl": 49683,
+            "M4": 5910,
+            "TypeScript": 2066,
+            "GDB": 182,
+            "TeX": 120
+        }
+    },
+    {
+        "name": "Terra-3d-Experiments",
+        "description": "Various scraps of OpenGL code written in Terra.",
+        "languages": {
+            "LLVM": 80416,
+            "Perl": 70128,
+            "Assembly": 28067,
+            "Perl 6": 22823,
+            "GLSL": 18693,
+            "Lua": 9794,
+            "C++": 3626,
+            "C": 322
+        }
+    },
+    {
+        "name": "llvm-next-function-merging",
+        "description": "An experimental LLVM pass plugin that allows you to apply the State of the Art function merging techniques",
+        "languages": {
+            "LLVM": 23239622,
+            "C++": 1487430,
+            "C": 54042,
+            "Python": 43149,
+            "Ruby": 41213,
+            "CMake": 4932,
+            "Makefile": 486,
+            "Shell": 459
+        }
+    },
+    {
+        "name": "aap-llvm",
+        "description": "LLVM for An Altruistic Processor",
+        "languages": {
+            "LLVM": 107102131,
+            "C++": 74899182,
+            "Assembly": 40672602,
+            "Python": 838377,
+            "C": 810614,
+            "CMake": 450625,
+            "OCaml": 302603,
+            "Go": 138110,
+            "Shell": 95545,
+            "Perl": 25354,
+            "HTML": 20612,
+            "Vim Script": 17437,
+            "CSS": 12438,
+            "Emacs Lisp": 10676,
+            "Objective-C": 10226,
+            "Batchfile": 7688,
+            "Dockerfile": 5797,
+            "PHP": 1544,
+            "Makefile": 565,
+            "Swift": 271,
+            "Roff": 39,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "llvm-2003f",
+        "description": "LLVM backend for 2003f",
+        "languages": {
+            "LLVM": 72629731,
+            "C++": 66430876,
+            "Assembly": 24700852,
+            "C": 744519,
+            "Python": 698027,
+            "CMake": 421761,
+            "OCaml": 410712,
+            "Go": 135215,
+            "Shell": 89765,
+            "Perl": 27776,
+            "Roff": 18838,
+            "Batchfile": 17786,
+            "Vim Script": 17334,
+            "Objective-C": 12653,
+            "Emacs Lisp": 9440,
+            "CSS": 9400,
+            "Dockerfile": 5737,
+            "PHP": 1544,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "MQTTactic",
+        "description": null,
+        "languages": {
+            "LLVM": 15480054,
+            "Rust": 1204514,
+            "C++": 233525,
+            "Python": 117685,
+            "Promela": 93960,
+            "Go": 32543,
+            "Makefile": 7124,
+            "C": 2791,
+            "Shell": 891
+        }
+    },
+    {
+        "name": "SC-CL",
+        "description": "Updated RAGE Script Compiler",
+        "languages": {
+            "LLVM": 284227776,
+            "C++": 284106862,
+            "C": 100849742,
+            "Assembly": 69586032,
+            "Objective-C": 4060431,
+            "CMake": 2975114,
+            "Python": 2559170,
+            "HTML": 1603633,
+            "Objective-C++": 973513,
+            "Cuda": 656475,
+            "NASL": 551331,
+            "OCaml": 363424,
+            "Perl": 201424,
+            "Go": 150081,
+            "Shell": 107748,
+            "JavaScript": 97979,
+            "SourcePawn": 52408,
+            "Emacs Lisp": 52089,
+            "Roff": 45241,
+            "CSS": 41931,
+            "Batchfile": 31646,
+            "C#": 27909,
+            "POV-Ray SDL": 22654,
+            "Vim Script": 21206,
+            "Fortran": 13264,
+            "Dockerfile": 9713,
+            "Makefile": 8489,
+            "M": 6965,
+            "Cool": 5402,
+            "TypeScript": 2805,
+            "AppleScript": 1429,
+            "RenderScript": 741,
+            "SWIG": 635,
+            "Pawn": 450,
+            "Swift": 271,
+            "Rust": 200,
+            "Pascal": 51
+        }
+    },
+    {
+        "name": "bonsai",
+        "description": null,
+        "languages": {
+            "LLVM": 35941767,
+            "Assembly": 21056498,
+            "Java": 3767749,
+            "C#": 115689,
+            "CSS": 111493,
+            "HTML": 25649,
+            "Objective-C++": 11092,
+            "AIDL": 9874,
+            "JavaScript": 34,
+            "Dockerfile": 1
+        }
+    },
+    {
+        "name": "llvm-gvn-rewrite",
+        "description": "Rewriting LLVM GVN",
+        "languages": {
+            "LLVM": 60835149,
+            "C++": 58757618,
+            "Assembly": 14348063,
+            "Mirah": 1114386,
+            "Python": 617855,
+            "Objective-C": 402254,
+            "CMake": 345154,
+            "C": 324346,
+            "OCaml": 300942,
+            "Go": 125628,
+            "Shell": 74656,
+            "Perl": 27776,
+            "Vim Script": 17212,
+            "Emacs Lisp": 9440,
+            "CSS": 5963,
+            "Batchfile": 4076,
+            "SourcePawn": 1544,
+            "Roff": 39,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "OverCG",
+        "description": "Generate call graph of c program from its corresponding LLVM IR",
+        "languages": {
+            "LLVM": 103824,
+            "C": 22838,
+            "Python": 5259
+        }
+    },
+    {
+        "name": "HLS-lab1",
+        "description": "Utilities for HLS-lab1",
+        "languages": {
+            "LLVM": 130047,
+            "C++": 56662,
+            "C": 12351,
+            "CMake": 1352,
+            "Shell": 1183,
+            "Nix": 257
+        }
+    },
+    {
+        "name": "darksea",
+        "description": "LTL verification on lifted binaries.",
+        "languages": {
+            "LLVM": 8780206,
+            "C": 2465245,
+            "Python": 73812,
+            "C++": 38550,
+            "SWIG": 29235,
+            "Shell": 17805,
+            "SMT": 8614,
+            "Assembly": 5086,
+            "HTML": 2920,
+            "CMake": 1336,
+            "Boogie": 1088,
+            "Roff": 900,
+            "Makefile": 404,
+            "Dockerfile": 357
+        }
+    },
+    {
+        "name": "LostInTranslation",
+        "description": null,
+        "languages": {
+            "LLVM": 342872
+        }
+    },
+    {
+        "name": "funk",
+        "description": "Functional Programming Language Experiment",
+        "languages": {
+            "LLVM": 199148,
+            "Python": 100489,
+            "C": 22125,
+            "Forth": 1612,
+            "Roff": 157,
+            "Fortran": 12
+        }
+    },
+    {
+        "name": "mbx",
+        "description": "Supplementary material for my talk",
+        "languages": {
+            "LLVM": 3664,
+            "C": 2968,
+            "Makefile": 917,
+            "Ruby": 304,
+            "Swift": 159,
+            "Objective-C": 150
+        }
+    },
+    {
+        "name": "cm-trpl",
+        "description": null,
+        "languages": {
+            "LLVM": 1059160,
+            "Rust": 55342,
+            "Jupyter Notebook": 20942,
+            "HTML": 8828,
+            "C++": 1056,
+            "Dockerfile": 186,
+            "C": 147
+        }
+    },
+    {
+        "name": "Xamarin-WeatherApp",
+        "description": null,
+        "languages": {
+            "LLVM": 30779565,
+            "Java": 5394161,
+            "C#": 51666,
+            "AIDL": 9874
+        }
+    },
+    {
+        "name": "pytket-qir",
+        "description": "Public repo for the pytket-qir package",
+        "languages": {
+            "LLVM": 158224,
+            "Python": 91373,
+            "Shell": 633,
+            "Makefile": 277,
+            "OpenQASM": 103
+        }
+    },
+    {
+        "name": "llvm",
+        "description": "llvm cloned from https://github.com/llvm-mirror/llvm and modified for VE",
+        "languages": {
+            "LLVM": 136596994,
+            "C++": 84552466,
+            "Assembly": 53299908,
+            "Python": 1059979,
+            "C": 870457,
+            "CMake": 528059,
+            "OCaml": 305839,
+            "Go": 149213,
+            "Shell": 99306,
+            "HTML": 37638,
+            "Perl": 25574,
+            "Vim Script": 17467,
+            "CSS": 12605,
+            "Emacs Lisp": 10710,
+            "Objective-C": 10267,
+            "Batchfile": 9235,
+            "Dockerfile": 5884,
+            "NASL": 5780,
+            "Starlark": 284,
+            "Swift": 271,
+            "Roff": 39
+        }
+    },
+    {
+        "name": "110_AppVentas_NetMaui",
+        "description": null,
+        "languages": {
+            "LLVM": 8970516,
+            "Java": 4628705,
+            "C#": 238335,
+            "AIDL": 4937
+        }
+    },
+    {
+        "name": "GridMini",
+        "description": "This is a mini-app based on the Grid C++ lattice QCD library (https://github.com/paboyle/Grid)",
+        "languages": {
+            "LLVM": 5889996,
+            "C++": 2295996,
+            "C": 171992,
+            "Mathematica": 67277,
+            "Python": 14339,
+            "Makefile": 6929,
+            "Shell": 3760
+        }
+    },
+    {
+        "name": "VBSAC",
+        "description": "a value-based static analyzer for c code bug detection",
+        "languages": {
+            "LLVM": 12249027,
+            "C": 1446130,
+            "Shell": 9540,
+            "Python": 3320
+        }
+    },
+    {
+        "name": "mlir-standalone-toy",
+        "description": null,
+        "languages": {
+            "LLVM": 232579507,
+            "C++": 110347406,
+            "Assembly": 62215622,
+            "MLIR": 4528569,
+            "Python": 1253465,
+            "C": 1153270,
+            "CMake": 781947,
+            "OCaml": 307081,
+            "Go": 149822,
+            "Shell": 91684,
+            "HTML": 37678,
+            "Vim Script": 26578,
+            "Perl": 25574,
+            "Roff": 24150,
+            "CSS": 15944,
+            "Batchfile": 14870,
+            "Emacs Lisp": 13454,
+            "Objective-C": 10728,
+            "Dockerfile": 5884,
+            "TypeScript": 2805,
+            "Starlark": 284,
+            "Swift": 271
+        }
+    },
+    {
+        "name": "llvm-ir",
+        "description": "An LLVM IR parser for Rust",
+        "languages": {
+            "LLVM": 505705,
+            "Rust": 81505
+        }
+    },
+    {
+        "name": "Mitigating-Spectre-Meltdown",
+        "description": "llvm, spectre, meltdown",
+        "languages": {
+            "LLVM": 106752750,
+            "C++": 74574469,
+            "Assembly": 40182163,
+            "Python": 838717,
+            "C": 816870,
+            "CMake": 448622,
+            "OCaml": 302603,
+            "Go": 138110,
+            "Shell": 95545,
+            "Perl": 25354,
+            "HTML": 20612,
+            "Vim Script": 17437,
+            "CSS": 12438,
+            "Emacs Lisp": 10383,
+            "Objective-C": 10226,
+            "Batchfile": 7692,
+            "Dockerfile": 5797,
+            "PHP": 1544,
+            "Swift": 271,
+            "Roff": 39,
+            "Logos": 28
+        }
+    },
+    {
+        "name": "FSROPT",
+        "description": null,
+        "languages": {
+            "LLVM": 106639258,
+            "C++": 75422270,
+            "Assembly": 40150876,
+            "C": 1257970,
+            "Python": 973307,
+            "CMake": 459373,
+            "OCaml": 411645,
+            "Go": 138110,
+            "Shell": 98038,
+            "Perl": 25354,
+            "HTML": 20612,
+            "Roff": 18838,
+            "Vim Script": 17464,
+            "CSS": 15777,
+            "Batchfile": 12784,
+            "Emacs Lisp": 10383,
+            "Objective-C": 10226,
+            "Makefile": 6066,
+            "Dockerfile": 5797,
+            "NASL": 5724,
+            "Swift": 271
+        }
     }
 ]
