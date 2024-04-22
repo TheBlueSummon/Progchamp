@@ -44,51 +44,61 @@ function shellSort(og, repos){
 
 // Wrapper Func
 function mergeSortRepos(og, repos) {
-    const distances = repos.map(repo => ({
-        repo,
-        distance: dis(og, repo)
-    }));
+    // create an array 
+    let distances = repos.map(repo => dis(og, repo));
 
     // Sorts the elements using merge
-    function mergeSort(arr, start, end) {
-        if (end - start > 1) {
-            let middle = Math.floor((start + end) / 2);
-            mergeSort(arr, start, middle);
-            mergeSort(arr, middle, end);
-            merge(arr, start, middle, end);
+    function mergeSort(arr, left, right) {
+        if (right - left > 1) {
+            const middle = Math.floor((left + right) / 2);
+            mergeSort(arr, left, middle);
+            mergeSort(arr, middle, right);
+            merge(arr, left, middle, right);
         }
     }
     
     // Merge Sort
-    function merge(arr, start, middle, end) {
-        // array to store merged
-        let left = start;
-        let right = middle;
-        const temp = [];
-        // merge two halves
-        while (left < middle && right < end) {
-            if (arr[left].distance < arr[right].distance) {
-                temp.push(arr[left++]);
-                } else {
-                    temp.push(arr[right++]);
-                }
-            } 
-            // copy left side
-            while (left < middle) {
-                temp.push(arr[left++]);
-            }
-            // copy right side
-            while (right < end) {
-                temp.push(arr[right++]);
-            }
-            for (let i = 0; i < temp.length; i++) {
-                arr[start + i] = temp[i];
+    function merge(arr, left, middle, right) {
+        let i = left;
+        let j = middle;
+        let temp = [];
+        let tempDistances = [];
+
+        // merge based on distance
+        while (i < middle && j < right) {
+            if (distances[i] < distances[j]) {
+                temp.push(arr[i]);
+                tempDistances.push(distances[i]);
+                i++;
+            } else {
+                temp.push(arr[j]);
+                tempDistances.push(distances[j]);
+                j++;
             }
         }
-    
-        mergeSort(distances, 0, distances.length);
-        return distances.map(item => item.repo);
+
+        // left half
+        while (i < middle) {
+            temp.push(arr[i]);
+            tempDistances.push(distances[i]);
+            i++;
+        }
+
+        // right half
+        while (j < right) {
+            temp.push(arr[j]);
+            tempDistances.push(distances[j]);
+            j++;
+        }
+
+        // copy the sorted elements back into the original array and distances array
+        for (let k = 0; k < temp.length; k++) {
+            arr[left + k] = temp[k];
+            distances[left + k] = tempDistances[k];
+        }
     }
+    mergeSort(repos, 0, repos.length);
+}
 
 // Returns a 2D array that, for each language, shows the most closely related languages 
 function langSort(langList, list2lang, repos) {
