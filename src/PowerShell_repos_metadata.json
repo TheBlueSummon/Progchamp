@@ -35,8 +35,1756 @@
         "name": "winutil",
         "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
         "languages": {
-            "PowerShell": 928700,
+            "PowerShell": 929920,
             "Batchfile": 16978
+        }
+    },
+    {
+        "name": "PowerSploit",
+        "description": "PowerSploit - A PowerShell Post-Exploitation Framework",
+        "languages": {
+            "PowerShell": 5212972,
+            "C++": 168391,
+            "C": 28571,
+            "Assembly": 2757
+        }
+    },
+    {
+        "name": "SpotX",
+        "description": "SpotX patcher used for patching the desktop version of Spotify",
+        "languages": {
+            "PowerShell": 201005,
+            "Batchfile": 3555,
+            "JavaScript": 3286
+        }
+    },
+    {
+        "name": "BloodHound",
+        "description": "Six Degrees of Domain Admin",
+        "languages": {
+            "PowerShell": 2629128,
+            "JavaScript": 1564505,
+            "CSS": 51231,
+            "HTML": 2201
+        }
+    },
+    {
+        "name": "blazor",
+        "description": "Blazor moved to https://github.com/dotnet/aspnetcore",
+        "languages": {
+            "PowerShell": 144497,
+            "C#": 120791,
+            "Shell": 81247,
+            "CMake": 9153,
+            "Batchfile": 634
+        }
+    },
+    {
+        "name": "runner-images",
+        "description": "GitHub Actions runner images",
+        "languages": {
+            "PowerShell": 812428,
+            "Shell": 234116,
+            "HCL": 140602,
+            "Ruby": 4753,
+            "Python": 2435,
+            "Swift": 2148,
+            "AppleScript": 1646
+        }
+    },
+    {
+        "name": "WingetUI",
+        "description": "WingetUI: The Graphical Interface for your package managers",
+        "languages": {
+            "PowerShell": 854460,
+            "C#": 715701,
+            "Python": 32936,
+            "Inno Setup": 27887,
+            "Batchfile": 13208
+        }
+    },
+    {
+        "name": "nishang",
+        "description": "Nishang - Offensive PowerShell for red team, penetration testing and offensive security. ",
+        "languages": {
+            "PowerShell": 6618615,
+            "ASP.NET": 10444
+        }
+    },
+    {
+        "name": "posh-git",
+        "description": "A PowerShell environment for Git",
+        "languages": {
+            "PowerShell": 280354
+        }
+    },
+    {
+        "name": "Empire",
+        "description": "Empire is a PowerShell and Python post-exploitation agent.",
+        "languages": {
+            "PowerShell": 17009836,
+            "Python": 2965491,
+            "Shell": 10525,
+            "Objective-C": 2664,
+            "PHP": 2198,
+            "C": 1966,
+            "C#": 1893,
+            "Dockerfile": 1870,
+            "Java": 496
+        }
+    },
+    {
+        "name": "Sophia-Script-for-Windows",
+        "description": ":zap: The most powerful PowerShell module on GitHub for fine-tuning Windows 10 & Windows 11",
+        "languages": {
+            "PowerShell": 3613947
+        }
+    },
+    {
+        "name": "commando-vm",
+        "description": "Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com",
+        "languages": {
+            "PowerShell": 87939
+        }
+    },
+    {
+        "name": "Debloat-Windows-10",
+        "description": "A Collection of Scripts Which Disable / Remove Windows 10 Features and Apps",
+        "languages": {
+            "PowerShell": 58068,
+            "Batchfile": 495
+        }
+    },
+    {
+        "name": "flare-vm",
+        "description": "A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.",
+        "languages": {
+            "PowerShell": 46418
+        }
+    },
+    {
+        "name": "K8tools",
+        "description": "K8\u5de5\u5177\u5408\u96c6(\u5185\u7f51\u6e17\u900f/\u63d0\u6743\u5de5\u5177/\u8fdc\u7a0b\u6ea2\u51fa/\u6f0f\u6d1e\u5229\u7528/\u626b\u63cf\u5de5\u5177/\u5bc6\u7801\u7834\u89e3/\u514d\u6740\u5de5\u5177/Exploit/APT/0day/Shellcode/Payload/priviledge/BypassUAC/OverFlow/WebShell/PenTest) Web GetShell Exploit(Struts2/Zimbra/Weblogic/Tomcat/Apache/Jboss/DotNetNuke/zabbix)",
+        "languages": {
+            "PowerShell": 13414848,
+            "Python": 91408,
+            "ASP.NET": 72546,
+            "Go": 14823,
+            "C": 13976,
+            "VBScript": 10745,
+            "C++": 8346,
+            "PHP": 836,
+            "Perl": 764,
+            "Classic ASP": 272
+        }
+    },
+    {
+        "name": "oh-my-posh2",
+        "description": "A prompt theming engine for Powershell",
+        "languages": {
+            "PowerShell": 139908
+        }
+    },
+    {
+        "name": "k8s-for-docker-desktop",
+        "description": "\u4e3aDocker Desktop for Mac/Windows\u5f00\u542fKubernetes\u548cIstio\u3002",
+        "languages": {
+            "PowerShell": 1082,
+            "Shell": 285
+        }
+    },
+    {
+        "name": "Win10-Initial-Setup-Script",
+        "description": "PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019",
+        "languages": {
+            "PowerShell": 247565,
+            "Batchfile": 126
+        }
+    },
+    {
+        "name": "Ladon",
+        "description": "Ladon\u5927\u578b\u5185\u7f51\u6e17\u900f\u5de5\u5177\uff0c\u53efPowerShell\u6a21\u5757\u5316\u3001\u53efCS\u63d2\u4ef6\u5316\u3001\u53ef\u5185\u5b58\u52a0\u8f7d\uff0c\u65e0\u6587\u4ef6\u626b\u63cf\u3002\u542b\u7aef\u53e3\u626b\u63cf\u3001\u670d\u52a1\u8bc6\u522b\u3001\u7f51\u7edc\u8d44\u4ea7\u63a2\u6d4b\u3001\u5bc6\u7801\u5ba1\u8ba1\u3001\u9ad8\u5371\u6f0f\u6d1e\u68c0\u6d4b\u3001\u6f0f\u6d1e\u5229\u7528\u3001\u5bc6\u7801\u8bfb\u53d6\u4ee5\u53ca\u4e00\u952eGetShell\uff0c\u652f\u6301\u6279\u91cfA\u6bb5/B\u6bb5/C\u6bb5\u4ee5\u53ca\u8de8\u7f51\u6bb5\u626b\u63cf\uff0c\u652f\u6301URL\u3001\u4e3b\u673a\u3001\u57df\u540d\u5217\u8868\u626b\u63cf\u7b49\u3002Ladon 12.2\u5185\u7f6e262\u4e2a\u529f\u80fd,\u7f51\u7edc\u8d44\u4ea7\u63a2\u6d4b\u6a21\u575732\u4e2a\u901a\u8fc7\u591a\u79cd\u534f\u8bae(ICMP\\NBT\\DNS\\MAC\\SMB\\WMI\\SSH\\HTTP\\HTTPS\\Exchange\\mssql\\FTP\\RDP)\u4ee5\u53ca\u65b9\u6cd5\u5feb\u901f\u83b7\u53d6\u76ee\u6807\u7f51\u7edc\u5b58\u6d3b\u4e3b\u673aIP\u3001\u8ba1\u7b97\u673a\u540d\u3001\u5de5\u4f5c\u7ec4\u3001\u5171\u4eab\u8d44\u6e90\u3001\u7f51\u5361\u5730\u5740\u3001\u64cd\u4f5c\u7cfb\u7edf\u7248\u672c\u3001\u7f51\u7ad9\u3001\u5b50\u57df\u540d\u3001\u4e2d\u95f4\u4ef6\u3001\u5f00\u653e\u670d\u52a1\u3001\u8def\u7531\u5668\u3001\u4ea4\u6362\u673a\u3001\u6570\u636e\u5e93\u3001\u6253\u5370\u673a\u7b49\u4fe1\u606f\uff0c\u9ad8\u5371\u6f0f\u6d1e\u68c0\u6d4b16\u4e2a\u542bMS17010\u3001Zimbra\u3001Exchange",
+        "languages": {
+            "PowerShell": 24508697,
+            "C#": 2806084,
+            "Go": 13943,
+            "Python": 8363
+        }
+    },
+    {
+        "name": "awesome-powershell",
+        "description": "A curated list of delightful PowerShell modules and resources",
+        "languages": {
+            "PowerShell": 1084
+        }
+    },
+    {
+        "name": "Flipper-Zero-BadUSB",
+        "description": "Repository for my flipper zero badUSB payloads. Now almost entirely plug and play.",
+        "languages": {
+            "PowerShell": 161852,
+            "HTML": 281
+        }
+    },
+    {
+        "name": "machinelearning-samples",
+        "description": "Samples for ML.NET, an open source and cross-platform machine learning framework for .NET.",
+        "languages": {
+            "PowerShell": 51
+        }
+    },
+    {
+        "name": "GOAD",
+        "description": "game of active directory",
+        "languages": {
+            "PowerShell": 232765,
+            "JavaScript": 227022,
+            "Shell": 47973,
+            "HCL": 47570,
+            "HTML": 11751,
+            "Jinja": 11575,
+            "Ruby": 6805,
+            "Batchfile": 3514,
+            "ASP.NET": 1331,
+            "CSS": 537,
+            "Dockerfile": 399
+        }
+    },
+    {
+        "name": "Win-Debloat-Tools",
+        "description": "Re-imagining Windows like a minimal OS install, already debloated with minimal impact for most functionality.",
+        "languages": {
+            "PowerShell": 377114,
+            "Batchfile": 2076
+        }
+    },
+    {
+        "name": "lando",
+        "description": "A development tool for all your projects that is fast, easy, powerful and liberating",
+        "languages": {
+            "PowerShell": 4888,
+            "Inno Setup": 4670
+        }
+    },
+    {
+        "name": "Easy-GPU-PV",
+        "description": "A Project dedicated to making GPU Partitioning on Windows easier!",
+        "languages": {
+            "PowerShell": 192894
+        }
+    },
+    {
+        "name": "RedTeaming-Tactics-and-Techniques",
+        "description": "Red Teaming Tactics and Techniques",
+        "languages": {
+            "PowerShell": 55737,
+            "C": 3529,
+            "C#": 3061
+        }
+    },
+    {
+        "name": "sudo",
+        "description": "It's sudo, for Windows",
+        "languages": {
+            "PowerShell": 2957
+        }
+    },
+    {
+        "name": "Invoke-Obfuscation",
+        "description": "PowerShell Obfuscator",
+        "languages": {
+            "PowerShell": 1358086
+        }
+    },
+    {
+        "name": "usbrubberducky-payloads",
+        "description": "The Official USB Rubber Ducky Payload Repository",
+        "languages": {
+            "PowerShell": 190655,
+            "Java": 30721,
+            "Python": 15281,
+            "Shell": 8509,
+            "JavaScript": 5557,
+            "HTML": 2519,
+            "Perl": 2417,
+            "CSS": 1389,
+            "Batchfile": 567
+        }
+    },
+    {
+        "name": "win10script",
+        "description": "This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github. ",
+        "languages": {
+            "PowerShell": 145716,
+            "Shell": 40051,
+            "Batchfile": 1011
+        }
+    },
+    {
+        "name": "discover",
+        "description": "Custom bash scripts used to automate various penetration testing tasks including recon, scanning,  enumeration, and malicious payload creation using Metasploit. For use with Kali Linux.",
+        "languages": {
+            "PowerShell": 649252,
+            "Shell": 240972,
+            "HTML": 145691,
+            "Python": 73740,
+            "CSS": 72253,
+            "HCL": 2124,
+            "Vim Script": 562
+        }
+    },
+    {
+        "name": "AZ-104-MicrosoftAzureAdministrator",
+        "description": "AZ-104 Microsoft Azure Administrator",
+        "languages": {
+            "PowerShell": 990,
+            "Bicep": 861
+        }
+    },
+    {
+        "name": "WinPwn",
+        "description": "Automation for internal Windows Penetrationtest / AD-Security",
+        "languages": {
+            "PowerShell": 51692676,
+            "Shell": 4114
+        }
+    },
+    {
+        "name": "svg-explorer-extension",
+        "description": "Extension module for Windows Explorer to render SVG thumbnails, so that you can have an overview of your SVG files",
+        "languages": {
+            "PowerShell": 28650,
+            "C++": 14249,
+            "Inno Setup": 2712,
+            "C": 2125,
+            "QMake": 676,
+            "Batchfile": 61
+        }
+    },
+    {
+        "name": "Pester",
+        "description": "Pester is the ubiquitous test and mock framework for PowerShell.",
+        "languages": {
+            "PowerShell": 1717678,
+            "C#": 134669
+        }
+    },
+    {
+        "name": "Thanos.sh",
+        "description": "if you are Thanos(root), this command could delete half your files randomly",
+        "languages": {
+            "PowerShell": 5692,
+            "Shell": 897
+        }
+    },
+    {
+        "name": "chocolatey",
+        "description": "[DEPRECATED - https://github.com/chocolatey/choco] Chocolatey NuGet - Like apt-get, but for windows.",
+        "languages": {
+            "PowerShell": 264033,
+            "Batchfile": 3788
+        }
+    },
+    {
+        "name": "MailSniper",
+        "description": "MailSniper is a penetration testing tool for searching through email in a Microsoft Exchange environment for specific terms (passwords, insider intel, network architecture information, etc.). It can be used as a non-administrative user to search their own email, or by an administrator to search the mailboxes of every user in a domain.",
+        "languages": {
+            "PowerShell": 717050
+        }
+    },
+    {
+        "name": "PrivescCheck",
+        "description": "Privilege Escalation Enumeration Script for Windows",
+        "languages": {
+            "PowerShell": 1002524
+        }
+    },
+    {
+        "name": "PowerShell-Suite",
+        "description": "My musings with PowerShell",
+        "languages": {
+            "PowerShell": 4921004,
+            "C": 200597,
+            "C#": 41298
+        }
+    },
+    {
+        "name": "bashbunny-payloads",
+        "description": "The Official Bash Bunny Payload Repository",
+        "languages": {
+            "PowerShell": 10954928,
+            "Hack": 5184600,
+            "HTML": 4563110,
+            "Python": 1951630,
+            "JavaScript": 1163698,
+            "CSS": 435682,
+            "Shell": 261400,
+            "PHP": 196383,
+            "Batchfile": 27480,
+            "C": 7375,
+            "VBScript": 7340,
+            "Smarty": 3425,
+            "Perl": 2417
+        }
+    },
+    {
+        "name": "sysmon-modular",
+        "description": "A repository of sysmon configuration modules",
+        "languages": {
+            "PowerShell": 38585,
+            "Python": 8634
+        }
+    },
+    {
+        "name": "Win11Debloat",
+        "description": "A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.",
+        "languages": {
+            "PowerShell": 46646,
+            "Batchfile": 170
+        }
+    },
+    {
+        "name": "PowerShell",
+        "description": "PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)",
+        "languages": {
+            "PowerShell": 518492,
+            "C#": 25016
+        }
+    },
+    {
+        "name": "Penetration-Testing-Tools",
+        "description": "A collection of more than 170+ tools, scripts, cheatsheets and other loots that I've developed over years for Red Teaming/Pentesting/IT Security audits purposes.",
+        "languages": {
+            "PowerShell": 790438,
+            "Python": 785871,
+            "Shell": 88395,
+            "Ruby": 35134,
+            "VBScript": 20626,
+            "C++": 17758,
+            "JavaScript": 9665,
+            "PHP": 9188,
+            "C#": 5254,
+            "C": 4311,
+            "ASP.NET": 3835,
+            "Java": 3809,
+            "Batchfile": 2062,
+            "XSLT": 789,
+            "HTML": 554
+        }
+    },
+    {
+        "name": "ImportExcel",
+        "description": "PowerShell module to import/export Excel spreadsheets, without Excel",
+        "languages": {
+            "PowerShell": 602255
+        }
+    },
+    {
+        "name": "dbatools",
+        "description": "\ud83d\ude80 SQL Server automation and instance migrations have never been safer, faster or freer",
+        "languages": {
+            "PowerShell": 10669573,
+            "TSQL": 2036143,
+            "Dockerfile": 1490
+        }
+    },
+    {
+        "name": "PowerUpSQL",
+        "description": "PowerUpSQL: A PowerShell Toolkit for Attacking SQL Server",
+        "languages": {
+            "PowerShell": 17310440,
+            "TSQL": 83589,
+            "C#": 32803,
+            "C++": 12685
+        }
+    },
+    {
+        "name": "Active-Directory-Exploitation-Cheat-Sheet",
+        "description": "A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.",
+        "languages": {
+            "PowerShell": 24083388,
+            "C": 12627418,
+            "C#": 5876315,
+            "Python": 3072630,
+            "Perl": 792300,
+            "C++": 527815,
+            "Shell": 258058,
+            "Batchfile": 112784,
+            "PHP": 100545,
+            "Java": 96176,
+            "TSQL": 81553,
+            "Classic ASP": 79074,
+            "ASP.NET": 19974,
+            "Lua": 11395,
+            "ColdFusion": 9100,
+            "YARA": 5666,
+            "Go": 5658,
+            "Assembly": 5514,
+            "VBScript": 3206,
+            "Objective-C": 3178,
+            "Ruby": 1868,
+            "HTML": 1191,
+            "JavaScript": 1055
+        }
+    },
+    {
+        "name": "Fido",
+        "description": "A PowerShell script to download Windows or UEFI Shell ISOs",
+        "languages": {
+            "PowerShell": 49775,
+            "Shell": 1816
+        }
+    },
+    {
+        "name": "Terminal-Icons",
+        "description": "A PowerShell module to show file and folder icons in the terminal",
+        "languages": {
+            "PowerShell": 890596
+        }
+    },
+    {
+        "name": "windows_hardening",
+        "description": "HardeningKitty and Windows Hardening settings and configurations",
+        "languages": {
+            "PowerShell": 136468
+        }
+    },
+    {
+        "name": "Invoke-PSImage",
+        "description": "Encodes a PowerShell script in the pixels of a PNG file and generates a oneliner to execute",
+        "languages": {
+            "PowerShell": 10048
+        }
+    },
+    {
+        "name": "DeepBlueCLI",
+        "description": null,
+        "languages": {
+            "PowerShell": 46918,
+            "Python": 4827
+        }
+    },
+    {
+        "name": "PowerRemoteDesktop",
+        "description": "Remote Desktop entirely coded in PowerShell.",
+        "languages": {
+            "PowerShell": 206417
+        }
+    },
+    {
+        "name": "powercat",
+        "description": "netshell features all in version 2 powershell",
+        "languages": {
+            "PowerShell": 37667
+        }
+    },
+    {
+        "name": "PowerTools",
+        "description": "PowerTools is a collection of PowerShell projects with a focus on offensive operations.",
+        "languages": {
+            "PowerShell": 2147217,
+            "C": 120377,
+            "C++": 7552,
+            "C#": 7094,
+            "Python": 1392,
+            "Objective-C": 419
+        }
+    },
+    {
+        "name": "sRDI",
+        "description": "Shellcode implementation of Reflective DLL Injection. Convert DLLs to position independent shellcode",
+        "languages": {
+            "PowerShell": 126849,
+            "C#": 63588,
+            "C++": 38886,
+            "Python": 36637,
+            "C": 24256
+        }
+    },
+    {
+        "name": "AutomatedLab",
+        "description": "AutomatedLab is a provisioning solution and framework that lets you deploy complex labs on HyperV and Azure with simple PowerShell scripts. It supports all Windows operating systems from 2008 R2 to 2022, some Linux distributions and various products like AD, Exchange, PKI, IIS, etc.",
+        "languages": {
+            "PowerShell": 2986781,
+            "C#": 391485,
+            "ASP.NET": 2463,
+            "HTML": 466,
+            "Batchfile": 393
+        }
+    },
+    {
+        "name": "PowerShell",
+        "description": "500+ PowerShell scripts (.ps1) for every system!",
+        "languages": {
+            "PowerShell": 692169,
+            "HTML": 185
+        }
+    },
+    {
+        "name": "BadBlood",
+        "description": "BadBlood by @davidprowe, Secframe.com, fills a Microsoft Active Directory Domain with a structure and thousands of objects. The output of the tool is a domain similar to a domain in the real world.  After BadBlood is ran on a domain, security analysts and engineers can practice using tools to gain an understanding and prescribe to securing Active Directory. Each time this tool runs, it produces different results.  The domain, users, groups, computers and permissions are different. Every. Single. Time.",
+        "languages": {
+            "PowerShell": 164454
+        }
+    },
+    {
+        "name": "MicroBurst",
+        "description": "A collection of scripts for assessing Microsoft Azure security",
+        "languages": {
+            "PowerShell": 439952,
+            "Shell": 1123
+        }
+    },
+    {
+        "name": "AzureAD-Attack-Defense",
+        "description": "This publication is a collection of various common attack scenarios on Microsoft Entra ID (formerly known as Azure Active Directory) and how they can be mitigated or detected.",
+        "languages": {
+            "PowerShell": 2404
+        }
+    },
+    {
+        "name": "PowerShell-Docs",
+        "description": "The official PowerShell documentation sources",
+        "languages": {
+            "PowerShell": 21804,
+            "Dockerfile": 243
+        }
+    },
+    {
+        "name": "vulnerable-AD",
+        "description": "Create a vulnerable active directory that's allowing you to test most of the active directory attacks in a local lab ",
+        "languages": {
+            "PowerShell": 65052
+        }
+    },
+    {
+        "name": "WSL",
+        "description": "Source code behind the Windows Subsystem for Linux documentation.",
+        "languages": {
+            "PowerShell": 729
+        }
+    },
+    {
+        "name": "Sherlock",
+        "description": "PowerShell script to quickly find missing software patches for local privilege escalation vulnerabilities.",
+        "languages": {
+            "PowerShell": 16663
+        }
+    },
+    {
+        "name": "mimikittenz",
+        "description": "A post-exploitation powershell tool for extracting juicy info from memory.",
+        "languages": {
+            "PowerShell": 21881
+        }
+    },
+    {
+        "name": "architecture-center",
+        "description": "Open Source documentation for the Azure Architecture Center on Microsoft Docs",
+        "languages": {
+            "PowerShell": 45080,
+            "Batchfile": 181
+        }
+    },
+    {
+        "name": "A1111-Web-UI-Installer",
+        "description": "Complete installer for Automatic1111's infamous Stable Diffusion WebUI",
+        "languages": {
+            "PowerShell": 33478,
+            "Rich Text Format": 2298
+        }
+    },
+    {
+        "name": "UltimateAppLockerByPassList",
+        "description": "The goal of this repository is to document the most common techniques to bypass AppLocker. ",
+        "languages": {
+            "PowerShell": 4595
+        }
+    },
+    {
+        "name": "PersistenceSniper",
+        "description": "Powershell module that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines. Official Twitter/X account @PersistSniper. Made with \u2764\ufe0f by @last0x00 and @dottor_morte",
+        "languages": {
+            "PowerShell": 170786
+        }
+    },
+    {
+        "name": "Virtualization-Documentation",
+        "description": "Place to store our documentation, code samples, etc for public consumption.",
+        "languages": {
+            "PowerShell": 694728,
+            "C++": 33224,
+            "Dockerfile": 22933,
+            "HTML": 12923,
+            "C#": 3888,
+            "TSQL": 2269,
+            "CSS": 845,
+            "JavaScript": 226,
+            "Shell": 167
+        }
+    },
+    {
+        "name": "Extras",
+        "description": "\ud83d\udce6 The Extras bucket for Scoop.",
+        "languages": {
+            "PowerShell": 19217
+        }
+    },
+    {
+        "name": "bloatbox",
+        "description": "\u2611\ufe0f\ud83c\udf20 Remove Bloatwares from Windows 10",
+        "languages": {
+            "PowerShell": 24128,
+            "C#": 23921
+        }
+    },
+    {
+        "name": "PoshC2",
+        "description": "A proxy aware C2 framework used to aid red teamers with post-exploitation and lateral movement.",
+        "languages": {
+            "PowerShell": 18242905,
+            "Python": 591643,
+            "JavaScript": 161809,
+            "C#": 62086,
+            "Shell": 26939,
+            "HTML": 10171,
+            "C": 2008,
+            "Dockerfile": 183
+        }
+    },
+    {
+        "name": "Fast-Kubernetes",
+        "description": "This repo covers Kubernetes with LABs: Kubectl, Pod, Deployment, Service, PV, PVC, Rollout, Multicontainer, Daemonset, Taint-Toleration, Job, Ingress, Kubeadm, Helm, etc.",
+        "languages": {
+            "PowerShell": 44456,
+            "Shell": 5287,
+            "HTML": 307
+        }
+    },
+    {
+        "name": "PSAppDeployToolkit",
+        "description": "Project Homepage & Forums",
+        "languages": {
+            "PowerShell": 1176940,
+            "HTML": 51833,
+            "C#": 45424,
+            "VBScript": 4208,
+            "CSS": 873
+        }
+    },
+    {
+        "name": "PSKoans",
+        "description": "A simple, fun, and interactive way to learn the PowerShell language through Pester unit testing.",
+        "languages": {
+            "PowerShell": 599714
+        }
+    },
+    {
+        "name": "DomainPasswordSpray",
+        "description": "DomainPasswordSpray is a tool written in PowerShell to perform a password spray attack against users of a domain. By default it will automatically generate the userlist from the domain. BE VERY CAREFUL NOT TO LOCKOUT ACCOUNTS!",
+        "languages": {
+            "PowerShell": 19675
+        }
+    },
+    {
+        "name": "packer-windows",
+        "description": "Windows Packer Templates",
+        "languages": {
+            "PowerShell": 16246,
+            "Ruby": 11081,
+            "Batchfile": 9610
+        }
+    },
+    {
+        "name": "windowsterminal-shell",
+        "description": "Install/uninstall scripts for Windows Terminal context menu items",
+        "languages": {
+            "PowerShell": 26424
+        }
+    },
+    {
+        "name": "Enterprise-Scale",
+        "description": "The Azure Landing Zones (Enterprise-Scale) architecture provides prescriptive guidance coupled with Azure best practices, and it follows design principles across the critical design areas for organizations to define their Azure architecture",
+        "languages": {
+            "PowerShell": 284252,
+            "Bicep": 37226
+        }
+    },
+    {
+        "name": "Microsoft-Defender-for-Cloud",
+        "description": "Welcome to the Microsoft Defender for Cloud community repository",
+        "languages": {
+            "PowerShell": 322340,
+            "Python": 22081,
+            "TypeScript": 19209,
+            "HCL": 6535,
+            "Batchfile": 5552
+        }
+    },
+    {
+        "name": "JAWS",
+        "description": "JAWS - Just Another Windows (Enum) Script",
+        "languages": {
+            "PowerShell": 16974
+        }
+    },
+    {
+        "name": "EntityFramework.Docs",
+        "description": "Documentation for Entity Framework Core and Entity Framework 6",
+        "languages": {
+            "PowerShell": 729,
+            "Mermaid": 325,
+            "Batchfile": 89
+        }
+    },
+    {
+        "name": "Security-Datasets",
+        "description": "Re-play Security Events",
+        "languages": {
+            "PowerShell": 65610,
+            "Python": 42599,
+            "Dockerfile": 726
+        }
+    },
+    {
+        "name": "psake",
+        "description": "A build automation tool written in PowerShell",
+        "languages": {
+            "PowerShell": 156173,
+            "Shell": 6687,
+            "Batchfile": 434
+        }
+    },
+    {
+        "name": "Red_Team",
+        "description": "Some scripts useful for red team activities",
+        "languages": {
+            "PowerShell": 110017,
+            "Batchfile": 17633,
+            "VBScript": 15052,
+            "Python": 7977,
+            "C++": 4327,
+            "C": 2975,
+            "C#": 1755
+        }
+    },
+    {
+        "name": "Main",
+        "description": "\ud83d\udce6 The default bucket for Scoop.",
+        "languages": {
+            "PowerShell": 2951
+        }
+    },
+    {
+        "name": "Kansa",
+        "description": "A Powershell incident response framework",
+        "languages": {
+            "PowerShell": 857995
+        }
+    },
+    {
+        "name": "windows-itpro-docs",
+        "description": "This repository is used for Windows client for IT Pro content on Microsoft Learn.",
+        "languages": {
+            "PowerShell": 783
+        }
+    },
+    {
+        "name": "at-ps",
+        "description": "Adversary Tactics - PowerShell Training",
+        "languages": {
+            "PowerShell": 921681,
+            "C#": 2213,
+            "Batchfile": 963
+        }
+    },
+    {
+        "name": "windows-dev-box-setup-scripts",
+        "description": "Scripts to simplify setting up a Windows developer box",
+        "languages": {
+            "PowerShell": 23546
+        }
+    },
+    {
+        "name": "GDK",
+        "description": "Microsoft Public GDK",
+        "languages": {
+            "PowerShell": 17698,
+            "Batchfile": 7430
+        }
+    },
+    {
+        "name": "Erebus",
+        "description": "CobaltStrike\u540e\u6e17\u900f\u6d4b\u8bd5\u63d2\u4ef6",
+        "languages": {
+            "PowerShell": 780545,
+            "Python": 69175,
+            "C#": 4839,
+            "Batchfile": 1212,
+            "Slash": 541
+        }
+    },
+    {
+        "name": "Sparrow",
+        "description": "Sparrow.ps1 was created by CISA's Cloud Forensics team to help detect possible compromised accounts and applications in the Azure/m365 environment.",
+        "languages": {
+            "PowerShell": 36956
+        }
+    },
+    {
+        "name": "aws-support-tools",
+        "description": "Tools and sample code provided by AWS Premium Support.",
+        "languages": {
+            "PowerShell": 221483,
+            "Python": 209874,
+            "Shell": 92762,
+            "C": 49293,
+            "HTML": 25494,
+            "JavaScript": 9655,
+            "Ruby": 3636,
+            "TypeScript": 3090,
+            "Makefile": 2823
+        }
+    },
+    {
+        "name": "Invoke-TheHash",
+        "description": "PowerShell Pass The Hash Utils",
+        "languages": {
+            "PowerShell": 562364
+        }
+    },
+    {
+        "name": "cpp-docs",
+        "description": "C++ Documentation",
+        "languages": {
+            "PowerShell": 729
+        }
+    },
+    {
+        "name": "PowerSharpPack",
+        "description": null,
+        "languages": {
+            "PowerShell": 39719934
+        }
+    },
+    {
+        "name": "Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio",
+        "description": "Microsoft Integration, Azure, Power Platform, Office 365 and much more Stencils Pack it\u2019s a Visio package that contains fully resizable Visio shapes (symbols/icons) that will help you to visually represent On-premise, Cloud or Hybrid Integration and Enterprise architectures scenarios (BizTalk Server, API Management, Logic Apps, Service Bus, Event Hub\u2026), solutions diagrams and features or systems that use Microsoft Azure and related cloud and on-premises technologies in Visio 2016/2013",
+        "languages": {
+            "PowerShell": 4261
+        }
+    },
+    {
+        "name": "Microsoft365DSC",
+        "description": "Manages, configures, extracts and monitors Microsoft 365 tenant configurations",
+        "languages": {
+            "PowerShell": 15393836,
+            "TypeScript": 33582,
+            "SCSS": 5345,
+            "HTML": 1576,
+            "CSS": 1111
+        }
+    },
+    {
+        "name": "windows-development-environment",
+        "description": ":telescope: Turning Windows into an environment ready for modern development",
+        "languages": {
+            "PowerShell": 3911
+        }
+    },
+    {
+        "name": "Azure-Red-Team",
+        "description": "Azure Security Resources and Notes",
+        "languages": {
+            "PowerShell": 5342,
+            "Python": 2073,
+            "Shell": 1874
+        }
+    },
+    {
+        "name": "BurntToast",
+        "description": "Module for creating and displaying Toast Notifications on Microsoft Windows 10.",
+        "languages": {
+            "PowerShell": 169810
+        }
+    },
+    {
+        "name": "move-wsl",
+        "description": "Easily move your WSL distros VHDX file to a new location.",
+        "languages": {
+            "PowerShell": 3593
+        }
+    },
+    {
+        "name": "NetRipper",
+        "description": "NetRipper - Smart traffic sniffing for penetration testers",
+        "languages": {
+            "PowerShell": 253522,
+            "C++": 157481,
+            "C": 123321,
+            "Shell": 8292,
+            "Ruby": 6594,
+            "Makefile": 929,
+            "Batchfile": 319
+        }
+    },
+    {
+        "name": "windowsserverdocs",
+        "description": "Public content repository for Windows Server content.",
+        "languages": {
+            "PowerShell": 732
+        }
+    },
+    {
+        "name": "active-directory-aspnetcore-webapp-openidconnect-v2",
+        "description": "An ASP.NET Core Web App which lets sign-in users (including in your org, many orgs, orgs + personal accounts, sovereign clouds) and call Web APIs (including Microsoft Graph)",
+        "languages": {
+            "PowerShell": 352897,
+            "C#": 276124,
+            "HTML": 166840,
+            "JavaScript": 25686,
+            "CSS": 17132,
+            "Batchfile": 62
+        }
+    },
+    {
+        "name": "Chimera",
+        "description": "Chimera is a PowerShell obfuscation script designed to bypass AMSI and commercial antivirus solutions.",
+        "languages": {
+            "PowerShell": 36998,
+            "Shell": 25269
+        }
+    },
+    {
+        "name": "openhab-distro",
+        "description": "The binary distribution of openHAB",
+        "languages": {
+            "PowerShell": 65484,
+            "Shell": 48767,
+            "Batchfile": 29899,
+            "Xtend": 26711,
+            "Groovy": 1789,
+            "Python": 628,
+            "JavaScript": 558,
+            "HTML": 451
+        }
+    },
+    {
+        "name": "boxstarter",
+        "description": "Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages",
+        "languages": {
+            "PowerShell": 590868,
+            "Python": 224376,
+            "C#": 2478,
+            "CSS": 1302,
+            "Batchfile": 582
+        }
+    },
+    {
+        "name": "Exploits",
+        "description": "Windows Exploits",
+        "languages": {
+            "PowerShell": 25798,
+            "C++": 24895,
+            "C#": 16384,
+            "C": 8855
+        }
+    },
+    {
+        "name": "powershell-intune-samples",
+        "description": "This repository of PowerShell sample scripts show how to access Intune service resources. They demonstrate this by making HTTPS RESTful API requests to the Microsoft Graph API from PowerShell.",
+        "languages": {
+            "PowerShell": 2032809
+        }
+    },
+    {
+        "name": "sp-dev-docs",
+        "description": "SharePoint & Viva Connections Developer Documentation",
+        "languages": {
+            "PowerShell": 729
+        }
+    },
+    {
+        "name": "winfetch",
+        "description": "\ud83d\udee0 A command-line system information utility written in PowerShell. Like Neofetch, but for Windows.",
+        "languages": {
+            "PowerShell": 150758
+        }
+    },
+    {
+        "name": "redsnarf",
+        "description": "RedSnarf is a pen-testing / red-teaming tool for Windows environments",
+        "languages": {
+            "PowerShell": 1361277,
+            "Python": 264794
+        }
+    },
+    {
+        "name": "CSS-Exchange",
+        "description": "Exchange Server support tools and scripts",
+        "languages": {
+            "PowerShell": 3107159,
+            "HTML": 15721
+        }
+    },
+    {
+        "name": "ThreatPursuit-VM",
+        "description": "Threat Pursuit Virtual Machine (VM): A fully customizable, open-sourced Windows-based distribution focused on threat intelligence analysis and hunting designed for intel and malware analysts as well as threat hunters to get up and running quickly.",
+        "languages": {
+            "PowerShell": 216983,
+            "AutoHotkey": 2886,
+            "Batchfile": 125
+        }
+    },
+    {
+        "name": "MFASweep",
+        "description": "A tool for checking if MFA is enabled on multiple Microsoft Services",
+        "languages": {
+            "PowerShell": 544393
+        }
+    },
+    {
+        "name": "EDR-Telemetry",
+        "description": "This project aims to compare and evaluate the telemetry of various EDR products.",
+        "languages": {
+            "PowerShell": 4813,
+            "Python": 3158
+        }
+    },
+    {
+        "name": "icebreaker",
+        "description": "Gets plaintext Active Directory credentials if you're on the internal network but outside the AD environment",
+        "languages": {
+            "PowerShell": 4948867,
+            "Python": 53468,
+            "Shell": 2907,
+            "Dockerfile": 1023
+        }
+    },
+    {
+        "name": "PowerShell",
+        "description": "Useful PowerShell scripts",
+        "languages": {
+            "PowerShell": 1824210,
+            "C++": 168391,
+            "C": 28571,
+            "Assembly": 2757
+        }
+    },
+    {
+        "name": "SessionGopher",
+        "description": "SessionGopher is a PowerShell tool that uses WMI to extract saved session information for remote access tools such as WinSCP, PuTTY, SuperPuTTY, FileZilla, and Microsoft Remote Desktop. It can be run remotely or locally.",
+        "languages": {
+            "PowerShell": 39492
+        }
+    },
+    {
+        "name": "Office365itpros",
+        "description": "Office 365 for IT Pros PowerShell examples",
+        "languages": {
+            "PowerShell": 1478292
+        }
+    },
+    {
+        "name": "Harden-Windows-Security",
+        "description": "Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md",
+        "languages": {
+            "PowerShell": 2099886,
+            "C#": 12135
+        }
+    },
+    {
+        "name": "MSLab",
+        "description": "Azure Stack HCI, Windows 10 and Windows Server rapid lab deployment scripts",
+        "languages": {
+            "PowerShell": 1787211
+        }
+    },
+    {
+        "name": "HardeningKitty",
+        "description": "HardeningKitty - Checks and hardens your Windows configuration",
+        "languages": {
+            "PowerShell": 167902
+        }
+    },
+    {
+        "name": "AADInternals",
+        "description": "AADInternals PowerShell module for administering Azure AD and Office 365",
+        "languages": {
+            "PowerShell": 2285348
+        }
+    },
+    {
+        "name": "Powermad",
+        "description": "PowerShell MachineAccountQuota and DNS exploit tools",
+        "languages": {
+            "PowerShell": 216338
+        }
+    },
+    {
+        "name": "yingji",
+        "description": "\u5e94\u6025\u76f8\u5173\u5185\u5bb9\u79ef\u7d2f",
+        "languages": {
+            "PowerShell": 431219,
+            "PHP": 327358,
+            "Python": 40569
+        }
+    },
+    {
+        "name": "cmd-colors-solarized",
+        "description": "Solarized color settings for Windows command prompt",
+        "languages": {
+            "PowerShell": 25575,
+            "Shell": 1626,
+            "Batchfile": 164
+        }
+    },
+    {
+        "name": "red-team-scripts",
+        "description": "A collection of Red Team focused tools, scripts, and notes",
+        "languages": {
+            "PowerShell": 198558,
+            "Python": 3698
+        }
+    },
+    {
+        "name": "sql-docs",
+        "description": "Technical documentation for Microsoft SQL Server, tools such as SQL Server Management Studio (SSMS) ,  SQL Server Data Tools (SSDT) etc.",
+        "languages": {
+            "PowerShell": 729
+        }
+    },
+    {
+        "name": "Azure-Functions",
+        "description": null,
+        "languages": {
+            "PowerShell": 737
+        }
+    },
+    {
+        "name": "luckystrike",
+        "description": "A PowerShell based utility for the creation of malicious Office macro documents.",
+        "languages": {
+            "PowerShell": 278842
+        }
+    },
+    {
+        "name": "ADAPE-Script",
+        "description": "Active Directory Assessment and Privilege Escalation Script",
+        "languages": {
+            "PowerShell": 7841
+        }
+    },
+    {
+        "name": "CCStopper",
+        "description": "[Archived] Stops Adobe's pesky background apps and more \ud83d\ude09",
+        "languages": {
+            "PowerShell": 1109
+        }
+    },
+    {
+        "name": "AutoRDPwn",
+        "description": "The Shadow Attack Framework",
+        "languages": {
+            "PowerShell": 25697758
+        }
+    },
+    {
+        "name": "PS2EXE",
+        "description": "Module to compile powershell scripts to executables",
+        "languages": {
+            "PowerShell": 102701,
+            "C#": 28287,
+            "Batchfile": 744
+        }
+    },
+    {
+        "name": "PowerZure",
+        "description": "PowerShell framework to assess Azure security",
+        "languages": {
+            "PowerShell": 104222
+        }
+    },
+    {
+        "name": "xencrypt",
+        "description": "A PowerShell script anti-virus evasion tool",
+        "languages": {
+            "PowerShell": 9534
+        }
+    },
+    {
+        "name": "Random-PowerShell-Work",
+        "description": "Random PowerShell Work",
+        "languages": {
+            "PowerShell": 988457,
+            "XSLT": 9794,
+            "HTML": 6302
+        }
+    },
+    {
+        "name": "ReverseTCPShell",
+        "description": "PowerShell ReverseTCP Shell - Framework",
+        "languages": {
+            "PowerShell": 15135
+        }
+    },
+    {
+        "name": "LSTAR",
+        "description": "LSTAR - CobaltStrike \u7efc\u5408\u540e\u6e17\u900f\u63d2\u4ef6",
+        "languages": {
+            "PowerShell": 877252,
+            "VBScript": 28866,
+            "C": 3223
+        }
+    },
+    {
+        "name": "windows-docker-machine",
+        "description": "Work with Windows containers and LCOW on Mac/Linux/Windows",
+        "languages": {
+            "PowerShell": 13184
+        }
+    },
+    {
+        "name": "Creds",
+        "description": "Some usefull Scripts and Executables for Pentest & Forensics",
+        "languages": {
+            "PowerShell": 118876697,
+            "C#": 4305541,
+            "Nim": 155256,
+            "Python": 44637,
+            "C++": 37264,
+            "C": 10640,
+            "Batchfile": 6623,
+            "Go": 3378,
+            "Shell": 465
+        }
+    },
+    {
+        "name": "Windows-Optimize-Harden-Debloat",
+        "description": "Enhance the security and privacy of your Windows 10 and Windows 11 deployments with our fully optimized, hardened, and debloated script. Adhere to industry best practices and Department of Defense STIG/SRG requirements for optimal performance and security.",
+        "languages": {
+            "PowerShell": 503652,
+            "Dockerfile": 1309,
+            "JavaScript": 266
+        }
+    },
+    {
+        "name": "PSSW100AVB",
+        "description": "A list of useful Powershell scripts with 100% AV bypass (At the time of publication). ",
+        "languages": {
+            "PowerShell": 4067
+        }
+    },
+    {
+        "name": "AzureMasterClass",
+        "description": "Repo for the Azure Master Class",
+        "languages": {
+            "PowerShell": 34416,
+            "Jupyter Notebook": 10071,
+            "HTML": 3856,
+            "JavaScript": 3052,
+            "Bicep": 2054,
+            "Pug": 273,
+            "Dockerfile": 177,
+            "CSS": 111
+        }
+    },
+    {
+        "name": "win32",
+        "description": "Public mirror for win32-pr",
+        "languages": {
+            "PowerShell": 729
+        }
+    },
+    {
+        "name": "Flipper_Zero_Badusb_hack5_payloads",
+        "description": "hack5 badusb payloads moded for be played with flipper zero",
+        "languages": {
+            "PowerShell": 132305,
+            "Java": 30776,
+            "Shell": 4912,
+            "Batchfile": 33
+        }
+    },
+    {
+        "name": "dorado",
+        "description": "\ud83d\udc1f Yet Another bucket for lovely Scoop",
+        "languages": {
+            "PowerShell": 9759,
+            "Batchfile": 5143
+        }
+    },
+    {
+        "name": "cobalt-arsenal",
+        "description": "My collection of battle-tested Aggressor Scripts for Cobalt Strike 4.0+",
+        "languages": {
+            "PowerShell": 5602690,
+            "Python": 18153
+        }
+    },
+    {
+        "name": "Beginners-Guide-to-Obfuscation",
+        "description": null,
+        "languages": {
+            "PowerShell": 3231855
+        }
+    },
+    {
+        "name": "CVE-2021-1675",
+        "description": "Pure PowerShell implementation of CVE-2021-1675 Print Spooler Local Privilege Escalation (PrintNightmare)",
+        "languages": {
+            "PowerShell": 178561,
+            "C++": 1149,
+            "C": 730
+        }
+    },
+    {
+        "name": "deno_install",
+        "description": "Deno Binary Installer",
+        "languages": {
+            "PowerShell": 2526,
+            "Shell": 2254
+        }
+    },
+    {
+        "name": "PowerShell-for-Hackers",
+        "description": "This repository is a collection of powershell functions every hacker should know ",
+        "languages": {
+            "PowerShell": 471627
+        }
+    },
+    {
+        "name": "badusb",
+        "description": "Flipper Zero badusb payload library",
+        "languages": {
+            "PowerShell": 11657,
+            "Shell": 4898,
+            "Batchfile": 169
+        }
+    },
+    {
+        "name": "AzureMonitorCommunity",
+        "description": "An open repo for Azure Monitor queries, workbooks, alerts and more",
+        "languages": {
+            "PowerShell": 64347,
+            "Bicep": 12794,
+            "Shell": 12096
+        }
+    },
+    {
+        "name": "ARI",
+        "description": "Azure Resource Inventory - It's a Powerful tool to create EXCEL inventory from Azure Resources with low effort",
+        "languages": {
+            "PowerShell": 964199,
+            "Smarty": 6039
+        }
+    },
+    {
+        "name": "PowerShell",
+        "description": "Various PowerShell functions and scripts",
+        "languages": {
+            "PowerShell": 375452
+        }
+    },
+    {
+        "name": "ConPtyShell",
+        "description": "ConPtyShell - Fully Interactive Reverse Shell for Windows",
+        "languages": {
+            "PowerShell": 73075,
+            "C#": 71041
+        }
+    },
+    {
+        "name": "Parsec-Cloud-Preparation-Tool",
+        "description": "Launch Parsec enabled cloud computers via your own cloud provider account.",
+        "languages": {
+            "PowerShell": 89522
+        }
+    },
+    {
+        "name": "RedTeamPowershellScripts",
+        "description": "Various PowerShell scripts that may be useful during red team exercise",
+        "languages": {
+            "PowerShell": 31102
+        }
+    },
+    {
+        "name": "ADACLScanner",
+        "description": "Repo for ADACLScan.ps1 - Your number one script for ACL's in Active Directory",
+        "languages": {
+            "PowerShell": 767231
+        }
+    },
+    {
+        "name": "microsoft-365-docs",
+        "description": "This repo is used to host the source for the Microsoft 365 documentation on https://docs.microsoft.com.",
+        "languages": {
+            "PowerShell": 729
+        }
+    },
+    {
+        "name": "adPEAS",
+        "description": "Powershell tool to automate Active Directory enumeration.",
+        "languages": {
+            "PowerShell": 5302921
+        }
+    },
+    {
+        "name": "Winget-AutoUpdate",
+        "description": "WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)",
+        "languages": {
+            "PowerShell": 222164,
+            "VBScript": 74
+        }
+    },
+    {
+        "name": "concfg",
+        "description": "Import / export Windows console settings",
+        "languages": {
+            "PowerShell": 32137,
+            "Python": 5119
+        }
+    },
+    {
+        "name": "Pentest-tools",
+        "description": "Intranet penetration tools",
+        "languages": {
+            "PowerShell": 21360607,
+            "C#": 955166,
+            "Python": 672656,
+            "C": 398136,
+            "C++": 197545,
+            "Shell": 90295,
+            "Makefile": 85116,
+            "VBScript": 41721,
+            "ASP.NET": 36821,
+            "Java": 27854,
+            "PHP": 23590,
+            "HTML": 22841,
+            "Batchfile": 16738,
+            "Go": 14489,
+            "Roff": 10376,
+            "Smarty": 7837,
+            "Perl": 6951,
+            "JavaScript": 5952,
+            "YARA": 2833,
+            "Assembly": 2757,
+            "M4": 1039,
+            "Dockerfile": 256
+        }
+    },
+    {
+        "name": "PSScriptTools",
+        "description": ":wrench: :hammer: A set of PowerShell functions you might use to enhance your own functions and scripts or to facilitate working in the console. Most should work in both Windows PowerShell and PowerShell 7, even cross-platform. Any operating system limitations should be handled on a per command basis. The Samples folder contains demonstration script files",
+        "languages": {
+            "PowerShell": 370733
+        }
+    },
+    {
+        "name": "ElevateKit",
+        "description": "The Elevate Kit demonstrates how to use third-party privilege escalation attacks with Cobalt Strike's Beacon payload.",
+        "languages": {
+            "PowerShell": 29708
+        }
+    },
+    {
+        "name": "SkyArk",
+        "description": "SkyArk helps to discover, assess and secure the most privileged entities in Azure and AWS",
+        "languages": {
+            "PowerShell": 180551,
+            "Batchfile": 470
+        }
+    },
+    {
+        "name": "Kautilya",
+        "description": "Kautilya - Tool for easy use of Human Interface Devices for offensive security and penetration testing.",
+        "languages": {
+            "PowerShell": 778171,
+            "Arduino": 66967,
+            "Ruby": 58569,
+            "Processing": 27450
+        }
+    },
+    {
+        "name": "PowerShellArsenal",
+        "description": "A PowerShell Module Dedicated to Reverse Engineering",
+        "languages": {
+            "PowerShell": 377073
+        }
+    },
+    {
+        "name": "windows-driver-docs",
+        "description": "The official Windows Driver Kit documentation sources",
+        "languages": {
+            "PowerShell": 779,
+            "OpenSCAD": 498
+        }
+    },
+    {
+        "name": "PowerMemory",
+        "description": "Exploit the credentials present in files and memory",
+        "languages": {
+            "PowerShell": 453789
+        }
+    },
+    {
+        "name": "gamedevguide",
+        "description": "Game Development & Unreal Engine Programming Guide",
+        "languages": {
+            "PowerShell": 3311
+        }
+    },
+    {
+        "name": "Event-Forwarding-Guidance",
+        "description": "Configuration guidance for implementing collection of security relevant Windows Event Log events by using Windows Event Forwarding. #nsacyber",
+        "languages": {
+            "PowerShell": 30576
+        }
+    },
+    {
+        "name": "IntuneManagement",
+        "description": "Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.  ",
+        "languages": {
+            "PowerShell": 1120128,
+            "C#": 3124,
+            "Batchfile": 416
+        }
+    },
+    {
+        "name": "awesome-azure-learning",
+        "description": "This repo includes plenty of references for Azure learning, especially for the Azure certs and Azure architecture, and any other learning materials e.g. security and automation topics.",
+        "languages": {
+            "PowerShell": 3195
+        }
+    },
+    {
+        "name": "MSOLSpray",
+        "description": "A password spraying tool for Microsoft Online accounts (Azure/O365). The script logs if a user cred is valid, if MFA is enabled on the account, if a tenant doesn't exist, if a user doesn't exist, if the account is locked, or if the account is disabled. ",
+        "languages": {
+            "PowerShell": 8727
+        }
+    },
+    {
+        "name": "CloudAdoptionFramework",
+        "description": "Code samples and extended documentation to support the guidance provided in the Microsoft Cloud Adoption Framework",
+        "languages": {
+            "PowerShell": 47850,
+            "Shell": 249
+        }
+    },
+    {
+        "name": "Flipper_Zero",
+        "description": "My SD Drive for Flipper Zero",
+        "languages": {
+            "PowerShell": 24894227,
+            "Python": 5599259,
+            "JavaScript": 2864638,
+            "C": 1999975,
+            "HTML": 766812,
+            "Shell": 659329,
+            "C++": 555732,
+            "CSS": 223320,
+            "Batchfile": 171357,
+            "Java": 158301,
+            "PHP": 119953,
+            "C#": 97492,
+            "Ruby": 44575,
+            "ASP.NET": 19181,
+            "Go": 13952,
+            "VBScript": 13443,
+            "Assembly": 9156,
+            "Roff": 8343,
+            "Makefile": 8249,
+            "Smarty": 6850,
+            "Classic ASP": 6580,
+            "AutoHotkey": 5596,
+            "Perl": 4890,
+            "Awk": 3465,
+            "Boo": 2774,
+            "Lua": 2404,
+            "sed": 1632,
+            "Dockerfile": 1610,
+            "Jupyter Notebook": 1222,
+            "XSLT": 272
+        }
+    },
+    {
+        "name": "Invoke-CradleCrafter",
+        "description": "PowerShell Remote Download Cradle Generator & Obfuscator",
+        "languages": {
+            "PowerShell": 2023914
+        }
+    },
+    {
+        "name": "Azure-MG-Sub-Governance-Reporting",
+        "description": "Azure Governance Visualizer aka AzGovViz is a PowerShell script that captures Azure Governance related information such as Azure Policy, RBAC (a lot more) by polling Azure ARM, Storage and Microsoft Graph APIs.",
+        "languages": {
+            "PowerShell": 3852504,
+            "Dockerfile": 312
+        }
+    },
+    {
+        "name": "GPOZaurr",
+        "description": "Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them. ",
+        "languages": {
+            "PowerShell": 1036705
+        }
+    },
+    {
+        "name": "Misc-Powershell-Scripts",
+        "description": "Random Tools",
+        "languages": {
+            "PowerShell": 731284
+        }
+    },
+    {
+        "name": "WMImplant",
+        "description": "This is a PowerShell based tool that is designed to act like a RAT. Its interface is that of a shell where any command that is supported is translated into a WMI-equivalent for use on a network/remote machine. WMImplant is WMI based.",
+        "languages": {
+            "PowerShell": 129726
+        }
+    },
+    {
+        "name": "Invoke-DOSfuscation",
+        "description": "Cmd.exe Command Obfuscation Generator & Detection Test Harness",
+        "languages": {
+            "PowerShell": 730460
+        }
+    },
+    {
+        "name": "ADModule",
+        "description": "Microsoft signed ActiveDirectory PowerShell module",
+        "languages": {
+            "PowerShell": 3284224
+        }
+    },
+    {
+        "name": "ProtectMyTooling",
+        "description": "Multi-Packer wrapper letting us daisy-chain various packers, obfuscators and other Red Team oriented weaponry. Featured with artifacts watermarking, IOCs collection & PE Backdooring. You feed it with your implant, it does a lot of sneaky things and spits out obfuscated executable.",
+        "languages": {
+            "PowerShell": 1357332,
+            "Assembly": 602436,
+            "Python": 568611,
+            "PHP": 271122,
+            "HTML": 248266,
+            "Roff": 172344,
+            "Nim": 89519,
+            "Pawn": 86222,
+            "C": 61100,
+            "C++": 43842,
+            "C#": 24115,
+            "Pascal": 6296,
+            "NASL": 4806,
+            "YARA": 725,
+            "Shell": 223
+        }
+    },
+    {
+        "name": "ConEmu-Color-Themes",
+        "description": "Manually ported color themes for ConEmu",
+        "languages": {
+            "PowerShell": 4109,
+            "Python": 1387
         }
     }
 ]
