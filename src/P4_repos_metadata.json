@@ -4,8 +4,8 @@
         "description": "P4 language tutorials",
         "languages": {
             "P4": 152275,
-            "Python": 148838,
-            "Shell": 23663,
+            "Python": 148997,
+            "Shell": 23194,
             "Emacs Lisp": 14915,
             "Vim Script": 8890,
             "TeX": 6502,
@@ -59,6 +59,1784 @@
             "Go": 1582,
             "Starlark": 1393,
             "C": 69
+        }
+    },
+    {
+        "name": "petr4",
+        "description": "Petr4: Formal Semantics for P4",
+        "languages": {
+            "P4": 2468430,
+            "Coq": 2001779,
+            "OCaml": 608818,
+            "CSS": 89498,
+            "C": 56018,
+            "HTML": 5772,
+            "Dockerfile": 3051,
+            "Python": 2725,
+            "Makefile": 1480,
+            "Shell": 1086,
+            "Standard ML": 167
+        }
+    },
+    {
+        "name": "p4srv6",
+        "description": "Proto-typing SRv6 functions with P4 lang.",
+        "languages": {
+            "P4": 69651,
+            "Shell": 14024,
+            "Makefile": 118
+        }
+    },
+    {
+        "name": "pna",
+        "description": "Portable NIC Architecture",
+        "languages": {
+            "P4": 33901,
+            "Makefile": 298
+        }
+    },
+    {
+        "name": "P4LLVM",
+        "description": "P4-LLVM is an LLVM based compiler for P4",
+        "languages": {
+            "P4": 7270816,
+            "C++": 2956400,
+            "Python": 172947,
+            "CMake": 84283,
+            "C": 37863,
+            "LLVM": 29622,
+            "Thrift": 16017,
+            "Lex": 4235,
+            "Dockerfile": 1877,
+            "Shell": 1646
+        }
+    },
+    {
+        "name": "The-Road-to-P4",
+        "description": "A Programmer Guide of the P4 Language.",
+        "languages": {
+            "P4": 6859
+        }
+    },
+    {
+        "name": "P4_SketchLib",
+        "description": null,
+        "languages": {
+            "P4": 125437,
+            "Shell": 3295
+        }
+    },
+    {
+        "name": "ddosd-p4",
+        "description": "\"Offloading Real-time DDoS Attack Detection to Programmable Data Planes\" P4 description",
+        "languages": {
+            "P4": 20546,
+            "Shell": 3153,
+            "Dockerfile": 2259,
+            "Makefile": 1041
+        }
+    },
+    {
+        "name": "gauntlet",
+        "description": "Finding bugs in P4 compilers using translation validation.",
+        "languages": {
+            "P4": 468495,
+            "Python": 284068,
+            "Shell": 3421
+        }
+    },
+    {
+        "name": "open-G-SRv6-P4",
+        "description": "\u57fa\u4e8eP4\u7684G-SRv6\u4ee3\u7801",
+        "languages": {
+            "P4": 16267
+        }
+    },
+    {
+        "name": "DAIET",
+        "description": "DAIET performs data aggregation along network paths using programmable network devices",
+        "languages": {
+            "P4": 15499,
+            "Python": 10246,
+            "Shell": 2547
+        }
+    },
+    {
+        "name": "upf_p4_poc",
+        "description": "This project is a proof of concept for 5g upf based on p4.",
+        "languages": {
+            "P4": 35990,
+            "Go": 15034,
+            "Python": 7506,
+            "Makefile": 863
+        }
+    },
+    {
+        "name": "RARE-bmv2",
+        "description": "RARE for P4Lang bmv2 dataplane target",
+        "languages": {
+            "P4": 480270,
+            "Python": 325400,
+            "Shell": 30837,
+            "Makefile": 25362,
+            "Nix": 8865
+        }
+    },
+    {
+        "name": "NetBeacon",
+        "description": "An Efficient Design of Intelligent Network Data Plane",
+        "languages": {
+            "P4": 42703,
+            "Python": 37710
+        }
+    },
+    {
+        "name": "p4-codel",
+        "description": null,
+        "languages": {
+            "P4": 39661,
+            "Python": 25752,
+            "Shell": 12414
+        }
+    },
+    {
+        "name": "ditto",
+        "description": "ditto: WAN Traffic Obfuscation at Line Rate (source code belonging to the NDSS 2022 paper)",
+        "languages": {
+            "P4": 95508,
+            "Python": 48261,
+            "C": 377
+        }
+    },
+    {
+        "name": "Tofino-PINT",
+        "description": null,
+        "languages": {
+            "P4": 11140,
+            "Python": 4812,
+            "Shell": 159
+        }
+    },
+    {
+        "name": "p4-programs-survey",
+        "description": null,
+        "languages": {
+            "P4": 1355734,
+            "C": 1266472,
+            "C++": 856593,
+            "Python": 809751,
+            "Java": 449560,
+            "Makefile": 427229,
+            "Verilog": 324970,
+            "Tcl": 153227,
+            "Shell": 85327,
+            "Vim Script": 10738,
+            "Gnuplot": 5079,
+            "Ruby": 3000,
+            "Objective-C": 25
+        }
+    },
+    {
+        "name": "p4-demos",
+        "description": "Prototyping networks with P4 ",
+        "languages": {
+            "P4": 45240,
+            "Python": 14059,
+            "Shell": 560
+        }
+    },
+    {
+        "name": "DPTP",
+        "description": "Data-Plane Time synchronization Protocol (P4-Tofino & DPDK)",
+        "languages": {
+            "P4": 54733,
+            "C": 44806,
+            "C++": 33127,
+            "Makefile": 4005,
+            "Python": 1705,
+            "Shell": 690
+        }
+    },
+    {
+        "name": "P4-HH",
+        "description": "Heavy-Hitter detection in P4 switch ASIC using Inter-Packet Gap",
+        "languages": {
+            "P4": 21234,
+            "Shell": 15704,
+            "Python": 8835
+        }
+    },
+    {
+        "name": "Ripple",
+        "description": "Ripple: A Programmable, Decentralized Link-Flooding Defense Against Adaptive Adversaries",
+        "languages": {
+            "P4": 622893,
+            "C++": 153830,
+            "Python": 114007,
+            "C": 9004,
+            "Makefile": 120
+        }
+    },
+    {
+        "name": "redplane-public",
+        "description": null,
+        "languages": {
+            "P4": 207203,
+            "C++": 124625,
+            "Shell": 53061,
+            "Python": 21238,
+            "TLA": 18034,
+            "CMake": 2124,
+            "C": 438
+        }
+    },
+    {
+        "name": "p4se",
+        "description": "BNG/PPPoE P4 software",
+        "languages": {
+            "P4": 112708,
+            "Python": 50349,
+            "Shell": 4075,
+            "Lua": 3205
+        }
+    },
+    {
+        "name": "fcm_p4",
+        "description": "P4 source code of FCM-Sketch",
+        "languages": {
+            "P4": 40754,
+            "Python": 11858,
+            "C++": 5065
+        }
+    },
+    {
+        "name": "p4-semantics",
+        "description": "Formal Semantics of P4 in K",
+        "languages": {
+            "P4": 793035,
+            "Python": 39078,
+            "Shell": 4568,
+            "Makefile": 2103,
+            "SMT": 1589
+        }
+    },
+    {
+        "name": "HorusEye",
+        "description": null,
+        "languages": {
+            "P4": 307387,
+            "Python": 164603
+        }
+    },
+    {
+        "name": "INT-InBand-Network-Telemetry-",
+        "description": null,
+        "languages": {
+            "P4": 47384,
+            "Python": 19909,
+            "Makefile": 29
+        }
+    },
+    {
+        "name": "DTA",
+        "description": "This is the repository for the ACM SIGCOMM'23 paper Direct Telemetry Access",
+        "languages": {
+            "P4": 78760,
+            "C++": 38296
+        }
+    },
+    {
+        "name": "cheetah-tcp-timestamp-tofino",
+        "description": "Implementation of Stateless and Stateful Cheetah with TCP timestamps for the Tofino P4 target",
+        "languages": {
+            "P4": 81491,
+            "Python": 10145
+        }
+    },
+    {
+        "name": "p4-dpdk-target-notes",
+        "description": "Some notes to build and run P4 DPDK target",
+        "languages": {
+            "P4": 2038,
+            "Dockerfile": 850,
+            "Shell": 196
+        }
+    },
+    {
+        "name": "p4-int",
+        "description": "An implementation of In-Band Network Telemetry in P4",
+        "languages": {
+            "P4": 173476,
+            "Lua": 13927,
+            "Python": 7820
+        }
+    },
+    {
+        "name": "Flowrest",
+        "description": "Flowrest: in-switch flow-level classification with random forests",
+        "languages": {
+            "P4": 61107,
+            "Jupyter Notebook": 56759,
+            "Python": 35283
+        }
+    },
+    {
+        "name": "INDDoS",
+        "description": "In-Network Volumetric DDoS Victim Identification Using Programmable Commodity Switches",
+        "languages": {
+            "P4": 34824,
+            "Shell": 13915,
+            "Python": 12211
+        }
+    },
+    {
+        "name": "onos-p4-dev",
+        "description": "Various P4 tools, programs and scripts to allow developers try the P4 experimental features in ONOS",
+        "languages": {
+            "P4": 7333,
+            "Python": 4460,
+            "Shell": 2089
+        }
+    },
+    {
+        "name": "burstradar",
+        "description": "Practical Real-time Microburst Monitoring for Datacenter Networks",
+        "languages": {
+            "P4": 10496,
+            "Python": 2749,
+            "Makefile": 97
+        }
+    },
+    {
+        "name": "M-Sketch",
+        "description": null,
+        "languages": {
+            "P4": 27224,
+            "C": 11885,
+            "Shell": 1028,
+            "Python": 855,
+            "Makefile": 620
+        }
+    },
+    {
+        "name": "p4extern",
+        "description": "This repository's aim is to show how extern functions should be implemented",
+        "languages": {
+            "P4": 21054
+        }
+    },
+    {
+        "name": "netcope-p4",
+        "description": "Netcope P4 Examples",
+        "languages": {
+            "P4": 162602,
+            "C++": 56191,
+            "Shell": 2914
+        }
+    },
+    {
+        "name": "NDN.p4",
+        "description": "An NDN implementation written in P4",
+        "languages": {
+            "P4": 18530,
+            "Python": 15545
+        }
+    },
+    {
+        "name": "DINC",
+        "description": "DINC is a framework that efficiently plans and implements P4-based service partitions on multiple network devices. ",
+        "languages": {
+            "P4": 630255,
+            "Python": 371302,
+            "TeX": 6505,
+            "Makefile": 2829,
+            "Shell": 690
+        }
+    },
+    {
+        "name": "pie-for-tofino",
+        "description": "Data plane and control plane implementations of our three variants of PIE for Tofino in P4_16.",
+        "languages": {
+            "P4": 72079,
+            "C++": 13538,
+            "Python": 10797,
+            "CMake": 3533,
+            "Shell": 276
+        }
+    },
+    {
+        "name": "HyperV",
+        "description": "HyperV: High-Performance Virtualization of the Programmable Data Plane",
+        "languages": {
+            "P4": 81854,
+            "Makefile": 479
+        }
+    },
+    {
+        "name": "P4Visor",
+        "description": null,
+        "languages": {
+            "P4": 1235435,
+            "Python": 757945,
+            "C++": 123890,
+            "C": 108306,
+            "Shell": 21569,
+            "Thrift": 16017,
+            "Makefile": 473
+        }
+    },
+    {
+        "name": "FindINT",
+        "description": "A packet loss detection and location solution based on AM-PM and INT, suitable for Mininet environment, written in P4 language.",
+        "languages": {
+            "P4": 26156,
+            "Python": 14127,
+            "Makefile": 138
+        }
+    },
+    {
+        "name": "rg-materials",
+        "description": "Documents related to the proposed COIN research group",
+        "languages": {
+            "P4": 6273,
+            "Makefile": 288
+        }
+    },
+    {
+        "name": "PPPoE_using_P4",
+        "description": "The code runs on the netronome smart card to filtering PPPoE and PPP control plane packet send to vbras and Decap\\Encap data plane packet PPPoE header.",
+        "languages": {
+            "P4": 2971
+        }
+    },
+    {
+        "name": "Network-wide-heavy-hitter-detection",
+        "description": "Network-wide heavy hitter detection in P4",
+        "languages": {
+            "P4": 23221,
+            "Python": 9093,
+            "Shell": 5173
+        }
+    },
+    {
+        "name": "conweave-p4",
+        "description": "P4 source code for ConWeave load balancing",
+        "languages": {
+            "P4": 352906,
+            "Python": 26447,
+            "Makefile": 139
+        }
+    },
+    {
+        "name": "HappyFlowFriends",
+        "description": "Cloud-based DoS protection (a PoC implementation in P4)",
+        "languages": {
+            "P4": 14668,
+            "Python": 8767,
+            "Shell": 1244
+        }
+    },
+    {
+        "name": "P4-SFC",
+        "description": "P4 Implementation of Service Function Chaining in IEEE ICCE-Asia'20",
+        "languages": {
+            "P4": 33326,
+            "Python": 23911,
+            "Makefile": 163
+        }
+    },
+    {
+        "name": "P4-filtering",
+        "description": "Attachments for the paper \"Filtering DDoS traffic using the P4 programming language\" by Jan-Jaap Korpershoek",
+        "languages": {
+            "P4": 7038
+        }
+    },
+    {
+        "name": "Speedlight",
+        "description": "Source code for Speedlight, a system for Synchronized Network Snapshots",
+        "languages": {
+            "P4": 78307,
+            "Python": 18794,
+            "C++": 9477,
+            "Shell": 4058
+        }
+    },
+    {
+        "name": "hypertester",
+        "description": "HyperTest is developed upon Tofino for high-performannce and flexible network testing. Some code of HyperTester could only runs in Tofino switches, but the Tofino-based code cannot be open-sourced. Thus, we are working on re-developing the code based on the standard P4 specification.",
+        "languages": {
+            "P4": 206914,
+            "HTML": 29578,
+            "Python": 24506,
+            "Makefile": 73
+        }
+    },
+    {
+        "name": "Ribosome-P4",
+        "description": "Ribosome P4 code for Intel Tofino",
+        "languages": {
+            "P4": 59652,
+            "Python": 12154
+        }
+    },
+    {
+        "name": "A-Time-Sensitive-network-Switch-Implementation-using-P4",
+        "description": "Final year research project to design a programmable virtual switch based on the specifications of a TSN to be implemented on a TSN network (in Mininet) comprised of various TSN switches and a network controller.",
+        "languages": {
+            "P4": 43114,
+            "Python": 9956,
+            "Makefile": 276
+        }
+    },
+    {
+        "name": "dh-aes-p4",
+        "description": "A pure P4 implementation towards Diffie-Hellman key exchange with AES encryption.",
+        "languages": {
+            "P4": 349691,
+            "Python": 88972
+        }
+    },
+    {
+        "name": "p4lang-tests",
+        "description": "Some sample P4 programs and notes",
+        "languages": {
+            "P4": 3103661,
+            "C": 81349,
+            "Shell": 63669
+        }
+    },
+    {
+        "name": "p4_r2r",
+        "description": "p4_r2r: P4 Ready To Run --rapid prototyping of P4 programs using Barefoot's p4app tool",
+        "languages": {
+            "P4": 21338,
+            "Python": 18536,
+            "Shell": 4968
+        }
+    },
+    {
+        "name": "P4-implementations",
+        "description": null,
+        "languages": {
+            "P4": 64032,
+            "Lua": 46772,
+            "C++": 14261,
+            "C": 10017,
+            "Python": 7946
+        }
+    },
+    {
+        "name": "DDoS_Flooding_Attack_Mitigation_in_Software_Defined_Networks",
+        "description": " In this repository, we propose a lightweight and practical mitigation mechanism to protect SDN architecture against DDoS flooding threats and ensure a secure and efficient SDN-based networking environment. Our proposal extends the Data Plane (DP) with a classification and mitigation module to analyze the new incoming packets, classify the benign requests from the SYN flood attacks, and perform the adaptive countermeasures.",
+        "languages": {
+            "P4": 10678,
+            "Python": 6775,
+            "Makefile": 97
+        }
+    },
+    {
+        "name": "GTPV1-P4",
+        "description": "This p4 program provides GTP.v1 encapsulation/decapsulation/steering. Furthermore you can get hop latency via postcard telemetry from each node of the network.",
+        "languages": {
+            "P4": 18914,
+            "Python": 11098
+        }
+    },
+    {
+        "name": "dsketch",
+        "description": "This repository holds the implementation for the time-decaying in-network heavy-hitter detection algorithm, dSketch, proposed in the paper Revisiting Heavy-Hitter Detection on Commodity Programmable Switches, accepted at IEEE NetSoft 2021.",
+        "languages": {
+            "P4": 98341
+        }
+    },
+    {
+        "name": "p4_int_transit",
+        "description": null,
+        "languages": {
+            "P4": 15934,
+            "Python": 11056,
+            "C": 6649,
+            "Shell": 2816,
+            "Makefile": 1282
+        }
+    },
+    {
+        "name": "p4sc",
+        "description": "P4SC system prototype, target BMv2",
+        "languages": {
+            "P4": 71915,
+            "Python": 38458,
+            "C": 13112,
+            "Lua": 4401,
+            "Shell": 2319
+        }
+    },
+    {
+        "name": "InbandNetworkTelemetry-P4",
+        "description": "Include a simple Lab with InBand Network Telemetry and P4 for students and researchers ",
+        "languages": {
+            "P4": 7903,
+            "Python": 3005,
+            "Ruby": 354
+        }
+    },
+    {
+        "name": "clickp4",
+        "description": "ClickP4: Towards Modular Programming of P4",
+        "languages": {
+            "P4": 180697,
+            "Makefile": 12603,
+            "Shell": 707
+        }
+    },
+    {
+        "name": "IFIPNetworking20",
+        "description": null,
+        "languages": {
+            "P4": 21857,
+            "C": 4235
+        }
+    },
+    {
+        "name": "P4Entropy",
+        "description": "Network traffic entropy estimation in P4",
+        "languages": {
+            "P4": 18737,
+            "Shell": 17656,
+            "Python": 10759
+        }
+    },
+    {
+        "name": "P4Log_and_P4Exp",
+        "description": "Logarithmic and exponential-function estimation in P4",
+        "languages": {
+            "P4": 48981,
+            "Shell": 26130,
+            "Python": 21518
+        }
+    },
+    {
+        "name": "nsdi22",
+        "description": "Source code for our paper accepted for publication at USENIX NSDI 2022",
+        "languages": {
+            "P4": 134708,
+            "Python": 35143,
+            "C++": 33680,
+            "Makefile": 929,
+            "Shell": 631
+        }
+    },
+    {
+        "name": "INT",
+        "description": "Mechanism for degradation detection based on In-band Network Telemetry ",
+        "languages": {
+            "P4": 5825,
+            "Python": 4563,
+            "Makefile": 154
+        }
+    },
+    {
+        "name": "p4_code",
+        "description": "P4 Code Examples",
+        "languages": {
+            "P4": 7398,
+            "C": 4700
+        }
+    },
+    {
+        "name": "p4-navt",
+        "description": "NAVT(Network Address Vlan Translation) write by p4-16. ",
+        "languages": {
+            "P4": 14825,
+            "Shell": 8858
+        }
+    },
+    {
+        "name": "block.p4",
+        "description": "block.p4: Using P4 to realize P4-based NFs",
+        "languages": {
+            "P4": 347270,
+            "C": 11107,
+            "Python": 8057,
+            "Shell": 1255
+        }
+    },
+    {
+        "name": "QPipe",
+        "description": "QPipe on dataplane",
+        "languages": {
+            "P4": 46078
+        }
+    },
+    {
+        "name": "slicing-srv6",
+        "description": null,
+        "languages": {
+            "P4": 31219,
+            "Shell": 9411
+        }
+    },
+    {
+        "name": "p4-upf-learning",
+        "description": "5G UPF implementation in P4 for learning",
+        "languages": {
+            "P4": 42347
+        }
+    },
+    {
+        "name": "pi2forp4",
+        "description": "PI2 for P4 programmable dataplanes",
+        "languages": {
+            "P4": 9956
+        }
+    },
+    {
+        "name": "mtpsa-examples",
+        "description": null,
+        "languages": {
+            "P4": 112173,
+            "Python": 62815,
+            "Makefile": 4938
+        }
+    },
+    {
+        "name": "Jaqen",
+        "description": null,
+        "languages": {
+            "P4": 66403
+        }
+    },
+    {
+        "name": "p4-ipv6-switch-ml",
+        "description": "p4-16 IPv6 program for use by switch ml ",
+        "languages": {
+            "P4": 10002
+        }
+    },
+    {
+        "name": "P4lab",
+        "description": null,
+        "languages": {
+            "P4": 497645,
+            "Python": 307498,
+            "MATLAB": 11876,
+            "Shell": 2105
+        }
+    },
+    {
+        "name": "INT-BMv2",
+        "description": "In-Band Network Telemetry for BMv2 P4 switch",
+        "languages": {
+            "P4": 24354,
+            "Python": 9710,
+            "Shell": 3390
+        }
+    },
+    {
+        "name": "P4-StreamProcessing",
+        "description": "A network router based stream processing execution engine implemented in P4",
+        "languages": {
+            "P4": 13854,
+            "Python": 8503
+        }
+    },
+    {
+        "name": "Ribosome-experiments",
+        "description": "Experiments to measure the performance of Network Functions in presence of Ribosome!",
+        "languages": {
+            "P4": 12669,
+            "Python": 6102,
+            "Makefile": 1737
+        }
+    },
+    {
+        "name": "sonata-queries",
+        "description": null,
+        "languages": {
+            "P4": 141627,
+            "Python": 24211
+        }
+    },
+    {
+        "name": "P4_DDoS",
+        "description": "DDoS Mitigation system based on P4 programmable switches",
+        "languages": {
+            "P4": 18274,
+            "Python": 13340,
+            "Shell": 10040
+        }
+    },
+    {
+        "name": "MultiSwitch",
+        "description": "Programmable Multi-Service Switch Technology",
+        "languages": {
+            "P4": 211100,
+            "Python": 51926,
+            "C++": 18221,
+            "Shell": 375
+        }
+    },
+    {
+        "name": "rtt-18-sdn",
+        "description": "SDN project of the Networks and Technologies for Telecommunications course of the Computer Science and Networking Master's Degree @ University of Pisa",
+        "languages": {
+            "P4": 44379,
+            "Java": 36937,
+            "Starlark": 1265,
+            "Makefile": 259
+        }
+    },
+    {
+        "name": "telemetry-rdma-p4-switch",
+        "description": null,
+        "languages": {
+            "P4": 11592,
+            "Python": 1840
+        }
+    },
+    {
+        "name": "P4Pi-Tutorial-NetSoft-2022",
+        "description": "A repository for P4Pi tutorial at IEEE NetSoft 2022",
+        "languages": {
+            "P4": 25356,
+            "Python": 14652,
+            "Shell": 10402
+        }
+    },
+    {
+        "name": "vera2",
+        "description": "Vera2 - verification condition generation for P4",
+        "languages": {
+            "P4": 739432,
+            "Python": 588155,
+            "Java": 579509,
+            "TSQL": 354824,
+            "Scala": 277905,
+            "ANTLR": 18426,
+            "C": 11588,
+            "Shell": 8046
+        }
+    },
+    {
+        "name": "p4_basic_lb_metering_nic",
+        "description": null,
+        "languages": {
+            "P4": 3518,
+            "Shell": 2073
+        }
+    },
+    {
+        "name": "ddos-detection",
+        "description": "P4 implementations used within various publications related the DDoS detection",
+        "languages": {
+            "P4": 124357,
+            "Shell": 94108,
+            "Python": 78689
+        }
+    },
+    {
+        "name": "p4sandbox",
+        "description": "Repo to store misc P4 test programs.",
+        "languages": {
+            "P4": 14273,
+            "Shell": 2017
+        }
+    },
+    {
+        "name": "p4-vxlanencapdecap",
+        "description": "Sample P4 code for VXLAN Encap/Decap",
+        "languages": {
+            "P4": 15354
+        }
+    },
+    {
+        "name": "Let-Me-Count",
+        "description": "Fuzzy distinct counting",
+        "languages": {
+            "P4": 20568,
+            "Python": 13161,
+            "C++": 2903,
+            "CMake": 319,
+            "Makefile": 117
+        }
+    },
+    {
+        "name": "capest",
+        "description": "Capacity and available bandwidth estimator in the data-plane using P4 and INT",
+        "languages": {
+            "P4": 833736,
+            "Python": 130094,
+            "C": 81631,
+            "Shell": 18507,
+            "Makefile": 475
+        }
+    },
+    {
+        "name": "p4-int-l4s",
+        "description": null,
+        "languages": {
+            "P4": 1772419,
+            "Python": 143726,
+            "Shell": 92734,
+            "C": 10995,
+            "Perl": 1113,
+            "Makefile": 385
+        }
+    },
+    {
+        "name": "cheetah-quic-tofino",
+        "description": "Implementation of Stateless Cheetah with QUIC for the Tofino P4 target",
+        "languages": {
+            "P4": 38465,
+            "Python": 13924
+        }
+    },
+    {
+        "name": "p4-programs",
+        "description": "Example P4 programs for network and hypervisor switches in Elmo",
+        "languages": {
+            "P4": 49998,
+            "Shell": 297
+        }
+    },
+    {
+        "name": "dh-aes-p4",
+        "description": "A P4 implementation towards Diffie-Hellman key exchange with AES encryption.",
+        "languages": {
+            "P4": 349691,
+            "Python": 73662
+        }
+    },
+    {
+        "name": "Template-Netronome-P4",
+        "description": "A template repository to work with P4 programs on Netronome SmartNICs. Mostly a wrapper around nfp4build with sensible defaults for Agilio CX 2x10GbE SmartNICs.",
+        "languages": {
+            "P4": 4676,
+            "Shell": 4112,
+            "C": 1353,
+            "Python": 1326
+        }
+    },
+    {
+        "name": "NDN.p4-16",
+        "description": null,
+        "languages": {
+            "P4": 112325,
+            "Makefile": 42838,
+            "C++": 33084,
+            "C": 21450,
+            "Python": 3849,
+            "Shell": 175
+        }
+    },
+    {
+        "name": "NetGuard",
+        "description": null,
+        "languages": {
+            "P4": 106687,
+            "Python": 26560,
+            "Shell": 7046
+        }
+    },
+    {
+        "name": "p4runtime-in-action",
+        "description": "Simple exercise for P4 runtime",
+        "languages": {
+            "P4": 4437,
+            "PureBasic": 808
+        }
+    },
+    {
+        "name": "p4app-GRID",
+        "description": "In-network aggregation with gradient routing.",
+        "languages": {
+            "P4": 15610,
+            "Python": 5697
+        }
+    },
+    {
+        "name": "nikss-demo",
+        "description": null,
+        "languages": {
+            "P4": 10647,
+            "Shell": 9193,
+            "Makefile": 1764,
+            "Python": 945
+        }
+    },
+    {
+        "name": "p4",
+        "description": "Getting into P4",
+        "languages": {
+            "P4": 99672,
+            "Python": 16058,
+            "Makefile": 618
+        }
+    },
+    {
+        "name": "tofino-netcache",
+        "description": "P4_16 implementation of NetCache targetted for the Intel Tofino ASIC.",
+        "languages": {
+            "P4": 15742,
+            "Python": 3808
+        }
+    },
+    {
+        "name": "dDrops",
+        "description": null,
+        "languages": {
+            "P4": 7141
+        }
+    },
+    {
+        "name": "P4_TNA_Example_Code",
+        "description": null,
+        "languages": {
+            "P4": 82704,
+            "Python": 4130
+        }
+    },
+    {
+        "name": "P4NEntropy",
+        "description": "Normalized network traffic entropy estimation in P4 ",
+        "languages": {
+            "P4": 23481,
+            "Shell": 17656,
+            "Python": 10759
+        }
+    },
+    {
+        "name": "CacheP4-Test",
+        "description": "I am trying to propose a cache system for p4 data plane.",
+        "languages": {
+            "P4": 16359,
+            "Shell": 8256
+        }
+    },
+    {
+        "name": "KeyAnalyzer",
+        "description": "KeyAnalyzer to extract PEC representation",
+        "languages": {
+            "P4": 299279,
+            "Python": 35508,
+            "C": 11588
+        }
+    },
+    {
+        "name": "cheetah-p4",
+        "description": "A generic P4 implementation of Cheetah",
+        "languages": {
+            "P4": 28194,
+            "Python": 11937
+        }
+    },
+    {
+        "name": "Packet-Monitoring",
+        "description": "The goal of this is to use the capability of P4 devices to monitor and track flows, and collect corresponding statistics. ",
+        "languages": {
+            "P4": 14981,
+            "Python": 2259,
+            "Shell": 1795,
+            "Batchfile": 213
+        }
+    },
+    {
+        "name": "DQN-AFQ",
+        "description": "P4 code of AFQ and DQN-AFQ",
+        "languages": {
+            "P4": 294994,
+            "C++": 161556,
+            "Jupyter Notebook": 145643,
+            "HTML": 63907
+        }
+    },
+    {
+        "name": "P4-SVM",
+        "description": null,
+        "languages": {
+            "P4": 67835,
+            "Python": 6625
+        }
+    },
+    {
+        "name": "Approximated-Fair-Queuing",
+        "description": "Emulation of AFQ (Approximated Fair Queuing) on Bmv2 Software Switch",
+        "languages": {
+            "P4": 12289,
+            "Python": 3106,
+            "Shell": 611
+        }
+    },
+    {
+        "name": "P4-example-code",
+        "description": "P4 example code referred by my posted article at my blog www.MaoJianwei.com and www.SDNLAB.com",
+        "languages": {
+            "P4": 3247
+        }
+    },
+    {
+        "name": "DASH",
+        "description": null,
+        "languages": {
+            "P4": 103212
+        }
+    },
+    {
+        "name": "P4-NetFPGA-ASMs",
+        "description": "P4/NetFPGA-based Implementation of IP Address Anti-Spoofing Mechanisms",
+        "languages": {
+            "P4": 35257,
+            "Python": 32388
+        }
+    },
+    {
+        "name": "AFDX_P4_QoS",
+        "description": null,
+        "languages": {
+            "P4": 86842,
+            "Python": 77313,
+            "Shell": 10687,
+            "C": 3040
+        }
+    },
+    {
+        "name": "polka-tofino",
+        "description": "A stable version of PolKA for TNA",
+        "languages": {
+            "P4": 64182,
+            "Python": 11036,
+            "Shell": 6772
+        }
+    },
+    {
+        "name": "P4_project",
+        "description": "\u7cfb\u7edf\u9a8c\u8bc1\u8bd5\u9a8c",
+        "languages": {
+            "P4": 349087,
+            "Python": 76511,
+            "Makefile": 3070
+        }
+    },
+    {
+        "name": "ddos-detection-sketches-p4",
+        "description": null,
+        "languages": {
+            "P4": 1302730,
+            "Python": 29007,
+            "Shell": 9812
+        }
+    },
+    {
+        "name": "dps-p4",
+        "description": "Data Plane Security with P4 (DPS-P4)",
+        "languages": {
+            "P4": 21511,
+            "Python": 15260
+        }
+    },
+    {
+        "name": "pHeavy",
+        "description": null,
+        "languages": {
+            "P4": 18401
+        }
+    },
+    {
+        "name": "P4",
+        "description": "Documenting everything I've learnt about data plane programming with P4 and Time Sensitive Networks. It includes routing exercises executed with P4 using mininet. ",
+        "languages": {
+            "P4": 52919,
+            "Python": 8502,
+            "Makefile": 301
+        }
+    },
+    {
+        "name": "P4Tree",
+        "description": "A novel approach based on Random Forests that quickly and accurately identifies elephant flows in programmable Data Planes.",
+        "languages": {
+            "P4": 125726,
+            "Python": 79490,
+            "Jupyter Notebook": 64926,
+            "Shell": 2612,
+            "Makefile": 172
+        }
+    },
+    {
+        "name": "Load-Balanacing-in-P4",
+        "description": null,
+        "languages": {
+            "P4": 68385,
+            "Python": 33799,
+            "Shell": 5448
+        }
+    },
+    {
+        "name": "tofino-",
+        "description": "\u725b\u5f6c\u5e08\u5144\u505aINT\u64cd\u4f5c\u65f6\u7684INT\u4ee3\u7801",
+        "languages": {
+            "P4": 40275,
+            "C": 32124
+        }
+    },
+    {
+        "name": "P4Runtime-CPUport-finder",
+        "description": "Simple tool to identify the CPU port number on P4Runtime",
+        "languages": {
+            "P4": 1948
+        }
+    },
+    {
+        "name": "inband-network-telemetry",
+        "description": null,
+        "languages": {
+            "P4": 219586,
+            "Shell": 10806,
+            "C": 7138,
+            "Makefile": 1048
+        }
+    },
+    {
+        "name": "ts_switching_P4",
+        "description": "Switching media streams based on RTP timestamps in P4",
+        "languages": {
+            "P4": 5958
+        }
+    },
+    {
+        "name": "P4_RED",
+        "description": "Implementation of a Random Early Detection (RED) algorithm on P4",
+        "languages": {
+            "P4": 12413,
+            "Python": 1975,
+            "Makefile": 67
+        }
+    },
+    {
+        "name": "ChaCha-Tofino",
+        "description": null,
+        "languages": {
+            "P4": 29130,
+            "Python": 5296,
+            "C": 531
+        }
+    },
+    {
+        "name": "mnkcg",
+        "description": null,
+        "languages": {
+            "P4": 22291,
+            "Python": 8058
+        }
+    },
+    {
+        "name": "p4-program",
+        "description": "P4 program implement part of OF-DPA pipeline.",
+        "languages": {
+            "P4": 34189,
+            "C": 17328,
+            "Python": 2713,
+            "Shell": 1143,
+            "Makefile": 590
+        }
+    },
+    {
+        "name": "ps_sha256",
+        "description": null,
+        "languages": {
+            "P4": 19420,
+            "Python": 3844,
+            "Shell": 166,
+            "Makefile": 93
+        }
+    },
+    {
+        "name": "P4-examples",
+        "description": null,
+        "languages": {
+            "P4": 30931
+        }
+    },
+    {
+        "name": "P4-14-OpenFlow-Example",
+        "description": null,
+        "languages": {
+            "P4": 6886,
+            "Python": 5781,
+            "Shell": 3008
+        }
+    },
+    {
+        "name": "SNU_2D_ProgrammingTools_IDE_P4",
+        "description": "\u2328\ufe0f The P4 programming language IDE submodule for SNU Programming Tools (2D Mode) ",
+        "languages": {
+            "P4": 210894,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "poiriot",
+        "description": null,
+        "languages": {
+            "P4": 10888
+        }
+    },
+    {
+        "name": "sigcomm23-tutorial",
+        "description": null,
+        "languages": {
+            "P4": 32006,
+            "Shell": 1037
+        }
+    },
+    {
+        "name": "cheetah-p4-quic",
+        "description": "A QUIC-based version of the cheetah LB. This repo contains the p4 source codes.",
+        "languages": {
+            "P4": 11126,
+            "Makefile": 345
+        }
+    },
+    {
+        "name": "p4lang_memcached_load_balancer",
+        "description": "Assignment at \"Advanced Topics in Networks\" course",
+        "languages": {
+            "P4": 8408,
+            "Shell": 1334
+        }
+    },
+    {
+        "name": "Learn-P4",
+        "description": "\ud83d\udcda\ufe0f A repository for showcasing my knowledge of the P4 programming language, and continuing to learn the language.",
+        "languages": {
+            "P4": 210894,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "p4-qos-demo",
+        "description": null,
+        "languages": {
+            "P4": 12784,
+            "Python": 2004,
+            "Makefile": 67
+        }
+    },
+    {
+        "name": "P4RROT_Security_Apps",
+        "description": null,
+        "languages": {
+            "P4": 42964,
+            "Python": 16958
+        }
+    },
+    {
+        "name": "P4-DGA-Multiclass",
+        "description": "Multiclassification of DGAs using P4 programmable data plane switches",
+        "languages": {
+            "P4": 47732
+        }
+    },
+    {
+        "name": "Cerberus",
+        "description": "An in-network security monitoring (INM) system for programmable networks",
+        "languages": {
+            "P4": 100495
+        }
+    },
+    {
+        "name": "rdma-multicast",
+        "description": "Tofino prototype for the paper, \"Towards a Framework for One-sided RDMA Multicast\", accepted at EuroP4'21 and published at ANCS'21.",
+        "languages": {
+            "P4": 26473,
+            "C": 20112,
+            "Shell": 1993,
+            "Python": 1417,
+            "Makefile": 325
+        }
+    },
+    {
+        "name": "SDN-HDTN",
+        "description": null,
+        "languages": {
+            "P4": 41452,
+            "Python": 1785
+        }
+    },
+    {
+        "name": "Switcharoo-P4",
+        "description": "Switcharoo P4 code for Intel Tofino.",
+        "languages": {
+            "P4": 76219,
+            "Python": 16073
+        }
+    },
+    {
+        "name": "ring-buffer-hw",
+        "description": null,
+        "languages": {
+            "P4": 44621,
+            "Makefile": 40146,
+            "C++": 26408,
+            "CMake": 18429,
+            "C": 17514,
+            "Python": 5926,
+            "Shell": 342
+        }
+    },
+    {
+        "name": "HULApp",
+        "description": "HULApp is an application-aware in-network load balancer. It is built on top of HULA: the recent in-network load-balancer for programmable data planes. HULApp uses two different congestion metrics (queue depth and path utilization) to load-balance two general groups of applications separately: the more, and the less sensitive. ",
+        "languages": {
+            "P4": 49794
+        }
+    },
+    {
+        "name": "iRED",
+        "description": "ingress Random Early Detection - P4",
+        "languages": {
+            "P4": 10075
+        }
+    },
+    {
+        "name": "lcndemo2018",
+        "description": "Application header-based P4 support in Chameleon. This Repository contains all artifacts necessary to reproduce our demo at LCN 2018. ",
+        "languages": {
+            "P4": 28506,
+            "Python": 15931,
+            "Shell": 2432
+        }
+    },
+    {
+        "name": "phd_postcard_telemetry",
+        "description": null,
+        "languages": {
+            "P4": 368588,
+            "Python": 174228,
+            "Shell": 18226,
+            "C++": 1348
+        }
+    },
+    {
+        "name": "netpixel",
+        "description": null,
+        "languages": {
+            "P4": 53154,
+            "Python": 19966,
+            "Shell": 1495
+        }
+    },
+    {
+        "name": "Hybrid_SDN_MPLS",
+        "description": "Repository that holds the code for \"Towards monitoring hybrid next-generation software-defined and service provider MPLS networks\" published at Computer Networks in Elsevier.",
+        "languages": {
+            "P4": 76491,
+            "Python": 55803,
+            "Shell": 1459
+        }
+    },
+    {
+        "name": "source_code",
+        "description": null,
+        "languages": {
+            "P4": 7441249,
+            "Jupyter Notebook": 457559,
+            "Python": 170959,
+            "Shell": 1433
+        }
+    },
+    {
+        "name": "p4debug",
+        "description": "P4 simple forwarder with monitoring/debugging features",
+        "languages": {
+            "P4": 21074
+        }
+    },
+    {
+        "name": "CCV",
+        "description": "cloud Virtualization- include docker, kubernetes, p4 and map reduce projects. (bash scripting, p4 and java) ",
+        "languages": {
+            "P4": 32645,
+            "Java": 12082,
+            "Shell": 3733,
+            "Dockerfile": 128
+        }
+    },
+    {
+        "name": "NetFC",
+        "description": "NetFC: Enabling accurate floating-point arithmetic on programmable switches",
+        "languages": {
+            "P4": 13363,
+            "Python": 11258
+        }
+    },
+    {
+        "name": "p4_double_precision",
+        "description": "This repository contains an updated p4c compiler and a corresponding BMv2 software switch, which can handle Double precision numbers",
+        "languages": {
+            "P4": 8597143,
+            "C++": 4885575,
+            "Python": 336700,
+            "C": 244797,
+            "CMake": 85683,
+            "M4": 70334,
+            "Makefile": 48069,
+            "LLVM": 30270,
+            "Thrift": 26508,
+            "Shell": 14921,
+            "Pascal": 9320,
+            "Ruby": 5182,
+            "Dockerfile": 4762,
+            "Lex": 4235,
+            "Emacs Lisp": 3792,
+            "TeX": 3691,
+            "HTML": 676,
+            "CSS": 92
+        }
+    },
+    {
+        "name": "Mitigating-SYN-Flood",
+        "description": "SYN Flood defense in Programmable Dataplanes using P4 programming ",
+        "languages": {
+            "P4": 7413,
+            "Python": 5652,
+            "Shell": 137,
+            "Makefile": 94
+        }
+    },
+    {
+        "name": "P4Runtime-firstbite",
+        "description": "Simple P4Runtime tutorial for starters",
+        "languages": {
+            "P4": 4458
+        }
+    },
+    {
+        "name": "x-plane-5g-upf",
+        "description": null,
+        "languages": {
+            "P4": 156511,
+            "C++": 42539,
+            "Makefile": 14295,
+            "CMake": 2612,
+            "Shell": 57
+        }
+    },
+    {
+        "name": "P4_COPY_TO_CPU",
+        "description": "# P4 Project - Copy the desired incoming packets to the CPU with runtime IP configuration",
+        "languages": {
+            "P4": 6254,
+            "Shell": 2730,
+            "Python": 2103
+        }
+    },
+    {
+        "name": "cs740project",
+        "description": "Multi-tenant policy-aware congestion control algorithms for P4 switches",
+        "languages": {
+            "P4": 7917,
+            "Python": 4522,
+            "Shell": 164
+        }
+    },
+    {
+        "name": "p4-protect",
+        "description": "BMv2 Implementation of P4-Protect",
+        "languages": {
+            "P4": 8632,
+            "C": 6364
+        }
+    },
+    {
+        "name": "CaT-benchmarks",
+        "description": "Collect examples used for CaT project",
+        "languages": {
+            "P4": 51164
+        }
+    },
+    {
+        "name": "p4_network_programming",
+        "description": "Projects related to configuring L2 switches and L3 routers using P4 language",
+        "languages": {
+            "P4": 55388,
+            "Python": 14845
+        }
+    },
+    {
+        "name": "memu-5g22-p4-slicing",
+        "description": null,
+        "languages": {
+            "P4": 2197322,
+            "Lua": 9392,
+            "Python": 1545
+        }
+    },
+    {
+        "name": "Mew-prototype",
+        "description": null,
+        "languages": {
+            "P4": 292356,
+            "Python": 276980
+        }
+    },
+    {
+        "name": "hydra-artifact",
+        "description": null,
+        "languages": {
+            "P4": 517479,
+            "Python": 225338,
+            "OCaml": 99573,
+            "Shell": 49270,
+            "Emacs Lisp": 29824,
+            "Vim Script": 17780,
+            "TeX": 13004,
+            "Ruby": 3771,
+            "Makefile": 3058
+        }
+    },
+    {
+        "name": "NetLR-public",
+        "description": "The open-source artifact code of NetLR in VLDB'22",
+        "languages": {
+            "P4": 17394,
+            "Python": 12988
+        }
+    },
+    {
+        "name": "p4c-psa-backend",
+        "description": "p4c-psa-backend",
+        "languages": {
+            "P4": 7561193,
+            "C++": 2612937,
+            "Python": 136729,
+            "CMake": 77304,
+            "C": 36379,
+            "LLVM": 29777,
+            "Thrift": 16017,
+            "Lex": 4235,
+            "Shell": 1646
+        }
+    },
+    {
+        "name": "paco",
+        "description": null,
+        "languages": {
+            "P4": 5929,
+            "Python": 5503,
+            "Shell": 2233
+        }
+    },
+    {
+        "name": "p4aqm",
+        "description": "CS 740 Project : Implementation of COMSNETS (Count-Min Sketches for Network Traffic Scheduling)",
+        "languages": {
+            "P4": 126843,
+            "C++": 45157,
+            "Python": 16632,
+            "Shell": 2730,
+            "Makefile": 1451
+        }
+    },
+    {
+        "name": "virntup_4",
+        "description": "P4 Program for Virntup",
+        "languages": {
+            "P4": 5458,
+            "Shell": 566
+        }
+    },
+    {
+        "name": "p4-urlfiltering",
+        "description": "web url filtering by p4 language",
+        "languages": {
+            "P4": 49279,
+            "Python": 5339,
+            "Shell": 132,
+            "Makefile": 67,
+            "HTML": 42
+        }
+    },
+    {
+        "name": "triangle-fs",
+        "description": null,
+        "languages": {
+            "P4": 10489,
+            "Python": 3693
+        }
+    },
+    {
+        "name": "p4_excercises",
+        "description": "P4 runtime API usecases",
+        "languages": {
+            "P4": 32833,
+            "Python": 2327,
+            "Makefile": 97
+        }
+    },
+    {
+        "name": "arp_experiment",
+        "description": "ARP experiment on Fabric_Testbed",
+        "languages": {
+            "P4": 42570
+        }
+    },
+    {
+        "name": "use_cases",
+        "description": "Use cases implemented in P4",
+        "languages": {
+            "P4": 121454
+        }
+    },
+    {
+        "name": "p4db-mpvisor",
+        "description": "Hypervisor-specific PDP for P4DB",
+        "languages": {
+            "P4": 62451,
+            "Shell": 556
+        }
+    },
+    {
+        "name": "p4-handson",
+        "description": null,
+        "languages": {
+            "P4": 7604,
+            "Shell": 2630
+        }
+    },
+    {
+        "name": "asymmetrical_flow_windows",
+        "description": "P4 thesis. Implementing time windows in P4 asymemtric flow detection ",
+        "languages": {
+            "P4": 16619,
+            "Python": 2526,
+            "Makefile": 29
+        }
+    },
+    {
+        "name": "ncsu-sdc-spring2021",
+        "description": "NC State Senior Design Class Spring 2021",
+        "languages": {
+            "P4": 38681,
+            "Makefile": 8064,
+            "Python": 1871,
+            "Shell": 335
+        }
+    },
+    {
+        "name": "p4",
+        "description": null,
+        "languages": {
+            "P4": 24131,
+            "Makefile": 390
+        }
+    },
+    {
+        "name": "apf",
+        "description": "Analisador Preliminar de Fluxo para sele\u00e7\u00e3o eficiente dos dados a serem reportados para o coletor.",
+        "languages": {
+            "P4": 21173,
+            "C": 9434
         }
     }
 ]

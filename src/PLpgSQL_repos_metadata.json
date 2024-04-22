@@ -13,9 +13,9 @@
         "description": "SpringBlade \u662f\u4e00\u4e2a\u7531\u5546\u4e1a\u7ea7\u9879\u76ee\u5347\u7ea7\u4f18\u5316\u800c\u6765\u7684SpringCloud\u5206\u5e03\u5f0f\u5fae\u670d\u52a1\u67b6\u6784\u3001SpringBoot\u5355\u4f53\u5f0f\u5fae\u670d\u52a1\u67b6\u6784\u5e76\u5b58\u7684\u7efc\u5408\u578b\u9879\u76ee\uff0c\u91c7\u7528Java8 API\u91cd\u6784\u4e86\u4e1a\u52a1\u4ee3\u7801\uff0c\u5b8c\u5168\u9075\u5faa\u963f\u91cc\u5df4\u5df4\u7f16\u7801\u89c4\u8303\u3002\u91c7\u7528Spring Boot 2.7 \u3001Spring Cloud 2021 \u3001Mybatis \u7b49\u6838\u5fc3\u6280\u672f\uff0c\u540c\u65f6\u63d0\u4f9b\u57fa\u4e8eReact\u548cVue\u7684\u4e24\u4e2a\u524d\u7aef\u6846\u67b6\u7528\u4e8e\u5feb\u901f\u642d\u5efa\u4f01\u4e1a\u7ea7\u7684SaaS\u591a\u79df\u6237\u5fae\u670d\u52a1\u5e73\u53f0\u3002",
         "languages": {
             "PLpgSQL": 503495,
-            "Java": 422878,
-            "Dockerfile": 3765,
-            "Shell": 3031,
+            "Java": 425715,
+            "Shell": 6811,
+            "Dockerfile": 3925,
             "HTML": 183,
             "Batchfile": 18
         }
@@ -53,6 +53,1911 @@
             "PLpgSQL": 456691,
             "Makefile": 29693,
             "Shell": 16143
+        }
+    },
+    {
+        "name": "Chats",
+        "description": "Open-Source Messaging App",
+        "languages": {
+            "PLpgSQL": 8079,
+            "JavaScript": 2466,
+            "Makefile": 244
+        }
+    },
+    {
+        "name": "pg_partman",
+        "description": "Partition management extension for PostgreSQL",
+        "languages": {
+            "PLpgSQL": 7887423,
+            "Python": 21526,
+            "C": 19820,
+            "Makefile": 1008
+        }
+    },
+    {
+        "name": "pgwatch2",
+        "description": "PostgreSQL metrics monitor/dashboard",
+        "languages": {
+            "PLpgSQL": 689183,
+            "Go": 275541,
+            "Python": 120110,
+            "Shell": 69553,
+            "HTML": 59340,
+            "Dockerfile": 4734,
+            "CSS": 31
+        }
+    },
+    {
+        "name": "postgis",
+        "description": "PostGIS spatial database extension to PostgreSQL [mirror]",
+        "languages": {
+            "PLpgSQL": 9690531,
+            "C": 7107186,
+            "M4": 249285,
+            "Perl": 186088,
+            "Shell": 151797,
+            "Makefile": 132215,
+            "Python": 72525,
+            "Yacc": 20482,
+            "Roff": 10821,
+            "C++": 9516,
+            "Lex": 3428,
+            "Batchfile": 1565
+        }
+    },
+    {
+        "name": "pgFormatter",
+        "description": "A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo site at http://sqlformat.darold.net/",
+        "languages": {
+            "PLpgSQL": 3664476,
+            "Perl": 243189,
+            "Raku": 178,
+            "Dockerfile": 122
+        }
+    },
+    {
+        "name": "tripRecord",
+        "description": "\u5494\u5494\u51fa\u884c\u2014\u2014\u57fa\u4e8e\u9ad8\u5fb7\u5730\u56feAPI\uff0cVue+Express\u5b9e\u73b0\u7684\u79fb\u52a8\u7aefwebapp\uff0c\u670d\u52a1\u5668\u53d7\u5230\u653b\u51fb\u7f51\u7ad9\u6682\u65f6\u4e0b\u6389\u4e86",
+        "languages": {
+            "PLpgSQL": 197195,
+            "Vue": 100874,
+            "JavaScript": 25815,
+            "HTML": 2285,
+            "CSS": 1223
+        }
+    },
+    {
+        "name": "mysql-deadlocks",
+        "description": "\u6536\u96c6\u4e00\u4e9b\u5e38\u89c1\u7684 MySQL \u6b7b\u9501\u6848\u4f8b",
+        "languages": {
+            "PLpgSQL": 5790
+        }
+    },
+    {
+        "name": "index_advisor",
+        "description": "PostgreSQL Index Advisor",
+        "languages": {
+            "PLpgSQL": 32238,
+            "Makefile": 272
+        }
+    },
+    {
+        "name": "aquameta",
+        "description": "Web development platform built entirely in PostgreSQL",
+        "languages": {
+            "PLpgSQL": 317053,
+            "Go": 48943,
+            "Python": 38498,
+            "Shell": 10893,
+            "Makefile": 2194
+        }
+    },
+    {
+        "name": "GraphpostgresQL",
+        "description": "GraphQL for Postgres",
+        "languages": {
+            "PLpgSQL": 23177
+        }
+    },
+    {
+        "name": "postgres_dba",
+        "description": "The missing set of useful tools for Postgres DBAs and all engineers",
+        "languages": {
+            "PLpgSQL": 4536,
+            "Shell": 2727
+        }
+    },
+    {
+        "name": "pgtap",
+        "description": "PostgreSQL Unit Testing Suite",
+        "languages": {
+            "PLpgSQL": 837564,
+            "Shell": 25138,
+            "Makefile": 20439,
+            "Perl": 3583,
+            "Dockerfile": 232
+        }
+    },
+    {
+        "name": "mysql-sys",
+        "description": "The MySQL sys schema",
+        "languages": {
+            "PLpgSQL": 673148,
+            "Shell": 8190,
+            "SQLPL": 2325,
+            "C++": 367,
+            "Assembly": 208,
+            "PHP": 154
+        }
+    },
+    {
+        "name": "LaikeTui",
+        "description": "\u6765\u5ba2\u63a8\u5546\u57ce\u7cfb\u7edf\uff0c [ \u5fae\u4fe1 + \u652f\u4ed8\u5b9d + \u767e\u5ea6 + \u5934\u6761 ] \u5c0f\u7a0b\u5e8f + APP + \u516c\u4f17\u53f7 + PC + H5\uff0c\u6ce8\u91cd\u754c\u9762\u7f8e\u611f\u4e0e\u7528\u6237\u4f53\u9a8c\uff0c\u6253\u9020\u72ec\u7279\u7535\u5546\u7cfb\u7edf\u751f\u6001\u5708\uff0c\u4e0d\u53ef\u591a\u5f97\u7684\u4e8c\u5f00\u795e\u5668\u3002 \u3010JAVA\u5546\u57ce PHP\u5546\u57ce\u7cfb\u7edf uniapp\u5546\u57ce\u7cfb\u7edf \u5206\u9500\u5546\u57ce \u591a\u7528\u6237\u5546\u57ce SaaS O2O\u5546\u57ce B2B2C S2B2C \u5c0f\u7a0b\u5e8f\u76f4\u64ad \u5546\u57ce\u6e90\u7801 \u8de8\u5883\u7535\u5546\u7cfb\u7edf \u793e\u533a\u56e2\u8d2d\u3011",
+        "languages": {
+            "PLpgSQL": 12612071,
+            "Java": 3758579,
+            "PHP": 3257040,
+            "JavaScript": 2846225,
+            "Smarty": 1477473,
+            "Vue": 1333545,
+            "CSS": 1248504,
+            "Less": 430977,
+            "HTML": 137527,
+            "SCSS": 15478,
+            "Shell": 135,
+            "Batchfile": 87,
+            "Roff": 2
+        }
+    },
+    {
+        "name": "pagila",
+        "description": "PostgreSQL Sample Database",
+        "languages": {
+            "PLpgSQL": 52422
+        }
+    },
+    {
+        "name": "103976",
+        "description": "103976\u4e2a\u82f1\u8bed\u5355\u8bcd\u5e93\uff08sql\u7248\uff0ccsv\u7248\uff0cExcel\u7248\uff09\u5305\u542b\u82f1\u6587\u5355\u8bcd\uff0c\u4e2d\u6587\u7ffb\u8bd1\uff0c\u5355\u8bcd\u7684\u8bcd\u6027\u53ca\u591a\u79cd\u8bcd\u4e49,\u6267\u884cSQL\u8bed\u53e5\u5c31\u53ef\u4ee5\u751f\u6210\u8868\uff0c\u652f\u6301SQL Server\uff0cMySQL\u7b49\u591a\u79cd\u6570\u636e\u5e93",
+        "languages": {
+            "PLpgSQL": 6985387
+        }
+    },
+    {
+        "name": "postgrest-starter-kit",
+        "description": "Starter Kit and tooling for authoring REST API backends with PostgREST",
+        "languages": {
+            "PLpgSQL": 15396,
+            "JavaScript": 5176,
+            "Lua": 3530,
+            "HTML": 1435,
+            "Shell": 1382,
+            "Dockerfile": 161
+        }
+    },
+    {
+        "name": "happy-lager",
+        "description": "Craft CMS demo site.",
+        "languages": {
+            "PLpgSQL": 2426166,
+            "HTML": 398298,
+            "CSS": 66848,
+            "SCSS": 41540,
+            "PHP": 5202,
+            "JavaScript": 1961,
+            "Dockerfile": 739,
+            "Shell": 651,
+            "Batchfile": 330
+        }
+    },
+    {
+        "name": "audit-trigger",
+        "description": "Simple, easily customised trigger-based auditing for PostgreSQL (Postgres). See also pgaudit.",
+        "languages": {
+            "PLpgSQL": 11832
+        }
+    },
+    {
+        "name": "practical-sql",
+        "description": "Code and Data for the First Edition of \"Practical SQL\" by Anthony DeBarros, published by No Starch Press (2018).",
+        "languages": {
+            "PLpgSQL": 55690
+        }
+    },
+    {
+        "name": "supa_audit",
+        "description": "Generic Table Auditing",
+        "languages": {
+            "PLpgSQL": 17843,
+            "Nix": 2222,
+            "Makefile": 257
+        }
+    },
+    {
+        "name": "temporal_tables",
+        "description": "Postgresql temporal_tables extension in PL/pgSQL, without the need for external c extension.",
+        "languages": {
+            "PLpgSQL": 28521,
+            "Makefile": 2060,
+            "Shell": 1453,
+            "JavaScript": 628
+        }
+    },
+    {
+        "name": "100DaysOfIaC",
+        "description": "100 Days of IaC in Azure",
+        "languages": {
+            "PLpgSQL": 388382,
+            "Shell": 68459,
+            "PowerShell": 8690,
+            "Bicep": 1212
+        }
+    },
+    {
+        "name": "postgresql-patterns-library",
+        "description": "\u041a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044f \u0433\u043e\u0442\u043e\u0432\u044b\u0445 SQL \u0437\u0430\u043f\u0440\u043e\u0441\u043e\u0432 \u0434\u043b\u044f PostgreSQL \u043f\u043e \u0447\u0430\u0441\u0442\u043e \u0432\u043e\u0437\u043d\u0438\u043a\u0430\u044e\u0449\u0438\u043c \u0437\u0430\u0434\u0430\u0447\u0430\u043c (\u043f\u043e\u043b\u0443\u0447\u0435\u043d\u0438\u0435 \u0438 \u043c\u043e\u0434\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f \u0434\u0430\u043d\u043d\u044b\u0445, \u0443\u0441\u043a\u043e\u0440\u0435\u043d\u0438\u0435 \u0437\u0430\u043f\u0440\u043e\u0441\u043e\u0432, \u043e\u0431\u0441\u043b\u0443\u0436\u0438\u0432\u0430\u043d\u0438\u0435 \u0411\u0414)",
+        "languages": {
+            "PLpgSQL": 334734,
+            "Shell": 5986
+        }
+    },
+    {
+        "name": "pgmonitor",
+        "description": "PostgreSQL Monitoring, Metrics Collection and Alerting Resources from Crunchy Data",
+        "languages": {
+            "PLpgSQL": 100567,
+            "Python": 8114,
+            "Shell": 2269,
+            "CSS": 2098,
+            "HTML": 839
+        }
+    },
+    {
+        "name": "basejump",
+        "description": "Teams, personal accounts, permissions and billing for your Supabase app",
+        "languages": {
+            "PLpgSQL": 123889,
+            "TypeScript": 2135
+        }
+    },
+    {
+        "name": "pg-shortkey",
+        "description": "YouTube-like Short IDs as Postgres Primary Keys",
+        "languages": {
+            "PLpgSQL": 2546
+        }
+    },
+    {
+        "name": "postgres-json-schema",
+        "description": "JSON Schema validation for PostgreSQL",
+        "languages": {
+            "PLpgSQL": 12367,
+            "Python": 1697,
+            "Makefile": 171
+        }
+    },
+    {
+        "name": "advent-2021-sql",
+        "description": "Advent of Code 2021 using SQL (PostgreSQL-flavored)",
+        "languages": {
+            "PLpgSQL": 2393,
+            "Nix": 1279,
+            "Makefile": 199
+        }
+    },
+    {
+        "name": "Trinity-Bots",
+        "description": "NPCBots for TrinityCore and AzerothCore 3.3.5",
+        "languages": {
+            "PLpgSQL": 33542,
+            "Shell": 438,
+            "Batchfile": 329
+        }
+    },
+    {
+        "name": "pg-coordtransform",
+        "description": "\u57fa\u4e8ePostgreSQL+PostGIS\u7684\u706b\u661f\u5750\u6807\u7cfb\u3001\u767e\u5ea6\u5750\u6807\u7cfb\u3001WGS84\u5750\u6807\u7cfb\u3001CGCS2000\u5750\u6807\u7cfb\u7684\u8f6c\u6362\u51fd\u6570",
+        "languages": {
+            "PLpgSQL": 66487
+        }
+    },
+    {
+        "name": "postgresDBSamples",
+        "description": "Sample databases for postgres",
+        "languages": {
+            "PLpgSQL": 27511715,
+            "Python": 2231,
+            "Makefile": 585
+        }
+    },
+    {
+        "name": "practical-sql-2",
+        "description": "Code and Data for the Second Edition of \"Practical SQL\" by Anthony DeBarros, published by No Starch Press (2022).",
+        "languages": {
+            "PLpgSQL": 57520
+        }
+    },
+    {
+        "name": "pointcloud",
+        "description": "A PostgreSQL extension for storing point cloud (LIDAR) data.",
+        "languages": {
+            "PLpgSQL": 3727336,
+            "C": 423728,
+            "M4": 13005,
+            "Perl": 9196,
+            "C++": 8801,
+            "Makefile": 5406,
+            "Shell": 2548,
+            "Dockerfile": 1477
+        }
+    },
+    {
+        "name": "pgMemento",
+        "description": "Audit trail with schema versioning for PostgreSQL using transaction-based logging",
+        "languages": {
+            "PLpgSQL": 430557,
+            "Shell": 8087,
+            "Makefile": 792
+        }
+    },
+    {
+        "name": "cgasm",
+        "description": "We're insanely passionate about command line asm documentation in the cloud, and we're crushing it!",
+        "languages": {
+            "PLpgSQL": 2819582,
+            "Go": 2803589,
+            "Ruby": 6914
+        }
+    },
+    {
+        "name": "3dcitydb",
+        "description": "3D City Database - The Open Source CityGML Database",
+        "languages": {
+            "PLpgSQL": 353779,
+            "PLSQL": 151052,
+            "Shell": 48219,
+            "Batchfile": 39235,
+            "Dockerfile": 1639
+        }
+    },
+    {
+        "name": "Schemaverse",
+        "description": "The Schemaverse is a space-based strategy game implemented entirely within a PostgreSQL database.  Compete against other players using raw SQL commands to command your fleet. Or, if your  PL/pgSQL-foo is strong, wield it to write AI and have your fleet command itself!",
+        "languages": {
+            "PLpgSQL": 118755,
+            "PHP": 17475,
+            "JavaScript": 11193,
+            "Perl": 10937,
+            "CoffeeScript": 9246,
+            "CSS": 6291,
+            "HTML": 3326,
+            "Python": 869
+        }
+    },
+    {
+        "name": "pgjwt",
+        "description": "PostgreSQL implementation of JWT (JSON Web Tokens)",
+        "languages": {
+            "PLpgSQL": 16085,
+            "Shell": 574,
+            "Makefile": 189,
+            "Dockerfile": 183
+        }
+    },
+    {
+        "name": "shares",
+        "description": "A-share quantitative system. A\u80a1\u91cf\u5316\u7cfb\u7edf",
+        "languages": {
+            "PLpgSQL": 2573432,
+            "Go": 901338,
+            "Vue": 143812,
+            "CSS": 143219,
+            "JavaScript": 112379,
+            "HTML": 4399,
+            "SCSS": 2311,
+            "Makefile": 1587
+        }
+    },
+    {
+        "name": "dbdev",
+        "description": "Database Package Registry for Postgres",
+        "languages": {
+            "PLpgSQL": 170977,
+            "TypeScript": 147731,
+            "Rust": 43687,
+            "JavaScript": 2362,
+            "CSS": 1468
+        }
+    },
+    {
+        "name": "sqlite-parser",
+        "description": "JavaScript implentation of SQLite 3 query parser",
+        "languages": {
+            "PLpgSQL": 778420,
+            "JavaScript": 45500,
+            "SQLPL": 21021,
+            "CSS": 2095,
+            "HTML": 1775,
+            "Shell": 159
+        }
+    },
+    {
+        "name": "AdventureWorks-for-Postgres",
+        "description": "Set up the AdventureWorks sample database for use with Postgres",
+        "languages": {
+            "PLpgSQL": 194929,
+            "Ruby": 3728,
+            "Dockerfile": 479,
+            "Shell": 230
+        }
+    },
+    {
+        "name": "sakila",
+        "description": "The Sakila Database",
+        "languages": {
+            "PLpgSQL": 98885,
+            "PLSQL": 19768,
+            "TSQL": 15405
+        }
+    },
+    {
+        "name": "pgulid",
+        "description": "Universally Unique Lexicographically Sortable Identifier (ULID) for PostgreSQL",
+        "languages": {
+            "PLpgSQL": 4172
+        }
+    },
+    {
+        "name": "postgresql_dev_guide",
+        "description": "\u300aPostgreSQL\u5f00\u53d1\u6307\u5357\u300bPostgreSQL \u5b89\u88c5\u4e0e\u914d\u7f6e\uff0c\u7528\u6237\u4e0e\u89d2\u8272\u7ba1\u7406\uff0c\u6570\u636e\u5e93\u7684\u7ef4\u62a4\u3001\u5907\u4efd\u4e0e\u6062\u590d\u64cd\u4f5c\u3002SQL \u8bed\u53e5\uff0c\u5e38\u89c1\u51fd\u6570\uff0c\u9ad8\u7ea7\u67e5\u8be2\uff0c\u6570\u636e\u5e93\u4e8b\u52a1\u3001\u7d22\u5f15\u3001\u89c6\u56fe\u3001\u5b58\u50a8\u8fc7\u7a0b/\u51fd\u6570\u3001\u89e6\u53d1\u5668\uff0cJava\u3001PHP\u3001Python \u7f16\u7a0b\u63a5\u53e3\u3002",
+        "languages": {
+            "PLpgSQL": 33777
+        }
+    },
+    {
+        "name": "BrainTree_SQL_Coding_Challenge_Data_Analyst",
+        "description": "A Challenge To Test My SQL Skills For A Braintree Data Analyst Interview Process",
+        "languages": {
+            "PLpgSQL": 13881
+        }
+    },
+    {
+        "name": "docker-compose",
+        "description": "\u4e00\u4e9b\u57fa\u7840\u670d\u52a1\u7684docker-compose\u914d\u7f6e\u6587\u4ef6\uff0c\u65b9\u4fbf\u5728\u4e00\u53f0\u65b0\u7535\u8111\u4e0a\u5feb\u901f\u5f00\u59cb\u5de5\u4f5c",
+        "languages": {
+            "PLpgSQL": 13378,
+            "Dockerfile": 3358,
+            "Shell": 3289
+        }
+    },
+    {
+        "name": "groupdate.sql",
+        "description": "The simplest way to group temporal data",
+        "languages": {
+            "PLpgSQL": 16179,
+            "Ruby": 12266
+        }
+    },
+    {
+        "name": "dbt-external-tables",
+        "description": "dbt macros to stage external sources",
+        "languages": {
+            "PLpgSQL": 6016,
+            "Shell": 1275
+        }
+    },
+    {
+        "name": "postgis-vt-util",
+        "description": "postgres helper functions for making vector tiles",
+        "languages": {
+            "PLpgSQL": 36466,
+            "Shell": 6540,
+            "SQLPL": 3886,
+            "Makefile": 498
+        }
+    },
+    {
+        "name": "pgq",
+        "description": "Generic Queue for PostgreSQL",
+        "languages": {
+            "PLpgSQL": 157962,
+            "C": 75046,
+            "Python": 14958,
+            "Makefile": 7188,
+            "Awk": 22
+        }
+    },
+    {
+        "name": "Plsm",
+        "description": "Elixir mix task to generate Ecto models from already existing tables",
+        "languages": {
+            "PLpgSQL": 36448,
+            "Elixir": 30064
+        }
+    },
+    {
+        "name": "bedquilt-core",
+        "description": "A JSON document store on PostgreSQL",
+        "languages": {
+            "PLpgSQL": 132037,
+            "Makefile": 2246,
+            "Shell": 554
+        }
+    },
+    {
+        "name": "Postgis_Coordinate_Transform",
+        "description": "\u4e00\u4e2a\u5728postgis\u4e2d\u7ed3\u5408\u4e2d\u56fd\u56fd\u60c5\uff0c\u6279\u91cf\u5bf9\u6570\u636e\u8fdb\u884c\u52a0\u504f\u5230\u767e\u5ea6\u5750\u6807\uff0c\u9ad8\u5fb7\u8c37\u6b4c\u7684\u706b\u661f\u5750\u6807\uff0c\u6216\u8005\u9006\u5411\u7ea0\u504f",
+        "languages": {
+            "PLpgSQL": 31711
+        }
+    },
+    {
+        "name": "h3-pg",
+        "description": "PostgreSQL bindings for H3, a hierarchical hexagonal geospatial indexing system",
+        "languages": {
+            "PLpgSQL": 138490,
+            "C": 124703,
+            "CMake": 20625,
+            "Python": 13291,
+            "Makefile": 853,
+            "Shell": 698
+        }
+    },
+    {
+        "name": "amazon-redshift-udfs",
+        "description": "A collection of example UDFs for Amazon Redshift. ",
+        "languages": {
+            "PLpgSQL": 120991,
+            "Shell": 16074,
+            "JavaScript": 1522,
+            "Java": 826
+        }
+    },
+    {
+        "name": "periods",
+        "description": "PERIODs and SYSTEM VERSIONING for PostgreSQL",
+        "languages": {
+            "PLpgSQL": 478874,
+            "C": 22680,
+            "Makefile": 546
+        }
+    },
+    {
+        "name": "sqlraytracer",
+        "description": "Everyone writes a Raytracer eventually. This is mine.",
+        "languages": {
+            "PLpgSQL": 10790,
+            "Shell": 5484
+        }
+    },
+    {
+        "name": "duckdb_fdw",
+        "description": "DuckDB Foreign Data Wrapper for PostgreSQL",
+        "languages": {
+            "PLpgSQL": 2040147,
+            "C++": 1128651,
+            "C": 1024720,
+            "Makefile": 2284,
+            "Dockerfile": 1796,
+            "Shell": 736
+        }
+    },
+    {
+        "name": "nanoid-postgres",
+        "description": "Nano ID for PostgreSQL",
+        "languages": {
+            "PLpgSQL": 4881
+        }
+    },
+    {
+        "name": "pg_rational",
+        "description": "Precise fractional arithmetic for PostgreSQL",
+        "languages": {
+            "PLpgSQL": 14710,
+            "C": 14396,
+            "Makefile": 274
+        }
+    },
+    {
+        "name": "svelte-kanban",
+        "description": null,
+        "languages": {
+            "PLpgSQL": 101912,
+            "Svelte": 16398,
+            "JavaScript": 4015,
+            "HTML": 1290,
+            "CSS": 606,
+            "Shell": 75
+        }
+    },
+    {
+        "name": "fREedom",
+        "description": "capstone based disassembler for extracting to binnavi",
+        "languages": {
+            "PLpgSQL": 180640,
+            "Python": 125228
+        }
+    },
+    {
+        "name": "colpivot",
+        "description": "Dynamic row to column pivotation/transpose in Postgres made simple.",
+        "languages": {
+            "PLpgSQL": 4838
+        }
+    },
+    {
+        "name": "zscat-me",
+        "description": "\u57fa\u4e8espringboot  cloud\u6784\u5efa\u7684\u4e00\u4e2a\u5546\u57ce\u9879\u76ee\uff0c\u5305\u62ec\u524d\u7aef\uff0c\u540e\u7aef\u548ch5\u5e94\u7528\uff0c\u5c0f\u7a0b\u5e8f\uff0c\u4f5c\u4e3azscat\u5e94\u7528\u5b9e\u8df5\u7684\u6a21\u677f\u9879\u76ee\u3002\u57fa\u4e8eSpringBoot2.x\u3001SpringCloud\u548cSpringCloudAlibaba\u5e76\u91c7\u7528\u524d\u540e\u7aef\u5206\u79bb\u7684\u4f01\u4e1a\u7ea7\u5fae\u670d\u52a1\u654f\u6377\u5f00\u53d1\u7cfb\u7edf\u67b6\u6784\u3002\u5e76\u5f15\u5165\u7ec4\u4ef6\u5316\u7684\u601d\u60f3\u5b9e\u73b0\u9ad8\u5185\u805a\u4f4e\u8026\u5408\uff0c[ \u5fae\u4fe1 + \u652f\u4ed8\u5b9d + \u767e\u5ea6 + \u5934\u6761 ] \u5c0f\u7a0b\u5e8f + APP + \u516c\u4f17\u53f7 + PC + H5 \u9879\u76ee\u4ee3\u7801\u7b80\u6d01\u6ce8\u91ca\u4e30\u5bcc\u4e0a\u624b\u5bb9\u6613\uff0c\u9002\u5408\u5b66\u4e60\u548c\u4f01\u4e1a\u4e2d\u4f7f\u7528\u3002\u771f\u6b63\u5b9e\u73b0\u4e86\u57fa\u4e8eRBAC\u3001jwt\u548coauth2\u7684\u65e0\u72b6\u6001\u7edf\u4e00\u6743\u9650\u8ba4\u8bc1\u7684\u89e3\u51b3\u65b9\u6848\uff0c\u9762\u5411\u4e92\u8054\u7f51\u8bbe\u8ba1\u540c\u65f6\u9002\u5408B\u7aef\u548cC\u7aef\u7528\u6237\uff0c\u652f\u6301CI/CD\u591a\u73af\u5883\u90e8\u7f72\uff0c\u79ef\u5206\u5546\u57ce\uff0c\u5206\u9500\u5546\u57ce\u5e76\u63d0\u4f9b\u5e94\u7528\u7ba1\u7406\u65b9\u4fbf\u7b2c\u4e09\u65b9\u7cfb\u7edf\u63a5\u5165\uff1b\u540c\u65f6\u8fd8\u96c6\u5408\u5404\u79cd\u5fae\u670d\u52a1\u6cbb\u7406\u529f\u80fd\u548c\u76d1\u63a7\u529f\u80fd\u3002\u6a21\u5757\u5305\u62ec:\u4f01\u4e1a\u7ea7\u7684\u8ba4\u8bc1\u7cfb\u7edf\u3001\u5f00\u53d1\u5e73\u53f0\u3001\u5e94\u7528\u76d1\u63a7\u3001\u6162sql\u76d1\u63a7\u3001\u7edf\u4e00\u65e5\u5fd7\u3001\u5355\u70b9\u767b\u5f55\u3001Redis\u5206\u5e03\u5f0f\u9ad8\u901f\u7f13\u5b58\u3001\u914d\u7f6e\u4e2d\u5fc3\u3001\u5206\u5e03\u5f0f\u4efb\u52a1\u8c03\u5ea6\u3001\u63a5\u53e3\u6587\u6863\u3001\u4ee3\u7801\u751f\u6210\u7b49\u7b49",
+        "languages": {
+            "PLpgSQL": 29420608,
+            "Java": 3088259,
+            "FreeMarker": 71668,
+            "Shell": 5526,
+            "CSS": 5392,
+            "HTML": 3475,
+            "Batchfile": 2984,
+            "Lua": 415
+        }
+    },
+    {
+        "name": "filmhot",
+        "description": "A rapid movie website from the LokLok API",
+        "languages": {
+            "PLpgSQL": 75258,
+            "TypeScript": 68276,
+            "JavaScript": 874,
+            "CSS": 407,
+            "Shell": 80
+        }
+    },
+    {
+        "name": "node-sqlcipher",
+        "description": "SQLCipher bindings for Node",
+        "languages": {
+            "PLpgSQL": 427831,
+            "C++": 103395,
+            "JavaScript": 98494,
+            "Shell": 13572,
+            "Batchfile": 8151,
+            "Dockerfile": 7652,
+            "Makefile": 2167,
+            "Python": 1954,
+            "C": 1402,
+            "HTML": 251
+        }
+    },
+    {
+        "name": "yshop-gin",
+        "description": "yshop-gin\u57fa\u4e8e\u5f53\u524d\u6d41\u884c\u6280\u672f\u7ec4\u5408\u7684\u524d\u540e\u7aef\u5546\u57ce\u7cfb\u7edf(\u76ee\u524d\u7248\u672cv1.3)\u57fa\u4e8e\uff1a Gin+Gorm+Casbin+Jwt+Redis+Mysql8+Vue \u7684\u524d\u540e\u7aef\u5206\u79bb\u7535\u5546\u7ba1\u7406\u7cfb\u7edf\uff0c\u6743\u9650\u63a7\u5236\u91c7\u7528RBAC\uff0c\u652f\u6301\u5546\u57ce\u5546\u54c1\u52a0\u5165\u8d2d\u7269\u8f66\u3001\u4e0b\u5355\u3001\u8bc4\u4ef7\u3001\u652f\u4ed8\uff08\u5fae\u4fe1\u652f\u4ed8\u4e0e\u4f59\u989d\u652f\u4ed8\uff09\u3001\u641c\u7d22\u3001\u5730\u5740\u7ba1\u7406\u3001\u5feb\u9012\u9e1f\u67e5\u8be2\u3001\u591a\u7ea7\u5206\u7c7b\uff0c\u5546\u54c1\u7ba1\u7406\u3001\u5546\u54c1sku\u3001\u56fe\u7247\u7d20\u6750\u3001\u6570\u636e\u5b57\u5178\u4e0e\u6570\u636e\u6743\u9650\u7ba1\u7406\uff0c\u652f\u6301\u52a8\u6001\u8def\u7531\u7b49",
+        "languages": {
+            "PLpgSQL": 2513273,
+            "Go": 339783
+        }
+    },
+    {
+        "name": "h2gis",
+        "description": "A spatial extension of the H2 database.",
+        "languages": {
+            "PLpgSQL": 7327201,
+            "Java": 3944585
+        }
+    },
+    {
+        "name": "Learn-SQL-The-Hard-Way",
+        "description": "http://sql.learncodethehardway.org/book/",
+        "languages": {
+            "PLpgSQL": 2113,
+            "PLSQL": 691
+        }
+    },
+    {
+        "name": "Vocabulary-v5.0",
+        "description": "Build process for the OHDSI Standardized Vocabularies. Currently not available as independent release. ",
+        "languages": {
+            "PLpgSQL": 828964,
+            "PLSQL": 25269,
+            "Python": 5555,
+            "Shell": 2743,
+            "Batchfile": 776
+        }
+    },
+    {
+        "name": "supabase-graphql-example",
+        "description": "A HackerNews-like clone built with Supabase and pg_graphql",
+        "languages": {
+            "PLpgSQL": 142639,
+            "TypeScript": 61368,
+            "JavaScript": 2045,
+            "Shell": 321,
+            "CSS": 59
+        }
+    },
+    {
+        "name": "sqlite_fdw",
+        "description": "SQLite Foreign Data Wrapper for PostgreSQL",
+        "languages": {
+            "PLpgSQL": 2448966,
+            "C": 371715,
+            "Shell": 6627,
+            "Makefile": 1722
+        }
+    },
+    {
+        "name": "dox",
+        "description": "A Document Database API extension for Postgres",
+        "languages": {
+            "PLpgSQL": 13201,
+            "Makefile": 386,
+            "Shell": 316
+        }
+    },
+    {
+        "name": "dbt-snowflake-monitoring",
+        "description": "A dbt package from SELECT to help you monitor Snowflake performance and costs",
+        "languages": {
+            "PLpgSQL": 399
+        }
+    },
+    {
+        "name": "partition_magic",
+        "description": "\u0421\u043a\u0440\u0438\u043f\u0442-\u0441\u043d\u0438\u043f\u043f\u0435\u0442 \u0434\u043b\u044f Postgresql \u043d\u0430 plpgsql, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0449\u0438\u0439 \u043b\u0451\u0433\u043a\u043e, \u0431\u044b\u0441\u0442\u0440\u043e \u0438 \u043f\u0440\u043e\u0441\u0442\u043e \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u043f\u0430\u0440\u0442\u0438\u0446\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u0435 \u0442\u0430\u0431\u043b\u0438\u0446\u044b \u0432 \u0432\u0430\u0448\u0435\u043c \u043f\u0440\u043e\u0435\u043a\u0442\u0435, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0438\u0437\u043c\u0435\u043d\u044f\u0442\u044c, \u0434\u043e\u0431\u0430\u0432\u043b\u044f\u0442\u044c \u0438 \u0443\u0434\u0430\u043b\u044f\u0442\u044c \u0434\u0430\u043d\u043d\u044b\u0435.",
+        "languages": {
+            "PLpgSQL": 17769
+        }
+    },
+    {
+        "name": "supabase-tenant-rbac",
+        "description": "A template for implementing basic RBAC for a multi-tenant supabase project",
+        "languages": {
+            "PLpgSQL": 25602
+        }
+    },
+    {
+        "name": "postgresql-event-sourcing",
+        "description": "postgresql event sourcing",
+        "languages": {
+            "PLpgSQL": 4878,
+            "TSQL": 415
+        }
+    },
+    {
+        "name": "sql-battleships",
+        "description": "[Community] Play Battleships on PostgreSQL",
+        "languages": {
+            "PLpgSQL": 19511,
+            "Dockerfile": 551,
+            "Shell": 73
+        }
+    },
+    {
+        "name": "supabase-mailer",
+        "description": "Send and track email from Supabase / PostgreSQL using a Transactional Email Provider",
+        "languages": {
+            "PLpgSQL": 30395
+        }
+    },
+    {
+        "name": "timvt",
+        "description": "PostGIS based Vector Tile server.",
+        "languages": {
+            "PLpgSQL": 22065458,
+            "Python": 63925,
+            "HTML": 17513,
+            "Shell": 5913,
+            "Dockerfile": 337
+        }
+    },
+    {
+        "name": "encycloDB",
+        "description": "Open-source data repository of everything... Almost",
+        "languages": {
+            "PLpgSQL": 8526684
+        }
+    },
+    {
+        "name": "hierarchy-data-closure-table",
+        "description": "This is a mysql and postgresql store procedure and trigger implementation of closure table in RDBMS about hierarchy data model.",
+        "languages": {
+            "PLpgSQL": 15502
+        }
+    },
+    {
+        "name": "aws-database-migration-samples",
+        "description": "A set of sample database and associated items to allow customers to among other things follow along with published database migration recipes.",
+        "languages": {
+            "PLpgSQL": 75421,
+            "SQLPL": 69147,
+            "Ruby": 47695,
+            "PLSQL": 17973,
+            "Shell": 1651,
+            "JavaScript": 128
+        }
+    },
+    {
+        "name": "pg_net",
+        "description": "A PostgreSQL extension that enables asynchronous (non-blocking) HTTP/HTTPS requests with SQL",
+        "languages": {
+            "PLpgSQL": 23412,
+            "Python": 21272,
+            "C": 16869,
+            "Nix": 8649,
+            "Makefile": 825
+        }
+    },
+    {
+        "name": "postgres-course-ru",
+        "description": null,
+        "languages": {
+            "PLpgSQL": 18127
+        }
+    },
+    {
+        "name": "subzero-starter-kit",
+        "description": "Starter Kit and tooling for authoring GraphQL/REST API backends with subZero",
+        "languages": {
+            "PLpgSQL": 18162,
+            "JavaScript": 12037,
+            "Shell": 10253,
+            "HTML": 5138
+        }
+    },
+    {
+        "name": "leetcode-sql",
+        "description": "Leetcode SQL Solutions",
+        "languages": {
+            "PLpgSQL": 3858
+        }
+    },
+    {
+        "name": "vault",
+        "description": "Extension for storing encrypted secrets in the Vault",
+        "languages": {
+            "PLpgSQL": 5234,
+            "Shell": 1498,
+            "Dockerfile": 613,
+            "Makefile": 134
+        }
+    },
+    {
+        "name": "parquet_s3_fdw",
+        "description": "ParquetS3 Foreign Data Wrapper for PostgresSQL",
+        "languages": {
+            "PLpgSQL": 1866290,
+            "C++": 460823,
+            "Python": 18830,
+            "C": 14311,
+            "Shell": 3159,
+            "Makefile": 2987,
+            "Dockerfile": 548
+        }
+    },
+    {
+        "name": "pg_jobmon",
+        "description": "PostgreSQL extension which provides persistent logging within transactions and functions. ",
+        "languages": {
+            "PLpgSQL": 207076,
+            "Dockerfile": 3066,
+            "Makefile": 733
+        }
+    },
+    {
+        "name": "pg-clone-schema",
+        "description": "Postgres clone schema utility without need of going outside of database. Makes developers life easy by running single function to clone schema with all objects. It is very handy on Postgres RDS. Utility is sponsored by http://elephas.io/  ",
+        "languages": {
+            "PLpgSQL": 237733
+        }
+    },
+    {
+        "name": "pghero.sql",
+        "description": "Postgres insights made easy",
+        "languages": {
+            "PLpgSQL": 3313
+        }
+    },
+    {
+        "name": "chicago-atlas",
+        "description": "View citywide information about health trends and take action near you to improve your own health.",
+        "languages": {
+            "PLpgSQL": 1746505,
+            "Ruby": 385322,
+            "HTML": 45540,
+            "CSS": 13383,
+            "Python": 1924,
+            "JavaScript": 1853,
+            "Shell": 1055,
+            "CoffeeScript": 422
+        }
+    },
+    {
+        "name": "opm-core",
+        "description": "Central module of the OPM suite ",
+        "languages": {
+            "PLpgSQL": 822373,
+            "JavaScript": 744438,
+            "HTML": 227110,
+            "Perl": 89919,
+            "CSS": 15417,
+            "Raku": 9359,
+            "TSQL": 1863,
+            "Makefile": 125
+        }
+    },
+    {
+        "name": "scaledger",
+        "description": "A double-entry accounting database with a typed GraphQL API",
+        "languages": {
+            "PLpgSQL": 7655,
+            "TypeScript": 3012,
+            "Dockerfile": 1586,
+            "Shell": 1049
+        }
+    },
+    {
+        "name": "dune-snippets",
+        "description": "dune snippets is a collection of sql queries for duneanalytics.com / Google BigQuery ",
+        "languages": {
+            "PLpgSQL": 72801406,
+            "Python": 273728,
+            "JavaScript": 38689,
+            "Makefile": 256
+        }
+    },
+    {
+        "name": "pg_bitemporal",
+        "description": "Bitemporal tables in Postgres",
+        "languages": {
+            "PLpgSQL": 736981,
+            "Perl": 20124,
+            "Shell": 3510,
+            "Makefile": 385
+        }
+    },
+    {
+        "name": "postgraphile-lambda-example",
+        "description": "Simple serverless / Lambda example with caching and lightweight bundle",
+        "languages": {
+            "PLpgSQL": 54646,
+            "JavaScript": 10036,
+            "Shell": 5124
+        }
+    },
+    {
+        "name": "census",
+        "description": "Source for census.ire.org, including data processing scripts.",
+        "languages": {
+            "PLpgSQL": 3300633,
+            "SAS": 312651,
+            "Python": 122675,
+            "JavaScript": 97504,
+            "HTML": 49945,
+            "Shell": 16162,
+            "CSS": 15906
+        }
+    },
+    {
+        "name": "pg-semver",
+        "description": "A semantic version data type for PostgreSQL",
+        "languages": {
+            "PLpgSQL": 134339,
+            "C": 20803,
+            "Makefile": 1832
+        }
+    },
+    {
+        "name": "postgres-aws-s3",
+        "description": "aws_s3 postgres extension to import/export data from/to s3 (compatible with aws_s3 extension on AWS RDS)",
+        "languages": {
+            "PLpgSQL": 8503,
+            "Dockerfile": 254,
+            "Makefile": 199,
+            "Shell": 120
+        }
+    },
+    {
+        "name": "postgresql-functions",
+        "description": "Custom PostgreSQL functions and extensions",
+        "languages": {
+            "PLpgSQL": 11535,
+            "C": 4084,
+            "Shell": 3307,
+            "Makefile": 1275
+        }
+    },
+    {
+        "name": "SupaScript",
+        "description": null,
+        "languages": {
+            "PLpgSQL": 52815,
+            "JavaScript": 5653,
+            "Makefile": 127
+        }
+    },
+    {
+        "name": "pg_permissions",
+        "description": "A simple set of views to see ALL permissions in a PostgreSQL database",
+        "languages": {
+            "PLpgSQL": 45893,
+            "Makefile": 178
+        }
+    },
+    {
+        "name": "dbt-labs-experimental-features",
+        "description": "dbt support for database features which are not yet supported natively in dbt-core",
+        "languages": {
+            "PLpgSQL": 5511,
+            "Makefile": 1013
+        }
+    },
+    {
+        "name": "tipg",
+        "description": "Simple and Fast Geospatial OGC Features and Tiles API for PostGIS.",
+        "languages": {
+            "PLpgSQL": 18813591,
+            "Python": 308739,
+            "HTML": 51347,
+            "Shell": 5393
+        }
+    },
+    {
+        "name": "mytap",
+        "description": "MySQL Unit Testing Suite",
+        "languages": {
+            "PLpgSQL": 28979,
+            "Shell": 12786
+        }
+    },
+    {
+        "name": "common_schema",
+        "description": "DBA's framework for MySQL",
+        "languages": {
+            "PLpgSQL": 421983,
+            "PLSQL": 15308,
+            "SQLPL": 9737,
+            "Shell": 4650
+        }
+    },
+    {
+        "name": "pgfaceting",
+        "description": "Faceted query acceleration for PostgreSQL using roaring bitmaps",
+        "languages": {
+            "PLpgSQL": 26686,
+            "Makefile": 259
+        }
+    },
+    {
+        "name": "sqlite-parser",
+        "description": "An ANTLR4 grammar for SQLite statements.",
+        "languages": {
+            "PLpgSQL": 324108,
+            "ANTLR": 20112,
+            "Java": 6273
+        }
+    },
+    {
+        "name": "Learn-PostgreSQL",
+        "description": "Learn PostgreSQL, published by Packt",
+        "languages": {
+            "PLpgSQL": 47207,
+            "Shell": 5118,
+            "Makefile": 139
+        }
+    },
+    {
+        "name": "bakehouse",
+        "description": "Support database for an artisan bakery",
+        "languages": {
+            "PLpgSQL": 46972
+        }
+    },
+    {
+        "name": "pgstac",
+        "description": "Schema, functions and a python library for storing and accessing STAC collections and items in PostgreSQL",
+        "languages": {
+            "PLpgSQL": 6078084,
+            "Python": 84678,
+            "Shell": 34860,
+            "Dockerfile": 3915,
+            "Rust": 2437
+        }
+    },
+    {
+        "name": "mimic-omop",
+        "description": "Mapping the MIMIC-III database to the OMOP schema",
+        "languages": {
+            "PLpgSQL": 71914,
+            "Shell": 7234,
+            "R": 3918,
+            "Makefile": 1885,
+            "SQLPL": 772
+        }
+    },
+    {
+        "name": "plpgunit",
+        "description": "PostgreSQL Unit Testing Framework",
+        "languages": {
+            "PLpgSQL": 33855
+        }
+    },
+    {
+        "name": "pg-auth",
+        "description": "A complete authentication system built in Postgres using schemas and functions",
+        "languages": {
+            "PLpgSQL": 40785,
+            "JavaScript": 12104,
+            "PLSQL": 518
+        }
+    },
+    {
+        "name": "Evergreen",
+        "description": "Evergreen ILS",
+        "languages": {
+            "PLpgSQL": 19461414,
+            "JavaScript": 7867260,
+            "mIRC Script": 6681154,
+            "Perl": 5577284,
+            "TypeScript": 2804243,
+            "HTML": 1672405,
+            "C": 679076,
+            "XSLT": 639547,
+            "CSS": 311988,
+            "Makefile": 81149,
+            "Python": 77716,
+            "Shell": 71549,
+            "Raku": 26149,
+            "M4": 15145,
+            "NSIS": 12381,
+            "Ruby": 3493,
+            "Scilab": 2822,
+            "Vim Script": 651
+        }
+    },
+    {
+        "name": "pgsql-parser",
+        "description": "PostgreSQL Query Parser for Node.js",
+        "languages": {
+            "PLpgSQL": 1036412,
+            "TypeScript": 511691,
+            "JavaScript": 461000
+        }
+    },
+    {
+        "name": "ccap",
+        "description": "open source and transparent cryptocurrency analysis platform",
+        "languages": {
+            "PLpgSQL": 2837600,
+            "Vue": 299427,
+            "JavaScript": 120991,
+            "HTML": 31242,
+            "CSS": 15868
+        }
+    },
+    {
+        "name": "walrus",
+        "description": "Applying RLS to PostgreSQL WAL",
+        "languages": {
+            "PLpgSQL": 97258,
+            "Shell": 1454
+        }
+    },
+    {
+        "name": "pgddl",
+        "description": "DDL eXtractor functions for PostgreSQL (ddlx)",
+        "languages": {
+            "PLpgSQL": 20486,
+            "Perl": 1478,
+            "Makefile": 1170,
+            "Elixir": 530
+        }
+    },
+    {
+        "name": "totp",
+        "description": "RFC6238 TOTP implementation in pure PostgreSQL plpgsql",
+        "languages": {
+            "PLpgSQL": 28923,
+            "JavaScript": 22411,
+            "Shell": 463,
+            "Makefile": 449
+        }
+    },
+    {
+        "name": "alienvault-ossim",
+        "description": "Alienvault ossim",
+        "languages": {
+            "PLpgSQL": 23840307,
+            "PHP": 23369083,
+            "Python": 5354469,
+            "JavaScript": 4225963,
+            "C": 2426032,
+            "Perl": 1012010,
+            "CSS": 821198,
+            "Shell": 656597,
+            "Elixir": 108298,
+            "Makefile": 72856,
+            "Gherkin": 57871,
+            "M4": 37740,
+            "HTML": 28416,
+            "NSIS": 23269,
+            "C++": 18430,
+            "Roff": 12153,
+            "SQLPL": 8185,
+            "Emacs Lisp": 6437,
+            "Batchfile": 4922,
+            "Augeas": 4777,
+            "Perl 6": 1761,
+            "D": 298,
+            "GDB": 234
+        }
+    },
+    {
+        "name": "pg2go",
+        "description": "PostgreSQL script that generates Go struct definitions for all tables in a database",
+        "languages": {
+            "PLpgSQL": 4883
+        }
+    },
+    {
+        "name": "compose-postgrest",
+        "description": "Postgres, PostgREST, and Swagger UI conveniently wrapped up with docker-compose",
+        "languages": {
+            "PLpgSQL": 198552,
+            "HTML": 1386,
+            "JavaScript": 1370,
+            "Shell": 492,
+            "CSS": 33
+        }
+    },
+    {
+        "name": "pg_tuid",
+        "description": "generate_tuid function for postgres",
+        "languages": {
+            "PLpgSQL": 15967,
+            "C": 9323,
+            "C#": 2864,
+            "Ruby": 1185,
+            "JavaScript": 1180,
+            "Shell": 314,
+            "Makefile": 243
+        }
+    },
+    {
+        "name": "aact",
+        "description": "Improving Public Access to Aggregate Content of ClinicalTrials.gov",
+        "languages": {
+            "PLpgSQL": 720155,
+            "Ruby": 633784,
+            "HTML": 24091,
+            "Shell": 857,
+            "Dockerfile": 747,
+            "JavaScript": 1
+        }
+    },
+    {
+        "name": "panda-cloud",
+        "description": "Base on SpringCloud MicroService Framework",
+        "languages": {
+            "PLpgSQL": 2065365,
+            "Java": 243409,
+            "Dockerfile": 2280,
+            "Shell": 947
+        }
+    },
+    {
+        "name": "HRMS.PostgreSQL",
+        "description": "PostgreSQL database for Human Resource Management System",
+        "languages": {
+            "PLpgSQL": 16730
+        }
+    },
+    {
+        "name": "cartodb-postgresql",
+        "description": "PostgreSQL extension for CartoDB",
+        "languages": {
+            "PLpgSQL": 324059,
+            "Shell": 52968,
+            "Makefile": 5238,
+            "Ruby": 1398
+        }
+    },
+    {
+        "name": "serverless-postgraphql",
+        "description": "Serverless GraphQL endpoint for PostgresSQL using AWS, serverless and PostGraphQL",
+        "languages": {
+            "PLpgSQL": 55002,
+            "JavaScript": 3319
+        }
+    },
+    {
+        "name": "NORM",
+        "description": "NORM - No ORM framework",
+        "languages": {
+            "PLpgSQL": 45883
+        }
+    },
+    {
+        "name": "photoshape",
+        "description": null,
+        "languages": {
+            "SQLPL": 274835208,
+            "PLpgSQL": 69775711,
+            "Python": 4045127,
+            "HTML": 941553,
+            "JavaScript": 142110,
+            "Dockerfile": 25065,
+            "CSS": 22266,
+            "Shell": 6084
+        }
+    },
+    {
+        "name": "chunyu-cms",
+        "description": "\u6df3\u6e14CMS-Nodejs\u5feb\u901f\u642d\u5efa\u5f71\u89c6\uff0c\u89c6\u9891\u7c7b\u7f51\u7ad9\u7684\u7cfb\u7edf\uff0c\u5b83\u57fa\u4e8enuxt3\u3001vue3\u3001nestjs\uff0c\u4e5f\u975e\u5e38\u9002\u5408\u4e8c\u6b21\u5f00\u53d1\u3002",
+        "languages": {
+            "PLpgSQL": 1186494,
+            "Vue": 608635,
+            "TypeScript": 442144,
+            "JavaScript": 108495,
+            "HTML": 28916,
+            "SCSS": 18265,
+            "CSS": 1669,
+            "Batchfile": 352
+        }
+    },
+    {
+        "name": "curious-moon",
+        "description": "The Repository for the book, A Curious Moon, which you can purchase from https://bigmachine.io.",
+        "languages": {
+            "PLpgSQL": 2858,
+            "Makefile": 861
+        }
+    },
+    {
+        "name": "pypgTAP",
+        "description": "Making Postgres coding and testing fun!",
+        "languages": {
+            "PLpgSQL": 297143,
+            "Python": 56548
+        }
+    },
+    {
+        "name": "dnd-phb-5e-index",
+        "description": "Dungeons & Dragons 5th Edition Revised Index",
+        "languages": {
+            "PLpgSQL": 200180,
+            "Python": 16267,
+            "HTML": 14459
+        }
+    },
+    {
+        "name": "ora_migrator",
+        "description": "Tools for Oracle to PostgreSQL migration",
+        "languages": {
+            "PLpgSQL": 79626,
+            "Makefile": 265
+        }
+    },
+    {
+        "name": "postgresql-anyarray",
+        "description": "PostgeSQL extension adding highly desirable, data-type independent array functionality.",
+        "languages": {
+            "PLpgSQL": 11968,
+            "SQLPL": 1739
+        }
+    },
+    {
+        "name": "postgres-rrule",
+        "description": "Recurring dates in Postgres.",
+        "languages": {
+            "PLpgSQL": 81986,
+            "Makefile": 984
+        }
+    },
+    {
+        "name": "GlobalRegion",
+        "description": "\u5168\u7403\u56fd\u5bb6/\u5730\u533a\u4e0b\u62c9\u7ea7\u8054\uff0c\u5305\u542b\u4e2d\u82f1\u6587\u56fd\u9645\u5316\uff0c\u56fd\u5bb6/\u7701\u4efd\uff08\u76f4\u8f96\u5e02\uff09/\u57ce\u5e02\uff08\u533a\uff09/\u53bf",
+        "languages": {
+            "PLpgSQL": 2785812,
+            "HTML": 7800,
+            "JavaScript": 7732,
+            "Java": 5102,
+            "TSQL": 1400
+        }
+    },
+    {
+        "name": "thai-province-data",
+        "description": "Metadata of Thailand Province name (\u0e02\u0e49\u0e2d\u0e21\u0e39\u0e25\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14 \u0e2d\u0e33\u0e40\u0e20\u0e2d \u0e15\u0e33\u0e1a\u0e25 \u0e02\u0e2d\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22)",
+        "languages": {
+            "PLpgSQL": 2059828
+        }
+    },
+    {
+        "name": "wemirr-platform",
+        "description": "\u6700\u4f18\u79c0\u3001\u6700\u7b80\u5355\u3001\u6700\u6f02\u4eae\u7684\u5f00\u6e90SAAS\u3001\u591a\u79df\u6237\u3001SpringCloud\u3001Mysql\u3001Mybatis-Plus\u3001Spring Cloud Alibaba \u3001Oauth2.0 \u3001\u6709BUG\u7b2c\u4e00\u65f6\u95f4\u4fee\u590d",
+        "languages": {
+            "PLpgSQL": 1791094,
+            "Java": 1596701,
+            "FreeMarker": 15975,
+            "HTML": 15820,
+            "CSS": 5966
+        }
+    },
+    {
+        "name": "penkala",
+        "description": "Composable query builder for PostgreSQL written in Clojure.",
+        "languages": {
+            "PLpgSQL": 5411157,
+            "Clojure": 430441,
+            "Shell": 56
+        }
+    },
+    {
+        "name": "metagration",
+        "description": "Metagration: PostgreSQL Migrator in PostgreSQL",
+        "languages": {
+            "PLpgSQL": 21750,
+            "Shell": 943,
+            "Makefile": 833,
+            "Dockerfile": 237
+        }
+    },
+    {
+        "name": "airflow-tutorial",
+        "description": "Use Airflow to move data from multiple MySQL databases to BigQuery",
+        "languages": {
+            "PLpgSQL": 3368362,
+            "Python": 6461
+        }
+    },
+    {
+        "name": "pgosm-flex",
+        "description": "PgOSM Flex provides high quality OpenStreetMap datasets in PostGIS (Postgres) using the osm2pgsql Flex output.",
+        "languages": {
+            "PLpgSQL": 9044779,
+            "Lua": 153385,
+            "Python": 100519,
+            "Makefile": 7703,
+            "Dockerfile": 2159,
+            "Shell": 2145
+        }
+    },
+    {
+        "name": "redshift",
+        "description": "Redshift package for dbt (getdbt.com)",
+        "languages": {
+            "PLpgSQL": 3594,
+            "Makefile": 66
+        }
+    },
+    {
+        "name": "bigdata-charts",
+        "description": "Curated Big Data Applications for Kubernetes",
+        "languages": {
+            "PLpgSQL": 41574,
+            "Shell": 10403,
+            "Mustache": 9318,
+            "Smarty": 406
+        }
+    },
+    {
+        "name": "ssis-queries",
+        "description": "A set of queries useful to easily extract monitoring and package performance data from SSISDB database",
+        "languages": {
+            "PLpgSQL": 7359,
+            "PLSQL": 6370
+        }
+    },
+    {
+        "name": "mbdata",
+        "description": "MusicBrainz SQLAlchemy Models",
+        "languages": {
+            "PLpgSQL": 2043358,
+            "Python": 844695,
+            "Perl": 11966,
+            "Raku": 10313,
+            "Shell": 2490
+        }
+    },
+    {
+        "name": "postgisaddons",
+        "description": "The PostGIS Add-ons attempt to gather, in a single .sql file, useful and generic user contributed PL/pgSQL functions and to provide a fast and Agile release cycle.",
+        "languages": {
+            "PLpgSQL": 209808
+        }
+    },
+    {
+        "name": "PLHaskell",
+        "description": "A Haskell extension for PostgreSQL that allows embedded Haskell code. ",
+        "languages": {
+            "PLpgSQL": 100167,
+            "Haskell": 61191,
+            "C": 47863,
+            "Makefile": 5231,
+            "Shell": 1129
+        }
+    },
+    {
+        "name": "naturalearthtiles",
+        "description": "Natural Earth vector tiles (MVT) and raster tiles free and ready to use.",
+        "languages": {
+            "PLpgSQL": 2804,
+            "Shell": 2256,
+            "Makefile": 450
+        }
+    },
+    {
+        "name": "postgres-full-text-search",
+        "description": null,
+        "languages": {
+            "PLpgSQL": 2585,
+            "TypeScript": 1841
+        }
+    },
+    {
+        "name": "e-commerce-database-schema",
+        "description": "E-commerce PostgreSQL Database Schema",
+        "languages": {
+            "PLpgSQL": 36678,
+            "TypeScript": 9810,
+            "Shell": 5655
+        }
+    },
+    {
+        "name": "advent-of-code",
+        "description": "https://adventofcode.com/",
+        "languages": {
+            "PLpgSQL": 8447
+        }
+    },
+    {
+        "name": "dba-multitool",
+        "description": ":hammer_and_wrench:  T-SQL scripts for the long haul: optimizing storage, on-the-fly documentation, and general administrative needs.",
+        "languages": {
+            "PLpgSQL": 493608,
+            "TSQL": 8460,
+            "PowerShell": 4160
+        }
+    },
+    {
+        "name": "Taipei-City-Dashboard",
+        "description": "The Open-Source Repository of Taipei City Dashboard. Try it out by clicking the link below!",
+        "languages": {
+            "PLpgSQL": 344175,
+            "Vue": 228522,
+            "JavaScript": 225152,
+            "Go": 121136,
+            "CSS": 5015,
+            "HTML": 1660,
+            "Dockerfile": 972
+        }
+    },
+    {
+        "name": "sf-funnels",
+        "description": null,
+        "languages": {
+            "PLpgSQL": 6923
+        }
+    },
+    {
+        "name": "doobie-http4s-sangria-graphql-example",
+        "description": "Example app that uses doobie, http4s, and Sangria to serve GraphQL.",
+        "languages": {
+            "PLpgSQL": 198552,
+            "Scala": 36276,
+            "HTML": 18367
+        }
+    },
+    {
+        "name": "hasura-jwt-auth",
+        "description": "Hasura JWT auth using PostgreSQL",
+        "languages": {
+            "PLpgSQL": 4285,
+            "Python": 570,
+            "TSQL": 176
+        }
+    },
+    {
+        "name": "pgsql-tweaks",
+        "description": "Contains PostgreSQL functions which I regularly needed.",
+        "languages": {
+            "PLpgSQL": 2563246,
+            "HTML": 106962,
+            "Shell": 13769,
+            "Roff": 8516,
+            "Makefile": 693
+        }
+    },
+    {
+        "name": "OpenQueryStore",
+        "description": "OpenQueryStore",
+        "languages": {
+            "PLpgSQL": 89472,
+            "PowerShell": 36583
+        }
+    },
+    {
+        "name": "1st-Edition",
+        "description": "Source Code Collection and Supplemental Material for the O'Reilly Snowflake Definitive Guide 1st Edition book",
+        "languages": {
+            "PLpgSQL": 24288
+        }
+    },
+    {
+        "name": "pgl_ddl_deploy",
+        "description": "Transparent Logical DDL Replication",
+        "languages": {
+            "PLpgSQL": 1897745,
+            "C": 10957,
+            "Python": 10666,
+            "Makefile": 2554,
+            "Shell": 2133
+        }
+    },
+    {
+        "name": "volumes-backup-extension",
+        "description": "Back up, clone, restore, and share Docker volumes effortlessly.",
+        "languages": {
+            "PLpgSQL": 19563083,
+            "Go": 106020,
+            "TypeScript": 85073,
+            "Dockerfile": 6407,
+            "Makefile": 2689,
+            "JavaScript": 1048,
+            "HTML": 263
+        }
+    },
+    {
+        "name": "mbslave",
+        "description": "DEPRECATED: use mbdata instead",
+        "languages": {
+            "PLpgSQL": 2015262,
+            "PLSQL": 89022,
+            "Python": 35821,
+            "SQLPL": 17540,
+            "Perl": 13014,
+            "Perl 6": 10313,
+            "Shell": 1171
+        }
+    },
+    {
+        "name": "nanoid-postgres",
+        "description": "Nanoid implementation in PostgreSQL PL/pgSQL",
+        "languages": {
+            "PLpgSQL": 569
+        }
+    },
+    {
+        "name": "mimeo",
+        "description": "Extension for specialized, per-table replication between PostgreSQL instances",
+        "languages": {
+            "PLpgSQL": 4583974,
+            "Python": 4350,
+            "Makefile": 837
+        }
+    },
+    {
+        "name": "supabase-test-helpers",
+        "description": "Test helpers for pgTAP and Supabase",
+        "languages": {
+            "PLpgSQL": 88776
+        }
+    },
+    {
+        "name": "GridKit",
+        "description": "GridKit is an power grid extraction toolkit",
+        "languages": {
+            "PLpgSQL": 103536,
+            "Python": 49777,
+            "Shell": 4216,
+            "R": 790
+        }
+    },
+    {
+        "name": "rasp-vuln",
+        "description": "\u5f53\u6b7b\u53bb\u7684\u8bb0\u5fc6\u7a81\u7136\u5f00\u59cb\u653b\u51fb\u6211\uff0c\u6211\u7ec8\u4e8e\u60f3\u8d77\u4e86\u6211\u8fd8\u5199\u8fc7\u4e00\u6b3e\u5341\u5206\u5341\u5206\u5783\u573e\u7684 rasp \u9776\u573a\u3002",
+        "languages": {
+            "PLpgSQL": 1031777
+        }
+    },
+    {
+        "name": "postgres_air",
+        "description": null,
+        "languages": {
+            "PLpgSQL": 17905
+        }
+    },
+    {
+        "name": "workshop-postgis-raster",
+        "description": "Workshop to explain and exemplify the usage of PostGIS raster.",
+        "languages": {
+            "PLpgSQL": 30521748
+        }
+    },
+    {
+        "name": "mysql2h2-converter",
+        "description": "A MySQL to H2 SQL conversion library written in Java",
+        "languages": {
+            "PLpgSQL": 24392489,
+            "PLSQL": 330599,
+            "Java": 54216
+        }
+    },
+    {
+        "name": "Tableau-Server-Postgres-Queries",
+        "description": "List of all Tableau Server Postgres DB Tables, Joins and Fields",
+        "languages": {
+            "PLpgSQL": 123907,
+            "Python": 74893,
+            "TSQL": 33893,
+            "PowerShell": 5329,
+            "Shell": 3285
+        }
+    },
+    {
+        "name": "emaj",
+        "description": "E-Maj is a PostgreSQL extension that tracks updates on tables sets with rollback capabilities",
+        "languages": {
+            "PLpgSQL": 9492747,
+            "Shell": 70064,
+            "Perl": 52208,
+            "PHP": 21111
+        }
+    },
+    {
+        "name": "postgrest-example",
+        "description": "Migrations for an example conference API",
+        "languages": {
+            "PLpgSQL": 3107
+        }
+    },
+    {
+        "name": "examples",
+        "description": "Examples of using PostGraphile with various servers and clients [WIP]",
+        "languages": {
+            "PLpgSQL": 101714,
+            "JavaScript": 54057,
+            "Shell": 6226,
+            "CSS": 2650,
+            "HTML": 1652
+        }
+    },
+    {
+        "name": "basketball",
+        "description": "Public subset of my basketball github",
+        "languages": {
+            "PLpgSQL": 217288,
+            "Ruby": 89850,
+            "R": 44628,
+            "Shell": 23915,
+            "Python": 4793
+        }
+    },
+    {
+        "name": "data-visualize-chain",
+        "description": "A tutorial for web data visualization chain",
+        "languages": {
+            "PLpgSQL": 5861878,
+            "HTML": 54948,
+            "Python": 30178,
+            "JavaScript": 18574
+        }
+    },
+    {
+        "name": "mobilephone-brands-and-models",
+        "description": "A database includes mobilephone manufacturers and their models.",
+        "languages": {
+            "PLpgSQL": 19082297,
+            "PHP": 161999,
+            "Blade": 18227
+        }
+    },
+    {
+        "name": "aaocp",
+        "description": "\u4e00\u4e2a\u5bf9\u7528\u6237\u884c\u4e3a\u65e5\u5fd7\u8fdb\u884c\u5206\u6790\u7684\u5927\u6570\u636e\u9879\u76ee",
+        "languages": {
+            "PLpgSQL": 3096082,
+            "Scala": 135102,
+            "Java": 21068,
+            "TSQL": 5490,
+            "HTML": 5297
+        }
+    },
+    {
+        "name": "typeid-sql",
+        "description": "SQL implementation TypeIDs: type-safe, K-sortable, and globally unique identifiers inspired by Stripe IDs",
+        "languages": {
+            "PLpgSQL": 31963
+        }
+    },
+    {
+        "name": "datacube-ows",
+        "description": "Open Data Cube Open Web Services",
+        "languages": {
+            "PLpgSQL": 18507054,
+            "Python": 1036717,
+            "HTML": 10549,
+            "Shell": 5456,
+            "Dockerfile": 3272
+        }
+    },
+    {
+        "name": "spring-batch-admin-backend",
+        "description": "Spring Batch Admin \u662f\u4e00\u4e2a\u540e\u7aef\u91c7\u7528spring boot 2, spring security , oauth2, Spring data jpa \u4f5c\u4e3a\u57fa\u7840\u6846\u67b6\uff0c\u96c6\u6210\u4e86quartz \u63d0\u4f9b\u8c03\u5ea6\u80fd\u529b\uff0c\u96c6\u6210\u4e86Spring batch \u63d0\u4f9b\u6279\u5904\u7406\u80fd\u529b\u7684\u7ba1\u7406\u7cfb\u7edf\u3002\u7cfb\u7edf\u65e8\u5728\u63d0\u4f9b\u66f4\u5e95\u5c42\u6570\u636e\u5c55\u793a\u4ee5\u53ca\u5e38\u89c1\u6279\u5904\u7406\u7684\u914d\u7f6e\u4ee5\u53ca\u8fd0\u884c\u80fd\u529b\u3002",
+        "languages": {
+            "PLpgSQL": 299743,
+            "Java": 78432
+        }
+    },
+    {
+        "name": "sgn",
+        "description": "The code behind the Sol Genomics Network, Cassavabase and other Breedbase websites",
+        "languages": {
+            "PLpgSQL": 26882525,
+            "Perl": 19234334,
+            "JavaScript": 6307150,
+            "CSS": 417052,
+            "R": 378854,
+            "Terra": 92077,
+            "HTML": 49243,
+            "C": 30370,
+            "Shell": 5592,
+            "Prolog": 3898,
+            "SCSS": 3129,
+            "Python": 1632,
+            "Raku": 553,
+            "Makefile": 210
+        }
+    },
+    {
+        "name": "docker-freeradius",
+        "description": "Freeradius Server in Docker Container",
+        "languages": {
+            "PLpgSQL": 18840,
+            "TSQL": 8983,
+            "PLSQL": 6792,
+            "Perl": 5909,
+            "Shell": 4581,
+            "Makefile": 4434,
+            "Dockerfile": 989,
+            "GDB": 52
+        }
+    },
+    {
+        "name": "Snowflake-Cookbook",
+        "description": "Snowflake Cookbook, published by Packt",
+        "languages": {
+            "PLpgSQL": 9496,
+            "Scala": 2200,
+            "PLSQL": 1772
+        }
+    },
+    {
+        "name": "paas-data-ingestion",
+        "description": "Ingesting data with Pulumi, AWS lambdas and Snowflake in a scalable, fully replayable manner",
+        "languages": {
+            "PLpgSQL": 47118,
+            "Python": 40405,
+            "Makefile": 839
+        }
+    },
+    {
+        "name": "ms-sql-server-group-concat-sqlclr",
+        "description": "SQL Server CLR user-defined aggregates that collectively offer similar functionality to the MySQL GROUP_CONCAT function. Specialized functions ensure the best performance based on required functionality. Aggregates implemented using C#; requires .NET Framework 3.5.",
+        "languages": {
+            "PLpgSQL": 113962,
+            "C#": 21806
+        }
+    },
+    {
+        "name": "LynTest",
+        "description": "\u63a5\u53e3\u81ea\u52a8\u5316\u6d4b\u8bd5\u5e73\u53f0",
+        "languages": {
+            "PLpgSQL": 393682,
+            "Vue": 366210,
+            "Java": 340502,
+            "CSS": 191120,
+            "JavaScript": 98104,
+            "SCSS": 21468,
+            "FreeMarker": 7697,
+            "EJS": 3814,
+            "HTML": 2594
         }
     }
 ]

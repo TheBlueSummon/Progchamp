@@ -42,5 +42,1180 @@
         "languages": {
             "Parrot": 440
         }
+    },
+    {
+        "name": "winxed",
+        "description": "The winxed programming language",
+        "languages": {
+            "Parrot": 640791,
+            "C++": 189331,
+            "Perl": 45239,
+            "JavaScript": 6868,
+            "Perl 6": 194
+        }
+    },
+    {
+        "name": "pipp",
+        "description": "Pipp is Parrot's PHP",
+        "languages": {
+            "Parrot": 662396,
+            "Perl": 193632,
+            "XSLT": 35961,
+            "C": 8389,
+            "PHP": 1799,
+            "C++": 482
+        }
+    },
+    {
+        "name": "HATK",
+        "description": "A collection of modules to process and analyze IMGT-HLA sequences.",
+        "languages": {
+            "Parrot": 43244547,
+            "Python": 457528,
+            "R": 33009
+        }
+    },
+    {
+        "name": "partcl",
+        "description": "Tcl on parrot",
+        "languages": {
+            "Parrot": 316554,
+            "Tcl": 229251,
+            "Perl": 93831,
+            "Turing": 43423,
+            "C": 15443
+        }
+    },
+    {
+        "name": "lisp",
+        "description": "A Common Lisp compiler for the Parrot Virtual Machine",
+        "languages": {
+            "Parrot": 110343,
+            "Perl": 20534
+        }
+    },
+    {
+        "name": "parrot-libgit2",
+        "description": "Parrot Virtual Machine bindings to libgit2",
+        "languages": {
+            "Parrot": 56082,
+            "Perl": 19542,
+            "C": 5434,
+            "Shell": 778
+        }
+    },
+    {
+        "name": "forth",
+        "description": "A Forth compiler for the Parrot Virtual Machine",
+        "languages": {
+            "Parrot": 22050,
+            "Perl": 996
+        }
+    },
+    {
+        "name": "kea",
+        "description": "Kea: Factor on the Parrot Virtual Machine",
+        "languages": {
+            "Parrot": 19629,
+            "Perl": 5248
+        }
+    },
+    {
+        "name": "primitivearc",
+        "description": "A subset of Arc implemented in PIR targeting the Parrot virtual machine",
+        "languages": {
+            "Parrot": 68310,
+            "Perl": 25264,
+            "Arc": 24228,
+            "Shell": 686
+        }
+    },
+    {
+        "name": "pso-resilience",
+        "description": "Enhanced modification project for Phantasy Star Online on Nintendo Gamecube",
+        "languages": {
+            "Parrot": 1056864,
+            "Python": 9805
+        }
+    },
+    {
+        "name": "fun",
+        "description": "A joy compiler hosted on the Parrot Virtual Machine",
+        "languages": {
+            "Parrot": 99387,
+            "Perl": 3322,
+            "Standard ML": 430
+        }
+    },
+    {
+        "name": "gamebase",
+        "description": "A Perl 6 based 2D game engine <outdated>",
+        "languages": {
+            "Parrot": 21791,
+            "Perl": 17610
+        }
+    },
+    {
+        "name": "matrixy",
+        "description": "M Language Compiler for Parrot",
+        "languages": {
+            "Parrot": 76287,
+            "Perl": 59519,
+            "MATLAB": 6369,
+            "M": 3706,
+            "Perl 6": 1984,
+            "Shell": 256,
+            "Objective-C": 175
+        }
+    },
+    {
+        "name": "IPDKIR",
+        "description": "Github for files currently published in the IPD-KIR FTP Directory hosted at the European Bioinformatics Institute ",
+        "languages": {
+            "Parrot": 26953018
+        }
+    },
+    {
+        "name": "app-parrot-create",
+        "description": "A web app to ease the creation of languages and libraries on top of Parrot Virtual Machine",
+        "languages": {
+            "Parrot": 50013,
+            "Perl": 38242,
+            "CSS": 1461
+        }
+    },
+    {
+        "name": "ohm-eta-wink-kzd",
+        "description": "OMeta for Winxed",
+        "languages": {
+            "Parrot": 394517,
+            "Perl": 5789,
+            "JavaScript": 4404
+        }
+    },
+    {
+        "name": "unlambda",
+        "description": "An implementation of unlambda on top of Parrot",
+        "languages": {
+            "Parrot": 9655,
+            "Perl": 792
+        }
+    },
+    {
+        "name": "gil",
+        "description": "Generic Imperative Language - demo language for parrot",
+        "languages": {
+            "Parrot": 4260,
+            "Perl": 2506
+        }
+    },
+    {
+        "name": "tcren-ms",
+        "description": "\ud83d\udcdd [Paper] TCRen: predicting TCR-peptide recognition based on residue-level pairwise statistical potential",
+        "languages": {
+            "Parrot": 57840,
+            "R": 5403
+        }
+    },
+    {
+        "name": "pheme",
+        "description": "Scheme compiler for the Parrot Virtual Machine",
+        "languages": {
+            "Parrot": 15431,
+            "Perl": 4706,
+            "GAP": 649
+        }
+    },
+    {
+        "name": "nqptap",
+        "description": "nqpTAP - TAP (Test Anything Protocol) Harness for NQP (NotQuitePerl)",
+        "languages": {
+            "Parrot": 17678,
+            "Perl 6": 8564,
+            "Perl": 5007
+        }
+    },
+    {
+        "name": "lua-batteries",
+        "description": "Libraries for Lua on Parrot",
+        "languages": {
+            "Parrot": 111056,
+            "Perl": 24164,
+            "Lua": 6929
+        }
+    },
+    {
+        "name": "parrot-gmp",
+        "description": "GMP bindings for Parrot",
+        "languages": {
+            "Parrot": 180628,
+            "Perl": 103046,
+            "C": 292
+        }
+    },
+    {
+        "name": "parrot-libjit-fb",
+        "description": "Parrot plug-in library to dynamically build Native Call Interface call-out thunks based on LibJIT",
+        "languages": {
+            "Parrot": 20212,
+            "Perl": 821
+        }
+    },
+    {
+        "name": "m4",
+        "description": "An implementation of GNU m4 on top of Parrot",
+        "languages": {
+            "Parrot": 51693,
+            "Perl": 41112
+        }
+    },
+    {
+        "name": "parrot-data-structures",
+        "description": "Implementations of some important data structures on the Parrot VM, with a focus on memory efficiency and performance",
+        "languages": {
+            "Parrot": 21892,
+            "Perl 6": 7826,
+            "Perl": 6957,
+            "Shell": 253
+        }
+    },
+    {
+        "name": "xml",
+        "description": "XML on Parrot",
+        "languages": {
+            "Parrot": 11826,
+            "Perl": 11601,
+            "Perl 6": 10975
+        }
+    },
+    {
+        "name": "GSL",
+        "description": "The GNU Scientific Library for Parrot VM",
+        "languages": {
+            "Parrot": 46089,
+            "Perl": 16274
+        }
+    },
+    {
+        "name": "lazy-k",
+        "description": "An implementation of lazy-k on top of Parrot",
+        "languages": {
+            "Parrot": 12081,
+            "Perl": 1174
+        }
+    },
+    {
+        "name": "Modeller-Ubuntu",
+        "description": "This is a repository of Modeller automation(Linux version), which will help us to develop exclusive codes for Bioinformatics. We are curious Computer Science people, who are exploring Bioinformatics, This project is also a part of that voyage.",
+        "languages": {
+            "Parrot": 53127238,
+            "Python": 35987,
+            "Shell": 1814
+        }
+    },
+    {
+        "name": "parrotSDL",
+        "description": "A naive attempt at bringing SDL to parrot",
+        "languages": {
+            "Parrot": 266368,
+            "Perl 6": 17576,
+            "Perl": 2940
+        }
+    },
+    {
+        "name": "poker_learn",
+        "description": null,
+        "languages": {
+            "Parrot": 3093541,
+            "Max": 2063113,
+            "Squirrel": 1844174,
+            "Awk": 1738495,
+            "Jupyter Notebook": 1428032,
+            "HTML": 1203258,
+            "Racket": 1187566,
+            "Arc": 1145915,
+            "JavaScript": 966627,
+            "PogoScript": 875786,
+            "Red": 834397,
+            "Pike": 701373,
+            "Shell": 684042,
+            "Kotlin": 654456,
+            "DM": 553193,
+            "COBOL": 488858,
+            "Kit": 444083,
+            "AspectJ": 434343,
+            "Swift": 416508,
+            "Yacc": 337389,
+            "Mathematica": 332080,
+            "CSS": 172635,
+            "LOLCODE": 167659,
+            "HLSL": 158838,
+            "C++": 153307,
+            "Pan": 150242,
+            "GAP": 149339,
+            "Makefile": 133926,
+            "Ruby": 131246,
+            "Slash": 130592,
+            "Nim": 130247,
+            "Tcl": 128957,
+            "FLUX": 104275,
+            "Click": 103677,
+            "Brainfuck": 98597,
+            "Julia": 98497,
+            "Dylan": 98254,
+            "Perl": 82477,
+            "Jasmin": 79072,
+            "R": 76410,
+            "Opal": 73876,
+            "Mask": 72817,
+            "Slice": 58804,
+            "Uno": 54954,
+            "Lex": 47910,
+            "Moocode": 44434,
+            "Monkey": 41740,
+            "Eiffel": 29847,
+            "Roff": 24503,
+            "Oz": 24059,
+            "Logos": 23838,
+            "Mako": 23639,
+            "Scala": 21699,
+            "Common Lisp": 20280,
+            "Java": 19833,
+            "Stan": 18687,
+            "Gnuplot": 17636,
+            "Ox": 17424,
+            "Io": 16358,
+            "Stata": 15882,
+            "Modula-3": 15852,
+            "M": 15009,
+            "Python": 13350,
+            "AGS Script": 11632,
+            "eC": 11348,
+            "MoonScript": 11245,
+            "PHP": 9613,
+            "LLVM": 9562,
+            "TypeScript": 9064,
+            "Rebol": 9036,
+            "Perl 6": 8915,
+            "Ada": 8230,
+            "C": 7588,
+            "Clojure": 5706,
+            "Metal": 4586,
+            "Terra": 4237,
+            "CoffeeScript": 3956,
+            "Forth": 3813,
+            "BlitzBasic": 3698,
+            "Genshi": 3465,
+            "BitBake": 2856,
+            "GLSL": 2468,
+            "Grammatical Framework": 2195,
+            "Groovy": 1929,
+            "OpenEdge ABL": 1871,
+            "TeX": 1793,
+            "Go": 1501,
+            "Coq": 1093,
+            "Visual Basic": 685,
+            "Mercury": 617,
+            "LiveScript": 564,
+            "D": 413,
+            "Isabelle": 413,
+            "PureBasic": 408,
+            "Crystal": 277,
+            "Smalltalk": 277,
+            "E": 272,
+            "Elixir": 272,
+            "Scheme": 214,
+            "q": 73,
+            "Boo": 69,
+            "Emacs Lisp": 68,
+            "MATLAB": 68,
+            "Pascal": 68
+        }
+    },
+    {
+        "name": "ecmascript",
+        "description": "An ECMAScript (JavaScript) compiler for the Parrot Virtual Machine",
+        "languages": {
+            "Parrot": 46227,
+            "Perl": 33105
+        }
+    },
+    {
+        "name": "tcl-bridge",
+        "description": "Tcl/Tk connection library for parrot",
+        "languages": {
+            "Parrot": 30746,
+            "Perl": 2174
+        }
+    },
+    {
+        "name": "Modeller",
+        "description": "Modeller Tutorial using Jupyter Notebook",
+        "languages": {
+            "Parrot": 5063163,
+            "Jupyter Notebook": 1366291,
+            "KiCad Layout": 3443
+        }
+    },
+    {
+        "name": "LaboratoryOfBioinformatics_Homology-Modelling",
+        "description": "Projects on Comparative Modelling of the LabOfBioinformatics course",
+        "languages": {
+            "Parrot": 1127
+        }
+    },
+    {
+        "name": "HomologyModeling_Sars-Cov2_Spike_Mutant-E484K",
+        "description": null,
+        "languages": {
+            "Parrot": 5063163,
+            "Python": 23813
+        }
+    },
+    {
+        "name": "Discover-NCOV19",
+        "description": "Drug discovery toolkit proposal for Covid19",
+        "languages": {
+            "Parrot": 10565
+        }
+    },
+    {
+        "name": "PopGen",
+        "description": "Repo of population genetic models and other evolutionary/ eco-evolutionary models and code",
+        "languages": {
+            "Parrot": 5063163,
+            "Jupyter Notebook": 385214,
+            "Python": 325657,
+            "R": 48260,
+            "C": 36169,
+            "C++": 5765,
+            "Scheme": 3443,
+            "HTML": 1182,
+            "Shell": 691,
+            "TeX": 613
+        }
+    },
+    {
+        "name": "demo",
+        "description": null,
+        "languages": {
+            "Parrot": 507997,
+            "Vim Script": 6429,
+            "Emacs Lisp": 6035,
+            "R": 2878
+        }
+    },
+    {
+        "name": "modeller",
+        "description": "Homology Modelling",
+        "languages": {
+            "Parrot": 5063163,
+            "Python": 5210
+        }
+    },
+    {
+        "name": "autoModeller",
+        "description": "autoMod is a wrapper for all steps in homology modeling using modeller and their \"ready to use\" files",
+        "languages": {
+            "Parrot": 5065864,
+            "Python": 9123
+        }
+    },
+    {
+        "name": "transcripomics",
+        "description": null,
+        "languages": {
+            "Parrot": 5063163,
+            "Jupyter Notebook": 886140,
+            "Python": 57426,
+            "Rez": 11
+        }
+    },
+    {
+        "name": "parrot-MT19937",
+        "description": "Mersenne Twisted pseudorandom number generator in PIR for Parrot VM",
+        "languages": {
+            "Parrot": 8768,
+            "Perl": 2474
+        }
+    },
+    {
+        "name": "Essential_oil_Screening",
+        "description": null,
+        "languages": {
+            "Parrot": 35442141,
+            "Jupyter Notebook": 7620974,
+            "HTML": 4680074,
+            "Makefile": 1157047,
+            "Python": 52041,
+            "Shell": 176
+        }
+    },
+    {
+        "name": "L2-Transport-DAO",
+        "description": "Tracking Assets securely, transparently and cost effectively using Web3 eco-system tools",
+        "languages": {
+            "Parrot": 15434212,
+            "JavaScript": 6087775,
+            "CSS": 1402864,
+            "TypeScript": 1362788,
+            "Haskell": 1051121,
+            "HTML": 353938,
+            "Python": 264536,
+            "Rust": 263571,
+            "Perl": 174262,
+            "Solidity": 127285,
+            "SCSS": 29565,
+            "Sway": 19695,
+            "Shell": 17589,
+            "C++": 10503,
+            "Dockerfile": 4658,
+            "Lex": 2143,
+            "Nix": 1564,
+            "Yacc": 1453,
+            "Less": 875,
+            "Makefile": 368
+        }
+    },
+    {
+        "name": "jlafp2",
+        "description": null,
+        "languages": {
+            "Parrot": 5063163,
+            "JavaScript": 199191,
+            "Cuda": 114044,
+            "C++": 75527,
+            "HTML": 65007,
+            "Python": 56536,
+            "Makefile": 5201,
+            "CSS": 1033
+        }
+    },
+    {
+        "name": "projects",
+        "description": null,
+        "languages": {
+            "Parrot": 5063163,
+            "Python": 365794,
+            "Objective-C": 25775,
+            "MATLAB": 11154,
+            "C": 2449
+        }
+    },
+    {
+        "name": "Hookworm-Drug-Discovery",
+        "description": "Novel inhibitors against Hookworm infection and a PCM predictive model",
+        "languages": {
+            "Parrot": 5063163,
+            "Python": 4561,
+            "Scheme": 3457,
+            "Shell": 196
+        }
+    },
+    {
+        "name": "emergenet",
+        "description": "Modeling emergence of viral strains and predicting future mutations",
+        "languages": {
+            "Parrot": 59696742,
+            "Jupyter Notebook": 26373416,
+            "TeX": 2052195,
+            "Python": 325157,
+            "Promela": 51731,
+            "Shell": 17059,
+            "RouterOS Script": 822
+        }
+    },
+    {
+        "name": "dot",
+        "description": "The DOT language",
+        "languages": {
+            "Parrot": 134256,
+            "Perl": 8545
+        }
+    },
+    {
+        "name": "imp_biological_systems",
+        "description": "A repository for scripts and data for applying IMP to biological systems.",
+        "languages": {}
+    },
+    {
+        "name": "gridos",
+        "description": "one world, one OS",
+        "languages": {
+            "Parrot": 53679,
+            "Makefile": 3483
+        }
+    },
+    {
+        "name": "ook",
+        "description": "An Ook compiler for the Parrot Virtual Machine",
+        "languages": {
+            "Parrot": 3583,
+            "Perl": 2827
+        }
+    },
+    {
+        "name": "blu",
+        "description": "A shell targeting the Parrot VM.",
+        "languages": {
+            "Parrot": 336943,
+            "Perl": 15218,
+            "C": 8782
+        }
+    },
+    {
+        "name": "PirModels",
+        "description": null,
+        "languages": {
+            "Parrot": 187146
+        }
+    },
+    {
+        "name": "Virtual-Screening",
+        "description": " It performs virtual screening against the active site of a protein using Ligands.txt file in SDF format (3D) and lists the top 30 best binding drugs. It also generates a distribution plot of the binding energies for all drug molecules.",
+        "languages": {
+            "Parrot": 6978,
+            "Python": 5454,
+            "Perl": 429
+        }
+    },
+    {
+        "name": "BIOS_Modelling",
+        "description": null,
+        "languages": {
+            "Parrot": 1479,
+            "Python": 800
+        }
+    },
+    {
+        "name": "My_programming_question_list",
+        "description": " \ud83c\udfc8 A *curated* list for my daily wonders about programming. Post in issues, categorize in repo.",
+        "languages": {
+            "Parrot": 240
+        }
+    },
+    {
+        "name": "Practical-modelling",
+        "description": "Generate the 3D structure of the \u03b1-amylase protein",
+        "languages": {
+            "Parrot": 1335,
+            "Python": 544
+        }
+    },
+    {
+        "name": "BIO213",
+        "description": null,
+        "languages": {
+            "Parrot": 5063163,
+            "Python": 9034
+        }
+    },
+    {
+        "name": "CGRA",
+        "description": "Course Grained Reconfigurable Architecture based application performing a Gaussian blur operation on an image. ",
+        "languages": {
+            "Parrot": 59620,
+            "Makefile": 280
+        }
+    },
+    {
+        "name": "FABbuild",
+        "description": "Building the 3D FAB (antibody) PDB form amino sequence",
+        "languages": {
+            "Parrot": 5063163,
+            "C++": 182026,
+            "Python": 9464,
+            "Shell": 664
+        }
+    },
+    {
+        "name": "ste-cmgs",
+        "description": null,
+        "languages": {
+            "Parrot": 727120,
+            "Jupyter Notebook": 232266,
+            "Perl": 21683,
+            "Batchfile": 21444,
+            "Shell": 3261
+        }
+    },
+    {
+        "name": "polyphonic",
+        "description": "Treasure maps",
+        "languages": {
+            "Parrot": 11861
+        }
+    },
+    {
+        "name": "gblocks_analogue",
+        "description": null,
+        "languages": {
+            "Parrot": 35059,
+            "Python": 12858
+        }
+    },
+    {
+        "name": "Sprawozdanie4_Modeller",
+        "description": null,
+        "languages": {
+            "Parrot": 4726,
+            "Python": 643
+        }
+    },
+    {
+        "name": "De-Transport-Monitor",
+        "description": "Effective design, engineering and delivery of blockchain technology aided game solution for vehicles and citizens to make roads safer and better for everyone using gamification, predictive analytics and automation.",
+        "languages": {
+            "Parrot": 6881134,
+            "Go": 6247521,
+            "JavaScript": 3916466,
+            "HTML": 3056668,
+            "TypeScript": 2354078,
+            "Solidity": 1232375,
+            "Perl": 688544,
+            "Haskell": 400147,
+            "C": 178991,
+            "Rust": 149204,
+            "Vue": 71715,
+            "CSS": 53204,
+            "PLpgSQL": 31786,
+            "Makefile": 23556,
+            "C#": 18075,
+            "Assembly": 17908,
+            "Shell": 11649,
+            "Python": 10214,
+            "Dockerfile": 4301,
+            "Nix": 867,
+            "Procfile": 18
+        }
+    },
+    {
+        "name": "BioMolecularModelBuilding",
+        "description": "Exam assignment",
+        "languages": {
+            "Parrot": 5146783,
+            "TeX": 14559,
+            "Eagle": 3443,
+            "Python": 3041
+        }
+    },
+    {
+        "name": "PyProt",
+        "description": "Automation scripts for ligand docking",
+        "languages": {
+            "Parrot": 99586,
+            "Python": 26974
+        }
+    },
+    {
+        "name": "psoQuests",
+        "description": "pasm files for qedit",
+        "languages": {
+            "Parrot": 10244
+        }
+    },
+    {
+        "name": "CGRA_2019",
+        "description": null,
+        "languages": {
+            "Parrot": 43092
+        }
+    },
+    {
+        "name": "multifit_groel",
+        "description": "Modeling of the bacterial molecular chaperone GroEL using 3D EM data and cnmultifit",
+        "languages": {
+            "Parrot": 25198009,
+            "Python": 48105,
+            "Batchfile": 372
+        }
+    },
+    {
+        "name": "fraganalysis",
+        "description": "set of scripts to analyse fragmentation in activity data",
+        "languages": {
+            "Parrot": 92791,
+            "Python": 920,
+            "Shell": 544
+        }
+    },
+    {
+        "name": "choco",
+        "description": "blueberry script cloudLibrary ",
+        "languages": {
+            "Parrot": 134256,
+            "Raku": 8473
+        }
+    },
+    {
+        "name": "TAS2R_data",
+        "description": "Code and data for the TAS2R paper",
+        "languages": {
+            "Parrot": 120091,
+            "Jupyter Notebook": 19083,
+            "Python": 1941
+        }
+    },
+    {
+        "name": "Electronic_Clock",
+        "description": null,
+        "languages": {
+            "Parrot": 91484,
+            "C": 17073,
+            "Assembly": 6178,
+            "HTML": 1329
+        }
+    },
+    {
+        "name": "Java-Javap",
+        "description": "Read-only release history for Java-Javap",
+        "languages": {
+            "Parrot": 2774082,
+            "Perl": 514712,
+            "Perl 6": 456850,
+            "Java": 2298
+        }
+    },
+    {
+        "name": "digest-dynpmcs",
+        "description": "Set of message-digest dynpmcs for the Parrot VM",
+        "languages": {
+            "Parrot": 7964
+        }
+    },
+    {
+        "name": "asses3",
+        "description": null,
+        "languages": {
+            "Parrot": 8938
+        }
+    },
+    {
+        "name": "bashrc",
+        "description": "Liste de mod\u00e8les bashrc : Formatage et coloration PS1, historique, et aliases",
+        "languages": {
+            "Parrot": 5472,
+            "Shell": 4773
+        }
+    },
+    {
+        "name": "mod-lisation_proteine",
+        "description": null,
+        "languages": {
+            "Parrot": 5072056,
+            "JavaScript": 330387,
+            "HTML": 316250,
+            "Scheme": 14510,
+            "Python": 10807
+        }
+    },
+    {
+        "name": "go-app-parrot-create",
+        "description": "A web app to ease the creation of languages and libraries on top of Parrot Virtual Machine with Go language",
+        "languages": {
+            "Parrot": 47867,
+            "Go": 18332,
+            "HTML": 12657,
+            "CSS": 1461
+        }
+    },
+    {
+        "name": "student1",
+        "description": null,
+        "languages": {
+            "Parrot": 32021,
+            "TypeScript": 17829,
+            "Python": 17405,
+            "JavaScript": 10988,
+            "HTML": 5154,
+            "CSS": 646
+        }
+    },
+    {
+        "name": "bf",
+        "description": "A compiler for the BF language for the Parrot Virtual Machine",
+        "languages": {
+            "Parrot": 13775,
+            "Perl": 467
+        }
+    },
+    {
+        "name": "parrot-test",
+        "description": "Just for testing parrot vm pir language",
+        "languages": {
+            "Parrot": 932
+        }
+    },
+    {
+        "name": "phd",
+        "description": null,
+        "languages": {
+            "Parrot": 24481296,
+            "HTML": 13794412,
+            "TeX": 1451511,
+            "Perl": 37843,
+            "F*": 8114,
+            "R": 341
+        }
+    },
+    {
+        "name": "dagmsa",
+        "description": "DAGMSA: Direct Acyclic Graph-based Multiple Sequence Alignments (MSA) for Protein Multimer Structure Prediction",
+        "languages": {
+            "Parrot": 252854,
+            "Python": 8088,
+            "Shell": 3783
+        }
+    },
+    {
+        "name": "HomologyAndPhylogenetic",
+        "description": null,
+        "languages": {
+            "Parrot": 38013,
+            "Python": 29057,
+            "Batchfile": 320
+        }
+    },
+    {
+        "name": "Projectgit",
+        "description": null,
+        "languages": {
+            "Parrot": 130241,
+            "R": 11132
+        }
+    },
+    {
+        "name": "smart.pir",
+        "description": "Build it smartly (with Parrot)",
+        "languages": {
+            "Parrot": 125365,
+            "Perl": 75494,
+            "C++": 858
+        }
+    },
+    {
+        "name": "CPA-AT-superfamily",
+        "description": "CPA/AT superfamily/",
+        "languages": {
+            "Parrot": 10247
+        }
+    },
+    {
+        "name": "MacroFlexEngine",
+        "description": "MacroFlexEngine is a python application that allows the construction of protein and dna macrocomplexes from pdb information of the dimers that form this complex. Furthermore if a pir file of the whole complex is inputed it will detect which parts of the complex are given and which are missing and complete the missing parts using modeller.",
+        "languages": {
+            "Parrot": 10126708,
+            "Jupyter Notebook": 206823,
+            "Python": 200143,
+            "Perl": 4920,
+            "Shell": 290
+        }
+    },
+    {
+        "name": "CADD_Assignment1",
+        "description": null,
+        "languages": {
+            "Parrot": 5063163,
+            "Python": 5200
+        }
+    },
+    {
+        "name": "Comparative-Protein-Modelling",
+        "description": "Comparative Protein Modelling  is a BIO INFORMATICS project for modelling of protein sequences, a datascience-machine learning related class  This is my class project for Comparative Protein Modelling using Modeller 9.17  Every detail  was clearly explained as in the presentation, it includes all the steps necessary for execution and working of the protein modelling",
+        "languages": {
+            "Parrot": 1407658786,
+            "HTML": 239142,
+            "Python": 85472,
+            "KiCad Layout": 78939,
+            "CSS": 9364
+        }
+    },
+    {
+        "name": "Protein-Modeling-of-ponA-geneac",
+        "description": "Protein-Modeling-of-ponA-geneac",
+        "languages": {
+            "Parrot": 5063163,
+            "Python": 5178,
+            "KiCad Layout": 3443
+        }
+    },
+    {
+        "name": "TranscriptPhylogenies",
+        "description": "Inferring Transcript Phylogenies from Transcript Ortholog Clusters",
+        "languages": {
+            "Parrot": 87034,
+            "Python": 56801,
+            "Shell": 200
+        }
+    },
+    {
+        "name": "gpcr-comparative-analysis",
+        "description": "Repository containing information about GPCR-partner comparative analysis and modelling.",
+        "languages": {
+            "Parrot": 5063163,
+            "HTML": 1625669,
+            "Python": 4427,
+            "R": 4204,
+            "Scheme": 3443
+        }
+    },
+    {
+        "name": "2018---2019-Equipe-8",
+        "description": null,
+        "languages": {
+            "Parrot": 50431,
+            "Python": 36920,
+            "TeX": 7574,
+            "Perl": 129,
+            "Makefile": 77
+        }
+    },
+    {
+        "name": "matrixy",
+        "description": "Automatically exported from code.google.com/p/matrixy",
+        "languages": {
+            "Parrot": 76191,
+            "Perl 6": 50215,
+            "MATLAB": 8089,
+            "Perl": 5513,
+            "M": 932,
+            "Diff": 496,
+            "Shell": 256
+        }
+    },
+    {
+        "name": "ocarrot",
+        "description": null,
+        "languages": {
+            "Parrot": 25736,
+            "Perl 6": 22474,
+            "Perl": 5703,
+            "C": 523
+        }
+    },
+    {
+        "name": "P2XR-modelling",
+        "description": "A series of scripts and input files for generating P2XR homology models",
+        "languages": {
+            "Parrot": 2320,
+            "Python": 2142
+        }
+    },
+    {
+        "name": "ASBMA_course",
+        "description": null,
+        "languages": {
+            "Parrot": 1414
+        }
+    },
+    {
+        "name": "mscbioinfo",
+        "description": null,
+        "languages": {
+            "Parrot": 5063163,
+            "Python": 23677,
+            "PHP": 18206,
+            "HTML": 6979,
+            "Scheme": 6886,
+            "CSS": 5968,
+            "JavaScript": 1062
+        }
+    },
+    {
+        "name": "zerepoch",
+        "description": null,
+        "languages": {
+            "Parrot": 5659774,
+            "HTML": 4849807,
+            "Haskell": 4758073,
+            "Nix": 2435228,
+            "PureScript": 1733317,
+            "TeX": 1276724,
+            "Agda": 583297,
+            "JavaScript": 102274,
+            "CSS": 45020,
+            "HCL": 43931,
+            "Smarty": 43091,
+            "R": 36850,
+            "SCSS": 35756,
+            "Dhall": 32987,
+            "Nunjucks": 22381,
+            "TypeScript": 18900,
+            "Shell": 16570,
+            "Nearley": 16500,
+            "PLpgSQL": 13540,
+            "Yacc": 12328,
+            "Lex": 12126,
+            "Makefile": 6153,
+            "RAML": 4428,
+            "Perl": 381
+        }
+    },
+    {
+        "name": "biotech-6",
+        "description": null,
+        "languages": {
+            "Parrot": 295
+        }
+    },
+    {
+        "name": "PmOmpH-Modeller",
+        "description": "Modeller workflow for modelling the OmpH protein in Pasteurella multocida",
+        "languages": {
+            "Parrot": 66003708,
+            "Python": 5206
+        }
+    },
+    {
+        "name": "RemoteControl_Password_Lock",
+        "description": null,
+        "languages": {
+            "Parrot": 91069,
+            "C": 12516,
+            "Assembly": 6178,
+            "HTML": 1164
+        }
+    },
+    {
+        "name": "2024antibody",
+        "description": "for md class",
+        "languages": {
+            "Parrot": 5063163,
+            "Python": 14558,
+            "Shell": 664
+        }
+    },
+    {
+        "name": "pippin",
+        "description": "Assembly computer.",
+        "languages": {
+            "Parrot": 4880
+        }
+    },
+    {
+        "name": "genfile",
+        "description": "Getting rid of Configure.pl in Parrot",
+        "languages": {
+            "Parrot": 4562,
+            "Perl": 594
+        }
+    },
+    {
+        "name": "IPD-IMGT-HLA-Database",
+        "description": null,
+        "languages": {
+            "Parrot": 7322058
+        }
+    },
+    {
+        "name": "Modellar10.4",
+        "description": null,
+        "languages": {
+            "Parrot": 5063163,
+            "Python": 1518098,
+            "C": 166942,
+            "SWIG": 68079,
+            "Batchfile": 554
+        }
     }
 ]
