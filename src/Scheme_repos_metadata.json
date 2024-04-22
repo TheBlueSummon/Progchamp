@@ -3,7 +3,7 @@
         "name": "nvim-treesitter",
         "description": "Nvim Treesitter configurations and abstraction layer",
         "languages": {
-            "Scheme": 943277,
+            "Scheme": 943412,
             "Lua": 304587,
             "Cap'n Proto": 50502,
             "Gleam": 10038,
@@ -106,6 +106,2101 @@
             "Makefile": 2657,
             "NewLisp": 2630,
             "Shell": 352
+        }
+    },
+    {
+        "name": "lambdanative",
+        "description": "LambdaNative is a cross-platform development environment written in Scheme, supporting Android, iOS, BlackBerry 10, OS X, Linux, Windows, OpenBSD, NetBSD, FreeBSD and OpenWrt.",
+        "languages": {
+            "Scheme": 4277288,
+            "C": 394755,
+            "Shell": 297529,
+            "Objective-C": 126991,
+            "Java": 102798,
+            "Objective-C++": 36395,
+            "C++": 5251,
+            "Common Lisp": 2045,
+            "Makefile": 508,
+            "CSS": 93
+        }
+    },
+    {
+        "name": "schism",
+        "description": "A self-hosting Scheme to WebAssembly compiler",
+        "languages": {
+            "Scheme": 197045,
+            "JavaScript": 25716,
+            "Shell": 4412,
+            "HTML": 438
+        }
+    },
+    {
+        "name": "gambit",
+        "description": "Gambit is an efficient implementation of the Scheme programming language.",
+        "languages": {
+            "Scheme": 13052545,
+            "C": 1667171,
+            "Shell": 177221,
+            "Objective-C": 146046,
+            "M4": 140869,
+            "JavaScript": 133065,
+            "Batchfile": 119434,
+            "C++": 75174,
+            "TeX": 69323,
+            "Makefile": 25911,
+            "Emacs Lisp": 25114,
+            "sed": 17444,
+            "CSS": 11094,
+            "NSIS": 10202,
+            "HTML": 8670,
+            "Smalltalk": 6635,
+            "Awk": 4335,
+            "Java": 897,
+            "Python": 553,
+            "Dockerfile": 277
+        }
+    },
+    {
+        "name": "sicp",
+        "description": "\ud83d\udcd6 SICP \u8bfb\u4e66\u7b14\u8bb0\uff0c\u4e60\u9898\u89e3\u7b54",
+        "languages": {
+            "Scheme": 233054,
+            "GCC Machine Description": 1013
+        }
+    },
+    {
+        "name": "harlan",
+        "description": "A language for GPU computing.",
+        "languages": {
+            "Scheme": 316538,
+            "C++": 37609,
+            "Python": 5338,
+            "Shell": 5291,
+            "Makefile": 4915,
+            "C": 3727,
+            "Haskell": 3435,
+            "Emacs Lisp": 922,
+            "Ruby": 253
+        }
+    },
+    {
+        "name": "chibi-scheme",
+        "description": "Official chibi-scheme repository",
+        "languages": {
+            "Scheme": 4167909,
+            "C": 876224,
+            "Makefile": 32900,
+            "CMake": 19143,
+            "Shell": 9291,
+            "Emacs Lisp": 9039,
+            "HTML": 3054,
+            "Perl": 1552,
+            "ReScript": 295,
+            "JavaScript": 245
+        }
+    },
+    {
+        "name": "eopl3",
+        "description": "Code from the book \"Essentials of Programming Languages\", 3rd ed. by Friedman and Wand",
+        "languages": {
+            "Scheme": 1172681,
+            "Racket": 3987,
+            "HTML": 3494
+        }
+    },
+    {
+        "name": "gerbil",
+        "description": "Gerbil Scheme",
+        "languages": {
+            "Scheme": 4853016,
+            "TeX": 33315,
+            "Common Lisp": 27436,
+            "Emacs Lisp": 19086,
+            "Shell": 14777,
+            "C": 9919,
+            "Makefile": 7446,
+            "Ruby": 2303,
+            "Dockerfile": 1808,
+            "HTML": 88
+        }
+    },
+    {
+        "name": "Barliman",
+        "description": "Prototype smart text editor",
+        "languages": {
+            "Scheme": 825994,
+            "Swift": 73350,
+            "HTML": 4882,
+            "Racket": 3637,
+            "Shell": 580
+        }
+    },
+    {
+        "name": "inc",
+        "description": "an incremental approach to compiler construction",
+        "languages": {
+            "Scheme": 157349,
+            "Rust": 13718,
+            "C": 12701,
+            "Makefile": 1305,
+            "Dockerfile": 539,
+            "Shell": 169,
+            "C++": 53
+        }
+    },
+    {
+        "name": "SICP-answers",
+        "description": "\u6211\u7684 SICP \u89e3\u9898\u96c6",
+        "languages": {
+            "Scheme": 380534,
+            "Perl": 34168,
+            "Python": 7795,
+            "Ruby": 5128,
+            "Shell": 5092
+        }
+    },
+    {
+        "name": "cyclone",
+        "description": ":cyclone: A brand-new compiler that allows practical application development using R7RS Scheme. We provide modern features and a stable system capable of generating fast native binaries.",
+        "languages": {
+            "Scheme": 2825759,
+            "C": 1878607,
+            "Makefile": 14353,
+            "Shell": 5567,
+            "Dockerfile": 403
+        }
+    },
+    {
+        "name": "Gauche",
+        "description": "Scheme Scripting Engine",
+        "languages": {
+            "Scheme": 9140825,
+            "C": 4947636,
+            "Shell": 765972,
+            "M4": 150074,
+            "Makefile": 97420,
+            "C++": 95064,
+            "CMake": 31758,
+            "Roff": 5849,
+            "CSS": 3596,
+            "Assembly": 3083,
+            "Emacs Lisp": 1917
+        }
+    },
+    {
+        "name": "spatial",
+        "description": "Neo4j Spatial is a library of utilities for Neo4j that faciliates the enabling of spatial operations on data. In particular you can add spatial indexes to already located data, and perform spatial operations on the data like searching for data within specified regions or within a specified distance of a point of interest. In addition classes are provided to expose the data to geotools and thereby to geotools enabled applications like geoserver and uDig.",
+        "languages": {
+            "Scheme": 1268913,
+            "Java": 1229449,
+            "Ruby": 16148,
+            "Shell": 3509,
+            "Python": 2526,
+            "HTML": 2303,
+            "Makefile": 448
+        }
+    },
+    {
+        "name": "the-little-schemer",
+        "description": "All the Scheme code examples from the book \"The Little Schemer\"",
+        "languages": {
+            "Scheme": 88485
+        }
+    },
+    {
+        "name": ".dotfiles",
+        "description": ":fireworks: Arch Linux with i3 / nvim / tmux / urxvt / zsh / ...",
+        "languages": {
+            "Scheme": 374407,
+            "Shell": 274328,
+            "Vim Script": 138369,
+            "Python": 22783,
+            "Lua": 21539,
+            "Vim Snippet": 8868
+        }
+    },
+    {
+        "name": "layer",
+        "description": "Neural network inference the Unix way",
+        "languages": {
+            "Scheme": 26573,
+            "Makefile": 772
+        }
+    },
+    {
+        "name": "nvim-gps",
+        "description": "Simple statusline component that shows what scope you are working inside",
+        "languages": {
+            "Scheme": 17027,
+            "Lua": 14149,
+            "Vim Script": 40
+        }
+    },
+    {
+        "name": "nanopass-framework-scheme",
+        "description": "The new nanopass framework; an embedded DSL for writing compilers in Scheme",
+        "languages": {
+            "Scheme": 555624,
+            "Shell": 4009
+        }
+    },
+    {
+        "name": "scheme-lib",
+        "description": "\u9e2d\u5e93 duck lib scheme for gui gles gl slib openal socket web mongodb box2d game glfw mysql libevent  libuv uv json http client  server android osx linux chezscheme scheme-lib ",
+        "languages": {
+            "Scheme": 6208896,
+            "C": 2342363,
+            "C++": 1004842,
+            "Makefile": 56419,
+            "NSIS": 21781,
+            "PostScript": 15140,
+            "Shell": 10266,
+            "M4": 4007,
+            "Python": 3621,
+            "JavaScript": 1647,
+            "Roff": 1275,
+            "HTML": 1195,
+            "Lex": 922,
+            "Batchfile": 269,
+            "CSS": 38
+        }
+    },
+    {
+        "name": "nvim-treesitter-textsubjects",
+        "description": "Location and syntax aware text objects which *do what you mean*",
+        "languages": {
+            "Scheme": 33923,
+            "Lua": 11393,
+            "Vim Script": 51
+        }
+    },
+    {
+        "name": "ribbit",
+        "description": "A small and portable Scheme implementation with AOT and incremental compilers that fits in 4K.  It supports closures, tail calls, first-class continuations and a REPL.",
+        "languages": {
+            "Scheme": 311359,
+            "Shell": 184639,
+            "C": 124629,
+            "OCaml": 103826,
+            "Idris": 87708,
+            "Scala": 87329,
+            "Haskell": 62174,
+            "Python": 54983,
+            "Lua": 49790,
+            "Assembly": 38874,
+            "Zig": 30159,
+            "Clojure": 20335,
+            "Prolog": 18244,
+            "Rust": 16740,
+            "Makefile": 14924,
+            "Common Lisp": 13527,
+            "JavaScript": 13502,
+            "Go": 10439,
+            "HTML": 3999,
+            "Java": 212,
+            "Ruby": 183,
+            "CMake": 105
+        }
+    },
+    {
+        "name": "j-bob",
+        "description": null,
+        "languages": {
+            "Scheme": 66148,
+            "Common Lisp": 66035
+        }
+    },
+    {
+        "name": "picrin",
+        "description": "lightweight scheme interpreter",
+        "languages": {
+            "Scheme": 1472468,
+            "C": 450238,
+            "TeX": 69332,
+            "Shell": 8470,
+            "Makefile": 7999,
+            "Perl": 2964,
+            "Emacs Lisp": 1452
+        }
+    },
+    {
+        "name": "Debian-titus",
+        "description": "Debian customizations from Chris Titus Tech",
+        "languages": {
+            "Scheme": 104622,
+            "Shell": 53072,
+            "CSS": 213
+        }
+    },
+    {
+        "name": "bintracker",
+        "description": "A hackable Chiptune Audio Workstation. https://bintracker.org",
+        "languages": {
+            "Scheme": 871437,
+            "Assembly": 78663,
+            "Makefile": 9424,
+            "Lua": 7847,
+            "HTML": 7736
+        }
+    },
+    {
+        "name": "scsh",
+        "description": "A Unix shell embedded in scheme",
+        "languages": {
+            "Scheme": 528544,
+            "C": 132130,
+            "Shell": 5311,
+            "Makefile": 4319,
+            "M4": 2248
+        }
+    },
+    {
+        "name": "pwnbox",
+        "description": "Instructions on how to create your very own Pwnbox, originally created by HTB",
+        "languages": {
+            "Scheme": 107115,
+            "Python": 75739,
+            "Shell": 11138,
+            "PowerShell": 513,
+            "Vim Script": 311
+        }
+    },
+    {
+        "name": "sicp",
+        "description": "Structure and Interpretation of Computer Programs study notes with exercise solutions",
+        "languages": {
+            "Scheme": 751291
+        }
+    },
+    {
+        "name": "swift-lispkit",
+        "description": "Interpreter framework for Lisp-based extension and scripting languages on macOS and iOS. LispKit is based on the R7RS standard for Scheme. Its compiler generates bytecode for a virtual machine. LispKit is fully implemented in Swift 5.",
+        "languages": {
+            "Scheme": 3033858,
+            "Swift": 1919081,
+            "Objective-C": 3255,
+            "Makefile": 791
+        }
+    },
+    {
+        "name": "IronScheme",
+        "description": "IronScheme",
+        "languages": {
+            "Scheme": 3391245,
+            "C#": 2381389,
+            "Yacc": 19845,
+            "SaltStack": 19421,
+            "Lex": 13405,
+            "Batchfile": 7183
+        }
+    },
+    {
+        "name": "eopl",
+        "description": "my solutions to EOPL3",
+        "languages": {
+            "Scheme": 3266215
+        }
+    },
+    {
+        "name": "miniKanren",
+        "description": "Canonical miniKanren implementation",
+        "languages": {
+            "Scheme": 74492
+        }
+    },
+    {
+        "name": "scheme-to-c",
+        "description": "A small nanopass compiler from a subset of Scheme to C.  (Developed for Clojure Conj 2013)",
+        "languages": {
+            "Scheme": 145579
+        }
+    },
+    {
+        "name": "mogan",
+        "description": "Mogan (based on GNU TeXmacs): Let us enjoy exploring science and technology!",
+        "languages": {
+            "Scheme": 8930136,
+            "C++": 5766499,
+            "Tcl": 3007555,
+            "TypeScript": 954463,
+            "Lua": 365115,
+            "Objective-C": 83170,
+            "CSS": 42982,
+            "TeX": 33062,
+            "Objective-C++": 26199,
+            "MATLAB": 24102,
+            "Python": 17665,
+            "Common Lisp": 13279,
+            "PostScript": 9196,
+            "C": 7757,
+            "Emacs Lisp": 6479,
+            "Roff": 5624,
+            "Prolog": 4097,
+            "Shell": 3818,
+            "M": 3264,
+            "QMake": 3190,
+            "Elvish": 2729,
+            "Awk": 2073,
+            "Makefile": 679,
+            "HTML": 465,
+            "Batchfile": 57
+        }
+    },
+    {
+        "name": "nanopass-framework",
+        "description": "The new nanopass framework; an embedded DSL for writing compilers in Scheme",
+        "languages": {
+            "Scheme": 441345
+        }
+    },
+    {
+        "name": "microKanren",
+        "description": "The implementation of microKanren, a featherweight relational programming language",
+        "languages": {
+            "Scheme": 11554
+        }
+    },
+    {
+        "name": "fibers",
+        "description": "Concurrent ML-like concurrency for Guile",
+        "languages": {
+            "Scheme": 217517,
+            "M4": 70586,
+            "C": 21222,
+            "Makefile": 5873,
+            "Shell": 1996
+        }
+    },
+    {
+        "name": "reading-sicp",
+        "description": "\u300a\u8ba1\u7b97\u673a\u7a0b\u5e8f\u7684\u6784\u9020\u548c\u89e3\u91ca\u300b(SICP) \u89e3\u9898\u96c6",
+        "languages": {
+            "Scheme": 783587,
+            "C++": 189250,
+            "C": 68274,
+            "Lua": 4933,
+            "Makefile": 1537
+        }
+    },
+    {
+        "name": "artanis",
+        "description": "Abandoned, please visit https://gitlab.com/NalaGinrut/artanis",
+        "languages": {
+            "Scheme": 739724,
+            "Shell": 400320,
+            "M4": 13666,
+            "C++": 11755,
+            "C": 7920,
+            "Makefile": 5910,
+            "HTML": 925,
+            "Smarty": 55
+        }
+    },
+    {
+        "name": "calysto_scheme",
+        "description": "A Scheme kernel for Jupyter that can use Python libraries",
+        "languages": {
+            "Scheme": 1357838,
+            "Python": 528388,
+            "TeX": 303929,
+            "Jupyter Notebook": 296195,
+            "Makefile": 1666,
+            "Dockerfile": 301
+        }
+    },
+    {
+        "name": "r7rs-benchmarks",
+        "description": "Benchmarks for various Scheme implementations. Taken with kind permission from the Larceny project, based on the Gabriel and Gambit benchmarks.",
+        "languages": {
+            "Scheme": 1313791,
+            "HTML": 574528,
+            "TeX": 69332,
+            "JavaScript": 38668,
+            "Shell": 35923,
+            "Makefile": 402
+        }
+    },
+    {
+        "name": "uim",
+        "description": "A multilingual input method framework",
+        "languages": {
+            "Scheme": 12349612,
+            "C": 1888539,
+            "C++": 1179141,
+            "Emacs Lisp": 124727,
+            "M4": 116297,
+            "Makefile": 67875,
+            "Perl": 36232,
+            "Shell": 28054,
+            "Objective-C": 5983,
+            "Dockerfile": 3538,
+            "CMake": 3152,
+            "QML": 1952,
+            "JavaScript": 1014,
+            "Roff": 817,
+            "Ruby": 468,
+            "QMake": 243,
+            "GDB": 123
+        }
+    },
+    {
+        "name": "sicp-solutions",
+        "description": "My solutions to Structure and Interpretation of Computer Programs",
+        "languages": {
+            "Scheme": 168043
+        }
+    },
+    {
+        "name": "zkeme80",
+        "description": "An assembler and operating system for the TI-84+ written in Scheme, Forth and Z80 assembly.",
+        "languages": {
+            "Scheme": 156912,
+            "Forth": 46740,
+            "Nix": 1338,
+            "Makefile": 588
+        }
+    },
+    {
+        "name": "Lisp-In-Small-Pieces",
+        "description": "Programs from the book Lisp in Small Pieces, updated to work on modern schemes",
+        "languages": {
+            "Scheme": 889191,
+            "C": 151250,
+            "Scilab": 117802,
+            "Makefile": 51100,
+            "Perl": 1876
+        }
+    },
+    {
+        "name": "ol",
+        "description": "Otus Lisp (Ol in short) is a purely* functional dialect of Lisp.",
+        "languages": {
+            "Scheme": 1948854,
+            "C": 458916,
+            "C++": 66053,
+            "Makefile": 41731,
+            "Shell": 6319,
+            "NSIS": 3785,
+            "Roff": 1707,
+            "BitBake": 706,
+            "sed": 303,
+            "Batchfile": 207,
+            "Awk": 184
+        }
+    },
+    {
+        "name": "microbit-reference-design",
+        "description": "micro:bit Reference Design",
+        "languages": {
+            "Scheme": 544537,
+            "Shell": 205
+        }
+    },
+    {
+        "name": "lispy",
+        "description": "Learning with Peter Norvig's lis.py interpreter",
+        "languages": {
+            "Scheme": 1219657,
+            "Python": 306981,
+            "Clojure": 299112,
+            "Jupyter Notebook": 230235,
+            "Scala": 165421,
+            "C": 147291,
+            "Scilab": 107391,
+            "Makefile": 67663,
+            "Racket": 13536,
+            "Common Lisp": 1894,
+            "Perl": 1876,
+            "Shell": 267
+        }
+    },
+    {
+        "name": "irken-compiler",
+        "description": "Irken is a statically typed variant of Scheme.  Or a lisp-like variant of ML.",
+        "languages": {
+            "Scheme": 1263727,
+            "C": 86593,
+            "HTML": 50943,
+            "Python": 31899,
+            "LLVM": 15021,
+            "Common Lisp": 4321,
+            "Emacs Lisp": 4252,
+            "Makefile": 534
+        }
+    },
+    {
+        "name": "rde",
+        "description": "Tools for managing reproducible development environments. Mirror of https://sr.ht/~abcdw/rde/",
+        "languages": {
+            "Scheme": 1213696,
+            "Emacs Lisp": 22367,
+            "Elixir": 3829,
+            "Shell": 3511,
+            "Makefile": 1867,
+            "CSS": 563
+        }
+    },
+    {
+        "name": "guix-installer",
+        "description": "A GNU Guix installer image with the full Linux kernel!",
+        "languages": {
+            "Scheme": 2800,
+            "Shell": 1202
+        }
+    },
+    {
+        "name": "larceny",
+        "description": "Larceny Scheme implementation",
+        "languages": {
+            "Scheme": 24917559,
+            "C": 2378720,
+            "C#": 415748,
+            "TeX": 408804,
+            "Shell": 303240,
+            "Assembly": 154137,
+            "C++": 133876,
+            "Roff": 55998,
+            "Standard ML": 52339,
+            "Java": 51981,
+            "Batchfile": 10140,
+            "PHP": 7677,
+            "Perl": 6931,
+            "HTML": 6726,
+            "Awk": 4609,
+            "Makefile": 3439,
+            "Emacs Lisp": 3277,
+            "GDB": 672
+        }
+    },
+    {
+        "name": "vicare",
+        "description": "A native compiler for Scheme compliant with R6RS",
+        "languages": {
+            "Scheme": 23156253,
+            "C": 1236061,
+            "Makefile": 243829,
+            "M4": 150720,
+            "TeX": 140215,
+            "Shell": 79044,
+            "SaltStack": 54468,
+            "Standard ML": 52339,
+            "Assembly": 43966,
+            "Java": 25128,
+            "Emacs Lisp": 7919,
+            "Awk": 3867,
+            "Lex": 3101,
+            "Perl": 1525
+        }
+    },
+    {
+        "name": "duck-editor",
+        "description": "\u57fa\u4e8escheme\u5f00\u53d1\u7684\u9e2d\u5b50\u7f16\u8f91\u5668",
+        "languages": {
+            "Scheme": 46006
+        }
+    },
+    {
+        "name": "xiphos",
+        "description": "Xiphos is a Bible study tool written for Linux, UNIX, and Windows using GTK, offering a rich and featureful environment for reading, study, and research using modules from The SWORD Project and elsewhere.",
+        "languages": {
+            "Scheme": 6238584,
+            "C": 1502484,
+            "C++": 510818,
+            "CMake": 119426,
+            "XSLT": 50916,
+            "Makefile": 17982,
+            "Emacs Lisp": 11103,
+            "Shell": 8127,
+            "Python": 7384,
+            "NSIS": 3288,
+            "Roff": 2437,
+            "Batchfile": 1086,
+            "Dockerfile": 726
+        }
+    },
+    {
+        "name": "Darkart",
+        "description": "A binary interface let Chez Scheme use Python, Lua, Ruby etc's library",
+        "languages": {
+            "Scheme": 57017,
+            "C": 1065
+        }
+    },
+    {
+        "name": "black",
+        "description": "Kenichi Asai's reflective programming language Black",
+        "languages": {
+            "Scheme": 47097,
+            "HTML": 6104,
+            "Shell": 180
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "My personal backup of my dotfiles on ThinkPad-X230-Debian-Openbox and Aspire-A514-Debian-Fluxbox",
+        "languages": {
+            "Scheme": 868538,
+            "Python": 162541,
+            "Shell": 47211,
+            "Perl": 27904,
+            "Vim Script": 1766,
+            "CSS": 132
+        }
+    },
+    {
+        "name": "yscheme",
+        "description": "A compiler from Scheme into X64",
+        "languages": {
+            "Scheme": 139796
+        }
+    },
+    {
+        "name": "registry.gimp.org_static",
+        "description": "A wget backup of http://registry.gimp.org",
+        "languages": {
+            "Scheme": 3498081,
+            "Python": 2630809,
+            "C": 972658,
+            "Roff": 90934,
+            "Perl": 2520,
+            "HTML": 338
+        }
+    },
+    {
+        "name": "lokke",
+        "description": "Lokke: Clojure for Guile",
+        "languages": {
+            "Scheme": 485656,
+            "Clojure": 152807,
+            "C": 100004,
+            "Roff": 32847,
+            "Shell": 26037,
+            "M4": 1805
+        }
+    },
+    {
+        "name": "evil-textobj-tree-sitter",
+        "description": "Tree-sitter powered textobjects for evil mode in Emacs",
+        "languages": {
+            "Scheme": 93224,
+            "Emacs Lisp": 41117,
+            "Go": 4248,
+            "Shell": 1874,
+            "Makefile": 1209
+        }
+    },
+    {
+        "name": "chez-exe",
+        "description": "Chez Scheme self hosting executable",
+        "languages": {
+            "Scheme": 9200,
+            "C": 4245,
+            "Makefile": 1696,
+            "Batchfile": 47
+        }
+    },
+    {
+        "name": "co2",
+        "description": "Lispy language for creating NES / Famicom software",
+        "languages": {
+            "Scheme": 267632,
+            "Common Lisp": 81432,
+            "Assembly": 60815,
+            "Python": 8011,
+            "Shell": 777
+        }
+    },
+    {
+        "name": "cs61a-sp11",
+        "description": "course cs61a at berkeley, spring 2011",
+        "languages": {
+            "Scheme": 292394,
+            "Shell": 202
+        }
+    },
+    {
+        "name": "playground",
+        "description": "An irrelevant project where I keep various code I wrote while learning",
+        "languages": {
+            "Scheme": 2259643,
+            "Python": 262907,
+            "C": 201749,
+            "Rust": 58247,
+            "Scala": 55064,
+            "Ruby": 51670,
+            "Perl": 45091,
+            "Haskell": 43499,
+            "Nim": 23185,
+            "Go": 10271,
+            "Io": 8348,
+            "HTML": 7489,
+            "Prolog": 6858,
+            "Java": 5029,
+            "SCSS": 2421,
+            "Erlang": 2063,
+            "Shell": 1997,
+            "Roff": 991
+        }
+    },
+    {
+        "name": "sicpAns",
+        "description": "\u300a\u8ba1\u7b97\u673a\u7a0b\u5e8f\u7684\u6784\u9020\u548c\u89e3\u91ca\u300b\u7f16\u7a0b\u9898\u89e3",
+        "languages": {
+            "Scheme": 324903
+        }
+    },
+    {
+        "name": "miniKanren-with-symbolic-constraints",
+        "description": "Version of miniKanren I normally use.  Has ==, =/=, symbolo, numbero, generalized absento constraints.",
+        "languages": {
+            "Scheme": 110574,
+            "Racket": 831
+        }
+    },
+    {
+        "name": "aima",
+        "description": "Solutions to AIMA (Artificial Intelligence: A Modern Approach)",
+        "languages": {
+            "Scheme": 151892,
+            "R": 910
+        }
+    },
+    {
+        "name": "gtkmm",
+        "description": "Read-only mirror of https://gitlab.gnome.org/GNOME/gtkmm",
+        "languages": {
+            "Scheme": 1001279,
+            "C++": 172040,
+            "M4": 87772,
+            "Makefile": 52095,
+            "Meson": 46034,
+            "NSIS": 28644,
+            "Shell": 22708,
+            "C": 15303,
+            "Batchfile": 805,
+            "Python": 408
+        }
+    },
+    {
+        "name": "NLExtract",
+        "description": "Convert (ETL) and visualize free Dutch geo-datasets.",
+        "languages": {
+            "Scheme": 477906,
+            "QML": 472281,
+            "PLpgSQL": 432821,
+            "Python": 273784,
+            "Shell": 42325,
+            "XSLT": 25060,
+            "Batchfile": 12590,
+            "Game Maker Language": 3604,
+            "Dockerfile": 1461
+        }
+    },
+    {
+        "name": "faster-minikanren",
+        "description": "A fast implementation of miniKanren with disequality and absento, compatible with Racket and Chez.",
+        "languages": {
+            "Scheme": 134031,
+            "HTML": 16683,
+            "Racket": 2107,
+            "Shell": 377
+        }
+    },
+    {
+        "name": "bibliography",
+        "description": "Bibliography of Scheme research (readscheme.org and beyond)",
+        "languages": {
+            "Scheme": 250016,
+            "Emacs Lisp": 3392
+        }
+    },
+    {
+        "name": "gimpshop-reloaded",
+        "description": ":pencil2: GIMP mod to make it similiar to Adobe's product. Best free alternative to Photoshop",
+        "languages": {
+            "Scheme": 77454,
+            "Python": 9620,
+            "Shell": 1898
+        }
+    },
+    {
+        "name": "dysvunctional-language",
+        "description": "Running the code you want to write as fast as the code you have to write",
+        "languages": {
+            "Scheme": 642052,
+            "Haskell": 104814,
+            "Makefile": 10882,
+            "JavaScript": 9233,
+            "Shell": 5857,
+            "HTML": 4296,
+            "Common Lisp": 2103,
+            "SuperCollider": 1539
+        }
+    },
+    {
+        "name": "hop",
+        "description": "Multitier JavaScript",
+        "languages": {
+            "Scheme": 8508219,
+            "JavaScript": 2123077,
+            "HTML": 1106957,
+            "Java": 783261,
+            "Makefile": 274591,
+            "C": 244391,
+            "Emacs Lisp": 211003,
+            "Shell": 79053,
+            "Objective-C": 64882,
+            "C++": 10926,
+            "CSS": 7945,
+            "TypeScript": 6701,
+            "Common Lisp": 4562,
+            "Roff": 2660,
+            "Dockerfile": 1243,
+            "Rich Text Format": 702
+        }
+    },
+    {
+        "name": "swish",
+        "description": "Swish Concurrency Engine",
+        "languages": {
+            "Scheme": 1443855,
+            "C": 135804,
+            "CSS": 9298,
+            "Shell": 5920,
+            "Batchfile": 4742,
+            "JavaScript": 2336,
+            "Makefile": 1304,
+            "Tcl": 302
+        }
+    },
+    {
+        "name": "lisp-interpreter",
+        "description": "Embeddable lisp/scheme interpreter written in C.",
+        "languages": {
+            "Scheme": 59845,
+            "C": 49017,
+            "Common Lisp": 1999,
+            "Shell": 1563,
+            "Python": 981,
+            "Makefile": 516
+        }
+    },
+    {
+        "name": "miniKanren",
+        "description": "Old version of miniKanren, without some of the fancy new constraints.  See 'miniKanren-with-symbolic-constraints'.",
+        "languages": {
+            "Scheme": 105684
+        }
+    },
+    {
+        "name": "quines",
+        "description": "Relational interpreter in miniKanren that can generate quines",
+        "languages": {
+            "Scheme": 76092
+        }
+    },
+    {
+        "name": "pkl-neovim",
+        "description": "Pkl language support for Neovim",
+        "languages": {
+            "Scheme": 7687,
+            "Vim Script": 2116,
+            "Lua": 1534,
+            "Vim Snippet": 1156
+        }
+    },
+    {
+        "name": "pfds",
+        "description": "functional data structures for scheme",
+        "languages": {
+            "Scheme": 176873,
+            "Shell": 258
+        }
+    },
+    {
+        "name": "bigloo",
+        "description": "a practical Scheme compiler",
+        "languages": {
+            "Scheme": 11182924,
+            "C": 2278551,
+            "Emacs Lisp": 1044448,
+            "Makefile": 1032481,
+            "Shell": 759187,
+            "Java": 392485,
+            "Roff": 42658,
+            "TeX": 37459,
+            "JavaScript": 31471,
+            "CSS": 8779,
+            "Ruby": 5145,
+            "Assembly": 3550,
+            "Batchfile": 2145
+        }
+    },
+    {
+        "name": "osm-styles",
+        "description": "OSM Bright styles for GeoServer (at last!)",
+        "languages": {
+            "Scheme": 3670556,
+            "CSS": 150480,
+            "Shell": 4346
+        }
+    },
+    {
+        "name": "TheReasonedSchemer",
+        "description": "Code from 'The Reasoned Schemer' (MIT Press, 2005) by Daniel P. Friedman, William E. Byrd and Oleg Kiselyov.",
+        "languages": {
+            "Scheme": 85173
+        }
+    },
+    {
+        "name": "chicken-scheme",
+        "description": "CHICKEN is a compiler for the Scheme programming language. CHICKEN produces portable, efficient C, supports almost all of the current Scheme language standard, R5RS and includes many enhancements and extensions. CHICKEN runs on MacOS X, Windows, and many Unix flavours.",
+        "languages": {}
+    },
+    {
+        "name": "learn",
+        "description": "Neuro-symbolic interpretation learning (mostly just language-learning, for now)",
+        "languages": {
+            "Scheme": 988271,
+            "Shell": 205357,
+            "Perl": 52497,
+            "TeX": 47846,
+            "PostScript": 42729,
+            "Emacs Lisp": 34068,
+            "CMake": 9985,
+            "Smalltalk": 3784,
+            "Ruby": 3298,
+            "NewLisp": 3164,
+            "JavaScript": 1670,
+            "Python": 1136,
+            "Slash": 556,
+            "SystemVerilog": 368
+        }
+    },
+    {
+        "name": "CodeFromTheReasonedSchemer2ndEd",
+        "description": "Code from Chapter 10 & Appendix A, implementation, and Chapters 7 & 8, arithmetic",
+        "languages": {
+            "Scheme": 16086
+        }
+    },
+    {
+        "name": "Raven",
+        "description": "Raven is a Package Manager for Chez Scheme",
+        "languages": {
+            "Scheme": 23621,
+            "Batchfile": 232
+        }
+    },
+    {
+        "name": "scheme-langserver",
+        "description": "Scheme language server",
+        "languages": {
+            "Scheme": 613230,
+            "Dockerfile": 1238,
+            "Shell": 760
+        }
+    },
+    {
+        "name": "p2pu-sicp",
+        "description": "Solutions to exercises from \"Structure and Interpretation of Computer Programs\" (SICP) by Abelson, Sussman and Sussman. A PDF version of the book is here:",
+        "languages": {
+            "Scheme": 358620,
+            "TeX": 13231
+        }
+    },
+    {
+        "name": "sicm",
+        "description": "Working through Structure and Interpretation of Classical Mechanics.",
+        "languages": {
+            "Scheme": 2763830,
+            "C": 55218
+        }
+    },
+    {
+        "name": "django-vagrant",
+        "description": "Django-Vagrant",
+        "languages": {
+            "Scheme": 10952,
+            "Python": 4450,
+            "Shell": 4387,
+            "CSS": 0,
+            "JavaScript": 0
+        }
+    },
+    {
+        "name": "elegant-weapons",
+        "description": "An R6RS framework for creating compilers that target C.",
+        "languages": {
+            "Scheme": 70133,
+            "Shell": 218
+        }
+    },
+    {
+        "name": "Femto-Emacs",
+        "description": " Tiny emacs clone with configuring in FemtoLisp ",
+        "languages": {
+            "Scheme": 1723677,
+            "C": 699853,
+            "Common Lisp": 270269,
+            "Clojure": 158651,
+            "NewLisp": 14665,
+            "Objective-C": 5323,
+            "Makefile": 4906,
+            "Shell": 516
+        }
+    },
+    {
+        "name": "Simply-Scheme-Exercises",
+        "description": "All of the exercises (and their solutions!) from the Berkeley textbook Simply Scheme.",
+        "languages": {
+            "Scheme": 160050
+        }
+    },
+    {
+        "name": "tree-sitter-just",
+        "description": "Treesitter grammar for Justfiles (casey/just)",
+        "languages": {
+            "Scheme": 36825,
+            "Python": 12955,
+            "Just": 11729,
+            "JavaScript": 10797,
+            "Rust": 2563,
+            "C": 2086,
+            "Lua": 1114,
+            "C++": 876,
+            "Vim Script": 119
+        }
+    },
+    {
+        "name": "FARGonautica",
+        "description": null,
+        "languages": {
+            "Scheme": 5982620,
+            "PostScript": 2332812,
+            "Common Lisp": 735863,
+            "C#": 626724,
+            "Pascal": 129988,
+            "HTML": 82838,
+            "C": 20093,
+            "Roff": 10446,
+            "CWeb": 7676,
+            "OpenEdge ABL": 496
+        }
+    },
+    {
+        "name": "korhal",
+        "description": "SC:BW Terran AI using JNIBWAPI and Clojure",
+        "languages": {
+            "Scheme": 335661,
+            "C++": 259006,
+            "Java": 116475,
+            "Clojure": 115553,
+            "C": 23487,
+            "Shell": 294
+        }
+    },
+    {
+        "name": "emacsy",
+        "description": "An embeddable Emacs-like library for GNU Guile Scheme",
+        "languages": {
+            "Scheme": 86165,
+            "Perl": 716,
+            "Shell": 161
+        }
+    },
+    {
+        "name": "sicp-abrantes-study-guide",
+        "description": "My study guide for SICP",
+        "languages": {
+            "Scheme": 34872
+        }
+    },
+    {
+        "name": "roadsend-php",
+        "description": "Original Roadsend PHP compiler/implementation",
+        "languages": {
+            "Scheme": 4702634,
+            "PHP": 1106668,
+            "C": 347764,
+            "Shell": 198710
+        }
+    },
+    {
+        "name": "guix-channel",
+        "description": "Package definitions for GNU Guix",
+        "languages": {
+            "Scheme": 15845,
+            "Emacs Lisp": 5784
+        }
+    },
+    {
+        "name": "scheme-to-llvm",
+        "description": "A compiler to compile a simple subset of scheme to LLVM 10",
+        "languages": {
+            "Scheme": 179740
+        }
+    },
+    {
+        "name": "gambit-iphone-example",
+        "description": "An example iphone app which uses Gambit Scheme.",
+        "languages": {
+            "Scheme": 331218,
+            "Objective-C": 15302,
+            "Emacs Lisp": 2624,
+            "C": 1640
+        }
+    },
+    {
+        "name": "salt-states",
+        "description": "\u4ee5\u4e00\u4e2a\u5c0f\u7684\u7535\u5546\u7f51\u7ad9\uff08www.mall.com\uff09\u4e3a\u4f8b\uff0c\u8bb2\u8ff0Saltstack\u5728\u771f\u5b9e\u573a\u666f\u4e2d\u7684\u5e94\u7528\u3002",
+        "languages": {
+            "Scheme": 36452,
+            "Python": 18660,
+            "VCL": 3794,
+            "Shell": 1825,
+            "Perl": 762,
+            "PHP": 440
+        }
+    },
+    {
+        "name": "DivideScannedImages",
+        "description": "GIMP Scheme (.scm) script for splitting separate sub-images from a composite image that has a uniform background. Creates a new image from each; will call the 'deskew' plugin on each image (if it is installed)",
+        "languages": {
+            "Scheme": 18067
+        }
+    },
+    {
+        "name": "SICP",
+        "description": ":sparkles:practice for SICP, the wizard book < Structure and Interpretation of Computer Programs >",
+        "languages": {
+            "Scheme": 1521077,
+            "Racket": 66407,
+            "Python": 2142
+        }
+    },
+    {
+        "name": "Schemings",
+        "description": "You dig Scheme. The world is coded in C. You get both.",
+        "languages": {
+            "Scheme": 286994,
+            "Makefile": 1617
+        }
+    },
+    {
+        "name": "the-seasoned-schemer",
+        "description": "All the Scheme code examples from the book \"The Seasoned Schemer\" ",
+        "languages": {
+            "Scheme": 64109
+        }
+    },
+    {
+        "name": "guile-json",
+        "description": "JSON module for Guile",
+        "languages": {
+            "Scheme": 61566,
+            "M4": 17766,
+            "Makefile": 3667,
+            "Shell": 1117
+        }
+    },
+    {
+        "name": "chez-srfi",
+        "description": "SRFIs for Chez Scheme",
+        "languages": {
+            "Scheme": 2270112,
+            "Shell": 1215
+        }
+    },
+    {
+        "name": "functional-geometry-gambit-scheme",
+        "description": "A simple implementation based on Peter Henderson's paper \"Functional Geometry\"",
+        "languages": {
+            "Scheme": 20014,
+            "CMake": 3171
+        }
+    },
+    {
+        "name": "yale-haskell",
+        "description": "HASKELL: Yale Haskell system written in Lisp",
+        "languages": {
+            "Scheme": 887768,
+            "Haskell": 418944,
+            "Emacs Lisp": 124897,
+            "Common Lisp": 78926,
+            "TeX": 22560,
+            "Shell": 17192,
+            "Perl": 6398,
+            "Ruby": 3586
+        }
+    },
+    {
+        "name": "irregex",
+        "description": "Portable Efficient IrRegular Expressions for Scheme",
+        "languages": {
+            "Scheme": 283199,
+            "Makefile": 2955,
+            "CSS": 784,
+            "Shell": 784,
+            "Perl": 741
+        }
+    },
+    {
+        "name": "schemepunk",
+        "description": "A batteries-included extended standard library for seven R7RS Scheme dialects.",
+        "languages": {
+            "Scheme": 674642,
+            "Shell": 2695,
+            "Makefile": 1692
+        }
+    },
+    {
+        "name": "codeium-parse",
+        "description": "A command line tool for parsing code syntax",
+        "languages": {
+            "Scheme": 33446,
+            "TypeScript": 2451,
+            "JavaScript": 1665,
+            "Ruby": 1496,
+            "C++": 1030,
+            "Shell": 933,
+            "C#": 898,
+            "Python": 786,
+            "Go": 498,
+            "Vue": 388,
+            "PHP": 362,
+            "HTML": 278,
+            "Java": 264
+        }
+    },
+    {
+        "name": "sicp-study",
+        "description": "Study Group Worked Exercises from \"The Structure and Interpretation of Computer Programs\"",
+        "languages": {
+            "Scheme": 220554,
+            "Clojure": 13091,
+            "Ruby": 1052
+        }
+    },
+    {
+        "name": "stex",
+        "description": "stex: stex to latex and latex to html converters and associated tools",
+        "languages": {
+            "Scheme": 167443,
+            "TeX": 26929,
+            "Makefile": 4827,
+            "Shell": 1554
+        }
+    },
+    {
+        "name": "Hit-DataStructure-On-Scheme",
+        "description": " \u54c8\u5c14\u6ee8\u5de5\u4e1a\u5927\u5b66\u300a\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u300b\u3001\u300a\u8f6f\u4ef6\u5f00\u53d1\u5b9e\u8df5\u300b\u4f5c\u4e1a\u53ca\u5b9e\u9a8c\u7684Scheme\u89e3\u6cd5\u3002",
+        "languages": {
+            "Scheme": 145587,
+            "Graphviz (DOT)": 2819
+        }
+    },
+    {
+        "name": "single_cream",
+        "description": "single file scheme interpreter with tail call optimization",
+        "languages": {
+            "Scheme": 163773,
+            "C": 39039,
+            "Shell": 2457,
+            "Makefile": 2161
+        }
+    },
+    {
+        "name": "berkeley_cs61a_spring-2011_archive",
+        "description": "Berkeley cs61a Spring 2011 Computer Science Course",
+        "languages": {
+            "Scheme": 129271,
+            "Makefile": 1723
+        }
+    },
+    {
+        "name": "photoshop-keymap-for-gimp",
+        "description": "This extension ports popular Photoshop keyboard shortcuts to GIMP.",
+        "languages": {
+            "Scheme": 86840
+        }
+    },
+    {
+        "name": "disassemble",
+        "description": "Disassembler for Racket",
+        "languages": {
+            "Scheme": 344355,
+            "Racket": 53318
+        }
+    },
+    {
+        "name": "sicp-code",
+        "description": "Digitized code from MIT's 1986 SICP video lectures.",
+        "languages": {
+            "Scheme": 80005
+        }
+    },
+    {
+        "name": "guile",
+        "description": "GNU Guile",
+        "languages": {
+            "Scheme": 5417689,
+            "C": 5109160,
+            "KiCad Layout": 2602544,
+            "M4": 816375,
+            "Makefile": 257893,
+            "C++": 217187,
+            "Shell": 144777,
+            "Emacs Lisp": 46624,
+            "Perl": 12267,
+            "Lex": 6927,
+            "Objective-C": 4704,
+            "Awk": 2071,
+            "JavaScript": 198
+        }
+    },
+    {
+        "name": "p423-compiler",
+        "description": "A Scheme to x86-64 compiler in Scheme",
+        "languages": {
+            "Scheme": 740493,
+            "Haskell": 84452,
+            "C": 7737,
+            "Makefile": 2178
+        }
+    },
+    {
+        "name": "awful",
+        "description": "awful provides an application and an extension to ease the development of web-based applications in CHICKEN Scheme",
+        "languages": {
+            "Scheme": 97352
+        }
+    },
+    {
+        "name": "massmine",
+        "description": "Your Access To Data",
+        "languages": {
+            "Scheme": 154502,
+            "Shell": 2438,
+            "TeX": 478
+        }
+    },
+    {
+        "name": "PhotoMP",
+        "description": "The AppImage version of GIMP for those who come from Photoshop.",
+        "languages": {
+            "Scheme": 16028,
+            "Shell": 3807
+        }
+    },
+    {
+        "name": "scheme_x86",
+        "description": "Writing a Scheme to x86 compiler by following Abdulaziz Ghuloum's \"An Incremental Approach to Compiler Construction\"",
+        "languages": {
+            "Scheme": 90126,
+            "C": 5710,
+            "Makefile": 1131,
+            "Dockerfile": 601,
+            "Assembly": 315,
+            "Shell": 125
+        }
+    },
+    {
+        "name": "TeachYourselfCS",
+        "description": "Following the curriculum from https://teachyourselfcs.com/",
+        "languages": {
+            "Scheme": 311785,
+            "HTML": 304277,
+            "Java": 8703
+        }
+    },
+    {
+        "name": "STALINGRAD",
+        "description": "Stalin\u2207, a brutally optimizing compiler for the VLAD language",
+        "languages": {
+            "Scheme": 920909,
+            "C": 320472,
+            "Makefile": 44436,
+            "Shell": 4454,
+            "Assembly": 4385,
+            "M4": 1312
+        }
+    },
+    {
+        "name": "spheres",
+        "description": "Spheres - A set of tools and libraries for practical Scheme. Multiplatform and Mobile.",
+        "languages": {
+            "Scheme": 6054095,
+            "Pascal": 1557996,
+            "Objective-C": 18009,
+            "GAP": 16835,
+            "Erlang": 9630,
+            "Emacs Lisp": 2866,
+            "XSLT": 652,
+            "Shell": 570
+        }
+    },
+    {
+        "name": "guix-config",
+        "description": "My config for GuixSD",
+        "languages": {
+            "Scheme": 54160,
+            "Makefile": 2016,
+            "Shell": 47
+        }
+    },
+    {
+        "name": "states",
+        "description": "My Salt states",
+        "languages": {
+            "Scheme": 19717,
+            "Python": 2355,
+            "Shell": 1393
+        }
+    },
+    {
+        "name": "unison.rs",
+        "description": null,
+        "languages": {
+            "Scheme": 5467126,
+            "Rust": 312689,
+            "JavaScript": 120635,
+            "Haskell": 17906,
+            "Racket": 4430,
+            "HTML": 1198,
+            "Shell": 156
+        }
+    },
+    {
+        "name": "s9fes",
+        "description": "Scheme 9 from Empty Space (Reimagined)",
+        "languages": {
+            "Scheme": 841830,
+            "C": 329808,
+            "Roff": 17526,
+            "Shell": 13722,
+            "Makefile": 9186,
+            "HTML": 7868,
+            "CSS": 4499,
+            "sed": 291
+        }
+    },
+    {
+        "name": "Carrot",
+        "description": "Purely functional lisp featuring: default currying, left-associative s-expression, lazy evaluation, static type system, and statically determined multimethods.",
+        "languages": {
+            "Scheme": 72896,
+            "Shell": 1023
+        }
+    },
+    {
+        "name": "Hypergiant",
+        "description": "An OpenGL-based game library for CHICKEN Scheme",
+        "languages": {
+            "Scheme": 119958,
+            "C": 6223
+        }
+    },
+    {
+        "name": "guile-2d",
+        "description": "2D game programming library for GNU Guile - *OBSOLETE - try my new library named Chickadee*",
+        "languages": {
+            "Scheme": 121809,
+            "Shell": 379
+        }
+    },
+    {
+        "name": "nanopass",
+        "description": "Nanopass scheme compiler in scheme for x86",
+        "languages": {
+            "Scheme": 109850,
+            "C": 9111,
+            "Assembly": 1956
+        }
+    },
+    {
+        "name": "jaro",
+        "description": "a highly customizable xdg-open alternative",
+        "languages": {
+            "Scheme": 15112
+        }
+    },
+    {
+        "name": "pywebkitgtk",
+        "description": "Python bindings to the WebKit GTK+ port",
+        "languages": {
+            "Scheme": 316925,
+            "Python": 25533,
+            "C": 16330,
+            "Makefile": 3070,
+            "Shell": 1562
+        }
+    },
+    {
+        "name": "SICP",
+        "description": "Answers to the SICP.",
+        "languages": {
+            "Scheme": 168250
+        }
+    },
+    {
+        "name": "mit-scheme-kernel",
+        "description": "Jupyter Kernel for MIT Scheme",
+        "languages": {
+            "Scheme": 64897,
+            "JavaScript": 2019,
+            "Makefile": 1088
+        }
+    },
+    {
+        "name": "govuk-guix",
+        "description": "Package, service and system definitions using GNU Guix for software and systems related to GOV.UK.",
+        "languages": {
+            "Scheme": 625842,
+            "Ruby": 45796,
+            "Shell": 20882,
+            "Emacs Lisp": 4983,
+            "Groovy": 861,
+            "Makefile": 304
+        }
+    },
+    {
+        "name": "ocaml.nvim",
+        "description": null,
+        "languages": {
+            "Scheme": 6531,
+            "Lua": 5538
+        }
+    },
+    {
+        "name": "sicp-solutions.net",
+        "description": "Used to be codology.net",
+        "languages": {
+            "Scheme": 315166,
+            "Racket": 55357,
+            "CSS": 18148,
+            "HTML": 15195,
+            "JavaScript": 3132,
+            "Ruby": 599
+        }
+    },
+    {
+        "name": "glibmm",
+        "description": "Read-only mirror of https://gitlab.gnome.org/GNOME/glibmm",
+        "languages": {
+            "Scheme": 962056,
+            "C++": 693671,
+            "Perl": 220090,
+            "M4": 184274,
+            "Python": 112072,
+            "Makefile": 58185,
+            "Meson": 52367,
+            "Shell": 14479,
+            "C": 13801,
+            "Batchfile": 805
+        }
+    },
+    {
+        "name": "gstreamermm",
+        "description": "Read-only mirror of https://gitlab.gnome.org/GNOME/gstreamermm",
+        "languages": {
+            "Scheme": 838982,
+            "C++": 168149,
+            "M4": 53524,
+            "Makefile": 14906,
+            "C": 10122,
+            "Shell": 3991
+        }
+    },
+    {
+        "name": "sicm-scheme-exercises",
+        "description": "Exercises and notes on Structure and Interpretation of Classical Mechanics.",
+        "languages": {
+            "Scheme": 167437,
+            "Shell": 759
+        }
+    },
+    {
+        "name": "mpl",
+        "description": "Computer Algebra and Symbolic Computation for R6RS Scheme",
+        "languages": {
+            "Scheme": 163632
+        }
+    },
+    {
+        "name": "festival-tts-arabic-voices",
+        "description": "Arabic voices for Festival TTS",
+        "languages": {
+            "Scheme": 378474,
+            "Python": 4683,
+            "Makefile": 1184
+        }
+    },
+    {
+        "name": "guildhall",
+        "description": "package manager for guile",
+        "languages": {
+            "Scheme": 1147302,
+            "Shell": 434
+        }
+    },
+    {
+        "name": "probKanren",
+        "description": "Probabilistic miniKanren",
+        "languages": {
+            "Scheme": 555015
+        }
+    },
+    {
+        "name": "Schemacs",
+        "description": "Emacs implementation on Chez Scheme",
+        "languages": {
+            "Scheme": 22216,
+            "C": 943,
+            "Makefile": 60
+        }
+    },
+    {
+        "name": "cant",
+        "description": "A programming argot",
+        "languages": {
+            "Scheme": 167371,
+            "Racket": 6513,
+            "Emacs Lisp": 4887,
+            "Smalltalk": 1259,
+            "Shell": 908,
+            "Makefile": 299
+        }
+    },
+    {
+        "name": "salt-rack",
+        "description": "Sample Rack application Salt States that will install Nginx, Passenger, Ruby 1.9.3 + the Falcon Patch, Bundler, and git. They also demonstrate how to deploy a sample Rack application using Salt.",
+        "languages": {
+            "Scheme": 7884,
+            "Shell": 944
+        }
+    },
+    {
+        "name": "plasma-dotfiles",
+        "description": "In this repository I intend to keep configuration files that I deem important, in addition to the theme customizations that I make to have a consistent working environment.",
+        "languages": {
+            "Scheme": 84120,
+            "HTML": 9222,
+            "Shell": 5479,
+            "QML": 3736,
+            "Vim Script": 164
+        }
+    },
+    {
+        "name": "tinyclos",
+        "description": "Tiny CLOS for Scheme: from ftp://ftp.parc.xerox.com/pub/mops/tiny/",
+        "languages": {
+            "Scheme": 45020
+        }
+    },
+    {
+        "name": "glow",
+        "description": "The Glow language for Blockchain Decentralized Applications.",
+        "languages": {
+            "Scheme": 791867,
+            "Haskell": 76311,
+            "Nix": 46508,
+            "Vue": 31587,
+            "JavaScript": 18789,
+            "Shell": 8336,
+            "Makefile": 523
+        }
+    },
+    {
+        "name": "SolarChargerHardware",
+        "description": "Various versions of my MPPT Solar Charger",
+        "languages": {
+            "Scheme": 238766,
+            "Batchfile": 38
+        }
+    },
+    {
+        "name": "scheme-bricks",
+        "description": "experimental visual programming in scheme for making rave music, uses fluxus",
+        "languages": {
+            "Scheme": 56623,
+            "Shell": 587
+        }
+    },
+    {
+        "name": "SoftwareDesignForFlexibility",
+        "description": null,
+        "languages": {
+            "Scheme": 1137457,
+            "TeX": 1053,
+            "Shell": 138
+        }
+    },
+    {
+        "name": "untitled-relational-interpreter-book",
+        "description": " Relational Programming in miniKanren",
+        "languages": {
+            "Scheme": 342094,
+            "TeX": 296483,
+            "Common Lisp": 44011,
+            "Shell": 3966,
+            "Makefile": 849
+        }
+    },
+    {
+        "name": "android-kawa",
+        "description": "Examples of Android applications written in Kawa scheme",
+        "languages": {
+            "Scheme": 116688,
+            "Shell": 7435,
+            "Java": 343,
+            "Racket": 30
+        }
+    },
+    {
+        "name": "lviv",
+        "description": "stack-based RPN functional programming language",
+        "languages": {
+            "Scheme": 86629,
+            "Makefile": 2593
+        }
+    },
+    {
+        "name": "moby-scheme",
+        "description": "The Moby Scheme Compiler for Smartphones",
+        "languages": {
+            "Scheme": 1862045,
+            "Java": 702787,
+            "JavaScript": 57097,
+            "Racket": 51425,
+            "Python": 13911,
+            "Shell": 537
+        }
+    },
+    {
+        "name": "pink",
+        "description": "Collapsing Towers of Interpreters (in Scheme)",
+        "languages": {
+            "Scheme": 24505
+        }
+    },
+    {
+        "name": "miniKanren-uncourse",
+        "description": "Code, wiki, and resources for the weekly miniKanren uncourse",
+        "languages": {
+            "Scheme": 570533
+        }
+    },
+    {
+        "name": "aiscm",
+        "description": "Guile numerical arrays and tensor extension",
+        "languages": {
+            "Scheme": 368961,
+            "C": 157523,
+            "M4": 54563,
+            "Makefile": 11110,
+            "Dockerfile": 2539,
+            "POV-Ray SDL": 2480,
+            "C++": 1017,
+            "Shell": 772,
+            "CWeb": 435
+        }
+    },
+    {
+        "name": "compiler-tutorial",
+        "description": "Incremental Compiler paper by Abdulaziz Ghuloum, using Chez scheme, Nasm, x86_64 for OSX",
+        "languages": {
+            "Scheme": 91014,
+            "C": 8900,
+            "Makefile": 865
+        }
+    },
+    {
+        "name": "r7rs-swank",
+        "description": "Swank server for r7rs Schemes",
+        "languages": {
+            "Scheme": 175166,
+            "Shell": 1408
+        }
+    },
+    {
+        "name": "vagrant-salt-example",
+        "description": "Simple Masterless Skeleton example",
+        "languages": {
+            "Scheme": 133
+        }
+    },
+    {
+        "name": "the-reasoned-schemer",
+        "description": "All the logic programming code examples from the book \"The Reasoned Schemer\"",
+        "languages": {
+            "Scheme": 26576
+        }
+    },
+    {
+        "name": "propagators",
+        "description": "the Art of the Propagator",
+        "languages": {
+            "Scheme": 656573,
+            "Racket": 118792,
+            "Perl": 17084,
+            "Ruby": 11932,
+            "Emacs Lisp": 3302,
+            "Shell": 825
+        }
+    },
+    {
+        "name": "sicp",
+        "description": null,
+        "languages": {
+            "Scheme": 329059,
+            "GCC Machine Description": 1043
+        }
+    },
+    {
+        "name": "guix-nonfree",
+        "description": "Packages that are inappropriate for upstream Guix",
+        "languages": {
+            "Scheme": 9956
+        }
+    },
+    {
+        "name": "swank-chicken",
+        "description": "SWANK server for Chicken Scheme",
+        "languages": {
+            "Scheme": 25225,
+            "Emacs Lisp": 946
+        }
+    },
+    {
+        "name": "lalr-scm",
+        "description": "An Efficient LALR(1) Parser Generator for Scheme",
+        "languages": {
+            "Scheme": 110531,
+            "Shell": 3697
+        }
+    },
+    {
+        "name": "guix-packages",
+        "description": "Guix on WSL2, packages and notes",
+        "languages": {
+            "Scheme": 32017,
+            "Emacs Lisp": 5465,
+            "Clojure": 4838,
+            "Shell": 1262
+        }
+    },
+    {
+        "name": "salt-openstack",
+        "description": "Using salt to install OpenStack on Ubuntu 12.04.2.",
+        "languages": {
+            "Scheme": 54452,
+            "Shell": 44045,
+            "Perl": 6564,
+            "Python": 533
+        }
+    },
+    {
+        "name": "MIT-SICP",
+        "description": "Problems and Projects from the legendary MIT 6.001 Purple Book.",
+        "languages": {
+            "Scheme": 857551,
+            "Emacs Lisp": 369243,
+            "Clojure": 330767,
+            "Racket": 168478,
+            "HTML": 125850,
+            "Python": 51102,
+            "MATLAB": 18918,
+            "C++": 13936
+        }
+    },
+    {
+        "name": "ypsilon",
+        "description": "R7RS/R6RS Scheme Implementation",
+        "languages": {
+            "Scheme": 3021790,
+            "C++": 1367193,
+            "C": 808673,
+            "TeX": 69870,
+            "Objective-C": 16420,
+            "Makefile": 7411,
+            "CMake": 5056
+        }
+    },
+    {
+        "name": "json",
+        "description": "a portable, powerful and pure functional JSON library for Scheme",
+        "languages": {
+            "Scheme": 15839
+        }
+    },
+    {
+        "name": "GIMP-Scripts",
+        "description": "Community managed scripts for the GNU Image Manipulation Program",
+        "languages": {
+            "Scheme": 33565
+        }
+    },
+    {
+        "name": "agiledata",
+        "description": "Builds a data science work environment for Russell Jurney's book Agile Data Science.",
+        "languages": {
+            "Scheme": 7795
+        }
+    },
+    {
+        "name": "gerbil-persist",
+        "description": "Persistence of concurrent activities for Gerbil Scheme",
+        "languages": {
+            "Scheme": 83981
+        }
+    },
+    {
+        "name": "s7",
+        "description": "s7 Scheme",
+        "languages": {
+            "Scheme": 6740894,
+            "C": 2583707,
+            "HTML": 321608,
+            "C++": 10653,
+            "Python": 1459,
+            "Makefile": 1320
+        }
+    },
+    {
+        "name": "guix-dotfiles",
+        "description": "Our GNU Guix system configuration and dotfiles",
+        "languages": {
+            "Scheme": 168789,
+            "Vim Script": 7503,
+            "Shell": 6139,
+            "Python": 2430
+        }
+    },
+    {
+        "name": "batch-smart-resize",
+        "description": "GIMP script-fu for batch resizing of images",
+        "languages": {
+            "Scheme": 10487
+        }
+    },
+    {
+        "name": "r6rs-pffi",
+        "description": "Portable Foreign Function Interface (FFI) for R6RS",
+        "languages": {
+            "Scheme": 186475,
+            "Makefile": 2061,
+            "C": 1342,
+            "Shell": 1269
+        }
+    },
+    {
+        "name": "scheme-llvm",
+        "description": null,
+        "languages": {
+            "Scheme": 63262,
+            "C": 5460,
+            "C++": 1359
         }
     }
 ]

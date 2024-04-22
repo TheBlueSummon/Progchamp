@@ -40,5 +40,1804 @@
             "Shell": 3209,
             "Dockerfile": 1294
         }
+    },
+    {
+        "name": "HowToCook",
+        "description": "\u7a0b\u5e8f\u5458\u5728\u5bb6\u505a\u996d\u65b9\u6cd5\u6307\u5357\u3002Programmer's guide about how to cook at home (Simplified Chinese only).",
+        "languages": {
+            "Shell": 911,
+            "Dockerfile": 514
+        }
+    },
+    {
+        "name": "leetcode-master",
+        "description": "\u300a\u4ee3\u7801\u968f\u60f3\u5f55\u300bLeetCode \u5237\u9898\u653b\u7565\uff1a200\u9053\u7ecf\u5178\u9898\u76ee\u5237\u9898\u987a\u5e8f\uff0c\u517160w\u5b57\u7684\u8be6\u7ec6\u56fe\u89e3\uff0c\u89c6\u9891\u96be\u70b9\u5256\u6790\uff0c50\u4f59\u5f20\u601d\u7ef4\u5bfc\u56fe\uff0c\u652f\u6301C++\uff0cJava\uff0cPython\uff0cGo\uff0cJavaScript\u7b49\u591a\u8bed\u8a00\u7248\u672c\uff0c\u4ece\u6b64\u7b97\u6cd5\u5b66\u4e60\u4e0d\u518d\u8ff7\u832b\uff01\ud83d\udd25\ud83d\udd25 \u6765\u770b\u770b\uff0c\u4f60\u4f1a\u53d1\u73b0\u76f8\u89c1\u6068\u665a\uff01\ud83d\ude80 ",
+        "languages": {
+            "Shell": 2160
+        }
+    },
+    {
+        "name": "pi-hole",
+        "description": "A black hole for Internet advertisements",
+        "languages": {
+            "Shell": 367168,
+            "Python": 53922,
+            "Roff": 11093,
+            "Dockerfile": 5812
+        }
+    },
+    {
+        "name": "powerlevel10k",
+        "description": "A Zsh theme",
+        "languages": {
+            "Shell": 999585,
+            "C++": 163437,
+            "Makefile": 2047
+        }
+    },
+    {
+        "name": "acme.sh",
+        "description": "A pure Unix shell script implementing ACME client protocol",
+        "languages": {
+            "Shell": 1262912,
+            "Dockerfile": 1528
+        }
+    },
+    {
+        "name": "pure-bash-bible",
+        "description": "\ud83d\udcd6 A collection of pure bash alternatives to external processes.",
+        "languages": {
+            "Shell": 6805
+        }
+    },
+    {
+        "name": "og-aws",
+        "description": "\ud83d\udcd9 Amazon Web Services \u2014 a practical guide",
+        "languages": {
+            "Shell": 928
+        }
+    },
+    {
+        "name": "Docker-OSX",
+        "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
+        "languages": {
+            "Shell": 44797,
+            "Dockerfile": 24381,
+            "Python": 17593,
+            "Mustache": 1054
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": ":wrench: .files, including ~/.macos \u2014 sensible hacker defaults for macOS",
+        "languages": {
+            "Shell": 64218,
+            "Vim Script": 49796,
+            "GDB": 29
+        }
+    },
+    {
+        "name": "zsh-autosuggestions",
+        "description": "Fish-like autosuggestions for zsh",
+        "languages": {
+            "Shell": 53109,
+            "Ruby": 30057,
+            "Makefile": 679,
+            "Dockerfile": 563
+        }
+    },
+    {
+        "name": "gitflow",
+        "description": "Git extensions to provide high-level repository operations for Vincent Driessen's branching model.",
+        "languages": {
+            "Shell": 6641
+        }
+    },
+    {
+        "name": "dokku",
+        "description": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
+        "languages": {
+            "Shell": 1014300,
+            "Go": 643030,
+            "Makefile": 39182,
+            "Python": 27409,
+            "HTML": 14752,
+            "Dockerfile": 10097,
+            "Procfile": 8608,
+            "JavaScript": 6686,
+            "Scala": 2235,
+            "HCL": 1585,
+            "Smarty": 1526,
+            "Java": 853,
+            "Clojure": 666,
+            "Ruby": 221,
+            "SCSS": 197,
+            "Handlebars": 171,
+            "PHP": 43
+        }
+    },
+    {
+        "name": "90DaysOfDevOps",
+        "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic. ",
+        "languages": {
+            "Shell": 90478,
+            "Go": 58590,
+            "Python": 23095,
+            "HCL": 20389,
+            "Dockerfile": 13733,
+            "Jinja": 9950,
+            "PowerShell": 8670,
+            "Makefile": 2750,
+            "HTML": 1027
+        }
+    },
+    {
+        "name": "hacker-laws",
+        "description": "\ud83d\udcbb\ud83d\udcd6 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws",
+        "languages": {
+            "Shell": 1342
+        }
+    },
+    {
+        "name": "fonts",
+        "description": "Patched fonts for Powerline users.",
+        "languages": {
+            "Shell": 1683,
+            "PowerShell": 1386
+        }
+    },
+    {
+        "name": "iTerm2-Color-Schemes",
+        "description": "Over 250 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty",
+        "languages": {
+            "Shell": 423593,
+            "Python": 13406,
+            "Ruby": 6335,
+            "Swift": 5519
+        }
+    },
+    {
+        "name": "setup-ipsec-vpn",
+        "description": "Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",
+        "languages": {
+            "Shell": 225476
+        }
+    },
+    {
+        "name": "vscodium",
+        "description": "binary releases of VS Code without MS branding/telemetry/licensing",
+        "languages": {
+            "Shell": 99832,
+            "XSLT": 19766,
+            "PowerShell": 212
+        }
+    },
+    {
+        "name": "streisand",
+        "description": "Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.",
+        "languages": {
+            "Shell": 41039,
+            "Python": 16546,
+            "HTML": 5780
+        }
+    },
+    {
+        "name": "v2ray",
+        "description": "\u6700\u597d\u7528\u7684 V2Ray \u4e00\u952e\u5b89\u88c5\u811a\u672c & \u7ba1\u7406\u811a\u672c",
+        "languages": {
+            "Shell": 94242
+        }
+    },
+    {
+        "name": "ChatDev",
+        "description": "Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)",
+        "languages": {
+            "Shell": 556421,
+            "Python": 536738,
+            "JavaScript": 113037,
+            "CSS": 26313,
+            "HTML": 16553,
+            "Dockerfile": 687
+        }
+    },
+    {
+        "name": ".tmux",
+        "description": "\ud83c\uddeb\ud83c\uddf7 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with \u2764\ufe0f",
+        "languages": {
+            "Shell": 93167
+        }
+    },
+    {
+        "name": "asdf",
+        "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+        "languages": {
+            "Shell": 230537,
+            "Python": 9214,
+            "Nushell": 7555,
+            "Elvish": 7190,
+            "PowerShell": 751
+        }
+    },
+    {
+        "name": "neofetch",
+        "description": "\ud83d\uddbc\ufe0f  A command-line system information tool written in bash 3.2+",
+        "languages": {
+            "Shell": 376936,
+            "Roff": 12449,
+            "Makefile": 418
+        }
+    },
+    {
+        "name": "config",
+        "description": "Apps/CLIs/configs I use on macOS/iOS. Fish, Karabiner, Cursor..",
+        "languages": {
+            "Shell": 15167,
+            "Vim Script": 5544,
+            "Go": 5455,
+            "TypeScript": 1617,
+            "Nix": 1438
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "Default configuration for Le Wagon's students",
+        "languages": {
+            "Shell": 5548
+        }
+    },
+    {
+        "name": "spaceship-prompt",
+        "description": ":rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt",
+        "languages": {
+            "Shell": 259807,
+            "Makefile": 566,
+            "Dockerfile": 375
+        }
+    },
+    {
+        "name": "zsh-syntax-highlighting",
+        "description": "Fish shell like syntax highlighting for Zsh.",
+        "languages": {
+            "Shell": 786765,
+            "Perl": 2624,
+            "Makefile": 1941
+        }
+    },
+    {
+        "name": "n",
+        "description": "Node version management",
+        "languages": {
+            "Shell": 81348,
+            "Makefile": 155
+        }
+    },
+    {
+        "name": "openvpn-install",
+        "description": "OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora",
+        "languages": {
+            "Shell": 23714
+        }
+    },
+    {
+        "name": "git-extras",
+        "description": "GIT utilities -- repo summary, repl, changelog population, author commit percentages and more",
+        "languages": {
+            "Shell": 163276,
+            "Python": 33925,
+            "Batchfile": 4891,
+            "Makefile": 4381
+        }
+    },
+    {
+        "name": "docker-elk",
+        "description": "The Elastic stack (ELK) powered by Docker and Compose.",
+        "languages": {
+            "Shell": 7979,
+            "Dockerfile": 1691
+        }
+    },
+    {
+        "name": "interview_python",
+        "description": "\u5173\u4e8ePython\u7684\u9762\u8bd5\u9898",
+        "languages": {
+            "Shell": 4880
+        }
+    },
+    {
+        "name": "Hack",
+        "description": "A typeface designed for source code",
+        "languages": {
+            "Shell": 39558,
+            "Python": 9939,
+            "CSS": 2296,
+            "Makefile": 743
+        }
+    },
+    {
+        "name": "z",
+        "description": "z - jump around",
+        "languages": {
+            "Shell": 9368,
+            "Roff": 5086,
+            "Makefile": 59
+        }
+    },
+    {
+        "name": "rbenv",
+        "description": "Manage your app's Ruby environment",
+        "languages": {
+            "Shell": 79107,
+            "Ruby": 1371,
+            "Makefile": 457,
+            "Vim Script": 35
+        }
+    },
+    {
+        "name": "redox",
+        "description": "Mirror of https://gitlab.redox-os.org/redox-os/redox",
+        "languages": {
+            "Shell": 62448,
+            "Makefile": 30791,
+            "Dockerfile": 2821
+        }
+    },
+    {
+        "name": "awesome-kubernetes",
+        "description": "A curated list for awesome kubernetes sources :ship::tada:",
+        "languages": {
+            "Shell": 759,
+            "Makefile": 384,
+            "Dockerfile": 329
+        }
+    },
+    {
+        "name": "awesome-zsh-plugins",
+        "description": "A collection of ZSH frameworks, plugins, themes and tutorials.",
+        "languages": {
+            "Shell": 21031
+        }
+    },
+    {
+        "name": "graphql-spec",
+        "description": "GraphQL is a query language and execution engine tied to any backend service.",
+        "languages": {
+            "Shell": 2839
+        }
+    },
+    {
+        "name": "bash-it",
+        "description": "A community Bash framework.",
+        "languages": {
+            "Shell": 715533
+        }
+    },
+    {
+        "name": "prezto",
+        "description": "The configuration framework for Zsh",
+        "languages": {
+            "Shell": 140158
+        }
+    },
+    {
+        "name": "awesome-cli-apps",
+        "description": "\ud83d\udda5 \ud83d\udcca \ud83d\udd79 \ud83d\udee0 A curated list of command line apps",
+        "languages": {
+            "Shell": 1133
+        }
+    },
+    {
+        "name": "kaldi",
+        "description": "kaldi-asr/kaldi is the official location of the Kaldi project.",
+        "languages": {
+            "Shell": 18846781,
+            "C++": 14757656,
+            "Python": 3620079,
+            "Perl": 2168939,
+            "C": 503513,
+            "TeX": 482919,
+            "Cuda": 437774,
+            "HTML": 149232,
+            "Makefile": 97272,
+            "CMake": 32546,
+            "Java": 30300,
+            "MATLAB": 27281,
+            "Dockerfile": 7363,
+            "Awk": 1064,
+            "Cython": 649
+        }
+    },
+    {
+        "name": "macOS-Simple-KVM",
+        "description": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
+        "languages": {
+            "Shell": 6887,
+            "Python": 6550
+        }
+    },
+    {
+        "name": "macos-virtualbox",
+        "description": "Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS",
+        "languages": {
+            "Shell": 85584
+        }
+    },
+    {
+        "name": "powerlevel9k",
+        "description": "Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.",
+        "languages": {
+            "Shell": 339809,
+            "Ruby": 7066,
+            "Dockerfile": 6107
+        }
+    },
+    {
+        "name": "nginx-admins-handbook",
+        "description": "How to improve NGINX performance, security, and other important things.",
+        "languages": {
+            "Shell": 66131,
+            "HTML": 4250,
+            "Vim Script": 1284,
+            "Python": 1152,
+            "CSS": 815,
+            "GDB": 305
+        }
+    },
+    {
+        "name": "docker-mailserver",
+        "description": "Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",
+        "languages": {
+            "Shell": 579712,
+            "Dockerfile": 13743,
+            "Makefile": 3108,
+            "Python": 1738,
+            "BitBake": 1247,
+            "NASL": 763,
+            "C++": 444,
+            "Sieve": 348,
+            "PHP": 123
+        }
+    },
+    {
+        "name": "distributions",
+        "description": "NodeSource Node.js Binary Distributions",
+        "languages": {
+            "Shell": 53417
+        }
+    },
+    {
+        "name": "pure",
+        "description": "Pretty, minimal and fast ZSH prompt",
+        "languages": {
+            "Shell": 49304
+        }
+    },
+    {
+        "name": "windows",
+        "description": "Windows in a Docker container.",
+        "languages": {
+            "Shell": 78612,
+            "Dockerfile": 1342
+        }
+    },
+    {
+        "name": "awesome-raspberry-pi",
+        "description": "\ud83d\udcdd A curated list of awesome Raspberry Pi tools, projects, images and resources",
+        "languages": {
+            "Shell": 695,
+            "Makefile": 190,
+            "Ruby": 160
+        }
+    },
+    {
+        "name": "v2ray-agent",
+        "description": "Xray\u3001Tuic\u3001hysteria2\u3001sing-box \u516b\u5408\u4e00\u4e00\u952e\u811a\u672c",
+        "languages": {
+            "Shell": 649719
+        }
+    },
+    {
+        "name": "lynis",
+        "description": "Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",
+        "languages": {
+            "Shell": 1453439,
+            "Roff": 5746,
+            "Ruby": 672
+        }
+    },
+    {
+        "name": "haoel.github.io",
+        "description": null,
+        "languages": {
+            "Shell": 9459
+        }
+    },
+    {
+        "name": "termux-packages",
+        "description": "A package build system for Termux.",
+        "languages": {
+            "Shell": 3115632,
+            "C": 590442,
+            "Lua": 146096,
+            "C++": 137092,
+            "CMake": 53350,
+            "Python": 37553,
+            "Perl": 24655,
+            "Assembly": 21262,
+            "HTML": 14027,
+            "Roff": 9234,
+            "Vim Script": 7803,
+            "Java": 2128,
+            "PowerShell": 1555,
+            "Dockerfile": 1370,
+            "JavaScript": 779,
+            "Emacs Lisp": 440
+        }
+    },
+    {
+        "name": "nsfw_data_scraper",
+        "description": "Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier",
+        "languages": {
+            "Shell": 5302,
+            "Jupyter Notebook": 3232,
+            "Dockerfile": 298
+        }
+    },
+    {
+        "name": "git-secrets",
+        "description": "Prevents you from committing secrets and credentials into git repositories",
+        "languages": {
+            "Shell": 44106,
+            "Roff": 21381,
+            "PowerShell": 1400,
+            "Makefile": 752
+        }
+    },
+    {
+        "name": "terminals-are-sexy",
+        "description": "\ud83d\udca5 A curated list of Terminal frameworks, plugins & resources for CLI lovers.",
+        "languages": {
+            "Shell": 2909,
+            "Makefile": 213
+        }
+    },
+    {
+        "name": "fancyss",
+        "description": "fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.",
+        "languages": {
+            "Shell": 625631,
+            "Classic ASP": 433903,
+            "JavaScript": 223762,
+            "CSS": 30559,
+            "HTML": 2883,
+            "Python": 2463,
+            "Makefile": 515
+        }
+    },
+    {
+        "name": "openvpn-install",
+        "description": "Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux.",
+        "languages": {
+            "Shell": 40825
+        }
+    },
+    {
+        "name": "ansible-examples",
+        "description": "A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.",
+        "languages": {
+            "Shell": 14781,
+            "PHP": 5802,
+            "Rust": 2569,
+            "Python": 1056,
+            "PowerShell": 442,
+            "Makefile": 209
+        }
+    },
+    {
+        "name": "tpm",
+        "description": "Tmux Plugin Manager",
+        "languages": {
+            "Shell": 36056
+        }
+    },
+    {
+        "name": "bocker",
+        "description": "Docker implemented in around 100 lines of bash",
+        "languages": {
+            "Shell": 9828
+        }
+    },
+    {
+        "name": "kubernetes-handbook",
+        "description": "Kubernetes\u4e2d\u6587\u6307\u5357/\u4e91\u539f\u751f\u5e94\u7528\u67b6\u6784\u5b9e\u6218\u624b\u518c -  https://jimmysong.io/kubernetes-handbook",
+        "languages": {
+            "Shell": 21550,
+            "JavaScript": 16208,
+            "Mustache": 6694,
+            "Dockerfile": 4004,
+            "Makefile": 2168,
+            "Go": 425
+        }
+    },
+    {
+        "name": "awesome-cheatsheets",
+        "description": "\u8d85\u7ea7\u901f\u67e5\u8868 - \u7f16\u7a0b\u8bed\u8a00\u3001\u6846\u67b6\u548c\u5f00\u53d1\u5de5\u5177\u7684\u901f\u67e5\u8868\uff0c\u5355\u4e2a\u6587\u4ef6\u5305\u542b\u4e00\u5207\u4f60\u9700\u8981\u77e5\u9053\u7684\u4e1c\u897f :zap:",
+        "languages": {
+            "Shell": 48607,
+            "TeX": 30337,
+            "GDB": 14024,
+            "Lua": 13106,
+            "Go": 12908,
+            "PHP": 6750
+        }
+    },
+    {
+        "name": "tmux-resurrect",
+        "description": "Persists tmux environment across system restarts.",
+        "languages": {
+            "Shell": 40757
+        }
+    },
+    {
+        "name": "CodeGuide",
+        "description": ":books: \u672c\u4ee3\u7801\u5e93\u662f\u4f5c\u8005\u5c0f\u5085\u54e5\u591a\u5e74\u4ece\u4e8b\u4e00\u7ebf\u4e92\u8054\u7f51 Java \u5f00\u53d1\u7684\u5b66\u4e60\u5386\u7a0b\u6280\u672f\u6c47\u603b\uff0c\u65e8\u5728\u4e3a\u5927\u5bb6\u63d0\u4f9b\u4e00\u4e2a\u6e05\u6670\u8be6\u7ec6\u7684\u5b66\u4e60\u6559\u7a0b\uff0c\u4fa7\u91cd\u70b9\u66f4\u503e\u5411\u7f16\u5199Java\u6838\u5fc3\u5185\u5bb9\u3002\u5982\u679c\u672c\u4ed3\u5e93\u80fd\u4e3a\u60a8\u63d0\u4f9b\u5e2e\u52a9\uff0c\u8bf7\u7ed9\u4e88\u652f\u6301(\u5173\u6ce8\u3001\u70b9\u8d5e\u3001\u5206\u4eab)\uff01",
+        "languages": {
+            "Shell": 134
+        }
+    },
+    {
+        "name": "bashtop",
+        "description": "Linux/OSX/FreeBSD resource monitor",
+        "languages": {
+            "Shell": 210480,
+            "Python": 13380,
+            "Makefile": 401
+        }
+    },
+    {
+        "name": "git-blame-someone-else",
+        "description": "Blame someone else for your bad code.",
+        "languages": {
+            "Shell": 625,
+            "Makefile": 286
+        }
+    },
+    {
+        "name": "TabNine",
+        "description": "AI Code Completions",
+        "languages": {
+            "Shell": 671
+        }
+    },
+    {
+        "name": "movies-for-hackers",
+        "description": "\ud83c\udfac A curated list of movies every hacker & cyberpunk must watch.",
+        "languages": {
+            "Shell": 2961
+        }
+    },
+    {
+        "name": "JetBrainsMono",
+        "description": "JetBrains Mono \u2013 the free and open-source typeface for developers",
+        "languages": {
+            "Shell": 5825,
+            "Kotlin": 4596,
+            "Python": 270
+        }
+    },
+    {
+        "name": "Command-line-text-processing",
+        "description": ":zap: From finding text to search and replace, from sorting to beautifying text and more :art:",
+        "languages": {
+            "Shell": 2283,
+            "Python": 41
+        }
+    },
+    {
+        "name": "oh-my-fish",
+        "description": "The Fish Shell Framework",
+        "languages": {
+            "Shell": 88678,
+            "C": 236,
+            "Dockerfile": 120
+        }
+    },
+    {
+        "name": "RetroPie-Setup",
+        "description": "Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores",
+        "languages": {
+            "Shell": 1099396,
+            "Python": 62711,
+            "JavaScript": 11368,
+            "CSS": 2918,
+            "HTML": 1635,
+            "Tcl": 1304,
+            "CMake": 507
+        }
+    },
+    {
+        "name": "oss-fuzz",
+        "description": "OSS-Fuzz - continuous fuzzing for open source software.",
+        "languages": {
+            "Shell": 2104664,
+            "Python": 1502137,
+            "Java": 1358158,
+            "Dockerfile": 1334458,
+            "C": 611059,
+            "C++": 488927,
+            "TypeScript": 111921,
+            "Go": 108538,
+            "JavaScript": 92863,
+            "Rust": 26899,
+            "Makefile": 13866,
+            "HTML": 13787,
+            "Starlark": 7145,
+            "Ruby": 1827,
+            "CMake": 1583,
+            "Swift": 1363
+        }
+    },
+    {
+        "name": "ievms",
+        "description": "Automated installation of the Microsoft IE App Compat virtual machines",
+        "languages": {
+            "Shell": 23137,
+            "Batchfile": 607
+        }
+    },
+    {
+        "name": "Proxmox",
+        "description": "Proxmox VE Helper-Scripts",
+        "languages": {
+            "Shell": 781568
+        }
+    },
+    {
+        "name": "perf-tools",
+        "description": "Performance analysis tools based on Linux perf_events (aka perf) and ftrace",
+        "languages": {
+            "Shell": 123103,
+            "Perl": 13613,
+            "Roff": 2618
+        }
+    },
+    {
+        "name": "gvm",
+        "description": "Go Version Manager",
+        "languages": {
+            "Shell": 69707,
+            "Ruby": 993,
+            "Makefile": 268,
+            "M4": 115
+        }
+    },
+    {
+        "name": "m-cli",
+        "description": "\uf8ff Swiss Army Knife for macOS ",
+        "languages": {
+            "Shell": 102668,
+            "Python": 675
+        }
+    },
+    {
+        "name": "Bash-Snippets",
+        "description": "A collection of small bash scripts for heavy terminal users",
+        "languages": {
+            "Shell": 282330,
+            "Roff": 16792
+        }
+    },
+    {
+        "name": "jsproxy",
+        "description": "An online proxy based on ServiceWorker",
+        "languages": {
+            "Shell": 7713,
+            "JavaScript": 6338,
+            "Lua": 5414
+        }
+    },
+    {
+        "name": "Xray_onekey",
+        "description": "Xray \u57fa\u4e8e Nginx \u7684 VLESS + XTLS \u4e00\u952e\u5b89\u88c5\u811a\u672c ",
+        "languages": {
+            "Shell": 27472
+        }
+    },
+    {
+        "name": "spinnaker",
+        "description": "Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.",
+        "languages": {
+            "Shell": 39102,
+            "Go": 8690,
+            "Dockerfile": 1224,
+            "Mustache": 1036,
+            "HTML": 615,
+            "Python": 582
+        }
+    },
+    {
+        "name": "super-linter",
+        "description": "Combination of multiple linters to run as a GitHub Action or standalone",
+        "languages": {
+            "Shell": 159046,
+            "JavaScript": 31925,
+            "Ruby": 18904,
+            "Dockerfile": 17720,
+            "TeX": 16258,
+            "Makefile": 14892,
+            "Python": 7411,
+            "CoffeeScript": 6964,
+            "HCL": 5276,
+            "Perl": 4113,
+            "PHP": 2909,
+            "R": 2549,
+            "Clojure": 2529,
+            "PowerShell": 2167,
+            "HTML": 2003,
+            "Java": 1926,
+            "Rust": 1844,
+            "C++": 1112,
+            "TypeScript": 1017,
+            "CSS": 988,
+            "Scala": 962,
+            "Go": 819,
+            "Gherkin": 770,
+            "Groovy": 691,
+            "C#": 601,
+            "Lua": 511,
+            "Kotlin": 264,
+            "Dart": 173,
+            "Raku": 64
+        }
+    },
+    {
+        "name": "quickemu",
+        "description": "Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.",
+        "languages": {
+            "Shell": 213028,
+            "Python": 6372,
+            "Nix": 1479
+        }
+    },
+    {
+        "name": "MagiskOnWSALocal",
+        "description": "Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)",
+        "languages": {
+            "Shell": 31621,
+            "Python": 24788,
+            "PowerShell": 11001,
+            "Batchfile": 1010
+        }
+    },
+    {
+        "name": "distrobox",
+        "description": "Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you\u2019re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox",
+        "languages": {
+            "Shell": 243018,
+            "Dockerfile": 70
+        }
+    },
+    {
+        "name": "docker-bench-security",
+        "description": "The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.",
+        "languages": {
+            "Shell": 164321,
+            "Dockerfile": 512
+        }
+    },
+    {
+        "name": "baseimage-docker",
+        "description": "A minimal Ubuntu base image modified for Docker-friendliness",
+        "languages": {
+            "Shell": 17257,
+            "Python": 15565,
+            "Makefile": 1640,
+            "Dockerfile": 381
+        }
+    },
+    {
+        "name": "Hackintosh",
+        "description": "Hackintosh long-term maintenance model EFI and installation tutorial",
+        "languages": {
+            "Shell": 124509,
+            "CSS": 5713
+        }
+    },
+    {
+        "name": "Mac-CLI",
+        "description": "\uf8ff macOS command line tool for developers \u2013 The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.",
+        "languages": {
+            "Shell": 49502
+        }
+    },
+    {
+        "name": "Gogh",
+        "description": "Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.",
+        "languages": {
+            "Shell": 571923,
+            "Python": 14493
+        }
+    },
+    {
+        "name": "my-arsenal-of-aws-security-tools",
+        "description": "List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.",
+        "languages": {
+            "Shell": 3304,
+            "Makefile": 454
+        }
+    },
+    {
+        "name": "babun",
+        "description": "Babun - a Windows shell you will love!",
+        "languages": {
+            "Shell": 66956,
+            "Groovy": 26189,
+            "Batchfile": 13046,
+            "Vim Script": 2917,
+            "Visual Basic": 2028
+        }
+    },
+    {
+        "name": "docker-openvpn",
+        "description": "\ud83d\udd12 OpenVPN server in a Docker container complete with an EasyRSA PKI CA",
+        "languages": {
+            "Shell": 52001,
+            "Dockerfile": 922
+        }
+    },
+    {
+        "name": "crouton",
+        "description": "Chromium OS Universal Chroot Environment",
+        "languages": {
+            "Shell": 397336,
+            "C": 89275,
+            "C++": 48759,
+            "JavaScript": 39012,
+            "HTML": 7685,
+            "Makefile": 4562,
+            "Scheme": 1191,
+            "Python": 584,
+            "sed": 269
+        }
+    },
+    {
+        "name": "Linux-Tutorial",
+        "description": "\u300aJava \u7a0b\u5e8f\u5458\u773c\u4e2d\u7684 Linux\u300b",
+        "languages": {
+            "Shell": 40368,
+            "JavaScript": 3210
+        }
+    },
+    {
+        "name": "laptop",
+        "description": "A shell script to set up a macOS laptop for web and mobile development.",
+        "languages": {
+            "Shell": 4732
+        }
+    },
+    {
+        "name": "caffe2",
+        "description": "Caffe2 is a lightweight, modular, and scalable deep learning framework.",
+        "languages": {
+            "Shell": 9406
+        }
+    },
+    {
+        "name": "docker-minecraft-server",
+        "description": "Docker image that provides a Minecraft Server that will automatically download selected version at startup",
+        "languages": {
+            "Shell": 129589,
+            "Dockerfile": 3296,
+            "Mermaid": 1105
+        }
+    },
+    {
+        "name": "boot2docker",
+        "description": "DEPRECATED; see https://github.com/boot2docker/boot2docker/pull/1408",
+        "languages": {
+            "Shell": 24038,
+            "Dockerfile": 19449
+        }
+    },
+    {
+        "name": "autoware",
+        "description": "Autoware - the world's leading open-source software project for autonomous driving",
+        "languages": {
+            "Shell": 17183,
+            "Dockerfile": 5077,
+            "HCL": 650
+        }
+    },
+    {
+        "name": "one-key-hidpi",
+        "description": "Enable macOS HiDPI and have a native setting.",
+        "languages": {
+            "Shell": 29208
+        }
+    },
+    {
+        "name": "ctf-tools",
+        "description": "Some setup scripts for security research tools.",
+        "languages": {
+            "Shell": 69879,
+            "Python": 3716,
+            "Dockerfile": 1534,
+            "Makefile": 790
+        }
+    },
+    {
+        "name": "docker-node",
+        "description": "Official Docker Image for Node.js :whale: :turtle: :rocket: ",
+        "languages": {
+            "Shell": 15393,
+            "JavaScript": 12408,
+            "Dockerfile": 11659
+        }
+    },
+    {
+        "name": "shadowsocks_install",
+        "description": "Auto Install Shadowsocks Server for CentOS/Debian/Ubuntu",
+        "languages": {
+            "Shell": 174103,
+            "Dockerfile": 5618
+        }
+    },
+    {
+        "name": "winapps",
+        "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.",
+        "languages": {
+            "Shell": 34078,
+            "PowerShell": 10072
+        }
+    },
+    {
+        "name": "antigen",
+        "description": "The plugin manager for zsh.",
+        "languages": {
+            "Shell": 128635,
+            "Perl": 30688,
+            "Makefile": 9456,
+            "Perl 6": 5159
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "A set of vim, zsh, git, and tmux configuration files.",
+        "languages": {
+            "Shell": 11755,
+            "Vim Script": 6308
+        }
+    },
+    {
+        "name": "paperwork",
+        "description": "Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep",
+        "languages": {
+            "Shell": 9101,
+            "Makefile": 4213
+        }
+    },
+    {
+        "name": "source-han-serif",
+        "description": "Source Han Serif | \u601d\u6e90\u5b8b\u4f53 | \u601d\u6e90\u5b8b\u9ad4 | \u601d\u6e90\u5b8b\u9ad4 \u9999\u6e2f | \u6e90\u30ce\u660e\u671d | \ubcf8\uba85\uc870",
+        "languages": {
+            "Shell": 2501
+        }
+    },
+    {
+        "name": "easy_rust",
+        "description": "Rust explained using easy English",
+        "languages": {
+            "Shell": 5600,
+            "Makefile": 1398
+        }
+    },
+    {
+        "name": "docker-pi-hole",
+        "description": "Pi-hole in a docker container",
+        "languages": {
+            "Shell": 33524,
+            "Python": 20099,
+            "Dockerfile": 1880
+        }
+    },
+    {
+        "name": "docker-gitlab",
+        "description": "Dockerized GitLab",
+        "languages": {
+            "Shell": 143059,
+            "Ruby": 7952,
+            "Dockerfile": 3724,
+            "Makefile": 1867
+        }
+    },
+    {
+        "name": "android-security-awesome",
+        "description": "A collection of android security related resources",
+        "languages": {
+            "Shell": 2265,
+            "Makefile": 172
+        }
+    },
+    {
+        "name": "netshoot",
+        "description": "a Docker + Kubernetes network trouble-shooting swiss-army container",
+        "languages": {
+            "Shell": 7070,
+            "Dockerfile": 2381,
+            "Makefile": 476
+        }
+    },
+    {
+        "name": "testssl.sh",
+        "description": "Testing TLS/SSL encryption anywhere on any port ",
+        "languages": {
+            "Shell": 1315002,
+            "HTML": 62258,
+            "Perl": 55027,
+            "Java": 3425,
+            "Dockerfile": 2156
+        }
+    },
+    {
+        "name": "git-standup",
+        "description": "Recall what you did on the last working day. Psst! or be nosy and find what someone else in your team did ;-)",
+        "languages": {
+            "Shell": 8942,
+            "Makefile": 565
+        }
+    },
+    {
+        "name": "Sn1per",
+        "description": "Attack Surface Management Platform",
+        "languages": {
+            "Shell": 571034,
+            "Lua": 391637,
+            "Python": 76523,
+            "XSLT": 15475,
+            "JavaScript": 4798,
+            "HTML": 2331,
+            "Dockerfile": 1242
+        }
+    },
+    {
+        "name": "docker-selenium",
+        "description": "Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",
+        "languages": {
+            "Shell": 125880,
+            "Smarty": 38921,
+            "Python": 37506,
+            "Makefile": 32787,
+            "Dockerfile": 31216
+        }
+    },
+    {
+        "name": "fisher",
+        "description": "A plugin manager for Fish",
+        "languages": {
+            "Shell": 13088
+        }
+    },
+    {
+        "name": "follow-me-install-kubernetes-cluster",
+        "description": "\u548c\u6211\u4e00\u6b65\u6b65\u90e8\u7f72 kubernetes \u96c6\u7fa4",
+        "languages": {
+            "Shell": 2247
+        }
+    },
+    {
+        "name": "self-hosted",
+        "description": "Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept",
+        "languages": {
+            "Shell": 48651,
+            "Python": 30951,
+            "Dockerfile": 4431
+        }
+    },
+    {
+        "name": "acme-companion",
+        "description": "Automated ACME SSL certificate generation for nginx-proxy",
+        "languages": {
+            "Shell": 165177,
+            "Dockerfile": 965
+        }
+    },
+    {
+        "name": "awesome-bash",
+        "description": "A curated list of delightful Bash scripts and resources.",
+        "languages": {
+            "Shell": 26
+        }
+    },
+    {
+        "name": "engineering-management",
+        "description": "A collection of inspiring resources related to engineering management and tech leadership",
+        "languages": {
+            "Shell": 127
+        }
+    },
+    {
+        "name": "wireguard-install",
+        "description": "WireGuard VPN installer for Linux servers",
+        "languages": {
+            "Shell": 18422
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "@holman does dotfiles",
+        "languages": {
+            "Shell": 22289,
+            "Ruby": 16758
+        }
+    },
+    {
+        "name": "useful-scripts",
+        "description": "\ud83d\udc0c useful scripts for making developer's everyday life easier and happier, involved java, shell etc.",
+        "languages": {
+            "Shell": 103725,
+            "Python": 13937
+        }
+    },
+    {
+        "name": "ShellCrash",
+        "description": "Run sing-box/mihomo as client in shell",
+        "languages": {
+            "Shell": 305276
+        }
+    },
+    {
+        "name": "mac-setup",
+        "description": "Installing Development environment on macOS",
+        "languages": {
+            "Shell": 4276,
+            "JavaScript": 2166,
+            "Makefile": 1042,
+            "HTML": 209,
+            "CSS": 37
+        }
+    },
+    {
+        "name": "bats",
+        "description": "Bash Automated Testing System",
+        "languages": {
+            "Shell": 25656
+        }
+    },
+    {
+        "name": "takeover.sh",
+        "description": "Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.",
+        "languages": {
+            "Shell": 2182,
+            "C": 288
+        }
+    },
+    {
+        "name": "Actions-OpenWrt",
+        "description": "A template for building OpenWrt with GitHub Actions | \u4f7f\u7528 GitHub Actions \u5728\u7ebf\u4e91\u7f16\u8bd1 OpenWrt \u56fa\u4ef6",
+        "languages": {
+            "Shell": 1196
+        }
+    },
+    {
+        "name": "certified-kubernetes-administrator-course",
+        "description": "Certified Kubernetes Administrator - CKA Course",
+        "languages": {
+            "Shell": 59261,
+            "HCL": 43424,
+            "Python": 5698,
+            "Vim Script": 60
+        }
+    },
+    {
+        "name": "NodeOS",
+        "description": "Lightweight operating system using Node.js as userspace",
+        "languages": {
+            "Shell": 22180,
+            "JavaScript": 6358,
+            "Dockerfile": 344
+        }
+    },
+    {
+        "name": "arpl",
+        "description": "Automated Redpill Loader",
+        "languages": {
+            "Shell": 113487,
+            "C": 14986,
+            "Makefile": 190
+        }
+    },
+    {
+        "name": "pivpn",
+        "description": "The Simplest VPN installer, designed for Raspberry Pi",
+        "languages": {
+            "Shell": 215744
+        }
+    },
+    {
+        "name": "kafka-docker",
+        "description": "Dockerfile for Apache Kafka",
+        "languages": {
+            "Shell": 25358,
+            "Dockerfile": 2296
+        }
+    },
+    {
+        "name": "githug",
+        "description": "Git your game on!",
+        "languages": {
+            "Shell": 139336,
+            "Ruby": 81819,
+            "Dockerfile": 2292,
+            "JavaScript": 99,
+            "Makefile": 37
+        }
+    },
+    {
+        "name": "awesome-hacker-search-engines",
+        "description": "A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more",
+        "languages": {
+            "Shell": 1006
+        }
+    },
+    {
+        "name": "LinEnum",
+        "description": "Scripted Local Linux Enumeration & Privilege Escalation Checks",
+        "languages": {
+            "Shell": 46631
+        }
+    },
+    {
+        "name": "bash-git-prompt",
+        "description": "An informative and fancy bash prompt for Git users",
+        "languages": {
+            "Shell": 46459,
+            "Python": 4857,
+            "Ruby": 1105
+        }
+    },
+    {
+        "name": "ani-cli",
+        "description": "A cli tool to browse and play anime",
+        "languages": {
+            "Shell": 22077,
+            "Roff": 5043,
+            "Nix": 681
+        }
+    },
+    {
+        "name": "FFmpeg-Builds",
+        "description": null,
+        "languages": {
+            "Shell": 127559,
+            "Dockerfile": 13412,
+            "CMake": 2663
+        }
+    },
+    {
+        "name": "zsh-completions",
+        "description": "Additional completion definitions for Zsh.",
+        "languages": {
+            "Shell": 1173496
+        }
+    },
+    {
+        "name": "Dropbox-Uploader",
+        "description": "Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service.",
+        "languages": {
+            "Shell": 63777,
+            "Dockerfile": 297
+        }
+    },
+    {
+        "name": "docker-images",
+        "description": "Official source of container configurations, images, and examples for Oracle products and projects",
+        "languages": {
+            "Shell": 2005419,
+            "Python": 862214,
+            "Dockerfile": 380917,
+            "PLSQL": 177861,
+            "Groovy": 124329,
+            "Java": 26861,
+            "C": 10724,
+            "Roff": 8071,
+            "HTML": 7957,
+            "JavaScript": 7863,
+            "Makefile": 7852,
+            "Batchfile": 6536,
+            "Slim": 5235,
+            "PHP": 2940,
+            "Smarty": 1709,
+            "C#": 1328,
+            "TSQL": 342,
+            "CSS": 259,
+            "Go": 128
+        }
+    },
+    {
+        "name": "nb",
+        "description": "CLI and local web plain text note\u2011taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.",
+        "languages": {
+            "Shell": 3568398,
+            "Go": 19121,
+            "Makefile": 939
+        }
+    },
+    {
+        "name": "pure-sh-bible",
+        "description": "\ud83d\udcd6 A collection of pure POSIX sh alternatives to external processes.",
+        "languages": {
+            "Shell": 565
+        }
+    },
+    {
+        "name": "official-images",
+        "description": "Primary source of truth for the Docker \"Official Images\" program",
+        "languages": {
+            "Shell": 150533,
+            "Ruby": 4079,
+            "Prolog": 2980,
+            "Python": 2543,
+            "Java": 2046,
+            "Batchfile": 1599,
+            "PHP": 1133,
+            "Hy": 987,
+            "Dockerfile": 928,
+            "Julia": 370,
+            "Haxe": 298,
+            "Erlang": 91,
+            "C++": 79,
+            "Go": 74,
+            "C": 73,
+            "Elixir": 45,
+            "Rust": 45,
+            "Dart": 41,
+            "Perl": 40,
+            "Haskell": 31,
+            "JavaScript": 29,
+            "Swift": 23
+        }
+    },
+    {
+        "name": "OpenWrt-Rpi",
+        "description": "Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update)",
+        "languages": {
+            "Shell": 7190
+        }
+    },
+    {
+        "name": "git-quick-stats",
+        "description": "\u2581\u2585\u2586\u2583\u2585 Git quick statistics is a simple and efficient way to access various statistics in git repository.",
+        "languages": {
+            "Shell": 52417,
+            "Roff": 3616,
+            "Makefile": 940,
+            "Dockerfile": 788
+        }
+    },
+    {
+        "name": "docker-ipsec-vpn-server",
+        "description": "Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",
+        "languages": {
+            "Shell": 24263,
+            "Dockerfile": 2822
+        }
+    },
+    {
+        "name": "lago",
+        "description": "Open Source Metering and Usage Based Billing API \u2b50\ufe0f Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics",
+        "languages": {
+            "Shell": 3304
+        }
+    },
+    {
+        "name": "rofi",
+        "description": "A huge collection of Rofi based custom Applets, Launchers & Powermenus.",
+        "languages": {
+            "Shell": 41250
+        }
+    },
+    {
+        "name": "examples",
+        "description": "Kubernetes application example tutorials",
+        "languages": {
+            "Shell": 80638,
+            "Go": 27709,
+            "Dockerfile": 16044,
+            "Makefile": 11338,
+            "Java": 5998,
+            "Python": 3691,
+            "HTML": 2662,
+            "JavaScript": 2481,
+            "C": 1767,
+            "PHP": 934,
+            "CSS": 833
+        }
+    },
+    {
+        "name": "openwrt-packages",
+        "description": "openwrt\u5e38\u7528\u8f6f\u4ef6\u5305",
+        "languages": {
+            "Shell": 1247562,
+            "HTML": 971823,
+            "JavaScript": 968998,
+            "Lua": 906525,
+            "CSS": 436840,
+            "Less": 306239,
+            "UnrealScript": 95684,
+            "Makefile": 70577,
+            "C": 38526,
+            "Perl": 4057,
+            "Ruby": 107
+        }
+    },
+    {
+        "name": "pyenv-virtualenv",
+        "description": "a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)",
+        "languages": {
+            "Shell": 134572
+        }
+    },
+    {
+        "name": "airgeddon",
+        "description": "This is a multi-use bash script for Linux systems to audit wireless networks.",
+        "languages": {
+            "Shell": 2249569,
+            "Dockerfile": 3600
+        }
+    },
+    {
+        "name": "spark",
+        "description": " \u2581\u2582\u2583\u2585\u2582\u2587 in your shell.",
+        "languages": {
+            "Shell": 3601
+        }
+    },
+    {
+        "name": "stable-diffusion-webui-docker",
+        "description": "Easy Docker setup for Stable Diffusion with user-friendly UI",
+        "languages": {
+            "Shell": 7381,
+            "Dockerfile": 5763,
+            "Python": 2274
+        }
+    },
+    {
+        "name": "awesome-android",
+        "description": "android libs from github or other websites",
+        "languages": {
+            "Shell": 2125,
+            "JavaScript": 293
+        }
+    },
+    {
+        "name": "standard-readme",
+        "description": "A standard style for README files",
+        "languages": {
+            "Shell": 26
+        }
+    },
+    {
+        "name": "fhs-install-v2ray",
+        "description": "Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd",
+        "languages": {
+            "Shell": 24997
+        }
+    },
+    {
+        "name": "dehydrated",
+        "description": "letsencrypt/acme client implemented as a shell-script \u2013 just add water",
+        "languages": {
+            "Shell": 88977
+        }
+    },
+    {
+        "name": "fasd",
+        "description": "Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.",
+        "languages": {
+            "Shell": 20195,
+            "Groff": 10464,
+            "Makefile": 550
+        }
+    },
+    {
+        "name": "mac-dev-playbook",
+        "description": "Mac setup and configuration via Ansible.",
+        "languages": {
+            "Shell": 378,
+            "Jinja": 229
+        }
+    },
+    {
+        "name": "script-commands",
+        "description": "Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.",
+        "languages": {
+            "Shell": 451918,
+            "AppleScript": 164910,
+            "Swift": 110204,
+            "Python": 106734,
+            "JavaScript": 49622,
+            "Ruby": 21919,
+            "Makefile": 1028,
+            "PHP": 792
+        }
+    },
+    {
+        "name": "opengapps",
+        "description": "The main repository of the Open GApps Project",
+        "languages": {
+            "Shell": 320358,
+            "Makefile": 2603
+        }
+    },
+    {
+        "name": "docker-alpine",
+        "description": "Alpine Linux Docker image. Win at minimalism!",
+        "languages": {
+            "Shell": 32451,
+            "Dockerfile": 3953
+        }
+    },
+    {
+        "name": "zplug",
+        "description": ":hibiscus: A next-generation plugin manager for zsh",
+        "languages": {
+            "Shell": 181095,
+            "Raku": 6105,
+            "Awk": 5465,
+            "Makefile": 841,
+            "Dockerfile": 662,
+            "Perl": 69
+        }
+    },
+    {
+        "name": "awesome-home-assistant",
+        "description": "A curated list of amazingly awesome Home Assistant resources.",
+        "languages": {
+            "Shell": 1030
+        }
+    },
+    {
+        "name": "docker",
+        "description": "\u26f4 Docker image of Nextcloud",
+        "languages": {
+            "Shell": 130313,
+            "PHP": 85240,
+            "Dockerfile": 55770
+        }
+    },
+    {
+        "name": "longhorn",
+        "description": "Cloud-Native distributed storage built on and for Kubernetes",
+        "languages": {
+            "Shell": 51912,
+            "Python": 3735,
+            "Mustache": 1998
+        }
+    },
+    {
+        "name": "mac-dev-setup",
+        "description": "A beginner's guide to setting up a development environment on macOS",
+        "languages": {
+            "Shell": 1424
+        }
+    },
+    {
+        "name": "autoenv",
+        "description": "Directory-based environments.",
+        "languages": {
+            "Shell": 27071,
+            "Makefile": 300
+        }
+    },
+    {
+        "name": "bash-oo-framework",
+        "description": "Bash Infinity is a modern standard library / framework / boilerplate for Bash",
+        "languages": {
+            "Shell": 162429
+        }
+    },
+    {
+        "name": "todo.txt-cli",
+        "description": "\u2611\ufe0f A simple and extensible shell script for managing your todo.txt file.",
+        "languages": {
+            "Shell": 185752,
+            "Makefile": 2456
+        }
+    },
+    {
+        "name": "polybar-themes",
+        "description": "A huge collection of polybar themes with different styles, colors and variants.",
+        "languages": {
+            "Shell": 387962
+        }
+    },
+    {
+        "name": "jenv",
+        "description": "Manage your Java environment ",
+        "languages": {
+            "Shell": 59382,
+            "Dockerfile": 946
+        }
+    },
+    {
+        "name": "git-ftp",
+        "description": "Uses Git to upload only changed files to FTP servers.",
+        "languages": {
+            "Shell": 198416,
+            "HTML": 35368,
+            "Roff": 26430,
+            "CSS": 5823,
+            "Makefile": 1126,
+            "PHP": 149
+        }
+    },
+    {
+        "name": "gitflow-avh",
+        "description": "AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model",
+        "languages": {
+            "Shell": 234225,
+            "Makefile": 2393,
+            "Batchfile": 2094
+        }
+    },
+    {
+        "name": "x11docker",
+        "description": "Run GUI applications and desktops in docker and podman containers. Focus on security.",
+        "languages": {
+            "Shell": 458872,
+            "Roff": 22517,
+            "TeX": 3519
+        }
+    },
+    {
+        "name": "oh-my-bash",
+        "description": "A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+        "languages": {
+            "Shell": 835451
+        }
+    },
+    {
+        "name": "nanopi-openwrt",
+        "description": "Openwrt for Nanopi R1S R2S R4S R5S \u9999\u6a59\u6d3e R1 Plus \u56fa\u4ef6\u7f16\u8bd1 \u7eaf\u51c0\u7248\u4e0e\u5927\u6742\u70e9",
+        "languages": {
+            "Shell": 23415
+        }
+    },
+    {
+        "name": "miniforge",
+        "description": "A conda-forge distribution.",
+        "languages": {
+            "Shell": 8403
+        }
+    },
+    {
+        "name": "holoiso",
+        "description": "SteamOS 3 (Holo) archiso configuration",
+        "languages": {
+            "Shell": 31645
+        }
+    },
+    {
+        "name": "reconftw",
+        "description": "reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities",
+        "languages": {
+            "Shell": 210359,
+            "Dockerfile": 4316,
+            "HCL": 1361,
+            "Makefile": 1262
+        }
+    },
+    {
+        "name": "linux-exploit-suggester",
+        "description": "Linux privilege escalation auditing tool",
+        "languages": {
+            "Shell": 90858
+        }
+    },
+    {
+        "name": "interview",
+        "description": "\u7b14\u8bd5\u9762\u8bd5\u77e5\u8bc6\u6574\u7406",
+        "languages": {
+            "Shell": 645
+        }
     }
 ]

@@ -3,10 +3,10 @@
         "name": "dns-blocklists",
         "description": "DNS-Blocklists: For a better internet - keep the internet clean!",
         "languages": {
-            "Text": 774141547,
-            "Adblock Filter List": 127746021,
-            "Hosts File": 96606870,
-            "JavaScript": 6575029,
+            "Text": 776494886,
+            "Adblock Filter List": 128116617,
+            "Hosts File": 96797819,
+            "JavaScript": 6583005,
             "HTML": 157
         }
     },
@@ -48,6 +48,2255 @@
             "Text": 11070782,
             "Markdown": 5003,
             "Batchfile": 2585
+        }
+    },
+    {
+        "name": "Hard-Quality-FactoryBluePrints",
+        "description": "\u6234\u68ee\u7403\u8ba1\u5212\u7cbe\u9009\u84dd\u56fe",
+        "languages": {
+            "Text": 147473486,
+            "HTML": 11068930,
+            "Batchfile": 2043,
+            "Markdown": 1232
+        }
+    },
+    {
+        "name": "shell-things",
+        "description": "[MIRROR] Dotfiles from time before I knew the word dotfiles, but the name has stuck.",
+        "languages": {
+            "Text": 80089,
+            "Shell": 65340,
+            "desktop": 22504,
+            "JavaScript": 20939,
+            "JSON": 17971,
+            "INI": 15299,
+            "Windows Registry Entries": 11265,
+            "Nginx": 8721,
+            "TSV": 7552,
+            "TOML": 7328,
+            "YAML": 6901,
+            "Vim Script": 2990,
+            "Markdown": 2544,
+            "CSS": 1277,
+            "Lua": 672,
+            "XML": 655,
+            "Batchfile": 650,
+            "AutoHotkey": 28,
+            "CODEOWNERS": 11
+        }
+    },
+    {
+        "name": "animanga-wordlist",
+        "description": "\ud83d\udcd6 Japanese Anime, Manga, Characters, and Studio Word List/Dictionary.",
+        "languages": {
+            "Text": 13168147,
+            "Wikitext": 11242
+        }
+    },
+    {
+        "name": "Invictus",
+        "description": null,
+        "languages": {
+            "Text": 100078963,
+            "YAML": 29789894,
+            "Unity3D Asset": 3312857,
+            "CSV": 644258,
+            "Python": 70151,
+            "HLSL": 14995,
+            "AMPL": 170,
+            "Pip Requirements": 37
+        }
+    },
+    {
+        "name": "CWP-Main",
+        "description": null,
+        "languages": {
+            "Text": 199058352,
+            "YAML": 4044700,
+            "ShaderLab": 66184,
+            "MiniYAML": 62131,
+            "GLSL": 41602,
+            "HLSL": 22562
+        }
+    },
+    {
+        "name": "blocklists",
+        "description": "A DNS blocklist repo. Lists in various formats like AdGuard/Easylist, Pi-hole, HOSTS. Includes regex and wiki",
+        "languages": {
+            "Text": 48687110,
+            "Adblock Filter List": 566
+        }
+    },
+    {
+        "name": "lang-fao",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Faroese language",
+        "languages": {
+            "Text": 3232125,
+            "YAML": 362623,
+            "Shell": 149584,
+            "M4": 109455,
+            "Makefile": 80779,
+            "Regular Expression": 46184,
+            "XML": 8438,
+            "Perl": 2410
+        }
+    },
+    {
+        "name": "lang-crk",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Plains Cree language",
+        "languages": {
+            "Text": 5947211,
+            "YAML": 906835,
+            "Shell": 291932,
+            "Regular Expression": 172471,
+            "M4": 109464,
+            "Makefile": 100155,
+            "Awk": 15870,
+            "Python": 8752,
+            "XML": 8052
+        }
+    },
+    {
+        "name": "lang-esu",
+        "description": "Central Alaskan Yup'ik FST morphological analyzer/generator",
+        "languages": {
+            "Text": 2999201,
+            "M4": 109338,
+            "Shell": 109045,
+            "Makefile": 78202,
+            "Regular Expression": 62398,
+            "Python": 11393,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "pi-hole",
+        "description": "A trove of content relating to Pi-hole. How-to guides, blocklists, allowlists, regex lists, safesearch, scripts.",
+        "languages": {
+            "Text": 32037562,
+            "Regular Expression": 9390,
+            "Python": 3704,
+            "Shell": 2680
+        }
+    },
+    {
+        "name": "tilde-seq",
+        "description": "A simplistic music sequencer for the Organya format",
+        "languages": {
+            "Text": 67171,
+            "Python": 315
+        }
+    },
+    {
+        "name": "lang-srs",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Tsuut'ina (Sarsi) language",
+        "languages": {
+            "Text": 1134987,
+            "Shell": 158956,
+            "M4": 109383,
+            "Regular Expression": 72730,
+            "Makefile": 71164,
+            "YAML": 42887,
+            "Python": 8968,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-kal",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Kalaallisut (Greenlandic) language",
+        "languages": {
+            "Text": 15633213,
+            "Shell": 116219,
+            "M4": 109975,
+            "Makefile": 88050,
+            "Perl": 77990,
+            "Regular Expression": 58100,
+            "YAML": 15380,
+            "Python": 9010,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-kpv",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Komi-Zyrian language",
+        "languages": {
+            "Text": 16644973,
+            "Shell": 111325,
+            "M4": 109485,
+            "YAML": 97029,
+            "Makefile": 71754,
+            "Regular Expression": 53079,
+            "XML": 6040,
+            "Perl": 2025
+        }
+    },
+    {
+        "name": "bahai-songs",
+        "description": "A collection of songs inspired by the Bah\u00e1'\u00ed writings in ChordPro notation",
+        "languages": {
+            "Text": 160568,
+            "Python": 11798,
+            "Makefile": 2149
+        }
+    },
+    {
+        "name": "lang-sme",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Northern Sami language",
+        "languages": {
+            "Text": 18104330,
+            "YAML": 5132030,
+            "TeX": 1225800,
+            "Regular Expression": 285934,
+            "Shell": 205448,
+            "Makefile": 183222,
+            "M4": 110003,
+            "Perl": 32791,
+            "MiniYAML": 20124,
+            "XML": 10507,
+            "sed": 7778,
+            "Emacs Lisp": 284
+        }
+    },
+    {
+        "name": "lang-rus",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Russian language",
+        "languages": {
+            "Text": 26607902,
+            "Python": 217883,
+            "YAML": 142786,
+            "Shell": 120604,
+            "M4": 109405,
+            "Makefile": 87238,
+            "Regular Expression": 48219,
+            "XML": 7018
+        }
+    },
+    {
+        "name": "lang-fin",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Finnish language",
+        "languages": {
+            "Text": 55854979,
+            "Shell": 122748,
+            "M4": 109609,
+            "Makefile": 76811,
+            "Regular Expression": 30471,
+            "YAML": 11841,
+            "XML": 6627,
+            "Perl": 6570
+        }
+    },
+    {
+        "name": "platinum-steno",
+        "description": "My transcripts from Platinum Steno's theory and speed drills.",
+        "languages": {
+            "Text": 1181052
+        }
+    },
+    {
+        "name": "lang-smn",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Inari Sami language",
+        "languages": {
+            "Text": 5870576,
+            "YAML": 4049718,
+            "Shell": 156026,
+            "Makefile": 122921,
+            "M4": 109599,
+            "Regular Expression": 91961,
+            "TeX": 12961,
+            "Perl": 8737,
+            "XML": 6818,
+            "Python": 283
+        }
+    },
+    {
+        "name": "misc",
+        "description": "misc files",
+        "languages": {
+            "Text": 35134,
+            "Adblock Filter List": 1651
+        }
+    },
+    {
+        "name": "gist",
+        "description": "[MIRROR] Random files that don't have a better place, originally better sorted version of gist.github.com",
+        "languages": {
+            "Text": 69278,
+            "Markdown": 32981,
+            "Shell": 15912,
+            "XML": 15070,
+            "JavaScript": 14901,
+            "TeX": 14585,
+            "JSON": 11050,
+            "CSV": 9583,
+            "INI": 8798,
+            "TOML": 5597,
+            "TSV": 4752,
+            "YAML": 4001,
+            "Public Key": 2296,
+            "HTML": 841,
+            "desktop": 638,
+            "Ignore List": 78
+        }
+    },
+    {
+        "name": "lang-sje",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Pite Sami language",
+        "languages": {
+            "Text": 699905,
+            "Shell": 122415,
+            "YAML": 115700,
+            "M4": 109719,
+            "Makefile": 100576,
+            "Regular Expression": 45033,
+            "XSLT": 24920,
+            "XML": 6040,
+            "Perl": 1848
+        }
+    },
+    {
+        "name": "lang-est-x-utee",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Estonian language",
+        "languages": {
+            "Text": 8165220,
+            "YAML": 572476,
+            "Shell": 205395,
+            "sed": 191147,
+            "Makefile": 124620,
+            "M4": 109396,
+            "Regular Expression": 98677,
+            "Roff": 13034,
+            "XML": 6261,
+            "Python": 2825,
+            "Perl": 442
+        }
+    },
+    {
+        "name": "lang-mdf",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Moksha language",
+        "languages": {
+            "Text": 3691418,
+            "YAML": 240562,
+            "Shell": 111871,
+            "M4": 109604,
+            "Makefile": 89247,
+            "Regular Expression": 38510,
+            "XML": 6040,
+            "Python": 5201,
+            "Perl": 2731
+        }
+    },
+    {
+        "name": "lang-vro",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the V\u00f5ro language",
+        "languages": {
+            "Text": 3426174,
+            "YAML": 434105,
+            "Shell": 110831,
+            "M4": 109458,
+            "Makefile": 89482,
+            "Regular Expression": 40515,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-udm",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Udmurt language",
+        "languages": {
+            "Text": 2913577,
+            "Shell": 111759,
+            "M4": 109480,
+            "YAML": 89435,
+            "Makefile": 85208,
+            "Regular Expression": 41927,
+            "HTML": 16306,
+            "POV-Ray SDL": 13988,
+            "XML": 6040,
+            "Perl": 5036
+        }
+    },
+    {
+        "name": "text-test-data",
+        "description": "Test data for the Haskell text project",
+        "languages": {
+            "Text": 5
+        }
+    },
+    {
+        "name": "flex.flex",
+        "description": "Compiler for the Flex Programming Language",
+        "languages": {
+            "Text": 6068254,
+            "Pascal": 383032,
+            "Batchfile": 10857,
+            "C": 1046,
+            "C++": 892
+        }
+    },
+    {
+        "name": "lang-apu",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Apurin\u00e3 language",
+        "languages": {
+            "Text": 432357,
+            "M4": 109333,
+            "Shell": 109045,
+            "Makefile": 68344,
+            "Regular Expression": 39527,
+            "YAML": 24920,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-lav",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Latvian language",
+        "languages": {
+            "Text": 8564121,
+            "YAML": 125080,
+            "Shell": 109846,
+            "M4": 109331,
+            "Makefile": 67504,
+            "Regular Expression": 39459,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "VictoriaMFE",
+        "description": "Flavor expansion for Victoria 3",
+        "languages": {
+            "Text": 220070,
+            "YAML": 115381,
+            "Python": 96145
+        }
+    },
+    {
+        "name": "lang-epo",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Esperanto language",
+        "languages": {
+            "Text": 308860,
+            "M4": 109333,
+            "Shell": 109045,
+            "Makefile": 67252,
+            "Regular Expression": 43869,
+            "YAML": 10845,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-bla",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Siksika language",
+        "languages": {
+            "Text": 2688273,
+            "Shell": 133979,
+            "M4": 109332,
+            "Regular Expression": 101981,
+            "YAML": 77909,
+            "Makefile": 67207,
+            "Python": 6937,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "Learn-Text",
+        "description": "\ud83d\udcda\ufe0f A repository for showcasing my knowledge of the plain text language, and continuing to learn the language.",
+        "languages": {
+            "Text": 464473,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "lang-tau",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Upper Tanana language",
+        "languages": {
+            "Text": 364316,
+            "M4": 109337,
+            "Shell": 109045,
+            "Makefile": 67334,
+            "Regular Expression": 41698,
+            "YAML": 16484,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-qya",
+        "description": "Finite state and Constraint Grammar based language resources for the Quenya language. Part of the DIGHT 390R course at BYU.",
+        "languages": {
+            "Text": 304632,
+            "Shell": 112631,
+            "M4": 109634,
+            "Makefile": 67541,
+            "YAML": 63081,
+            "Regular Expression": 46272,
+            "XML": 7892
+        }
+    },
+    {
+        "name": "lang-mhr",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Eastern Mari language",
+        "languages": {
+            "Text": 6508286,
+            "YAML": 303609,
+            "Shell": 115191,
+            "M4": 109762,
+            "Makefile": 71947,
+            "Regular Expression": 55218,
+            "XML": 6040,
+            "Perl": 4415
+        }
+    },
+    {
+        "name": "locale",
+        "description": "Multiple locales following UTC, UTF-8, and ISO 8601 https://github.com/0h7z/aur/tree/locale-mul_zz",
+        "languages": {
+            "Text": 34523,
+            "INI": 294,
+            "Markdown": 9
+        }
+    },
+    {
+        "name": "lang-smj",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools + language resources for Lule S\u00e1mi",
+        "languages": {
+            "Text": 4301452,
+            "YAML": 3512465,
+            "Makefile": 152595,
+            "Shell": 133873,
+            "M4": 110288,
+            "Regular Expression": 81859,
+            "XML": 12174,
+            "TeX": 6639,
+            "Python": 5769,
+            "Perl": 3059
+        }
+    },
+    {
+        "name": "lang-som",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Somali language",
+        "languages": {
+            "Text": 910721,
+            "M4": 109330,
+            "Shell": 109069,
+            "Makefile": 69917,
+            "Regular Expression": 43713,
+            "YAML": 10637,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "flex.lib",
+        "description": "Standard Library for the Flex Programming Language",
+        "languages": {
+            "Text": 8200469,
+            "Batchfile": 65
+        }
+    },
+    {
+        "name": "lang-chr",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Cherokee language",
+        "languages": {
+            "Text": 265080,
+            "Shell": 109991,
+            "M4": 109333,
+            "Makefile": 67363,
+            "Regular Expression": 48994,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-kmr",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Northern Kurdish language",
+        "languages": {
+            "Text": 298117,
+            "M4": 109341,
+            "Shell": 109045,
+            "Makefile": 67383,
+            "Regular Expression": 42031,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "language-resources",
+        "description": "Resources that may be helpful for learning a language or deepening understanding of it",
+        "languages": {
+            "Text": 7048,
+            "TSV": 3028,
+            "Markdown": 2022,
+            "YAML": 1509,
+            "INI": 566
+        }
+    },
+    {
+        "name": "lang-crj",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Southern East Cree language",
+        "languages": {
+            "Text": 305305,
+            "M4": 109343,
+            "Shell": 109045,
+            "Makefile": 67242,
+            "Regular Expression": 39463,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-khk",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Halh Mongolian language",
+        "languages": {
+            "Text": 320267,
+            "M4": 109339,
+            "Shell": 109045,
+            "Makefile": 67456,
+            "Regular Expression": 39463,
+            "YAML": 11296,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-vot",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Votic language",
+        "languages": {
+            "Text": 343937,
+            "Shell": 110590,
+            "M4": 109330,
+            "Makefile": 68067,
+            "Regular Expression": 39423,
+            "YAML": 18732,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-lut",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Lushootseed language",
+        "languages": {
+            "Text": 413130,
+            "M4": 109337,
+            "Shell": 109091,
+            "Makefile": 80055,
+            "Regular Expression": 39688,
+            "YAML": 14757,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-sma",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Southern Sami language",
+        "languages": {
+            "Text": 4453208,
+            "YAML": 2029862,
+            "Makefile": 157315,
+            "Shell": 144631,
+            "M4": 109736,
+            "Regular Expression": 45754,
+            "TeX": 23080,
+            "Perl": 18401,
+            "XML": 6913,
+            "JavaScript": 1504
+        }
+    },
+    {
+        "name": "SNU_2D_ProgrammingTools_IDE_Text",
+        "description": "\u2328\ufe0f The Plain Text programming language IDE submodule for SNU Programming Tools (2D Mode) ",
+        "languages": {
+            "Text": 464431,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "996.ICU-master",
+        "description": "kkkkkkkkk",
+        "languages": {
+            "Text": 519855,
+            "Markdown": 248701,
+            "Rust": 16523,
+            "Go": 6832,
+            "Python": 3688,
+            "SVG": 2031,
+            "Makefile": 583,
+            "TOML": 412,
+            "Go Checksums": 326,
+            "Go Module": 130
+        }
+    },
+    {
+        "name": "lang-myv",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Erzya language",
+        "languages": {
+            "Text": 11920670,
+            "Python": 2564300,
+            "YAML": 213602,
+            "Shell": 111853,
+            "Regular Expression": 110916,
+            "M4": 109604,
+            "Makefile": 80605,
+            "XSLT": 31991,
+            "XML": 6040,
+            "Perl": 4720
+        }
+    },
+    {
+        "name": "lang-nob",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Norwegian Bokm\u00e5l language",
+        "languages": {
+            "Text": 4254519,
+            "YAML": 206275,
+            "Shell": 119972,
+            "M4": 109465,
+            "Makefile": 81283,
+            "Ruby": 51372,
+            "Regular Expression": 41228,
+            "Perl": 13310,
+            "XSLT": 10263,
+            "XML": 7398
+        }
+    },
+    {
+        "name": "template-lang-und",
+        "description": "A template repo for new languages, as well as to update existing language repos with.",
+        "languages": {
+            "Text": 254968,
+            "M4": 109368,
+            "Shell": 106184,
+            "Makefile": 65780,
+            "Regular Expression": 39467,
+            "YAML": 10119,
+            "XML": 6045
+        }
+    },
+    {
+        "name": "UERJ-TCC-Analisador-Dados-Texto",
+        "description": "Texto do trabalho de conclus\u00e3o de curso (TCC) em engenharia de computa\u00e7\u00e3o. Aplicativo Web para an\u00e1lise de dados. ",
+        "languages": {
+            "Text": 444
+        }
+    },
+    {
+        "name": "loxia",
+        "description": "Fink to JavaScript compiler",
+        "languages": {
+            "Text": 180343
+        }
+    },
+    {
+        "name": "require-hook",
+        "description": "A nodejs require hook to load fink modules.",
+        "languages": {
+            "Text": 3910
+        }
+    },
+    {
+        "name": "lang-amh",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Amharic language",
+        "languages": {
+            "Text": 295742,
+            "M4": 109331,
+            "Shell": 109045,
+            "Makefile": 67154,
+            "Regular Expression": 40474,
+            "YAML": 10119,
+            "Perl": 6999,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-sjd",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Kildin Sami language",
+        "languages": {
+            "Text": 426641,
+            "Shell": 120687,
+            "M4": 109336,
+            "Makefile": 85554,
+            "HTML": 68932,
+            "Regular Expression": 47690,
+            "YAML": 32302,
+            "XSLT": 18170,
+            "XML": 6040,
+            "Perl": 1767,
+            "CSS": 1230
+        }
+    },
+    {
+        "name": "lang-cho",
+        "description": "Finite state and Constraint Grammar based language resources for the Choctaw language. Part of the DIGHT 390R course at BYU.",
+        "languages": {
+            "Text": 311042,
+            "M4": 109332,
+            "Shell": 109045,
+            "Makefile": 67227,
+            "Regular Expression": 39463,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-tqn",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Sahaptin Tenino language",
+        "languages": {
+            "Text": 264786,
+            "M4": 109340,
+            "Shell": 109045,
+            "Makefile": 80594,
+            "Regular Expression": 39469,
+            "YAML": 10119,
+            "XML": 6045
+        }
+    },
+    {
+        "name": "digital_corpus",
+        "description": null,
+        "languages": {
+            "Text": 2780774,
+            "Makefile": 4527,
+            "Shell": 627
+        }
+    },
+    {
+        "name": "fink-loader",
+        "description": "A webpack loader for fink.",
+        "languages": {
+            "Text": 2137
+        }
+    },
+    {
+        "name": "lang-ron",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Romanian language",
+        "languages": {
+            "Text": 388054,
+            "M4": 109332,
+            "Shell": 109055,
+            "Makefile": 67316,
+            "Regular Expression": 40914,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-tur-x-ext-trmorph",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Turkish language",
+        "languages": {
+            "Text": 464864,
+            "Shell": 113200,
+            "M4": 109364,
+            "TeX": 101813,
+            "Makefile": 71808,
+            "Regular Expression": 37090,
+            "Python": 12124,
+            "YAML": 10119,
+            "XML": 6040,
+            "C": 572,
+            "sed": 485
+        }
+    },
+    {
+        "name": "lang-hdn",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Northern Haida language",
+        "languages": {
+            "Text": 1897509,
+            "YAML": 420164,
+            "Shell": 120996,
+            "M4": 109463,
+            "Makefile": 69954,
+            "Regular Expression": 39539,
+            "XML": 6040,
+            "Perl": 480,
+            "HTML": 320
+        }
+    },
+    {
+        "name": "lang-sju-x-sydlapsk",
+        "description": "Finite state and Constraint Grammar based analysers and language resources for the 18th century Southern Saami language.",
+        "languages": {
+            "Text": 148389,
+            "Shell": 116061,
+            "M4": 109553,
+            "Makefile": 67544,
+            "Regular Expression": 39481,
+            "YAML": 10119,
+            "XML": 6045
+        }
+    },
+    {
+        "name": "lang-hin",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Hindi language",
+        "languages": {
+            "Text": 289646,
+            "M4": 109330,
+            "Shell": 109045,
+            "Makefile": 67359,
+            "Regular Expression": 42577,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-lit",
+        "description": "Finite state and Constraint Grammar based language resources for the Lithuanian language. Part of the DIGHT 390R course at BYU.",
+        "languages": {
+            "Text": 274105,
+            "M4": 109334,
+            "Shell": 109045,
+            "Makefile": 67334,
+            "Regular Expression": 39463,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-got",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Gothic language",
+        "languages": {
+            "Text": 303449,
+            "M4": 109331,
+            "Shell": 109045,
+            "Makefile": 67334,
+            "Regular Expression": 39463,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "challenge-data",
+        "description": "Dependencies for challenges such as datasets",
+        "languages": {
+            "Text": 3864777,
+            "JSON": 256379,
+            "CSV": 83617,
+            "Markdown": 1163
+        }
+    },
+    {
+        "name": "lang-krl",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Karelian language",
+        "languages": {
+            "Text": 1695904,
+            "M4": 109464,
+            "Shell": 109308,
+            "Makefile": 68680,
+            "Regular Expression": 43038,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-tgl",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Tagalog language",
+        "languages": {
+            "Text": 296444,
+            "M4": 109331,
+            "Shell": 109034,
+            "Makefile": 79063,
+            "Regular Expression": 42086,
+            "YAML": 10707,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-mrj",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Western Mari language",
+        "languages": {
+            "Text": 1970647,
+            "YAML": 224110,
+            "Shell": 111977,
+            "M4": 109512,
+            "Makefile": 72715,
+            "Regular Expression": 72410,
+            "XML": 6040,
+            "Perl": 687
+        }
+    },
+    {
+        "name": "prattler",
+        "description": "A generic top down operator precedence parser",
+        "languages": {
+            "Text": 10966
+        }
+    },
+    {
+        "name": "PrimerPokemon",
+        "description": "Este repositorio es una plataforma personal para el desarrollo de un hackroom de prueba de Pok\u00e9mon, empleando sprites disponibles en l\u00ednea.",
+        "languages": {
+            "Text": 1971276,
+            "INI": 214
+        }
+    },
+    {
+        "name": "lang-bxr",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Russia Buriat language",
+        "languages": {
+            "Text": 1207562,
+            "M4": 109487,
+            "Shell": 107434,
+            "Makefile": 80317,
+            "YAML": 49197,
+            "Regular Expression": 30183,
+            "XML": 6040,
+            "Perl": 2576
+        }
+    },
+    {
+        "name": "cli",
+        "description": "Command Line Interface for compiling fink.",
+        "languages": {
+            "Text": 12554
+        }
+    },
+    {
+        "name": "lang-kal",
+        "description": "Customized clone of GiellaLT's lang-kal",
+        "languages": {
+            "Text": 14914443,
+            "Shell": 110568,
+            "M4": 107871,
+            "Makefile": 79764,
+            "Perl": 76146,
+            "Regular Expression": 51007,
+            "YAML": 14443,
+            "XML": 4232
+        }
+    },
+    {
+        "name": "Team-404-project-1",
+        "description": "\u041f\u0440\u043e\u0434\u0432\u0438\u043d\u0443\u0442\u0430\u044f todo \u0441 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c\u044e \u0430\u0443\u0442\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u0438, \u0441 \u0440\u0430\u0437\u0431\u0438\u0435\u043d\u0438\u0435\u043c \u043d\u0430 \u0432\u043e\u0440\u043a\u0441\u043f\u0435\u0439\u0441\u044b \u0438 \u0440\u0430\u0431\u043e\u0442\u043e\u0439 \u0432 \u043a\u043e\u043c\u0430\u043d\u0434\u0435",
+        "languages": {
+            "Text": 783067,
+            "Python": 675302,
+            "TypeScript": 90987,
+            "SVG": 19034,
+            "SCSS": 7577,
+            "Jupyter Notebook": 6852,
+            "INI": 3644,
+            "Pip Requirements": 3154,
+            "JSON": 2795,
+            "JavaScript": 686,
+            "HTML": 660,
+            "YAML": 660,
+            "Mako": 635,
+            "Dockerfile": 363,
+            "Shell": 133
+        }
+    },
+    {
+        "name": "lang-fit",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Me\u00e4nkieli (Tornedalen Finnish) language",
+        "languages": {
+            "Text": 2507489,
+            "Shell": 118240,
+            "M4": 109480,
+            "HTML": 101849,
+            "Makefile": 83463,
+            "YAML": 74149,
+            "Regular Expression": 40316,
+            "XML": 6040,
+            "Perl": 495
+        }
+    },
+    {
+        "name": "lang-sqi",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Albanian language",
+        "languages": {
+            "Text": 308856,
+            "M4": 109332,
+            "Shell": 109091,
+            "Makefile": 67262,
+            "Regular Expression": 39463,
+            "YAML": 12260,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "DataScienceAcademy-PowerBI-3.0",
+        "description": "Projetos do curso Microsoft Power BI Para Data Science Vers\u00e3o 3.0 da DataScienceAcademy. Dashboards para diversos casos de neg\u00f3cios.",
+        "languages": {
+            "Text": 29763
+        }
+    },
+    {
+        "name": "lang-quc-x-ext-apertium",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the K'iche' language. FST source in Apertium.",
+        "languages": {
+            "Text": 853620,
+            "Shell": 113710,
+            "M4": 110975,
+            "Makefile": 72663,
+            "Regular Expression": 39463,
+            "Python": 12315,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "larix",
+        "description": "parser and fink language definition",
+        "languages": {
+            "Text": 86868
+        }
+    },
+    {
+        "name": "lang-mya",
+        "description": "Finite state and Constraint Grammar based language resources for the Burmese language. Part of the DIGHT 390R course at BYU.",
+        "languages": {
+            "Text": 276037,
+            "M4": 109331,
+            "Shell": 109045,
+            "Makefile": 67175,
+            "Regular Expression": 39778,
+            "YAML": 10721,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-iku",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Inuktitut language",
+        "languages": {
+            "Text": 304264,
+            "M4": 109333,
+            "Shell": 109045,
+            "Makefile": 67227,
+            "Regular Expression": 60654,
+            "YAML": 10119,
+            "XML": 6040,
+            "Perl": 5433
+        }
+    },
+    {
+        "name": "DataScienceAcademy-PowerBI-2.0",
+        "description": "Projetos do curso Microsoft Power BI Para Data Science Vers\u00e3o 2.0 da DataScienceAcademy.",
+        "languages": {
+            "Text": 8324
+        }
+    },
+    {
+        "name": "lang-tlh",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Klingon language",
+        "languages": {
+            "Text": 310036,
+            "M4": 109390,
+            "Shell": 109045,
+            "Makefile": 67337,
+            "Regular Expression": 44747,
+            "YAML": 10119,
+            "XML": 6941
+        }
+    },
+    {
+        "name": "lang-olo",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Livvi language",
+        "languages": {
+            "Text": 3585926,
+            "YAML": 177611,
+            "Shell": 114155,
+            "M4": 109454,
+            "Makefile": 83525,
+            "Regular Expression": 40318,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "std-lib",
+        "description": "fink standard library",
+        "languages": {
+            "Text": 40719
+        }
+    },
+    {
+        "name": "lang-bul",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Bulgarian language",
+        "languages": {
+            "Text": 334719,
+            "M4": 109333,
+            "Shell": 109045,
+            "Makefile": 68237,
+            "Regular Expression": 39463,
+            "YAML": 10119,
+            "XML": 6040,
+            "Perl": 2101
+        }
+    },
+    {
+        "name": "lang-liv",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Liv language",
+        "languages": {
+            "Text": 1276952,
+            "YAML": 794602,
+            "Shell": 111053,
+            "M4": 109328,
+            "Makefile": 77248,
+            "Regular Expression": 43023,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-inp",
+        "description": "Finite state and Constraint Grammar based language resources for the I\u00f1apari language. Part of the DIGHT 390R course at BYU.",
+        "languages": {
+            "Text": 274025,
+            "M4": 109333,
+            "Shell": 109045,
+            "Makefile": 67334,
+            "Regular Expression": 39463,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "DIO-Microsoft-Azure-AI-Fundamentals",
+        "description": "Registros das atividades do bootcamp Microsoft Azure AI Fundamentals da DIO.",
+        "languages": {
+            "Text": 3242
+        }
+    },
+    {
+        "name": "lang-ckt",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Chukot language",
+        "languages": {
+            "Text": 295920,
+            "M4": 109331,
+            "Shell": 109045,
+            "Makefile": 67334,
+            "Regular Expression": 39463,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-ess",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Central Siberian Yupik language",
+        "languages": {
+            "Text": 296096,
+            "M4": 109347,
+            "Shell": 109045,
+            "Makefile": 67278,
+            "Regular Expression": 45260,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-kca",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Khanty language",
+        "languages": {
+            "Text": 287643,
+            "M4": 109331,
+            "Shell": 109045,
+            "Makefile": 70101,
+            "Regular Expression": 41851,
+            "YAML": 34436,
+            "XSLT": 9722,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "install-archlinux-basicish",
+        "description": "A Document for how I install Arch Linux on my personal device. Detailed way with helpful tips for others.",
+        "languages": {
+            "Text": 11553
+        }
+    },
+    {
+        "name": "lang-skf",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Sakirabi\u00e1 language",
+        "languages": {
+            "Text": 306504,
+            "M4": 109335,
+            "Shell": 109045,
+            "Makefile": 67331,
+            "Regular Expression": 39463,
+            "YAML": 12694,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-nds",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Low German language",
+        "languages": {
+            "Text": 334050,
+            "M4": 109335,
+            "Shell": 109091,
+            "Makefile": 67860,
+            "Regular Expression": 39463,
+            "YAML": 17031,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-hil",
+        "description": "Finite state and Constraint Grammar based language resources for the Hiligaynon language. Part of the DIGHT 390R course at BYU.",
+        "languages": {
+            "Text": 1408724,
+            "M4": 109509,
+            "Shell": 108641,
+            "Makefile": 67065,
+            "Regular Expression": 39463,
+            "YAML": 10119,
+            "XML": 6045,
+            "Python": 3736
+        }
+    },
+    {
+        "name": ".github",
+        "description": "GitHub config repository.",
+        "languages": {
+            "Text": 1065,
+            "Markdown": 981
+        }
+    },
+    {
+        "name": "ascii_art",
+        "description": ":smile: Have a nice day",
+        "languages": {
+            "Text": 1155
+        }
+    },
+    {
+        "name": "cdns",
+        "description": null,
+        "languages": {
+            "Text": 26
+        }
+    },
+    {
+        "name": "lang-est-x-plamk",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Estonian language",
+        "languages": {
+            "Text": 8045000,
+            "YAML": 567454,
+            "sed": 191147,
+            "Shell": 186358,
+            "M4": 109357,
+            "Makefile": 103801,
+            "Regular Expression": 88870,
+            "Roff": 13034,
+            "XML": 6040,
+            "Python": 2825,
+            "Perl": 442
+        }
+    },
+    {
+        "name": "lang-zxx",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the No linguistic content language",
+        "languages": {
+            "Text": 296993,
+            "M4": 109346,
+            "Shell": 109045,
+            "Makefile": 67334,
+            "Regular Expression": 39463,
+            "YAML": 10128,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-nso",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Pedi language",
+        "languages": {
+            "Text": 292765,
+            "M4": 109329,
+            "Shell": 109045,
+            "Makefile": 67216,
+            "Regular Expression": 42537,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-gle",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Irish language",
+        "languages": {
+            "Text": 3955817,
+            "Shell": 112181,
+            "M4": 109329,
+            "Makefile": 73061,
+            "Regular Expression": 64042,
+            "YAML": 11074,
+            "XML": 6801
+        }
+    },
+    {
+        "name": "rollup",
+        "description": "rollup plugin",
+        "languages": {
+            "Text": 2708
+        }
+    },
+    {
+        "name": "lang-sto",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Stoney language",
+        "languages": {
+            "Text": 295906,
+            "M4": 109331,
+            "Shell": 108959,
+            "Makefile": 67334,
+            "Regular Expression": 39463,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-xwo",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Written Oirat language",
+        "languages": {
+            "Text": 296181,
+            "M4": 109396,
+            "Shell": 109045,
+            "Makefile": 67386,
+            "Regular Expression": 39871,
+            "YAML": 10119,
+            "XML": 6945,
+            "Perl": 397
+        }
+    },
+    {
+        "name": "lang-slh",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Southern Lushootseed language.",
+        "languages": {
+            "Text": 332433,
+            "M4": 109345,
+            "Shell": 106184,
+            "Makefile": 77950,
+            "Regular Expression": 39553,
+            "YAML": 10570,
+            "XML": 6045
+        }
+    },
+    {
+        "name": "lazy-react-redux",
+        "description": null,
+        "languages": {
+            "Text": 3737,
+            "JavaScript": 362
+        }
+    },
+    {
+        "name": "-",
+        "description": null,
+        "languages": {
+            "Text": 372913524,
+            "HTML": 11068930,
+            "JSON": 144308,
+            "Markdown": 4914,
+            "Batchfile": 1927,
+            "Makefile": 309
+        }
+    },
+    {
+        "name": "myblacklist",
+        "description": "My personal blacklists for the web",
+        "languages": {
+            "Text": 2715,
+            "Go": 1471
+        }
+    },
+    {
+        "name": "lang-spa-x-ext-apertium",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Spanish language",
+        "languages": {
+            "Text": 286338,
+            "Shell": 113097,
+            "M4": 109931,
+            "XML": 75306,
+            "Makefile": 72518,
+            "Regular Expression": 39459,
+            "YAML": 10408,
+            "Python": 3288
+        }
+    },
+    {
+        "name": "lang-aka",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Akan language",
+        "languages": {
+            "Text": 299861,
+            "M4": 109222,
+            "Shell": 108161,
+            "Makefile": 67324,
+            "Regular Expression": 39463,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-ara",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Arabic language",
+        "languages": {
+            "Text": 291293,
+            "M4": 109330,
+            "Shell": 109045,
+            "Makefile": 67148,
+            "Regular Expression": 39463,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-mns",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Mansi language",
+        "languages": {
+            "Text": 1212087,
+            "YAML": 323006,
+            "Shell": 114063,
+            "M4": 109602,
+            "Makefile": 71068,
+            "Regular Expression": 38665,
+            "XML": 6040,
+            "Perl": 2428
+        }
+    },
+    {
+        "name": "practice-detect-encoding",
+        "description": "Detect Encoding Practice",
+        "languages": {
+            "Text": 214
+        }
+    },
+    {
+        "name": "lang-dag",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Dagbani language",
+        "languages": {
+            "Text": 234080,
+            "M4": 109332,
+            "Shell": 109045,
+            "Makefile": 67366,
+            "Regular Expression": 39459,
+            "YAML": 10119,
+            "XML": 6045
+        }
+    },
+    {
+        "name": "lang-xak",
+        "description": "Finite state and Constraint Grammar based language resources for the Maku language. Part of the DIGHT 390R course at BYU.",
+        "languages": {
+            "Text": 272829,
+            "M4": 109329,
+            "Shell": 109045,
+            "Makefile": 67009,
+            "Regular Expression": 39515,
+            "YAML": 10906,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-tku",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Upper Necaxa Totonac language",
+        "languages": {
+            "Text": 301089,
+            "M4": 109345,
+            "Shell": 108960,
+            "Makefile": 67334,
+            "Regular Expression": 39453,
+            "YAML": 19424,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-vep",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Veps language",
+        "languages": {
+            "Text": 572664,
+            "Shell": 112267,
+            "M4": 109453,
+            "Makefile": 69483,
+            "Regular Expression": 40217,
+            "YAML": 24692,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "DataScienceAcademy-PowerBI-ClinicaDeBI",
+        "description": "Atividades do curso An\u00e1lise de Dados com Microsoft Power BI e Cl\u00ednica de BI da Data Science Academy.",
+        "languages": {
+            "Text": 13240
+        }
+    },
+    {
+        "name": "lang-cor",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Cornish language",
+        "languages": {
+            "Text": 626880,
+            "Shell": 112884,
+            "M4": 109455,
+            "Makefile": 68488,
+            "Regular Expression": 48442,
+            "YAML": 10266,
+            "XML": 6040,
+            "Perl": 2676
+        }
+    },
+    {
+        "name": "lang-nno",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Norwegian Nynorsk language",
+        "languages": {
+            "Text": 4079745,
+            "M4": 109449,
+            "Shell": 109045,
+            "Makefile": 70061,
+            "Regular Expression": 41888,
+            "YAML": 10119,
+            "XML": 6965,
+            "Perl": 1534
+        }
+    },
+    {
+        "name": "lang-koi",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Komi-Permyak language",
+        "languages": {
+            "Text": 6546441,
+            "YAML": 1010832,
+            "Shell": 109814,
+            "M4": 109486,
+            "Makefile": 70066,
+            "Regular Expression": 38588,
+            "XML": 6040,
+            "Perl": 1330
+        }
+    },
+    {
+        "name": "lang-hun",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Hungarian language",
+        "languages": {
+            "Text": 1794894,
+            "M4": 109333,
+            "Shell": 109045,
+            "Makefile": 78100,
+            "Regular Expression": 39459,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-bak",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Bashkir language",
+        "languages": {
+            "Text": 1171206,
+            "Shell": 109926,
+            "M4": 109455,
+            "Makefile": 68377,
+            "Regular Expression": 39463,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-rmu-x-testing",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Tavringer Romani language",
+        "languages": {
+            "Text": 299849,
+            "Shell": 111865,
+            "M4": 109465,
+            "Makefile": 68243,
+            "Regular Expression": 39463,
+            "YAML": 10662,
+            "XML": 6040,
+            "Perl": 4458
+        }
+    },
+    {
+        "name": "lang-aym",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Aymara language",
+        "languages": {
+            "Text": 295920,
+            "HTML": 155304,
+            "M4": 109330,
+            "Shell": 109045,
+            "Makefile": 67334,
+            "Regular Expression": 39463,
+            "YAML": 10119,
+            "XML": 6040,
+            "XSLT": 1414
+        }
+    },
+    {
+        "name": "lang-ciw",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Chippewa language",
+        "languages": {
+            "Text": 6251325,
+            "YAML": 1281778,
+            "Shell": 159537,
+            "Regular Expression": 124899,
+            "M4": 109333,
+            "Makefile": 68363,
+            "Python": 43997,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-swe",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Swedish language",
+        "languages": {
+            "Text": 306131,
+            "Shell": 116389,
+            "M4": 109331,
+            "Makefile": 68109,
+            "Regular Expression": 39463,
+            "HTML": 24824,
+            "CSS": 17929,
+            "YAML": 11136,
+            "XML": 6040,
+            "JavaScript": 2200
+        }
+    },
+    {
+        "name": "lang-rmf",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Kalo Finnish Romani language",
+        "languages": {
+            "Text": 297474,
+            "Shell": 116161,
+            "M4": 109344,
+            "Makefile": 67506,
+            "Regular Expression": 39467,
+            "YAML": 23372,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-ndl",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Ndolo language",
+        "languages": {
+            "Text": 296841,
+            "M4": 109330,
+            "Shell": 109045,
+            "Makefile": 67339,
+            "Regular Expression": 39476,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "snippet",
+        "description": null,
+        "languages": {
+            "Text": 2616
+        }
+    },
+    {
+        "name": "overthrow3.0-free",
+        "description": "source code Overthrow 3.0 -> Overthrow 4.0 (epics only)",
+        "languages": {
+            "Text": 1285940,
+            "Lua": 1086709,
+            "JavaScript": 433762,
+            "CSS": 375032,
+            "XML": 144128,
+            "Batchfile": 378,
+            "INI": 74
+        }
+    },
+    {
+        "name": "lang-fro",
+        "description": "Finite state and Constraint Grammar based language resources for the Old French (842-ca. 1400) language. Part of the DIGHT 390R course at BYU.",
+        "languages": {
+            "Text": 392026,
+            "M4": 109335,
+            "Shell": 109045,
+            "Makefile": 67546,
+            "Regular Expression": 39523,
+            "YAML": 10507,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-deu",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the German language",
+        "languages": {
+            "Text": 1625154,
+            "Shell": 114098,
+            "M4": 109517,
+            "Makefile": 67637,
+            "Regular Expression": 39459,
+            "YAML": 11679,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-luo",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Luo (Kenya and Tanzania) language",
+        "languages": {
+            "Text": 300954,
+            "M4": 109349,
+            "Shell": 109045,
+            "Makefile": 67334,
+            "YAML": 56846,
+            "Regular Expression": 39463,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-sjt",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Ter Sami language",
+        "languages": {
+            "Text": 316092,
+            "M4": 109333,
+            "Shell": 109045,
+            "Makefile": 67366,
+            "Regular Expression": 39463,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-kio",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Kiowa language",
+        "languages": {
+            "Text": 307176,
+            "M4": 109330,
+            "Shell": 109045,
+            "Makefile": 67241,
+            "Regular Expression": 39463,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-dsb",
+        "description": "Finite state and Constraint Grammar based language resources for the Lower Sorbian language. Part of the DIGHT 390R course at BYU.",
+        "languages": {
+            "Text": 274162,
+            "M4": 109338,
+            "Shell": 109045,
+            "Makefile": 67334,
+            "Regular Expression": 39463,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-chp",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Chipewyan language",
+        "languages": {
+            "Text": 309212,
+            "M4": 109334,
+            "Shell": 108959,
+            "Makefile": 67084,
+            "Regular Expression": 41736,
+            "YAML": 10774,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-eng",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the English language",
+        "languages": {
+            "Text": 405282,
+            "M4": 109331,
+            "Shell": 109045,
+            "Makefile": 67334,
+            "Regular Expression": 39463,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-moh",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Mohawk language",
+        "languages": {
+            "Text": 363752,
+            "M4": 109331,
+            "Shell": 109328,
+            "Regular Expression": 88618,
+            "Makefile": 67324,
+            "YAML": 13036,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-mpj",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Wangkajunga language",
+        "languages": {
+            "Text": 454506,
+            "Shell": 113412,
+            "M4": 109336,
+            "Makefile": 66737,
+            "Regular Expression": 39463,
+            "YAML": 11269,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-xin-x-qda",
+        "description": "Finite state and Constraint Grammar based language resources for the Guazacap\u00e1n language. Part of the DIGHT 390R course at BYU.",
+        "languages": {
+            "Text": 276252,
+            "M4": 109366,
+            "Shell": 109045,
+            "Makefile": 67272,
+            "Regular Expression": 39463,
+            "YAML": 10459,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-rue",
+        "description": "Finite state and Constraint Grammar based language resources for the Rusyn language. Part of the DIGHT 390R course at BYU.",
+        "languages": {
+            "Text": 272684,
+            "M4": 109330,
+            "Shell": 109045,
+            "Makefile": 67055,
+            "Regular Expression": 39463,
+            "YAML": 10485,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-evn",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Evenki language",
+        "languages": {
+            "Text": 291132,
+            "M4": 109331,
+            "Shell": 109091,
+            "Makefile": 67064,
+            "Regular Expression": 38416,
+            "YAML": 27698,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-dgr",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Dogrib language",
+        "languages": {
+            "Text": 516626,
+            "M4": 109331,
+            "Shell": 109045,
+            "Makefile": 67358,
+            "Regular Expression": 43394,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-pma",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Paama language ",
+        "languages": {
+            "Text": 216906,
+            "Shell": 110483,
+            "M4": 109456,
+            "Makefile": 67640,
+            "Regular Expression": 39459,
+            "YAML": 10119,
+            "XML": 6045
+        }
+    },
+    {
+        "name": "lang-xal",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Kalmyk language",
+        "languages": {
+            "Text": 299289,
+            "M4": 109325,
+            "Shell": 109045,
+            "Makefile": 67334,
+            "Regular Expression": 39463,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-rmg",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Traveller Norwegian language",
+        "languages": {
+            "Text": 154673,
+            "Shell": 115373,
+            "M4": 109468,
+            "Makefile": 67676,
+            "Regular Expression": 39463,
+            "YAML": 10119,
+            "XML": 6045
+        }
+    },
+    {
+        "name": "lang-sel",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Selkup language",
+        "languages": {
+            "Text": 258227,
+            "Shell": 110309,
+            "M4": 109331,
+            "Makefile": 67394,
+            "Regular Expression": 39463,
+            "YAML": 11449,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-kjh",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Khakas language",
+        "languages": {
+            "Text": 295906,
+            "M4": 109331,
+            "Shell": 109045,
+            "Makefile": 67334,
+            "Regular Expression": 39463,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-nio",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Nganasan language",
+        "languages": {
+            "Text": 302932,
+            "M4": 109333,
+            "Shell": 109045,
+            "Makefile": 67447,
+            "Regular Expression": 39941,
+            "YAML": 12180,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-tha",
+        "description": "Finite state and Constraint Grammar based language resources for the Thai language. Part of the DIGHT 390R course at BYU.",
+        "languages": {
+            "Text": 273949,
+            "M4": 109328,
+            "Shell": 109045,
+            "Makefile": 67334,
+            "Regular Expression": 39463,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-rup",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Macedo-Romanian/Aromanian language",
+        "languages": {
+            "Text": 293514,
+            "M4": 109340,
+            "Shell": 109045,
+            "Makefile": 67056,
+            "Regular Expression": 40888,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-rmy",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Vlax Romani language",
+        "languages": {
+            "Text": 297329,
+            "M4": 109336,
+            "Shell": 109045,
+            "Makefile": 67334,
+            "Regular Expression": 39463,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-eus",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Basque language",
+        "languages": {
+            "Text": 305432,
+            "M4": 109330,
+            "Shell": 109045,
+            "Makefile": 67278,
+            "Regular Expression": 41927,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-tuv",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Turkana language",
+        "languages": {
+            "Text": 298215,
+            "M4": 109332,
+            "Shell": 109045,
+            "Makefile": 67077,
+            "Regular Expression": 39476,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-kek",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Q\u02bceqchi\u02bc language",
+        "languages": {
+            "Text": 291447,
+            "Shell": 110060,
+            "M4": 109468,
+            "Makefile": 67160,
+            "Regular Expression": 39489,
+            "YAML": 22162,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-tel",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Telugu language",
+        "languages": {
+            "Text": 291469,
+            "M4": 109330,
+            "Shell": 109045,
+            "Makefile": 67179,
+            "Regular Expression": 40981,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-tyv",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Tuvinian language",
+        "languages": {
+            "Text": 295944,
+            "M4": 109333,
+            "Shell": 109045,
+            "Makefile": 67334,
+            "Regular Expression": 39463,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-non",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Old Norse language",
+        "languages": {
+            "Text": 4103169,
+            "Regular Expression": 1527525,
+            "Shell": 113233,
+            "M4": 109458,
+            "Makefile": 68330,
+            "YAML": 10115,
+            "XML": 6040,
+            "Perl": 1385
+        }
+    },
+    {
+        "name": "jest",
+        "description": "A Jest transformer for fink modules.",
+        "languages": {
+            "Text": 11594,
+            "JavaScript": 187
+        }
+    },
+    {
+        "name": "tokeitest",
+        "description": null,
+        "languages": {
+            "Text": 6,
+            "Python": 4
+        }
+    },
+    {
+        "name": "lang-ces",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Czech language",
+        "languages": {
+            "Text": 303120,
+            "M4": 109329,
+            "Shell": 109045,
+            "Makefile": 67441,
+            "Regular Expression": 41133,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-gur",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Farefare language",
+        "languages": {
+            "Text": 232481,
+            "M4": 109333,
+            "Shell": 109045,
+            "Makefile": 67334,
+            "Regular Expression": 39459,
+            "YAML": 10119,
+            "XML": 6045
+        }
+    },
+    {
+        "name": "lang-izh",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Ingrian language",
+        "languages": {
+            "Text": 496742,
+            "M4": 109332,
+            "Shell": 109045,
+            "Makefile": 68104,
+            "Regular Expression": 44647,
+            "YAML": 26478,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-ipk",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Inupiaq language",
+        "languages": {
+            "Text": 501408,
+            "M4": 109331,
+            "Shell": 109045,
+            "Makefile": 67229,
+            "Regular Expression": 45158,
+            "YAML": 10119,
+            "XML": 6040,
+            "Perl": 237
+        }
+    },
+    {
+        "name": "vscode-fink",
+        "description": "vscode extension for fink",
+        "languages": {
+            "Text": 63247
+        }
+    },
+    {
+        "name": "SplashText",
+        "description": "All Minecraft Splashes for Java Edition in text file format",
+        "languages": {
+            "Text": 705411,
+            "Markdown": 3852
+        }
+    },
+    {
+        "name": "NexosEducacao-Imersao-PowerBI",
+        "description": "Atividades realizadas na Imers\u00e3o PowerBI pela Nexos Educa\u00e7\u00e3o com Karine Lago e Leticia Smirelli em Setembro de 2023.",
+        "languages": {
+            "Text": 4028
+        }
+    },
+    {
+        "name": "lang-ale",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools + language resources for Aleut",
+        "languages": {
+            "Text": 407825,
+            "Shell": 109871,
+            "M4": 109330,
+            "Makefile": 67334,
+            "Regular Expression": 39459,
+            "YAML": 10119,
+            "XML": 6045
+        }
+    },
+    {
+        "name": "lang-grn",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Guarani language",
+        "languages": {
+            "Text": 294160,
+            "M4": 109331,
+            "Shell": 109045,
+            "Makefile": 67364,
+            "Regular Expression": 43860,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-zul-x-exp",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Zulu language",
+        "languages": {
+            "Text": 295605,
+            "M4": 109328,
+            "Shell": 109045,
+            "Makefile": 67129,
+            "Regular Expression": 40729,
+            "YAML": 10119,
+            "XML": 6040
+        }
+    },
+    {
+        "name": "lang-tat",
+        "description": "Finite state and Constraint Grammar based analysers and proofing tools, and language resources for the Tatar language",
+        "languages": {
+            "Text": 873395,
+            "M4": 109388,
+            "Shell": 109045,
+            "Makefile": 67898,
+            "Regular Expression": 41450,
+            "YAML": 10102,
+            "XML": 6937
         }
     }
 ]

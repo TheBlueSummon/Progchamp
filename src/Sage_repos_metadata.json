@@ -44,5 +44,1629 @@
             "MATLAB": 33328,
             "Python": 28562
         }
+    },
+    {
+        "name": "Cryptographic-Attacks",
+        "description": "Repository containing implementation of attacks on modern public key cryptosystems and symmetric key ciphers.",
+        "languages": {
+            "Sage": 30489,
+            "Python": 6317
+        }
+    },
+    {
+        "name": "RSA-is-alive",
+        "description": "Implementation of https://eprint.iacr.org/2021/232",
+        "languages": {
+            "Sage": 5787,
+            "TeX": 2436
+        }
+    },
+    {
+        "name": "LLL",
+        "description": "A repository trying to collect things related to LLL",
+        "languages": {
+            "Sage": 20177
+        }
+    },
+    {
+        "name": "lattice-based-cryptanalysis",
+        "description": "A toolkit for cryptanalysis using lattices.",
+        "languages": {
+            "Sage": 21194,
+            "Python": 1259
+        }
+    },
+    {
+        "name": "pasta",
+        "description": "Generator and supporting evidence for security of the Pallas/Vesta pair of elliptic curves suitable for Halo",
+        "languages": {
+            "Sage": 77013,
+            "Python": 30814,
+            "Shell": 810
+        }
+    },
+    {
+        "name": "writeups",
+        "description": "A collection of various writeups on research topics",
+        "languages": {
+            "Sage": 12907,
+            "Python": 5406,
+            "C++": 3556
+        }
+    },
+    {
+        "name": "moonmath",
+        "description": "Solutions to exercises from MoonMath Manual to zkSNARKs.",
+        "languages": {
+            "Sage": 32680,
+            "Shell": 2078,
+            "Makefile": 1045,
+            "Circom": 615,
+            "CSS": 195,
+            "JavaScript": 40
+        }
+    },
+    {
+        "name": "cocalc-example-files",
+        "description": "Collection of examples to get started with CoCalc",
+        "languages": {
+            "Sage": 2459921,
+            "TeX": 1047958,
+            "PostScript": 484140,
+            "Jupyter Notebook": 389704,
+            "Python": 2825,
+            "Fortran": 1348,
+            "Makefile": 924,
+            "JavaScript": 386,
+            "HTML": 159,
+            "CSS": 141,
+            "OCaml": 136,
+            "Shell": 66,
+            "M": 22
+        }
+    },
+    {
+        "name": "coppersmith-algorithm",
+        "description": "Implements Coron's simplification of Coppersmith's algorithm",
+        "languages": {
+            "Sage": 11629
+        }
+    },
+    {
+        "name": "SIKE-challenges",
+        "description": null,
+        "languages": {
+            "Sage": 13788
+        }
+    },
+    {
+        "name": "leaky-LWE-Estimator",
+        "description": "A sage Toolkit for mounting/estimating attacks on LWE with Side Information",
+        "languages": {
+            "Sage": 123929,
+            "Python": 2370
+        }
+    },
+    {
+        "name": "curvesearch",
+        "description": "Elliptic curve search experiments",
+        "languages": {
+            "Sage": 65791,
+            "Python": 1792
+        }
+    },
+    {
+        "name": "pluto-eris",
+        "description": "Generator and supporting evidence for security of the Pluto/Eris half-pairing cycle of elliptic curves",
+        "languages": {
+            "Sage": 23406,
+            "Python": 4456,
+            "Shell": 524
+        }
+    },
+    {
+        "name": "starkjub",
+        "description": "A STARK-friendly elliptic curve designed to work within Cairo circuits",
+        "languages": {
+            "Sage": 34133,
+            "Python": 4051,
+            "Shell": 92
+        }
+    },
+    {
+        "name": "Lattice-Attacks-on-EC-DSA",
+        "description": "Implementation of Lattice Attacks on (EC)DSA described in the research paper: Chao Sun,Thomas Espitau, Mehdi Tibouchi, and Masayuki Abe, \"Guessing Bits: Improved Lattice Attacks on (EC)DSA with Nonce Leakage\", to appear at IACR Transactions on Cryptographic Hardware and Embedded Systems (TCHES), 2022/1.",
+        "languages": {
+            "Sage": 12029
+        }
+    },
+    {
+        "name": "my-ctf-challenges",
+        "description": "My CTF challenges, especially cryptography",
+        "languages": {
+            "Sage": 51311,
+            "Python": 14072,
+            "Dockerfile": 490
+        }
+    },
+    {
+        "name": "sbox",
+        "description": "Analysis and generation of substitutions",
+        "languages": {
+            "Sage": 75025,
+            "C": 29724,
+            "C++": 7752
+        }
+    },
+    {
+        "name": "primes-backdoor",
+        "description": "Prime backdooring procedure to allow fast factorization of semiprimes",
+        "languages": {
+            "Sage": 5610
+        }
+    },
+    {
+        "name": "tweedle",
+        "description": "Generator and supporting evidence for security of the Tweedledum/Tweedledee pair of elliptic curves suitable for Halo",
+        "languages": {
+            "Sage": 25286,
+            "Python": 14105,
+            "Shell": 828
+        }
+    },
+    {
+        "name": "keycommitment",
+        "description": "Sample implementations of the attacks shown in https://eprint.iacr.org/2020/1456",
+        "languages": {
+            "Sage": 40415
+        }
+    },
+    {
+        "name": "my-ctf-challenges",
+        "description": "\ud83e\udde9 Collection of CTF challenges written by me",
+        "languages": {
+            "Sage": 39293,
+            "Python": 14694,
+            "Dockerfile": 1334,
+            "Shell": 374
+        }
+    },
+    {
+        "name": "cqb_writeups",
+        "description": "some writeups for ChunQiuBei",
+        "languages": {
+            "Sage": 223309,
+            "Python": 104315
+        }
+    },
+    {
+        "name": "Marvellous",
+        "description": "The instance generator of the Vision and Rescue block ciphers.",
+        "languages": {
+            "Sage": 23449,
+            "Python": 7780
+        }
+    },
+    {
+        "name": "jubjub",
+        "description": "Supporting evidence for security of the Jubjub curve to be used in Zcash",
+        "languages": {
+            "Sage": 13092,
+            "Shell": 92
+        }
+    },
+    {
+        "name": "RSA-extending-wiener-attack",
+        "description": "An implementation of RSA extending Wiener attack",
+        "languages": {
+            "Sage": 7282
+        }
+    },
+    {
+        "name": "objects-invariants-properties",
+        "description": "Objects, Invariants and Properties for Graph Theory (GT) automated conjecturing: in particular with the Sage program CONJECTURING: http://nvcleemp.github.io/conjecturing/",
+        "languages": {
+            "Sage": 14593590,
+            "Shell": 2588,
+            "Makefile": 1049
+        }
+    },
+    {
+        "name": "shorter_linear_slps_for_mds_matrices",
+        "description": "SLPs for the ToSC Volume 2017 Issue 4 paper 'Shorter Linear Straight-Line Programs for MDS Matrices'",
+        "languages": {
+            "Sage": 246934,
+            "C": 47282,
+            "C++": 19434,
+            "Makefile": 557
+        }
+    },
+    {
+        "name": "cutgeneratingfunctionology",
+        "description": "Python code for computation and experimentation with cut-generating functions, in particular the Gomory-Johnson infinite group problem. By M. K\u00f6ppe, Y. Zhou, C.Y. Hong, J. Wang with contributions by undergrad programmers",
+        "languages": {
+            "Sage": 1624664,
+            "Python": 531686,
+            "TeX": 68159,
+            "Jupyter Notebook": 19746,
+            "Makefile": 8315,
+            "Shell": 3901,
+            "Emacs Lisp": 252
+        }
+    },
+    {
+        "name": "pairing-playground",
+        "description": null,
+        "languages": {
+            "Sage": 19720
+        }
+    },
+    {
+        "name": "CastryckDecru",
+        "description": "Wouter Castryck, Thomas Decru. \"An efficient key recovery attack on SIDH\" \u306e\u5b9f\u88c5",
+        "languages": {
+            "Sage": 30971
+        }
+    },
+    {
+        "name": "MDS",
+        "description": null,
+        "languages": {
+            "Sage": 31296
+        }
+    },
+    {
+        "name": "regevnum",
+        "description": "The Sage implementation of a simulator for Regev's factoring algorithm, and of Regev's post-processing algorithm.",
+        "languages": {
+            "Sage": 28247,
+            "Python": 3103
+        }
+    },
+    {
+        "name": "HypermatrixAlgebraPackage",
+        "description": null,
+        "languages": {
+            "Sage": 1595407,
+            "Python": 1594227
+        }
+    },
+    {
+        "name": "poseidon",
+        "description": null,
+        "languages": {
+            "Sage": 210250,
+            "C": 123258,
+            "Jupyter Notebook": 62528,
+            "Assembly": 29819,
+            "Shell": 2930,
+            "Makefile": 2411
+        }
+    },
+    {
+        "name": "nctfu-lattice",
+        "description": null,
+        "languages": {
+            "Sage": 10539
+        }
+    },
+    {
+        "name": "SuperSolver",
+        "description": null,
+        "languages": {
+            "Sage": 34503
+        }
+    },
+    {
+        "name": "hawk-aux",
+        "description": "Auxiliary files to HAWK paper submitted at Asiacrypt 2022",
+        "languages": {
+            "Sage": 65669,
+            "Python": 42480
+        }
+    },
+    {
+        "name": "Blog-CTF",
+        "description": null,
+        "languages": {
+            "Sage": 3547
+        }
+    },
+    {
+        "name": "curve_experiments",
+        "description": "Experimental repo to play with elliptic curves",
+        "languages": {
+            "Sage": 71257,
+            "Python": 22645,
+            "Shell": 545
+        }
+    },
+    {
+        "name": "stealth-address",
+        "description": null,
+        "languages": {
+            "Sage": 618633
+        }
+    },
+    {
+        "name": "greyctf24-challs-public",
+        "description": null,
+        "languages": {
+            "Sage": 4930976,
+            "JavaScript": 4862666,
+            "Jupyter Notebook": 1532543,
+            "Solidity": 171485,
+            "Python": 131078,
+            "HTML": 49612,
+            "C": 39039,
+            "Rust": 17417,
+            "Dockerfile": 12847,
+            "EJS": 4971,
+            "Verilog": 3227,
+            "C++": 989,
+            "Shell": 582
+        }
+    },
+    {
+        "name": "isogeny-OPRF",
+        "description": null,
+        "languages": {
+            "Sage": 20337,
+            "Python": 329
+        }
+    },
+    {
+        "name": "MODHE",
+        "description": null,
+        "languages": {
+            "Sage": 61000
+        }
+    },
+    {
+        "name": "small-private-d-RSA",
+        "description": "master small private d RSA with moduli N=p^r*q^s,that d < 1-(3*r+s)/(r+s)^2 - eps",
+        "languages": {
+            "Sage": 4001
+        }
+    },
+    {
+        "name": "pasta-mimc",
+        "description": "Reference implementations of MiMC hash function on Pasta curves",
+        "languages": {
+            "Sage": 55914,
+            "Python": 10214
+        }
+    },
+    {
+        "name": "automated-coppersmith",
+        "description": null,
+        "languages": {
+            "Sage": 9827
+        }
+    },
+    {
+        "name": "draft-bar-cfrg-spake2plus",
+        "description": null,
+        "languages": {
+            "Sage": 8958,
+            "Makefile": 312
+        }
+    },
+    {
+        "name": "pasta-hadeshash",
+        "description": "Fork of https://extgit.iaik.tugraz.at/krypto/hadeshash.git to generate Poseidon parameters for Pasta fields",
+        "languages": {
+            "Sage": 187948,
+            "Python": 4277
+        }
+    },
+    {
+        "name": "crtrsa-small-e-pke",
+        "description": "Implementation of \"Approximate Divisor Multiples - Factoring with Only a Third of the Secret CRT-Exponents\"",
+        "languages": {
+            "Sage": 11242
+        }
+    },
+    {
+        "name": "ecfft-post",
+        "description": null,
+        "languages": {
+            "Sage": 2804
+        }
+    },
+    {
+        "name": "Identifying-Ideal-Lattice",
+        "description": "A tookit for Identifying-Ideal-Lattice",
+        "languages": {
+            "Sage": 21495,
+            "Shell": 355
+        }
+    },
+    {
+        "name": "solving_hssp",
+        "description": null,
+        "languages": {
+            "Sage": 25628,
+            "Python": 14842
+        }
+    },
+    {
+        "name": "AliyunCTF2024_DH1DH2",
+        "description": null,
+        "languages": {
+            "Sage": 11039
+        }
+    },
+    {
+        "name": "cmsecc-problems",
+        "description": null,
+        "languages": {
+            "Sage": 39381,
+            "C": 7389,
+            "Rich Text Format": 1697
+        }
+    },
+    {
+        "name": "hash-constants",
+        "description": null,
+        "languages": {
+            "Sage": 52560,
+            "Python": 4586
+        }
+    },
+    {
+        "name": "gb_benchmarks",
+        "description": "Gr\u00f6bner basis attacks against current (round-reduced) AOCs.",
+        "languages": {
+            "Sage": 101914,
+            "Python": 2548
+        }
+    },
+    {
+        "name": "pySeifert",
+        "description": null,
+        "languages": {
+            "Sage": 47583
+        }
+    },
+    {
+        "name": "BreizhCTF2023",
+        "description": "My challenges for BreizhCTF 2023",
+        "languages": {
+            "Sage": 15007,
+            "Python": 3967
+        }
+    },
+    {
+        "name": "gifp",
+        "description": "Code for the paper \u201cGeneralized Implicit Factorization Problem\"",
+        "languages": {
+            "Sage": 35609
+        }
+    },
+    {
+        "name": "fiberpolytope",
+        "description": "A SageMath package to study reflexive polytopes and their F-theory compactifications.",
+        "languages": {
+            "Sage": 71673,
+            "Python": 1466
+        }
+    },
+    {
+        "name": "rsa-coppersmith-stereotyped-message",
+        "description": "RSA Coppersmith Stereotyped Message Recovery with Python 3 using Sage Math",
+        "languages": {
+            "Sage": 12665
+        }
+    },
+    {
+        "name": "raccoon-code",
+        "description": null,
+        "languages": {
+            "Sage": 90050,
+            "Java": 10105,
+            "Python": 8262,
+            "C": 4639,
+            "Shell": 1634
+        }
+    },
+    {
+        "name": "Factoring-with-Cyclotomic-Polynomials",
+        "description": "Integer factorization",
+        "languages": {
+            "Sage": 4441
+        }
+    },
+    {
+        "name": "OneVector",
+        "description": null,
+        "languages": {
+            "Sage": 7815
+        }
+    },
+    {
+        "name": "sage-config",
+        "description": ":symbols: My SAGEmath configuration",
+        "languages": {
+            "Sage": 40755
+        }
+    },
+    {
+        "name": "algebraic-torus",
+        "description": "A library to facilitate comptutation with algebraic torus",
+        "languages": {
+            "Sage": 27065
+        }
+    },
+    {
+        "name": "FHE_for_SBSeg21",
+        "description": "Sage implementation of FHE schemes for the short course presented in SBSeg21",
+        "languages": {
+            "Sage": 79547
+        }
+    },
+    {
+        "name": "Verifiable-Computation",
+        "description": null,
+        "languages": {
+            "Sage": 54945
+        }
+    },
+    {
+        "name": "umich-reu-2022",
+        "description": "Some miscellaneous code and writeups I wrote for the University of Michigan's 2022 Mathematics REU program, advised by Dr. Lena Ji.",
+        "languages": {
+            "Sage": 108226,
+            "TeX": 40003,
+            "Macaulay2": 4805,
+            "Mathematica": 476
+        }
+    },
+    {
+        "name": "polymul-approx-ffts",
+        "description": null,
+        "languages": {
+            "Sage": 3004,
+            "Python": 2705
+        }
+    },
+    {
+        "name": "Merkle-Hellman-Knapsack-and-LLL",
+        "description": "An illustrative implementation of the original Merkle-Hellman knapsack cryptosystem and the algorithm that can break it in polynomial time.",
+        "languages": {
+            "Sage": 10519
+        }
+    },
+    {
+        "name": "h4ckc0n-2023-official-writeups",
+        "description": "This repo constains all the official writeups for h4ckc0n 2023",
+        "languages": {
+            "Sage": 5800,
+            "Python": 3943
+        }
+    },
+    {
+        "name": "factoritall",
+        "description": "Sage scripts for completely factoring any integer efficiently with very high probability after a single run of an order-finding algorithm.",
+        "languages": {
+            "Sage": 30763,
+            "Python": 2953
+        }
+    },
+    {
+        "name": "mq-comparison-suite",
+        "description": "A wrapper of MQ solver implementations, allowing a unified interface and performance comparison.",
+        "languages": {
+            "Sage": 35817,
+            "Python": 26975
+        }
+    },
+    {
+        "name": "ctf-writeups",
+        "description": "my writeups for ctf competitions.",
+        "languages": {
+            "Sage": 7754784,
+            "Python": 612831,
+            "C": 186800,
+            "C++": 18690,
+            "TypeScript": 4479,
+            "Ruby": 2295,
+            "Haskell": 2051,
+            "Starlark": 1845,
+            "Go": 1804,
+            "Dockerfile": 1300,
+            "Shell": 1264,
+            "Java": 1253,
+            "Makefile": 301
+        }
+    },
+    {
+        "name": "LBZKP",
+        "description": "Lattice-Based Zero-Knowledge Proofs and Applications: Shorter, Simpler, and More General",
+        "languages": {
+            "Sage": 58020
+        }
+    },
+    {
+        "name": "m0leCon-2021-writeups",
+        "description": "Write-ups for m0leCon CTF 2021",
+        "languages": {
+            "Sage": 14640,
+            "Python": 11808,
+            "Cuda": 4963
+        }
+    },
+    {
+        "name": "Lattice",
+        "description": "Lattice attacks",
+        "languages": {
+            "Sage": 5031,
+            "Python": 1255
+        }
+    },
+    {
+        "name": "tii_decoding_challenge",
+        "description": null,
+        "languages": {
+            "Sage": 18486
+        }
+    },
+    {
+        "name": "ARIA-Blocks-Qiskit",
+        "description": "Implementation of Squarer, Multiplier, and Diffusion Matrix in Qiskit quantum platform for ARIA",
+        "languages": {
+            "Sage": 40005,
+            "Python": 24650
+        }
+    },
+    {
+        "name": "gb-voodoo",
+        "description": "Compute Gr\u00f6bner Bases where Vectors of Origin Disclose on Occurrences (for lack of a better backronym)",
+        "languages": {
+            "Sage": 82076
+        }
+    },
+    {
+        "name": "ctf-crypto-attacks",
+        "description": "my implementations for crypto attacks in ctf.",
+        "languages": {
+            "Sage": 13191,
+            "Python": 4416
+        }
+    },
+    {
+        "name": "math_crochet",
+        "description": "Contains CoCalc code that generates crochet patterns for surfaces by revolution",
+        "languages": {
+            "Sage": 35624
+        }
+    },
+    {
+        "name": "Relleno",
+        "description": "A SageMath library for jump expansions and Jacobian matrices of conservation laws and stability analysis",
+        "languages": {
+            "Sage": 57871,
+            "Python": 2937
+        }
+    },
+    {
+        "name": "PAnTHErS",
+        "description": "Prototyping and Analysis Tool for Homomorphic Encryption Schemes",
+        "languages": {
+            "Sage": 601031,
+            "Python": 267971,
+            "Ruby": 56319
+        }
+    },
+    {
+        "name": "bcactf-2.0",
+        "description": "Problems for BCACTF 2.0",
+        "languages": {
+            "Sage": 809241,
+            "C": 69787,
+            "JavaScript": 49055,
+            "Python": 42827,
+            "Handlebars": 26051,
+            "HTML": 22650,
+            "Dockerfile": 18384,
+            "TypeScript": 17308,
+            "Java": 10419,
+            "Assembly": 7914,
+            "CSS": 5907,
+            "WebAssembly": 4579,
+            "Rust": 3600,
+            "Fortran": 3489,
+            "C#": 1872,
+            "Shell": 835
+        }
+    },
+    {
+        "name": "elliptic-curves-washington-solutions",
+        "description": "Solutions for book \"Elliptic Curves Number Theory and Cryptography\" by Lawrence C Washington",
+        "languages": {
+            "Sage": 6146
+        }
+    },
+    {
+        "name": "isogeny-database-with-end-rings",
+        "description": null,
+        "languages": {
+            "Sage": 30436
+        }
+    },
+    {
+        "name": "picoCTF2022",
+        "description": "Writeups for picoCTF2022",
+        "languages": {
+            "Sage": 2234,
+            "Python": 2096
+        }
+    },
+    {
+        "name": "claasp_white_paper",
+        "description": "A repo to contain all the scripts used to accompany the CLAASP publication.",
+        "languages": {
+            "Sage": 59562,
+            "Python": 6698,
+            "Dockerfile": 3242
+        }
+    },
+    {
+        "name": "CPSC353",
+        "description": "Example programs for CPSC 353",
+        "languages": {
+            "Sage": 13973,
+            "Python": 6407,
+            "C++": 716
+        }
+    },
+    {
+        "name": "GFun",
+        "description": "GeneratingFunctions ",
+        "languages": {
+            "Sage": 13999
+        }
+    },
+    {
+        "name": "L2Graph",
+        "description": "The sage code for enumerating connected level-2 Coxeter graphs.",
+        "languages": {
+            "Sage": 73695
+        }
+    },
+    {
+        "name": "key_multicollision",
+        "description": null,
+        "languages": {
+            "Sage": 19149,
+            "Python": 10591
+        }
+    },
+    {
+        "name": "DNAandGrids",
+        "description": null,
+        "languages": {
+            "Sage": 60986
+        }
+    },
+    {
+        "name": "entangleability",
+        "description": "SageMath code to check an equation in the paper \"Entangleability of cones\"",
+        "languages": {
+            "Sage": 2589
+        }
+    },
+    {
+        "name": "Sage",
+        "description": "Sage",
+        "languages": {
+            "Sage": 4577
+        }
+    },
+    {
+        "name": "minrank_aux",
+        "description": "auxiliary tools for the minimum rank problem",
+        "languages": {
+            "Sage": 69588,
+            "Python": 44299
+        }
+    },
+    {
+        "name": "SymmetricCryptanalysis-Studies",
+        "description": "A mixed repo with code snippets (from my studies) for AES Integral Attack and MILP-Based Differential Cryptanalysis",
+        "languages": {
+            "Sage": 38200,
+            "Python": 16510
+        }
+    },
+    {
+        "name": "draft-irtf-cfrg-cpace",
+        "description": null,
+        "languages": {
+            "Sage": 73409,
+            "Jupyter Notebook": 48119,
+            "Python": 7054,
+            "Makefile": 1697
+        }
+    },
+    {
+        "name": "SymProdGraphs",
+        "description": "Implementation for the results on \"Symmetric Tensor powers of graphs\"",
+        "languages": {
+            "Sage": 6079
+        }
+    },
+    {
+        "name": "distributed_matrix_computation",
+        "description": "Secure and straggler-tolerant distributed computing",
+        "languages": {
+            "Sage": 53703
+        }
+    },
+    {
+        "name": "CTF_Crypto-all-in-one",
+        "description": "python and sage_math scripts in ctf crypto",
+        "languages": {
+            "Sage": 32985,
+            "Python": 25387
+        }
+    },
+    {
+        "name": "CTF-Codes",
+        "description": null,
+        "languages": {
+            "Sage": 21345,
+            "Python": 11704,
+            "C": 11352,
+            "Java": 4175
+        }
+    },
+    {
+        "name": "numsgps-sage",
+        "description": "A Sage wrapper for the GAP package numericalsgps.",
+        "languages": {
+            "Sage": 56592,
+            "Dockerfile": 3357
+        }
+    },
+    {
+        "name": "ctf-writeups",
+        "description": "A collection of CTF writeups",
+        "languages": {
+            "Sage": 6049
+        }
+    },
+    {
+        "name": "checkit-clontz-diff-eq",
+        "description": null,
+        "languages": {
+            "Sage": 32228
+        }
+    },
+    {
+        "name": "semiprimes",
+        "description": "Distributed generation of semiprimes with unknown factorization using semiprimality certificates.",
+        "languages": {
+            "Sage": 3218
+        }
+    },
+    {
+        "name": "Leaky-McEliece",
+        "description": "Artifacts for the LeakyMcEliece Paper",
+        "languages": {
+            "Sage": 97657,
+            "C++": 88401,
+            "C": 3154,
+            "Python": 2483,
+            "Dockerfile": 2106,
+            "Shell": 1099,
+            "Makefile": 487,
+            "CMake": 242
+        }
+    },
+    {
+        "name": "SPMFpackage",
+        "description": null,
+        "languages": {
+            "Sage": 10088
+        }
+    },
+    {
+        "name": "griffin-hash",
+        "description": "A SAGEMATH implementation of the Griffin hash function",
+        "languages": {
+            "Sage": 7929,
+            "Python": 7780
+        }
+    },
+    {
+        "name": "Geometric-approach",
+        "description": "Finding rank-one trails using Riemannian optimization.",
+        "languages": {
+            "Sage": 22253,
+            "C++": 5303
+        }
+    },
+    {
+        "name": "WheelsCode",
+        "description": "SageMath scripts used to detect wheels in neural codes.",
+        "languages": {
+            "Sage": 5119702
+        }
+    },
+    {
+        "name": "add_he_poc",
+        "description": "Additive homomorphic encryption for proof of custidy",
+        "languages": {
+            "Sage": 3234
+        }
+    },
+    {
+        "name": "leaky_goppa_in_mceliece",
+        "description": "Source code for the project on Decoding McEliece with a Hint",
+        "languages": {
+            "Sage": 38736
+        }
+    },
+    {
+        "name": "vecit",
+        "description": "VecIt! Vector Calculus Problems Bank",
+        "languages": {
+            "Sage": 143674,
+            "Jupyter Notebook": 3187
+        }
+    },
+    {
+        "name": "error-correcting-code",
+        "description": "This is an implementation of the Reed-Solomon's error correcting code",
+        "languages": {
+            "Sage": 9081
+        }
+    },
+    {
+        "name": "RSA-factorization-with-algebraic-cryptanalysis",
+        "description": "Factorizing RSA modulus with algebraic cryptanalysis method",
+        "languages": {
+            "Sage": 4760
+        }
+    },
+    {
+        "name": "PeriodSuite",
+        "description": "Software to compute periods of hypersurfaces and additional functions to make use of computed periods.",
+        "languages": {
+            "Sage": 23953,
+            "Python": 1811,
+            "Shell": 534
+        }
+    },
+    {
+        "name": "t2n_knot_detection",
+        "description": "Checks Stallings n-braids for possibly exchangeable knots.",
+        "languages": {
+            "Sage": 9344
+        }
+    },
+    {
+        "name": "number-theory",
+        "description": "Implementing concepts from Number Theory",
+        "languages": {
+            "Sage": 24534,
+            "C": 3187,
+            "Python": 2955,
+            "C++": 662
+        }
+    },
+    {
+        "name": "BT-Kleptography",
+        "description": "Bachelor thesis on kleptography",
+        "languages": {
+            "Sage": 29675
+        }
+    },
+    {
+        "name": "smf-dimensions",
+        "description": "Implementations of dimension formulas for Siegel modular forms",
+        "languages": {
+            "Sage": 11345
+        }
+    },
+    {
+        "name": "SNU_2D_ProgrammingTools_IDE_Sage",
+        "description": "The Sage Programming language IDE submodule for SNU Programming Tools (2D Mode)",
+        "languages": {
+            "Sage": 212472,
+            "Roff": 3456,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "Univariate_Equations",
+        "description": null,
+        "languages": {
+            "Sage": 6615
+        }
+    },
+    {
+        "name": "ctf",
+        "description": "ctf-chal",
+        "languages": {
+            "Sage": 103354,
+            "Python": 14007
+        }
+    },
+    {
+        "name": "Crypto_in_CTF",
+        "description": "Crypto Challenges in CTF",
+        "languages": {
+            "Sage": 3477,
+            "Python": 3042
+        }
+    },
+    {
+        "name": "CTF",
+        "description": "Write-ups",
+        "languages": {
+            "Sage": 17665,
+            "Python": 256
+        }
+    },
+    {
+        "name": "silver-barnacle",
+        "description": "scratch copy of hades scripts ",
+        "languages": {
+            "Sage": 152404,
+            "Python": 7950
+        }
+    },
+    {
+        "name": "Learn-Sage",
+        "description": "A repository for showcasing my knowledge of the Sage programming language, and continuing to learn the language",
+        "languages": {
+            "Sage": 213044,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "omf5_data",
+        "description": "data related to computing quinary orthogonal modular forms",
+        "languages": {
+            "Sage": 19327864
+        }
+    },
+    {
+        "name": "BackdoorCTF_23",
+        "description": "Writeups for some of the challenges of BACKDOOR CTF 2023 hosted by IITR",
+        "languages": {
+            "Sage": 606,
+            "Python": 156
+        }
+    },
+    {
+        "name": "estimator_folding",
+        "description": null,
+        "languages": {
+            "Sage": 22458
+        }
+    },
+    {
+        "name": "FCSC-2024_crypto_salade-de-fruits",
+        "description": "Proposition d'une solution pour le challenge \"salade de fruits\" du FCSC 2024.",
+        "languages": {
+            "Sage": 993,
+            "Python": 340
+        }
+    },
+    {
+        "name": "edwards_algorithm",
+        "description": null,
+        "languages": {
+            "Sage": 115931
+        }
+    },
+    {
+        "name": "precalc1-copy",
+        "description": null,
+        "languages": {
+            "Sage": 19864,
+            "Jupyter Notebook": 961
+        }
+    },
+    {
+        "name": "diffie-hellman-like-broken",
+        "description": "The automated version of the paper showing a broken Diffie-Hellman-like protocol.",
+        "languages": {
+            "Sage": 7570
+        }
+    },
+    {
+        "name": "coppersmith_study",
+        "description": null,
+        "languages": {
+            "Sage": 53990,
+            "Jupyter Notebook": 6837
+        }
+    },
+    {
+        "name": "Numerical-Methods",
+        "description": "Some Numerical Method written in SAGE",
+        "languages": {
+            "Sage": 24854,
+            "C": 16246
+        }
+    },
+    {
+        "name": "MIHNP",
+        "description": null,
+        "languages": {
+            "Sage": 13321
+        }
+    },
+    {
+        "name": "collegealgebra",
+        "description": "collegealgebra clone",
+        "languages": {
+            "Sage": 102285,
+            "Jupyter Notebook": 2661
+        }
+    },
+    {
+        "name": "continuous-mlwr",
+        "description": "Experiments with continuous module learning with errors.",
+        "languages": {
+            "Sage": 3895
+        }
+    },
+    {
+        "name": "thinness",
+        "description": null,
+        "languages": {
+            "Sage": 9666
+        }
+    },
+    {
+        "name": "scallophd",
+        "description": null,
+        "languages": {
+            "Sage": 31909
+        }
+    },
+    {
+        "name": "pq-vdf-isogeny",
+        "description": null,
+        "languages": {
+            "Sage": 22581
+        }
+    },
+    {
+        "name": "C-code-generators",
+        "description": "C-code generator for PMNS systems",
+        "languages": {
+            "Sage": 61521,
+            "C": 33058,
+            "Python": 4971,
+            "Makefile": 409
+        }
+    },
+    {
+        "name": "WhiteBoxLPN",
+        "description": "LPN-based Attacks in the White-box Setting",
+        "languages": {
+            "Sage": 22260
+        }
+    },
+    {
+        "name": "ThesisCode",
+        "description": "Code for master thesis concerning norm equations",
+        "languages": {
+            "Sage": 259629,
+            "Python": 4054
+        }
+    },
+    {
+        "name": "public-USC-CTF-Fall-23",
+        "description": "Challenges from USC CTF, for the purpose of writeups and further learning",
+        "languages": {
+            "Sage": 13838,
+            "Python": 12412,
+            "JavaScript": 5450,
+            "Dockerfile": 4955,
+            "HTML": 285
+        }
+    },
+    {
+        "name": "blink",
+        "description": "A C repository for the Tiva C series microcontroller from Texas Instruments",
+        "languages": {
+            "Sage": 178321,
+            "HTML": 17397,
+            "Assembly": 16082,
+            "C": 1720,
+            "Makefile": 79
+        }
+    },
+    {
+        "name": "field_params_generator",
+        "description": null,
+        "languages": {
+            "Sage": 5776,
+            "Rust": 2116
+        }
+    },
+    {
+        "name": "exercises",
+        "description": null,
+        "languages": {
+            "Sage": 76340,
+            "Python": 13477,
+            "MATLAB": 7345,
+            "C": 432,
+            "CMake": 148
+        }
+    },
+    {
+        "name": "twin_smooth",
+        "description": "Algorithms related to the computation of twin smooth integers",
+        "languages": {
+            "Sage": 26026,
+            "C++": 11237,
+            "Gnuplot": 3063
+        }
+    },
+    {
+        "name": "DUT_Math-SageMath",
+        "description": null,
+        "languages": {
+            "Sage": 36366,
+            "Jupyter Notebook": 25271
+        }
+    },
+    {
+        "name": "ANT-L1",
+        "description": "RSA crypto-system in SageMath.",
+        "languages": {
+            "Sage": 2687,
+            "Makefile": 190
+        }
+    },
+    {
+        "name": "improved-isogeny-finding",
+        "description": null,
+        "languages": {
+            "Sage": 2700990,
+            "MATLAB": 14438,
+            "Mathematica": 204
+        }
+    },
+    {
+        "name": "recip",
+        "description": null,
+        "languages": {
+            "Sage": 531880,
+            "Python": 9263,
+            "Shell": 2259,
+            "Makefile": 650,
+            "Cython": 67
+        }
+    },
+    {
+        "name": "hsctf-9-challenges",
+        "description": null,
+        "languages": {
+            "Sage": 227391,
+            "Python": 89935,
+            "JavaScript": 13852,
+            "C++": 11537,
+            "HTML": 10122,
+            "Dockerfile": 5218,
+            "Java": 3679,
+            "CSS": 2884,
+            "C": 1596,
+            "Shell": 1009,
+            "HCL": 991,
+            "Assembly": 941,
+            "PHP": 35,
+            "Procfile": 20
+        }
+    },
+    {
+        "name": "analytical-computing-systems",
+        "description": "\u041b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u043d\u044b\u0435 \u0440\u0430\u0431\u043e\u0442\u044b \u043f\u043e \u043a\u0443\u0440\u0441\u0443 \u0443\u0447\u0435\u0431\u043d\u043e\u0439 \u0434\u0438\u0441\u0446\u0438\u043f\u043b\u0438\u043d\u044b \u00ab\u0421\u0438\u0441\u0442\u0435\u043c\u044b \u0430\u043d\u0430\u043b\u0438\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0432\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u0439\u00bb",
+        "languages": {
+            "Sage": 27381,
+            "Python": 1873
+        }
+    },
+    {
+        "name": "pairing-friendly-cycles",
+        "description": null,
+        "languages": {
+            "Sage": 7968
+        }
+    },
+    {
+        "name": "mixed_volume_classification",
+        "description": "Sage code implementing the algorithms described in the paper \"Classification of triples of lattice polytopes with a given mixed volume\" as well as corresponding enumeration data. This is joint work with Gennadiy Averkov and Ivan Soprunov.",
+        "languages": {
+            "Sage": 125231
+        }
+    },
+    {
+        "name": "cryptanalysisSHMWW",
+        "description": "Cryptanalysis of Song et al. code-based signature scheme (Theoretical Computer Science)",
+        "languages": {
+            "Sage": 10731
+        }
+    },
+    {
+        "name": "solid-angle-code",
+        "description": null,
+        "languages": {
+            "Sage": 122327
+        }
+    },
+    {
+        "name": "corCTF-2021-writeups",
+        "description": "Solve scripts and writeups for challenges I authored for corCTF 2021.",
+        "languages": {
+            "Sage": 11222,
+            "Python": 755
+        }
+    },
+    {
+        "name": "ascon_monomial_detection",
+        "description": "This code finds monomials that are absent in the output of 5 round Ascon.",
+        "languages": {
+            "Sage": 18556
+        }
+    },
+    {
+        "name": "ecpp_cm_h3",
+        "description": "Primality proving algorithms using an elliptic curve with CM by an imaginary quadratic field of class number three",
+        "languages": {
+            "Sage": 15834
+        }
+    },
+    {
+        "name": "checkit-banks",
+        "description": "My repository for checkit problem banks.",
+        "languages": {
+            "Sage": 40298
+        }
+    },
+    {
+        "name": "coppersmith",
+        "description": null,
+        "languages": {
+            "Sage": 27881
+        }
+    },
+    {
+        "name": "ModularMultipoints",
+        "description": null,
+        "languages": {
+            "Sage": 2292
+        }
+    },
+    {
+        "name": "classical-ciphers-sagemath",
+        "description": "Implementation of classcial ciphers using SageMath as part of Number Theory and Cryptography course (CS4021D) at NIT Calicut.",
+        "languages": {
+            "Sage": 67403,
+            "Python": 10406
+        }
+    },
+    {
+        "name": "Horizontal_Radical_Isogenies",
+        "description": null,
+        "languages": {
+            "Sage": 67557868,
+            "MATLAB": 34632,
+            "Mathematica": 1501,
+            "Python": 379
+        }
+    },
+    {
+        "name": "Invariants-Special-Strata-Genus-3-Curves",
+        "description": "Computation for Women in Numbers Europe 3 project",
+        "languages": {
+            "Sage": 14926,
+            "Jupyter Notebook": 5086,
+            "Dockerfile": 234
+        }
+    },
+    {
+        "name": "Cryptanalysis",
+        "description": "Some common ciphers and their cryptanalysis",
+        "languages": {
+            "Sage": 26119,
+            "Python": 1342
+        }
+    },
+    {
+        "name": "bounded_distance_decoding",
+        "description": "Comparing Lattice Families for Bounded Distance Decoding near Minkowski\u2019s Bound.",
+        "languages": {
+            "Sage": 19259,
+            "Makefile": 304
+        }
+    },
+    {
+        "name": "twocover-descent",
+        "description": "Implementation of two-cover descent for genus 2 curves with a rational Weierstrass point.",
+        "languages": {
+            "Sage": 458550,
+            "MATLAB": 114569,
+            "Objective-C": 56924,
+            "Shell": 5738,
+            "Python": 2947,
+            "M": 1232,
+            "Mercury": 644
+        }
+    },
+    {
+        "name": "computingPicard",
+        "description": "computing Picard curves from Cartier-Manin matrices",
+        "languages": {
+            "Sage": 423675,
+            "Gnuplot": 7557,
+            "MATLAB": 3024
+        }
+    },
+    {
+        "name": "pgcd_polynomes",
+        "description": "Projet de premiere annee de master",
+        "languages": {
+            "Sage": 8439,
+            "C": 5591,
+            "C++": 5236,
+            "Makefile": 1108
+        }
+    },
+    {
+        "name": "p-adic-continued-fractions",
+        "description": "SageMath code for the main algorithms of p-adic continued fractions. The results of the numerical simulations are available online at https://arxiv.org/pdf/2211.05252.pdf",
+        "languages": {
+            "Sage": 10671
+        }
+    },
+    {
+        "name": "Weighted-set-cover-problem",
+        "description": "Weighted set cover problem explanation",
+        "languages": {
+            "Sage": 990
+        }
+    },
+    {
+        "name": "backdoor-ecdsa",
+        "description": "backdoored ECDSA signatures yum!",
+        "languages": {
+            "Sage": 4744
+        }
+    },
+    {
+        "name": "genus-6",
+        "description": "Genus 6 curves over F_2",
+        "languages": {
+            "Sage": 23986164,
+            "Jupyter Notebook": 74514,
+            "MATLAB": 44375,
+            "Python": 31662,
+            "Shell": 5379,
+            "Limbo": 760
+        }
+    },
+    {
+        "name": "CPSC353",
+        "description": null,
+        "languages": {
+            "Sage": 19757,
+            "Python": 14293
+        }
+    },
+    {
+        "name": "grendel-analysis",
+        "description": null,
+        "languages": {
+            "Sage": 8860
+        }
+    },
+    {
+        "name": "low_memory_efficient_PMNS",
+        "description": "Contains a generator of low memory efficient PMNS and an efficient C codes generator.",
+        "languages": {
+            "Sage": 55209,
+            "C": 27628,
+            "Python": 1296
+        }
+    },
+    {
+        "name": "clwe-research",
+        "description": "Research repository for Continuous LWE.",
+        "languages": {
+            "Sage": 24240
+        }
+    },
+    {
+        "name": "lantern",
+        "description": "Lantern: Lattice-Based Non-Interactive Zero-Knowledge Proofs",
+        "languages": {
+            "Sage": 112397
+        }
+    },
+    {
+        "name": "pre-calc-2",
+        "description": null,
+        "languages": {
+            "Sage": 28637,
+            "Jupyter Notebook": 3149
+        }
+    },
+    {
+        "name": "partialkey-survey",
+        "description": null,
+        "languages": {
+            "Sage": 12862
+        }
+    },
+    {
+        "name": "MA107NorwichFall2023",
+        "description": "Problem Bank for Precalculus",
+        "languages": {
+            "Sage": 96029,
+            "Jupyter Notebook": 6286,
+            "HTML": 500
+        }
+    },
+    {
+        "name": "siavdb",
+        "description": "database of super-isolated abelian varieties",
+        "languages": {
+            "Sage": 257703,
+            "JavaScript": 59000,
+            "Python": 7996,
+            "Gnuplot": 6104,
+            "C": 2531,
+            "HTML": 298,
+            "Makefile": 51
+        }
+    },
+    {
+        "name": "crystal",
+        "description": "Crystal calculations",
+        "languages": {
+            "Sage": 32717,
+            "Python": 2687
+        }
+    },
+    {
+        "name": "SageNotebooks",
+        "description": "My Sage Notebooks & Sage Scripts I often use while using Mathematics.",
+        "languages": {
+            "Sage": 4562,
+            "Python": 498
+        }
+    },
+    {
+        "name": "WCTF2020",
+        "description": "Problem that we submitted in WCTF",
+        "languages": {
+            "Sage": 20581,
+            "Python": 10346,
+            "C": 5766
+        }
+    },
+    {
+        "name": "truncated-group-rings",
+        "description": null,
+        "languages": {
+            "Sage": 7073
+        }
+    },
+    {
+        "name": "sagefunction",
+        "description": null,
+        "languages": {
+            "Sage": 2243
+        }
     }
 ]

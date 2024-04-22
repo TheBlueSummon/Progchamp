@@ -26,7 +26,7 @@
         "name": "googleapis",
         "description": "Public interface definitions of Google APIs.",
         "languages": {
-            "Starlark": 4800127,
+            "Starlark": 4800328,
             "Shell": 10029,
             "Makefile": 1301,
             "Dockerfile": 919
@@ -52,6 +52,2008 @@
             "Smarty": 4686,
             "Java": 3866,
             "Dockerfile": 1764
+        }
+    },
+    {
+        "name": "colossus",
+        "description": "Colossus \u2014\u00a0An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more",
+        "languages": {
+            "Starlark": 16545,
+            "Go": 9885,
+            "Java": 5665,
+            "Makefile": 1537,
+            "C++": 1408
+        }
+    },
+    {
+        "name": "examples",
+        "description": "Examples for Bazel",
+        "languages": {
+            "Starlark": 137681,
+            "Vue": 13351,
+            "TypeScript": 8107,
+            "Java": 7688,
+            "CSS": 5243,
+            "C++": 4771,
+            "JavaScript": 4031,
+            "Python": 3506,
+            "Kotlin": 3070,
+            "HTML": 1941,
+            "Batchfile": 294,
+            "Shell": 173,
+            "C": 166
+        }
+    },
+    {
+        "name": "rules_nodejs",
+        "description": "NodeJS toolchain for Bazel.",
+        "languages": {
+            "Starlark": 445470,
+            "TypeScript": 8731,
+            "JavaScript": 5861,
+            "Shell": 3425,
+            "C++": 44
+        }
+    },
+    {
+        "name": "rules_foreign_cc",
+        "description": "Build rules for interfacing with \"foreign\" (non-Bazel) build systems (CMake, configure-make, GNU Make, boost, ninja, Meson)",
+        "languages": {
+            "Starlark": 719780,
+            "Python": 14331,
+            "Shell": 2228,
+            "PowerShell": 415,
+            "C++": 17,
+            "C": 16
+        }
+    },
+    {
+        "name": "rules_rust",
+        "description": "Rust rules for Bazel",
+        "languages": {
+            "Starlark": 7162210,
+            "Rust": 860144,
+            "Jinja": 23548,
+            "Shell": 16662,
+            "C++": 12861,
+            "Python": 3553,
+            "C": 1077,
+            "Batchfile": 570,
+            "Nix": 565
+        }
+    },
+    {
+        "name": "data-plane-api",
+        "description": "[READ ONLY MIRROR] Envoy REST/proto API definitions and documentation.",
+        "languages": {
+            "Starlark": 232576,
+            "C++": 23210,
+            "Python": 7081,
+            "Shell": 4287,
+            "Go": 558
+        }
+    },
+    {
+        "name": "rules_python",
+        "description": "Bazel Python Rules",
+        "languages": {
+            "Starlark": 927375,
+            "Python": 222613,
+            "Go": 103024,
+            "Shell": 5757,
+            "C++": 573
+        }
+    },
+    {
+        "name": "rules_apple",
+        "description": "Bazel rules to build apps for Apple platforms.",
+        "languages": {
+            "Starlark": 2977730,
+            "Python": 452994,
+            "Shell": 385995,
+            "Swift": 31675,
+            "Objective-C": 7571,
+            "C++": 4138,
+            "DTrace": 90
+        }
+    },
+    {
+        "name": "bazel-compilation-database",
+        "description": "Tool to generate compile_commands.json from the Bazel build system",
+        "languages": {
+            "Starlark": 22375,
+            "Python": 14099,
+            "Shell": 5276,
+            "C++": 2906,
+            "Vim Script": 82
+        }
+    },
+    {
+        "name": "server",
+        "description": "Docker image for ownCloud community edition",
+        "languages": {
+            "Starlark": 21931
+        }
+    },
+    {
+        "name": "base-images-docker",
+        "description": "Base images for Google Docker containers.",
+        "languages": {
+            "Starlark": 100370,
+            "Shell": 21960,
+            "Python": 8847,
+            "Makefile": 1241,
+            "Dockerfile": 601,
+            "Roff": 36
+        }
+    },
+    {
+        "name": "bazel-skylib",
+        "description": "Common useful functions and rules for Bazel",
+        "languages": {
+            "Starlark": 275920,
+            "Shell": 60541,
+            "Go": 14682,
+            "C++": 5369
+        }
+    },
+    {
+        "name": "community",
+        "description": "A publishing platform for apps developed by the Tidbyt community \ud83d\ude80 ",
+        "languages": {
+            "Starlark": 36185791,
+            "Python": 10287,
+            "JavaScript": 3313,
+            "Shell": 1636
+        }
+    },
+    {
+        "name": "rules_scala",
+        "description": "Scala rules for Bazel",
+        "languages": {
+            "Starlark": 451016,
+            "Shell": 141745,
+            "Scala": 138278,
+            "Java": 132388,
+            "Thrift": 3873,
+            "Python": 173
+        }
+    },
+    {
+        "name": "rules_jvm_external",
+        "description": "Bazel rules to resolve, fetch and export Maven artifacts",
+        "languages": {
+            "Starlark": 433899,
+            "Java": 348953,
+            "Shell": 25155,
+            "Kotlin": 1921,
+            "Smarty": 1589
+        }
+    },
+    {
+        "name": "remote-apis",
+        "description": "An API for caching and execution of actions on a remote system.",
+        "languages": {
+            "Starlark": 19751,
+            "Shell": 611
+        }
+    },
+    {
+        "name": "rules_swift",
+        "description": "Bazel rules to build Swift on Apple and Linux platforms",
+        "languages": {
+            "Starlark": 773837,
+            "C++": 91655,
+            "Shell": 9786,
+            "Batchfile": 247
+        }
+    },
+    {
+        "name": "rules_k8s",
+        "description": "This repository contains rules for interacting with Kubernetes configurations / clusters.",
+        "languages": {
+            "Starlark": 54553,
+            "Go": 22406,
+            "Shell": 14470,
+            "Python": 4286,
+            "Dockerfile": 2338,
+            "Smarty": 1816,
+            "Makefile": 1209
+        }
+    },
+    {
+        "name": "rules_js",
+        "description": "High-performance Bazel rules for running Node.js tools and building JavaScript projects",
+        "languages": {
+            "Starlark": 785675,
+            "JavaScript": 232949,
+            "TypeScript": 101203,
+            "Shell": 79190,
+            "HTML": 434,
+            "Less": 343,
+            "Batchfile": 319
+        }
+    },
+    {
+        "name": "rules_nixpkgs",
+        "description": "Rules for importing Nixpkgs packages into Bazel.",
+        "languages": {
+            "Starlark": 266956,
+            "Nix": 23895,
+            "Shell": 3536,
+            "Java": 845,
+            "Python": 708,
+            "C++": 477,
+            "Smarty": 405,
+            "C": 192,
+            "Go": 60,
+            "JavaScript": 58,
+            "Rust": 44
+        }
+    },
+    {
+        "name": "toolchains_llvm",
+        "description": "LLVM toolchain for bazel",
+        "languages": {
+            "Starlark": 163047,
+            "Shell": 32666,
+            "C": 7272,
+            "Smarty": 2500,
+            "C++": 2196
+        }
+    },
+    {
+        "name": "rules_ios",
+        "description": "Bazel rules for building iOS applications and frameworks",
+        "languages": {
+            "Starlark": 868496,
+            "Shell": 355819,
+            "C": 144759,
+            "C++": 51748,
+            "Objective-C": 41315,
+            "Python": 35698,
+            "Swift": 18904,
+            "Ruby": 2080,
+            "Objective-C++": 1699,
+            "MATLAB": 76,
+            "Assembly": 47
+        }
+    },
+    {
+        "name": "rules_haskell",
+        "description": "Haskell rules for Bazel.",
+        "languages": {
+            "Starlark": 909994,
+            "Haskell": 133110,
+            "Python": 129053,
+            "Shell": 43353,
+            "Nix": 3441,
+            "Smarty": 2967,
+            "C": 1906,
+            "C++": 866
+        }
+    },
+    {
+        "name": "hermetic_cc_toolchain",
+        "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
+        "languages": {
+            "Starlark": 46382,
+            "Go": 20053,
+            "Python": 17059,
+            "Zig": 14731,
+            "Shell": 4636,
+            "C": 1267
+        }
+    },
+    {
+        "name": "rules_proto_grpc",
+        "description": "Bazel rules for building Protobuf and gRPC code and libraries from proto_library targets",
+        "languages": {
+            "Starlark": 153360,
+            "Go": 77157,
+            "Python": 9723,
+            "Makefile": 5463,
+            "C++": 5319
+        }
+    },
+    {
+        "name": "api-common-protos",
+        "description": "A standard library for use in specifying protocol buffer APIs.",
+        "languages": {
+            "Starlark": 26611,
+            "Python": 1369,
+            "Dockerfile": 704
+        }
+    },
+    {
+        "name": "grpc-proto",
+        "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
+        "languages": {
+            "Starlark": 9752
+        }
+    },
+    {
+        "name": "udpa",
+        "description": "\ud83c\udf0c\ud83d\udcca\u2708Universal Data Plane API Working Group (UDPA-WG)",
+        "languages": {
+            "Starlark": 16259,
+            "Go": 4773,
+            "C++": 575,
+            "Shell": 209
+        }
+    },
+    {
+        "name": "rules_oci",
+        "description": "Bazel rules for building OCI containers",
+        "languages": {
+            "Starlark": 176560,
+            "Shell": 29087,
+            "Smarty": 2435,
+            "Go": 1868,
+            "jq": 555,
+            "Dockerfile": 248,
+            "Rust": 45
+        }
+    },
+    {
+        "name": "rules_spring",
+        "description": "Bazel rule for building Spring Boot apps as a deployable jar",
+        "languages": {
+            "Starlark": 43623,
+            "Shell": 30166,
+            "Python": 22560,
+            "Java": 16726
+        }
+    },
+    {
+        "name": "bazel-central-registry",
+        "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+        "languages": {
+            "Starlark": 1711621,
+            "Python": 69303,
+            "C": 17062,
+            "Shell": 3068
+        }
+    },
+    {
+        "name": "trpc",
+        "description": "A multi-language, pluggable, high-performance RPC framework",
+        "languages": {
+            "Starlark": 2358,
+            "Makefile": 677,
+            "Shell": 28
+        }
+    },
+    {
+        "name": "rules_apple_line",
+        "description": "LINE's Apple rules for Bazel",
+        "languages": {
+            "Starlark": 84785,
+            "Python": 2464,
+            "Makefile": 784
+        }
+    },
+    {
+        "name": "notes",
+        "description": ":notebook_with_decorative_cover: Notes app for ownCloud",
+        "languages": {
+            "Starlark": 76755,
+            "JavaScript": 56297,
+            "PHP": 54187,
+            "Makefile": 8147,
+            "CSS": 3728,
+            "Hack": 274
+        }
+    },
+    {
+        "name": "rules_pkg",
+        "description": "Bazel rules for creating packages of many types (zip, tar, deb, rpm, ...)",
+        "languages": {
+            "Starlark": 377998,
+            "Python": 241602,
+            "Smarty": 7602,
+            "Shell": 1873,
+            "C++": 473
+        }
+    },
+    {
+        "name": "tilt-extensions",
+        "description": "Extensions for Tilt",
+        "languages": {
+            "Starlark": 115327,
+            "Python": 93006,
+            "Shell": 32997,
+            "Go": 3874,
+            "Dockerfile": 3869,
+            "Smarty": 3654,
+            "HTML": 3555,
+            "Nix": 1251,
+            "JavaScript": 1146,
+            "Makefile": 426,
+            "Earthly": 217,
+            "Procfile": 28
+        }
+    },
+    {
+        "name": "xds",
+        "description": "xDS API Working Group",
+        "languages": {
+            "Starlark": 21400,
+            "Python": 1099,
+            "C++": 764,
+            "Go": 538,
+            "Shell": 223
+        }
+    },
+    {
+        "name": "rules_android",
+        "description": "Android rules for Bazel",
+        "languages": {
+            "Starlark": 1051538,
+            "Go": 382407,
+            "Java": 114357,
+            "Shell": 80076,
+            "Python": 46067,
+            "C": 800,
+            "XSLT": 229
+        }
+    },
+    {
+        "name": "rules_dotnet",
+        "description": ".NET rules for Bazel",
+        "languages": {
+            "Starlark": 1780293,
+            "C#": 66772,
+            "F#": 52621,
+            "Shell": 6377,
+            "Dockerfile": 2187,
+            "Smarty": 1846,
+            "Batchfile": 953
+        }
+    },
+    {
+        "name": "llvm-bazel",
+        "description": null,
+        "languages": {
+            "Starlark": 407085,
+            "C": 25270,
+            "CMake": 11826,
+            "Shell": 5002,
+            "Python": 3102
+        }
+    },
+    {
+        "name": "rules_cc",
+        "description": "C++ Rules for Bazel",
+        "languages": {
+            "Starlark": 537650,
+            "Python": 151860,
+            "Go": 98642,
+            "Shell": 40023,
+            "Smarty": 16046,
+            "C++": 2688,
+            "Batchfile": 878
+        }
+    },
+    {
+        "name": "rules_gitops",
+        "description": "This repository contains rules for continuous, GitOps driven Kubernetes deployments.",
+        "languages": {
+            "Starlark": 126479,
+            "Go": 86105,
+            "Shell": 17713
+        }
+    },
+    {
+        "name": "clodl",
+        "description": "Turn dynamically linked ELF binaries and libraries into self-contained closures.",
+        "languages": {
+            "Starlark": 17856,
+            "Shell": 8827,
+            "C": 3434,
+            "Java": 2898,
+            "Nix": 619,
+            "C++": 456,
+            "Haskell": 189
+        }
+    },
+    {
+        "name": "bazel-distribution",
+        "description": "Bazel rules for assembling and deploying software distributions (see @vaticle for usage example)",
+        "languages": {
+            "Starlark": 210671,
+            "Kotlin": 97537,
+            "Python": 65877,
+            "Shell": 1951
+        }
+    },
+    {
+        "name": "rules_proto",
+        "description": "Protocol buffer rules for Bazel",
+        "languages": {
+            "Starlark": 29772,
+            "C++": 6547
+        }
+    },
+    {
+        "name": "ethereum-package",
+        "description": "A Kurtosis package that deploys a private, portable, and modular Ethereum devnet",
+        "languages": {
+            "Starlark": 401403,
+            "Python": 2538,
+            "Shell": 2238
+        }
+    },
+    {
+        "name": "sciuro",
+        "description": "Alertmanager to Kubernetes Node conditions bridge",
+        "languages": {
+            "Starlark": 90491,
+            "Go": 52918,
+            "Shell": 2344,
+            "Makefile": 938
+        }
+    },
+    {
+        "name": "application",
+        "description": "Generic helm chart for all kind of applications",
+        "languages": {
+            "Starlark": 2924,
+            "Mustache": 1866,
+            "Makefile": 118
+        }
+    },
+    {
+        "name": "gnoi",
+        "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
+        "languages": {
+            "Starlark": 39758,
+            "Go": 2976,
+            "Shell": 1705
+        }
+    },
+    {
+        "name": "autogpt-package",
+        "description": "It's like Auto-GPT met Brew. The easiest and fastest way to get started with AutoGPT with any backend of your choice & whatever plugins you may need",
+        "languages": {
+            "Starlark": 17695
+        }
+    },
+    {
+        "name": "apple_rules_lint",
+        "description": "A framework for adding lint checks to Bazel projects",
+        "languages": {
+            "Starlark": 12846
+        }
+    },
+    {
+        "name": "bazel-lib",
+        "description": "Common useful functions for writing BUILD files and Starlark macros/rules",
+        "languages": {
+            "Starlark": 499418,
+            "Shell": 24065,
+            "Go": 18596,
+            "Batchfile": 2920,
+            "Python": 491,
+            "JavaScript": 298,
+            "jq": 292,
+            "HTML": 87,
+            "GAP": 12
+        }
+    },
+    {
+        "name": "bazel-tools",
+        "description": "Reusable bits for Bazel",
+        "languages": {
+            "Starlark": 62083,
+            "Go": 11268,
+            "Shell": 5731,
+            "Makefile": 239
+        }
+    },
+    {
+        "name": "jupyter-notebook-package",
+        "description": "A Kurtosis package for Python data engineers, deploying a Jupyter notebook along with a configurable set of databases, and a visualization tool (Streamlit)",
+        "languages": {
+            "Starlark": 3881,
+            "Jupyter Notebook": 1855,
+            "Python": 1064,
+            "Dockerfile": 309
+        }
+    },
+    {
+        "name": "redis-operator",
+        "description": "Redis Operator for Kubernetes",
+        "languages": {
+            "Starlark": 128620,
+            "Go": 108357,
+            "Shell": 1550,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "platforms",
+        "description": "Constraint values for specifying platforms and toolchains",
+        "languages": {
+            "Starlark": 14772,
+            "Shell": 1996
+        }
+    },
+    {
+        "name": "bazel-mypy-integration",
+        "description": "\ud83d\udc0d\ud83c\udf3f\ud83d\udc9a  Integrate MyPy type-checking into your Python Bazel builds",
+        "languages": {
+            "Starlark": 14218,
+            "Shell": 8133,
+            "Python": 1883
+        }
+    },
+    {
+        "name": "stardoc",
+        "description": "Stardoc: Starlark Documentation Generator",
+        "languages": {
+            "Starlark": 62043,
+            "Java": 51543,
+            "Shell": 8598
+        }
+    },
+    {
+        "name": "skywalking-data-collect-protocol",
+        "description": "Data Collect Protocols of Apache SkyWalking",
+        "languages": {
+            "Starlark": 6801
+        }
+    },
+    {
+        "name": "bazel-linting-system",
+        "description": "\ud83c\udf3f\ud83d\udc9a   Experimental system for registering, configuring, and invoking source-code linters in Bazel.",
+        "languages": {
+            "Starlark": 11194,
+            "Go": 2784,
+            "Shell": 501
+        }
+    },
+    {
+        "name": "rules_ruby",
+        "description": "Formerly canonical rules for ruby, that are about 2-3 years behind current Bazel. If they work for you great, but if not \u2014 please try the new rules ruby by Alex Radionov: https://github.com/bazel-contrib/rules_ruby",
+        "languages": {
+            "Starlark": 52210,
+            "Shell": 34123,
+            "Ruby": 20748,
+            "Dockerfile": 4254,
+            "Makefile": 1868,
+            "Smarty": 274,
+            "C": 199
+        }
+    },
+    {
+        "name": "bazel_rules_hdl",
+        "description": "Hardware Description Language (Verilog, VHDL, Chisel, nMigen, etc) with open tools (Yosys, Verilator, OpenROAD, etc) rules for Bazel (https://bazel.build)",
+        "languages": {
+            "Starlark": 806724,
+            "Tcl": 198712,
+            "C": 132453,
+            "Python": 46669,
+            "C++": 13915,
+            "Verilog": 11371,
+            "Shell": 7336,
+            "SystemVerilog": 6322
+        }
+    },
+    {
+        "name": "repo-infra",
+        "description": "Kubernetes repository infrastucture tools",
+        "languages": {
+            "Starlark": 79549,
+            "Go": 46718,
+            "Shell": 18667,
+            "Python": 13924
+        }
+    },
+    {
+        "name": "bazel_clang_tidy",
+        "description": "Run clang-tidy on Bazel C++ targets directly, efficiently, with caching enabled",
+        "languages": {
+            "Starlark": 7770,
+            "Shell": 1302,
+            "C++": 803,
+            "C": 157
+        }
+    },
+    {
+        "name": "bazel-embedded",
+        "description": "Tools for embedded/bare-metal development using bazel",
+        "languages": {
+            "Starlark": 144217,
+            "Shell": 23323,
+            "Batchfile": 22078,
+            "C++": 2503,
+            "C": 59
+        }
+    },
+    {
+        "name": "rules_ts",
+        "description": "Bazel rules for the `tsc` compiler from http://typescriptlang.org",
+        "languages": {
+            "Starlark": 155165,
+            "JavaScript": 63311,
+            "Shell": 26879,
+            "TypeScript": 1465
+        }
+    },
+    {
+        "name": "bb-deployments",
+        "description": "Example deployments of Buildbarn on various platforms",
+        "languages": {
+            "Starlark": 136267,
+            "Jsonnet": 91649,
+            "Shell": 14747,
+            "Go": 5378,
+            "C++": 13
+        }
+    },
+    {
+        "name": "gcc-toolchain",
+        "description": "A fully-hermetic Bazel GCC toolchain for Linux.",
+        "languages": {
+            "Starlark": 77131,
+            "Dockerfile": 13243,
+            "Shell": 10170,
+            "C++": 2714,
+            "C": 799
+        }
+    },
+    {
+        "name": "bazel-examples",
+        "description": "Bazel examples",
+        "languages": {
+            "Starlark": 158823,
+            "HTML": 54057,
+            "TypeScript": 43638,
+            "JavaScript": 7648,
+            "CSS": 6317,
+            "Shell": 6281,
+            "Python": 3404,
+            "Go": 1397,
+            "SCSS": 160,
+            "Smarty": 139
+        }
+    },
+    {
+        "name": "bazel-arm-none-eabi",
+        "description": "ARM embedded toolchains for Bazel",
+        "languages": {
+            "Starlark": 40749,
+            "Python": 3878,
+            "C++": 636,
+            "C": 174
+        }
+    },
+    {
+        "name": "pybind11_bazel",
+        "description": "Bazel wrapper around the pybind11 repository",
+        "languages": {
+            "Starlark": 5919
+        }
+    },
+    {
+        "name": "react-bazel-example",
+        "description": null,
+        "languages": {
+            "Starlark": 5317,
+            "Java": 2271,
+            "TypeScript": 1685,
+            "HTML": 373,
+            "CSS": 45
+        }
+    },
+    {
+        "name": "multi-language-bazel-monorepo",
+        "description": "Experimenting with bazel & multiple languages in a monorepo.",
+        "languages": {
+            "Starlark": 16778,
+            "Go": 1151,
+            "Java": 875,
+            "Python": 803,
+            "JavaScript": 802,
+            "TypeScript": 305,
+            "Dockerfile": 81
+        }
+    },
+    {
+        "name": "ethereumapis",
+        "description": "A collection of public Ethereum APIs.",
+        "languages": {
+            "Starlark": 15198,
+            "Python": 13986,
+            "Go": 9753,
+            "Shell": 813,
+            "Makefile": 672
+        }
+    },
+    {
+        "name": "bazel-common",
+        "description": "Common functionality for Google's open-source libraries that are built with bazel.",
+        "languages": {
+            "Starlark": 47446,
+            "Shell": 6126
+        }
+    },
+    {
+        "name": "rules_fuzzing",
+        "description": "Bazel Starlark extensions for defining fuzz tests in Bazel projects",
+        "languages": {
+            "Starlark": 95133,
+            "C++": 29956,
+            "Python": 12644,
+            "Shell": 8159,
+            "Smarty": 2170
+        }
+    },
+    {
+        "name": "rules_cuda",
+        "description": "Starlark implementation of bazel rules for CUDA.",
+        "languages": {
+            "Starlark": 234411,
+            "C++": 222
+        }
+    },
+    {
+        "name": "rules_ll",
+        "description": "An Upstream Clang/LLVM-based toolchain for contemporary C++ and heterogeneous programming",
+        "languages": {
+            "Starlark": 237551,
+            "Nix": 24934,
+            "Go": 13696,
+            "Shell": 3606,
+            "C++": 14
+        }
+    },
+    {
+        "name": "bazel-latex",
+        "description": "Bazel build system rules for LaTeX",
+        "languages": {
+            "Starlark": 864458,
+            "TeX": 46056,
+            "Python": 6486,
+            "Shell": 431
+        }
+    },
+    {
+        "name": "apple_support",
+        "description": "Apple support for Bazel rules",
+        "languages": {
+            "Starlark": 236365,
+            "Shell": 48811,
+            "C++": 20959,
+            "Objective-C": 2498,
+            "Python": 2056,
+            "Smarty": 2053,
+            "C": 94,
+            "Limbo": 38
+        }
+    },
+    {
+        "name": "rules_poetry",
+        "description": "Bazel rules that use Poetry for Python package management",
+        "languages": {
+            "Starlark": 24936,
+            "Python": 1492
+        }
+    },
+    {
+        "name": "rules_license",
+        "description": null,
+        "languages": {
+            "Starlark": 152503,
+            "Python": 23591,
+            "C++": 3419,
+            "Shell": 2415,
+            "Java": 1491
+        }
+    },
+    {
+        "name": "rules-template",
+        "description": "A template for creating a new Bazel ruleset",
+        "languages": {
+            "Starlark": 18712,
+            "Dockerfile": 528
+        }
+    },
+    {
+        "name": "rules_ros2",
+        "description": "Build ROS 2 with Bazel ",
+        "languages": {
+            "Starlark": 120930,
+            "Python": 30887,
+            "C++": 20723,
+            "Smarty": 5879,
+            "Shell": 187
+        }
+    },
+    {
+        "name": "ros-bazel",
+        "description": "Build ROS code with Bazel",
+        "languages": {
+            "Starlark": 9886,
+            "Python": 7627,
+            "Dockerfile": 1397,
+            "C++": 947
+        }
+    },
+    {
+        "name": "rules_grafana",
+        "description": "Bazel rules for building Grafana dashboards",
+        "languages": {
+            "Starlark": 15571,
+            "Python": 1608,
+            "Shell": 420
+        }
+    },
+    {
+        "name": "rules_go_simple",
+        "description": "A simple set of Go rules for Bazel, used for learning and experimentation.",
+        "languages": {
+            "Starlark": 27845,
+            "Go": 27411,
+            "Smarty": 1642,
+            "Shell": 1171
+        }
+    },
+    {
+        "name": "rules_scala",
+        "description": "Robust and featureful Bazel rules for Scala",
+        "languages": {
+            "Starlark": 167757,
+            "Scala": 97397,
+            "Shell": 21545,
+            "Java": 458
+        }
+    },
+    {
+        "name": "rules_java",
+        "description": "Java rules for Bazel",
+        "languages": {
+            "Starlark": 102328,
+            "Java": 9504,
+            "Shell": 2030
+        }
+    },
+    {
+        "name": "rules_py",
+        "description": "More compatible Bazel rules for running Python tools and building Python projects",
+        "languages": {
+            "Starlark": 110943,
+            "Rust": 11606,
+            "Python": 8011,
+            "Shell": 5576
+        }
+    },
+    {
+        "name": "rules_jsonnet",
+        "description": "Jsonnet rules for Bazel",
+        "languages": {
+            "Starlark": 31205,
+            "Python": 1920
+        }
+    },
+    {
+        "name": "rules_swift_package_manager",
+        "description": "Collection of utilities and Bazel rules to aid in the development and maintenance of Swift repositories using Bazel.",
+        "languages": {
+            "Starlark": 578271,
+            "Go": 291372,
+            "Shell": 31307,
+            "Swift": 3191,
+            "Objective-C": 1138
+        }
+    },
+    {
+        "name": "bazel-rust-mobile-demo",
+        "description": "An example repository for using rust on iOS and Android with bazel",
+        "languages": {
+            "Starlark": 5338,
+            "C++": 927,
+            "Java": 799,
+            "C": 480,
+            "Rust": 343,
+            "Objective-C": 333
+        }
+    },
+    {
+        "name": "ianawhois",
+        "description": "IANA TLD database. Inspired by @ianawhois, based on Git.",
+        "languages": {
+            "Starlark": 1549,
+            "Ruby": 1341
+        }
+    },
+    {
+        "name": "openapi-generator-bazel",
+        "description": "Bazel plugin for OpenAPI Generator",
+        "languages": {
+            "Starlark": 10851,
+            "Mustache": 63
+        }
+    },
+    {
+        "name": "bazel-rules",
+        "description": null,
+        "languages": {
+            "Starlark": 49410,
+            "Go": 14658,
+            "Shell": 8955,
+            "Mustache": 2667,
+            "Smarty": 839
+        }
+    },
+    {
+        "name": "rules_apple_linker",
+        "description": "Bazel rules for overriding ld64 with lld or zld",
+        "languages": {
+            "Starlark": 15105,
+            "C": 27
+        }
+    },
+    {
+        "name": "monorepo-base",
+        "description": "A Bazel monorepo with an example service using gRPC + Go + Protobuf, deployable to GCP via Kubernetes.",
+        "languages": {
+            "Starlark": 22810,
+            "Go": 9621,
+            "Jsonnet": 1930,
+            "HCL": 1261,
+            "Makefile": 241
+        }
+    },
+    {
+        "name": "rules_spm",
+        "description": "Provide a means for integrating external Swift packages built by Swift Package Manager into Bazel build using rules_swift.",
+        "languages": {
+            "Starlark": 317209,
+            "Swift": 8117,
+            "Shell": 3754,
+            "Smarty": 1153
+        }
+    },
+    {
+        "name": "bazel-tools",
+        "description": "Reusable bits for Bazel",
+        "languages": {
+            "Starlark": 66275,
+            "Go": 13516,
+            "Shell": 5829,
+            "Makefile": 239
+        }
+    },
+    {
+        "name": "bazel_gomock",
+        "description": "Code to create Go mocks for bazel targets using mockgen",
+        "languages": {
+            "Starlark": 16946,
+            "Go": 1867
+        }
+    },
+    {
+        "name": "rules_multirun",
+        "description": "Bazel rules for running multiple commands in parallel in a single bazel invocation",
+        "languages": {
+            "Starlark": 25120,
+            "Shell": 5419,
+            "Python": 3376
+        }
+    },
+    {
+        "name": "go-bazel",
+        "description": "Micro services monorepo Golang Bazel Gazelle example setup",
+        "languages": {
+            "Starlark": 14613,
+            "Go": 2722,
+            "Shell": 69
+        }
+    },
+    {
+        "name": "rules_codeowners",
+        "description": "Bazel rules for generating CODEOWNERS from a workspace.",
+        "languages": {
+            "Starlark": 11577,
+            "Shell": 43
+        }
+    },
+    {
+        "name": "rules_lint",
+        "description": "Run static analysis tools with Bazel",
+        "languages": {
+            "Starlark": 134141,
+            "Shell": 23930,
+            "JavaScript": 6849,
+            "jq": 752,
+            "Python": 690,
+            "Java": 463,
+            "HCL": 239,
+            "Go": 131,
+            "TypeScript": 103,
+            "Jsonnet": 89,
+            "Swift": 79,
+            "C++": 62,
+            "Scala": 48,
+            "Kotlin": 42,
+            "HTML": 30,
+            "CSS": 8
+        }
+    },
+    {
+        "name": "buck2-nix",
+        "description": "Do not taunt happy fun ball",
+        "languages": {
+            "Starlark": 78365,
+            "Nix": 23134,
+            "Rust": 21467,
+            "Shell": 11811,
+            "Jsonnet": 8278,
+            "C": 5175,
+            "RobotFramework": 767
+        }
+    },
+    {
+        "name": "bazel-super-formatter",
+        "description": "Hermetic meta-formatter to format code in most languages",
+        "languages": {
+            "Starlark": 35611,
+            "Shell": 7325,
+            "Python": 3468
+        }
+    },
+    {
+        "name": "bazel-mystery",
+        "description": "An interactive way to learn bazel.",
+        "languages": {
+            "Starlark": 3249,
+            "Shell": 1048
+        }
+    },
+    {
+        "name": "rules_openapi",
+        "description": "\ud83c\udf43 bazel rules for generating code from openapi specifications",
+        "languages": {
+            "Starlark": 13264,
+            "Shell": 2737,
+            "Makefile": 155
+        }
+    },
+    {
+        "name": "rules_sass",
+        "description": "Sass rules for Bazel",
+        "languages": {
+            "Starlark": 25576,
+            "JavaScript": 1501,
+            "Shell": 531,
+            "SCSS": 254,
+            "Sass": 27,
+            "CSS": 25
+        }
+    },
+    {
+        "name": "rules_pycross",
+        "description": "Bazel + Python rules for cross-platform external dependencies",
+        "languages": {
+            "Starlark": 311286,
+            "Python": 163132,
+            "Shell": 180
+        }
+    },
+    {
+        "name": "systems-programming",
+        "description": "Examples of common systems programming optimizations",
+        "languages": {
+            "Starlark": 2396
+        }
+    },
+    {
+        "name": "bazel-federation",
+        "description": null,
+        "languages": {
+            "Starlark": 50917,
+            "Python": 25356,
+            "Scala": 2318,
+            "Go": 2315,
+            "Rust": 2155,
+            "Java": 291,
+            "C++": 287
+        }
+    },
+    {
+        "name": "rules_dart",
+        "description": "Dart rules for Bazel",
+        "languages": {
+            "Starlark": 27824,
+            "Python": 8328,
+            "Shell": 6862
+        }
+    },
+    {
+        "name": "bazel-emscripten",
+        "description": "C++ to WASM or JS using Bazel and Emscripten",
+        "languages": {
+            "Starlark": 3272,
+            "JavaScript": 2225,
+            "C++": 1436,
+            "Shell": 1218,
+            "HTML": 372
+        }
+    },
+    {
+        "name": "buck2-prelude",
+        "description": "Prelude for the Buck2 project",
+        "languages": {
+            "Starlark": 3232735,
+            "Python": 688333,
+            "Erlang": 326435,
+            "Objective-C": 18177,
+            "Go": 14715,
+            "C++": 11644,
+            "Shell": 2558,
+            "Java": 1450,
+            "Makefile": 1412,
+            "Batchfile": 1287
+        }
+    },
+    {
+        "name": "golink",
+        "description": "bazel hack for linking go generated srcs",
+        "languages": {
+            "Starlark": 5657,
+            "Go": 1966,
+            "Shell": 78
+        }
+    },
+    {
+        "name": "bazel_rules_qt",
+        "description": "Bazel rules for Qt5",
+        "languages": {
+            "Starlark": 12775,
+            "C++": 1250,
+            "QML": 328,
+            "Smarty": 42
+        }
+    },
+    {
+        "name": "container-definitions",
+        "description": "This repository contains Bazel targets for Google-maintained common container definitions and their dependencies.",
+        "languages": {
+            "Starlark": 50761
+        }
+    },
+    {
+        "name": "bazel-hermetic-python",
+        "description": "Example of building custom python interpreter in bazel with pip support.",
+        "languages": {
+            "Starlark": 7753,
+            "Python": 1054
+        }
+    },
+    {
+        "name": "rules_graal",
+        "description": "Bazel rules to make JVM binaries into native binaries",
+        "languages": {
+            "Starlark": 19979,
+            "Shell": 3957,
+            "Java": 119
+        }
+    },
+    {
+        "name": "nix_bazel_codelab",
+        "description": "Nix+Bazel Codelab",
+        "languages": {
+            "Starlark": 28765,
+            "Java": 6777,
+            "Shell": 4396,
+            "TypeScript": 2720,
+            "Go": 2643,
+            "Nix": 648
+        }
+    },
+    {
+        "name": "envoy-build-tools",
+        "description": "Common build tools shared by the Envoy/UDPA ecosystem",
+        "languages": {
+            "Starlark": 192643,
+            "Shell": 23270,
+            "PowerShell": 10547,
+            "Dockerfile": 5555,
+            "C++": 39
+        }
+    },
+    {
+        "name": "rules_hugo",
+        "description": "Bazel build rules for hugo static website generator",
+        "languages": {
+            "Starlark": 16051,
+            "Shell": 162,
+            "SCSS": 21
+        }
+    },
+    {
+        "name": "rules_sh",
+        "description": "Shell rules for Bazel",
+        "languages": {
+            "Starlark": 105640,
+            "Shell": 12050,
+            "C++": 203
+        }
+    },
+    {
+        "name": "cabal2bazel",
+        "description": "Haskell Bazel rules and cabal2bazel import tool.",
+        "languages": {
+            "Starlark": 251975,
+            "Haskell": 199399,
+            "C++": 1673,
+            "C": 1125,
+            "Shell": 722
+        }
+    },
+    {
+        "name": "qt-bazel-example",
+        "description": "An example QT application built with Bazel",
+        "languages": {
+            "Starlark": 2334,
+            "C++": 625,
+            "C": 424
+        }
+    },
+    {
+        "name": "blackjack",
+        "description": "Build cargo dependencies with Bazel",
+        "languages": {
+            "Starlark": 181593,
+            "Rust": 19647,
+            "Shell": 643
+        }
+    },
+    {
+        "name": "rules_cc_module",
+        "description": "Rules for using C++20 modules with bazel",
+        "languages": {
+            "Starlark": 33150,
+            "Python": 5413,
+            "C++": 2651,
+            "Shell": 1675,
+            "Dockerfile": 283,
+            "C": 53
+        }
+    },
+    {
+        "name": "rules_graalvm",
+        "description": "Build GraalVM native binaries with Bazel",
+        "languages": {
+            "Starlark": 310774,
+            "Java": 3924,
+            "Makefile": 3450,
+            "Shell": 1953,
+            "JavaScript": 67
+        }
+    },
+    {
+        "name": "rules_swc",
+        "description": "Bazel rules for the swc toolchain https://swc.rs/",
+        "languages": {
+            "Starlark": 107991,
+            "Shell": 1740,
+            "jq": 561,
+            "TypeScript": 62
+        }
+    },
+    {
+        "name": "test_data",
+        "description": "Trained and compiled TF Lite models, and other testing data for Coral devices",
+        "languages": {
+            "Starlark": 6964,
+            "Shell": 4767
+        }
+    },
+    {
+        "name": "rules_r",
+        "description": "R rules for Bazel",
+        "languages": {
+            "Starlark": 144627,
+            "Shell": 64424,
+            "R": 63936,
+            "Go": 30459,
+            "C": 5598,
+            "Smarty": 4637,
+            "C++": 2792,
+            "Gnuplot": 1931,
+            "Makefile": 300
+        }
+    },
+    {
+        "name": "bazel-examples",
+        "description": "The goal is to have several examples including multi language projects using Bazel build system",
+        "languages": {
+            "Starlark": 106130,
+            "PowerShell": 4959,
+            "C++": 2917,
+            "Python": 1325,
+            "Shell": 739
+        }
+    },
+    {
+        "name": "bazelcon-2019",
+        "description": "Bazel examples for \"Bazel Boot Camp\" session at Bazelcon 2019",
+        "languages": {
+            "Starlark": 32268,
+            "TypeScript": 9183,
+            "Java": 6188,
+            "Shell": 5471,
+            "HTML": 3583,
+            "JavaScript": 2592,
+            "Go": 2061,
+            "CSS": 43
+        }
+    },
+    {
+        "name": "proto_library",
+        "description": null,
+        "languages": {
+            "Starlark": 3793
+        }
+    },
+    {
+        "name": "rules_buf",
+        "description": "Bazel rules for Buf.",
+        "languages": {
+            "Starlark": 55697,
+            "Go": 34986,
+            "Makefile": 1976
+        }
+    },
+    {
+        "name": "rules_ocaml",
+        "description": "OCaml build rules for Bazel",
+        "languages": {
+            "Starlark": 8816
+        }
+    },
+    {
+        "name": "rules_bazel_integration_test",
+        "description": "Rules and macros for executing integration tests that use Bazel. Supports running integration tests with multiple versions of Bazel.",
+        "languages": {
+            "Starlark": 74791,
+            "Shell": 43783,
+            "Python": 10516
+        }
+    },
+    {
+        "name": "rules_ros",
+        "description": "ROS 2 rules for Bazel",
+        "languages": {
+            "Starlark": 73702,
+            "Python": 15618,
+            "Shell": 1149
+        }
+    },
+    {
+        "name": "coins",
+        "description": "coin parameters and all files needed for GUI support",
+        "languages": {
+            "Starlark": 34
+        }
+    },
+    {
+        "name": "rules_erlang",
+        "description": "Bazel rules for building Erlang applications and libraries",
+        "languages": {
+            "Starlark": 223685,
+            "Go": 144047,
+            "Erlang": 57111,
+            "Smarty": 3424,
+            "Shell": 124
+        }
+    },
+    {
+        "name": "rules_cue",
+        "description": "CUE rules for Bazel",
+        "languages": {
+            "Starlark": 56836,
+            "Go": 14496
+        }
+    },
+    {
+        "name": "bazel_iwyu",
+        "description": "IWYU Support for Bazel",
+        "languages": {
+            "Starlark": 11158,
+            "Shell": 2609,
+            "Dockerfile": 1709
+        }
+    },
+    {
+        "name": "golang101",
+        "description": "\u041a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044f \u043f\u043e\u043b\u0435\u0437\u043d\u044b\u0445 \u0440\u0435\u0441\u0443\u0440\u0441\u043e\u0432 \u043f\u043e Go (rus)",
+        "languages": {
+            "Starlark": 141714,
+            "Go": 25245,
+            "Makefile": 1859
+        }
+    },
+    {
+        "name": "bazel_aspects",
+        "description": "Example of how to use bazel aspects.",
+        "languages": {
+            "Starlark": 6633,
+            "Makefile": 686,
+            "Java": 220
+        }
+    },
+    {
+        "name": "minirepo",
+        "description": "A monorepo template, using Nix, direnv and Bazel",
+        "languages": {
+            "Starlark": 25150,
+            "Shell": 14636,
+            "Nix": 9582,
+            "Haskell": 2192
+        }
+    },
+    {
+        "name": "bazel_rules_install",
+        "description": "Bazel rules for installing build results. Similar to `make install`.",
+        "languages": {
+            "Starlark": 21431,
+            "Shell": 12278
+        }
+    },
+    {
+        "name": "rules_cc_toolchain",
+        "description": "A new hermetic toolchain for bazel",
+        "languages": {
+            "Starlark": 50499,
+            "Shell": 13856,
+            "Batchfile": 10672,
+            "C++": 589,
+            "C": 156
+        }
+    },
+    {
+        "name": "agentgpt-package",
+        "description": "The quickest way to run or develop on AgentGPT",
+        "languages": {
+            "Starlark": 2626
+        }
+    },
+    {
+        "name": "rules_typescript_proto",
+        "description": "Bazel rules for generating TypeScript declarations for JavaScript protocol buffers",
+        "languages": {
+            "Starlark": 27573,
+            "TypeScript": 8764,
+            "JavaScript": 2427
+        }
+    },
+    {
+        "name": "rules_zig",
+        "description": "Bazel build rules for Zig",
+        "languages": {
+            "Starlark": 235301,
+            "Zig": 105059,
+            "Python": 8814,
+            "Smarty": 467,
+            "C": 461
+        }
+    },
+    {
+        "name": "containers_by_bazel",
+        "description": "Container images created with Bazel",
+        "languages": {
+            "Starlark": 85919,
+            "Shell": 50490,
+            "Dockerfile": 2336,
+            "Python": 1179,
+            "JavaScript": 1088,
+            "Scala": 988,
+            "Groovy": 307,
+            "PHP": 252,
+            "PLpgSQL": 95
+        }
+    },
+    {
+        "name": "rules_ocaml",
+        "description": "A Bazel Language Support Package for OCaml",
+        "languages": {
+            "Starlark": 552677,
+            "OCaml": 4285,
+            "Shell": 359
+        }
+    },
+    {
+        "name": "rules_clojure",
+        "description": "Clojure rules for Bazel",
+        "languages": {
+            "Starlark": 18028,
+            "Clojure": 4629,
+            "Shell": 496,
+            "Java": 145
+        }
+    },
+    {
+        "name": "rules_webpack",
+        "description": "Bazel rules for webpack bundler https://webpack.js.org/",
+        "languages": {
+            "Starlark": 50215,
+            "JavaScript": 18314,
+            "Shell": 749,
+            "HTML": 512,
+            "CSS": 32
+        }
+    },
+    {
+        "name": "rules_appengine",
+        "description": "AppEngine rules for Bazel",
+        "languages": {
+            "Starlark": 28416,
+            "Shell": 6809,
+            "Java": 66
+        }
+    },
+    {
+        "name": "bazel-zig-cc",
+        "description": null,
+        "languages": {
+            "Starlark": 15382,
+            "C++": 1117
+        }
+    },
+    {
+        "name": "rules_android_ndk",
+        "description": null,
+        "languages": {
+            "Starlark": 69616,
+            "Smarty": 7135
+        }
+    },
+    {
+        "name": "please-examples",
+        "description": "A small set of example projects for the Please build system.",
+        "languages": {
+            "Starlark": 8409,
+            "Java": 5459,
+            "C++": 4635,
+            "Python": 3707,
+            "Go": 3322,
+            "Shell": 2090,
+            "Dockerfile": 895
+        }
+    },
+    {
+        "name": "rules_oss_audit",
+        "description": "The complexities of identifying and tracking open-source software (OSS) to comply with license requirements adds friction to the development process and can result in product-release delays. At VMware, we solve this problem using Bazel to create an accurate bill of materials containing OSS and third-party packages during a build.",
+        "languages": {
+            "Starlark": 14504,
+            "Python": 10803
+        }
+    },
+    {
+        "name": "buildifier-prebuilt",
+        "description": "A bazel toolchain for using prebuilt binaries for buildifier and buildozer",
+        "languages": {
+            "Starlark": 35221,
+            "Shell": 4580
+        }
+    },
+    {
+        "name": "golang-boilerplate",
+        "description": null,
+        "languages": {
+            "Starlark": 8397,
+            "Go": 4174
+        }
+    },
+    {
+        "name": "please.make",
+        "description": "Monorepo build system for backend and frontend, and monorepo example",
+        "languages": {
+            "Starlark": 8822,
+            "Python": 6743,
+            "JavaScript": 4722,
+            "Dockerfile": 2835,
+            "Shell": 2103,
+            "Go": 1991,
+            "TypeScript": 1560,
+            "C#": 600,
+            "Java": 559,
+            "HTML": 379,
+            "Rust": 245
+        }
+    },
+    {
+        "name": "with_cfg.bzl",
+        "description": null,
+        "languages": {
+            "Starlark": 70658
+        }
+    },
+    {
+        "name": "nogo-analyzer",
+        "description": "A collection of common static analyzers (linters) that can be used with Bazel's rules_go",
+        "languages": {
+            "Starlark": 180216,
+            "Go": 41578,
+            "Shell": 1679
+        }
+    },
+    {
+        "name": "rules_esbuild",
+        "description": "Bazel rules for https://esbuild.github.io/ JS bundler",
+        "languages": {
+            "Starlark": 75058,
+            "JavaScript": 7428,
+            "Shell": 1531
+        }
+    },
+    {
+        "name": "bazel-nix-example",
+        "description": null,
+        "languages": {
+            "Starlark": 2935,
+            "Nix": 1061,
+            "Python": 16
+        }
+    },
+    {
+        "name": "bazel-ts-example",
+        "description": "Example demonstrates building TypeScript & React with Bazel",
+        "languages": {
+            "Starlark": 5429,
+            "JavaScript": 1006,
+            "TypeScript": 835,
+            "Shell": 624,
+            "HTML": 374,
+            "CSS": 100
+        }
+    },
+    {
+        "name": "layer-definitions",
+        "description": "This repository contains Bazel targets for Google-maintained common container tool layer definitions and their dependencies.",
+        "languages": {
+            "Starlark": 101809,
+            "Smarty": 6257
+        }
+    },
+    {
+        "name": "bazel-next-typescript-monorepo",
+        "description": "Mono repo example with nextJS, Typescript and Bazel",
+        "languages": {
+            "Starlark": 8947,
+            "JavaScript": 791,
+            "TypeScript": 338
+        }
+    },
+    {
+        "name": "rules_conda",
+        "description": "Rules for creating conda environments in Bazel :green_heart:",
+        "languages": {
+            "Starlark": 20169,
+            "Batchfile": 2867,
+            "Shell": 2553,
+            "Python": 744
+        }
+    },
+    {
+        "name": "rules_web",
+        "description": "Bazel website build tools",
+        "languages": {
+            "Starlark": 108073,
+            "Java": 45401,
+            "Python": 28179,
+            "Jinja": 7237,
+            "HTML": 4447,
+            "CSS": 609,
+            "JavaScript": 544,
+            "SCSS": 122
+        }
+    },
+    {
+        "name": "rules_swiftlint",
+        "description": "Run SwiftLint in your Bazel build efficiently.",
+        "languages": {
+            "Starlark": 19550,
+            "Shell": 460,
+            "Swift": 436
+        }
+    },
+    {
+        "name": "rules_pyenv",
+        "description": "Bazel rules for pyenv (simple python version management)",
+        "languages": {
+            "Starlark": 9876
+        }
+    },
+    {
+        "name": "rules_ruby",
+        "description": "Bazel Ruby Rules",
+        "languages": {
+            "Starlark": 53721,
+            "Ruby": 26615,
+            "Shell": 2758,
+            "Smarty": 355,
+            "C": 199
+        }
+    },
+    {
+        "name": "rules_elm",
+        "description": "Bazel rules for building web applications written in Elm",
+        "languages": {
+            "Starlark": 19284,
+            "Python": 11992,
+            "JavaScript": 1419
+        }
+    },
+    {
+        "name": "rules_d",
+        "description": "D rules for Bazel",
+        "languages": {
+            "Starlark": 24573,
+            "D": 2892,
+            "C": 78
+        }
+    },
+    {
+        "name": "snippets",
+        "description": null,
+        "languages": {
+            "Starlark": 19441,
+            "Shell": 2762,
+            "C++": 600
+        }
+    },
+    {
+        "name": "tools_android",
+        "description": "Tools for use with building Android apps with Bazel",
+        "languages": {
+            "Starlark": 5171,
+            "Java": 866
+        }
+    },
+    {
+        "name": "platformio_rules",
+        "description": "These are Bazel Skylark rules for building and uploading Arduino programs using the PlatformIO build system.",
+        "languages": {
+            "Starlark": 38812,
+            "C++": 36251,
+            "Python": 1760
+        }
+    },
+    {
+        "name": "discolix",
+        "description": "distroless arm docker images",
+        "languages": {
+            "Starlark": 61728,
+            "Shell": 12691,
+            "Python": 2693,
+            "Dockerfile": 2106,
+            "Go": 894
+        }
+    },
+    {
+        "name": "rules_jni",
+        "description": "Java Native Interface (JNI) rules for Bazel",
+        "languages": {
+            "Starlark": 73847,
+            "Java": 32196,
+            "C": 19947,
+            "C++": 18932,
+            "Shell": 1636
+        }
+    },
+    {
+        "name": "bazel-make-cc-https-easy",
+        "description": "Goal: Make it easy to place HTTPS Requests from C++, leveraging Bazel, CPR, and CURL.",
+        "languages": {
+            "Starlark": 6069
+        }
+    },
+    {
+        "name": "bazel-stack-vscode-cc",
+        "description": "C/C++ Support For Bazel Stack VSCode Extension",
+        "languages": {
+            "Starlark": 13764,
+            "TypeScript": 12036,
+            "Python": 4105
+        }
+    },
+    {
+        "name": "buckit",
+        "description": "Makes building C++ projects easier with Buck.",
+        "languages": {
+            "Starlark": 19859,
+            "Python": 8214,
+            "Shell": 3092
+        }
+    },
+    {
+        "name": "rules_perl",
+        "description": "Perl rules for Bazel",
+        "languages": {
+            "Starlark": 25943,
+            "Shell": 432,
+            "Smarty": 288
+        }
+    },
+    {
+        "name": "go-grpc-bazel-docker",
+        "description": "Deterministic Bazel build with gRPC + go",
+        "languages": {
+            "Starlark": 17688,
+            "Go": 6363
+        }
+    },
+    {
+        "name": "rules_terraform",
+        "description": null,
+        "languages": {
+            "Starlark": 38878,
+            "HCL": 4185,
+            "Go": 3792,
+            "Nix": 717
+        }
+    },
+    {
+        "name": "tmate-kube",
+        "description": "dev and prod kubernetes configurations",
+        "languages": {
+            "Starlark": 1995,
+            "Shell": 803
+        }
+    },
+    {
+        "name": "Bazel_with_GTest",
+        "description": "C++ project skeleton  with Bazel & GTest",
+        "languages": {
+            "Starlark": 589,
+            "C++": 402
+        }
+    },
+    {
+        "name": "bazel-coverage-report",
+        "description": "**NOT MAINTAINED** A multi-language coverage report generator for Bazel",
+        "languages": {
+            "Starlark": 21127,
+            "Python": 16763,
+            "Shell": 10969,
+            "C": 7394,
+            "Java": 5217,
+            "Kotlin": 3201,
+            "Go": 2818,
+            "JavaScript": 1552,
+            "TypeScript": 1391,
+            "R": 1356,
+            "C++": 682
+        }
+    },
+    {
+        "name": "OpenVectorFormat",
+        "description": "A data format description for storing scanner-based laser-processing jobs, complete with vector-geometry data, processing parameters and metadata.",
+        "languages": {
+            "Starlark": 3993
+        }
+    },
+    {
+        "name": "rules_jest",
+        "description": "Bazel rules to run tests using https://jestjs.io",
+        "languages": {
+            "Starlark": 62027,
+            "JavaScript": 29145,
+            "Shell": 4169
+        }
+    },
+    {
+        "name": "rules_qt6",
+        "description": "Bazel rules for Qt6",
+        "languages": {
+            "Starlark": 35592,
+            "QML": 7410,
+            "C++": 5666
         }
     }
 ]

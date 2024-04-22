@@ -3,7 +3,7 @@
         "name": "WTF-Solidity",
         "description": "\u6211\u6700\u8fd1\u5728\u91cd\u65b0\u5b66solidity\uff0c\u5de9\u56fa\u4e00\u4e0b\u7ec6\u8282\uff0c\u4e5f\u5199\u4e00\u4e2a\u201cWTF Solidity\u6781\u7b80\u5165\u95e8\u201d\uff0c\u4f9b\u5c0f\u767d\u4eec\u4f7f\u7528\uff0c\u6bcf\u5468\u66f4\u65b01-3\u8bb2\u3002Now supports English! \u5b98\u7f51: https://wtf.academy",
         "languages": {
-            "Solidity": 1605615,
+            "Solidity": 1605616,
             "JavaScript": 23465,
             "HTML": 22435,
             "Makefile": 554,
@@ -44,7 +44,7 @@
         "description": "A based rollup. \ud83e\udd41",
         "languages": {
             "Solidity": 864538,
-            "Go": 644789,
+            "Go": 623320,
             "TypeScript": 586707,
             "Svelte": 413982,
             "JavaScript": 31709,
@@ -62,6 +62,1805 @@
         "languages": {
             "Solidity": 355330,
             "Julia": 42859
+        }
+    },
+    {
+        "name": "solidity-patterns",
+        "description": "A compilation of patterns and best practices for the smart contract programming language Solidity",
+        "languages": {
+            "Solidity": 23561
+        }
+    },
+    {
+        "name": "core",
+        "description": "The Lens Protocol",
+        "languages": {
+            "Solidity": 1699872,
+            "Shell": 16420,
+            "JavaScript": 14248,
+            "TypeScript": 4405
+        }
+    },
+    {
+        "name": "AirCash",
+        "description": "Cash system for AIR.",
+        "languages": {
+            "Solidity": 85059
+        }
+    },
+    {
+        "name": "echidna",
+        "description": "Ethereum smart contract fuzzer",
+        "languages": {
+            "Solidity": 297575,
+            "Haskell": 267766,
+            "Nix": 7664,
+            "Dockerfile": 2086,
+            "Python": 764
+        }
+    },
+    {
+        "name": "ERC721A",
+        "description": "https://ERC721A.org",
+        "languages": {
+            "Solidity": 94454,
+            "JavaScript": 92774
+        }
+    },
+    {
+        "name": "solady",
+        "description": "Optimized Solidity snippets.",
+        "languages": {
+            "Solidity": 2044036,
+            "Python": 89640,
+            "JavaScript": 15514
+        }
+    },
+    {
+        "name": "seaport",
+        "description": "Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs.",
+        "languages": {
+            "Solidity": 2948851,
+            "TypeScript": 979274,
+            "JavaScript": 27142,
+            "Shell": 2477
+        }
+    },
+    {
+        "name": "not-so-smart-contracts",
+        "description": "Examples of Solidity security issues",
+        "languages": {
+            "Solidity": 147530
+        }
+    },
+    {
+        "name": "building-secure-contracts",
+        "description": "Guidelines and training material to write secure smart contracts",
+        "languages": {
+            "Solidity": 48647,
+            "Rust": 21954,
+            "Python": 9168,
+            "Shell": 2545,
+            "TypeScript": 619,
+            "CSS": 156,
+            "JavaScript": 125
+        }
+    },
+    {
+        "name": "learning-solidity",
+        "description": "The companion to the Youtube tutorials",
+        "languages": {
+            "Solidity": 69615,
+            "Java": 31652,
+            "JavaScript": 22022,
+            "HTML": 6775,
+            "CSS": 69
+        }
+    },
+    {
+        "name": "subway",
+        "description": "A practical example on how to perform sandwich attacks on Ethereum",
+        "languages": {
+            "Solidity": 37171,
+            "JavaScript": 28523,
+            "Shell": 283,
+            "Makefile": 89
+        }
+    },
+    {
+        "name": "sidra-contracts",
+        "description": "Genesis Smart Contracts for Sidra Chain",
+        "languages": {
+            "Solidity": 22795,
+            "Python": 8901,
+            "Shell": 2216
+        }
+    },
+    {
+        "name": "ethernaut",
+        "description": "Web3/Solidity based wargame",
+        "languages": {
+            "Solidity": 213575,
+            "JavaScript": 199116,
+            "CSS": 24585,
+            "HTML": 2800
+        }
+    },
+    {
+        "name": "amm-arbitrageur",
+        "description": "An arbitrage bot between Uniswap AMMs",
+        "languages": {
+            "Solidity": 28599,
+            "TypeScript": 24808
+        }
+    },
+    {
+        "name": "LayerZero",
+        "description": "An Omnichain Interoperability Protocol",
+        "languages": {
+            "Solidity": 165686,
+            "JavaScript": 49760,
+            "TypeScript": 4599,
+            "Shell": 2358
+        }
+    },
+    {
+        "name": "v4-core",
+        "description": "\ud83e\udd84 \ud83e\udd84 \ud83e\udd84 \ud83e\udd84 Core smart contracts of Uniswap v4",
+        "languages": {
+            "Solidity": 507156,
+            "TypeScript": 25461
+        }
+    },
+    {
+        "name": "learn-evm-attacks",
+        "description": "Learn & Contribute on previously exploited vulnerabilities across several EVM projects.",
+        "languages": {
+            "Solidity": 386861,
+            "D2": 7210,
+            "Shell": 242
+        }
+    },
+    {
+        "name": "DeFiVulnLabs",
+        "description": "To learn common smart contract vulnerabilities using Foundry!",
+        "languages": {
+            "Solidity": 218294
+        }
+    },
+    {
+        "name": "Web3Bugs",
+        "description": "Demystifying Exploitable Bugs in Smart Contracts",
+        "languages": {
+            "Solidity": 26731612,
+            "TypeScript": 16559915,
+            "JavaScript": 13705249,
+            "Python": 2467292,
+            "HTML": 2367687,
+            "Go": 731631,
+            "Vyper": 481621,
+            "Rust": 426597,
+            "Reason": 289930,
+            "ReScript": 287556,
+            "Ruby": 108770,
+            "Shell": 82259,
+            "MDX": 35365,
+            "Makefile": 22984,
+            "Handlebars": 18496,
+            "CSS": 7048,
+            "Dockerfile": 2357,
+            "Nix": 1707,
+            "Perl": 244
+        }
+    },
+    {
+        "name": "useful-solidity-patterns",
+        "description": null,
+        "languages": {
+            "Solidity": 248678,
+            "TypeScript": 2855
+        }
+    },
+    {
+        "name": "smartcontract-apps",
+        "description": "\u8fd9\u662f\u4e00\u4e2a\u9762\u5411\u4e2d\u6587\u793e\u533a\uff0c\u5206\u6790\u5e02\u9762\u4e0a\u667a\u80fd\u5408\u7ea6\u5e94\u7528\u7684\u67b6\u6784\u4e0e\u5b9e\u73b0\u7684\u4ed3\u5e93\u3002",
+        "languages": {
+            "Solidity": 2140
+        }
+    },
+    {
+        "name": "solidity-expert",
+        "description": "4\u5e74\u6253\u78e8-2022\u5e74\u6d77\u5916\u4e00\u7ebf\u5927\u5382-\u4ee5\u592a\u574a\u5f00\u53d1\u6559\u7a0b\uff08a solidity tutorial makes you a dapp expert\uff09WIP",
+        "languages": {
+            "Solidity": 1792387,
+            "TypeScript": 56950,
+            "JavaScript": 14556,
+            "Go": 10707,
+            "HTML": 1721,
+            "CSS": 962,
+            "Makefile": 410,
+            "Shell": 54
+        }
+    },
+    {
+        "name": "weird-erc20",
+        "description": "weird erc20 tokens",
+        "languages": {
+            "Solidity": 33758,
+            "Nix": 6738,
+            "Makefile": 170
+        }
+    },
+    {
+        "name": "lil-web3",
+        "description": "Simple, intentionally-limited versions of web3 protocols & apps.",
+        "languages": {
+            "Solidity": 82664,
+            "Julia": 4230
+        }
+    },
+    {
+        "name": "defi-bot",
+        "description": "Tutorial for building DeFi arbitrage bots",
+        "languages": {
+            "Solidity": 57673,
+            "JavaScript": 12464,
+            "Shell": 172
+        }
+    },
+    {
+        "name": "solidity-stringutils",
+        "description": "Basic string utilities for Solidity",
+        "languages": {
+            "Solidity": 33644,
+            "Makefile": 104
+        }
+    },
+    {
+        "name": "awesome-solidity-gas-optimization",
+        "description": "Best resources for Solidity gas optimizations \u26fd",
+        "languages": {
+            "Solidity": 601
+        }
+    },
+    {
+        "name": "v2-periphery",
+        "description": "\ud83c\udf9a Peripheral smart contracts for interacting with Uniswap V2",
+        "languages": {
+            "Solidity": 119184,
+            "TypeScript": 91574
+        }
+    },
+    {
+        "name": "erc721",
+        "description": "The reference implementation of the ERC-721 non-fungible token standard.",
+        "languages": {
+            "Solidity": 47097,
+            "JavaScript": 22414
+        }
+    },
+    {
+        "name": "money-legos",
+        "description": "\ud83d\udcb0One stop shop for Ethereum ABIs, addresses, and Solidity interfaces!",
+        "languages": {
+            "Solidity": 102353,
+            "TypeScript": 62248,
+            "JavaScript": 5799,
+            "Shell": 506
+        }
+    },
+    {
+        "name": "security-and-auditing-full-course-s23",
+        "description": "The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created. ",
+        "languages": {
+            "Solidity": 2997
+        }
+    },
+    {
+        "name": "contracts",
+        "description": "Collection of smart contracts deployable via thirdweb",
+        "languages": {
+            "Solidity": 4843570,
+            "TypeScript": 35422,
+            "Shell": 1161
+        }
+    },
+    {
+        "name": "multicall",
+        "description": "Multicall: Aggregate multiple constant function call results into one",
+        "languages": {
+            "Solidity": 9620,
+            "Makefile": 94
+        }
+    },
+    {
+        "name": "xtt",
+        "description": "XTblock Token - Smart Contracts",
+        "languages": {
+            "Solidity": 35509
+        }
+    },
+    {
+        "name": "hashlips_nft_contract",
+        "description": "A simple NFT smart contract that works with the rest of the HashLips ecosystem.",
+        "languages": {
+            "Solidity": 94401
+        }
+    },
+    {
+        "name": "Journey-to-become-a-Blockchain-Engineer",
+        "description": "I'm sharing everything I'm learning to become a Blockchain Engineer",
+        "languages": {
+            "Solidity": 253160,
+            "JavaScript": 176581,
+            "Python": 90338,
+            "TypeScript": 46061,
+            "CSS": 6084,
+            "HTML": 2186
+        }
+    },
+    {
+        "name": "shisi.eth-in-web3",
+        "description": "\u5341\u56db\u541b\u516c\u4f17\u53f7\u6587\u7ae0\u7684\u76f8\u5173\u4ee3\u7801\u8d44\u6e90\u5f00\u6e90",
+        "languages": {
+            "Solidity": 132766
+        }
+    },
+    {
+        "name": "nft-mix",
+        "description": null,
+        "languages": {
+            "Solidity": 21329,
+            "Python": 19283
+        }
+    },
+    {
+        "name": "prb-math",
+        "description": "Solidity library for advanced fixed-point math",
+        "languages": {
+            "Solidity": 337297
+        }
+    },
+    {
+        "name": "ethereum-api",
+        "description": "Provable API for Ethereum smart contracts",
+        "languages": {
+            "Solidity": 570394,
+            "Shell": 611,
+            "JavaScript": 178
+        }
+    },
+    {
+        "name": "defi-sdk",
+        "description": "DeFi SDK Makes Money Lego Work",
+        "languages": {
+            "Solidity": 85427,
+            "JavaScript": 74065,
+            "TypeScript": 7622,
+            "Shell": 62
+        }
+    },
+    {
+        "name": "forge-std",
+        "description": "Forge Standard Library is a collection of helpful contracts for use with forge and foundry. It leverages forge's cheatcodes to make writing tests easier and faster, while improving the UX of cheatcodes. For more in-depth usage examples checkout the tests.",
+        "languages": {
+            "Solidity": 839143,
+            "Python": 17233
+        }
+    },
+    {
+        "name": "BEPs",
+        "description": "BNB Evolution Proposals",
+        "languages": {
+            "Solidity": 10537
+        }
+    },
+    {
+        "name": "optimism-tutorial",
+        "description": "Build your first app on Optimism!",
+        "languages": {
+            "Solidity": 295066,
+            "JavaScript": 61405,
+            "TypeScript": 868,
+            "Makefile": 277,
+            "Nix": 85
+        }
+    },
+    {
+        "name": "ctf-blockchain",
+        "description": "A summary of 100+ CTF blockchain challenges",
+        "languages": {
+            "Solidity": 822667,
+            "Python": 130754,
+            "Cairo": 110016,
+            "Move": 45029,
+            "TypeScript": 24888,
+            "JavaScript": 2006,
+            "Shell": 1335,
+            "Dockerfile": 1179,
+            "Vyper": 447,
+            "C++": 399,
+            "Makefile": 106
+        }
+    },
+    {
+        "name": "prettier-plugin-solidity",
+        "description": "A Prettier plugin for automatically formatting your Solidity code.",
+        "languages": {
+            "Solidity": 147452,
+            "JavaScript": 128487
+        }
+    },
+    {
+        "name": "olympus-contracts",
+        "description": null,
+        "languages": {
+            "Solidity": 532425,
+            "TypeScript": 276032,
+            "JavaScript": 130646,
+            "Logos": 9196,
+            "Makefile": 1038,
+            "Shell": 1024,
+            "Dockerfile": 860,
+            "Nix": 441
+        }
+    },
+    {
+        "name": "semgrep-rules",
+        "description": "Semgrep rules registry",
+        "languages": {
+            "Solidity": 698011,
+            "HCL": 681906,
+            "Python": 501856,
+            "Java": 397426,
+            "JavaScript": 206527,
+            "Jsonnet": 186653,
+            "PHP": 183035,
+            "Go": 180012,
+            "C#": 95816,
+            "Ruby": 90995,
+            "TypeScript": 52266,
+            "Scala": 33937,
+            "HTML": 33869,
+            "Apex": 29876,
+            "Dockerfile": 22809,
+            "Kotlin": 16218,
+            "C": 14873,
+            "Mustache": 11396,
+            "Blade": 9137,
+            "Shell": 7879,
+            "EJS": 7795,
+            "Clojure": 5796,
+            "Pug": 5252,
+            "OCaml": 5142,
+            "Swift": 5043,
+            "Rust": 3649,
+            "Elixir": 1964,
+            "Makefile": 319,
+            "Bicep": 276,
+            "Vue": 195
+        }
+    },
+    {
+        "name": "dss",
+        "description": "Dai Stablecoin System",
+        "languages": {
+            "Solidity": 346332,
+            "Makefile": 459,
+            "Nix": 372
+        }
+    },
+    {
+        "name": "verified-smart-contracts",
+        "description": "Smart contracts which are formally verified",
+        "languages": {
+            "Solidity": 688808,
+            "Makefile": 49289,
+            "Python": 37574,
+            "Shell": 4407,
+            "TeX": 3745,
+            "Dockerfile": 1960,
+            "SMT": 1823,
+            "Lua": 671
+        }
+    },
+    {
+        "name": "aragonOS",
+        "description": "(Aragon 1) Reference implementation for aragonOS: a Solidity framework for building complex dApps and protocols",
+        "languages": {
+            "Solidity": 225130,
+            "JavaScript": 192233
+        }
+    },
+    {
+        "name": "celo-monorepo",
+        "description": "Official repository for core projects comprising the Celo platform",
+        "languages": {
+            "Solidity": 1824002,
+            "TypeScript": 1052905,
+            "Shell": 56284,
+            "Ruby": 53525,
+            "JavaScript": 50356,
+            "Mustache": 9032,
+            "Smarty": 6489,
+            "Dockerfile": 4197
+        }
+    },
+    {
+        "name": "permit2",
+        "description": "\ud83d\udd11\ud83d\udd11\ud83d\udd11 next generation token approvals mechanism",
+        "languages": {
+            "Solidity": 240100,
+            "Julia": 7880
+        }
+    },
+    {
+        "name": "Safemoon.sol",
+        "description": "safemoon contract",
+        "languages": {
+            "Solidity": 43294
+        }
+    },
+    {
+        "name": "damn-vulnerable-defi",
+        "description": null,
+        "languages": {
+            "Solidity": 28939,
+            "JavaScript": 19540
+        }
+    },
+    {
+        "name": "v4-periphery",
+        "description": "\ud83e\udd84 \ud83e\udd84 \ud83e\udd84 \ud83e\udd84 Peripheral smart contracts for interacting with Uniswap v4",
+        "languages": {
+            "Solidity": 363650
+        }
+    },
+    {
+        "name": "yam-protocol",
+        "description": "A stablizing reserve currency protocol",
+        "languages": {
+            "Solidity": 360946,
+            "JavaScript": 207029,
+            "TypeScript": 120170,
+            "HTML": 2114,
+            "Python": 1861,
+            "Shell": 1369,
+            "CSS": 275
+        }
+    },
+    {
+        "name": "bsc-genesis-contract",
+        "description": "The genesis contracts of BNB Smart Chain.",
+        "languages": {
+            "Solidity": 828978,
+            "Python": 46162,
+            "JavaScript": 5068,
+            "TypeScript": 1408,
+            "Shell": 1396
+        }
+    },
+    {
+        "name": "rarity",
+        "description": "d20srd reference implementation codified in solidity",
+        "languages": {
+            "Solidity": 488475
+        }
+    },
+    {
+        "name": "contracts",
+        "description": "Solidity smart contracts of CodeforDAO",
+        "languages": {
+            "Solidity": 87366,
+            "JavaScript": 37350,
+            "Shell": 398
+        }
+    },
+    {
+        "name": "semgrep-smart-contracts",
+        "description": "Semgrep rules for smart contracts based on DeFi exploits",
+        "languages": {
+            "Solidity": 768687,
+            "Rust": 4200,
+            "Makefile": 85
+        }
+    },
+    {
+        "name": "solidity_smart_contracts",
+        "description": "A list of smart contracts coded in solidity ",
+        "languages": {
+            "Solidity": 89435
+        }
+    },
+    {
+        "name": "flashside",
+        "description": "Long-tail MEV contracts to claim Otherside land NFTs",
+        "languages": {
+            "Solidity": 25685
+        }
+    },
+    {
+        "name": "DEX-Arbitrage",
+        "description": "Example arbitrage trading bot",
+        "languages": {
+            "Solidity": 48063,
+            "JavaScript": 20247
+        }
+    },
+    {
+        "name": "cannon",
+        "description": "On chain interactive fault prover for Ethereum",
+        "languages": {
+            "Solidity": 121824,
+            "Go": 118828,
+            "Assembly": 73377,
+            "JavaScript": 30364,
+            "Shell": 11967,
+            "Makefile": 2339,
+            "Python": 1205
+        }
+    },
+    {
+        "name": "flashloan-box",
+        "description": "A box containing all you need to get started with developing  Aave v1 flash loans",
+        "languages": {
+            "Solidity": 7721,
+            "JavaScript": 2413
+        }
+    },
+    {
+        "name": "argent-contracts",
+        "description": "Smart Contracts for Argent Wallet",
+        "languages": {
+            "Solidity": 812630,
+            "JavaScript": 405066,
+            "TeX": 23219,
+            "Shell": 5636
+        }
+    },
+    {
+        "name": "securify2",
+        "description": "Securify v2.0",
+        "languages": {
+            "Solidity": 2381091,
+            "Python": 496132,
+            "C++": 2375,
+            "Dockerfile": 1803,
+            "Shell": 220,
+            "Jinja": 204
+        }
+    },
+    {
+        "name": "ERC4610",
+        "description": "ERC-4610 is an extension of ERC-721 and it aims to provide standardized token rental and loanable protocol for ecological applications such as blockchain games.",
+        "languages": {
+            "Solidity": 67817,
+            "JavaScript": 4721
+        }
+    },
+    {
+        "name": "defi-by-example",
+        "description": null,
+        "languages": {
+            "Solidity": 70510,
+            "JavaScript": 48328,
+            "Python": 34065
+        }
+    },
+    {
+        "name": "1inchProtocol",
+        "description": "1inch Protocol \u2013 fully on-chain DeFi aggregation protocol",
+        "languages": {
+            "Solidity": 751373,
+            "JavaScript": 17303,
+            "Shell": 2985
+        }
+    },
+    {
+        "name": "wrapper",
+        "description": "Wrapper is a contract where you can wrap or transform an existing ERC-721 token into a new wrapped token with ERC-4610 standard.",
+        "languages": {
+            "Solidity": 20957,
+            "JavaScript": 4721
+        }
+    },
+    {
+        "name": "solidity-examples",
+        "description": "Loose collection of Solidity example code",
+        "languages": {
+            "Solidity": 156955,
+            "JavaScript": 118476,
+            "TypeScript": 46092,
+            "Shell": 356
+        }
+    },
+    {
+        "name": "optimal-sandwich",
+        "description": "we do a little bit of mathematics to make a little bit of money",
+        "languages": {
+            "Solidity": 717
+        }
+    },
+    {
+        "name": "flashloaner-contract",
+        "description": "This repo introduces a simple example of how to arbitrage trade on-chain using flash loans.",
+        "languages": {
+            "Solidity": 16562,
+            "TypeScript": 180
+        }
+    },
+    {
+        "name": "paradigm-ctf-2021",
+        "description": "Official repository for Paradigm CTF 2021",
+        "languages": {
+            "Solidity": 202652,
+            "Python": 16912,
+            "Shell": 3104,
+            "Dockerfile": 1227,
+            "Yul": 355
+        }
+    },
+    {
+        "name": "ERC223-token-standard",
+        "description": "ERC-223 token standard reference implementation.",
+        "languages": {
+            "Solidity": 19192
+        }
+    },
+    {
+        "name": "eigenlayer-contracts",
+        "description": null,
+        "languages": {
+            "Solidity": 1627028,
+            "Ruby": 70103,
+            "Shell": 11867,
+            "TypeScript": 9117,
+            "JavaScript": 2146,
+            "Dockerfile": 413
+        }
+    },
+    {
+        "name": "chainlink-mix",
+        "description": "Working with smart contracts with eth-brownie, python, and Chainlink. ",
+        "languages": {
+            "Solidity": 80985,
+            "Python": 23803
+        }
+    },
+    {
+        "name": "sMEV",
+        "description": null,
+        "languages": {
+            "Solidity": 83228,
+            "JavaScript": 66635
+        }
+    },
+    {
+        "name": "foundry-template",
+        "description": "Foundry-based template for developing Solidity smart contracts",
+        "languages": {
+            "Solidity": 4374
+        }
+    },
+    {
+        "name": "damn-vulnerable-defi-foundry",
+        "description": "Damn Vulnerable DeFi - Foundry Version",
+        "languages": {
+            "Solidity": 120537,
+            "Shell": 1359,
+            "Makefile": 1000
+        }
+    },
+    {
+        "name": "solidity-bytes-utils",
+        "description": "Utility Solidity library composed of basic operations for tightly packed bytes arrays",
+        "languages": {
+            "Solidity": 97753
+        }
+    },
+    {
+        "name": "snekmate",
+        "description": "State-of-the-art, highly opinionated, hyper-optimised, and secure \ud83d\udc0dVyper smart contract building blocks.",
+        "languages": {
+            "Solidity": 765082,
+            "Vyper": 364744,
+            "JavaScript": 6758,
+            "Python": 322
+        }
+    },
+    {
+        "name": "scroll",
+        "description": "Scroll's Monorepo",
+        "languages": {
+            "Solidity": 1192920,
+            "Go": 1154751,
+            "TypeScript": 229438,
+            "Makefile": 14677,
+            "Dockerfile": 13492,
+            "Rust": 12362,
+            "Shell": 5232,
+            "JavaScript": 691,
+            "C": 619
+        }
+    },
+    {
+        "name": "ERC404",
+        "description": null,
+        "languages": {
+            "Solidity": 891687,
+            "Python": 17215,
+            "Makefile": 277,
+            "Nix": 85
+        }
+    },
+    {
+        "name": "ethereum-examples",
+        "description": "Code examples showing how to use the Provable API on Ethereum",
+        "languages": {
+            "Solidity": 798348,
+            "JavaScript": 72521,
+            "Python": 4205,
+            "Dockerfile": 1932,
+            "Shell": 276
+        }
+    },
+    {
+        "name": "smart-contract",
+        "description": "\u5b66\u4e60\u667a\u80fd\u5408\u7ea6",
+        "languages": {
+            "Solidity": 14828,
+            "JavaScript": 4483
+        }
+    },
+    {
+        "name": "yearn-protocol",
+        "description": "Yearn smart contracts",
+        "languages": {
+            "Solidity": 328947,
+            "Python": 8009,
+            "JavaScript": 65
+        }
+    },
+    {
+        "name": "frax-solidity",
+        "description": "Solidity implementation of the Frax Protocol",
+        "languages": {
+            "Solidity": 5298021,
+            "JavaScript": 3972358,
+            "Vyper": 298176,
+            "TypeScript": 297087
+        }
+    },
+    {
+        "name": "pancake-farm",
+        "description": null,
+        "languages": {
+            "Solidity": 63526,
+            "JavaScript": 33555
+        }
+    },
+    {
+        "name": "era-contracts",
+        "description": "Smart Contract Submodule For zkSync Era",
+        "languages": {
+            "Solidity": 935138,
+            "TypeScript": 564844,
+            "Yul": 256335,
+            "Rust": 26888,
+            "Shell": 874,
+            "JavaScript": 318
+        }
+    },
+    {
+        "name": "hot-chain-svg",
+        "description": null,
+        "languages": {
+            "Solidity": 9252,
+            "JavaScript": 8621
+        }
+    },
+    {
+        "name": "art-gobblers",
+        "description": "An experimental decentralized art factory by Justin Roiland and Paradigm.",
+        "languages": {
+            "Solidity": 288216,
+            "Python": 3820,
+            "SMT": 1563
+        }
+    },
+    {
+        "name": "huffmate",
+        "description": "A library of modern, hyper-optimized, and extensible Huff contracts with extensive testing and documentation built by Huff maintainers.",
+        "languages": {
+            "Solidity": 345913
+        }
+    },
+    {
+        "name": "xdeployer",
+        "description": "Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address.",
+        "languages": {
+            "Solidity": 215277,
+            "TypeScript": 51078,
+            "JavaScript": 845
+        }
+    },
+    {
+        "name": "erc-1155",
+        "description": "ERC-1155: Smart Contract Sample Implementation",
+        "languages": {
+            "Solidity": 60237,
+            "JavaScript": 36549
+        }
+    },
+    {
+        "name": "dn404",
+        "description": "Implementation of a co-joined ERC20 and ERC721 pair.",
+        "languages": {
+            "Solidity": 359927
+        }
+    },
+    {
+        "name": "hardhat-security-fcc",
+        "description": null,
+        "languages": {
+            "Solidity": 5041,
+            "JavaScript": 4608,
+            "Shell": 351
+        }
+    },
+    {
+        "name": "eth-arbitrage",
+        "description": "A DeFi Arbitrage Bot with DyDx Flashloans.",
+        "languages": {
+            "Solidity": 13906,
+            "JavaScript": 5920
+        }
+    },
+    {
+        "name": "aave-flashloan-mix",
+        "description": "A Brownie mix containing all you need to get started with developing flash loans",
+        "languages": {
+            "Solidity": 34676,
+            "Python": 9144,
+            "Shell": 122
+        }
+    },
+    {
+        "name": "Learning-Projects",
+        "description": "All the learning projects code from Metaschool website.",
+        "languages": {
+            "Solidity": 37304,
+            "JavaScript": 10174
+        }
+    },
+    {
+        "name": "SmartDev-Contract",
+        "description": "Solidity\u667a\u80fd\u5408\u7ea6\u5e93\uff0c\u5305\u542b\u4e86\u57fa\u7840\u7c7b\u578b\u5230\u4e0a\u5c42\u4e1a\u52a1\u7684\u4e00\u7cfb\u5217\u667a\u80fd\u5408\u7ea6\u5e93\u4ee3\u7801\uff0c\u4fbf\u4e8e\u5f00\u53d1\u8005\u501f\u9274\u3001\u5f15\u5165\u548c\u590d\u7528\u3002",
+        "languages": {
+            "Solidity": 697221,
+            "Go": 3397,
+            "Python": 2275
+        }
+    },
+    {
+        "name": "clone-factory",
+        "description": "Simple clone contract factory",
+        "languages": {
+            "Solidity": 15208,
+            "JavaScript": 13214
+        }
+    },
+    {
+        "name": "keep3r.network",
+        "description": "An incentivized keeper network for anonymous keeper and job registration",
+        "languages": {
+            "Solidity": 352437,
+            "JavaScript": 19767
+        }
+    },
+    {
+        "name": "abdk-libraries-solidity",
+        "description": "Open-Source Libraries for Solidity by ABDK Consulting",
+        "languages": {
+            "Solidity": 78286
+        }
+    },
+    {
+        "name": "femplate",
+        "description": "Robust, Feature-Rich Solidity Template Repository for Foundry Projects with Scripting, Testing, and Utility Bash Scripts.",
+        "languages": {
+            "Solidity": 2393,
+            "Shell": 2194
+        }
+    },
+    {
+        "name": "v3",
+        "description": null,
+        "languages": {
+            "Solidity": 757710,
+            "Shell": 10463,
+            "Python": 786
+        }
+    },
+    {
+        "name": "forge-template",
+        "description": "Forkable template to get you started with Foundry's Forge",
+        "languages": {
+            "Solidity": 532
+        }
+    },
+    {
+        "name": "forge-poc-templates",
+        "description": null,
+        "languages": {
+            "Solidity": 327246
+        }
+    },
+    {
+        "name": "protocol",
+        "description": "Enzyme Protocol Implementation",
+        "languages": {
+            "Solidity": 2517205,
+            "Makefile": 4734,
+            "Nix": 610
+        }
+    },
+    {
+        "name": "murky",
+        "description": "Merkle Proof Generator and Validator in Solidity",
+        "languages": {
+            "Solidity": 42374,
+            "TypeScript": 5796
+        }
+    },
+    {
+        "name": "BokkyPooBahsDateTimeLibrary",
+        "description": "Gas-Efficient Solidity DateTime Library",
+        "languages": {
+            "Solidity": 92255,
+            "Shell": 31900,
+            "JavaScript": 24952,
+            "Perl": 4191
+        }
+    },
+    {
+        "name": "solidity-idiosyncrasies",
+        "description": "Solidity gotchas, pitfalls, limitations, and idiosyncrasies.",
+        "languages": {
+            "Solidity": 7929,
+            "JavaScript": 1318
+        }
+    },
+    {
+        "name": "UniswapX",
+        "description": "\ud83e\udd84 Gasless ERC20 swap settlement protocol \ud83e\udd84",
+        "languages": {
+            "Solidity": 404719
+        }
+    },
+    {
+        "name": "CryptoVulhub",
+        "description": "Analyze and reproduce attack events or vulnerabilities in the blockchain world.",
+        "languages": {
+            "Solidity": 166165,
+            "TypeScript": 42253,
+            "JavaScript": 11677,
+            "Shell": 3000
+        }
+    },
+    {
+        "name": "diam-contract",
+        "description": null,
+        "languages": {
+            "Solidity": 1843,
+            "JavaScript": 146
+        }
+    },
+    {
+        "name": "auction-zoo",
+        "description": "A menagerie of auction mechanisms implemented in Solidity",
+        "languages": {
+            "Solidity": 215650,
+            "JavaScript": 1865
+        }
+    },
+    {
+        "name": "solidity-school",
+        "description": "First place for early developers to learn Solidity",
+        "languages": {
+            "Solidity": 19196,
+            "TypeScript": 5214
+        }
+    },
+    {
+        "name": "security-oracle-smart-contracts",
+        "description": "Smart Contracts for Shentu Security Oracle",
+        "languages": {
+            "Solidity": 38340,
+            "JavaScript": 5054
+        }
+    },
+    {
+        "name": "mev-templates",
+        "description": "MEV bot templates written in Python/Javascript/Rust. All implementing DEX flashloan arbitrage",
+        "languages": {
+            "Solidity": 2134165,
+            "JavaScript": 1005531,
+            "Ruby": 216477,
+            "Python": 73455,
+            "Rust": 59716,
+            "Shell": 7689,
+            "Makefile": 2249,
+            "Nix": 170
+        }
+    },
+    {
+        "name": "lmr-partners",
+        "description": null,
+        "languages": {
+            "Solidity": 6474
+        }
+    },
+    {
+        "name": "simple-blind-arbitrage",
+        "description": null,
+        "languages": {
+            "Solidity": 1286624,
+            "JavaScript": 953515,
+            "Ruby": 150004,
+            "Shell": 5451,
+            "Makefile": 1972,
+            "Python": 492,
+            "Nix": 85
+        }
+    },
+    {
+        "name": "pos-portal",
+        "description": "Smart contracts that powers the PoS (proof-of-stake) based bridge mechanism for Matic Network",
+        "languages": {
+            "Solidity": 1698132,
+            "JavaScript": 483419,
+            "Shell": 1705
+        }
+    },
+    {
+        "name": "LayerZero-v2",
+        "description": null,
+        "languages": {
+            "Solidity": 733734,
+            "Roff": 3594,
+            "JavaScript": 187,
+            "TypeScript": 164
+        }
+    },
+    {
+        "name": "MultiSigWallet",
+        "description": "Ethereum MultiSigWallet",
+        "languages": {
+            "Solidity": 14458
+        }
+    },
+    {
+        "name": "opml",
+        "description": "OPML: OPtimistic Machine Learning on Blockchain",
+        "languages": {
+            "Solidity": 108332,
+            "Go": 38896,
+            "JavaScript": 30330,
+            "Makefile": 2184
+        }
+    },
+    {
+        "name": "Flash-Arb-Trader",
+        "description": "Smart contract that flash borrows from Aave and uses the flash liquidity for arbitrage between Sushiswap and UniswapV2 within the same transaction",
+        "languages": {
+            "Solidity": 7553
+        }
+    },
+    {
+        "name": "huff-puzzles",
+        "description": "These exercises were created for our Advanced Solidity Bootcamp and open sourced. Learn EVM bytecode with the Huff Language.",
+        "languages": {
+            "Solidity": 26752
+        }
+    },
+    {
+        "name": "Solidity",
+        "description": "Algorithms and data structures implemented in Solidity",
+        "languages": {
+            "Solidity": 85540
+        }
+    },
+    {
+        "name": "operator-filter-registry",
+        "description": null,
+        "languages": {
+            "Solidity": 258821,
+            "Shell": 32947
+        }
+    },
+    {
+        "name": "balancer-core",
+        "description": "Balancer on the EVM",
+        "languages": {
+            "Solidity": 122184,
+            "JavaScript": 74711,
+            "Python": 6793
+        }
+    },
+    {
+        "name": "surl",
+        "description": "HTTP Library for Solidity based on curl",
+        "languages": {
+            "Solidity": 9757
+        }
+    },
+    {
+        "name": "protocols",
+        "description": "A zkRollup DEX & Payment Protocol",
+        "languages": {
+            "Solidity": 2892859,
+            "TypeScript": 1886813,
+            "C++": 504650,
+            "JavaScript": 213921,
+            "Python": 80174,
+            "Cuda": 79131,
+            "Shell": 69361,
+            "Makefile": 1447,
+            "CMake": 1189,
+            "Dockerfile": 889,
+            "SCSS": 179,
+            "Scala": 81
+        }
+    },
+    {
+        "name": "ds-proxy",
+        "description": "a proxy object that can compose transactions on owner's behalf",
+        "languages": {
+            "Solidity": 17828,
+            "Nix": 136,
+            "Makefile": 34
+        }
+    },
+    {
+        "name": "metfi-contracts",
+        "description": null,
+        "languages": {
+            "Solidity": 388077
+        }
+    },
+    {
+        "name": "pancake-bakery-arbitrage",
+        "description": "A sample application invokes a flashswap in PancakeSwap and a monitoring tool in Node.js.",
+        "languages": {
+            "Solidity": 42807,
+            "JavaScript": 34361
+        }
+    },
+    {
+        "name": "cicada",
+        "description": "A protocol for private on-chain voting, implemented in Solidity. ",
+        "languages": {
+            "Solidity": 2506940,
+            "Jinja": 19563,
+            "Python": 13379
+        }
+    },
+    {
+        "name": "tokenspice",
+        "description": "EVM agent-based token simulator \ud83d\udc1f\ud83c\udf2a\ufe0f",
+        "languages": {
+            "Solidity": 543165,
+            "Python": 351388,
+            "Shell": 699
+        }
+    },
+    {
+        "name": "royalty-registry-solidity",
+        "description": null,
+        "languages": {
+            "Solidity": 196123,
+            "Shell": 5531,
+            "JavaScript": 126
+        }
+    },
+    {
+        "name": "foundry-starter-kit",
+        "description": null,
+        "languages": {
+            "Solidity": 34867,
+            "Makefile": 1608
+        }
+    },
+    {
+        "name": "contracts",
+        "description": "Implementation of the Farcaster contracts",
+        "languages": {
+            "Solidity": 625232,
+            "Julia": 494,
+            "Rust": 429
+        }
+    },
+    {
+        "name": "anonymous-zether",
+        "description": "A private payment system for Ethereum-based blockchains, with no trusted setup.",
+        "languages": {
+            "Solidity": 69548,
+            "JavaScript": 66557
+        }
+    },
+    {
+        "name": "VRGDAs",
+        "description": "Variable Rate Gradual Dutch Auctions.",
+        "languages": {
+            "Solidity": 37150,
+            "Python": 2092
+        }
+    },
+    {
+        "name": "foundry-devops",
+        "description": null,
+        "languages": {
+            "Solidity": 10620,
+            "Makefile": 563
+        }
+    },
+    {
+        "name": "PBT",
+        "description": "Physical Backed Token (EIP-5791)",
+        "languages": {
+            "Solidity": 51218
+        }
+    },
+    {
+        "name": "poly-flash",
+        "description": "Flashloan on Polygon",
+        "languages": {
+            "Solidity": 110504,
+            "TypeScript": 56501,
+            "Shell": 360
+        }
+    },
+    {
+        "name": "vulcan",
+        "description": "Development framework for Foundry projects",
+        "languages": {
+            "Solidity": 357023,
+            "Dockerfile": 719,
+            "Shell": 88,
+            "JavaScript": 64
+        }
+    },
+    {
+        "name": "v2-core",
+        "description": "\u23f3 Core smart contracts of the Sablier V2 token distribution protocol",
+        "languages": {
+            "Solidity": 1069281,
+            "Shell": 21433
+        }
+    },
+    {
+        "name": "vaults",
+        "description": "Flexible, minimalist, and gas-optimized yield aggregator protocol for earning interest on any ERC20 token.",
+        "languages": {
+            "Solidity": 147418,
+            "Julia": 3403,
+            "Shell": 1407,
+            "Nix": 316,
+            "Makefile": 270
+        }
+    },
+    {
+        "name": "seadrop",
+        "description": "Smart contracts for primary drops on EVM chains",
+        "languages": {
+            "Solidity": 821238,
+            "TypeScript": 134528,
+            "JavaScript": 13870
+        }
+    },
+    {
+        "name": "lssvm",
+        "description": "sudoAMM Protocol",
+        "languages": {
+            "Solidity": 580582,
+            "Shell": 10286,
+            "Python": 5784,
+            "Makefile": 1394,
+            "Nix": 380
+        }
+    },
+    {
+        "name": "create3",
+        "description": "CREATE3 (see EIP-3171) implemented in Solidity",
+        "languages": {
+            "Solidity": 6856,
+            "JavaScript": 6163
+        }
+    },
+    {
+        "name": "starkex-contracts",
+        "description": null,
+        "languages": {
+            "Solidity": 3963259
+        }
+    },
+    {
+        "name": "dharma-smart-wallet",
+        "description": "An upgradeable, meta-transaction-enabled smart wallet for earning interest on stablecoins while retaining custody of funds, with an added security backstop provided by Dharma Labs.",
+        "languages": {
+            "Solidity": 1134409,
+            "JavaScript": 766843
+        }
+    },
+    {
+        "name": "web3-bootcamp",
+        "description": "Open-Sourced Turkish Smart Contract Developer Bootcamp by ITU Blockchain",
+        "languages": {
+            "Solidity": 177228,
+            "JavaScript": 114346,
+            "Go": 16208,
+            "HTML": 15489,
+            "CSS": 7510,
+            "TypeScript": 4868,
+            "SCSS": 4542,
+            "Shell": 25
+        }
+    },
+    {
+        "name": "playpen",
+        "description": "Playpen is a set of modern, gas optimized staking pool contracts.",
+        "languages": {
+            "Solidity": 102948,
+            "Shell": 135
+        }
+    },
+    {
+        "name": "eth-multisig-v2",
+        "description": "Multi-Sig Wallet v2, supporting original Wallet.sol methods with additional confirmAndExecute improvements to allow for single-transaction signing by multiple owners. ",
+        "languages": {
+            "Solidity": 70637,
+            "JavaScript": 52063,
+            "HTML": 832,
+            "CSS": 540
+        }
+    },
+    {
+        "name": "MultiRaffle",
+        "description": "NFT distribution with (1) randomized, multi-winner raffles and (2) bulk on-chain metadata generation.",
+        "languages": {
+            "Solidity": 41996,
+            "Shell": 606,
+            "Makefile": 245
+        }
+    },
+    {
+        "name": "prb-proxy",
+        "description": "Proxy contract to compose Ethereum transactions",
+        "languages": {
+            "Solidity": 131796,
+            "Shell": 1760
+        }
+    },
+    {
+        "name": "audits_public",
+        "description": "MixBytes Team public security audits",
+        "languages": {
+            "Solidity": 15649,
+            "JavaScript": 6134
+        }
+    },
+    {
+        "name": "pancake-smart-contracts",
+        "description": "PancakeSwap Smart Contracts",
+        "languages": {
+            "Solidity": 1276623,
+            "TypeScript": 1251130,
+            "JavaScript": 4813,
+            "Shell": 126
+        }
+    },
+    {
+        "name": "alchemist",
+        "description": "Can a meme coin help us achieve immortality?",
+        "languages": {
+            "Solidity": 104889,
+            "TypeScript": 44767,
+            "Shell": 116
+        }
+    },
+    {
+        "name": "flash-loans-comparison",
+        "description": "Comparison of flash loan solutions on Ethereum",
+        "languages": {
+            "Solidity": 7812,
+            "Makefile": 120
+        }
+    },
+    {
+        "name": "community-challenges",
+        "description": null,
+        "languages": {
+            "Solidity": 46238,
+            "JavaScript": 21622
+        }
+    },
+    {
+        "name": "ethernaut-x-foundry",
+        "description": "Ethernaut puzzles solved with foundry",
+        "languages": {
+            "Solidity": 139011,
+            "Makefile": 277,
+            "Nix": 85
+        }
+    },
+    {
+        "name": "basiscash-protocol",
+        "description": "Solidity implementation of the Basis Cash Protocol ",
+        "languages": {
+            "Solidity": 129034,
+            "TypeScript": 103976,
+            "JavaScript": 198,
+            "Dockerfile": 122
+        }
+    },
+    {
+        "name": "Dive-Into-Blockchain",
+        "description": "\u65e8\u5728\u4ea4\u6d41\u5b66\u4e60\u533a\u5757\u94fe\u6280\u672f\uff0c\u8bb0\u5f55\u667a\u80fd\u5408\u7ea6\u5f00\u53d1\u5e94\u7528\u4e0e\u76f8\u5173\u5b89\u5168\u7ec3\u4e60\u7684\u4ed3\u5e93\ud83d\ude80",
+        "languages": {
+            "Solidity": 435234,
+            "Go": 49842,
+            "JavaScript": 49453
+        }
+    },
+    {
+        "name": "soul-wallet-contract",
+        "description": "core contract of eip 4337 implementation",
+        "languages": {
+            "Solidity": 3295908,
+            "JavaScript": 1056068,
+            "Ruby": 206852,
+            "TypeScript": 185360,
+            "Shell": 9851,
+            "Python": 6510,
+            "Makefile": 2907,
+            "Nix": 340
+        }
+    },
+    {
+        "name": "tornado-cats",
+        "description": "A book for learning zero-knowledge applications and decentralized mixing by creating a simple mixer protocol based on Tornado Cash",
+        "languages": {
+            "Solidity": 41030,
+            "JavaScript": 4544,
+            "Python": 3156,
+            "CSS": 1476,
+            "Dockerfile": 1301,
+            "Makefile": 1183
+        }
+    },
+    {
+        "name": "ds-math",
+        "description": "Safe arithmetic",
+        "languages": {
+            "Solidity": 6425,
+            "Nix": 119,
+            "Makefile": 34
+        }
+    },
+    {
+        "name": "punk-nftx-meebit-arb",
+        "description": "Quick & dirty NFTX arbitrage contracts, via flash loan, to exploit Meebit redemption.",
+        "languages": {
+            "Solidity": 43618,
+            "JavaScript": 1328
+        }
+    },
+    {
+        "name": "zk-NFT",
+        "description": "A NFT powered by zkSNARKs. Exploring fog-of-war type interactions between NFTs such as trading and battling. ",
+        "languages": {
+            "Solidity": 32654,
+            "TypeScript": 6086,
+            "JavaScript": 1102
+        }
+    },
+    {
+        "name": "example_nft_minter",
+        "description": "Use this repo to see how to create a Dapp that can mint NFTs.",
+        "languages": {
+            "Solidity": 48101,
+            "JavaScript": 21283,
+            "HTML": 4815,
+            "CSS": 2038
+        }
+    },
+    {
+        "name": "create2deployer",
+        "description": "Helper smart contract to make easier and safer usage of the `CREATE2` EVM opcode.",
+        "languages": {
+            "Solidity": 54042,
+            "TypeScript": 49821,
+            "JavaScript": 946
+        }
+    },
+    {
+        "name": "solidity-riddles",
+        "description": "A collection of Solidity security exercises and puzzles to test your knowledge of Solidity's more esoteric features. Some are easy, and some are exceptionally challenging.",
+        "languages": {
+            "Solidity": 56134,
+            "JavaScript": 42429
+        }
+    },
+    {
+        "name": "contracts",
+        "description": "[Optimism] Smart Contracts",
+        "languages": {
+            "Solidity": 486821,
+            "TypeScript": 451567,
+            "Python": 1811,
+            "JavaScript": 1694,
+            "Shell": 1253
+        }
+    },
+    {
+        "name": "avalanche-smart-contract-quickstart",
+        "description": "The easiest way to build smart contracts on Avalanche.",
+        "languages": {
+            "Solidity": 15831,
+            "JavaScript": 9701,
+            "TypeScript": 7954
+        }
+    },
+    {
+        "name": "multicaller",
+        "description": "Efficient multicaller contracts",
+        "languages": {
+            "Solidity": 248486,
+            "Shell": 6488
+        }
+    },
+    {
+        "name": "venus-protocol",
+        "description": "BNB Smart Chain Venus Protocol",
+        "languages": {
+            "Solidity": 1105086,
+            "TypeScript": 697738,
+            "JavaScript": 81260,
+            "Handlebars": 1011,
+            "Shell": 109
+        }
+    },
+    {
+        "name": "create3-factory",
+        "description": null,
+        "languages": {
+            "Solidity": 3047,
+            "Shell": 673
+        }
+    },
+    {
+        "name": "diamond-3",
+        "description": "EIP-2535 Diamonds reference implementation.",
+        "languages": {
+            "Solidity": 25003,
+            "JavaScript": 19154
+        }
+    },
+    {
+        "name": "goblinmode",
+        "description": "Long-tail NFT MEV via NFTX flashloans (McGoblinBurger NFTs)",
+        "languages": {
+            "Solidity": 16933
+        }
+    },
+    {
+        "name": "uniswapv3-code",
+        "description": "Uniswap V3 clone built to learn smart-contracts development in Solidity",
+        "languages": {
+            "Solidity": 294494,
+            "JavaScript": 34642,
+            "CSS": 2763,
+            "Python": 2285,
+            "HTML": 1721,
+            "Makefile": 474
+        }
+    },
+    {
+        "name": "kleros",
+        "description": "Kleros smart contracts",
+        "languages": {
+            "Solidity": 149481,
+            "JavaScript": 95737
+        }
+    },
+    {
+        "name": "foundry-huff",
+        "description": "A Foundry Library for compiling, debugging, and working with Huff contracts in Solidity.",
+        "languages": {
+            "Solidity": 40528,
+            "Shell": 1012
+        }
+    },
+    {
+        "name": "blockchains-security-toolkit",
+        "description": "\ud83d\udc7e \ud835\ude00\ud835\uddee\ud835\ude03\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddf3\ud835\ude02\ud835\ude01\ud835\ude02\ud835\uddff\ud835\uddf2 \ud835\uddfc\ud835\uddf3 $ \ud835\uddf3\ud835\uddfc\ud835\uddff \ud835\uddf3\ud835\ude02\ud835\uddfb \ud835\uddfc\ud835\uddff $ - \ud835\uddfa\ud835\ude06 \ud835\uddfb\ud835\uddfc\ud835\ude01\ud835\uddf2\ud835\ude00 \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddee\ud835\uddff\ud835\ude05\ud835\uddf6\ud835\ude03\ud835\ude00 \ud835\uddf3\ud835\uddff\ud835\uddfc\ud835\uddfa \ud835\uddee\ud835\uddfb \ud835\uddfc\ud835\uddfb\ud835\uddf4\ud835\uddfc\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddf0\ud835\uddfc\ud835\uddfa\ud835\uddfd\ud835\uddff\ud835\uddf2\ud835\uddf5\ud835\uddf2\ud835\uddfb\ud835\ude00\ud835\uddf6\ud835\ude03\ud835\uddf2 \ud835\ude00\ud835\uddf2\ud835\uddf0\ud835\ude02\ud835\uddff\ud835\uddf6\ud835\ude01\ud835\ude06 \ud835\uddff\ud835\uddf2\ud835\ude00\ud835\uddf2\ud835\uddee\ud835\uddff\ud835\uddf0\ud835\uddf5",
+        "languages": {
+            "Solidity": 9326,
+            "JavaScript": 781
+        }
+    },
+    {
+        "name": "properties",
+        "description": "Pre-built security properties for common Ethereum operations",
+        "languages": {
+            "Solidity": 207609,
+            "JavaScript": 962
+        }
+    },
+    {
+        "name": "flash-lending",
+        "description": "Flash lending smart contracts",
+        "languages": {
+            "Solidity": 268843,
+            "JavaScript": 53070,
+            "Shell": 286
+        }
+    },
+    {
+        "name": "ERC721R",
+        "description": null,
+        "languages": {
+            "Solidity": 70123,
+            "JavaScript": 16086,
+            "Shell": 68
+        }
+    },
+    {
+        "name": "vested-erc20",
+        "description": "A wrapper ERC20 token that linearly vests an underlying ERC20 token to its holders.",
+        "languages": {
+            "Solidity": 32666,
+            "Makefile": 272
+        }
+    },
+    {
+        "name": "createx",
+        "description": "Factory smart contract to make easier and safer usage of the `CREATE` and `CREATE2` EVM opcodes as well as of `CREATE3`-based (i.e. without an initcode factor) contract creations.",
+        "languages": {
+            "Solidity": 510813,
+            "TypeScript": 105065,
+            "CSS": 5197,
+            "JavaScript": 2926
+        }
+    },
+    {
+        "name": "sphinx",
+        "description": "DevOps platform for smart contract deployments",
+        "languages": {
+            "Solidity": 1415507,
+            "TypeScript": 799789,
+            "JavaScript": 8963,
+            "Shell": 7788,
+            "Dockerfile": 318
+        }
+    },
+    {
+        "name": "BoringBananasCompany",
+        "description": null,
+        "languages": {
+            "Solidity": 73338,
+            "JavaScript": 42233,
+            "Jupyter Notebook": 19140,
+            "CSS": 978
+        }
+    },
+    {
+        "name": "searcher-minter",
+        "description": null,
+        "languages": {
+            "Solidity": 4414,
+            "TypeScript": 1735
         }
     }
 ]

@@ -41,5 +41,1709 @@
             "C#": 7312,
             "Shell": 182
         }
+    },
+    {
+        "name": "ShaderGraph_ExampleLibrary",
+        "description": "A library of Shaders created using Unity's Shader Graph.",
+        "languages": {
+            "ShaderLab": 63432,
+            "HLSL": 9049,
+            "C#": 390
+        }
+    },
+    {
+        "name": "Addressables-Sample",
+        "description": "Demo project using Addressables package",
+        "languages": {
+            "ShaderLab": 187257,
+            "C#": 133911,
+            "HLSL": 27147
+        }
+    },
+    {
+        "name": "LearnUnityShader",
+        "description": "\u8bb0\u5f55\u5b66\u4e60Unity Shader\u8fc7\u7a0b\u4e2d\u5b9e\u73b0\u8fc7\u7684\u4e00\u4e9bDemo\u3002",
+        "languages": {
+            "ShaderLab": 815914,
+            "C#": 288806,
+            "HLSL": 116004,
+            "GLSL": 57903,
+            "Shell": 354
+        }
+    },
+    {
+        "name": "TestbedHDRP",
+        "description": "Testbed project for Unity HDRP (High Definition Render Pipeline)",
+        "languages": {
+            "ShaderLab": 180900,
+            "HLSL": 64930,
+            "C#": 62827
+        }
+    },
+    {
+        "name": "UnityURPUnlitScreenSpaceDecalShader",
+        "description": "Unity unlit screen space decal shader for URP. Just create a new material using this shader, then assign it to a new unity cube GameObject = DONE, now you have unlit decal working in URP",
+        "languages": {
+            "ShaderLab": 14883
+        }
+    },
+    {
+        "name": "PoiyomiToonShader",
+        "description": "A feature rich toon shader for unity and VR Chat",
+        "languages": {
+            "ShaderLab": 28399898,
+            "C#": 906798,
+            "HLSL": 352342,
+            "HTML": 28424
+        }
+    },
+    {
+        "name": "ShaderTutorials",
+        "description": "Shaders For People Who Don't Know How To Shader, a tutorial series for beginners!",
+        "languages": {
+            "ShaderLab": 170613,
+            "HLSL": 113347,
+            "C#": 39121
+        }
+    },
+    {
+        "name": "unity-shaders",
+        "description": "A bunch of shader examples created in Unity (ShaderGraph & Built-in) \ud83e\uddd9\u2728",
+        "languages": {
+            "ShaderLab": 101254,
+            "C#": 48304,
+            "HLSL": 9089
+        }
+    },
+    {
+        "name": "ShaderTutorials",
+        "description": "unity shader tutorials",
+        "languages": {
+            "ShaderLab": 470986,
+            "C#": 392049,
+            "GLSL": 81023,
+            "HLSL": 47362
+        }
+    },
+    {
+        "name": "UnityToonShader",
+        "description": "Source code for Toon Shader tutorial for Unity. Has specular, rim lighting, and can cast and receive shadows.",
+        "languages": {
+            "ShaderLab": 9747
+        }
+    },
+    {
+        "name": "UnityOutlineShader",
+        "description": "Source code for Outline Shader tutorial for Unity. Detects edges in a scene using the depth and normals buffers.",
+        "languages": {
+            "ShaderLab": 7298,
+            "C#": 4401
+        }
+    },
+    {
+        "name": "Unity-Built-in-Shaders",
+        "description": "Unity Built in Shaders",
+        "languages": {
+            "ShaderLab": 569388,
+            "HLSL": 473984,
+            "C#": 62889,
+            "GLSL": 12631
+        }
+    },
+    {
+        "name": "UnityFurShader",
+        "description": "\ud83d\udc08 Fur shader for Unity.",
+        "languages": {
+            "ShaderLab": 30279,
+            "HLSL": 10943
+        }
+    },
+    {
+        "name": "UnityGrassGeometryShader",
+        "description": "Source code for Grass Shader tutorial for Unity. Generates blades with a geometry shader, tessellates input mesh to control density.",
+        "languages": {
+            "ShaderLab": 9539,
+            "HLSL": 1864
+        }
+    },
+    {
+        "name": "unity-stylized-water",
+        "description": "A stylized water shader (and material presets) for Unity. ",
+        "languages": {
+            "ShaderLab": 15547,
+            "HLSL": 4220,
+            "C#": 3676
+        }
+    },
+    {
+        "name": "FishManShaderTutorial",
+        "description": "shader \u4e2d\u7ea7\u6559\u7a0b",
+        "languages": {
+            "ShaderLab": 53291,
+            "GLSL": 44984,
+            "C#": 37200,
+            "HLSL": 36599
+        }
+    },
+    {
+        "name": "Post-Processing-Scan",
+        "description": "A 3D scan/sonar-like post-processing effect for Unity. Essentially a visualization of a spherical signed distance field (SDF).",
+        "languages": {
+            "ShaderLab": 26361,
+            "C#": 6126
+        }
+    },
+    {
+        "name": "UniversalShaderExamples",
+        "description": "Sand box project containing example shaders and assets compatible with Unity Universal Render Pipeline. ",
+        "languages": {
+            "ShaderLab": 32502,
+            "HLSL": 8784,
+            "C#": 687
+        }
+    },
+    {
+        "name": "ToonWaterShader",
+        "description": "Source code for Toon Water Shader tutorial for Unity. Renders and animates toon-style waves from a noise texture and generates shoreline foam based off the depth buffer.",
+        "languages": {
+            "ShaderLab": 10048,
+            "C#": 1972
+        }
+    },
+    {
+        "name": "Unity-Shader-Demo",
+        "description": "Some demo created by Unity Shader",
+        "languages": {
+            "ShaderLab": 169035,
+            "C#": 22273,
+            "HLSL": 7545
+        }
+    },
+    {
+        "name": "URP-LWRP-Shaders",
+        "description": "A Collection of Shader For URP(LWRP) Render Pipeline",
+        "languages": {
+            "ShaderLab": 157425,
+            "C#": 36014,
+            "HLSL": 5868
+        }
+    },
+    {
+        "name": "HSV-Color-Picker-Unity",
+        "description": "HSV color picker for Unity UI",
+        "languages": {
+            "ShaderLab": 80173,
+            "C#": 52777,
+            "HLSL": 13994,
+            "Makefile": 160
+        }
+    },
+    {
+        "name": "UnityVisualizations",
+        "description": "Collection of shaders and visual effects created for Unity 3D.",
+        "languages": {
+            "ShaderLab": 40494,
+            "C#": 24241
+        }
+    },
+    {
+        "name": "Unity3DCrossSectionShader",
+        "description": "CG shader for unity3D to create a cross section through meshes",
+        "languages": {
+            "ShaderLab": 18371,
+            "C#": 7523
+        }
+    },
+    {
+        "name": "unity-wireframe",
+        "description": "General purpose wireframe shaders for use in Unity.",
+        "languages": {
+            "ShaderLab": 13172,
+            "HLSL": 3678,
+            "C#": 3417
+        }
+    },
+    {
+        "name": "InputSystem_Warriors",
+        "description": "Example Project for the new Unity Input System",
+        "languages": {
+            "ShaderLab": 66646,
+            "C#": 56164,
+            "HLSL": 9089
+        }
+    },
+    {
+        "name": "ShaderProject",
+        "description": "A container for all sorts of handy shaders.",
+        "languages": {
+            "ShaderLab": 398352,
+            "C#": 349684,
+            "GLSL": 18134,
+            "JavaScript": 9581,
+            "HLSL": 1639
+        }
+    },
+    {
+        "name": "Lowpoly-Water-Unity",
+        "description": "Low poly water with edge/shore blend. Similar to the awesome water in Monument Valley. ",
+        "languages": {
+            "ShaderLab": 6213,
+            "C#": 1912
+        }
+    },
+    {
+        "name": "UniToon",
+        "description": "Physically-based Toon Shader for game applications. Compliant with Unity standard rendering functions. It is not targeted to be multifunctional in order to keep performance, but to be universally usable.",
+        "languages": {
+            "ShaderLab": 144524,
+            "HLSL": 87562,
+            "HTML": 49853,
+            "C#": 39368,
+            "CSS": 154
+        }
+    },
+    {
+        "name": "Unity-ShaderSketches",
+        "description": "Sketches made with ShaderLab in Unity.",
+        "languages": {
+            "ShaderLab": 69533,
+            "C#": 3362,
+            "HLSL": 219
+        }
+    },
+    {
+        "name": "MatrixVFX",
+        "description": "A realtime Matrix VFX Shader in Unity 3D",
+        "languages": {
+            "ShaderLab": 12496,
+            "C#": 10344,
+            "GLSL": 8889,
+            "HLSL": 3937
+        }
+    },
+    {
+        "name": "UIOutline",
+        "description": null,
+        "languages": {
+            "ShaderLab": 26822,
+            "C#": 4389
+        }
+    },
+    {
+        "name": "GenshinCelShaderURP",
+        "description": " \u8fd9\u662f\u4e00\u4e2a\u57fa\u4e8eURP\u7684\u5f00\u6e90\u4eff\u539f\u795e\u5361\u901a\u6e32\u67d3\u9879\u76ee",
+        "languages": {
+            "ShaderLab": 284306,
+            "HLSL": 54575,
+            "C#": 15905
+        }
+    },
+    {
+        "name": "sci-fi-ui",
+        "description": null,
+        "languages": {
+            "ShaderLab": 320360,
+            "C#": 318816,
+            "HLSL": 1639
+        }
+    },
+    {
+        "name": "UnitySpecialEffectWithDepth",
+        "description": "Using depth data to achieve scanning effects, x-ray effects, and shield energy field effects. Version Unity5.6 +",
+        "languages": {
+            "ShaderLab": 6737,
+            "C#": 1488
+        }
+    },
+    {
+        "name": "Post-Processing",
+        "description": "My Unity post processing pipeline and shaders",
+        "languages": {
+            "ShaderLab": 93832,
+            "C#": 45302,
+            "HLSL": 5749,
+            "GLSL": 4269
+        }
+    },
+    {
+        "name": "Unity-Miscellaneous-Shaders",
+        "description": "Miscellaneous Shaders in Unity, WIP(maybe?)",
+        "languages": {
+            "ShaderLab": 8638,
+            "C#": 1348
+        }
+    },
+    {
+        "name": "DepthInverseProjection",
+        "description": "An example showing how to inverse-project depth samples into the view/world space in Unity.",
+        "languages": {
+            "ShaderLab": 4215,
+            "C#": 1555
+        }
+    },
+    {
+        "name": "UnityURP-BillboardLensFlareShader",
+        "description": "(1)Add a new Quad GameObject (2)Use this shader (3)Done!  Now you have billboard lens flare shader for URP!",
+        "languages": {
+            "ShaderLab": 17163
+        }
+    },
+    {
+        "name": "Unity-Shader-Tutorials",
+        "description": "Full project and code for all of my shader tutorials.",
+        "languages": {
+            "ShaderLab": 62662,
+            "C#": 6685,
+            "HLSL": 1702
+        }
+    },
+    {
+        "name": "Unity-Shader-Basics-Tutorial",
+        "description": "A introduction into creating shaders for Unity",
+        "languages": {
+            "ShaderLab": 2853,
+            "C#": 595
+        }
+    },
+    {
+        "name": "Neural-Network-Experiments",
+        "description": null,
+        "languages": {
+            "ShaderLab": 83229,
+            "C#": 67940,
+            "HLSL": 13994
+        }
+    },
+    {
+        "name": "ConfigurableShaders",
+        "description": "Showing off the power of shader properties in Unity",
+        "languages": {
+            "ShaderLab": 38000,
+            "C#": 19574,
+            "GLSL": 10372,
+            "Batchfile": 65
+        }
+    },
+    {
+        "name": "uis",
+        "description": "Unity infinite scroller (UIS) is an extension allows you to use the ScrollRect control as an infinite scroller/spinner",
+        "languages": {
+            "ShaderLab": 80492,
+            "C#": 70359,
+            "HLSL": 13994
+        }
+    },
+    {
+        "name": "urp-toon-shader",
+        "description": "\ud83c\udf14 Toon shader for Unity's Universal Render Pipeline.",
+        "languages": {
+            "ShaderLab": 62110,
+            "C#": 47269,
+            "HLSL": 35530
+        }
+    },
+    {
+        "name": "SpriteSheetRenderer",
+        "description": "Spritesheet renderer is a powerful Unity ECS API to render massive numbers of sprites using the new dots stack, taking full advantage of Jobs, DynamicBuffers and ComputeBuffer",
+        "languages": {
+            "ShaderLab": 66281,
+            "C#": 52628,
+            "HLSL": 9089
+        }
+    },
+    {
+        "name": "ShadowDrawer",
+        "description": "Shadow matte shader for Unity",
+        "languages": {
+            "ShaderLab": 1968,
+            "C#": 650
+        }
+    },
+    {
+        "name": "SSGI-URP",
+        "description": "Screen Space Global Illumination for Unity Universal Render Pipeline",
+        "languages": {
+            "ShaderLab": 6788,
+            "C#": 4142
+        }
+    },
+    {
+        "name": "UltimateOutline",
+        "description": "The easiest way to achieve outlines in unity.",
+        "languages": {
+            "ShaderLab": 7163
+        }
+    },
+    {
+        "name": "audiolink",
+        "description": "Audio reactive prefabs for VRChat",
+        "languages": {
+            "ShaderLab": 909517,
+            "C#": 722416,
+            "GLSL": 666745,
+            "HLSL": 591289,
+            "C": 15781,
+            "HTML": 3031,
+            "CSS": 733,
+            "Shell": 98,
+            "Batchfile": 28
+        }
+    },
+    {
+        "name": "platformer-movement",
+        "description": null,
+        "languages": {
+            "ShaderLab": 80492,
+            "C#": 78895,
+            "HLSL": 13994
+        }
+    },
+    {
+        "name": "RheaGrass",
+        "description": null,
+        "languages": {
+            "ShaderLab": 19071,
+            "C#": 8464
+        }
+    },
+    {
+        "name": "Cubeds-Unity-Shaders",
+        "description": "A compilation of custom shaders for Unity3D",
+        "languages": {
+            "ShaderLab": 73422,
+            "C#": 21423,
+            "HLSL": 8701
+        }
+    },
+    {
+        "name": "AmplifyShaderCommunityExtras",
+        "description": "Community made extras for Amplify Shader Editor",
+        "languages": {
+            "ShaderLab": 145877,
+            "C#": 30367
+        }
+    },
+    {
+        "name": "water-demo",
+        "description": "A port of Evan Wallace's \"Water Demo\" for WebGL to Unity.",
+        "languages": {
+            "ShaderLab": 21269,
+            "C#": 9791,
+            "HLSL": 3949
+        }
+    },
+    {
+        "name": "StandardTriplanar",
+        "description": "Unity's standard shader with triplanar mapping",
+        "languages": {
+            "ShaderLab": 2890,
+            "C#": 2101
+        }
+    },
+    {
+        "name": "Neitri-Unity-Shaders",
+        "description": "Collection of shaders for Unity3D and VRChat",
+        "languages": {
+            "ShaderLab": 141914,
+            "HLSL": 45666,
+            "GLSL": 26313,
+            "C#": 7966
+        }
+    },
+    {
+        "name": "unity-shaders",
+        "description": ":sparkles: Shader demo - More than 300 examples",
+        "languages": {
+            "ShaderLab": 544506,
+            "C#": 117565,
+            "HLSL": 3600,
+            "GLSL": 1757
+        }
+    },
+    {
+        "name": "unity-dithered-transparency-shader",
+        "description": "Unity material and shader for applying clipped, dithered transparency",
+        "languages": {
+            "ShaderLab": 65808,
+            "C#": 3233,
+            "HLSL": 1731,
+            "Processing": 1406
+        }
+    },
+    {
+        "name": "SkyboxPanoramicShader",
+        "description": "Skybox shader for support of 360/180/cubemap video and static content",
+        "languages": {
+            "ShaderLab": 9545,
+            "C#": 2819
+        }
+    },
+    {
+        "name": "NotificationsSamples",
+        "description": "Sample project for Unity Notifications",
+        "languages": {
+            "ShaderLab": 75150,
+            "C#": 71267,
+            "HLSL": 10137
+        }
+    },
+    {
+        "name": "unity-vhsglitch",
+        "description": "glitched VHS post-processing shader for Unity3D",
+        "languages": {
+            "ShaderLab": 1752,
+            "C#": 1280
+        }
+    },
+    {
+        "name": "3D_ChineseInkPaintingStyleShader",
+        "description": "An application of 3D Chinese Ink Painting Style shader using Unity",
+        "languages": {
+            "ShaderLab": 220105,
+            "C#": 1136
+        }
+    },
+    {
+        "name": "Alloy",
+        "description": "Alloy physical shader framework for Unity.",
+        "languages": {
+            "ShaderLab": 1100839,
+            "HLSL": 369155,
+            "C#": 183376
+        }
+    },
+    {
+        "name": "unity_fps",
+        "description": "Project and asset files for FPS Unity game.",
+        "languages": {
+            "ShaderLab": 275746,
+            "C#": 36222
+        }
+    },
+    {
+        "name": "tf-jam",
+        "description": "Tensor Jam: Shooting Hoops with Machine Learning",
+        "languages": {
+            "ShaderLab": 59040,
+            "HLSL": 9049,
+            "C#": 7213,
+            "Python": 2041,
+            "JavaScript": 1251,
+            "Shell": 442
+        }
+    },
+    {
+        "name": "NahidaRenderProject",
+        "description": "A Unity sample project, for rendering Genshin characters like Nahida.",
+        "languages": {
+            "ShaderLab": 14023,
+            "C#": 11557,
+            "HLSL": 10872
+        }
+    },
+    {
+        "name": "ForceFieldFX",
+        "description": null,
+        "languages": {
+            "ShaderLab": 2828
+        }
+    },
+    {
+        "name": "UnityScreenSpaceBoolean",
+        "description": "Screen Space Boolean Implementation for Unity.",
+        "languages": {
+            "ShaderLab": 8921,
+            "C#": 8311
+        }
+    },
+    {
+        "name": "URP_ShaderCodeTemplates",
+        "description": "A few shader code templates/examples for Unity, Universal Render Pipeline (URP v10 / Unity 2020.3). ShaderLab & HLSL.",
+        "languages": {
+            "ShaderLab": 58482,
+            "HLSL": 6413
+        }
+    },
+    {
+        "name": "UnityThirdPersonTutorial",
+        "description": "Sample project showing third person camera behavior and Mecanim animations",
+        "languages": {
+            "ShaderLab": 81050,
+            "GLSL": 65282,
+            "JavaScript": 57159,
+            "C#": 44536,
+            "HLSL": 1639
+        }
+    },
+    {
+        "name": "LWRPScriptableRenderPass_ExampleLibrary",
+        "description": null,
+        "languages": {
+            "ShaderLab": 64843,
+            "C#": 14064,
+            "HLSL": 9049
+        }
+    },
+    {
+        "name": "UnityWaterSurface",
+        "description": "Water Surface Simulation using CutomRenderTexture in Unity 2017.1",
+        "languages": {
+            "ShaderLab": 3652,
+            "C#": 1527
+        }
+    },
+    {
+        "name": "UnityJigglePhysics",
+        "description": "A unity addon for adding stretchy bouncy physics to bones and meshes.",
+        "languages": {
+            "ShaderLab": 522892,
+            "GLSL": 180968,
+            "C#": 63684,
+            "HLSL": 1212,
+            "Makefile": 66
+        }
+    },
+    {
+        "name": "Unlit_WF_ShaderSuite",
+        "description": "Shader project for unity/vrchat",
+        "languages": {
+            "ShaderLab": 1405490,
+            "C#": 527847,
+            "HLSL": 249110,
+            "GLSL": 152404
+        }
+    },
+    {
+        "name": "LEDScreenShader",
+        "description": "Realistic LED Shader for Unity",
+        "languages": {
+            "ShaderLab": 14640
+        }
+    },
+    {
+        "name": "Unity-ECS-Job-System-SPH",
+        "description": "Implementation of the SPH Algorithm (fluid simulation) in Unity, comparing singlethread and ECS/Job System performances.",
+        "languages": {
+            "ShaderLab": 64636,
+            "C#": 37635,
+            "HLSL": 9089
+        }
+    },
+    {
+        "name": "grid-shader-unity",
+        "description": "A grid shader for Unity \ud83c\udf10",
+        "languages": {
+            "ShaderLab": 4622,
+            "C#": 313,
+            "Batchfile": 138
+        }
+    },
+    {
+        "name": "Shaders",
+        "description": "A collection of shaders written in CG/ShaderLab for Unity.",
+        "languages": {
+            "ShaderLab": 11737,
+            "JavaScript": 1876
+        }
+    },
+    {
+        "name": "OpenXR-Unity-MixedReality-Samples",
+        "description": "Sample Unity projects to demo how to use OpenXR plugin in Unity for HoloLens 2 and Mixed Reality headsets",
+        "languages": {
+            "ShaderLab": 304680,
+            "GLSL": 201204,
+            "C#": 166842,
+            "HLSL": 44550,
+            "PowerShell": 1111
+        }
+    },
+    {
+        "name": "Anime-Speed-Lines",
+        "description": "Post-processing effect to procedurally generate a anime/manga-style vignette of lines typically used to portray speed or surprise.",
+        "languages": {
+            "ShaderLab": 14139,
+            "C#": 3555
+        }
+    },
+    {
+        "name": "CrossFadingLod",
+        "description": "(Unity) Cross-fading LOD shader example",
+        "languages": {
+            "ShaderLab": 2595
+        }
+    },
+    {
+        "name": "Outlined-Diffuse-Shader-Fixed",
+        "description": "This is a fixed version of diffused outline shader from http://wiki.unity3d.com/index.php/Outlined_Diffuse_3",
+        "languages": {
+            "ShaderLab": 11697
+        }
+    },
+    {
+        "name": "pushing-unity",
+        "description": null,
+        "languages": {
+            "ShaderLab": 84395,
+            "C#": 27654,
+            "HLSL": 13994
+        }
+    },
+    {
+        "name": "PhotoMode",
+        "description": "A virtual photography system for creating in-game screenshots and photographic effects within Unity projects.",
+        "languages": {
+            "ShaderLab": 80492,
+            "C#": 46887,
+            "Mathematica": 15479,
+            "HLSL": 13994
+        }
+    },
+    {
+        "name": "VideolabTest",
+        "description": "OP-Z videolab examples",
+        "languages": {
+            "ShaderLab": 31819,
+            "HLSL": 20413,
+            "C#": 7988,
+            "GLSL": 2819
+        }
+    },
+    {
+        "name": "UnityToonShader",
+        "description": "\ud83d\udc7e Toon shader for Unity.",
+        "languages": {
+            "ShaderLab": 17544
+        }
+    },
+    {
+        "name": "Isaura",
+        "description": "An attempt at making a aura thingie with a isoline shader.",
+        "languages": {
+            "ShaderLab": 3561,
+            "C#": 1728
+        }
+    },
+    {
+        "name": "SpriteOutlineFx",
+        "description": "Outline image effect for 2D sprites. ",
+        "languages": {
+            "ShaderLab": 3058,
+            "C#": 1899
+        }
+    },
+    {
+        "name": "UnityPlayground",
+        "description": "Experimental use",
+        "languages": {
+            "ShaderLab": 101464,
+            "C#": 52525,
+            "GLSL": 14066,
+            "HLSL": 4133
+        }
+    },
+    {
+        "name": "UnityChromakey",
+        "description": "A simple, yet powerful chromakey / greenscreen solution for Unity. Designed to be used with virtual production.",
+        "languages": {
+            "ShaderLab": 5189
+        }
+    },
+    {
+        "name": "smo-shaders",
+        "description": "A collection of shaders to replicate those used in Super Mario Odyssey's Snapshot Mode.",
+        "languages": {
+            "ShaderLab": 49694,
+            "C#": 17859
+        }
+    },
+    {
+        "name": "PencilSketchEffect",
+        "description": "Real Time Hatching In Unity",
+        "languages": {
+            "ShaderLab": 6796,
+            "C#": 6569
+        }
+    },
+    {
+        "name": "ShadersForFun",
+        "description": null,
+        "languages": {
+            "ShaderLab": 113936,
+            "GLSL": 6780,
+            "C#": 5152,
+            "HLSL": 725
+        }
+    },
+    {
+        "name": "Post-Processing-Wireframe-Outlines",
+        "description": "A simple post-processing outline effect that uses depth-based edge detection.",
+        "languages": {
+            "ShaderLab": 2029,
+            "C#": 585
+        }
+    },
+    {
+        "name": "HoloLens2-ResearchMode-Unity",
+        "description": "Unity Plugin for using research mode functionality in HoloLens 2. Modified based on HoloLens2ForCV.",
+        "languages": {
+            "ShaderLab": 172020,
+            "C++": 80918,
+            "C#": 31861,
+            "HLSL": 14850,
+            "Python": 3518,
+            "C": 124
+        }
+    },
+    {
+        "name": "LowPolyShaders",
+        "description": "Unity shaders optimized for Low Poly models.",
+        "languages": {
+            "ShaderLab": 3031
+        }
+    },
+    {
+        "name": "CurvedTextMeshPro",
+        "description": "A simple plugin to make curved TextMeshPro texts using a mathematical function",
+        "languages": {
+            "ShaderLab": 62419,
+            "C#": 18684,
+            "HLSL": 9049
+        }
+    },
+    {
+        "name": "ChinesePaintingDemo",
+        "description": "Demo of Chinese Painting Shader",
+        "languages": {
+            "ShaderLab": 322118,
+            "C#": 281470,
+            "HLSL": 10250
+        }
+    },
+    {
+        "name": "SquashAndStretch",
+        "description": "A Unity 2018.10b12 project where I am experimenting with a squash and stretch shader.",
+        "languages": {
+            "ShaderLab": 33975,
+            "C#": 2934
+        }
+    },
+    {
+        "name": "ThreeDScans",
+        "description": "Scanned statue models from the Three D Scans project, optimized for real-time rendering use.",
+        "languages": {
+            "ShaderLab": 3228,
+            "C#": 2276
+        }
+    },
+    {
+        "name": "Unity-URP-Cookbook",
+        "description": "Examples from the Unity URP Cookbook e-book",
+        "languages": {
+            "ShaderLab": 659453,
+            "C#": 271458,
+            "HLSL": 35558
+        }
+    },
+    {
+        "name": "polygon-wind",
+        "description": "Unity shader to emulate wind on low poly assets.",
+        "languages": {
+            "ShaderLab": 4785
+        }
+    },
+    {
+        "name": "2D-Water-Shader",
+        "description": "2D Water Shader made in HLSL in Unity based on water effect from the game Kingdom",
+        "languages": {
+            "ShaderLab": 4563
+        }
+    },
+    {
+        "name": "Optically-Realistic-Water",
+        "description": "A Unity port of Martins Upitis' fantastic ocean water shader, which was originally coded in GLSL for Blender.",
+        "languages": {
+            "ShaderLab": 19779,
+            "GLSL": 18318,
+            "C#": 12898
+        }
+    },
+    {
+        "name": "unity-shader-sprite-radial-fill",
+        "description": "Radial fill mask for sprite",
+        "languages": {
+            "ShaderLab": 2794
+        }
+    },
+    {
+        "name": "Iridescence",
+        "description": "Iridescence shader",
+        "languages": {
+            "ShaderLab": 26280,
+            "C#": 4866
+        }
+    },
+    {
+        "name": "Rcam",
+        "description": "Real time volumetric video capture for live visuals",
+        "languages": {
+            "ShaderLab": 26514,
+            "C#": 14892,
+            "HLSL": 12848
+        }
+    },
+    {
+        "name": "ArcadeVehiclePhysics",
+        "description": "A framework for creating an arcade inspired physics system for vehicles in Unity",
+        "languages": {
+            "ShaderLab": 70138,
+            "C#": 48401,
+            "HLSL": 9089
+        }
+    },
+    {
+        "name": "HDRP-UI-Camera-Stacking",
+        "description": "Optimized implementation of camera stacking for UI only in HDRP.",
+        "languages": {
+            "ShaderLab": 86754,
+            "C#": 30454,
+            "HLSL": 13994
+        }
+    },
+    {
+        "name": "unity-sdf-generator",
+        "description": "A Unity tool to generate signed distance field volumes (as Texture3D assets) from meshes.",
+        "languages": {
+            "ShaderLab": 9730,
+            "C#": 6727
+        }
+    },
+    {
+        "name": "UnityShaderMagicBook",
+        "description": "\u77e5\u4e4e\u4e13\u680f\u201cUnityShader\u9b54\u6cd5\u4e66\u201d\u4ee3\u7801\u5e93\uff0c\u4f5c\u4e3a\u4e00\u4e2a\u5171\u4eab\u7740\u8272\u5668\u4ee3\u7801\u7684\u5730\u65b9\uff0c\u6240\u6709\u5728\u4e13\u680f\u6587\u7ae0\u4e2d\u51fa\u73b0\u8fc7\u7684\u7740\u8272\u5668\u90fd\u4f1a\u6536\u5f55\u5728\u8fd9\u91cc\u3002",
+        "languages": {
+            "ShaderLab": 150500,
+            "C#": 4477
+        }
+    },
+    {
+        "name": "ShaderGraph-MasterStack-Samples",
+        "description": "A sample project using the Universal Render Pipeline that includes examples to demo latest ShaderGraph feature - MasterStack",
+        "languages": {
+            "ShaderLab": 32917,
+            "HLSL": 8405,
+            "C#": 1019
+        }
+    },
+    {
+        "name": "URPShaderCodeSample",
+        "description": "Unity URP Shader \u4ee3\u7801\u793a\u4f8b",
+        "languages": {
+            "ShaderLab": 353352,
+            "C#": 28423,
+            "HLSL": 13994
+        }
+    },
+    {
+        "name": "SE-Natural-Bloom-Dirty-Lens",
+        "description": "(Legacy) post-processing effect for Unity.",
+        "languages": {
+            "ShaderLab": 20559,
+            "C#": 16381
+        }
+    },
+    {
+        "name": "unity_coneofsightfx",
+        "description": "Commandos cone of sight implemented in Unity3D",
+        "languages": {
+            "ShaderLab": 9707,
+            "C#": 8923
+        }
+    },
+    {
+        "name": "SkinnedMeshDecals",
+        "description": "An example of rendering decals on SkinnedMesh Renderers in Unity.",
+        "languages": {
+            "ShaderLab": 260655,
+            "C#": 23395,
+            "Makefile": 86
+        }
+    },
+    {
+        "name": "GenshinCharacterShaderZhihuVer",
+        "description": "The implementation of URP Genshin Like Character Shader used in my Zhihu Article.",
+        "languages": {
+            "ShaderLab": 26571
+        }
+    },
+    {
+        "name": "Unity-DepthAPI",
+        "description": "Examples of using Depth API for real-time, dynamic occlusions",
+        "languages": {
+            "ShaderLab": 296690,
+            "HLSL": 149190,
+            "C#": 99817
+        }
+    },
+    {
+        "name": "shadertrixx",
+        "description": "CNLohr's repo for his Unity assets and other shader notes.",
+        "languages": {
+            "ShaderLab": 315055,
+            "GLSL": 143139,
+            "C#": 92955,
+            "C": 77708,
+            "HLSL": 42426,
+            "Makefile": 151,
+            "Batchfile": 28
+        }
+    },
+    {
+        "name": "CelShadingWithFringeShadow_URP",
+        "description": "A demo for displaying fringe shadow in cel shading by unity",
+        "languages": {
+            "ShaderLab": 17774,
+            "C#": 9962
+        }
+    },
+    {
+        "name": "Unity-Shaders-from-Shader-Toy",
+        "description": "Converted Unity shaders from SahderToy to Unity shading language",
+        "languages": {
+            "ShaderLab": 131013,
+            "GLSL": 94483,
+            "C#": 12573,
+            "HLSL": 3090
+        }
+    },
+    {
+        "name": "DepthMask-Unity-Shader",
+        "description": "Simple but powerful Unity shader that enables geometry masking for cutouts, UI, AR, and multiple camera VFX tricks.",
+        "languages": {
+            "ShaderLab": 881
+        }
+    },
+    {
+        "name": "Normal-Mapping-for-a-Triplanar-Shader",
+        "description": "Example shaders showing different methods of implementing normal mapping for triplanar shaders.",
+        "languages": {
+            "ShaderLab": 54528
+        }
+    },
+    {
+        "name": "building-quality-shaders-unity",
+        "description": "Source Code for 'Building Quality Shaders for Unity' by Daniel Ilett",
+        "languages": {
+            "ShaderLab": 178690,
+            "C#": 52750,
+            "HLSL": 1587
+        }
+    },
+    {
+        "name": "JL-s-Unity-Blend-Modes",
+        "description": "\ud83d\udc7e Collection of Unity shaders that support blend modes like photoshop layer style (Darken, Multiply, Linear Burn, etc)",
+        "languages": {
+            "ShaderLab": 77010,
+            "HLSL": 4629
+        }
+    },
+    {
+        "name": "oit-unity",
+        "description": "Order-independent Transparency Implementation in Unity with Per-Pixel Linked Lists",
+        "languages": {
+            "ShaderLab": 11994,
+            "C#": 9703,
+            "HLSL": 6441
+        }
+    },
+    {
+        "name": "VRC_storage",
+        "description": "assets distribution",
+        "languages": {
+            "ShaderLab": 22422,
+            "HLSL": 17979,
+            "C#": 2013,
+            "HTML": 332
+        }
+    },
+    {
+        "name": "UnityShaderCheatsheet",
+        "description": "Collection of Unity shader copypastas and gotchas",
+        "languages": {
+            "ShaderLab": 25941
+        }
+    },
+    {
+        "name": "Unity-Grass-Instancer",
+        "description": "Unity C# script and shader for GPU instanced grass",
+        "languages": {
+            "ShaderLab": 14360,
+            "C#": 10340,
+            "HLSL": 1817
+        }
+    },
+    {
+        "name": "Mirror-Multiplayer-Tutorials",
+        "description": "Repo for my Mirror Multiplayer Tutorials",
+        "languages": {
+            "ShaderLab": 64636,
+            "C#": 49944,
+            "HLSL": 9089
+        }
+    },
+    {
+        "name": "Geometry-Grass-Shader",
+        "description": "Geometry grass shader for Unity engine",
+        "languages": {
+            "ShaderLab": 3098
+        }
+    },
+    {
+        "name": "Shader-Graph-Experiments",
+        "description": "Various shader graph effects with Unity URP",
+        "languages": {
+            "ShaderLab": 64636,
+            "HLSL": 9089,
+            "C#": 7193
+        }
+    },
+    {
+        "name": "Scriptable-Object-Inventory",
+        "description": "A scriptable object based inventory system for Unity3D",
+        "languages": {
+            "ShaderLab": 660004,
+            "C#": 520227,
+            "HLSL": 72712
+        }
+    },
+    {
+        "name": "UI-Blur-LWRP-2020",
+        "description": "UI background blur shader for Unity 2020 URP/LWRP/2D Renderer (usable for all Render Modes)",
+        "languages": {
+            "ShaderLab": 4335
+        }
+    },
+    {
+        "name": "RaymarchingInHDRP",
+        "description": null,
+        "languages": {
+            "ShaderLab": 174119,
+            "HLSL": 23265,
+            "Mathematica": 15479,
+            "C#": 10809
+        }
+    },
+    {
+        "name": "LWRPShaders",
+        "description": "A collection of high customizable unlit shaders for Lightweight Render Pipeline",
+        "languages": {
+            "ShaderLab": 21274,
+            "C#": 9744,
+            "HLSL": 8875
+        }
+    },
+    {
+        "name": "UnityMultiplayerPlayground",
+        "description": "Various demos while teaching Unity multiplayer features",
+        "languages": {
+            "ShaderLab": 89953,
+            "C#": 85804,
+            "HLSL": 13994
+        }
+    },
+    {
+        "name": "Unity-ControlNet-Rig",
+        "description": "A rigged Unity character controller with inverse kinematics built using the Animation Rigging Package, that works with OpenPose ControlNet in Automatic1111 WebUI via the API.",
+        "languages": {
+            "ShaderLab": 248699,
+            "C#": 210332,
+            "Mathematica": 15479,
+            "HLSL": 13994
+        }
+    },
+    {
+        "name": "OpenYandere",
+        "description": "An open-source community rewrite of the game \"Yandere Simulator\" in C#. 2020 july 4th update (This isn't the leak guys soz.) but you may join discord https://discord.gg/e8RNBBw",
+        "languages": {
+            "ShaderLab": 64381,
+            "C#": 40525,
+            "HLSL": 9178
+        }
+    },
+    {
+        "name": "Atmospheric-Scattering-URP",
+        "description": null,
+        "languages": {
+            "ShaderLab": 53698,
+            "C#": 29849,
+            "HLSL": 8775
+        }
+    },
+    {
+        "name": "UnityPointCloudViewer",
+        "description": "Point Cloud Viewer and Tools for Unity",
+        "languages": {
+            "ShaderLab": 3801,
+            "C#": 2445
+        }
+    },
+    {
+        "name": "otto",
+        "description": "Otto sample project for the AI Planner",
+        "languages": {
+            "ShaderLab": 214333,
+            "C#": 106045
+        }
+    },
+    {
+        "name": "Marschner-Hair-Unity",
+        "description": "Implement Marschner Shading Model In Unity",
+        "languages": {
+            "ShaderLab": 30456,
+            "HLSL": 13116,
+            "C#": 414
+        }
+    },
+    {
+        "name": "WaterColorFilter",
+        "description": null,
+        "languages": {
+            "ShaderLab": 5905,
+            "C#": 2221,
+            "HLSL": 450
+        }
+    },
+    {
+        "name": "UnityPixelArtCamera",
+        "description": "Easy pixel art camera rendering in Unity",
+        "languages": {
+            "ShaderLab": 16495,
+            "C#": 13474
+        }
+    },
+    {
+        "name": "Tiled-Directional-Flow",
+        "description": "A shader to control the direction water flows based on a flow map in Unity.",
+        "languages": {
+            "ShaderLab": 10952
+        }
+    },
+    {
+        "name": "SnowSimulation",
+        "description": null,
+        "languages": {
+            "ShaderLab": 373474,
+            "C#": 320065,
+            "HLSL": 10250,
+            "GLSL": 6657
+        }
+    },
+    {
+        "name": "Unity-PivotBaking",
+        "description": "Pivot baking in unity",
+        "languages": {
+            "ShaderLab": 93297,
+            "GLSL": 53730,
+            "HLSL": 13994,
+            "C#": 1092
+        }
+    },
+    {
+        "name": "Photosynthesizer",
+        "description": "Unity plugin to procedurally sprout foliage throughout your scene.",
+        "languages": {
+            "ShaderLab": 43523,
+            "C#": 3687
+        }
+    },
+    {
+        "name": "VolumetricTracer",
+        "description": "A simple way to render soft, volumetric bullet tracers in Unity. Only needs a unit cube and a material to render and supports instancing.",
+        "languages": {
+            "ShaderLab": 3398
+        }
+    },
+    {
+        "name": "ProceduralCity",
+        "description": "Unity demo that uses a few tricks to build random nice-looking 3D cities",
+        "languages": {
+            "ShaderLab": 309614,
+            "C#": 273863,
+            "JavaScript": 239854,
+            "HLSL": 1639
+        }
+    },
+    {
+        "name": "TemporalReprojectionExample",
+        "description": "Temporal reprojection example for Unity",
+        "languages": {
+            "ShaderLab": 4386,
+            "C#": 4022
+        }
+    },
+    {
+        "name": "SIGExam",
+        "description": "Correction of a Shader Exam",
+        "languages": {
+            "ShaderLab": 7482,
+            "GLSL": 6276,
+            "C#": 381
+        }
+    },
+    {
+        "name": "Unity-Mobile-Shader",
+        "description": "Ready for Use Unity Mobile Shaders",
+        "languages": {
+            "ShaderLab": 7904
+        }
+    },
+    {
+        "name": "Unity-Flip-Book-With-Shader",
+        "description": "Unity Flip Book With Shader.\u5229\u7528shader\u5b9e\u73b0\u7ffb\u9875\u7684\u6548\u679c\u3002",
+        "languages": {
+            "ShaderLab": 2203,
+            "C#": 2200
+        }
+    },
+    {
+        "name": "TrajectoryPrediction",
+        "description": null,
+        "languages": {
+            "ShaderLab": 66256,
+            "C#": 12343,
+            "HLSL": 9089
+        }
+    },
+    {
+        "name": "DarkAndStormy",
+        "description": "Overcast clouds with crazy colors skybox shader for Unity3d",
+        "languages": {
+            "ShaderLab": 19181,
+            "C#": 15423,
+            "HLSL": 1341
+        }
+    },
+    {
+        "name": "unity-water-shader",
+        "description": "A surface water shader for Unity",
+        "languages": {
+            "ShaderLab": 6303
+        }
+    },
+    {
+        "name": "Dialogue-System",
+        "description": "Project files for a tutorial on creating a Dialogue System in Unity",
+        "languages": {
+            "ShaderLab": 311896,
+            "C#": 284925
+        }
+    },
+    {
+        "name": "procedural-healthbar-shader",
+        "description": "Shader that generates healthbars for Unity URP",
+        "languages": {
+            "ShaderLab": 5016,
+            "C#": 4378,
+            "HLSL": 1595
+        }
+    },
+    {
+        "name": "HatchingShader",
+        "description": "Hatching shader implementation for Unity",
+        "languages": {
+            "ShaderLab": 78488
+        }
+    },
+    {
+        "name": "uChromaKey",
+        "description": "Chroma key shader asset for Unity",
+        "languages": {
+            "ShaderLab": 5374,
+            "HLSL": 3751
+        }
+    },
+    {
+        "name": "Unity-Realtime-Planar-Mirror",
+        "description": "Powerful, deeply optimized real-time planar mirror in Unity.",
+        "languages": {
+            "ShaderLab": 89858,
+            "HLSL": 85879,
+            "C#": 64084
+        }
+    },
+    {
+        "name": "UnityAssemblies",
+        "description": "Simple, forward-compatible references to any Unity DLL on any platform.",
+        "languages": {
+            "ShaderLab": 80492,
+            "HLSL": 13994,
+            "Shell": 12546,
+            "C#": 1249
+        }
+    },
+    {
+        "name": "Unity-SharedSpatialAnchors",
+        "description": "Unity-SharedSpatialAnchors was built to demonstrate how to use the Shared Spatial Anchors API, available in the Meta XR Core SDK for the Unity game engine. ",
+        "languages": {
+            "ShaderLab": 150439,
+            "C#": 127214,
+            "HLSL": 13994
+        }
+    },
+    {
+        "name": "unity-geometry-grass-shader",
+        "description": "A Geometry shader written for Unity's build-in Render Pipeline",
+        "languages": {
+            "ShaderLab": 13111,
+            "HLSL": 2716,
+            "C#": 2335
+        }
+    },
+    {
+        "name": "RubyTextMeshPro",
+        "description": "Unity Text Mesh Pro\u3067\u30eb\u30d3(\u30d5\u30ea\u30ac\u30ca)\u306e\u30bf\u30b0\u3092\u8ffd\u52a0\u3057\u307e\u3057\u305f.",
+        "languages": {
+            "ShaderLab": 64636,
+            "C#": 59065,
+            "HLSL": 9089
+        }
+    },
+    {
+        "name": "Unity-Wave-Propagation-Water-Ripple",
+        "description": "water ripple shader for Unity",
+        "languages": {
+            "ShaderLab": 12799,
+            "GLSL": 5388,
+            "C#": 957
+        }
+    },
+    {
+        "name": "VRKeys",
+        "description": "A drum-style keyboard for VR in Unity",
+        "languages": {
+            "ShaderLab": 64636,
+            "C#": 44787,
+            "HLSL": 9089
+        }
+    },
+    {
+        "name": "shader-bake-unity",
+        "description": "Baking run-time shaders into textures in Unity",
+        "languages": {
+            "ShaderLab": 5265,
+            "C#": 1991,
+            "HLSL": 710
+        }
+    },
+    {
+        "name": "Unity-Bolt-Samples",
+        "description": "A collection of Unity projects & packages demonstrating what you can create using Bolt Visual Scripting.",
+        "languages": {
+            "ShaderLab": 80173,
+            "HLSL": 13994
+        }
+    },
+    {
+        "name": "3DXRayShader_Unity",
+        "description": "Surface shader. Clips a Model with given plane , applies fresnel on clipped part and highlights the cross section. ",
+        "languages": {
+            "ShaderLab": 5298,
+            "C#": 502
+        }
+    },
+    {
+        "name": "URP_Practise",
+        "description": "URP\u4e2a\u4eba\u7ec3\u4e60\u9879\u76ee",
+        "languages": {
+            "ShaderLab": 145820,
+            "C#": 99968,
+            "HLSL": 13994
+        }
+    },
+    {
+        "name": "Disintegration",
+        "description": null,
+        "languages": {
+            "ShaderLab": 8467
+        }
+    },
+    {
+        "name": "Unity-Simple-SRT",
+        "description": "A super simple SRT subtitle parser",
+        "languages": {
+            "ShaderLab": 80173,
+            "HLSL": 13994,
+            "C#": 6948
+        }
+    },
+    {
+        "name": "NoiseBall4",
+        "description": "A Unity example that shows how to use DrawProcedural on HDRP",
+        "languages": {
+            "ShaderLab": 26064,
+            "HLSL": 8406,
+            "C#": 2395
+        }
+    },
+    {
+        "name": "cc_unity_tools_URP",
+        "description": "Package for importing and auto setup of Character Creator (3 & 4) and iClone (7 & 8) character exports for Unity URP Pipeline.",
+        "languages": {
+            "ShaderLab": 4341129,
+            "C#": 1374072
+        }
+    },
+    {
+        "name": "VRCPlayersOnlyMirror",
+        "description": "A simple mirror prefab for mirrors that show players only without any background in VRChat",
+        "languages": {
+            "ShaderLab": 19241
+        }
+    },
+    {
+        "name": "Matrix-Shockwave-Shader",
+        "description": "Surface shader with tesselation -  Tried recreating the shockwave effect in Matrix when Neo takes off.",
+        "languages": {
+            "ShaderLab": 3799,
+            "C#": 928
+        }
+    },
+    {
+        "name": "unity_shader_st3",
+        "description": "A sublime text plugin which aim at boosting happiness when editing Unity Shader, behaved as IDE-like, followed the lastest Unity release.",
+        "languages": {
+            "ShaderLab": 585528,
+            "HLSL": 513939,
+            "C#": 35045,
+            "Python": 18190,
+            "GLSL": 3726
+        }
+    },
+    {
+        "name": "JetDogs-Prefabs",
+        "description": "Prefabs for vrchat to help creators ranging from beginners to more experienced users.",
+        "languages": {
+            "ShaderLab": 233828,
+            "C#": 12415
+        }
+    },
+    {
+        "name": "Graphics-books",
+        "description": null,
+        "languages": {
+            "ShaderLab": 183316,
+            "HLSL": 6199,
+            "GLSL": 2412
+        }
+    },
+    {
+        "name": "UnityVertexColors",
+        "description": null,
+        "languages": {
+            "ShaderLab": 25446,
+            "C#": 21295,
+            "HLSL": 15560
+        }
+    },
+    {
+        "name": "vrchat-time-shaders",
+        "description": "Utility shaders to implement time-related stuffs in VRChat",
+        "languages": {
+            "ShaderLab": 17381,
+            "Python": 1728
+        }
+    },
+    {
+        "name": "VatBaker",
+        "description": "A tool to bake VAT (Vertex Animation Texture) from AnimationClip with sample shaders for Unity.",
+        "languages": {
+            "ShaderLab": 84069,
+            "HLSL": 15057,
+            "C#": 12626
+        }
+    },
+    {
+        "name": "Unity-Multiplayer-Tutorials-Old",
+        "description": "Repo for my Unity Multiplayer Tutorials",
+        "languages": {
+            "ShaderLab": 80492,
+            "C#": 60394,
+            "HLSL": 13994
+        }
+    },
+    {
+        "name": "ShaderLab",
+        "description": null,
+        "languages": {
+            "ShaderLab": 1507930,
+            "HLSL": 459133,
+            "C#": 250839,
+            "C++": 74364,
+            "GLSL": 14340,
+            "C": 874
+        }
+    },
+    {
+        "name": "BleedingEdgeEffects_GDC_2020",
+        "description": "Demo Project for Bleeding Edge Effects on Mobile 2020 GDC talk",
+        "languages": {
+            "ShaderLab": 23489,
+            "C#": 15088,
+            "HLSL": 2935
+        }
+    },
+    {
+        "name": "Unity-CommandBufferRefraction",
+        "description": "Blurred Refraction shaders created with Amplify Shader Editor using Command Buffers. Cool for glass looking materials, works without Amplify Shader Editor too. Inspired by: https://blogs.unity3d.com/2015/02/06/extending-unity-5-rendering-pipeline-command-buffers/",
+        "languages": {
+            "ShaderLab": 23021,
+            "C#": 7949
+        }
+    },
+    {
+        "name": "Language-Translation-with-Fragment-Shaders",
+        "description": "EN to JP and JP to EN with transformer models",
+        "languages": {
+            "ShaderLab": 247935,
+            "C++": 152158,
+            "Python": 72895,
+            "GLSL": 53964,
+            "C#": 52206,
+            "HLSL": 47257
+        }
+    },
+    {
+        "name": "Unity-URP-Spritesheets",
+        "description": null,
+        "languages": {
+            "ShaderLab": 80492,
+            "HLSL": 19336,
+            "C#": 4150
+        }
+    },
+    {
+        "name": "XenonCustomizedToonShader",
+        "description": null,
+        "languages": {
+            "ShaderLab": 151005,
+            "C#": 8262
+        }
+    },
+    {
+        "name": "Unity-Theme",
+        "description": "Create palettes of colors and components for change specific color on a specific visual element. Very useful to UI.",
+        "languages": {
+            "ShaderLab": 80492,
+            "C#": 48949,
+            "HLSL": 13994,
+            "Batchfile": 1944
+        }
+    },
+    {
+        "name": "Heatwave",
+        "description": "A simple post-processing effect for the Unity game engine which renders small-scale distortions.",
+        "languages": {
+            "ShaderLab": 8830,
+            "C#": 6110
+        }
     }
 ]

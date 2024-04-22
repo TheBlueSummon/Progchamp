@@ -46,5 +46,1567 @@
         "languages": {
             "TLA": 20604
         }
+    },
+    {
+        "name": "tla-plus",
+        "description": null,
+        "languages": {
+            "TLA": 170462,
+            "Coq": 20542,
+            "Makefile": 437
+        }
+    },
+    {
+        "name": "practical-tla-plus",
+        "description": "Source Code for 'Practical TLA+' by Hillel Wayne",
+        "languages": {
+            "TLA": 68500
+        }
+    },
+    {
+        "name": "azure-cosmos-tla",
+        "description": "Azure Cosmos TLA+ specifications",
+        "languages": {
+            "TLA": 36377
+        }
+    },
+    {
+        "name": "CommunityModules",
+        "description": "TLA+ snippets, operators, and modules contributed and curated by the TLA+ community",
+        "languages": {
+            "TLA": 207953,
+            "Java": 116001,
+            "Shell": 1591
+        }
+    },
+    {
+        "name": "learntla-v2",
+        "description": "Learn TLA+ for free! No prior experience necessary!",
+        "languages": {
+            "TLA": 57513,
+            "Python": 5123,
+            "PowerShell": 1116
+        }
+    },
+    {
+        "name": "pgo",
+        "description": "PGo is a source to source compiler from Modular PlusCal specs into Go programs.",
+        "languages": {
+            "TLA": 6306475,
+            "Go": 1375642,
+            "Scala": 495256,
+            "Python": 5581,
+            "Makefile": 3243,
+            "TeX": 2392
+        }
+    },
+    {
+        "name": "bookkeeper-tlaplus",
+        "description": "A TLA+ specification of the Apache BookKeeper replication protocol",
+        "languages": {
+            "TLA": 331182
+        }
+    },
+    {
+        "name": "kafka-specification",
+        "description": "TLA+ specification of the Kafka replication protocol",
+        "languages": {
+            "TLA": 54463
+        }
+    },
+    {
+        "name": "PlusCal-examples",
+        "description": "Pluscal/TLA+ modeling of distributed systems/protocols",
+        "languages": {
+            "TLA": 138745
+        }
+    },
+    {
+        "name": "raft-tlaplus",
+        "description": "TLA+ specifications for Raft and variants",
+        "languages": {
+            "TLA": 357053
+        }
+    },
+    {
+        "name": "tla-web",
+        "description": "Web-based environment for exploring TLA+ specifications.",
+        "languages": {
+            "TLA": 328987,
+            "JavaScript": 299276,
+            "CSS": 16337,
+            "HTML": 7229,
+            "Shell": 671,
+            "C": 194,
+            "Makefile": 93
+        }
+    },
+    {
+        "name": "Parallel-Raft-tla",
+        "description": "Specifying and Verfying concensus algorithms in PolarDB using TLA+",
+        "languages": {
+            "TLA": 81946
+        }
+    },
+    {
+        "name": "ewd998",
+        "description": "Distributed termination detection on a ring, due to Shmuel Safra:",
+        "languages": {
+            "TLA": 79455,
+            "Shell": 3696
+        }
+    },
+    {
+        "name": "tlaplus_animation",
+        "description": "A TLA+ module for animating TLC traces.",
+        "languages": {
+            "TLA": 32126,
+            "HTML": 4226,
+            "Shell": 1643
+        }
+    },
+    {
+        "name": "tiny-tlaplus-examples",
+        "description": "Very small examples of TLA+ features.",
+        "languages": {
+            "TLA": 23015
+        }
+    },
+    {
+        "name": "mongo-repl-tla",
+        "description": "TLA+ Spec of a simplified part of MongoDB replication system",
+        "languages": {
+            "TLA": 19853
+        }
+    },
+    {
+        "name": "CRDT-TLA",
+        "description": "Specifying and Verifying CRDT Protocols using TLA+",
+        "languages": {
+            "TLA": 37804
+        }
+    },
+    {
+        "name": "pragmaticformalmodeling",
+        "description": "An instructional website with progressively worked examples of TLA+ specifications and model checking.",
+        "languages": {
+            "TLA": 477310,
+            "HTML": 10194,
+            "SCSS": 8962,
+            "Ruby": 1802,
+            "Shell": 60
+        }
+    },
+    {
+        "name": "ewd998",
+        "description": "Distributed termination detection on a ring, due to Shmuel Safra: https://www.cs.utexas.edu/users/EWD/ewd09xx/EWD998.PDF",
+        "languages": {
+            "TLA": 77439,
+            "Shell": 3689
+        }
+    },
+    {
+        "name": "fpaxos-tlaplus",
+        "description": "TLA+ specification of Flexible Paxos",
+        "languages": {
+            "TLA": 7363
+        }
+    },
+    {
+        "name": "tla-linearizability",
+        "description": "Reading the linearizability paper with TLA+",
+        "languages": {
+            "TLA": 22907
+        }
+    },
+    {
+        "name": "tlaplus-radix-tree",
+        "description": "TLA+ modules, specifications, and models for Radix trees.",
+        "languages": {
+            "TLA": 46812,
+            "Makefile": 1000,
+            "Nix": 793
+        }
+    },
+    {
+        "name": "synchronous-tla-benchmarks",
+        "description": "Synchronous fault-tolerant distributed algorithms encoded in TLA+",
+        "languages": {
+            "TLA": 181033
+        }
+    },
+    {
+        "name": "kafka-tlaplus",
+        "description": "TLA+ specifications for Kafka related algorithms",
+        "languages": {
+            "TLA": 538767
+        }
+    },
+    {
+        "name": "tlaplus_specs",
+        "description": "Different TLA+ specifications, mostly for learning purposes",
+        "languages": {
+            "TLA": 14852,
+            "Shell": 899
+        }
+    },
+    {
+        "name": "vsr-tlaplus",
+        "description": "TLA+ specifications related to Viewstamped Replication",
+        "languages": {
+            "TLA": 329914
+        }
+    },
+    {
+        "name": "typhon",
+        "description": "Formalization of Typhon protocol",
+        "languages": {
+            "TLA": 383704,
+            "Rust": 25507
+        }
+    },
+    {
+        "name": "SASwap_TLAplus_spec",
+        "description": "TLA+ specification for Succinct Atomic Swap smart contract",
+        "languages": {
+            "TLA": 33527,
+            "Makefile": 590
+        }
+    },
+    {
+        "name": "pluscal",
+        "description": "Tests with PlusCal / TLA+",
+        "languages": {
+            "TLA": 91374
+        }
+    },
+    {
+        "name": "TLAPLUS_DeadlockEmpire",
+        "description": "Specs and models for solving the DeadlockEmpire problems using TLA+ and TLC",
+        "languages": {
+            "TLA": 49536
+        }
+    },
+    {
+        "name": "tla_workshop",
+        "description": null,
+        "languages": {
+            "TLA": 28970
+        }
+    },
+    {
+        "name": "two_bit_mutex",
+        "description": "Mutexes that only use two bits. Either stored in a byte, or in the bottom bits of a pointer",
+        "languages": {
+            "TLA": 44409,
+            "C++": 6787
+        }
+    },
+    {
+        "name": "TLAplusFun",
+        "description": "TLA+ questions, answers, and experiments",
+        "languages": {
+            "TLA": 1291970,
+            "TeX": 431326,
+            "Java": 8821
+        }
+    },
+    {
+        "name": "PaxosStore-tla",
+        "description": "Specifying and Verifying the consensus algorithm in PaxosStore using TLA+",
+        "languages": {
+            "TLA": 901672,
+            "TeX": 691448,
+            "Python": 19964,
+            "Shell": 3655,
+            "Isabelle": 399,
+            "Makefile": 245
+        }
+    },
+    {
+        "name": "tla-snippets",
+        "description": "A collection of useful TLA+ operators",
+        "languages": {
+            "TLA": 2202
+        }
+    },
+    {
+        "name": "paxosnotes",
+        "description": null,
+        "languages": {
+            "TLA": 7089
+        }
+    },
+    {
+        "name": "tla-ci",
+        "description": "TLA+ specifications accompanying paper: Automated Validation of State-Based Client-Centric Isolation with TLA+. (https://doi.org/10.1007/978-3-030-67220-1_4) Based on Crooks' Isolation (https://dl.acm.org/doi/10.1145/3087801.3087802).",
+        "languages": {
+            "TLA": 44525
+        }
+    },
+    {
+        "name": "tezedge-specification",
+        "description": "TLA+ specs and models for the TezEdge node's p2p overlay network, shell, and consensus",
+        "languages": {
+            "TLA": 702473,
+            "Java": 37924,
+            "Rust": 7388,
+            "Python": 3747
+        }
+    },
+    {
+        "name": "whipstaff",
+        "description": "A specification of the CBC Casper consensus protocols written in TLA+ and PlusCal (transpiled to TLA+)",
+        "languages": {
+            "TLA": 23588
+        }
+    },
+    {
+        "name": "ceph-consensus-spec",
+        "description": "TLA+ specification of the Ceph consensus algorithm",
+        "languages": {
+            "TLA": 508988,
+            "JavaScript": 16894,
+            "HTML": 5044,
+            "CSS": 4842,
+            "Dockerfile": 521
+        }
+    },
+    {
+        "name": "raft-tla",
+        "description": null,
+        "languages": {
+            "TLA": 228264
+        }
+    },
+    {
+        "name": "Zeus",
+        "description": "This repository contains the TLA+ specification of the ownership and the reliable commit protocols for transactions in Zeus work that appears in Eurosys'21.",
+        "languages": {
+            "TLA": 46647
+        }
+    },
+    {
+        "name": "PaxosMadeSimple",
+        "description": "A TLA+ formalization of the algorithm described in \"Paxos Made Simple\"",
+        "languages": {
+            "TLA": 17249
+        }
+    },
+    {
+        "name": "just-in-time-paxos",
+        "description": null,
+        "languages": {
+            "TLA": 35583
+        }
+    },
+    {
+        "name": "snapshot-isolation-spec",
+        "description": "A formal specification of snapshot isolation.",
+        "languages": {
+            "TLA": 77474
+        }
+    },
+    {
+        "name": "mongo-repl-tla-models",
+        "description": "TLC models for the MongoDB Replication TLA+ specification.",
+        "languages": {
+            "TLA": 24033,
+            "Shell": 2297
+        }
+    },
+    {
+        "name": "rutschblock",
+        "description": "A TLA+ implementation of the Avalanche Protocol Family, both for learning Avalanche and TLA+",
+        "languages": {
+            "TLA": 4738
+        }
+    },
+    {
+        "name": "ffpaxos-tlaplus",
+        "description": "TLA+ specification of Fast Flexible Paxos",
+        "languages": {
+            "TLA": 66329
+        }
+    },
+    {
+        "name": "pingpong",
+        "description": "This is the example model described in the paper S. Resch and M. Paulitsch, \"Using TLA+ in the Development of a Safety-Critical Fault-Tolerant Middleware,\" 2017 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), Toulouse, France, 2017, pp. 146-152.",
+        "languages": {
+            "TLA": 38952
+        }
+    },
+    {
+        "name": "tlaplus-example",
+        "description": null,
+        "languages": {
+            "TLA": 73011
+        }
+    },
+    {
+        "name": "Arrival",
+        "description": "How to use TLA+ / TLA+ specification of the ClickHouse replication protocol",
+        "languages": {
+            "TLA": 23759
+        }
+    },
+    {
+        "name": "research",
+        "description": null,
+        "languages": {
+            "TLA": 29039,
+            "Scala": 9271
+        }
+    },
+    {
+        "name": "tla-specs",
+        "description": "TLA+ specifications of various protocols used by wallets in the nitro protocol.",
+        "languages": {
+            "TLA": 37097
+        }
+    },
+    {
+        "name": "epidemic-register",
+        "description": "Beating the CAP theorem with the epidemic register",
+        "languages": {
+            "TLA": 10749,
+            "Alloy": 6962
+        }
+    },
+    {
+        "name": "vscode-tilapia",
+        "description": "VS Code extension adding support for Leslie Lamport's TLA+ language",
+        "languages": {
+            "TLA": 21861,
+            "TypeScript": 16995
+        }
+    },
+    {
+        "name": "spec-vchan",
+        "description": "A TLA+ specification for the Xen vchan protocol",
+        "languages": {
+            "TLA": 110154,
+            "Makefile": 605
+        }
+    },
+    {
+        "name": "audits",
+        "description": "Security Audits by Informal Systems",
+        "languages": {
+            "TLA": 213154
+        }
+    },
+    {
+        "name": "MyCHIPs",
+        "description": "A cellular network of trust for implementing open source money based on private credit; Solves several issues associated with blockchain systems.  Most notably, MyCHIPs is infinitely scalable and fully distributed.",
+        "languages": {
+            "TLA": 1293195,
+            "JavaScript": 843405,
+            "PLpgSQL": 728800,
+            "TeX": 361884,
+            "Dart": 98879,
+            "Shell": 98524,
+            "HTML": 64780,
+            "Coq": 56818,
+            "TypeScript": 52181,
+            "CSS": 34693,
+            "Promela": 27718,
+            "Java": 16738,
+            "Vue": 11204,
+            "Ruby": 7691,
+            "C++": 6977,
+            "M4": 6318,
+            "Objective-C++": 5086,
+            "Tcl": 3963,
+            "Makefile": 3908,
+            "Objective-C": 2419,
+            "Starlark": 602,
+            "Swift": 404,
+            "Kotlin": 135
+        }
+    },
+    {
+        "name": "atomkraft-cosmos",
+        "description": null,
+        "languages": {
+            "TLA": 67616,
+            "Python": 51729,
+            "Shell": 945,
+            "Makefile": 199
+        }
+    },
+    {
+        "name": "wiki",
+        "description": "Simple wiki for the org",
+        "languages": {
+            "TLA": 25724
+        }
+    },
+    {
+        "name": "HLC",
+        "description": null,
+        "languages": {
+            "TLA": 11546
+        }
+    },
+    {
+        "name": "ivybench",
+        "description": "Collection of Distributed Protocol Verification Problems",
+        "languages": {
+            "TLA": 34184
+        }
+    },
+    {
+        "name": "raft.tla",
+        "description": "TLA+ specification for the Raft consensus algorithm (with Pre-Vote)",
+        "languages": {
+            "TLA": 25769
+        }
+    },
+    {
+        "name": "logless-reconfig",
+        "description": "TLA+ Specification of Logless Dynamic Reconfiguration in MongoDB Replication",
+        "languages": {
+            "TLA": 221819,
+            "TeX": 12730,
+            "Shell": 6817
+        }
+    },
+    {
+        "name": "MultiPaxos",
+        "description": "MultiPaxos and Disk Paxos in TLA+ and PlusCal",
+        "languages": {
+            "TLA": 27887
+        }
+    },
+    {
+        "name": "tlaplus-examples",
+        "description": "Basic TLA+ Examples",
+        "languages": {
+            "TLA": 68376
+        }
+    },
+    {
+        "name": "consensus-tlaplus",
+        "description": null,
+        "languages": {
+            "TLA": 40605,
+            "TeX": 22954,
+            "Nix": 2739,
+            "Makefile": 157
+        }
+    },
+    {
+        "name": "caspaxos-tla",
+        "description": "TLA+ description for the CAS-Paxos algorithm",
+        "languages": {
+            "TLA": 17562
+        }
+    },
+    {
+        "name": "payment-channel-tla",
+        "description": "Specification of a protocol for payment channels in TLA+",
+        "languages": {
+            "TLA": 73891
+        }
+    },
+    {
+        "name": "endive",
+        "description": "Tool for automatically inferring inductive invariants of distributed protocols.",
+        "languages": {
+            "TLA": 387347,
+            "Python": 103486
+        }
+    },
+    {
+        "name": "tlaplus",
+        "description": "TLA+ programs",
+        "languages": {
+            "TLA": 175565,
+            "Alloy": 119705
+        }
+    },
+    {
+        "name": "crdt-tla",
+        "description": "Verifying the correctness of CRDTs using TLA+/PlusCal",
+        "languages": {
+            "TLA": 12042
+        }
+    },
+    {
+        "name": "leaderelection-tlaplus",
+        "description": "An example TLA+ specification for a simple \"raft style\" leader election protocol",
+        "languages": {
+            "TLA": 3162
+        }
+    },
+    {
+        "name": "zab-tla",
+        "description": "Specifying and Verfying Zab using TLA+",
+        "languages": {
+            "TLA": 67356
+        }
+    },
+    {
+        "name": "zookeeper-tla-spec",
+        "description": null,
+        "languages": {
+            "TLA": 809101
+        }
+    },
+    {
+        "name": "glibc_cv_tla_plus",
+        "description": "Reproducing a bug in the Glibc condition variables using TLA+",
+        "languages": {
+            "TLA": 730398
+        }
+    },
+    {
+        "name": "atomix-tlaplus",
+        "description": "TLA+ specifications for Atomix",
+        "languages": {
+            "TLA": 47100
+        }
+    },
+    {
+        "name": "tla-specs",
+        "description": null,
+        "languages": {
+            "TLA": 29862
+        }
+    },
+    {
+        "name": "proofs",
+        "description": null,
+        "languages": {
+            "TLA": 353591
+        }
+    },
+    {
+        "name": "byihive",
+        "description": "The byihive project. It is based on RFC3506 - Requirements and Design for Voucher Trading System (VTS)",
+        "languages": {
+            "TLA": 159745,
+            "Erlang": 77059,
+            "Makefile": 854,
+            "Shell": 717
+        }
+    },
+    {
+        "name": "tla-cascading-failure",
+        "description": "Explorations in using TLA+ to model integrations of systems",
+        "languages": {
+            "TLA": 9021
+        }
+    },
+    {
+        "name": "channels",
+        "description": "TLA+ modules to model message-passing with different guarantees (reliable, duplicating, out-of-order, at-least-once), and create visualizations of the results",
+        "languages": {
+            "TLA": 20206,
+            "Python": 16694,
+            "Makefile": 180
+        }
+    },
+    {
+        "name": "runway-tla-eval",
+        "description": "Source files from an evaluation of the Runway formal specification system as it compares to TLA+",
+        "languages": {
+            "TLA": 11791
+        }
+    },
+    {
+        "name": "formalities",
+        "description": "Formal models of vac protocols ",
+        "languages": {
+            "TLA": 5490,
+            "Makefile": 357
+        }
+    },
+    {
+        "name": "advent-of-tla",
+        "description": "AoC goals in TLA+",
+        "languages": {
+            "TLA": 8722
+        }
+    },
+    {
+        "name": "tla-spec",
+        "description": "\ud83d\udcdc WIP Hop Protocol TLA+ Specification",
+        "languages": {
+            "TLA": 3099
+        }
+    },
+    {
+        "name": "1Update",
+        "description": "This repository contains the TLA+ specification of the 1-Update cache coherence protocol that appeared in PACT'21.",
+        "languages": {
+            "TLA": 22526
+        }
+    },
+    {
+        "name": "IBC-TLA",
+        "description": "Public code of our formal analysis of IBC protocol",
+        "languages": {
+            "TLA": 128237
+        }
+    },
+    {
+        "name": "rules_tla",
+        "description": "Bazel rules for TLA+",
+        "languages": {
+            "TLA": 22891,
+            "Java": 5502,
+            "Python": 4282
+        }
+    },
+    {
+        "name": "Tencent-Paxos-TLA",
+        "description": "Specification of the consensus algorithm in Tencent storage system PaxosStore",
+        "languages": {
+            "TLA": 145455
+        }
+    },
+    {
+        "name": "aoc2020-tla-plus",
+        "description": "Advent of Code 2020 in TLA+",
+        "languages": {
+            "TLA": 92730,
+            "Clojure": 22104
+        }
+    },
+    {
+        "name": "specs",
+        "description": "Specs for protocols implemented in the rust-p2p org.",
+        "languages": {
+            "TLA": 52267,
+            "Python": 1610,
+            "Shell": 809
+        }
+    },
+    {
+        "name": "tla-plus-specs",
+        "description": null,
+        "languages": {
+            "TLA": 109500
+        }
+    },
+    {
+        "name": "avalanche-analysis",
+        "description": "Analysis of the Avalanche family of protocols using formal methods",
+        "languages": {
+            "TLA": 17499
+        }
+    },
+    {
+        "name": "raft-pluscal",
+        "description": null,
+        "languages": {
+            "TLA": 29701
+        }
+    },
+    {
+        "name": "TLA-Library",
+        "description": "A TLA+ library of concepts that I used in other developments",
+        "languages": {
+            "TLA": 16713
+        }
+    },
+    {
+        "name": "tla-causal-consistency",
+        "description": "TLA+ Specification of Variants of Causal Consistency",
+        "languages": {
+            "TLA": 1232649,
+            "TeX": 228519
+        }
+    },
+    {
+        "name": "onos-tlaplus",
+        "description": "TLA+ specifications for Open Network Operating System (ONOS)",
+        "languages": {
+            "TLA": 75966
+        }
+    },
+    {
+        "name": "peterson-tlaplus",
+        "description": "A TLA+ Specification of Peterson's Algorithm",
+        "languages": {
+            "TLA": 17133
+        }
+    },
+    {
+        "name": "paxosstore-tlaps",
+        "description": "theorem proving of paxosstore using tlaps",
+        "languages": {
+            "TLA": 163949
+        }
+    },
+    {
+        "name": "kafka-spec",
+        "description": "TLA+ specs about some Kafka behaviors",
+        "languages": {
+            "TLA": 12498
+        }
+    },
+    {
+        "name": "pod_spec",
+        "description": "The specification of pod consensus",
+        "languages": {
+            "TLA": 26480
+        }
+    },
+    {
+        "name": "circuit-finder",
+        "description": "use tla+ to find programs, from circuits, quantum, to Lisp",
+        "languages": {
+            "TLA": 10481
+        }
+    },
+    {
+        "name": "formal-methods-playground",
+        "description": null,
+        "languages": {
+            "TLA": 452932,
+            "Python": 64560,
+            "Shell": 41455,
+            "Java": 22878
+        }
+    },
+    {
+        "name": "zab_tla",
+        "description": "TLA+ model of Zookeeper's Atomic Broadcast protocol (Zab)",
+        "languages": {
+            "TLA": 99272
+        }
+    },
+    {
+        "name": "tla-specs",
+        "description": null,
+        "languages": {
+            "TLA": 70584
+        }
+    },
+    {
+        "name": "TLA-plus-video-course",
+        "description": "Exercises from Leslie Lamport's video course on TLA+",
+        "languages": {
+            "TLA": 186655
+        }
+    },
+    {
+        "name": "tlaplus-fs2-observe",
+        "description": "A formal specification of fs2's `observe` function",
+        "languages": {
+            "TLA": 44575
+        }
+    },
+    {
+        "name": "PBFT-TLA",
+        "description": "TLA+ specification of the Practical BFT protocol",
+        "languages": {
+            "TLA": 34126
+        }
+    },
+    {
+        "name": "tla_note1",
+        "description": "A technical note on states in TLA+",
+        "languages": {
+            "TLA": 42089,
+            "Makefile": 2584,
+            "Python": 2216
+        }
+    },
+    {
+        "name": "bitcoin-contracts-tlaplus",
+        "description": "Bitcoin layer 2 contracts specifications using TLA+",
+        "languages": {
+            "TLA": 75685
+        }
+    },
+    {
+        "name": "hkfm-spec",
+        "description": null,
+        "languages": {
+            "TLA": 13856
+        }
+    },
+    {
+        "name": "tla-tortoise-hare",
+        "description": null,
+        "languages": {
+            "TLA": 3717
+        }
+    },
+    {
+        "name": "tla-prophecy",
+        "description": "Applying Prophecy variables in TLA+ to the Herlihy & Wing paper",
+        "languages": {
+            "TLA": 44569
+        }
+    },
+    {
+        "name": "ViewStamped-Replication-TLA",
+        "description": "TLA+ specs for ViewStampedReplication",
+        "languages": {
+            "TLA": 28995
+        }
+    },
+    {
+        "name": "tla-typeof",
+        "description": "Usage example of tla-edn.",
+        "languages": {
+            "TLA": 1039,
+            "Clojure": 803,
+            "Makefile": 225
+        }
+    },
+    {
+        "name": "formal-models",
+        "description": "TLA+ models of various IC components and canisters",
+        "languages": {
+            "TLA": 621284,
+            "Shell": 856,
+            "Java": 580
+        }
+    },
+    {
+        "name": "petri-tlaplus",
+        "description": "\ud83d\udd78 TLA+ specifications for Petri nets",
+        "languages": {
+            "TLA": 29581,
+            "Makefile": 1771
+        }
+    },
+    {
+        "name": "spec_index",
+        "description": null,
+        "languages": {
+            "TLA": 6049
+        }
+    },
+    {
+        "name": "tla_increment",
+        "description": null,
+        "languages": {
+            "TLA": 5709,
+            "Nix": 395
+        }
+    },
+    {
+        "name": "SDP_Verification",
+        "description": null,
+        "languages": {
+            "TLA": 154838
+        }
+    },
+    {
+        "name": "template-tlaplus",
+        "description": "The TLA+ template, configured for Gitpod (www.gitpod.io) to give you pre-built, ephemeral formal verification environments in the cloud.",
+        "languages": {
+            "TLA": 1265,
+            "Dockerfile": 833
+        }
+    },
+    {
+        "name": "agoric-kernel-models",
+        "description": "TLA+ models for Agoric Swingset Kernel",
+        "languages": {
+            "TLA": 156618,
+            "JavaScript": 23907,
+            "Java": 23182,
+            "Shell": 780
+        }
+    },
+    {
+        "name": "tlaplus-standard",
+        "description": "A collection of various standards, proposed or established, related to TLA+",
+        "languages": {
+            "TLA": 24900
+        }
+    },
+    {
+        "name": "LibRM",
+        "description": null,
+        "languages": {
+            "TLA": 23116
+        }
+    },
+    {
+        "name": "llm-formal",
+        "description": "Using LLMs to generate formal verification programs or mathematical proofs for distributed protocols",
+        "languages": {
+            "TLA": 925242,
+            "Coq": 68511,
+            "Python": 14821,
+            "Shell": 61
+        }
+    },
+    {
+        "name": "safe-tla",
+        "description": "TLA+ model of some SAFE network stuff",
+        "languages": {
+            "TLA": 4197
+        }
+    },
+    {
+        "name": "tlaplus-specs",
+        "description": "TiKV TLA+ specifications",
+        "languages": {
+            "TLA": 12950
+        }
+    },
+    {
+        "name": "TLA-Recursion",
+        "description": "Draft for a recursion module for TLA",
+        "languages": {
+            "TLA": 7000
+        }
+    },
+    {
+        "name": "UnoScript",
+        "description": "Source for the UnoScript programming language",
+        "languages": {
+            "TLA": 19357,
+            "C++": 16797,
+            "Lex": 960,
+            "C": 724,
+            "Makefile": 130
+        }
+    },
+    {
+        "name": "pluscal-workshop",
+        "description": "TLA+ 101: Specifying Concurrent Processes in PlusCal",
+        "languages": {
+            "TLA": 40362
+        }
+    },
+    {
+        "name": "spire-tla",
+        "description": "A TLA\u207a specification of the Spire consensus protocol",
+        "languages": {
+            "TLA": 142967,
+            "Shell": 2060,
+            "Makefile": 1110,
+            "Isabelle": 398
+        }
+    },
+    {
+        "name": "lido-tla-spec",
+        "description": "lido finance formal specification",
+        "languages": {
+            "TLA": 6280,
+            "Dockerfile": 888
+        }
+    },
+    {
+        "name": "watform-models",
+        "description": null,
+        "languages": {
+            "TLA": 3138419,
+            "TeX": 212110,
+            "Assembly": 201066,
+            "Alloy": 171837,
+            "Visual Basic 6.0": 10444,
+            "Makefile": 1303
+        }
+    },
+    {
+        "name": "initial-sync-tla",
+        "description": "TLA+ specification of MongoDB replication initial sync.",
+        "languages": {
+            "TLA": 14530
+        }
+    },
+    {
+        "name": "endive-artifact",
+        "description": null,
+        "languages": {
+            "TLA": 130133
+        }
+    },
+    {
+        "name": "tla-cache",
+        "description": "Use TLA+ to verify cache consistency for different algorithms",
+        "languages": {
+            "TLA": 9908
+        }
+    },
+    {
+        "name": "tla-tutorial",
+        "description": null,
+        "languages": {
+            "TLA": 46239
+        }
+    },
+    {
+        "name": "model_checking_on_hedged_cross_chain_transactions",
+        "description": null,
+        "languages": {
+            "TLA": 1662714
+        }
+    },
+    {
+        "name": "tlaplus-specification",
+        "description": "TLA+ specification",
+        "languages": {
+            "TLA": 343805
+        }
+    },
+    {
+        "name": "NOPaxosTLA",
+        "description": "TLA+ Specification of the NOPaxos Protocol",
+        "languages": {
+            "TLA": 26118
+        }
+    },
+    {
+        "name": "bip32_template_parse_tplaplus_spec",
+        "description": "TLA+ specification of the parser for BIP32 path templates",
+        "languages": {
+            "TLA": 28608,
+            "Python": 7503,
+            "Makefile": 954
+        }
+    },
+    {
+        "name": "sublime-tlaplus",
+        "description": "TLA+ syntax highlighting for Sublime Text 3",
+        "languages": {
+            "TLA": 2041
+        }
+    },
+    {
+        "name": "Learn-TLA",
+        "description": "A repository for showcasing my knowledge of the TLA programming language, and continuing to learn the language",
+        "languages": {
+            "TLA": 213086,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "ics29-fee-tla",
+        "description": null,
+        "languages": {
+            "TLA": 44996
+        }
+    },
+    {
+        "name": "SandTable",
+        "description": "Scalable Distributed System Model Checking with Specification-Level State Exploration",
+        "languages": {
+            "TLA": 1858938,
+            "C": 1033414,
+            "Python": 795724,
+            "C++": 229776,
+            "Perl": 148715,
+            "Shell": 97876,
+            "XS": 66448,
+            "Makefile": 48879,
+            "CMake": 13124,
+            "HTML": 12638,
+            "Batchfile": 11316,
+            "M4": 3210,
+            "Dockerfile": 1560,
+            "XSLT": 1070,
+            "Roff": 919
+        }
+    },
+    {
+        "name": "ABL_contract_TLAplus_spec",
+        "description": "TLA+ Specification for Asset-Based Lending smart contract state transition table generation",
+        "languages": {
+            "TLA": 10550,
+            "Makefile": 851
+        }
+    },
+    {
+        "name": "tlaplusery",
+        "description": null,
+        "languages": {
+            "TLA": 75971,
+            "Python": 5071,
+            "Shell": 308
+        }
+    },
+    {
+        "name": "tla",
+        "description": "Playing with TLA+",
+        "languages": {
+            "TLA": 8088
+        }
+    },
+    {
+        "name": "Galene",
+        "description": "TLA+ specification of linearizable Protocol of ccKVS from Scale-out ccNUMA [Eurosys'18]",
+        "languages": {
+            "TLA": 8135
+        }
+    },
+    {
+        "name": "filecoin-tla",
+        "description": "this is a playground",
+        "languages": {
+            "TLA": 21680,
+            "Shell": 500
+        }
+    },
+    {
+        "name": "Bats-tla",
+        "description": "BATS protocol TLA+ specifications ",
+        "languages": {
+            "TLA": 5047
+        }
+    },
+    {
+        "name": "mongo-repl-tla",
+        "description": "TLA+ Specification of the MongoDB Replication Protocol",
+        "languages": {
+            "TLA": 113465
+        }
+    },
+    {
+        "name": "HistVar",
+        "description": "Specification and Verification of Distributed Algorithms using History Variables",
+        "languages": {
+            "TLA": 261367,
+            "Python": 2654
+        }
+    },
+    {
+        "name": "tlaplus-projects",
+        "description": "Projects specified in TLA+",
+        "languages": {
+            "TLA": 10872
+        }
+    },
+    {
+        "name": "Ben_or-decentralized-consensus-algorithm",
+        "description": "Implementation of Ben Or decentralized consensus algorithm in TLA+",
+        "languages": {
+            "TLA": 122769
+        }
+    },
+    {
+        "name": "dualtor-tla-verification",
+        "description": null,
+        "languages": {
+            "TLA": 40666,
+            "Shell": 1764,
+            "R": 1217
+        }
+    },
+    {
+        "name": "WGSLTr",
+        "description": null,
+        "languages": {
+            "TLA": 9314,
+            "C++": 3288,
+            "Starlark": 2490,
+            "C": 140
+        }
+    },
+    {
+        "name": "KopiaTLA",
+        "description": null,
+        "languages": {
+            "TLA": 17874
+        }
+    },
+    {
+        "name": "TLA-broadcast-algorithms",
+        "description": "Broadcast algorithms implemented in TLA+ and Erlang",
+        "languages": {
+            "TLA": 59154,
+            "Erlang": 26760
+        }
+    },
+    {
+        "name": "tlaplus-to-ivy",
+        "description": null,
+        "languages": {
+            "TLA": 47166,
+            "Dockerfile": 758
+        }
+    },
+    {
+        "name": "tla_state",
+        "description": null,
+        "languages": {
+            "TLA": 1645
+        }
+    },
+    {
+        "name": "plif",
+        "description": "plsql information flow control",
+        "languages": {
+            "TLA": 2273451,
+            "Isabelle": 62508,
+            "JavaScript": 44505,
+            "CSS": 8375,
+            "HTML": 5528
+        }
+    },
+    {
+        "name": "PaxosInPluscal",
+        "description": "Paxos algorithm specified and proved in TLA+/PlusCal, with separate processes and invariants for proposers and acceptors.",
+        "languages": {
+            "TLA": 126385
+        }
+    },
+    {
+        "name": "zsTla",
+        "description": "Learning Material for TLA+",
+        "languages": {
+            "TLA": 9912
+        }
+    },
+    {
+        "name": "tla-edn-module",
+        "description": "EDN Operators for TLA+",
+        "languages": {
+            "TLA": 1748,
+            "Clojure": 980
+        }
+    },
+    {
+        "name": "tla_talk",
+        "description": "TLA+ talk",
+        "languages": {
+            "TLA": 4528
+        }
+    },
+    {
+        "name": "pluscal_examples",
+        "description": null,
+        "languages": {
+            "TLA": 5722
+        }
+    },
+    {
+        "name": "TLAPlusCommunityModules",
+        "description": null,
+        "languages": {
+            "TLA": 210905,
+            "Java": 137214,
+            "Shell": 1591
+        }
+    },
+    {
+        "name": "play-tla",
+        "description": null,
+        "languages": {
+            "TLA": 8677
+        }
+    },
+    {
+        "name": "learning-tla",
+        "description": "Learning TLA+ with \"Practical TLA+\" by Hillel Wayne",
+        "languages": {
+            "TLA": 9172
+        }
+    },
+    {
+        "name": "btt8",
+        "description": "Block Translation Table",
+        "languages": {
+            "TLA": 58951,
+            "C": 49192,
+            "Makefile": 1826
+        }
+    },
+    {
+        "name": "BakeryProtocol",
+        "description": "Analysis and verification of Bakery protocol",
+        "languages": {
+            "TLA": 85585
+        }
+    },
+    {
+        "name": "examples",
+        "description": "Example specs in Fault",
+        "languages": {
+            "TLA": 8086,
+            "Python": 862
+        }
+    },
+    {
+        "name": "SNU_2D_ProgrammingTools_IDE_TLA",
+        "description": "The TLA Programming language IDE submodule for SNU Programming Tools (2D Mode)",
+        "languages": {
+            "TLA": 212522,
+            "Roff": 3456,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "teaching-concurrency",
+        "description": "Proof of the problem in Lamport's \"Teaching Concurrency\" paper",
+        "languages": {
+            "TLA": 3252
+        }
+    },
+    {
+        "name": "learning-tlaplus",
+        "description": "Learning tla+ from https://lamport.azurewebsites.net",
+        "languages": {
+            "TLA": 449236,
+            "TeX": 103387
+        }
+    },
+    {
+        "name": "TLAplus",
+        "description": "Some TLA+ specs that I wrote",
+        "languages": {
+            "TLA": 2111
+        }
+    },
+    {
+        "name": "glibc_tla_plus",
+        "description": "TLA+ files to verify patches sent to glibc",
+        "languages": {
+            "TLA": 1438281
+        }
+    },
+    {
+        "name": "2PC-TLA-",
+        "description": "Implementation of TLA+ with model checker for the two phase commit protocol with node failures",
+        "languages": {
+            "TLA": 56221
+        }
+    },
+    {
+        "name": "NServiceBus.ModelChecking",
+        "description": null,
+        "languages": {
+            "TLA": 46119
+        }
+    },
+    {
+        "name": "pluscal-examples",
+        "description": null,
+        "languages": {
+            "TLA": 124571
+        }
+    },
+    {
+        "name": "tla-go-back-n",
+        "description": "A TLA+ verification of the Go-Back-N ARQ protocol",
+        "languages": {
+            "TLA": 710319
+        }
+    },
+    {
+        "name": "onos-tlaplus",
+        "description": "TLA+ models for \u00b5ONOS",
+        "languages": {
+            "TLA": 157652
+        }
+    },
+    {
+        "name": "practical-tla",
+        "description": "Examples hillel wayne's TLA plus book, written in pure TLA+ (not pluscal)",
+        "languages": {
+            "TLA": 26020
+        }
+    },
+    {
+        "name": "tlaplus-pluscal-utils",
+        "description": "Utilities for TLA+ and PlusCal",
+        "languages": {
+            "TLA": 246768,
+            "TeX": 107891
+        }
+    },
+    {
+        "name": "EmergencyCall",
+        "description": "Formal specification for cellular emergency call related protocols and systems in TLA+",
+        "languages": {
+            "TLA": 205856,
+            "Python": 30418
+        }
+    },
+    {
+        "name": "azure-cosmos-tla",
+        "description": null,
+        "languages": {
+            "TLA": 136716,
+            "Shell": 3006
+        }
+    },
+    {
+        "name": "MyCHIPs_gotchoices",
+        "description": "dir: devel\\mychips\\...",
+        "languages": {
+            "TLA": 1284990,
+            "PLpgSQL": 644044,
+            "JavaScript": 582178,
+            "TeX": 361884,
+            "Dart": 98879,
+            "Shell": 91682,
+            "Coq": 56818,
+            "TypeScript": 52257,
+            "HTML": 43086,
+            "Vue": 28596,
+            "Promela": 27718,
+            "Java": 15763,
+            "C++": 6977,
+            "Ruby": 6840,
+            "Objective-C++": 5086,
+            "Tcl": 3963,
+            "M4": 3871,
+            "Makefile": 3719,
+            "Objective-C": 2419,
+            "CSS": 2143,
+            "Starlark": 602,
+            "Swift": 404,
+            "Kotlin": 135
+        }
+    },
+    {
+        "name": "journal",
+        "description": "Journal",
+        "languages": {
+            "TLA": 27561,
+            "HTML": 15783,
+            "CSS": 8500,
+            "Shell": 4731
+        }
+    },
+    {
+        "name": "study",
+        "description": null,
+        "languages": {
+            "TLA": 26713,
+            "Go": 2207
+        }
+    },
+    {
+        "name": "tlaplus-sandbox",
+        "description": "toying with TLA+",
+        "languages": {
+            "TLA": 2898
+        }
+    },
+    {
+        "name": "Study-Rooms",
+        "description": "Library room use (Pluscal/TLA)",
+        "languages": {
+            "TLA": 6217
+        }
+    },
+    {
+        "name": "PCR",
+        "description": "TLA+ specification of the PCR parallel programming pattern.",
+        "languages": {
+            "TLA": 357562,
+            "Java": 374
+        }
+    },
+    {
+        "name": "promscale_specs",
+        "description": "Formal specifications for Promscale components",
+        "languages": {
+            "TLA": 28265
+        }
     }
 ]

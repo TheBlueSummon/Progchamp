@@ -4,12 +4,12 @@
         "description": "OpenTitan: Open source silicon root of trust",
         "languages": {
             "SystemVerilog": 17072455,
-            "C": 7815269,
+            "C": 7821487,
             "Python": 3134457,
             "Rust": 2491805,
             "C++": 1971982,
+            "Starlark": 1520705,
             "Smarty": 1519734,
-            "Starlark": 1518637,
             "Emacs Lisp": 1120323,
             "Assembly": 951686,
             "Tcl": 500676,
@@ -75,6 +75,2357 @@
             "Shell": 31157,
             "Python": 30165,
             "Makefile": 2578
+        }
+    },
+    {
+        "name": "rsd",
+        "description": "RSD: RISC-V Out-of-Order Superscalar Processor",
+        "languages": {
+            "SystemVerilog": 1543654,
+            "Tcl": 266844,
+            "C": 169239,
+            "Assembly": 132220,
+            "Makefile": 105391,
+            "Python": 93446,
+            "C++": 71017,
+            "Verilog": 11084,
+            "Batchfile": 2002,
+            "Shell": 1896
+        }
+    },
+    {
+        "name": "cv32e40p",
+        "description": "CV32E40P is an in-order 4-stage RISC-V RV32IMFCXpulp CPU based on RI5CY from PULP-Platform",
+        "languages": {
+            "SystemVerilog": 999451,
+            "C": 57893,
+            "Python": 42964,
+            "Tcl": 16170,
+            "Shell": 12860,
+            "Makefile": 11074,
+            "Assembly": 9693,
+            "Emacs Lisp": 422
+        }
+    },
+    {
+        "name": "swerv_eh1",
+        "description": "A directory of Western Digital\u2019s RISC-V SweRV Cores",
+        "languages": {
+            "SystemVerilog": 1291389,
+            "Perl": 155141,
+            "Raku": 28374,
+            "Verilog": 9784,
+            "Makefile": 6313,
+            "C++": 5240,
+            "C": 4295,
+            "Assembly": 2544,
+            "Objective-C": 2226,
+            "Tcl": 103
+        }
+    },
+    {
+        "name": "scr1",
+        "description": "SCR1 is a high-quality open-source RISC-V MCU core in Verilog",
+        "languages": {
+            "SystemVerilog": 803536,
+            "C": 322750,
+            "Makefile": 39927,
+            "Assembly": 19125
+        }
+    },
+    {
+        "name": "Cores-VeeR-EH1",
+        "description": "VeeR EH1 core",
+        "languages": {
+            "SystemVerilog": 1311455,
+            "C": 203667,
+            "Perl": 173115,
+            "Makefile": 6562,
+            "Assembly": 6250,
+            "Verilog": 6048,
+            "Python": 1850,
+            "C++": 1529,
+            "Tcl": 176
+        }
+    },
+    {
+        "name": "lets-prove-leftpad",
+        "description": "Proving leftpad correct in a dozen different ways",
+        "languages": {
+            "SystemVerilog": 11319,
+            "Common Lisp": 7988,
+            "Isabelle": 6641,
+            "Lean": 5330,
+            "TLA": 4516,
+            "Haskell": 3694,
+            "Standard ML": 3668,
+            "SMT": 2977,
+            "Coq": 2713,
+            "Python": 2216,
+            "C": 1814,
+            "Ada": 1643,
+            "Dafny": 1573,
+            "Rust": 1359,
+            "Agda": 1211,
+            "Java": 919,
+            "F*": 727,
+            "Idris": 686,
+            "Tcl": 256
+        }
+    },
+    {
+        "name": "lowrisc-chip",
+        "description": "The root repo for lowRISC project and FPGA demos.",
+        "languages": {
+            "SystemVerilog": 365861,
+            "Verilog": 245073,
+            "Assembly": 95419,
+            "C++": 44199,
+            "Makefile": 33886,
+            "Python": 32471,
+            "C": 19077,
+            "Shell": 8728,
+            "Scala": 1214
+        }
+    },
+    {
+        "name": "nontrivial-mips",
+        "description": "NonTrivial-MIPS is a synthesizable superscalar MIPS processor with branch prediction and FPU support, and it is capable of booting linux.",
+        "languages": {
+            "SystemVerilog": 205132,
+            "TeX": 92080,
+            "Assembly": 47847,
+            "Verilog": 17636,
+            "Shell": 7068,
+            "Tcl": 3307,
+            "Python": 1312,
+            "Makefile": 900,
+            "Awk": 240
+        }
+    },
+    {
+        "name": "black-parrot",
+        "description": "A Linux-capable RISC-V multicore for and by the world",
+        "languages": {
+            "SystemVerilog": 1871465,
+            "Python": 69039,
+            "Objective-C": 50980,
+            "M": 42667,
+            "Shell": 26754,
+            "Tcl": 9202,
+            "C++": 8950,
+            "Verilog": 7220,
+            "Makefile": 6801
+        }
+    },
+    {
+        "name": "VeriGPU",
+        "description": "OpenSource GPU, in Verilog, loosely based on RISC-V ISA",
+        "languages": {
+            "SystemVerilog": 481999,
+            "C++": 224440,
+            "Python": 92432,
+            "Shell": 35081,
+            "Verilog": 24158,
+            "C": 19960,
+            "CMake": 11376,
+            "Dockerfile": 3252,
+            "Tcl": 448
+        }
+    },
+    {
+        "name": "projf-explore",
+        "description": "Project F brings FPGAs to life with exciting open-source designs you can build on.",
+        "languages": {
+            "SystemVerilog": 867879,
+            "Tcl": 126067,
+            "C++": 96109,
+            "Python": 29713,
+            "Shell": 22882,
+            "Makefile": 21460
+        }
+    },
+    {
+        "name": "basejump_stl",
+        "description": "BaseJump STL: A Standard Template Library for SystemVerilog",
+        "languages": {
+            "SystemVerilog": 5005600,
+            "Python": 483077,
+            "Makefile": 185684,
+            "Verilog": 147445,
+            "C++": 119736,
+            "Tcl": 97166,
+            "TeX": 52907,
+            "C": 28870,
+            "SourcePawn": 20912,
+            "Shell": 4464,
+            "Emacs Lisp": 3116,
+            "Stata": 2279,
+            "Forth": 85
+        }
+    },
+    {
+        "name": "uvmprimer",
+        "description": "Contains the code examples from The UVM Primer Book sorted by chapters.",
+        "languages": {
+            "SystemVerilog": 321339,
+            "VHDL": 116760,
+            "Stata": 12813,
+            "Fortran": 1176,
+            "Forth": 853
+        }
+    },
+    {
+        "name": "common_cells",
+        "description": "Common SystemVerilog components",
+        "languages": {
+            "SystemVerilog": 616516,
+            "Tcl": 8832,
+            "C++": 7313,
+            "Stata": 7001,
+            "Shell": 3723,
+            "Makefile": 1750,
+            "C": 344
+        }
+    },
+    {
+        "name": "pulp",
+        "description": "This is the top-level project for the PULP Platform. It instantiates a PULP open-source system with a PULP SoC (microcontroller) domain accelerated by a PULP cluster with 8 cores.",
+        "languages": {
+            "SystemVerilog": 534604,
+            "Verilog": 46029,
+            "Tcl": 38011,
+            "Python": 34095,
+            "Makefile": 23069,
+            "C": 9226,
+            "Shell": 3870
+        }
+    },
+    {
+        "name": "deepfloat",
+        "description": "An exploration of log domain \"alternative floating point\" for hardware ML/AI accelerators.",
+        "languages": {
+            "SystemVerilog": 1007791,
+            "C++": 255663,
+            "Python": 75166,
+            "C": 64884,
+            "Shell": 5840
+        }
+    },
+    {
+        "name": "SystemVerilogReference",
+        "description": "training labs and examples",
+        "languages": {
+            "SystemVerilog": 13928,
+            "Makefile": 3362,
+            "Verilog": 1129,
+            "Forth": 66
+        }
+    },
+    {
+        "name": "cvfpu",
+        "description": "Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats.",
+        "languages": {
+            "SystemVerilog": 262052,
+            "Python": 29928
+        }
+    },
+    {
+        "name": "opl3_fpga",
+        "description": "Reverse engineered SystemVerilog RTL version of the Yamaha OPL3 (YMF262) FM Synthesizer",
+        "languages": {
+            "SystemVerilog": 184804,
+            "Tcl": 73183,
+            "C": 67203,
+            "Verilog": 29331,
+            "C++": 16790,
+            "MATLAB": 14828,
+            "Makefile": 10059,
+            "Python": 674
+        }
+    },
+    {
+        "name": "pulpissimo",
+        "description": "This is the top-level project for the PULPissimo Platform. It instantiates a PULPissimo open-source system with a PULP SoC domain, but no cluster.",
+        "languages": {
+            "SystemVerilog": 491377,
+            "C": 310293,
+            "Tcl": 294978,
+            "C++": 105552,
+            "Makefile": 56421,
+            "Python": 50323,
+            "Verilog": 42048,
+            "Shell": 7002,
+            "Assembly": 4906,
+            "GDB": 488,
+            "Emacs Lisp": 422
+        }
+    },
+    {
+        "name": "USTC-RVSoC",
+        "description": "An FPGA-based RISC-V CPU+SoC with a simple and extensible peripheral bus. \u57fa\u4e8eFPGA\u7684RISC-V CPU+SoC\uff0c\u5305\u542b\u4e00\u4e2a\u7b80\u5355\u4e14\u53ef\u6269\u5c55\u7684\u5916\u8bbe\u603b\u7ebf\u3002",
+        "languages": {
+            "SystemVerilog": 102361,
+            "Assembly": 27122,
+            "Tcl": 5297
+        }
+    },
+    {
+        "name": "nestang",
+        "description": "NESTang is an FPGA Nintendo Entertainment System implemented with Sipeed Tang Primer 25K, Nano 20K and Primer 20K boards",
+        "languages": {
+            "SystemVerilog": 461764,
+            "Verilog": 409763,
+            "C++": 51318,
+            "Python": 20387,
+            "Tcl": 5680,
+            "Assembly": 3130,
+            "Perl": 2290,
+            "Makefile": 1670,
+            "C": 1391,
+            "Shell": 171
+        }
+    },
+    {
+        "name": "tvip-axi",
+        "description": "AMBA AXI VIP",
+        "languages": {
+            "SystemVerilog": 108259,
+            "Shell": 462,
+            "Ruby": 260,
+            "Forth": 66
+        }
+    },
+    {
+        "name": "100DaysOfRTL",
+        "description": "100 Days of RTL",
+        "languages": {
+            "SystemVerilog": 840646,
+            "Makefile": 30561,
+            "Stata": 95
+        }
+    },
+    {
+        "name": "RV12",
+        "description": "RISC-V CPU Core",
+        "languages": {
+            "SystemVerilog": 661736,
+            "Makefile": 25438,
+            "Tcl": 25413,
+            "HTML": 2960,
+            "SCSS": 2149
+        }
+    },
+    {
+        "name": "sv-tests",
+        "description": "Test suite designed to check compliance with the SystemVerilog standard.",
+        "languages": {
+            "SystemVerilog": 697652,
+            "Python": 167146,
+            "JavaScript": 37072,
+            "HTML": 33426,
+            "CSS": 21092,
+            "Makefile": 9202,
+            "C++": 729
+        }
+    },
+    {
+        "name": "logic",
+        "description": "CMake, SystemVerilog and SystemC utilities for creating, building and testing RTL projects for FPGAs and ASICs.",
+        "languages": {
+            "SystemVerilog": 630206,
+            "C++": 216516,
+            "CMake": 200398,
+            "Shell": 8915,
+            "Python": 5614,
+            "Vim Script": 2664,
+            "Tcl": 2094
+        }
+    },
+    {
+        "name": "NiteFury-and-LiteFury",
+        "description": "Public repository for Litefury & Nitefury",
+        "languages": {
+            "SystemVerilog": 898048,
+            "Verilog": 357095,
+            "C": 165012,
+            "Tcl": 81742,
+            "C++": 31181,
+            "Shell": 23488,
+            "Stata": 14220,
+            "Batchfile": 6798,
+            "Python": 5463,
+            "CMake": 2836
+        }
+    },
+    {
+        "name": "verilog-mode",
+        "description": "Verilog-Mode for Emacs with Indentation, Hightlighting and AUTOs. Master repository for pushing to GNU, verilog.com and veripool.org.",
+        "languages": {
+            "SystemVerilog": 944055,
+            "Emacs Lisp": 646496,
+            "Perl": 9775,
+            "Makefile": 5222,
+            "Forth": 35
+        }
+    },
+    {
+        "name": "UVMReference",
+        "description": "Reference examples and short projects using UVM Methodology",
+        "languages": {
+            "SystemVerilog": 32481,
+            "Python": 773,
+            "Forth": 66
+        }
+    },
+    {
+        "name": "Cores-VeeR-EL2",
+        "description": "VeeR EL2 Core",
+        "languages": {
+            "SystemVerilog": 1486206,
+            "Python": 400075,
+            "Perl": 196975,
+            "C": 148275,
+            "Makefile": 31376,
+            "Verilog": 17154,
+            "C++": 11787,
+            "Assembly": 4572,
+            "Shell": 690,
+            "Tcl": 327
+        }
+    },
+    {
+        "name": "snitch",
+        "description": "\u26d4 DEPRECATED \u26d4 Lean but mean RISC-V system!",
+        "languages": {
+            "SystemVerilog": 3482534,
+            "C": 1353258,
+            "Rust": 667813,
+            "Python": 332516,
+            "Smarty": 152393,
+            "Tcl": 130915,
+            "Makefile": 66019,
+            "TeX": 32403,
+            "Assembly": 25853,
+            "Stata": 23267,
+            "C++": 22529,
+            "Shell": 20939,
+            "CMake": 13382,
+            "Dockerfile": 5278,
+            "LLVM": 4736
+        }
+    },
+    {
+        "name": "bsg_manycore",
+        "description": "Tile based architecture designed for computing efficiency, scalability and generality",
+        "languages": {
+            "SystemVerilog": 991528,
+            "C": 472962,
+            "Python": 240055,
+            "C++": 210581,
+            "Makefile": 171602,
+            "Assembly": 156135,
+            "Tcl": 5724,
+            "Shell": 1139,
+            "CMake": 1022
+        }
+    },
+    {
+        "name": "Cores-VeeR-EH2",
+        "description": null,
+        "languages": {
+            "SystemVerilog": 2016914,
+            "C": 392267,
+            "Perl": 194571,
+            "Verilog": 15596,
+            "Assembly": 10246,
+            "C++": 8593,
+            "Makefile": 6497,
+            "Tcl": 103
+        }
+    },
+    {
+        "name": "cv32e40x",
+        "description": "4 stage, in-order, compute RISC-V core based on the CV32E40P",
+        "languages": {
+            "SystemVerilog": 1263564,
+            "M4": 207432,
+            "Tcl": 12048,
+            "Emacs Lisp": 422
+        }
+    },
+    {
+        "name": "openfpga-NES",
+        "description": "NES for the Analogue Pocket",
+        "languages": {
+            "SystemVerilog": 770854,
+            "Verilog": 297368,
+            "VHDL": 247011,
+            "Tcl": 61963,
+            "Assembly": 16513
+        }
+    },
+    {
+        "name": "riscv-dbg",
+        "description": "RISC-V Debug Support for our PULP RISC-V Cores",
+        "languages": {
+            "SystemVerilog": 224194,
+            "C": 68652,
+            "Makefile": 15017,
+            "Assembly": 9473,
+            "Python": 7088,
+            "Tcl": 6027,
+            "Shell": 5140,
+            "C++": 2628
+        }
+    },
+    {
+        "name": "SuperScalar-RISCV-CPU",
+        "description": "SSRV(Super-Scalar RISC-V) --- Super-scalar out-of-order RV32IMC CPU core, 6.4 CoreMark/MHz.",
+        "languages": {
+            "SystemVerilog": 2050918,
+            "Verilog": 548063,
+            "C": 346202,
+            "HTML": 72745,
+            "C++": 42728,
+            "Makefile": 36250,
+            "Assembly": 23284,
+            "Stata": 2861,
+            "Scheme": 20
+        }
+    },
+    {
+        "name": "Coyote",
+        "description": "Framework providing operating system abstractions and a range of shared networking (RDMA, TCP/IP) and memory services to common modern heterogeneous platforms.",
+        "languages": {
+            "SystemVerilog": 2808245,
+            "Tcl": 889927,
+            "VHDL": 645760,
+            "C": 411788,
+            "C++": 333216,
+            "Verilog": 100546,
+            "CMake": 43347,
+            "Shell": 3979,
+            "Makefile": 972,
+            "Python": 851
+        }
+    },
+    {
+        "name": "svunit",
+        "description": null,
+        "languages": {
+            "SystemVerilog": 174397,
+            "Python": 82155,
+            "Perl": 49137,
+            "Shell": 3801,
+            "Forth": 551,
+            "VHDL": 190,
+            "Coq": 63
+        }
+    },
+    {
+        "name": "NES_MiSTer",
+        "description": null,
+        "languages": {
+            "SystemVerilog": 849103,
+            "Verilog": 357620,
+            "VHDL": 351989,
+            "Tcl": 23164,
+            "Assembly": 16513,
+            "Batchfile": 662
+        }
+    },
+    {
+        "name": "uvm-tutorial-for-candy-lovers",
+        "description": "Source code repo for UVM Tutorial for Candy Lovers",
+        "languages": {
+            "SystemVerilog": 443708,
+            "Makefile": 4385,
+            "C++": 889,
+            "Batchfile": 9
+        }
+    },
+    {
+        "name": "eurorack-pmod",
+        "description": "Hardware and gateware for getting started in FPGA-based audio synthesis with open source tools.",
+        "languages": {
+            "SystemVerilog": 78125,
+            "Python": 41312,
+            "OpenSCAD": 20667,
+            "Verilog": 8011,
+            "Makefile": 7895,
+            "Shell": 2274
+        }
+    },
+    {
+        "name": "coolgirl-famicom-multicart",
+        "description": "Ultimate multigame cartridge for Nintendo Famicom",
+        "languages": {
+            "SystemVerilog": 67787,
+            "Verilog": 16661
+        }
+    },
+    {
+        "name": "core-v-mcu",
+        "description": "This is the CORE-V MCU project, hosting CORE-V's embedded-class cores.",
+        "languages": {
+            "SystemVerilog": 2718348,
+            "C": 879374,
+            "C++": 840497,
+            "Verilog": 420056,
+            "Python": 270168,
+            "Tcl": 156866,
+            "VHDL": 99272,
+            "Makefile": 23109,
+            "Stata": 12896,
+            "Shell": 5332,
+            "Assembly": 3682,
+            "Batchfile": 795
+        }
+    },
+    {
+        "name": "systemverilog.io",
+        "description": "Code used in",
+        "languages": {
+            "SystemVerilog": 41198,
+            "Verilog": 1978,
+            "Shell": 1545,
+            "Makefile": 859,
+            "Forth": 122
+        }
+    },
+    {
+        "name": "Saturn_MiSTer",
+        "description": null,
+        "languages": {
+            "SystemVerilog": 456514,
+            "Verilog": 274590,
+            "VHDL": 114051,
+            "Tcl": 23674,
+            "Batchfile": 672
+        }
+    },
+    {
+        "name": "riscv-simple-sv",
+        "description": "A simple RISC V core for teaching",
+        "languages": {
+            "SystemVerilog": 89573,
+            "Assembly": 88403,
+            "C": 17447,
+            "Makefile": 2622,
+            "C++": 1814
+        }
+    },
+    {
+        "name": "starshipraider",
+        "description": "Open hardware test equipment",
+        "languages": {
+            "SystemVerilog": 206249,
+            "C++": 132874,
+            "Tcl": 58879,
+            "Shell": 4344,
+            "MATLAB": 3329,
+            "Makefile": 2237,
+            "PHP": 444
+        }
+    },
+    {
+        "name": "AMBA_APB_SRAM",
+        "description": "AMBA v.3 APB v.1 Specification Complaint Slave SRAM Core design and testbench. The testbench is developed using System Verilog and UVM and can be used as standalone Verification IP (VIP). ",
+        "languages": {
+            "SystemVerilog": 56349,
+            "Verilog": 10569,
+            "PowerShell": 8740,
+            "Forth": 2814,
+            "Stata": 1069
+        }
+    },
+    {
+        "name": "AHB2",
+        "description": "AMBA AHB 2.0 VIP in SystemVerilog UVM",
+        "languages": {
+            "SystemVerilog": 105628,
+            "Perl": 4098,
+            "Makefile": 1714,
+            "Stata": 484
+        }
+    },
+    {
+        "name": "fx68k",
+        "description": "FX68K 68000 cycle accurate SystemVerilog core",
+        "languages": {
+            "SystemVerilog": 231305
+        }
+    },
+    {
+        "name": "tnoc",
+        "description": "Network on Chip Implementation written in SytemVerilog",
+        "languages": {
+            "SystemVerilog": 217351,
+            "Makefile": 15917,
+            "Filebench WML": 2599,
+            "Forth": 443,
+            "Shell": 170
+        }
+    },
+    {
+        "name": "cv32e40s",
+        "description": "4 stage, in-order, secure RISC-V core based on the CV32E40P",
+        "languages": {
+            "SystemVerilog": 1426605,
+            "M4": 207380,
+            "Tcl": 8538,
+            "Emacs Lisp": 422
+        }
+    },
+    {
+        "name": "ravenoc",
+        "description": "RaveNoC is a configurable HDL NoC (Network-On-Chip) suitable for MPSoCs and different MP applications",
+        "languages": {
+            "SystemVerilog": 119138,
+            "Python": 72680,
+            "Tcl": 4416,
+            "Makefile": 735,
+            "Shell": 198
+        }
+    },
+    {
+        "name": "zcash-fpga",
+        "description": "Zcash FPGA acceleration engine",
+        "languages": {
+            "SystemVerilog": 948840,
+            "C++": 61240,
+            "Tcl": 59372,
+            "Python": 17961,
+            "Filebench WML": 17355,
+            "Shell": 10522,
+            "Makefile": 4316,
+            "C": 4244
+        }
+    },
+    {
+        "name": "FPGA-Application-Development-and-Simulation",
+        "description": "\u300aFPGA\u5e94\u7528\u5f00\u53d1\u548c\u4eff\u771f\u300b\uff08\u673a\u68b0\u5de5\u4e1a\u51fa\u7248\u793e2018\u5e74\u7b2c1\u7248 ISBN:9787111582786\uff09\u7684\u6e90\u7801\u3002Source Code of the book FPGA Application Development and Simulation(CHS).",
+        "languages": {
+            "SystemVerilog": 311259,
+            "Stata": 185856,
+            "VHDL": 17395
+        }
+    },
+    {
+        "name": "UVM-Examples",
+        "description": "UVM examples and projects",
+        "languages": {
+            "SystemVerilog": 192299,
+            "Perl": 10403,
+            "Stata": 7012,
+            "Makefile": 3950,
+            "Forth": 1325,
+            "Python": 1152,
+            "Verilog": 120
+        }
+    },
+    {
+        "name": "analogue-pocket-utils",
+        "description": "Collection of IP and information on how to develop for openFPGA and Analogue Pocket",
+        "languages": {
+            "SystemVerilog": 55373,
+            "Verilog": 10870,
+            "VHDL": 10242
+        }
+    },
+    {
+        "name": "cheshire",
+        "description": "A minimal Linux-capable 64-bit RISC-V SoC built around CVA6",
+        "languages": {
+            "SystemVerilog": 296391,
+            "C": 115937,
+            "Tcl": 35996,
+            "Makefile": 16885,
+            "C++": 9133,
+            "Assembly": 6783,
+            "Python": 3932
+        }
+    },
+    {
+        "name": "CSE240D-Hierarchical_Mesh_NoC-Eyeriss_v2",
+        "description": "A SystemVerilog implementation of Row-Stationary dataflow and Hierarchical Mesh Network-on-Chip Architecture based on Eyeriss CNN Accelerator",
+        "languages": {
+            "SystemVerilog": 611389
+        }
+    },
+    {
+        "name": "intel-fpga-bbb",
+        "description": "Basic Building Blocks (BBB) for OPAE-managed Intel FPGAs",
+        "languages": {
+            "SystemVerilog": 1524182,
+            "C": 355638,
+            "C++": 267866,
+            "Tcl": 75675,
+            "Shell": 64274,
+            "CMake": 30162,
+            "Verilog": 24432,
+            "Gnuplot": 14377,
+            "Makefile": 8669,
+            "Python": 4299
+        }
+    },
+    {
+        "name": "fpga-tamagotchi",
+        "description": "Tamagotchi P1 for Analogue Pocket and MiSTer",
+        "languages": {
+            "SystemVerilog": 721505,
+            "Verilog": 291346,
+            "Tcl": 163574,
+            "VHDL": 102703,
+            "Stata": 22093,
+            "Rust": 13623,
+            "JavaScript": 10978,
+            "Assembly": 8702,
+            "HTML": 4352,
+            "Python": 3048
+        }
+    },
+    {
+        "name": "TrivialMIPS",
+        "description": "MIPS32 CPU implemented in SystemVerilog, with superscalar and FPU support",
+        "languages": {
+            "SystemVerilog": 214324,
+            "Verilog": 144247,
+            "Assembly": 33736,
+            "C": 27155,
+            "C++": 7330,
+            "Objective-C": 4487,
+            "Python": 2437,
+            "Makefile": 1231,
+            "Tcl": 930,
+            "Shell": 423,
+            "Pascal": 290,
+            "Awk": 240
+        }
+    },
+    {
+        "name": "SoomRV",
+        "description": "A simple superscalar out of order RISC-V (micro)processor",
+        "languages": {
+            "SystemVerilog": 468683,
+            "Assembly": 280954,
+            "Verilog": 115230,
+            "C": 41115,
+            "C++": 36909,
+            "Makefile": 4659
+        }
+    },
+    {
+        "name": "sv-tutorial",
+        "description": "SystemVerilog Tutorial",
+        "languages": {
+            "SystemVerilog": 522473
+        }
+    },
+    {
+        "name": "tiny-synth",
+        "description": "Verilog code for a simple synth module; developed on TinyFPGA BX",
+        "languages": {
+            "SystemVerilog": 39553,
+            "Verilog": 7619,
+            "Makefile": 377,
+            "Coq": 90
+        }
+    },
+    {
+        "name": "parallella-riscv",
+        "description": "RISC-V Rocket Core on Parallella & ZedBoard Zynq FPGA Boards",
+        "languages": {
+            "SystemVerilog": 12617798,
+            "Tcl": 102058,
+            "Verilog": 55793,
+            "Scala": 23524,
+            "Makefile": 19927,
+            "C++": 7356,
+            "C": 5962,
+            "Shell": 5276
+        }
+    },
+    {
+        "name": "AXI-SDCard-High-Speed-Controller",
+        "description": "A SDCard Controller Based AXI4 Bus with SDIO 4-wire 50MHz Mode(Max Rate 23MB/s)",
+        "languages": {
+            "SystemVerilog": 47478,
+            "Verilog": 7177,
+            "C": 2006
+        }
+    },
+    {
+        "name": "Deep-Neural-Network-Hardware-Accelerator",
+        "description": "SystemVerilog HDL and TB code Deep Neural Network Hardware Accelerator implementation on zybo 7010 FPGA and also C code for Vivado SDK Software",
+        "languages": {
+            "SystemVerilog": 18588887,
+            "C++": 79204,
+            "Verilog": 72512,
+            "C": 43206,
+            "VHDL": 12538,
+            "MATLAB": 9528,
+            "Python": 4647
+        }
+    },
+    {
+        "name": "NoCRouter",
+        "description": "RTL Network-on-Chip Router Design in SystemVerilog by Andrea Galimberti, Filippo Testa and Alberto Zeni",
+        "languages": {
+            "SystemVerilog": 208869
+        }
+    },
+    {
+        "name": "axi-uvm",
+        "description": "yet another AXI testbench repo. ;)  This is for my UVM practice.  https://marcoz001.github.io/axi-uvm/",
+        "languages": {
+            "SystemVerilog": 277591,
+            "Python": 2918,
+            "Makefile": 2844
+        }
+    },
+    {
+        "name": "open-nic-shell",
+        "description": "AMD OpenNIC Shell includes the HDL source files",
+        "languages": {
+            "SystemVerilog": 462199,
+            "Verilog": 200833,
+            "Tcl": 181794,
+            "Shell": 5766,
+            "Python": 4616,
+            "Stata": 1740
+        }
+    },
+    {
+        "name": "hero",
+        "description": "Heterogeneous Research Platform (HERO) for exploration of heterogeneous computers consisting of programmable many-core accelerators and an application-class host CPU, including full-stack software and hardware.",
+        "languages": {
+            "SystemVerilog": 4783454,
+            "C": 3483955,
+            "Assembly": 879954,
+            "Stata": 309596,
+            "C++": 126116,
+            "Python": 124482,
+            "Makefile": 118672,
+            "Tcl": 118485,
+            "Shell": 93397,
+            "Verilog": 66383,
+            "MATLAB": 46286,
+            "CSS": 27757,
+            "CMake": 12448,
+            "HTML": 4613,
+            "JavaScript": 1510,
+            "Emacs Lisp": 422,
+            "Batchfile": 340,
+            "TeX": 154
+        }
+    },
+    {
+        "name": "wav-lpddr-hw",
+        "description": "Wavious DDR (WDDR) Physical interface (PHY) Hardware",
+        "languages": {
+            "SystemVerilog": 22259221,
+            "Verilog": 299300,
+            "Shell": 11277,
+            "Filebench WML": 4407,
+            "Tcl": 88
+        }
+    },
+    {
+        "name": "RISC-V-Vector",
+        "description": "Vector processor for RISC-V vector ISA",
+        "languages": {
+            "SystemVerilog": 409806,
+            "Stata": 88101,
+            "Python": 18573,
+            "Forth": 1235
+        }
+    },
+    {
+        "name": "APS",
+        "description": "\u041c\u0435\u0442\u043e\u0434\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u043c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b \u043f\u043e \u0440\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u043a\u0435 \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u0440\u0430 \u0430\u0440\u0445\u0438\u0442\u0435\u043a\u0442\u0443\u0440\u044b RISC-V",
+        "languages": {
+            "SystemVerilog": 555002,
+            "Tcl": 115658,
+            "Assembly": 39608,
+            "C": 4107,
+            "C++": 3561,
+            "Python": 3257,
+            "Makefile": 2851
+        }
+    },
+    {
+        "name": "Shuhai",
+        "description": "Shuhai is a benchmarking-memory tool that allows FPGA programmers to demystify all the underlying details of memories, e.g., HBM and DDR4, on a Xilinx FPGA",
+        "languages": {
+            "SystemVerilog": 436929,
+            "C": 132105,
+            "Tcl": 82915,
+            "C++": 56833,
+            "Verilog": 22361,
+            "Cuda": 12145,
+            "CMake": 6972,
+            "Python": 2000,
+            "Makefile": 863
+        }
+    },
+    {
+        "name": "AXI",
+        "description": "VIP for AXI Protocol",
+        "languages": {
+            "SystemVerilog": 56202
+        }
+    },
+    {
+        "name": "fpga-partial-reconfig",
+        "description": "Tutorials, scripts and reference designs for the Intel FPGA partial reconfiguration (PR) design flow",
+        "languages": {
+            "SystemVerilog": 2912210,
+            "Tcl": 341283,
+            "C": 328346,
+            "Shell": 21320,
+            "Perl": 5936,
+            "Makefile": 5502
+        }
+    },
+    {
+        "name": "pspin",
+        "description": "PsPIN: A RISC-V in-network accelerator for flexible high-performance low-power packet processing",
+        "languages": {
+            "SystemVerilog": 2830148,
+            "C": 1356079,
+            "C++": 1208491,
+            "Makefile": 22186,
+            "Python": 17950,
+            "Shell": 13923,
+            "Verilog": 9980,
+            "Perl": 6128,
+            "Assembly": 2979,
+            "Dockerfile": 2264
+        }
+    },
+    {
+        "name": "ISP_UVM",
+        "description": "A Framework for Design and Verification of Image Processing Applications using UVM",
+        "languages": {
+            "SystemVerilog": 17531,
+            "Makefile": 2413
+        }
+    },
+    {
+        "name": "register_interface",
+        "description": "Generic Register Interface (contains various adapters)",
+        "languages": {
+            "SystemVerilog": 78191
+        }
+    },
+    {
+        "name": "SystemVerilogAssertions",
+        "description": "Examples and reference for System Verilog Assertions",
+        "languages": {
+            "SystemVerilog": 2148
+        }
+    },
+    {
+        "name": "EDN8-PRO",
+        "description": "EverDrive N8 PRO dev sources",
+        "languages": {
+            "SystemVerilog": 269954,
+            "C#": 64031,
+            "Assembly": 7699,
+            "Tcl": 1507,
+            "Makefile": 514
+        }
+    },
+    {
+        "name": "reDIP-SID",
+        "description": "MOS 6581 / 8580 SID FPGA emulation platform",
+        "languages": {
+            "SystemVerilog": 110950,
+            "Verilog": 20960,
+            "C++": 11309,
+            "Gnuplot": 3205,
+            "Makefile": 2453,
+            "Perl": 838,
+            "Shell": 64,
+            "Batchfile": 57
+        }
+    },
+    {
+        "name": "axi-crossbar",
+        "description": "An AXI4 crossbar implementation in SystemVerilog",
+        "languages": {
+            "SystemVerilog": 346842,
+            "Shell": 9623,
+            "Forth": 861
+        }
+    },
+    {
+        "name": "AXI4_Interconnect",
+        "description": "AXI\u603b\u7ebf\u8fde\u63a5\u5668",
+        "languages": {
+            "SystemVerilog": 132289
+        }
+    },
+    {
+        "name": "kria-vitis-platforms",
+        "description": "Kria KV260 Vitis platforms and overlays",
+        "languages": {
+            "SystemVerilog": 2219093,
+            "Tcl": 1062683,
+            "V": 184844,
+            "Verilog": 139825,
+            "Makefile": 37092,
+            "C++": 16975,
+            "C": 14995
+        }
+    },
+    {
+        "name": "ahb3lite_interconnect",
+        "description": "AHB3-Lite Interconnect",
+        "languages": {
+            "SystemVerilog": 154796,
+            "Tcl": 25413,
+            "Makefile": 5442
+        }
+    },
+    {
+        "name": "UH-JLS",
+        "description": "FPGA-based Ultra-High Throughput JPEG-LS encoder, which provides lossless image compression. \u4e00\u4e2a\u8d85\u9ad8\u6027\u80fd\u7684FPGA JPEG-LS\u7f16\u7801\u5668\uff0c\u7528\u6765\u8fdb\u884c\u65e0\u635f\u56fe\u50cf\u538b\u7f29\u3002",
+        "languages": {
+            "SystemVerilog": 133794,
+            "Verilog": 72252,
+            "Batchfile": 137
+        }
+    },
+    {
+        "name": "MiSTeryNano",
+        "description": "Atari STE MiSTery core for the Tang Nano 20k FPGA",
+        "languages": {
+            "SystemVerilog": 687094,
+            "Verilog": 557794,
+            "C": 239032,
+            "SWIG": 69842,
+            "Assembly": 61766,
+            "C++": 56738,
+            "Tcl": 15025,
+            "Makefile": 6460,
+            "CMake": 1035,
+            "Shell": 162
+        }
+    },
+    {
+        "name": "FEC",
+        "description": "FEC Codec IP core library for a some famous codes (BCH, RS, LDPC, Turbo)",
+        "languages": {
+            "SystemVerilog": 8329460,
+            "Stata": 13581,
+            "Batchfile": 255
+        }
+    },
+    {
+        "name": "yuu_ahb",
+        "description": "UVM AHB VIP",
+        "languages": {
+            "SystemVerilog": 152880,
+            "Makefile": 598
+        }
+    },
+    {
+        "name": "SystemVerilogSHA256",
+        "description": "SHA256 in (System-) Verilog / Open Source FPGA Miner",
+        "languages": {
+            "SystemVerilog": 9915
+        }
+    },
+    {
+        "name": "svaunit",
+        "description": "SVAUnit is an UVM compliant package that simplify the creation of stimuli/checkers for validating SystemVerilog Assertions (SVA)",
+        "languages": {
+            "SystemVerilog": 220226,
+            "C++": 17619,
+            "Shell": 15092,
+            "Tcl": 942,
+            "Forth": 869
+        }
+    },
+    {
+        "name": "LM-RISCV-DV",
+        "description": "An Open-Source Design and Verification Environment for RISC-V",
+        "languages": {
+            "SystemVerilog": 241288,
+            "C": 179620,
+            "Python": 151338,
+            "Perl": 32188,
+            "Makefile": 16309,
+            "Shell": 6739,
+            "Fortran": 3424,
+            "Assembly": 3237,
+            "C++": 2008,
+            "Tcl": 1887,
+            "Objective-C": 1372,
+            "Filebench WML": 320
+        }
+    },
+    {
+        "name": "fpga-npu",
+        "description": null,
+        "languages": {
+            "SystemVerilog": 463748,
+            "Python": 197801,
+            "C++": 196680,
+            "C": 105024,
+            "Verilog": 14603,
+            "Shell": 3996,
+            "Makefile": 1567
+        }
+    },
+    {
+        "name": "uvm_agents",
+        "description": "UVM agents",
+        "languages": {
+            "SystemVerilog": 119717,
+            "HTML": 67
+        }
+    },
+    {
+        "name": "FlooNoC",
+        "description": "A Fast, Low-Overhead On-chip Network",
+        "languages": {
+            "SystemVerilog": 348421,
+            "Python": 113314,
+            "Tcl": 10467,
+            "Mako": 8995,
+            "Makefile": 5040,
+            "Shell": 4540
+        }
+    },
+    {
+        "name": "FPGA-SATA-HBA",
+        "description": "A SATA host (HBA) core based on Xilinx FPGA with GTH to read/write hard disk. \u4e00\u4e2a\u57fa\u4e8eXilinx FPGA\u4e2d\u7684GTH\u7684SATA host\u63a7\u5236\u5668\uff0c\u7528\u6765\u8bfb\u5199\u786c\u76d8\u3002",
+        "languages": {
+            "SystemVerilog": 288900,
+            "Verilog": 23444,
+            "VHDL": 8526,
+            "Tcl": 6946
+        }
+    },
+    {
+        "name": "pulp_soc",
+        "description": "pulp_soc is the core building component of PULP based SoCs",
+        "languages": {
+            "SystemVerilog": 496941
+        }
+    },
+    {
+        "name": "prjuray",
+        "description": "Documenting the Xilinx Ultrascale, Ultrascale+ and UltraScale MPSoC series bit-stream format.",
+        "languages": {
+            "SystemVerilog": 1970594,
+            "Python": 755491,
+            "Tcl": 263695,
+            "Verilog": 164200,
+            "Makefile": 100824,
+            "Shell": 85809,
+            "Smarty": 40644,
+            "C++": 38409,
+            "XSLT": 6736,
+            "Pawn": 399,
+            "GDB": 266
+        }
+    },
+    {
+        "name": "chipfail-glitcher",
+        "description": null,
+        "languages": {
+            "SystemVerilog": 134904,
+            "Verilog": 32440,
+            "Coq": 10945,
+            "Jupyter Notebook": 8431,
+            "VHDL": 8228,
+            "Assembly": 3776,
+            "Shell": 289
+        }
+    },
+    {
+        "name": "nerv",
+        "description": "Naive Educational RISC V processor",
+        "languages": {
+            "SystemVerilog": 131594,
+            "Verilog": 26119,
+            "Assembly": 5501,
+            "Makefile": 4982,
+            "C": 2798,
+            "Python": 2190,
+            "Shell": 1849
+        }
+    },
+    {
+        "name": "axi4-interface",
+        "description": "AXI4 and AXI4-Lite interface definitions",
+        "languages": {
+            "SystemVerilog": 28093,
+            "Tcl": 962,
+            "Makefile": 139
+        }
+    },
+    {
+        "name": "BrianHG-DDR3-Controller",
+        "description": "DDR3 Controller v1.65, 16 read/write ports, configurable widths, priority, auto-burst size & cache on each port.  VGA/HDMI multiwindow video controller with alpha-blended layers.  Docs & TBs included.",
+        "languages": {
+            "SystemVerilog": 1810151,
+            "Verilog": 546044,
+            "Tcl": 45948,
+            "Stata": 44552
+        }
+    },
+    {
+        "name": "RecoNIC",
+        "description": "RecoNIC is a software/hardware shell used to enable network-attached processing within an RDMA-featured SmartNIC for scale-out computing.",
+        "languages": {
+            "SystemVerilog": 681329,
+            "C": 130123,
+            "Python": 113986,
+            "Tcl": 29398,
+            "C++": 15363,
+            "Stata": 13256,
+            "Shell": 13186,
+            "P4": 12026,
+            "Makefile": 4946,
+            "Forth": 1529
+        }
+    },
+    {
+        "name": "iDMA",
+        "description": "A modular, parametrizable, and highly flexible Data Movement Accelerator (DMA)",
+        "languages": {
+            "SystemVerilog": 456892,
+            "Smarty": 165582,
+            "Python": 60100,
+            "Verilog": 56036,
+            "Makefile": 16482,
+            "Shell": 1712,
+            "Tcl": 274
+        }
+    },
+    {
+        "name": "System-Verilog-Packet-Library",
+        "description": "System-Veilog Packet Library to configure, randomize, pack/unpack, copy, compare/display different headers",
+        "languages": {
+            "SystemVerilog": 676757,
+            "C": 91406,
+            "C++": 23240,
+            "Shell": 82
+        }
+    },
+    {
+        "name": "sargantana",
+        "description": null,
+        "languages": {
+            "SystemVerilog": 1449215,
+            "Stata": 411002,
+            "Shell": 40357,
+            "Makefile": 3878,
+            "Forth": 3155,
+            "Tcl": 738
+        }
+    },
+    {
+        "name": "CX",
+        "description": "Proposed RISC-V Composable Custom Extensions Specification",
+        "languages": {
+            "SystemVerilog": 77584,
+            "Python": 56613,
+            "Verilog": 38985,
+            "Makefile": 2618,
+            "TeX": 833,
+            "Batchfile": 799,
+            "C++": 377,
+            "Shell": 351,
+            "Ruby": 272
+        }
+    },
+    {
+        "name": "DDR4MemoryController",
+        "description": "HDL code for a DDR4 memory controller implementing an Open Page Policy and Out of Order execution.",
+        "languages": {
+            "SystemVerilog": 48463,
+            "Makefile": 437
+        }
+    },
+    {
+        "name": "kronos",
+        "description": "Kronos is a 3-stage in-order RISC-V RV32I_Zicsr_Zifencei core geared towards FPGA implementations",
+        "languages": {
+            "SystemVerilog": 291456,
+            "C": 263139,
+            "CMake": 31972,
+            "Perl": 12280,
+            "C++": 4757,
+            "Python": 2257,
+            "Assembly": 2019,
+            "Scala": 1198
+        }
+    },
+    {
+        "name": "amiq_apb",
+        "description": "SystemVerilog VIP for AMBA APB protocol",
+        "languages": {
+            "SystemVerilog": 166211,
+            "Shell": 4982,
+            "Forth": 816
+        }
+    },
+    {
+        "name": "mipi-csi-2",
+        "description": "Capture images/video from a Raspberry Pi Camera (MIPI CSI-2) with an FPGA",
+        "languages": {
+            "SystemVerilog": 17825,
+            "Python": 672,
+            "Stata": 217
+        }
+    },
+    {
+        "name": "enso",
+        "description": "Ens\u014d is a high-performance streaming interface for NIC-application communication.",
+        "languages": {
+            "SystemVerilog": 953231,
+            "Verilog": 442752,
+            "Tcl": 401049,
+            "C++": 304973,
+            "C": 147173,
+            "Python": 26102,
+            "Shell": 23771,
+            "HTML": 13435,
+            "VHDL": 9973,
+            "Meson": 4831,
+            "Makefile": 582,
+            "Mathematica": 334
+        }
+    },
+    {
+        "name": "davos",
+        "description": "Distributed Accelerator OS",
+        "languages": {
+            "SystemVerilog": 444081,
+            "C++": 393015,
+            "VHDL": 304976,
+            "Verilog": 135182,
+            "Tcl": 51270,
+            "C": 44564,
+            "CMake": 25239,
+            "Makefile": 863,
+            "Shell": 247
+        }
+    },
+    {
+        "name": "cheriot-ibex",
+        "description": "cheriot-ibex is a RTL implementation of CHERIoT ISA based on LowRISC's Ibex core.",
+        "languages": {
+            "SystemVerilog": 1502611,
+            "Python": 120237,
+            "C++": 67510,
+            "Makefile": 30295,
+            "Tcl": 18037,
+            "Shell": 12491,
+            "Filebench WML": 6959,
+            "Assembly": 6104,
+            "C": 4776,
+            "Stata": 2019,
+            "Forth": 1556,
+            "Fortran": 1550,
+            "Verilog": 755,
+            "Jinja": 656,
+            "Perl": 387
+        }
+    },
+    {
+        "name": "silver",
+        "description": "An attribute grammar-based programming language for composable language extensions",
+        "languages": {
+            "SystemVerilog": 2378632,
+            "Java": 287275,
+            "Shell": 36539,
+            "Python": 13059,
+            "Emacs Lisp": 5686,
+            "Vim Script": 5515,
+            "TypeScript": 4420,
+            "JavaScript": 2769,
+            "Tcl": 1340,
+            "Nix": 174
+        }
+    },
+    {
+        "name": "uvm-verilator",
+        "description": null,
+        "languages": {
+            "SystemVerilog": 2599328,
+            "C": 85052,
+            "C++": 8932
+        }
+    },
+    {
+        "name": "FazyRV",
+        "description": "A minimal-area RISC-V core with a scalable data path to 1, 2, 4, or 8 bits and manifold variants.",
+        "languages": {
+            "SystemVerilog": 185860,
+            "Assembly": 85548,
+            "Python": 54074,
+            "Shell": 22271,
+            "C": 19419,
+            "Makefile": 16162,
+            "Verilog": 3231,
+            "C++": 2681,
+            "Tcl": 464
+        }
+    },
+    {
+        "name": "muntjac",
+        "description": "64-bit multicore RISC-V processor",
+        "languages": {
+            "SystemVerilog": 860982,
+            "C++": 191833,
+            "Python": 23232,
+            "Makefile": 18140,
+            "C": 11854
+        }
+    },
+    {
+        "name": "h265_decoder",
+        "description": "H265 decoder write in verilog, verified on Xilinx ZYNQ7035",
+        "languages": {
+            "SystemVerilog": 1377530,
+            "Verilog": 251876,
+            "C": 1889,
+            "Makefile": 192
+        }
+    },
+    {
+        "name": "SystemVerilogCourse",
+        "description": "This is a detailed SystemVerilog course ",
+        "languages": {
+            "SystemVerilog": 244804,
+            "Makefile": 74564,
+            "Batchfile": 5704
+        }
+    },
+    {
+        "name": "antikernel-ipcores",
+        "description": "FPGA IP cores for the Antikernel OS, intended to be included as a submodule in SoC integrations",
+        "languages": {
+            "SystemVerilog": 1407265,
+            "Verilog": 309344
+        }
+    },
+    {
+        "name": "fwrisc",
+        "description": "Featherweight RISC-V implementation",
+        "languages": {
+            "SystemVerilog": 237032,
+            "C": 111572,
+            "C++": 88559,
+            "Forth": 72977,
+            "Assembly": 56244,
+            "Python": 39862,
+            "Makefile": 38708,
+            "Fortran": 15150,
+            "Shell": 8649,
+            "Tcl": 4190,
+            "Verilog": 3011,
+            "Filebench WML": 1209,
+            "CMake": 992,
+            "Stata": 382
+        }
+    },
+    {
+        "name": "fpga_snark_prover",
+        "description": "An acceleration engine for proving SNARKS over the bn128 curve, targeted for AWS FPGAs",
+        "languages": {
+            "SystemVerilog": 304388,
+            "Coq": 27907,
+            "Tcl": 24821,
+            "C++": 24472,
+            "Makefile": 16202
+        }
+    },
+    {
+        "name": "axi4_vip",
+        "description": "Verification IP for APB protocol",
+        "languages": {
+            "SystemVerilog": 105053,
+            "Makefile": 710
+        }
+    },
+    {
+        "name": "AHB-to-APB-Bridge-Verification",
+        "description": "Maven Silicon project - AHB-to-APB Bridge Verification using UVM Methodology.",
+        "languages": {
+            "SystemVerilog": 66265,
+            "Verilog": 2895,
+            "V": 1871
+        }
+    },
+    {
+        "name": "fpga-gameandwatch",
+        "description": "Game and Watch for Analogue Pocket and MiSTer",
+        "languages": {
+            "SystemVerilog": 503835,
+            "Verilog": 308480,
+            "Tcl": 227041,
+            "VHDL": 107968,
+            "Rust": 60797,
+            "TypeScript": 25958,
+            "JavaScript": 1218
+        }
+    },
+    {
+        "name": "caliptra-rtl",
+        "description": "HW Design Collateral  for Caliptra RoT IP",
+        "languages": {
+            "SystemVerilog": 12662329,
+            "C": 2077623,
+            "C++": 149471,
+            "Makefile": 142419,
+            "Verilog": 135750,
+            "Stata": 101004,
+            "Assembly": 100063,
+            "Python": 68725,
+            "Shell": 22581,
+            "Forth": 21227,
+            "Tcl": 9515,
+            "Fortran": 8162,
+            "Batchfile": 5987,
+            "VHDL": 3612,
+            "GDB": 3084,
+            "CMake": 1476
+        }
+    },
+    {
+        "name": "clarvi",
+        "description": "Clarvi simple RISC-V processor for teaching",
+        "languages": {
+            "SystemVerilog": 67746,
+            "Tcl": 16625,
+            "Makefile": 8118,
+            "Python": 4245,
+            "Shell": 1565,
+            "Assembly": 634,
+            "C": 20
+        }
+    },
+    {
+        "name": "S32X_MiSTer",
+        "description": "Sega 32X implementation for MiSTer",
+        "languages": {
+            "SystemVerilog": 851694,
+            "Verilog": 642816,
+            "VHDL": 235071,
+            "Tcl": 23923,
+            "Batchfile": 672,
+            "Python": 257
+        }
+    },
+    {
+        "name": "writeups",
+        "description": "Writeups for CTFs",
+        "languages": {
+            "SystemVerilog": 1604827,
+            "Python": 656955,
+            "C": 91300,
+            "Verilog": 89462,
+            "HTML": 41385,
+            "JavaScript": 28269,
+            "CSS": 21192,
+            "VBScript": 11438,
+            "C#": 7226,
+            "Assembly": 5328,
+            "LLVM": 400,
+            "Batchfile": 99
+        }
+    },
+    {
+        "name": "bigpulp",
+        "description": "\u26d4 DEPRECATED \u26d4 RISC-V manycore accelerator for HERO, bigPULP hardware platform",
+        "languages": {
+            "SystemVerilog": 798181,
+            "Tcl": 374211,
+            "Stata": 95629,
+            "Python": 11673,
+            "Shell": 4924,
+            "Makefile": 4751
+        }
+    },
+    {
+        "name": "core-v-xif",
+        "description": "RISC-V eXtension interface that provides a generalized framework suitable to implement custom coprocessors and ISA extensions",
+        "languages": {
+            "SystemVerilog": 10065,
+            "Makefile": 871
+        }
+    },
+    {
+        "name": "riscv-vip",
+        "description": "For pre-silicon developers of RISC-V systems, riscv-vip is a SystemVerilog project that helps with pre-si verification and debug",
+        "languages": {
+            "SystemVerilog": 158563,
+            "Ruby": 7740,
+            "Makefile": 6496,
+            "Forth": 1266,
+            "Stata": 36
+        }
+    },
+    {
+        "name": "ctf-writeups",
+        "description": "Detailed writeups of how I solved infosec Capture The Flag (CTF) challenges",
+        "languages": {
+            "SystemVerilog": 1604828,
+            "Python": 1182523,
+            "Shell": 59
+        }
+    },
+    {
+        "name": "PCXT_MiSTer",
+        "description": "PCXT port for MiSTer by spark2k06.",
+        "languages": {
+            "SystemVerilog": 764373,
+            "Verilog": 734607,
+            "Assembly": 512337,
+            "VHDL": 213339,
+            "C++": 136557,
+            "C": 100258,
+            "Tcl": 35062,
+            "Shell": 8344,
+            "Python": 7041,
+            "Makefile": 6143,
+            "CMake": 3722,
+            "Batchfile": 1438,
+            "Scilab": 122
+        }
+    },
+    {
+        "name": "Design-Pattern-in-SV",
+        "description": "This repo is created to include illustrative examples on object oriented design pattern in SV",
+        "languages": {
+            "SystemVerilog": 20106
+        }
+    },
+    {
+        "name": "zerosoc",
+        "description": "Demo SoC for SiliconCompiler.",
+        "languages": {
+            "SystemVerilog": 53400,
+            "Python": 27964,
+            "Verilog": 15070,
+            "Tcl": 5969,
+            "C": 5349,
+            "Makefile": 1904,
+            "Assembly": 653
+        }
+    },
+    {
+        "name": "cva5",
+        "description": "The CORE-V CVA5 is an Application class 5-stage RISC-V CPU specifically targetting FPGA implementations.",
+        "languages": {
+            "SystemVerilog": 744081,
+            "C++": 38661,
+            "Tcl": 25312,
+            "Python": 4261,
+            "Makefile": 3585
+        }
+    },
+    {
+        "name": "zynq-sandbox",
+        "description": "a playground for xilinx zynq fpga experiments",
+        "languages": {
+            "SystemVerilog": 197777,
+            "Makefile": 11724,
+            "Go": 5354,
+            "C++": 2625,
+            "Tcl": 992
+        }
+    },
+    {
+        "name": "async_FIFO",
+        "description": "This asynchrounous FIFO deisgn and UVM verificaiton is one case study of me.  The design is based on Cliff Cumming's paper and the UVM is coded by me(Xianghzi Meng)",
+        "languages": {
+            "SystemVerilog": 24447,
+            "Tcl": 9969,
+            "Verilog": 7025,
+            "Makefile": 1296,
+            "Forth": 333
+        }
+    },
+    {
+        "name": "Verilog-SystemVerilog-Guide",
+        "description": "Verilog/SystemVerilog Guide",
+        "languages": {
+            "SystemVerilog": 37
+        }
+    },
+    {
+        "name": "combinator-uvm",
+        "description": "UVM Testbench For SystemVerilog Combinator Implementation",
+        "languages": {
+            "SystemVerilog": 4981723,
+            "Verilog": 4020460,
+            "C++": 3014618,
+            "C": 766536,
+            "Eiffel": 253545,
+            "JavaScript": 119174,
+            "Shell": 115709,
+            "CSS": 82889,
+            "Stata": 52280,
+            "Perl": 23784,
+            "Tcl": 21422,
+            "Fortran": 13129,
+            "Coq": 3161
+        }
+    },
+    {
+        "name": "fpga-hash-table",
+        "description": "Simple hash table on Verilog (SystemVerilog)",
+        "languages": {
+            "SystemVerilog": 110767,
+            "Verilog": 4579,
+            "Ruby": 1175,
+            "Tcl": 1091
+        }
+    },
+    {
+        "name": "vdf-fpga",
+        "description": "Implementation of an RSA VDF evaluator targeting FPGAs.",
+        "languages": {
+            "SystemVerilog": 153157,
+            "Tcl": 84064,
+            "Python": 59066,
+            "C++": 36908,
+            "Makefile": 17176,
+            "Verilog": 15293,
+            "Coq": 10981,
+            "Shell": 4030,
+            "C": 1339
+        }
+    },
+    {
+        "name": "cdc",
+        "description": "Repository gathering basic modules for CDC purpose",
+        "languages": {
+            "SystemVerilog": 12665,
+            "Verilog": 10752,
+            "Forth": 116
+        }
+    },
+    {
+        "name": "FM_Radio",
+        "description": "Simple mono FM Radio.",
+        "languages": {
+            "SystemVerilog": 48268,
+            "Verilog": 25320,
+            "Shell": 174
+        }
+    },
+    {
+        "name": "Saturn_MiSTer",
+        "description": "Sega Saturn for MiSTer",
+        "languages": {
+            "SystemVerilog": 1415179,
+            "Verilog": 332039,
+            "VHDL": 114059,
+            "Tcl": 23848,
+            "Batchfile": 672
+        }
+    },
+    {
+        "name": "gateware",
+        "description": "A collection of little open source FPGA hobby projects",
+        "languages": {
+            "SystemVerilog": 112918,
+            "C": 42427,
+            "C++": 14246,
+            "Verilog": 11183,
+            "Makefile": 10512,
+            "Coq": 4469,
+            "Assembly": 2777,
+            "Tcl": 992,
+            "Shell": 925
+        }
+    },
+    {
+        "name": "eth_vlg",
+        "description": null,
+        "languages": {
+            "SystemVerilog": 293862,
+            "C++": 91325,
+            "Verilog": 45014,
+            "Tcl": 6126,
+            "Makefile": 5086
+        }
+    },
+    {
+        "name": "virtio",
+        "description": "Virtio implementation in SystemVerilog",
+        "languages": {
+            "SystemVerilog": 23749,
+            "CMake": 7836,
+            "Python": 5401,
+            "Vim Script": 2227
+        }
+    },
+    {
+        "name": "ViT-FPGA-TPU",
+        "description": "FPGA based Vision Transformer accelerator (Harvard CS205)",
+        "languages": {
+            "SystemVerilog": 632131,
+            "Verilog": 372229,
+            "C++": 133193,
+            "Tcl": 103321,
+            "C": 41221,
+            "Makefile": 14712,
+            "Shell": 12895,
+            "VHDL": 10606,
+            "Python": 9313,
+            "CMake": 7322,
+            "Pascal": 619
+        }
+    },
+    {
+        "name": "openhmc",
+        "description": "openHMC - an open source Hybrid Memory Cube Controller",
+        "languages": {
+            "SystemVerilog": 632770,
+            "Verilog": 325586,
+            "Forth": 17416,
+            "Shell": 15181,
+            "C": 5152,
+            "Tcl": 1380
+        }
+    },
+    {
+        "name": "axi_riscv_atomics",
+        "description": "AXI Adapter(s) for RISC-V Atomic Operations",
+        "languages": {
+            "SystemVerilog": 234868,
+            "Stata": 98976,
+            "Verilog": 20274,
+            "Shell": 1039
+        }
+    },
+    {
+        "name": "Async_FIFO_Verification",
+        "description": "Presents a verification use case for a typical Asynchronous FIFO based on Systemverilog and UVM.",
+        "languages": {
+            "SystemVerilog": 45292,
+            "VHDL": 16001
+        }
+    },
+    {
+        "name": "ahb2apb-bridge",
+        "description": "An  uvm verification env for ahb2apb bridge",
+        "languages": {
+            "SystemVerilog": 57178,
+            "Verilog": 14476,
+            "Shell": 7924,
+            "Makefile": 1364,
+            "Fortran": 639
+        }
+    },
+    {
+        "name": "Superscalar-HIT-Core-NSCSCC2020",
+        "description": "a Quad-issue, Out-of-order Superscalar MIPS Processor Implemented in SystemVerilog",
+        "languages": {
+            "SystemVerilog": 405383,
+            "Verilog": 11963
+        }
+    },
+    {
+        "name": "amba3-vip",
+        "description": "amba3 apb/axi vip",
+        "languages": {
+            "SystemVerilog": 105763,
+            "Python": 4706,
+            "Makefile": 4527,
+            "C": 3537
+        }
+    },
+    {
+        "name": "svreal",
+        "description": "Synthesizable real number library in SystemVerilog, supporting both fixed- and floating-point formats",
+        "languages": {
+            "SystemVerilog": 57414,
+            "Python": 39620,
+            "Shell": 542
+        }
+    },
+    {
+        "name": "croyde-riscv",
+        "description": "A barebones 64-bit RISC-V micro-controller class CPU, implementing the I(nteger), M(ul/div), C(ompressed) and K(ryptography) extensions.",
+        "languages": {
+            "SystemVerilog": 331894,
+            "C": 99294,
+            "C++": 60017,
+            "Verilog": 43600,
+            "Assembly": 28560,
+            "Makefile": 26216,
+            "Shell": 6822,
+            "Python": 4315,
+            "Tcl": 2028
+        }
+    },
+    {
+        "name": "CHIPKIT",
+        "description": "CHIPKIT: An agile, reusable open-source framework for rapid test chip development",
+        "languages": {
+            "SystemVerilog": 120271,
+            "Python": 50129,
+            "Shell": 385
+        }
+    },
+    {
+        "name": "pulp_cluster",
+        "description": "The multi-core cluster of a PULP system.",
+        "languages": {
+            "SystemVerilog": 258255,
+            "C++": 9132,
+            "Makefile": 3557,
+            "Tcl": 1092,
+            "Shell": 91
+        }
+    },
+    {
+        "name": "altera-pcie",
+        "description": "Simple framework for building PCIe-based solutions for Altera FPGAs",
+        "languages": {
+            "SystemVerilog": 818963,
+            "Makefile": 15036,
+            "Stata": 9926,
+            "C++": 7917,
+            "Shell": 5894,
+            "Python": 4781,
+            "Mathematica": 1470,
+            "HTML": 547
+        }
+    },
+    {
+        "name": "JSONinSV",
+        "description": "JSON lib in Systemverilog",
+        "languages": {
+            "SystemVerilog": 52087
+        }
+    },
+    {
+        "name": "DDR4_controller",
+        "description": null,
+        "languages": {
+            "SystemVerilog": 555030,
+            "Stata": 81521,
+            "Tcl": 49841,
+            "Verilog": 6212,
+            "TeX": 5899
+        }
+    },
+    {
+        "name": "C128_MiSTer",
+        "description": null,
+        "languages": {
+            "SystemVerilog": 575560,
+            "VHDL": 571251,
+            "Verilog": 457409,
+            "C": 38392,
+            "Tcl": 22801,
+            "HTML": 12572,
+            "Batchfile": 777
+        }
+    },
+    {
+        "name": "common_verification",
+        "description": "SystemVerilog modules and classes commonly used for verification",
+        "languages": {
+            "SystemVerilog": 21526,
+            "Shell": 1826
+        }
+    },
+    {
+        "name": "DeepFreeze",
+        "description": null,
+        "languages": {
+            "SystemVerilog": 66842,
+            "Python": 63306,
+            "Shell": 2473,
+            "Makefile": 758,
+            "Forth": 738
+        }
+    },
+    {
+        "name": "FDU1.1-NSCSCC",
+        "description": "\u590d\u65e6\u5927\u5b66FDU1.1\u961f\u5728\u7b2c\u56db\u5c4a\u201c\u9f99\u82af\u676f\u201d\u7684\u53c2\u8d5b\u4f5c\u54c1",
+        "languages": {
+            "SystemVerilog": 521328,
+            "Verilog": 13221,
+            "Tcl": 2135,
+            "Shell": 2022,
+            "Makefile": 71
+        }
+    },
+    {
+        "name": "basics-graphics-music",
+        "description": "FPGA exercise for beginners",
+        "languages": {
+            "SystemVerilog": 1007039,
+            "Tcl": 209233,
+            "Shell": 206412,
+            "Makefile": 13177,
+            "Python": 3042,
+            "Perl": 1023,
+            "Batchfile": 856,
+            "Assembly": 593
+        }
+    },
+    {
+        "name": "uvm_gen",
+        "description": "UVM Generator",
+        "languages": {
+            "SystemVerilog": 34751,
+            "Vim Script": 12908
+        }
+    },
+    {
+        "name": "UART",
+        "description": "UART design in SV and verification using UVM and SV",
+        "languages": {
+            "SystemVerilog": 24248
+        }
+    },
+    {
+        "name": "ahb3lite_apb_bridge",
+        "description": "Parameterised Asynchronous AHB3-Lite to APB4 Bridge.",
+        "languages": {
+            "SystemVerilog": 17452,
+            "HTML": 2960,
+            "SCSS": 2137
+        }
+    },
+    {
+        "name": "DUA",
+        "description": "DUA, is a communication architecture that provides uniform access for FPGA to data center resources. Without being limited by machine boundaries, DUA provides global names and a common interface for communicating across various resources, the underlying network automatically routing traffic and managing resource multiplexing.",
+        "languages": {
+            "SystemVerilog": 269610,
+            "Stata": 19681,
+            "Verilog": 16577,
+            "Tcl": 3086
+        }
+    },
+    {
+        "name": "labs-with-cva6",
+        "description": "Advanced Architecture Labs with CVA6",
+        "languages": {
+            "SystemVerilog": 34844,
+            "Assembly": 11335,
+            "Makefile": 3943,
+            "Shell": 670,
+            "Tcl": 619
+        }
+    },
+    {
+        "name": "justctf-2019",
+        "description": "justCTF 2019 challenges sources",
+        "languages": {
+            "SystemVerilog": 1604828,
+            "CSS": 351542,
+            "Python": 155917,
+            "HTML": 104482,
+            "Go": 56021,
+            "C++": 49920,
+            "Shell": 35006,
+            "C": 31097,
+            "JavaScript": 17703,
+            "Dockerfile": 15172,
+            "Sage": 9188,
+            "PHP": 2417,
+            "EJS": 2284,
+            "Makefile": 1475,
+            "Assembly": 889
+        }
+    },
+    {
+        "name": "fpga-virtual-console",
+        "description": "VT220-compatible console on Cyclone IV EP4CE55F23I7",
+        "languages": {
+            "SystemVerilog": 129720,
+            "Verilog": 58544
+        }
+    },
+    {
+        "name": "sigma_delta_converters",
+        "description": "Implementation and test of reusable sigma-delta A/D converters written in SystemVerilog on a MAX10 FPGA with minimal external components",
+        "languages": {
+            "SystemVerilog": 36073,
+            "Verilog": 14605,
+            "Python": 13416,
+            "Makefile": 4748
+        }
+    },
+    {
+        "name": "aes128-hdl",
+        "description": "A high-throughput VHDL and SystemVerilog implementation of AES-128 including scripts for a full front-end design process.",
+        "languages": {
+            "SystemVerilog": 107264,
+            "VHDL": 59063,
+            "Shell": 3606,
+            "Tcl": 1945,
+            "Stata": 1286
+        }
+    },
+    {
+        "name": "UnarySim",
+        "description": "This is a general-purpose simulator for unary computing based on PyTorch, with the paper accepted to ISCA 2020 and awarded IEEE Micro Top Pick for 2020.",
+        "languages": {
+            "SystemVerilog": 344255,
+            "Python": 232958,
+            "Shell": 3218,
+            "Tcl": 3109
+        }
+    },
+    {
+        "name": "NAND-Flash-Memory-Controller-verification",
+        "description": null,
+        "languages": {
+            "SystemVerilog": 52584,
+            "Verilog": 45497,
+            "Makefile": 1438
+        }
+    },
+    {
+        "name": "uvm",
+        "description": null,
+        "languages": {
+            "SystemVerilog": 4692959,
+            "Perl": 1201893,
+            "Verilog": 385401,
+            "CSS": 66023,
+            "JavaScript": 24562,
+            "C++": 19300,
+            "C": 13020,
+            "Shell": 3896,
+            "Perl 6": 3111,
+            "HTML": 904,
+            "Batchfile": 322,
+            "Forth": 159,
+            "Stata": 128,
+            "Makefile": 30
+        }
+    },
+    {
+        "name": "nes_ecp5",
+        "description": "NES FPGA implementation synthesized for the ulx3s ecp5 based fpga board",
+        "languages": {
+            "SystemVerilog": 424567,
+            "Verilog": 187729,
+            "VHDL": 120230,
+            "Python": 15936,
+            "Makefile": 2991
+        }
+    },
+    {
+        "name": "Sampling-Model",
+        "description": "Hardware of sampling model",
+        "languages": {
+            "SystemVerilog": 89559,
+            "Verilog": 13722,
+            "Coq": 10993,
+            "VHDL": 8583
+        }
+    },
+    {
+        "name": "OpenC910_Modified",
+        "description": "commit rtl and build cosim env",
+        "languages": {
+            "SystemVerilog": 20909984,
+            "Assembly": 647420,
+            "C": 139516,
+            "Makefile": 23163,
+            "Tcl": 21701,
+            "C++": 4597,
+            "Raku": 3112,
+            "Perl": 1167,
+            "Shell": 918
+        }
+    },
+    {
+        "name": "ddr5_phy",
+        "description": "DDR5 PHY Graduation project (Verification Team) under supervision of Si-Vision",
+        "languages": {
+            "SystemVerilog": 319188,
+            "Shell": 16627,
+            "C": 2711,
+            "Forth": 212,
+            "Emacs Lisp": 96
+        }
+    },
+    {
+        "name": "Hands-on-FPGA-class",
+        "description": null,
+        "languages": {
+            "SystemVerilog": 1318,
+            "Makefile": 120
+        }
+    },
+    {
+        "name": "uvm_example",
+        "description": "This is a uvm example. The video is available at https://www.bilibili.com/video/BV1yq4y177f6/",
+        "languages": {
+            "SystemVerilog": 42773,
+            "Verilog": 2528,
+            "Makefile": 2327,
+            "Stata": 1874,
+            "C": 1008,
+            "C++": 603,
+            "Fortran": 178
+        }
+    },
+    {
+        "name": "cva6-softcore-contest",
+        "description": "National RISC-V student contest CV32A6",
+        "languages": {
+            "SystemVerilog": 2067696,
+            "C": 2006526,
+            "Assembly": 856404,
+            "Tcl": 347824,
+            "C++": 244456,
+            "Python": 164534,
+            "Makefile": 96237,
+            "Shell": 90206,
+            "Stata": 74040,
+            "Perl": 20165,
+            "M4": 4707,
+            "Scala": 3879,
+            "Dockerfile": 3189,
+            "Batchfile": 791,
+            "Csound": 140
+        }
+    },
+    {
+        "name": "esnet-smartnic-hw",
+        "description": "ESnet SmartNIC hardware design repository.",
+        "languages": {
+            "SystemVerilog": 373509,
+            "Makefile": 139685,
+            "Python": 31816,
+            "Tcl": 27420,
+            "Jinja": 12022,
+            "P4": 8748,
+            "C++": 1808,
+            "Shell": 668,
+            "Verilog": 400,
+            "RobotFramework": 179
+        }
+    },
+    {
+        "name": "pzbcm",
+        "description": "Basic Common Modules",
+        "languages": {
+            "SystemVerilog": 589324,
+            "Ruby": 21470
         }
     }
 ]

@@ -38,5 +38,1610 @@
         "languages": {
             "Thrift": 371823
         }
+    },
+    {
+        "name": "jaeger-idl",
+        "description": "A set of shared data model definitions used by Jaeger components.",
+        "languages": {
+            "Thrift": 29402,
+            "Makefile": 4781
+        }
+    },
+    {
+        "name": "hs2client",
+        "description": "C++ native client for Impala and Hive, with Python / pandas bindings",
+        "languages": {
+            "Thrift": 108002,
+            "C++": 99013,
+            "Python": 61512,
+            "CMake": 24249,
+            "Shell": 10338,
+            "Perl": 4006,
+            "C": 916
+        }
+    },
+    {
+        "name": "zipkin-api",
+        "description": "Zipkin's language independent model and HTTP Api Definitions",
+        "languages": {
+            "Thrift": 20810,
+            "Shell": 9199,
+            "JavaScript": 2340
+        }
+    },
+    {
+        "name": "gohive",
+        "description": "A Go driver for Hive",
+        "languages": {
+            "Thrift": 34687,
+            "Go": 22464,
+            "Shell": 9188,
+            "Dockerfile": 7726,
+            "HTML": 1108
+        }
+    },
+    {
+        "name": "go-impala",
+        "description": "Golang Driver for Apache Impala ",
+        "languages": {
+            "Thrift": 64553,
+            "Go": 37885,
+            "Makefile": 152
+        }
+    },
+    {
+        "name": "LINE-Source",
+        "description": "Line Application Source",
+        "languages": {
+            "Thrift": 220506,
+            "Java": 1241
+        }
+    },
+    {
+        "name": "hive-metastore-client",
+        "description": "A client for connecting and running DDLs on hive metastore.",
+        "languages": {
+            "Thrift": 84024,
+            "Python": 66018,
+            "Makefile": 6706
+        }
+    },
+    {
+        "name": "line-protocol",
+        "description": "LINE Messaging's private protocol",
+        "languages": {
+            "Thrift": 143450
+        }
+    },
+    {
+        "name": "impala-java-client",
+        "description": "Java client to connect directly to Impala using thrift",
+        "languages": {
+            "Thrift": 67480,
+            "Java": 7446,
+            "Shell": 1765
+        }
+    },
+    {
+        "name": "impala-ruby",
+        "description": "an impala client for ruby",
+        "languages": {
+            "Thrift": 67480,
+            "Ruby": 24397
+        }
+    },
+    {
+        "name": "node-impala",
+        "description": "Node Client for Impala using Apache Thrift",
+        "languages": {
+            "Thrift": 76382,
+            "JavaScript": 19583
+        }
+    },
+    {
+        "name": "impalathing",
+        "description": "A golang driver for impala via thrift",
+        "languages": {
+            "Thrift": 60006,
+            "Go": 18092,
+            "Makefile": 154
+        }
+    },
+    {
+        "name": "node-thrift-hive",
+        "description": "Hive client using the Apache Thrift RPC system",
+        "languages": {
+            "Thrift": 85944,
+            "CoffeeScript": 13346,
+            "Shell": 2219,
+            "Makefile": 389,
+            "JavaScript": 41
+        }
+    },
+    {
+        "name": "cppcon2017",
+        "description": "Optimizing compilation times of Generated Code with Templates",
+        "languages": {
+            "Thrift": 57249,
+            "Python": 4321
+        }
+    },
+    {
+        "name": "fortytwodotparquet",
+        "description": null,
+        "languages": {
+            "Thrift": 39188,
+            "Python": 3137
+        }
+    },
+    {
+        "name": "My-Learning",
+        "description": "Here is what I learn and think it's good to share with others.",
+        "languages": {
+            "Thrift": 1537,
+            "Go": 1440,
+            "Python": 1092,
+            "Java": 1038
+        }
+    },
+    {
+        "name": "impala-client-example",
+        "description": "impala client example",
+        "languages": {
+            "Thrift": 127153,
+            "Java": 8787
+        }
+    },
+    {
+        "name": "hive",
+        "description": "Go Thrift-Hive client",
+        "languages": {
+            "Thrift": 28648,
+            "Go": 3215,
+            "Makefile": 320
+        }
+    },
+    {
+        "name": "concrete",
+        "description": "Thrift definitions, making HLT data specifications concrete",
+        "languages": {
+            "Thrift": 114897,
+            "Dockerfile": 2565,
+            "Python": 1052
+        }
+    },
+    {
+        "name": "LINE-SERVICES",
+        "description": "LINE's services",
+        "languages": {
+            "Thrift": 88470,
+            "Python": 3030
+        }
+    },
+    {
+        "name": "griddle",
+        "description": "A gradle plugin that enables it to handle .thrift idl files and generate them with Thrift or Scrooge",
+        "languages": {
+            "Thrift": 26046,
+            "Groovy": 21611,
+            "Java": 4157,
+            "Scala": 437,
+            "Shell": 338
+        }
+    },
+    {
+        "name": "galaxy-thrift-api",
+        "description": "Thrift API for Xiaomi Structured Datastore Service",
+        "languages": {
+            "Thrift": 42340
+        }
+    },
+    {
+        "name": "scribe-go",
+        "description": "facebook\u65e5\u5fd7\u6536\u96c6 Scribe\u7684Go\u8bed\u8a00\u5ba2\u6237\u7aef",
+        "languages": {
+            "Thrift": 2730,
+            "Go": 1724
+        }
+    },
+    {
+        "name": "damsel",
+        "description": "Internal protocol definitions",
+        "languages": {
+            "Thrift": 319602,
+            "Makefile": 2887,
+            "Erlang": 2663
+        }
+    },
+    {
+        "name": "dosa-idl",
+        "description": null,
+        "languages": {
+            "Thrift": 11337,
+            "Makefile": 832
+        }
+    },
+    {
+        "name": "thrift-ls",
+        "description": "Thrift Language Server",
+        "languages": {
+            "Thrift": 558017,
+            "Go": 419621,
+            "Shell": 2374,
+            "Makefile": 675
+        }
+    },
+    {
+        "name": "line-selfbot",
+        "description": null,
+        "languages": {
+            "Thrift": 58021,
+            "Go": 24433,
+            "Makefile": 353
+        }
+    },
+    {
+        "name": "cadence-idl",
+        "description": "Cadence IDL repo, shared by server / clients",
+        "languages": {
+            "Thrift": 199288,
+            "Makefile": 4673,
+            "Shell": 295
+        }
+    },
+    {
+        "name": "ThriftMDE",
+        "description": "An implementation of Apache Thrift's compiler on EMF using Xtext and Epsilon.",
+        "languages": {
+            "Thrift": 45789,
+            "Java": 7870
+        }
+    },
+    {
+        "name": "thrifty",
+        "description": "[wip] Reimplementation of thrift in OCaml",
+        "languages": {
+            "Thrift": 433663,
+            "OCaml": 217328,
+            "Makefile": 222
+        }
+    },
+    {
+        "name": "CHRLINE-Thrift",
+        "description": "CHRLINE Thrift",
+        "languages": {
+            "Thrift": 100967,
+            "Python": 1483
+        }
+    },
+    {
+        "name": "line2slack-multiuser",
+        "description": "line2slack Next Generation",
+        "languages": {
+            "Thrift": 117520,
+            "TypeScript": 50233,
+            "JavaScript": 43743,
+            "Dockerfile": 352
+        }
+    },
+    {
+        "name": "node-thrift-parser",
+        "description": "Parse thrift IDL to an AST",
+        "languages": {
+            "Thrift": 12701,
+            "JavaScript": 436
+        }
+    },
+    {
+        "name": "brks_thrift",
+        "description": null,
+        "languages": {
+            "Thrift": 2264
+        }
+    },
+    {
+        "name": "whip",
+        "description": "Higher-order contract monitoring for modern services",
+        "languages": {
+            "Thrift": 270718,
+            "Python": 182430,
+            "CSS": 31637,
+            "HTML": 13712,
+            "C++": 11612,
+            "JavaScript": 8443,
+            "Ruby": 6172,
+            "Gnuplot": 3574,
+            "Shell": 3344,
+            "Dockerfile": 1891,
+            "Makefile": 1331,
+            "C": 605,
+            "CoffeeScript": 195
+        }
+    },
+    {
+        "name": "php-hbase",
+        "description": "PHP HBase Thrift Driver",
+        "languages": {
+            "Thrift": 14140,
+            "PHP": 5300
+        }
+    },
+    {
+        "name": "doris-sdk",
+        "description": "SDK for Apache Doris",
+        "languages": {
+            "Thrift": 13523,
+            "Shell": 7240,
+            "Smarty": 842
+        }
+    },
+    {
+        "name": "gohive",
+        "description": "implements hiveserver2(thrift rpc) client in golang",
+        "languages": {
+            "Thrift": 34000,
+            "Go": 16200
+        }
+    },
+    {
+        "name": "bridget",
+        "description": "The bridge between webviews and iOS/Android native code",
+        "languages": {
+            "Thrift": 3817,
+            "Shell": 1221
+        }
+    },
+    {
+        "name": "snowplow-kafka",
+        "description": "Example showing Snowplow Tracker and Collector writing to Kafka and being consumed from there.",
+        "languages": {
+            "Thrift": 2482,
+            "Python": 2412
+        }
+    },
+    {
+        "name": "LINE-Protocol",
+        "description": null,
+        "languages": {
+            "Thrift": 82564
+        }
+    },
+    {
+        "name": "auto_app_test",
+        "description": "app\u81ea\u52a8\u5316\u6d4b\u8bd5 python appium selenium",
+        "languages": {
+            "Thrift": 42560,
+            "Python": 21029,
+            "HTML": 9166,
+            "Shell": 2055
+        }
+    },
+    {
+        "name": "hive-metastore-http-client",
+        "description": null,
+        "languages": {
+            "Thrift": 61239,
+            "JavaScript": 3199,
+            "Makefile": 268
+        }
+    },
+    {
+        "name": "line2slack-next",
+        "description": null,
+        "languages": {
+            "Thrift": 122791,
+            "JavaScript": 9450
+        }
+    },
+    {
+        "name": "LineThriftParsed",
+        "description": "For Educational Purposes Only",
+        "languages": {
+            "Thrift": 74823
+        }
+    },
+    {
+        "name": "other",
+        "description": "reptile\u3001demo\u3001line\u3001thrift......",
+        "languages": {
+            "Thrift": 373774,
+            "Go": 14230
+        }
+    },
+    {
+        "name": "line",
+        "description": "This is the repository for collection LINE api information and publishing thrift files.",
+        "languages": {
+            "Thrift": 57718,
+            "Python": 7496
+        }
+    },
+    {
+        "name": "invattack",
+        "description": null,
+        "languages": {
+            "Thrift": 95564,
+            "Python": 82985
+        }
+    },
+    {
+        "name": "go-parquet-tools",
+        "description": "Faster parquet-tools",
+        "languages": {
+            "Thrift": 34010,
+            "Go": 22504
+        }
+    },
+    {
+        "name": "line_thrift_java",
+        "description": "LINE Java library generated from thrift file",
+        "languages": {
+            "Thrift": 72297
+        }
+    },
+    {
+        "name": "darn",
+        "description": "Distributed Resource Management Application API (DRMAA) implementation for YARN ",
+        "languages": {
+            "Thrift": 14910
+        }
+    },
+    {
+        "name": "thrift-extender",
+        "description": null,
+        "languages": {
+            "Thrift": 250536,
+            "Go": 9674
+        }
+    },
+    {
+        "name": "cache-service-demo",
+        "description": "\u7528dubbox\u5c01\u88c5\u7684\u5bf9rest-cluster\u8bbf\u95ee\u7684\u670d\u52a1\u793a\u4f8b\uff0c\u65b9\u4fbfphp\u8fd9\u7c7b\u4e0d\u65b9\u4fbf\u4ee5\u957f\u8fde\u63a5\u64cd\u4f5credis-cluster\u7684\u8bed\u8a00\u8c03\u7528",
+        "languages": {
+            "Thrift": 488
+        }
+    },
+    {
+        "name": "line-protocol",
+        "description": null,
+        "languages": {
+            "Thrift": 94419
+        }
+    },
+    {
+        "name": "cancelbot",
+        "description": null,
+        "languages": {
+            "Thrift": 95564,
+            "Python": 80577
+        }
+    },
+    {
+        "name": "thrift-interface-definitions",
+        "description": null,
+        "languages": {
+            "Thrift": 34476
+        }
+    },
+    {
+        "name": "content-api-models",
+        "description": "Content-api thrift models",
+        "languages": {
+            "Thrift": 47275,
+            "Scala": 37636
+        }
+    },
+    {
+        "name": "hive-client",
+        "description": "A Pure Scala/Thrift Hive Client",
+        "languages": {
+            "Thrift": 31386,
+            "Scala": 27754
+        }
+    },
+    {
+        "name": "nopala",
+        "description": "Impala and Hive client for Nodejs",
+        "languages": {
+            "Thrift": 158217,
+            "JavaScript": 46556,
+            "Python": 18750
+        }
+    },
+    {
+        "name": "hs2-thrift",
+        "description": "Hive Server 2 client using Apache Thrift RPC able to query Impala for Javascript.",
+        "languages": {
+            "Thrift": 34722,
+            "JavaScript": 11948
+        }
+    },
+    {
+        "name": "parquet-benchmarking",
+        "description": "Code for generating tables of data and tabular files (CSV, JSON, Parquet etc) for testing",
+        "languages": {
+            "Thrift": 34987,
+            "Python": 27533
+        }
+    },
+    {
+        "name": "angaralicancel",
+        "description": "angaral\u0131 mehmet taraf\u0131ndan yap\u0131ld\u0131",
+        "languages": {
+            "Thrift": 95564,
+            "Python": 83893
+        }
+    },
+    {
+        "name": "haskell-thrift-demo",
+        "description": null,
+        "languages": {
+            "Thrift": 4079,
+            "Haskell": 1307,
+            "Shell": 228
+        }
+    },
+    {
+        "name": "Bliss_Browser_Thrift",
+        "description": "\ud83c\udf33\ufe0f\ud83c\udf10\ufe0f#\ufe0f\u20e3\ufe0f The Bliss Browser Thrift language support module, allowing Thrift programs to be written in and ran within the browser.",
+        "languages": {
+            "Thrift": 210894,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "Thrift",
+        "description": "Thrift",
+        "languages": {
+            "Thrift": 48
+        }
+    },
+    {
+        "name": "classdesignbackend",
+        "description": "\u8f6f\u4ef6\u5de5\u7a0b\u5b9e\u9a8c\uff0c\u5b66\u751f\u6210\u7ee9\u7ba1\u7406\u7cfb\u7edf\u540e\u7aef",
+        "languages": {
+            "Thrift": 8356,
+            "Go": 6696
+        }
+    },
+    {
+        "name": "Line-Thrift",
+        "description": null,
+        "languages": {
+            "Thrift": 73367
+        }
+    },
+    {
+        "name": "fraudbusters-proto",
+        "description": null,
+        "languages": {
+            "Thrift": 13585,
+            "Makefile": 853
+        }
+    },
+    {
+        "name": "practice",
+        "description": null,
+        "languages": {
+            "Thrift": 96794,
+            "Python": 25071
+        }
+    },
+    {
+        "name": "autojoin",
+        "description": null,
+        "languages": {
+            "Thrift": 95564,
+            "Python": 79505
+        }
+    },
+    {
+        "name": "Learn-Thrift",
+        "description": "A repository for showcasing my knowledge of the Thrift programming language, and continuing to learn the language",
+        "languages": {
+            "Thrift": 212472,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "ads-ruby",
+        "description": "Ruby driver for the GoodData datawarehouse created on a hackathon",
+        "languages": {
+            "Thrift": 15546,
+            "Ruby": 9995,
+            "Shell": 131
+        }
+    },
+    {
+        "name": "hs2client-mirror",
+        "description": null,
+        "languages": {
+            "Thrift": 108002,
+            "C++": 99013,
+            "Python": 61512,
+            "CMake": 24249,
+            "Shell": 10338,
+            "Perl": 4006,
+            "C": 916
+        }
+    },
+    {
+        "name": "gidl",
+        "description": "Generalized Interface Definition Language (GIDL)",
+        "languages": {
+            "Thrift": 17193,
+            "Protocol Buffer": 761
+        }
+    },
+    {
+        "name": "bee",
+        "description": "R Client for HiveServer 2 / Spark ThriftServer",
+        "languages": {
+            "Thrift": 31589,
+            "C++": 14948,
+            "Shell": 1685,
+            "R": 305,
+            "Makefile": 193,
+            "C": 111
+        }
+    },
+    {
+        "name": "LineProtocol",
+        "description": null,
+        "languages": {
+            "Thrift": 124111
+        }
+    },
+    {
+        "name": "share-generate-sources",
+        "description": "Java\u6e90\u7801\u751f\u6210\u4ee5\u53ca\u5e8f\u5217\u5316\u548c\u53cd\u5e8f\u5217\u5316\u6280\u672f\uff1aavro|thrift|protobuf",
+        "languages": {
+            "Thrift": 781
+        }
+    },
+    {
+        "name": "cancelbot",
+        "description": "LINE group cancel invite bot",
+        "languages": {
+            "Thrift": 95564,
+            "Python": 80035
+        }
+    },
+    {
+        "name": "SNU_2D_ProgrammingTools_IDE_Thrift",
+        "description": "The Thrift Programming language IDE submodule for SNU Programming Tools (2D Mode)",
+        "languages": {
+            "Thrift": 212156,
+            "Roff": 3456,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "study_big-data",
+        "description": null,
+        "languages": {
+            "Thrift": 1294
+        }
+    },
+    {
+        "name": "blockchain-rpc",
+        "description": "Common Thrift RPC interface for all blockchains",
+        "languages": {
+            "Thrift": 3887
+        }
+    },
+    {
+        "name": "openmi-idl",
+        "description": "OpenMI interface description language",
+        "languages": {
+            "Thrift": 3238,
+            "Shell": 3203,
+            "CMake": 1435,
+            "C++": 362
+        }
+    },
+    {
+        "name": "chatbook",
+        "description": "Creates a XeLaTeX pdf book of all your chat logs from Facebook Messenger, Whatsapp and LINE chat.",
+        "languages": {
+            "Thrift": 70633,
+            "Python": 37571,
+            "TeX": 8134,
+            "JavaScript": 4777
+        }
+    },
+    {
+        "name": "thriftTest",
+        "description": null,
+        "languages": {
+            "Thrift": 191
+        }
+    },
+    {
+        "name": "tao3",
+        "description": null,
+        "languages": {
+            "Thrift": 122391,
+            "Python": 2586
+        }
+    },
+    {
+        "name": "YAStorm",
+        "description": "A lightweight version of Apache Storm, written in Python; Just for fun!",
+        "languages": {
+            "Thrift": 22415,
+            "Python": 13549
+        }
+    },
+    {
+        "name": "boost.app.cmake",
+        "description": "boost::application playground",
+        "languages": {
+            "Thrift": 11446,
+            "CMake": 11121,
+            "C++": 7825
+        }
+    },
+    {
+        "name": "aurora_thrift_api",
+        "description": "aurora-thrift API playground",
+        "languages": {
+            "Thrift": 36116,
+            "Go": 4619
+        }
+    },
+    {
+        "name": "ezbake-thrift",
+        "description": "Contains all the thrift definitions for ezbake structures and services",
+        "languages": {
+            "Thrift": 319501,
+            "Java": 8446
+        }
+    },
+    {
+        "name": "userdemo",
+        "description": "A simple demo using Hertz.",
+        "languages": {
+            "Thrift": 711,
+            "Go": 562
+        }
+    },
+    {
+        "name": "Life-Copilot-Server",
+        "description": null,
+        "languages": {
+            "Thrift": 5598
+        }
+    },
+    {
+        "name": "content-atom",
+        "description": "Schema for a content atom",
+        "languages": {
+            "Thrift": 22229,
+            "Scala": 4279,
+            "JavaScript": 655
+        }
+    },
+    {
+        "name": "go-thrift",
+        "description": "thrift golang tutorial",
+        "languages": {
+            "Thrift": 6142,
+            "Go": 5975
+        }
+    },
+    {
+        "name": "evernote-sdk-golang",
+        "description": "Based on Everynote SDK Thrift and golang 1.10",
+        "languages": {
+            "Thrift": 359986,
+            "Makefile": 379
+        }
+    },
+    {
+        "name": "hive-metastore",
+        "description": "For files generated with https://github.com/apache/thrift",
+        "languages": {
+            "Thrift": 66944
+        }
+    },
+    {
+        "name": "HiveThrift",
+        "description": "Node API for fast querying of Hive using Thrift middleware",
+        "languages": {
+            "Thrift": 31589,
+            "JavaScript": 21371
+        }
+    },
+    {
+        "name": "common-finagle-thrift",
+        "description": "common-finagle-thrift",
+        "languages": {
+            "Thrift": 7438,
+            "Scala": 1562
+        }
+    },
+    {
+        "name": "go-dbsql",
+        "description": "Golang Database Driver for Databricks SQL",
+        "languages": {
+            "Thrift": 31564,
+            "Go": 27990,
+            "JavaScript": 1174
+        }
+    },
+    {
+        "name": "hive-metastore-clients",
+        "description": null,
+        "languages": {
+            "Thrift": 84315,
+            "Python": 29773,
+            "Shell": 1114
+        }
+    },
+    {
+        "name": "codabot",
+        "description": null,
+        "languages": {
+            "Thrift": 95564,
+            "Python": 79802
+        }
+    },
+    {
+        "name": "thriftFile",
+        "description": null,
+        "languages": {
+            "Thrift": 5461
+        }
+    },
+    {
+        "name": "tds-proto",
+        "description": null,
+        "languages": {
+            "Thrift": 780,
+            "Erlang": 180
+        }
+    },
+    {
+        "name": "HbaseHelper",
+        "description": "a simple hbase client with python",
+        "languages": {
+            "Thrift": 39010,
+            "Python": 24835
+        }
+    },
+    {
+        "name": "three-ds-server-storage-proto",
+        "description": null,
+        "languages": {
+            "Thrift": 4104
+        }
+    },
+    {
+        "name": "thrift-script",
+        "description": "Thrift \u751f\u6210\u4ee3\u7801\u811a\u672c",
+        "languages": {
+            "Thrift": 1590,
+            "Shell": 3
+        }
+    },
+    {
+        "name": "scribe-client",
+        "description": "PHP client for facebook scribe",
+        "languages": {
+            "Thrift": 3713,
+            "PHP": 2219,
+            "Shell": 137
+        }
+    },
+    {
+        "name": "HatRPC-Artifact",
+        "description": null,
+        "languages": {
+            "Thrift": 1288,
+            "Ruby": 1208
+        }
+    },
+    {
+        "name": "thrift-practice",
+        "description": "just do some practice",
+        "languages": {
+            "Thrift": 229
+        }
+    },
+    {
+        "name": "ThriftDemo",
+        "description": "Golang thrift demo",
+        "languages": {
+            "Thrift": 6192,
+            "Go": 5237
+        }
+    },
+    {
+        "name": "thrift-protocol-demo",
+        "description": null,
+        "languages": {
+            "Thrift": 627,
+            "Shell": 181
+        }
+    },
+    {
+        "name": "cassandrathrift",
+        "description": "Cassandra Thrift Service",
+        "languages": {
+            "Thrift": 40290,
+            "PHP": 539,
+            "Shell": 356
+        }
+    },
+    {
+        "name": "user-api",
+        "description": null,
+        "languages": {
+            "Thrift": 9202
+        }
+    },
+    {
+        "name": "tags-thrift-schema",
+        "description": "Definition of the tag data model",
+        "languages": {
+            "Thrift": 13414,
+            "Scala": 1194
+        }
+    },
+    {
+        "name": "QRate-Client-API",
+        "description": "API \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430 \u043a\u0432\u0430\u043d\u0442\u043e\u0432\u043e\u0433\u043e \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u043a\u043b\u044e\u0447\u0430 | Quantum key distribution device API",
+        "languages": {
+            "Thrift": 10292,
+            "Python": 9622
+        }
+    },
+    {
+        "name": "go-hive",
+        "description": "hive driver with pure go implementation",
+        "languages": {
+            "Thrift": 97720,
+            "Go": 36851,
+            "Shell": 210
+        }
+    },
+    {
+        "name": "dubbo-thrift-go-sample",
+        "description": "Dubbo thrift protocol go client",
+        "languages": {
+            "Thrift": 503
+        }
+    },
+    {
+        "name": "cashreg-proto",
+        "description": null,
+        "languages": {
+            "Thrift": 17850,
+            "Makefile": 848
+        }
+    },
+    {
+        "name": "nodehs",
+        "description": "Node Client for Hive (HiveServer2) using Apache Thrift.",
+        "languages": {
+            "Thrift": 124165,
+            "JavaScript": 2138
+        }
+    },
+    {
+        "name": "nerf-multiservice",
+        "description": "Nerf service for the multiservice framework",
+        "languages": {
+            "Thrift": 5518,
+            "Haskell": 78
+        }
+    },
+    {
+        "name": "slowparquet",
+        "description": "A simple, mostly python fork of fastparquet.",
+        "languages": {
+            "Thrift": 17350,
+            "Python": 9904
+        }
+    },
+    {
+        "name": "keeper-protocol",
+        "description": null,
+        "languages": {
+            "Thrift": 4073
+        }
+    },
+    {
+        "name": "flexible-octopus-model",
+        "description": "Thrift definition for data sent by Octopus print integration.",
+        "languages": {
+            "Thrift": 2160,
+            "Scala": 1137
+        }
+    },
+    {
+        "name": "pythrifthiveapi",
+        "description": "Thrift hive api and generated python client",
+        "languages": {
+            "Thrift": 31730,
+            "Python": 7121
+        }
+    },
+    {
+        "name": "go-hive-driver",
+        "description": "Hive thrift client which implement database/sql",
+        "languages": {
+            "Thrift": 34026,
+            "Go": 14521
+        }
+    },
+    {
+        "name": "phbase",
+        "description": "php extension for hbase thrift2 client",
+        "languages": {
+            "Thrift": 16914,
+            "C++": 10903,
+            "PHP": 2417,
+            "C": 1842,
+            "M4": 782,
+            "JavaScript": 317
+        }
+    },
+    {
+        "name": "Saican",
+        "description": null,
+        "languages": {
+            "Thrift": 95564,
+            "Python": 80354
+        }
+    },
+    {
+        "name": "hive-thrift",
+        "description": "Compiled Hive Thrift API",
+        "languages": {
+            "Thrift": 83361,
+            "Shell": 532
+        }
+    },
+    {
+        "name": "caster",
+        "description": "RPC for zeus",
+        "languages": {
+            "Thrift": 321966,
+            "Python": 5112
+        }
+    },
+    {
+        "name": "p13n-client-java",
+        "description": "boxalino Personalization client for Java",
+        "languages": {
+            "Thrift": 18825
+        }
+    },
+    {
+        "name": "thrift-demo",
+        "description": "Apache thrift nodejs demo. Thrift version is 1.0.0-dev",
+        "languages": {
+            "Thrift": 6085,
+            "JavaScript": 2953
+        }
+    },
+    {
+        "name": "thrift-learning",
+        "description": "thrift learning",
+        "languages": {
+            "Thrift": 193
+        }
+    },
+    {
+        "name": "ThriftDemo",
+        "description": null,
+        "languages": {
+            "Thrift": 6415,
+            "Java": 5404
+        }
+    },
+    {
+        "name": "getdown",
+        "description": "A tool to transform the field names in your parquet files.",
+        "languages": {
+            "Thrift": 19537,
+            "Python": 2909
+        }
+    },
+    {
+        "name": "enrollment-api",
+        "description": "Thrift API to Pangramia Enrollment service",
+        "languages": {
+            "Thrift": 28511
+        }
+    },
+    {
+        "name": "hmsv2api",
+        "description": "HMS API v2",
+        "languages": {
+            "Thrift": 72804,
+            "Java": 38326,
+            "Go": 35936,
+            "Python": 9001,
+            "API Blueprint": 1863,
+            "Makefile": 1356,
+            "Shell": 1122
+        }
+    },
+    {
+        "name": "docs",
+        "description": "docs",
+        "languages": {
+            "Thrift": 15019,
+            "Protocol Buffer": 9027,
+            "Shell": 1364
+        }
+    },
+    {
+        "name": "koa-vue-project",
+        "description": null,
+        "languages": {
+            "Thrift": 24489,
+            "JavaScript": 8854,
+            "Vue": 2238,
+            "HTML": 271
+        }
+    },
+    {
+        "name": "thrift-simplified",
+        "description": "This repo explains what is thrift, how to make a simple thift project using docker thrift service",
+        "languages": {
+            "Thrift": 254
+        }
+    },
+    {
+        "name": "invattacker-low-speed-protect",
+        "description": null,
+        "languages": {
+            "Thrift": 95564,
+            "Python": 79809
+        }
+    },
+    {
+        "name": "identdocstore-proto",
+        "description": "Identification documents storage service thrift protocol",
+        "languages": {
+            "Thrift": 2307,
+            "Erlang": 1638,
+            "Makefile": 926
+        }
+    },
+    {
+        "name": "fault-detector-proto",
+        "description": null,
+        "languages": {
+            "Thrift": 3457,
+            "Makefile": 1871,
+            "Erlang": 1422
+        }
+    },
+    {
+        "name": "bouncer-proto",
+        "description": null,
+        "languages": {
+            "Thrift": 18389,
+            "Erlang": 1491,
+            "Makefile": 859
+        }
+    },
+    {
+        "name": "config-center",
+        "description": null,
+        "languages": {
+            "Thrift": 28
+        }
+    },
+    {
+        "name": "magista-proto",
+        "description": "magista-proto",
+        "languages": {
+            "Thrift": 14089,
+            "Erlang": 2035,
+            "Makefile": 945
+        }
+    },
+    {
+        "name": "trusted-tokens-proto",
+        "description": null,
+        "languages": {
+            "Thrift": 1776,
+            "Makefile": 874
+        }
+    },
+    {
+        "name": "go-camp",
+        "description": "GO",
+        "languages": {
+            "Thrift": 17422,
+            "Go": 10756
+        }
+    },
+    {
+        "name": "wheretogo",
+        "description": "go practice",
+        "languages": {
+            "Thrift": 647
+        }
+    },
+    {
+        "name": "hertz_client_demo",
+        "description": null,
+        "languages": {
+            "Thrift": 383
+        }
+    },
+    {
+        "name": "gocapimodels",
+        "description": "Generated code for Content API models for Go.",
+        "languages": {
+            "Thrift": 43558
+        }
+    },
+    {
+        "name": "parquet-inspector",
+        "description": "Inspecting internals of parquet files",
+        "languages": {
+            "Thrift": 17524,
+            "Python": 7258,
+            "Shell": 123
+        }
+    },
+    {
+        "name": "magista-proto",
+        "description": null,
+        "languages": {
+            "Thrift": 11852,
+            "Erlang": 1643
+        }
+    },
+    {
+        "name": "ThriftAnkama",
+        "description": "Mock server implementation to avoid use of Ankama Launcher",
+        "languages": {
+            "Thrift": 2091,
+            "JavaScript": 994
+        }
+    },
+    {
+        "name": "scrooge-proto",
+        "description": null,
+        "languages": {
+            "Thrift": 2941
+        }
+    },
+    {
+        "name": "beerpub",
+        "description": "Thrift IDL schemas for beer pub implementation",
+        "languages": {
+            "Thrift": 353
+        }
+    },
+    {
+        "name": "thrift-demo",
+        "description": null,
+        "languages": {
+            "Thrift": 6085,
+            "JavaScript": 3022
+        }
+    },
+    {
+        "name": "thrift-learn",
+        "description": "learn thrift php client and server ",
+        "languages": {
+            "Thrift": 6039,
+            "PHP": 3819,
+            "Makefile": 115
+        }
+    },
+    {
+        "name": "thrift-examples",
+        "description": "Thrift Examples",
+        "languages": {
+            "Thrift": 6618,
+            "Python": 5790,
+            "Makefile": 436
+        }
+    },
+    {
+        "name": "jfshare_doc",
+        "description": "\u6587\u6863",
+        "languages": {
+            "Thrift": 136580
+        }
+    },
+    {
+        "name": "thrift-presentation",
+        "description": "An example usage of building Node.js microservices with Thrift and TypeScript",
+        "languages": {
+            "Thrift": 1076
+        }
+    },
+    {
+        "name": "thrift_files",
+        "description": "thrift_files",
+        "languages": {
+            "Thrift": 465
+        }
+    },
+    {
+        "name": "thrift-test",
+        "description": "A simple test of running Apache Thrift (with Python) in Docker Compose",
+        "languages": {
+            "Thrift": 6281,
+            "Python": 3323
+        }
+    },
+    {
+        "name": "futures_trade",
+        "description": "futures trade appliacation",
+        "languages": {
+            "Thrift": 75388,
+            "Python": 542,
+            "Shell": 93
+        }
+    },
+    {
+        "name": "schedulator-proto",
+        "description": null,
+        "languages": {
+            "Thrift": 3348,
+            "Makefile": 1834
+        }
+    },
+    {
+        "name": "fistful-proto",
+        "description": "Thrift protocol for fistful service",
+        "languages": {
+            "Thrift": 130724,
+            "Erlang": 1487,
+            "Makefile": 848
+        }
+    },
+    {
+        "name": "restaurants_thrift_script",
+        "description": null,
+        "languages": {
+            "Thrift": 5701
+        }
+    },
+    {
+        "name": "ThriftTutorial",
+        "description": null,
+        "languages": {
+            "Thrift": 13941,
+            "C++": 9438,
+            "Java": 5630,
+            "CMake": 3800
+        }
+    },
+    {
+        "name": "workforcemanagementclient",
+        "description": null,
+        "languages": {
+            "Thrift": 14224,
+            "Java": 8029
+        }
+    },
+    {
+        "name": "test",
+        "description": "interface",
+        "languages": {
+            "Thrift": 2016
+        }
+    },
+    {
+        "name": "thrift_demo",
+        "description": null,
+        "languages": {
+            "Thrift": 441
+        }
+    },
+    {
+        "name": "midgard-proto",
+        "description": null,
+        "languages": {
+            "Thrift": 13042
+        }
+    },
+    {
+        "name": "msgpack-proto",
+        "description": null,
+        "languages": {
+            "Thrift": 455,
+            "Erlang": 165
+        }
+    },
+    {
+        "name": "thrift_project",
+        "description": null,
+        "languages": {
+            "Thrift": 538
+        }
+    },
+    {
+        "name": "CardWizard-Testing",
+        "description": null,
+        "languages": {
+            "Thrift": 10418,
+            "HTML": 644
+        }
+    },
+    {
+        "name": "hertz_demo",
+        "description": "Hertz \u6846\u67b6 demo \uff08Hertz \u662f\u5b57\u8282\u5f00\u6e90\u7684 HTTP \u6846\u67b6\uff09",
+        "languages": {
+            "Thrift": 377
+        }
+    },
+    {
+        "name": "machinegun-proto",
+        "description": null,
+        "languages": {
+            "Thrift": 27027,
+            "Erlang": 1403
+        }
+    },
+    {
+        "name": "LineProtocol",
+        "description": "LINE instant messenger protocol documentation. A fork of http://altrepo.eu/git/line-protocol.git/ .",
+        "languages": {
+            "Thrift": 116411
+        }
+    },
+    {
+        "name": "modeldb-thrift",
+        "description": "Thrift file for ModelDB",
+        "languages": {
+            "Thrift": 5676
+        }
+    },
+    {
+        "name": "org.yetanotherwebstack.model.thrift",
+        "description": "Thrift generated models",
+        "languages": {
+            "Thrift": 4655
+        }
+    },
+    {
+        "name": "test_thrift",
+        "description": "learn thrift",
+        "languages": {
+            "Thrift": 1509,
+            "C++": 1401
+        }
+    },
+    {
+        "name": "gorealis",
+        "description": "Go library for communicating with Apache Aurora",
+        "languages": {
+            "Thrift": 36670,
+            "Go": 13827,
+            "Shell": 332
+        }
+    },
+    {
+        "name": "schemas",
+        "description": null,
+        "languages": {
+            "Thrift": 4644
+        }
+    },
+    {
+        "name": "midgard-proto",
+        "description": "Protocols for clearing service",
+        "languages": {
+            "Thrift": 13050,
+            "Makefile": 1904
+        }
+    },
+    {
+        "name": "php-thrift",
+        "description": null,
+        "languages": {
+            "Thrift": 676,
+            "Shell": 79
+        }
+    },
+    {
+        "name": "idl-test-registry",
+        "description": null,
+        "languages": {
+            "Thrift": 105
+        }
+    },
+    {
+        "name": "LLL",
+        "description": "Make LINE great again",
+        "languages": {
+            "Thrift": 71211,
+            "Python": 7790
+        }
+    },
+    {
+        "name": "test-downstream1",
+        "description": null,
+        "languages": {
+            "Thrift": 2427
+        }
+    },
+    {
+        "name": "thriftclients",
+        "description": "t\u1ed5ng h\u1ee3p c\u00e1c thrift client hay d\u00f9ng",
+        "languages": {
+            "Thrift": 25575,
+            "Go": 6432,
+            "Shell": 604
+        }
+    },
+    {
+        "name": "tvt",
+        "description": null,
+        "languages": {
+            "Thrift": 95564,
+            "Python": 80035
+        }
+    },
+    {
+        "name": "test-cache",
+        "description": null,
+        "languages": {
+            "Thrift": 500
+        }
+    },
+    {
+        "name": "fraudbusters-notificator-proto",
+        "description": null,
+        "languages": {
+            "Thrift": 3339,
+            "Makefile": 864
+        }
+    },
+    {
+        "name": "pstds-proto",
+        "description": null,
+        "languages": {
+            "Thrift": 3478,
+            "Erlang": 1726
+        }
+    },
+    {
+        "name": "horm",
+        "description": "horm is an ORM-like library to map go struct to HBase columns",
+        "languages": {
+            "Thrift": 31011,
+            "Go": 15575
+        }
+    },
+    {
+        "name": "goselfbot",
+        "description": null,
+        "languages": {
+            "Thrift": 58021,
+            "Go": 24325,
+            "Makefile": 353
+        }
+    },
+    {
+        "name": "alert-tg-bot-proto",
+        "description": null,
+        "languages": {
+            "Thrift": 665
+        }
+    },
+    {
+        "name": "hello-thrift",
+        "description": "An example that shows how to compile thrift files",
+        "languages": {
+            "Thrift": 15041,
+            "Ruby": 5569,
+            "C++": 1376
+        }
     }
 ]

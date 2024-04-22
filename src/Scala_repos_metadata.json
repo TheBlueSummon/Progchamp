@@ -20,8 +20,8 @@
         "name": "spark",
         "description": "Apache Spark - A unified analytics engine for large-scale data processing",
         "languages": {
-            "Scala": 52258923,
-            "Python": 12645058,
+            "Scala": 52262442,
+            "Python": 12676306,
             "Java": 5134065,
             "Jupyter Notebook": 4331346,
             "HiveQL": 1859465,
@@ -88,6 +88,2175 @@
             "Awk": 1380,
             "Ruby": 238,
             "C": 141
+        }
+    },
+    {
+        "name": "akka",
+        "description": "Build highly concurrent, distributed, and resilient message-driven applications on the JVM",
+        "languages": {
+            "Scala": 17310854,
+            "Java": 9756081,
+            "Shell": 34661,
+            "JavaScript": 1086,
+            "Makefile": 913,
+            "Perl": 304,
+            "Smalltalk": 272
+        }
+    },
+    {
+        "name": "predictionio",
+        "description": "PredictionIO, a machine learning server for developers and ML engineers.",
+        "languages": {
+            "Scala": 1107584,
+            "Shell": 137204,
+            "Python": 50649,
+            "HTML": 13234,
+            "Dockerfile": 9915,
+            "Java": 8118,
+            "Smarty": 3213
+        }
+    },
+    {
+        "name": "playframework",
+        "description": "The Community Maintained High Velocity Web Framework For Java and Scala.",
+        "languages": {
+            "Scala": 3793103,
+            "Java": 1674938,
+            "HTML": 44899,
+            "JavaScript": 9846,
+            "Roff": 6775,
+            "Less": 1577,
+            "CSS": 86
+        }
+    },
+    {
+        "name": "CMAK",
+        "description": "CMAK is a tool for managing Apache Kafka clusters",
+        "languages": {
+            "Scala": 935774,
+            "HTML": 141311,
+            "Shell": 21675,
+            "CSS": 5799,
+            "JavaScript": 4693,
+            "Less": 1379
+        }
+    },
+    {
+        "name": "bfg-repo-cleaner",
+        "description": "Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala",
+        "languages": {
+            "Scala": 153158,
+            "Shell": 164
+        }
+    },
+    {
+        "name": "gitbucket",
+        "description": "A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility",
+        "languages": {
+            "Scala": 1233920,
+            "HTML": 506733,
+            "CSS": 35844,
+            "JavaScript": 27128,
+            "Java": 17790,
+            "Shell": 7462
+        }
+    },
+    {
+        "name": "finagle",
+        "description": "A fault tolerant, protocol-agnostic RPC system",
+        "languages": {
+            "Scala": 7958089,
+            "Java": 246551,
+            "Starlark": 84291,
+            "Ruby": 25330,
+            "Thrift": 20340,
+            "Lua": 15246,
+            "HTML": 6399,
+            "Shell": 6096,
+            "R": 4245
+        }
+    },
+    {
+        "name": "snowflake",
+        "description": "Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.",
+        "languages": {}
+    },
+    {
+        "name": "enso",
+        "description": "Hybrid visual and textual functional programming.",
+        "languages": {
+            "Scala": 6201550,
+            "Java": 3920361,
+            "TypeScript": 3015176,
+            "Rust": 1676433,
+            "Vue": 441047,
+            "JavaScript": 136556,
+            "Python": 69902,
+            "HTML": 56733,
+            "CSS": 25007,
+            "Shell": 6050,
+            "C++": 4825,
+            "ANTLR": 3893,
+            "Roff": 3753,
+            "Dockerfile": 2959,
+            "Haskell": 2689,
+            "Makefile": 824,
+            "PowerShell": 648,
+            "Batchfile": 586
+        }
+    },
+    {
+        "name": "delta",
+        "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+        "languages": {
+            "Scala": 10752373,
+            "HTML": 10158522,
+            "Java": 2642138,
+            "Python": 240821,
+            "CSS": 154104,
+            "Shell": 57565,
+            "HCL": 18657,
+            "ANTLR": 11699,
+            "JavaScript": 9924,
+            "Dockerfile": 1872
+        }
+    },
+    {
+        "name": "snowplow",
+        "description": "The enterprise-grade behavioral data engine (web, mobile, server-side, webhooks), running cloud-natively on AWS and GCP",
+        "languages": {
+            "Scala": 53975,
+            "PLpgSQL": 27236,
+            "Shell": 9738,
+            "Python": 8141,
+            "JavaScript": 7649,
+            "Thrift": 3716,
+            "HTML": 3651,
+            "CSS": 119
+        }
+    },
+    {
+        "name": "ArnoldC",
+        "description": "Arnold Schwarzenegger based programming language",
+        "languages": {
+            "Scala": 80561
+        }
+    },
+    {
+        "name": "openwhisk",
+        "description": "Apache OpenWhisk is an open source serverless cloud platform",
+        "languages": {
+            "Scala": 4990016,
+            "JavaScript": 243847,
+            "Python": 120878,
+            "Shell": 108736,
+            "Java": 36882,
+            "Jinja": 23122,
+            "Groovy": 22090,
+            "Dockerfile": 15065,
+            "Swift": 11486,
+            "HTML": 6012,
+            "CSS": 4339,
+            "Mustache": 2820,
+            "C#": 1286,
+            "Lua": 821
+        }
+    },
+    {
+        "name": "gatling",
+        "description": "Modern Load Testing as Code",
+        "languages": {
+            "Scala": 2522367,
+            "Java": 1376250,
+            "Kotlin": 136598,
+            "HTML": 41444,
+            "CSS": 24447,
+            "JavaScript": 7567
+        }
+    },
+    {
+        "name": "frontend",
+        "description": "The Guardian DotCom.",
+        "languages": {
+            "Scala": 3485532,
+            "SCSS": 1428170,
+            "HTML": 1369166,
+            "JavaScript": 1160787,
+            "TypeScript": 247291,
+            "CSS": 14946,
+            "Shell": 5309,
+            "Makefile": 3530,
+            "Python": 1653,
+            "Io": 354,
+            "Ruby": 59
+        }
+    },
+    {
+        "name": "scala3",
+        "description": "The Scala 3 compiler, also known as Dotty.",
+        "languages": {
+            "Scala": 29651617,
+            "Java": 282968,
+            "JavaScript": 169963,
+            "CSS": 149331,
+            "Shell": 23539,
+            "HTML": 2363,
+            "Batchfile": 836
+        }
+    },
+    {
+        "name": "fpinscala",
+        "description": "Code, exercises, answers, and hints to go along with the book \"Functional Programming in Scala\"",
+        "languages": {
+            "Scala": 426478
+        }
+    },
+    {
+        "name": "linkerd",
+        "description": "Old repo for Linkerd 1.x. See the linkerd2 repo for Linkerd   2.x.",
+        "languages": {
+            "Scala": 2611265,
+            "JavaScript": 331633,
+            "Shell": 15407,
+            "Handlebars": 13931,
+            "Java": 13396,
+            "CSS": 9549,
+            "Thrift": 3593
+        }
+    },
+    {
+        "name": "cats",
+        "description": "Lightweight, modular, and extensible library for functional programming.",
+        "languages": {
+            "Scala": 3634002,
+            "Awk": 1529,
+            "Nix": 783
+        }
+    },
+    {
+        "name": "SynapseML",
+        "description": "Simple and Distributed Machine Learning",
+        "languages": {
+            "Scala": 2895309,
+            "Python": 365077,
+            "JavaScript": 67340,
+            "Dockerfile": 26524,
+            "Shell": 25553,
+            "CSS": 11381,
+            "R": 631
+        }
+    },
+    {
+        "name": "aerosolve",
+        "description": "A machine learning package built for humans.",
+        "languages": {
+            "Scala": 678285,
+            "Java": 638347,
+            "Thrift": 5492,
+            "Shell": 2701
+        }
+    },
+    {
+        "name": "sbt",
+        "description": "sbt, the interactive build tool",
+        "languages": {
+            "Scala": 3548374,
+            "Java": 117999,
+            "Shell": 40620,
+            "Batchfile": 31469,
+            "Roff": 7306,
+            "Makefile": 4356,
+            "HTML": 3232,
+            "C": 971,
+            "C++": 508,
+            "PowerShell": 408,
+            "Python": 197
+        }
+    },
+    {
+        "name": "scalaz",
+        "description": "Principled Functional Programming in Scala",
+        "languages": {
+            "Scala": 2272089,
+            "Shell": 22393,
+            "HTML": 6797,
+            "JavaScript": 4369
+        }
+    },
+    {
+        "name": "scala-js",
+        "description": "Scala.js, the Scala to JavaScript compiler",
+        "languages": {
+            "Scala": 8438751,
+            "Java": 14170,
+            "JavaScript": 5855,
+            "Shell": 1510,
+            "CSS": 1047
+        }
+    },
+    {
+        "name": "scala-native",
+        "description": "Your favorite language gets closer to bare metal.",
+        "languages": {
+            "Scala": 11540454,
+            "C": 794418,
+            "C++": 472504,
+            "Assembly": 74048,
+            "Python": 47127,
+            "Shell": 10457,
+            "Java": 5139,
+            "Dockerfile": 2694,
+            "Nix": 349,
+            "Batchfile": 320
+        }
+    },
+    {
+        "name": "chronos",
+        "description": "Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules",
+        "languages": {
+            "Scala": 332765,
+            "JavaScript": 54723,
+            "Ruby": 15440,
+            "Shell": 1415,
+            "Dockerfile": 1245,
+            "HTML": 698
+        }
+    },
+    {
+        "name": "XiangShan",
+        "description": "Open-source high-performance RISC-V processor",
+        "languages": {
+            "Scala": 3128301,
+            "Python": 111745,
+            "Makefile": 11157,
+            "C": 7579,
+            "Shell": 5361
+        }
+    },
+    {
+        "name": "marathon",
+        "description": "Deploy and manage containers (including Docker) on top of Apache Mesos at scale.",
+        "languages": {
+            "Scala": 5003201,
+            "Python": 429984,
+            "Clojure": 59278,
+            "Shell": 50693,
+            "Java": 36549,
+            "Groovy": 17267,
+            "Mustache": 16356,
+            "Makefile": 14744,
+            "Dockerfile": 7012,
+            "Liquid": 1484,
+            "RAML": 356,
+            "HCL": 310
+        }
+    },
+    {
+        "name": "zio",
+        "description": "ZIO \u2014 A type-safe, composable library for async and concurrent programming in Scala",
+        "languages": {
+            "Scala": 6204928,
+            "CSS": 107673,
+            "JavaScript": 46917,
+            "TypeScript": 6021,
+            "Java": 5536,
+            "Shell": 1489,
+            "Nix": 133
+        }
+    },
+    {
+        "name": "diffy",
+        "description": "Find potential bugs in your services with Diffy",
+        "languages": {
+            "Scala": 100632,
+            "CSS": 23767,
+            "HTML": 14939,
+            "CoffeeScript": 13700,
+            "Starlark": 3607,
+            "Shell": 2692,
+            "Java": 2610,
+            "Thrift": 942,
+            "Dockerfile": 526
+        }
+    },
+    {
+        "name": "chisel",
+        "description": "Chisel: A Modern Hardware Design Language",
+        "languages": {
+            "Scala": 3170910,
+            "C++": 32937,
+            "Python": 17784,
+            "JavaScript": 11575,
+            "CSS": 4545,
+            "Makefile": 4080,
+            "Dockerfile": 3433,
+            "Verilog": 2759,
+            "Nix": 2008,
+            "SystemVerilog": 971,
+            "C": 464
+        }
+    },
+    {
+        "name": "spark-nlp",
+        "description": "State of the Art Natural Language Processing",
+        "languages": {
+            "Scala": 5502442,
+            "Python": 2275828,
+            "Java": 228853,
+            "HTML": 14452,
+            "Shell": 5286,
+            "Makefile": 819
+        }
+    },
+    {
+        "name": "scalding",
+        "description": "A Scala API for Cascading",
+        "languages": {
+            "Scala": 3153551,
+            "Java": 223896,
+            "Ruby": 62059,
+            "Shell": 29462,
+            "Thrift": 17818
+        }
+    },
+    {
+        "name": "CoolplaySpark",
+        "description": "\u9177\u73a9 Spark: Spark \u6e90\u4ee3\u7801\u89e3\u6790\u3001Spark \u7c7b\u5e93\u7b49",
+        "languages": {
+            "Scala": 714
+        }
+    },
+    {
+        "name": "breeze",
+        "description": "Breeze is a numerical processing library for Scala.",
+        "languages": {
+            "Scala": 2472894,
+            "Java": 4151
+        }
+    },
+    {
+        "name": "atlas",
+        "description": "In-memory dimensional time series database.",
+        "languages": {
+            "Scala": 2648221,
+            "Java": 35066,
+            "Shell": 2427,
+            "Makefile": 2344,
+            "HTML": 99
+        }
+    },
+    {
+        "name": "shapeless",
+        "description": "Generic programming for Scala",
+        "languages": {
+            "Scala": 1279560,
+            "Shell": 387
+        }
+    },
+    {
+        "name": "flockdb",
+        "description": "A distributed, fault-tolerant graph database",
+        "languages": {
+            "Scala": 269991,
+            "Ruby": 46547,
+            "Shell": 5497,
+            "Thrift": 4710
+        }
+    },
+    {
+        "name": "TheHive",
+        "description": "TheHive: a Scalable, Open Source and Free Security Incident Response Platform",
+        "languages": {
+            "Scala": 1830056,
+            "JavaScript": 741432,
+            "HTML": 670714,
+            "Shell": 43847,
+            "CSS": 34523,
+            "Dockerfile": 2228
+        }
+    },
+    {
+        "name": "shadowsocksr-v2ray-trojan-android",
+        "description": "A simple client for Android",
+        "languages": {
+            "Scala": 550835,
+            "Java": 49764,
+            "C": 32295,
+            "Makefile": 23333,
+            "HTML": 9178,
+            "C++": 4758,
+            "Shell": 2171,
+            "AIDL": 620,
+            "Python": 346,
+            "Perl": 280
+        }
+    },
+    {
+        "name": "deequ",
+        "description": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+        "languages": {
+            "Scala": 1458374,
+            "Java": 7210,
+            "Makefile": 53
+        }
+    },
+    {
+        "name": "rocket-chip",
+        "description": "Rocket Chip Generator",
+        "languages": {
+            "Scala": 2310349,
+            "Python": 46956,
+            "C++": 33974,
+            "Verilog": 27003,
+            "Makefile": 16419,
+            "Shell": 9445,
+            "Assembly": 7031,
+            "Nix": 2812
+        }
+    },
+    {
+        "name": "spark-jobserver",
+        "description": "REST job server for Apache Spark",
+        "languages": {
+            "Scala": 1133579,
+            "Python": 28492,
+            "Shell": 19406,
+            "JavaScript": 13111,
+            "HTML": 5882,
+            "Java": 5782,
+            "Dockerfile": 1984,
+            "Batchfile": 1038,
+            "CSS": 777
+        }
+    },
+    {
+        "name": "kestrel",
+        "description": "simple, distributed message queue system (inactive)",
+        "languages": {
+            "Scala": 476052,
+            "Ruby": 32090,
+            "Shell": 8782,
+            "Thrift": 4117
+        }
+    },
+    {
+        "name": "Spark-The-Definitive-Guide",
+        "description": "Spark: The Definitive Guide's Code Repository",
+        "languages": {
+            "Scala": 108477,
+            "Python": 66035,
+            "Java": 9672,
+            "TSQL": 9419,
+            "R": 4356
+        }
+    },
+    {
+        "name": "util",
+        "description": "Wonderful reusable code from Twitter",
+        "languages": {
+            "Scala": 3034923,
+            "Java": 176316,
+            "Starlark": 88433,
+            "Mako": 3465,
+            "HTML": 3006,
+            "Shell": 2183,
+            "Makefile": 396
+        }
+    },
+    {
+        "name": "slick",
+        "description": "Slick (Scala Language Integrated Connection Kit) is a modern database query and access library for Scala",
+        "languages": {
+            "Scala": 1583743
+        }
+    },
+    {
+        "name": "scalatra",
+        "description": "Tiny Scala high-performance, async web framework, inspired by Sinatra",
+        "languages": {
+            "Scala": 699782,
+            "Java": 3365
+        }
+    },
+    {
+        "name": "lagom",
+        "description": "Reactive Microservices for the JVM",
+        "languages": {
+            "Scala": 1961299,
+            "Java": 1037365,
+            "Shell": 8238,
+            "Roff": 6976,
+            "Perl": 1102,
+            "HTML": 559,
+            "Less": 348,
+            "JavaScript": 48
+        }
+    },
+    {
+        "name": "scala-exercises",
+        "description": "The easy way to learn Scala.",
+        "languages": {
+            "Scala": 183821,
+            "JavaScript": 58324,
+            "SCSS": 39088,
+            "HTML": 29911,
+            "Procfile": 110,
+            "Ruby": 65
+        }
+    },
+    {
+        "name": "node2vec",
+        "description": null,
+        "languages": {
+            "Scala": 19178,
+            "Python": 7048
+        }
+    },
+    {
+        "name": "Ammonite",
+        "description": "Scala Scripting",
+        "languages": {
+            "Scala": 949358,
+            "Java": 8206,
+            "Shell": 3630,
+            "SuperCollider": 53
+        }
+    },
+    {
+        "name": "scio",
+        "description": "A Scala API for Apache Beam and Google Cloud Dataflow.",
+        "languages": {
+            "Scala": 3935587,
+            "Java": 1368359,
+            "Python": 22001,
+            "Shell": 4819,
+            "C++": 2556,
+            "StringTemplate": 518
+        }
+    },
+    {
+        "name": "spray",
+        "description": "A suite of scala libraries for building and consuming RESTful web services on top of Akka: lightweight, asynchronous, non-blocking, actor-based, testable",
+        "languages": {
+            "Scala": 1679348,
+            "HTML": 469838,
+            "CSS": 325830,
+            "JavaScript": 160940,
+            "Shell": 1792
+        }
+    },
+    {
+        "name": "http4s",
+        "description": "A minimal, idiomatic Scala interface for HTTP",
+        "languages": {
+            "Scala": 3042541,
+            "Nix": 1132,
+            "HTML": 19
+        }
+    },
+    {
+        "name": "circe",
+        "description": "Yet another JSON library for Scala",
+        "languages": {
+            "Scala": 905866,
+            "Nix": 718
+        }
+    },
+    {
+        "name": "elasticmq",
+        "description": "In-memory message queue with an Amazon SQS-compatible interface. Runs stand-alone or embedded.",
+        "languages": {
+            "Scala": 597699,
+            "TypeScript": 27644,
+            "Java": 797,
+            "HTML": 755,
+            "CSS": 432,
+            "JavaScript": 418
+        }
+    },
+    {
+        "name": "fs2",
+        "description": "Compositional, streaming I/O library for Scala",
+        "languages": {
+            "Scala": 2237560,
+            "HTML": 1650,
+            "Nix": 805
+        }
+    },
+    {
+        "name": "algebird",
+        "description": "Abstract Algebra for Scala",
+        "languages": {
+            "Scala": 1547138,
+            "Java": 28442,
+            "Ruby": 16895
+        }
+    },
+    {
+        "name": "finatra",
+        "description": "Fast, testable, Scala services built on TwitterServer and Finagle",
+        "languages": {
+            "Scala": 2065732,
+            "Starlark": 162369,
+            "Java": 124308,
+            "Thrift": 5089,
+            "Shell": 1839,
+            "Mustache": 958,
+            "HTML": 24
+        }
+    },
+    {
+        "name": "gizzard",
+        "description": "[Archived] A flexible sharding framework for creating eventually-consistent distributed datastores",
+        "languages": {
+            "Scala": 408956,
+            "Thrift": 6828,
+            "Shell": 52
+        }
+    },
+    {
+        "name": "s3_website",
+        "description": "Manage an S3 website: sync, deliver via CloudFront, benefit from advanced S3 website features.",
+        "languages": {
+            "Scala": 126082,
+            "Ruby": 11730,
+            "Shell": 170
+        }
+    },
+    {
+        "name": "TransmogrifAI",
+        "description": "TransmogrifAI (pronounced tr\u0103ns-m\u014fg\u02c8r\u0259-f\u012b) is an AutoML library for building modular, reusable, strongly typed machine learning workflows on Apache Spark with minimal hand-tuning",
+        "languages": {
+            "Scala": 4722844,
+            "Jupyter Notebook": 36336,
+            "Java": 12445,
+            "Shell": 1080
+        }
+    },
+    {
+        "name": "SZT-bigdata",
+        "description": "\u6df1\u5733\u5730\u94c1\u5927\u6570\u636e\u5ba2\u6d41\u5206\u6790\u7cfb\u7edf\ud83d\ude87\ud83d\ude84\ud83c\udf1f",
+        "languages": {
+            "Scala": 74696,
+            "Java": 35163,
+            "Shell": 2146,
+            "Python": 1594
+        }
+    },
+    {
+        "name": "zio-quill",
+        "description": "Compile-time Language Integrated Queries for Scala",
+        "languages": {
+            "Scala": 2819147,
+            "Shell": 19775
+        }
+    },
+    {
+        "name": "summingbird",
+        "description": "Streaming MapReduce with Scalding and Storm",
+        "languages": {
+            "Scala": 829828,
+            "Shell": 19248,
+            "Java": 4813
+        }
+    },
+    {
+        "name": "doobie",
+        "description": "Functional JDBC layer for Scala.",
+        "languages": {
+            "Scala": 1252359,
+            "Java": 329
+        }
+    },
+    {
+        "name": "scaloid",
+        "description": "Scaloid makes your Android code easy to understand and maintain.",
+        "languages": {
+            "Scala": 943014,
+            "Java": 6159
+        }
+    },
+    {
+        "name": "flix",
+        "description": "The Flix Programming Language",
+        "languages": {
+            "Scala": 4306932,
+            "CSS": 15363,
+            "Java": 10491,
+            "JavaScript": 2825
+        }
+    },
+    {
+        "name": "metals",
+        "description": "Scala language server with rich IDE features \ud83d\ude80 ",
+        "languages": {
+            "Scala": 5839139,
+            "JavaScript": 48129,
+            "Java": 41468,
+            "Shell": 11197,
+            "Batchfile": 6492,
+            "CSS": 486
+        }
+    },
+    {
+        "name": "coursier",
+        "description": "Pure Scala Artifact Fetching",
+        "languages": {
+            "Scala": 1708988,
+            "Java": 218624,
+            "Roff": 42153,
+            "Batchfile": 7232,
+            "Shell": 3890,
+            "HTML": 2843,
+            "JavaScript": 839,
+            "Dockerfile": 139
+        }
+    },
+    {
+        "name": "metarank",
+        "description": "A low code Machine Learning personalized ranking service for articles, listings, search results, recommendations that boosts user engagement. A friendly Learn-to-Rank engine",
+        "languages": {
+            "Scala": 1063703,
+            "Shell": 3885,
+            "Java": 2517,
+            "Smarty": 1792
+        }
+    },
+    {
+        "name": "textteaser",
+        "description": "TextTeaser is an automatic summarization algorithm.",
+        "languages": {
+            "Scala": 36485
+        }
+    },
+    {
+        "name": "sangria",
+        "description": "Scala GraphQL implementation",
+        "languages": {
+            "Scala": 2370335,
+            "Java": 1762
+        }
+    },
+    {
+        "name": "mill",
+        "description": "Your shiny new Java/Scala build tool!",
+        "languages": {
+            "Scala": 1929729,
+            "Java": 133397,
+            "CSS": 28576,
+            "Batchfile": 6488,
+            "Shell": 6085,
+            "JavaScript": 4146,
+            "HTML": 2309
+        }
+    },
+    {
+        "name": "cats-effect",
+        "description": "The pure asynchronous runtime for Scala",
+        "languages": {
+            "Scala": 2001699,
+            "Java": 18291,
+            "Shell": 6204,
+            "Nix": 1065,
+            "Dockerfile": 115
+        }
+    },
+    {
+        "name": "scalacheck",
+        "description": "Property-based testing for Scala",
+        "languages": {
+            "Scala": 342715
+        }
+    },
+    {
+        "name": "spark-cassandra-connector",
+        "description": "DataStax Connector for Apache Spark to Apache Cassandra",
+        "languages": {
+            "Scala": 1782577,
+            "Java": 202835,
+            "Shell": 3342
+        }
+    },
+    {
+        "name": "feathr",
+        "description": "Feathr \u2013 A scalable, unified data and AI engineering platform for enterprise",
+        "languages": {
+            "Scala": 2243620,
+            "Java": 1433022,
+            "Python": 913047,
+            "TypeScript": 132586,
+            "Shell": 5914,
+            "Dockerfile": 4495,
+            "Less": 3482,
+            "JavaScript": 2371,
+            "CSS": 1056,
+            "Batchfile": 752,
+            "HTML": 698,
+            "Makefile": 580
+        }
+    },
+    {
+        "name": "kyuubi",
+        "description": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
+        "languages": {
+            "Scala": 4698559,
+            "Java": 1574481,
+            "Python": 193130,
+            "Shell": 101357,
+            "Vue": 62552,
+            "TypeScript": 59762,
+            "ANTLR": 26184,
+            "Dockerfile": 11542,
+            "SCSS": 4439,
+            "Batchfile": 1886,
+            "Smarty": 1876,
+            "HTML": 1167
+        }
+    },
+    {
+        "name": "monix",
+        "description": "Asynchronous, Reactive Programming for Scala and Scala.js.",
+        "languages": {
+            "Scala": 5567428,
+            "Java": 188710,
+            "Ruby": 3327,
+            "Nix": 693
+        }
+    },
+    {
+        "name": "byzer-lang",
+        "description": "Byzer (former MLSQL): A low-code open-source programming language for data pipeline, analytics and AI.",
+        "languages": {
+            "Scala": 2294164,
+            "Java": 344315,
+            "Python": 228180,
+            "Shell": 61482,
+            "ANTLR": 3617,
+            "Batchfile": 2984,
+            "Roff": 1996,
+            "HTML": 1038,
+            "Dockerfile": 1008
+        }
+    },
+    {
+        "name": "joern",
+        "description": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+        "languages": {
+            "Scala": 7587015,
+            "Java": 2082589,
+            "ANTLR": 99109,
+            "Shell": 71035,
+            "PHP": 58242,
+            "C": 6454,
+            "SuperCollider": 6331,
+            "Batchfile": 4723,
+            "Assembly": 2863,
+            "Kotlin": 2578,
+            "Slim": 2252,
+            "C++": 1470,
+            "Dockerfile": 1282,
+            "JavaScript": 544,
+            "Python": 69,
+            "HCL": 22
+        }
+    },
+    {
+        "name": "graphcool-framework",
+        "description": null,
+        "languages": {
+            "Scala": 2385110,
+            "TypeScript": 406142,
+            "JavaScript": 14810,
+            "HTML": 8555,
+            "Shell": 5577
+        }
+    },
+    {
+        "name": "spire",
+        "description": "Powerful new number types and numeric abstractions for Scala.",
+        "languages": {
+            "Scala": 1856483,
+            "Java": 1813
+        }
+    },
+    {
+        "name": "giter8",
+        "description": "a command line tool to apply templates defined on GitHub ",
+        "languages": {
+            "Scala": 147491
+        }
+    },
+    {
+        "name": "refined",
+        "description": "Refinement types for Scala",
+        "languages": {
+            "Scala": 386385,
+            "Shell": 858
+        }
+    },
+    {
+        "name": "Vale",
+        "description": "Compiler for the Vale programming language - http://vale.dev/",
+        "languages": {
+            "Scala": 3147432,
+            "C++": 2423130,
+            "C": 142690,
+            "Shell": 20327,
+            "CMake": 3947,
+            "Batchfile": 3406,
+            "Dockerfile": 1678,
+            "Python": 487
+        }
+    },
+    {
+        "name": "scalajs-react",
+        "description": "Facebook's React on Scala.JS",
+        "languages": {
+            "Scala": 2102199,
+            "JavaScript": 9179,
+            "Shell": 8368,
+            "HTML": 4226,
+            "CSS": 1245,
+            "Python": 1155
+        }
+    },
+    {
+        "name": "elastic4s",
+        "description": "Elasticsearch Scala Client - Reactive, Non Blocking, Type Safe, HTTP Client",
+        "languages": {
+            "Scala": 1899785,
+            "Shell": 121,
+            "Java": 93
+        }
+    },
+    {
+        "name": "Monocle",
+        "description": "Optics library for Scala",
+        "languages": {
+            "Scala": 595720,
+            "JavaScript": 6703,
+            "CSS": 899
+        }
+    },
+    {
+        "name": "finch",
+        "description": "Scala combinator library for building Finagle HTTP services",
+        "languages": {
+            "Scala": 270282,
+            "Shell": 1512
+        }
+    },
+    {
+        "name": "riscv-boom",
+        "description": "SonicBOOM: The Berkeley Out-of-Order Machine",
+        "languages": {
+            "Scala": 1500657,
+            "C": 69480,
+            "Shell": 40973,
+            "Python": 12874,
+            "Verilog": 4596,
+            "Assembly": 4235,
+            "C++": 2134,
+            "Makefile": 267
+        }
+    },
+    {
+        "name": "Binding.scala",
+        "description": "Reactive data-binding for Scala",
+        "languages": {
+            "Scala": 117297,
+            "Roff": 761
+        }
+    },
+    {
+        "name": "sbt-native-packager",
+        "description": "sbt Native Packager",
+        "languages": {
+            "Scala": 542844,
+            "Shell": 21173,
+            "Python": 9137,
+            "Java": 1099,
+            "HTML": 530,
+            "Roff": 260,
+            "JavaScript": 88,
+            "Dockerfile": 64,
+            "C": 58,
+            "CSS": 20,
+            "Makefile": 5
+        }
+    },
+    {
+        "name": "almond",
+        "description": "A Scala kernel for Jupyter",
+        "languages": {
+            "Scala": 723394,
+            "Shell": 14197,
+            "Java": 8260,
+            "Batchfile": 3986,
+            "Dockerfile": 1483,
+            "Python": 789
+        }
+    },
+    {
+        "name": "skunk",
+        "description": "A data access library for Scala + Postgres.",
+        "languages": {
+            "Scala": 698871,
+            "Shell": 528
+        }
+    },
+    {
+        "name": "twitter-server",
+        "description": "Twitter-Server defines a template from which services at Twitter are built",
+        "languages": {
+            "Scala": 416370,
+            "JavaScript": 19126,
+            "Starlark": 12193,
+            "CSS": 8136,
+            "Shell": 1214,
+            "Java": 1103
+        }
+    },
+    {
+        "name": "OpenComputers",
+        "description": "Home of the OpenComputers mod for Minecraft.",
+        "languages": {
+            "Scala": 2688508,
+            "Lua": 860504,
+            "Java": 621082,
+            "Roff": 5094,
+            "Shell": 470
+        }
+    },
+    {
+        "name": "goose",
+        "description": "Html Content / Article Extractor in Scala - open sourced from Gravity Labs ",
+        "languages": {
+            "Scala": 220085
+        }
+    },
+    {
+        "name": "SpinalHDL",
+        "description": "Scala based HDL",
+        "languages": {
+            "Scala": 5274546,
+            "Verilog": 705306,
+            "Python": 257853,
+            "VHDL": 160377,
+            "SystemVerilog": 137212,
+            "C++": 123520,
+            "Stata": 33288,
+            "Java": 30413,
+            "Makefile": 16431,
+            "SWIG": 3046,
+            "Shell": 1803
+        }
+    },
+    {
+        "name": "aas",
+        "description": "Code to accompany Advanced Analytics with Spark from O'Reilly Media",
+        "languages": {
+            "Scala": 87640,
+            "Python": 4717,
+            "R": 2691,
+            "Shell": 523
+        }
+    },
+    {
+        "name": "C1000K-Servers",
+        "description": ":zap: High performance websocket servers implemented by Spray-can, Netty, undertow, jetty, Vert.x, Grizzly, node.js and Go. It supports 1,200,000 active websocket connections",
+        "languages": {
+            "Scala": 90217,
+            "Go": 5352,
+            "JavaScript": 927,
+            "Shell": 569
+        }
+    },
+    {
+        "name": "OBP-API",
+        "description": "An open source RESTful API platform for banks that supports Open Banking, XS2A and PSD2 through access to accounts, transactions, counterparties, payments, entitlements and metadata - plus a host of internal banking and management APIs.",
+        "languages": {
+            "Scala": 14587098,
+            "TSQL": 535476,
+            "HTML": 125192,
+            "CSS": 56054,
+            "JavaScript": 27821,
+            "Shell": 3177,
+            "Java": 981,
+            "Dockerfile": 822
+        }
+    },
+    {
+        "name": "mleap",
+        "description": "MLeap: Deploy ML Pipelines to Production",
+        "languages": {
+            "Scala": 1563254,
+            "Python": 207597,
+            "Java": 28124,
+            "Makefile": 1756,
+            "Shell": 1550
+        }
+    },
+    {
+        "name": "spark-testing-base",
+        "description": "Base classes to use when writing tests with Spark",
+        "languages": {
+            "Scala": 225832,
+            "Python": 28022,
+            "Java": 21762,
+            "Shell": 11988
+        }
+    },
+    {
+        "name": "json4s",
+        "description": "JSON library",
+        "languages": {
+            "Scala": 619034,
+            "Shell": 23802,
+            "Java": 605
+        }
+    },
+    {
+        "name": "scalacaster",
+        "description": "Purely Functional Algorithms and Data Structures in Scala",
+        "languages": {
+            "Scala": 107955
+        }
+    },
+    {
+        "name": "better-files",
+        "description": "Simple, safe and intuitive Scala I/O",
+        "languages": {
+            "Scala": 201293,
+            "HTML": 1968,
+            "Java": 1808,
+            "Shell": 273
+        }
+    },
+    {
+        "name": "pureconfig",
+        "description": "A boilerplate-free library for loading configuration files",
+        "languages": {
+            "Scala": 573351,
+            "Shell": 2880
+        }
+    },
+    {
+        "name": "postgresql-async",
+        "description": "Async, Netty based, database drivers for PostgreSQL and MySQL written in Scala",
+        "languages": {
+            "Scala": 633121,
+            "Shell": 2916,
+            "Java": 2373
+        }
+    },
+    {
+        "name": "spark",
+        "description": "Lightning-fast cluster computing in Java, Scala and Python.",
+        "languages": {}
+    },
+    {
+        "name": "grid",
+        "description": "The Guardian\u2019s image management system",
+        "languages": {
+            "Scala": 1504122,
+            "Java": 738684,
+            "JavaScript": 488639,
+            "HTML": 254692,
+            "CSS": 95449,
+            "TypeScript": 45979,
+            "Shell": 21713,
+            "Python": 2948,
+            "Dockerfile": 492,
+            "Ruby": 223
+        }
+    },
+    {
+        "name": "squbs",
+        "description": "Akka Streams & Akka HTTP for Large-Scale Production Deployments",
+        "languages": {
+            "Scala": 1421350,
+            "Java": 325358
+        }
+    },
+    {
+        "name": "chipyard",
+        "description": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
+        "languages": {
+            "Scala": 550718,
+            "C": 519061,
+            "Makefile": 94528,
+            "Shell": 41212,
+            "C++": 34870,
+            "Verilog": 27461,
+            "Python": 24773,
+            "Tcl": 2246,
+            "Dockerfile": 1691,
+            "SystemVerilog": 1566,
+            "Assembly": 436
+        }
+    },
+    {
+        "name": "alpakka-kafka",
+        "description": "Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",
+        "languages": {
+            "Scala": 1062200,
+            "Java": 166307,
+            "Shell": 461
+        }
+    },
+    {
+        "name": "carbondata",
+        "description": "High performance data store solution",
+        "languages": {
+            "Scala": 12011785,
+            "Java": 7860254,
+            "Python": 368778,
+            "C++": 110888,
+            "Thrift": 23385,
+            "ANTLR": 16022,
+            "Shell": 7259,
+            "Batchfile": 1639,
+            "CMake": 1555,
+            "Dockerfile": 216,
+            "C#": 86
+        }
+    },
+    {
+        "name": "sttp",
+        "description": "The Scala HTTP client you always wanted!",
+        "languages": {
+            "Scala": 1245830,
+            "Python": 5906,
+            "Java": 5655,
+            "Batchfile": 766,
+            "Makefile": 604,
+            "Shell": 43
+        }
+    },
+    {
+        "name": "FiloDB",
+        "description": "Distributed Prometheus time series database",
+        "languages": {
+            "Scala": 6132974,
+            "Java": 181253,
+            "Shell": 9835,
+            "ANTLR": 5479
+        }
+    },
+    {
+        "name": "scalafmt",
+        "description": "Code formatter for Scala",
+        "languages": {
+            "Scala": 1543840,
+            "Shell": 27450,
+            "Java": 12949,
+            "JavaScript": 12454,
+            "CSS": 6516,
+            "Standard ML": 1765,
+            "Dockerfile": 122,
+            "HTML": 54,
+            "PowerShell": 32
+        }
+    },
+    {
+        "name": "Kamon",
+        "description": "Distributed Tracing, Metrics and Context Propagation for applications running on the JVM",
+        "languages": {
+            "Scala": 2524935,
+            "Java": 312786,
+            "Vue": 47772,
+            "TypeScript": 4566,
+            "HTML": 2942,
+            "SCSS": 1156,
+            "JavaScript": 153
+        }
+    },
+    {
+        "name": "geomesa",
+        "description": "GeoMesa is a suite of tools for working with big geo-spatial data in a distributed fashion.",
+        "languages": {
+            "Scala": 8646285,
+            "Java": 248619,
+            "Shell": 90743,
+            "Python": 33511,
+            "sed": 17084,
+            "Scheme": 3143,
+            "HTML": 2900,
+            "R": 2716,
+            "JavaScript": 140
+        }
+    },
+    {
+        "name": "ecosystem",
+        "description": "Integration of TensorFlow with other open-source frameworks",
+        "languages": {
+            "Scala": 132999,
+            "Python": 51860,
+            "Java": 32184,
+            "Jinja": 10609,
+            "Dockerfile": 2382,
+            "Shell": 2098
+        }
+    },
+    {
+        "name": "iago",
+        "description": "A load generator, built for engineers",
+        "languages": {
+            "Scala": 252991,
+            "Shell": 3171,
+            "Java": 1189,
+            "Thrift": 1058
+        }
+    },
+    {
+        "name": "akka-http",
+        "description": "The Streaming-first HTTP server/module of Akka",
+        "languages": {
+            "Scala": 4455154,
+            "Java": 491088,
+            "Shell": 13741,
+            "Perl": 1356,
+            "HTML": 592
+        }
+    },
+    {
+        "name": "NutShell",
+        "description": "RISC-V SoC designed by students in UCAS",
+        "languages": {
+            "Scala": 509048,
+            "Tcl": 318700,
+            "Verilog": 49682,
+            "C": 17353,
+            "Makefile": 9440,
+            "SystemVerilog": 6682,
+            "Shell": 592,
+            "Python": 390
+        }
+    },
+    {
+        "name": "geotrellis",
+        "description": "GeoTrellis is a geographic data processing engine for high performance applications.",
+        "languages": {
+            "Scala": 6780161,
+            "Java": 95311,
+            "Shell": 33420,
+            "HTML": 27262,
+            "JavaScript": 5374,
+            "HCL": 3169,
+            "Python": 2365,
+            "Makefile": 2148,
+            "CSS": 1333,
+            "Dockerfile": 624,
+            "PLpgSQL": 438
+        }
+    },
+    {
+        "name": "intellij-haskell",
+        "description": "IntelliJ plugin for Haskell",
+        "languages": {
+            "Scala": 548614,
+            "Java": 75392,
+            "Lex": 24716,
+            "Logos": 7033,
+            "HTML": 686,
+            "Haskell": 250
+        }
+    },
+    {
+        "name": "tapir",
+        "description": "Declarative, type-safe web endpoints library",
+        "languages": {
+            "Scala": 3037380,
+            "Python": 5923,
+            "Nix": 837,
+            "Batchfile": 802,
+            "TypeScript": 687,
+            "Makefile": 606,
+            "JavaScript": 338,
+            "HTML": 293,
+            "Shell": 43
+        }
+    },
+    {
+        "name": "lcamera",
+        "description": "A camera app using the new camera2 API in Android Lollipop",
+        "languages": {
+            "Scala": 60754,
+            "C++": 5896,
+            "Makefile": 293
+        }
+    },
+    {
+        "name": "ScalaPB",
+        "description": "Protocol buffer compiler for Scala.",
+        "languages": {
+            "Scala": 2967240,
+            "HTML": 9354,
+            "JavaScript": 7983,
+            "Shell": 3868,
+            "CSS": 1956,
+            "Python": 848,
+            "Nix": 263
+        }
+    },
+    {
+        "name": "framework",
+        "description": "Lift Framework",
+        "languages": {
+            "Scala": 3877055,
+            "JavaScript": 428721,
+            "CSS": 48107,
+            "Java": 21862,
+            "HTML": 21138,
+            "Shell": 10507,
+            "Batchfile": 1119
+        }
+    },
+    {
+        "name": "alpakka",
+        "description": "Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka.",
+        "languages": {
+            "Scala": 4460723,
+            "Java": 904002,
+            "Shell": 4156
+        }
+    },
+    {
+        "name": "scalikejdbc",
+        "description": "A tidy SQL-based DB access library for Scala developers. This library naturally wraps JDBC APIs and provides you easy-to-use APIs.",
+        "languages": {
+            "Scala": 1349421,
+            "Batchfile": 9241,
+            "Shell": 8536
+        }
+    },
+    {
+        "name": "macwire",
+        "description": "Lightweight and Nonintrusive Scala Dependency Injection Library",
+        "languages": {
+            "Scala": 198981,
+            "Java": 1889
+        }
+    },
+    {
+        "name": "rsc",
+        "description": "Experimental Scala compiler focused on compilation speed",
+        "languages": {
+            "Scala": 919779,
+            "Python": 2878,
+            "Shell": 1014,
+            "Java": 503
+        }
+    },
+    {
+        "name": "Cortex",
+        "description": "Cortex: a Powerful Observable Analysis and Active Response Engine",
+        "languages": {
+            "Scala": 249182,
+            "JavaScript": 140140,
+            "HTML": 104459,
+            "Shell": 26107,
+            "SCSS": 7785,
+            "Python": 2597,
+            "EJS": 1404,
+            "Dockerfile": 310
+        }
+    },
+    {
+        "name": "sbt-dependency-graph",
+        "description": "sbt plugin to create a dependency graph for your project",
+        "languages": {
+            "Scala": 69822,
+            "HTML": 4630
+        }
+    },
+    {
+        "name": "eclair",
+        "description": "A scala implementation of the Lightning Network.",
+        "languages": {
+            "Scala": 7786224,
+            "Shell": 27727,
+            "Java": 19936,
+            "Batchfile": 6342,
+            "Dockerfile": 6030,
+            "Procfile": 13
+        }
+    },
+    {
+        "name": "securesocial",
+        "description": "A module that provides OAuth, OAuth2 and OpenID authentication for Play Framework applications",
+        "languages": {
+            "Scala": 226039,
+            "Java": 32456,
+            "HTML": 17640,
+            "Ruby": 4138,
+            "JavaScript": 3190,
+            "NewLisp": 3144,
+            "Perl 6": 3038
+        }
+    },
+    {
+        "name": "spark-timeseries",
+        "description": "A library for time series analysis on Apache Spark",
+        "languages": {
+            "Scala": 428185,
+            "Python": 83542,
+            "Java": 46193,
+            "Makefile": 5613
+        }
+    },
+    {
+        "name": "killrweather",
+        "description": "KillrWeather is a reference application (work in progress) showing how to easily integrate streaming and batch data processing with Apache Spark Streaming, Apache Cassandra, Apache Kafka and Akka for fast, streaming computations on time series data in asynchronous event-driven environments. ",
+        "languages": {
+            "Scala": 122377
+        }
+    },
+    {
+        "name": "enumeratum",
+        "description": "A type-safe, reflection-free, powerful enumeration implementation for Scala with exhaustive pattern match warnings and helpful integrations.",
+        "languages": {
+            "Scala": 417601,
+            "Shell": 818,
+            "Java": 167
+        }
+    },
+    {
+        "name": "Waves",
+        "description": "\u26d3\ufe0f Reference Waves Blockchain Node (client) implementation on Scala",
+        "languages": {
+            "Scala": 9240515,
+            "HTML": 4665,
+            "Dockerfile": 4508,
+            "Shell": 3152,
+            "Java": 360
+        }
+    },
+    {
+        "name": "Metascala",
+        "description": "A JVM written in Scala",
+        "languages": {
+            "Scala": 150901,
+            "Java": 39631
+        }
+    },
+    {
+        "name": "AppCrawler",
+        "description": "\u57fa\u4e8eappium\u7684app\u81ea\u52a8\u904d\u5386\u5de5\u5177",
+        "languages": {
+            "Scala": 470502,
+            "Java": 86161,
+            "Mustache": 250
+        }
+    },
+    {
+        "name": "intellij-scala",
+        "description": "Scala plugin for IntelliJ IDEA",
+        "languages": {
+            "Scala": 21296926,
+            "Java": 1520931,
+            "HTML": 108868,
+            "Lex": 47208,
+            "Kotlin": 38534
+        }
+    },
+    {
+        "name": "colossus",
+        "description": "I/O and Microservice library for Scala",
+        "languages": {
+            "Scala": 946300,
+            "HTML": 3956,
+            "Lua": 592,
+            "Shell": 499
+        }
+    },
+    {
+        "name": "scalatest",
+        "description": "A testing tool for Scala and Java developers",
+        "languages": {
+            "Scala": 30392725,
+            "Java": 48211,
+            "JavaScript": 19211,
+            "CSS": 14110,
+            "Shell": 11947,
+            "Roff": 518
+        }
+    },
+    {
+        "name": "scala-async",
+        "description": "An asynchronous programming facility for Scala",
+        "languages": {
+            "Scala": 31092
+        }
+    },
+    {
+        "name": "scala-steward",
+        "description": ":robot: A bot that helps you keep your projects up-to-date",
+        "languages": {
+            "Scala": 1040807,
+            "Shell": 130
+        }
+    },
+    {
+        "name": "chimney",
+        "description": "Scala library for boilerplate-free, type-safe data transformations",
+        "languages": {
+            "Scala": 1486949,
+            "Java": 551,
+            "Shell": 523
+        }
+    },
+    {
+        "name": "griffin",
+        "description": "Mirror of Apache griffin ",
+        "languages": {
+            "Scala": 594143,
+            "Java": 559579,
+            "TypeScript": 228383,
+            "HTML": 191474,
+            "CSS": 82240,
+            "Python": 22626,
+            "JavaScript": 10014,
+            "Shell": 8592
+        }
+    },
+    {
+        "name": "freedom",
+        "description": "Source files for SiFive's Freedom platforms",
+        "languages": {
+            "Scala": 48681,
+            "C": 20829,
+            "Makefile": 5386,
+            "C++": 915,
+            "Assembly": 633
+        }
+    },
+    {
+        "name": "LearningSparkV2",
+        "description": "This is the github repo for Learning Spark: Lightning-Fast Data Analytics [2nd Edition]",
+        "languages": {
+            "Scala": 15070,
+            "Python": 9292,
+            "Java": 5946
+        }
+    },
+    {
+        "name": "scalameta",
+        "description": "Library to read, analyze, transform and generate Scala programs",
+        "languages": {
+            "Scala": 2694443,
+            "Java": 10385,
+            "JavaScript": 8685,
+            "Shell": 3406,
+            "Python": 2237,
+            "CSS": 887,
+            "HTML": 814
+        }
+    },
+    {
+        "name": "utils4s",
+        "description": "scala\u3001spark\u4f7f\u7528\u8fc7\u7a0b\u4e2d\uff0c\u5404\u79cd\u6d4b\u8bd5\u7528\u4f8b\u4ee5\u53ca\u76f8\u5173\u8d44\u6599\u6574\u7406",
+        "languages": {
+            "Scala": 73867,
+            "Java": 15314,
+            "Python": 9450,
+            "Shell": 7318
+        }
+    },
+    {
+        "name": "sbt-idea",
+        "description": "A simple-build-tool (sbt) plugin/processor for creating IntelliJ IDEA project files",
+        "languages": {
+            "Scala": 70358,
+            "Shell": 226
+        }
+    },
+    {
+        "name": "fastparse",
+        "description": "Writing Fast Parsers Fast in Scala",
+        "languages": {
+            "Scala": 696233,
+            "Python": 68481,
+            "Jsonnet": 54634,
+            "Shell": 2252
+        }
+    },
+    {
+        "name": "wartremover",
+        "description": "Flexible Scala code linting tool",
+        "languages": {
+            "Scala": 373182,
+            "Shell": 51
+        }
+    },
+    {
+        "name": "scala-pet-store",
+        "description": "An implementation of the java pet store using FP techniques in scala",
+        "languages": {
+            "Scala": 75792,
+            "Python": 16996,
+            "Shell": 1862
+        }
+    },
+    {
+        "name": "pekko",
+        "description": "Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",
+        "languages": {
+            "Scala": 18067179,
+            "Java": 9370524,
+            "Shell": 17856,
+            "Makefile": 1737,
+            "Perl": 304
+        }
+    },
+    {
+        "name": "Scala",
+        "description": "All Algorithms implemented in Scala",
+        "languages": {
+            "Scala": 27473
+        }
+    },
+    {
+        "name": "spark-csv",
+        "description": "CSV Data Source for Apache Spark 1.x",
+        "languages": {
+            "Scala": 120921,
+            "Python": 18765,
+            "Shell": 9166,
+            "Java": 1674
+        }
+    },
+    {
+        "name": "phantom",
+        "description": "Schema safe, type-safe, reactive Scala driver for Cassandra/Datastax Enterprise",
+        "languages": {
+            "Scala": 1490763,
+            "Shell": 5786,
+            "Thrift": 329
+        }
+    },
+    {
+        "name": "cassovary",
+        "description": "Cassovary is a simple big graph processing library for the JVM",
+        "languages": {
+            "Scala": 523158,
+            "Java": 5715,
+            "Shell": 3166
+        }
+    },
+    {
+        "name": "snappydata",
+        "description": "Project SnappyData - memory optimized analytics database, based on Apache Spark\u2122 and Apache Geode\u2122. Stream, Transact, Analyze, Predict in one cluster ",
+        "languages": {
+            "Scala": 6913444,
+            "Java": 1310311,
+            "C++": 265321,
+            "Shell": 149508,
+            "TSQL": 90065,
+            "Python": 58248,
+            "PHP": 56123,
+            "HTML": 32660,
+            "Assembly": 9756,
+            "NASL": 315,
+            "Pascal": 124
+        }
+    },
+    {
+        "name": "livy",
+        "description": "Livy is an open source REST interface for interacting with Apache Spark from anywhere",
+        "languages": {
+            "Scala": 541394,
+            "Java": 291476,
+            "Python": 73265,
+            "Shell": 10355,
+            "HTML": 2990,
+            "JavaScript": 2543,
+            "R": 1211,
+            "CSS": 821
+        }
+    },
+    {
+        "name": "shark",
+        "description": "Development in Shark has been ended.",
+        "languages": {
+            "Scala": 898120,
+            "Java": 36802,
+            "Shell": 36345,
+            "Python": 7893,
+            "CSS": 1023
+        }
+    },
+    {
+        "name": "flint",
+        "description": "A Time Series Library for Apache Spark",
+        "languages": {
+            "Scala": 1133804,
+            "Python": 320922,
+            "Jupyter Notebook": 20837,
+            "Shell": 6726,
+            "Java": 3757,
+            "Groovy": 1967,
+            "Makefile": 557
+        }
+    },
+    {
+        "name": "scala.rx",
+        "description": "An experimental library for Functional Reactive Programming in Scala",
+        "languages": {
+            "Scala": 93279
+        }
+    },
+    {
+        "name": "incubator-gluten",
+        "description": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
+        "languages": {
+            "Scala": 8514436,
+            "C++": 3125179,
+            "Java": 721631,
+            "Shell": 163309,
+            "CMake": 141083,
+            "Python": 30360,
+            "Dockerfile": 3509,
+            "C": 988,
+            "Makefile": 919
+        }
+    },
+    {
+        "name": "scalaj-http",
+        "description": "Simple scala wrapper for HttpURLConnection.  OAuth included.",
+        "languages": {
+            "Scala": 74659,
+            "Java": 9768
+        }
+    },
+    {
+        "name": "stream-reactor",
+        "description": "A collection of open source Apache 2.0 Kafka Connector maintained by Lenses.io.",
+        "languages": {
+            "Scala": 3664810,
+            "Java": 34490,
+            "ANTLR": 7913,
+            "Shell": 1927
+        }
+    },
+    {
+        "name": "graphframes",
+        "description": null,
+        "languages": {
+            "Scala": 236063,
+            "Python": 80856,
+            "Shell": 14687,
+            "Makefile": 6973,
+            "Dockerfile": 927,
+            "HTML": 275
+        }
+    },
+    {
+        "name": "spray-json",
+        "description": "A lightweight, clean and simple JSON implementation in Scala",
+        "languages": {
+            "Scala": 112070
+        }
+    },
+    {
+        "name": "adam",
+        "description": "ADAM is a genomics analysis platform with specialized file formats built using Apache Avro, Apache Spark, and Apache Parquet. Apache 2 licensed.",
+        "languages": {
+            "Scala": 2306076,
+            "Python": 140113,
+            "R": 101505,
+            "Java": 55385,
+            "Shell": 16324,
+            "Makefile": 4025
+        }
+    },
+    {
+        "name": "cromwell",
+        "description": "Scientific workflow engine designed for simplicity & scalability. Trivially transition between one off use cases to massive scale production environments",
+        "languages": {
+            "Scala": 8272660,
+            "Java": 1781557,
+            "WDL": 990424,
+            "Shell": 174027,
+            "Python": 109346,
+            "HTML": 11173,
+            "Dockerfile": 2763
+        }
+    },
+    {
+        "name": "sparkling-water",
+        "description": "Sparkling Water provides H2O functionality inside Spark cluster",
+        "languages": {
+            "Scala": 1752739,
+            "Python": 438535,
+            "TeX": 132039,
+            "Groovy": 119854,
+            "R": 62527,
+            "HCL": 43863,
+            "Java": 35032,
+            "Shell": 29615,
+            "Batchfile": 8719,
+            "CSS": 4539
+        }
+    },
+    {
+        "name": "elasticsearch-readonlyrest-plugin",
+        "description": "Free Elasticsearch security plugin and Kibana security plugin: super-easy Kibana multi-tenancy, Encryption, Authentication, Authorization, Auditing",
+        "languages": {
+            "Scala": 19293997,
+            "Java": 303870,
+            "Shell": 38546,
+            "Dockerfile": 22239,
+            "Python": 669
+        }
+    },
+    {
+        "name": "caliban",
+        "description": "Functional GraphQL library for Scala",
+        "languages": {
+            "Scala": 1825371,
+            "Shell": 24186,
+            "JavaScript": 2585,
+            "HTML": 211,
+            "Stylus": 52
+        }
+    },
+    {
+        "name": "simulacrum",
+        "description": "First class syntax support for type classes in Scala",
+        "languages": {
+            "Scala": 50532
+        }
+    },
+    {
+        "name": "tensorflow_scala",
+        "description": "TensorFlow API for the Scala Programming Language",
+        "languages": {
+            "Scala": 3711471,
+            "C++": 170033,
+            "Shell": 3012,
+            "CMake": 2882,
+            "Python": 2324
+        }
+    },
+    {
+        "name": "spark-redis",
+        "description": "A connector for Spark that allows reading and writing to/from Redis cluster",
+        "languages": {
+            "Scala": 203678,
+            "Shell": 9433,
+            "Makefile": 4392,
+            "Java": 390
+        }
+    },
+    {
+        "name": "BIDMach",
+        "description": "CPU and GPU-accelerated Machine Learning Library",
+        "languages": {
+            "Scala": 1306798,
+            "Jupyter Notebook": 272957,
+            "Cuda": 196349,
+            "C++": 167066,
+            "C": 117686,
+            "Python": 97206,
+            "Shell": 80659,
+            "Java": 54440,
+            "HTML": 32440,
+            "Batchfile": 10711,
+            "Lex": 5213,
+            "Makefile": 3439,
+            "Julia": 634,
+            "Lua": 443
+        }
+    },
+    {
+        "name": "squants",
+        "description": "The Scala API for Quantities, Units of Measure and Dimensional Analysis",
+        "languages": {
+            "Scala": 858941
+        }
+    },
+    {
+        "name": "kind-projector",
+        "description": "Compiler plugin for making type lambdas (type projections) easier to write",
+        "languages": {
+            "Scala": 41290,
+            "Nix": 931,
+            "Shell": 718
+        }
+    },
+    {
+        "name": "scala-logging",
+        "description": "Convenient and performant logging library for Scala wrapping SLF4J.",
+        "languages": {
+            "Scala": 141110
+        }
+    },
+    {
+        "name": "SparkCTR",
+        "description": "CTR prediction model based on spark(LR, GBDT, DNN)",
+        "languages": {
+            "Scala": 92390,
+            "Java": 18865
+        }
+    },
+    {
+        "name": "RxScala",
+        "description": "RxScala \u2013 Reactive Extensions for Scala \u2013 a library for composing asynchronous and event-based programs using observable sequences",
+        "languages": {
+            "Scala": 510819,
+            "Shell": 910
+        }
+    },
+    {
+        "name": "tispark",
+        "description": "TiSpark is built for running Apache Spark on top of TiDB/TiKV",
+        "languages": {
+            "Scala": 1508659,
+            "Java": 1058935,
+            "ANTLR": 71655,
+            "Starlark": 6514,
+            "Shell": 2342,
+            "Makefile": 201
+        }
+    },
+    {
+        "name": "bloop",
+        "description": "Bloop is a build server and CLI tool to compile, test and run Scala fast from any editor or build tool.",
+        "languages": {
+            "Scala": 1895185,
+            "Java": 56413,
+            "JavaScript": 35745,
+            "CSS": 15443,
+            "Shell": 8323,
+            "Python": 1375
+        }
+    },
+    {
+        "name": "Antox",
+        "description": "Android client for Project Tox - Secure Peer to Peer Messaging",
+        "languages": {
+            "Scala": 500985,
+            "Java": 68769,
+            "RenderScript": 2193,
+            "Batchfile": 2032,
+            "Shell": 1648
+        }
+    },
+    {
+        "name": "frameless",
+        "description": "Expressive types for Spark.",
+        "languages": {
+            "Scala": 665572,
+            "Shell": 1576
+        }
+    },
+    {
+        "name": "nscala-time",
+        "description": "A new Scala wrapper for Joda Time based on scala-time",
+        "languages": {
+            "Scala": 84281
         }
     }
 ]

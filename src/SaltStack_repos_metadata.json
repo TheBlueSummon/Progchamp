@@ -59,5 +59,1864 @@
             "Python": 6893,
             "Jinja": 655
         }
+    },
+    {
+        "name": "salt-formula",
+        "description": "Yes, Salt can Salt itself!",
+        "languages": {
+            "SaltStack": 33264,
+            "Ruby": 8970,
+            "Jinja": 8505,
+            "JavaScript": 4706,
+            "Shell": 2035
+        }
+    },
+    {
+        "name": "nginx-formula",
+        "description": "Nginx Salt Formula",
+        "languages": {
+            "SaltStack": 26119,
+            "Ruby": 13678,
+            "Jinja": 12753,
+            "JavaScript": 4707,
+            "Shell": 1426
+        }
+    },
+    {
+        "name": "docker-formula",
+        "description": "Install and set up Docker",
+        "languages": {
+            "SaltStack": 58498,
+            "Ruby": 17904,
+            "Jinja": 10431,
+            "JavaScript": 4708,
+            "Shell": 1426,
+            "Python": 563,
+            "Dockerfile": 302
+        }
+    },
+    {
+        "name": "Salty-WordPress",
+        "description": "A flavorful way to manage your entire WordPress stack.",
+        "languages": {
+            "SaltStack": 8741,
+            "Nginx": 1692,
+            "Shell": 1220
+        }
+    },
+    {
+        "name": "salt-config-example",
+        "description": "Example SaltStack configuration",
+        "languages": {
+            "SaltStack": 21541,
+            "Nginx": 1097,
+            "DIGITAL Command Language": 1055,
+            "HTML": 795,
+            "Shell": 477
+        }
+    },
+    {
+        "name": "psf-salt",
+        "description": "PSF infrastructure configuration",
+        "languages": {
+            "SaltStack": 200602,
+            "Jinja": 96842,
+            "Python": 69468,
+            "Shell": 4763,
+            "HTML": 576,
+            "C": 198
+        }
+    },
+    {
+        "name": "salt-winrepo",
+        "description": "Salt Windows Software Package Manager Repo",
+        "languages": {
+            "SaltStack": 321934,
+            "Python": 5530
+        }
+    },
+    {
+        "name": "salt-winrepo-ng",
+        "description": "Jinja templated winrepo",
+        "languages": {
+            "SaltStack": 308282,
+            "PowerShell": 39395,
+            "Batchfile": 16970,
+            "Python": 10056
+        }
+    },
+    {
+        "name": "users-formula",
+        "description": "Configure users via pillar",
+        "languages": {
+            "SaltStack": 27946,
+            "Ruby": 5998,
+            "Vim Script": 5801,
+            "JavaScript": 4707,
+            "Jinja": 3562,
+            "Shell": 2250
+        }
+    },
+    {
+        "name": "framework-laptop-formula",
+        "description": "Salt formula for setting up Ubuntu on the Framework Laptop",
+        "languages": {
+            "SaltStack": 23312,
+            "Python": 1790,
+            "Shell": 1195,
+            "Jinja": 830
+        }
+    },
+    {
+        "name": "sift-saltstack",
+        "description": "Salt States for Configuring the SIFT Workstation",
+        "languages": {
+            "SaltStack": 142208,
+            "Python": 128871,
+            "YARA": 9380,
+            "Perl": 7415,
+            "Shell": 6257,
+            "Dockerfile": 402
+        }
+    },
+    {
+        "name": "mysql-formula",
+        "description": "Install the MySQL client and/or server",
+        "languages": {
+            "SaltStack": 32985,
+            "Python": 5917,
+            "Ruby": 5796,
+            "JavaScript": 4707,
+            "Jinja": 2205,
+            "Shell": 2017
+        }
+    },
+    {
+        "name": "postgres-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 27419,
+            "Jinja": 11029,
+            "Ruby": 9901,
+            "JavaScript": 4710,
+            "Shell": 1703
+        }
+    },
+    {
+        "name": "ec2-autoscale-reactor",
+        "description": "Autonomous Minion Management via EC2 Autoscaler",
+        "languages": {
+            "SaltStack": 3188
+        }
+    },
+    {
+        "name": "saltbook-code",
+        "description": "\u300aSaltStack\u6280\u672f\u5165\u95e8\u4e0e\u5b9e\u6218\u300b\u7b2c\u4e09\u7ae0\uff1aSaltStack\u5b9e\u8df5\u6848\u4f8b\u6e90\u7801",
+        "languages": {
+            "SaltStack": 12048,
+            "Shell": 9009,
+            "Scheme": 487
+        }
+    },
+    {
+        "name": "linux-salted",
+        "description": null,
+        "languages": {
+            "SaltStack": 22447,
+            "Python": 5429,
+            "Shell": 2942,
+            "PowerShell": 1296,
+            "Haskell": 1250,
+            "Scheme": 31
+        }
+    },
+    {
+        "name": "salt-kubeadm",
+        "description": "SaltStack\u4f7f\u7528kubeadm\u65b9\u5f0f\u81ea\u52a8\u5316\u90e8\u7f72Kubernetes\u73b0\u5df2\u652f\u6301\u9ad8\u53ef\u7528\uff01",
+        "languages": {
+            "SaltStack": 11668,
+            "Shell": 312
+        }
+    },
+    {
+        "name": "salt-formula-linux",
+        "description": null,
+        "languages": {
+            "SaltStack": 139802,
+            "Jinja": 18794,
+            "Shell": 16581,
+            "Python": 13973,
+            "Makefile": 5376,
+            "Ruby": 2182,
+            "D": 207
+        }
+    },
+    {
+        "name": "salt-openstack",
+        "description": null,
+        "languages": {
+            "SaltStack": 313806,
+            "Python": 129673,
+            "HTML": 2307
+        }
+    },
+    {
+        "name": "salt-example",
+        "description": "SaltStack\u81ea\u52a8\u5316\u90e8\u7f72\u300a\u4e2d\u5c0f\u578bWeb\u67b6\u6784\u300b\u5b8c\u6574\u9879\u76ee\u6848\u4f8b",
+        "languages": {
+            "SaltStack": 11195,
+            "Shell": 2397,
+            "Scheme": 261
+        }
+    },
+    {
+        "name": "saltfs",
+        "description": "Salt Stack Filesystem",
+        "languages": {
+            "SaltStack": 18861,
+            "Python": 9886,
+            "Shell": 6779,
+            "Jinja": 2308
+        }
+    },
+    {
+        "name": "salt-ops",
+        "description": "Repository for building, managing and deploying salt-based infrastructure",
+        "languages": {
+            "SaltStack": 148858,
+            "Jinja": 26685,
+            "Shell": 2483,
+            "Python": 245
+        }
+    },
+    {
+        "name": "lyft_envoy_dashboards",
+        "description": "Sample dashboards for Envoy that we use at Lyft",
+        "languages": {
+            "SaltStack": 103813
+        }
+    },
+    {
+        "name": "hphr",
+        "description": "Halophile Router (a VyOS-based, SaltStack-automated, NetBox-configured router for small provider networks)",
+        "languages": {
+            "SaltStack": 16815,
+            "Python": 11363,
+            "Scheme": 2257,
+            "Shell": 1335
+        }
+    },
+    {
+        "name": "jenkins-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 6964,
+            "HTML": 956,
+            "Ruby": 529
+        }
+    },
+    {
+        "name": "rancher-salt",
+        "description": "Salt states for Rancher container platform deployment",
+        "languages": {
+            "SaltStack": 11338,
+            "Shell": 2495,
+            "Ruby": 1970,
+            "HTML": 275
+        }
+    },
+    {
+        "name": "saltstackv2",
+        "description": "Gen2 of my Kubernetes saltstack implementation",
+        "languages": {
+            "SaltStack": 9487,
+            "Scheme": 880,
+            "Shell": 378
+        }
+    },
+    {
+        "name": "fail2ban-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 5827,
+            "Ruby": 5568,
+            "JavaScript": 4710,
+            "Jinja": 1535,
+            "Shell": 1426
+        }
+    },
+    {
+        "name": "os-hardening-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 11021,
+            "HTML": 1189,
+            "Shell": 494
+        }
+    },
+    {
+        "name": "pxesaltbase-formula",
+        "description": "Build a basic DevOps based infrastructure using Ubuntu, SaltStack, gitfs, and PXE",
+        "languages": {
+            "SaltStack": 17224,
+            "Shell": 14224,
+            "HTML": 118
+        }
+    },
+    {
+        "name": "hadoop-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 70365,
+            "Shell": 6883,
+            "HTML": 1025
+        }
+    },
+    {
+        "name": "salt-cloud-reactor",
+        "description": "Autonomous Minion Management via Salt Cloud",
+        "languages": {
+            "SaltStack": 1012
+        }
+    },
+    {
+        "name": "saltstack-prometheus-formula",
+        "description": "SaltStack formula to manage Prometheus, a service monitoring system and time series database",
+        "languages": {
+            "SaltStack": 7824
+        }
+    },
+    {
+        "name": "salt-states",
+        "description": "This repository maintains the SaltStack state files for the REMnux distro.",
+        "languages": {
+            "SaltStack": 321566,
+            "Python": 10738,
+            "Shell": 9196,
+            "JavaScript": 1926
+        }
+    },
+    {
+        "name": "margarita",
+        "description": "A collection of delicious Salt states for Django project deployments.",
+        "languages": {
+            "SaltStack": 44522,
+            "Python": 8648,
+            "Shell": 6265
+        }
+    },
+    {
+        "name": "salt-k8s-ha",
+        "description": "SaltStack\u81ea\u52a8\u5316\u90e8\u7f72Kubernetes-HA\u96c6\u7fa4\u3001\u4e8c\u8fdb\u5236\u90e8\u7f72\u3001\u4fbf\u4e8e\u7406\u89e3\u539f\u7406",
+        "languages": {
+            "SaltStack": 41659,
+            "Shell": 1735
+        }
+    },
+    {
+        "name": "raspberry-openvpn-gateway",
+        "description": "A Raspberry Pi-based OpenVPN sharing gateway",
+        "languages": {
+            "SaltStack": 9028,
+            "Shell": 72
+        }
+    },
+    {
+        "name": "securityonion-velociraptor",
+        "description": "Run Velociraptor on Security Onion",
+        "languages": {
+            "SaltStack": 14901,
+            "Shell": 11617,
+            "Jinja": 786
+        }
+    },
+    {
+        "name": "saltconsul-examples",
+        "description": "Setup an environment with Salt and Consul - ready for the cloud!",
+        "languages": {
+            "SaltStack": 8838,
+            "HCL": 2568,
+            "Nginx": 1841,
+            "Shell": 1392,
+            "HTML": 410,
+            "Batchfile": 343,
+            "Ruby": 286
+        }
+    },
+    {
+        "name": "mongodb-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 44965,
+            "Jinja": 13047,
+            "Ruby": 8705,
+            "JavaScript": 4709,
+            "Shell": 2940
+        }
+    },
+    {
+        "name": "iptables-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 11544,
+            "Ruby": 7100,
+            "JavaScript": 4710,
+            "Shell": 1426,
+            "Jinja": 737
+        }
+    },
+    {
+        "name": "saltymill",
+        "description": "Tillmill scripts in SaltStack",
+        "languages": {
+            "SaltStack": 36449,
+            "Shell": 11563,
+            "HTML": 3230,
+            "Python": 879,
+            "Scheme": 360
+        }
+    },
+    {
+        "name": "gitlab-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 14278,
+            "Ruby": 5898,
+            "HTML": 533
+        }
+    },
+    {
+        "name": "devvm",
+        "description": "Spryker DevVM (development vm)",
+        "languages": {
+            "SaltStack": 111788,
+            "Ruby": 34248,
+            "Shell": 23608,
+            "PHP": 5121
+        }
+    },
+    {
+        "name": "docka-docka-docka",
+        "description": "An example project for docker in dev, test, and prod with automated tests and deployments.",
+        "languages": {
+            "SaltStack": 2709,
+            "Python": 168
+        }
+    },
+    {
+        "name": "onionsalt",
+        "description": "Onion Salt git Repo",
+        "languages": {
+            "SaltStack": 10808
+        }
+    },
+    {
+        "name": "kinetic",
+        "description": "(MIRROR) Deployment and maintenance tool for Cyber Ranges.  Core components are salt, openstack, and ceph.",
+        "languages": {
+            "SaltStack": 349499,
+            "Python": 183548,
+            "Shell": 19026,
+            "JavaScript": 3930,
+            "HTML": 264,
+            "Java": 140
+        }
+    },
+    {
+        "name": "masterless-salt-base",
+        "description": "Quickly bootstrap a generic(ish) Ubuntu server ready to host Docker containers",
+        "languages": {
+            "SaltStack": 2862
+        }
+    },
+    {
+        "name": "prometheus-formula",
+        "description": "Manage a Prometheus installation",
+        "languages": {
+            "SaltStack": 40731,
+            "Ruby": 15462,
+            "Jinja": 9601,
+            "Shell": 8788,
+            "JavaScript": 4712,
+            "Awk": 1839
+        }
+    },
+    {
+        "name": "node-formula",
+        "description": "Manage node.js with SaltStack",
+        "languages": {
+            "SaltStack": 11304,
+            "Ruby": 9106,
+            "Jinja": 8229,
+            "JavaScript": 4706,
+            "Shell": 1426
+        }
+    },
+    {
+        "name": "saltstack",
+        "description": "Reference SaltStack repository",
+        "languages": {
+            "SaltStack": 80316,
+            "Ruby": 31661,
+            "Shell": 23601,
+            "PHP": 5121,
+            "Scheme": 195
+        }
+    },
+    {
+        "name": "buddycloud-vm",
+        "description": "The complete Buddycloud stack in a VM",
+        "languages": {
+            "SaltStack": 3169,
+            "Scheme": 2845,
+            "Shell": 806
+        }
+    },
+    {
+        "name": "logstash-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 4833,
+            "Jinja": 2321
+        }
+    },
+    {
+        "name": "sun-java-formula",
+        "description": "Flexible provisioning for JDK and JRE tarballs",
+        "languages": {
+            "SaltStack": 13963,
+            "Shell": 66
+        }
+    },
+    {
+        "name": "ceph-open-terrarium",
+        "description": "ceph-open-terrarium: deploy with terraform-libvirt ceph cluster.. Configure with saltstack or ansible.",
+        "languages": {
+            "SaltStack": 8281,
+            "HCL": 5902,
+            "Python": 3981,
+            "Shell": 388
+        }
+    },
+    {
+        "name": "systemd-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 11675,
+            "Ruby": 11395,
+            "Jinja": 7220,
+            "JavaScript": 4709,
+            "Shell": 1426
+        }
+    },
+    {
+        "name": "salt-api-reactor-formula",
+        "description": "A Saltstack salt-api and reactor formula for integrating HTTP webhooks with Saltstack executions",
+        "languages": {
+            "SaltStack": 3554
+        }
+    },
+    {
+        "name": "openstack-standalone-formula",
+        "description": "Single Server OpenStack",
+        "languages": {
+            "SaltStack": 3948
+        }
+    },
+    {
+        "name": "alkali",
+        "description": "A SaltStack starter kit of sorts including state and pillar trees that provide just the basics for provisioning Linux instances that may be built upon.",
+        "languages": {
+            "SaltStack": 15536,
+            "Shell": 1936,
+            "HTML": 846
+        }
+    },
+    {
+        "name": "rabbitmq-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 37910,
+            "Jinja": 26901,
+            "Ruby": 12549,
+            "JavaScript": 4710,
+            "Shell": 1426
+        }
+    },
+    {
+        "name": "elasticsearch-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 5785,
+            "Python": 1075,
+            "Ruby": 924,
+            "HTML": 208,
+            "Shell": 137
+        }
+    },
+    {
+        "name": "qubes-qrexec-to-tcp",
+        "description": "Qubes Split GPG configuration for qubes-gpg-server over TCP",
+        "languages": {
+            "SaltStack": 1372,
+            "Shell": 186
+        }
+    },
+    {
+        "name": "nagios-formula",
+        "description": "nagios-formula",
+        "languages": {
+            "SaltStack": 10088,
+            "HTML": 3165
+        }
+    },
+    {
+        "name": "saltstack-elasticsearch-formula",
+        "description": "Salt Stack Formula to set up and configure Elasticsearch, a distributed restful search and analytics server",
+        "languages": {
+            "SaltStack": 13006
+        }
+    },
+    {
+        "name": "saltstack-base",
+        "description": "Bare-metal provisioning using SaltStack on CentOS 7",
+        "languages": {
+            "SaltStack": 54737,
+            "Shell": 10706,
+            "HTML": 392,
+            "Vim Script": 30
+        }
+    },
+    {
+        "name": "sre-salt-prime",
+        "description": "Site Reliability Engineering / DevOps SaltStack configuration files",
+        "languages": {
+            "SaltStack": 209563,
+            "Shell": 23491,
+            "Python": 11353,
+            "PHP": 3998,
+            "Jinja": 238
+        }
+    },
+    {
+        "name": "salt-formula-freeipa",
+        "description": null,
+        "languages": {
+            "SaltStack": 26821,
+            "Shell": 5686,
+            "Makefile": 5376,
+            "Jinja": 5022
+        }
+    },
+    {
+        "name": "collectd-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 22483,
+            "Jinja": 8410,
+            "Ruby": 7423,
+            "JavaScript": 4710,
+            "Shell": 1426
+        }
+    },
+    {
+        "name": "salt-states-base",
+        "description": "Collection of salt states for basic system configuration",
+        "languages": {
+            "SaltStack": 60050,
+            "Python": 29298,
+            "Perl": 15371,
+            "Makefile": 5608,
+            "Batchfile": 5125,
+            "HTML": 4073,
+            "Vim Script": 2566,
+            "Shell": 1411,
+            "ApacheConf": 1222,
+            "Smarty": 599
+        }
+    },
+    {
+        "name": "kubernetes-formula",
+        "description": "Salt formula to manage kubernetes",
+        "languages": {
+            "SaltStack": 86942,
+            "Jinja": 73105,
+            "Ruby": 38152,
+            "JavaScript": 4583,
+            "Shell": 923
+        }
+    },
+    {
+        "name": "rainbond-install",
+        "description": "Saltstack recipe to deploy Rainbond (abandoned)",
+        "languages": {
+            "SaltStack": 86902,
+            "Shell": 72575,
+            "LiveScript": 5650,
+            "HTML": 3727,
+            "Dockerfile": 2958,
+            "Python": 59
+        }
+    },
+    {
+        "name": "Introduction-to-Saltstack",
+        "description": null,
+        "languages": {
+            "SaltStack": 12160,
+            "HTML": 1185,
+            "Shell": 270,
+            "Jupyter Notebook": 72,
+            "Vim Script": 11
+        }
+    },
+    {
+        "name": "icinga2-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 19226,
+            "Ruby": 12780,
+            "Jinja": 5067,
+            "JavaScript": 4709,
+            "Shell": 1426,
+            "Python": 1282
+        }
+    },
+    {
+        "name": "salt-ssh-install-salt-minion",
+        "description": "\u5229\u7528salt-ssh\u6279\u91cf\u90e8\u7f72salt-minion",
+        "languages": {
+            "SaltStack": 1021,
+            "Shell": 392
+        }
+    },
+    {
+        "name": "qubes-infrastructure",
+        "description": "Qubes OS infrastructure configuration",
+        "languages": {
+            "SaltStack": 34437,
+            "Shell": 3414,
+            "Makefile": 1862
+        }
+    },
+    {
+        "name": "aptly-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 10919,
+            "HTML": 2401
+        }
+    },
+    {
+        "name": "openmediavault-webdav",
+        "description": "webdav plugin for OpenMediaVault",
+        "languages": {
+            "SaltStack": 4430,
+            "PHP": 3847,
+            "Shell": 1629
+        }
+    },
+    {
+        "name": "banquise",
+        "description": "Cluster stack based on Salt",
+        "languages": {
+            "SaltStack": 75851,
+            "HTML": 45127,
+            "Scheme": 10060,
+            "Shell": 3319
+        }
+    },
+    {
+        "name": "saphanabootstrap-formula",
+        "description": "SAP HANA platform bootstrap salt formula",
+        "languages": {
+            "SaltStack": 28678,
+            "Jinja": 19572,
+            "Makefile": 3256,
+            "Shell": 140
+        }
+    },
+    {
+        "name": "ash-linux-formula",
+        "description": "Automated System Hardening (ash-linux) is a Salt formula to apply SCAP benchmarks to Linux systems",
+        "languages": {
+            "SaltStack": 433129,
+            "Shell": 172165,
+            "Python": 11748,
+            "Scheme": 682,
+            "Jinja": 430,
+            "Dockerfile": 288,
+            "Makefile": 224
+        }
+    },
+    {
+        "name": "salt-states",
+        "description": "IRTNOG Salt State (SLS) modules",
+        "languages": {
+            "SaltStack": 13834
+        }
+    },
+    {
+        "name": "salt-formula-docker",
+        "description": null,
+        "languages": {
+            "SaltStack": 28447,
+            "Python": 13899,
+            "Shell": 5716,
+            "Makefile": 5376,
+            "HTML": 2010
+        }
+    },
+    {
+        "name": "secure-sshd-salt",
+        "description": "Salt recipe to automatically secure sshd (and piss off the NSA)",
+        "languages": {
+            "SaltStack": 3329
+        }
+    },
+    {
+        "name": "alcali-formula",
+        "description": "Saltstack formula to install Alcali: a web based tool(GUI) for monitoring and administrating Saltstack Salt.",
+        "languages": {
+            "SaltStack": 7285,
+            "Ruby": 1540,
+            "HTML": 708
+        }
+    },
+    {
+        "name": "kubernetes-dev-stack",
+        "description": "Automation of Kubernetes 1.6.0.alpha3 on Centos 7.3 (kernel 4.9.5, docker 1.13.1, flannel 0.7.0)",
+        "languages": {
+            "SaltStack": 20138,
+            "Ruby": 12473,
+            "Shell": 8924,
+            "Scheme": 162
+        }
+    },
+    {
+        "name": "salt-microservices",
+        "description": "Docker-based microservice deployment with service discovery",
+        "languages": {
+            "SaltStack": 29635,
+            "Python": 28951
+        }
+    },
+    {
+        "name": "graphite-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 13710,
+            "Python": 8308,
+            "Shell": 3095
+        }
+    },
+    {
+        "name": "cuckoo-salt",
+        "description": "SaltStack formula for deploying Cuckoo Sandbox",
+        "languages": {
+            "SaltStack": 18935,
+            "Shell": 4441
+        }
+    },
+    {
+        "name": "salt-stack-modules",
+        "description": "Salt Stack modules",
+        "languages": {
+            "SaltStack": 88798,
+            "Lua": 80539,
+            "JavaScript": 72442,
+            "HTML": 63716,
+            "Shell": 26284,
+            "Python": 13908,
+            "CSS": 5377,
+            "Vim Script": 3587,
+            "Nginx": 2503
+        }
+    },
+    {
+        "name": "memcached-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 2892,
+            "HTML": 2379
+        }
+    },
+    {
+        "name": "saltstack",
+        "description": "Simple Salt Stack to be used as an example.",
+        "languages": {
+            "SaltStack": 5169,
+            "Shell": 3811,
+            "Nginx": 889,
+            "Scheme": 604,
+            "Vim Script": 10
+        }
+    },
+    {
+        "name": "disa_stig7",
+        "description": "Salt automation for applying and enforcing the DISA stigs for RHEL/CentOS 7",
+        "languages": {
+            "SaltStack": 60272,
+            "Python": 9730,
+            "HTML": 1389
+        }
+    },
+    {
+        "name": "git-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 1934,
+            "HTML": 671
+        }
+    },
+    {
+        "name": "salt-states",
+        "description": "My salt states, restarted December 2015",
+        "languages": {
+            "SaltStack": 41896,
+            "Shell": 2492
+        }
+    },
+    {
+        "name": "salt-django-stack",
+        "description": "Salt formulas to setup Django with Gunicorn, Nginx, Redis and Varnish.",
+        "languages": {
+            "SaltStack": 60149,
+            "Perl": 46956,
+            "Shell": 15438,
+            "HTML": 5895,
+            "Python": 5793
+        }
+    },
+    {
+        "name": "vmware-tools-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 1733,
+            "HTML": 880
+        }
+    },
+    {
+        "name": "saltstack-network-formula",
+        "description": "Salt Stack Formula to set up and configure a host's network configuration",
+        "languages": {
+            "SaltStack": 6338
+        }
+    },
+    {
+        "name": "salt-cassandra-formula",
+        "description": "Salt Formula to set up and configure Cassandra cluster",
+        "languages": {
+            "SaltStack": 3706,
+            "Shell": 2787
+        }
+    },
+    {
+        "name": "habootstrap-formula",
+        "description": "Salt formula for bootstrapping an HA cluster",
+        "languages": {
+            "SaltStack": 14989,
+            "Shell": 2363,
+            "Jinja": 2291,
+            "Python": 101
+        }
+    },
+    {
+        "name": "automation_summit_Q3_2018",
+        "description": "Lab guide for Juniper automation summit. Hands on Labs around Event Driven automation",
+        "languages": {
+            "SaltStack": 8273,
+            "Python": 2025,
+            "Scheme": 264
+        }
+    },
+    {
+        "name": "salt-qa",
+        "description": "Salt sls tree and pillar used in official qa process",
+        "languages": {
+            "SaltStack": 10972,
+            "Vim Script": 4092,
+            "Shell": 404,
+            "Python": 170
+        }
+    },
+    {
+        "name": "saltstack-foreman-formula",
+        "description": "Salt Stack Formula to set up and configure the lifecycle management tool Foreman",
+        "languages": {
+            "SaltStack": 14069
+        }
+    },
+    {
+        "name": "frankenstack",
+        "description": "Busted. With duct tape, spit and tears. Brought to you by beer.",
+        "languages": {
+            "SaltStack": 42901,
+            "Jinja": 37834,
+            "Python": 23704,
+            "PowerShell": 1667
+        }
+    },
+    {
+        "name": "freeswitch-kickstart",
+        "description": "Vagrant/Salt configuration for automatically deploying a FreeSWITCH server.",
+        "languages": {
+            "SaltStack": 26503,
+            "Shell": 15343,
+            "HTML": 10011,
+            "Ruby": 3486
+        }
+    },
+    {
+        "name": "openmediavault-ldap",
+        "description": "Adapts official LDAP plugin from OMV4 to OMV5",
+        "languages": {
+            "SaltStack": 8273,
+            "JavaScript": 5504,
+            "PHP": 4659,
+            "Shell": 4438,
+            "Jinja": 3196
+        }
+    },
+    {
+        "name": "saltbox-vagrant",
+        "description": "A Vagrant VM that uses SaltStack to setup a SaltStack sandbox for SaltStack demonstration",
+        "languages": {
+            "SaltStack": 7996,
+            "ApacheConf": 1578
+        }
+    },
+    {
+        "name": "winfor-salt",
+        "description": "Windows Forensics Salt States",
+        "languages": {
+            "SaltStack": 579932,
+            "PowerShell": 250522,
+            "Python": 23732,
+            "Batchfile": 11085,
+            "Shell": 3223
+        }
+    },
+    {
+        "name": "qusal",
+        "description": "Salt Formulas for Qubes OS.",
+        "languages": {
+            "SaltStack": 264763,
+            "Shell": 79943,
+            "Jinja": 4447
+        }
+    },
+    {
+        "name": "salt-formula-letsencrypt",
+        "description": null,
+        "languages": {
+            "SaltStack": 6806,
+            "Makefile": 5376,
+            "Shell": 4141,
+            "HTML": 670
+        }
+    },
+    {
+        "name": "saltstack-mesos-test",
+        "description": "Deploy a mesos docker cluster with saltstack",
+        "languages": {
+            "SaltStack": 16939,
+            "Nginx": 1659,
+            "Shell": 1221,
+            "HCL": 1161,
+            "HTML": 243
+        }
+    },
+    {
+        "name": "virtualenv-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 4019,
+            "HTML": 744
+        }
+    },
+    {
+        "name": "resolver-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 3437,
+            "Jinja": 1948,
+            "Ruby": 90
+        }
+    },
+    {
+        "name": "salt_cis_centos7",
+        "description": "CIS Benchmark for Centos 7 (using Saltstack Configuration Management Platform)",
+        "languages": {
+            "SaltStack": 104311,
+            "Shell": 24038,
+            "Scheme": 541
+        }
+    },
+    {
+        "name": "packages-formula",
+        "description": "A simple 'packages manager' formula, to install/remove packages without further ado.",
+        "languages": {
+            "SaltStack": 18321,
+            "Ruby": 15351,
+            "JavaScript": 4710,
+            "Shell": 1426,
+            "Jinja": 1339
+        }
+    },
+    {
+        "name": "firewalld-formula",
+        "description": "Salt Stack Formula to set up and configure Firewalld, dynamically managed firewall with support for network/firewall zones to define the trust level of network connections or interfaces",
+        "languages": {
+            "SaltStack": 9266,
+            "JavaScript": 4461,
+            "Ruby": 1817,
+            "Shell": 911,
+            "HTML": 732
+        }
+    },
+    {
+        "name": "cis-benchmark-formula",
+        "description": "SaltStack formula for enforcing part of the CIS Benchmarks",
+        "languages": {
+            "SaltStack": 3109,
+            "HTML": 586
+        }
+    },
+    {
+        "name": "saltstack-slurm-example",
+        "description": "Build a Slurm Cluster using SaltStack in virtual machines",
+        "languages": {
+            "SaltStack": 10811,
+            "Shell": 1801
+        }
+    },
+    {
+        "name": "grafana-formula",
+        "description": "Manage Grafana via Salt",
+        "languages": {
+            "SaltStack": 12514,
+            "Jinja": 8766,
+            "Ruby": 8067,
+            "JavaScript": 4709,
+            "Shell": 1426
+        }
+    },
+    {
+        "name": "salt-formula-prometheus",
+        "description": "Salt Formula for Prometheus monitoring",
+        "languages": {
+            "SaltStack": 15460,
+            "Shell": 5659,
+            "Makefile": 5376,
+            "HTML": 1779
+        }
+    },
+    {
+        "name": "openstack-automation-saltstack",
+        "description": "Openstack deployment using saltstack",
+        "languages": {
+            "SaltStack": 95063,
+            "HTML": 3033,
+            "Scheme": 2538
+        }
+    },
+    {
+        "name": "salt-formula-cis",
+        "description": "Salt Formula to assist with implementation of hardening, assessment and report collection from Salt minions",
+        "languages": {
+            "SaltStack": 34525,
+            "Python": 11279,
+            "HTML": 5725,
+            "Shell": 137
+        }
+    },
+    {
+        "name": "wireguard-formula",
+        "description": "Saltstack formula for wireguard",
+        "languages": {
+            "SaltStack": 2299,
+            "HTML": 864
+        }
+    },
+    {
+        "name": "fpco-salt-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 183227,
+            "HCL": 22608,
+            "HTML": 20590,
+            "Ruby": 13672,
+            "Shell": 8524,
+            "Makefile": 2555,
+            "Python": 1711,
+            "Smarty": 934
+        }
+    },
+    {
+        "name": "automated_junos_configuration_backup_on_git_with_syslog_saltstack",
+        "description": "At each junos commit, SaltStack automatically collects the new junos configuration file and archives it to a git server ",
+        "languages": {
+            "SaltStack": 2718,
+            "Scheme": 146
+        }
+    },
+    {
+        "name": "salt-formula-elasticsearch",
+        "description": null,
+        "languages": {
+            "SaltStack": 8624,
+            "Shell": 5686,
+            "Makefile": 5376,
+            "Scheme": 2980,
+            "HTML": 1258
+        }
+    },
+    {
+        "name": "salt-states",
+        "description": "WebPlatform.org Salt Stack deployment scripts",
+        "languages": {
+            "SaltStack": 169108,
+            "HTML": 135561,
+            "Shell": 30762,
+            "Python": 20617,
+            "Scheme": 14124,
+            "Vim Script": 3832,
+            "CSS": 2659,
+            "Makefile": 1947,
+            "PHP": 204
+        }
+    },
+    {
+        "name": "graylog-formula",
+        "description": "Salt formula to manage graylog installations on RHEL and Debian based systems.",
+        "languages": {
+            "SaltStack": 12233,
+            "HTML": 7238
+        }
+    },
+    {
+        "name": "mariadb-saltstack-formula",
+        "description": "A set of MariaDB/MySQL formulas for SaltStack.",
+        "languages": {
+            "SaltStack": 18920
+        }
+    },
+    {
+        "name": "uwsgi-formula",
+        "description": "Salt formula to manage uwsgi",
+        "languages": {
+            "SaltStack": 12638,
+            "HTML": 6502
+        }
+    },
+    {
+        "name": "salt-formula-glusterfs",
+        "description": "Salt formula to setup GlusterFS server and client",
+        "languages": {
+            "SaltStack": 8762,
+            "Shell": 5686,
+            "Makefile": 5376,
+            "HTML": 1532
+        }
+    },
+    {
+        "name": "saltstack-elk-formula",
+        "description": "DevOps SaltStack Formual for ELK Unified Logging Stack - Elasticsearch, Logstash and Kibana",
+        "languages": {
+            "SaltStack": 5875,
+            "Scheme": 2659,
+            "HCL": 518,
+            "Shell": 515
+        }
+    },
+    {
+        "name": "saltstack-consul-demo",
+        "description": null,
+        "languages": {
+            "SaltStack": 1145,
+            "Shell": 221
+        }
+    },
+    {
+        "name": "cloudopen-na-2015",
+        "description": null,
+        "languages": {
+            "SaltStack": 4403,
+            "Python": 4055,
+            "Shell": 712
+        }
+    },
+    {
+        "name": "predictive-orchestration",
+        "description": "Predictive orchestration demo for SaltConf16",
+        "languages": {
+            "SaltStack": 3926,
+            "Python": 335,
+            "HTML": 170
+        }
+    },
+    {
+        "name": "openvpn-client-formula",
+        "description": "A saltstack formula for pushing keys and config to openvpn clients.",
+        "languages": {
+            "SaltStack": 816
+        }
+    },
+    {
+        "name": "pavedroad",
+        "description": "A currated set of tools for building a complete development environment for Go/GoLang, Vim, Docker, Kuberentes and supporting CI/CD tools with a single command",
+        "languages": {
+            "SaltStack": 95930,
+            "Shell": 36835,
+            "Vim Script": 19430,
+            "Makefile": 5564,
+            "Smarty": 3678,
+            "Python": 3288,
+            "Dockerfile": 2462,
+            "Go": 74
+        }
+    },
+    {
+        "name": "saltstack-formulas",
+        "description": "Saltstack states for various components",
+        "languages": {
+            "SaltStack": 86677,
+            "Python": 50773,
+            "Shell": 18039,
+            "HTML": 10373,
+            "SQLPL": 716,
+            "Clojure": 688,
+            "PLpgSQL": 378,
+            "Scheme": 171,
+            "Ruby": 91
+        }
+    },
+    {
+        "name": "salt-formula-midonet",
+        "description": "Midonet salt formula",
+        "languages": {
+            "SaltStack": 5650,
+            "Shell": 4139,
+            "HTML": 1393,
+            "Makefile": 927,
+            "JavaScript": 528,
+            "Scheme": 232
+        }
+    },
+    {
+        "name": "salt-docker",
+        "description": "An easy test environment for saltstack",
+        "languages": {
+            "SaltStack": 1168,
+            "Shell": 800,
+            "Scheme": 92
+        }
+    },
+    {
+        "name": "python2-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 1100,
+            "HTML": 784
+        }
+    },
+    {
+        "name": "k8s-salt",
+        "description": null,
+        "languages": {
+            "SaltStack": 24836,
+            "Shell": 4263
+        }
+    },
+    {
+        "name": "butt-as-a-service",
+        "description": "[wip] provision and monitor Scuttlebutt bots in the cloud",
+        "languages": {
+            "SaltStack": 6460
+        }
+    },
+    {
+        "name": "kafka-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 4781
+        }
+    },
+    {
+        "name": "salt-formula-galera",
+        "description": null,
+        "languages": {
+            "SaltStack": 25981,
+            "Scheme": 20742,
+            "Shell": 11414,
+            "Makefile": 5376,
+            "HTML": 3999,
+            "Ruby": 822
+        }
+    },
+    {
+        "name": "salt-orchestation-demo",
+        "description": "Demo repo with Vagrant cluster to showcase SaltStack orchestration.",
+        "languages": {
+            "SaltStack": 56903,
+            "HTML": 12068,
+            "Vim Script": 5550,
+            "JavaScript": 4456,
+            "Ruby": 2096,
+            "Shell": 2001,
+            "Scheme": 54
+        }
+    },
+    {
+        "name": "bro-formula",
+        "description": "A saltstack formula to install BRO network security monitor on RHEL or Debian based systems",
+        "languages": {
+            "SaltStack": 16529,
+            "Zeek": 9632,
+            "HTML": 3121,
+            "Ruby": 1529
+        }
+    },
+    {
+        "name": "salt-states",
+        "description": "SaltStack states used in Informo's infrastructure",
+        "languages": {
+            "SaltStack": 14977
+        }
+    },
+    {
+        "name": "infrastructure",
+        "description": "MAGFest IT Infrastructure",
+        "languages": {
+            "SaltStack": 96606,
+            "Python": 20109,
+            "Jinja": 3814,
+            "Shell": 2804
+        }
+    },
+    {
+        "name": "newrelic-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 4513
+        }
+    },
+    {
+        "name": "django-vagrant-box",
+        "description": ":package: A Vagrant box for VirtualBox to develop Django projects.",
+        "languages": {
+            "SaltStack": 17057,
+            "Makefile": 1535,
+            "Shell": 1525
+        }
+    },
+    {
+        "name": "piwik-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 3177,
+            "HTML": 866
+        }
+    },
+    {
+        "name": "salt-arch",
+        "description": "Salt states for archlinux with a bootstrap script to install from an archlinux live cd",
+        "languages": {
+            "SaltStack": 7082,
+            "Shell": 2981
+        }
+    },
+    {
+        "name": "jenkins-ci-states",
+        "description": "Salt States For Jenkins Job Preparation",
+        "languages": {
+            "SaltStack": 45561,
+            "Python": 1678
+        }
+    },
+    {
+        "name": "salt-formula-ceph",
+        "description": null,
+        "languages": {
+            "SaltStack": 39746,
+            "Shell": 13152,
+            "Python": 6127,
+            "Makefile": 5376,
+            "HTML": 2454
+        }
+    },
+    {
+        "name": "saltopenstack",
+        "description": "Bootstrap and manage an OpenStack infrastructure with Salt",
+        "languages": {
+            "SaltStack": 97317,
+            "Python": 1219,
+            "HTML": 247
+        }
+    },
+    {
+        "name": "netbanner-formula",
+        "description": "Salt formula to install Microsoft Netbanner",
+        "languages": {
+            "SaltStack": 5983,
+            "Jinja": 2441,
+            "Makefile": 186,
+            "Dockerfile": 35
+        }
+    },
+    {
+        "name": "screen-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 154
+        }
+    },
+    {
+        "name": "cloudstack-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 5554,
+            "HTML": 1109
+        }
+    },
+    {
+        "name": "salt-states-hadoop",
+        "description": "Salt states of Hadoop",
+        "languages": {
+            "SaltStack": 15287,
+            "Shell": 13710
+        }
+    },
+    {
+        "name": "log-analysis",
+        "description": "Everything you need to analyze your logs with the Elastic stack",
+        "languages": {
+            "SaltStack": 6965
+        }
+    },
+    {
+        "name": "hungryadmin-salt",
+        "description": "\u26a0\ufe0fDEPRECATED\u26a0\ufe0f The hungryadmin.com Salt state repo. I no longer use this and it will not receive any updates.",
+        "languages": {
+            "SaltStack": 11443,
+            "HTML": 1630
+        }
+    },
+    {
+        "name": "owncloud-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 5468,
+            "HTML": 3918
+        }
+    },
+    {
+        "name": "backuptocloud-formula",
+        "description": "http://docs.saltstack.com/topics/conventions/formulas.html",
+        "languages": {
+            "SaltStack": 1355
+        }
+    },
+    {
+        "name": "Saltstack-baseconfigs",
+        "description": "Baseconfigs for configuring a splunk cluster via saltstack",
+        "languages": {
+            "SaltStack": 15263,
+            "Shell": 2627
+        }
+    },
+    {
+        "name": "kevin",
+        "description": "Control a fleet of embedded unix systems (eg Raspberry Pi, Orange Pi) using saltstack",
+        "languages": {
+            "SaltStack": 43353,
+            "Shell": 3931,
+            "Perl": 2086,
+            "Scheme": 127,
+            "HTML": 20
+        }
+    },
+    {
+        "name": "netbox-formula",
+        "description": "A basic Saltstack formula for installation and configuration NetBox.",
+        "languages": {
+            "SaltStack": 4081,
+            "Shell": 451,
+            "HTML": 337,
+            "Python": 117
+        }
+    },
+    {
+        "name": "opendkim-formula",
+        "description": "Salt-Stack formula for opendkim",
+        "languages": {
+            "SaltStack": 3053,
+            "HTML": 772
+        }
+    },
+    {
+        "name": "vagrant-dev-box",
+        "description": "This box is a starting point for new projects. This box has been tested on OSX, it should work on Linux and it might work on Windows.",
+        "languages": {
+            "SaltStack": 5208,
+            "Python": 1581
+        }
+    },
+    {
+        "name": "munin-formula",
+        "description": "Saltstack formula for munin and munin-node",
+        "languages": {
+            "SaltStack": 3673,
+            "HTML": 3244
+        }
+    },
+    {
+        "name": "microdevops-formula",
+        "description": "Microdevops SaltStack Formula",
+        "languages": {
+            "SaltStack": 898512,
+            "Vim Script": 166107,
+            "Shell": 90844,
+            "Jinja": 37936,
+            "Ruby": 23350,
+            "Python": 14324,
+            "XSLT": 4067,
+            "PowerShell": 2615,
+            "PHP": 90
+        }
+    },
+    {
+        "name": "salt-auto-pack",
+        "description": null,
+        "languages": {
+            "SaltStack": 123471,
+            "Shell": 15192,
+            "Jinja": 5579
+        }
+    },
+    {
+        "name": "secure-servers-demo",
+        "description": "Repository to accompany our blog series 'Secure servers with SaltStack and Vault'",
+        "languages": {
+            "SaltStack": 7526,
+            "Python": 3972,
+            "HCL": 990,
+            "Smarty": 124
+        }
+    },
+    {
+        "name": "salt-percona-formula",
+        "description": "Saltstack formula for managing Percona servers",
+        "languages": {
+            "SaltStack": 8985,
+            "Python": 4742,
+            "HTML": 3049,
+            "Shell": 117
+        }
+    },
+    {
+        "name": "using-salt-apache",
+        "description": "Elle's Salt Course",
+        "languages": {
+            "SaltStack": 920,
+            "HTML": 556
+        }
+    },
+    {
+        "name": "salt-pkg-tests",
+        "description": " Salt states to automate salt package testing",
+        "languages": {
+            "SaltStack": 81793,
+            "Python": 28898,
+            "HTML": 7619,
+            "Shell": 997,
+            "Dockerfile": 208
+        }
+    },
+    {
+        "name": "laptop-build",
+        "description": "Salt, Ansible, Bash, etc used to build/rebuild various Linux laptops",
+        "languages": {
+            "SaltStack": 17295,
+            "Shell": 6066,
+            "Python": 6027,
+            "Ruby": 1318,
+            "HTML": 397
+        }
+    },
+    {
+        "name": "mounts-formula",
+        "description": "SaltStack formula for managing mounts",
+        "languages": {
+            "SaltStack": 2670,
+            "Ruby": 1228,
+            "Shell": 1158
+        }
+    },
+    {
+        "name": "poc-topsail",
+        "description": "A PoC for demonstrating self-hosted Kubernetes",
+        "languages": {
+            "SaltStack": 2157,
+            "Scheme": 339
+        }
+    },
+    {
+        "name": "docker-orchestration-demo",
+        "description": "Demo environment created with Vagrant and openSUSE to test Docker orchestration tools.",
+        "languages": {
+            "SaltStack": 4762,
+            "Python": 3134,
+            "Ruby": 2056,
+            "HTML": 1519,
+            "Shell": 1410
+        }
+    },
+    {
+        "name": "salt.eligundry.com",
+        "description": "Collection of Salt states for my personal infrastructure",
+        "languages": {
+            "SaltStack": 49624,
+            "HTML": 7014,
+            "Shell": 2328
+        }
+    },
+    {
+        "name": "saltstates",
+        "description": "Felix' Salt States",
+        "languages": {
+            "SaltStack": 39641,
+            "Python": 3176,
+            "Shell": 1495,
+            "Jinja": 1100,
+            "Makefile": 97
+        }
+    },
+    {
+        "name": "netbox-formula",
+        "description": "Saltstack formula for Netbox (IPAM and DCIM tool)",
+        "languages": {
+            "SaltStack": 14882,
+            "JavaScript": 4461,
+            "Ruby": 2342,
+            "Python": 1346,
+            "Jinja": 948,
+            "Shell": 911
+        }
+    },
+    {
+        "name": "consul-formula",
+        "description": "Salt formula for installing and configuring Consul",
+        "languages": {
+            "SaltStack": 6268
+        }
+    },
+    {
+        "name": "varnish-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 13337,
+            "Jinja": 7542,
+            "Ruby": 5401,
+            "JavaScript": 4709,
+            "Shell": 1426
+        }
+    },
+    {
+        "name": "letsencrypt-formula",
+        "description": "Saltstack formula for letsencrypt service",
+        "languages": {
+            "SaltStack": 2206,
+            "HTML": 786
+        }
+    },
+    {
+        "name": "salt-devenv",
+        "description": "Configuration of my Linux dev laptop using SaltStack",
+        "languages": {
+            "SaltStack": 12505,
+            "JavaScript": 708,
+            "Shell": 110
+        }
+    },
+    {
+        "name": "marietje",
+        "description": "Super-project for the music playing daemon Marietje",
+        "languages": {
+            "SaltStack": 6602,
+            "Python": 901,
+            "Vim Script": 380,
+            "Shell": 278,
+            "JavaScript": 72
+        }
+    },
+    {
+        "name": "dovecot-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 6324,
+            "Dockerfile": 461
+        }
+    },
+    {
+        "name": "pip-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 1314,
+            "HTML": 513
+        }
+    },
+    {
+        "name": "salt-kafka-formula",
+        "description": "Salt Kafka formula",
+        "languages": {
+            "SaltStack": 3597,
+            "Shell": 2841
+        }
+    },
+    {
+        "name": "atlassian-confluence-formula",
+        "description": "Salt formula: Atlassian Confluence",
+        "languages": {
+            "SaltStack": 5797,
+            "XSLT": 3474,
+            "Jinja": 1017,
+            "Ruby": 459,
+            "Shell": 378
+        }
+    },
+    {
+        "name": "bootstrap-salt-formula",
+        "description": null,
+        "languages": {
+            "SaltStack": 12346,
+            "Shell": 1774
+        }
+    },
+    {
+        "name": "saltstack-ferm-formula",
+        "description": "Salt Stack Formula to set up and configure ferm, a frontend for ip(6)tables",
+        "languages": {
+            "SaltStack": 1863
+        }
+    },
+    {
+        "name": "saltstack-skeleton-formula",
+        "description": "SaltStack formula skeleton that can be used for new formulas",
+        "languages": {
+            "SaltStack": 1145,
+            "Scheme": 192
+        }
+    },
+    {
+        "name": "saltstack-config-public",
+        "description": "saltstack-config-public",
+        "languages": {
+            "SaltStack": 33952,
+            "HTML": 18270,
+            "Python": 8828,
+            "Shell": 8015,
+            "Nginx": 1181
+        }
     }
 ]

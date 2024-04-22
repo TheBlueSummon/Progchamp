@@ -39,18 +39,18 @@
         "name": "rust",
         "description": "Empowering everyone to build reliable and efficient software.",
         "languages": {
-            "Rust": 91999582,
+            "Rust": 92058672,
             "JavaScript": 494465,
-            "Shell": 449314,
-            "Fluent": 343265,
+            "Shell": 449552,
+            "Fluent": 343565,
             "HTML": 286005,
             "Python": 282691,
             "Makefile": 223450,
             "TypeScript": 222876,
-            "C++": 165086,
+            "C++": 165314,
             "PowerShell": 106086,
             "CSS": 90903,
-            "Dockerfile": 80993,
+            "Dockerfile": 80892,
             "C": 42972,
             "Roff": 12773,
             "Assembly": 12198,
@@ -68,11 +68,2830 @@
         "name": "ant-design",
         "description": "An enterprise-class UI design language and React UI library",
         "languages": {
-            "TypeScript": 5660993,
+            "TypeScript": 5661007,
             "JavaScript": 31745,
             "CSS": 4049,
             "Shell": 3393,
             "HTML": 3035
+        }
+    },
+    {
+        "name": "swift",
+        "description": "The Swift Programming Language",
+        "languages": {
+            "C++": 55976102,
+            "Swift": 49394616,
+            "C": 5609840,
+            "Python": 1905787,
+            "CMake": 858434,
+            "Objective-C": 536263,
+            "Shell": 211686,
+            "Objective-C++": 176881,
+            "PowerShell": 82844,
+            "LLVM": 65157,
+            "Emacs Lisp": 58832,
+            "Vim Script": 20026,
+            "Assembly": 4428,
+            "Batchfile": 4017,
+            "Roff": 3683,
+            "DTrace": 2593,
+            "Makefile": 2361,
+            "Ruby": 2132,
+            "D": 1107
+        }
+    },
+    {
+        "name": "funNLP",
+        "description": "\u4e2d\u82f1\u6587\u654f\u611f\u8bcd\u3001\u8bed\u8a00\u68c0\u6d4b\u3001\u4e2d\u5916\u624b\u673a/\u7535\u8bdd\u5f52\u5c5e\u5730/\u8fd0\u8425\u5546\u67e5\u8be2\u3001\u540d\u5b57\u63a8\u65ad\u6027\u522b\u3001\u624b\u673a\u53f7\u62bd\u53d6\u3001\u8eab\u4efd\u8bc1\u62bd\u53d6\u3001\u90ae\u7bb1\u62bd\u53d6\u3001\u4e2d\u65e5\u6587\u4eba\u540d\u5e93\u3001\u4e2d\u6587\u7f29\u5199\u5e93\u3001\u62c6\u5b57\u8bcd\u5178\u3001\u8bcd\u6c47\u60c5\u611f\u503c\u3001\u505c\u7528\u8bcd\u3001\u53cd\u52a8\u8bcd\u8868\u3001\u66b4\u6050\u8bcd\u8868\u3001\u7e41\u7b80\u4f53\u8f6c\u6362\u3001\u82f1\u6587\u6a21\u62df\u4e2d\u6587\u53d1\u97f3\u3001\u6c6a\u5cf0\u6b4c\u8bcd\u751f\u6210\u5668\u3001\u804c\u4e1a\u540d\u79f0\u8bcd\u5e93\u3001\u540c\u4e49\u8bcd\u5e93\u3001\u53cd\u4e49\u8bcd\u5e93\u3001\u5426\u5b9a\u8bcd\u5e93\u3001\u6c7d\u8f66\u54c1\u724c\u8bcd\u5e93\u3001\u6c7d\u8f66\u96f6\u4ef6\u8bcd\u5e93\u3001\u8fde\u7eed\u82f1\u6587\u5207\u5272\u3001\u5404\u79cd\u4e2d\u6587\u8bcd\u5411\u91cf\u3001\u516c\u53f8\u540d\u5b57\u5927\u5168\u3001\u53e4\u8bd7\u8bcd\u5e93\u3001IT\u8bcd\u5e93\u3001\u8d22\u7ecf\u8bcd\u5e93\u3001\u6210\u8bed\u8bcd\u5e93\u3001\u5730\u540d\u8bcd\u5e93\u3001\u5386\u53f2\u540d\u4eba\u8bcd\u5e93\u3001\u8bd7\u8bcd\u8bcd\u5e93\u3001\u533b\u5b66\u8bcd\u5e93\u3001\u996e\u98df\u8bcd\u5e93\u3001\u6cd5\u5f8b\u8bcd\u5e93\u3001\u6c7d\u8f66\u8bcd\u5e93\u3001\u52a8\u7269\u8bcd\u5e93\u3001\u4e2d\u6587\u804a\u5929\u8bed\u6599\u3001\u4e2d\u6587\u8c23\u8a00\u6570\u636e\u3001\u767e\u5ea6\u4e2d\u6587\u95ee\u7b54\u6570\u636e\u96c6\u3001\u53e5\u5b50\u76f8\u4f3c\u5ea6\u5339\u914d\u7b97\u6cd5\u96c6\u5408\u3001bert\u8d44\u6e90\u3001\u6587\u672c\u751f\u6210&\u6458\u8981\u76f8\u5173\u5de5\u5177\u3001cocoNLP\u4fe1\u606f\u62bd\u53d6\u5de5\u5177\u3001\u56fd\u5185\u7535\u8bdd\u53f7\u7801\u6b63\u5219\u5339\u914d\u3001\u6e05\u534e\u5927\u5b66XLORE:\u4e2d\u82f1\u6587\u8de8\u8bed\u8a00\u767e\u79d1\u77e5\u8bc6\u56fe\u8c31\u3001\u6e05\u534e\u5927\u5b66\u4eba\u5de5\u667a\u80fd\u6280\u672f\u7cfb\u5217\u62a5\u544a\u3001\u81ea\u7136\u8bed\u8a00\u751f\u6210\u3001NLU\u592a\u96be\u4e86\u7cfb\u5217\u3001\u81ea\u52a8\u5bf9\u8054\u6570\u636e\u53ca\u673a\u5668\u4eba\u3001\u7528\u6237\u540d\u9ed1\u540d\u5355\u5217\u8868\u3001\u7f6a\u540d\u6cd5\u52a1\u540d\u8bcd\u53ca\u5206\u7c7b\u6a21\u578b\u3001\u5fae\u4fe1\u516c\u4f17\u53f7\u8bed\u6599\u3001cs224n\u6df1\u5ea6\u5b66\u4e60\u81ea\u7136\u8bed\u8a00\u5904\u7406\u8bfe\u7a0b\u3001\u4e2d\u6587\u624b\u5199\u6c49\u5b57\u8bc6\u522b\u3001\u4e2d\u6587\u81ea\u7136\u8bed\u8a00\u5904\u7406 \u8bed\u6599/\u6570\u636e\u96c6\u3001\u53d8\u91cf\u547d\u540d\u795e\u5668\u3001\u5206\u8bcd\u8bed\u6599\u5e93+\u4ee3\u7801\u3001\u4efb\u52a1\u578b\u5bf9\u8bdd\u82f1\u6587\u6570\u636e\u96c6\u3001ASR \u8bed\u97f3\u6570\u636e\u96c6 + \u57fa\u4e8e\u6df1\u5ea6\u5b66\u4e60\u7684\u4e2d\u6587\u8bed\u97f3\u8bc6\u522b\u7cfb\u7edf\u3001\u7b11\u58f0\u68c0\u6d4b\u5668\u3001Microsoft\u591a\u8bed\u8a00\u6570\u5b57/\u5355\u4f4d/\u5982\u65e5\u671f\u65f6\u95f4\u8bc6\u522b\u5305\u3001\u4e2d\u534e\u65b0\u534e\u5b57\u5178\u6570\u636e\u5e93\u53caapi(\u5305\u62ec\u5e38\u7528\u6b47\u540e\u8bed\u3001\u6210\u8bed\u3001\u8bcd\u8bed\u548c\u6c49\u5b57)\u3001\u6587\u6863\u56fe\u8c31\u81ea\u52a8\u751f\u6210\u3001SpaCy \u4e2d\u6587\u6a21\u578b\u3001Common Voice\u8bed\u97f3\u8bc6\u522b\u6570\u636e\u96c6\u65b0\u7248\u3001\u795e\u7ecf\u7f51\u7edc\u5173\u7cfb\u62bd\u53d6\u3001\u57fa\u4e8ebert\u7684\u547d\u540d\u5b9e\u4f53\u8bc6\u522b\u3001\u5173\u952e\u8bcd(Keyphrase)\u62bd\u53d6\u5305pke\u3001\u57fa\u4e8e\u533b\u7597\u9886\u57df\u77e5\u8bc6\u56fe\u8c31\u7684\u95ee\u7b54\u7cfb\u7edf\u3001\u57fa\u4e8e\u4f9d\u5b58\u53e5\u6cd5\u4e0e\u8bed\u4e49\u89d2\u8272\u6807\u6ce8\u7684\u4e8b\u4ef6\u4e09\u5143\u7ec4\u62bd\u53d6\u3001\u4f9d\u5b58\u53e5\u6cd5\u5206\u67904\u4e07\u53e5\u9ad8\u8d28\u91cf\u6807\u6ce8\u6570\u636e\u3001cnocr\uff1a\u7528\u6765\u505a\u4e2d\u6587OCR\u7684Python3\u5305\u3001\u4e2d\u6587\u4eba\u7269\u5173\u7cfb\u77e5\u8bc6\u56fe\u8c31\u9879\u76ee\u3001\u4e2d\u6587nlp\u7ade\u8d5b\u9879\u76ee\u53ca\u4ee3\u7801\u6c47\u603b\u3001\u4e2d\u6587\u5b57\u7b26\u6570\u636e\u3001speech-aligner: \u4ece\u201c\u4eba\u58f0\u8bed\u97f3\u201d\u53ca\u5176\u201c\u8bed\u8a00\u6587\u672c\u201d\u4ea7\u751f\u97f3\u7d20\u7ea7\u522b\u65f6\u95f4\u5bf9\u9f50\u6807\u6ce8\u7684\u5de5\u5177\u3001AmpliGraph: \u77e5\u8bc6\u56fe\u8c31\u8868\u793a\u5b66\u4e60(Python)\u5e93\uff1a\u77e5\u8bc6\u56fe\u8c31\u6982\u5ff5\u94fe\u63a5\u9884\u6d4b\u3001Scattertext \u6587\u672c\u53ef\u89c6\u5316(python)\u3001\u8bed\u8a00/\u77e5\u8bc6\u8868\u793a\u5de5\u5177\uff1aBERT & ERNIE\u3001\u4e2d\u6587\u5bf9\u6bd4\u82f1\u6587\u81ea\u7136\u8bed\u8a00\u5904\u7406NLP\u7684\u533a\u522b\u7efc\u8ff0\u3001Synonyms\u4e2d\u6587\u8fd1\u4e49\u8bcd\u5de5\u5177\u5305\u3001HarvestText\u9886\u57df\u81ea\u9002\u5e94\u6587\u672c\u6316\u6398\u5de5\u5177\uff08\u65b0\u8bcd\u53d1\u73b0-\u60c5\u611f\u5206\u6790-\u5b9e\u4f53\u94fe\u63a5\u7b49\uff09\u3001word2word\uff1a(Python)\u65b9\u4fbf\u6613\u7528\u7684\u591a\u8bed\u8a00\u8bcd-\u8bcd\u5bf9\u96c6\uff1a62\u79cd\u8bed\u8a00/3,564\u4e2a\u591a\u8bed\u8a00\u5bf9\u3001\u8bed\u97f3\u8bc6\u522b\u8bed\u6599\u751f\u6210\u5de5\u5177\uff1a\u4ece\u5177\u6709\u97f3\u9891/\u5b57\u5e55\u7684\u5728\u7ebf\u89c6\u9891\u521b\u5efa\u81ea\u52a8\u8bed\u97f3\u8bc6\u522b(ASR)\u8bed\u6599\u5e93\u3001\u6784\u5efa\u533b\u7597\u5b9e\u4f53\u8bc6\u522b\u7684\u6a21\u578b\uff08\u5305\u542b\u8bcd\u5178\u548c\u8bed\u6599\u6807\u6ce8\uff09\u3001\u5355\u6587\u6863\u975e\u76d1\u7763\u7684\u5173\u952e\u8bcd\u62bd\u53d6\u3001Kashgari\u4e2d\u4f7f\u7528gpt-2\u8bed\u8a00\u6a21\u578b\u3001\u5f00\u6e90\u7684\u91d1\u878d\u6295\u8d44\u6570\u636e\u63d0\u53d6\u5de5\u5177\u3001\u6587\u672c\u81ea\u52a8\u6458\u8981\u5e93TextTeaser: \u4ec5\u652f\u6301\u82f1\u6587\u3001\u4eba\u6c11\u65e5\u62a5\u8bed\u6599\u5904\u7406\u5de5\u5177\u96c6\u3001\u4e00\u4e9b\u5173\u4e8e\u81ea\u7136\u8bed\u8a00\u7684\u57fa\u672c\u6a21\u578b\u3001\u57fa\u4e8e14W\u6b4c\u66f2\u77e5\u8bc6\u5e93\u7684\u95ee\u7b54\u5c1d\u8bd5--\u529f\u80fd\u5305\u62ec\u6b4c\u8bcd\u63a5\u9f99and\u5df2\u77e5\u6b4c\u8bcd\u627e\u6b4c\u66f2\u4ee5\u53ca\u6b4c\u66f2\u6b4c\u624b\u6b4c\u8bcd\u4e09\u89d2\u5173\u7cfb\u7684\u95ee\u7b54\u3001\u57fa\u4e8eSiamese bilstm\u6a21\u578b\u7684\u76f8\u4f3c\u53e5\u5b50\u5224\u5b9a\u6a21\u578b\u5e76\u63d0\u4f9b\u8bad\u7ec3\u6570\u636e\u96c6\u548c\u6d4b\u8bd5\u6570\u636e\u96c6\u3001\u7528Transformer\u7f16\u89e3\u7801\u6a21\u578b\u5b9e\u73b0\u7684\u6839\u636eHacker News\u6587\u7ae0\u6807\u9898\u81ea\u52a8\u751f\u6210\u8bc4\u8bba\u3001\u7528BERT\u8fdb\u884c\u5e8f\u5217\u6807\u8bb0\u548c\u6587\u672c\u5206\u7c7b\u7684\u6a21\u677f\u4ee3\u7801\u3001LitBank\uff1aNLP\u6570\u636e\u96c6\u2014\u2014\u652f\u6301\u81ea\u7136\u8bed\u8a00\u5904\u7406\u548c\u8ba1\u7b97\u4eba\u6587\u5b66\u79d1\u4efb\u52a1\u7684100\u90e8\u5e26\u6807\u8bb0\u82f1\u6587\u5c0f\u8bf4\u8bed\u6599\u3001\u767e\u5ea6\u5f00\u6e90\u7684\u57fa\u51c6\u4fe1\u606f\u62bd\u53d6\u7cfb\u7edf\u3001\u865a\u5047\u65b0\u95fb\u6570\u636e\u96c6\u3001Facebook: LAMA\u8bed\u8a00\u6a21\u578b\u5206\u6790\uff0c\u63d0\u4f9bTransformer-XL/BERT/ELMo/GPT\u9884\u8bad\u7ec3\u8bed\u8a00\u6a21\u578b\u7684\u7edf\u4e00\u8bbf\u95ee\u63a5\u53e3\u3001CommonsenseQA\uff1a\u9762\u5411\u5e38\u8bc6\u7684\u82f1\u6587QA\u6311\u6218\u3001\u4e2d\u6587\u77e5\u8bc6\u56fe\u8c31\u8d44\u6599\u3001\u6570\u636e\u53ca\u5de5\u5177\u3001\u5404\u5927\u516c\u53f8\u5185\u90e8\u91cc\u5927\u725b\u5206\u4eab\u7684\u6280\u672f\u6587\u6863 PDF \u6216\u8005 PPT\u3001\u81ea\u7136\u8bed\u8a00\u751f\u6210SQL\u8bed\u53e5\uff08\u82f1\u6587\uff09\u3001\u4e2d\u6587NLP\u6570\u636e\u589e\u5f3a\uff08EDA\uff09\u5de5\u5177\u3001\u82f1\u6587NLP\u6570\u636e\u589e\u5f3a\u5de5\u5177 \u3001\u57fa\u4e8e\u533b\u836f\u77e5\u8bc6\u56fe\u8c31\u7684\u667a\u80fd\u95ee\u7b54\u7cfb\u7edf\u3001\u4eac\u4e1c\u5546\u54c1\u77e5\u8bc6\u56fe\u8c31\u3001\u57fa\u4e8emongodb\u5b58\u50a8\u7684\u519b\u4e8b\u9886\u57df\u77e5\u8bc6\u56fe\u8c31\u95ee\u7b54\u9879\u76ee\u3001\u57fa\u4e8e\u8fdc\u76d1\u7763\u7684\u4e2d\u6587\u5173\u7cfb\u62bd\u53d6\u3001\u8bed\u97f3\u60c5\u611f\u5206\u6790\u3001\u4e2d\u6587ULMFiT-\u60c5\u611f\u5206\u6790-\u6587\u672c\u5206\u7c7b-\u8bed\u6599\u53ca\u6a21\u578b\u3001\u4e00\u4e2a\u62cd\u7167\u505a\u9898\u7a0b\u5e8f\u3001\u4e16\u754c\u5404\u56fd\u5927\u89c4\u6a21\u4eba\u540d\u5e93\u3001\u4e00\u4e2a\u5229\u7528\u6709\u8da3\u4e2d\u6587\u8bed\u6599\u5e93 qingyun \u8bad\u7ec3\u51fa\u6765\u7684\u4e2d\u6587\u804a\u5929\u673a\u5668\u4eba\u3001\u4e2d\u6587\u804a\u5929\u673a\u5668\u4ebaseqGAN\u3001\u7701\u5e02\u533a\u9547\u884c\u653f\u533a\u5212\u6570\u636e\u5e26\u62fc\u97f3\u6807\u6ce8\u3001\u6559\u80b2\u884c\u4e1a\u65b0\u95fb\u8bed\u6599\u5e93\u5305\u542b\u81ea\u52a8\u6587\u6458\u529f\u80fd\u3001\u5f00\u653e\u4e86\u5bf9\u8bdd\u673a\u5668\u4eba-\u77e5\u8bc6\u56fe\u8c31-\u8bed\u4e49\u7406\u89e3-\u81ea\u7136\u8bed\u8a00\u5904\u7406\u5de5\u5177\u53ca\u6570\u636e\u3001\u4e2d\u6587\u77e5\u8bc6\u56fe\u8c31\uff1a\u57fa\u4e8e\u767e\u5ea6\u767e\u79d1\u4e2d\u6587\u9875\u9762-\u62bd\u53d6\u4e09\u5143\u7ec4\u4fe1\u606f-\u6784\u5efa\u4e2d\u6587\u77e5\u8bc6\u56fe\u8c31\u3001masr: \u4e2d\u6587\u8bed\u97f3\u8bc6\u522b-\u63d0\u4f9b\u9884\u8bad\u7ec3\u6a21\u578b-\u9ad8\u8bc6\u522b\u7387\u3001Python\u97f3\u9891\u6570\u636e\u589e\u5e7f\u5e93\u3001\u4e2d\u6587\u5168\u8bcd\u8986\u76d6BERT\u53ca\u4e24\u4efd\u9605\u8bfb\u7406\u89e3\u6570\u636e\u3001ConvLab\uff1a\u5f00\u6e90\u591a\u57df\u7aef\u5230\u7aef\u5bf9\u8bdd\u7cfb\u7edf\u5e73\u53f0\u3001\u4e2d\u6587\u81ea\u7136\u8bed\u8a00\u5904\u7406\u6570\u636e\u96c6\u3001\u57fa\u4e8e\u6700\u65b0\u7248\u672crasa\u642d\u5efa\u7684\u5bf9\u8bdd\u7cfb\u7edf\u3001\u57fa\u4e8eTensorFlow\u548cBERT\u7684\u7ba1\u9053\u5f0f\u5b9e\u4f53\u53ca\u5173\u7cfb\u62bd\u53d6\u3001\u4e00\u4e2a\u5c0f\u578b\u7684\u8bc1\u5238\u77e5\u8bc6\u56fe\u8c31/\u77e5\u8bc6\u5e93\u3001\u590d\u76d8\u6240\u6709NLP\u6bd4\u8d5b\u7684TOP\u65b9\u6848\u3001OpenCLaP\uff1a\u591a\u9886\u57df\u5f00\u6e90\u4e2d\u6587\u9884\u8bad\u7ec3\u8bed\u8a00\u6a21\u578b\u4ed3\u5e93\u3001UER\uff1a\u57fa\u4e8e\u4e0d\u540c\u8bed\u6599+\u7f16\u7801\u5668+\u76ee\u6807\u4efb\u52a1\u7684\u4e2d\u6587\u9884\u8bad\u7ec3\u6a21\u578b\u4ed3\u5e93\u3001\u4e2d\u6587\u81ea\u7136\u8bed\u8a00\u5904\u7406\u5411\u91cf\u5408\u96c6\u3001\u57fa\u4e8e\u91d1\u878d-\u53f8\u6cd5\u9886\u57df(\u517c\u6709\u95f2\u804a\u6027\u8d28)\u7684\u804a\u5929\u673a\u5668\u4eba\u3001g2pC\uff1a\u57fa\u4e8e\u4e0a\u4e0b\u6587\u7684\u6c49\u8bed\u8bfb\u97f3\u81ea\u52a8\u6807\u8bb0\u6a21\u5757\u3001Zincbase \u77e5\u8bc6\u56fe\u8c31\u6784\u5efa\u5de5\u5177\u5305\u3001\u8bd7\u6b4c\u8d28\u91cf\u8bc4\u4ef7/\u7ec6\u7c92\u5ea6\u60c5\u611f\u8bd7\u6b4c\u8bed\u6599\u5e93\u3001\u5feb\u901f\u8f6c\u5316\u300c\u4e2d\u6587\u6570\u5b57\u300d\u548c\u300c\u963f\u62c9\u4f2f\u6570\u5b57\u300d\u3001\u767e\u5ea6\u77e5\u9053\u95ee\u7b54\u8bed\u6599\u5e93\u3001\u57fa\u4e8e\u77e5\u8bc6\u56fe\u8c31\u7684\u95ee\u7b54\u7cfb\u7edf\u3001jieba_fast \u52a0\u901f\u7248\u7684jieba\u3001\u6b63\u5219\u8868\u8fbe\u5f0f\u6559\u7a0b\u3001\u4e2d\u6587\u9605\u8bfb\u7406\u89e3\u6570\u636e\u96c6\u3001\u57fa\u4e8eBERT\u7b49\u6700\u65b0\u8bed\u8a00\u6a21\u578b\u7684\u62bd\u53d6\u5f0f\u6458\u8981\u63d0\u53d6\u3001Python\u5229\u7528\u6df1\u5ea6\u5b66\u4e60\u8fdb\u884c\u6587\u672c\u6458\u8981\u7684\u7efc\u5408\u6307\u5357\u3001\u77e5\u8bc6\u56fe\u8c31\u6df1\u5ea6\u5b66\u4e60\u76f8\u5173\u8d44\u6599\u6574\u7406\u3001\u7ef4\u57fa\u5927\u89c4\u6a21\u5e73\u884c\u6587\u672c\u8bed\u6599\u3001StanfordNLP 0.2.0\uff1a\u7eafPython\u7248\u81ea\u7136\u8bed\u8a00\u5904\u7406\u5305\u3001NeuralNLP-NeuralClassifier\uff1a\u817e\u8baf\u5f00\u6e90\u6df1\u5ea6\u5b66\u4e60\u6587\u672c\u5206\u7c7b\u5de5\u5177\u3001\u7aef\u5230\u7aef\u7684\u5c01\u95ed\u57df\u5bf9\u8bdd\u7cfb\u7edf\u3001\u4e2d\u6587\u547d\u540d\u5b9e\u4f53\u8bc6\u522b\uff1aNeuroNER vs. BertNER\u3001\u65b0\u95fb\u4e8b\u4ef6\u7ebf\u7d22\u62bd\u53d6\u30012019\u5e74\u767e\u5ea6\u7684\u4e09\u5143\u7ec4\u62bd\u53d6\u6bd4\u8d5b\uff1a\u201c\u79d1\u5b66\u7a7a\u95f4\u961f\u201d\u6e90\u7801\u3001\u57fa\u4e8e\u4f9d\u5b58\u53e5\u6cd5\u7684\u5f00\u653e\u57df\u6587\u672c\u77e5\u8bc6\u4e09\u5143\u7ec4\u62bd\u53d6\u548c\u77e5\u8bc6\u5e93\u6784\u5efa\u3001\u4e2d\u6587\u7684GPT2\u8bad\u7ec3\u4ee3\u7801\u3001ML-NLP - \u673a\u5668\u5b66\u4e60(Machine Learning)NLP\u9762\u8bd5\u4e2d\u5e38\u8003\u5230\u7684\u77e5\u8bc6\u70b9\u548c\u4ee3\u7801\u5b9e\u73b0\u3001nlp4han:\u4e2d\u6587\u81ea\u7136\u8bed\u8a00\u5904\u7406\u5de5\u5177\u96c6(\u65ad\u53e5/\u5206\u8bcd/\u8bcd\u6027\u6807\u6ce8/\u7ec4\u5757/\u53e5\u6cd5\u5206\u6790/\u8bed\u4e49\u5206\u6790/NER/N\u5143\u8bed\u6cd5/HMM/\u4ee3\u8bcd\u6d88\u89e3/\u60c5\u611f\u5206\u6790/\u62fc\u5199\u68c0\u67e5\u3001XLM\uff1aFacebook\u7684\u8de8\u8bed\u8a00\u9884\u8bad\u7ec3\u8bed\u8a00\u6a21\u578b\u3001\u7528\u57fa\u4e8eBERT\u7684\u5fae\u8c03\u548c\u7279\u5f81\u63d0\u53d6\u65b9\u6cd5\u6765\u8fdb\u884c\u77e5\u8bc6\u56fe\u8c31\u767e\u5ea6\u767e\u79d1\u4eba\u7269\u8bcd\u6761\u5c5e\u6027\u62bd\u53d6\u3001\u4e2d\u6587\u81ea\u7136\u8bed\u8a00\u5904\u7406\u76f8\u5173\u7684\u5f00\u653e\u4efb\u52a1-\u6570\u636e\u96c6-\u5f53\u524d\u6700\u4f73\u7ed3\u679c\u3001CoupletAI - \u57fa\u4e8eCNN+Bi-LSTM+Attention \u7684\u81ea\u52a8\u5bf9\u5bf9\u8054\u7cfb\u7edf\u3001\u62bd\u8c61\u77e5\u8bc6\u56fe\u8c31\u3001MiningZhiDaoQACorpus - 580\u4e07\u767e\u5ea6\u77e5\u9053\u95ee\u7b54\u6570\u636e\u6316\u6398\u9879\u76ee\u3001brat rapid annotation tool: \u5e8f\u5217\u6807\u6ce8\u5de5\u5177\u3001\u5927\u89c4\u6a21\u4e2d\u6587\u77e5\u8bc6\u56fe\u8c31\u6570\u636e\uff1a1.4\u4ebf\u5b9e\u4f53\u3001\u6570\u636e\u589e\u5f3a\u5728\u673a\u5668\u7ffb\u8bd1\u53ca\u5176\u4ed6nlp\u4efb\u52a1\u4e2d\u7684\u5e94\u7528\u53ca\u6548\u679c\u3001allennlp\u9605\u8bfb\u7406\u89e3:\u652f\u6301\u591a\u79cd\u6570\u636e\u548c\u6a21\u578b\u3001PDF\u8868\u683c\u6570\u636e\u63d0\u53d6\u5de5\u5177 \u3001 Graphbrain\uff1aAI\u5f00\u6e90\u8f6f\u4ef6\u5e93\u548c\u79d1\u7814\u5de5\u5177\uff0c\u76ee\u7684\u662f\u4fc3\u8fdb\u81ea\u52a8\u610f\u4e49\u63d0\u53d6\u548c\u6587\u672c\u7406\u89e3\u4ee5\u53ca\u77e5\u8bc6\u7684\u63a2\u7d22\u548c\u63a8\u65ad\u3001\u7b80\u5386\u81ea\u52a8\u7b5b\u9009\u7cfb\u7edf\u3001\u57fa\u4e8e\u547d\u540d\u5b9e\u4f53\u8bc6\u522b\u7684\u7b80\u5386\u81ea\u52a8\u6458\u8981\u3001\u4e2d\u6587\u8bed\u8a00\u7406\u89e3\u6d4b\u8bc4\u57fa\u51c6\uff0c\u5305\u62ec\u4ee3\u8868\u6027\u7684\u6570\u636e\u96c6&\u57fa\u51c6\u6a21\u578b&\u8bed\u6599\u5e93&\u6392\u884c\u699c\u3001\u6811\u6d1e OCR \u6587\u5b57\u8bc6\u522b \u3001\u4ece\u5305\u542b\u8868\u683c\u7684\u626b\u63cf\u56fe\u7247\u4e2d\u8bc6\u522b\u8868\u683c\u548c\u6587\u5b57\u3001\u8bed\u58f0\u8fc1\u79fb\u3001Python\u53e3\u8bed\u81ea\u7136\u8bed\u8a00\u5904\u7406\u5de5\u5177\u96c6(\u82f1\u6587)\u3001 similarity\uff1a\u76f8\u4f3c\u5ea6\u8ba1\u7b97\u5de5\u5177\u5305\uff0cjava\u7f16\u5199\u3001\u6d77\u91cf\u4e2d\u6587\u9884\u8bad\u7ec3ALBERT\u6a21\u578b \u3001Transformers 2.0 \u3001\u57fa\u4e8e\u5927\u89c4\u6a21\u97f3\u9891\u6570\u636e\u96c6Audioset\u7684\u97f3\u9891\u589e\u5f3a \u3001Poplar\uff1a\u7f51\u9875\u7248\u81ea\u7136\u8bed\u8a00\u6807\u6ce8\u5de5\u5177\u3001\u56fe\u7247\u6587\u5b57\u53bb\u9664\uff0c\u53ef\u7528\u4e8e\u6f2b\u753b\u7ffb\u8bd1 \u3001186\u79cd\u8bed\u8a00\u7684\u6570\u5b57\u53eb\u6cd5\u5e93\u3001Amazon\u53d1\u5e03\u57fa\u4e8e\u77e5\u8bc6\u7684\u4eba-\u4eba\u5f00\u653e\u9886\u57df\u5bf9\u8bdd\u6570\u636e\u96c6 \u3001\u4e2d\u6587\u6587\u672c\u7ea0\u9519\u6a21\u5757\u4ee3\u7801\u3001\u7e41\u7b80\u4f53\u8f6c\u6362 \u3001 Python\u5b9e\u73b0\u7684\u591a\u79cd\u6587\u672c\u53ef\u8bfb\u6027\u8bc4\u4ef7\u6307\u6807\u3001\u7c7b\u4f3c\u4e8e\u4eba\u540d/\u5730\u540d/\u7ec4\u7ec7\u673a\u6784\u540d\u7684\u547d\u540d\u4f53\u8bc6\u522b\u6570\u636e\u96c6 \u3001\u4e1c\u5357\u5927\u5b66\u300a\u77e5\u8bc6\u56fe\u8c31\u300b\u7814\u7a76\u751f\u8bfe\u7a0b(\u8d44\u6599)\u3001. \u82f1\u6587\u62fc\u5199\u68c0\u67e5\u5e93 \u3001 wwsearch\u662f\u4f01\u4e1a\u5fae\u4fe1\u540e\u53f0\u81ea\u7814\u7684\u5168\u6587\u68c0\u7d22\u5f15\u64ce\u3001CHAMELEON\uff1a\u6df1\u5ea6\u5b66\u4e60\u65b0\u95fb\u63a8\u8350\u7cfb\u7edf\u5143\u67b6\u6784 \u3001 8\u7bc7\u8bba\u6587\u68b3\u7406BERT\u76f8\u5173\u6a21\u578b\u8fdb\u5c55\u4e0e\u53cd\u601d\u3001DocSearch\uff1a\u514d\u8d39\u6587\u6863\u641c\u7d22\u5f15\u64ce\u3001 LIDA\uff1a\u8f7b\u91cf\u4ea4\u4e92\u5f0f\u5bf9\u8bdd\u6807\u6ce8\u5de5\u5177 \u3001aili - the fastest in-memory index in the East \u4e1c\u534a\u7403\u6700\u5feb\u5e76\u53d1\u7d22\u5f15 \u3001\u77e5\u8bc6\u56fe\u8c31\u8f66\u97f3\u5de5\u4f5c\u9879\u76ee\u3001\u81ea\u7136\u8bed\u8a00\u751f\u6210\u8d44\u6e90\u5927\u5168 \u3001\u4e2d\u65e5\u97e9\u5206\u8bcd\u5e93mecab\u7684Python\u63a5\u53e3\u5e93\u3001\u4e2d\u6587\u6587\u672c\u6458\u8981/\u5173\u952e\u8bcd\u63d0\u53d6\u3001\u6c49\u5b57\u5b57\u7b26\u7279\u5f81\u63d0\u53d6\u5668 (featurizer)\uff0c\u63d0\u53d6\u6c49\u5b57\u7684\u7279\u5f81\uff08\u53d1\u97f3\u7279\u5f81\u3001\u5b57\u5f62\u7279\u5f81\uff09\u7528\u505a\u6df1\u5ea6\u5b66\u4e60\u7684\u7279\u5f81\u3001\u4e2d\u6587\u751f\u6210\u4efb\u52a1\u57fa\u51c6\u6d4b\u8bc4 \u3001\u4e2d\u6587\u7f29\u5199\u6570\u636e\u96c6\u3001\u4e2d\u6587\u4efb\u52a1\u57fa\u51c6\u6d4b\u8bc4 - \u4ee3\u8868\u6027\u7684\u6570\u636e\u96c6-\u57fa\u51c6(\u9884\u8bad\u7ec3)\u6a21\u578b-\u8bed\u6599\u5e93-baseline-\u5de5\u5177\u5305-\u6392\u884c\u699c\u3001PySS3\uff1a\u9762\u5411\u53ef\u89e3\u91caAI\u7684SS3\u6587\u672c\u5206\u7c7b\u5668\u673a\u5668\u53ef\u89c6\u5316\u5de5\u5177 \u3001\u4e2d\u6587NLP\u6570\u636e\u96c6\u5217\u8868\u3001COPE - \u683c\u5f8b\u8bd7\u7f16\u8f91\u7a0b\u5e8f\u3001doccano\uff1a\u57fa\u4e8e\u7f51\u9875\u7684\u5f00\u6e90\u534f\u540c\u591a\u8bed\u8a00\u6587\u672c\u6807\u6ce8\u5de5\u5177 \u3001PreNLP\uff1a\u81ea\u7136\u8bed\u8a00\u9884\u5904\u7406\u5e93\u3001\u7b80\u5355\u7684\u7b80\u5386\u89e3\u6790\u5668\uff0c\u7528\u6765\u4ece\u7b80\u5386\u4e2d\u63d0\u53d6\u5173\u952e\u4fe1\u606f\u3001\u7528\u4e8e\u4e2d\u6587\u95f2\u804a\u7684GPT2\u6a21\u578b\uff1aGPT2-chitchat\u3001\u57fa\u4e8e\u68c0\u7d22\u804a\u5929\u673a\u5668\u4eba\u591a\u8f6e\u54cd\u5e94\u9009\u62e9\u76f8\u5173\u8d44\u6e90\u5217\u8868(Leaderboards\u3001Datasets\u3001Papers)\u3001(Colab)\u62bd\u8c61\u6587\u672c\u6458\u8981\u5b9e\u73b0\u96c6\u9526(\u6559\u7a0b \u3001\u8bcd\u8bed\u62fc\u97f3\u6570\u636e\u3001\u9ad8\u6548\u6a21\u7cca\u641c\u7d22\u5de5\u5177\u3001NLP\u6570\u636e\u589e\u5e7f\u8d44\u6e90\u96c6\u3001\u5fae\u8f6f\u5bf9\u8bdd\u673a\u5668\u4eba\u6846\u67b6 \u3001 GitHub Typo Corpus\uff1a\u5927\u89c4\u6a21GitHub\u591a\u8bed\u8a00\u62fc\u5199\u9519\u8bef/\u8bed\u6cd5\u9519\u8bef\u6570\u636e\u96c6\u3001TextCluster\uff1a\u77ed\u6587\u672c\u805a\u7c7b\u9884\u5904\u7406\u6a21\u5757 Short text cluster\u3001\u9762\u5411\u8bed\u97f3\u8bc6\u522b\u7684\u4e2d\u6587\u6587\u672c\u89c4\u8303\u5316\u3001BLINK\uff1a\u6700\u5148\u8fdb\u7684\u5b9e\u4f53\u94fe\u63a5\u5e93\u3001BertPunc\uff1a\u57fa\u4e8eBERT\u7684\u6700\u5148\u8fdb\u6807\u70b9\u4fee\u590d\u6a21\u578b\u3001Tokenizer\uff1a\u5feb\u901f\u3001\u53ef\u5b9a\u5236\u7684\u6587\u672c\u8bcd\u6761\u5316\u5e93\u3001\u4e2d\u6587\u8bed\u8a00\u7406\u89e3\u6d4b\u8bc4\u57fa\u51c6\uff0c\u5305\u62ec\u4ee3\u8868\u6027\u7684\u6570\u636e\u96c6\u3001\u57fa\u51c6(\u9884\u8bad\u7ec3)\u6a21\u578b\u3001\u8bed\u6599\u5e93\u3001\u6392\u884c\u699c\u3001spaCy \u533b\u5b66\u6587\u672c\u6316\u6398\u4e0e\u4fe1\u606f\u63d0\u53d6 \u3001 NLP\u4efb\u52a1\u793a\u4f8b\u9879\u76ee\u4ee3\u7801\u96c6\u3001 python\u62fc\u5199\u68c0\u67e5\u5e93\u3001chatbot-list - \u884c\u4e1a\u5185\u5173\u4e8e\u667a\u80fd\u5ba2\u670d\u3001\u804a\u5929\u673a\u5668\u4eba\u7684\u5e94\u7528\u548c\u67b6\u6784\u3001\u7b97\u6cd5\u5206\u4eab\u548c\u4ecb\u7ecd\u3001\u8bed\u97f3\u8d28\u91cf\u8bc4\u4ef7\u6307\u6807(MOSNet, BSSEval, STOI, PESQ, SRMR)\u3001 \u7528138GB\u8bed\u6599\u8bad\u7ec3\u7684\u6cd5\u6587RoBERTa\u9884\u8bad\u7ec3\u8bed\u8a00\u6a21\u578b \u3001BERT-NER-Pytorch\uff1a\u4e09\u79cd\u4e0d\u540c\u6a21\u5f0f\u7684BERT\u4e2d\u6587NER\u5b9e\u9a8c\u3001\u65e0\u9053\u8bcd\u5178 - \u6709\u9053\u8bcd\u5178\u7684\u547d\u4ee4\u884c\u7248\u672c\uff0c\u652f\u6301\u82f1\u6c49\u4e92\u67e5\u548c\u5728\u7ebf\u67e5\u8be2\u30012019\u5e74NLP\u4eae\u70b9\u56de\u987e\u3001 Chinese medical dialogue data \u4e2d\u6587\u533b\u7597\u5bf9\u8bdd\u6570\u636e\u96c6 \u3001\u6700\u597d\u7684\u6c49\u5b57\u6570\u5b57(\u4e2d\u6587\u6570\u5b57)-\u963f\u62c9\u4f2f\u6570\u5b57\u8f6c\u6362\u5de5\u5177\u3001 \u57fa\u4e8e\u767e\u79d1\u77e5\u8bc6\u5e93\u7684\u4e2d\u6587\u8bcd\u8bed\u591a\u8bcd\u4e49/\u4e49\u9879\u83b7\u53d6\u4e0e\u7279\u5b9a\u53e5\u5b50\u8bcd\u8bed\u8bed\u4e49\u6d88\u6b67\u3001awesome-nlp-sentiment-analysis - \u60c5\u611f\u5206\u6790\u3001\u60c5\u7eea\u539f\u56e0\u8bc6\u522b\u3001\u8bc4\u4ef7\u5bf9\u8c61\u548c\u8bc4\u4ef7\u8bcd\u62bd\u53d6\u3001LineFlow\uff1a\u9762\u5411\u6240\u6709\u6df1\u5ea6\u5b66\u4e60\u6846\u67b6\u7684NLP\u6570\u636e\u9ad8\u6548\u52a0\u8f7d\u5668\u3001\u4e2d\u6587\u533b\u5b66NLP\u516c\u5f00\u8d44\u6e90\u6574\u7406 \u3001MedQuAD\uff1a(\u82f1\u6587)\u533b\u5b66\u95ee\u7b54\u6570\u636e\u96c6\u3001\u5c06\u81ea\u7136\u8bed\u8a00\u6570\u5b57\u4e32\u89e3\u6790\u8f6c\u6362\u4e3a\u6574\u6570\u548c\u6d6e\u70b9\u6570\u3001Transfer Learning in Natural Language Processing (NLP) \u3001\u9762\u5411\u8bed\u97f3\u8bc6\u522b\u7684\u4e2d\u6587/\u82f1\u6587\u53d1\u97f3\u8f9e\u5178\u3001Tokenizers\uff1a\u6ce8\u91cd\u6027\u80fd\u4e0e\u591a\u529f\u80fd\u6027\u7684\u6700\u5148\u8fdb\u5206\u8bcd\u5668\u3001CLUENER \u7ec6\u7c92\u5ea6\u547d\u540d\u5b9e\u4f53\u8bc6\u522b Fine Grained Named Entity Recognition\u3001 \u57fa\u4e8eBERT\u7684\u4e2d\u6587\u547d\u540d\u5b9e\u4f53\u8bc6\u522b\u3001\u4e2d\u6587\u8c23\u8a00\u6570\u636e\u5e93\u3001NLP\u6570\u636e\u96c6/\u57fa\u51c6\u4efb\u52a1\u5927\u5217\u8868\u3001nlp\u76f8\u5173\u7684\u4e00\u4e9b\u8bba\u6587\u53ca\u4ee3\u7801, \u5305\u62ec\u4e3b\u9898\u6a21\u578b\u3001\u8bcd\u5411\u91cf(Word Embedding)\u3001\u547d\u540d\u5b9e\u4f53\u8bc6\u522b(NER)\u3001\u6587\u672c\u5206\u7c7b(Text Classificatin)\u3001\u6587\u672c\u751f\u6210(Text Generation)\u3001\u6587\u672c\u76f8\u4f3c\u6027(Text Similarity)\u8ba1\u7b97\u7b49\uff0c\u6d89\u53ca\u5230\u5404\u79cd\u4e0enlp\u76f8\u5173\u7684\u7b97\u6cd5\uff0c\u57fa\u4e8ekeras\u548ctensorflow \u3001Python\u6587\u672c\u6316\u6398/NLP\u5b9e\u6218\u793a\u4f8b\u3001 Blackstone\uff1a\u9762\u5411\u975e\u7ed3\u6784\u5316\u6cd5\u5f8b\u6587\u672c\u7684spaCy pipeline\u548cNLP\u6a21\u578b\u901a\u8fc7\u540c\u4e49\u8bcd\u66ff\u6362\u5b9e\u73b0\u6587\u672c\u201c\u53d8\u8138\u201d \u3001\u4e2d\u6587 \u9884\u8bad\u7ec3 ELECTREA \u6a21\u578b: \u57fa\u4e8e\u5bf9\u6297\u5b66\u4e60 pretrain Chinese Model \u3001albert-chinese-ner - \u7528\u9884\u8bad\u7ec3\u8bed\u8a00\u6a21\u578bALBERT\u505a\u4e2d\u6587NER \u3001\u57fa\u4e8eGPT2\u7684\u7279\u5b9a\u4e3b\u9898\u6587\u672c\u751f\u6210/\u6587\u672c\u589e\u5e7f\u3001\u5f00\u6e90\u9884\u8bad\u7ec3\u8bed\u8a00\u6a21\u578b\u5408\u96c6\u3001\u591a\u8bed\u8a00\u53e5\u5411\u91cf\u5305\u3001\u7f16\u7801\u3001\u6807\u8bb0\u548c\u5b9e\u73b0\uff1a\u4e00\u79cd\u53ef\u63a7\u9ad8\u6548\u7684\u6587\u672c\u751f\u6210\u65b9\u6cd5\u3001 \u82f1\u6587\u810f\u8bdd\u5927\u5217\u8868 \u3001attnvis\uff1aGPT2\u3001BERT\u7b49transformer\u8bed\u8a00\u6a21\u578b\u6ce8\u610f\u529b\u4ea4\u4e92\u53ef\u89c6\u5316\u3001CoVoST\uff1aFacebook\u53d1\u5e03\u7684\u591a\u8bed\u79cd\u8bed\u97f3-\u6587\u672c\u7ffb\u8bd1\u8bed\u6599\u5e93\uff0c\u5305\u62ec11\u79cd\u8bed\u8a00(\u6cd5\u8bed\u3001\u5fb7\u8bed\u3001\u8377\u5170\u8bed\u3001\u4fc4\u8bed\u3001\u897f\u73ed\u7259\u8bed\u3001\u610f\u5927\u5229\u8bed\u3001\u571f\u8033\u5176\u8bed\u3001\u6ce2\u65af\u8bed\u3001\u745e\u5178\u8bed\u3001\u8499\u53e4\u8bed\u548c\u4e2d\u6587)\u7684\u8bed\u97f3\u3001\u6587\u5b57\u8f6c\u5f55\u53ca\u82f1\u6587\u8bd1\u6587\u3001Jiagu\u81ea\u7136\u8bed\u8a00\u5904\u7406\u5de5\u5177 - \u4ee5BiLSTM\u7b49\u6a21\u578b\u4e3a\u57fa\u7840\uff0c\u63d0\u4f9b\u77e5\u8bc6\u56fe\u8c31\u5173\u7cfb\u62bd\u53d6 \u4e2d\u6587\u5206\u8bcd \u8bcd\u6027\u6807\u6ce8 \u547d\u540d\u5b9e\u4f53\u8bc6\u522b \u60c5\u611f\u5206\u6790 \u65b0\u8bcd\u53d1\u73b0 \u5173\u952e\u8bcd \u6587\u672c\u6458\u8981 \u6587\u672c\u805a\u7c7b\u7b49\u529f\u80fd\u3001\u7528unet\u5b9e\u73b0\u5bf9\u6587\u6863\u8868\u683c\u7684\u81ea\u52a8\u68c0\u6d4b\uff0c\u8868\u683c\u91cd\u5efa\u3001NLP\u4e8b\u4ef6\u63d0\u53d6\u6587\u732e\u8d44\u6e90\u5217\u8868 \u3001 \u91d1\u878d\u9886\u57df\u81ea\u7136\u8bed\u8a00\u5904\u7406\u7814\u7a76\u8d44\u6e90\u5927\u5217\u8868\u3001CLUEDatasetSearch - \u4e2d\u82f1\u6587NLP\u6570\u636e\u96c6\uff1a\u641c\u7d22\u6240\u6709\u4e2d\u6587NLP\u6570\u636e\u96c6\uff0c\u9644\u5e38\u7528\u82f1\u6587NLP\u6570\u636e\u96c6 \u3001medical_NER - \u4e2d\u6587\u533b\u5b66\u77e5\u8bc6\u56fe\u8c31\u547d\u540d\u5b9e\u4f53\u8bc6\u522b \u3001(\u54c8\u4f5b)\u8bb2\u56e0\u679c\u63a8\u7406\u7684\u514d\u8d39\u4e66\u3001\u77e5\u8bc6\u56fe\u8c31\u76f8\u5173\u5b66\u4e60\u8d44\u6599/\u6570\u636e\u96c6/\u5de5\u5177\u8d44\u6e90\u5927\u5217\u8868\u3001Forte\uff1a\u7075\u6d3b\u5f3a\u5927\u7684\u81ea\u7136\u8bed\u8a00\u5904\u7406pipeline\u5de5\u5177\u96c6 \u3001Python\u5b57\u7b26\u4e32\u76f8\u4f3c\u6027\u7b97\u6cd5\u5e93\u3001PyLaia\uff1a\u9762\u5411\u624b\u5199\u6587\u6863\u5206\u6790\u7684\u6df1\u5ea6\u5b66\u4e60\u5de5\u5177\u5305\u3001TextFooler\uff1a\u9488\u5bf9\u6587\u672c\u5206\u7c7b/\u63a8\u7406\u7684\u5bf9\u6297\u6587\u672c\u751f\u6210\u6a21\u5757\u3001Haystack\uff1a\u7075\u6d3b\u3001\u5f3a\u5927\u7684\u53ef\u6269\u5c55\u95ee\u7b54(QA)\u6846\u67b6\u3001\u4e2d\u6587\u5173\u952e\u77ed\u8bed\u62bd\u53d6\u5de5\u5177",
+        "languages": {
+            "Python": 365
+        }
+    },
+    {
+        "name": "sway",
+        "description": "\ud83c\udf34 Empowering everyone to build reliable and efficient smart contracts.",
+        "languages": {
+            "Rust": 7743003,
+            "LLVM": 72776,
+            "CSS": 46791,
+            "JavaScript": 36622,
+            "Shell": 14176,
+            "Dockerfile": 903,
+            "RenderScript": 375
+        }
+    },
+    {
+        "name": "ansible",
+        "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+        "languages": {
+            "Python": 9024396,
+            "PowerShell": 724932,
+            "Shell": 282916,
+            "C#": 218479,
+            "Jinja": 44461,
+            "Go": 2010,
+            "Makefile": 757,
+            "Roff": 555,
+            "Batchfile": 144
+        }
+    },
+    {
+        "name": "cpython",
+        "description": "The Python programming language",
+        "languages": {
+            "Python": 34023125,
+            "C": 18939389,
+            "C++": 453353,
+            "M4": 246645,
+            "HTML": 199136,
+            "Batchfile": 78117,
+            "Shell": 69899,
+            "Roff": 45634,
+            "Makefile": 36184,
+            "Objective-C": 31307,
+            "Common Lisp": 24579,
+            "PLSQL": 22886,
+            "PowerShell": 20323,
+            "Rich Text Format": 6910,
+            "Assembly": 2415,
+            "DTrace": 2196,
+            "JavaScript": 1980,
+            "CSS": 1325,
+            "XSLT": 1174,
+            "Dockerfile": 1046,
+            "VBScript": 70
+        }
+    },
+    {
+        "name": "ollama",
+        "description": "Get up and running with Llama 3, Mistral, Gemma, and other large language models.",
+        "languages": {
+            "Go": 531550,
+            "Shell": 36912,
+            "C": 19525,
+            "TypeScript": 17718,
+            "PowerShell": 16637,
+            "Dockerfile": 6152,
+            "Inno Setup": 5644,
+            "Python": 2520,
+            "CSS": 518,
+            "Objective-C": 435,
+            "JavaScript": 248,
+            "HTML": 123
+        }
+    },
+    {
+        "name": "gpt4free",
+        "description": "The official gpt4free repository | various collection of powerful language models",
+        "languages": {
+            "Python": 637858,
+            "JavaScript": 52795,
+            "CSS": 22655,
+            "HTML": 12815,
+            "Dockerfile": 2584,
+            "Shell": 200
+        }
+    },
+    {
+        "name": "Semantic-UI",
+        "description": "Semantic is a UI component framework based around useful principles from natural language.",
+        "languages": {
+            "JavaScript": 1070083,
+            "Less": 617379,
+            "HTML": 11298
+        }
+    },
+    {
+        "name": "open-interpreter",
+        "description": "A natural language interface for computers",
+        "languages": {
+            "Python": 411968,
+            "Shell": 1695,
+            "PowerShell": 1651
+        }
+    },
+    {
+        "name": "kotlin",
+        "description": "The Kotlin Programming Language. ",
+        "languages": {
+            "Kotlin": 78018168,
+            "Java": 6690181,
+            "Swift": 4062767,
+            "C": 2609482,
+            "C++": 1967339,
+            "Objective-C++": 169966,
+            "JavaScript": 135932,
+            "Python": 48402,
+            "Shell": 34712,
+            "TypeScript": 22800,
+            "Lex": 18369,
+            "Groovy": 17400,
+            "Objective-C": 15578,
+            "Batchfile": 11746,
+            "CSS": 11368,
+            "Ruby": 10470,
+            "EJS": 5241,
+            "Dockerfile": 5136,
+            "HTML": 4877,
+            "CMake": 4448,
+            "Pascal": 1698,
+            "FreeMarker": 1393,
+            "Roff": 725,
+            "LLVM": 395,
+            "Scala": 80
+        }
+    },
+    {
+        "name": "julia",
+        "description": "The Julia Programming Language",
+        "languages": {
+            "Julia": 13513393,
+            "C": 3231726,
+            "C++": 2045753,
+            "Scheme": 510793,
+            "LLVM": 219126,
+            "Makefile": 200963,
+            "Clojure": 34978,
+            "Shell": 32112,
+            "Objective-C": 25812,
+            "PHP": 21567,
+            "Assembly": 13874,
+            "Inno Setup": 7305,
+            "Python": 6561,
+            "Rich Text Format": 2851,
+            "DTrace": 1487,
+            "AppleScript": 215,
+            "Dockerfile": 140,
+            "GDB": 76
+        }
+    },
+    {
+        "name": "Projects",
+        "description": ":page_with_curl: A list of practical projects that anyone can solve in any programming language.",
+        "languages": {}
+    },
+    {
+        "name": "30-Days-Of-JavaScript",
+        "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+        "languages": {
+            "JavaScript": 1950130,
+            "HTML": 36026
+        }
+    },
+    {
+        "name": "awesome-java",
+        "description": "A curated list of awesome frameworks, libraries and software for the Java programming language.",
+        "languages": {}
+    },
+    {
+        "name": "ChatGLM-6B",
+        "description": "ChatGLM-6B: An Open Bilingual Dialogue Language Model | \u5f00\u6e90\u53cc\u8bed\u5bf9\u8bdd\u8bed\u8a00\u6a21\u578b",
+        "languages": {
+            "Python": 250116,
+            "Shell": 3703
+        }
+    },
+    {
+        "name": "MetaGPT",
+        "description": "\ud83c\udf1f The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+        "languages": {
+            "Python": 2069849,
+            "JavaScript": 32579,
+            "TypeScript": 25281,
+            "Dockerfile": 977,
+            "Shell": 392
+        }
+    },
+    {
+        "name": "PaddleOCR",
+        "description": "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
+        "languages": {
+            "Python": 3892204,
+            "C++": 596709,
+            "Shell": 243388,
+            "Java": 121375,
+            "CMake": 19829,
+            "Cuda": 17005,
+            "C": 16436,
+            "Makefile": 10100,
+            "JavaScript": 7121,
+            "C#": 3589,
+            "Dockerfile": 3509,
+            "Cython": 2576,
+            "HTML": 369
+        }
+    },
+    {
+        "name": "awesome-cheatsheets",
+        "description": "\ud83d\udc69\u200d\ud83d\udcbb\ud83d\udc68\u200d\ud83d\udcbb Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
+        "languages": {
+            "JavaScript": 273614,
+            "CSS": 109016,
+            "Shell": 86497,
+            "PHP": 51318,
+            "HTML": 14012,
+            "Python": 7482
+        }
+    },
+    {
+        "name": "text-generation-webui",
+        "description": "A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.",
+        "languages": {
+            "Python": 822703,
+            "CSS": 30023,
+            "JavaScript": 21930,
+            "Shell": 12224,
+            "Batchfile": 6489,
+            "Jupyter Notebook": 5033,
+            "Dockerfile": 4173
+        }
+    },
+    {
+        "name": "v",
+        "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io",
+        "languages": {
+            "V": 12868456,
+            "CSS": 18613,
+            "JavaScript": 14276,
+            "Batchfile": 9436,
+            "C": 6815,
+            "HTML": 6799,
+            "Makefile": 6677,
+            "C#": 6132,
+            "Objective-C": 4976,
+            "Gnuplot": 3909,
+            "Dockerfile": 2813,
+            "Python": 2146,
+            "Go": 1530,
+            "Shell": 309,
+            "C++": 257,
+            "Tcl": 206,
+            "Smarty": 10
+        }
+    },
+    {
+        "name": "FastChat",
+        "description": "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.",
+        "languages": {
+            "Python": 913120,
+            "Jupyter Notebook": 99331,
+            "Shell": 8461,
+            "Dockerfile": 294
+        }
+    },
+    {
+        "name": "tesseract.js",
+        "description": "Pure Javascript OCR for more than 100 Languages \ud83d\udcd6\ud83c\udf89\ud83d\udda5",
+        "languages": {
+            "JavaScript": 79883,
+            "HTML": 6757
+        }
+    },
+    {
+        "name": "interview",
+        "description": "\ud83d\udcda C/C++ \u6280\u672f\u9762\u8bd5\u57fa\u7840\u77e5\u8bc6\u603b\u7ed3\uff0c\u5305\u62ec\u8bed\u8a00\u3001\u7a0b\u5e8f\u5e93\u3001\u6570\u636e\u7ed3\u6784\u3001\u7b97\u6cd5\u3001\u7cfb\u7edf\u3001\u7f51\u7edc\u3001\u94fe\u63a5\u88c5\u8f7d\u5e93\u7b49\u77e5\u8bc6\u53ca\u9762\u8bd5\u7ecf\u9a8c\u3001\u62db\u8058\u3001\u5185\u63a8\u7b49\u4fe1\u606f\u3002This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.",
+        "languages": {
+            "C++": 71944,
+            "C": 6772,
+            "CMake": 957
+        }
+    },
+    {
+        "name": "carbon-lang",
+        "description": "Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)",
+        "languages": {
+            "C++": 3227543,
+            "Starlark": 167230,
+            "Python": 131806,
+            "JavaScript": 26405,
+            "C": 14236,
+            "Shell": 9425,
+            "Vim Script": 5450,
+            "Dockerfile": 2318,
+            "Scheme": 2030,
+            "HTML": 2001,
+            "Yacc": 1313,
+            "Lua": 738,
+            "Lex": 483,
+            "Makefile": 363,
+            "GDB": 298
+        }
+    },
+    {
+        "name": "30-Days-Of-Python",
+        "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+        "languages": {
+            "Python": 93082,
+            "CSS": 2694,
+            "HTML": 2510,
+            "Procfile": 18
+        }
+    },
+    {
+        "name": "beego",
+        "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+        "languages": {
+            "Go": 1820460,
+            "Makefile": 2990,
+            "Shell": 559,
+            "Smarty": 359
+        }
+    },
+    {
+        "name": "zig",
+        "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+        "languages": {
+            "Zig": 43027427,
+            "C": 739285,
+            "C++": 388837,
+            "CMake": 62227,
+            "Python": 56866,
+            "JavaScript": 34209,
+            "Shell": 17706,
+            "HTML": 11926,
+            "PowerShell": 8562,
+            "Objective-C": 913,
+            "Assembly": 434
+        }
+    },
+    {
+        "name": "leetcode",
+        "description": "\ud83d\udd25LeetCode solutions in any programming language | \u591a\u79cd\u7f16\u7a0b\u8bed\u8a00\u5b9e\u73b0 LeetCode\u3001\u300a\u5251\u6307 Offer\uff08\u7b2c 2 \u7248\uff09\u300b\u3001\u300a\u7a0b\u5e8f\u5458\u9762\u8bd5\u91d1\u5178\uff08\u7b2c 6 \u7248\uff09\u300b\u9898\u89e3",
+        "languages": {
+            "Java": 2672201,
+            "C++": 2362599,
+            "Python": 2082812,
+            "TypeScript": 1626827,
+            "Go": 1565839,
+            "Rust": 683750,
+            "JavaScript": 308684,
+            "C#": 291028,
+            "C": 69345,
+            "PHP": 61788,
+            "Swift": 15065,
+            "Ruby": 6882,
+            "Hack": 5616,
+            "Nim": 2421,
+            "Kotlin": 2107,
+            "Shell": 1548,
+            "Scala": 682,
+            "Dart": 327
+        }
+    },
+    {
+        "name": "spaCy",
+        "description": "\ud83d\udcab Industrial-strength Natural Language Processing (NLP) in Python",
+        "languages": {
+            "Python": 3982709,
+            "MDX": 2345431,
+            "Cython": 798614,
+            "JavaScript": 197402,
+            "Sass": 57786,
+            "TypeScript": 26865,
+            "Jinja": 16352,
+            "C": 9571,
+            "HTML": 6927,
+            "Makefile": 1512,
+            "Shell": 981,
+            "Dockerfile": 425,
+            "C++": 187
+        }
+    },
+    {
+        "name": "llm-course",
+        "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "languages": {
+            "Jupyter Notebook": 4768793
+        }
+    },
+    {
+        "name": "coc.nvim",
+        "description": "Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.",
+        "languages": {
+            "TypeScript": 3456665,
+            "Vim Script": 335208,
+            "JavaScript": 60595,
+            "Python": 8328,
+            "Lua": 2405,
+            "Shell": 184
+        }
+    },
+    {
+        "name": "elixir",
+        "description": "Elixir is a dynamic, functional language for building scalable and maintainable applications",
+        "languages": {
+            "Elixir": 7024713,
+            "Erlang": 572224,
+            "Makefile": 12058,
+            "Batchfile": 10796,
+            "Shell": 9946,
+            "NSIS": 8508,
+            "PowerShell": 576
+        }
+    },
+    {
+        "name": "highlight.js",
+        "description": "JavaScript syntax highlighter with language auto-detection and zero dependencies.",
+        "languages": {
+            "JavaScript": 1476480,
+            "CSS": 802206,
+            "HTML": 17616,
+            "R": 7972,
+            "Groovy": 2694,
+            "Hy": 1822,
+            "Shell": 957,
+            "Scheme": 612,
+            "Dockerfile": 518
+        }
+    },
+    {
+        "name": "ChatDev",
+        "description": "Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)",
+        "languages": {
+            "Shell": 556421,
+            "Python": 536738,
+            "JavaScript": 113037,
+            "CSS": 26313,
+            "HTML": 16553,
+            "Dockerfile": 687
+        }
+    },
+    {
+        "name": "bazel",
+        "description": "a fast, scalable, multi-language and extensible build system",
+        "languages": {
+            "Java": 45553019,
+            "Python": 4665557,
+            "Shell": 3056639,
+            "C++": 1761437,
+            "C": 31351,
+            "Smarty": 31288,
+            "HTML": 26630,
+            "Starlark": 18763,
+            "PowerShell": 15431,
+            "Objective-C": 10817,
+            "CSS": 3169,
+            "Batchfile": 2997,
+            "Objective-C++": 1043,
+            "Makefile": 248
+        }
+    },
+    {
+        "name": "NLP-progress",
+        "description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",
+        "languages": {
+            "Python": 13681,
+            "HTML": 1298,
+            "Ruby": 72
+        }
+    },
+    {
+        "name": "solidity",
+        "description": "Solidity, the Smart Contract Programming Language",
+        "languages": {
+            "C++": 6850990,
+            "Solidity": 4131442,
+            "Yul": 653545,
+            "Python": 330474,
+            "Shell": 296541,
+            "CMake": 84682,
+            "C": 72589,
+            "Dockerfile": 19326,
+            "JavaScript": 15515,
+            "PowerShell": 3752
+        }
+    },
+    {
+        "name": "CLIP",
+        "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
+        "languages": {
+            "Jupyter Notebook": 3658307,
+            "Python": 34406
+        }
+    },
+    {
+        "name": "delve",
+        "description": "Delve is a debugger for the Go programming language.",
+        "languages": {
+            "Go": 3120013,
+            "C": 2654170,
+            "Shell": 5548,
+            "PowerShell": 4033,
+            "Assembly": 3289,
+            "Starlark": 2024,
+            "Makefile": 1019,
+            "Python": 599
+        }
+    },
+    {
+        "name": "EasyOCR",
+        "description": "Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.",
+        "languages": {
+            "Python": 633749,
+            "C++": 112732,
+            "Cuda": 58253,
+            "Jupyter Notebook": 9351,
+            "C": 4548,
+            "Ruby": 1708,
+            "Dockerfile": 877,
+            "Shell": 334
+        }
+    },
+    {
+        "name": "ruby",
+        "description": "The Ruby Programming Language",
+        "languages": {
+            "Ruby": 35199134,
+            "C": 15680586,
+            "C++": 1579034,
+            "Rust": 1219656,
+            "Makefile": 1161522,
+            "Yacc": 528185,
+            "M4": 190528,
+            "HTML": 184745,
+            "Roff": 121549,
+            "Python": 99978,
+            "GDB": 36276,
+            "Ragel": 28681,
+            "Assembly": 21917,
+            "CSS": 17442,
+            "Shell": 15608,
+            "JavaScript": 15013,
+            "Batchfile": 12706,
+            "Emacs Lisp": 4051,
+            "sed": 576,
+            "Scheme": 557,
+            "Raku": 497,
+            "Perl": 187,
+            "Dockerfile": 81
+        }
+    },
+    {
+        "name": "gpt-2",
+        "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
+        "languages": {
+            "Python": 21268
+        }
+    },
+    {
+        "name": "mojo",
+        "description": "The Mojo Programming Language",
+        "languages": {
+            "Mojo": 1106696,
+            "Python": 5048,
+            "Shell": 3546
+        }
+    },
+    {
+        "name": "the-swift-programming-language-in-chinese",
+        "description": "\u4e2d\u6587\u7248 Apple \u5b98\u65b9 Swift \u6559\u7a0b\u300aThe Swift Programming Language\u300b",
+        "languages": {
+            "CSS": 2270,
+            "HTML": 210
+        }
+    },
+    {
+        "name": "chatgpt-retrieval-plugin",
+        "description": "The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.",
+        "languages": {
+            "Python": 309167,
+            "Dockerfile": 584,
+            "Makefile": 357
+        }
+    },
+    {
+        "name": "grpc-go",
+        "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+        "languages": {
+            "Go": 6968503,
+            "Shell": 47945,
+            "Dockerfile": 4435,
+            "Makefile": 953
+        }
+    },
+    {
+        "name": "pulumi",
+        "description": "Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages \ud83d\ude80",
+        "languages": {
+            "Go": 9560181,
+            "Python": 1628986,
+            "TypeScript": 1343746,
+            "JavaScript": 1133133,
+            "Shell": 34652,
+            "Makefile": 30095,
+            "Dockerfile": 4668,
+            "C#": 1334,
+            "Batchfile": 884,
+            "Assembly": 817,
+            "Pascal": 89
+        }
+    },
+    {
+        "name": "wenyan",
+        "description": "\u6587\u8a00\u6587\u7de8\u7a0b\u8a9e\u8a00 A programming language for the ancient Chinese.",
+        "languages": {
+            "TypeScript": 393712,
+            "JavaScript": 49145,
+            "HTML": 5769,
+            "CSS": 2492,
+            "Makefile": 136
+        }
+    },
+    {
+        "name": "toml",
+        "description": "Tom's Obvious, Minimal Language",
+        "languages": {}
+    },
+    {
+        "name": "crystal",
+        "description": "The Crystal Programming Language",
+        "languages": {
+            "Crystal": 12509479,
+            "Shell": 63340,
+            "JavaScript": 58824,
+            "HTML": 37665,
+            "PowerShell": 30188,
+            "Makefile": 23314,
+            "CSS": 19241,
+            "Inno Setup": 16460,
+            "Nix": 4390,
+            "Python": 4135,
+            "C++": 3270,
+            "C": 2568,
+            "Ruby": 133,
+            "Batchfile": 98
+        }
+    },
+    {
+        "name": "modern-cpp-features",
+        "description": "A cheatsheet of modern C++ language and library features.",
+        "languages": {}
+    },
+    {
+        "name": "roslyn",
+        "description": "The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.",
+        "languages": {
+            "C#": 199526861,
+            "Visual Basic .NET": 75785772,
+            "PowerShell": 293148,
+            "1C Enterprise": 257760,
+            "Shell": 141943,
+            "CMake": 14588,
+            "Batchfile": 8380,
+            "Vim Snippet": 6353,
+            "C++": 5602,
+            "F#": 549,
+            "Dockerfile": 370
+        }
+    },
+    {
+        "name": "cloc",
+        "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+        "languages": {
+            "Perl": 1501821,
+            "C++": 85920,
+            "R": 42615,
+            "Logtalk": 21992,
+            "ANTLR": 19766,
+            "C": 19089,
+            "TypeScript": 18534,
+            "Racket": 17930,
+            "TeX": 14646,
+            "Makefile": 13321,
+            "GAP": 12754,
+            "Zig": 11731,
+            "Shell": 10931,
+            "MATLAB": 10884,
+            "Assembly": 10046,
+            "Idris": 8130,
+            "Java": 7375,
+            "Swift": 7272,
+            "hoon": 6579,
+            "Thrift": 6330,
+            "ReScript": 6129,
+            "HCL": 5486,
+            "Haxe": 5444,
+            "Dockerfile": 5050,
+            "Xtend": 5036,
+            "Typst": 4920,
+            "Forth": 4757,
+            "P4": 4613,
+            "TSQL": 4564,
+            "Lean": 4539,
+            "C#": 4426,
+            "Astro": 4159,
+            "Visual Basic 6.0": 4020,
+            "Python": 3982,
+            "Odin": 3964,
+            "PigLatin": 3835,
+            "Circom": 3721,
+            "Ruby": 3669,
+            "Jupyter Notebook": 3404,
+            "Smalltalk": 3395,
+            "Scheme": 3352,
+            "Objective-C": 3267,
+            "Pony": 3168,
+            "kvlang": 3130,
+            "Vyper": 3122,
+            "Clean": 3095,
+            "Mathematica": 3060,
+            "NetLogo": 2985,
+            "Fortran": 2890,
+            "Imba": 2884,
+            "Prolog": 2865,
+            "Cairo": 2822,
+            "SystemVerilog": 2536,
+            "WGSL": 2477,
+            "Common Lisp": 2415,
+            "PLSQL": 2385,
+            "JCL": 2348,
+            "Modelica": 2348,
+            "Haskell": 2312,
+            "SaltStack": 2214,
+            "Fennel": 2211,
+            "Futhark": 2169,
+            "LFE": 2138,
+            "Nix": 2090,
+            "GLSL": 2082,
+            "Meson": 2053,
+            "RAML": 1967,
+            "Vue": 1961,
+            "Chapel": 1891,
+            "Haml": 1762,
+            "WebAssembly": 1750,
+            "Raku": 1687,
+            "Nim": 1683,
+            "ASP.NET": 1668,
+            "Go": 1665,
+            "OpenSCAD": 1643,
+            "Metal": 1583,
+            "PEG.js": 1521,
+            "EJS": 1515,
+            "Brainfuck": 1510,
+            "Asymptote": 1465,
+            "COBOL": 1460,
+            "Janet": 1455,
+            "RobotFramework": 1447,
+            "TLA": 1447,
+            "Ring": 1417,
+            "Scala": 1411,
+            "Gleam": 1393,
+            "Eiffel": 1346,
+            "Gherkin": 1341,
+            "PHP": 1314,
+            "Apex": 1294,
+            "Dhall": 1274,
+            "HolyC": 1234,
+            "Agda": 1223,
+            "HTML": 1111,
+            "Starlark": 1111,
+            "DenizenScript": 1077,
+            "XSLT": 1011,
+            "SCSS": 1008,
+            "F#": 1000,
+            "Puppet": 989,
+            "Lua": 965,
+            "Pascal": 943,
+            "Stata": 844,
+            "Blade": 725,
+            "Mustache": 712,
+            "Processing": 704,
+            "IDL": 700,
+            "Smarty": 683,
+            "AppleScript": 640,
+            "IGOR Pro": 632,
+            "Julia": 624,
+            "FreeMarker": 615,
+            "Dafny": 598,
+            "Squirrel": 544,
+            "Brightscript": 517,
+            "SourcePawn": 509,
+            "LLVM": 489,
+            "Svelte": 462,
+            "XQuery": 452,
+            "Slint": 432,
+            "Logos": 426,
+            "Mako": 406,
+            "Vala": 386,
+            "Jinja": 382,
+            "Nunjucks": 382,
+            "Slim": 368,
+            "JavaScript": 354,
+            "Kotlin": 354,
+            "SWIG": 339,
+            "Reason": 235,
+            "SugarSS": 234,
+            "VBA": 234,
+            "APL": 230,
+            "Elixir": 224,
+            "xBase": 167,
+            "ColdFusion": 164,
+            "Tcl": 134,
+            "Batchfile": 111,
+            "JetBrains MPS": 97,
+            "Elm": 86,
+            "Standard ML": 78,
+            "Isabelle": 67,
+            "Groovy": 38
+        }
+    },
+    {
+        "name": "unilm",
+        "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+        "languages": {
+            "Python": 32904945,
+            "Jupyter Notebook": 7986547,
+            "Shell": 862685,
+            "Cuda": 252613,
+            "C++": 137062,
+            "Cython": 75627,
+            "Lua": 25402,
+            "HTML": 6691,
+            "Perl": 5534,
+            "Mako": 4578,
+            "Makefile": 4002,
+            "Batchfile": 3989,
+            "C": 2786,
+            "Dockerfile": 330
+        }
+    },
+    {
+        "name": "slim",
+        "description": "Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)",
+        "languages": {
+            "Go": 1680518,
+            "Shell": 15263,
+            "Makefile": 5697,
+            "Dockerfile": 484
+        }
+    },
+    {
+        "name": "proposals",
+        "description": "Tracking ECMAScript Proposals",
+        "languages": {}
+    },
+    {
+        "name": "distroless",
+        "description": "\ud83e\udd51  Language focused docker images, minus the operating system.  ",
+        "languages": {
+            "Starlark": 112308,
+            "Shell": 14491,
+            "Go": 8012,
+            "Python": 1742
+        }
+    },
+    {
+        "name": "RustPython",
+        "description": "A Python Interpreter written in Rust",
+        "languages": {
+            "Rust": 3532797,
+            "Python": 628212,
+            "JavaScript": 30196,
+            "EJS": 6422,
+            "CSS": 4868,
+            "Shell": 3965,
+            "PowerShell": 500,
+            "HTML": 359
+        }
+    },
+    {
+        "name": "excelize",
+        "description": "Go language library for reading and writing Microsoft Excel\u2122 (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
+        "languages": {
+            "Go": 3183090
+        }
+    },
+    {
+        "name": "guidance",
+        "description": "A guidance language for controlling large language models.",
+        "languages": {
+            "Jupyter Notebook": 2006868,
+            "Python": 406983,
+            "JavaScript": 9704,
+            "C++": 3821,
+            "Rust": 386
+        }
+    },
+    {
+        "name": "less.js",
+        "description": "Less. The dynamic stylesheet language.",
+        "languages": {
+            "JavaScript": 563565,
+            "Less": 236901,
+            "CSS": 94361,
+            "TypeScript": 3295,
+            "HTML": 649
+        }
+    },
+    {
+        "name": "CopyTranslator",
+        "description": "Foreign language reading and translation assistant based on copy and translate.",
+        "languages": {
+            "TypeScript": 261341,
+            "Vue": 66834,
+            "JavaScript": 35578,
+            "CSS": 4942,
+            "HTML": 1985,
+            "Shell": 334
+        }
+    },
+    {
+        "name": "swagger-codegen",
+        "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.",
+        "languages": {
+            "Mustache": 4524279,
+            "Java": 3201515,
+            "Shell": 428404,
+            "TypeScript": 113249,
+            "Batchfile": 47356,
+            "Apex": 27195,
+            "C#": 26078,
+            "Ruby": 24212,
+            "Scala": 21639,
+            "ActionScript": 21465,
+            "PHP": 12964,
+            "HTML": 8374,
+            "JavaScript": 7521,
+            "CSS": 4881,
+            "Dockerfile": 1928,
+            "Perl": 1521,
+            "PowerShell": 1181,
+            "Rust": 177
+        }
+    },
+    {
+        "name": "assemblyscript",
+        "description": "A TypeScript-like language for WebAssembly.",
+        "languages": {
+            "WebAssembly": 22238496,
+            "TypeScript": 3246281,
+            "JavaScript": 383301,
+            "HTML": 12794
+        }
+    },
+    {
+        "name": "antlr4",
+        "description": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.",
+        "languages": {
+            "Java": 2427335,
+            "C#": 1043155,
+            "C++": 1028086,
+            "Python": 952498,
+            "Swift": 873927,
+            "Dart": 587430,
+            "JavaScript": 500603,
+            "Go": 455394,
+            "ANTLR": 112525,
+            "GAP": 109926,
+            "Assembly": 92577,
+            "CMake": 35328,
+            "Objective-C++": 28237,
+            "C": 17187,
+            "Shell": 7051,
+            "Batchfile": 6675,
+            "Smalltalk": 2453,
+            "Dockerfile": 886,
+            "Makefile": 688,
+            "Objective-C": 408
+        }
+    },
+    {
+        "name": "Nim",
+        "description": "Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).",
+        "languages": {
+            "Nim": 12609022,
+            "HTML": 243984,
+            "Python": 66644,
+            "C": 57611,
+            "CSS": 54633,
+            "C++": 23203,
+            "NSIS": 10651,
+            "Shell": 8792,
+            "Assembly": 4495,
+            "Batchfile": 2949,
+            "GDB": 1096
+        }
+    },
+    {
+        "name": "awesome-nlp",
+        "description": ":book: A curated list of resources dedicated to Natural Language Processing (NLP)",
+        "languages": {}
+    },
+    {
+        "name": "ip2region",
+        "description": "Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",
+        "languages": {
+            "Go": 56951,
+            "C": 55609,
+            "Java": 45138,
+            "Python": 32996,
+            "C++": 32706,
+            "Lua": 31276,
+            "C#": 29524,
+            "Rust": 20856,
+            "PHP": 19190,
+            "Erlang": 15179,
+            "JavaScript": 13636,
+            "Makefile": 1870,
+            "Perl": 375,
+            "Batchfile": 231,
+            "Shell": 104
+        }
+    },
+    {
+        "name": "brpc",
+        "description": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".",
+        "languages": {
+            "C++": 10359333,
+            "CMake": 170706,
+            "Perl": 149500,
+            "Makefile": 67085,
+            "C": 55164,
+            "Starlark": 54820,
+            "Shell": 37981,
+            "Objective-C++": 32018,
+            "Python": 27363,
+            "Objective-C": 21629,
+            "Lua": 9559,
+            "Ruby": 3920,
+            "Dockerfile": 1470,
+            "Thrift": 1101
+        }
+    },
+    {
+        "name": "StableLM",
+        "description": "StableLM: Stability AI Language Models",
+        "languages": {
+            "Jupyter Notebook": 9973
+        }
+    },
+    {
+        "name": "d2",
+        "description": "D2 is a modern diagram scripting language that turns text to diagrams.",
+        "languages": {
+            "Go": 1623253,
+            "Shell": 91673,
+            "JavaScript": 53193,
+            "Roff": 4474,
+            "Dockerfile": 1573,
+            "HTML": 1187,
+            "Makefile": 629,
+            "CSS": 404
+        }
+    },
+    {
+        "name": "gpt-3",
+        "description": "GPT-3: Language Models are Few-Shot Learners",
+        "languages": {}
+    },
+    {
+        "name": "MalwareSourceCode",
+        "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+        "languages": {
+            "Assembly": 32173263,
+            "C": 701008,
+            "Brainfuck": 555159,
+            "Roff": 456558,
+            "Limbo": 301777,
+            "Eiffel": 128700,
+            "Lex": 106452,
+            "Go": 98704,
+            "Perl": 95423,
+            "GAP": 85138,
+            "Forth": 83294,
+            "Pascal": 80132,
+            "MATLAB": 72642,
+            "Java": 71667,
+            "C++": 42362,
+            "Euphoria": 41958,
+            "Verilog": 19528,
+            "D": 18984,
+            "HTML": 14322,
+            "Python": 13921,
+            "BASIC": 11175,
+            "Shell": 8461,
+            "Objective-J": 7657,
+            "M": 6869,
+            "PowerShell": 2121,
+            "Objective-C": 1378
+        }
+    },
+    {
+        "name": "hydra",
+        "description": "OpenID Certified\u2122 OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.",
+        "languages": {
+            "Go": 1486522,
+            "Ruby": 107110,
+            "JavaScript": 91502,
+            "Shell": 35360,
+            "Makefile": 7292,
+            "Dockerfile": 2527
+        }
+    },
+    {
+        "name": "swift-evolution",
+        "description": "This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.",
+        "languages": {
+            "Markdown": 7597442,
+            "HTML": 275
+        }
+    },
+    {
+        "name": "slint",
+        "description": "Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.",
+        "languages": {
+            "Rust": 4866064,
+            "Slint": 1201423,
+            "C++": 284967,
+            "TypeScript": 236127,
+            "Python": 36313,
+            "Objective-C": 35213,
+            "CMake": 34302,
+            "JavaScript": 22482,
+            "Java": 18055,
+            "CSS": 7663,
+            "Shell": 6003,
+            "HTML": 2110,
+            "C": 498
+        }
+    },
+    {
+        "name": "gleam",
+        "description": "\u2b50\ufe0f A friendly language for building type-safe, scalable systems!",
+        "languages": {
+            "Rust": 2424441,
+            "Gleam": 59966,
+            "JavaScript": 43038,
+            "HTML": 29393,
+            "CSS": 23787,
+            "Erlang": 8259,
+            "Shell": 4928,
+            "Cap'n Proto": 4596,
+            "Makefile": 3892,
+            "TypeScript": 1973,
+            "PowerShell": 723,
+            "Elixir": 560,
+            "Dockerfile": 429
+        }
+    },
+    {
+        "name": "graphql-spec",
+        "description": "GraphQL is a query language and execution engine tied to any backend service.",
+        "languages": {
+            "Shell": 2839
+        }
+    },
+    {
+        "name": "book",
+        "description": "The Rust Programming Language",
+        "languages": {
+            "Rust": 300880,
+            "XSLT": 21058,
+            "Shell": 10624,
+            "HTML": 9902,
+            "JavaScript": 2740,
+            "CSS": 1455
+        }
+    },
+    {
+        "name": "Awesome-LLM",
+        "description": "Awesome-LLM: a curated list of Large Language Model",
+        "languages": {}
+    },
+    {
+        "name": "ChatterBot",
+        "description": "ChatterBot is a machine learning, conversational dialog engine for creating chat bots",
+        "languages": {
+            "Python": 375133
+        }
+    },
+    {
+        "name": "quine-relay",
+        "description": "An uroboros program with 100+ programming languages",
+        "languages": {
+            "Ruby": 89744,
+            "Makefile": 25421,
+            "Dockerfile": 2907
+        }
+    },
+    {
+        "name": "nlp-tutorial",
+        "description": "Natural Language Processing Tutorial for Deep Learning Researchers",
+        "languages": {
+            "Jupyter Notebook": 150590,
+            "Python": 96147
+        }
+    },
+    {
+        "name": "naming-cheatsheet",
+        "description": "Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.",
+        "languages": {}
+    },
+    {
+        "name": "flair",
+        "description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)",
+        "languages": {
+            "Python": 1883330,
+            "HTML": 328
+        }
+    },
+    {
+        "name": "arrow",
+        "description": "Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing",
+        "languages": {
+            "C++": 28556139,
+            "Java": 7889107,
+            "Go": 5920120,
+            "Python": 3299180,
+            "Cython": 1822193,
+            "Ruby": 1810211,
+            "C#": 1794175,
+            "R": 1712535,
+            "C": 1207915,
+            "TypeScript": 1119122,
+            "MATLAB": 857996,
+            "CMake": 763320,
+            "Swift": 688982,
+            "Shell": 431065,
+            "Dockerfile": 143342,
+            "JavaScript": 143237,
+            "Meson": 48638,
+            "Thrift": 39093,
+            "Batchfile": 33212,
+            "Makefile": 32687,
+            "Vala": 24760,
+            "Jinja": 22157,
+            "Objective-C++": 11472,
+            "Lua": 8771,
+            "HTML": 5588,
+            "Awk": 3709,
+            "FreeMarker": 2241,
+            "sed": 1256,
+            "Emacs Lisp": 1064,
+            "CSS": 289
+        }
+    },
+    {
+        "name": "Dism-Multi-language",
+        "description": "Dism++ Multi-language Support & BUG Report",
+        "languages": {
+            "HTML": 86272,
+            "JavaScript": 83419,
+            "CSS": 51968,
+            "C++": 16262,
+            "PHP": 9850,
+            "C": 644
+        }
+    },
+    {
+        "name": "tink",
+        "description": "Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.",
+        "languages": {
+            "Java": 7943291,
+            "C++": 7469617,
+            "Go": 2836883,
+            "Starlark": 1842512,
+            "Python": 900365,
+            "CMake": 373311,
+            "Shell": 223633,
+            "C": 17279,
+            "Ruby": 556
+        }
+    },
+    {
+        "name": "tech-interview-for-developer",
+        "description": "\ud83d\udc76\ud83c\udffb \uc2e0\uc785 \uac1c\ubc1c\uc790 \uc804\uacf5 \uc9c0\uc2dd & \uae30\uc220 \uba74\uc811 \ubc31\uacfc\uc0ac\uc804 \ud83d\udcd6",
+        "languages": {
+            "Java": 15821,
+            "C++": 4035
+        }
+    },
+    {
+        "name": "arangodb",
+        "description": "\ud83e\udd51 ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.",
+        "languages": {
+            "C++": 36631599,
+            "JavaScript": 33489711,
+            "TypeScript": 758793,
+            "NASL": 758009,
+            "CMake": 306929,
+            "Python": 276313,
+            "SCSS": 245566,
+            "C": 240618,
+            "CSS": 196570,
+            "EJS": 138767,
+            "Shell": 125513,
+            "Yacc": 89279,
+            "SourcePawn": 16408,
+            "LLVM": 14804,
+            "HTML": 11585,
+            "PowerShell": 7819,
+            "Dockerfile": 5108,
+            "Makefile": 551,
+            "Max": 437,
+            "Batchfile": 109
+        }
+    },
+    {
+        "name": "ale",
+        "description": "Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support",
+        "languages": {
+            "Vim Script": 1248147,
+            "Shell": 25556,
+            "Python": 13548,
+            "Lua": 2533,
+            "Batchfile": 755,
+            "Dockerfile": 663,
+            "Racket": 229,
+            "Elixir": 59,
+            "JavaScript": 28,
+            "Jsonnet": 13,
+            "Kotlin": 1,
+            "VHDL": 1
+        }
+    },
+    {
+        "name": "marko",
+        "description": "A declarative, HTML-based language that makes building web apps fun",
+        "languages": {
+            "JavaScript": 1465825,
+            "TypeScript": 456959,
+            "HTML": 267219,
+            "Marko": 211175,
+            "CSS": 24
+        }
+    },
+    {
+        "name": "revel",
+        "description": "A high productivity, full-stack web framework for the Go language.",
+        "languages": {
+            "Go": 474369,
+            "HTML": 4398
+        }
+    },
+    {
+        "name": "static-analysis",
+        "description": "\u2699\ufe0f A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.",
+        "languages": {
+            "Rust": 19522,
+            "Makefile": 360
+        }
+    },
+    {
+        "name": "lombok",
+        "description": "Very spicy additions to the Java programming language.",
+        "languages": {
+            "Java": 4735417,
+            "HTML": 249728,
+            "JavaScript": 13489,
+            "CSS": 7376,
+            "Dockerfile": 4439,
+            "Shell": 4036,
+            "C": 1905,
+            "Starlark": 526,
+            "Batchfile": 91
+        }
+    },
+    {
+        "name": "edgedb",
+        "description": "A graph-relational database with declarative schema, built-in migration system, and a next-generation query language",
+        "languages": {
+            "Python": 12417953,
+            "EdgeQL": 640495,
+            "Cython": 510852,
+            "Rust": 320080,
+            "JavaScript": 26302,
+            "CSS": 8240,
+            "Makefile": 1454
+        }
+    },
+    {
+        "name": "pre-commit",
+        "description": "A framework for managing and maintaining multi-language pre-commit hooks.",
+        "languages": {
+            "Python": 532653,
+            "R": 12037,
+            "Shell": 3071,
+            "Dockerfile": 406,
+            "Lua": 212,
+            "Ruby": 195,
+            "Perl": 104,
+            "Go": 29,
+            "Rust": 13
+        }
+    },
+    {
+        "name": "MOSS",
+        "description": "An open-source tool-augmented conversational language model from Fudan University",
+        "languages": {
+            "Python": 162626
+        }
+    },
+    {
+        "name": "linguist",
+        "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+        "languages": {
+            "Ruby": 283890,
+            "C": 97265,
+            "Go": 27621,
+            "Lex": 6948,
+            "Shell": 5216,
+            "Dockerfile": 1258
+        }
+    },
+    {
+        "name": "languagetool",
+        "description": "Style and Grammar Checker for 25+ Languages",
+        "languages": {
+            "Java": 12016282,
+            "HTML": 731254,
+            "Python": 95836,
+            "Shell": 88558,
+            "Perl": 82062,
+            "Awk": 19779,
+            "XSLT": 18181,
+            "CSS": 9058,
+            "Batchfile": 1823,
+            "Lex": 1418,
+            "Gnuplot": 750
+        }
+    },
+    {
+        "name": "FinGPT",
+        "description": "FinGPT: Open-Source Financial Large Language Models!  Revolutionize \ud83d\udd25    We release the trained model on HuggingFace.",
+        "languages": {
+            "Jupyter Notebook": 4982076,
+            "Python": 761039,
+            "Shell": 41478,
+            "TypeScript": 1883
+        }
+    },
+    {
+        "name": "char-rnn",
+        "description": "Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch",
+        "languages": {
+            "Lua": 44091
+        }
+    },
+    {
+        "name": "compromise",
+        "description": "modest natural-language processing",
+        "languages": {
+            "JavaScript": 6237439,
+            "TypeScript": 11883,
+            "HTML": 3988
+        }
+    },
+    {
+        "name": "stylus",
+        "description": "Expressive, robust, feature-rich CSS language built for nodejs",
+        "languages": {
+            "JavaScript": 359416,
+            "Stylus": 167308,
+            "CSS": 139699,
+            "Makefile": 864,
+            "TypeScript": 678
+        }
+    },
+    {
+        "name": "triton",
+        "description": "Development repository for the Triton language and compiler",
+        "languages": {
+            "C++": 1256928,
+            "Python": 1151865,
+            "MLIR": 771563,
+            "CMake": 32278,
+            "C": 9240,
+            "LLVM": 1165
+        }
+    },
+    {
+        "name": "DB-GPT",
+        "description": "AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents",
+        "languages": {
+            "Python": 2934701,
+            "HTML": 598441,
+            "TypeScript": 403966,
+            "Shell": 12488,
+            "Makefile": 6997,
+            "Dockerfile": 3626,
+            "CSS": 2552,
+            "JavaScript": 2133,
+            "Batchfile": 1538,
+            "Mako": 635
+        }
+    },
+    {
+        "name": "csharplang",
+        "description": "The official repo for the design of the C# programming language",
+        "languages": {
+            "C#": 2954
+        }
+    },
+    {
+        "name": "liquid",
+        "description": "Liquid markup language. Safe, customer facing template language for flexible web apps. ",
+        "languages": {
+            "Ruby": 467586,
+            "Liquid": 72882
+        }
+    },
+    {
+        "name": "Qwen",
+        "description": "The official repo of Qwen (\u901a\u4e49\u5343\u95ee) chat & pretrained large language model proposed by Alibaba Cloud.",
+        "languages": {
+            "Python": 209094,
+            "Jupyter Notebook": 102495,
+            "Shell": 17882,
+            "Dockerfile": 3022,
+            "Jinja": 453
+        }
+    },
+    {
+        "name": "crawlab",
+        "description": "Distributed web crawler admin platform for spiders management regardless of languages and frameworks. \u5206\u5e03\u5f0f\u722c\u866b\u7ba1\u7406\u5e73\u53f0\uff0c\u652f\u6301\u4efb\u4f55\u8bed\u8a00\u548c\u6846\u67b6",
+        "languages": {
+            "Go": 72987,
+            "Shell": 14090,
+            "Dockerfile": 2574,
+            "Python": 502
+        }
+    },
+    {
+        "name": "dolly",
+        "description": "Databricks\u2019 Dolly, a large language model trained on the Databricks Machine Learning Platform",
+        "languages": {
+            "Python": 33042,
+            "Shell": 111
+        }
+    },
+    {
+        "name": "basic-computer-games",
+        "description": "An updated version of the classic \"Basic Computer Games\" book, with well-written examples in a variety of common MEMORY SAFE, SCRIPTING programming languages. See https://coding-horror.github.io/basic-computer-games/",
+        "languages": {
+            "C#": 1054609,
+            "JavaScript": 872899,
+            "Java": 825120,
+            "BASIC": 691606,
+            "Python": 629066,
+            "Perl": 465286,
+            "Rust": 443514,
+            "MAXScript": 419110,
+            "Ruby": 183989,
+            "Go": 78687,
+            "Visual Basic .NET": 65948,
+            "Kotlin": 61085,
+            "Lua": 45392,
+            "C": 42879,
+            "HTML": 41532,
+            "D": 30707,
+            "Pascal": 27328,
+            "Elm": 19172,
+            "FreeBasic": 17078,
+            "Nim": 12722,
+            "CSS": 4065,
+            "Elixir": 3449,
+            "C++": 3233,
+            "Shell": 2591,
+            "Julia": 2199
+        }
+    },
+    {
+        "name": "language-server-protocol",
+        "description": "Defines a common protocol for language servers.",
+        "languages": {
+            "HTML": 26020,
+            "TypeScript": 20860,
+            "SCSS": 5572,
+            "JavaScript": 1241,
+            "Ruby": 484
+        }
+    },
+    {
+        "name": "vuls",
+        "description": "Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices",
+        "languages": {
+            "Go": 2175075,
+            "Makefile": 8511,
+            "Dockerfile": 1524
+        }
+    },
+    {
+        "name": "hello-world",
+        "description": "Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!",
+        "languages": {
+            "Assembly": 21160,
+            "Python": 5039,
+            "C": 2355,
+            "xBase": 2261,
+            "JavaScript": 2086,
+            "ActionScript": 1261,
+            "OpenEdge ABL": 1191,
+            "LilyPond": 1010,
+            "HTML": 648,
+            "Shell": 568,
+            "X10": 509,
+            "Java": 487,
+            "Perl": 484,
+            "Pascal": 447,
+            "HyPhy": 432,
+            "Objective-C": 420,
+            "Scheme": 399,
+            "C++": 391,
+            "WebAssembly": 390,
+            "Common Lisp": 385,
+            "Limbo": 360,
+            "Objective-J": 354,
+            "LLVM": 342,
+            "Smali": 335,
+            "COBOL": 318,
+            "Coq": 313,
+            "PostScript": 274,
+            "Jasmin": 269,
+            "Beef": 260,
+            "Mathematica": 252,
+            "MAXScript": 248,
+            "Omgrofl": 239,
+            "Fortran": 228,
+            "XSLT": 227,
+            "Cypher": 220,
+            "VHDL": 218,
+            "Visual Basic 6.0": 218,
+            "Mercury": 214,
+            "Cadence": 204,
+            "q": 193,
+            "Curry": 190,
+            "Roff": 189,
+            "Visual Basic .NET": 188,
+            "Dart": 184,
+            "Q#": 184,
+            "CWeb": 180,
+            "Csound": 174,
+            "Witcher Script": 168,
+            "Erlang": 148,
+            "Solidity": 146,
+            "Yacc": 146,
+            "VBA": 145,
+            "Zig": 142,
+            "Cuda": 140,
+            "Oz": 138,
+            "Modula-2": 137,
+            "Brainfuck": 133,
+            "PLSQL": 133,
+            "Pug": 131,
+            "Logos": 128,
+            "NWScript": 124,
+            "Ada": 116,
+            "D": 114,
+            "Processing": 113,
+            "UnrealScript": 111,
+            "CoffeeScript": 110,
+            "Apex": 107,
+            "Nemerle": 103,
+            "Whiley": 100,
+            "NewLisp": 98,
+            "AGS Script": 97,
+            "Verilog": 97,
+            "Ruby": 95,
+            "Fantom": 94,
+            "Lua": 94,
+            "SuperCollider": 93,
+            "eC": 93,
+            "Dogescript": 92,
+            "CSS": 89,
+            "RPGLE": 89,
+            "SAS": 87,
+            "mupad": 87,
+            "Haxe": 85,
+            "TeX": 85,
+            "Cool": 84,
+            "OCaml": 84,
+            "C#": 82,
+            "Odin": 82,
+            "Scala": 81,
+            "Ballerina": 80,
+            "Modula-3": 80,
+            "TSQL": 80,
+            "Standard ML": 78,
+            "GAML": 77,
+            "BlitzBasic": 75,
+            "Portugol": 75,
+            "LSL": 74,
+            "Mint": 74,
+            "Go": 73,
+            "BASIC": 72,
+            "Golo": 72,
+            "Lasso": 72,
+            "Smalltalk": 72,
+            "Vala": 72,
+            "LOLCODE": 71,
+            "ABAP": 70,
+            "Agda": 70,
+            "Forth": 70,
+            "Pony": 70,
+            "Svelte": 69,
+            "Classic ASP": 68,
+            "MATLAB": 68,
+            "DTrace": 67,
+            "Elixir": 67,
+            "Jolie": 66,
+            "PureScript": 66,
+            "Raku": 66,
+            "HolyC": 65,
+            "ColdFusion": 64,
+            "RobotFramework": 64,
+            "Gleam": 63,
+            "Kotlin": 63,
+            "Rebol": 63,
+            "F*": 62,
+            "Haskell": 62,
+            "VBScript": 60,
+            "Slim": 59,
+            "Genie": 58,
+            "Elm": 57,
+            "Euphoria": 57,
+            "Pike": 57,
+            "Idris": 56,
+            "TypeScript": 56,
+            "Gosu": 55,
+            "Haml": 55,
+            "Vim Script": 55,
+            "Prolog": 54,
+            "GDScript": 53,
+            "Clean": 52,
+            "Ceylon": 50,
+            "Max": 50,
+            "Promela": 50,
+            "Eiffel": 48,
+            "Moocode": 48,
+            "Awk": 47,
+            "J": 47,
+            "PureBasic": 47,
+            "Batchfile": 45,
+            "Red": 45,
+            "SCSS": 45,
+            "ATS": 44,
+            "Less": 44,
+            "ooc": 44,
+            "Rust": 43,
+            "sed": 43,
+            "XQuery": 42,
+            "Zeek": 42,
+            "Elvish": 41,
+            "HCL": 41,
+            "Genero 4gl": 40,
+            "Tea": 40,
+            "AutoIt": 39,
+            "ZenScript": 39,
+            "DM": 38,
+            "Sass": 37,
+            "Stylus": 37,
+            "XProc": 37,
+            "kvlang": 35,
+            "AspectJ": 34,
+            "Bicep": 34,
+            "Ink": 34,
+            "REXX": 34,
+            "Factor": 33,
+            "AppleScript": 31,
+            "Game Maker Language": 31,
+            "Berry": 27,
+            "Makefile": 27,
+            "PHP": 27,
+            "Racket": 27,
+            "Reason": 27,
+            "Hack": 26,
+            "LiveScript": 26,
+            "PigLatin": 26,
+            "mcfunction": 25,
+            "Chapel": 24,
+            "Clojure": 24,
+            "Emacs Lisp": 24,
+            "Wren": 24,
+            "CMake": 23,
+            "E": 23,
+            "Fancy": 23,
+            "JetBrains MPS": 23,
+            "Julia": 23,
+            "Self": 23,
+            "V": 23,
+            "Fennel": 22,
+            "GLSL": 22,
+            "Groovy": 22,
+            "Hy": 22,
+            "Io": 22,
+            "Ioke": 22,
+            "APL": 21,
+            "Logtalk": 21,
+            "Nit": 21,
+            "Nu": 21,
+            "Pyret": 21,
+            "ReScript": 21,
+            "Squirrel": 21,
+            "Starlark": 21,
+            "Swift": 21,
+            "Arc": 20,
+            "AutoHotkey": 20,
+            "Boo": 20,
+            "MoonScript": 20,
+            "Nim": 20,
+            "Opa": 20,
+            "mIRC Script": 20,
+            "Crystal": 19,
+            "M": 19,
+            "R": 19,
+            "Shen": 19,
+            "Ring": 18,
+            "Tcl": 18,
+            "Turing": 18,
+            "HiveQL": 14,
+            "PowerShell": 14,
+            "M4": 5
+        }
+    },
+    {
+        "name": "mockery",
+        "description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).",
+        "languages": {
+            "PHP": 5364028,
+            "Shell": 2887,
+            "Makefile": 1700
+        }
+    },
+    {
+        "name": "natural",
+        "description": "general natural language facilities for node",
+        "languages": {
+            "JavaScript": 719540,
+            "TypeScript": 361810,
+            "PEG.js": 1145
+        }
+    },
+    {
+        "name": "clojure",
+        "description": "The Clojure programming language",
+        "languages": {
+            "Java": 2000730,
+            "Clojure": 1416341,
+            "HTML": 16136,
+            "Shell": 276
+        }
+    },
+    {
+        "name": "NeMo",
+        "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+        "languages": {
+            "Python": 16456906,
+            "Jupyter Notebook": 6508792,
+            "Shell": 40848,
+            "C++": 27587,
+            "Dockerfile": 6664,
+            "Groovy": 5587,
+            "HTML": 4324,
+            "CSS": 2001,
+            "Makefile": 890
+        }
+    },
+    {
+        "name": "The-Complete-FAANG-Preparation",
+        "description": "This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Python, and Java.",
+        "languages": {
+            "Jupyter Notebook": 2865217,
+            "HTML": 1409628,
+            "C++": 1095946,
+            "Python": 473441,
+            "CSS": 323115,
+            "JavaScript": 270538,
+            "Java": 207895,
+            "Swift": 27938,
+            "Scala": 23641,
+            "PHP": 22714,
+            "Dart": 21720,
+            "Go": 16966,
+            "C": 9163,
+            "Shell": 6084,
+            "SCSS": 5997,
+            "TypeScript": 3476,
+            "Dockerfile": 45
+        }
+    },
+    {
+        "name": "sdk",
+        "description": "The Dart SDK, including the VM, dart2js, core libraries, and more.",
+        "languages": {
+            "Dart": 132266555,
+            "C++": 23090029,
+            "C": 1442939,
+            "Python": 1284038,
+            "HTML": 704034,
+            "Java": 618037,
+            "JavaScript": 246958,
+            "Shell": 105668,
+            "CSS": 76022,
+            "GAP": 47024,
+            "ANTLR": 46786,
+            "TeX": 37865,
+            "SCSS": 22311,
+            "Makefile": 10274,
+            "Assembly": 7063,
+            "Batchfile": 4772,
+            "CMake": 1598,
+            "Objective-C++": 854,
+            "Dockerfile": 495
+        }
+    },
+    {
+        "name": "DreamBerd",
+        "description": "perfect programming language",
+        "languages": {}
+    },
+    {
+        "name": "dtm",
+        "description": "A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.",
+        "languages": {
+            "Go": 446918,
+            "Vue": 32356,
+            "TypeScript": 12715,
+            "Shell": 6189,
+            "JavaScript": 3803,
+            "TSQL": 3148,
+            "Smarty": 1742,
+            "Makefile": 1392,
+            "HTML": 566,
+            "CSS": 65
+        }
+    },
+    {
+        "name": "semgrep",
+        "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+        "languages": {
+            "OCaml": 9043477,
+            "Python": 1421107,
+            "Java": 509901,
+            "C": 391713,
+            "JavaScript": 374317,
+            "Yacc": 226533,
+            "Standard ML": 157945,
+            "Lex": 104080,
+            "Go": 54784,
+            "Shell": 51231,
+            "Makefile": 43511,
+            "Ruby": 37627,
+            "C++": 32910,
+            "Dockerfile": 16560,
+            "Nix": 15827,
+            "Jsonnet": 10591,
+            "TypeScript": 9532,
+            "Scala": 9371,
+            "Elixir": 7547,
+            "HTML": 5347,
+            "PHP": 4743,
+            "Mustache": 4118,
+            "Swift": 2436,
+            "C#": 1492,
+            "HCL": 831,
+            "Liquid": 603,
+            "Jinja": 592,
+            "Max": 302,
+            "Vue": 32,
+            "Rust": 30
+        }
+    },
+    {
+        "name": "GolangTraining",
+        "description": "Training for Golang (go language)",
+        "languages": {
+            "Go": 822572,
+            "HTML": 506181,
+            "JavaScript": 289109,
+            "CSS": 241843
+        }
+    },
+    {
+        "name": "swift-package-manager",
+        "description": "The Package Manager for the Swift Programming Language",
+        "languages": {
+            "Swift": 8949657,
+            "C++": 208900,
+            "Python": 42397,
+            "CMake": 41073,
+            "Shell": 12457,
+            "Objective-C": 6228,
+            "C": 5690,
+            "Dockerfile": 1288,
+            "Objective-C++": 457,
+            "Emacs Lisp": 216
+        }
+    },
+    {
+        "name": "Locale-Emulator",
+        "description": "Yet Another System Region and Language Simulator",
+        "languages": {
+            "C#": 152184,
+            "PowerShell": 355
+        }
+    },
+    {
+        "name": "SQLite.swift",
+        "description": "A type-safe, Swift-language layer over SQLite3.",
+        "languages": {
+            "Swift": 570929,
+            "Ruby": 4421,
+            "Makefile": 2024,
+            "Shell": 770,
+            "C": 128
+        }
+    },
+    {
+        "name": "nlp_course",
+        "description": "YSDA course in Natural Language Processing",
+        "languages": {
+            "Jupyter Notebook": 2747586,
+            "Python": 87769,
+            "HTML": 43549,
+            "Dockerfile": 3538,
+            "Cuda": 3003,
+            "C++": 851,
+            "Shell": 98
+        }
+    },
+    {
+        "name": "prql",
+        "description": "PRQL is a modern language for transforming data \u2014 a simple, powerful, pipelined SQL replacement",
+        "languages": {
+            "Rust": 985790,
+            "JavaScript": 49953,
+            "CSS": 32999,
+            "HTML": 25686,
+            "C#": 12587,
+            "PHP": 12175,
+            "Java": 11606,
+            "Elixir": 9697,
+            "TypeScript": 8176,
+            "C": 6544,
+            "C++": 5074,
+            "Zig": 4499,
+            "Python": 4441,
+            "Shell": 3744,
+            "Nix": 2528,
+            "Makefile": 1077,
+            "Dockerfile": 775,
+            "Handlebars": 292
+        }
+    },
+    {
+        "name": "pkl",
+        "description": "A configuration as code language with rich validation and tooling.",
+        "languages": {
+            "Java": 2617383,
+            "Kotlin": 1028063,
+            "Groovy": 232676,
+            "JavaScript": 32869,
+            "ANTLR": 18705,
+            "CSS": 12379,
+            "Shell": 188
+        }
+    },
+    {
+        "name": "fq",
+        "description": "jq for binary formats - tool, language and decoders for working with binary and text formats",
+        "languages": {
+            "Go": 2874862,
+            "jq": 99511,
+            "Makefile": 4268,
+            "JSONiq": 1991,
+            "Dockerfile": 631,
+            "Shell": 426
+        }
+    },
+    {
+        "name": "ChatRWKV",
+        "description": "ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.",
+        "languages": {
+            "Python": 275953,
+            "Cuda": 14232,
+            "C++": 12870
+        }
+    },
+    {
+        "name": "mock",
+        "description": "GoMock is a mocking framework for the Go programming language.",
+        "languages": {
+            "Go": 196268,
+            "Shell": 1673
+        }
+    },
+    {
+        "name": "web-llm",
+        "description": "Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.",
+        "languages": {
+            "TypeScript": 208510,
+            "HTML": 2708,
+            "Shell": 2185,
+            "JavaScript": 1256
+        }
+    },
+    {
+        "name": "FlexGen",
+        "description": "Running large language models on a single GPU for throughput-oriented scenarios.",
+        "languages": {
+            "Python": 735326,
+            "Shell": 25794
+        }
+    },
+    {
+        "name": "LoRA",
+        "description": "Code for loralib, an implementation of \"LoRA: Low-Rank Adaptation of Large Language Models\"",
+        "languages": {
+            "Python": 15334
+        }
+    },
+    {
+        "name": "devicon",
+        "description": "Set of icons representing programming languages, designing & development tools",
+        "languages": {
+            "CSS": 56967,
+            "JavaScript": 6051,
+            "Dockerfile": 213
+        }
+    },
+    {
+        "name": "fastdfs",
+        "description": "FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. Wechat/Weixin public account (Chinese Language): fastdfs",
+        "languages": {
+            "C": 1943402,
+            "PHP": 47017,
+            "Shell": 18322,
+            "Dockerfile": 11326,
+            "Makefile": 8249,
+            "M4": 632
+        }
+    },
+    {
+        "name": "semantic",
+        "description": "Parsing, analyzing, and comparing source code across many languages",
+        "languages": {
+            "Haskell": 2937716,
+            "Starlark": 34273,
+            "Shell": 17789,
+            "Dockerfile": 1856,
+            "Ruby": 276,
+            "Python": 275
+        }
+    },
+    {
+        "name": "gridstudio",
+        "description": "Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.",
+        "languages": {
+            "JavaScript": 653540,
+            "Go": 172663,
+            "TypeScript": 45080,
+            "HTML": 24578,
+            "CSS": 21004,
+            "Less": 12870,
+            "Python": 8912,
+            "Dockerfile": 1949,
+            "Shell": 1592
+        }
+    },
+    {
+        "name": "Awesome-Multimodal-Large-Language-Models",
+        "description": ":sparkles::sparkles:Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation.",
+        "languages": {}
+    },
+    {
+        "name": "gop",
+        "description": "The Go+ programming language is designed for engineering, STEM education, and data science",
+        "languages": {
+            "Go": 1310535,
+            "Makefile": 1723,
+            "Shell": 1406,
+            "Dockerfile": 863,
+            "Batchfile": 92
+        }
+    },
+    {
+        "name": "LAVIS",
+        "description": "LAVIS - A One-stop Library for Language-Vision Intelligence",
+        "languages": {
+            "Jupyter Notebook": 10657370,
+            "Python": 3671812,
+            "Shell": 11748
+        }
+    },
+    {
+        "name": "LLMSurvey",
+        "description": "The official GitHub page for the survey paper \"A Survey of Large Language Models\".",
+        "languages": {
+            "Python": 738327,
+            "Shell": 38077,
+            "JavaScript": 22995,
+            "Rust": 3380,
+            "Scheme": 2111,
+            "C++": 869
+        }
+    },
+    {
+        "name": "pattern",
+        "description": "Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.",
+        "languages": {
+            "Python": 1562007,
+            "JavaScript": 229360,
+            "HTML": 606
+        }
+    },
+    {
+        "name": "baseweb",
+        "description": "A React Component library implementing the Base design language",
+        "languages": {
+            "TypeScript": 4733889,
+            "JavaScript": 560662,
+            "MDX": 497358,
+            "HTML": 1613,
+            "CSS": 131,
+            "Shell": 76
+        }
+    },
+    {
+        "name": "buck",
+        "description": "A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.",
+        "languages": {
+            "Java": 33678299,
+            "Starlark": 1409831,
+            "JavaScript": 931240,
+            "Python": 766764,
+            "C": 250514,
+            "CSS": 56119,
+            "Shell": 39846,
+            "Kotlin": 25953,
+            "Thrift": 18470,
+            "Lex": 14469,
+            "Smalltalk": 5432,
+            "Dockerfile": 2559,
+            "PowerShell": 2154,
+            "Batchfile": 1796,
+            "Makefile": 1704,
+            "HTML": 501
+        }
+    },
+    {
+        "name": "aws-sdk-go",
+        "description": "AWS SDK for the Go programming language.",
+        "languages": {
+            "Go": 3460641,
+            "Makefile": 6128,
+            "Roff": 1330
+        }
+    },
+    {
+        "name": "purescript",
+        "description": "A strongly-typed language that compiles to JavaScript",
+        "languages": {
+            "Haskell": 1910127,
+            "PureScript": 717850,
+            "Yacc": 32400,
+            "JavaScript": 23229,
+            "Less": 20348,
+            "CSS": 18940,
+            "Shell": 16110,
+            "Makefile": 2933,
+            "Dhall": 1747
+        }
+    },
+    {
+        "name": "shell_gpt",
+        "description": "A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.",
+        "languages": {
+            "Python": 89152,
+            "Shell": 367,
+            "Dockerfile": 194
+        }
+    },
+    {
+        "name": "craftinginterpreters",
+        "description": "Repository for the book \"Crafting Interpreters\"",
+        "languages": {
+            "HTML": 2432431,
+            "C": 140568,
+            "Dart": 134174,
+            "Java": 128643,
+            "SCSS": 28395,
+            "CSS": 27343,
+            "Makefile": 13713,
+            "JavaScript": 1942,
+            "Shell": 118
+        }
+    },
+    {
+        "name": "trl",
+        "description": "Train transformer language models with reinforcement learning.",
+        "languages": {
+            "Python": 879745,
+            "Shell": 16385,
+            "Dockerfile": 4328,
+            "Makefile": 1264
+        }
+    },
+    {
+        "name": "Twig",
+        "description": "Twig, the flexible, fast, and secure template language for PHP",
+        "languages": {
+            "PHP": 874612,
+            "Shell": 1667,
+            "Twig": 641,
+            "HTML": 286
+        }
+    },
+    {
+        "name": "Fay",
+        "description": "Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.",
+        "languages": {}
+    },
+    {
+        "name": "bpftrace",
+        "description": "High-level tracing language for Linux eBPF",
+        "languages": {
+            "C++": 1544219,
+            "LLVM": 1422172,
+            "C": 80693,
+            "CMake": 54212,
+            "Python": 38540,
+            "Yacc": 26626,
+            "Shell": 13959,
+            "Lex": 13830,
+            "Nix": 7814
+        }
+    },
+    {
+        "name": "centrifugo",
+        "description": "Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever.",
+        "languages": {
+            "Go": 742643,
+            "Shell": 37847,
+            "Lua": 2882,
+            "JavaScript": 2415,
+            "Makefile": 2157,
+            "Dockerfile": 168,
+            "Procfile": 55
+        }
+    },
+    {
+        "name": "prompt-engineering",
+        "description": "Tips and tricks for working with Large Language Models like OpenAI's GPT-4.",
+        "languages": {}
+    },
+    {
+        "name": "TypeChat",
+        "description": "TypeChat is a library that makes it easy to build natural language interfaces using types.",
+        "languages": {
+            "TypeScript": 157760,
+            "Python": 129058,
+            "Jupyter Notebook": 23417,
+            "Nunjucks": 10444,
+            "JavaScript": 2877,
+            "CSS": 2420,
+            "HTML": 277
+        }
+    },
+    {
+        "name": "text-generation-inference",
+        "description": "Large Language Model Text Generation Inference",
+        "languages": {
+            "Python": 1336791,
+            "Rust": 386804,
+            "Cuda": 150454,
+            "C++": 11411,
+            "Dockerfile": 8462,
+            "JavaScript": 5039,
+            "Makefile": 2821,
+            "C": 1001,
+            "Shell": 654
+        }
+    },
+    {
+        "name": "go-internals",
+        "description": "A book about the internals of the Go programming language.",
+        "languages": {
+            "Go": 17177,
+            "Shell": 1028,
+            "Makefile": 904
+        }
+    },
+    {
+        "name": "go-app",
+        "description": "A package to build progressive web apps with Go programming language and WebAssembly.",
+        "languages": {
+            "Go": 448766,
+            "JavaScript": 10469,
+            "CSS": 1564,
+            "Makefile": 1557
+        }
+    },
+    {
+        "name": "ModSecurity",
+        "description": "ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence. ",
+        "languages": {
+            "C++": 2586738,
+            "C": 151092,
+            "M4": 107334,
+            "Makefile": 34706,
+            "Shell": 9756,
+            "Lua": 3884
+        }
+    },
+    {
+        "name": "BELLE",
+        "description": "BELLE: Be Everyone's Large Language model Engine\uff08\u5f00\u6e90\u4e2d\u6587\u5bf9\u8bdd\u5927\u6a21\u578b\uff09",
+        "languages": {
+            "HTML": 686866,
+            "Python": 626321,
+            "Jupyter Notebook": 178157,
+            "Shell": 24447,
+            "Cuda": 15843,
+            "Dockerfile": 9305,
+            "C++": 2258
+        }
+    },
+    {
+        "name": "compiler",
+        "description": "Compiler for Elm, a functional language for reliable webapps.",
+        "languages": {
+            "Haskell": 1403319,
+            "Elm": 50863,
+            "NSIS": 7831,
+            "JavaScript": 4683,
+            "Shell": 2433,
+            "CSS": 2227,
+            "Rich Text Format": 1176,
+            "Python": 1163,
+            "Dockerfile": 1137,
+            "VBScript": 1096,
+            "Batchfile": 354
+        }
+    },
+    {
+        "name": "GoJS",
+        "description": "JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.",
+        "languages": {
+            "HTML": 14244477,
+            "JavaScript": 9142514,
+            "TypeScript": 2949675,
+            "CSS": 153880
+        }
+    },
+    {
+        "name": "gopl.io",
+        "description": "Example programs from \"The Go Programming Language\"",
+        "languages": {
+            "Go": 199377,
+            "C": 1864
+        }
+    },
+    {
+        "name": "reviewdog",
+        "description": "\ud83d\udc36 Automated code review tool integrated with any code analysis tools regardless of programming language",
+        "languages": {
+            "Go": 454843,
+            "Shell": 10292,
+            "HTML": 5425,
+            "Dockerfile": 700
+        }
+    },
+    {
+        "name": "lang",
+        "description": "List of 126 languages for Laravel Framework, Laravel Jetstream, Laravel Fortify, Laravel Breeze, Laravel Cashier, Laravel Nova, Laravel Spark and Laravel UI.",
+        "languages": {
+            "PHP": 32714
+        }
+    },
+    {
+        "name": "enso",
+        "description": "Hybrid visual and textual functional programming.",
+        "languages": {
+            "Scala": 6201550,
+            "Java": 3920361,
+            "TypeScript": 3015176,
+            "Rust": 1676433,
+            "Vue": 441047,
+            "JavaScript": 136556,
+            "Python": 69902,
+            "HTML": 56733,
+            "CSS": 25007,
+            "Shell": 6050,
+            "C++": 4825,
+            "ANTLR": 3893,
+            "Roff": 3753,
+            "Dockerfile": 2959,
+            "Haskell": 2689,
+            "Makefile": 824,
+            "PowerShell": 648,
+            "Batchfile": 586
+        }
+    },
+    {
+        "name": "gonum",
+        "description": "Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more",
+        "languages": {
+            "Go": 8882164,
+            "Fortran": 279213,
+            "Assembly": 234413,
+            "TeX": 22628,
+            "MATLAB": 18566,
+            "Shell": 15820,
+            "Ragel": 10121,
+            "Makefile": 844
+        }
+    },
+    {
+        "name": "Eve",
+        "description": "Better tools for thought",
+        "languages": {
+            "TypeScript": 625773,
+            "JavaScript": 5626,
+            "HTML": 876
+        }
+    },
+    {
+        "name": "curlconverter",
+        "description": "Transpile curl commands into Python, JavaScript and 27 other languages",
+        "languages": {
+            "TypeScript": 662276,
+            "JavaScript": 39151,
+            "Python": 18692,
+            "Shell": 78
+        }
+    },
+    {
+        "name": "Yi",
+        "description": "A series of large language models trained from scratch by developers @01-ai",
+        "languages": {
+            "Python": 163097,
+            "Shell": 1954,
+            "Dockerfile": 1918
+        }
+    },
+    {
+        "name": "diff-match-patch",
+        "description": "Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.",
+        "languages": {
+            "Python": 224309,
+            "Objective-C": 191171,
+            "Dart": 162089,
+            "C++": 147873,
+            "C#": 147714,
+            "Java": 142718,
+            "JavaScript": 117734,
+            "Lua": 113978,
+            "HTML": 56981,
+            "C": 21641,
+            "QMake": 323
+        }
+    },
+    {
+        "name": "jss",
+        "description": "JSS is an authoring tool for CSS which uses JavaScript as a host language.",
+        "languages": {
+            "JavaScript": 405602,
+            "TypeScript": 20725
+        }
+    },
+    {
+        "name": "stanza",
+        "description": "Stanford NLP Python library for tokenization, sentence segmentation, NER, and parsing of many human languages",
+        "languages": {
+            "Python": 3219440,
+            "JavaScript": 51846,
+            "Perl": 8641,
+            "HTML": 8275,
+            "Shell": 5118,
+            "CSS": 943
+        }
+    },
+    {
+        "name": "txtai",
+        "description": "\ud83d\udca1 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows",
+        "languages": {
+            "Python": 839386,
+            "Dockerfile": 3163,
+            "Makefile": 2022
+        }
+    },
+    {
+        "name": "rust-gpu",
+        "description": "\ud83d\udc09 Making Rust a first-class language and ecosystem for GPU shaders \ud83d\udea7",
+        "languages": {
+            "Rust": 1536711,
+            "Nix": 2306
+        }
+    },
+    {
+        "name": "pygame",
+        "description": "\ud83d\udc0d\ud83c\udfae pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.",
+        "languages": {
+            "C": 2912902,
+            "Python": 2387103,
+            "Cython": 172471,
+            "Shell": 36285,
+            "Objective-C": 10656,
+            "C++": 4070,
+            "Batchfile": 3454,
+            "Makefile": 3253,
+            "PowerShell": 1059
+        }
+    },
+    {
+        "name": "PowerInfer",
+        "description": "High-speed Large Language Model Serving on PCs with Consumer-grade GPUs",
+        "languages": {
+            "C++": 1349794,
+            "C": 1108069,
+            "Cuda": 364323,
+            "Python": 224151,
+            "Metal": 106747,
+            "Objective-C": 90604,
+            "Shell": 44569,
+            "CMake": 42755,
+            "Zig": 6287,
+            "Nix": 5761,
+            "Dockerfile": 4120,
+            "Swift": 1915
+        }
+    },
+    {
+        "name": "rockstar",
+        "description": "The Rockstar programming language specification",
+        "languages": {
+            "JavaScript": 1999505,
+            "CSS": 15624,
+            "HTML": 8898,
+            "Python": 280
+        }
+    },
+    {
+        "name": "MarkovJunior",
+        "description": "Probabilistic language based on pattern matching and constraint propagation, 153 examples",
+        "languages": {
+            "C#": 161079
+        }
+    },
+    {
+        "name": "jsonnet",
+        "description": "Jsonnet - The data templating language",
+        "languages": {
+            "Jsonnet": 1021392,
+            "C++": 572785,
+            "Python": 87149,
+            "C": 43608,
+            "Shell": 35261,
+            "HTML": 15889,
+            "CMake": 13223,
+            "Java": 8813,
+            "Makefile": 7428,
+            "Starlark": 7252,
+            "CSS": 4684,
+            "Dockerfile": 332
+        }
+    },
+    {
+        "name": "wren",
+        "description": "The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language.",
+        "languages": {
+            "Wren": 3533707,
+            "C": 448301,
+            "Makefile": 76511,
+            "Python": 66133,
+            "Dart": 25499,
+            "C++": 16299,
+            "Lua": 12919,
+            "Ruby": 9694,
+            "Shell": 1354
+        }
+    },
+    {
+        "name": "100-days-of-code",
+        "description": "Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)",
+        "languages": {}
+    },
+    {
+        "name": "dowhy",
+        "description": "DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks. ",
+        "languages": {
+            "Python": 1868774
+        }
+    },
+    {
+        "name": "walk",
+        "description": "A Windows GUI toolkit for the Go Programming Language",
+        "languages": {
+            "Go": 1039775,
+            "Batchfile": 52
+        }
+    },
+    {
+        "name": "gpt-migrate",
+        "description": "Easily migrate your codebase from one framework or language to another.",
+        "languages": {
+            "Python": 55617
+        }
+    },
+    {
+        "name": "yaml",
+        "description": "YAML support for the Go language.",
+        "languages": {
+            "Go": 455065
+        }
+    },
+    {
+        "name": "ArnoldC",
+        "description": "Arnold Schwarzenegger based programming language",
+        "languages": {
+            "Scala": 80561
+        }
+    },
+    {
+        "name": "OpenNMT-py",
+        "description": "Open Source Neural Machine Translation and (Large) Language Models in PyTorch",
+        "languages": {
+            "Python": 1230526,
+            "Shell": 45722,
+            "Perl": 6480,
+            "Dockerfile": 1218
+        }
+    },
+    {
+        "name": "TensorRT-LLM",
+        "description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.",
+        "languages": {
+            "C++": 693120729,
+            "Python": 3509687,
+            "Cuda": 857566,
+            "CMake": 67866,
+            "Smarty": 21686,
+            "Shell": 21117,
+            "PowerShell": 14835,
+            "Dockerfile": 9340,
+            "Makefile": 6574,
+            "C": 5050
+        }
+    },
+    {
+        "name": "countries-states-cities-database",
+        "description": "\ud83c\udf0d Discover our global repository of countries, states, and cities!  \ud83c\udfd9\ufe0f Get comprehensive data in JSON, SQL, PSQL, XML, YAML, and CSV formats. Access ISO2, ISO3 codes, country code, capital, native language, timezones (for countries), and more. #countries #states #cities",
+        "languages": {
+            "PHP": 23658,
+            "Python": 591
+        }
+    },
+    {
+        "name": "templ",
+        "description": "A language for writing HTML user interfaces in Go.",
+        "languages": {
+            "Go": 772734,
+            "HTML": 7703,
+            "Nix": 3012,
+            "JavaScript": 1262,
+            "Shell": 1031,
+            "Dockerfile": 237
         }
     }
 ]

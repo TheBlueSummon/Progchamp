@@ -12,7 +12,7 @@
         "name": "Battle-Brothers-CN",
         "description": "Battle Brothers(\u6218\u573a\u5144\u5f1f)\u4e2d\u6587\u7ffb\u8bd1\u9879\u76ee",
         "languages": {
-            "Squirrel": 14396245,
+            "Squirrel": 14395618,
             "Go": 17351,
             "Makefile": 713,
             "Batchfile": 61
@@ -42,6 +42,1511 @@
             "Squirrel": 4741373,
             "ReScript": 179431,
             "kvlang": 1916
+        }
+    },
+    {
+        "name": "NorthstarMods",
+        "description": "Squirrel scripts used to recreate server-side gamelogic and add custom content to the game.",
+        "languages": {
+            "Squirrel": 4603566,
+            "ReScript": 11750
+        }
+    },
+    {
+        "name": "BEE2-items",
+        "description": "Standard Items for the BEE2.4",
+        "languages": {
+            "Squirrel": 99909,
+            "Python": 22045
+        }
+    },
+    {
+        "name": "csgo-benchmark",
+        "description": "Benchmark CS:GO on any map",
+        "languages": {
+            "Squirrel": 564625,
+            "Batchfile": 1609,
+            "Shell": 1394
+        }
+    },
+    {
+        "name": "Portal-2-Multiplayer-Mod",
+        "description": null,
+        "languages": {
+            "Squirrel": 1015625,
+            "Python": 134867,
+            "Shell": 3226,
+            "Dockerfile": 399
+        }
+    },
+    {
+        "name": "reference",
+        "description": "Electric Imp Reference Code",
+        "languages": {
+            "Squirrel": 1204306,
+            "JavaScript": 30881,
+            "HTML": 10251,
+            "CSS": 4236
+        }
+    },
+    {
+        "name": "vs_library",
+        "description": "vscript library",
+        "languages": {
+            "Squirrel": 482987
+        }
+    },
+    {
+        "name": "supertux-advance",
+        "description": "A SuperTux game made in Brux GDK with 16bit-style graphics.",
+        "languages": {
+            "Squirrel": 577856
+        }
+    },
+    {
+        "name": "L4D2-Community-Update",
+        "description": "Help us shape the potential future of L4D2 vanilla.",
+        "languages": {
+            "Squirrel": 829992,
+            "ReScript": 39183,
+            "PowerShell": 12776,
+            "Batchfile": 220
+        }
+    },
+    {
+        "name": "CSGO-ZE-Configs",
+        "description": "A collection of configs for CS:GO ZE",
+        "languages": {
+            "Squirrel": 2081373
+        }
+    },
+    {
+        "name": "Titanfall2",
+        "description": "Titanfall 2 client tracking",
+        "languages": {
+            "Squirrel": 4206184
+        }
+    },
+    {
+        "name": "riscv-vscript",
+        "description": "A port of mini-rv32ima to VScript (Squirrel 3)",
+        "languages": {
+            "Squirrel": 18698305
+        }
+    },
+    {
+        "name": "keyframes",
+        "description": "CS:GO camera path smoothing",
+        "languages": {
+            "Squirrel": 319939,
+            "Batchfile": 1604,
+            "Shell": 1389
+        }
+    },
+    {
+        "name": "Wimp_Weather_Station",
+        "description": "Code for the tutorial available from SparkFun Electronics ",
+        "languages": {
+            "Squirrel": 36038,
+            "Arduino": 21301
+        }
+    },
+    {
+        "name": "vslib",
+        "description": "A simple, powerful VScript library for L4D2",
+        "languages": {
+            "Squirrel": 605675
+        }
+    },
+    {
+        "name": "L4D2-Comp-Stripper-Rework",
+        "description": "Reworking Stripper:Source map changes for competitive L4D2 from scratch.",
+        "languages": {
+            "Squirrel": 69550
+        }
+    },
+    {
+        "name": "Power_Monitor",
+        "description": "Arduino and Processing sketches for Power Monitor Shield",
+        "languages": {
+            "Squirrel": 24016,
+            "C++": 14286,
+            "Processing": 10192
+        }
+    },
+    {
+        "name": "vscripts",
+        "description": null,
+        "languages": {
+            "Squirrel": 629705,
+            "Lua": 31431
+        }
+    },
+    {
+        "name": "csgo-vscripts",
+        "description": "Various vscripts for CS:GO I have written",
+        "languages": {
+            "Squirrel": 144225
+        }
+    },
+    {
+        "name": "Left4Bots",
+        "description": "Improvements for the L4D2 survivor bots",
+        "languages": {
+            "Squirrel": 631854
+        }
+    },
+    {
+        "name": "Portal2SpeedrunMod",
+        "description": "Portal 2 Speedrun Mod - a modification for the game to make it faster to speedrun.",
+        "languages": {
+            "Squirrel": 583332,
+            "C++": 301175,
+            "ReScript": 6828,
+            "Makefile": 878,
+            "Batchfile": 793
+        }
+    },
+    {
+        "name": "TitanfallApexLegends",
+        "description": "Apex Legends client tracking",
+        "languages": {
+            "Squirrel": 9708650,
+            "ReScript": 256162
+        }
+    },
+    {
+        "name": "apex-legends-scripts",
+        "description": "Dump clientside scripts from apex legends",
+        "languages": {
+            "Squirrel": 8786601
+        }
+    },
+    {
+        "name": "L4D2_LinGe_VScripts",
+        "description": "\u6c42\u751f\u4e4b\u8def2 \u811a\u672c\u5b9e\u73b0\u591a\u7279\u63a7\u5236\u3001\u4f24\u5bb3\u4e0e\u51fb\u6740\u7edf\u8ba1\u3001\u53cb\u4f24\u63d0\u793a\u3001HUD(\u6392\u884c\u699c\u3001\u65f6\u95f4)\u7b49\u7b49",
+        "languages": {
+            "Squirrel": 760970,
+            "C++": 39203,
+            "C": 4161,
+            "CMake": 3200,
+            "Batchfile": 2282
+        }
+    },
+    {
+        "name": "futurestack14_badge",
+        "description": "Source code for the badges from New Relic's FutureStack 2014 conference",
+        "languages": {
+            "Squirrel": 59244,
+            "Ruby": 1083
+        }
+    },
+    {
+        "name": "csgo-vscripts",
+        "description": "Collection of (squirrel) vScripts for CS:GO ",
+        "languages": {
+            "Squirrel": 3636
+        }
+    },
+    {
+        "name": "ApexParkour",
+        "description": "A collection of R5Reloaded custom parkour maps.",
+        "languages": {
+            "Squirrel": 207379
+        }
+    },
+    {
+        "name": "CSGO-Vscript-collection",
+        "description": "Some little collection of scripts that allow to do little more with vscript",
+        "languages": {
+            "Squirrel": 146569
+        }
+    },
+    {
+        "name": "Enhanced-Menu-Mod",
+        "description": "Adds more options to the settings menu, such as extra keybinds, cheats, hud enhancements and cleaner interface",
+        "languages": {
+            "Squirrel": 776050,
+            "ReScript": 6974,
+            "Shell": 1797
+        }
+    },
+    {
+        "name": "MSU",
+        "description": "Modding Standards and Utilities for Battle Brothers",
+        "languages": {
+            "Squirrel": 243625,
+            "JavaScript": 65547,
+            "CSS": 11222
+        }
+    },
+    {
+        "name": "nut-snmpagent",
+        "description": "SNMP wrapper in order to expose the upsc output into Net-SNMP",
+        "languages": {
+            "Squirrel": 240567,
+            "Ruby": 23771,
+            "Awk": 1692,
+            "Shell": 755
+        }
+    },
+    {
+        "name": "ei-fw-tom",
+        "description": "Electric Imp Firmware by Tom. EI firmware is written in squirrel.",
+        "languages": {
+            "Squirrel": 1126781,
+            "HTML": 5693
+        }
+    },
+    {
+        "name": "Zombie-Escape-Configs-CS-GO",
+        "description": "Here you will find the map Stripper, Bosshud (Bhud), Entwatch and map configs that are use on GhostCap Zombie Escape servers.",
+        "languages": {
+            "Squirrel": 2390159
+        }
+    },
+    {
+        "name": "newdark-mods",
+        "description": "Collection of example game modifications for NewDark-engine games (Thief 1/Gold, Thief 2, and System Shock 2).",
+        "languages": {
+            "Squirrel": 186910,
+            "Shell": 7538
+        }
+    },
+    {
+        "name": "L4D2-Unlimited-Map",
+        "description": "Original L4D2 maps are modified in this config. Create the Unlimited Map.",
+        "languages": {
+            "Squirrel": 521975
+        }
+    },
+    {
+        "name": "UPKK_ZE_PUBLIC",
+        "description": null,
+        "languages": {
+            "Squirrel": 69
+        }
+    },
+    {
+        "name": "JRTrainPack",
+        "description": "Bve trainsim\u7528\u30a2\u30c9\u30aa\u30f3\u306e\u300cJR\u7dda\u8eca\u4e21\u30d1\u30c3\u30af\u300d\u3067\u3059\u3002",
+        "languages": {
+            "Squirrel": 1881071,
+            "Shell": 190
+        }
+    },
+    {
+        "name": "LIS3DH",
+        "description": "Driver library for the LIS3DH MEMS Accelerometer",
+        "languages": {
+            "Squirrel": 44590
+        }
+    },
+    {
+        "name": "Arcadeflow",
+        "description": "Arcadeflow Layout for Attract Mode",
+        "languages": {
+            "Squirrel": 16511674,
+            "GLSL": 87164,
+            "CSS": 8525,
+            "HTML": 7636,
+            "JavaScript": 2988,
+            "VBScript": 1393
+        }
+    },
+    {
+        "name": "squirrel-require",
+        "description": "\ud83d\udce6  Create and manage your squirrel modules",
+        "languages": {
+            "Squirrel": 9637
+        }
+    },
+    {
+        "name": "cocolang-examples",
+        "description": "A collection of example modules for the Coco Programming Language",
+        "languages": {
+            "Squirrel": 861
+        }
+    },
+    {
+        "name": "knifechoose.nut",
+        "description": "VScript to use almost all knife models on a local CS:GO server",
+        "languages": {
+            "Squirrel": 4778
+        }
+    },
+    {
+        "name": "Better.Serverbrowser",
+        "description": "A UI mod for Northstar",
+        "languages": {
+            "Squirrel": 37689
+        }
+    },
+    {
+        "name": "lib",
+        "description": "Esquilo Library",
+        "languages": {
+            "Squirrel": 249010,
+            "JavaScript": 96807,
+            "HTML": 68727,
+            "CSS": 32069
+        }
+    },
+    {
+        "name": "ss2-modpack",
+        "description": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u043e\u0447\u043d\u044b\u0439 \u043f\u0430\u043a\u0435\u0442 \u043c\u043e\u0434\u043e\u0432 \u0434\u043b\u044f System Shock 2",
+        "languages": {
+            "Squirrel": 175350,
+            "HTML": 168801,
+            "C++": 102142,
+            "POV-Ray SDL": 27503,
+            "BitBake": 24178,
+            "PHP": 4376
+        }
+    },
+    {
+        "name": "Zombie-Escape-Configs",
+        "description": "Collection of ZE Configs I have made or received",
+        "languages": {
+            "Squirrel": 250964,
+            "Lua": 5176,
+            "Python": 634
+        }
+    },
+    {
+        "name": "Takyon.PlayerVote",
+        "description": "Enables players to vote on different things like skipping a map or kicking a player, to add a true community feeling to your server! Also includes admin functionalities to enforce some rules.",
+        "languages": {
+            "Squirrel": 67978
+        }
+    },
+    {
+        "name": "Admin-Abuse-Mod",
+        "description": "Admin Abuse Mod for Northstar Client in Titanfall 2",
+        "languages": {
+            "Squirrel": 409689
+        }
+    },
+    {
+        "name": "Official-Vscripts-Decompiled",
+        "description": null,
+        "languages": {
+            "Squirrel": 2071874
+        }
+    },
+    {
+        "name": "NgGH-Magic-Origins-Mod",
+        "description": "A mod of Battle Brother that brings out new unqiue origins and new mechanism",
+        "languages": {
+            "Squirrel": 2575599,
+            "JavaScript": 11064,
+            "CSS": 574
+        }
+    },
+    {
+        "name": "Salesforce",
+        "description": "Wrapper library for the Force.com REST API",
+        "languages": {
+            "Squirrel": 7612
+        }
+    },
+    {
+        "name": "Tomatoless_Boots",
+        "description": "A wireless bootloader for Arduino and Electric Imp",
+        "languages": {
+            "Squirrel": 21719
+        }
+    },
+    {
+        "name": "flowbright",
+        "description": "Hackbright for Good Smart Water Meter",
+        "languages": {
+            "Squirrel": 23065,
+            "Python": 6482,
+            "CSS": 1863
+        }
+    },
+    {
+        "name": "War-Thunder-Mobile-Datamine",
+        "description": null,
+        "languages": {
+            "Squirrel": 4158205,
+            "CSS": 53
+        }
+    },
+    {
+        "name": "Rocky",
+        "description": "A Squirrel Framework for quickly and easily building powerful APIs. ",
+        "languages": {
+            "Squirrel": 147517
+        }
+    },
+    {
+        "name": "attract-extra",
+        "description": "Attract-Mode Extras",
+        "languages": {
+            "Squirrel": 56595,
+            "GLSL": 43184
+        }
+    },
+    {
+        "name": "PCapture-LIB",
+        "description": "VScripts library for Portal 2 that provides various features and enhancements. It aims to help modders build advanced and complex custom mechanics more easily.",
+        "languages": {
+            "Squirrel": 238895
+        }
+    },
+    {
+        "name": "IMC.Spyglass",
+        "description": "A curated, global player reports database with configurable automated sanctions.",
+        "languages": {
+            "Squirrel": 177880,
+            "Lua": 511
+        }
+    },
+    {
+        "name": "decui",
+        "description": "A library to create VCMP GUI's in a declarative manner. Also provides many lower level abstractions and some new components",
+        "languages": {
+            "Squirrel": 282770
+        }
+    },
+    {
+        "name": "MultiPortals",
+        "description": "MultiPortals is a collection of instances for Portal 2 Workshop maps, providing customizable colored portals, custom sounds, and dynamic lighting effects.",
+        "languages": {
+            "Squirrel": 2207
+        }
+    },
+    {
+        "name": "STN1110",
+        "description": "Driver class for the STN1110 OBD to UART interpreter",
+        "languages": {
+            "Squirrel": 14710
+        }
+    },
+    {
+        "name": "UBloxM8N",
+        "description": "Driver for UBLOX M8N GPS module",
+        "languages": {
+            "Squirrel": 129654
+        }
+    },
+    {
+        "name": "NP.VanillaPlus",
+        "description": "Titanfall 2 mod that has just enough of Northstar.Client to allow client-side mods on official servers.",
+        "languages": {
+            "Squirrel": 597024,
+            "ReScript": 11750
+        }
+    },
+    {
+        "name": "vscript_gamemovement",
+        "description": "Source gamemovement ported to VScript",
+        "languages": {
+            "Squirrel": 27906
+        }
+    },
+    {
+        "name": "Roguelike",
+        "description": "[IN DEVELOPMENT] a roguelike mod for Titanfall 2's campaign. You're welcome to contribute & playtest - however this mod is far from finished.",
+        "languages": {
+            "Squirrel": 1691206,
+            "ReScript": 23429
+        }
+    },
+    {
+        "name": "GridCartographer-Mapping",
+        "description": "GridCartographer Mapping work",
+        "languages": {
+            "Squirrel": 113472,
+            "C#": 13459
+        }
+    },
+    {
+        "name": "vscripts",
+        "description": "VScripts collection",
+        "languages": {
+            "Squirrel": 1216780
+        }
+    },
+    {
+        "name": "JSONParser",
+        "description": "JSON Parser in Squirrel",
+        "languages": {
+            "Squirrel": 17529
+        }
+    },
+    {
+        "name": "RenewedVillageGrowth",
+        "description": "RVG is a Game Script that manages towns growth in a new and balanced way, making growth depend on varied cargo delivery (passengers, food, goods, ...) and sustained transportation of passangers and mails. The script supports Baseset, FIRS, ECS, YETI and NAIS industries. It is born as a combination of keoz's Renewed City Growth GS and Sylf's City Growth Limiter GS.",
+        "languages": {
+            "Squirrel": 179727,
+            "Python": 1412
+        }
+    },
+    {
+        "name": "squirrel-orm",
+        "description": "Simple OOP-based ORM for squirrel-lang",
+        "languages": {
+            "Squirrel": 41850,
+            "Shell": 145
+        }
+    },
+    {
+        "name": "LTSRebalance",
+        "description": null,
+        "languages": {
+            "Squirrel": 710727
+        }
+    },
+    {
+        "name": "WolframDataDrop",
+        "description": "A wrapper class for the Wolfram DataDrop API",
+        "languages": {
+            "Squirrel": 701
+        }
+    },
+    {
+        "name": "r5sdk_and_flowstate_cn",
+        "description": "r5sdk\u548cflowstate\u7684\u7b80\u4f53\u4e2d\u6587\u672c\u5730\u5316\u4ed3\u5e93",
+        "languages": {
+            "Squirrel": 15812982,
+            "C++": 4122471,
+            "C": 835330,
+            "ReScript": 400745,
+            "CMake": 56707,
+            "Batchfile": 13426,
+            "Python": 6235,
+            "kvlang": 4204
+        }
+    },
+    {
+        "name": "popuparcade",
+        "description": "A quick start for setting up an popup arcade with Attract Mode",
+        "languages": {
+            "Squirrel": 3206
+        }
+    },
+    {
+        "name": "Streamer-Mode",
+        "description": "Hides player names to avoid stream sniping and ddos protection",
+        "languages": {
+            "Squirrel": 573831,
+            "Batchfile": 1018,
+            "Shell": 886
+        }
+    },
+    {
+        "name": "futurestack_badge",
+        "description": null,
+        "languages": {
+            "Squirrel": 10133
+        }
+    },
+    {
+        "name": "BQ25895",
+        "description": "Driver for BQ25895 Battery Charger",
+        "languages": {
+            "Squirrel": 55328
+        }
+    },
+    {
+        "name": "tyrion",
+        "description": "Agent/Device Firmware Pair for Electric Imp. Use with Imp-IO for Johnny-Five",
+        "languages": {
+            "Squirrel": 8479,
+            "JavaScript": 1590
+        }
+    },
+    {
+        "name": "electricimp-nRF24L01",
+        "description": "nRF24L01 driver/library for the electric imp",
+        "languages": {
+            "Squirrel": 24176
+        }
+    },
+    {
+        "name": "ServerUtilities",
+        "description": "A Titanfall 2 server mod providing server-side chat commands, voting and more",
+        "languages": {
+            "Squirrel": 86508
+        }
+    },
+    {
+        "name": "openttd-wmdot",
+        "description": "An AI for OpenTTD that doubles as your highway department!",
+        "languages": {
+            "Squirrel": 129587,
+            "Python": 2934
+        }
+    },
+    {
+        "name": "openttd_villages_is_villages",
+        "description": "Villages Is Villages game script for OpenTTD",
+        "languages": {
+            "Squirrel": 45814,
+            "Shell": 253
+        }
+    },
+    {
+        "name": "HUDRevampv2",
+        "description": "bitches :flushed:",
+        "languages": {
+            "Squirrel": 240814,
+            "ReScript": 10863,
+            "Python": 700
+        }
+    },
+    {
+        "name": "r5_and_flowstate_cn",
+        "description": "Apex R5R \u793e\u533a\u670d Flowstate\u811a\u672c\u7684\u670d\u52a1\u5668\u7aef\u5185\u5bb9\u6c49\u5316\u3002Chinese language localization for r5_flowstate on the dedicated server end.",
+        "languages": {
+            "Squirrel": 313220,
+            "ReScript": 110175
+        }
+    },
+    {
+        "name": "QoL-Reloaded",
+        "description": null,
+        "languages": {
+            "Squirrel": 1973
+        }
+    },
+    {
+        "name": "PCCA-Layout",
+        "description": "HyperSpin layout for Attract-Mode",
+        "languages": {
+            "Squirrel": 412508,
+            "GLSL": 62757
+        }
+    },
+    {
+        "name": "Icepick-Core-Mods",
+        "description": "Titanfall 2 framework and gauntlets mod",
+        "languages": {
+            "Squirrel": 879705
+        }
+    },
+    {
+        "name": "Script-Mod",
+        "description": "Modification which is wrapped around SDK functions and embeds it to Squirrel Language.",
+        "languages": {
+            "Squirrel": 2266
+        }
+    },
+    {
+        "name": "PN532",
+        "description": "Driver class for the PN532 NFC module",
+        "languages": {
+            "Squirrel": 17363
+        }
+    },
+    {
+        "name": "WS2812",
+        "description": "A driver class for WS2812 RGB LEDs",
+        "languages": {
+            "Squirrel": 11200
+        }
+    },
+    {
+        "name": "KyrodianLegends",
+        "description": "Open source adventure fantasy universe",
+        "languages": {
+            "Squirrel": 26143,
+            "Shell": 545
+        }
+    },
+    {
+        "name": "ambience-hd",
+        "description": "Ambience HD theme for Attract-Mode",
+        "languages": {
+            "Squirrel": 76675,
+            "GLSL": 18978
+        }
+    },
+    {
+        "name": "Barnab.AutoBalance",
+        "description": "A mod for Northstar servers which automatically balances teams",
+        "languages": {
+            "Squirrel": 3200
+        }
+    },
+    {
+        "name": "thingspeak-electric-imp",
+        "description": "Learn how to send data to ThingSpeak IoT Analytics platform using Electric Imp",
+        "languages": {
+            "Squirrel": 799
+        }
+    },
+    {
+        "name": "Dev-Mode",
+        "description": "Patched scripts to enable dev mode in Titanfall 2",
+        "languages": {
+            "Squirrel": 642897,
+            "Shell": 444
+        }
+    },
+    {
+        "name": "Gun-Spawner",
+        "description": null,
+        "languages": {
+            "Squirrel": 39848
+        }
+    },
+    {
+        "name": "electric_imp_security_system",
+        "description": "Home security system powered by Electric Imp, and controlled by web/mobile",
+        "languages": {
+            "Squirrel": 7766
+        }
+    },
+    {
+        "name": "ApexSQScriptsPublic",
+        "description": "A collection of squirrel scripts",
+        "languages": {
+            "Squirrel": 2079
+        }
+    },
+    {
+        "name": "Apex_Client_Scripts_Dump",
+        "description": "Dump",
+        "languages": {
+            "Squirrel": 11352967,
+            "ReScript": 887
+        }
+    },
+    {
+        "name": "ISS-Overhead",
+        "description": "A simple project that turns an LED on when the ISS is overhead",
+        "languages": {
+            "Squirrel": 41563
+        }
+    },
+    {
+        "name": "LSM9DS0",
+        "description": "Driver library for the LSM9DS0TR 9-degrees-of-freedom IMU",
+        "languages": {
+            "Squirrel": 38673
+        }
+    },
+    {
+        "name": "Left4Lib",
+        "description": "VScript library used by my addons",
+        "languages": {
+            "Squirrel": 167653
+        }
+    },
+    {
+        "name": "Vscripts",
+        "description": "CS:GO Scripts",
+        "languages": {
+            "Squirrel": 16259
+        }
+    },
+    {
+        "name": "Dark-Squirrel-Scripts",
+        "description": "Original post:",
+        "languages": {
+            "Squirrel": 110055,
+            "Batchfile": 5446
+        }
+    },
+    {
+        "name": "openttd-metalibrary",
+        "description": "MinchinWeb's MetaLibrary for writing AI's in OpenTTD",
+        "languages": {
+            "Squirrel": 228140,
+            "Python": 14008
+        }
+    },
+    {
+        "name": "Titanfall2-orig",
+        "description": "Titanfall 2 client tracking - now outdated, go to https://github.com/Syampuuh/Titanfall2",
+        "languages": {
+            "Squirrel": 3762577
+        }
+    },
+    {
+        "name": "Provoxin.RGB",
+        "description": "RGB pilot and titan lights mod for Titanfall 2 Northstar",
+        "languages": {
+            "Squirrel": 2095
+        }
+    },
+    {
+        "name": "QL720NW",
+        "description": "Class for Brother Label Printer",
+        "languages": {
+            "Squirrel": 70055
+        }
+    },
+    {
+        "name": "MAX17055",
+        "description": "Library for Maxim Integrated Fuel Gauge ",
+        "languages": {
+            "Squirrel": 66079
+        }
+    },
+    {
+        "name": "AIAI",
+        "description": "OpenTTD AI. Official topic at TTforums - http://www.tt-forums.net/viewtopic.php?f=65&t=47298",
+        "languages": {
+            "Squirrel": 300171
+        }
+    },
+    {
+        "name": "ppmod",
+        "description": "VScript library for developing Portal 2 mods quickly",
+        "languages": {
+            "Squirrel": 86636
+        }
+    },
+    {
+        "name": "Tuxtale",
+        "description": "This is planned to be an Undertale-inspired fangame.",
+        "languages": {
+            "Squirrel": 35853
+        }
+    },
+    {
+        "name": "CSGO_VScripts",
+        "description": null,
+        "languages": {
+            "Squirrel": 310625
+        }
+    },
+    {
+        "name": "Zombie-Escape-CFG",
+        "description": "Configs for ZE",
+        "languages": {
+            "Squirrel": 37689
+        }
+    },
+    {
+        "name": "TeamShuffle",
+        "description": "Northstar server mod that shuffles each team before match",
+        "languages": {
+            "Squirrel": 2187
+        }
+    },
+    {
+        "name": "vscript_timer",
+        "description": "Timer module for CS:GO VScript",
+        "languages": {
+            "Squirrel": 5776
+        }
+    },
+    {
+        "name": "L4D2-ComboMod",
+        "description": "WIP Server-side Alternative Finales and Stuff",
+        "languages": {
+            "Squirrel": 254471
+        }
+    },
+    {
+        "name": "Tutorial_Electric_Imp_MAX31855",
+        "description": "Code for the Electric Imp/MAX31855 tutorial",
+        "languages": {
+            "Squirrel": 14118
+        }
+    },
+    {
+        "name": "TitanfallMapEditor",
+        "description": null,
+        "languages": {
+            "Squirrel": 549260
+        }
+    },
+    {
+        "name": "Library-of-Utils",
+        "description": "Multifunctional VScript library for Left 4 Dead 2",
+        "languages": {
+            "Squirrel": 154958
+        }
+    },
+    {
+        "name": "newbridge",
+        "description": "Source files for Thief Gold FM \u2018Making a Profit\u2019",
+        "languages": {
+            "Squirrel": 230367,
+            "HTML": 159812,
+            "PLSQL": 15993,
+            "Python": 3621,
+            "Arc": 102,
+            "Shell": 78
+        }
+    },
+    {
+        "name": "thiefy-stuff",
+        "description": "Stuff for Thief: The Dark Project and Thief II: The Metal Age",
+        "languages": {
+            "Squirrel": 12612,
+            "Python": 6876
+        }
+    },
+    {
+        "name": "csgo-cfgs",
+        "description": "My CSGO ZE Configs",
+        "languages": {
+            "Squirrel": 52881
+        }
+    },
+    {
+        "name": "l4d2-vscripts",
+        "description": "Miscellaneous interesting VScript files I've written for Left 4 Dead 2.",
+        "languages": {
+            "Squirrel": 702116
+        }
+    },
+    {
+        "name": "JSONEncoder",
+        "description": "JSON Encoder in Squirrel",
+        "languages": {
+            "Squirrel": 8418
+        }
+    },
+    {
+        "name": "GtJt.HUDRevamp",
+        "description": "Alternative version of HUDRevamp",
+        "languages": {
+            "Squirrel": 71014
+        }
+    },
+    {
+        "name": "vscript_csgo",
+        "description": "vscript_csgo  \u4e00\u4e2a\u5907\u6848\u5e93",
+        "languages": {
+            "Squirrel": 900116
+        }
+    },
+    {
+        "name": "csgo_ze_configs",
+        "description": "CSGO ZE maps configs",
+        "languages": {
+            "Squirrel": 1629
+        }
+    },
+    {
+        "name": "Eureka",
+        "description": "An #IoT button powered by an Electric Imp.",
+        "languages": {
+            "Squirrel": 9193
+        }
+    },
+    {
+        "name": "-mlptf2-Maps",
+        "description": "Source .VMFs of all maps made for the /mlp/ TF2 server.",
+        "languages": {
+            "Squirrel": 10549
+        }
+    },
+    {
+        "name": "TweenVS-source1",
+        "description": "VScript Tweening library for the Source Engine ",
+        "languages": {
+            "Squirrel": 35576
+        }
+    },
+    {
+        "name": "Firebase",
+        "description": "Wrapper class for the Firebase API",
+        "languages": {
+            "Squirrel": 61520
+        }
+    },
+    {
+        "name": "vscript_trace_filter",
+        "description": "Extended VScript Traces",
+        "languages": {
+            "Squirrel": 5212
+        }
+    },
+    {
+        "name": "HUDRevamp",
+        "description": "A mod that revamps the HUD and adds tons of new customizability options. ",
+        "languages": {
+            "Squirrel": 106485
+        }
+    },
+    {
+        "name": "GeneralAtsPlugin",
+        "description": "DetailManager.dll\u5bfe\u5fdc\u306e\u6c4e\u7528\u7684\u306aATS\u30d7\u30e9\u30b0\u30a4\u30f3\u3092\u307e\u3068\u3081\u305f\u30d1\u30c3\u30b1\u30fc\u30b8\u3067\u3059\u3002",
+        "languages": {
+            "Squirrel": 5210622
+        }
+    },
+    {
+        "name": "ModSettings",
+        "description": "A mod that adds a settings menu for modders to add their own settings in - with a filter to find certain ones easily.",
+        "languages": {
+            "Squirrel": 70496
+        }
+    },
+    {
+        "name": "OrdersAI",
+        "description": "An AI for OpenTTD which handles scheduling",
+        "languages": {
+            "Squirrel": 58247
+        }
+    },
+    {
+        "name": "Arduino-Weather-Station",
+        "description": "Weather station based on the Sparkfun Weather meters and the Weather Shield Rev.3",
+        "languages": {
+            "Squirrel": 35818,
+            "Arduino": 20226
+        }
+    },
+    {
+        "name": "Apex-VPK-unpacked",
+        "description": "unpacked apex vpks",
+        "languages": {
+            "Squirrel": 57124861,
+            "ReScript": 1811662
+        }
+    },
+    {
+        "name": "Grapple-Stim",
+        "description": "A mod to add the Grapple and Stim abilities to the Titanfall 2 campaign without VPK modding",
+        "languages": {
+            "Squirrel": 564635
+        }
+    },
+    {
+        "name": "sqjasmine",
+        "description": "A partial Squirrel port of Jasmine",
+        "languages": {
+            "Squirrel": 34027,
+            "Makefile": 737,
+            "Shell": 130
+        }
+    },
+    {
+        "name": "xamionex.UnholyTrinity",
+        "description": "Custom mod/config for Northstar.",
+        "languages": {
+            "Squirrel": 6298
+        }
+    },
+    {
+        "name": "Team_Fortress_2_VScript",
+        "description": "Public resource of TF2 VScripts ",
+        "languages": {
+            "Squirrel": 247
+        }
+    },
+    {
+        "name": "pak128",
+        "description": "Graphical pak set 128x128 tile size",
+        "languages": {
+            "Squirrel": 418475,
+            "Python": 118695,
+            "VBScript": 32174,
+            "HTML": 24476,
+            "JavaScript": 16877,
+            "Batchfile": 6722,
+            "PHP": 5328,
+            "Makefile": 4953,
+            "Shell": 1665,
+            "CSS": 1390
+        }
+    },
+    {
+        "name": "imp-nrf24",
+        "description": "Basic nRF24L01+ transceiver library for the electric imp",
+        "languages": {
+            "Squirrel": 12012
+        }
+    },
+    {
+        "name": "nutkin",
+        "description": "A testing framework for the Squirrel language",
+        "languages": {
+            "Squirrel": 167319
+        }
+    },
+    {
+        "name": "lhmp_roleplay",
+        "description": "LHMP Roleplay Server",
+        "languages": {
+            "Squirrel": 115147
+        }
+    },
+    {
+        "name": "Squake",
+        "description": "A multi-source Squirrel compiler",
+        "languages": {
+            "Squirrel": 5271,
+            "C++": 2902
+        }
+    },
+    {
+        "name": "Speed-Is-Life",
+        "description": "Fastest player wins. For the Titanfall 2 Northstar Client.",
+        "languages": {
+            "Squirrel": 15352
+        }
+    },
+    {
+        "name": "PeePee.Flipside",
+        "description": null,
+        "languages": {
+            "Squirrel": 123391
+        }
+    },
+    {
+        "name": "Gazyi.SpectreRodeo",
+        "description": "Northstar mod that ports Spectre rodeo behavior from Titanfall 1.",
+        "languages": {
+            "Squirrel": 67254
+        }
+    },
+    {
+        "name": "vscripts_custom",
+        "description": "VScript for L4D2",
+        "languages": {
+            "Squirrel": 1073734
+        }
+    },
+    {
+        "name": "MCP2515",
+        "description": "Driver code for the MCP2515, a stand-alone Controller Area Network (CAN) controller.",
+        "languages": {
+            "Squirrel": 25290
+        }
+    },
+    {
+        "name": "MiG_Datamine",
+        "description": "MiG_23s datamine project",
+        "languages": {
+            "Squirrel": 11184210,
+            "JavaScript": 683212,
+            "Smarty": 574559,
+            "CSS": 524731,
+            "HTML": 468878
+        }
+    },
+    {
+        "name": "M2Online-Resources",
+        "description": "Mafia 2 Online multiplayer mod squirrel resources repository",
+        "languages": {
+            "Squirrel": 12335
+        }
+    },
+    {
+        "name": "PortalStoriesMel-MultiplayerMod",
+        "description": "Ports the Mel campaign to Portal 2 co-op.",
+        "languages": {
+            "Squirrel": 5219484,
+            "ReScript": 112502,
+            "Lua": 105788
+        }
+    },
+    {
+        "name": "MB85RC",
+        "description": "Driver library for the Fujitsu MB85RC series of Ferroelectric RAM (FRAM) chips.",
+        "languages": {
+            "Squirrel": 10033
+        }
+    },
+    {
+        "name": "Alystrasz.Parkour",
+        "description": null,
+        "languages": {
+            "Squirrel": 68478
+        }
+    },
+    {
+        "name": "vscript_keyvalues",
+        "description": "VScript Valve KeyValues parser",
+        "languages": {
+            "Squirrel": 3979
+        }
+    },
+    {
+        "name": "battle-brothers-mods",
+        "description": "Mods for Battle Brothers",
+        "languages": {
+            "Squirrel": 688109,
+            "Python": 35394,
+            "JavaScript": 7807,
+            "Makefile": 3099,
+            "Perl": 2865,
+            "CSS": 285
+        }
+    },
+    {
+        "name": "jp-stream-01",
+        "description": null,
+        "languages": {
+            "Squirrel": 1994,
+            "Makefile": 143
+        }
+    },
+    {
+        "name": "OpenTTD-NewGRFs",
+        "description": "Some NewGRFs that I've created for OpenTTD",
+        "languages": {
+            "Squirrel": 2880
+        }
+    },
+    {
+        "name": "Conduction-Gel",
+        "description": "Repository for the Conduction Gel project, made originally for Shaft 06",
+        "languages": {
+            "Squirrel": 24316
+        }
+    },
+    {
+        "name": "th155-decomp",
+        "description": "Squirrel scripts from Touhou 15.5",
+        "languages": {
+            "Squirrel": 5851531,
+            "Batchfile": 218
+        }
+    },
+    {
+        "name": "sqlite3-hashcode-2018",
+        "description": "A solution for the HASHCODE 2018 competition that only uses sqlite3 command line",
+        "languages": {
+            "Squirrel": 25119,
+            "SQLPL": 13008,
+            "C++": 7776
+        }
+    },
+    {
+        "name": "Basemode",
+        "description": "Basemode (Attack and defence) gamemode for Liberty Unleashed - a GTA3 multiplayer.",
+        "languages": {
+            "Squirrel": 127178
+        }
+    },
+    {
+        "name": "of_flesh_and_faith_plus",
+        "description": "A content expansion for the Battle Brothers \"Of Flesh and Faith\" DLC",
+        "languages": {
+            "Squirrel": 503741,
+            "JavaScript": 21709,
+            "CSS": 10357,
+            "Batchfile": 3060
+        }
+    },
+    {
+        "name": "konosuba-yokubukai",
+        "description": null,
+        "languages": {
+            "Squirrel": 756700,
+            "Python": 16605,
+            "Batchfile": 85
+        }
+    },
+    {
+        "name": "vscript_vehicle",
+        "description": "Adds Source vehicles in VScript",
+        "languages": {
+            "Squirrel": 10972
+        }
+    },
+    {
+        "name": "l4d2_versus_single",
+        "description": "L4D2 VersusSingle Mod",
+        "languages": {
+            "Squirrel": 65490
+        }
+    },
+    {
+        "name": "Usb",
+        "description": "Usb Host and Driver Classes",
+        "languages": {
+            "Squirrel": 221562
+        }
+    },
+    {
+        "name": "trains",
+        "description": "trAIns is an AI for OpenTTD. The AI is called trAIns because it only constructs and manages railroad routes - one of the four transport types available in the game.",
+        "languages": {
+            "Squirrel": 361580,
+            "Makefile": 403
+        }
+    },
+    {
+        "name": "BattleBrothers_Traduction_FR",
+        "description": null,
+        "languages": {
+            "Squirrel": 10155031,
+            "JavaScript": 643791,
+            "CSS": 31938
+        }
+    },
+    {
+        "name": "Arcadeflow-AM-Theme",
+        "description": "An horizontal scrolling theme for Attract Mode",
+        "languages": {
+            "Squirrel": 119209,
+            "GLSL": 28168
+        }
+    },
+    {
+        "name": "Titanfall2-Randomizer",
+        "description": "A mod to randomize Weapons, Grenades, Abilities, and Helmet Collectables",
+        "languages": {
+            "Squirrel": 1583237
+        }
+    },
+    {
+        "name": "squirrel-re-compiler",
+        "description": null,
+        "languages": {
+            "Squirrel": 5958475,
+            "ReScript": 8034,
+            "Batchfile": 50
+        }
+    },
+    {
+        "name": "l4d2-vscript-projects",
+        "description": "My VScript projects from Left 4 Dead 2",
+        "languages": {
+            "Squirrel": 559493
+        }
+    },
+    {
+        "name": "Retro-Station",
+        "description": "A Package about old BEE addons and TWP items port",
+        "languages": {
+            "Squirrel": 21303
+        }
+    },
+    {
+        "name": "engstackmeter",
+        "description": "A Don't-Interrupt-Me Meter for your desk",
+        "languages": {
+            "Squirrel": 4701
+        }
+    },
+    {
+        "name": "OpenMod",
+        "description": "Competitive L4D2 Config based on ZoneMod",
+        "languages": {
+            "Squirrel": 19900
+        }
+    },
+    {
+        "name": "enlisted-datamine",
+        "description": "Enlisted game datamine",
+        "languages": {
+            "Squirrel": 9750717
+        }
+    },
+    {
+        "name": "VScript-Popfile-Extensions",
+        "description": "VScript extensions for use inside population files",
+        "languages": {
+            "Squirrel": 26057
+        }
+    },
+    {
+        "name": "War-Thunder-Scripts",
+        "description": "Dump War Thunder clients scripts ",
+        "languages": {
+            "Squirrel": 9328052,
+            "Smarty": 519037,
+            "CSS": 500604
+        }
+    },
+    {
+        "name": "Wiznet_5500",
+        "description": null,
+        "languages": {
+            "Squirrel": 171356
+        }
+    },
+    {
+        "name": "Last-Stand-Refresh",
+        "description": "Minimalist legacy branch of public repo with gamebreaker and other high priority fixes",
+        "languages": {
+            "Squirrel": 591676,
+            "ReScript": 39183
+        }
+    },
+    {
+        "name": "Bosch-BME280-Electric-Imp-driver",
+        "description": "Electric Imp squirrel class driver for the Bosch-BME280  temp+press+humid  sensor chip",
+        "languages": {
+            "Squirrel": 24496
+        }
+    },
+    {
+        "name": "tspenAddons",
+        "description": "Items and Styles for the BEE2",
+        "languages": {
+            "Squirrel": 24982
+        }
+    },
+    {
+        "name": "imp_serial_display_driver",
+        "description": "An Electric Imp serial display driver",
+        "languages": {
+            "Squirrel": 5295
+        }
+    },
+    {
+        "name": "electric-imp-streaming",
+        "description": "Tutorial: Electric Imp Environmental Streaming",
+        "languages": {
+            "Squirrel": 23664
+        }
+    },
+    {
+        "name": "tempbug",
+        "description": "Code for a Temperature Bug with Electric Imp",
+        "languages": {
+            "Squirrel": 6101
+        }
+    },
+    {
+        "name": "L4D2_VScripts_Decompiled",
+        "description": "This is purely for viewing intentions only. All the rights belong to the respective creators that watermarked their own scripts.",
+        "languages": {
+            "Squirrel": 2205300
+        }
+    },
+    {
+        "name": "l4d2maps",
+        "description": "L4D2 map sources.",
+        "languages": {
+            "Squirrel": 81409,
+            "Shell": 173,
+            "Batchfile": 122
+        }
+    },
+    {
+        "name": "Phant",
+        "description": "A wrapper class for the Phant.IO/Sparkfun Data API",
+        "languages": {
+            "Squirrel": 2016
+        }
+    },
+    {
+        "name": "SquirreLisp",
+        "description": "Lisp implementation in Squirrel",
+        "languages": {
+            "Squirrel": 8734
+        }
+    },
+    {
+        "name": "horde-l4d2",
+        "description": "Horde is a mod for the game Left 4 Dead 2 by Valve Software.",
+        "languages": {
+            "Squirrel": 880
+        }
+    },
+    {
+        "name": "ggj2014-color-cycler",
+        "description": "Game project created for the Global Game Jam 2014, Isart Digital, Paris.",
+        "languages": {
+            "Squirrel": 220605,
+            "Batchfile": 515
         }
     }
 ]

@@ -14,9 +14,9 @@
         "name": "open-webui",
         "description": "User-friendly WebUI for LLMs (Formerly Ollama WebUI)",
         "languages": {
-            "Svelte": 590872,
-            "Python": 225034,
-            "TypeScript": 97869,
+            "Svelte": 602018,
+            "Python": 235971,
+            "TypeScript": 100821,
             "Shell": 10032,
             "CSS": 8964,
             "Dockerfile": 5095,
@@ -32,7 +32,7 @@
         "description": "Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.",
         "languages": {
             "Svelte": 3213638,
-            "Rust": 1787289,
+            "Rust": 1787747,
             "TypeScript": 1039838,
             "JavaScript": 252938,
             "Python": 92529,
@@ -72,6 +72,2184 @@
             "Dockerfile": 1177,
             "HTML": 368,
             "CSS": 59
+        }
+    },
+    {
+        "name": "skeleton",
+        "description": "The UI toolkit for Svelte and Tailwind.",
+        "languages": {
+            "Svelte": 940739,
+            "TypeScript": 241709,
+            "JavaScript": 83978,
+            "CSS": 38268,
+            "HTML": 1674
+        }
+    },
+    {
+        "name": "dbgate",
+        "description": "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application",
+        "languages": {
+            "Svelte": 1099447,
+            "TypeScript": 653963,
+            "JavaScript": 554465,
+            "CSS": 7204,
+            "Shell": 5108,
+            "HTML": 2891,
+            "Dockerfile": 1024,
+            "Batchfile": 124
+        }
+    },
+    {
+        "name": "shadcn-svelte",
+        "description": "shadcn/ui, but for Svelte. \u2728",
+        "languages": {
+            "Svelte": 1159966,
+            "TypeScript": 314972,
+            "JavaScript": 125166,
+            "CSS": 24236,
+            "HTML": 1170
+        }
+    },
+    {
+        "name": "fireship.io",
+        "description": "Build and ship your app faster  https://fireship.io",
+        "languages": {
+            "Svelte": 63656,
+            "HTML": 43776,
+            "TypeScript": 21575,
+            "SCSS": 14030,
+            "JavaScript": 5562
+        }
+    },
+    {
+        "name": "svelte-material-ui",
+        "description": "Svelte Material UI Components",
+        "languages": {
+            "Svelte": 817788,
+            "TypeScript": 100642,
+            "SCSS": 90360,
+            "JavaScript": 8262,
+            "HTML": 4028,
+            "Shell": 443
+        }
+    },
+    {
+        "name": "carbon-components-svelte",
+        "description": "Svelte implementation of the Carbon Design System",
+        "languages": {
+            "Svelte": 507440,
+            "JavaScript": 26003,
+            "SCSS": 16970
+        }
+    },
+    {
+        "name": "figma-linux",
+        "description": "Figma is the first interface design tool based in the browser, making it easier for teams to create software. Join us in https://t.me/figma_linux",
+        "languages": {
+            "Svelte": 245874,
+            "TypeScript": 226029,
+            "JavaScript": 89115,
+            "Shell": 27743,
+            "Perl": 5227,
+            "Makefile": 1271,
+            "HTML": 724,
+            "Elixir": 139
+        }
+    },
+    {
+        "name": "Svelvet",
+        "description": "\ud83c\udf9b A Svelte library for building dynamic, infinitely customizable node-based user interfaces and flowcharts",
+        "languages": {
+            "Svelte": 335403,
+            "TypeScript": 131506,
+            "JavaScript": 2799,
+            "HTML": 246
+        }
+    },
+    {
+        "name": "stemroller",
+        "description": "Isolate vocals, drums, bass, and other instrumental stems from any song",
+        "languages": {
+            "Svelte": 181143,
+            "JavaScript": 38507,
+            "CSS": 1069,
+            "HTML": 272
+        }
+    },
+    {
+        "name": "realworld",
+        "description": "SvelteKit implementation of the RealWorld app",
+        "languages": {
+            "Svelte": 21357,
+            "JavaScript": 10196,
+            "HTML": 915
+        }
+    },
+    {
+        "name": "platform",
+        "description": "Huly \u2014 All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+        "languages": {
+            "Svelte": 4581278,
+            "TypeScript": 4073722,
+            "SCSS": 206635,
+            "JavaScript": 124399,
+            "Shell": 18620,
+            "Python": 8073,
+            "Dockerfile": 1420,
+            "EJS": 943
+        }
+    },
+    {
+        "name": "macos-web",
+        "description": null,
+        "languages": {
+            "Svelte": 76858,
+            "TypeScript": 35801,
+            "SCSS": 4700,
+            "HTML": 1399,
+            "CSS": 1002,
+            "JavaScript": 225
+        }
+    },
+    {
+        "name": "flowbite-svelte",
+        "description": "Official Svelte components built for Flowbite and Tailwind CSS",
+        "languages": {
+            "Svelte": 464996,
+            "TypeScript": 36103,
+            "JavaScript": 22771,
+            "CSS": 12169,
+            "HTML": 842
+        }
+    },
+    {
+        "name": "primo",
+        "description": "Primo is a visual CMS with a built-in code editor, Svelte blocks, and static site generator. ",
+        "languages": {
+            "Svelte": 83639,
+            "JavaScript": 78966,
+            "PLpgSQL": 13883,
+            "TypeScript": 6186,
+            "CSS": 3030,
+            "HTML": 1134
+        }
+    },
+    {
+        "name": "threlte",
+        "description": "3D framework for Svelte",
+        "languages": {
+            "Svelte": 1029104,
+            "MDX": 527625,
+            "TypeScript": 429108,
+            "JavaScript": 171189,
+            "Astro": 89570,
+            "CSS": 34883,
+            "GLSL": 5163,
+            "HTML": 1526
+        }
+    },
+    {
+        "name": "portr",
+        "description": "Open source ngrok alternative designed for teams",
+        "languages": {
+            "Svelte": 108322,
+            "Python": 76742,
+            "Go": 50358,
+            "TypeScript": 20164,
+            "HTML": 6204,
+            "JavaScript": 5238,
+            "CSS": 2918,
+            "Dockerfile": 1129,
+            "Makefile": 549,
+            "Shell": 215
+        }
+    },
+    {
+        "name": "Installer",
+        "description": "A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.",
+        "languages": {
+            "Svelte": 52527,
+            "JavaScript": 36758
+        }
+    },
+    {
+        "name": "svelte-headlessui",
+        "description": "Unofficial Svelte port of the Headless UI component library",
+        "languages": {
+            "Svelte": 279899,
+            "TypeScript": 82394,
+            "CSS": 14414,
+            "JavaScript": 3463,
+            "HTML": 349
+        }
+    },
+    {
+        "name": "miru",
+        "description": "Bittorrent streaming software for cats. Stream anime torrents, real-time with no waiting for downloads.",
+        "languages": {
+            "Svelte": 304480,
+            "JavaScript": 157468,
+            "CSS": 4572,
+            "Shell": 2143,
+            "HTML": 2045,
+            "Dockerfile": 888
+        }
+    },
+    {
+        "name": "chatgpt-web",
+        "description": "ChatGPT web interface using the OpenAI API",
+        "languages": {
+            "Svelte": 242639,
+            "SCSS": 14879,
+            "HTML": 3195,
+            "Python": 1572,
+            "JavaScript": 1360,
+            "TypeScript": 919,
+            "Rust": 272,
+            "Dockerfile": 93
+        }
+    },
+    {
+        "name": "ha-fusion",
+        "description": "A modern, easy-to-use and performant custom Home Assistant dashboard",
+        "languages": {
+            "Svelte": 451502,
+            "TypeScript": 41066,
+            "Python": 32724,
+            "CSS": 4836,
+            "JavaScript": 3408,
+            "Dockerfile": 570,
+            "HTML": 528,
+            "Shell": 248
+        }
+    },
+    {
+        "name": "grimoire",
+        "description": "Bookmark manager for the wizards \ud83e\uddd9",
+        "languages": {
+            "Svelte": 149433,
+            "TypeScript": 87050,
+            "JavaScript": 16658,
+            "Dockerfile": 1271,
+            "HTML": 343,
+            "Shell": 212,
+            "CSS": 58
+        }
+    },
+    {
+        "name": "smelte",
+        "description": "UI framework with material components built with Svelte and Tailwind CSS",
+        "languages": {
+            "Svelte": 124185,
+            "JavaScript": 43995,
+            "CSS": 8401,
+            "HTML": 2071
+        }
+    },
+    {
+        "name": "deck",
+        "description": "DECK is a powerful and high performant local web development studio, an open source alternative to Docker desktop",
+        "languages": {
+            "Svelte": 497694,
+            "JavaScript": 150017,
+            "CSS": 8829,
+            "Shell": 1669,
+            "HTML": 838,
+            "Batchfile": 391
+        }
+    },
+    {
+        "name": "headscale-ui",
+        "description": "A web frontend for the headscale Tailscale-compatible coordination server",
+        "languages": {
+            "Svelte": 88382,
+            "Shell": 5165,
+            "JavaScript": 3377,
+            "TypeScript": 1605,
+            "CSS": 869,
+            "HTML": 284
+        }
+    },
+    {
+        "name": "svelte-commerce",
+        "description": "The open-source storefront for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. The API approach also allows you to merge Svelte Commerce with any third-party tool like payment gateways, POS or AI. WIP for MedusaJS, Woocommerce, Bigcommerce and Shopify.",
+        "languages": {
+            "Svelte": 1538747,
+            "TypeScript": 420997,
+            "JavaScript": 37922,
+            "XSLT": 4845,
+            "CSS": 2456,
+            "HTML": 1358,
+            "Dockerfile": 804
+        }
+    },
+    {
+        "name": "win11-svelte",
+        "description": "Recreating Windows 11 with Svelte.",
+        "languages": {
+            "Svelte": 79510,
+            "CSS": 4179,
+            "TypeScript": 1734,
+            "HTML": 1732,
+            "JavaScript": 830,
+            "Shell": 68
+        }
+    },
+    {
+        "name": "wombat",
+        "description": "Cross platform gRPC client",
+        "languages": {
+            "Svelte": 85484,
+            "Go": 64265,
+            "JavaScript": 8573,
+            "CSS": 1164,
+            "HTML": 398
+        }
+    },
+    {
+        "name": "svelte-devtools",
+        "description": "A browser extension to inspect Svelte application by extending your browser devtools capabilities",
+        "languages": {
+            "Svelte": 37679,
+            "JavaScript": 20224,
+            "TypeScript": 5468,
+            "CSS": 2246,
+            "HTML": 366
+        }
+    },
+    {
+        "name": "sveltestrap",
+        "description": "Bootstrap 4 & 5 components for Svelte",
+        "languages": {
+            "Svelte": 264477,
+            "JavaScript": 90453,
+            "HTML": 7091,
+            "TypeScript": 4383
+        }
+    },
+    {
+        "name": "editable-website",
+        "description": "A SvelteKit template for building CMS-free editable websites ",
+        "languages": {
+            "Svelte": 88067,
+            "JavaScript": 46489,
+            "CSS": 1278,
+            "Dockerfile": 1119,
+            "HTML": 1041,
+            "Shell": 352,
+            "Procfile": 24
+        }
+    },
+    {
+        "name": "svelteui",
+        "description": "SvelteUI Monorepo",
+        "languages": {
+            "Svelte": 743597,
+            "TypeScript": 394508,
+            "JavaScript": 34709,
+            "CSS": 15688,
+            "Shell": 479,
+            "HTML": 329
+        }
+    },
+    {
+        "name": "svelte-cubed",
+        "description": "Svelte \u2764\ufe0f Three",
+        "languages": {
+            "Svelte": 46302,
+            "JavaScript": 13699,
+            "CSS": 552,
+            "HTML": 307
+        }
+    },
+    {
+        "name": "obsidian-projects",
+        "description": "Plain text project planning in Obsidian",
+        "languages": {
+            "Svelte": 217622,
+            "TypeScript": 206623,
+            "JavaScript": 2395,
+            "SCSS": 1932,
+            "Python": 1606
+        }
+    },
+    {
+        "name": "layercake",
+        "description": "graphics framework for sveltejs",
+        "languages": {
+            "Svelte": 385350,
+            "JavaScript": 229787,
+            "CSS": 3985,
+            "HTML": 1746,
+            "Shell": 601
+        }
+    },
+    {
+        "name": "reiverr",
+        "description": "Reiverr is a clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr",
+        "languages": {
+            "Svelte": 208189,
+            "TypeScript": 128190,
+            "JavaScript": 3168,
+            "HTML": 1451,
+            "Dockerfile": 773,
+            "CSS": 637
+        }
+    },
+    {
+        "name": "obs-web",
+        "description": "OBS-web - the easiest way to control OBS remotely",
+        "languages": {
+            "Svelte": 34819,
+            "JavaScript": 5125,
+            "SCSS": 243,
+            "Dockerfile": 220
+        }
+    },
+    {
+        "name": "biliup-app",
+        "description": "b\u7ad9\u5168\u5e73\u53f0\u6295\u7a3f\u5ba2\u6237\u7aef\uff0c\u652f\u6301\u591ap\u6295\u7a3f\uff0c\u7a3f\u4ef6\u7f16\u8f91",
+        "languages": {
+            "Svelte": 78179,
+            "Rust": 16371,
+            "TypeScript": 10080,
+            "JavaScript": 2785,
+            "CSS": 462,
+            "HTML": 392
+        }
+    },
+    {
+        "name": "animotion",
+        "description": "\ud83e\ude84 Create beautiful presentations with Svelte",
+        "languages": {
+            "Svelte": 72512,
+            "TypeScript": 42392,
+            "CSS": 13973,
+            "JavaScript": 5080,
+            "HTML": 1096
+        }
+    },
+    {
+        "name": "SvelteStorm",
+        "description": "SvelteStorm is an open-source IDE with a built-in Debugging window for viewing and debugging your Svelte project in real-time",
+        "languages": {
+            "Svelte": 109694,
+            "JavaScript": 69695,
+            "CSS": 42337,
+            "HTML": 14171,
+            "TypeScript": 12099
+        }
+    },
+    {
+        "name": "attractions",
+        "description": "A pretty cool UI kit for Svelte",
+        "languages": {
+            "Svelte": 121467,
+            "SCSS": 52375,
+            "JavaScript": 42000,
+            "TypeScript": 448,
+            "Shell": 67
+        }
+    },
+    {
+        "name": "website",
+        "description": "Syntax Podcast Website",
+        "languages": {
+            "Svelte": 617199,
+            "TypeScript": 150140,
+            "CSS": 24314,
+            "Rust": 10835,
+            "JavaScript": 7849,
+            "HTML": 549
+        }
+    },
+    {
+        "name": "svelte-grid",
+        "description": "A responsive, draggable and resizable grid layout, for Svelte.",
+        "languages": {
+            "Svelte": 19826,
+            "JavaScript": 16665,
+            "CSS": 10387,
+            "HTML": 991
+        }
+    },
+    {
+        "name": "awesome-sveltekit",
+        "description": "Awesome examples of SvelteKit in the wild",
+        "languages": {
+            "Svelte": 21045,
+            "TypeScript": 16830,
+            "CSS": 1164,
+            "HTML": 594,
+            "JavaScript": 283
+        }
+    },
+    {
+        "name": "calendar",
+        "description": "Full-sized drag & drop JavaScript event calendar with resource view",
+        "languages": {
+            "Svelte": 74303,
+            "JavaScript": 59188,
+            "SCSS": 12224
+        }
+    },
+    {
+        "name": "discord-data-package-explorer",
+        "description": "\ud83c\udf00\u2000What's really in your Discord Data package? ",
+        "languages": {
+            "Svelte": 42027,
+            "JavaScript": 20707,
+            "CSS": 1576,
+            "HTML": 976,
+            "Dockerfile": 210
+        }
+    },
+    {
+        "name": "notus-svelte",
+        "description": "Notus Svelte: Free Tailwind CSS UI Kit and Admin",
+        "languages": {
+            "Svelte": 169215,
+            "CSS": 61938,
+            "JavaScript": 13092,
+            "HTML": 5427
+        }
+    },
+    {
+        "name": "whishper",
+        "description": "Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!",
+        "languages": {
+            "Svelte": 48072,
+            "Go": 29612,
+            "Python": 10522,
+            "JavaScript": 7844,
+            "Shell": 4091,
+            "Dockerfile": 4090,
+            "Batchfile": 1782,
+            "TypeScript": 512,
+            "HTML": 374,
+            "CSS": 58
+        }
+    },
+    {
+        "name": "svelte-toast",
+        "description": "Simple elegant toast notifications",
+        "languages": {
+            "Svelte": 20985,
+            "JavaScript": 19043,
+            "HTML": 343,
+            "CSS": 287
+        }
+    },
+    {
+        "name": "svelte-french-toast",
+        "description": "\ud83c\udf5e\ud83e\udd42 Buttery smooth toast notifications for Svelte",
+        "languages": {
+            "Svelte": 20208,
+            "TypeScript": 15321,
+            "CSS": 6400,
+            "JavaScript": 2081,
+            "HTML": 358
+        }
+    },
+    {
+        "name": "npmhub",
+        "description": "\ud83d\udd0e A browser extension to explore npm dependencies on GitHub repos",
+        "languages": {
+            "Svelte": 8236,
+            "JavaScript": 6661,
+            "Swift": 4658,
+            "CSS": 1549,
+            "HTML": 1048,
+            "Shell": 763
+        }
+    },
+    {
+        "name": "svelte-put",
+        "description": "Useful svelte stuff to put in your projects",
+        "languages": {
+            "Svelte": 217395,
+            "JavaScript": 125209,
+            "TypeScript": 73810,
+            "HTML": 1978,
+            "CSS": 1758
+        }
+    },
+    {
+        "name": "sveltekit-typescript-showcase",
+        "description": "This repository shows how Svelte and SvelteKit work together with TypeScript.",
+        "languages": {
+            "Svelte": 23163,
+            "TypeScript": 9901,
+            "JavaScript": 560,
+            "HTML": 325
+        }
+    },
+    {
+        "name": "svelte-ionic-app",
+        "description": "Ionic  UI showcase app - try Ionic UI  and directly go to API or source code (Svelte, Angular, Vue, Vanilla and React)",
+        "languages": {
+            "Svelte": 357137,
+            "JavaScript": 165115,
+            "TypeScript": 42946,
+            "CSS": 14701,
+            "HTML": 1643,
+            "Batchfile": 60
+        }
+    },
+    {
+        "name": "cryptgeon",
+        "description": "cryptgeon is a secure, open source note / file sharing service inspired by PrivNote written in rust & svelte.",
+        "languages": {
+            "Svelte": 41159,
+            "TypeScript": 29760,
+            "Rust": 12708,
+            "JavaScript": 7641,
+            "CSS": 2225,
+            "Dockerfile": 638,
+            "HTML": 237
+        }
+    },
+    {
+        "name": "agnosticui",
+        "description": "AgnosticUI is a set of UI primitives that start their lives in clean HTML and CSS. These standards compliant components are then copied to our framework implementations in: React, Vue 3, Angular, and Svelte.",
+        "languages": {
+            "Svelte": 671373,
+            "CSS": 671007,
+            "Vue": 516881,
+            "TypeScript": 389904,
+            "Astro": 356035,
+            "JavaScript": 293506,
+            "Handlebars": 138726,
+            "HTML": 67627,
+            "Shell": 1409
+        }
+    },
+    {
+        "name": "gitlight",
+        "description": "\ud83d\udc19 GitHub & GitLab notifications on your desktop",
+        "languages": {
+            "Svelte": 187132,
+            "TypeScript": 73777,
+            "Rust": 7063,
+            "SCSS": 5884,
+            "JavaScript": 1560,
+            "HTML": 908
+        }
+    },
+    {
+        "name": "swyxkit",
+        "description": "An opinionated blog starter for SvelteKit + Tailwind + Netlify. Refreshed for SvelteKit 1.0!",
+        "languages": {
+            "Svelte": 49803,
+            "JavaScript": 33376,
+            "CSS": 3149,
+            "HTML": 1376
+        }
+    },
+    {
+        "name": "CMSaasStarter",
+        "description": "A modern SaaS template/boilerplate built with SvelteKit, Tailwind, and Supabase. Includes marketing page, blog, subscriptions, auth, user dashboard, user settings, pricing page, and more.",
+        "languages": {
+            "Svelte": 92301,
+            "TypeScript": 30405,
+            "JavaScript": 3208,
+            "PLpgSQL": 2526,
+            "HTML": 438,
+            "CSS": 384
+        }
+    },
+    {
+        "name": "untrusted-types",
+        "description": null,
+        "languages": {
+            "Svelte": 20799,
+            "TypeScript": 12342,
+            "CSS": 1343,
+            "JavaScript": 1270,
+            "HTML": 646
+        }
+    },
+    {
+        "name": "svelte-materialify",
+        "description": "A Material UI Design Component library for Svelte heavily inspired by vuetify.",
+        "languages": {
+            "Svelte": 227022,
+            "SCSS": 134291,
+            "JavaScript": 66590,
+            "HTML": 2180
+        }
+    },
+    {
+        "name": "radicle-upstream",
+        "description": "Desktop client for Radicle.",
+        "languages": {
+            "Svelte": 572996,
+            "TypeScript": 402651,
+            "Rust": 395286,
+            "JavaScript": 31471,
+            "CSS": 14720,
+            "Shell": 13336,
+            "HTML": 1432
+        }
+    },
+    {
+        "name": "ebook-reader",
+        "description": "Online e-book reader that supports Yomichan",
+        "languages": {
+            "Svelte": 486919,
+            "TypeScript": 382264,
+            "SCSS": 7851,
+            "JavaScript": 5767,
+            "HTML": 1084,
+            "Dockerfile": 509,
+            "Shell": 133
+        }
+    },
+    {
+        "name": "fluent-svelte",
+        "description": "A faithful implementation of Microsoft's Fluent Design System in Svelte.",
+        "languages": {
+            "Svelte": 197695,
+            "SCSS": 73804,
+            "TypeScript": 30010,
+            "CSS": 19686,
+            "JavaScript": 1282,
+            "HTML": 269
+        }
+    },
+    {
+        "name": "sveltekit-starter",
+        "description": "Sveltekit starter project created with sveltekit, typescript, tailwindcss, postcss, husky, and storybook. The project has the structure set up for the scaleable web application.",
+        "languages": {
+            "Svelte": 73266,
+            "TypeScript": 27146,
+            "JavaScript": 6336,
+            "CSS": 4197,
+            "HTML": 1474,
+            "Shell": 588
+        }
+    },
+    {
+        "name": "stdf",
+        "description": "Mobile web component library based on Svelte and Tailwind",
+        "languages": {
+            "Svelte": 429662,
+            "JavaScript": 246528,
+            "CSS": 5941,
+            "HTML": 2472
+        }
+    },
+    {
+        "name": "community-legacy",
+        "description": " Svelte community meetups, packages, resources, recipes, showcase websites, and more",
+        "languages": {
+            "Svelte": 30149,
+            "JavaScript": 28984,
+            "CSS": 2188,
+            "HTML": 1930
+        }
+    },
+    {
+        "name": "nomie5",
+        "description": "Nomie v5 Source Code",
+        "languages": {
+            "Svelte": 773885,
+            "TypeScript": 428550,
+            "CSS": 194060,
+            "JavaScript": 84866,
+            "SCSS": 76448,
+            "HTML": 4898
+        }
+    },
+    {
+        "name": "freespeech",
+        "description": "A free program designed to help the non-verbal.",
+        "languages": {
+            "Svelte": 230185,
+            "TypeScript": 40363,
+            "JavaScript": 2071,
+            "HTML": 731,
+            "CSS": 375
+        }
+    },
+    {
+        "name": "urara",
+        "description": "\ud83c\udf38 Sweet, Powerful, IndieWeb-Compatible SvelteKit Blog Starter. [\u03b4](Delta)",
+        "languages": {
+            "Svelte": 54813,
+            "TypeScript": 26651,
+            "JavaScript": 4431,
+            "CSS": 3227,
+            "HTML": 714
+        }
+    },
+    {
+        "name": "svelte-calendar",
+        "description": "A lightweight datepicker with neat animations and a unique UX.",
+        "languages": {
+            "Svelte": 65955,
+            "JavaScript": 15202,
+            "HTML": 382
+        }
+    },
+    {
+        "name": "svelte-svg-patterns",
+        "description": "Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design",
+        "languages": {
+            "Svelte": 217213,
+            "JavaScript": 69843,
+            "CSS": 30193,
+            "HTML": 2641
+        }
+    },
+    {
+        "name": "svelte-sonner",
+        "description": "An opinionated toast component for Svelte. A port of @emilkowalski's sonner.",
+        "languages": {
+            "Svelte": 60741,
+            "TypeScript": 23188,
+            "CSS": 2887,
+            "JavaScript": 1515,
+            "HTML": 320
+        }
+    },
+    {
+        "name": "svelte-ux",
+        "description": "Collection of Svelte components, actions, stores, and utilities to build highly interactive applications.",
+        "languages": {
+            "Svelte": 664381,
+            "TypeScript": 388885,
+            "JavaScript": 29432,
+            "HTML": 1505,
+            "CSS": 401
+        }
+    },
+    {
+        "name": "svelte-table",
+        "description": "A svelte table implementation that allows sorting and filtering",
+        "languages": {
+            "Svelte": 48220,
+            "HTML": 11036,
+            "JavaScript": 3700,
+            "CSS": 870,
+            "TypeScript": 278
+        }
+    },
+    {
+        "name": "neno",
+        "description": "\u4f7f\u7528svelte+tailwindcss \u4eff\u7167 \u6d6e\u58a8 \u5199\u7684pwa\u5e94\u7528",
+        "languages": {
+            "Svelte": 89179,
+            "JavaScript": 56163,
+            "HTML": 1816,
+            "TypeScript": 905,
+            "CSS": 572
+        }
+    },
+    {
+        "name": "PatrikZeros-ChatGPT-API-UI",
+        "description": "Static webpage that allows you to use your OpenAI API key for the same experience as you get with ChatGPT!",
+        "languages": {
+            "Svelte": 36750,
+            "JavaScript": 5706,
+            "TypeScript": 3278,
+            "HTML": 327,
+            "CSS": 195
+        }
+    },
+    {
+        "name": "Servas",
+        "description": "A self-hosted bookmark management tool.",
+        "languages": {
+            "Svelte": 218620,
+            "PHP": 178317,
+            "CSS": 10917,
+            "JavaScript": 10702,
+            "Blade": 10280,
+            "Dockerfile": 1962,
+            "Vue": 433,
+            "Shell": 361
+        }
+    },
+    {
+        "name": "good-first-issue-finder",
+        "description": "Issue-Crawler for GitHub based on Sveltekit",
+        "languages": {
+            "Svelte": 58937,
+            "TypeScript": 16027,
+            "JavaScript": 5158,
+            "CSS": 4846,
+            "HTML": 1115,
+            "Dockerfile": 376,
+            "Shell": 136
+        }
+    },
+    {
+        "name": "svelte-loading-spinners",
+        "description": "A collection of loading spinner components for SvelteJs",
+        "languages": {
+            "Svelte": 50533,
+            "TypeScript": 3382,
+            "JavaScript": 838,
+            "HTML": 284
+        }
+    },
+    {
+        "name": "dotfyle",
+        "description": "Find the best Neovim plugins",
+        "languages": {
+            "Svelte": 163082,
+            "TypeScript": 152714,
+            "CSS": 3315,
+            "JavaScript": 1233,
+            "HTML": 827
+        }
+    },
+    {
+        "name": "radix-svelte",
+        "description": "A port of Radix UI for Svelte",
+        "languages": {
+            "Svelte": 171818,
+            "TypeScript": 91809,
+            "JavaScript": 8952,
+            "HTML": 1824,
+            "CSS": 853
+        }
+    },
+    {
+        "name": "svelthree",
+        "description": "Create three.js content using Svelte components.",
+        "languages": {
+            "Svelte": 844862,
+            "TypeScript": 157787,
+            "JavaScript": 14734
+        }
+    },
+    {
+        "name": "svelte-gantt",
+        "description": ":calendar: Interactive JavaScript Gantt chart/resource booking component",
+        "languages": {
+            "Svelte": 79703,
+            "TypeScript": 64318,
+            "JavaScript": 5629
+        }
+    },
+    {
+        "name": "simple-svelte-autocomplete",
+        "description": "Simple Autocomplete / typeahead component for Svelte",
+        "languages": {
+            "Svelte": 36990,
+            "TypeScript": 7940,
+            "JavaScript": 2215,
+            "HTML": 404,
+            "CSS": 402
+        }
+    },
+    {
+        "name": "nomie6-oss",
+        "description": "Opensource version of Nomie 6",
+        "languages": {
+            "Svelte": 1236834,
+            "TypeScript": 911694,
+            "JavaScript": 53400,
+            "CSS": 39245,
+            "HTML": 6550,
+            "SCSS": 1618,
+            "Dockerfile": 192
+        }
+    },
+    {
+        "name": "svelte-starter-kit",
+        "description": "Svelte with brilliant bells and useful whistles",
+        "languages": {
+            "Svelte": 37899,
+            "TypeScript": 19136,
+            "JavaScript": 1840,
+            "CSS": 740,
+            "HTML": 690
+        }
+    },
+    {
+        "name": "slickgpt",
+        "description": "SlickGPT is a light-weight \"use-your-own-API-key\" web client for the OpenAI API written in Svelte. It offers GPT-4 integration, a userless share feature and other superpowers.",
+        "languages": {
+            "Svelte": 94680,
+            "TypeScript": 38314,
+            "JavaScript": 929,
+            "HTML": 786,
+            "CSS": 698
+        }
+    },
+    {
+        "name": "learn.svelte.dev",
+        "description": "A soup-to-nuts interactive tutorial on how to build apps with Svelte",
+        "languages": {
+            "Svelte": 219934,
+            "JavaScript": 97563,
+            "TypeScript": 6366,
+            "CSS": 6223,
+            "HTML": 6163
+        }
+    },
+    {
+        "name": "svelte-QWER",
+        "description": "\u2712\ufe0e Simply Awesome Blog Starter built with SvelteKit and Love \u2764",
+        "languages": {
+            "Svelte": 95515,
+            "JavaScript": 55118,
+            "TypeScript": 35641,
+            "SCSS": 22198,
+            "CSS": 1568,
+            "Shell": 1183,
+            "HTML": 657
+        }
+    },
+    {
+        "name": "stwui",
+        "description": "Opinionated yet customizable Svelte-TailwindCSS component library",
+        "languages": {
+            "Svelte": 744439,
+            "TypeScript": 412608,
+            "JavaScript": 24607,
+            "HTML": 3810,
+            "CSS": 2441,
+            "Shell": 155
+        }
+    },
+    {
+        "name": "svelte-range-slider-pips",
+        "description": "Multi-Thumb, Accessible, Beautiful Range Slider with Pips",
+        "languages": {
+            "Svelte": 46396,
+            "JavaScript": 2729,
+            "CSS": 1891,
+            "HTML": 443
+        }
+    },
+    {
+        "name": "svelte-simple-modal",
+        "description": "A simple, small, and content-agnostic modal for Svelte v3",
+        "languages": {
+            "Svelte": 16847,
+            "JavaScript": 711
+        }
+    },
+    {
+        "name": "svelte-email",
+        "description": "Write and send emails with Svelte \u2709\ufe0f\ud83d\ude80",
+        "languages": {
+            "Svelte": 34347,
+            "TypeScript": 4266,
+            "JavaScript": 3273,
+            "HTML": 817
+        }
+    },
+    {
+        "name": "paaster",
+        "description": "Paaster is a secure and user-friendly pastebin application that prioritizes privacy and simplicity. With end-to-end encryption and paste history, Paaster ensures that your pasted code remains confidential and accessible.",
+        "languages": {
+            "Svelte": 43568,
+            "TypeScript": 31337,
+            "Python": 20167,
+            "CSS": 6449,
+            "Dockerfile": 1255,
+            "HTML": 577,
+            "Shell": 358,
+            "JavaScript": 228
+        }
+    },
+    {
+        "name": "hue.tools",
+        "description": "Simple toolbox for working with colors. Color mixing, blending, conversion, modification, detailed information, etc.",
+        "languages": {
+            "Svelte": 59772,
+            "TypeScript": 8098,
+            "JavaScript": 2576,
+            "HTML": 895,
+            "CSS": 503
+        }
+    },
+    {
+        "name": "simple-cloud-music",
+        "description": "\u7b80\u6d01\u7684\u7684\u7b2c\u4e09\u65b9\u7f51\u6613\u4e91\u97f3\u4e50\u64ad\u653e\u5668",
+        "languages": {
+            "Svelte": 242153,
+            "JavaScript": 73889,
+            "CSS": 13832,
+            "HTML": 6542
+        }
+    },
+    {
+        "name": "formsnap",
+        "description": "Functional, accessible, and powerful form components for Svelte. \ud83e\udef0 ",
+        "languages": {
+            "Svelte": 153934,
+            "TypeScript": 60607,
+            "JavaScript": 11947,
+            "CSS": 5814,
+            "HTML": 743
+        }
+    },
+    {
+        "name": "ffmpeg-explorer",
+        "description": "Create and render complex ffmpeg filtergraphs in the browser.",
+        "languages": {
+            "Svelte": 25967,
+            "JavaScript": 15505,
+            "Python": 5296,
+            "CSS": 2059,
+            "HTML": 301,
+            "Dockerfile": 270,
+            "Shell": 75
+        }
+    },
+    {
+        "name": "svelte-fa",
+        "description": "Tiny FontAwesome component for Svelte",
+        "languages": {
+            "Svelte": 26642,
+            "TypeScript": 15023,
+            "JavaScript": 9563,
+            "HTML": 236,
+            "SCSS": 52
+        }
+    },
+    {
+        "name": "joy-of-code",
+        "description": "\ud83c\udf38 Joy of Code is a digital garden growing curious minds",
+        "languages": {
+            "Svelte": 51802,
+            "SCSS": 20543,
+            "TypeScript": 20261,
+            "HTML": 2800,
+            "JavaScript": 1289
+        }
+    },
+    {
+        "name": "svelte-swipe",
+        "description": "Svelte Swipe with zero dependencies :fire: :boom:",
+        "languages": {
+            "Svelte": 19732,
+            "JavaScript": 9791,
+            "HTML": 492
+        }
+    },
+    {
+        "name": "sveld",
+        "description": "Generate TypeScript definitions for your Svelte components",
+        "languages": {
+            "Svelte": 298346,
+            "TypeScript": 70281,
+            "JavaScript": 27850,
+            "HTML": 534
+        }
+    },
+    {
+        "name": "ClassQuiz",
+        "description": "ClassQuiz is a quiz-application like Kahoot!, but open-source.",
+        "languages": {
+            "Svelte": 509847,
+            "Python": 337996,
+            "TypeScript": 40782,
+            "Jinja": 9592,
+            "JavaScript": 7526,
+            "CSS": 2521,
+            "Dockerfile": 2521,
+            "Shell": 2372,
+            "HTML": 1217,
+            "Mako": 610
+        }
+    },
+    {
+        "name": "watch-this",
+        "description": null,
+        "languages": {
+            "Svelte": 25274,
+            "TypeScript": 4913,
+            "JavaScript": 1115,
+            "HTML": 517,
+            "CSS": 59
+        }
+    },
+    {
+        "name": "thunderdome-planning-poker",
+        "description": "\u26a1 Thunderdome is an open source agile planning poker, sprint retro, and story mapping tool",
+        "languages": {
+            "Svelte": 876113,
+            "Go": 720366,
+            "TypeScript": 560449,
+            "JavaScript": 38519,
+            "PLpgSQL": 37156,
+            "CSS": 6489,
+            "HTML": 2519,
+            "Dockerfile": 2260,
+            "Makefile": 1897
+        }
+    },
+    {
+        "name": "svelte-stripe",
+        "description": "Everything you need to add Stripe Elements to your Svelte project",
+        "languages": {
+            "Svelte": 60121,
+            "JavaScript": 13828,
+            "CSS": 4422,
+            "HTML": 578
+        }
+    },
+    {
+        "name": "river-runner",
+        "description": "Uses USGS/MERIT Basin data to visualize the path of a rain droplet to its endpoint.",
+        "languages": {
+            "Svelte": 113795,
+            "JavaScript": 53342,
+            "GLSL": 9697,
+            "Python": 7054,
+            "HTML": 2617,
+            "CSS": 1974,
+            "Procfile": 35,
+            "SCSS": 26
+        }
+    },
+    {
+        "name": "tailwind-editor",
+        "description": "notion like tailwindcss editor built with svelte",
+        "languages": {
+            "Svelte": 83503,
+            "JavaScript": 2994,
+            "CSS": 126
+        }
+    },
+    {
+        "name": "cmdk-sv",
+        "description": "cmdk, but for Svelte \u2728",
+        "languages": {
+            "Svelte": 62699,
+            "TypeScript": 48965,
+            "CSS": 33778,
+            "JavaScript": 2545,
+            "HTML": 347
+        }
+    },
+    {
+        "name": "sveltekit-blog-starter",
+        "description": "A preconfigured SvelteKit static blog starter, with Sass, Markdown, MDSvex, Rehype, background preloading, and more. See the README for full details.",
+        "languages": {
+            "Svelte": 15370,
+            "CSS": 12723,
+            "JavaScript": 10249,
+            "HTML": 425
+        }
+    },
+    {
+        "name": "kun-galgame-stickers-sveltekit",
+        "description": "KUN's Visual Novel (galgame) sticker set. To recommend games to more people. Galgame \u8868\u60c5\u5305\u4ed3\u5e93",
+        "languages": {
+            "Svelte": 32127,
+            "TypeScript": 9070,
+            "SCSS": 5751,
+            "JavaScript": 3523,
+            "HTML": 433
+        }
+    },
+    {
+        "name": "uikit-site",
+        "description": "\ud83c\udf0e Website and Documentation",
+        "languages": {
+            "Svelte": 35238,
+            "Less": 16028,
+            "JavaScript": 11858,
+            "HTML": 2206,
+            "Dockerfile": 1223
+        }
+    },
+    {
+        "name": "comfyui-browser",
+        "description": "An image/video/workflow browser and manager for ComfyUI.",
+        "languages": {
+            "Svelte": 56087,
+            "Python": 45946,
+            "JavaScript": 11210,
+            "HTML": 9787,
+            "TypeScript": 8870,
+            "Sass": 56
+        }
+    },
+    {
+        "name": "sveltekit-commerce",
+        "description": "SvelteKit Commerce",
+        "languages": {
+            "Svelte": 35677,
+            "JavaScript": 15759,
+            "HTML": 451,
+            "CSS": 59
+        }
+    },
+    {
+        "name": "DiscordChatExporter-frontend",
+        "description": "Browse json files exported by Tyrrrz/DiscordChatExporter in familiar discord like user interface",
+        "languages": {
+            "Svelte": 155734,
+            "Python": 101098,
+            "TypeScript": 41752,
+            "CSS": 19939,
+            "Batchfile": 3623,
+            "HTML": 1918,
+            "Dockerfile": 1353,
+            "JavaScript": 871,
+            "Shell": 578
+        }
+    },
+    {
+        "name": "FreeShow",
+        "description": "FreeShow is a free and open-source, user-friendly presenter software.",
+        "languages": {
+            "Svelte": 1250073,
+            "TypeScript": 1118940,
+            "JavaScript": 27789,
+            "HTML": 9003,
+            "CSS": 3436,
+            "Shell": 94
+        }
+    },
+    {
+        "name": "svelte-scroller",
+        "description": "A <Scroller> component for Svelte apps",
+        "languages": {
+            "Svelte": 5227,
+            "JavaScript": 3414,
+            "HTML": 162
+        }
+    },
+    {
+        "name": "svelte-starter",
+        "description": "A Svelte starter template for projects",
+        "languages": {
+            "Svelte": 116072,
+            "JavaScript": 19882,
+            "CSS": 19697,
+            "Makefile": 400,
+            "HTML": 357
+        }
+    },
+    {
+        "name": "firefox-profile-switcher",
+        "description": "Create, manage and switch between browser profiles seamlessly.",
+        "languages": {
+            "Svelte": 112734,
+            "TypeScript": 36730,
+            "Kotlin": 5332,
+            "JavaScript": 2318,
+            "CSS": 1784,
+            "HTML": 1143,
+            "Shell": 805
+        }
+    },
+    {
+        "name": "svelte-mapbox",
+        "description": "MapBox Map and Autocomplete components for Svelte (or Vanilla JS)",
+        "languages": {
+            "Svelte": 17439,
+            "CSS": 9168,
+            "JavaScript": 5640,
+            "HTML": 719
+        }
+    },
+    {
+        "name": "svelte-splitpanes",
+        "description": null,
+        "languages": {
+            "Svelte": 75715,
+            "JavaScript": 14175,
+            "TypeScript": 11824,
+            "SCSS": 1258,
+            "HTML": 654,
+            "Shell": 194
+        }
+    },
+    {
+        "name": "batname",
+        "description": "Generate texts like \"The Batman (2022)\" film logo",
+        "languages": {
+            "Svelte": 7597,
+            "HTML": 1765,
+            "JavaScript": 849,
+            "TypeScript": 318,
+            "CSS": 114
+        }
+    },
+    {
+        "name": "SvelteLab",
+        "description": "supercharged REPL for Svelte",
+        "languages": {
+            "Svelte": 153164,
+            "TypeScript": 126451,
+            "CSS": 24805,
+            "JavaScript": 21735,
+            "HTML": 7499
+        }
+    },
+    {
+        "name": "dodrio",
+        "description": "Exploring attention weights in transformer-based models with linguistic knowledge.",
+        "languages": {
+            "Svelte": 283500,
+            "JavaScript": 61272,
+            "Python": 58798,
+            "HTML": 919,
+            "CSS": 888,
+            "SCSS": 424
+        }
+    },
+    {
+        "name": "sveltesociety.dev",
+        "description": "The Svelte Society website",
+        "languages": {
+            "Svelte": 63457,
+            "JavaScript": 37314,
+            "TypeScript": 13559,
+            "CSS": 6374,
+            "HTML": 566
+        }
+    },
+    {
+        "name": "AutoProfiler",
+        "description": "Automatically profile dataframes in the Jupyter sidebar",
+        "languages": {
+            "Svelte": 159673,
+            "TypeScript": 90734,
+            "Python": 15335,
+            "JavaScript": 2958,
+            "CSS": 915
+        }
+    },
+    {
+        "name": "ui",
+        "description": "\ud83c\udfc1\ud83c\udf10 Frontend Svelte PWA starter for SaaS startups",
+        "languages": {
+            "Svelte": 186930,
+            "TypeScript": 14249,
+            "JavaScript": 4205,
+            "HTML": 955,
+            "CSS": 274,
+            "Dockerfile": 184
+        }
+    },
+    {
+        "name": "swyxdotio",
+        "description": "This is the repo for swyx's blog - Blog content is created in github issues, then posted on swyx.io as blog pages! Comment/watch to follow along my blog within GitHub",
+        "languages": {
+            "Svelte": 84865,
+            "JavaScript": 31588,
+            "CSS": 3309,
+            "HTML": 1376
+        }
+    },
+    {
+        "name": "oasis",
+        "description": "Self-hosted file server",
+        "languages": {
+            "Svelte": 155885,
+            "Rust": 101174,
+            "TypeScript": 20048,
+            "JavaScript": 5010,
+            "CSS": 692,
+            "HTML": 446,
+            "Dockerfile": 61
+        }
+    },
+    {
+        "name": "svelte-loadable",
+        "description": "Dynamically load a svelte component",
+        "languages": {
+            "Svelte": 5728,
+            "JavaScript": 976,
+            "CSS": 835,
+            "HTML": 287
+        }
+    },
+    {
+        "name": "svelte-mui",
+        "description": "Simple Svelte 3 UI components",
+        "languages": {
+            "Svelte": 126914,
+            "JavaScript": 35467,
+            "CSS": 4880,
+            "HTML": 811
+        }
+    },
+    {
+        "name": "iptv-org.github.io",
+        "description": null,
+        "languages": {
+            "Svelte": 68729,
+            "JavaScript": 11494,
+            "Shell": 756,
+            "HTML": 455,
+            "CSS": 91
+        }
+    },
+    {
+        "name": "flood-for-transmission",
+        "description": "A Flood (https://github.com/Flood-UI/flood) clone for Transmission",
+        "languages": {
+            "Svelte": 197822,
+            "JavaScript": 82273,
+            "CSS": 13765,
+            "HTML": 1290
+        }
+    },
+    {
+        "name": "funding-simulator",
+        "description": "Startup Funding Simulator",
+        "languages": {
+            "Svelte": 78819,
+            "TypeScript": 19999,
+            "HTML": 2593,
+            "CSS": 2214,
+            "JavaScript": 1970
+        }
+    },
+    {
+        "name": "layerchart",
+        "description": "Composable Svelte chart components to build a wide range of visualizations",
+        "languages": {
+            "Svelte": 577329,
+            "TypeScript": 87066,
+            "JavaScript": 3594,
+            "HTML": 280
+        }
+    },
+    {
+        "name": "svelte-notifications",
+        "description": "Svelte toast notifications component that can be used in any JS application",
+        "languages": {
+            "Svelte": 8302,
+            "JavaScript": 1938,
+            "HTML": 516
+        }
+    },
+    {
+        "name": "workerskv.gui",
+        "description": "(WIP) A cross-platform Desktop application for exploring Workers KV Namespace data",
+        "languages": {
+            "Svelte": 23160,
+            "Rust": 10715,
+            "TypeScript": 5871,
+            "JavaScript": 1804,
+            "CSS": 1779,
+            "HTML": 206
+        }
+    },
+    {
+        "name": "svelte-intersection-observer",
+        "description": "Detect if an element is in the viewport using the Intersection Observer API",
+        "languages": {
+            "Svelte": 5436,
+            "TypeScript": 3344,
+            "JavaScript": 1237,
+            "HTML": 238
+        }
+    },
+    {
+        "name": "svelte-storybook-tailwind",
+        "description": "A starter template for Svelte, TailwindCSS and Storybook. You can easily start your project with this template, instead of wasting time figuring out configurations for each integration.",
+        "languages": {
+            "Svelte": 16445,
+            "JavaScript": 3820,
+            "HTML": 957,
+            "CSS": 59
+        }
+    },
+    {
+        "name": "svelte-frappe-charts",
+        "description": "\ud83d\udcc8 Svelte bindings for frappe-charts.",
+        "languages": {
+            "Svelte": 2284,
+            "JavaScript": 1668
+        }
+    },
+    {
+        "name": "svelte-tags-input",
+        "description": "Fully customizable Svelte component to enter tags",
+        "languages": {
+            "Svelte": 15138,
+            "JavaScript": 465
+        }
+    },
+    {
+        "name": "svelte-lexical",
+        "description": "A rich text editor for Svelte based on lexical",
+        "languages": {
+            "Svelte": 187640,
+            "TypeScript": 47684,
+            "JavaScript": 2171,
+            "CSS": 2007,
+            "HTML": 334
+        }
+    },
+    {
+        "name": "fantinel.dev",
+        "description": "Personal website and blog made with SvelteKit",
+        "languages": {
+            "Svelte": 208464,
+            "TypeScript": 24837,
+            "SCSS": 17258,
+            "HTML": 2356,
+            "JavaScript": 1871,
+            "CSS": 175
+        }
+    },
+    {
+        "name": "console",
+        "description": "The Console that makes Appwrite tick from the browser  \ud83d\udda5",
+        "languages": {
+            "Svelte": 2227207,
+            "TypeScript": 462727,
+            "HTML": 4587,
+            "CSS": 4081,
+            "JavaScript": 3126
+        }
+    },
+    {
+        "name": "svelte-chota",
+        "description": "Svelte UI components based on super lightweight chota CSS framework.",
+        "languages": {
+            "Svelte": 18347,
+            "JavaScript": 3748,
+            "CSS": 748
+        }
+    },
+    {
+        "name": "sveltekit-auth-example",
+        "description": "SvelteKit Authentication Example",
+        "languages": {
+            "Svelte": 24023,
+            "TypeScript": 14717,
+            "PLpgSQL": 10805,
+            "JavaScript": 1861,
+            "HTML": 426
+        }
+    },
+    {
+        "name": "svelte-icons",
+        "description": "Icon components for svelte",
+        "languages": {
+            "Svelte": 10006,
+            "TypeScript": 8625,
+            "JavaScript": 4499,
+            "CSS": 1390,
+            "HTML": 404
+        }
+    },
+    {
+        "name": "svelte-img",
+        "description": "High-performance responsive/progressive images for SvelteKit",
+        "languages": {
+            "Svelte": 12546,
+            "JavaScript": 6742,
+            "HTML": 334,
+            "CSS": 114
+        }
+    },
+    {
+        "name": "date-picker-svelte",
+        "description": "Date and time picker for Svelte",
+        "languages": {
+            "Svelte": 41384,
+            "TypeScript": 12667,
+            "CSS": 2027,
+            "HTML": 1045,
+            "JavaScript": 969
+        }
+    },
+    {
+        "name": "photon",
+        "description": "A replacement for lemmy-ui with more features, a better design, and more customizability.",
+        "languages": {
+            "Svelte": 371617,
+            "TypeScript": 88546,
+            "HTML": 3694,
+            "JavaScript": 3390,
+            "CSS": 2144,
+            "Dockerfile": 319,
+            "Nix": 97
+        }
+    },
+    {
+        "name": "authme",
+        "description": "Simple cross-platform two-factor (2FA) authenticator app for desktop.",
+        "languages": {
+            "Svelte": 96394,
+            "TypeScript": 90709,
+            "Rust": 43190,
+            "JavaScript": 9955,
+            "CSS": 5629,
+            "HTML": 694
+        }
+    },
+    {
+        "name": "sites",
+        "description": "Monorepo for the sites in the Svelte ecosystem",
+        "languages": {
+            "Svelte": 77838,
+            "JavaScript": 32736,
+            "HTML": 8687,
+            "PLpgSQL": 4711,
+            "CSS": 761
+        }
+    },
+    {
+        "name": "renderless-svelte",
+        "description": "A collection of renderless Svelte components",
+        "languages": {
+            "Svelte": 39749,
+            "JavaScript": 16544,
+            "CSS": 1099,
+            "HTML": 876
+        }
+    },
+    {
+        "name": "dino-rss-electron",
+        "description": "A simple, efficient, open source RSS reader service",
+        "languages": {
+            "Svelte": 171112,
+            "JavaScript": 56870,
+            "CSS": 12169,
+            "Shell": 4104,
+            "HTML": 891
+        }
+    },
+    {
+        "name": "svelte-repl",
+        "description": "The <Repl> component used on the Svelte website",
+        "languages": {
+            "Svelte": 46186,
+            "JavaScript": 16388,
+            "CSS": 9343,
+            "HTML": 5642
+        }
+    },
+    {
+        "name": "sd-buddy",
+        "description": "Companion desktop app for the self-hosted M1 Mac version of Stable Diffusion",
+        "languages": {
+            "Svelte": 58137,
+            "TypeScript": 22219,
+            "Rust": 12706,
+            "CSS": 3494,
+            "JavaScript": 2418,
+            "HTML": 1195
+        }
+    },
+    {
+        "name": "svelte-infinite-scroll",
+        "description": "Infinite Scroll Component to Svelte",
+        "languages": {
+            "Svelte": 4043,
+            "JavaScript": 2475,
+            "HTML": 1795,
+            "CSS": 629,
+            "TypeScript": 102
+        }
+    },
+    {
+        "name": "pocketbase-sveltekit-starter",
+        "description": "a starter project to build a SvelteKit frontend with PocketBase backend",
+        "languages": {
+            "Svelte": 22846,
+            "TypeScript": 17776,
+            "Go": 11905,
+            "JavaScript": 8034,
+            "SCSS": 2402,
+            "Shell": 787,
+            "HTML": 542,
+            "Dockerfile": 483
+        }
+    },
+    {
+        "name": "EldenRingOnlineMap",
+        "description": "Elden Ring online map / \u8001\u5934\u73af\u5728\u7ebf\u591a\u4eba\u534f\u4f5c\u7f16\u8f91\u5730\u56fe",
+        "languages": {
+            "Svelte": 130920,
+            "TypeScript": 91506,
+            "JavaScript": 40769,
+            "PHP": 38340,
+            "Python": 3922,
+            "HTML": 2887,
+            "CSS": 2561
+        }
+    },
+    {
+        "name": "bookit",
+        "description": "A UI component explorere desiged specifically for Svelte Kit, not spooky \ud83d\udc7b",
+        "languages": {
+            "Svelte": 71561,
+            "JavaScript": 5714,
+            "TypeScript": 5255,
+            "CSS": 975,
+            "HTML": 572
+        }
+    },
+    {
+        "name": "sveltekit-blog-mdx",
+        "description": "SvelteKit MDX starter blog with MDsveX (Svelte in markdown)",
+        "languages": {
+            "Svelte": 38264,
+            "JavaScript": 25017,
+            "SCSS": 7008,
+            "CSS": 6083,
+            "HTML": 555,
+            "Shell": 210
+        }
+    },
+    {
+        "name": "revanced-website",
+        "description": " \ud83c\udf10 Website for ReVanced",
+        "languages": {
+            "Svelte": 78756,
+            "TypeScript": 6794,
+            "JavaScript": 3382,
+            "SCSS": 3028,
+            "HTML": 1024
+        }
+    },
+    {
+        "name": "svelte-canvas",
+        "description": "\ud83c\udfa8 Reactive canvas rendering with Svelte.",
+        "languages": {
+            "Svelte": 41060,
+            "TypeScript": 8216,
+            "JavaScript": 1462,
+            "CSS": 1182,
+            "HTML": 509
+        }
+    },
+    {
+        "name": "sveltekit-auth-example",
+        "description": "Example showing how to use Auth.js with SvelteKit.",
+        "languages": {
+            "Svelte": 4405,
+            "JavaScript": 1211,
+            "TypeScript": 857,
+            "HTML": 282
+        }
+    },
+    {
+        "name": "Armoria",
+        "description": "Heraldry generator and editor",
+        "languages": {
+            "Svelte": 140410,
+            "JavaScript": 65755,
+            "TypeScript": 47147,
+            "HTML": 19621,
+            "CSS": 2837
+        }
+    },
+    {
+        "name": "music-grid",
+        "description": "A Music Grid you can play around and create short music.",
+        "languages": {
+            "Svelte": 11214,
+            "CSS": 3115,
+            "JavaScript": 1809,
+            "HTML": 1045
+        }
+    },
+    {
+        "name": "sql-joins-app",
+        "description": "SQL JOINS visualizer",
+        "languages": {
+            "Svelte": 9851,
+            "JavaScript": 5439,
+            "HTML": 860,
+            "CSS": 519
+        }
+    },
+    {
+        "name": "svelte-infinite-loading",
+        "description": "An infinite scroll component for Svelte, to help you implement an infinite scroll list more easily.",
+        "languages": {
+            "Svelte": 21093,
+            "JavaScript": 5497
+        }
+    },
+    {
+        "name": "lovelace-expander-card",
+        "description": "Expander card for HomeAssistant",
+        "languages": {
+            "Svelte": 21117,
+            "JavaScript": 9737,
+            "TypeScript": 3363
+        }
+    },
+    {
+        "name": "svelte-formly",
+        "description": "Generator dynamic forms for Svelte JS",
+        "languages": {
+            "Svelte": 23413,
+            "TypeScript": 11298,
+            "JavaScript": 997,
+            "HTML": 302,
+            "SCSS": 254
+        }
+    },
+    {
+        "name": "svelte-maplibre",
+        "description": "Svelte bindings for the MapLibre mapping library",
+        "languages": {
+            "Svelte": 151876,
+            "TypeScript": 24628,
+            "JavaScript": 2143,
+            "HTML": 692,
+            "CSS": 51
+        }
+    },
+    {
+        "name": "sveltesociety.dev-legacy",
+        "description": "Community website for Svelte Society. The site will contain a component library list, a cookbook, tutorials, event information, talks etc.",
+        "languages": {
+            "Svelte": 59579,
+            "JavaScript": 20917,
+            "CSS": 10739,
+            "HTML": 828
+        }
+    },
+    {
+        "name": "portfolio_v3",
+        "description": "My current personal website",
+        "languages": {
+            "Svelte": 237181,
+            "JavaScript": 39852,
+            "HTML": 5442
+        }
+    },
+    {
+        "name": "paneforge",
+        "description": "Resizable pane components for Svelte.",
+        "languages": {
+            "Svelte": 127494,
+            "TypeScript": 89689,
+            "JavaScript": 12708,
+            "CSS": 5812,
+            "HTML": 666
+        }
+    },
+    {
+        "name": "coracle",
+        "description": "A Nostr client that makes relays a first-class concept",
+        "languages": {
+            "Svelte": 436727,
+            "TypeScript": 241778,
+            "HTML": 17753,
+            "JavaScript": 12496,
+            "CSS": 4015,
+            "Dockerfile": 307,
+            "Shell": 68
+        }
+    },
+    {
+        "name": "Materialious",
+        "description": "Modern material design for Invidious.",
+        "languages": {
+            "Svelte": 84189,
+            "TypeScript": 29436,
+            "Dockerfile": 1501,
+            "JavaScript": 1299,
+            "Shell": 1127,
+            "CSS": 711,
+            "HTML": 709
+        }
+    },
+    {
+        "name": "stablecog",
+        "description": null,
+        "languages": {
+            "Svelte": 1170667,
+            "TypeScript": 795938,
+            "HTML": 26243,
+            "CSS": 13663,
+            "JavaScript": 13414
+        }
+    },
+    {
+        "name": "gdpr-cookie-consent-banner",
+        "description": "A GDPR compliant cookie consent banner implementation",
+        "languages": {
+            "Svelte": 9504,
+            "CSS": 4725,
+            "JavaScript": 2820,
+            "HTML": 284
+        }
+    },
+    {
+        "name": "typedwebhook.tools",
+        "description": "A webhook testing tool for checking payloads, with automatic type generation",
+        "languages": {
+            "Svelte": 31432,
+            "JavaScript": 21096,
+            "TypeScript": 13417,
+            "CSS": 5282,
+            "MDX": 5260,
+            "HTML": 415,
+            "Shell": 217
+        }
+    },
+    {
+        "name": "svelte-firebase",
+        "description": "A template to help you start developing SPAs with Svelte and Firebase.",
+        "languages": {
+            "Svelte": 64647,
+            "JavaScript": 23184,
+            "HTML": 2408,
+            "CSS": 210
+        }
+    },
+    {
+        "name": "svelte-highlight",
+        "description": "Syntax Highlighting for Svelte using highlight.js",
+        "languages": {
+            "Svelte": 35273,
+            "TypeScript": 13011,
+            "CSS": 1695,
+            "Astro": 1565,
+            "JavaScript": 280,
+            "HTML": 238
+        }
+    },
+    {
+        "name": "maths",
+        "description": "\u52a0\u51cf\u6cd5\u6570\u5b66\u9898\u751f\u6210\u5668",
+        "languages": {
+            "Svelte": 21614,
+            "TypeScript": 1304,
+            "HTML": 975,
+            "JavaScript": 207
+        }
+    },
+    {
+        "name": "svelte-confetti",
+        "description": "Confetti in Svelte! Celebrate things with some extra flair. Animates using just HTML and CSS meaning it can work with SSR in SvelteKit!",
+        "languages": {
+            "Svelte": 44750,
+            "JavaScript": 3045,
+            "HTML": 355
+        }
+    },
+    {
+        "name": "cheat-sheets",
+        "description": "Cheat Sheets \ud83d\udc2d\ud83e\udd16\ud83d\udc40",
+        "languages": {
+            "Svelte": 11909,
+            "TypeScript": 5351,
+            "JavaScript": 2679,
+            "CSS": 925,
+            "HTML": 354
+        }
+    },
+    {
+        "name": "saos",
+        "description": "Svelte Animation on Scroll - A small component to make your CSS animations work on scroll with Svelte",
+        "languages": {
+            "Svelte": 16949,
+            "JavaScript": 1141,
+            "CSS": 900,
+            "Nix": 728,
+            "HTML": 329
+        }
+    },
+    {
+        "name": "genshin-impact-picker",
+        "description": null,
+        "languages": {
+            "Svelte": 670149,
+            "JavaScript": 182262,
+            "HTML": 69657,
+            "CSS": 19697,
+            "Rust": 584,
+            "Dockerfile": 461
+        }
+    },
+    {
+        "name": "better-emby-server",
+        "description": "\u83b7\u53d6\u6700\u5feb\u7684\u7ec8\u70b9\u7ad9\u516c\u76ca\u670d\u670d\u52a1\u5668\u5730\u5740 ",
+        "languages": {
+            "Svelte": 6831,
+            "Go": 3174,
+            "JavaScript": 1897,
+            "Makefile": 491
+        }
+    },
+    {
+        "name": "Watcharr",
+        "description": "Open source, self-hostable watched list for all your content (movies, tv series, anime, games) with user authentication, modern and clean UI and a very simple setup.",
+        "languages": {
+            "Svelte": 366366,
+            "Go": 288485,
+            "TypeScript": 55529,
+            "SCSS": 9367,
+            "JavaScript": 1160,
+            "Dockerfile": 873,
+            "HTML": 446
+        }
+    },
+    {
+        "name": "svelte-typeahead",
+        "description": "Accessible, fuzzy search typeahead component",
+        "languages": {
+            "Svelte": 9595,
+            "JavaScript": 909
+        }
+    },
+    {
+        "name": "SveltePress",
+        "description": "Documentation for humans.",
+        "languages": {
+            "Svelte": 20008,
+            "JavaScript": 14874,
+            "Dart": 9618,
+            "SCSS": 3263
+        }
+    },
+    {
+        "name": "svelte-file-dropzone",
+        "description": "Svelte component for fileupload",
+        "languages": {
+            "Svelte": 14803,
+            "JavaScript": 9184,
+            "TypeScript": 77,
+            "HTML": 45
+        }
+    },
+    {
+        "name": "awwesome",
+        "description": "Enhanced user interface for Awesome Selfhosted",
+        "languages": {
+            "Svelte": 22065,
+            "TypeScript": 19505,
+            "JavaScript": 1523,
+            "HTML": 840,
+            "CSS": 173,
+            "Dockerfile": 81
+        }
+    },
+    {
+        "name": "sveltekit-on-the-edge",
+        "description": "SvelteKit, running on the edge",
+        "languages": {
+            "Svelte": 15741,
+            "JavaScript": 2488,
+            "CSS": 1278,
+            "HTML": 333
+        }
+    },
+    {
+        "name": "svelte-sight",
+        "description": "A Svelte dev tool for visualizing component hierarchy, state, and props of your application",
+        "languages": {
+            "Svelte": 18791,
+            "JavaScript": 6544,
+            "HTML": 1031,
+            "CSS": 784
         }
     }
 ]

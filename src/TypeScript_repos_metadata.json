@@ -39,16 +39,16 @@
         "name": "vscode",
         "description": "Visual Studio Code",
         "languages": {
-            "TypeScript": 51043311,
+            "TypeScript": 51041422,
             "JavaScript": 1031767,
             "CSS": 879512,
             "Rust": 493643,
             "HTML": 386825,
             "Inno Setup": 310714,
             "Scilab": 197803,
-            "Shell": 86233,
+            "Shell": 86003,
             "Batchfile": 18574,
-            "PowerShell": 12185,
+            "PowerShell": 12117,
             "SCSS": 6732,
             "Groovy": 3928,
             "Cuda": 3634,
@@ -95,6 +95,2488 @@
             "Python": 20569,
             "HTML": 12283,
             "CSS": 7789
+        }
+    },
+    {
+        "name": "TypeScript",
+        "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+        "languages": {
+            "TypeScript": 110200786,
+            "JavaScript": 156430,
+            "Dockerfile": 330,
+            "Shell": 265
+        }
+    },
+    {
+        "name": "angular",
+        "description": "Deliver web apps with confidence \ud83d\ude80",
+        "languages": {
+            "TypeScript": 26473463,
+            "JavaScript": 2777784,
+            "HTML": 708927,
+            "Starlark": 699390,
+            "CSS": 337418,
+            "SCSS": 89534,
+            "Shell": 51649,
+            "jq": 619,
+            "Less": 80
+        }
+    },
+    {
+        "name": "material-ui",
+        "description": "Material\u00a0UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",
+        "languages": {
+            "TypeScript": 5219086,
+            "JavaScript": 4092581,
+            "CSS": 19306,
+            "HTML": 2167
+        }
+    },
+    {
+        "name": "ant-design",
+        "description": "An enterprise-class UI design language and React UI library",
+        "languages": {
+            "TypeScript": 5661007,
+            "JavaScript": 31745,
+            "CSS": 4049,
+            "Shell": 3393,
+            "HTML": 3035
+        }
+    },
+    {
+        "name": "puppeteer",
+        "description": "Node.js API for Chrome ",
+        "languages": {
+            "TypeScript": 2172798,
+            "JavaScript": 130624,
+            "HTML": 28329,
+            "CSS": 6052,
+            "MDX": 3170,
+            "Dockerfile": 1733,
+            "Shell": 520
+        }
+    },
+    {
+        "name": "storybook",
+        "description": "Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation. ",
+        "languages": {
+            "TypeScript": 6408091,
+            "JavaScript": 2512630,
+            "MDX": 76665,
+            "Svelte": 33798,
+            "Vue": 29221,
+            "CSS": 20720,
+            "HTML": 19573,
+            "EJS": 5236,
+            "Pug": 3991,
+            "Handlebars": 2919,
+            "Shell": 1051,
+            "SCSS": 125
+        }
+    },
+    {
+        "name": "realworld",
+        "description": "\"The mother of all demo apps\" \u2014 Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",
+        "languages": {
+            "TypeScript": 338303,
+            "MDX": 24107,
+            "CSS": 21601,
+            "HTML": 4069,
+            "JavaScript": 1533,
+            "Shell": 541,
+            "Procfile": 68
+        }
+    },
+    {
+        "name": "tailwindcss",
+        "description": "A utility-first CSS framework for rapid UI development.",
+        "languages": {
+            "TypeScript": 749078,
+            "Rust": 101751,
+            "CSS": 24680,
+            "JavaScript": 8400,
+            "HTML": 418
+        }
+    },
+    {
+        "name": "excalidraw",
+        "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+        "languages": {
+            "TypeScript": 2967494,
+            "SCSS": 148605,
+            "MDX": 129112,
+            "JavaScript": 73581,
+            "HTML": 7875,
+            "CSS": 1340,
+            "Dockerfile": 493,
+            "Shell": 29
+        }
+    },
+    {
+        "name": "ChatGPT-Next-Web",
+        "description": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). \u4e00\u952e\u62e5\u6709\u4f60\u81ea\u5df1\u7684\u8de8\u5e73\u53f0 ChatGPT/Gemini \u5e94\u7528\u3002",
+        "languages": {
+            "TypeScript": 595417,
+            "SCSS": 71920,
+            "JavaScript": 5305,
+            "Shell": 3882,
+            "Dockerfile": 1518,
+            "Rust": 382
+        }
+    },
+    {
+        "name": "supabase",
+        "description": "The open source Firebase alternative.",
+        "languages": {
+            "TypeScript": 9349226,
+            "MDX": 5530979,
+            "JavaScript": 994272,
+            "CSS": 186999,
+            "SCSS": 105890,
+            "PLpgSQL": 18068,
+            "Makefile": 8120,
+            "Dockerfile": 2115,
+            "Python": 1355,
+            "Shell": 798
+        }
+    },
+    {
+        "name": "code-server",
+        "description": "VS Code in the browser",
+        "languages": {
+            "TypeScript": 338613,
+            "Shell": 62231,
+            "HTML": 4192,
+            "CSS": 2711,
+            "HCL": 2564,
+            "Mustache": 1885,
+            "Dockerfile": 1709,
+            "Nix": 941,
+            "Makefile": 146,
+            "JavaScript": 129
+        }
+    },
+    {
+        "name": "vite",
+        "description": "Next generation frontend tooling. It's fast!",
+        "languages": {
+            "TypeScript": 1610135,
+            "JavaScript": 204856,
+            "HTML": 106397,
+            "CSS": 29315,
+            "Vue": 3401,
+            "AppleScript": 2691,
+            "Svelte": 2500,
+            "SCSS": 1474,
+            "Less": 880,
+            "Stylus": 531,
+            "SugarSS": 274,
+            "Shell": 244,
+            "Pug": 165,
+            "Astro": 114,
+            "Sass": 75
+        }
+    },
+    {
+        "name": "nest",
+        "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript \ud83d\ude80",
+        "languages": {
+            "TypeScript": 2500413,
+            "JavaScript": 2159,
+            "Shell": 917
+        }
+    },
+    {
+        "name": "playwright",
+        "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",
+        "languages": {
+            "TypeScript": 7650024,
+            "HTML": 468375,
+            "CSS": 141002,
+            "C++": 118211,
+            "Objective-C": 65929,
+            "JavaScript": 62301,
+            "Shell": 39299,
+            "Java": 16271,
+            "C": 7890,
+            "Vue": 4849,
+            "PowerShell": 4653,
+            "Python": 3814,
+            "Svelte": 3736,
+            "C#": 3406,
+            "CMake": 2571,
+            "Makefile": 377,
+            "Batchfile": 121
+        }
+    },
+    {
+        "name": "redux",
+        "description": "A JS library for predictable global state management",
+        "languages": {
+            "TypeScript": 144054,
+            "JavaScript": 33862,
+            "CSS": 7687
+        }
+    },
+    {
+        "name": "grafana",
+        "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. ",
+        "languages": {
+            "TypeScript": 25751975,
+            "Go": 17024993,
+            "Rich Text Format": 352348,
+            "HTML": 307645,
+            "SCSS": 224855,
+            "JavaScript": 156905,
+            "CUE": 153275,
+            "Shell": 146868,
+            "MDX": 143578,
+            "Starlark": 128481,
+            "Jsonnet": 38945,
+            "Python": 23487,
+            "Makefile": 20560,
+            "Dockerfile": 19879,
+            "Jinja": 5914,
+            "HCL": 5091,
+            "CSS": 3116,
+            "Mustache": 2239,
+            "Smarty": 2116,
+            "PowerShell": 367,
+            "Assembly": 168
+        }
+    },
+    {
+        "name": "socket.io",
+        "description": "Realtime application framework (Node.JS server)",
+        "languages": {
+            "TypeScript": 267287,
+            "JavaScript": 136629
+        }
+    },
+    {
+        "name": "hoppscotch",
+        "description": "\ud83d\udc7d Open source API development ecosystem - https://hoppscotch.io",
+        "languages": {
+            "TypeScript": 2285668,
+            "Vue": 1234225,
+            "JavaScript": 96590,
+            "SCSS": 35026,
+            "Handlebars": 24416,
+            "Rust": 20241,
+            "Dockerfile": 4779,
+            "HTML": 2089,
+            "Shell": 556
+        }
+    },
+    {
+        "name": "strapi",
+        "description": "\ud83d\ude80 Strapi is the leading open-source headless CMS. It\u2019s 100% JavaScript/TypeScript, fully customizable and developer-first.",
+        "languages": {
+            "TypeScript": 7301402,
+            "JavaScript": 2430854,
+            "MDX": 75823,
+            "Handlebars": 9558,
+            "HTML": 6218,
+            "Shell": 1917
+        }
+    },
+    {
+        "name": "echarts",
+        "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+        "languages": {
+            "TypeScript": 4109761,
+            "JavaScript": 554636,
+            "Smarty": 3034,
+            "HTML": 2228,
+            "Shell": 84
+        }
+    },
+    {
+        "name": "superset",
+        "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+        "languages": {
+            "TypeScript": 9401792,
+            "Python": 7708526,
+            "JavaScript": 2033315,
+            "HTML": 1234481,
+            "Less": 57007,
+            "Shell": 54639,
+            "Jupyter Notebook": 38812,
+            "Dockerfile": 8029,
+            "Jinja": 5847,
+            "Smarty": 5044,
+            "CSS": 4808,
+            "Makefile": 4176,
+            "Pug": 2969,
+            "Mako": 1197
+        }
+    },
+    {
+        "name": "ui",
+        "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+        "languages": {
+            "TypeScript": 1987882,
+            "MDX": 212189,
+            "CSS": 20503,
+            "JavaScript": 13893,
+            "Shell": 1099
+        }
+    },
+    {
+        "name": "tabby",
+        "description": "A terminal for a more modern age",
+        "languages": {
+            "TypeScript": 860808,
+            "Pug": 139700,
+            "SCSS": 60980,
+            "JavaScript": 31802,
+            "C++": 23214,
+            "Batchfile": 1499,
+            "C": 1272,
+            "CSS": 487,
+            "Lua": 247,
+            "Shell": 155,
+            "NSIS": 93
+        }
+    },
+    {
+        "name": "docusaurus",
+        "description": "Easy to maintain open source documentation websites.",
+        "languages": {
+            "TypeScript": 2311126,
+            "CSS": 44548,
+            "JavaScript": 24426,
+            "EJS": 478
+        }
+    },
+    {
+        "name": "react-router",
+        "description": "Declarative routing for React",
+        "languages": {
+            "TypeScript": 1905448,
+            "JavaScript": 56363,
+            "CSS": 439,
+            "HTML": 325
+        }
+    },
+    {
+        "name": "nuxt",
+        "description": "The Intuitive Vue Framework.",
+        "languages": {
+            "TypeScript": 1102418,
+            "JavaScript": 10638,
+            "Vue": 8895,
+            "Shell": 1847,
+            "Dockerfile": 396
+        }
+    },
+    {
+        "name": "ionic-framework",
+        "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+        "languages": {
+            "TypeScript": 3787424,
+            "HTML": 1662745,
+            "SCSS": 765023,
+            "JavaScript": 132980,
+            "Vue": 62688,
+            "CSS": 35899,
+            "Shell": 7216,
+            "Java": 1650,
+            "Dockerfile": 103
+        }
+    },
+    {
+        "name": "DefinitelyTyped",
+        "description": "The repository for high quality TypeScript type definitions.",
+        "languages": {
+            "TypeScript": 35700870,
+            "JavaScript": 25872,
+            "Shell": 2523
+        }
+    },
+    {
+        "name": "fuels-ts",
+        "description": "Fuel Network Typescript SDK",
+        "languages": {
+            "TypeScript": 2118120,
+            "JavaScript": 19951,
+            "CSS": 10726,
+            "Handlebars": 8395,
+            "Shell": 4352,
+            "HTML": 2087,
+            "Sway": 2081,
+            "Vue": 779
+        }
+    },
+    {
+        "name": "core",
+        "description": "\ud83d\udd96 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+        "languages": {
+            "TypeScript": 3485414,
+            "JavaScript": 64210,
+            "HTML": 42443,
+            "Vue": 16706,
+            "CSS": 1365
+        }
+    },
+    {
+        "name": "jest",
+        "description": "Delightful JavaScript Testing.",
+        "languages": {
+            "TypeScript": 3460047,
+            "JavaScript": 894117,
+            "CSS": 25056,
+            "Prolog": 3500,
+            "Shell": 404,
+            "Handlebars": 260
+        }
+    },
+    {
+        "name": "babel",
+        "description": "\ud83d\udc20 Babel is a compiler for writing next generation JavaScript.",
+        "languages": {
+            "TypeScript": 3386337,
+            "JavaScript": 1499181,
+            "Shell": 27315,
+            "Makefile": 4525,
+            "HTML": 3371,
+            "Batchfile": 43
+        }
+    },
+    {
+        "name": "joplin",
+        "description": "Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.",
+        "languages": {
+            "TypeScript": 7187526,
+            "JavaScript": 2415772,
+            "HTML": 194269,
+            "CSS": 133460,
+            "Java": 133452,
+            "Mustache": 74221,
+            "Objective-C": 47137,
+            "Handlebars": 31635,
+            "Shell": 28979,
+            "SCSS": 11032,
+            "Ruby": 5619,
+            "Objective-C++": 3414,
+            "MDX": 1722,
+            "Starlark": 1318,
+            "C": 523,
+            "Swift": 370,
+            "Batchfile": 138
+        }
+    },
+    {
+        "name": "hyper",
+        "description": "A terminal built on web technologies",
+        "languages": {
+            "TypeScript": 302447,
+            "Shell": 2976,
+            "NSIS": 1242,
+            "HTML": 836,
+            "JavaScript": 624,
+            "Batchfile": 119
+        }
+    },
+    {
+        "name": "pixijs",
+        "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",
+        "languages": {
+            "TypeScript": 3600743,
+            "JavaScript": 96262,
+            "WGSL": 17275,
+            "GLSL": 6951,
+            "Shell": 483
+        }
+    },
+    {
+        "name": "zustand",
+        "description": "\ud83d\udc3b Bear necessities for state management in React",
+        "languages": {
+            "TypeScript": 245871,
+            "JavaScript": 6364
+        }
+    },
+    {
+        "name": "nocodb",
+        "description": "\ud83d\udd25 \ud83d\udd25 \ud83d\udd25 Open Source Airtable Alternative",
+        "languages": {
+            "TypeScript": 6587527,
+            "Vue": 2230942,
+            "JavaScript": 732982,
+            "PLpgSQL": 101494,
+            "SCSS": 32450,
+            "Shell": 26403,
+            "CSS": 25060,
+            "TSQL": 15401,
+            "Dockerfile": 6822,
+            "Smarty": 2321
+        }
+    },
+    {
+        "name": "astro",
+        "description": "The web framework for content-driven websites. \u2b50\ufe0f Star to support our work!",
+        "languages": {
+            "TypeScript": 1932130,
+            "JavaScript": 1487198,
+            "Astro": 90171,
+            "Vue": 7838,
+            "MDX": 5599,
+            "Svelte": 5342,
+            "CSS": 2716,
+            "Shell": 943,
+            "Dockerfile": 682,
+            "Roff": 630,
+            "SCSS": 13
+        }
+    },
+    {
+        "name": "appwrite",
+        "description": "Build like a team of hundreds_",
+        "languages": {
+            "TypeScript": 490130,
+            "PHP": 110886,
+            "Dockerfile": 5067,
+            "Shell": 2480
+        }
+    },
+    {
+        "name": "quill",
+        "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility.",
+        "languages": {
+            "TypeScript": 573231,
+            "MDX": 169364,
+            "JavaScript": 77677,
+            "SCSS": 41747,
+            "Stylus": 17007,
+            "CSS": 12696,
+            "HTML": 5394,
+            "Shell": 520
+        }
+    },
+    {
+        "name": "n8n",
+        "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+        "languages": {
+            "TypeScript": 21281638,
+            "Vue": 2065148,
+            "SCSS": 336332,
+            "JavaScript": 83506,
+            "HTML": 44419,
+            "Handlebars": 23400,
+            "Dockerfile": 3583,
+            "Shell": 134,
+            "Batchfile": 71
+        }
+    },
+    {
+        "name": "react-use",
+        "description": "React Hooks \u2014 \ud83d\udc4d",
+        "languages": {
+            "TypeScript": 465283,
+            "JavaScript": 2518
+        }
+    },
+    {
+        "name": "styled-components",
+        "description": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress \ud83d\udc85",
+        "languages": {
+            "TypeScript": 367248,
+            "JavaScript": 58749,
+            "CSS": 647,
+            "HTML": 386
+        }
+    },
+    {
+        "name": "type-challenges",
+        "description": "Collection of TypeScript type challenges with online judge",
+        "languages": {
+            "TypeScript": 158798,
+            "HTML": 2052,
+            "CSS": 1128,
+            "JavaScript": 589,
+            "Shell": 98
+        }
+    },
+    {
+        "name": "query",
+        "description": "\ud83e\udd16 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.",
+        "languages": {
+            "TypeScript": 1983511,
+            "JavaScript": 89084,
+            "Svelte": 16728,
+            "HTML": 1695,
+            "Vue": 1594,
+            "CSS": 80
+        }
+    },
+    {
+        "name": "react-hook-form",
+        "description": "\ud83d\udccb React Hooks for form state management and validation (Web + React Native)",
+        "languages": {
+            "TypeScript": 1352355,
+            "JavaScript": 13413,
+            "CSS": 998,
+            "HTML": 317
+        }
+    },
+    {
+        "name": "vuetify",
+        "description": "\ud83d\udc09 Vue Component Framework",
+        "languages": {
+            "TypeScript": 2071864,
+            "Vue": 1487834,
+            "Sass": 202888,
+            "SCSS": 150478,
+            "JavaScript": 81110,
+            "HTML": 2291,
+            "Shell": 212
+        }
+    },
+    {
+        "name": "Rocket.Chat",
+        "description": "The communications platform that puts data protection first.",
+        "languages": {
+            "TypeScript": 14272058,
+            "JavaScript": 1825420,
+            "CSS": 565642,
+            "HTML": 228285,
+            "SCSS": 54451,
+            "Dockerfile": 26024,
+            "PEG.js": 25558,
+            "Shell": 14017,
+            "PHP": 5645,
+            "EJS": 5574,
+            "Smarty": 1052,
+            "Batchfile": 549,
+            "Handlebars": 463
+        }
+    },
+    {
+        "name": "hexo",
+        "description": "A fast, simple & powerful blog framework, powered by Node.js.",
+        "languages": {
+            "TypeScript": 825121,
+            "JavaScript": 6560,
+            "Shell": 58
+        }
+    },
+    {
+        "name": "prisma",
+        "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+        "languages": {
+            "TypeScript": 4812294,
+            "JavaScript": 66806,
+            "Shell": 2763,
+            "Dockerfile": 2752,
+            "Batchfile": 270,
+            "TSQL": 258
+        }
+    },
+    {
+        "name": "lx-music-desktop",
+        "description": "\u4e00\u4e2a\u57fa\u4e8e electron \u7684\u97f3\u4e50\u8f6f\u4ef6",
+        "languages": {
+            "TypeScript": 870838,
+            "Vue": 659952,
+            "JavaScript": 655851,
+            "Less": 47611,
+            "HTML": 3668
+        }
+    },
+    {
+        "name": "ant-design-pro",
+        "description": "\ud83d\udc68\ud83c\udffb\u200d\ud83d\udcbb\ud83d\udc69\ud83c\udffb\u200d\ud83d\udcbb Use Ant Design like a Pro!",
+        "languages": {
+            "TypeScript": 204994,
+            "JavaScript": 19123,
+            "Less": 850,
+            "Shell": 198
+        }
+    },
+    {
+        "name": "lerna",
+        "description": ":dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.",
+        "languages": {
+            "TypeScript": 2108155,
+            "JavaScript": 53286,
+            "Shell": 11623,
+            "CSS": 11482,
+            "Batchfile": 171
+        }
+    },
+    {
+        "name": "taro",
+        "description": "\u5f00\u653e\u5f0f\u8de8\u7aef\u8de8\u6846\u67b6\u89e3\u51b3\u65b9\u6848\uff0c\u652f\u6301\u4f7f\u7528 React/Vue/Nerv \u7b49\u6846\u67b6\u6765\u5f00\u53d1\u5fae\u4fe1/\u4eac\u4e1c/\u767e\u5ea6/\u652f\u4ed8\u5b9d/\u5b57\u8282\u8df3\u52a8/ QQ \u5c0f\u7a0b\u5e8f/H5/React Native \u7b49\u5e94\u7528\u3002  https://taro.zone/",
+        "languages": {
+            "TypeScript": 4677273,
+            "JavaScript": 4228135,
+            "SCSS": 250746,
+            "Rust": 155036,
+            "HTML": 54055,
+            "CSS": 16411,
+            "Vue": 1987,
+            "Less": 404,
+            "Shell": 171,
+            "Sass": 40,
+            "Stylus": 20
+        }
+    },
+    {
+        "name": "nativefier",
+        "description": "Make any web page a desktop application",
+        "languages": {
+            "TypeScript": 261763,
+            "JavaScript": 27052,
+            "Shell": 6492,
+            "Dockerfile": 2072,
+            "CSS": 899,
+            "HTML": 579
+        }
+    },
+    {
+        "name": "date-fns",
+        "description": "\u23f3 Modern JavaScript date utility library \u231b\ufe0f",
+        "languages": {
+            "TypeScript": 2514166,
+            "Shell": 14237,
+            "JavaScript": 11298
+        }
+    },
+    {
+        "name": "formik",
+        "description": "Build forms in React, without the tears \ud83d\ude2d ",
+        "languages": {
+            "TypeScript": 357262,
+            "JavaScript": 15411,
+            "CSS": 7352,
+            "Shell": 152
+        }
+    },
+    {
+        "name": "typeorm",
+        "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
+        "languages": {
+            "TypeScript": 9159032,
+            "JavaScript": 15807,
+            "Dockerfile": 187
+        }
+    },
+    {
+        "name": "immutable-js",
+        "description": "Immutable persistent data collections for Javascript which increase efficiency and simplicity.",
+        "languages": {
+            "TypeScript": 367939,
+            "JavaScript": 253720,
+            "CSS": 8706,
+            "Shell": 1114
+        }
+    },
+    {
+        "name": "trpc",
+        "description": "\ud83e\uddd9\u200d\u2640\ufe0f  Move Fast and Break Nothing. End-to-end typesafe APIs made easy. ",
+        "languages": {
+            "TypeScript": 1287697,
+            "MDX": 278680,
+            "JavaScript": 31886,
+            "CSS": 23612
+        }
+    },
+    {
+        "name": "novu",
+        "description": "\ud83d\udd25 The open-source notification infrastructure with fully functional embedded notification center \ud83d\ude80\ud83d\ude80\ud83d\ude80",
+        "languages": {
+            "TypeScript": 7493964,
+            "Python": 216296,
+            "JavaScript": 124478,
+            "HTML": 65782,
+            "Handlebars": 18478,
+            "Shell": 16645,
+            "Dockerfile": 16322,
+            "MDX": 11298,
+            "Vue": 9081,
+            "Smarty": 8490,
+            "EJS": 6629,
+            "CSS": 1991
+        }
+    },
+    {
+        "name": "tldraw",
+        "description": "Infinite canvas.",
+        "languages": {
+            "TypeScript": 4246144,
+            "MDX": 298653,
+            "CSS": 135903,
+            "JavaScript": 110899,
+            "HTML": 3318,
+            "Shell": 2597,
+            "Dockerfile": 993
+        }
+    },
+    {
+        "name": "quivr",
+        "description": "Your GenAI Second Brain \ud83e\udde0  A personal productivity assistant (RAG) \u26a1\ufe0f\ud83e\udd16 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq  that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.",
+        "languages": {
+            "TypeScript": 493656,
+            "Python": 456430,
+            "PLpgSQL": 81726,
+            "SCSS": 52207,
+            "JavaScript": 23285,
+            "CSS": 4779,
+            "Dockerfile": 4768,
+            "Shell": 1390,
+            "Makefile": 806,
+            "TeX": 84
+        }
+    },
+    {
+        "name": "appsmith",
+        "description": "Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.",
+        "languages": {
+            "TypeScript": 21648606,
+            "Java": 7055839,
+            "JavaScript": 3633041,
+            "HTML": 179389,
+            "Shell": 137979,
+            "CSS": 128918,
+            "MDX": 74058,
+            "Dockerfile": 5272,
+            "Smarty": 3618,
+            "Python": 3335,
+            "Handlebars": 2211,
+            "HCL": 2207,
+            "Procfile": 84
+        }
+    },
+    {
+        "name": "slidev",
+        "description": "Presentation Slides for Developers",
+        "languages": {
+            "TypeScript": 337523,
+            "Vue": 162053,
+            "JavaScript": 15441,
+            "CSS": 10355,
+            "HTML": 321
+        }
+    },
+    {
+        "name": "solid",
+        "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+        "languages": {
+            "TypeScript": 431442,
+            "JavaScript": 171057,
+            "CSS": 1302
+        }
+    },
+    {
+        "name": "graphql-engine",
+        "description": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
+        "languages": {
+            "TypeScript": 15761041,
+            "Haskell": 9954421,
+            "JavaScript": 2319519,
+            "Rust": 1625896,
+            "Go": 1392799,
+            "Python": 988839,
+            "C": 556503,
+            "CSS": 322597,
+            "Shell": 212172,
+            "SCSS": 203110,
+            "MDX": 116988,
+            "C++": 90894,
+            "Makefile": 46149,
+            "PLpgSQL": 41768,
+            "HTML": 33708,
+            "Nix": 16949,
+            "Dockerfile": 12864,
+            "Java": 5245,
+            "Just": 5051,
+            "HCL": 4634,
+            "Roff": 3926,
+            "TSQL": 3221,
+            "Ruby": 2107,
+            "Procfile": 55
+        }
+    },
+    {
+        "name": "immich",
+        "description": "High performance self-hosted photo and video management solution.",
+        "languages": {
+            "TypeScript": 1991113,
+            "Dart": 1465993,
+            "Svelte": 857549,
+            "Python": 94913,
+            "Swift": 29812,
+            "Kotlin": 28373,
+            "JavaScript": 17704,
+            "Mustache": 12571,
+            "Shell": 12382,
+            "C++": 9834,
+            "Dockerfile": 6906,
+            "Ruby": 5989,
+            "CSS": 3091,
+            "HTML": 1958,
+            "Makefile": 1532,
+            "Objective-C": 38
+        }
+    },
+    {
+        "name": "AFFiNE",
+        "description": "There can be more than Notion and Miro. AFFiNE(pronounced [\u0259\u2018fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+        "languages": {
+            "TypeScript": 4724935,
+            "JavaScript": 61515,
+            "Rust": 17849,
+            "CSS": 6818,
+            "Shell": 2306,
+            "HTML": 1588,
+            "Dockerfile": 506
+        }
+    },
+    {
+        "name": "zod",
+        "description": "TypeScript-first schema validation with static type inference",
+        "languages": {
+            "TypeScript": 934126,
+            "JavaScript": 18781,
+            "HTML": 7842,
+            "Shell": 139
+        }
+    },
+    {
+        "name": "rxjs",
+        "description": "A reactive programming library for JavaScript",
+        "languages": {
+            "TypeScript": 3225891,
+            "JavaScript": 204184,
+            "SCSS": 75634,
+            "HTML": 39763,
+            "Shell": 8728,
+            "Dockerfile": 148
+        }
+    },
+    {
+        "name": "html2canvas",
+        "description": "Screenshots with JavaScript",
+        "languages": {
+            "TypeScript": 400749,
+            "HTML": 206261,
+            "JavaScript": 79207,
+            "CSS": 1782
+        }
+    },
+    {
+        "name": "AgentGPT",
+        "description": "\ud83e\udd16 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+        "languages": {
+            "TypeScript": 266213,
+            "Python": 151498,
+            "JavaScript": 24765,
+            "MDX": 22221,
+            "CSS": 4130,
+            "Shell": 1910,
+            "Dockerfile": 1619,
+            "Batchfile": 131
+        }
+    },
+    {
+        "name": "RSSHub",
+        "description": "\ud83e\udde1 Everything is RSSible",
+        "languages": {
+            "TypeScript": 7182920,
+            "JavaScript": 1205042,
+            "Dockerfile": 7970,
+            "Shell": 606,
+            "HTML": 418
+        }
+    },
+    {
+        "name": "swr",
+        "description": "React Hooks for Data Fetching",
+        "languages": {
+            "TypeScript": 483705,
+            "JavaScript": 3739,
+            "Shell": 90
+        }
+    },
+    {
+        "name": "sequelize",
+        "description": "Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.",
+        "languages": {
+            "TypeScript": 2620599,
+            "JavaScript": 2564480,
+            "Shell": 12798,
+            "Batchfile": 117
+        }
+    },
+    {
+        "name": "slate",
+        "description": "A completely customizable framework for building rich text editors. (Currently in beta.)",
+        "languages": {
+            "TypeScript": 961636,
+            "JavaScript": 27720,
+            "CSS": 1236
+        }
+    },
+    {
+        "name": "expo",
+        "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+        "languages": {
+            "TypeScript": 9957360,
+            "Kotlin": 3609730,
+            "Swift": 2325086,
+            "Objective-C": 1829318,
+            "Java": 926229,
+            "JavaScript": 862097,
+            "C++": 386328,
+            "Objective-C++": 237408,
+            "C": 236450,
+            "Ruby": 168122,
+            "Shell": 48850,
+            "HTML": 26194,
+            "CMake": 7356,
+            "CSS": 197
+        }
+    },
+    {
+        "name": "spacedrive",
+        "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+        "languages": {
+            "TypeScript": 2234247,
+            "Rust": 1897892,
+            "SCSS": 69565,
+            "JavaScript": 58448,
+            "Shell": 30165,
+            "CSS": 28922,
+            "MDX": 17716,
+            "PowerShell": 11891,
+            "Swift": 9668,
+            "Dockerfile": 3816,
+            "Mustache": 1940,
+            "HTML": 1777,
+            "Ruby": 1307,
+            "Kotlin": 1287,
+            "Objective-C": 790,
+            "C": 643,
+            "Java": 262
+        }
+    },
+    {
+        "name": "portainer",
+        "description": "Making Docker and Kubernetes management easy.",
+        "languages": {
+            "TypeScript": 3025702,
+            "Go": 2540158,
+            "JavaScript": 1368513,
+            "HTML": 770273,
+            "CSS": 106303,
+            "Shell": 15711,
+            "Dockerfile": 10648,
+            "Makefile": 4842,
+            "EJS": 2436,
+            "Mustache": 643,
+            "Handlebars": 411
+        }
+    },
+    {
+        "name": "cal.com",
+        "description": "Scheduling infrastructure for absolutely everyone.",
+        "languages": {
+            "TypeScript": 9007054,
+            "CSS": 674518,
+            "HTML": 125332,
+            "MDX": 103955,
+            "JavaScript": 82382,
+            "Shell": 8952,
+            "Dockerfile": 3284,
+            "PLpgSQL": 2205,
+            "PHP": 1254,
+            "Procfile": 37
+        }
+    },
+    {
+        "name": "floating-ui",
+        "description": "A JavaScript library to position floating elements and create interactions for them.",
+        "languages": {
+            "TypeScript": 952854,
+            "MDX": 297501,
+            "JavaScript": 204654,
+            "CSS": 13157,
+            "HTML": 1538,
+            "Vue": 765
+        }
+    },
+    {
+        "name": "lobe-chat",
+        "description": "\ud83e\udd2f Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+        "languages": {
+            "TypeScript": 1934537,
+            "JavaScript": 8385,
+            "CSS": 4903,
+            "Dockerfile": 2013
+        }
+    },
+    {
+        "name": "jsoncrack.com",
+        "description": "\u2728 Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+        "languages": {
+            "TypeScript": 227452,
+            "JavaScript": 12595,
+            "Dockerfile": 444
+        }
+    },
+    {
+        "name": "postcss",
+        "description": "Transforming styles with JS plugins",
+        "languages": {
+            "TypeScript": 169449,
+            "JavaScript": 119338
+        }
+    },
+    {
+        "name": "uppy",
+        "description": "The next open source file uploader for web browsers :dog: ",
+        "languages": {
+            "TypeScript": 1424662,
+            "JavaScript": 472267,
+            "SCSS": 98035,
+            "Shell": 5234,
+            "HTML": 5037,
+            "Svelte": 4994,
+            "Makefile": 2843,
+            "Dockerfile": 1107,
+            "Vue": 382
+        }
+    },
+    {
+        "name": "mattermost",
+        "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+        "languages": {
+            "TypeScript": 20872647,
+            "Go": 15676464,
+            "HTML": 5386289,
+            "JavaScript": 4400327,
+            "SCSS": 1291107,
+            "Makefile": 61656,
+            "Shell": 50200,
+            "CSS": 8545,
+            "PLpgSQL": 4306,
+            "Dockerfile": 2988,
+            "Rich Text Format": 2668,
+            "Handlebars": 684
+        }
+    },
+    {
+        "name": "cheerio",
+        "description": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML.",
+        "languages": {
+            "TypeScript": 420238,
+            "HTML": 135114,
+            "JavaScript": 7727,
+            "CSS": 2449,
+            "MDX": 523
+        }
+    },
+    {
+        "name": "pnpm",
+        "description": "Fast, disk space efficient package manager",
+        "languages": {
+            "TypeScript": 3587957,
+            "JavaScript": 23551,
+            "Shell": 1076,
+            "Batchfile": 689
+        }
+    },
+    {
+        "name": "etcher",
+        "description": "Flash OS images to SD cards & USB drives, safely and easily.",
+        "languages": {
+            "TypeScript": 412261,
+            "CSS": 1508,
+            "JavaScript": 1305,
+            "Shell": 357,
+            "HTML": 156
+        }
+    },
+    {
+        "name": "react-spring",
+        "description": "\u270c\ufe0f A spring physics based React animation library",
+        "languages": {
+            "TypeScript": 403124,
+            "JavaScript": 2458,
+            "Shell": 1462,
+            "CSS": 472,
+            "HTML": 364
+        }
+    },
+    {
+        "name": "remix",
+        "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
+        "languages": {
+            "TypeScript": 1947007,
+            "JavaScript": 175699,
+            "CSS": 20055,
+            "Shell": 3090,
+            "Arc": 220
+        }
+    },
+    {
+        "name": "react-select",
+        "description": "The Select Component for React.js",
+        "languages": {
+            "TypeScript": 479288,
+            "JavaScript": 3304,
+            "CSS": 59
+        }
+    },
+    {
+        "name": "mobx",
+        "description": "Simple, scalable state management.",
+        "languages": {
+            "TypeScript": 784882,
+            "JavaScript": 608383,
+            "HTML": 29795,
+            "CSS": 4282,
+            "Shell": 63
+        }
+    },
+    {
+        "name": "editor.js",
+        "description": "A block-style editor with clean JSON output",
+        "languages": {
+            "TypeScript": 744183,
+            "HTML": 67417,
+            "CSS": 36303,
+            "JavaScript": 6309
+        }
+    },
+    {
+        "name": "angular-cli",
+        "description": "CLI tool for Angular",
+        "languages": {
+            "TypeScript": 4053487,
+            "Starlark": 105984,
+            "HTML": 54528,
+            "JavaScript": 52980,
+            "EJS": 12611,
+            "Shell": 7739,
+            "jq": 1281,
+            "CSS": 240
+        }
+    },
+    {
+        "name": "gitbook",
+        "description": "The open source frontend for GitBook doc sites",
+        "languages": {
+            "TypeScript": 765266,
+            "CSS": 32932,
+            "JavaScript": 1982
+        }
+    },
+    {
+        "name": "backstage",
+        "description": "Backstage is an open platform for building developer portals",
+        "languages": {
+            "TypeScript": 22047105,
+            "JavaScript": 469281,
+            "MDX": 325858,
+            "Handlebars": 38388,
+            "CSS": 26567,
+            "Mustache": 14890,
+            "SCSS": 11090,
+            "HTML": 10352,
+            "Dockerfile": 10033,
+            "Shell": 5657,
+            "Makefile": 5185,
+            "HCL": 1581,
+            "PowerShell": 698
+        }
+    },
+    {
+        "name": "upscayl",
+        "description": "\ud83c\udd99 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.",
+        "languages": {
+            "TypeScript": 159803,
+            "JavaScript": 7244,
+            "CSS": 6833,
+            "Python": 5958,
+            "Shell": 1507
+        }
+    },
+    {
+        "name": "xstate",
+        "description": "Actor-based state management & orchestration for complex app logic.",
+        "languages": {
+            "TypeScript": 1640819,
+            "Vue": 14821,
+            "JavaScript": 10991,
+            "Svelte": 7797,
+            "CSS": 4700,
+            "HTML": 1449
+        }
+    },
+    {
+        "name": "chatbot-ui",
+        "description": "AI chat for every model.",
+        "languages": {
+            "TypeScript": 773486,
+            "PLpgSQL": 31948,
+            "JavaScript": 2012,
+            "CSS": 1798,
+            "Shell": 108
+        }
+    },
+    {
+        "name": "react-three-fiber",
+        "description": "\ud83c\udde8\ud83c\udded A React renderer for Three.js",
+        "languages": {
+            "TypeScript": 341389,
+            "JavaScript": 1220,
+            "HTML": 377,
+            "Shell": 68
+        }
+    },
+    {
+        "name": "ink",
+        "description": "\ud83c\udf08 React for interactive command-line apps",
+        "languages": {
+            "TypeScript": 206546,
+            "JavaScript": 1077
+        }
+    },
+    {
+        "name": "directus",
+        "description": "The Modern Data Stack \ud83d\udc30 \u2014 Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.",
+        "languages": {
+            "TypeScript": 4580038,
+            "Vue": 1772736,
+            "SCSS": 55063,
+            "Liquid": 27850,
+            "CSS": 27118,
+            "JavaScript": 26333,
+            "Dockerfile": 1684,
+            "HTML": 1189
+        }
+    },
+    {
+        "name": "ngx-admin",
+        "description": "Customizable admin dashboard template based on Angular 10+",
+        "languages": {
+            "TypeScript": 397372,
+            "HTML": 131426,
+            "SCSS": 60826,
+            "JavaScript": 2062
+        }
+    },
+    {
+        "name": "discord.js",
+        "description": "A powerful JavaScript library for interacting with the Discord API",
+        "languages": {
+            "TypeScript": 2114774,
+            "JavaScript": 1208911,
+            "MDX": 108711,
+            "Handlebars": 2698,
+            "CSS": 1604,
+            "Dockerfile": 768,
+            "Lua": 287
+        }
+    },
+    {
+        "name": "refine",
+        "description": "A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.",
+        "languages": {
+            "TypeScript": 5689610,
+            "JavaScript": 135070,
+            "CSS": 8827,
+            "HTML": 5570,
+            "Handlebars": 1897,
+            "Smarty": 1842,
+            "Dockerfile": 1064,
+            "Shell": 152
+        }
+    },
+    {
+        "name": "devtools",
+        "description": "\u2699\ufe0f Browser devtools extension for debugging Vue.js applications.",
+        "languages": {
+            "TypeScript": 351826,
+            "Vue": 299445,
+            "JavaScript": 114563,
+            "HTML": 9180,
+            "Stylus": 4338,
+            "CSS": 3046,
+            "Shell": 116
+        }
+    },
+    {
+        "name": "autocomplete",
+        "description": "IDE-style autocomplete for your existing terminal & shell",
+        "languages": {
+            "TypeScript": 82039545,
+            "Dockerfile": 814,
+            "JavaScript": 64,
+            "Shell": 58
+        }
+    },
+    {
+        "name": "mantine",
+        "description": "A fully featured React components library",
+        "languages": {
+            "TypeScript": 5270245,
+            "MDX": 881043,
+            "CSS": 306016,
+            "JavaScript": 7271,
+            "Shell": 109
+        }
+    },
+    {
+        "name": "headlessui",
+        "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
+        "languages": {
+            "TypeScript": 2988119,
+            "Vue": 136677,
+            "JavaScript": 9170,
+            "Shell": 3808,
+            "HTML": 502
+        }
+    },
+    {
+        "name": "table",
+        "description": "\ud83e\udd16 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table",
+        "languages": {
+            "TypeScript": 403798,
+            "JavaScript": 74789,
+            "Svelte": 51
+        }
+    },
+    {
+        "name": "components",
+        "description": "Component infrastructure and Material Design components for Angular",
+        "languages": {
+            "TypeScript": 8794935,
+            "SCSS": 1178965,
+            "HTML": 632184,
+            "Starlark": 362479,
+            "JavaScript": 73881,
+            "CSS": 60656,
+            "Shell": 13781
+        }
+    },
+    {
+        "name": "outline",
+        "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
+        "languages": {
+            "TypeScript": 3945460,
+            "JavaScript": 176223,
+            "HTML": 3654,
+            "Dockerfile": 1116,
+            "Makefile": 635,
+            "Shell": 320,
+            "Procfile": 134
+        }
+    },
+    {
+        "name": "react-admin",
+        "description": "A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design",
+        "languages": {
+            "TypeScript": 4001465,
+            "JavaScript": 83731,
+            "Makefile": 5497,
+            "HTML": 4886,
+            "Shell": 67
+        }
+    },
+    {
+        "name": "coc.nvim",
+        "description": "Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.",
+        "languages": {
+            "TypeScript": 3456665,
+            "Vim Script": 335208,
+            "JavaScript": 60595,
+            "Python": 8328,
+            "Lua": 2405,
+            "Shell": 184
+        }
+    },
+    {
+        "name": "plane",
+        "description": "\ud83d\udd25 \ud83d\udd25 \ud83d\udd25 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.",
+        "languages": {
+            "TypeScript": 5152033,
+            "Python": 1736991,
+            "HTML": 479069,
+            "CSS": 61055,
+            "JavaScript": 29193,
+            "Shell": 18525,
+            "Dockerfile": 3719,
+            "Procfile": 236
+        }
+    },
+    {
+        "name": "Flowise",
+        "description": "Drag & drop UI to build your customized LLM flow",
+        "languages": {
+            "TypeScript": 1846309,
+            "JavaScript": 1012584,
+            "CSS": 11130,
+            "SCSS": 6240,
+            "HTML": 5645,
+            "Dockerfile": 1017,
+            "Shell": 195,
+            "Batchfile": 60
+        }
+    },
+    {
+        "name": "tiptap",
+        "description": "The headless rich text editor framework for web artisans.",
+        "languages": {
+            "TypeScript": 503749,
+            "JavaScript": 78017,
+            "Shell": 73
+        }
+    },
+    {
+        "name": "NativeScript",
+        "description": "\u26a1 Empowering JavaScript with native platform APIs. \u2728 Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love \u2764\ufe0f Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Dart (Flutter) and you name it compatible.",
+        "languages": {
+            "TypeScript": 4231847,
+            "Java": 522530,
+            "JavaScript": 70994,
+            "Objective-C": 67036,
+            "CSS": 35411,
+            "Shell": 15521,
+            "Swift": 6610,
+            "HTML": 1303,
+            "Ruby": 293,
+            "SCSS": 65
+        }
+    },
+    {
+        "name": "docz",
+        "description": "\u270d It has never been so easy to document your things!",
+        "languages": {
+            "TypeScript": 135421,
+            "JavaScript": 83377,
+            "AppleScript": 2043,
+            "HTML": 394,
+            "CSS": 166
+        }
+    },
+    {
+        "name": "homebridge",
+        "description": "HomeKit support for the impatient.",
+        "languages": {
+            "TypeScript": 171905,
+            "JavaScript": 528
+        }
+    },
+    {
+        "name": "create-t3-app",
+        "description": "The best way to start a full-stack, typesafe Next.js app ",
+        "languages": {
+            "TypeScript": 286092,
+            "Astro": 118324,
+            "CSS": 28954,
+            "JavaScript": 14506,
+            "Shell": 3614
+        }
+    },
+    {
+        "name": "react-navigation",
+        "description": "Routing and navigation for your React Native apps",
+        "languages": {
+            "TypeScript": 1558951,
+            "JavaScript": 6317
+        }
+    },
+    {
+        "name": "react-redux",
+        "description": "Official React bindings for Redux",
+        "languages": {
+            "TypeScript": 333063,
+            "JavaScript": 18649,
+            "CSS": 7994
+        }
+    },
+    {
+        "name": "element-plus",
+        "description": "\ud83c\udf89 A Vue.js 3 UI Library made by Element team",
+        "languages": {
+            "TypeScript": 697024,
+            "Vue": 667388,
+            "JavaScript": 8918,
+            "Shell": 2709,
+            "HTML": 814
+        }
+    },
+    {
+        "name": "refined-github",
+        "description": ":octocat: Browser extension that simplifies the GitHub interface and adds useful features",
+        "languages": {
+            "TypeScript": 595887,
+            "CSS": 61570,
+            "Swift": 8574,
+            "HTML": 6901,
+            "Shell": 3857,
+            "JavaScript": 1499
+        }
+    },
+    {
+        "name": "PicGo",
+        "description": ":rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder",
+        "languages": {
+            "TypeScript": 182784,
+            "Vue": 146445,
+            "JavaScript": 16791,
+            "AppleScript": 1962,
+            "PowerShell": 1829,
+            "Shell": 1827,
+            "HTML": 569,
+            "NSIS": 569,
+            "CSS": 58
+        }
+    },
+    {
+        "name": "medusa",
+        "description": "Building blocks for digital commerce",
+        "languages": {
+            "TypeScript": 20384338,
+            "JavaScript": 3354049,
+            "Handlebars": 65550,
+            "Shell": 51642,
+            "CSS": 38452,
+            "HTML": 660
+        }
+    },
+    {
+        "name": "full-stack-fastapi-template",
+        "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+        "languages": {
+            "TypeScript": 100669,
+            "Python": 71361,
+            "HTML": 16376,
+            "Shell": 2011,
+            "Dockerfile": 1248,
+            "JavaScript": 1071,
+            "Mako": 523,
+            "Jinja": 31
+        }
+    },
+    {
+        "name": "dify",
+        "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+        "languages": {
+            "TypeScript": 4237374,
+            "Python": 4160619,
+            "MDX": 318633,
+            "CSS": 92859,
+            "JavaScript": 44225,
+            "SCSS": 22952,
+            "HTML": 4543,
+            "PHP": 4443,
+            "Shell": 3546,
+            "Dockerfile": 2833,
+            "Makefile": 1304,
+            "Mako": 494
+        }
+    },
+    {
+        "name": "bulletproof-react",
+        "description": "\ud83d\udee1\ufe0f \u269b\ufe0f A simple, scalable, and powerful architecture for building production ready React applications. ",
+        "languages": {
+            "TypeScript": 147234,
+            "JavaScript": 14634,
+            "HTML": 1773,
+            "Handlebars": 760,
+            "CSS": 426,
+            "Shell": 56
+        }
+    },
+    {
+        "name": "vant",
+        "description": "A lightweight, customizable Vue UI library for mobile web apps.",
+        "languages": {
+            "TypeScript": 1344136,
+            "Vue": 336536,
+            "Less": 220836,
+            "JavaScript": 137916,
+            "HTML": 2401,
+            "Smarty": 2281,
+            "Shell": 308
+        }
+    },
+    {
+        "name": "electron-react-boilerplate",
+        "description": "A Foundation for Scalable Cross-Platform Apps",
+        "languages": {
+            "TypeScript": 32829,
+            "JavaScript": 6192,
+            "CSS": 1079,
+            "EJS": 275
+        }
+    },
+    {
+        "name": "github1s",
+        "description": "One second to read GitHub code with VS Code.",
+        "languages": {
+            "TypeScript": 466883,
+            "HTML": 39263,
+            "JavaScript": 33323,
+            "CSS": 27188,
+            "Shell": 3608,
+            "Dockerfile": 901
+        }
+    },
+    {
+        "name": "openai-translator",
+        "description": "\u57fa\u4e8e ChatGPT API \u7684\u5212\u8bcd\u7ffb\u8bd1\u6d4f\u89c8\u5668\u63d2\u4ef6\u548c\u8de8\u5e73\u53f0\u684c\u9762\u7aef\u5e94\u7528    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
+        "languages": {
+            "TypeScript": 649028,
+            "Rust": 92390,
+            "HTML": 5350,
+            "Swift": 4689,
+            "JavaScript": 4094,
+            "AppleScript": 3894,
+            "CSS": 2829,
+            "Python": 2462,
+            "Makefile": 1016,
+            "Shell": 196,
+            "PowerShell": 167
+        }
+    },
+    {
+        "name": "SwitchHosts",
+        "description": "Switch hosts quickly!",
+        "languages": {
+            "TypeScript": 317090,
+            "SCSS": 30509,
+            "JavaScript": 7805,
+            "HTML": 268
+        }
+    },
+    {
+        "name": "recharts",
+        "description": "Redefined chart library built with React and D3",
+        "languages": {
+            "TypeScript": 1958532,
+            "MDX": 52328,
+            "JavaScript": 2697,
+            "Shell": 2574,
+            "HTML": 2170,
+            "CSS": 278
+        }
+    },
+    {
+        "name": "intro.js",
+        "description": "Lightweight, user-friendly onboarding tour library",
+        "languages": {
+            "TypeScript": 144723,
+            "HTML": 138012,
+            "JavaScript": 81476,
+            "CSS": 46402,
+            "SCSS": 23295,
+            "Less": 17559,
+            "PHP": 1242,
+            "Shell": 1210
+        }
+    },
+    {
+        "name": "react-starter-kit",
+        "description": "The web's most popular Jamstack front-end template (boilerplate) for building web applications with React",
+        "languages": {
+            "TypeScript": 69312,
+            "JavaScript": 9668,
+            "HTML": 1142,
+            "Dockerfile": 1069,
+            "Shell": 104
+        }
+    },
+    {
+        "name": "redoc",
+        "description": "\ud83d\udcd8  OpenAPI/Swagger-generated API Reference Documentation",
+        "languages": {
+            "TypeScript": 533622,
+            "JavaScript": 11954,
+            "Shell": 2516,
+            "HTML": 1974,
+            "Dockerfile": 1684
+        }
+    },
+    {
+        "name": "Babylon.js",
+        "description": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.",
+        "languages": {
+            "TypeScript": 19750294,
+            "JavaScript": 988612,
+            "HLSL": 906973,
+            "SCSS": 330094,
+            "Roff": 276786,
+            "HTML": 96867,
+            "Batchfile": 12
+        }
+    },
+    {
+        "name": "sweetalert",
+        "description": "A beautiful replacement for JavaScript's \"alert\"",
+        "languages": {
+            "TypeScript": 46357,
+            "Stylus": 16165,
+            "JavaScript": 11822,
+            "CSS": 11750,
+            "Handlebars": 7621
+        }
+    },
+    {
+        "name": "hey",
+        "description": "Hey is a decentralized and permissionless social media app built with Lens Protocol \ud83c\udf3f",
+        "languages": {
+            "TypeScript": 47807135,
+            "Solidity": 11922,
+            "JavaScript": 6182,
+            "CSS": 4529,
+            "Shell": 2508,
+            "PLpgSQL": 1246,
+            "Dockerfile": 801,
+            "HTML": 8
+        }
+    },
+    {
+        "name": "yup",
+        "description": "Dead simple Object schema validation",
+        "languages": {
+            "TypeScript": 263705,
+            "JavaScript": 8672
+        }
+    },
+    {
+        "name": "react-bootstrap",
+        "description": "Bootstrap components built with React",
+        "languages": {
+            "TypeScript": 691126,
+            "JavaScript": 234243,
+            "MDX": 124937,
+            "SCSS": 6527,
+            "CSS": 3190
+        }
+    },
+    {
+        "name": "lossless-cut",
+        "description": "The swiss army knife of lossless video/audio editing",
+        "languages": {
+            "TypeScript": 739738,
+            "JavaScript": 42945,
+            "CSS": 5365,
+            "HTML": 210,
+            "Shell": 116
+        }
+    },
+    {
+        "name": "windows95",
+        "description": "\ud83d\udca9\ud83d\ude80 Windows 95 in Electron. Runs on macOS, Linux, and Windows.",
+        "languages": {
+            "TypeScript": 39753,
+            "JavaScript": 8010,
+            "Less": 2903,
+            "Dockerfile": 1027,
+            "Shell": 790,
+            "HTML": 474,
+            "PowerShell": 241
+        }
+    },
+    {
+        "name": "next-auth",
+        "description": "Authentication for the Web.",
+        "languages": {
+            "TypeScript": 1330698,
+            "JavaScript": 40678,
+            "CSS": 21296,
+            "Shell": 14786,
+            "Svelte": 13120,
+            "Vue": 3979,
+            "PLpgSQL": 3973,
+            "Pug": 2301,
+            "Dockerfile": 1667,
+            "HTML": 564
+        }
+    },
+    {
+        "name": "vue-vben-admin",
+        "description": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast\uff01",
+        "languages": {
+            "TypeScript": 1001053,
+            "Vue": 994026,
+            "Less": 54879,
+            "JavaScript": 39866,
+            "CSS": 12328,
+            "SCSS": 5603,
+            "HTML": 3714,
+            "Dockerfile": 1196,
+            "Shell": 539
+        }
+    },
+    {
+        "name": "motion",
+        "description": "Open source, production-ready animation and gesture library for React",
+        "languages": {
+            "TypeScript": 1990591,
+            "HTML": 383369,
+            "JavaScript": 24060,
+            "Makefile": 2301,
+            "Dockerfile": 870
+        }
+    },
+    {
+        "name": "nx",
+        "description": "Smart Monorepos \u00b7 Fast CI",
+        "languages": {
+            "TypeScript": 13676271,
+            "Rust": 247302,
+            "JavaScript": 214636,
+            "CSS": 22450,
+            "Shell": 9819,
+            "HTML": 3672,
+            "Objective-C": 2305
+        }
+    },
+    {
+        "name": "jitsi-meet",
+        "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
+        "languages": {
+            "TypeScript": 5414262,
+            "Lua": 529938,
+            "JavaScript": 423046,
+            "Java": 220752,
+            "Objective-C": 155350,
+            "SCSS": 105083,
+            "Swift": 50411,
+            "Shell": 30214,
+            "HTML": 19923,
+            "Ruby": 9105,
+            "Makefile": 3760,
+            "C": 829,
+            "Starlark": 152
+        }
+    },
+    {
+        "name": "Bilibili-Evolved",
+        "description": "\u5f3a\u5927\u7684\u54d4\u54e9\u54d4\u54e9\u589e\u5f3a\u811a\u672c",
+        "languages": {
+            "TypeScript": 1111732,
+            "Vue": 610987,
+            "CSS": 370588,
+            "SCSS": 327368,
+            "JavaScript": 3140
+        }
+    },
+    {
+        "name": "InvokeAI",
+        "description": "InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.",
+        "languages": {
+            "TypeScript": 2515771,
+            "Python": 1922701,
+            "Shell": 14301,
+            "Dockerfile": 3810,
+            "Jupyter Notebook": 3143,
+            "Nix": 2789,
+            "JavaScript": 2760,
+            "CSS": 2613,
+            "Makefile": 2590,
+            "HTML": 657
+        }
+    },
+    {
+        "name": "generator-jhipster",
+        "description": "JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.",
+        "languages": {
+            "TypeScript": 4347255,
+            "Java": 1295196,
+            "JavaScript": 935688,
+            "EJS": 566249,
+            "Vue": 143254,
+            "Shell": 63463,
+            "SCSS": 45732,
+            "Dockerfile": 4976,
+            "CSS": 4205,
+            "Mustache": 2612,
+            "Batchfile": 1088,
+            "HTML": 793
+        }
+    },
+    {
+        "name": "xyflow",
+        "description": "React Flow |\u00a0Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
+        "languages": {
+            "TypeScript": 547528,
+            "Svelte": 96551,
+            "CSS": 17956,
+            "JavaScript": 4245
+        }
+    },
+    {
+        "name": "squoosh",
+        "description": "Make images smaller using best-in-class codecs, right in the browser.",
+        "languages": {
+            "TypeScript": 292079,
+            "JavaScript": 47591,
+            "C++": 45033,
+            "CSS": 42030,
+            "Makefile": 17648,
+            "Rust": 15262,
+            "HTML": 3664,
+            "EJS": 2783,
+            "Dockerfile": 1894,
+            "Shell": 867
+        }
+    },
+    {
+        "name": "fingerprintjs",
+        "description": "Browser fingerprinting library. Accuracy of this version is 40-60%, accuracy of the commercial Fingerprint Identification is 99.5%. V4 of this library is BSL licensed.",
+        "languages": {
+            "TypeScript": 253573,
+            "HTML": 3725
+        }
+    },
+    {
+        "name": "budibase",
+        "description": "Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more \ud83d\ude80  ",
+        "languages": {
+            "TypeScript": 2934151,
+            "Svelte": 2070884,
+            "JavaScript": 1041354,
+            "Shell": 60593,
+            "Handlebars": 20801,
+            "Dockerfile": 17078,
+            "CSS": 8395,
+            "HTML": 4965,
+            "Smarty": 2199,
+            "TSQL": 1595
+        }
+    },
+    {
+        "name": "rxdb",
+        "description": "A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/",
+        "languages": {
+            "TypeScript": 2639049,
+            "JavaScript": 118882,
+            "CSS": 52874,
+            "Dart": 9911,
+            "HTML": 2391,
+            "Shell": 655
+        }
+    },
+    {
+        "name": "driver.js",
+        "description": "A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page",
+        "languages": {
+            "TypeScript": 53082,
+            "HTML": 37393,
+            "CSS": 4976
+        }
+    },
+    {
+        "name": "react-dnd",
+        "description": "Drag and Drop for React",
+        "languages": {
+            "TypeScript": 539018,
+            "JavaScript": 20805,
+            "CSS": 14894,
+            "HTML": 2085,
+            "Dockerfile": 314,
+            "Shell": 253
+        }
+    },
+    {
+        "name": "blueprint",
+        "description": "A React-based UI toolkit for the web",
+        "languages": {
+            "TypeScript": 4783502,
+            "SCSS": 404529,
+            "JavaScript": 141457,
+            "Shell": 16702,
+            "HTML": 12356,
+            "Handlebars": 3499,
+            "Less": 907
+        }
+    },
+    {
+        "name": "typescript-book",
+        "description": ":books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source \ud83c\udf39",
+        "languages": {
+            "TypeScript": 100620,
+            "HTML": 706
+        }
+    },
+    {
+        "name": "qwik",
+        "description": "Instant-loading web apps, without effort",
+        "languages": {
+            "TypeScript": 3094195,
+            "JavaScript": 831579,
+            "MDX": 825111,
+            "Rust": 252475,
+            "CSS": 124328,
+            "HTML": 26859,
+            "Dockerfile": 1341,
+            "Nix": 1096,
+            "Makefile": 919
+        }
+    },
+    {
+        "name": "clash-verge",
+        "description": "A Clash GUI based on tauri. Supports Windows, macOS and Linux.",
+        "languages": {
+            "TypeScript": 225677,
+            "Rust": 162005,
+            "JavaScript": 23053,
+            "SCSS": 3500,
+            "HTML": 1100,
+            "Shell": 69
+        }
+    },
+    {
+        "name": "grapesjs",
+        "description": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding",
+        "languages": {
+            "TypeScript": 1646553,
+            "JavaScript": 143296,
+            "SCSS": 66979,
+            "HTML": 3969
+        }
+    },
+    {
+        "name": "NativeBase",
+        "description": "Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.",
+        "languages": {
+            "TypeScript": 1423940,
+            "JavaScript": 19861,
+            "Java": 6282,
+            "Objective-C": 4511,
+            "CSS": 2083,
+            "Shell": 1654,
+            "Ruby": 826,
+            "Starlark": 602
+        }
+    },
+    {
+        "name": "sst",
+        "description": "Build modern full-stack applications on AWS",
+        "languages": {
+            "TypeScript": 2436234,
+            "JavaScript": 156217,
+            "CSS": 56941,
+            "HTML": 42921,
+            "Svelte": 18943,
+            "Python": 12440,
+            "C#": 5294,
+            "Astro": 3741,
+            "Dart": 2710,
+            "Go": 2689,
+            "Shell": 1731,
+            "Rust": 1351,
+            "Swift": 1158,
+            "Java": 769,
+            "Dockerfile": 763,
+            "F#": 697,
+            "Vue": 691,
+            "EJS": 264,
+            "Kotlin": 128,
+            "Objective-C": 38
+        }
+    },
+    {
+        "name": "focalboard",
+        "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
+        "languages": {
+            "TypeScript": 2412969,
+            "Go": 1886344,
+            "SCSS": 185555,
+            "Makefile": 25579,
+            "Swift": 20438,
+            "JavaScript": 16787,
+            "C#": 16614,
+            "Batchfile": 1536,
+            "Dockerfile": 1484,
+            "EJS": 911,
+            "HTML": 447,
+            "Shell": 278
+        }
+    },
+    {
+        "name": "Reactive-Resume",
+        "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+        "languages": {
+            "TypeScript": 1297885,
+            "JavaScript": 5206,
+            "CSS": 5105,
+            "HTML": 2362,
+            "Dockerfile": 954
+        }
+    },
+    {
+        "name": "graphql-js",
+        "description": "A reference implementation of GraphQL for JavaScript",
+        "languages": {
+            "TypeScript": 2065922,
+            "JavaScript": 52153,
+            "CSS": 1513,
+            "Shell": 1417
+        }
+    },
+    {
+        "name": "movie-web",
+        "description": "A small web app for watching movies and shows easily",
+        "languages": {
+            "TypeScript": 760835,
+            "HTML": 10952,
+            "CSS": 7560,
+            "JavaScript": 4642,
+            "Dockerfile": 1507,
+            "Handlebars": 324
+        }
+    },
+    {
+        "name": "umami",
+        "description": "Umami is a simple, fast, privacy-focused alternative to Google Analytics.",
+        "languages": {
+            "TypeScript": 592200,
+            "CSS": 37088,
+            "JavaScript": 29434,
+            "Dockerfile": 1775,
+            "Shell": 58
+        }
+    },
+    {
+        "name": "drizzle-orm",
+        "description": "Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too \ud83d\ude05",
+        "languages": {
+            "TypeScript": 3758627,
+            "JavaScript": 5988
+        }
+    },
+    {
+        "name": "payload",
+        "description": "The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.",
+        "languages": {
+            "TypeScript": 4858448,
+            "SCSS": 323160,
+            "JavaScript": 79559,
+            "Dockerfile": 1413,
+            "Shell": 957,
+            "HTML": 760,
+            "CSS": 78
+        }
+    },
+    {
+        "name": "wenyan",
+        "description": "\u6587\u8a00\u6587\u7de8\u7a0b\u8a9e\u8a00 A programming language for the ancient Chinese.",
+        "languages": {
+            "TypeScript": 393712,
+            "JavaScript": 49145,
+            "HTML": 5769,
+            "CSS": 2492,
+            "Makefile": 136
+        }
+    },
+    {
+        "name": "everyone-can-use-english",
+        "description": "\u4eba\u4eba\u90fd\u80fd\u7528\u82f1\u8bed",
+        "languages": {
+            "TypeScript": 891703,
+            "Metal": 359202,
+            "Jupyter Notebook": 192829,
+            "HTML": 158992,
+            "JavaScript": 25639,
+            "Vue": 10249,
+            "SCSS": 8033,
+            "CSS": 2141,
+            "Go": 1496,
+            "Shell": 690
+        }
+    },
+    {
+        "name": "kibana",
+        "description": "Your window into the Elastic Stack",
+        "languages": {
+            "TypeScript": 205181523,
+            "JavaScript": 8660952,
+            "MDX": 2210931,
+            "SCSS": 368861,
+            "Shell": 367213,
+            "CSS": 205828,
+            "ANTLR": 36343,
+            "Starlark": 28395,
+            "HTML": 19095,
+            "EJS": 15456,
+            "Dockerfile": 13498,
+            "Handlebars": 12896,
+            "Perl": 12265,
+            "Python": 7530,
+            "Batchfile": 5113,
+            "Mustache": 4915,
+            "Standard ML": 3033,
+            "Makefile": 1404
+        }
+    },
+    {
+        "name": "upterm",
+        "description": "A terminal emulator for the 21st century.",
+        "languages": {
+            "TypeScript": 399197,
+            "HTML": 15614,
+            "Dockerfile": 187
+        }
+    },
+    {
+        "name": "nextui",
+        "description": "\ud83d\ude80   Beautiful, fast and modern React UI library.",
+        "languages": {
+            "TypeScript": 3222646,
+            "MDX": 808275,
+            "JavaScript": 46754,
+            "CSS": 13953,
+            "Handlebars": 8613,
+            "Shell": 269
+        }
+    },
+    {
+        "name": "apollo-client",
+        "description": ":rocket: \u00a0A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.",
+        "languages": {
+            "TypeScript": 3656782,
+            "JavaScript": 39922,
+            "HTML": 8989,
+            "Shell": 1669
+        }
+    },
+    {
+        "name": "desktop",
+        "description": "Focus on what matters instead of fighting with Git.",
+        "languages": {
+            "TypeScript": 5112824,
+            "SCSS": 291870,
+            "JavaScript": 23937,
+            "CSS": 9585,
+            "Shell": 3720,
+            "PowerShell": 813,
+            "HTML": 175,
+            "Batchfile": 116
+        }
+    },
+    {
+        "name": "remotion",
+        "description": "\ud83c\udfa5      Make videos programmatically with React",
+        "languages": {
+            "TypeScript": 6329934,
+            "MDX": 395667,
+            "Rust": 137795,
+            "JavaScript": 118121,
+            "CSS": 44711,
+            "Python": 32597,
+            "PHP": 30103,
+            "Go": 22271,
+            "HCL": 1826,
+            "Shell": 1008,
+            "Astro": 686,
+            "Dockerfile": 257
+        }
+    },
+    {
+        "name": "subql",
+        "description": "SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.",
+        "languages": {
+            "TypeScript": 1474841,
+            "JavaScript": 13859,
+            "EJS": 5890,
+            "Dockerfile": 1719,
+            "Shell": 1033,
+            "Batchfile": 93
+        }
+    },
+    {
+        "name": "reselect",
+        "description": "Selector library for Redux",
+        "languages": {
+            "TypeScript": 484426,
+            "MDX": 113761,
+            "CSS": 6919,
+            "JavaScript": 1608
+        }
+    },
+    {
+        "name": "wechaty",
+        "description": "Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt",
+        "languages": {
+            "TypeScript": 324854,
+            "JavaScript": 86826,
+            "Shell": 17144,
+            "Dockerfile": 3310
+        }
+    },
+    {
+        "name": "web-check",
+        "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f All-in-one OSINT tool for analysing any website",
+        "languages": {
+            "TypeScript": 252151,
+            "JavaScript": 67338,
+            "HTML": 4635,
+            "Dockerfile": 2371,
+            "CSS": 1045
+        }
+    },
+    {
+        "name": "theia",
+        "description": "Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.",
+        "languages": {
+            "TypeScript": 12335600,
+            "CSS": 318094,
+            "JavaScript": 171292,
+            "C": 11989,
+            "Shell": 1276,
+            "Dockerfile": 833,
+            "HTML": 726,
+            "Python": 684,
+            "Batchfile": 357
+        }
+    },
+    {
+        "name": "web3.js",
+        "description": "Collection of comprehensive TypeScript libraries for Interaction with the Ethereum JSON RPC API and utility functions.",
+        "languages": {
+            "TypeScript": 4163308,
+            "JavaScript": 127181,
+            "Shell": 15005,
+            "Solidity": 6693,
+            "HTML": 3046
+        }
+    },
+    {
+        "name": "visx",
+        "description": "\ud83d\udc2f visx | visualization components",
+        "languages": {
+            "TypeScript": 1857589,
+            "CSS": 24794,
+            "JavaScript": 24250
+        }
+    },
+    {
+        "name": "vueuse",
+        "description": "Collection of essential Vue Composition Utilities for Vue 2 and 3",
+        "languages": {
+            "TypeScript": 1170000,
+            "Vue": 202170,
+            "CSS": 8450,
+            "JavaScript": 3885,
+            "HTML": 647,
+            "Shell": 244
+        }
+    },
+    {
+        "name": "darkreader",
+        "description": "Dark Reader Chrome and Firefox extension",
+        "languages": {
+            "TypeScript": 1099017,
+            "JavaScript": 137675,
+            "Less": 93735
         }
     }
 ]
