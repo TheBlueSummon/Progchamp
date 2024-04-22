@@ -1338,6 +1338,16 @@
         }
     },
     {
+        "name": "sdwdate",
+        "description": "Secure Distributed Web Date; privacy, anonymity and Tor friendly; console time fetcher and daemon; optional graphical user interface etc. Website: https://www.kicksecure.com/wiki/sdwdate",
+        "languages": {
+            "Python": 80763,
+            "Shell": 19199,
+            "C": 3177,
+            "Roff": 1182
+        }
+    },
+    {
         "name": "colorconsole",
         "description": "Python comes with batteries included, but console applications have no color. This project brings a very simple interface to colored console output. It does not replace curses or more sophisticated libraries. If you just need to print colored text using the same API on Linux, Windows and Mac OS X, colorconsole can be a good option. It uses ctypes to access Windows console API routines and ANSI escape codes for xterm on Linux and Mac OS X.",
         "languages": {
@@ -1364,16 +1374,6 @@
         "languages": {
             "Python": 37099,
             "C": 1863
-        }
-    },
-    {
-        "name": "sdwdate",
-        "description": "Secure Distributed Web Date; privacy, anonymity and Tor friendly; console time fetcher and daemon; optional graphical user interface etc. Website: https://www.kicksecure.com/wiki/sdwdate",
-        "languages": {
-            "Python": 80763,
-            "Shell": 19199,
-            "C": 3177,
-            "Roff": 1182
         }
     },
     {

@@ -302,7 +302,7 @@
         "name": "spark",
         "description": "Apache Spark - A unified analytics engine for large-scale data processing",
         "languages": {
-            "Scala": 52262442,
+            "Scala": 52263128,
             "Python": 12676306,
             "Java": 5134065,
             "Jupyter Notebook": 4331346,
@@ -452,7 +452,7 @@
         "name": "llama_index",
         "description": "LlamaIndex is a data framework for your LLM applications",
         "languages": {
-            "Python": 12701377,
+            "Python": 12702920,
             "Jupyter Notebook": 10643754,
             "Makefile": 315132,
             "Starlark": 127206,
@@ -1170,7 +1170,7 @@
         "description": "\u4eba\u4eba\u53ef\u7528\u7684\u5f00\u6e90\u6570\u636e\u53ef\u89c6\u5316\u5206\u6790\u5de5\u5177\u3002",
         "languages": {
             "Java": 3208032,
-            "Vue": 2539113,
+            "Vue": 2539912,
             "Shell": 27064,
             "Less": 7711,
             "Dockerfile": 764
@@ -2155,7 +2155,7 @@
         "name": "gop",
         "description": "The Go+ programming language is designed for engineering, STEM education, and data science",
         "languages": {
-            "Go": 1310535,
+            "Go": 1309224,
             "Makefile": 1723,
             "Shell": 1406,
             "Dockerfile": 863,
@@ -2370,6 +2370,16 @@
         }
     },
     {
+        "name": "confd",
+        "description": "Manage local application configuration files using templates and data from etcd or consul",
+        "languages": {
+            "Go": 106160,
+            "Shell": 15481,
+            "Procfile": 2445,
+            "Makefile": 1318
+        }
+    },
+    {
         "name": "pytorch3d",
         "description": "PyTorch3D is FAIR's library of reusable components for deep learning with 3D data",
         "languages": {
@@ -2381,16 +2391,6 @@
             "JavaScript": 23862,
             "Batchfile": 11431,
             "CSS": 9797
-        }
-    },
-    {
-        "name": "confd",
-        "description": "Manage local application configuration files using templates and data from etcd or consul",
-        "languages": {
-            "Go": 106160,
-            "Shell": 15481,
-            "Procfile": 2445,
-            "Makefile": 1318
         }
     },
     {

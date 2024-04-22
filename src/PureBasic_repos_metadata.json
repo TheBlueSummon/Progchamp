@@ -495,6 +495,16 @@
         }
     },
     {
+        "name": "Phynteny",
+        "description": "Predict the function of phage hypothetical proteins using an LSTM model trained with Phage Synteny",
+        "languages": {
+            "PureBasic": 256473,
+            "Python": 170484,
+            "Shell": 1077,
+            "Markdown": 122
+        }
+    },
+    {
         "name": "WebSocket_Server",
         "description": "A WebSocket server module for PureBasic",
         "languages": {
@@ -1885,21 +1895,6 @@
             "TypeScript": 65591,
             "HTML": 57637,
             "Shell": 291
-        }
-    },
-    {
-        "name": "STM32_FOC2.0_ENCODER",
-        "description": null,
-        "languages": {
-            "PureBasic": 41431495,
-            "C": 2286709,
-            "C++": 622383,
-            "HTML": 94285,
-            "Makefile": 67025,
-            "Assembly": 44257,
-            "EmberScript": 10431,
-            "Objective-C": 4155,
-            "Batchfile": 1916
         }
     }
 ]
