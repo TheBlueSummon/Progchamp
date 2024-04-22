@@ -42,43 +42,50 @@ function shellSort(og, repos){
     }
 }
 
-// Merge Sort
-function merge(first, middle, last) {
-    // temp array to store merged
-    var temp = Array.from({ length: last - first }, (_, i) => first + i);
-    var left = first,
-        right = middle,
-        it = 0;
-    // merge two halves
-    while (left < middle && right < last) {
-        if (comp(left, right)) { // orders based on the comparator
-            temp[it++] = left++;
+// Wrapper Func
+function mergeSortRepos(og, repos) {
+    const distances = repos.map(repo => ({
+        repo,
+        distance: dis(og, repo)
+    }));
+
+    // Sorts the elements using merge
+    function mergeSort(arr, start, end) {
+        if (end - start > 1) {
+            let middle = Math.floor((start + end) / 2);
+            mergeSort(arr, start, middle);
+            mergeSort(arr, middle, end);
+            merge(arr, start, middle, end);
         }
-        else {
-            temp[it++] = right++;
+    }
+    
+    // Merge Sort
+    function merge(arr, start, middle, end) {
+        // array to store merged
+        let left = start;
+        let right = middle;
+        const temp = [];
+        // merge two halves
+        while (left < middle && right < end) {
+            if (arr[left].distance < arr[right].distance) {
+                temp.push(arr[left++]);
+                } else {
+                    temp.push(arr[right++]);
+                }
+            } 
+            // copy left side
+            while (left < middle) {
+                temp.push(arr[left++]);
+            }
+            // copy right side
+            while (right < end) {
+                temp.push(arr[right++]);
+            }
+            for (let i = 0; i < temp.length; i++) {
+                arr[start + i] = temp[i];
+            }
         }
+    
+        mergeSort(distances, 0, distances.length);
+        return distances.map(item => item.repo);
     }
-
-    // copy left over elements (left side)
-    while (left < middle) {
-        temp[it++] = left++;
-    }
-    // copy left over elements (right side)
-    while (right < last) {
-        temp[it++] = right++;
-    }
-
-    for (var i = 0; i < temp.length; i++) {
-        first[i] = temp[i];
-    }
-}
-
-// Sorts the elements using merge
-function mergeSort(first, last) {
-    if (last - first > 1) {
-        var middle = Math.floor((first + last) / 2);
-        mergeSort(first, middle, comp);
-        mergeSort(middle, last, comp);
-        merge(first, middle, last, comp);
-    }
-}
