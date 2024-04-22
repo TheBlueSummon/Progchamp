@@ -33,5 +33,1468 @@
         "name": "opencv",
         "description": "OpenCV 3 , Visual C++ 2015 , win 64x , computer vision, image processing, webcam,video,motion,frame,edge,vector  image processing with opencv 3 & c++  Find Faces , Modify Videos and Photos Automatically , Identify, Count & Measure , Realtime Augmented Reality Technology, An introduction to Image Processing, Tutorial Real-Time Object Tracking Using OpenCV, Face Features Detection System, Fast Object Tracking in C++ using OpenCV, How to install OpenCV and Create Sample Project in Visual Studio, Camera calibration With OpenCV, Chessboard or asymmetrical circle pattern, Installing OpenCV 3.2.0 with Visual Studio 2015 and configuring OpenCV project, OpenCv Stereo Vision, Machine Learning,Getting Started with Neural Network,Pattern Recognition and Application,Computer Vision Real-time Pattern Recognition using C++,Deep Neural Networks for Speech and Image Processing,Introduction to Segmentation,Deep Learning,Computer Vision & Machine Learning, Pattern Recognition, Camera Calibration, Optical Flow, Humanoid Robot, Image Processing, iOS developer, Augmented Reality, C++, Java, Matlab,   keywords: digital image processing, OpenCV C++ Computer program tutorial, augmented virtual reality (augmented reality), deep machine learning, computer vision with C++ Programming Language, JSON, machine vision, opencv stereo camera calibration, optical flow,  video analysis, Image Processing (IP) [OpenCV], Intelligent Systems, Deep Learning, Artificial Intelligence (AI)  www.tiziran.com \u067e\u0631\u062f\u0627\u0632\u0634 \u062a\u0635\u0648\u06cc\u0631 , \u0631\u0648\u0628\u0648\u062a\u06cc\u06a9 , \u0628\u0631\u0646\u0627\u0645\u0647 \u0646\u0648\u06cc\u0633\u06cc \u0645\u0648\u0628\u0627\u06cc\u0644",
         "languages": {}
+    },
+    {
+        "name": "XAMLDesignTimeSamples",
+        "description": "Sample project that demonstrates design-time data capabilities for WPF .NET Core & UWP developers added to Visual Studio 2019 in Update 16.7",
+        "languages": {
+            "C#": 9714
+        }
+    },
+    {
+        "name": "turbo-garbanzo",
+        "description": "![AppAuth for Android](https://rawgit.com/openid/AppAuth-Android/master/appauth_lockup.svg)  [![Download](https://img.shields.io/maven-central/v/net.openid/appauth)](https://search.maven.org/search?q=g:net.openid%20appauth) [![Javadocs](http://javadoc.io/badge/net.openid/appauth.svg)](http://javadoc.io/doc/net.openid/appauth) [![Build Status](https://github.com/openid/AppAuth-Android/actions/workflows/build.yml/badge.svg)](https://github.com/openid/AppAuth-Android/actions/workflows/build.yml) [![codecov.io](https://codecov.io/github/openid/AppAuth-Android/coverage.svg?branch=master)](https://codecov.io/github/openid/AppAuth-Android?branch=master)  AppAuth for Android is a client SDK for communicating with [OAuth 2.0](https://tools.ietf.org/html/rfc6749) and [OpenID Connect](http://openid.net/specs/openid-connect-core-1_0.html) providers. It strives to directly map the requests and responses of those specifications, while following the idiomatic style of the implementation language. In addition to mapping the raw protocol flows, convenience methods are available to assist with common tasks like performing an action with fresh tokens.  The library follows the best practices set out in [RFC 8252 - OAuth 2.0 for Native Apps](https://tools.ietf.org/html/rfc8252), including using [Custom Tabs](https://developer.chrome.com/multidevice/android/customtabs) for authorization requests. For this reason, `WebView` is explicitly *not* supported due to usability and security reasons.  The library also supports the [PKCE](https://tools.ietf.org/html/rfc7636) extension to OAuth which was created to secure authorization codes in public clients when custom URI scheme redirects are used. The library is friendly to other extensions (standard or otherwise) with the ability to handle additional parameters in all protocol requests and responses.  A talk providing an overview of using the library for enterprise single sign-on (produced by Google) can be found here: [Enterprise SSO with Chrome Custom Tabs](https://www.youtube.com/watch?v=DdQTXrk6YTk).  ## Download  AppAuth for Android is available on [MavenCentral](https://search.maven.org/search?q=g:net.openid%20appauth)  ```groovy implementation 'net.openid:appauth:<version>' ```  ## Requirements  AppAuth supports Android API 16 (Jellybean) and above. Browsers which provide a custom tabs implementation are preferred by the library, but not required. Both Custom URI Schemes (all supported versions of Android) and App Links (Android M / API 23+) can be used with the library.  In general, AppAuth can work with any Authorization Server (AS) that supports native apps as documented in [RFC 8252](https://tools.ietf.org/html/rfc8252), either through custom URI scheme redirects, or App Links. AS's that assume all clients are web-based or require clients to maintain confidentiality of the client secrets may not work well.  ## Demo app  A demo app is contained within this repository. For instructions on how to build and configure this app, see the [demo app readme](https://github.com/openid/AppAuth-Android/blob/master/app/README.md).  ## Conceptual overview  AppAuth encapsulates the authorization state of the user in the [net.openid.appauth.AuthState](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/AuthState.java) class, and communicates with an authorization server through the use of the [net.openid.appauth.AuthorizationService](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/AuthorizationService.java) class. AuthState is designed to be easily persistable as a JSON string, using the storage mechanism of your choice (e.g. [SharedPreferences](https://developer.android.com/training/basics/data-storage/shared-preferences.html), [sqlite](https://developer.android.com/training/basics/data-storage/databases.html), or even just [in a file](https://developer.android.com/training/basics/data-storage/files.html)).  AppAuth provides data classes which are intended to model the OAuth2 specification as closely as possible; this provides the greatest flexibility in interacting with a wide variety of OAuth2 and OpenID Connect implementations.  Authorizing the user occurs via the user's web browser, and the request is described using instances of [AuthorizationRequest](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/AuthorizationRequest.java). The request is dispatched using [performAuthorizationRequest()](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/AuthorizationService.java#L159) on an AuthorizationService instance, and the response (an [AuthorizationResponse](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/AuthorizationResponse.java) instance) will be dispatched to the activity of your choice, expressed via an Intent.  Token requests, such as obtaining a new access token using a refresh token, follow a similar pattern: [TokenRequest](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/TokenRequest.java) instances are dispatched using [performTokenRequest()](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/AuthorizationService.java#L252) on an AuthorizationService instance, and a [TokenResponse](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/TokenResponse.java) instance is returned via a callback.  Responses can be provided to the [update()](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/AuthState.java#L367) methods on AuthState in order to track and persist changes to the authorization state. Once in an authorized state, the [performActionWithFreshTokens()](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/AuthState.java#L449) method on AuthState can be used to automatically refresh access tokens as necessary before performing actions that require valid tokens.  ## Implementing the authorization code flow  It is recommended that native apps use the [authorization code](https://tools.ietf.org/html/rfc6749#section-1.3.1) flow with a public client to gain authorization to access user data. This has the primary advantage for native clients that the authorization flow, which must occur in a browser, only needs to be performed once.  This flow is effectively composed of four stages:  1. Discovering or specifying the endpoints to interact with the provider. 2. Authorizing the user, via a browser, in order to obtain an authorization    code. 3. Exchanging the authorization code with the authorization server, to obtain    a refresh token and/or ID token. 4. Using access tokens derived from the refresh token to interact with a    resource server for further access to user data.  At each step of the process, an AuthState instance can (optionally) be updated with the result to help with tracking the state of the flow.  ### Authorization service configuration  First, AppAuth must be instructed how to interact with the authorization service. This can be done either by directly creating an [AuthorizationServiceConfiguration](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/AuthorizationServiceConfiguration.java#L102) instance, or by retrieving an OpenID Connect discovery document.  Directly specifying an AuthorizationServiceConfiguration involves providing the URIs of the authorization endpoint and token endpoint, and optionally a dynamic client registration endpoint (see \"Dynamic client registration\" for more info):  ```java AuthorizationServiceConfiguration serviceConfig =     new AuthorizationServiceConfiguration(         Uri.parse(\"https://idp.example.com/auth\"), // authorization endpoint         Uri.parse(\"https://idp.example.com/token\")); // token endpoint ```  Where available, using an OpenID Connect discovery document is preferable:  ```java AuthorizationServiceConfiguration.fetchFromIssuer(     Uri.parse(\"https://idp.example.com\"),     new AuthorizationServiceConfiguration.RetrieveConfigurationCallback() {       public void onFetchConfigurationCompleted(           @Nullable AuthorizationServiceConfiguration serviceConfiguration,           @Nullable AuthorizationException ex) {         if (ex != null) {           Log.e(TAG, \"failed to fetch configuration\");           return;         }          // use serviceConfiguration as needed     } }); ```  This will attempt to download a discovery document from the standard location under this base URI, `https://idp.example.com/.well-known/openid-configuration`. If the discovery document for your IDP is in some other non-standard location, you can instead provide the full URI as follows:  ```java AuthorizationServiceConfiguration.fetchFromUrl(     Uri.parse(\"https://idp.example.com/exampletenant/openid-config\"),     new AuthorizationServiceConfiguration.RetrieveConfigurationCallback() {         ...     } }); ```  If desired, this configuration can be used to seed an AuthState instance, to persist the configuration easily:  ```java AuthState authState = new AuthState(serviceConfig); ```  ### Obtaining an authorization code  An authorization code can now be acquired by constructing an AuthorizationRequest, using its Builder. In AppAuth, the builders for each data class accept the mandatory parameters via the builder constructor:  ```java AuthorizationRequest.Builder authRequestBuilder =     new AuthorizationRequest.Builder(         serviceConfig, // the authorization service configuration         MY_CLIENT_ID, // the client ID, typically pre-registered and static         ResponseTypeValues.CODE, // the response_type value: we want a code         MY_REDIRECT_URI); // the redirect URI to which the auth response is sent ```  Other optional parameters, such as the OAuth2 [scope string](https://tools.ietf.org/html/rfc6749#section-3.3) or OpenID Connect [login hint](http://openid.net/specs/openid-connect-core-1_0.html#rfc.section.3.1.2.1) are specified through set methods on the builder:  ```java AuthorizationRequest authRequest = authRequestBuilder     .setScope(\"openid email profile https://idp.example.com/custom-scope\")     .setLoginHint(\"jdoe@user.example.com\")     .build(); ```  This request can then be dispatched using one of two approaches.  a `startActivityForResult` call using an Intent returned from the `AuthorizationService`, or by calling `performAuthorizationRequest` and providing pending intent for completion and cancelation handling activities.  The `startActivityForResult` approach is simpler to use but may require more processing of the result:  ```java private void doAuthorization() {   AuthorizationService authService = new AuthorizationService(this);   Intent authIntent = authService.getAuthorizationRequestIntent(authRequest);   startActivityForResult(authIntent, RC_AUTH); }  @Override protected void onActivityResult(int requestCode, int resultCode, Intent data) {   if (requestCode == RC_AUTH) {     AuthorizationResponse resp = AuthorizationResponse.fromIntent(data);     AuthorizationException ex = AuthorizationException.fromIntent(data);     // ... process the response or exception ...   } else {     // ...   } } ```  If instead you wish to directly transition to another activity on completion or cancelation, you can use `performAuthorizationRequest`:  ```java AuthorizationService authService = new AuthorizationService(this);  authService.performAuthorizationRequest(     authRequest,     PendingIntent.getActivity(this, 0, new Intent(this, MyAuthCompleteActivity.class), 0),     PendingIntent.getActivity(this, 0, new Intent(this, MyAuthCanceledActivity.class), 0)); ```  The intents may be customized to carry any additional data or flags required for the correct handling of the authorization response.  #### Capturing the authorization redirect  Once the authorization flow is completed in the browser, the authorization service will redirect to a URI specified as part of the authorization request, providing the response via query parameters. In order for your app to capture this response, it must register with the Android OS as a handler for this redirect URI.  We recommend using a custom scheme based redirect URI (i.e. those of form `my.scheme:/path`), as this is the most widely supported across all versions of Android. To avoid conflicts with other apps, it is recommended to configure a  distinct scheme using \"reverse domain name notation\". This can either match your service web domain (in reverse) e.g. `com.example.service` or your package name `com.example.app` or be something completely new as long as it's distinct enough. Using the package name of your app is quite common but it's not always possible if it contains illegal characters for URI schemes (like underscores) or if you already have another handler for that scheme - so just use something else.  When a custom scheme is used, AppAuth can be easily configured to capture all redirects using this custom scheme through a manifest placeholder:  ```groovy android.defaultConfig.manifestPlaceholders = [   'appAuthRedirectScheme': 'com.example.app' ] ```  Alternatively, the redirect URI can be directly configured by adding an intent-filter for AppAuth's RedirectUriReceiverActivity to your AndroidManifest.xml:  ```xml <activity         android:name=\"net.openid.appauth.RedirectUriReceiverActivity\"         tools:node=\"replace\">     <intent-filter>         <action android:name=\"android.intent.action.VIEW\"/>         <category android:name=\"android.intent.category.DEFAULT\"/>         <category android:name=\"android.intent.category.BROWSABLE\"/>         <data android:scheme=\"com.example.app\"/>     </intent-filter> </activity> ```  If an HTTPS redirect URI is required instead of a custom scheme, the same approach (modifying your AndroidManifest.xml) is used:  ```xml <activity         android:name=\"net.openid.appauth.RedirectUriReceiverActivity\"         tools:node=\"replace\">     <intent-filter>         <action android:name=\"android.intent.action.VIEW\"/>         <category android:name=\"android.intent.category.DEFAULT\"/>         <category android:name=\"android.intent.category.BROWSABLE\"/>         <data android:scheme=\"https\"               android:host=\"app.example.com\"               android:path=\"/oauth2redirect\"/>     </intent-filter> </activity> ```  HTTPS redirects can be secured by configuring the redirect URI as an [app link](https://developer.android.com/training/app-links/index.html) in Android M and above. We recommend that a fallback page be configured at the same address to forward authorization responses to your app via a custom scheme, for older Android devices.  #### Handling the authorization response  Upon completion of the authorization flow, the completion Intent provided to performAuthorizationRequest will be triggered. The authorization response is provided to this activity via Intent extra data, which can be extracted using the `fromIntent()` methods on AuthorizationResponse and AuthorizationException respectively:  ```java public void onCreate(Bundle b) {   AuthorizationResponse resp = AuthorizationResponse.fromIntent(getIntent());   AuthorizationException ex = AuthorizationException.fromIntent(getIntent());   if (resp != null) {     // authorization completed   } else {     // authorization failed, check ex for more details   }   // ... } ```  The response can be provided to the AuthState instance for easy persistence and further processing:  ``` authState.update(resp, ex); ```  If the full redirect URI is required in order to extract additional information that AppAuth does not provide, this is also provided to your activity:  ```java public void onCreate(Bundle b) {   // ...   Uri redirectUri = getIntent().getData();   // ... } ```  ### Exchanging the authorization code  Given a successful authorization response carrying an authorization code, a token request can be made to exchange the code for a refresh token:  ```java authService.performTokenRequest(     resp.createTokenExchangeRequest(),     new AuthorizationService.TokenResponseCallback() {       @Override public void onTokenRequestCompleted(             TokenResponse resp, AuthorizationException ex) {           if (resp != null) {             // exchange succeeded           } else {             // authorization failed, check ex for more details           }         }     }); ```  The token response can also be used to update an AuthState instance:  ```java authState.update(resp, ex); ```  ### Using access tokens  Finally, the retrieved access token can be used to interact with a resource server. This can be done directly, by extracting the access token from a token response. However, in most cases, it is simpler to use the `performActionWithFreshTokens` utility method provided by AuthState:  ```java authState.performActionWithFreshTokens(service, new AuthStateAction() {   @Override public void execute(       String accessToken,       String idToken,       AuthorizationException ex) {     if (ex != null) {       // negotiation for fresh tokens failed, check ex for more details       return;     }      // use the access token to do something ...   } }); ```  This also updates the AuthState object with current access, id, and refresh tokens. If you are storing your AuthState in persistent storage, you should write the updated copy in the callback to this method.  ### Ending current session  Given you have a logged in session and you want to end it. In that case you need to get: - `AuthorizationServiceConfiguration` - valid Open Id Token that you should get after authentication - End of session URI that should be provided within you OpenId service config  First you have to build EndSessionRequest  ```java EndSessionRequest endSessionRequest =     new EndSessionRequest.Builder(authorizationServiceConfiguration)         .setIdTokenHint(idToken)         .setPostLogoutRedirectUri(endSessionRedirectUri)         .build(); ``` This request can then be dispatched using one of two approaches.  a `startActivityForResult` call using an Intent returned from the `AuthorizationService`, or by calling `performEndSessionRequest` and providing pending intent for completion and cancelation handling activities.  The startActivityForResult approach is simpler to use but may require more processing of the result:  ```java private void endSession() {   AuthorizationService authService = new AuthorizationService(this);   Intent endSessionItent = authService.getEndSessionRequestIntent(endSessionRequest);   startActivityForResult(endSessionItent, RC_END_SESSION); }  @Override protected void onActivityResult(int requestCode, int resultCode, Intent data) {   if (requestCode == RC_END_SESSION) {     EndSessionResonse resp = EndSessionResonse.fromIntent(data);     AuthorizationException ex = AuthorizationException.fromIntent(data);     // ... process the response or exception ...   } else {     // ...   } } ``` If instead you wish to directly transition to another activity on completion or cancelation, you can use `performEndSessionRequest`:  ```java AuthorizationService authService = new AuthorizationService(this);  authService.performEndSessionRequest(     endSessionRequest,     PendingIntent.getActivity(this, 0, new Intent(this, MyAuthCompleteActivity.class), 0),     PendingIntent.getActivity(this, 0, new Intent(this, MyAuthCanceledActivity.class), 0)); ```  End session flow will also work involving browser mechanism that is described in authorization mechanism session. Handling response mechanism with transition to another activity should be as follows:   ```java public void onCreate(Bundle b) {   EndSessionResponse resp = EndSessionResponse.fromIntent(getIntent());   AuthorizationException ex = AuthorizationException.fromIntent(getIntent());   if (resp != null) {     // authorization completed   } else {     // authorization failed, check ex for more details   }   // ... } ```  ### AuthState persistence  Instances of `AuthState` keep track of the authorization and token requests and responses. This is the only object that you need to persist to retain the authorization state of the session. Typically, one would do this by storing the authorization state in SharedPreferences or some other persistent store private to the app:  ```java @NonNull public AuthState readAuthState() {   SharedPreferences authPrefs = getSharedPreferences(\"auth\", MODE_PRIVATE);   String stateJson = authPrefs.getString(\"stateJson\", null);   if (stateJson != null) {     return AuthState.jsonDeserialize(stateJson);   } else {     return new AuthState();   } }  public void writeAuthState(@NonNull AuthState state) {   SharedPreferences authPrefs = getSharedPreferences(\"auth\", MODE_PRIVATE);   authPrefs.edit()       .putString(\"stateJson\", state.jsonSerializeString())       .apply(); } ```  The demo app has an [AuthStateManager](https://github.com/openid/AppAuth-Android/blob/master/app/java/net/openid/appauthdemo/AuthStateManager.java) type which demonstrates this in more detail.  ## Advanced configuration  AppAuth provides some advanced configuration options via [AppAuthConfiguration](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/AppAuthConfiguration.java) instances, which can be provided to [AuthorizationService](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/AuthorizationService.java) during construction.  ### Controlling which browser is used for authorization  Some applications require explicit control over which browsers can be used for authorization - for example, to require that Chrome be used for second factor authentication to work, or require that some custom browser is used for authentication in an enterprise environment.  Control over which browsers can be used can be achieved by defining a [BrowserMatcher](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/browser/BrowserMatcher.java), and supplying this to the builder of AppAuthConfiguration. A BrowserMatcher is suppled with a [BrowserDescriptor](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/browser/BrowserDescriptor.java) instance, and must decide whether this browser is permitted for the authorization flow.  By default, [AnyBrowserMatcher](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/browser/AnyBrowserMatcher.java) is used.  For your convenience, utility classes to help define a browser matcher are provided, such as:  - [Browsers](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/browser/Browsers.java):   contains a set of constants for the official package names and signatures   of Chrome, Firefox and Samsung SBrowser. - [VersionedBrowserMatcher](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/browser/VersionedBrowserMatcher.java):   will match a browser if it has a matching package name and signature, and   a version number within a defined   [VersionRange](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/browser/VersionRange.java). This class also provides some static instances for matching   Chrome, Firefox and Samsung SBrowser. - [BrowserAllowList](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/browser/BrowserAllowList.java):   takes a list of BrowserMatcher instances, and will match a browser if any   of these child BrowserMatcher instances signals a match. - [BrowserDenyList](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/browser/BrowserDenyList.java):   the inverse of BrowserAllowList - takes a list of browser matcher instances,   and will match a browser if it _does not_ match any of these child   BrowserMatcher instances.  For instance, in order to restrict the authorization flow to using Chrome or SBrowser as a custom tab:  ```java AppAuthConfiguration appAuthConfig = new AppAuthConfiguration.Builder()     .setBrowserMatcher(new BrowserAllowList(         VersionedBrowserMatcher.CHROME_CUSTOM_TAB,         VersionedBrowserMatcher.SAMSUNG_CUSTOM_TAB))     .build(); AuthorizationService authService =         new AuthorizationService(context, appAuthConfig); ```  Or, to prevent the use of a buggy version of the custom tabs in Samsung SBrowser:  ```java AppAuthConfiguration appAuthConfig = new AppAuthConfiguration.Builder()     .setBrowserMatcher(new BrowserDenyList(         new VersionedBrowserMatcher(             Browsers.SBrowser.PACKAGE_NAME,             Browsers.SBrowser.SIGNATURE_SET,             true, // when this browser is used via a custom tab             VersionRange.atMost(\"5.3\")         )))     .build(); AuthorizationService authService =         new AuthorizationService(context, appAuthConfig); ```  ### Customizing the connection builder for HTTP requests  It can be desirable to customize how HTTP connections are made when performing token requests, for instance to use [certificate pinning](https://www.owasp.org/index.php/Certificate_and_Public_Key_Pinning) or to add additional trusted certificate authorities for an enterprise environment. This can be achieved in AppAuth by providing a custom [ConnectionBuilder](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/connectivity/ConnectionBuilder.java) instance.  For example, to custom the SSL socket factory used, one could do the following:  ```java AppAuthConfiguration appAuthConfig = new AppAuthConfiguration.Builder()     .setConnectionBuilder(new ConnectionBuilder() {       public HttpURLConnection openConnect(Uri uri) throws IOException {         URL url = new URL(uri.toString());         HttpURLConnection connection =             (HttpURLConnection) url.openConnection();         if (connection instanceof HttpsUrlConnection) {           HttpsURLConnection connection = (HttpsURLConnection) connection;           connection.setSSLSocketFactory(MySocketFactory.getInstance());         }       }     })     .build(); ```  ### Issues with [ID Token](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/IdToken.java#L118) validation  ID Token validation was introduced in `0.8.0` but not all authorization servers or configurations support it correctly.  - For testing environments [setSkipIssuerHttpsCheck](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/AppAuthConfiguration.java#L129) can be used to bypass the fact the issuer needs to be HTTPS.  ```java AppAuthConfiguration appAuthConfig = new AppAuthConfiguration.Builder()     .setSkipIssuerHttpsCheck(true)     .build() ```  - For services that don't support nonce[s] resulting in **IdTokenException** `Nonce mismatch` just set nonce to `null` on the `AuthorizationRequest`. Please consider **raising an issue** with your Identity Provider and removing this once it is fixed.  ```java AuthorizationRequest authRequest = authRequestBuilder     .setNonce(null)     .build(); ```  ## Dynamic client registration  AppAuth supports the [OAuth2 dynamic client registration protocol](https://tools.ietf.org/html/rfc7591). In order to dynamically register a client, create a [RegistrationRequest](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/RegistrationRequest.java) and dispatch it using [performRegistrationRequest](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/AuthorizationService.java#L278) on your AuthorizationService instance.  The registration endpoint can either be defined directly as part of your [AuthorizationServiceConfiguration](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/AuthorizationServiceConfiguration.java), or discovered from an OpenID Connect discovery document.  ```java RegistrationRequest registrationRequest = new RegistrationRequest.Builder(     serviceConfig,     Arrays.asList(redirectUri))     .build(); ```  Requests are dispatched with the help of `AuthorizationService`. As this request is asynchronous the response is passed to a callback:  ```java service.performRegistrationRequest(     registrationRequest,     new AuthorizationService.RegistrationResponseCallback() {         @Override public void onRegistrationRequestCompleted(             @Nullable RegistrationResponse resp,             @Nullable AuthorizationException ex) {             if (resp != null) {                 // registration succeeded, store the registration response                 AuthState state = new AuthState(resp);                 //proceed to authorization...             } else {               // registration failed, check ex for more details             }          }     }); ```  ## Utilizing client secrets (DANGEROUS)  We _strongly recommend_ you avoid using static client secrets in your native applications whenever possible. Client secrets derived via a dynamic client registration are safe to use, but static client secrets can be easily extracted from your apps and allow others to impersonate your app and steal user data. If client secrets must be used by the OAuth2 provider you are integrating with, we strongly recommend performing the code exchange step on your backend, where the client secret can be kept hidden.  Having said this, in some cases using client secrets is unavoidable. In these cases, a [ClientAuthentication](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/ClientAuthentication.java) instance can be provided to AppAuth when performing a token request. This allows additional parameters (both HTTP headers and request body parameters) to be added to token requests. Two standard implementations of ClientAuthentication are provided:  - [ClientSecretBasic](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/ClientSecretBasic.java):   includes a client ID and client secret as an HTTP Basic Authorization header. - [ClientSecretPost](https://github.com/openid/AppAuth-Android/blob/master/library/java/net/openid/appauth/ClientSecretPost.java):   includes a client ID and client secret as additional request parameters.  So, in order to send a token request using HTTP basic authorization, one would write:  ```java ClientAuthentication clientAuth = new ClientSecretBasic(MY_CLIENT_SECRET); TokenRequest req = ...; authService.performTokenRequest(req, clientAuth, callback); ```  This can also be done when using `performActionWithFreshTokens` on AuthState:  ```java ClientAuthentication clientAuth = new ClientSecretPost(MY_CLIENT_SECRET); authState.performActionWithFreshTokens(     authService,     clientAuth,     action); ```  ## Modifying or contributing to AppAuth  This project requires the Android SDK for API level 25 (Nougat) to build, though the produced binaries only require API level 16 (Jellybean) to be used. We recommend that you fork and/or clone this repository to make modifications; downloading the source has been known to cause some developers problems.  For contributors, see the additional instructions in [CONTRIBUTING.md](https://github.com/openid/AppAuth-Android/blob/master/CONTRIBUTING.md).  ### Building from the Command line  AppAuth for Android uses Gradle as its build system. In order to build the library and app binaries, run `./gradlew assemble`. The library AAR files are output to `library/build/outputs/aar`, while the demo app is output to `app/build/outputs/apk`. In order to run the tests and code analysis, run `./gradlew check`.  ### Building from Android Studio  In AndroidStudio, File -> New -> Import project. Select the root folder (the one with the `build.gradle` file).",
+        "languages": {}
+    },
+    {
+        "name": "EasyTracker-NavsinghStudio",
+        "description": "An Attendance System powered with QR code scanning system for replacing standard attendance systems in Colleges, Institutes and Companies. The student can use Smartphone app to log his attendance easily without worrying about the fob/student card. All this data is stored at central database, so that college authorities/manager can login into the admin panel and can access all the data with graphs and stats. Team Project: I lead the project with a team of 4 software developers.",
+        "languages": {
+            "Java": 22264
+        }
+    },
+    {
+        "name": "Aeon",
+        "description": "About: AEON was launched on 6.6.2014 at 6:00 PM UTC, with no premine or instamine. AEON is for people who want to pay and live freely, who want to be part of the cryptocurrency revolution and want to try something new. It is based on the CryptoNote protocol and uses the CryptoNight-Lite[1] algorithm, and features: - True anonymity & data protection - Untraceable payments uses ring signature - Unlinkable transactions with random data by the sender - Blockchain analysis resistant - CPU/GPU mining, ASIC-resistant   Roadmap April 26, 2015 - new roadmap announced Mobile-friendly PoW and block time (released) GUI wallet (in progress) 32-bit and ARM support (released, but requires low memory footprint below) Low memory footprint (in progress) Signature trimming  Blockchain pruning (test release available) Multisig and payment channels (instant payments)   Development Team: Lead developer: smooth Release engineering, Q/A, support: Arux Other roles: open (PM smooth) Original developer (as Monero fork): anonymous   Bounties: None currently open. You can send donations for the AEON bounty fund and development. Code: AEON address: WmsSWgtT1JPg5e3cK41hKXSHVpKW7e47bjgiKmWZkYrhSS5LhRemNyqayaSBtAQ6517eo5PtH9wxHVmM78JDZSUu2W8PqRiNs View Key: 71bf19a7348ede17fa487167710dac401ef1556851bfd36b76040facf051630b   Specifications: PoW algorithm: CryptoNight-Lite[1] Max supply: ~18.4 million[2] Block reward: Smoothly varying using the formula (M\u2212A) / (218) / (1012) where M = 264 \u22121 and A = supply mined to date.[3] Block time: 240 seconds[3] Difficulty: Retargets at every block RPC-bind-port: 11180 P2P-bind-port: 11181   Downloads: Current release 0.9.6.0 (source code, 64 bit Windows binaries) bootstrap for linux-x64 (by community member Phantas 2016-03-10) bootstrap for Windows-x64 (by community member Phantas 2016-03-11) bootstrap for OS X (by community member sammy007 2015-08-08) GUI for Windows 0.2.3 (by community member h0g0f0g0, src.zip, sha1) Instructions to compile on Windows (provided by community member cryptrol): see bottom of this post Recommended: Use caution with community-provided downloads, check reputation and scan for malware Recommended: Use the --donate option when starting the daemon to donate a portion of your computer power to support the project and the network   Links & Resources: Trading:  - Bittrex - AEON/BTC  - Cryptopia - AEON/BTC (also has DOGE and LTC pairs)  - OTC thread - AEON/XMR  - Speculation thread (moderated by americanpegasus) Pools:  - http://52.8.47.33:8080 - Arux's personal pool (2% fee)  - http://98.238.231.31:9000 - The Cryptophilanthropist (2% fee) Block Explorers:  - Chainradar  - Minergate Community:  - Reddit  - Steem  - Twitter  - IRC channel #aeon @ Freenode (Webchat Link) Dead Links / Outdated: cryptocointalk white paper   Mining: 1. Compile from source code. 2. Launch aeond and wait until it is synchronized. 3. Launch simplewallet --generate-new-wallet=wallet_name.bin --pass=12345 4. Start mining from the wallet using start_mining command   Windows Compilation: (provided by community member cryptrol) Compile steps for Windows x64 using MSVC First of all let's get all the tools we need : - Download and install Microsoft Visual Studio Community 2013 (It's a free version of visual studio with some license limitations).   You can uncheck the web development tools and SQL tools since you won't use them for building AEON.   This will take time to download and install and you will have to reboot upon completion. - Download and install cMake for windows from : http://www.cmake.org/download/ (Win32 install) - Download Boost 1.57 from http://www.boost.org/users/download/ , use the zip or 7zip archive and extract.   You can use c:\\boost_1_57_0 since this is what I am using for this steps. - Download and install Github for Windows from https://windows.github.com/ (This also includes a Git shell that we will use later).  Now the nasty part compile & build time ! - Build Boost :   Open a command line and type : Code:  > cd c:\\boost_1_57_0   > bootstrap.bat   > b2 --toolset=msvc variant=release link=static threading=multi runtime-link=static address-model=64 - Open the Git Shell (or Git bash) depending what you downloaded previously and do. Code:  > git clone https://github.com/aeonix/aeon.git   > cd aeon   > mkdir build   > cd build   > cmake -G \"Visual Studio 12 Win64\" -DBOOST_ROOT=c:\\boost_1_57_0 -DBOOST_LIBRARYDIR=c:\\boost_1_57_0\\stage\\lib ..   > MSBuild Project.sln /p:Configuration=release /m    You should now find the exe files under build/src/release . Aeon isn't a cryptocurrency. It's a lifestyle. It's about polished perfection, attained by breaking the rules with calculated mastery of the art. It's about respecting history and pushing innovation forward at the same time. It's about more than just math: it's a vision of a world where luxury is the same as entry-level, and the limits are the heavens themselves. If you're just buying Aeon to get rich, don't even bother. Aeon needs more than just the next wave of crypto speculators: we're looking for the truly elite. But if you think you have what it takes to redefine global finance and discover new magnitudes of wealth in the process... Well, Aeon is ready for you. Are you ready for Aeon? ",
+        "languages": {}
+    },
+    {
+        "name": "QAssist",
+        "description": "Q Assist is an android studio plugin which can be used for making things easy for Android developers. Currently this plugin supports integrating olde version of Retrofit library to Android projects. ",
+        "languages": {
+            "Java": 217553
+        }
+    },
+    {
+        "name": "FortranVS",
+        "description": "FortranVS is an extension for Visual Studio that adds syntax highlighting, project files, and build tools for Fortran. Let's face it, Fortran is not going away anytime soon, so having the ability to use Fortran in Visual Studio would be immensely helpful for developers developing Fortran code in Visual Studio (that are not pay to play like Intel Fortran).",
+        "languages": {
+            "HTML": 3527,
+            "C#": 2067,
+            "CSS": 1868
+        }
+    },
+    {
+        "name": "Data-Journalism-Developer-Studio",
+        "description": "The Data Journalism Developer Studio is a 100% open source Linux\u2122-based appliance designed for data journalism developers. It can be run as a desktop or a server and is designed for development of data journalism desktop and server applications.  It is the successor to three previous appliances: the Social Media Analytics Research Toolkit (SMART@znmeb), Code Like A Pirate, and Project Kipling Real-Time Data Journalism Tools.",
+        "languages": {}
+    },
+    {
+        "name": "x264c64",
+        "description": "x264c64 is a fork of the x264 project that targets TI's TMS320C6400 family DSPs and Code Composer Studio IDE. SIMD routines are chosen to be implemented using compiler intrinsics instead of linear assembly for convenience to C developers.",
+        "languages": {
+            "C": 1417755,
+            "Perl": 9633,
+            "Shell": 720
+        }
+    },
+    {
+        "name": "vscode-project-initializer",
+        "description": "Red Hat Developer Launcher Visual Studio Code Extension",
+        "languages": {
+            "TypeScript": 47983
+        }
+    },
+    {
+        "name": "Project-Studio",
+        "description": "Project Studio: The ultimate project management and developer collaboration tool for streamlining workflows, enhancing team productivity, and delivering outstanding results. Manage tasks, track code changes, and communicate seamlessly with your team, all in one place.",
+        "languages": {
+            "JavaScript": 267430,
+            "CSS": 2393
+        }
+    },
+    {
+        "name": "libdvdnav",
+        "description": "Unofficial LibDVDNav with added custom native Visual Studio project build tools. LibDVDNav: libdvdnav is a library for developers of multimedia applications. It allows easy use of sophisticated DVD navigation features such as DVD menus, multiangle playback and even interactive DVD games.",
+        "languages": {
+            "C": 339800,
+            "M4": 13563,
+            "Batchfile": 9597,
+            "Makefile": 1461
+        }
+    },
+    {
+        "name": "wso2-projects-creator",
+        "description": "Tool to create wso2 developer studio projects quickly",
+        "languages": {
+            "FreeMarker": 23882,
+            "Java": 22815
+        }
+    },
+    {
+        "name": "UnityVisualStudioSolutionGenerator",
+        "description": "Visual Studio Solution Generator for Unity to improve developer productivity when working with multi-package unity projects",
+        "languages": {
+            "C#": 132827,
+            "Python": 4038,
+            "PowerShell": 2566
+        }
+    },
+    {
+        "name": "babylonjs-snippets",
+        "description": "Snippet plugin for developing and prototyping 3D/VR/XR Babylon.js projects in Visual Studio Code. Allows developers to quickly develop a 3D scene in a similar manner to the official Babylon.js playground.",
+        "languages": {}
+    },
+    {
+        "name": "islamic-adkar-api",
+        "description": "Islamic Adkar API is an innovative project designed to provide developers and creators with structured access to Islamic supplications (Adkar). Developed by Wick Studio, this API is ideal for integrating into Islamic apps, websites, and other digital platforms, enhancing the spiritual experience of users.",
+        "languages": {
+            "CSS": 6663,
+            "HTML": 4382,
+            "JavaScript": 2491
+        }
+    },
+    {
+        "name": "KrishnaKumar2002",
+        "description": "### Hi there, I'm Krishna Kumar \ud83d\udc4b  [![Twitter Follow](https://img.shields.io/twitter/follow/krishnakumar_m_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/krishnakumar_m_) ## I'm a Learner and Developer!! - \ud83c\udf31 I\u2019m currently learning everything \ud83e\udd23 - \ud83d\udc6f I\u2019m looking to collaborate with other content creators - \ud83e\udd45 2021 Goals: Contribute more to Open Source projects - \u26a1 Fun fact: I love to read articles and cycling ### Connect with me: [<img align=\"left\" alt=\"codeSTACKr | YouTube\" width=\"22px\" src=\"https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg\" />][youtube] [<img align=\"left\" alt=\"codeSTACKr | Twitter\" width=\"22px\" src=\"https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg\" />][twitter] [<img align=\"left\" alt=\"codeSTACKr | LinkedIn\" width=\"22px\" src=\"https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg\" />][linkedin] [<img align=\"left\" alt=\"codeSTACKr | Instagram\" width=\"22px\" src=\"https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg\" />][instagram] <br /> ### Languages and Tools: <!--[<img align=\"left\" alt=\"Visual Studio Code\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png\" />][webdevplaylist]--> [<img align=\"left\" alt=\"HTML5\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png\" />][github] [<img align=\"left\" alt=\"CSS3\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png\" />][github] <!--[<img align=\"left\" alt=\"Sass\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png\" />][cssplaylist]--> [<img align=\"left\" alt=\"JavaScript\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png\" />][github] <!--[<img align=\"left\" alt=\"React\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png\" />][reactplaylist] [<img align=\"left\" alt=\"Gatsby\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png\" />][webdevplaylist] [<img align=\"left\" alt=\"GraphQL\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png\" />][webdevplaylist] [<img align=\"left\" alt=\"Node.js\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png\" />][webdevplaylist] [<img align=\"left\" alt=\"Deno\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png\" />][webdevplaylist]--> [<img align=\"left\" alt=\"SQL\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png\" />][github] [<img align=\"left\" alt=\"MySQL\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png\" />][github] <!--[<img align=\"left\" alt=\"MongoDB\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png\" />][webdevplaylist]--> <!--[<img align=\"left\" alt=\"Git\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png\" />][webdevplaylist] [<img align=\"left\" alt=\"GitHub\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png\" />][webdevplaylist] [<img align=\"left\" alt=\"Terminal\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png\" />][webdevplaylist]--> <br /> <br /> <!--     --- ### \ud83d\udcfa Latest YouTube Videos  <!-- YOUTUBE:START --> <!--  - [Simple Next.js User Login Authentication | 5 Steps in 5 Minutes! | Auth0](https://www.youtube.com/watch?v=jgKRnhJBfpQ) - [STACKr News Weekly: Hacktoberfest \ud83d\udc31\u200d\ud83d\udcbb, Web Scrapping \ud83d\udd0e, & MongoDB \ud83d\udcaa](https://www.youtube.com/watch?v=T9JmMNEgpZE) - [Animations in Vue.js // Callum Macrae Vue.js Live Conference Interview](https://www.youtube.com/watch?v=O2gUILIIYxw) - [Beyond State Management with Pinia // Eduardo Morote Vue.js Live Conference Interview](https://www.youtube.com/watch?v=BNGAvhCISOw) - [Local State & Server Cache: Finding a Balance // Natalia Tepluhina Vue.js Live Conference Interview](https://www.youtube.com/watch?v=mtN2bJ60B-4) - [Options API vs Composition API // Ben Hong Vue.js Live Conference Interview](https://www.youtube.com/watch?v=Sg0HdrcG8pU) <!-- YOUTUBE:END --> <!-- \u27a1\ufe0f [more videos...](https://youtube.com/codestackr) -->  --- [![Krishna Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnaKumar2002)](https://github.com/KrishnaKumar2002/github-readme-stats)  <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKumar2002&repo=github-readme-stats)](https://github.com/KrishnaKumar2002/github-readme-stats) -->  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaKumar2002&layout=compact)](https://github.com/KrishnaKumar2002/github-readme-stats)  <!-- [![Krishna Kumar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KrishnaKumar2002)](https://github.com/KrishnaKumar2002/github-readme-stats) -->    [youtube]: https://www.youtube.com/channel/UC97edBd_Z83NnLw36gKHeEQ [twitter]: https://twitter.com/krishnakumar_m_ [linkedin]: https://www.linkedin.com/in/krishna-kumar-m [instagram]: https://www.instagram.com/krishna_kumar._._/ [github]: https://github.com/KrishnaKumar2002",
+        "languages": {}
+    },
+    {
+        "name": "gm-developer-console",
+        "description": "Add a handy developer console to your GameMaker: Studio projects.",
+        "languages": {
+            "Game Maker Language": 5321
+        }
+    },
+    {
+        "name": "black-horse-project",
+        "description": "Indie Software Developer Studio, Ride in the Black Horse!",
+        "languages": {}
+    },
+    {
+        "name": "Language-Translation",
+        "description": "Language translation project to allow visual studio developers to globalize their software.",
+        "languages": {
+            "C#": 93731
+        }
+    },
+    {
+        "name": "DebuggableWindowsService",
+        "description": "Based on the standard Visual Studio 2013 Windows Service project, developers can utilize this project to debug the Windows Service in multiple ways: a) a thin debuggable console app wrapper that can be launched directly from Visual Studio, or b) a command line argument that can be passed into the service directly to debug the service as a Windows Service (native).",
+        "languages": {
+            "C#": 18880
+        }
+    },
+    {
+        "name": "vsix-compress",
+        "description": "When you build your VSIX in Visual Studio (or the command line) when the .vsix file is produced it is not fully compressed. This project will enable VSIX developers to create fully compressed .vsix files with a NuGet package.",
+        "languages": {
+            "Shell": 187
+        }
+    },
+    {
+        "name": "JahidHasanCo",
+        "description": "I'm an Android Developer, Studied at Daffodil International University in Computer Science. My day-to-day work is building android studio projects. It revolves around building Machine Learning models for various interesting problems and deploying them to production at scale.",
+        "languages": {}
+    },
+    {
+        "name": "QRCodeGen",
+        "description": " QRCodeGen is the final project for the Code Louisville May 2022 Software Developer course 1 cohort. It is an Azure Function that runs locally and has been tested on a machine installed with Windows (64-bit) using Visual Studio Code.",
+        "languages": {
+            "HTML": 445634,
+            "C#": 10335
+        }
+    },
+    {
+        "name": "Eml.Mediator",
+        "description": "IoC/DI compatible. Small size. Has own Visual Studio Addin for easy use. Capture Business-use-cases and convert it into a modular, highly testable chunk of codes. One step closer to dissecting & migrating monolithic apps. Provides a common ground for projects with large number of developers. A combination of Command, Request-Response, Mediator and Abstract Class Factory pattern. Now supports .Net5.",
+        "languages": {
+            "C#": 52263
+        }
+    },
+    {
+        "name": "finalProject",
+        "description": "1. Generally, StudentMarks is a mobile application that created for lecturer to easily update their students marks and other details. This application was developed using android studio and SQLite as the database to store the data key in by the lectures.  2. This application have several functionality like ADD, DELETE, MODIFY, VIEW  and VIEW ALL or list.  - ADD  First, lecturer can use add function to add the student's data.   -DELETE If there is any unused data in database, user can delete it by enter the metric number and choose delete button.  -MODIFY  As the data was added incorrectly, the user can modify and update the new data that originally stored in that database.  -VIEW  In order to search any details of certain student, user can use the this function as they need to enter the metric number and touch the view button, the student name and marks will be automated viewed on the screen.  -VIEW ALL User can list out all the student's data that already stored in database.  3. Setup the development environment  Firstly, this StudentMark Application were build using Android Studio with the SDK Platform Android 8.1 (Oreo) with the API level 27, the SDK developer tools involved are Android SDK Build-Tools -rc2, Android Emulator version 27.1.10, Android SDK Platform -Tools, Android SDK Tools, Intel x86 Emulator Accelerator and Support Repository which contain Constraint Layout for Android, Solve for ConstraintLayout, Android Support Repository and Google Repository.  For the require library involved are :- apache-httpcomponents-httclient.jar , apache-httpcomponents-httpcore.jar , commons-logging-1.2.jar java-json.jar ",
+        "languages": {
+            "Java": 35706
+        }
+    },
+    {
+        "name": "XFileMesh",
+        "description": "Microsoft's XFile is just a legacy for most developers, historical one, but when I tried to render it in directx11, I couldn't find the way to render it with modern directx, so I wrote the full-scratched code to read the file and render it. I think this is useless for most developers, but if you need it, this might help you. This project was built with visual studio 2012 and Windows Kit 8.0.",
+        "languages": {
+            "C++": 640701,
+            "RPC": 107037,
+            "HLSL": 15954,
+            "C": 6474,
+            "FLUX": 2374
+        }
+    },
+    {
+        "name": "IMCC_DevOps",
+        "description": "SMS.FinalProject This School Management System of Iligan Medical Center College, Iligan City. It was develop by a group of 3rd year students from the College of Computer Studies as a requirement for their Final Output in an online class during Pandemic(COVID-19).  With the help of their instructor Mr. Romzkie Delfin, the students completed the project before the term end.  DEVELOPMENT SOFTWARE REQUIREMENTS:  Programming Language: C#, cshtml, javascript, css IDE: Microsoft Visual Studio 2022 Community Edition Database: MSSQL and MySQL Hosting: IIS(localhost) FEATURES:  Enrollment E-grade Registrar Cashier/Accounts Dean's Account Teacher's Dashboard Student's Dashboard Subject Management Subject Allocation Class Time Table Class Allocation SMS Text Notifier Prints TOR, Study Load, E-grades & more. For inquiries, visit our website https://imcc.edu.ph or email us ccsofficialimcc@gmail.com or call us at this number 221-4661 local 1115.  Arduan Non-Timeo  Romzkie Delfin - Project Manager/Developer Email: admin@itsmeromzkiedelfin.com Website: https://itsmeromzkiedelfin.com",
+        "languages": {
+            "C#": 82059,
+            "HTML": 71411,
+            "TSQL": 2762
+        }
+    },
+    {
+        "name": "aspnetcore-workshop",
+        "description": "Building Your First Application With ASP.NET Core 1.0 Using Visual Studio Code and CLI: Microsoft has shaken and stirred the comfortable world of .NET with ASP.NET 5. Gone are the bitters of XML and MSBuild configurations (WebForms too). Instead, the new recipe calls for equal parts JSON and DNX (.NET Execution Environment), with a splash of Tag Helpers. Given a new project structure, runtime, and tool set, it\u2019s easy to feel like the rug has been pulled out from under you. These new changes are less of an acquired taste than you might think. Let\u2019s peel back the curtain by using just Visual Studio Code and the new command line tools to gain a better understanding of what this means for you as a developer. We\u2019ll work through creating a new ASP.NET 5 app using Yeoman, establish our dependencies with the new package management (including npm for front end libraries), configure our database connection using dependency injection, and create our front end assets using Gulp. You\u2019ll leave this workshop not only with a better understanding of the new .NET, but a functional application.",
+        "languages": {}
+    },
+    {
+        "name": "profit-with-javascript",
+        "description": "Profit with JavaScript is a project-driven course of JavaScript language along with its related libraries and technologies . This course is specifically designed for people who want through the development and programming applications, web-based, etc. earn the income . In addition, this course perfectly suits beginners and designed all the necessary skills to build web applications, applications, and complete a variety of projects, web development teaches you . In this course, you will learn the language of JavaScript, its various libraries and frameworks . Even if you are a web developer, the tricks, strategies and tips of this tutorial are very useful for finding ways to earn high income from your skills and knowledge .  From the technologies covered in this period, it is possible to React and Redux libraries, Express and Next framework.js, MongoDB database and node executable environment.js cited . Including the app that, during this period, as the version in similar applications, big you can be to similar version Netflix, etc., Amazon, Facebook, zoom, Airbnb, etc. Spotify, etc. slack, and of course, Twitter and Google Maps mentioned . 2 real big projects, 5 mini-projects and 8 convenient projects to offer as work samples are also included in the course . Also 15 video training in addition to training videos this course is specifically for practicing programming skills to the language of the JS designed . Gate and gate Hubs, data illustration and Visual Studio Code are among other topics of the course .",
+        "languages": {
+            "JavaScript": 42165,
+            "HTML": 12188,
+            "CSS": 3903
+        }
+    },
+    {
+        "name": "BEQodiaRepository",
+        "description": "I'm a Java Desktop Application & Native Android Software Developer with 4+ years of experience in full SDLC creating dynamic web applications using a variety of modern technologies. Updates functionality based on customer requirements to ensure an excellent user experience.  I have a lot of projects, some of this project are :  Mobile application for attendance management using Java. Control a robot using Arduino using c (Mini Project). Stock management software using Java and Netbeans as IDE. Mobile application for counting people in the enterprise using the technology of face recognition and face detection using the technology of JNI java language, C++(OpenCV Library).  My other professional skills include:  Achieved a 30% reduction in the app's memory consumption by eliminating duplicate strings via Garbage Collection Logs analysis and refactoring the code Recognized and improved code inefficiencies that led to a 40% increase in app stability. Unit Test (Java). Spring Boot Technologie As Back-End Development. UX and UI Designing. MongoDB, FireBase for NoSQL database, SQL Server(Transact SQL), MySQL and OracleDB(PLSQL) JDBC Technologie in Java JavaFX and Swing for Front-End IDE(Eclipse, NetBeans, IntelliJ and Android Studio)  Extensive knowledge of C/C++,PHP, Javascript, HTML, CSS,  and VB.NET Framework JNI (Java Native Interface) to call native applications and library written in C/C++.",
+        "languages": {}
+    },
+    {
+        "name": "jkclaytondev.github.io",
+        "description": "This is my personal portfolio website. My name is Jackson Clayton. I am a Games and Simulations major at Miami University (Ohio). I grew up in northern Virginia, where I taught myself how to make games using Scratch.  I am a passionate game developer and designer who focuses on mixing game genres and styles. I study and polish my level and gameplay design to give players new and engaging experiences. I do so through a broad range of subjects (level geometry, gameplay elements, lighting, animation, etc.).  I released my first full game in early 2019 and have released 14 games on itch.io and two games on Steam since. I normally develop projects for PC but am familiar with both mobile and Xbox development.  I have in-depth experience with Unity and all the programs surrounding it. I know how to use Blender, Audacity, Visual Studio, and Adobe Illustrator. I have a solid understanding of game design concepts. I am comfortable with all the steps in creating, publishing, and promoting video games other than music production.  When I'm not making or playing games, I love to make renders on Blender, make YouTube videos, hang out with friends, watch movies and go hiking.",
+        "languages": {
+            "HTML": 156978,
+            "CSS": 41777
+        }
+    },
+    {
+        "name": "ScriptingAndProgramming-Applications-C867",
+        "description": "WGU - Scripting and Programming - Applications \u2013 C867 COMPETENCIES 4048.2.1 : Introduction to Programming  The graduate applies fundamental programming concepts in a specific programming environment.  4048.2.2 : Variables and Data Types  The graduate prepares code which declares, initializes, and assigns values to variables of appropriate types as part of the application development process.  4048.2.3 : Control Structures  The graduate writes code that implements decision and loop constructs to control the flow of a program.  4048.2.4 : Arrays  The graduate creates arrays in order to solve complex problems.  4048.2.5 : Pointers and Memory  The graduate applies pointers to solve complex problems.  4048.2.6 : Functions  The graduate writes code that creates and manipulates functions and files.  4048.2.7 : Object-Oriented Paradigm  The graduate applies object-oriented programming concepts in order to create a basic application.  INTRODUCTION Throughout your career in software development, you will develop and maintain new and existing applications. You will be expected to fix issues as well as add new enhancements or migrate existing applications to new platforms or different programming languages. As a software developer, your role will be to create a design of an application based on given business requirements. After the design is completed, you must implement the application based on the design document and provided requirements.    In this assessment, you will create a C++ application based on the scenario below. The skills you demonstrate in your completed application will be useful in responding to technical interview questions for future employment. This application may also be added to your portfolio to show to future employers.    This project will require an integrated development environment (IDE). You must use either Visual Studio or Xcode for this assessment. Directions for accessing these IDEs can be found in the attached \u201cIDE Instructions.\u201d    Your submission should include a zip file with all the necessary code files to compile, support, and run your application. The zip file submission must also keep the project file and folder structure intact for the Visual Studio IDE or Eclipse IDE.  SCENARIO You are hired as a contractor to help a university migrate an existing student system to a new platform using C++ language. Since the application already exists, its requirements exist as well, and they are outlined in the next section. You are responsible for implementing the part of the system based on these requirements. A list of data is provided as part of these requirements. This part of the system is responsible for reading and manipulating the provided data.    You must write a program containing two classes (i.e., Student and Roster). The program will maintain a current roster of students within a given course. Student data for the program include student ID, first name, last name, email address, age, an array of the number of days to complete each course, and degree program. This information can be found in the \u201cstudentData Table\u201d below. The program will read a list of five students and use function calls to manipulate data (see part F4 in the requirements below). While parsing the list of data, the program should create student objects. The entire student list will be stored in one array of students called classRosterArray. Specific data-related output will be directed to the console.     studentData Table     Student ID  First Name  Last Name  Email  Age  Days in Course  Degree Program  A1  John  Smith  John1989@gm ail.com  20  30, 35, 40  SECURITY  A2  Suzan  Erickson  Erickson_1990@gmailcom  19  50, 30, 40  NETWORK  A3  Jack  Napoli  The_lawyer99yahoo.com  19  20, 40, 33  SOFTWARE  A4  Erin  Black  Erin.black@comcast.net  22  50, 58, 40  SECURITY  A5  Your first name  Your last name  Your valid email address  Your age  Number of days to complete 3 courses  SOFTWARE     The data should be input as follows:     const string studentData[] =   {\"A1,John,Smith,John1989@gm ail.com,20,30,35,40,SECURITY\", \"A2,Suzan,Erickson,Erickson_1990@gmailcom,19,50,30,40,NETWORK\", \"A3,Jack,Napoli,The_lawyer99yahoo.com,19,20,40,33,SOFTWARE\", \"A4,Erin,Black,Erin.black@comcast.net,22,50,58,40,SECURITY\", \"A5,[firstname],[lastname],[emailaddress],[age], [numberofdaystocomplete3courses],SOFTWARE\"     You may not include third-party libraries. Your submission should include one zip file with all the necessary code files to compile, support, and run your application. You must also provide evidence of the program\u2019s required functionality by taking a screen capture of the console run, saved as an image file.   Note: Each file must be an attachment no larger than 30 MB in size.   REQUIREMENTS Your submission must be your original work. No more than a combined total of 30% of the submission and no more than a 10% match to any one individual source can be directly quoted or closely paraphrased from sources, even if cited correctly. The originality report that is provided when you submit your task can be used as a guide.    You must use the rubric to direct the creation of your submission because it provides detailed criteria that will be used to evaluate your work. Each requirement below may be evaluated by more than one rubric aspect. The rubric aspect titles may contain hyperlinks to relevant portions of the course.    Tasks may not be submitted as cloud links, such as links to Google Docs, Google Slides, OneDrive, etc., unless specified in the task requirements. All other submissions must be file types that are uploaded and submitted as attachments (e.g., .docx, .pdf, .ppt).    A.  Modify the \u201cstudentData Table\u201d to include your personal information as the last item.    B.  Create a C++ project in your integrated development environment (IDE) with the following files:  \u2022  degree.h  \u2022  student.h and student.cpp  \u2022  roster.h and roster.cpp  \u2022  main.cpp    Note: There must be a total of six source code files.    C.  Define an enumerated data type DegreeProgram for the degree programs containing the data type values SECURITY, NETWORK, and SOFTWARE.    Note: This information should be included in the degree.h file.    D.  For the Student class, do the following:  1.  Create the class Student  in the files student.h and student.cpp, which includes each of the following variables:  \u2022  student ID  \u2022  first name  \u2022   last name  \u2022  email address  \u2022  age  \u2022  array of number of days to complete each course  \u2022  degree program  2.  Create each of the following functions in the Student class:  a.  an accessor (i.e., getter) for each instance variable from part D1  b.  a mutator (i.e., setter) for each instance variable from part D1  c.  All external access and changes to any instance variables of the Student class must be done using accessor and mutator functions.  d.  constructor using all of the input parameters provided in the table  e.  print() to print specific student data    E.  Create a Roster class (roster.cpp) by doing the following:  1.  Create an array of pointers, classRosterArray, to hold the data provided in the \u201cstudentData Table.\u201d  2.  Create a student object for each student in the data table and populate classRosterArray.  a.  Parse each set of data identified in the \u201cstudentData Table.\u201d  b.  Add each student object to classRosterArray.  3.  Define the following functions:  a.  public void add(string studentID, string firstName, string lastName, string emailAddress, int age, int daysInCourse1, int daysInCourse2, int daysInCourse3, DegreeProgram degreeprogram)  that sets the instance variables from part D1 and updates the roster.  b.  public void remove(string studentID)  that removes students from the roster by student ID. If the student ID does not exist, the function prints an error message indicating that the student was not found.  c. public void printAll() that prints a complete tab-separated list of student data in the provided format: A1 [tab] First Name: John [tab] Last Name: Smith [tab] Age: 20 [tab]daysInCourse: {35, 40, 55} Degree Program: Security. The printAll() function should loop through all the students in classRosterArray and call the print() function for each student.  d.  public void printAverageDaysInCourse(string studentID)  that correctly prints a student\u2019s average number of days in the three courses. The student is identified by the studentID parameter.  e.  public void printInvalidEmails() that verifies student email addresses and displays all invalid email addresses to the user.    Note: A valid email should include an at sign ('@') and period ('.') and should not include a space (' ').    f.  public void printByDegreeProgram(DegreeProgram degreeProgram) that prints out student information for a degree program specified by an enumerated type.    F.  Demonstrate the program\u2019s required functionality by adding a main() function in main.cpp, which will contain the required function calls to achieve the following results:  1.  Print out to the screen, via your application, the course title, the programming language used, your WGU student ID, and your name.  2.  Create an instance of the Roster class called classRoster.  3.  Add each student to classRoster.  4.  Convert the following pseudo code to complete the rest of the  main() function:  classRoster.printAll();  classRoster.printInvalidEmails();     //loop through classRosterArray and for each element:  classRoster.printAverageDaysInCourse(/*current_object's student id*/);    Note: For the current_object's student id, use an accessor (i.e., getter) for the classRosterArray to access the student id.    classRoster.printByDegreeProgram(SOFTWARE);  classRoster.remove(\"A3\");  classRoster.printAll();  classRoster.remove(\"A3\");  //expected: the above line should print a message saying such a student with this ID was not found.  5.  Implement the destructor to release the memory that was allocated dynamically in Roster.    G.  Demonstrate professional communication in the content and presentation of your submission.",
+        "languages": {
+            "C++": 11206,
+            "C": 114
+        }
+    },
+    {
+        "name": "AndroidStudioProjects",
+        "description": "Android developers",
+        "languages": {
+            "Java": 224790
+        }
+    },
+    {
+        "name": "AndroidStudioProjects",
+        "description": "Google Developers Android App Development Programs",
+        "languages": {
+            "Java": 6261
+        }
+    },
+    {
+        "name": "vscode-springboot-developer-pack",
+        "description": "An extension pack for Visual Studio Code which adds useful extensions needed for effectively developing Spring Boot projects on Visual Studio code.",
+        "languages": {}
+    },
+    {
+        "name": "Backend_tatto-studio_API_DB",
+        "description": "Developed as part of the fourth project in the Full Stack Developer Bootcamp at Geekshubs Academy",
+        "languages": {
+            "TypeScript": 61961
+        }
+    },
+    {
+        "name": "Java_Developers",
+        "description": "This is an android app project built with android studio. This project lists all java developer in lagos registered on github. And then opens up a profile screen for each developer. The project uses Github Public Search Api.",
+        "languages": {
+            "Java": 36061
+        }
+    },
+    {
+        "name": "MakeYourStore-Project-",
+        "description": "The last Project in Develhope bootcamp. E-commerce Web App for indie game developer studios.",
+        "languages": {
+            "JavaScript": 47264,
+            "CSS": 16785,
+            "SCSS": 10750,
+            "HTML": 1174
+        }
+    },
+    {
+        "name": "okstudio.tech",
+        "description": "Website for my freelance front-end developer project called Ok! Studio (discontinued)",
+        "languages": {
+            "JavaScript": 64583,
+            "CSS": 7258
+        }
+    },
+    {
+        "name": "jbpm3-example-jpdl",
+        "description": "An example of using jBPM3 features. Project created with JBoss Developer Studio 4.",
+        "languages": {
+            "Java": 17818
+        }
+    },
+    {
+        "name": "interior-design-studio-website",
+        "description": "Anna Mood Studio: I'm excited to share my first real-life website project where I was the sole front-end developer. Together with my talented team, we brought to life a visually stunning website for Anna Arbeitere's interior design studio.",
+        "languages": {
+            "HTML": 80580,
+            "CSS": 26274,
+            "JavaScript": 16567
+        }
+    },
+    {
+        "name": "BookRepository---FinalFrontendProject---Oct21",
+        "description": "Final Frontend project as a part of the Java Junior developer course, written in React and JS in Visual Studio Code @ Vojvodina ICT Cluster.",
+        "languages": {
+            "JavaScript": 34593,
+            "CSS": 3584,
+            "HTML": 1743
+        }
+    },
+    {
+        "name": "boilerplate-vscode-js",
+        "description": "A boilerplate to help get started with JS/Node projects, specifically catering developers who use Visual Studio Code.",
+        "languages": {}
+    },
+    {
+        "name": "Pablo-Emmanuel-De-Leo",
+        "description": "I worked on an important project as Front End Developer for Pablo Emmanuel De Leo, CEO of CofCof Studios.",
+        "languages": {
+            "SCSS": 25525,
+            "JavaScript": 17866,
+            "HTML": 15024,
+            "CSS": 2461,
+            "Ruby": 226
+        }
+    },
+    {
+        "name": "divergentstudio",
+        "description": "In divergent studio you can create your webside with a designer and developer, since the beginining till the end of the project",
+        "languages": {}
+    },
+    {
+        "name": "robcio",
+        "description": "This is simple project, I want to write my own robots using Microsoft Robotics Developer Studio. Robots will be build using Lego NXT.",
+        "languages": {
+            "C#": 71560,
+            "HTML": 32916,
+            "XSLT": 21697,
+            "CSS": 2112
+        }
+    },
+    {
+        "name": "MS-1",
+        "description": "As the Milestone 1 Project for Code Institute's Full Stack Developer Program, this website was built with HTML, CSS & Bootstrap for Infinity, a fictional yoga & meditation studio in NYC",
+        "languages": {
+            "HTML": 32484,
+            "CSS": 25821,
+            "Shell": 813,
+            "Dockerfile": 762
+        }
+    },
+    {
+        "name": "Project-Layout-VSCode",
+        "description": "\"Project Layout\" is a Visual Studio Code extension that generates a text representation of a project's structure, offering a quick overview of files, directories, and dependencies. It provides customizable views, export options, and supports various project types, aiding developers in visualizing and understanding their codebase.",
+        "languages": {
+            "JavaScript": 9201
+        }
+    },
+    {
+        "name": "DigitalReceipt-CloudProject-C-API-Client-PartialCreditCards",
+        "description": "This is an API Client for my project called \"Digital Receipt\" written in C# using Visual Studio. It is a GUI for the developers in order to control the following App Engine: https://youtu.be/xfcRV6PbOOg",
+        "languages": {
+            "C#": 27353
+        }
+    },
+    {
+        "name": "Dicoding_Aplikasi-Sederhana-Untuk-Menghitung-Volume-dari-Bangun-Ruang",
+        "description": "Setelah berhasil membangun project Android Studio, langkah pertama yang biasa Android Developer lakukan adalah menyusun tampilan aplikasi terlebih dahulu. Oleh karena itu, ikutilah langkah-langkah berikut untuk melakukannya.",
+        "languages": {
+            "Kotlin": 6011
+        }
+    },
+    {
+        "name": "MyFirstAndroidUIUdacity",
+        "description": "This is a small Android Studio 3 project that outputs a greeting card. This was made for the  Google Developer Challenge 2017-2018 as an assignment to practice with Layouts, TextViews and ImageViews.",
+        "languages": {
+            "Java": 1532
+        }
+    },
+    {
+        "name": "Azure-Ai-Project",
+        "description": "Discover Azure AI\u2014a portfolio of AI services designed for developers and data scientists. Take advantage of the decades of breakthrough research, responsible AI practices, and flexibility that Azure AI offers to build and deploy your own AI solutions. Access high-quality vision, speech, language, and decision-making AI models through simple API calls, and create your own machine learning models with tools like Jupyter Notebooks, Visual Studio Code, and open-source frameworks like TensorFlow and PyTorch.Only Azure empowers you with the most advanced machine learning capabilities. Quickly and easily build, train, and deploy your machine learning models using Azure Machine Learning and Azure Databricks. Use the latest tools like Jupyter and Visual Studio Code, alongside frameworks like PyTorch Enterprise, TensorFlow, and Scikit-Learn. Expand your data science teams and create models faster with low-code and no-code tools like automated machine learning and a drag-and-drop interface. ",
+        "languages": {
+            "Jupyter Notebook": 33936,
+            "Python": 8145
+        }
+    },
+    {
+        "name": "kave",
+        "description": "Interaction dataset has been selected as the mining challenge for the \"International Conference on Mining Software Repositories\" (MSR'18). The project presents a technique to determine a developer based on their Visual Studio IDE event data. The KaVE data set was used which recorded IDE activities from 85 developers. The dataset has the active window (windows within the IDE) that have received developer clicks and edits behavior (without any of the actual code information).",
+        "languages": {
+            "R": 5412,
+            "Python": 1220
+        }
+    },
+    {
+        "name": "Phase-3-Project-Wipro-",
+        "description": "Create an ASP.NET MVC Ecommerce Site to Sell Laptops Project 1   DESCRIPTION  Create an ASP.NET MVC web application to sell laptops online.  Background of the problem statement:  An existing retail company, Digital Retailers Inc, wants to take their business online and create an e-commerce portal that will enable people to purchase laptops online. They like to prototype new projects quickly using Agile methods and hence want to avoid a long requirement capture stage. They want to keep track of their codebase using Git so that multiple developers can work on it as required.  You must use the following:  Visual Studio ASP.NET MVC web Project  SQL Server 17 Express Edition or later  Check in the project source into Github using Git tools.",
+        "languages": {
+            "C#": 24893,
+            "HTML": 11976,
+            "CSS": 3318,
+            "JavaScript": 230
+        }
+    },
+    {
+        "name": "Cpp-Compiler-VS",
+        "description": "This project demonstrates the successful design and implementation of a compiler using C++ in Visual Studio. The utilization of GUI C++, CLR, and the .NET framework empowers users to interact with the compiler seamlessly, making it a valuable tool for developers, students, and professionals alike.",
+        "languages": {
+            "C++": 118895
+        }
+    },
+    {
+        "name": "Defect-Tracking-System-DTS-Android-Application",
+        "description": "A working (back and front-end) defection notification system set up for industrial use. Project was completed in Android Java in Android Studio and was submitted into UC Merced's mobile app challenge. I was officially the back-end developer in this project, but I also did most of the front-end work as well as leading and direction.",
+        "languages": {
+            "Java": 1682387,
+            "C++": 41
+        }
+    },
+    {
+        "name": "Java-Project-",
+        "description": "Scenario You have recently been hired as a junior developer for Rokit Studios, a small software developer based in Newcastle upon Tyne. They have recently won a contract with Blue Star Auto Repairs to create a new application to manage the day to day activities of the garage. Blue Star Auto Repairs currently use a paper based system to record all day to day activities and there is no current digital system in place. Blue Star Auto Repairs would like to use the system to manage: \u2022 Customer details \u2022 Staff details \u2022 Active and Past Job details (why the vehicle is there, tasks to be completed on a vehicle, cost per task, overall job cost) \u2022 Invoice system to manage and review payment. System Specification 1. Users must log in to use the system 2. Users must have appropriate roles assigned 3. When logging in, users should see a personalised dashboard which displays: a. Personalised welcome message with an inspirational quote of the day b. List of active Jobs assigned (Head Mechanics can be assigned to a maximum of 3 Jobs at any one time) c. List of active tasks currently assigned to the user (Head Mechanics and Mechanics can have a maximum of 10 jobs assigned at any one time) d. Users should also have access to a screen that allows them to see previously completed Jobs and Tasks 4. CRUD functionality to allow users in the correct roles to: a. Manage System Users b. Manage Customers c. Manage and assign Jobs and Tasks 5. Office Admin staff can manage Customer Invoices, this should display information such as: Amount owed, Amount paid, Payment schedule etc. 6. All users actions must be logged in an audit trail, which only System Administrators can view",
+        "languages": {
+            "Java": 33015
+        }
+    },
+    {
+        "name": "YouTube-Flask-Tutorial",
+        "description": "Using conditional statements to dynamically render HTML pages, making it a must-watch for beginners and seasoned developers alike.  In this tutorial, we'll guide you through setting up your Flask project in Visual Studio Code, understanding the structure of a Flask-based website, and leveraging 'if' and 'else' conditionals in HTML templates.",
+        "languages": {
+            "Python": 976
+        }
+    },
+    {
+        "name": "Libri-Online-2nd-Hand-Books",
+        "description": "Libri was a mobile application that aimed at making it easier for students to trade, buy or sell second hand textbooks. This was a project for my second year of college. It was a year long group project that I participated in alongside 4 other developers. I was responsible for the user registration and user profile editor. The project was created using Android Studio SDK and coded in Java with XML being used for the front-end.",
+        "languages": {
+            "Java": 203330
+        }
+    },
+    {
+        "name": "new-one",
+        "description": "hyy team, we are going to make project. we will make app for android users. we will make app for our collage students where they found every books for there syllabus and they can download there books.  i need android developer (*android studio) / i also need who have knowledge about c++ / shift (IoS). and i want also go on web so also need a web developer. and app UI designer (*Figma)  first we will make only android app and the we will think about IoS and web app",
+        "languages": {}
+    },
+    {
+        "name": "clockwork",
+        "description": "README Welcome to the AWH interview exercise.  This repo contains one solution with two projects. It is targeted for C# and javascript developers.  Project Clockwork.API Clockwork.API is a simple API that returns a time date object and records the IP address, and timedate of any callers to the API in a SQLite database.  Project Clockwork.Web Clockwork.Web is a simple website that uses javascript to call the API at the push of a button and displays the resulting JSON object.  Required Technologies A windows or Mac computer. Visual Studio Community Edition (latest version). Note there are missing components on the Mac that you will have to self install (NuGet CLI) to run the API project while running the website. What is this repository for? The goal of this exercise is to get this solution up and running as part of the interview process to AWH. This is to test your ability to work with git, compile existing applications and to fix issues that you encounter when getting a project up and running.  Once you have a running project that works as intended, you will be asked to make several feature enhancements.  Clockwork version 1.0 How do I get set up? Install Visual Studio Community 2017 or Visual Studio Code if you do not have it set up. Note that Visual Studio 2015 will not work with this project. Clone this repo. Change local configurations that may need changed for your environment. Check CORS access. Since this is a code first project you may need to run migrations to generate the database. Contribution guidelines Only AWH staff should be push changes to this repo Who do I talk to? For this repo, questions on direction, scope, or intent can be directed to robin.walters@awh.net Additional Resources Getting Started with EF Core on .NET Core Console App with a New database  EF Core .NET Command-line Tools  Migrations - EF Core with ASP.NET Core MVC",
+        "languages": {}
+    },
+    {
+        "name": "angularSamples",
+        "description": "Angular 2 and .NET Core are new technologies making revolution in the programming. It's a Storm for web and .NET developers that let them working using flexible and easier technologies.  Angular 2 is a next generation cutting-edge cross-platform user interface framework build to create web applications.  .NET Core is a backend framework from Microsoft cross-platform so it is now available on Windows, Mac and Linux.  These two technologies was used independently of each other, but now, they are combined together to build applications for any client/server platform. (frontEnd and Backend side).  The best way to get started learning Angular 2 and TypeScript is to clone an application starter, a minimalist Angular 2 app that has the full set up for Angular 2, with TypeScript and the module loader.  In Visual Studio 2015, we found a lot of samples to clone, to start but after the launch of Visual Studio 2017, creating Angular project is more easier.",
+        "languages": {
+            "TypeScript": 7398,
+            "JavaScript": 7250,
+            "C#": 6874,
+            "HTML": 4362,
+            "CSS": 1436
+        }
+    },
+    {
+        "name": "JPIETCollegeAdminApp",
+        "description": "This is sample app for College Admin App based on Firebase Realtime Databse,where Admin can post Notice, PDF notes, College Event Photos, Add Faculty by department wise like CSE,Mechanical,Civil etc. You delete notice faculity anytime by admin app.(For optimization Database) This is the first app i have created with android studio. I believe in ,the best way to learn any new technology is project based approach. You can learn from any tutorial video article and implement step by step by copying it first. Once you create somthing, your confidence boost up and you started getting new ideas with past exprience. Now you have your own ideas and project. Once you started building your ideas , no one can stop you to become a good developer.",
+        "languages": {
+            "Java": 57884
+        }
+    },
+    {
+        "name": "Campus-Courier",
+        "description": "A web-based application that allows students to order food, packages, or rides for pickup and delivery anywhere on campus or in the immediate local area. Students place their orders using a computer or smartphone.  Our project uses ASP Web Forms, where the code-behind is written in C#. ASP Web Forms provide built-in universal browser compatibility, something we found important for a diverse set of student devices used to access the app. Our database access uses Entity Framework, which is a code-first SQL implementation that uses LINQ for queries and allows the developer to focus on writing business logic rather than data-access code. IIS (built-in with Visual Studio) was used as a web server.",
+        "languages": {
+            "JavaScript": 170709,
+            "C#": 126309,
+            "ASP": 52694,
+            "HTML": 5127,
+            "CSS": 872
+        }
+    },
+    {
+        "name": "MyntraGoApp-Finally",
+        "description": "Myntra Go is aimed to be an app extension of existing Myntra App. The prototype of the same is provided here. Instructions to run the app:  1. Download the project from GitHub onto a desktop with Android Studio installed in it.  2. Unzip the project  3. Go to Android Studio and open the project via Android Studio.  4. Connect your cell phone (with developer options enabled) to the PC.  5. Switch from emulator mode to your cell phone and click run.  6. Once the app is launched on your phone, a window appears with a button labelled 'Go'. Click on Go to begin.  7. Give the app required permissions. The camera will start.  8. Wait for 2-3 seconds for an object (product image) to appear.  9. Click on the product image within 12 seconds of it's appearance to get the promo code for it.  10. A pop up window with the promo code appears. Click on the Get info button in the pop up to view product details. These details can be screenshot for further use.  11. Click back. Tapping once on the pop up window will make it disappear.   12. In step 9, if the product image is not tapped within 12 seconds, it disappears and the promo code can't be viewed for that product. (Thus making the user take a quick decision about buying the product).  *The actual version of the app will include in app images from Myntra app for display and also a Geolocation feature which will enable a product images to appear only at certain locations for certain intervals of time.",
+        "languages": {
+            "Java": 15475
+        }
+    },
+    {
+        "name": "inpatient_prospective_payment_system",
+        "description": "This is a health-related dataset that has over 100,000 records that holds the services provided by hospitals based on the diagnosis-related groups and also the associated costs. My project gives out the entire data of the most common procedures in the DRG\u2019s along with the interpretation that can be drawn from the regression models and diagnostic plots performed. A lot of visualizations in Tableau, R studio, Jupyter lab such as histograms, time series plots, and few interesting plots such as choropleth charts were also presented to break the data into an understandable format. Oracle SQL developer was also used to retrieve few records that helped us when I wanted to cross-check if the data in visuals are represented correctly.",
+        "languages": {
+            "R": 4896,
+            "Python": 2153
+        }
+    },
+    {
+        "name": "The-Tech-Academy",
+        "description": "The Tech Academy is a licensed career school located in Portland, Oregon where students learn to code. During their coding classes on the Software Developer Boot Camp, students study computer programming and web development. The curriculum is available online, so the course can be studied from anywhere in the world. Students can take the program in classrooms located in downtown Portland or online from anywhere on the planet \u2013 The Tech Academy has local students in Portland and remote students that study from home across the United States, in Europe, etc.  What sets The Tech Academy apart from other code schools is their thorough curriculum and high success rate of graduates. The Tech Academy students learn many programming languages and skills during the coding bootcamp, including: computer science fundamentals, HTML, CSS, Version/Source Control, Visual Studio, Databases, SQL, JavaScript, Python, C#, ASP.NET, Agile/Scrum project management and more.  On The Tech Academy\u2019s programming bootcamp, students learn coding through real-world, hands-on software development training. Graduates are well-rounded, full-stack, junior developers that can code on the front-end and back-end. Not only can they create dynamic websites, but are trained in application development as well. Optional courses in mobile development, PHP, DevOps, MVC and other classes exist as well. The Tech Academy is well reviewed on many sites including Course Report and SwitchUp.  Their coding school works with students to get them on study schedules that fit with their life. Students watch online coding tutorials and programming videos, read development books and articles, and partake in real world code exercises and challenges. By the end of this code academy, students have a strong resume and portfolio that they can use to get hired as junior level software developers.",
+        "languages": {}
+    },
+    {
+        "name": "SenjuSama2012",
+        "description": "Hi \ud83d\udc4b My name is Jahmal Camp ============================  Rust Developer \ud83e\udd80 | Web Developer \ud83c\udf0e | Solana Developer \ud83d\udcb1 ----------------------------------------------------------  I'm a United States Air Force Veteran. I'm medically retired and I worked Aircraft Structural Maintenance. Since being medically separated was on the horizon, I've spent my time pursuing my interest in software development. I instantly gravitated towards the Rust programming language instantly. The innovations, community and potential Rust has on the programming world and Web 3.0 made me jump into learning. Since starting, I've learned how to work towards programming goals, self-taught regiments, and productivity on my own. Joining Web Development, Software Development, and Web 3.0 communities reminds me of very much of great teamwork and opportunities you get share with those who believe and pursue similar goals as you do. In my military career, I grew within my peers from being a worker up to being a Supervisor over other peers and handling my own section for my leadership. I streamlined processes and engaged in operations with my colleagues. Being a Supervisor for 4 years has been an amazing experience. I learned most from being taking lead and being a student of those on my team. Since starting Software Development, I've engaged mainly with the Rust programming language. I've touched Rocket and Yew Frameworks for Rust. WebAssembly is interesting for me so I also engaged in Web Development skills like HTML5, CSS (Tailwind CSS), JavaScript, React.js, and Next.js. To learn these skills and be productive in them, I'm proficient in Git, GitHub, and Visual Studio Code as an IDE. I've developed project management processes inside of Notion's management systems.  * \ud83c\udf0d\u00a0 I'm based in Atlanta, GA * \u2709\ufe0f\u00a0 You can contact me at [j.senju1919@gmail.com](mailto:j.senju1919@gmail.com) * \ud83e\udde0\u00a0 I'm learning Rust VST Development, WASM w/ Rust, Solona Blockchain Development * \ud83e\udd1d\u00a0 I'm open to collaborating on Rust Projects and Solana Blockchain Projects  <a href=\"https://www.twitter.com/SenjuSama2012\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://img.shields.io/twitter/follow/SenjuSama2012?logo=twitter&style=for-the-badge&color=facc15&labelColor=27272a\" /></a><a href=\"https://www.twitch.tv/senujusama2012\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://img.shields.io/twitch/status/senujusama2012?logo=twitchsx&style=for-the-badge&color=facc15&labelColor=27272a&label=TWITCH+STATUS\" /></a>  ### Skills  <p align=\"left\"> <a href=\"https://www.rust-lang.org/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg\" width=\"36\" height=\"36\" alt=\"Rust\" /></a> <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg\" width=\"36\" height=\"36\" alt=\"Javascript\" /></a> <a href=\"https://www.typescriptlang.org/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg\" width=\"36\" height=\"36\" alt=\"Typescript\" /></a> <a href=\"https://developer.mozilla.org/en-US/docs/Glossary/HTML5\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg\" width=\"36\" height=\"36\" alt=\"HTML5\" /></a> <a href=\"https://reactjs.org/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg\" width=\"36\" height=\"36\" alt=\"React\" /></a> <a href=\"https://nextjs.org/docs\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg\" width=\"36\" height=\"36\" alt=\"NextJs\" /></a> <a href=\"https://www.w3.org/TR/CSS/#css\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg\" width=\"36\" height=\"36\" alt=\"CSS3\" /></a> <a href=\"https://tailwindcss.com/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg\" width=\"36\" height=\"36\" alt=\"TailwindCSS\" /></a> <a href=\"https://redux.js.org/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg\" width=\"36\" height=\"36\" alt=\"Redux\" /></a> <a href=\"https://nodejs.org/en/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg\" width=\"36\" height=\"36\" alt=\"NodeJS\" /></a> <a href=\"https://www.postgresql.org/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg\" width=\"36\" height=\"36\" alt=\"PostgreSQL\" /></a> <a href=\"https://firebase.google.com/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg\" width=\"36\" height=\"36\" alt=\"Firebase\" /></a> <a href=\"https://solana.com/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg\" width=\"36\" height=\"36\" alt=\"Solana\" /></a> <a href=\"https://ipfs.io/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ipfs-colored.svg\" width=\"36\" height=\"36\" alt=\"IPFS\" /></a> </p>   ### Socials  <p align=\"left\"> <a href=\"https://www.github.com/SenjuSama2012\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg\" width=\"32\" height=\"32\" /></a> <a href=\"https://www.linkedin.com/in/jahmalcamp/\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg\" width=\"32\" height=\"32\" /></a> <a href=\"https://www.stackoverflow.com/users/17407325/senjusama2012\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg\" width=\"32\" height=\"32\" /></a> <a href=\"https://www.twitter.com/SenjuSama2012\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg\" width=\"32\" height=\"32\" /></a> <a href=\"https://www.youtube.com/c/UCmGXx3056H6Dn4aslAssx8Q\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg\" width=\"32\" height=\"32\" /></a> <a href=\"https://www.twitch.tv/senujusama2012\" target=\"_blank\" rel=\"noreferrer\"><img src=\"https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg\" width=\"32\" height=\"32\" /></a></p>  ### Badges  <b>My GitHub Stats</b>  <a href=\"http://www.github.com/SenjuSama2012\"><img src=\"https://github-readme-stats.vercel.app/api?username=SenjuSama2012&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&show_icons=true\" alt=\"SenjuSama2012's GitHub stats\" /></a>  <a href=\"http://www.github.com/SenjuSama2012\"><img src=\"https://github-readme-streak-stats.herokuapp.com/?user=SenjuSama2012&stroke=ffffff&background=27272a&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true\" /></a>  <a href=\"http://www.github.com/SenjuSama2012\"><img src=\"https://activity-graph.herokuapp.com/graph?username=SenjuSama2012&bg_color=27272a&color=ffffff&line=facc15&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph\" alt=\"GitHub Commits Graph\" /></a>  <a href=\"https://github.com/SenjuSama2012\" align=\"left\"><img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=SenjuSama2012&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=facc15&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages\" alt=\"Top Languages\" /></a>  <b>Top Repositories</b>  <div width=\"100%\" align=\"center\"></div><br /><br /><br /><br /><br /><br /><br />",
+        "languages": {}
+    },
+    {
+        "name": "Android-online-training-in-Hyderabad",
+        "description": "MKRInfotech\u2019s Android advancement online course is a standout amongst the most well known courses the world over. This course will help you take in portable application advancement without any preparation and open new openings for work for you in new businesses and in addition extensive associations.   Expert Android application improvement, figure out how to set up Android Studio, comprehend Android design in point of interest, find out about coordinating your portable applications with Facebook, Twitter and other online networking, Google Drive, Google Maps, SQLite and figure out how to make and upgrade application client experience.  About The Android App Development Online course  This Android Development course is primarily designed for programmers who want to learn how to create mobile applications on the Android platform. As a part of this course, you will create widgets, Customize List view, Grid view, Spinners etc, create applications using audio, video and sqlite database and finally publish it on Google Play. Our Android course is taught by top practitioners who are working full time, developing complex mobile apps. Our instructors work closely with MKRInfotech\u2019s in-house instructional design team to develop comprehensive and latest course content along with projects. Our interactive sessions and hands-on projects will ensure that you come out of this Android training as an ace developer. MKRInfotech\u2019s Android certification will unlock new and exciting career opportunities in app development.   The MKRinfotech providing Android Online classes, which gives you access to coaches who will review your code, provide guidance on your project, answer questions about the class, and help keep you on track when you need it.",
+        "languages": {}
+    },
+    {
+        "name": "Delani-Studio",
+        "description": "This is a project that interlinks clients to software developers",
+        "languages": {
+            "JavaScript": 479369,
+            "CSS": 317571,
+            "HTML": 9607
+        }
+    },
+    {
+        "name": "vuforiastudio-1",
+        "description": "Example projects and supporting Javascript documentation for developers starting to use Vuforia Studio.",
+        "languages": {}
+    },
+    {
+        "name": "Developer-Android",
+        "description": "Kumpulan Project Android Studio ",
+        "languages": {
+            "Java": 773316
+        }
+    },
+    {
+        "name": "Developer-Studio-Laravel-Project",
+        "description": null,
+        "languages": {
+            "PHP": 110705,
+            "Blade": 42710,
+            "Shell": 869
+        }
+    },
+    {
+        "name": "project-crazy_developers",
+        "description": "Adaptive website for flower studio",
+        "languages": {
+            "HTML": 27620,
+            "SCSS": 24358,
+            "JavaScript": 4727
+        }
+    },
+    {
+        "name": "AndroidStudioProjects",
+        "description": "Google Developer Scholarship Projects",
+        "languages": {
+            "Java": 33263
+        }
+    },
+    {
+        "name": "AndroidStudioProjects",
+        "description": "https://developer.android.com/courses",
+        "languages": {
+            "Kotlin": 29766,
+            "C++": 23503,
+            "CMake": 19219,
+            "Dart": 6284,
+            "HTML": 1902,
+            "Swift": 1789,
+            "C": 1459,
+            "Objective-C": 39
+        }
+    },
+    {
+        "name": "BitStudio_Project",
+        "description": "Google Developer Challenge Scholarship: Android Basics",
+        "languages": {
+            "Java": 1508
+        }
+    },
+    {
+        "name": "Delani-studio",
+        "description": "This project connects software developers",
+        "languages": {
+            "HTML": 10593,
+            "CSS": 1724,
+            "JavaScript": 624
+        }
+    },
+    {
+        "name": "Property-Analysis-BI-Developer",
+        "description": "Property Analysis Project for MVP Studio",
+        "languages": {}
+    },
+    {
+        "name": "web-project-utilities",
+        "description": "Developer utilities for Visual Studio",
+        "languages": {
+            "C#": 8682
+        }
+    },
+    {
+        "name": "delani-studio",
+        "description": "project entails a studio where developers showcase their projects.",
+        "languages": {}
+    },
+    {
+        "name": "AndroidStudioProjects",
+        "description": "Learning how to create Android apps using Kotlin through the Android Developer website: https://developer.android.com/courses/android-basics-kotlin/course",
+        "languages": {
+            "Kotlin": 25831
+        }
+    },
+    {
+        "name": "Android-Projects",
+        "description": "All my android studio developer projects",
+        "languages": {}
+    },
+    {
+        "name": "Android_Studio_Projects",
+        "description": "Android projects from Udemy- The Complete Android Oreo Developer Course",
+        "languages": {
+            "Java": 475555
+        }
+    },
+    {
+        "name": "DesignStudio-Portfolio-Project-",
+        "description": "Codecademy full stack developer path off-platform project.",
+        "languages": {
+            "CSS": 4937,
+            "HTML": 4449
+        }
+    },
+    {
+        "name": "AndroidStudioProjects",
+        "description": "Repo for Android course projects: https://developer.android.com/courses/",
+        "languages": {
+            "Kotlin": 31453
+        }
+    },
+    {
+        "name": "Delani-studio",
+        "description": "The project interlinks clients to software developers.",
+        "languages": {
+            "HTML": 8687,
+            "CSS": 4903,
+            "JavaScript": 1354
+        }
+    },
+    {
+        "name": "Delani-Studio-Project",
+        "description": "This project is a platform that help developers practice their skills.",
+        "languages": {
+            "HTML": 8111,
+            "CSS": 4151,
+            "JavaScript": 2378
+        }
+    },
+    {
+        "name": "GameMakerStudio2DeveloperArchive",
+        "description": "A collection of Game Maker Studio 2 Scripts and Example Projects",
+        "languages": {}
+    },
+    {
+        "name": "scenario-mx-studio",
+        "description": "Empowering Developers in MultiversX Smart Contract Projects",
+        "languages": {
+            "Vue": 54467,
+            "JavaScript": 28177,
+            "Python": 7479,
+            "SCSS": 427,
+            "HTML": 329
+        }
+    },
+    {
+        "name": "studio-8h",
+        "description": "Crowdsourced Collaborative Project Management for Content Developers",
+        "languages": {}
+    },
+    {
+        "name": "BI-Developer-Project",
+        "description": "End to End project that includes SSMS (SQL server), SSIS (in Visual Studio) and reports in Power BI platform.",
+        "languages": {}
+    },
+    {
+        "name": "AndroidStudioTestProject",
+        "description": "This project is for Android Studio developers to learn and test Adward SDK",
+        "languages": {}
+    },
+    {
+        "name": "AndriodStudioStudies",
+        "description": "Notes and example projects from the provided Android Studio Developer Unites from https://developer.android.com",
+        "languages": {
+            "Kotlin": 50717
+        }
+    },
+    {
+        "name": "TestingProject",
+        "description": "Repository used for Git for Visual Studio Developers",
+        "languages": {}
+    },
+    {
+        "name": "bashStudio",
+        "description": "make wso2 developer studio project or build carbon apps archive. ",
+        "languages": {
+            "Shell": 22515
+        }
+    },
+    {
+        "name": "hello-android-studio",
+        "description": "https://developer.android.com/sdk/installing/create-project.html",
+        "languages": {
+            "Java": 1758
+        }
+    },
+    {
+        "name": "dejaVu-Project",
+        "description": "Underpaid Game Developer Studios Project: Time Loop Game",
+        "languages": {
+            "Java": 74875
+        }
+    },
+    {
+        "name": "TemplatesNewProjectArchitecture",
+        "description": "C# Visual Studio Code : Developers Template - New Project",
+        "languages": {
+            "C#": 153314
+        }
+    },
+    {
+        "name": "BI-Developer-Project-",
+        "description": "End to End project that includes SSMS (SQL server), SSIS (in Visual Studio) and reports in Power BI platform. On a simulated DB for the Samsung company.",
+        "languages": {}
+    },
+    {
+        "name": "TestingTheVisualStudioProgram",
+        "description": "This is a pro project by pro developers. Official. ",
+        "languages": {
+            "C#": 22171
+        }
+    },
+    {
+        "name": "wso2-project-hierarchy",
+        "description": "Sample project structure for development in wso2 developer studio",
+        "languages": {
+            "Java": 341
+        }
+    },
+    {
+        "name": "Casasoft_Studio_Game_Dev_Test",
+        "description": "This repository is for Casasoft's game developer test project.",
+        "languages": {}
+    },
+    {
+        "name": "Delani-studio",
+        "description": "Delaini studio  is a page that provides a platform on which developers can host their projects done by developers and also sell to those who are  interested with these projects",
+        "languages": {
+            "HTML": 7513,
+            "CSS": 2662,
+            "JavaScript": 1214
+        }
+    },
+    {
+        "name": "Android-Studio-Course-Projects",
+        "description": "This repository contains different Android Studio Projects I've been working on as I finish 'The Complete Android N Developer Course'.",
+        "languages": {
+            "Java": 1318652,
+            "Roff": 6641
+        }
+    },
+    {
+        "name": "delani_studio",
+        "description": "Delani Studio is a project that provides a platform on which developers and artists can host their work by posting the projects done by individual developers and even sell to the interested buyers.",
+        "languages": {
+            "HTML": 11031,
+            "CSS": 3367,
+            "JavaScript": 956
+        }
+    },
+    {
+        "name": "Android-Studio",
+        "description": "The majority of the projects are from Android Basics in Kotlin website for Android developers",
+        "languages": {}
+    },
+    {
+        "name": "ApproarrGameDevelopmentTest1",
+        "description": "Test Project for Approarr Studios game developer job.",
+        "languages": {
+            "JavaScript": 11347
+        }
+    },
+    {
+        "name": "MS-vsonline",
+        "description": "Visual studio project for .net full stack developer",
+        "languages": {}
+    },
+    {
+        "name": "studiofx",
+        "description": "This front-end project with AngularJS is part of my training at Code Institute as Software Developer.",
+        "languages": {
+            "JavaScript": 32719,
+            "HTML": 14447,
+            "CSS": 11878
+        }
+    },
+    {
+        "name": "BerlinQuiz",
+        "description": "Final project from the Android Studio Developer Challenge",
+        "languages": {
+            "Java": 15378
+        }
+    },
+    {
+        "name": "Creating-a-hello-world-switchyard-project-using-redhat-jboss-developer-studio-11.2.0",
+        "description": "Creating a hello world switchyard project using redhat jboss developer studio 11.2.0",
+        "languages": {}
+    },
+    {
+        "name": "Delani-studio",
+        "description": "This project is all about collaborating with other developers so as to make exceptional products through effective team work.",
+        "languages": {
+            "HTML": 10247,
+            "JavaScript": 2829,
+            "CSS": 2518
+        }
+    },
+    {
+        "name": "Udemy-Bull-Cows-UnrealEngineDeveloper",
+        "description": "My version of an visual studio project from udemy course by GameDev.tv called Unreal Engine Developer.",
+        "languages": {
+            "C++": 10379
+        }
+    },
+    {
+        "name": "XMate-Studious",
+        "description": "XMate-Tech is 10 year old Scratch Developer making awesome projects! Follow Us - https://scratch.mit.edu/users/XMate-Tech",
+        "languages": {}
+    },
+    {
+        "name": "Web-Studio",
+        "description": "This website has been moved from the old repository. Website for web developers. 1st individual project during the GoIT course",
+        "languages": {
+            "HTML": 72326,
+            "SCSS": 26765,
+            "JavaScript": 2594
+        }
+    },
+    {
+        "name": "Delani-studio",
+        "description": "Delani studio is a fictional website that showcase the portfolio/project done by developers/programmers/designers and the services offered by Delani studio",
+        "languages": {
+            "HTML": 12755,
+            "JavaScript": 2220,
+            "CSS": 2083
+        }
+    },
+    {
+        "name": "Android-Developer-Nanodegree-Project-0-My-App-Portfolio",
+        "description": "Design and build a layout in Android Studio for an app that showcases your app portfolio. Each button represents an app that you'll build in the Nanodegree program.",
+        "languages": {
+            "Java": 3543
+        }
+    },
+    {
+        "name": "Android-Developer-Nanodegree-Project-0-My-App-Portfolio",
+        "description": "Design and build a layout in Android Studio for an app that showcases your app portfolio. Each button represents an app that you'll build in the Nanodegree program.",
+        "languages": {}
+    },
+    {
+        "name": "ProjectManagementDS",
+        "description": "This will contain the Final Project of Javascript It will explian the Maagement system of the Developer Studio",
+        "languages": {
+            "JavaScript": 25365
+        }
+    },
+    {
+        "name": "Delani-studio",
+        "description": "This project is basic website aimed at testing  students technical skills on Html, Css, JavaScript J query and Bootstrap as part of being software developers.",
+        "languages": {
+            "JavaScript": 223853,
+            "HTML": 7811,
+            "CSS": 1881
+        }
+    },
+    {
+        "name": "gradleoptimizer",
+        "description": "Optimize all Android Studio projects in a directory and reduce folder size up to 83.44% - with a single click!",
+        "languages": {
+            "C#": 6922
+        }
+    },
+    {
+        "name": "studious-javascript-databases",
+        "description": "As part of #100DaysOfCode challenge, this project is created for the course https://www.linkedin.com/learning/databases-for-node-js-developers-2/",
+        "languages": {
+            "JavaScript": 2251
+        }
+    },
+    {
+        "name": "jam-frontend",
+        "description": "Jam - game project management system for both indie developers and studios",
+        "languages": {
+            "Vue": 5709,
+            "JavaScript": 3990,
+            "HTML": 830
+        }
+    },
+    {
+        "name": "mvp-internship",
+        "description": "Projects done as part of BI developer internship with MVP Studio",
+        "languages": {
+            "TSQL": 11279
+        }
+    },
+    {
+        "name": "jam-backend",
+        "description": "Jam - game project management system for both indie developers and studios",
+        "languages": {
+            "PHP": 185288,
+            "HTML": 3449,
+            "JavaScript": 824,
+            "CSS": 202
+        }
+    },
+    {
+        "name": "dog-and-pony-frontend-challenge",
+        "description": "Project made for Dog and Pony Studios Front End Developer test.",
+        "languages": {
+            "TypeScript": 37363,
+            "JavaScript": 2729,
+            "Shell": 98,
+            "CSS": 59
+        }
+    },
+    {
+        "name": "Server-Manage",
+        "description": "the project's server manage studio for c++ and python3 developer",
+        "languages": {}
+    },
+    {
+        "name": "pragstudio-hotwire",
+        "description": "Project developed during the course Hotwire for Rails Developers (Pragmatic Studio) ",
+        "languages": {
+            "Ruby": 48767,
+            "CSS": 23602,
+            "HTML": 19675,
+            "JavaScript": 3900,
+            "Shell": 51
+        }
+    },
+    {
+        "name": "AndroidStudio.Counter",
+        "description": "Is a practice of the course \"Anndroid studio developer begineers\" of UDACITY. This project consist in a simple counter of a basketball play.",
+        "languages": {
+            "Java": 3337
+        }
+    },
+    {
+        "name": "delani-studio",
+        "description": "This is webpage that links the clients with the sotfware developers.It enables the developer to determine the clients's views on his/her own projects.",
+        "languages": {
+            "HTML": 2434,
+            "CSS": 403
+        }
+    },
+    {
+        "name": "DELANI-STUDIO",
+        "description": "This is webpage that links the clients with the sotfware developers.It enables the developer to determine the clients's views on his/her own projects.",
+        "languages": {
+            "HTML": 8470,
+            "CSS": 1427,
+            "JavaScript": 524
+        }
+    },
+    {
+        "name": "Software-Developer-Industry-Mock-Client-Project",
+        "description": "This is a mock developer project as part of My University industry studio, where we are exposed to mock clients with business requirements and real-time deliverables used as sample projects by the faculty of IT. To garner industry experience while demostrating expertise within different majors in the faculty of IT. ",
+        "languages": {
+            "PHP": 699058,
+            "CSS": 265383,
+            "Shell": 3567,
+            "Batchfile": 835,
+            "JavaScript": 346
+        }
+    },
+    {
+        "name": "Web-studio-promo-website-EN-",
+        "description": "Own project Landing page Web-studio [HTML, CSS, JS, GIT] The individual project is designed as homework during the FullStack developer course. A website with a responsive layout.",
+        "languages": {
+            "HTML": 48857,
+            "CSS": 29199,
+            "JavaScript": 1455
+        }
+    },
+    {
+        "name": "Delani-Studio",
+        "description": "Moringa Schools week 3 independent project. It is meant to test our implementation of jQuery, Bootstrap, CSS, Javascript and HTML. A creation of a mock website discussing a team of software developers who collaborate with businesses for various projects.",
+        "languages": {
+            "HTML": 8251,
+            "CSS": 4899,
+            "JavaScript": 2402
+        }
+    },
+    {
+        "name": "Del-Studios",
+        "description": "This is website page that links and connect users and other developers. Project Delani studio allows its users to connect through a contact form and communicates back with its users",
+        "languages": {
+            "HTML": 11582,
+            "CSS": 3122,
+            "JavaScript": 2474
+        }
+    },
+    {
+        "name": "ecommerce-catalog",
+        "description": "Final Project from PBI : Frontend Developer Core Initiative Studio x Rakamin Academy",
+        "languages": {
+            "Vue": 6067,
+            "CSS": 3761,
+            "JavaScript": 1072,
+            "HTML": 341
+        }
+    },
+    {
+        "name": "SOS",
+        "description": "First Android Studio Project (Tutorial https://developer.android.com/training/basics/firstapp)",
+        "languages": {
+            "Java": 3094
+        }
+    },
+    {
+        "name": "First_Project",
+        "description": "Code Developer final projct. Tools: Visual Studio, SQL Server. Programming languages used: C #, ASP.NET, HTML5, CSS, JavaScript",
+        "languages": {
+            "C#": 43186
+        }
+    },
+    {
+        "name": "Delani_studio",
+        "description": "To implement bootstrap, jQuery and Javascript, we were given the Delani_studion project to practise with at Moringa school. Learning these concepts is one of the most interesting things as a developer.",
+        "languages": {
+            "HTML": 9542,
+            "JavaScript": 1620,
+            "CSS": 1035
+        }
+    },
+    {
+        "name": "ibm-watson-developer-cloud-android-sdk",
+        "description": "This is the sdk that we need for our project as we are probably going to need IBM cloud and load the data using Android Studio",
+        "languages": {}
+    },
+    {
+        "name": "Project-A",
+        "description": "Our 1st project dedicated to experimenting with our development environment. (Local, Wordpress, Github, Visual Studio. Firefox developer edition, Flywheel)",
+        "languages": {
+            "PHP": 699507,
+            "CSS": 619630,
+            "SCSS": 176555,
+            "HTML": 28051,
+            "JavaScript": 24521
+        }
+    },
+    {
+        "name": "HelloAS",
+        "description": "This is a test project for Android Studio Developers of the Smart Car.",
+        "languages": {
+            "Java": 3018
+        }
+    },
+    {
+        "name": "HelloAndroid",
+        "description": "My first ever project in Android Studio (Google Developer Challenge Scholarship: Android Basics)",
+        "languages": {
+            "Java": 1520
+        }
+    },
+    {
+        "name": "case_codeway_snippets",
+        "description": "This is a case study project for Flutter Developer role of Codeway Studios",
+        "languages": {
+            "Dart": 47230,
+            "C++": 22704,
+            "CMake": 18772,
+            "Ruby": 2685,
+            "HTML": 1857,
+            "C": 1425,
+            "Swift": 1373,
+            "Kotlin": 133,
+            "Objective-C": 38
+        }
+    },
+    {
+        "name": "Del-studio",
+        "description": "Delani studio is a website for a group of developers who use this platform to share their work and show the world what they can do.You will find a list of projects with their descriptions.",
+        "languages": {
+            "HTML": 7439,
+            "CSS": 2507,
+            "JavaScript": 1613
+        }
+    },
+    {
+        "name": "imtAndroidStudioApplication",
+        "description": "This is a project for calculating the body mass index. It is developed by single developers and is an open source project. You can contact me for recommendations and improvements by mail, which is listed in the main repository. Thank you.",
+        "languages": {
+            "Java": 3619
+        }
+    },
+    {
+        "name": "Video-Game-Sales-and-Ratings-Analysis---R-Studio-Project",
+        "description": "This repo analyzes video game sales and ratings (1980-2022) using R Studio. Data from Kaggle includes game details, genres, publishers, developers, platforms, and user/critic ratings. Explore insights into industry dynamics, trends, and the interplay between critical acclaim and user reception.",
+        "languages": {}
+    },
+    {
+        "name": "Delani-Studio",
+        "description": "This site provides more information on Delani Studio- made up of a team of software developers. It explains their approach to the design and development process. It also showcases the portfolio of projects they have undertaken before.",
+        "languages": {
+            "HTML": 11321,
+            "CSS": 33
+        }
+    },
+    {
+        "name": "Windows-Application-Developer",
+        "description": "I am looking to connect someone for a project on development application on Windows. Precisely with strong concepts holding on OOPS concept, C+ or C++ or C#, WPF/ WCS/ WFC, Visual Studio. Minimum 3 years of Experience",
+        "languages": {}
+    },
+    {
+        "name": "DELANI-STUDIOS",
+        "description": "Delani Studio is a fictional studio that houses full-stack developers. Displayed here is the home page. It has a portfolio of their previous projects. There is a section that explains the process they take to deliver working projects from start to finish.Click on the link below to access the site. ",
+        "languages": {
+            "HTML": 13094,
+            "JavaScript": 4030,
+            "CSS": 3259
+        }
+    },
+    {
+        "name": "fuse-demo",
+        "description": "New Fuse project development walkthrough -- Red Hat Fuse Apicurito -> Red Hat Developer Studio -> OpenShift ",
+        "languages": {
+            "Java": 3804
+        }
+    },
+    {
+        "name": "News-MVC",
+        "description": "hello mega sudan developers this is my first project in visual studio code 2019",
+        "languages": {
+            "CSS": 6139,
+            "ASP.NET": 5131,
+            "C#": 1675
+        }
+    },
+    {
+        "name": "AnypointStudio_Mulesoft",
+        "description": "Anypoint Studio provides a number of tools to help developers create and manage Mule projects. These tools include a visual editor for designing integration flows, a debugger for troubleshooting issues, a test suite for validating the behavior of the integration flow, and a deployment wizard for deploying the project to various environments.",
+        "languages": {}
+    },
+    {
+        "name": "Photo-Studio-Webpage-For-Grid-Practice-",
+        "description": "The project contains some beginner-level html and CSS codes that might offend some developers. Sorry for that, it was built at the early stage of my learning life.PEACE.",
+        "languages": {
+            "HTML": 6586,
+            "CSS": 3201
+        }
+    },
+    {
+        "name": "MyFirstApp",
+        "description": "This my first project from android studio based off the tutorial from Android Developers website",
+        "languages": {
+            "Java": 2820
+        }
+    },
+    {
+        "name": "Internship---Web-Developer-",
+        "description": "While working at the Internship Studio, I created an e-commerce  website for clothing, electronics, and other products. Working as  a front-end and back-end developer, I used HTML, CSS, and  JavaScript for the front-end, and Node.js and MongoDB for the  back-end.By the  end of the project",
+        "languages": {
+            "HTML": 164574,
+            "CSS": 2795
+        }
+    },
+    {
+        "name": "delanistudio",
+        "description": "Delani Studio is a project that provides a platform on which developers and artists can host their work by posting the projects done by individual developers.",
+        "languages": {
+            "JavaScript": 228500,
+            "HTML": 7674,
+            "CSS": 2874
+        }
+    },
+    {
+        "name": "UECPPD",
+        "description": "Unreal Engine and Visual Studio projects for sections from Udemy's Unreal Engine C++ Developer course",
+        "languages": {
+            "C++": 140358,
+            "C": 37994,
+            "C#": 4624
+        }
+    },
+    {
+        "name": "simpleCounter",
+        "description": "Created a simple counter in Android Studio as my first project as a starter Native Mobile Developer",
+        "languages": {
+            "Kotlin": 7851
+        }
+    },
+    {
+        "name": "My_First_Application",
+        "description": "My first Android studio project following: https://developer.android.com/codelabs/build-your-first-android-app#9",
+        "languages": {
+            "Java": 7188
+        }
+    },
+    {
+        "name": "Task_Manager",
+        "description": "Task manager project From GOOGLE ANDROID DEVELOPER VIRTUAL INTERNSHIP made this using Kontlin language in Android Studio ",
+        "languages": {
+            "Kotlin": 7041
+        }
+    },
+    {
+        "name": "YouTubeProject_ws",
+        "description": "This game was created without any communication between 4 developers. Everyone had 5 hours to implement their plans. Watch the video on the Welwise Studio channel!",
+        "languages": {
+            "ShaderLab": 82250,
+            "C#": 58212,
+            "Mathematica": 15479,
+            "HLSL": 13994
+        }
+    },
+    {
+        "name": "sfdx-project",
+        "description": "This guide helps Salesforce developers who are new to Visual Studio Code go from zero to a deployed app using Salesforce Extensions for VS Code and Salesforce CLI.",
+        "languages": {
+            "JavaScript": 3015,
+            "CSS": 1203,
+            "Apex": 866
+        }
+    },
+    {
+        "name": "office-address",
+        "description": "Project created for the test for the Senior Frontend Developer Test opportunity at Dog and Pony Studios",
+        "languages": {
+            "Vue": 29596,
+            "JavaScript": 1963
+        }
+    },
+    {
+        "name": "CaseConverter",
+        "description": "This is a Visual Studio extension project. which helps developer to convert the text casing during development.",
+        "languages": {
+            "C#": 5652
+        }
+    },
+    {
+        "name": "TodoAppInAndroidStudio",
+        "description": "In this project you will learn how to create ToDo List App in Android Studio. Just follow the steps in the Article. More article about Android Application Development will uploaded so get in touch with the channel. So you are no more far. You can be  developer.",
+        "languages": {
+            "Java": 23239
+        }
+    },
+    {
+        "name": "Delanistudio-ip",
+        "description": "This project is about A virtual studio website created to help developers create products for their business through designs and collaborating with other developers.",
+        "languages": {
+            "HTML": 1997,
+            "CSS": 1237
+        }
+    },
+    {
+        "name": "MyFirstApps",
+        "description": "First Android App following the Android Studio Tutorial: https://developer.android.com/training/basics/firstapp/creating-project.html",
+        "languages": {
+            "Java": 5209,
+            "Swift": 4202
+        }
+    },
+    {
+        "name": "Athletic-Page",
+        "description": "This a project for a Athletic Page using Java Servlet and Mobile Developer with Android Studio-Year 2019",
+        "languages": {
+            "Java": 1225859,
+            "HTML": 3500
+        }
+    },
+    {
+        "name": "MapAlarm",
+        "description": "This is an Android Studio project. The top 50 popular app in HUAWEI 2017 Developer Contest in China",
+        "languages": {
+            "Java": 151641,
+            "HTML": 6379
+        }
+    },
+    {
+        "name": "Android_Studio_Intro",
+        "description": "after almost 2 years of web programming, i wanted to go back to my roots and start to program for Android again\napparently, eclipe (ADT) is out of fassion...so i download Android studio and started playing\n\nthis is basic android project taken from http://developer.android.com/training. the simple app showcase Android application lifecycle, simple UI and some basic apis, like locations and contacts.\n\ncheckout the Wiki for more details",
+        "languages": {
+            "Java": 1501
+        }
+    },
+    {
+        "name": "goit-markup-hw-08",
+        "description": "My first project Web Studio as part of the Full Stack Developer course GO IT. Final homework assignment \u21168.",
+        "languages": {
+            "HTML": 56303,
+            "CSS": 26469,
+            "SCSS": 24866,
+            "JavaScript": 988
+        }
+    },
+    {
+        "name": "NavigationDrawer",
+        "description": "An Android Studio project based on the sample of http://developer.android.com/training/implementing-navigation/nav-drawer.html",
+        "languages": {
+            "Java": 10505
+        }
+    },
+    {
+        "name": "javascript-intellisense-helper",
+        "description": "This module provides intellisense/autocomplete information for javascript projects/websites in Visual Studio 2012 and Visual Web Developer Express 2012",
+        "languages": {
+            "JavaScript": 1495571
+        }
+    },
+    {
+        "name": "MaxLines",
+        "description": "Visual studio plugin that disables developers to add more than x lines to any source file under a set project.",
+        "languages": {
+            "HTML": 3517,
+            "CSS": 1868,
+            "C#": 1223
+        }
+    },
+    {
+        "name": "UiPathProjects",
+        "description": "UiPath Studio is advanced automation software that gives everyone, from business users to advanced RPA developers, the right automation canvas to build great software robots and organizations the right governance tools to manage them all.",
+        "languages": {}
+    },
+    {
+        "name": "MvcMusicStoreUpdateVS2017",
+        "description": "Updating Microsoft's popular MVC project to Visual Studio 2017.  Mainly can be used for teaching basic MVC topics or for new developers to have working code projects with more current versions of Visual Studio.",
+        "languages": {}
+    },
+    {
+        "name": "Yes-I-Do-Wedding-Agency",
+        "description": "Yes, I Do Wedding Planning and Design Studio website Project  Produced as my 'Milestone Project 1' for the Code Institute Full-Stack web developer program.",
+        "languages": {
+            "HTML": 200980,
+            "CSS": 24001
+        }
+    },
+    {
+        "name": "Login-and-Register-using-Firebase-Realtime-Database-In-Android-Studio",
+        "description": "In this project you will learn Login and Register using Firebase Realtime Database In Android Studio. Just follow the steps in the Article. More article about Android Application Development will uploaded so get in touch with the channel. So you are no more far. You can be  developer.",
+        "languages": {
+            "Java": 19825
+        }
+    },
+    {
+        "name": "Android_Apps",
+        "description": "SOME OF THE PROJECT THAT HAVE BEEN CREATED BY SOME OF DEVELOPERS INCLUDING ME, USING SOME KINDS OF STUFF LIKE ANDROID STUDIO ",
+        "languages": {
+            "Java": 4050
+        }
+    },
+    {
+        "name": "PulseCode",
+        "description": "The PulseCode project is designed to enhance developer productivity within the Visual Studio Code environment by offering easy access to code analysis, linting, and project management tools. ",
+        "languages": {
+            "Shell": 1195,
+            "Python": 536
+        }
+    },
+    {
+        "name": "leetcode",
+        "description": "My leetcode solution. Friendly to android developer cause this project is managed by Android Studio. The code is placed in the test folder.",
+        "languages": {
+            "Java": 154920,
+            "Kotlin": 114605
+        }
+    },
+    {
+        "name": "androidstudio",
+        "description": "put this files in android studio projects folder whenever u want run ,this are all kotlin and flutter porject done through google developer website. ",
+        "languages": {
+            "Dart": 5667,
+            "Objective-C": 642,
+            "Shell": 543,
+            "Java": 516,
+            "Swift": 417,
+            "Kotlin": 132
+        }
+    },
+    {
+        "name": "Android-MovieCatalogue",
+        "description": "This project is intended for the final submission on Menjadi Android Developer Expert (MADE) course from Dicoding Academy Indonesia by using Java Android Studio",
+        "languages": {
+            "Java": 116314
+        }
+    },
+    {
+        "name": "DiaTracker-Group-Project",
+        "description": "This is the culmination of a team of 4 student developers creating a Diabetes Tracker App using Android Studio.  I was responsible for project management within the group. Credit for this application also goes to Caleb Sica, Timothy J. Jones, Alex Hendrickson, and I.",
+        "languages": {
+            "Java": 42046
+        }
+    },
+    {
+        "name": "Project-Management-System",
+        "description": "Contains a Visual Studio Project using C# including some databases and Themes. This is a Project Management System where the administrator can create a new project by inputting the required information, will receive a notification in homepage when a developer comments on a project, can view, approve or reject a comment, can view detailed project information and perform various search queries. On the other hand the developer can search for project comments by other developers, can view project status and completion comments and keep track of how many times a project is revised. ",
+        "languages": {
+            "C#": 22719,
+            "ASP": 20904
+        }
+    },
+    {
+        "name": "HappyBirthdayCardAndroidTutorial",
+        "description": "This is an App created to show two TextViews and one ImageView, following the steps from Android Developers site, an Android Studio Project written in Kotlin.",
+        "languages": {
+            "Kotlin": 1424
+        }
+    },
+    {
+        "name": "Projects-Rafaelberico",
+        "description": "There contains different kinds of project made by me. Using visual studio code, html, css and al little bit of JavaScript. Most of them are about frontend, this is the branch of developers which I used to use a lot. And also are performes for obtain a future job like a student from system engineering. ",
+        "languages": {}
+    },
+    {
+        "name": "Stretch",
+        "description": "As the Milestone 1 Project for Full Stack Developer Program, this website was built with HTML, CSS & Bootstrap for Stretch, a fictional yoga & meditation studio in Nigeria",
+        "languages": {
+            "HTML": 32612,
+            "CSS": 25853,
+            "Shell": 813,
+            "Dockerfile": 762
+        }
+    },
+    {
+        "name": "Expense-Management-System",
+        "description": "A project developed using C# for backend and visual studio for frontend with SQL developer as the database. This helps in tracking your salary , expenses and savings.",
+        "languages": {
+            "C#": 42784
+        }
+    },
+    {
+        "name": "ContinuousReporting",
+        "description": "This project is a graphical way, for a single developer or a team, to trace activities in an application built by Visual Studio Online (Team Fundation Service).",
+        "languages": {
+            "JavaScript": 128894,
+            "C#": 93646,
+            "CSS": 2700,
+            "ASP": 111
+        }
+    },
+    {
+        "name": "VSPCleaner",
+        "description": "VSPCleaner is tool for developers who use Visual Studio as development environment. It can remove all unnecessary files from one or more projects at the same time.",
+        "languages": {
+            "C#": 46186
+        }
+    },
+    {
+        "name": "vscode-tsglance",
+        "description": "TSGLANCE is a Visual Studio Code extension designed for TypeScript developers. It provides a comprehensive and intuitive view of TypeScript entities, enhancing code navigation and understanding within projects.",
+        "languages": {
+            "TypeScript": 21644,
+            "JavaScript": 117
+        }
+    },
+    {
+        "name": "Android-App-Developers-in-USA---Codism",
+        "description": "Android mobile applications are mushrooming all through, unprecedentedly. Android mobile applications also provide great opportunities to brands and businesses to engage with their customers in newer ways. Android, which otherwise is just another operating system, has been one of the biggest disruptions in the field of mobile communication, entertainment and information sharing. Android has completely revolutionized the way mobile phones used to be perceived, turning them into a pandora\u2019s box. Hundreds and thousands of Android mobile apps have emerged since then, and there\u2019s little doubt that Android is the most popular mobile operating system across the world. The popularity of Android has also given rise to a lot of new possibilities and opportunities. At Codism, we, amongst many other specialties, are a top-notch android development company at heart. We provide superior android development services to our clients, with the best technology, features, and design as per their requirement and domain that mesmerize its users. We are enabled by a highly competitive team of developers, having to their credit several years of experience in android studio and other allied technologies to serve with solution of any Android operating system based problem. Codism has had a remarkable track record and an impressive body of work as an Android development company. We have worked on android development projects of varied nature and scale, for multiple domain clients. Further, we follow a well-structured development process at Codism, which leads to deep-rooted insight and helps in responding to the changing market trends in an iterative manner. Android is a mobile operating system serving by the most prominent organization of the world that is Google. If you are using a Smart phone, and you are not an apple fan, there\u2019s almost a 100 percent chance that you are using Android. According to statistics, around 85 percent mobile users have Android based smart phones. The popularity of Android is not just because of the amazing user interface and functionalities that it provides, but also because it provides thousands of Mobile applications (and counting) serving a hundred different purposes and helping the users in multiple ways. Needless to say, being a product of Google, the operating system is trusted. Google has also developed amazing app development platforms (android studio), tools, add-ons and frameworks that ensure the applications on android keep on increasing, expanding and improving. To know more: https://codism.io/services/android-application-development-usa",
+        "languages": {}
     }
 ]

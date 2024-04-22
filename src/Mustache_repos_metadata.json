@@ -52,7 +52,7 @@
         "name": "argo-helm",
         "description": "ArgoProj Helm Charts",
         "languages": {
-            "Mustache": 29710,
+            "Mustache": 29800,
             "Shell": 1920
         }
     },
@@ -65,6 +65,1730 @@
             "Nix": 6981,
             "Shell": 4243,
             "CSS": 2911
+        }
+    },
+    {
+        "name": "eks-charts",
+        "description": "Amazon EKS Helm chart repository",
+        "languages": {
+            "Mustache": 39014,
+            "Shell": 16969,
+            "Smarty": 6358,
+            "Makefile": 811
+        }
+    },
+    {
+        "name": "harbor-helm",
+        "description": "The helm chart to deploy Harbor",
+        "languages": {
+            "Mustache": 18702,
+            "Go": 10118,
+            "Dockerfile": 430
+        }
+    },
+    {
+        "name": "school-dev-k8s",
+        "description": null,
+        "languages": {
+            "Mustache": 103462,
+            "Shell": 6212,
+            "Python": 522,
+            "Dockerfile": 149
+        }
+    },
+    {
+        "name": "charts",
+        "description": "Easily deploy Sentry on your Kubernetes Cluster",
+        "languages": {
+            "Mustache": 23497
+        }
+    },
+    {
+        "name": "prometheus",
+        "description": "Kubernetes Setup for Prometheus and Grafana",
+        "languages": {
+            "Mustache": 5064,
+            "Shell": 2968
+        }
+    },
+    {
+        "name": "cp-helm-charts",
+        "description": "The Confluent Platform Helm charts enable you to deploy Confluent Platform services on Kubernetes for development, test, and proof of concept environments.",
+        "languages": {
+            "Mustache": 22161,
+            "Shell": 1721
+        }
+    },
+    {
+        "name": "client",
+        "description": "The Hypothesis web-based annotation client.",
+        "languages": {
+            "Mustache": 4504633,
+            "JavaScript": 2474823,
+            "TypeScript": 1193847,
+            "HTML": 82133,
+            "CSS": 67887,
+            "SCSS": 15196,
+            "Shell": 4226,
+            "Makefile": 3677,
+            "Python": 2178
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "A curated set of Helm charts brought to you by codecentric",
+        "languages": {
+            "Mustache": 6986,
+            "Dockerfile": 474
+        }
+    },
+    {
+        "name": "strftime.org",
+        "description": "A single-serving-site that provides a reference for Python's strftime formatting options",
+        "languages": {
+            "Mustache": 2912,
+            "Python": 2092,
+            "Makefile": 521
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "Jenkins helm charts",
+        "languages": {
+            "Mustache": 27738,
+            "Starlark": 205
+        }
+    },
+    {
+        "name": "inlets-pro",
+        "description": "Secure HTTP and TCP tunnels that just work",
+        "languages": {
+            "Mustache": 5560,
+            "Makefile": 1011
+        }
+    },
+    {
+        "name": "selling-partner-api-models",
+        "description": "This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.",
+        "languages": {
+            "Mustache": 229033,
+            "Java": 148376,
+            "C#": 29566,
+            "Python": 10785,
+            "JavaScript": 3114,
+            "Shell": 2740
+        }
+    },
+    {
+        "name": "pihole-kubernetes",
+        "description": "PiHole on kubernetes",
+        "languages": {
+            "Mustache": 1245,
+            "Makefile": 356
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "Helm Charts \u26f5 @ Delivery Hero \u2b50",
+        "languages": {
+            "Mustache": 64857,
+            "Smarty": 46318,
+            "Python": 18560,
+            "Shell": 10489,
+            "Open Policy Agent": 6322,
+            "Dockerfile": 308
+        }
+    },
+    {
+        "name": "cost-analyzer-helm-chart",
+        "description": "Kubecost helm chart",
+        "languages": {
+            "Mustache": 53756,
+            "Shell": 1047,
+            "Dockerfile": 906
+        }
+    },
+    {
+        "name": "thmsgbrt",
+        "description": "My awesome README.md",
+        "languages": {
+            "Mustache": 10527,
+            "JavaScript": 4113
+        }
+    },
+    {
+        "name": "charts",
+        "description": "Localized Helm charts from Helm Hub to China",
+        "languages": {
+            "Mustache": 685188,
+            "Smarty": 66559,
+            "Shell": 43287,
+            "PLpgSQL": 15245,
+            "Makefile": 3453,
+            "Dockerfile": 3026,
+            "Go": 630,
+            "Python": 219,
+            "HTML": 13
+        }
+    },
+    {
+        "name": "scaffold-clean-architecture",
+        "description": "Gradle plugin to create a clean application in Java that already works, It follows our best practices!",
+        "languages": {
+            "Mustache": 595953,
+            "Java": 594380,
+            "Shell": 4509,
+            "Dockerfile": 2431
+        }
+    },
+    {
+        "name": "banzai-charts",
+        "description": "Curated list of Banzai Cloud Helm charts used by the Pipeline Platform",
+        "languages": {
+            "Mustache": 61596,
+            "Python": 10214,
+            "Smarty": 3657
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "Helm Charts for Fluentd and Fluent Bit",
+        "languages": {
+            "Mustache": 9959,
+            "Smarty": 8279
+        }
+    },
+    {
+        "name": "k8s",
+        "description": "Kubernetes Helm Charts for the ORY ecosystem.",
+        "languages": {
+            "Mustache": 24672,
+            "Makefile": 5740,
+            "Shell": 4800,
+            "Smarty": 3632
+        }
+    },
+    {
+        "name": "k8s",
+        "description": "There are some yaml files of k8s.",
+        "languages": {
+            "Mustache": 332953,
+            "Smarty": 49748,
+            "Roff": 36369,
+            "Shell": 14520,
+            "Makefile": 5340,
+            "Dockerfile": 2618,
+            "PHP": 2285,
+            "Python": 1428,
+            "Ruby": 183
+        }
+    },
+    {
+        "name": "universe",
+        "description": "The Mesosphere Universe package repository.",
+        "languages": {
+            "Mustache": 9380707,
+            "Python": 72604,
+            "Shell": 8670,
+            "Makefile": 1535,
+            "Dockerfile": 1486
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem ",
+        "languages": {
+            "Mustache": 47646,
+            "Python": 28971,
+            "Smarty": 11831,
+            "Makefile": 6274
+        }
+    },
+    {
+        "name": "swagger-codegen-generators",
+        "description": null,
+        "languages": {
+            "Mustache": 2846922,
+            "Java": 1534065,
+            "Shell": 44943,
+            "CSS": 4881,
+            "JavaScript": 4782,
+            "Scala": 1563,
+            "PHP": 655,
+            "Dockerfile": 264,
+            "HTML": 58
+        }
+    },
+    {
+        "name": "base16-alacritty",
+        "description": "Base16 for Alacritty",
+        "languages": {
+            "Mustache": 2044
+        }
+    },
+    {
+        "name": "docker-registry.helm",
+        "description": "Helm chart for a Docker registry. Successor to stable/docker-registry chart.",
+        "languages": {
+            "Mustache": 6237
+        }
+    },
+    {
+        "name": "hydro-serving",
+        "description": "MLOps Platform",
+        "languages": {
+            "Mustache": 99314,
+            "Groovy": 3381,
+            "Shell": 1195
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "Temporal Helm charts",
+        "languages": {
+            "Mustache": 15348
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "Helm Charts for Jaeger backend",
+        "languages": {
+            "Mustache": 24684
+        }
+    },
+    {
+        "name": "nestjs-flub",
+        "description": "Pretty Error \ud83d\ude2b Stack Viewer for NestJS Framework \ud83d\udee0\ufe0f",
+        "languages": {
+            "Mustache": 101278,
+            "TypeScript": 11954
+        }
+    },
+    {
+        "name": "onechart",
+        "description": "A generic Helm chart for your application deployments",
+        "languages": {
+            "Mustache": 6524,
+            "HTML": 4383,
+            "Makefile": 2413,
+            "Smarty": 2106,
+            "CSS": 185
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "Contains Helm charts for Kubernetes related open source tools",
+        "languages": {
+            "Mustache": 2869
+        }
+    },
+    {
+        "name": "base16-termite",
+        "description": null,
+        "languages": {
+            "Mustache": 1018
+        }
+    },
+    {
+        "name": "youtube",
+        "description": "Files for youtube's videos ",
+        "languages": {
+            "Mustache": 221705,
+            "Smarty": 41770,
+            "Shell": 14593,
+            "Go": 10896,
+            "Python": 7870,
+            "Makefile": 6183,
+            "Dockerfile": 5549,
+            "Jinja": 2498,
+            "HTML": 1354
+        }
+    },
+    {
+        "name": "charts",
+        "description": "Helm chart for Kong",
+        "languages": {
+            "Mustache": 59492,
+            "Shell": 16676,
+            "Makefile": 1844
+        }
+    },
+    {
+        "name": "base16-jetbrains",
+        "description": "Base16 themes for Jetbrains IDE's (IntelliJ, PyCharm, Webstorm, etc) - and the Material Theme plugin",
+        "languages": {
+            "Mustache": 145377,
+            "Shell": 717
+        }
+    },
+    {
+        "name": "helm-chart-sonarqube",
+        "description": null,
+        "languages": {
+            "Mustache": 19275,
+            "Go": 9230,
+            "Shell": 5924,
+            "Dockerfile": 5354,
+            "Starlark": 191
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "Official Helm Chart Repository for InfluxData Applications",
+        "languages": {
+            "Mustache": 52838,
+            "Smarty": 2879,
+            "Shell": 1946,
+            "HCL": 1109
+        }
+    },
+    {
+        "name": "netbox-chart",
+        "description": "A Helm chart for NetBox",
+        "languages": {
+            "Mustache": 5197
+        }
+    },
+    {
+        "name": "base16-xfce4-terminal",
+        "description": "Base16 template for xfce4-terminal",
+        "languages": {
+            "Mustache": 1091
+        }
+    },
+    {
+        "name": "helm-cronjobs",
+        "description": "a helm chart for cronjobs in kubernetes",
+        "languages": {
+            "Mustache": 1785
+        }
+    },
+    {
+        "name": "spark-on-kubernetes-helm",
+        "description": "Spark on Kubernetes infrastructure Helm charts repo ",
+        "languages": {
+            "Mustache": 9484,
+            "Jupyter Notebook": 3815,
+            "Shell": 2825,
+            "Dockerfile": 933,
+            "HTML": 13
+        }
+    },
+    {
+        "name": "base16-iterm2",
+        "description": "Base16 for iTerm2",
+        "languages": {
+            "Mustache": 13286
+        }
+    },
+    {
+        "name": "base16-kitty",
+        "description": "Base16 color scheme template for kitty",
+        "languages": {
+            "Mustache": 1994
+        }
+    },
+    {
+        "name": "meilisearch-kubernetes",
+        "description": "Meilisearch on Kubernetes Helm charts and manifests ",
+        "languages": {
+            "Mustache": 2396
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "Helm charts for Kubernetes curated by Kiwigrid",
+        "languages": {
+            "Mustache": 27268,
+            "Smarty": 1972,
+            "HTML": 1110
+        }
+    },
+    {
+        "name": "charts",
+        "description": "Helm chart repository",
+        "languages": {
+            "Mustache": 4449,
+            "Smarty": 1574
+        }
+    },
+    {
+        "name": "helm-openldap",
+        "description": "Helm chart of Openldap in High availability with multi-master replication and PhpLdapAdmin and Ltb-Passwd",
+        "languages": {
+            "Mustache": 11659,
+            "Python": 5832,
+            "Shell": 3317
+        }
+    },
+    {
+        "name": "testsuite",
+        "description": "\ud83d\udcde\ud83d\udcf1\u260e\ufe0f\ud83d\udce1\ud83c\udf10 Cloud Native Telecom Initiative (CNTI) Test Catalog is a tool to check for and provide feedback on the use of K8s + cloud native best practices in networking applications and platforms",
+        "languages": {
+            "Mustache": 3198199,
+            "Crystal": 715829,
+            "Smarty": 57139,
+            "Shell": 37124,
+            "Dockerfile": 15085,
+            "HTML": 13013,
+            "Makefile": 6183,
+            "C": 845
+        }
+    },
+    {
+        "name": "helmchart",
+        "description": "Helm chart for kubernetes deployments",
+        "languages": {
+            "Mustache": 4838
+        }
+    },
+    {
+        "name": "manifests",
+        "description": "For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy",
+        "languages": {
+            "Mustache": 5051,
+            "Smarty": 2542
+        }
+    },
+    {
+        "name": "charts",
+        "description": "The \"Cloud Posse\" Distribution of Kubernetes Applications",
+        "languages": {
+            "Mustache": 46989,
+            "Smarty": 9978,
+            "Makefile": 2969,
+            "Shell": 497,
+            "HTML": 68
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": ":wheel_of_dharma: A community repository for Helm Charts of OpenSearch Project.",
+        "languages": {
+            "Mustache": 4194,
+            "Smarty": 3568
+        }
+    },
+    {
+        "name": "contrib-helm-chart",
+        "description": "Community maintained Redash Helm Chart",
+        "languages": {
+            "Mustache": 15910
+        }
+    },
+    {
+        "name": "chart",
+        "description": "Helm chart for Mastodon deployment in Kubernetes",
+        "languages": {
+            "Mustache": 5588
+        }
+    },
+    {
+        "name": "renovate-ce-ee",
+        "description": "Mend Renovate Documentation & Examples",
+        "languages": {
+            "Mustache": 3743
+        }
+    },
+    {
+        "name": "datahub-helm",
+        "description": "Repository of helm charts for deploying DataHub on a Kubernetes cluster",
+        "languages": {
+            "Mustache": 21634
+        }
+    },
+    {
+        "name": "charts",
+        "description": "Various helm charts migrated from [helm/stable] due to deprecation",
+        "languages": {
+            "Mustache": 32265,
+            "Smarty": 1928
+        }
+    },
+    {
+        "name": "charts",
+        "description": "Helm charts for KEDA",
+        "languages": {
+            "Mustache": 2771
+        }
+    },
+    {
+        "name": "kubeslice",
+        "description": "Applications provided by Avesha Systems, ready to launch on Kubernetes using Kubernetes Helm.",
+        "languages": {
+            "Mustache": 31626,
+            "Smarty": 15998
+        }
+    },
+    {
+        "name": "concourse-chart",
+        "description": "Helm chart to install Concourse",
+        "languages": {
+            "Mustache": 19250
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "Helm chart for HAProxy Kubernetes Ingress Controller",
+        "languages": {
+            "Mustache": 9116,
+            "Shell": 7256
+        }
+    },
+    {
+        "name": "kube-rclone",
+        "description": "kube-rclone is a rclone mount solution for Kubernetes",
+        "languages": {
+            "Mustache": 1439,
+            "Dockerfile": 585
+        }
+    },
+    {
+        "name": "tiledesk",
+        "description": "Install Tiledesk on your server using Helm for Kubernetes orchestration and Docker Compose for running multi-container Docker applications. Tiledesk provides an open-source solution comparable to Voiceflow, empowering you to create sophisticated LLM-enabled chatbots that seamlessly transition interactions to human agents when needed.",
+        "languages": {
+            "Mustache": 1830,
+            "Shell": 246
+        }
+    },
+    {
+        "name": "quanxiang",
+        "description": "QuanXiang is a powerful, pluggable open source low-code platform used to assist in building various types of digital applications for enterprises.",
+        "languages": {
+            "Mustache": 450619,
+            "Smarty": 13047,
+            "JavaScript": 5155,
+            "Shell": 2719
+        }
+    },
+    {
+        "name": "charts",
+        "description": "Fairwinds helm chart repository",
+        "languages": {
+            "Mustache": 38684,
+            "Shell": 24731,
+            "Smarty": 18762,
+            "Python": 7099,
+            "Open Policy Agent": 974
+        }
+    },
+    {
+        "name": "charts",
+        "description": null,
+        "languages": {
+            "Mustache": 3627
+        }
+    },
+    {
+        "name": ".dotfiles_wayland",
+        "description": "dotfiles for archlinux",
+        "languages": {
+            "Mustache": 238488,
+            "JavaScript": 81469,
+            "CSS": 41449,
+            "Shell": 40153,
+            "SCSS": 18510,
+            "Python": 6288,
+            "HTML": 1140,
+            "Vim Script": 81
+        }
+    },
+    {
+        "name": "base16-i3",
+        "description": null,
+        "languages": {
+            "Mustache": 3177
+        }
+    },
+    {
+        "name": "DO288-apps",
+        "description": null,
+        "languages": {
+            "Mustache": 57836,
+            "Java": 51931,
+            "JavaScript": 35959,
+            "HTML": 33186,
+            "TypeScript": 30112,
+            "Dockerfile": 12609,
+            "Shell": 4092,
+            "PLpgSQL": 4034,
+            "CSS": 3907,
+            "Smarty": 1802,
+            "Python": 1682,
+            "PHP": 1444,
+            "Go": 722,
+            "Pug": 706,
+            "Handlebars": 409,
+            "sed": 208
+        }
+    },
+    {
+        "name": "jitsi-helm",
+        "description": "A helm chart to deploy Jitsi to Kubernetes",
+        "languages": {
+            "Mustache": 5294,
+            "Smarty": 2323,
+            "Makefile": 421
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "Kubernetes Helm Charts for the Center for Open Science",
+        "languages": {
+            "Mustache": 87446,
+            "Smarty": 84906,
+            "Python": 40580,
+            "HTML": 24971,
+            "XSLT": 24896,
+            "Makefile": 6141,
+            "Shell": 5624,
+            "JavaScript": 3272
+        }
+    },
+    {
+        "name": "quorum-kubernetes",
+        "description": "Helm charts for Hyperledger Besu and GoQuorum",
+        "languages": {
+            "Mustache": 5497,
+            "Shell": 5432,
+            "Dockerfile": 1405
+        }
+    },
+    {
+        "name": "kumux-colorscheme-engine",
+        "description": "Kumux is the world's first dynamic circadian color scheme for code editors and other software.",
+        "languages": {
+            "Mustache": 320872,
+            "TypeScript": 32591,
+            "Vim Script": 19770,
+            "Shell": 9715,
+            "JavaScript": 4863,
+            "Lua": 3488
+        }
+    },
+    {
+        "name": "percona-helm-charts",
+        "description": "Collection of Helm charts for Percona Kubernetes Operators.",
+        "languages": {
+            "Mustache": 20917,
+            "Dockerfile": 3755,
+            "Smarty": 2240,
+            "Shell": 1410
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "Atlantis Helm Chart",
+        "languages": {
+            "Mustache": 3301,
+            "Makefile": 701
+        }
+    },
+    {
+        "name": "charts-repo-actions-demo",
+        "description": "Example project to demo testing and hosting a chart repository with GitHub Pages and Actions",
+        "languages": {
+            "Mustache": 1727
+        }
+    },
+    {
+        "name": "charts",
+        "description": "Cowboy Sysop Charts",
+        "languages": {
+            "Mustache": 76388
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": " Curated applications for Kubernetes",
+        "languages": {
+            "Mustache": 3265
+        }
+    },
+    {
+        "name": "charts",
+        "description": "OpenEBS Helm Charts and other utilities",
+        "languages": {
+            "Mustache": 5845
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "Source & Repo of https://charts.kubesphere.io/main & https://charts.kubesphere.io/test",
+        "languages": {
+            "Mustache": 752163,
+            "Smarty": 692498,
+            "Ruby": 119432,
+            "Shell": 91715,
+            "Open Policy Agent": 1761,
+            "Makefile": 917
+        }
+    },
+    {
+        "name": "sanfrancisco",
+        "description": "repo for organizing the sanfrancisco nodeschools",
+        "languages": {
+            "Mustache": 13252,
+            "Stylus": 5491
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": null,
+        "languages": {
+            "Mustache": 2923,
+            "Shell": 1909,
+            "Dockerfile": 991
+        }
+    },
+    {
+        "name": "bitwarden-k8s",
+        "description": "Helm chart for deploying bitwarden-rs in Kubernetes",
+        "languages": {
+            "Mustache": 2413
+        }
+    },
+    {
+        "name": "open-amt-cloud-toolkit",
+        "description": "Open AMT Cloud Toolkit offers open-source microservices and libraries to streamline Intel AMT integration, simplifying out-of-band management solutions for Intel vPro Platforms.",
+        "languages": {
+            "Mustache": 1967,
+            "PowerShell": 635,
+            "Makefile": 585,
+            "Dockerfile": 308
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "Helm charts for Vector.",
+        "languages": {
+            "Mustache": 19426,
+            "Smarty": 18195
+        }
+    },
+    {
+        "name": "devicehive-docker",
+        "description": "Run DeviceHive Docker containers with Docker Compose and on Kubernetes",
+        "languages": {
+            "Mustache": 1105,
+            "Smarty": 502
+        }
+    },
+    {
+        "name": "charts",
+        "description": "Helm Charts for Kubernetes",
+        "languages": {
+            "Mustache": 8883,
+            "Shell": 8012,
+            "Makefile": 1211
+        }
+    },
+    {
+        "name": "k8s-extensions",
+        "description": "The 'k8s-extensions' repository is a collection of custom Kubernetes extensions designed to enhance and extend the capabilities of a Kubernetes cluster.",
+        "languages": {
+            "Mustache": 139342,
+            "Smarty": 752,
+            "HCL": 465
+        }
+    },
+    {
+        "name": "Xero-OpenAPI",
+        "description": "An OpenAPI description of the Xero API",
+        "languages": {
+            "Mustache": 152435,
+            "Shell": 3697
+        }
+    },
+    {
+        "name": "helm",
+        "description": "Helm Charts for CoreDNS",
+        "languages": {
+            "Mustache": 8773
+        }
+    },
+    {
+        "name": "Kubernetes_Advanced_Practical_2rd",
+        "description": "\u300aKubernetes\u8fdb\u9636\u5b9e\u6218\uff08\u7b2c2\u7248\uff09\u300b\u968f\u4e66\u4ee3\u7801~",
+        "languages": {
+            "Mustache": 3697,
+            "Shell": 2770,
+            "Smarty": 2671,
+            "Dockerfile": 547
+        }
+    },
+    {
+        "name": "matrix-chart",
+        "description": "Helm chart for deploying a Matrix homeserver stack",
+        "languages": {
+            "Mustache": 4156
+        }
+    },
+    {
+        "name": "system-charts",
+        "description": "Replaced by rancher/charts. The deprecation process is in progress.",
+        "languages": {
+            "Mustache": 2672
+        }
+    },
+    {
+        "name": "aqua-helm",
+        "description": "Helm Charts For Installing Aqua Security Components ",
+        "languages": {
+            "Mustache": 35783,
+            "Smarty": 14513,
+            "Shell": 823
+        }
+    },
+    {
+        "name": "emojicode.github.io",
+        "description": "The Emojicode Documentation ",
+        "languages": {
+            "Mustache": 21771,
+            "JavaScript": 19494,
+            "SCSS": 13945,
+            "HTML": 1060,
+            "Shell": 67
+        }
+    },
+    {
+        "name": "milvus-helm",
+        "description": "The helm chart to deploy Milvus",
+        "languages": {
+            "Mustache": 11088,
+            "Smarty": 7395,
+            "Shell": 3217
+        }
+    },
+    {
+        "name": "docker-mailserver-helm",
+        "description": "Kubernetes Helm chart for docker-mailserver",
+        "languages": {
+            "Mustache": 1249,
+            "Shell": 781
+        }
+    },
+    {
+        "name": "kubernetes",
+        "description": "Kubernetes/Helm configs for ReportPortal",
+        "languages": {
+            "Mustache": 1579
+        }
+    },
+    {
+        "name": "tyk-helm-chart",
+        "description": "A Helm chart repository to install Tyk Pro (with Dashboard), Tyk Hybrid or Tyk Headless chart.",
+        "languages": {
+            "Mustache": 7836
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "Helm charts",
+        "languages": {
+            "Mustache": 41783,
+            "Shell": 6922
+        }
+    },
+    {
+        "name": "kubernetes-sso-guide",
+        "description": null,
+        "languages": {
+            "Mustache": 5663,
+            "Ruby": 2281
+        }
+    },
+    {
+        "name": "connect-api-specification",
+        "description": "This repository contains the OpenAPI specification as well as templates for generating SDKs for Square's APIs",
+        "languages": {
+            "Mustache": 467737,
+            "Shell": 13672,
+            "Java": 851,
+            "Makefile": 382
+        }
+    },
+    {
+        "name": "helm",
+        "description": "Helm chart for authentik",
+        "languages": {
+            "Mustache": 8777,
+            "Shell": 711
+        }
+    },
+    {
+        "name": "opencost-helm-chart",
+        "description": "OpenCost Helm chart ",
+        "languages": {
+            "Mustache": 5313
+        }
+    },
+    {
+        "name": "DevOps",
+        "description": "\u4fe1\u901a\u9662DevOps\u80fd\u529b\u6210\u719f\u5ea6\u8bc4\u4f30\u8ba4\u8bc1\u76f8\u5173\u7684\u6587\u6863\u3001\u5de5\u5177\u3001\u6d41\u7a0b\u4ee5\u53ca\u7ecf\u9a8c\u3002\u6b22\u8fce\u5728Issue\u533a\u63d0\u95ee\uff0c\u6211\u4eec\u4f1a\u5c3d\u5feb\u56de\u7b54\u3002",
+        "languages": {
+            "Mustache": 1678
+        }
+    },
+    {
+        "name": "fumosite",
+        "description": "Source code for https://fumo.website. Pushes to master are automatically deployed. Pull requests welcome!",
+        "languages": {
+            "Mustache": 39314,
+            "SCSS": 8911,
+            "JavaScript": 1407
+        }
+    },
+    {
+        "name": "The-Kubernetes-Bible",
+        "description": "The Kubernetes Bible, published by Packt",
+        "languages": {
+            "Mustache": 4280
+        }
+    },
+    {
+        "name": "big-data-on-k8s",
+        "description": null,
+        "languages": {
+            "Mustache": 80300,
+            "Shell": 15855,
+            "Python": 1886
+        }
+    },
+    {
+        "name": "helm-zabbix",
+        "description": "Helm chart for Zabbix",
+        "languages": {
+            "Mustache": 5369,
+            "Makefile": 2112
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "Personal Helm charts repository",
+        "languages": {
+            "Mustache": 12991,
+            "Smarty": 2262,
+            "Makefile": 1442
+        }
+    },
+    {
+        "name": "create-capacitor-plugin",
+        "description": "Create a new Capacitor plugin \u26a1\ufe0f",
+        "languages": {
+            "Mustache": 33576,
+            "TypeScript": 17033,
+            "JavaScript": 1370,
+            "Java": 1176,
+            "HTML": 1004,
+            "Ruby": 373
+        }
+    },
+    {
+        "name": "choerodon-front",
+        "description": "Choerodon Front is a total front-end of Choerodon that combines Choerodon IAM and Choerodon DevOps.",
+        "languages": {
+            "Mustache": 2201,
+            "Dockerfile": 295,
+            "JavaScript": 282,
+            "Shell": 239
+        }
+    },
+    {
+        "name": "charts",
+        "description": "Source for Helm chart repositories contribution",
+        "languages": {
+            "Mustache": 4714
+        }
+    },
+    {
+        "name": "kong-operator",
+        "description": "Kong Operator for Kubernetes and OpenShift",
+        "languages": {
+            "Mustache": 32428,
+            "Shell": 1200,
+            "Dockerfile": 449
+        }
+    },
+    {
+        "name": "distributed-jmeter-docker",
+        "description": null,
+        "languages": {
+            "Mustache": 2156,
+            "Dockerfile": 1107,
+            "Shell": 746,
+            "Makefile": 348
+        }
+    },
+    {
+        "name": "charts",
+        "description": "\u2638\ufe0f\ud83d\udc33 Verdaccio Helm chart repository",
+        "languages": {
+            "Mustache": 4378
+        }
+    },
+    {
+        "name": "egg-onerror",
+        "description": "error handler for egg",
+        "languages": {
+            "Mustache": 34096,
+            "JavaScript": 24687
+        }
+    },
+    {
+        "name": "base16-putty",
+        "description": "Putty reg files for the base16 themes",
+        "languages": {
+            "Mustache": 2817
+        }
+    },
+    {
+        "name": "elastalert-docker",
+        "description": "Simple Dockerfile for building a Kubernetes and Elastalert Helm compatible Docker image.",
+        "languages": {
+            "Mustache": 1161,
+            "Dockerfile": 918
+        }
+    },
+    {
+        "name": "helm-zabbix",
+        "description": "Helm Chart For Zabbix",
+        "languages": {
+            "Mustache": 5277,
+            "Makefile": 808
+        }
+    },
+    {
+        "name": "-Learn-Helm",
+        "description": "Learn Helm, published by Packt",
+        "languages": {
+            "Mustache": 9415,
+            "Dockerfile": 133
+        }
+    },
+    {
+        "name": "rudderstack-helm",
+        "description": "Open-source, warehouse-first Customer Data Pipeline and Segment-alternative. Collects and routes clickstream data and builds your customer data lake on your data warehouse.",
+        "languages": {
+            "Mustache": 21587
+        }
+    },
+    {
+        "name": "node-app",
+        "description": null,
+        "languages": {
+            "Mustache": 1048,
+            "Shell": 858,
+            "Dockerfile": 422,
+            "JavaScript": 324
+        }
+    },
+    {
+        "name": "zammad-helm",
+        "description": "Zammad Helm chart for Kubernetes",
+        "languages": {
+            "Mustache": 3916
+        }
+    },
+    {
+        "name": "argocd",
+        "description": "ArgoCD examples",
+        "languages": {
+            "Mustache": 27972,
+            "Shell": 713
+        }
+    },
+    {
+        "name": "pomerium-helm",
+        "description": "Official helm charts for Pomerium.",
+        "languages": {
+            "Mustache": 25908,
+            "Smarty": 9276,
+            "Shell": 966,
+            "Makefile": 159
+        }
+    },
+    {
+        "name": "imgproxy-helm",
+        "description": null,
+        "languages": {
+            "Mustache": 7181
+        }
+    },
+    {
+        "name": "api-management-self-hosted-gateway",
+        "description": "Home of Azure API Management's Self-Hosted Gateway",
+        "languages": {
+            "Mustache": 2199
+        }
+    },
+    {
+        "name": "radicle.xyz-old",
+        "description": "The website",
+        "languages": {
+            "Mustache": 359575,
+            "Makefile": 837
+        }
+    },
+    {
+        "name": "kubernetes-charts",
+        "description": "Helm Charts to deploy Django apps in Kubernetes",
+        "languages": {
+            "Mustache": 5158,
+            "Makefile": 888
+        }
+    },
+    {
+        "name": "aerospike-kubernetes",
+        "description": null,
+        "languages": {
+            "Mustache": 865,
+            "Shell": 851
+        }
+    },
+    {
+        "name": "k8s-minecraft",
+        "description": "Running a Minecraft server in Kubernetes",
+        "languages": {
+            "Mustache": 1063,
+            "Shell": 552,
+            "Dockerfile": 491
+        }
+    },
+    {
+        "name": "locust-kubernetes",
+        "description": "Distributed load testing using locust, kubernetes and helm",
+        "languages": {
+            "Mustache": 635,
+            "Shell": 371,
+            "Dockerfile": 351,
+            "Python": 240
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "Popular applications, provided by Valeriano Manassero, ready to launch on Kubernetes using Kubernetes Helm.",
+        "languages": {
+            "Mustache": 6932
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "OpenSourced Helm charts",
+        "languages": {
+            "Mustache": 6080,
+            "Smarty": 316,
+            "Shell": 225
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "Helm Charts",
+        "languages": {
+            "Mustache": 58014,
+            "Shell": 17264,
+            "Smarty": 6610,
+            "Makefile": 546
+        }
+    },
+    {
+        "name": "kube-owasp-zap",
+        "description": "Owasp Zap chart for Kubernetes",
+        "languages": {
+            "Mustache": 1323
+        }
+    },
+    {
+        "name": "charts",
+        "description": "Helm Charts",
+        "languages": {
+            "Mustache": 1998
+        }
+    },
+    {
+        "name": "octant-dashboard-turnkey",
+        "description": "A turnkey Docker-ready and Kubernetes-ready Octant dashboard config",
+        "languages": {
+            "Mustache": 1837,
+            "Shell": 1380,
+            "Dockerfile": 1048
+        }
+    },
+    {
+        "name": "tinted-tmux",
+        "description": "Base16 theme for tmux",
+        "languages": {
+            "Mustache": 6052,
+            "Shell": 1013
+        }
+    },
+    {
+        "name": "pulsar-helm-chart",
+        "description": "Apache Pulsar Helm chart",
+        "languages": {
+            "Mustache": 10466,
+            "Shell": 3911
+        }
+    },
+    {
+        "name": "aws-otel-helm-charts",
+        "description": "AWS Distro for OpenTelemetry (ADOT) Helm Charts",
+        "languages": {
+            "Mustache": 3109,
+            "Shell": 2417,
+            "Makefile": 555
+        }
+    },
+    {
+        "name": "powerdns-helm",
+        "description": "Helm chart for PowerDNS deployment to kubernetes",
+        "languages": {
+            "Mustache": 1158
+        }
+    },
+    {
+        "name": "puppetserver-helm-chart",
+        "description": " The Helm Chart for Puppet Server",
+        "languages": {
+            "Mustache": 24302,
+            "Makefile": 142
+        }
+    },
+    {
+        "name": "base16-terminal-app",
+        "description": "Base16 template for Terminal.app",
+        "languages": {
+            "Mustache": 3260
+        }
+    },
+    {
+        "name": "helm-postgresql",
+        "description": "Helm Chart for postgresql",
+        "languages": {
+            "Mustache": 986
+        }
+    },
+    {
+        "name": "base16-xcode",
+        "description": "A Base16 build template for Xcode.",
+        "languages": {
+            "Mustache": 6649
+        }
+    },
+    {
+        "name": "ocis-charts",
+        "description": ":chart_with_upwards_trend: Helm Charts for ownCloud's OCIS",
+        "languages": {
+            "Mustache": 13062,
+            "Starlark": 7928,
+            "Smarty": 5801,
+            "Makefile": 5658
+        }
+    },
+    {
+        "name": "couchdb-helm",
+        "description": "Apache CouchDB Helm Chart",
+        "languages": {
+            "Mustache": 4668,
+            "Shell": 3489,
+            "Makefile": 962
+        }
+    },
+    {
+        "name": "charts",
+        "description": "Enapter Helm Charts",
+        "languages": {
+            "Mustache": 2029
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "Helm Charts - This project includes helm charts developed to deploy Gravitee.io components",
+        "languages": {
+            "Mustache": 18026
+        }
+    },
+    {
+        "name": "partner-charts",
+        "description": "A catalog based on applications from independent software vendors (ISVs). Most of them are SUSE Partners.",
+        "languages": {
+            "Mustache": 1411124,
+            "Smarty": 1156705,
+            "Shell": 471275,
+            "JavaScript": 28612,
+            "Makefile": 6992,
+            "Go": 6919,
+            "HCL": 5680,
+            "Python": 4520,
+            "Open Policy Agent": 2501,
+            "CSS": 1791,
+            "Starlark": 246,
+            "HTML": 219
+        }
+    },
+    {
+        "name": "kube-eagle-helm-chart",
+        "description": "Helm chart for deployment of kube-eagle",
+        "languages": {
+            "Mustache": 1054
+        }
+    },
+    {
+        "name": "smartcheck-helm",
+        "description": "Helm chart to deploy Trend Micro Deep Security Smart Check.",
+        "languages": {
+            "Mustache": 18144,
+            "Shell": 8279
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "A repository which that will contain helm charts with best and security practices.",
+        "languages": {
+            "Mustache": 11193,
+            "Smarty": 299
+        }
+    },
+    {
+        "name": "k8s-as-helm",
+        "description": "Kubernetes API Primitives as Helm Charts",
+        "languages": {
+            "Mustache": 6290
+        }
+    },
+    {
+        "name": "retool-helm",
+        "description": null,
+        "languages": {
+            "Mustache": 15467,
+            "Smarty": 11589
+        }
+    },
+    {
+        "name": "photoprism-helm",
+        "description": "Helm chart to install Photoprism",
+        "languages": {
+            "Mustache": 2224
+        }
+    },
+    {
+        "name": "kubernetes",
+        "description": "Helm Charts for ProxySQL on K8s",
+        "languages": {
+            "Mustache": 7105,
+            "Shell": 5837,
+            "Dockerfile": 200
+        }
+    },
+    {
+        "name": "uptime-kuma-helm",
+        "description": "A demonstration of a Helm 3 Chart to deploy uptime-kuma on OpenShift and Kubernetes.",
+        "languages": {
+            "Mustache": 2607,
+            "Dockerfile": 2273
+        }
+    },
+    {
+        "name": "blakeshome-charts",
+        "description": "Repo for helm charts",
+        "languages": {
+            "Mustache": 1630
+        }
+    },
+    {
+        "name": "backbase-openapi-tools",
+        "description": "Backbase Open Api Tools (boat) helps manage large OpenAPI projects",
+        "languages": {
+            "Mustache": 3768561,
+            "JavaScript": 739515,
+            "Java": 588562,
+            "Kotlin": 69328,
+            "Shell": 22116,
+            "HTML": 12756,
+            "Handlebars": 7402,
+            "CSS": 4340,
+            "Scala": 1042
+        }
+    },
+    {
+        "name": "mailchimp-client-lib-codegen",
+        "description": "This tool is used to auto-generate and publish the Mailchimp Marketing and Transactional client libraries.",
+        "languages": {
+            "Mustache": 1341813,
+            "Shell": 25030,
+            "JavaScript": 16429,
+            "PHP": 8044,
+            "Python": 7869,
+            "Ruby": 6243
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "Helm Charts and Installation Instructions for webtor.io",
+        "languages": {
+            "Mustache": 40181,
+            "Shell": 2074
+        }
+    },
+    {
+        "name": "graphql-mesh-docker",
+        "description": "Dockerfile / docker-compose / Kubernetes manifest / Helm chart for GraphQL Mesh",
+        "languages": {
+            "Mustache": 1870,
+            "JavaScript": 1166,
+            "Shell": 408,
+            "Makefile": 212,
+            "Dockerfile": 209
+        }
+    },
+    {
+        "name": "european-transport-feeds",
+        "description": "Source code of the \"list of european transport feeds\" website.",
+        "languages": {
+            "Mustache": 828785,
+            "Rust": 4634,
+            "Dockerfile": 760
+        }
+    },
+    {
+        "name": "krakend-helm",
+        "description": "An helm chart to deploy krakend in  a kubernetes cluster",
+        "languages": {
+            "Mustache": 1820
+        }
+    },
+    {
+        "name": "openapitools-generator-action",
+        "description": "Generate a client library using the OpenAPITools Generator",
+        "languages": {
+            "Mustache": 37574,
+            "Rust": 8517,
+            "Shell": 1846,
+            "Python": 1132
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "Helm Charts",
+        "languages": {
+            "Mustache": 8848,
+            "Smarty": 1774
+        }
+    },
+    {
+        "name": "jellyfin-helm",
+        "description": "Helm chart for Jellyfin",
+        "languages": {
+            "Mustache": 1048
+        }
+    },
+    {
+        "name": "charts",
+        "description": "The official source for Sysdig\u2019s Helm charts",
+        "languages": {
+            "Mustache": 90310,
+            "Smarty": 51347,
+            "Shell": 7430,
+            "Python": 4098,
+            "Makefile": 1100,
+            "Just": 80
+        }
+    },
+    {
+        "name": "charts",
+        "description": null,
+        "languages": {
+            "Mustache": 848317,
+            "Smarty": 362495,
+            "Shell": 41711,
+            "Makefile": 20589,
+            "Python": 18808,
+            "XSLT": 1323,
+            "Starlark": 205,
+            "Dhall": 74,
+            "Ruby": 39
+        }
+    },
+    {
+        "name": "milvus-helm",
+        "description": null,
+        "languages": {
+            "Mustache": 12213,
+            "Smarty": 6594,
+            "Shell": 3217
+        }
+    },
+    {
+        "name": "deployments",
+        "description": "Deployment repository for AREX Test, featuring Docker Compose files and demos for easy setup and integration.",
+        "languages": {
+            "Mustache": 2813,
+            "JavaScript": 411
+        }
+    },
+    {
+        "name": "firefox-lang-stats",
+        "description": "Language details of the Firefox repo",
+        "languages": {
+            "Mustache": 1817,
+            "Shell": 1801
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "Helm charts for JumpServer",
+        "languages": {
+            "Mustache": 7069
+        }
+    },
+    {
+        "name": "virtual-cluster",
+        "description": "Create fully functional virtual Kubernetes clusters - Each vCluster runs inside a Kubernetes namespace and can be started within seconds",
+        "languages": {
+            "Mustache": 1766
+        }
+    },
+    {
+        "name": "charts",
+        "description": "Dysnix Helm charts",
+        "languages": {
+            "Mustache": 120013,
+            "Shell": 94793,
+            "Smarty": 23111,
+            "JavaScript": 16755,
+            "Python": 8620
+        }
+    },
+    {
+        "name": "charts",
+        "description": null,
+        "languages": {
+            "Mustache": 9804
+        }
+    },
+    {
+        "name": "base16-rofi",
+        "description": "Base16 for rofi",
+        "languages": {
+            "Mustache": 7571,
+            "Shell": 314
+        }
+    },
+    {
+        "name": "ing-open-banking-sdk",
+        "description": null,
+        "languages": {
+            "Mustache": 109314,
+            "Java": 74720,
+            "Shell": 4667
+        }
+    },
+    {
+        "name": "wiremind-helm-charts",
+        "description": "A list of Helm Charts used and maintained by Wiremind",
+        "languages": {
+            "Mustache": 50217,
+            "Smarty": 29717,
+            "Shell": 16664,
+            "Python": 1829
+        }
+    },
+    {
+        "name": "flagsmith-charts",
+        "description": "Helm Charts for Flagsmith. Feature flagging and remote config service. Host yourself or use our hosted version.",
+        "languages": {
+            "Mustache": 10007,
+            "Shell": 489
+        }
+    },
+    {
+        "name": "helm",
+        "description": "Ethersphere Helm Charts",
+        "languages": {
+            "Mustache": 29966
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": null,
+        "languages": {
+            "Mustache": 13918,
+            "Smarty": 12203,
+            "PHP": 509
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "There's no place like ~/... Take a look at the laptop branch for some laptop-specific settings along with some tweaks for HiDPI.",
+        "languages": {
+            "Mustache": 399294,
+            "CSS": 345790,
+            "Shell": 187958,
+            "Python": 80594,
+            "Emacs Lisp": 37810,
+            "Vim Script": 19770,
+            "Lua": 3488,
+            "YASnippet": 3274,
+            "Perl": 1721,
+            "JavaScript": 1153
+        }
+    },
+    {
+        "name": "openapi-code-gen",
+        "description": "2023 \uc778\ud504\ucf58\uc5d0\uc11c \ubc1c\ud45c\ud55c OPEN API FIRST \uc608\uc81c \ucf54\ub4dc \uc800\uc7a5\uc18c",
+        "languages": {
+            "Mustache": 15208,
+            "Java": 2393
+        }
+    },
+    {
+        "name": "experienceddevops",
+        "description": "/r/ExperiencedDevOps monorepo ",
+        "languages": {
+            "Mustache": 66000,
+            "HCL": 45113,
+            "Smarty": 3284,
+            "Shell": 1607,
+            "Python": 1269,
+            "Dockerfile": 979,
+            "Ruby": 901
+        }
+    },
+    {
+        "name": "helm-charts",
+        "description": "Official Centrifugo Helm chart for Kubernetes",
+        "languages": {
+            "Mustache": 3520
+        }
+    },
+    {
+        "name": "Helm_charts",
+        "description": null,
+        "languages": {
+            "Mustache": 7826,
+            "Smarty": 4148
+        }
+    },
+    {
+        "name": "base16-windows-terminal",
+        "description": "Base16 for Windows Terminal",
+        "languages": {
+            "Mustache": 1560
+        }
+    },
+    {
+        "name": "helm",
+        "description": "Helm chart for deploy Gremlin client",
+        "languages": {
+            "Mustache": 7168,
+            "Smarty": 3452
+        }
+    },
+    {
+        "name": "base16-dunst",
+        "description": null,
+        "languages": {
+            "Mustache": 834
         }
     }
 ]
