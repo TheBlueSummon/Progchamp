@@ -3,8 +3,8 @@
         "name": "nixpkgs",
         "description": "Nix Packages collection & NixOS",
         "languages": {
-            "Nix": 71154554,
-            "Shell": 1434813,
+            "Nix": 71185580,
+            "Shell": 1434862,
             "Python": 887531,
             "Perl": 204850,
             "C": 173192,
@@ -42,11 +42,11 @@
             "Java": 1497,
             "Erlang": 1437,
             "Lua": 991,
+            "PHP": 952,
             "CUE": 876,
             "CSS": 774,
             "Jasmin": 656,
             "Nu": 338,
-            "PHP": 224,
             "Elvish": 213,
             "HCL": 210,
             "Reason": 182,
@@ -59,7 +59,7 @@
         "name": "home-manager",
         "description": "Manage a user environment using Nix  [maintainer=@rycee] ",
         "languages": {
-            "Nix": 2112802,
+            "Nix": 2115917,
             "Shell": 71101,
             "Ruby": 6782,
             "HTML": 1238,
@@ -99,8 +99,1874 @@
             "Python": 16368,
             "Makefile": 7967,
             "Shell": 5771,
-            "CSS": 2379,
+            "CSS": 2443,
             "HTML": 367
+        }
+    },
+    {
+        "name": "nix-starter-configs",
+        "description": "Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!",
+        "languages": {
+            "Nix": 18380
+        }
+    },
+    {
+        "name": "nixos-config",
+        "description": "My NixOS configurations.",
+        "languages": {
+            "Nix": 57746,
+            "Shell": 5873,
+            "Makefile": 4451,
+            "Scheme": 175
+        }
+    },
+    {
+        "name": "nixos-hardware",
+        "description": "A collection of NixOS modules covering hardware quirks.",
+        "languages": {
+            "Nix": 301664,
+            "Ruby": 8184,
+            "Python": 4105,
+            "Shell": 2464,
+            "Makefile": 142
+        }
+    },
+    {
+        "name": "nixos-generators",
+        "description": "Collection of image builders [maintainer=@Lassulus]",
+        "languages": {
+            "Nix": 29645,
+            "Shell": 4242,
+            "Makefile": 420
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "And I say hey, what's going on?",
+        "languages": {
+            "Nix": 156254,
+            "Shell": 111599,
+            "Scheme": 87569,
+            "SCSS": 49625,
+            "Python": 24585,
+            "Fennel": 13813,
+            "CSS": 5692,
+            "Common Lisp": 3327,
+            "JavaScript": 1294,
+            "Ruby": 405
+        }
+    },
+    {
+        "name": "nixos-and-flakes-book",
+        "description": ":hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  \u60f3\u8981\u5b66\u4e60\u4f7f\u7528 NixOS \u4e0e Flakes \u5417\uff1f\u5728\u5bfb\u627e\u4e00\u4efd\u65b0\u624b\u53cb\u597d\u7684\u6559\u7a0b\uff1f\u90a3\u4f60\u53ef\u6765\u5bf9\u5730\u65b9\u4e86\uff01",
+        "languages": {
+            "Nix": 2256
+        }
+    },
+    {
+        "name": "nix-direnv",
+        "description": "A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10] ",
+        "languages": {
+            "Nix": 8826,
+            "Python": 7593,
+            "Shell": 1423
+        }
+    },
+    {
+        "name": "NixOS-WSL",
+        "description": "NixOS on WSL(2) [maintainer=@nzbr] ",
+        "languages": {
+            "Nix": 38777,
+            "C#": 27651,
+            "PowerShell": 11545,
+            "Rust": 6999,
+            "Shell": 3220,
+            "Dockerfile": 36
+        }
+    },
+    {
+        "name": "agenix",
+        "description": "age-encrypted secrets for NixOS and Home manager",
+        "languages": {
+            "Nix": 28450,
+            "Shell": 5148
+        }
+    },
+    {
+        "name": "disko",
+        "description": "Declarative disk partitioning and formatting using nix [maintainer=@Lassulus]",
+        "languages": {
+            "Nix": 178116,
+            "Shell": 9541,
+            "jq": 2114
+        }
+    },
+    {
+        "name": "sops-nix",
+        "description": "Atomic secret provisioning for NixOS based on sops",
+        "languages": {
+            "Nix": 52697,
+            "Go": 50494,
+            "Shell": 4017,
+            "Python": 532
+        }
+    },
+    {
+        "name": "nixvim",
+        "description": "Configure Neovim with Nix! [maintainer=@pta2002, @traxys, @GaetanLepage]",
+        "languages": {
+            "Nix": 1594200
+        }
+    },
+    {
+        "name": "haskell-nix",
+        "description": "Nix and Haskell in production",
+        "languages": {
+            "Nix": 20118,
+            "C": 886,
+            "Haskell": 848
+        }
+    },
+    {
+        "name": "devshell",
+        "description": "Per project developer environments",
+        "languages": {
+            "Nix": 81081,
+            "Shell": 2344
+        }
+    },
+    {
+        "name": "nix-on-droid",
+        "description": "Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli] ",
+        "languages": {
+            "Nix": 86684,
+            "Shell": 29400
+        }
+    },
+    {
+        "name": "flake-utils",
+        "description": "Pure Nix flake utility functions [maintainer=@zimbatm]",
+        "languages": {
+            "Nix": 14007
+        }
+    },
+    {
+        "name": "microvm.nix",
+        "description": "NixOS MicroVMs",
+        "languages": {
+            "Nix": 126520
+        }
+    },
+    {
+        "name": "pianotrans",
+        "description": "Simple GUI for ByteDance's Piano Transcription with Pedals",
+        "languages": {
+            "Nix": 6486,
+            "PowerShell": 5977,
+            "Python": 5830,
+            "Batchfile": 708
+        }
+    },
+    {
+        "name": "nixos-config",
+        "description": "Nix configuration for macOS / NixOS with starter templates, step-by-step guides, and more \u2728",
+        "languages": {
+            "Nix": 162658,
+            "Shell": 126090,
+            "Emacs Lisp": 15609
+        }
+    },
+    {
+        "name": "digga",
+        "description": "A flake utility library to craft shell-, home-, and hosts- environments. ",
+        "languages": {
+            "Nix": 49298,
+            "Shell": 673
+        }
+    },
+    {
+        "name": "impermanence",
+        "description": "Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]",
+        "languages": {
+            "Nix": 46880,
+            "Shell": 3677
+        }
+    },
+    {
+        "name": "dream2nix",
+        "description": "Simplified nix packaging for various programming language ecosystems [maintainer=@DavHau]",
+        "languages": {
+            "Nix": 445465,
+            "Python": 59001,
+            "TypeScript": 6771,
+            "JavaScript": 4747,
+            "jq": 2316,
+            "XSLT": 1719,
+            "CSS": 1261,
+            "Shell": 1091
+        }
+    },
+    {
+        "name": "nix-1p",
+        "description": "A (more or less) one page introduction to Nix, the language.",
+        "languages": {
+            "Nix": 529
+        }
+    },
+    {
+        "name": "distro-grub-themes",
+        "description": "A pack of GRUB2 themes for each Linux distribution",
+        "languages": {
+            "Nix": 2875
+        }
+    },
+    {
+        "name": "rust-overlay",
+        "description": "Pure and reproducible nix overlay of binary distributed rust toolchains",
+        "languages": {
+            "Nix": 46260162,
+            "Python": 14560,
+            "Shell": 378
+        }
+    },
+    {
+        "name": "not-os",
+        "description": "An operating system generator, based on NixOS, that, given a config, outputs a small (47 MB), read-only squashfs for a runit-based operating system, with support for iPXE and signed boot.",
+        "languages": {
+            "Nix": 39086,
+            "Shell": 966
+        }
+    },
+    {
+        "name": "crane",
+        "description": "A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching.",
+        "languages": {
+            "Nix": 107636,
+            "Rust": 51458,
+            "Shell": 19757,
+            "HTML": 270,
+            "SCSS": 37
+        }
+    },
+    {
+        "name": "nix-config",
+        "description": ":space_invader: NixOS configuration",
+        "languages": {
+            "Nix": 85714,
+            "Haskell": 26474,
+            "Shell": 3020
+        }
+    },
+    {
+        "name": "hnix",
+        "description": "A Haskell re-implementation of the Nix expression language",
+        "languages": {
+            "Nix": 845806,
+            "Haskell": 548613,
+            "Shell": 5658,
+            "Makefile": 68
+        }
+    },
+    {
+        "name": "poetry2nix",
+        "description": "Convert poetry projects to nix automagically [maintainer=@adisbladis] ",
+        "languages": {
+            "Nix": 238174,
+            "Python": 17252,
+            "Shell": 5554,
+            "jq": 814,
+            "Makefile": 133
+        }
+    },
+    {
+        "name": "simple-twitter",
+        "description": "A bare-bones Twitter clone implemented in a single file",
+        "languages": {
+            "Nix": 17351,
+            "Haskell": 11796
+        }
+    },
+    {
+        "name": "reflex-platform",
+        "description": "A curated package set and set of tools that let you build Haskell packages so they can run on a variety of platforms. reflex-platform is built on top of the nix package manager.",
+        "languages": {
+            "Nix": 229911,
+            "Shell": 36001,
+            "Perl": 10211,
+            "Haskell": 9794,
+            "HTML": 53
+        }
+    },
+    {
+        "name": "nix-portable",
+        "description": "Nix - Static, Permissionless, Installation-free, Pre-configured",
+        "languages": {
+            "Nix": 45880
+        }
+    },
+    {
+        "name": "dev-templates",
+        "description": "Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]",
+        "languages": {
+            "Nix": 32920
+        }
+    },
+    {
+        "name": "nixos-apple-silicon",
+        "description": "Resources to install NixOS bare metal on Apple Silicon Macs",
+        "languages": {
+            "Nix": 40393
+        }
+    },
+    {
+        "name": "alejandra",
+        "description": "The Uncompromising Nix Code Formatter",
+        "languages": {
+            "Nix": 199646,
+            "Rust": 111501,
+            "JavaScript": 6971,
+            "Shell": 1447,
+            "HTML": 474
+        }
+    },
+    {
+        "name": "stylix",
+        "description": "System-wide colorscheming and typography for NixOS",
+        "languages": {
+            "Nix": 114020,
+            "Mustache": 99576,
+            "Haskell": 12257,
+            "Python": 1171,
+            "CSS": 714
+        }
+    },
+    {
+        "name": "naersk",
+        "description": "Build Rust projects in Nix - no configuration, no code generation, no IFD, sandbox friendly.",
+        "languages": {
+            "Nix": 74259,
+            "Rust": 6293
+        }
+    },
+    {
+        "name": "nix-config",
+        "description": "Personal nixos and home-manager configurations.",
+        "languages": {
+            "Nix": 292166,
+            "Shell": 9024,
+            "Makefile": 803,
+            "SCSS": 629,
+            "HTML": 610,
+            "Haskell": 142,
+            "C++": 81,
+            "Rust": 45,
+            "TypeScript": 28
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "NixOS system config & Home-Manager user config",
+        "languages": {
+            "Nix": 94530,
+            "JavaScript": 41491,
+            "SCSS": 7846,
+            "Lua": 6498,
+            "CSS": 2301
+        }
+    },
+    {
+        "name": "nixfmt",
+        "description": "The official (but not yet stable) formatter for Nix code",
+        "languages": {
+            "Nix": 492791,
+            "Haskell": 116552,
+            "Shell": 13697
+        }
+    },
+    {
+        "name": "NixOS-Guide",
+        "description": "NixOS Guide. Learn all about the immutable Nix Operating System and the declarative Nix Expression Language.",
+        "languages": {
+            "Nix": 37
+        }
+    },
+    {
+        "name": "nixGL",
+        "description": "A wrapper tool for nix OpenGL application [maintainer=@guibou]",
+        "languages": {
+            "Nix": 13776,
+            "Haskell": 4530
+        }
+    },
+    {
+        "name": "jupyenv",
+        "description": "Declarative and reproducible Jupyter environments - powered by Nix",
+        "languages": {
+            "Nix": 77880,
+            "Shell": 787
+        }
+    },
+    {
+        "name": "nix-bundle",
+        "description": "Bundle Nix derivations to run anywhere!",
+        "languages": {
+            "Nix": 12157,
+            "Shell": 9541,
+            "C++": 8221,
+            "C": 8194,
+            "Makefile": 351
+        }
+    },
+    {
+        "name": "flake",
+        "description": "A Nix flake for many AI projects",
+        "languages": {
+            "Nix": 76656,
+            "PowerShell": 1472,
+            "CSS": 453,
+            "HTML": 65
+        }
+    },
+    {
+        "name": "flake-parts",
+        "description": "\u2744\ufe0f Simplify Nix Flakes with the module system",
+        "languages": {
+            "Nix": 49958,
+            "Shell": 28
+        }
+    },
+    {
+        "name": "dappsys",
+        "description": "Composable building blocks for Ethereum contracts",
+        "languages": {
+            "Nix": 652
+        }
+    },
+    {
+        "name": "nix-config",
+        "description": "\u2744\ufe0f my nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).",
+        "languages": {
+            "Nix": 321682,
+            "Shell": 211859,
+            "Lua": 46650,
+            "Emacs Lisp": 20037,
+            "Python": 8747,
+            "Just": 8005,
+            "Nushell": 6564,
+            "CSS": 5080
+        }
+    },
+    {
+        "name": "arion",
+        "description": "Run docker-compose with help from Nix/NixOS",
+        "languages": {
+            "Nix": 62838,
+            "Haskell": 27759,
+            "Shell": 645,
+            "Dockerfile": 79
+        }
+    },
+    {
+        "name": "robotnix",
+        "description": "Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu]",
+        "languages": {
+            "Nix": 540181,
+            "Python": 54670,
+            "Shell": 25509,
+            "C": 1024,
+            "Makefile": 149,
+            "Meson": 95
+        }
+    },
+    {
+        "name": "nixos-shell",
+        "description": "Spawns lightweight nixos vms in a shell",
+        "languages": {
+            "Nix": 10791,
+            "Shell": 1636,
+            "Makefile": 868
+        }
+    },
+    {
+        "name": "fenix",
+        "description": "Rust toolchains and rust-analyzer nightly for Nix [maintainer=@figsoda]",
+        "languages": {
+            "Nix": 15402,
+            "Python": 4627,
+            "Shell": 443
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "Beautiful catppuccin themed NixOS configuration, with built in impermanence, full disk encryption and many more!",
+        "languages": {
+            "Nix": 101996,
+            "Python": 4195,
+            "Shell": 809,
+            "CSS": 747
+        }
+    },
+    {
+        "name": "crystal",
+        "description": "nix dotfiles for chilly people",
+        "languages": {
+            "Nix": 297950,
+            "C": 12161
+        }
+    },
+    {
+        "name": "nixos-config",
+        "description": "My Personal Nix, NixOS and Nix-Darwin System Configuration Flake",
+        "languages": {
+            "Nix": 337563,
+            "Emacs Lisp": 22558,
+            "Shell": 7078,
+            "SCSS": 2392,
+            "CSS": 1941,
+            "Vim Script": 666
+        }
+    },
+    {
+        "name": "haskell.nix",
+        "description": "Alternative Haskell Infrastructure for Nixpkgs",
+        "languages": {
+            "Nix": 1285174,
+            "Haskell": 163846,
+            "Shell": 8683,
+            "C": 620,
+            "JavaScript": 117
+        }
+    },
+    {
+        "name": "nixpkgs-mozilla",
+        "description": "Mozilla overlay for Nixpkgs.",
+        "languages": {
+            "Nix": 114545,
+            "Shell": 9138
+        }
+    },
+    {
+        "name": "node2nix",
+        "description": "Generate Nix expressions to build NPM packages",
+        "languages": {
+            "Nix": 749901,
+            "JavaScript": 90133,
+            "Shell": 1113
+        }
+    },
+    {
+        "name": "Tow-Boot",
+        "description": "An opinionated distribution of U-Boot. \u2014 https://matrix.to/#/#Tow-Boot:matrix.org?via=matrix.org",
+        "languages": {
+            "Nix": 214168,
+            "Shell": 3318
+        }
+    },
+    {
+        "name": "getting-started-devenv-template",
+        "description": "Based on nix.dev tutorials, repository template to get you started with Nix.",
+        "languages": {
+            "Nix": 612
+        }
+    },
+    {
+        "name": "Bot-Generator-Bot",
+        "description": "The ultimate bot generator bot prompt. Use this prompt to create powerful ChatGPT bots for anything you can imagine.",
+        "languages": {
+            "Nix": 53
+        }
+    },
+    {
+        "name": "nixpkgs-wayland",
+        "description": "Automated, pre-built packages for Wayland (sway/wlroots) tools for NixOS. [maintainers=@colemickens, @Artturin]",
+        "languages": {
+            "Nix": 48106,
+            "Nushell": 6464
+        }
+    },
+    {
+        "name": "NixThePlanet",
+        "description": "Run macOS, Windows and more via a single Nix command, or simple nixosModules",
+        "languages": {
+            "Nix": 51641,
+            "Shell": 6026,
+            "Ruby": 3364
+        }
+    },
+    {
+        "name": "emacs-overlay",
+        "description": "Bleeding edge emacs overlay [maintainer=@adisbladis] ",
+        "languages": {
+            "Nix": 708566
+        }
+    },
+    {
+        "name": "nix-bitcoin",
+        "description": "A collection of Nix packages and NixOS modules for easily installing full-featured Bitcoin nodes with an emphasis on security.",
+        "languages": {
+            "Nix": 310641,
+            "Shell": 59156,
+            "Python": 16679,
+            "C": 1776,
+            "Makefile": 39
+        }
+    },
+    {
+        "name": "melted-flakes",
+        "description": "My presonal NixOS config.New config can get in https://github.com/Ruixi-rebirth/flakes",
+        "languages": {
+            "Nix": 897714,
+            "Lua": 213912,
+            "Shell": 27664,
+            "Haskell": 118,
+            "Nushell": 43
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "My NixOS dotfiles",
+        "languages": {
+            "Nix": 340320,
+            "Python": 86606,
+            "Vim Script": 82608,
+            "Shell": 72342,
+            "Emacs Lisp": 50910,
+            "YASnippet": 14579,
+            "HCL": 13830,
+            "Lua": 13689,
+            "CSS": 4301,
+            "Ruby": 2316,
+            "Just": 2005,
+            "HTML": 1749,
+            "Rust": 1597,
+            "Vim Snippet": 1449,
+            "GDB": 841,
+            "Sieve": 582,
+            "C": 471
+        }
+    },
+    {
+        "name": "flake-utils-plus",
+        "description": "Use Nix flakes without any fluff.",
+        "languages": {
+            "Nix": 39478
+        }
+    },
+    {
+        "name": "git-hooks.nix",
+        "description": "Seamless integration of https://pre-commit.com git hooks with Nix.",
+        "languages": {
+            "Nix": 168691
+        }
+    },
+    {
+        "name": "plasma-manager",
+        "description": "Manage KDE Plasma with Home Manager",
+        "languages": {
+            "Nix": 58532,
+            "Python": 11438,
+            "Ruby": 7865,
+            "Shell": 2067
+        }
+    },
+    {
+        "name": "yuki",
+        "description": "\u96ea - Yuki | Snowflake  :snowflake: ",
+        "languages": {
+            "Nix": 74599
+        }
+    },
+    {
+        "name": "musnix",
+        "description": "Real-time audio in NixOS",
+        "languages": {
+            "Nix": 17256,
+            "Python": 2580,
+            "Shell": 1814
+        }
+    },
+    {
+        "name": "nix-colors",
+        "description": "Modules and schemes to make theming with Nix awesome.",
+        "languages": {
+            "Nix": 51595
+        }
+    },
+    {
+        "name": "nix-gaming",
+        "description": "Gaming on Nix",
+        "languages": {
+            "Nix": 72195,
+            "Python": 19664,
+            "Shell": 12403
+        }
+    },
+    {
+        "name": "nix-shorts",
+        "description": "A collection of short notes about Nix, down to what is immediately needed for users.",
+        "languages": {
+            "Nix": 82
+        }
+    },
+    {
+        "name": "system",
+        "description": "Declarative system configurations using nixOS, nix-darwin, and home-manager",
+        "languages": {
+            "Nix": 43722,
+            "Lua": 32462,
+            "Python": 9920,
+            "Vim Script": 5985,
+            "Shell": 2229
+        }
+    },
+    {
+        "name": "makes",
+        "description": "A software supply chain framework powered by Nix.",
+        "languages": {
+            "Nix": 141415,
+            "Python": 66893,
+            "Shell": 42697,
+            "JavaScript": 4474,
+            "Ruby": 1819,
+            "Just": 224,
+            "HCL": 183
+        }
+    },
+    {
+        "name": "Jovian-NixOS",
+        "description": "Discussions: https://matrix.to/#/#Jovian-Experiments:matrix.org",
+        "languages": {
+            "Nix": 104163,
+            "Less": 33939,
+            "Ruby": 18309,
+            "Python": 11326,
+            "Shell": 1895
+        }
+    },
+    {
+        "name": "static-haskell-nix",
+        "description": "easily build most Haskell programs into fully static Linux executables",
+        "languages": {
+            "Nix": 101640,
+            "Shell": 733,
+            "Haskell": 464
+        }
+    },
+    {
+        "name": "nix-darwin-dotfiles",
+        "description": "Dotfiles managed via Nix-Darwin and Mk-Darwin-System, for schoolwork and kotlin, lua, and rust programming",
+        "languages": {
+            "Nix": 67759
+        }
+    },
+    {
+        "name": "srvos",
+        "description": "NixOS profiles for servers [maintainer=@numtide]",
+        "languages": {
+            "Nix": 89813,
+            "Shell": 8322
+        }
+    },
+    {
+        "name": "dotfiles-nix",
+        "description": "Configuration files for my NixOS machine, declared by home-manager",
+        "languages": {
+            "Nix": 31704,
+            "SCSS": 4640,
+            "Shell": 3737,
+            "Lua": 2535,
+            "CSS": 574
+        }
+    },
+    {
+        "name": "nixpkgs",
+        "description": "My Nix system configs!",
+        "languages": {
+            "Nix": 65882,
+            "Lua": 61968,
+            "Vim Script": 292
+        }
+    },
+    {
+        "name": "templates",
+        "description": "Flake templates",
+        "languages": {
+            "Nix": 47608,
+            "Shell": 2439,
+            "Rust": 1039,
+            "F#": 625,
+            "Haskell": 319,
+            "Makefile": 201,
+            "C": 89,
+            "Go": 71,
+            "M4": 69,
+            "Python": 53
+        }
+    },
+    {
+        "name": "nixos-config",
+        "description": "KISS NixOS configuration based on Flakes & flake-parts (supports macOS too)",
+        "languages": {
+            "Nix": 53418,
+            "Emacs Lisp": 15218,
+            "Haskell": 7048,
+            "Shell": 913,
+            "Just": 280,
+            "Nu": 257
+        }
+    },
+    {
+        "name": "std",
+        "description": "A DevOps framework for the SDLC with the power of Nix and Flakes. Good for keeping deadlines!",
+        "languages": {
+            "Nix": 127266,
+            "Shell": 2131,
+            "CUE": 829
+        }
+    },
+    {
+        "name": "nixos-vscode-server",
+        "description": "Visual Studio Code Server support in NixOS",
+        "languages": {
+            "Nix": 10102
+        }
+    },
+    {
+        "name": "nix-example",
+        "description": "a way to develop software with Nix",
+        "languages": {
+            "Nix": 52089,
+            "Emacs Lisp": 23450,
+            "Shell": 8169,
+            "Python": 705,
+            "Haskell": 699,
+            "Dockerfile": 243
+        }
+    },
+    {
+        "name": "snack",
+        "description": "Nix-based incremental build tool for Haskell projects",
+        "languages": {
+            "Nix": 35554,
+            "Haskell": 27499,
+            "Shell": 8450,
+            "JSONiq": 115
+        }
+    },
+    {
+        "name": "nixbsd",
+        "description": "An unofficial NixOS fork with a FreeBSD kernel",
+        "languages": {
+            "Nix": 518347,
+            "Shell": 45403,
+            "Roff": 22213,
+            "Perl": 16735,
+            "Python": 2758,
+            "C": 1785,
+            "Lua": 1697,
+            "CUE": 876
+        }
+    },
+    {
+        "name": "rnix-parser",
+        "description": "A Nix parser written in Rust [maintainer=@oberblastmeister]",
+        "languages": {
+            "Nix": 808913,
+            "Rust": 91060
+        }
+    },
+    {
+        "name": "tvix",
+        "description": "Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix",
+        "languages": {
+            "Nix": 2065153,
+            "Rust": 1668691,
+            "Go": 103920,
+            "Shell": 1492
+        }
+    },
+    {
+        "name": "cargo2nix",
+        "description": "Granular builds of Rust projects for Nix",
+        "languages": {
+            "Nix": 63501,
+            "Rust": 36136,
+            "Shell": 11505
+        }
+    },
+    {
+        "name": "nixcfg",
+        "description": "NixOS and Home-Manager configs for my devices. dotfiles, but way better",
+        "languages": {
+            "Nix": 361964,
+            "Nushell": 39925,
+            "Shell": 34462,
+            "Dhall": 6990,
+            "CSS": 2611,
+            "Nu": 1675,
+            "HTML": 1392,
+            "GLSL": 40
+        }
+    },
+    {
+        "name": "crate2nix",
+        "description": "rebuild only changed crates in CI with crate2nix and nix",
+        "languages": {
+            "Nix": 364126,
+            "Rust": 134358,
+            "Shell": 8534
+        }
+    },
+    {
+        "name": "nixos-configs",
+        "description": "My NixOS configs",
+        "languages": {
+            "Nix": 299212,
+            "C": 36250,
+            "Emacs Lisp": 23859,
+            "Shell": 13824,
+            "HTML": 3735,
+            "Lua": 3389,
+            "Vim Script": 2380,
+            "PowerShell": 822
+        }
+    },
+    {
+        "name": "nixos-config",
+        "description": "Nix noob trying to build his system",
+        "languages": {
+            "Nix": 140074,
+            "Python": 70510,
+            "Emacs Lisp": 65107,
+            "Shell": 32412,
+            "Haskell": 18809,
+            "Mustache": 17678
+        }
+    },
+    {
+        "name": "kubenix",
+        "description": "Replaced by https://github.com/hall/kubenix",
+        "languages": {
+            "Nix": 14049762
+        }
+    },
+    {
+        "name": "kuro",
+        "description": "An elegant Microsoft ToDo desktop client for Linux (a fork of Ao)",
+        "languages": {
+            "Nix": 283573,
+            "JavaScript": 48922,
+            "CSS": 11250
+        }
+    },
+    {
+        "name": "dmux",
+        "description": "A tmux workspace manager",
+        "languages": {
+            "Nix": 83529,
+            "Rust": 25381,
+            "Shell": 426
+        }
+    },
+    {
+        "name": "noogle",
+        "description": "https://noogle.dev - nix function exploring. [maintainer=@hsjobeki] ",
+        "languages": {
+            "Nix": 308786,
+            "TypeScript": 119697,
+            "Rust": 70852,
+            "MDX": 7406,
+            "CSS": 3798,
+            "JavaScript": 3607
+        }
+    },
+    {
+        "name": "nix-topology",
+        "description": "\ud83c\udf41 Generate infrastructure and network diagrams directly from your NixOS configurations",
+        "languages": {
+            "Nix": 97073,
+            "JavaScript": 17766
+        }
+    },
+    {
+        "name": "nix-config",
+        "description": "My personal NixOS config",
+        "languages": {
+            "Nix": 195587,
+            "Lua": 20505,
+            "Shell": 2538
+        }
+    },
+    {
+        "name": "nix-docker",
+        "description": "Provision Docker images using Nix",
+        "languages": {
+            "Nix": 52339,
+            "Shell": 3459,
+            "Python": 3453
+        }
+    },
+    {
+        "name": "nix-config",
+        "description": "Wimpy's NixOS  & Home Manager Configurations \u2744\ufe0f",
+        "languages": {
+            "Nix": 303472,
+            "Shell": 14912
+        }
+    },
+    {
+        "name": "config",
+        "description": "One Nix flake to rule them all.",
+        "languages": {
+            "Nix": 609937,
+            "Shell": 12436,
+            "JavaScript": 12054,
+            "CSS": 9758,
+            "SCSS": 2085,
+            "HCL": 381
+        }
+    },
+    {
+        "name": "nix-docker",
+        "description": "Docker images for the Nix package manager",
+        "languages": {
+            "Nix": 11041,
+            "Shell": 2679,
+            "Dockerfile": 1762
+        }
+    },
+    {
+        "name": "lib",
+        "description": "Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.",
+        "languages": {
+            "Nix": 70116
+        }
+    },
+    {
+        "name": "neovim-nightly-overlay",
+        "description": "[maintainer=@Kranzes]",
+        "languages": {
+            "Nix": 2108
+        }
+    },
+    {
+        "name": "terranix",
+        "description": "terranix is a terraform.json generator with a nix-like feeling",
+        "languages": {
+            "Nix": 37806,
+            "Roff": 24283,
+            "Shell": 6258
+        }
+    },
+    {
+        "name": "kaku",
+        "description": "\u9769 | kaku",
+        "languages": {
+            "Nix": 135345,
+            "Python": 5058,
+            "CSS": 2301,
+            "Shell": 649,
+            "JavaScript": 584
+        }
+    },
+    {
+        "name": "cardano-graphql",
+        "description": "GraphQL API for Cardano",
+        "languages": {
+            "Nix": 223791,
+            "TypeScript": 218329,
+            "Dockerfile": 6374,
+            "Shell": 5605,
+            "JavaScript": 4481
+        }
+    },
+    {
+        "name": "cardano-token-registry",
+        "description": null,
+        "languages": {
+            "Nix": 7702
+        }
+    },
+    {
+        "name": "nixcfg",
+        "description": "My nix configuration(s), using flakes. It's my laptop, it's my servers, it's my everything, in code.",
+        "languages": {
+            "Nix": 179607,
+            "Vim Script": 9603,
+            "CSS": 5611,
+            "Erlang": 4014,
+            "Shell": 3236,
+            "JavaScript": 2144,
+            "HTML": 1692,
+            "Makefile": 409
+        }
+    },
+    {
+        "name": "high-quality-nix-content",
+        "description": "GitHub repository containing highest quality Nix/NixOS content",
+        "languages": {
+            "Nix": 8974
+        }
+    },
+    {
+        "name": "haumea",
+        "description": "Filesystem-based module system for Nix [maintainer=@figsoda]",
+        "languages": {
+            "Nix": 14363
+        }
+    },
+    {
+        "name": "nix-darwin-kickstarter",
+        "description": "macOS as Code! A beginner-friendly nix-darwin + home-manager + flakes startup configuration. \u4e00\u4efd\u6613\u4e8e\u7406\u89e3\u7684 nix-darwin \u521d\u59cb\u914d\u7f6e\u6a21\u677f\uff0c\u4e13\u4e3a\u65b0\u624b\u5236\u4f5c.",
+        "languages": {
+            "Nix": 27971,
+            "Just": 1511,
+            "Python": 1213
+        }
+    },
+    {
+        "name": "android-nixpkgs",
+        "description": "Nix-packaged Android SDK",
+        "languages": {
+            "Nix": 1495717,
+            "Kotlin": 16749,
+            "Shell": 1370
+        }
+    },
+    {
+        "name": "nixpak",
+        "description": "Runtime sandboxing for Nix",
+        "languages": {
+            "Nix": 23129,
+            "Go": 3732
+        }
+    },
+    {
+        "name": "gitignore.nix",
+        "description": "Nix functions for filtering local git sources",
+        "languages": {
+            "Nix": 39149
+        }
+    },
+    {
+        "name": "nix-processmgmt",
+        "description": "Experimental Nix-based process management framework",
+        "languages": {
+            "Nix": 209244,
+            "Shell": 139677,
+            "C": 19651,
+            "Makefile": 493
+        }
+    },
+    {
+        "name": "nix-doom-emacs",
+        "description": "doom-emacs packaged for Nix",
+        "languages": {
+            "Nix": 23884,
+            "Emacs Lisp": 11642
+        }
+    },
+    {
+        "name": "nixos-config",
+        "description": "Mirror of https://code.balsoft.ru/balsoft/nixos-config",
+        "languages": {
+            "Nix": 236409,
+            "Shell": 99860,
+            "Emacs Lisp": 6403,
+            "Haskell": 3515
+        }
+    },
+    {
+        "name": "nixpkgs-hammering",
+        "description": "Beat your package expressions into a shape",
+        "languages": {
+            "Nix": 68964,
+            "Python": 22070,
+            "Rust": 21170
+        }
+    },
+    {
+        "name": "kubenix",
+        "description": "Kubernetes management with Nix",
+        "languages": {
+            "Nix": 9545544
+        }
+    },
+    {
+        "name": "neovim-flake",
+        "description": "Nix flake for neovim with configuration",
+        "languages": {
+            "Nix": 139363
+        }
+    },
+    {
+        "name": "nixinate",
+        "description": "Another NixOS Deployment Tool - Nixinate your systems \ud83d\udd76\ufe0f ",
+        "languages": {
+            "Nix": 11827
+        }
+    },
+    {
+        "name": "flake-compat",
+        "description": null,
+        "languages": {
+            "Nix": 8855
+        }
+    },
+    {
+        "name": "nix-index-database",
+        "description": "Weekly updated nix-index database [maintainer=@Mic92]",
+        "languages": {
+            "Nix": 8414
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "My dotfiles",
+        "languages": {
+            "Nix": 72851,
+            "Emacs Lisp": 66013,
+            "Python": 13848,
+            "Vim Script": 9159,
+            "YASnippet": 4715,
+            "Vim Snippet": 842,
+            "Shell": 361
+        }
+    },
+    {
+        "name": "nyx",
+        "description": "My overengineered NixOS flake. Desktops, laptops, servers and everything else that can run an OS",
+        "languages": {
+            "Nix": 742591,
+            "JavaScript": 62884,
+            "Shell": 23263,
+            "SCSS": 16937,
+            "Vim Script": 13974,
+            "Python": 11066,
+            "CSS": 10032,
+            "Lua": 8338,
+            "HTML": 6089,
+            "Makefile": 851,
+            "C++": 81,
+            "Go": 74,
+            "Rust": 45,
+            "TypeScript": 29
+        }
+    },
+    {
+        "name": "NixNG",
+        "description": "A linux distribution based on Nix [maintainer=@MagicRB]",
+        "languages": {
+            "Nix": 224763,
+            "Haskell": 6361,
+            "Shell": 3544,
+            "Jinja": 375,
+            "Emacs Lisp": 348
+        }
+    },
+    {
+        "name": "update-flake-lock",
+        "description": "Automatically refresh your Nix Flakes.",
+        "languages": {
+            "Nix": 1061,
+            "Shell": 570
+        }
+    },
+    {
+        "name": "nixflakes",
+        "description": "My nixdots, but flaked.",
+        "languages": {
+            "Nix": 97564,
+            "Shell": 5680
+        }
+    },
+    {
+        "name": "haskell-template",
+        "description": "Haskell project template using Nix + Flakes + VSCode (HLS)",
+        "languages": {
+            "Nix": 3874,
+            "Just": 339,
+            "Haskell": 268
+        }
+    },
+    {
+        "name": "nixwrt",
+        "description": "This repo is dormant : NixWRT is being rewritten as Liminix",
+        "languages": {
+            "Nix": 106498,
+            "Makefile": 2195,
+            "Lua": 1014
+        }
+    },
+    {
+        "name": "nixos-config",
+        "description": null,
+        "languages": {
+            "Nix": 131880,
+            "Shell": 88273
+        }
+    },
+    {
+        "name": "infra",
+        "description": "NixOS configurations for nixos.org and its servers",
+        "languages": {
+            "Nix": 116079,
+            "Smarty": 97984,
+            "HCL": 61907,
+            "Python": 33935,
+            "Shell": 10018,
+            "HTML": 3032
+        }
+    },
+    {
+        "name": "nixos-ha-kubernetes",
+        "description": "Toy highly-available Kubernetes cluster on NixOS",
+        "languages": {
+            "Nix": 25478,
+            "HCL": 3637,
+            "Shell": 864
+        }
+    },
+    {
+        "name": "plutonomicon",
+        "description": "Advanced techniques in the plutus smart contract language",
+        "languages": {
+            "Nix": 2672
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "My personal dotfiles",
+        "languages": {
+            "Nix": 151353,
+            "Nu": 23862
+        }
+    },
+    {
+        "name": "plutus-starter",
+        "description": "A starter project for Plutus apps",
+        "languages": {
+            "Nix": 25007,
+            "Haskell": 4823,
+            "Shell": 2608
+        }
+    },
+    {
+        "name": "dconf2nix",
+        "description": ":feet: Convert dconf files (e.g. GNOME Shell) to Nix, as expected by Home Manager [maintainer=@jtojnar]",
+        "languages": {
+            "Nix": 27067,
+            "Haskell": 25488
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "Jichao Ouyang's awesome dotfiles",
+        "languages": {
+            "Nix": 19132,
+            "Shell": 6472,
+            "Emacs Lisp": 5502,
+            "Lua": 1536,
+            "Less": 819,
+            "CoffeeScript": 386,
+            "Scala": 376
+        }
+    },
+    {
+        "name": "gomod2nix",
+        "description": "Convert applications using Go modules to Nix expressions [maintainer=@adisbladis]",
+        "languages": {
+            "Nix": 25857,
+            "Go": 21146,
+            "Shell": 454,
+            "Makefile": 22
+        }
+    },
+    {
+        "name": "nixos-titus",
+        "description": "Titus's personal NIX OS Configuration",
+        "languages": {
+            "Nix": 9809
+        }
+    },
+    {
+        "name": "all-hies",
+        "description": "Cached Haskell IDE Engine Nix builds for all GHC versions",
+        "languages": {
+            "Nix": 10580,
+            "Haskell": 174
+        }
+    },
+    {
+        "name": "styx",
+        "description": "Static site generator in Nix expression language.",
+        "languages": {
+            "Nix": 326226,
+            "CSS": 53498,
+            "JavaScript": 45302,
+            "SCSS": 28951,
+            "Shell": 18957,
+            "Python": 7710
+        }
+    },
+    {
+        "name": "zig-overlay",
+        "description": "Nix flake for the Zig compiler.",
+        "languages": {
+            "Nix": 7027
+        }
+    },
+    {
+        "name": "nixos-router",
+        "description": "A NixOS router framework",
+        "languages": {
+            "Nix": 81168
+        }
+    },
+    {
+        "name": "nome",
+        "description": "My Nix home",
+        "languages": {
+            "Nix": 27561,
+            "Shell": 1145,
+            "Nushell": 88,
+            "Vim Script": 27
+        }
+    },
+    {
+        "name": "easy-purescript-nix",
+        "description": "Easy PureScript (and other tools) with Nix",
+        "languages": {
+            "Nix": 289477,
+            "Shell": 459
+        }
+    },
+    {
+        "name": "nixcrpkgs",
+        "description": "Tools for cross-compiling standalone applications using Nix.",
+        "languages": {
+            "Nix": 70498,
+            "Shell": 41989,
+            "Ruby": 35874,
+            "C": 14411,
+            "CMake": 4685,
+            "C++": 3989
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "My dotfiles are here, managed with Chezmoi and NixOS Flakes",
+        "languages": {
+            "Nix": 191357,
+            "Shell": 24576,
+            "Lua": 17130,
+            "Python": 2005,
+            "CSS": 1780
+        }
+    },
+    {
+        "name": "oreilly-downloader",
+        "description": "Download Oreilly books as epub ",
+        "languages": {
+            "Nix": 1108,
+            "Shell": 501,
+            "Dockerfile": 399
+        }
+    },
+    {
+        "name": "nyx",
+        "description": "Nix flake for \"too much bleeding-edge\" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).",
+        "languages": {
+            "Nix": 1390717,
+            "Shell": 7078
+        }
+    },
+    {
+        "name": "nix-config",
+        "description": "My NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland.",
+        "languages": {
+            "Nix": 104628
+        }
+    },
+    {
+        "name": "Hyprland-dotfiles",
+        "description": "Welcome to my NixOS hyprland config",
+        "languages": {
+            "Nix": 57371,
+            "Shell": 616
+        }
+    },
+    {
+        "name": "nix",
+        "description": "\u2744\ufe0f Soothing pastel theme for Nix",
+        "languages": {
+            "Nix": 42010
+        }
+    },
+    {
+        "name": "nixos-mailserver",
+        "description": "A complete and Simple Nixos Mailserver",
+        "languages": {
+            "Nix": 77317,
+            "Shell": 77
+        }
+    },
+    {
+        "name": "nix-security-box",
+        "description": "Tool set for Information security professionals and all others",
+        "languages": {
+            "Nix": 10678,
+            "Python": 4048
+        }
+    },
+    {
+        "name": "nixus",
+        "description": "Experimental deployment tool supporting multi-host abstractions",
+        "languages": {
+            "Nix": 66056
+        }
+    },
+    {
+        "name": "nix-flatpak",
+        "description": "Install flatpaks declaratively",
+        "languages": {
+            "Nix": 20675,
+            "jq": 1547
+        }
+    },
+    {
+        "name": "nix-emacs-ci",
+        "description": "Emacs builds for continuous integration",
+        "languages": {
+            "Nix": 11568,
+            "Shell": 1636,
+            "Emacs Lisp": 1140
+        }
+    },
+    {
+        "name": "nixdots",
+        "description": "Dotfiles for NixOS",
+        "languages": {
+            "Nix": 246573,
+            "Shell": 92332,
+            "Lua": 31056,
+            "C": 19017,
+            "Haskell": 6104,
+            "Python": 3898,
+            "CSS": 908
+        }
+    },
+    {
+        "name": "nix-filter",
+        "description": "a small self-contained source filtering lib",
+        "languages": {
+            "Nix": 11537,
+            "Shell": 3074
+        }
+    },
+    {
+        "name": "rust-nix-template",
+        "description": "Rust project template with Nix (Flakes) and VSCode support",
+        "languages": {
+            "Nix": 1419,
+            "Rust": 470,
+            "Just": 249
+        }
+    },
+    {
+        "name": "services-flake",
+        "description": "NixOS-like services for Nix flakes",
+        "languages": {
+            "Nix": 109521,
+            "Just": 1330
+        }
+    },
+    {
+        "name": "snowflake",
+        "description": "A repository which contains my current Nix (flake-based) setup!",
+        "languages": {
+            "Nix": 329278,
+            "Haskell": 47208,
+            "Python": 37597,
+            "CSS": 25884,
+            "Lua": 13159,
+            "SCSS": 3822,
+            "Common Lisp": 3713,
+            "NewLisp": 559
+        }
+    },
+    {
+        "name": "nix-cargo-integration",
+        "description": "Library to easily and effortlessly integrate Cargo projects with Nix.",
+        "languages": {
+            "Nix": 32380
+        }
+    },
+    {
+        "name": "nix-environments",
+        "description": "Repository to maintain out-of-tree shell.nix files (maintainer=@mic92)",
+        "languages": {
+            "Nix": 12515,
+            "Makefile": 207,
+            "Ruby": 49
+        }
+    },
+    {
+        "name": "nixos-flake-example",
+        "description": "This is a demo NixOS config, with optional flakes support. Along with notes on why flakes is useful and worth adopting.",
+        "languages": {
+            "Nix": 1931,
+            "Shell": 1095
+        }
+    },
+    {
+        "name": "nixpkgs-channels",
+        "description": "DEPRECATED! Use NixOS/nixpkgs repository instead.",
+        "languages": {
+            "Nix": 38761553,
+            "Shell": 773304,
+            "Python": 261668,
+            "Ruby": 199493,
+            "Perl": 177699,
+            "C": 125838,
+            "Common Lisp": 40780,
+            "XSLT": 31202,
+            "C++": 24955,
+            "Emacs Lisp": 21264,
+            "Erlang": 13588,
+            "JavaScript": 12006,
+            "Vim Script": 10631,
+            "M4": 9030,
+            "TypeScript": 7494,
+            "D": 5281,
+            "R": 4283,
+            "Roff": 2009,
+            "Makefile": 1885,
+            "QMake": 1549,
+            "C#": 1462,
+            "CMake": 1209,
+            "Awk": 1088,
+            "Crystal": 1013,
+            "sed": 881,
+            "CSS": 749,
+            "Go": 662,
+            "Jasmin": 656,
+            "Java": 538,
+            "PHP": 224,
+            "PureScript": 170,
+            "Meson": 134,
+            "Scheme": 105,
+            "Lua": 74
+        }
+    },
+    {
+        "name": "treefmt-nix",
+        "description": "treefmt nix configuration",
+        "languages": {
+            "Nix": 78198,
+            "Shell": 1003
+        }
+    },
+    {
+        "name": "nixcloud-webservices",
+        "description": "This nixpkgs extension, called nixcloud-webservices, focuses on ease of deployment of web-related technologies.",
+        "languages": {
+            "Nix": 458165,
+            "Python": 8490,
+            "Shell": 5454,
+            "Sieve": 1072,
+            "Lua": 665
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "system configurations using nix",
+        "languages": {
+            "Nix": 34882,
+            "Lua": 20129,
+            "Vim Script": 15139
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "My dotfiles + system configuration for NixOS and mac",
+        "languages": {
+            "Nix": 69789,
+            "Nushell": 34875,
+            "Lua": 34237,
+            "Haskell": 14165,
+            "Python": 12886,
+            "CSS": 7847,
+            "SCSS": 6409,
+            "Shell": 6195,
+            "Nu": 980
+        }
+    },
+    {
+        "name": "RedNixOS",
+        "description": "NixOS-based 'distro' for cybersecurity enthusiasts",
+        "languages": {
+            "Nix": 9815,
+            "CSS": 4431
+        }
+    },
+    {
+        "name": "nix-ros-overlay",
+        "description": "ROS overlay for the Nix package manager",
+        "languages": {
+            "Nix": 7818218,
+            "Shell": 4555,
+            "Perl": 666
+        }
+    },
+    {
+        "name": ".dots",
+        "description": "just my .dotfiles",
+        "languages": {
+            "Nix": 65956,
+            "Rust": 38309,
+            "Haskell": 16570,
+            "Shell": 14573,
+            "Vim Script": 13305,
+            "Vim Snippet": 9490,
+            "Python": 7552
+        }
+    },
+    {
+        "name": "xn--ts9h",
+        "description": "\ud83e\udd7a is sudo at home",
+        "languages": {
+            "Nix": 2256,
+            "Rust": 1206,
+            "Roff": 572
+        }
+    },
+    {
+        "name": "todomvc-nix",
+        "description": "Example on how to nixify a project [maintainer=@Rizary]",
+        "languages": {
+            "Nix": 88656,
+            "Rust": 34158,
+            "Haskell": 16536,
+            "Shell": 5243,
+            "JavaScript": 1387,
+            "HTML": 1123,
+            "PLpgSQL": 334,
+            "Dockerfile": 327
+        }
+    },
+    {
+        "name": "nixos",
+        "description": "My NixOS Configurations",
+        "languages": {
+            "Nix": 293623,
+            "Lua": 103304,
+            "Vim Script": 22787,
+            "Shell": 20211,
+            "CSS": 14946,
+            "Python": 11049,
+            "HTML": 9395,
+            "Mustache": 8899,
+            "Jsonnet": 2692,
+            "Scheme": 2531,
+            "JavaScript": 370
+        }
+    },
+    {
+        "name": "tsnsrv",
+        "description": "A reverse proxy that exposes services on your tailnet (as their own tailscale participants)",
+        "languages": {
+            "Nix": 29022,
+            "Go": 25384
+        }
+    },
+    {
+        "name": "docker-nixpkgs",
+        "description": "docker images from nixpkgs [maintainer=@zimbatm]",
+        "languages": {
+            "Nix": 15005,
+            "Shell": 7216
+        }
+    },
+    {
+        "name": "nix-homelab",
+        "description": "Homelab and dotfiles made with NixOS",
+        "languages": {
+            "Nix": 273126,
+            "Python": 50011,
+            "Lua": 20550,
+            "Shell": 4535
+        }
+    },
+    {
+        "name": "bitte",
+        "description": "Nix Ops for Terraform, Consul, Vault, Nomad",
+        "languages": {
+            "Nix": 715040,
+            "Rust": 35147,
+            "CUE": 30230,
+            "Shell": 14904,
+            "Ruby": 5012,
+            "HCL": 1055
+        }
+    },
+    {
+        "name": "base16.nix",
+        "description": "Theme applications with your favourite base16 colorschemes in Nix",
+        "languages": {
+            "Nix": 21076
+        }
+    },
+    {
+        "name": "drv-parts",
+        "description": "Configure packages like NixOS systems",
+        "languages": {
+            "Nix": 40921,
+            "XSLT": 1719
+        }
+    },
+    {
+        "name": "dotfiles",
+        "description": "My computing environment, in code form. Nix for my personal computer and my server. Mirror.",
+        "languages": {
+            "Nix": 74758,
+            "CSS": 809
+        }
+    },
+    {
+        "name": "nix-files",
+        "description": "My NixOS configuration and custom Nix derivations.",
+        "languages": {
+            "Nix": 102626,
+            "Shell": 1242
+        }
+    },
+    {
+        "name": "nix-haskell-monorepo",
+        "description": "Pragmatic tutorial on how to use nix with a haskell monorepo",
+        "languages": {
+            "Nix": 22126,
+            "Haskell": 2236,
+            "Shell": 263
+        }
+    },
+    {
+        "name": "shabka",
+        "description": "Shabka. Declaritive description of my network, workstations and servers.",
+        "languages": {
+            "Nix": 187944,
+            "Shell": 85697,
+            "Vim Script": 26596,
+            "Ruby": 4805,
+            "Python": 3023,
+            "Makefile": 413
+        }
+    },
+    {
+        "name": "flakelight",
+        "description": "Framework for simplifying flake setup [maintainer=@accelbread]",
+        "languages": {
+            "Nix": 65338
         }
     }
 ]

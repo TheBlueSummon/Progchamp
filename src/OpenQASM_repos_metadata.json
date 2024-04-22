@@ -57,5 +57,1883 @@
             "OpenQASM": 5799816,
             "Python": 1733362
         }
+    },
+    {
+        "name": "quartz",
+        "description": "The Quartz Quantum Compiler",
+        "languages": {
+            "OpenQASM": 115278892,
+            "Jupyter Notebook": 2085015,
+            "Python": 1390612,
+            "C++": 701956,
+            "Shell": 96244,
+            "Cython": 24801,
+            "CMake": 9393,
+            "C": 1601,
+            "Batchfile": 22
+        }
+    },
+    {
+        "name": "QASMBench",
+        "description": "A low-level OpenQASM benchmark suite for NISQ evaluation and simulation. Please see our paper for details.",
+        "languages": {
+            "OpenQASM": 502838976,
+            "C++": 109107,
+            "Python": 86843,
+            "Pascal": 2136
+        }
+    },
+    {
+        "name": "The-Quantum-Tunnels",
+        "description": "A dungeon crawler designed for a quantum computer",
+        "languages": {
+            "OpenQASM": 393714,
+            "Python": 1447
+        }
+    },
+    {
+        "name": "DM-Sim",
+        "description": "DM-Sim: Quantum Simulator on GPU Cluster using Density Matrix ",
+        "languages": {
+            "OpenQASM": 71680702,
+            "C++": 444929,
+            "Python": 293996,
+            "Cuda": 199518,
+            "LLVM": 84372,
+            "CMake": 15272,
+            "Makefile": 10787,
+            "Shell": 4085,
+            "Q#": 2734,
+            "Pascal": 2136
+        }
+    },
+    {
+        "name": "quizx",
+        "description": "A speedy Rust port of PyZX",
+        "languages": {
+            "OpenQASM": 12553644,
+            "Rust": 381546,
+            "Python": 15670,
+            "Shell": 2290,
+            "Just": 1638,
+            "Batchfile": 297
+        }
+    },
+    {
+        "name": "unitary",
+        "description": null,
+        "languages": {
+            "OpenQASM": 11055964,
+            "Python": 906156,
+            "Shell": 1983
+        }
+    },
+    {
+        "name": "QASMBench",
+        "description": "QASMBench is an OpenQASM benchmark suite running on IBM Quantum-Experience backends.",
+        "languages": {
+            "OpenQASM": 104834258,
+            "Cuda": 56574288,
+            "C++": 4089
+        }
+    },
+    {
+        "name": "qubit-routing-with-rl",
+        "description": "Qubit Routing using Reinforcement Learning",
+        "languages": {
+            "OpenQASM": 37140904,
+            "Python": 104670,
+            "C++": 2041
+        }
+    },
+    {
+        "name": "OLSQ",
+        "description": "OLSQ (pronounced all-s-k): Optimal Layout Synthesis for Quantum Computing",
+        "languages": {
+            "OpenQASM": 251923,
+            "Python": 100271,
+            "Jupyter Notebook": 85608,
+            "Shell": 3608,
+            "C++": 3212
+        }
+    },
+    {
+        "name": "Benchmark",
+        "description": null,
+        "languages": {
+            "OpenQASM": 34411625,
+            "Python": 11071,
+            "Jupyter Notebook": 2101
+        }
+    },
+    {
+        "name": "red-queen",
+        "description": "Quantum software benchmarking tool",
+        "languages": {
+            "OpenQASM": 259387154,
+            "Python": 41494,
+            "Shell": 3087
+        }
+    },
+    {
+        "name": "cirq-qulacs",
+        "description": "Fast quantum circuit simulator Qulacs as backend for Cirq",
+        "languages": {
+            "OpenQASM": 5139334,
+            "Python": 53211,
+            "Dockerfile": 1946
+        }
+    },
+    {
+        "name": "qasmtrans",
+        "description": "A C++ based quantum transpiler for NISQ devices",
+        "languages": {
+            "OpenQASM": 35286104,
+            "C++": 1115319,
+            "Python": 5832,
+            "Shell": 1559,
+            "CMake": 393
+        }
+    },
+    {
+        "name": "SV-Sim",
+        "description": "SV-Sim: Scalable PGAS-based State Vector Simulation of Quantum Circuits",
+        "languages": {
+            "OpenQASM": 106571193,
+            "LLVM": 21313426,
+            "C++": 1443910,
+            "Cuda": 855838,
+            "Python": 436084,
+            "Q#": 100849,
+            "Makefile": 42575,
+            "CMake": 29345,
+            "Shell": 6958
+        }
+    },
+    {
+        "name": "ASDP",
+        "description": "acoustic sensing platform",
+        "languages": {
+            "OpenQASM": 114951,
+            "C": 63060,
+            "Shell": 4144,
+            "Makefile": 859
+        }
+    },
+    {
+        "name": "NWQ-Sim",
+        "description": null,
+        "languages": {
+            "OpenQASM": 178045057,
+            "LLVM": 3732539,
+            "C++": 1545767,
+            "Cuda": 238422,
+            "Python": 22201,
+            "CMake": 6432,
+            "Makefile": 6364,
+            "Jupyter Notebook": 5894,
+            "Shell": 4932,
+            "Pascal": 4272
+        }
+    },
+    {
+        "name": "AutoQ",
+        "description": null,
+        "languages": {
+            "OpenQASM": 70227560,
+            "Python": 7662243,
+            "C++": 1486366,
+            "C": 372307,
+            "Ruby": 35255,
+            "CMake": 19023,
+            "Shell": 1702,
+            "Makefile": 540
+        }
+    },
+    {
+        "name": "qxx",
+        "description": null,
+        "languages": {
+            "OpenQASM": 1590334,
+            "Python": 174505,
+            "Jupyter Notebook": 154133,
+            "Pascal": 2080,
+            "Shell": 431
+        }
+    },
+    {
+        "name": "TOQM",
+        "description": null,
+        "languages": {
+            "OpenQASM": 6379995,
+            "C++": 165156,
+            "Makefile": 2670,
+            "Pascal": 2136
+        }
+    },
+    {
+        "name": "tket_benchmarking",
+        "description": "Scripts and circuits for benchmarking tket",
+        "languages": {
+            "OpenQASM": 1076337845,
+            "Jupyter Notebook": 182905,
+            "Python": 49142
+        }
+    },
+    {
+        "name": "mqt-qudit-compression",
+        "description": "A tool for mapping qubits on a qudit architecture of preferred size",
+        "languages": {
+            "OpenQASM": 3381069,
+            "Python": 31387,
+            "Shell": 1388
+        }
+    },
+    {
+        "name": "qsyn.lab",
+        "description": null,
+        "languages": {
+            "OpenQASM": 96210620,
+            "C++": 900803,
+            "C": 18240,
+            "Python": 15427,
+            "Shell": 12714,
+            "Makefile": 7815,
+            "CMake": 2020,
+            "Starlark": 79
+        }
+    },
+    {
+        "name": "qe-qasm",
+        "description": "A LALR(1) OpenQASM Parser and AST Generator.",
+        "languages": {
+            "OpenQASM": 7475833,
+            "C++": 4614256,
+            "Yacc": 310774,
+            "Lex": 168218,
+            "CMake": 114068,
+            "NASL": 109749,
+            "Shell": 15065,
+            "Python": 4318,
+            "Pascal": 4100,
+            "C": 2161
+        }
+    },
+    {
+        "name": "quartz-artifact",
+        "description": "Artifact for PLDI'22 paper Quartz: Superoptimization of Quantum Circuits",
+        "languages": {
+            "OpenQASM": 28548369,
+            "Jupyter Notebook": 888987,
+            "Python": 583165,
+            "C++": 367350,
+            "Shell": 48479,
+            "Cython": 16843,
+            "CMake": 5513,
+            "C": 1178
+        }
+    },
+    {
+        "name": "torque",
+        "description": null,
+        "languages": {
+            "OpenQASM": 16007742,
+            "C++": 169990,
+            "Cuda": 82488,
+            "Shell": 19893,
+            "CMake": 9413,
+            "C": 4318,
+            "Python": 3780
+        }
+    },
+    {
+        "name": "quantum-compiler-benchmark-circuits",
+        "description": null,
+        "languages": {
+            "OpenQASM": 429591515,
+            "Python": 18749,
+            "Pascal": 2041
+        }
+    },
+    {
+        "name": "Womanium_Hackathon_TKET_2022",
+        "description": null,
+        "languages": {
+            "OpenQASM": 174475,
+            "Jupyter Notebook": 114731
+        }
+    },
+    {
+        "name": "Q-CODAR",
+        "description": "CODAR: A Contextual Duration-Aware Qubit Mapping for Various NISQ Devices",
+        "languages": {
+            "OpenQASM": 2143590,
+            "C++": 78805,
+            "Makefile": 2367
+        }
+    },
+    {
+        "name": "VQE-generated-dataset",
+        "description": "Dataset for quantum machine learning, generated by the VQE algorithm.",
+        "languages": {
+            "OpenQASM": 486712426,
+            "Jupyter Notebook": 531334,
+            "Python": 6339
+        }
+    },
+    {
+        "name": "myqlm-interop",
+        "description": null,
+        "languages": {
+            "OpenQASM": 372533,
+            "Python": 315537,
+            "Pascal": 1784,
+            "Shell": 513
+        }
+    },
+    {
+        "name": "quantum_circuits",
+        "description": "Repository containing a collection of quantum circuits",
+        "languages": {
+            "OpenQASM": 64493080
+        }
+    },
+    {
+        "name": "MQCC",
+        "description": null,
+        "languages": {
+            "OpenQASM": 260531,
+            "Cuda": 189218,
+            "Python": 54000,
+            "Shell": 587
+        }
+    },
+    {
+        "name": "Quantum-Obfuscator",
+        "description": "A program to enlarge and obfuscate an input quantum circuit",
+        "languages": {
+            "OpenQASM": 56234124,
+            "Coq": 431150,
+            "OCaml": 337175,
+            "Python": 22525,
+            "Makefile": 5905,
+            "Shell": 2040
+        }
+    },
+    {
+        "name": "QUEKO-benchmark",
+        "description": null,
+        "languages": {
+            "OpenQASM": 52465214,
+            "Python": 20206
+        }
+    },
+    {
+        "name": "unitary-synthesis",
+        "description": "Quantum gate decomposition, qubit mapping and routing, and other compilation approaches ...",
+        "languages": {
+            "OpenQASM": 12240652,
+            "Jupyter Notebook": 1472414,
+            "Python": 179632
+        }
+    },
+    {
+        "name": "FSQM",
+        "description": "[DAC 2022] A Fast and Scalable Qubit-Mapping Method for Noisy Intermediate-Scale Quantum Computers",
+        "languages": {
+            "OpenQASM": 32701665,
+            "C++": 144560,
+            "Python": 7957,
+            "Pascal": 2397,
+            "CMake": 1168
+        }
+    },
+    {
+        "name": "QuantumCircuitTransformation",
+        "description": "Transforming logical quantum circuits to be executable on physical quantum devices.",
+        "languages": {
+            "OpenQASM": 39675217,
+            "C#": 149428
+        }
+    },
+    {
+        "name": "Circuit-Transformation-via-Monte-Carlo-Tree-Search",
+        "description": null,
+        "languages": {
+            "OpenQASM": 42677966,
+            "Python": 235720,
+            "Pascal": 2041,
+            "Shell": 1769
+        }
+    },
+    {
+        "name": "Learn-OpenQASM",
+        "description": "A repository for showcasing my knowledge of the OpenQASM programming language, and continuing to learn the language.",
+        "languages": {
+            "OpenQASM": 178777
+        }
+    },
+    {
+        "name": "public-quantum-rev",
+        "description": "DiceCTF 2021",
+        "languages": {
+            "OpenQASM": 47707705,
+            "Python": 51543,
+            "Jupyter Notebook": 24324
+        }
+    },
+    {
+        "name": "forte_aq29_data",
+        "description": null,
+        "languages": {
+            "OpenQASM": 24741105
+        }
+    },
+    {
+        "name": "OLSQ2",
+        "description": null,
+        "languages": {
+            "OpenQASM": 133219,
+            "Python": 75039
+        }
+    },
+    {
+        "name": "qbench",
+        "description": "A collection of Quantum Benchmarks. [PhD research]",
+        "languages": {
+            "OpenQASM": 19858301928,
+            "Python": 576103015,
+            "Cuda": 56618436,
+            "C": 16668656,
+            "Jupyter Notebook": 1219889,
+            "Q#": 387290,
+            "C#": 169931,
+            "MATLAB": 86107,
+            "Fortran": 33018,
+            "HTML": 10916,
+            "JavaScript": 9199,
+            "C++": 9042,
+            "Shell": 6293,
+            "Pascal": 2041,
+            "PowerShell": 1940
+        }
+    },
+    {
+        "name": "QUBO-for-Qubit-Allocation",
+        "description": null,
+        "languages": {
+            "OpenQASM": 89603868,
+            "Python": 133649
+        }
+    },
+    {
+        "name": "KnowYourLimit",
+        "description": "Depository for KnowYourLimit Project, which allows for the assessment of noisy quantum devices for optimization.",
+        "languages": {
+            "OpenQASM": 11055964,
+            "Python": 1011335,
+            "Jupyter Notebook": 43697
+        }
+    },
+    {
+        "name": "SIPF",
+        "description": "Qubit Allocation as a combination of the Subgraph Isomorphism and Token Swapping Algorithms by Partitioning with a Failure Heuristic.",
+        "languages": {
+            "OpenQASM": 6299360,
+            "C++": 102410,
+            "Shell": 6657,
+            "JavaScript": 2742,
+            "Makefile": 930
+        }
+    },
+    {
+        "name": "crossbar-bench",
+        "description": "Scripts for running and analyzing benchmarks in cQASM",
+        "languages": {
+            "OpenQASM": 434835685,
+            "Python": 81349635,
+            "Shell": 61843
+        }
+    },
+    {
+        "name": "Approximate-Equivalence-Checking",
+        "description": null,
+        "languages": {
+            "OpenQASM": 728734,
+            "Jupyter Notebook": 48728,
+            "Python": 28661
+        }
+    },
+    {
+        "name": "queso",
+        "description": null,
+        "languages": {
+            "OpenQASM": 7884291,
+            "Java": 280523,
+            "Python": 1125
+        }
+    },
+    {
+        "name": "Meadows_WebMode",
+        "description": "Meadows web mode: turn Meadows into a netbook system and convert any browser into a system for Internet browsing only. An alternative to Chrome/ChromiumOS",
+        "languages": {
+            "OpenQASM": 175745,
+            "Roff": 8757,
+            "HTML": 528
+        }
+    },
+    {
+        "name": "HiQuER",
+        "description": null,
+        "languages": {
+            "OpenQASM": 296252416,
+            "Jupyter Notebook": 1850040,
+            "Julia": 70411,
+            "Python": 13337
+        }
+    },
+    {
+        "name": "MCTS-New",
+        "description": null,
+        "languages": {
+            "OpenQASM": 535124975,
+            "Python": 177842
+        }
+    },
+    {
+        "name": "VQO",
+        "description": "Verified Compilation of Quantum Oracles",
+        "languages": {
+            "OpenQASM": 6842891,
+            "Coq": 1531206,
+            "OCaml": 205566,
+            "Shell": 1953,
+            "Haskell": 1120,
+            "Python": 856,
+            "Makefile": 335,
+            "Standard ML": 224
+        }
+    },
+    {
+        "name": "quantum-computing-resources",
+        "description": "Collection of resources for learning quantum computer system",
+        "languages": {
+            "OpenQASM": 3009176,
+            "Python": 285737,
+            "Jupyter Notebook": 281375,
+            "Roff": 53253,
+            "Shell": 21897,
+            "Java": 14857
+        }
+    },
+    {
+        "name": "benchmark",
+        "description": null,
+        "languages": {
+            "OpenQASM": 14415145,
+            "Jupyter Notebook": 359692,
+            "Python": 80245
+        }
+    },
+    {
+        "name": "SnuQS",
+        "description": null,
+        "languages": {
+            "OpenQASM": 15416850,
+            "C++": 1195125,
+            "Python": 456660,
+            "Cuda": 102851,
+            "Jupyter Notebook": 25744,
+            "CMake": 4040,
+            "C": 3405,
+            "ANTLR": 2444
+        }
+    },
+    {
+        "name": "QuantumFun",
+        "description": "My Quantum Experiments!",
+        "languages": {
+            "OpenQASM": 1492
+        }
+    },
+    {
+        "name": "chiplets-for-QC-scaling",
+        "description": null,
+        "languages": {
+            "OpenQASM": 73415406,
+            "Jupyter Notebook": 3699865,
+            "Python": 208932
+        }
+    },
+    {
+        "name": "VOQC-benchmarks",
+        "description": "Benchmarks used to evaluate the VOQC optimizer",
+        "languages": {
+            "OpenQASM": 41034710,
+            "Python": 14787,
+            "OCaml": 7764,
+            "Shell": 4350
+        }
+    },
+    {
+        "name": "asplos2024-circuits",
+        "description": "Benchmark.",
+        "languages": {
+            "OpenQASM": 254484721,
+            "Python": 166837
+        }
+    },
+    {
+        "name": "synthetiq",
+        "description": null,
+        "languages": {
+            "OpenQASM": 13273001,
+            "C++": 9742933,
+            "Fortran": 1326303,
+            "Python": 301807,
+            "CMake": 296612,
+            "C": 259436,
+            "Cuda": 123976,
+            "Jupyter Notebook": 94082,
+            "NASL": 50996,
+            "Shell": 15042,
+            "JavaScript": 8006,
+            "CSS": 5504,
+            "Dockerfile": 939,
+            "Makefile": 812
+        }
+    },
+    {
+        "name": "abstraqt",
+        "description": null,
+        "languages": {
+            "OpenQASM": 54685601,
+            "HiveQL": 37256344,
+            "Java": 351335,
+            "Python": 321508,
+            "TeX": 22373,
+            "HTML": 8770,
+            "Shell": 8602,
+            "q": 7691,
+            "Dockerfile": 2029,
+            "Rust": 897,
+            "Makefile": 316
+        }
+    },
+    {
+        "name": "Quantum_Benchmarking",
+        "description": "Codes used for benchmarking open-source quantum simulation packages.",
+        "languages": {
+            "OpenQASM": 79250945,
+            "Jupyter Notebook": 1037195,
+            "Shell": 64933,
+            "Python": 58201
+        }
+    },
+    {
+        "name": "transpile_benchy",
+        "description": "Collection of existing quantum circuit transpilation benchmarking tools",
+        "languages": {
+            "OpenQASM": 55715295,
+            "Python": 1373916,
+            "Jupyter Notebook": 632747,
+            "Makefile": 1955
+        }
+    },
+    {
+        "name": "qseed",
+        "description": "A Python package that implements seeded unitary synthesis",
+        "languages": {
+            "OpenQASM": 73312663,
+            "Python": 53586
+        }
+    },
+    {
+        "name": "pyzx-heuristics",
+        "description": null,
+        "languages": {
+            "OpenQASM": 131534321,
+            "Jupyter Notebook": 14054340,
+            "Python": 737727,
+            "JavaScript": 39031,
+            "Cython": 12550,
+            "Pascal": 2041,
+            "Batchfile": 122,
+            "Shell": 69
+        }
+    },
+    {
+        "name": "Giallar",
+        "description": "Artifact for the PLDI'21 Paper Giallar: Push-button Verification for the Qiskit Quantum Compiler",
+        "languages": {
+            "OpenQASM": 463310,
+            "Python": 352085,
+            "Coq": 47099,
+            "C++": 4089,
+            "Pascal": 2136,
+            "Makefile": 308,
+            "Shell": 46
+        }
+    },
+    {
+        "name": "nonlocalgames",
+        "description": "Computing strategies for non-local games",
+        "languages": {
+            "OpenQASM": 102750,
+            "Python": 78993
+        }
+    },
+    {
+        "name": "architecture-aware-phasepoly-synth",
+        "description": "This repository contains the source code to replicate the results from the paper  \"Architecture-aware phase polynomial synthesis for NISQ devices\" by Arianne Meijer - van de Griend and Ross Duncan.",
+        "languages": {
+            "OpenQASM": 32986280,
+            "Jupyter Notebook": 1338104,
+            "Python": 68344
+        }
+    },
+    {
+        "name": "SNU_2D_ProgrammingTools_IDE_OpenQASM",
+        "description": "The OpenQASM Programming language IDE submodule for SNU Programming Tools (2D Mode)",
+        "languages": {
+            "OpenQASM": 215194
+        }
+    },
+    {
+        "name": "IBMQ-Experience-Deutsch-Jozsa",
+        "description": "Repository for the QASM codes of the Deutsch-Jozsa algorithm implemented on IBMQ Experience",
+        "languages": {
+            "OpenQASM": 989
+        }
+    },
+    {
+        "name": "QFT-mapping",
+        "description": "This project want to map QFT with more than 1000 qubits on real-world device.",
+        "languages": {
+            "OpenQASM": 301800918,
+            "C++": 101353,
+            "Python": 82101,
+            "Shell": 5393,
+            "CMake": 1820
+        }
+    },
+    {
+        "name": "openqasm-examples",
+        "description": "OpenQASM Examples",
+        "languages": {
+            "OpenQASM": 25566,
+            "Pascal": 1968
+        }
+    },
+    {
+        "name": "Maximum-Quantum-Classification",
+        "description": "This was an attempt to push the limits of the IBM cloud quantum computing simulator.",
+        "languages": {
+            "OpenQASM": 4365
+        }
+    },
+    {
+        "name": "benchiQle",
+        "description": "Compiler benchmarking tool.",
+        "languages": {
+            "OpenQASM": 502847978,
+            "Python": 34254,
+            "Shell": 3145
+        }
+    },
+    {
+        "name": "ILS-QuantumCircuitMapper",
+        "description": "An Iterated Local Search Methodology for  the Qubit Mapping Problem",
+        "languages": {
+            "OpenQASM": 1762076,
+            "C++": 48019
+        }
+    },
+    {
+        "name": "openqasm-fiddles",
+        "description": "Fiddling around with Quantam computing",
+        "languages": {
+            "OpenQASM": 2313
+        }
+    },
+    {
+        "name": "qre",
+        "description": "Quantum resource estimator",
+        "languages": {
+            "OpenQASM": 112426,
+            "Python": 8298
+        }
+    },
+    {
+        "name": "LesAtomesDeSavoie",
+        "description": "Repository from QuantX Hackaton on Quantum Computing for the Les Atomes de Savoie team",
+        "languages": {
+            "OpenQASM": 4849009,
+            "Jupyter Notebook": 1258005,
+            "Python": 49506
+        }
+    },
+    {
+        "name": "Quantum_Logic_Gates",
+        "description": "Quantum_Computers_Lesson_1",
+        "languages": {
+            "OpenQASM": 1805
+        }
+    },
+    {
+        "name": "QuantumCompiler",
+        "description": null,
+        "languages": {
+            "OpenQASM": 111391452,
+            "Cuda": 56574288,
+            "C++": 171162,
+            "Makefile": 22950,
+            "C": 20271,
+            "CMake": 14929
+        }
+    },
+    {
+        "name": "qc-quantum-routing-optimization",
+        "description": null,
+        "languages": {
+            "OpenQASM": 37146575,
+            "Python": 38237,
+            "Jupyter Notebook": 37254,
+            "PureBasic": 11001,
+            "Pascal": 2041
+        }
+    },
+    {
+        "name": "Q-Tetris",
+        "description": null,
+        "languages": {
+            "OpenQASM": 4074924,
+            "Makefile": 155317,
+            "C++": 67776,
+            "C": 24404,
+            "CMake": 19282,
+            "TypeScript": 336
+        }
+    },
+    {
+        "name": "qrane-artifact",
+        "description": null,
+        "languages": {
+            "OpenQASM": 113543568,
+            "Shell": 12483993,
+            "C": 11867881,
+            "C++": 7634541,
+            "HTML": 2909606,
+            "Makefile": 2865387,
+            "Python": 1799031,
+            "M4": 1760189,
+            "TeX": 653445,
+            "Smalltalk": 151057,
+            "XSLT": 114832,
+            "Perl": 80606,
+            "Yacc": 49582,
+            "Roff": 14989,
+            "SuperCollider": 7550,
+            "Scala": 1788,
+            "Dockerfile": 1026,
+            "sed": 740
+        }
+    },
+    {
+        "name": "QXQ_transpiler_benchmarking",
+        "description": "Transpiler Benchmarking for preset optimization levels",
+        "languages": {
+            "OpenQASM": 45364707,
+            "Jupyter Notebook": 360346,
+            "Python": 33373
+        }
+    },
+    {
+        "name": "heuristic-qubit-mapping-algorithm",
+        "description": "Code for the qubit-mapping algorithms utilized in https://arxiv.org/abs/2103.15695.",
+        "languages": {
+            "OpenQASM": 132469,
+            "Python": 132107
+        }
+    },
+    {
+        "name": "QLogic_PyZX",
+        "description": null,
+        "languages": {
+            "OpenQASM": 12668527,
+            "Jupyter Notebook": 214118,
+            "Pascal": 2041
+        }
+    },
+    {
+        "name": "hackq2023",
+        "description": null,
+        "languages": {
+            "OpenQASM": 210053,
+            "Python": 21097
+        }
+    },
+    {
+        "name": "paqoc",
+        "description": "PAQOC Pulse Generator for Quantum Computing",
+        "languages": {
+            "OpenQASM": 492297,
+            "Jupyter Notebook": 381553,
+            "Python": 337339,
+            "Pascal": 4272
+        }
+    },
+    {
+        "name": "agent",
+        "description": null,
+        "languages": {
+            "OpenQASM": 113498800,
+            "Python": 30210,
+            "Pascal": 2041,
+            "Shell": 1769
+        }
+    },
+    {
+        "name": "benchmark-circuits",
+        "description": "Quantum circuits used as benchmark for different experiments during the research.",
+        "languages": {
+            "OpenQASM": 45687072,
+            "Haskell": 295037
+        }
+    },
+    {
+        "name": "FTDD",
+        "description": "Quantum Circuit Simulation with Fast Tensor Decision Diagram",
+        "languages": {
+            "OpenQASM": 839183,
+            "Python": 127526,
+            "C++": 81634,
+            "Makefile": 45793,
+            "C": 23072,
+            "CMake": 20942,
+            "TypeScript": 111
+        }
+    },
+    {
+        "name": "Ansatzes",
+        "description": "Parameterized quantum circuits or also known as variational circuits are quantum algorithms (from non-electronic design code) that depend on control parameters. Like standard quantum circuits, they consist of three necessary elements. The preparation of a known fixed initial state of a quantum circuit U(\u03b8); the parametrization by a set of controllable parameters \u03b8 (usually they are angles); and, the measurement of the observable H \u0302. Then, once the expected value has been calculated, it is iterated with the optimization subroutine. The last two steps are repeated until the optimal \u03b8 parameter (\u03b8 \u0302) is found. In other cases, it may be multiple parameters to minimize. For example, in case of a quantum classifier, it is minimized, both \u03b8 and x.",
+        "languages": {
+            "OpenQASM": 6531
+        }
+    },
+    {
+        "name": "Quantum-Circuit-Composer",
+        "description": "Quantum Algorithm on Quantum Circuit Composer",
+        "languages": {
+            "OpenQASM": 3003
+        }
+    },
+    {
+        "name": "quantumcomputing",
+        "description": "Quantumcomputing Workshop by LMU/UniBW/DLR",
+        "languages": {
+            "OpenQASM": 168675,
+            "Python": 131804
+        }
+    },
+    {
+        "name": "SUTD-Introduction-to-Quantum-Computing",
+        "description": "For SUTD Introduction to Quantum Computing 2-day intensive course",
+        "languages": {
+            "OpenQASM": 43927
+        }
+    },
+    {
+        "name": "ibm_qx_mapping",
+        "description": null,
+        "languages": {
+            "OpenQASM": 67516164,
+            "C++": 169298,
+            "Python": 6984,
+            "CMake": 318,
+            "Pascal": 240,
+            "Shell": 111
+        }
+    },
+    {
+        "name": "VOQC",
+        "description": "xacc plugin for quantum circuit optimization",
+        "languages": {
+            "OpenQASM": 35820944,
+            "Coq": 576545,
+            "OCaml": 75002,
+            "Python": 25373,
+            "C++": 15626,
+            "Makefile": 5752,
+            "Shell": 4393,
+            "CMake": 2049,
+            "Dockerfile": 1729,
+            "C": 142,
+            "Standard ML": 38
+        }
+    },
+    {
+        "name": "cirq-qrack",
+        "description": "Qrack provider for Cirq",
+        "languages": {
+            "OpenQASM": 5139334,
+            "Python": 34814
+        }
+    },
+    {
+        "name": "quantum-learning",
+        "description": "Quantum computing playground",
+        "languages": {
+            "OpenQASM": 1028
+        }
+    },
+    {
+        "name": "CoQtel",
+        "description": null,
+        "languages": {
+            "OpenQASM": 502839099,
+            "C++": 109107,
+            "Python": 88821,
+            "C#": 7496,
+            "Pascal": 2136
+        }
+    },
+    {
+        "name": "QCbenchmark",
+        "description": null,
+        "languages": {
+            "OpenQASM": 50659972,
+            "C++": 120548,
+            "Python": 46248,
+            "Pascal": 4272,
+            "Shell": 223
+        }
+    },
+    {
+        "name": "BosonQ",
+        "description": "BosonQ: An open-source mechanical design for a coherent sub-atomic pulse-electron beaming quantum computer",
+        "languages": {
+            "OpenQASM": 1022,
+            "OpenSCAD": 522
+        }
+    },
+    {
+        "name": "experiment3-balanced-hypergraphic-partitioning",
+        "description": "PYTHON - BALANCED HYPERGRAPH PARTITIONING",
+        "languages": {
+            "OpenQASM": 576692,
+            "Jupyter Notebook": 83356
+        }
+    },
+    {
+        "name": "Error-Mitigation-for-Deep-Quantum-Optimization-Circuits-by-Leveraging-Problem-Symmetries",
+        "description": "Data for the paper \"Error Mitigation for Deep Quantum Optimization Circuits by Leveraging Problem Symmetries\"",
+        "languages": {
+            "OpenQASM": 14272
+        }
+    },
+    {
+        "name": "q-gpu-exp",
+        "description": null,
+        "languages": {
+            "OpenQASM": 1293092,
+            "Python": 295354,
+            "Shell": 2248
+        }
+    },
+    {
+        "name": "hisvsim",
+        "description": null,
+        "languages": {
+            "OpenQASM": 44103420,
+            "C++": 1362776,
+            "Cuda": 224219,
+            "Python": 210372,
+            "CMake": 1631
+        }
+    },
+    {
+        "name": "Quantum-Algorithms",
+        "description": null,
+        "languages": {
+            "OpenQASM": 1685
+        }
+    },
+    {
+        "name": "sqgm",
+        "description": null,
+        "languages": {
+            "OpenQASM": 15148838,
+            "Jupyter Notebook": 401717,
+            "Python": 106756
+        }
+    },
+    {
+        "name": "cquant",
+        "description": null,
+        "languages": {
+            "OpenQASM": 17200975,
+            "Java": 335663,
+            "C++": 57580,
+            "CMake": 20140,
+            "ANTLR": 18743,
+            "Shell": 4864,
+            "Dockerfile": 448
+        }
+    },
+    {
+        "name": "padqc",
+        "description": "Pattern-oriented Deterministic Quantum Compiler",
+        "languages": {
+            "OpenQASM": 18212533,
+            "Jupyter Notebook": 194220,
+            "Python": 122620
+        }
+    },
+    {
+        "name": "CliffordQASM",
+        "description": "Python code to convert OpenQASM 3.0 circuits to only have Clifford+T Gates",
+        "languages": {
+            "OpenQASM": 29647,
+            "Python": 14368,
+            "Pascal": 2026
+        }
+    },
+    {
+        "name": "bellstate",
+        "description": "Fanciest Hello World using entangled qubits thanks to Einstein",
+        "languages": {
+            "OpenQASM": 124
+        }
+    },
+    {
+        "name": "qasm-world-generator",
+        "description": null,
+        "languages": {
+            "OpenQASM": 174
+        }
+    },
+    {
+        "name": "Quantum-Simulator",
+        "description": null,
+        "languages": {
+            "OpenQASM": 101564,
+            "Python": 12460,
+            "PowerShell": 473
+        }
+    },
+    {
+        "name": "Quokka-Sharp",
+        "description": null,
+        "languages": {
+            "OpenQASM": 467357633,
+            "Python": 75014,
+            "C++": 11811,
+            "Shell": 6060,
+            "Rust": 4195
+        }
+    },
+    {
+        "name": "Capstone",
+        "description": null,
+        "languages": {
+            "OpenQASM": 694345,
+            "TeX": 157654,
+            "Python": 23930,
+            "Q#": 14793,
+            "Shell": 211
+        }
+    },
+    {
+        "name": "Quantum-pyzx-repl",
+        "description": null,
+        "languages": {
+            "OpenQASM": 78804199,
+            "Jupyter Notebook": 4301508,
+            "Python": 766049,
+            "JavaScript": 5558,
+            "Batchfile": 112,
+            "Shell": 57
+        }
+    },
+    {
+        "name": "ECE8853_Quantum",
+        "description": "Course projects and assignments from ECE 8853: Introduction to Quantum Computing Systems  (Spring 2019)",
+        "languages": {
+            "OpenQASM": 448253,
+            "Jupyter Notebook": 41581,
+            "Python": 41484
+        }
+    },
+    {
+        "name": "Quantum-Computing",
+        "description": null,
+        "languages": {
+            "OpenQASM": 1498
+        }
+    },
+    {
+        "name": "grover_algo",
+        "description": null,
+        "languages": {
+            "OpenQASM": 1233
+        }
+    },
+    {
+        "name": "QCTSA",
+        "description": null,
+        "languages": {
+            "OpenQASM": 111736220,
+            "Python": 38138443,
+            "C++": 450587,
+            "C": 411717,
+            "Cython": 373305,
+            "Shell": 147138,
+            "TeX": 37261,
+            "PowerShell": 18376,
+            "Fortran": 15557,
+            "MATLAB": 4346,
+            "JavaScript": 2062,
+            "CMake": 1606,
+            "Batchfile": 1341,
+            "HTML": 366,
+            "Makefile": 214,
+            "CSS": 177
+        }
+    },
+    {
+        "name": "quantum_cir_benchmark",
+        "description": null,
+        "languages": {
+            "OpenQASM": 38025102,
+            "Python": 61239,
+            "Pascal": 2041
+        }
+    },
+    {
+        "name": "Quantum-Computing-Circuts",
+        "description": "Some basic quantum computing circuits that can be run on IBM quantum computers. Written in quantum assembly (OpenQASM2.0)",
+        "languages": {
+            "OpenQASM": 215
+        }
+    },
+    {
+        "name": "sml-qasm",
+        "description": "(WIP) parser for QASM in SML",
+        "languages": {
+            "OpenQASM": 1539810,
+            "Standard ML": 99355,
+            "Makefile": 220
+        }
+    },
+    {
+        "name": "quantum-computing-power-side-channel-attacks",
+        "description": null,
+        "languages": {
+            "OpenQASM": 7290988,
+            "Jupyter Notebook": 1022075,
+            "Python": 99133,
+            "Pascal": 2041
+        }
+    },
+    {
+        "name": "MEDUSA",
+        "description": "An MTBDD-based quantum circuit simulator",
+        "languages": {
+            "OpenQASM": 63511344,
+            "C": 143220,
+            "Python": 16064,
+            "Shell": 9313,
+            "Makefile": 2322
+        }
+    },
+    {
+        "name": "Polylog_MCX-public",
+        "description": null,
+        "languages": {
+            "OpenQASM": 400712,
+            "Jupyter Notebook": 373913,
+            "Python": 38626
+        }
+    },
+    {
+        "name": "notebooks",
+        "description": "A gallery of interesting Jupyter Notebooks using tweedledum",
+        "languages": {
+            "OpenQASM": 39075727,
+            "Jupyter Notebook": 241178
+        }
+    },
+    {
+        "name": "mlec_supplementary_material",
+        "description": "Public available copy of [[22712.HTUJ]]",
+        "languages": {
+            "OpenQASM": 134679,
+            "TeX": 4806
+        }
+    },
+    {
+        "name": "kaleidoscope",
+        "description": "Diffing tool for quantum circuits",
+        "languages": {
+            "OpenQASM": 57203440,
+            "Rust": 57283,
+            "Nix": 918
+        }
+    },
+    {
+        "name": "BCS-error-mitigation",
+        "description": null,
+        "languages": {
+            "OpenQASM": 656318432,
+            "Jupyter Notebook": 11100956,
+            "Python": 35350
+        }
+    },
+    {
+        "name": "https-github.com-samyk-openqasm",
+        "description": null,
+        "languages": {
+            "OpenQASM": 1448832,
+            "TeX": 107694,
+            "Python": 33488,
+            "Makefile": 1427,
+            "Batchfile": 813,
+            "Shell": 223
+        }
+    },
+    {
+        "name": "Quantum",
+        "description": null,
+        "languages": {
+            "OpenQASM": 196
+        }
+    },
+    {
+        "name": "Clifford-Opt",
+        "description": null,
+        "languages": {
+            "OpenQASM": 174571985,
+            "Jupyter Notebook": 197274,
+            "Python": 25024
+        }
+    },
+    {
+        "name": "Taller-Qiskit",
+        "description": null,
+        "languages": {
+            "OpenQASM": 849,
+            "Python": 623
+        }
+    },
+    {
+        "name": "qcircuit-optimization",
+        "description": null,
+        "languages": {
+            "OpenQASM": 543631,
+            "Python": 97538,
+            "Jupyter Notebook": 66193
+        }
+    },
+    {
+        "name": "quantum-circuits",
+        "description": null,
+        "languages": {
+            "OpenQASM": 1657
+        }
+    },
+    {
+        "name": "quantum-world",
+        "description": "Qiskit code for a quantum decisional system for a swarm of robots moving along a line. Concept and coding: Maria Mannone",
+        "languages": {
+            "OpenQASM": 504
+        }
+    },
+    {
+        "name": "qopt-hsy-",
+        "description": "qopt ",
+        "languages": {
+            "OpenQASM": 140722827,
+            "Cuda": 56574288,
+            "OCaml": 18184,
+            "C++": 4089,
+            "Python": 3603,
+            "Shell": 343
+        }
+    },
+    {
+        "name": "Entanglement_Gates",
+        "description": "Using QASM to define quantum entanglement gates.",
+        "languages": {
+            "OpenQASM": 449
+        }
+    },
+    {
+        "name": "quantum_algorithms",
+        "description": null,
+        "languages": {
+            "OpenQASM": 660346,
+            "Python": 111573
+        }
+    },
+    {
+        "name": "qiskit",
+        "description": null,
+        "languages": {
+            "OpenQASM": 148406,
+            "Python": 120104,
+            "TeX": 9089,
+            "Shell": 5660
+        }
+    },
+    {
+        "name": "quantum",
+        "description": null,
+        "languages": {
+            "OpenQASM": 2004
+        }
+    },
+    {
+        "name": "VLSI_Lab_quantum_compilation_toolchain",
+        "description": null,
+        "languages": {
+            "OpenQASM": 587435351,
+            "Python": 980693,
+            "MATLAB": 3557,
+            "Shell": 2886
+        }
+    },
+    {
+        "name": "Quantum-Circuit-Simulator",
+        "description": "Quantum Circuit Simulator (Python) for a subset of QASM programs. 14 QASM programs used for testing.",
+        "languages": {
+            "OpenQASM": 101240,
+            "Jupyter Notebook": 9860
+        }
+    },
+    {
+        "name": "ExactQubitAllocation",
+        "description": "Resources of exact qubit allocation approach",
+        "languages": {
+            "OpenQASM": 2945517
+        }
+    },
+    {
+        "name": "ImplementingQuantumAlgorithm",
+        "description": "261492 project",
+        "languages": {
+            "OpenQASM": 2784
+        }
+    },
+    {
+        "name": "improvedPartitionOptimization",
+        "description": null,
+        "languages": {
+            "OpenQASM": 155852,
+            "Python": 55834,
+            "Jupyter Notebook": 17428
+        }
+    },
+    {
+        "name": "q_simulator",
+        "description": null,
+        "languages": {
+            "OpenQASM": 106311574,
+            "Python": 29641,
+            "Pascal": 2136
+        }
+    },
+    {
+        "name": "qc",
+        "description": null,
+        "languages": {
+            "OpenQASM": 23849747,
+            "Python": 83850,
+            "Rust": 1575,
+            "Shell": 365
+        }
+    },
+    {
+        "name": "aas-benchmarks",
+        "description": "Benchmarking some pytket compilation passes",
+        "languages": {
+            "OpenQASM": 532536493,
+            "Python": 9067
+        }
+    },
+    {
+        "name": "quantum_circuit_transpilation",
+        "description": null,
+        "languages": {
+            "OpenQASM": 67038070,
+            "Python": 25802
+        }
+    },
+    {
+        "name": "cat10-decomp",
+        "description": null,
+        "languages": {
+            "OpenQASM": 12553644,
+            "Rust": 342957,
+            "Jupyter Notebook": 72005,
+            "Python": 12376,
+            "Shell": 3987,
+            "Batchfile": 296
+        }
+    },
+    {
+        "name": "forte_aq29_data",
+        "description": "Supplemental data for the Forte benchmarking paper",
+        "languages": {
+            "OpenQASM": 24741105,
+            "Jupyter Notebook": 2056799,
+            "Python": 4119
+        }
+    },
+    {
+        "name": "quantum-docker-dev",
+        "description": "A simple development environment for quantum simulation using docker",
+        "languages": {
+            "OpenQASM": 1462,
+            "Shell": 392,
+            "Dockerfile": 251,
+            "Python": 240
+        }
+    },
+    {
+        "name": "qubitMapper",
+        "description": "Grad Project for implementation to tackle qubit mapping problem for quantum circuits. ",
+        "languages": {
+            "OpenQASM": 6287637,
+            "C++": 228094,
+            "Pascal": 2041,
+            "Makefile": 912
+        }
+    },
+    {
+        "name": "TestQCEC",
+        "description": "TFM about testing the QCEC verification tool for quantum compilers",
+        "languages": {
+            "OpenQASM": 14751901,
+            "Python": 16005
+        }
+    },
+    {
+        "name": "QTrator",
+        "description": "Repository for files related with QTrator - comparator of quantum transpilers created as master's thesis in AGH",
+        "languages": {
+            "OpenQASM": 9613466,
+            "Python": 980242,
+            "Shell": 979
+        }
+    },
+    {
+        "name": "Quantum-Teleportation-using-OpenQASM",
+        "description": null,
+        "languages": {
+            "OpenQASM": 253
+        }
+    },
+    {
+        "name": "quantum-ripple-adder",
+        "description": null,
+        "languages": {
+            "OpenQASM": 1201
+        }
+    },
+    {
+        "name": "Pattern-Scheduler",
+        "description": "Pattern Scheduler in Pattern-based Quantum Circuit Optimization",
+        "languages": {
+            "OpenQASM": 82431143,
+            "Python": 954991,
+            "C++": 501075,
+            "Jupyter Notebook": 404186,
+            "Shell": 65178,
+            "Cython": 23869,
+            "CMake": 7392,
+            "C": 1422
+        }
+    },
+    {
+        "name": "https-github.com-Qiskit-qiskit-metapackage",
+        "description": null,
+        "languages": {
+            "OpenQASM": 148406,
+            "Python": 122917,
+            "Shell": 5765
+        }
+    },
+    {
+        "name": "CaQR",
+        "description": null,
+        "languages": {
+            "OpenQASM": 37161419,
+            "Python": 22766,
+            "Shell": 2327,
+            "Pascal": 2041
+        }
+    },
+    {
+        "name": "qcpm",
+        "description": "A pattern matching-based framework for rewriting quantum circuits ",
+        "languages": {
+            "OpenQASM": 7692801,
+            "Python": 126491
+        }
+    },
+    {
+        "name": "inst",
+        "description": null,
+        "languages": {
+            "OpenQASM": 13466157,
+            "Pascal": 2041,
+            "Shell": 533
+        }
+    },
+    {
+        "name": "am-doppler-raspberrypi",
+        "description": "Raspberry Pi code for FFT processing AM band radio data",
+        "languages": {
+            "OpenQASM": 114951,
+            "C": 71942,
+            "Makefile": 1796,
+            "Shell": 559
+        }
+    },
+    {
+        "name": "QuantumHackathonMarch2021",
+        "description": "Quantum hackathon of March 2021",
+        "languages": {
+            "OpenQASM": 4849009,
+            "Jupyter Notebook": 198154,
+            "Python": 2500
+        }
+    },
+    {
+        "name": "qiskit",
+        "description": null,
+        "languages": {
+            "OpenQASM": 148406,
+            "Python": 111354,
+            "TeX": 6921,
+            "Shell": 4319
+        }
+    },
+    {
+        "name": "quantum_pragprog",
+        "description": null,
+        "languages": {
+            "OpenQASM": 742
+        }
+    },
+    {
+        "name": "Quantum-Circuit-Composer-",
+        "description": "Quantum Algorithm on Quantum Circuit Composer",
+        "languages": {
+            "OpenQASM": 3003
+        }
+    },
+    {
+        "name": "IQC-Summary",
+        "description": null,
+        "languages": {
+            "OpenQASM": 14680870,
+            "Python": 3724
+        }
+    },
+    {
+        "name": "qasm",
+        "description": "Collection of various programs written in OpenQASM",
+        "languages": {
+            "OpenQASM": 103
+        }
+    },
+    {
+        "name": "QuantumComparator",
+        "description": "Repositorio del TFM de Francisco Jos\u00e9 Orts G\u00f3mez",
+        "languages": {
+            "OpenQASM": 4005
+        }
+    },
+    {
+        "name": "QuantumSimulator",
+        "description": "This repository contains my personal simulator for a quantum circuit",
+        "languages": {
+            "OpenQASM": 101240,
+            "Python": 18167
+        }
+    },
+    {
+        "name": "nisq-content-test",
+        "description": null,
+        "languages": {
+            "OpenQASM": 176
+        }
+    },
+    {
+        "name": "optimization-of-cnot-circuits-for-paper",
+        "description": null,
+        "languages": {
+            "OpenQASM": 83671814,
+            "Python": 217852
+        }
+    },
+    {
+        "name": "Qf",
+        "description": "QASM Facility",
+        "languages": {
+            "OpenQASM": 3642
+        }
+    },
+    {
+        "name": "Qubit-mapping",
+        "description": null,
+        "languages": {
+            "OpenQASM": 6308697,
+            "Python": 9331
+        }
+    },
+    {
+        "name": "classiq_competition",
+        "description": "my solution for the Hamiltonian problem at the classiq competition.",
+        "languages": {
+            "OpenQASM": 2188724,
+            "Python": 27893
+        }
+    },
+    {
+        "name": "masterthesis",
+        "description": null,
+        "languages": {
+            "OpenQASM": 7170745,
+            "Python": 943108,
+            "Jupyter Notebook": 581414,
+            "Shell": 979,
+            "Batchfile": 142
+        }
+    },
+    {
+        "name": "hello-OpenQASM",
+        "description": "hello world OpenQASM",
+        "languages": {
+            "OpenQASM": 543
+        }
+    },
+    {
+        "name": "thermalization",
+        "description": null,
+        "languages": {
+            "OpenQASM": 135650860,
+            "Jupyter Notebook": 156611,
+            "Python": 16321
+        }
+    },
+    {
+        "name": "tket-quantum-circuit-routing",
+        "description": null,
+        "languages": {
+            "OpenQASM": 290150,
+            "Python": 2358
+        }
+    },
+    {
+        "name": "classiq_challenge",
+        "description": "My submissions to the Classiq Coding Competition",
+        "languages": {
+            "OpenQASM": 70428,
+            "Jupyter Notebook": 22640
+        }
+    },
+    {
+        "name": "treasure-door-enigma",
+        "description": "Quantum circuit computing the treasure door enigma using IBM's Quantum computing lab",
+        "languages": {
+            "OpenQASM": 276
+        }
+    },
+    {
+        "name": "qsof-cohort",
+        "description": "Completed exercises for QSOF Cohort",
+        "languages": {
+            "OpenQASM": 266
+        }
+    },
+    {
+        "name": "demo_day_9_march_2023",
+        "description": "Materials for demo day presentation on adding physical qubit support to qiskit-qasm3-import",
+        "languages": {
+            "OpenQASM": 1906,
+            "Python": 599
+        }
+    },
+    {
+        "name": "QASMBench-vAbir",
+        "description": "QASMBench",
+        "languages": {
+            "OpenQASM": 502838218,
+            "C++": 109107,
+            "Python": 88075,
+            "Pascal": 2041
+        }
+    },
+    {
+        "name": "QuantumComputing",
+        "description": "Grover's algorithm in QASM",
+        "languages": {
+            "OpenQASM": 887
+        }
+    },
+    {
+        "name": "pyzx-repl",
+        "description": "https://github.com/Quantomatic/pyzx",
+        "languages": {
+            "OpenQASM": 78804199,
+            "Jupyter Notebook": 4301508,
+            "Python": 766049,
+            "JavaScript": 5558,
+            "Batchfile": 112,
+            "Shell": 57
+        }
+    },
+    {
+        "name": "quantum-computing-fundamentals",
+        "description": "In this repo I work through PragProg\u2019s Quantum Computing book.",
+        "languages": {
+            "OpenQASM": 4720
+        }
+    },
+    {
+        "name": "quantum_mapping_a_-",
+        "description": null,
+        "languages": {
+            "OpenQASM": 33967992,
+            "Shell": 504107,
+            "C++": 179121,
+            "CMake": 220
+        }
+    },
+    {
+        "name": "TSA",
+        "description": null,
+        "languages": {
+            "OpenQASM": 74282170,
+            "Java": 419537,
+            "C++": 396152,
+            "Shell": 158687,
+            "Makefile": 123986,
+            "CMake": 33924,
+            "C": 20248,
+            "Python": 11699
+        }
+    },
+    {
+        "name": "hybrid_partitioning",
+        "description": "Quantum circuit partitioner that uses a hybrid logical-physical",
+        "languages": {
+            "OpenQASM": 96808342,
+            "Python": 170678,
+            "Shell": 84826
+        }
     }
 ]

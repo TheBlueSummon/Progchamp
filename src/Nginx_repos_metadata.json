@@ -36,5 +36,1539 @@
             "Shell": 296,
             "PHP": 181
         }
+    },
+    {
+        "name": "graphite-fabric",
+        "description": "fabric-graphite is a fabric script to install Graphite and all dependencies on a debian-based host (with optional vagrant support)",
+        "languages": {
+            "Nginx": 3208,
+            "Shell": 3016,
+            "JavaScript": 2201,
+            "Python": 506
+        }
+    },
+    {
+        "name": "php7-dockerized",
+        "description": "Simple PHP7 Docker & Compose Environment ",
+        "languages": {
+            "Nginx": 1126,
+            "PHP": 17
+        }
+    },
+    {
+        "name": "nginx",
+        "description": "nginx container used as the localtunnel load balancer",
+        "languages": {
+            "Nginx": 641
+        }
+    },
+    {
+        "name": "ansible-bootstrap-ubuntu",
+        "description": "Ansible scripts for bootstrapping and securing an Ubuntu server (locale, fail2ban, firewall, lock down sudo, prevent root and password login, ...)",
+        "languages": {
+            "Nginx": 203
+        }
+    },
+    {
+        "name": "docker-loadbalancer",
+        "description": null,
+        "languages": {
+            "Nginx": 420,
+            "Shell": 274
+        }
+    },
+    {
+        "name": "nodejs.org-archive",
+        "description": "[DEPRECATED] Website repository for the Node.js project",
+        "languages": {
+            "Nginx": 3144,
+            "Makefile": 3056
+        }
+    },
+    {
+        "name": "docker-gunicorn-nginx",
+        "description": "An experimental docker setup for Python / Gunicorn / Nginx stack",
+        "languages": {
+            "Nginx": 987,
+            "Makefile": 684,
+            "Python": 172
+        }
+    },
+    {
+        "name": "nginx-opencart",
+        "description": "Nginx and PHP-FPM configuration for OpenCart install",
+        "languages": {
+            "Nginx": 26329
+        }
+    },
+    {
+        "name": "ELKStack",
+        "description": "The config files and docker-compose.yml files of Dockerized ELK Stack",
+        "languages": {
+            "Nginx": 963
+        }
+    },
+    {
+        "name": "docker-alpine-php-fpm",
+        "description": "Docker image for php-fpm based on alpine linux that makes it small",
+        "languages": {
+            "Nginx": 3499
+        }
+    },
+    {
+        "name": "docker-magento",
+        "description": "A Magento Development Environment Made of Docker Containers",
+        "languages": {
+            "Nginx": 1441,
+            "Shell": 1168,
+            "PHP": 380
+        }
+    },
+    {
+        "name": "openresty-docker",
+        "description": "Dockerfile and sample settings for Openresty/Lua development using Docker",
+        "languages": {
+            "Nginx": 600,
+            "Lua": 48
+        }
+    },
+    {
+        "name": "meteor-deployment",
+        "description": "Production-grade Deployment scripts for Meteor",
+        "languages": {
+            "Nginx": 4307,
+            "Shell": 372
+        }
+    },
+    {
+        "name": "taiga-docker",
+        "description": "[NOT MAINTAINED] Taiga project management platform for Docker",
+        "languages": {
+            "Nginx": 4140,
+            "Shell": 609,
+            "Python": 187
+        }
+    },
+    {
+        "name": "docker-graphite",
+        "description": "Graphite + Carbon in a docker image",
+        "languages": {
+            "Nginx": 1783,
+            "Python": 1617
+        }
+    },
+    {
+        "name": "using-ngxlua-in-upyun",
+        "description": "2014 Beijing OSC, 2015 Beijing OpenResty Con",
+        "languages": {
+            "Nginx": 2520
+        }
+    },
+    {
+        "name": "nginx-rtmp-server",
+        "description": "\u81ea\u5efa\u89c6\u9891\u6e90\u670d\u52a1\u5668\uff0c\u63a8\u62c9\u6d41\uff0cPC/Mobile\u770b\u76f4\u64ad\uff0c\u5f55\u64ad",
+        "languages": {
+            "Nginx": 3103
+        }
+    },
+    {
+        "name": "ansible-infrastructure",
+        "description": "Consolidated Repository of Ansible Roles",
+        "languages": {
+            "Nginx": 1873,
+            "Shell": 721
+        }
+    },
+    {
+        "name": "alpine-nginx",
+        "description": "Minimalist Nginx image based on Alpine linux (6 MB)",
+        "languages": {
+            "Nginx": 644,
+            "HTML": 170
+        }
+    },
+    {
+        "name": "nginx-config",
+        "description": "\u2699 Optimized nginx configuration.",
+        "languages": {
+            "Nginx": 4591
+        }
+    },
+    {
+        "name": "the_setup",
+        "description": "A step toward a more realistic development environment.",
+        "languages": {
+            "Nginx": 6920,
+            "Shell": 65
+        }
+    },
+    {
+        "name": "Dockerized-SSL-NextCloud-with-MariaDB",
+        "description": "A NextCloud server with a MariaDB database behind a Nginx reverse proxy with LetsEncrypt for SSL encryption",
+        "languages": {
+            "Nginx": 2713
+        }
+    },
+    {
+        "name": "gs-proxy",
+        "description": "Simple nginx proxy to google cloud storage",
+        "languages": {
+            "Nginx": 2185
+        }
+    },
+    {
+        "name": "PlexLoadBalancer",
+        "description": null,
+        "languages": {
+            "Nginx": 1601
+        }
+    },
+    {
+        "name": "docker-dokuwiki",
+        "description": "Docker container image with dokuwiki and nginx",
+        "languages": {
+            "Nginx": 1579,
+            "Shell": 194
+        }
+    },
+    {
+        "name": "docker-nginx-lua",
+        "description": "Dockerised Nginx with Lua module built from source - see http://wiki.nginx.org/HttpLuaModule#Installation",
+        "languages": {
+            "Nginx": 2833,
+            "Shell": 39
+        }
+    },
+    {
+        "name": "docker-web-stack",
+        "description": "A Docker Compose-powered stack to get your PHP project running in no time.",
+        "languages": {
+            "Nginx": 1118,
+            "PHP": 65
+        }
+    },
+    {
+        "name": "docker-debian-nginx-phpfpm-mysql",
+        "description": "\u57fa\u4e8edocker\u7684\u5feb\u901f\uff0c\u8f7b\u91cf\u7ea7nginx+mysql+php+elasticsearch\u73af\u5883",
+        "languages": {
+            "Nginx": 1950,
+            "HTML": 127
+        }
+    },
+    {
+        "name": "docker-rainloop",
+        "description": "A docker image with the Rainloop mail client installed",
+        "languages": {
+            "Nginx": 2487,
+            "Shell": 1232
+        }
+    },
+    {
+        "name": "WordPress-Server-Configs",
+        "description": "Configurations for the common Linux software stack 10up uses for WordPress",
+        "languages": {
+            "Nginx": 1163
+        }
+    },
+    {
+        "name": "nginx-portable",
+        "description": "nginx-portable is a portable version of the nginx web server for linux",
+        "languages": {
+            "Nginx": 2687,
+            "Shell": 2473,
+            "HTML": 102
+        }
+    },
+    {
+        "name": "nginx-vod-module-fmp4-hls",
+        "description": "Play fragmented mp4's on HLS using nginx-vod-module",
+        "languages": {
+            "Nginx": 1611,
+            "Lua": 1581
+        }
+    },
+    {
+        "name": "nginx-unicorn-sinatra",
+        "description": "Example showing how to deploy a simple Sinatra application using Unicorn and Nginx",
+        "languages": {
+            "Nginx": 1043,
+            "Ruby": 424,
+            "HTML": 62
+        }
+    },
+    {
+        "name": "mup-frontend-server",
+        "description": "Frontend Server for Meteor Up",
+        "languages": {
+            "Nginx": 2951,
+            "Shell": 1361
+        }
+    },
+    {
+        "name": "homelabfrontpage",
+        "description": "Code and notes used to create my homelab front page",
+        "languages": {
+            "Nginx": 5546,
+            "HTML": 2245
+        }
+    },
+    {
+        "name": "ansible-nginx",
+        "description": "Ansible Role for Nginx",
+        "languages": {
+            "Nginx": 1873
+        }
+    },
+    {
+        "name": "bedrock-wordpress-docker",
+        "description": "Dockerized Wordpress using Bedrock",
+        "languages": {
+            "Nginx": 5598,
+            "Shell": 1040
+        }
+    },
+    {
+        "name": "nginx-conf",
+        "description": "Nginx Configuration template for all. This is my nginx conf that I tried to compile for use with any kind of site. Can be improved. It is configured to run with php-fpm, pagespeed and else.",
+        "languages": {
+            "Nginx": 8700,
+            "DIGITAL Command Language": 8499,
+            "Shell": 810
+        }
+    },
+    {
+        "name": "dockerfiles",
+        "description": null,
+        "languages": {
+            "Nginx": 689
+        }
+    },
+    {
+        "name": "nginx-configuration-for-ExpressionEngine",
+        "description": "Vector's fully working nginx configuration for ExpressionEngine, with support for many common requirements",
+        "languages": {
+            "Nginx": 3649
+        }
+    },
+    {
+        "name": "dwight-conrad",
+        "description": "The son of Hermes and LaBarbara Conrad, also an Openresty dynamic router.",
+        "languages": {
+            "Nginx": 2240,
+            "Lua": 1291,
+            "HTML": 1182
+        }
+    },
+    {
+        "name": "docker-wordpress",
+        "description": "Minimalistic and secure php7+nginx docker container for WordPress",
+        "languages": {
+            "Nginx": 20724,
+            "Shell": 19313,
+            "HTML": 12481,
+            "PHP": 17
+        }
+    },
+    {
+        "name": "tornado-supervisord-nginx-demo",
+        "description": "\u670d\u52a1\u5668\u914d\u7f6e\uff1aTornado + Supervisor + Nginx",
+        "languages": {
+            "Nginx": 2146,
+            "Python": 684
+        }
+    },
+    {
+        "name": "nginx-config-reverse-proxy",
+        "description": "Nginx Configuration for a Secure Reverse Proxy",
+        "languages": {
+            "Nginx": 4976,
+            "DIGITAL Command Language": 2550
+        }
+    },
+    {
+        "name": "docker-koel",
+        "description": "https://github.com/phanan/koel",
+        "languages": {
+            "Nginx": 3915,
+            "Shell": 313
+        }
+    },
+    {
+        "name": "docker-nginx-consul-template",
+        "description": "A consul-template powered Nginx container.",
+        "languages": {
+            "Nginx": 2070,
+            "Shell": 284
+        }
+    },
+    {
+        "name": "docker-sogo",
+        "description": "Run sogo in a docker container.",
+        "languages": {
+            "Nginx": 2741
+        }
+    },
+    {
+        "name": "vagrant-python-machine",
+        "description": "Virtual Machine for Development With Python",
+        "languages": {
+            "Nginx": 1590,
+            "Shell": 318
+        }
+    },
+    {
+        "name": "ansible",
+        "description": null,
+        "languages": {
+            "Nginx": 4319,
+            "Ruby": 3864,
+            "DIGITAL Command Language": 2010,
+            "Makefile": 498
+        }
+    },
+    {
+        "name": "MeteorN",
+        "description": "MeteorN - A Simple Tool to Run Meteor App with an Nginx Reverse Proxy",
+        "languages": {
+            "Nginx": 3190,
+            "JavaScript": 483,
+            "Shell": 384
+        }
+    },
+    {
+        "name": "ansible-nginx",
+        "description": "An Ansible role for deploying and configuring Nginx and sites on unix hosts.",
+        "languages": {
+            "Nginx": 5208
+        }
+    },
+    {
+        "name": "docker-dns-proxy",
+        "description": "app1.example.00:80 -> (dnsmasq, nginx) -> \"app1.example\" container in \"00\" custom docker 1.9 network",
+        "languages": {
+            "Nginx": 353
+        }
+    },
+    {
+        "name": "consul-demo",
+        "description": "consul + consul-template + docker-compose + nginx",
+        "languages": {
+            "Nginx": 645,
+            "JavaScript": 233
+        }
+    },
+    {
+        "name": "docker-lnmp-typecho",
+        "description": "docker-lnmp-typecho \u4f18\u5316docker-lnmp\u5bf9typecho\u7684\u652f\u6301",
+        "languages": {
+            "Nginx": 1595,
+            "PHP": 18
+        }
+    },
+    {
+        "name": "docker",
+        "description": "Docker deployment for Openchain",
+        "languages": {
+            "Nginx": 600,
+            "C#": 468
+        }
+    },
+    {
+        "name": "phpdock",
+        "description": "PHP development Docker inspired by Laradock with a focus on configuring PHPStorm for remote debugging. For an improved approach to this, please see: laravel-laradock-phpstorm",
+        "languages": {
+            "Nginx": 546,
+            "Batchfile": 295,
+            "Shell": 45
+        }
+    },
+    {
+        "name": "vagrantops",
+        "description": "Ansible Powered Vagrant",
+        "languages": {
+            "Nginx": 1714,
+            "Shell": 188,
+            "PHP": 17
+        }
+    },
+    {
+        "name": "docker-nginx-node-part1",
+        "description": "Dockering a Nginx server with a proxy to Nodejs",
+        "languages": {
+            "Nginx": 1127,
+            "Shell": 271,
+            "JavaScript": 236,
+            "HTML": 113
+        }
+    },
+    {
+        "name": "ansible-nginx-drupal",
+        "description": "Ansible role to configure Nginx for running Drupal using perusio's configuration",
+        "languages": {
+            "Nginx": 44318
+        }
+    },
+    {
+        "name": "nginx-puma-sinatra",
+        "description": "Example showing how to deploy a simple Sinatra application using Puma and Nginx",
+        "languages": {
+            "Nginx": 1022,
+            "Ruby": 338,
+            "HTML": 62
+        }
+    },
+    {
+        "name": "docker-php-nginx",
+        "description": "Lightwight Docker image for the (latest) PHP-FPM and Nginx based on AlpineLinux",
+        "languages": {
+            "Nginx": 1352,
+            "Shell": 283
+        }
+    },
+    {
+        "name": "lemp-docker-tutorial",
+        "description": "LEMP\u00a0Stack (Linux, Nginx, MariaDB/MySQL, PHP) With Docker",
+        "languages": {
+            "Nginx": 1846,
+            "Shell": 462,
+            "PHP": 42
+        }
+    },
+    {
+        "name": "gitlist-docker",
+        "description": "A ready to use docker image with preinstalled gitlist.",
+        "languages": {
+            "Nginx": 1418
+        }
+    },
+    {
+        "name": "docker-lua-resty-auto-ssl",
+        "description": "Docker file to launch OpenResty with automatic SSL generation provided by lua-resty-auto-ssl",
+        "languages": {
+            "Nginx": 1903
+        }
+    },
+    {
+        "name": "docker-nginx-php-fpm",
+        "description": "Simple setup for horizontally scaling php-fpm docker containers.",
+        "languages": {
+            "Nginx": 5331,
+            "PHP": 564,
+            "Shell": 400,
+            "HTML": 299,
+            "CSS": 20
+        }
+    },
+    {
+        "name": "docker-nginx-phpfpm",
+        "description": null,
+        "languages": {
+            "Nginx": 693,
+            "PHP": 225
+        }
+    },
+    {
+        "name": "docker-swarm-blue-green",
+        "description": "A sample project to test Docker Swarm and blue-green deployment model",
+        "languages": {
+            "Nginx": 2506,
+            "JavaScript": 394,
+            "Shell": 300
+        }
+    },
+    {
+        "name": "docker-couchdb-ssl",
+        "description": "\ud83d\udea8 Deprecated \ud83d\udea8",
+        "languages": {
+            "Nginx": 5404,
+            "Shell": 150
+        }
+    },
+    {
+        "name": "ngxpagespeed",
+        "description": null,
+        "languages": {
+            "Nginx": 368
+        }
+    },
+    {
+        "name": "alpine-python3-django-uwsgi-nginx",
+        "description": "Dockerfile and docker-compose.yml to deploy a Django project using uWSGI and Nginx. ",
+        "languages": {
+            "Nginx": 2754
+        }
+    },
+    {
+        "name": "docker-nginx-lb",
+        "description": "Dynamic container load balancing with nginx and consul template",
+        "languages": {
+            "Nginx": 420,
+            "Shell": 274
+        }
+    },
+    {
+        "name": "ansible-gitlab",
+        "description": "OBSOLETE :/ --  A role that downloads and install gitlab, in a format for ansible galaxy",
+        "languages": {
+            "Nginx": 861
+        }
+    },
+    {
+        "name": "streaming-host-sample",
+        "description": "This project contains sample of video streaming host that building docker-compose",
+        "languages": {
+            "Nginx": 1529,
+            "Shell": 115
+        }
+    },
+    {
+        "name": "docker-nginx-drupal",
+        "description": "Docker image using Nginx, PHP5, Composer, Drush and Drupal-ready",
+        "languages": {
+            "Nginx": 8924,
+            "Shell": 2012,
+            "Makefile": 210
+        }
+    },
+    {
+        "name": "docker-dns-round-robin",
+        "description": "Code for the blog post DNS Round Robin in Docker 1.11",
+        "languages": {
+            "Nginx": 618
+        }
+    },
+    {
+        "name": "docker-nginx-ngrep",
+        "description": ":mag: Docker image with nginx and ngrep. Useful for viewing HTTPS traffic, e.g. when debugging web services.",
+        "languages": {
+            "Nginx": 197
+        }
+    },
+    {
+        "name": "docker-radosgw",
+        "description": "Run your own distributed s3 storage in docker.",
+        "languages": {
+            "Nginx": 774,
+            "Shell": 110
+        }
+    },
+    {
+        "name": "ispconfig_install",
+        "description": "Installation of ubuntu platform, dovecot, squirrelmail, nginx for ispconfig",
+        "languages": {
+            "Nginx": 14471,
+            "Shell": 1935
+        }
+    },
+    {
+        "name": "magento2-nginx",
+        "description": "Optimised Nginx configuration for Magento2.",
+        "languages": {
+            "Nginx": 475
+        }
+    },
+    {
+        "name": "tomcat7-nginx-redis-memcached-cluster",
+        "description": "\u4f7f\u7528Redis\u6216Memcached\u5b9e\u73b0Tomcat7+Nginx\u96c6\u7fa4\u53caSession\u5171\u4eab",
+        "languages": {
+            "Nginx": 3291
+        }
+    },
+    {
+        "name": "microservices-nginx-gateway",
+        "description": "A simple microservice gateway using nginx as a reverse proxy, no transformations or API management",
+        "languages": {
+            "Nginx": 1658
+        }
+    },
+    {
+        "name": "nginxconf16",
+        "description": "My configuration snippets and slides from nginx.conf 2016.",
+        "languages": {
+            "Nginx": 497,
+            "JavaScript": 309
+        }
+    },
+    {
+        "name": "nginx-tech-talk",
+        "description": "http://eventdots.jp/event/578421",
+        "languages": {
+            "Nginx": 6746
+        }
+    },
+    {
+        "name": "keycloak-docker-compose",
+        "description": "docker-compose setup for JBoss Keycloak (Open Source Identity and Access Management)",
+        "languages": {
+            "Nginx": 656,
+            "Shell": 341
+        }
+    },
+    {
+        "name": "production",
+        "description": "Production settings for jsbin.com in production",
+        "languages": {
+            "Nginx": 13752,
+            "Shell": 2272,
+            "JavaScript": 791
+        }
+    },
+    {
+        "name": "log-based-static-contact-form",
+        "description": "Light weight form template for self hosted static sites.",
+        "languages": {
+            "Nginx": 970,
+            "HTML": 678,
+            "Shell": 377
+        }
+    },
+    {
+        "name": "magento2-docker",
+        "description": null,
+        "languages": {
+            "Nginx": 684
+        }
+    },
+    {
+        "name": "docker-redirect-http-to-https",
+        "description": "Simple redirector",
+        "languages": {
+            "Nginx": 221
+        }
+    },
+    {
+        "name": "freenas-proxy",
+        "description": "My FreeNAS proxy using Nginx reverse proxy to redirect traffic to internal IPs on different ports.",
+        "languages": {
+            "Nginx": 4066,
+            "HTML": 2275
+        }
+    },
+    {
+        "name": "nginx-circuit-breaker",
+        "description": "Implementation of the circuit breaker pattern using NGINX ",
+        "languages": {
+            "Nginx": 9724,
+            "Go": 2099,
+            "Makefile": 467
+        }
+    },
+    {
+        "name": "minimal-nginx-web-server-docker",
+        "description": "Minimal docker image/compose for nginx webserver",
+        "languages": {
+            "Nginx": 226,
+            "HTML": 20
+        }
+    },
+    {
+        "name": "monit-conf.d",
+        "description": "Monit conf.d files",
+        "languages": {
+            "Nginx": 464
+        }
+    },
+    {
+        "name": "ansible-ubuntu-django",
+        "description": "Ansible playbook to provision an Ubuntu server with Django, nginx, uwsgi, supervisor, PostgreSQL",
+        "languages": {
+            "Nginx": 3448
+        }
+    },
+    {
+        "name": "nginx-push-stream",
+        "description": "Docker container for a self-hosted \"restream.io\" alternative",
+        "languages": {
+            "Nginx": 2743
+        }
+    },
+    {
+        "name": "docker-alpine-nginx",
+        "description": "Nginx web server build on Alpine docker image",
+        "languages": {
+            "Nginx": 1876
+        }
+    },
+    {
+        "name": "appengine-nginx-hello",
+        "description": null,
+        "languages": {
+            "Nginx": 1211,
+            "HTML": 754
+        }
+    },
+    {
+        "name": "Docker-Flask-uWSGI-Nginx",
+        "description": "Flask + uWSGI + Nginx Docker config",
+        "languages": {
+            "Nginx": 1518,
+            "Python": 382
+        }
+    },
+    {
+        "name": "consul-access",
+        "description": null,
+        "languages": {
+            "Nginx": 444,
+            "Shell": 74
+        }
+    },
+    {
+        "name": "compose-owncloud",
+        "description": "ownCloud docker-compose for libre.sh v1",
+        "languages": {
+            "Nginx": 2711,
+            "Shell": 1211
+        }
+    },
+    {
+        "name": "php-docker",
+        "description": "Dockerized php dev environment",
+        "languages": {
+            "Nginx": 650,
+            "PHP": 393
+        }
+    },
+    {
+        "name": "server-configs",
+        "description": "Linux Server Config",
+        "languages": {
+            "Nginx": 5584,
+            "Shell": 3155,
+            "DIGITAL Command Language": 2356
+        }
+    },
+    {
+        "name": "Dockerfile",
+        "description": "Dockerfile\u955c\u50cf\u7f16\u5199",
+        "languages": {
+            "Nginx": 783,
+            "HTML": 567,
+            "Shell": 372
+        }
+    },
+    {
+        "name": "php-app-docker",
+        "description": "Simply another PHP project starter, with Docker. Beep Boop",
+        "languages": {
+            "Nginx": 501,
+            "PHP": 17
+        }
+    },
+    {
+        "name": "docker-lnmp",
+        "description": "\u901a\u8fc7docker\u642d\u5efalnmp\u73af\u5883",
+        "languages": {
+            "Nginx": 2696,
+            "Shell": 341
+        }
+    },
+    {
+        "name": "mastodon-ansible",
+        "description": "How I set up a mastodon instance on AWS with ansible on ubuntu trusty",
+        "languages": {
+            "Nginx": 1791,
+            "Shell": 651
+        }
+    },
+    {
+        "name": "docker_php_nginx_mysql_redis_memcached",
+        "description": null,
+        "languages": {
+            "Nginx": 1110,
+            "Makefile": 1109,
+            "Shell": 664
+        }
+    },
+    {
+        "name": "nginx-config",
+        "description": "Nginx webserver configuration files and structure",
+        "languages": {
+            "Nginx": 706
+        }
+    },
+    {
+        "name": "WNMP",
+        "description": "\u5728 Windows \u4e0a\u8fd0\u884c NGINX\u3001MySQL \u548cPHP",
+        "languages": {
+            "Nginx": 1976,
+            "Batchfile": 888,
+            "PHP": 504
+        }
+    },
+    {
+        "name": "k8s-service-proxy",
+        "description": "A Kubernetes service reverse proxy that requires no configuration",
+        "languages": {
+            "Nginx": 939
+        }
+    },
+    {
+        "name": "nginx-mail-proxy",
+        "description": null,
+        "languages": {
+            "Nginx": 2113,
+            "PHP": 1270,
+            "Shell": 141
+        }
+    },
+    {
+        "name": "nodejs-nginx-redis-docker-app",
+        "description": "Docker workflow with Nginx (proxy), Node.js (3 instances) and Redis",
+        "languages": {
+            "Nginx": 734,
+            "JavaScript": 632,
+            "Shell": 393
+        }
+    },
+    {
+        "name": "alpine-nginx-phpfpm",
+        "description": null,
+        "languages": {
+            "Nginx": 236
+        }
+    },
+    {
+        "name": "prerender.io-nginx",
+        "description": "Unofficial prerender.io nginx.conf",
+        "languages": {
+            "Nginx": 381
+        }
+    },
+    {
+        "name": "docker-lemp",
+        "description": "A simple Docker Compose project to setup PHP 7, Nginx and MySQL 5.7 for dev, testing and fun. ",
+        "languages": {
+            "Nginx": 1240,
+            "Makefile": 235
+        }
+    },
+    {
+        "name": "docker-lnmp",
+        "description": "Docker\u90e8\u7f72PHP\u73af\u5883(PHP,MySQL,Nginx,Redis)",
+        "languages": {
+            "Nginx": 923,
+            "PHP": 379
+        }
+    },
+    {
+        "name": "docker-nginx-acme",
+        "description": "Nginx http-server with embedded Let's Encrypt client ACME.sh",
+        "languages": {
+            "Nginx": 1022,
+            "Shell": 444
+        }
+    },
+    {
+        "name": "docker-php-dev",
+        "description": "\u57fa\u4e8edocker\u7684php\u8de8\u5e73\u53f0\u5f00\u53d1\u73af\u5883",
+        "languages": {
+            "Nginx": 2384,
+            "PHP": 17
+        }
+    },
+    {
+        "name": "lemp-docker-starter-kit",
+        "description": null,
+        "languages": {
+            "Nginx": 1218,
+            "HTML": 1149,
+            "PHP": 18
+        }
+    },
+    {
+        "name": "docker-baywatch",
+        "description": "Elasticsearch and Kibana",
+        "languages": {
+            "Nginx": 1393,
+            "Shell": 1103
+        }
+    },
+    {
+        "name": "PineappleSSL",
+        "description": "A way to force your wifi-pineapple to use SSL",
+        "languages": {
+            "Nginx": 2911
+        }
+    },
+    {
+        "name": "zero-downtime-tutorial",
+        "description": "See https://www.chrismoos.com/2016/09/28/zero-downtime-deployments-kubernetes/",
+        "languages": {
+            "Nginx": 674
+        }
+    },
+    {
+        "name": "docker-npm-cache",
+        "description": "Docker container that serves as an npm cache",
+        "languages": {
+            "Nginx": 1665,
+            "Shell": 424
+        }
+    },
+    {
+        "name": "awesome-ghost",
+        "description": "\u5feb\u901f\u90e8\u7f72Ghost\u535a\u5ba2\u7cfb\u7edf\ud83d\ude09",
+        "languages": {
+            "Nginx": 1050,
+            "Shell": 136
+        }
+    },
+    {
+        "name": "docker-drupal-nginx",
+        "description": null,
+        "languages": {
+            "Nginx": 1891,
+            "Shell": 663
+        }
+    },
+    {
+        "name": "image-fuzzy-alpine-nginx-pagespeed",
+        "description": null,
+        "languages": {
+            "Nginx": 3793
+        }
+    },
+    {
+        "name": "docksy",
+        "description": "Docker Environment for Symfony's Apps: Nginx, PHP7.0-fpm and MySQL. With docker-sync",
+        "languages": {
+            "Nginx": 518
+        }
+    },
+    {
+        "name": "stepic_web_project",
+        "description": null,
+        "languages": {
+            "Nginx": 188,
+            "Shell": 105
+        }
+    },
+    {
+        "name": "docker-nginx-node",
+        "description": "Docker \ub97c \uc0ac\uc6a9\ud558\uc5ec Nginx \ub85c Node.js Applciation \uc744 \uc11c\ube59\ud558\uae30 \uc704\ud55c \uc0d8\ud50c \uc5b4\ud50c\ub9ac\ucf00\uc774\uc158 http://seokjun.kr/docker-nginx-node",
+        "languages": {
+            "Nginx": 581,
+            "JavaScript": 285
+        }
+    },
+    {
+        "name": "devops-tuts",
+        "description": "Meteor Devops on OSX with Docker set for Ubuntu",
+        "languages": {
+            "Nginx": 3467,
+            "Shell": 2514,
+            "HTML": 211
+        }
+    },
+    {
+        "name": "nginx-php7.1",
+        "description": "Docker nginx + php7.1 on ubuntu",
+        "languages": {
+            "Nginx": 1231,
+            "Shell": 1036,
+            "PHP": 16
+        }
+    },
+    {
+        "name": "nginx_conf",
+        "description": "My custom nginx configuration template. Currently optimized for PHP-FPM, Rails/Rack support (via Passenger) coming soon.",
+        "languages": {
+            "Nginx": 2131
+        }
+    },
+    {
+        "name": "Nginx-rtmp-transcoding",
+        "description": "Want to stream to RTMP, convert to HLS, all with ffmpeg for free? Look no further.",
+        "languages": {
+            "Nginx": 2345
+        }
+    },
+    {
+        "name": "stf-k8s",
+        "description": "Open STF - Kubernetes deployment script",
+        "languages": {
+            "Nginx": 2835,
+            "Shell": 1044
+        }
+    },
+    {
+        "name": "docker-nginx-phalcon",
+        "description": "Dockerfile with Nginx + php5-fpm + phalcon extension configured",
+        "languages": {
+            "Nginx": 1287
+        }
+    },
+    {
+        "name": "nginx-redis-lua",
+        "description": "lua\u811a\u672c\u5f00\u53d1nginx \u4e0e redis \u6a21\u5757",
+        "languages": {
+            "Nginx": 8953,
+            "Lua": 4728,
+            "HTML": 409
+        }
+    },
+    {
+        "name": "nginx-json-proxy",
+        "description": "An experiment with openresty, lua and nginx",
+        "languages": {
+            "Nginx": 1997,
+            "HTML": 24
+        }
+    },
+    {
+        "name": "surrogate",
+        "description": "[DEPRECATED] HTTP proxy to bypass school networks in workshops",
+        "languages": {
+            "Nginx": 705
+        }
+    },
+    {
+        "name": "dokku-static-site",
+        "description": "Deploy static sites to Dokku with Dockerfile (without buildback)",
+        "languages": {
+            "Nginx": 351
+        }
+    },
+    {
+        "name": "airship-docs",
+        "description": "Documentation for CMS Airship",
+        "languages": {
+            "Nginx": 2156
+        }
+    },
+    {
+        "name": "docker-cuda-arm64v8",
+        "description": "Dockerfiles for cuda on arm64v8 (Jetson TX2)",
+        "languages": {
+            "Nginx": 1135,
+            "Shell": 422
+        }
+    },
+    {
+        "name": "Vue-pm2-Nginx-docker-container-",
+        "description": "Docker compose for VueJs app using pm2 process manager and Nginx reverse-proxy.",
+        "languages": {
+            "Nginx": 453,
+            "JavaScript": 247,
+            "Shell": 111
+        }
+    },
+    {
+        "name": "alpine-php-wordpress-dev",
+        "description": "Alpine PHP7 WordPress Dev Docker container with Grunt Sass Yeoman Gulp Ruby Gem Less Bower Node and NPM",
+        "languages": {
+            "Nginx": 4676,
+            "Shell": 710,
+            "PHP": 194
+        }
+    },
+    {
+        "name": "server-templates",
+        "description": "PHP server templates for easy configuration",
+        "languages": {
+            "Nginx": 1033,
+            "Shell": 839
+        }
+    },
+    {
+        "name": "docker-php",
+        "description": "A dockerfile for php",
+        "languages": {
+            "Nginx": 1098,
+            "Shell": 139
+        }
+    },
+    {
+        "name": "nginx-wordpress",
+        "description": "Nginx and PHP-FPM configuration for Wordpress install",
+        "languages": {
+            "Nginx": 30013
+        }
+    },
+    {
+        "name": "fastdfs-nginx",
+        "description": "fastdfs nginx server in docker",
+        "languages": {
+            "Nginx": 1725,
+            "Shell": 152
+        }
+    },
+    {
+        "name": "dockerCompose-loadBalanced-NodeJS",
+        "description": "Node.js application loadbalanced by NGINX inside Docker Containers \u2601\ufe0f\ufe0f \ud83d\udc33",
+        "languages": {
+            "Nginx": 7093,
+            "JavaScript": 3303,
+            "HTML": 294,
+            "CSS": 110
+        }
+    },
+    {
+        "name": "scaletest",
+        "description": "Short network service discovery example",
+        "languages": {
+            "Nginx": 221,
+            "Python": 156
+        }
+    },
+    {
+        "name": "compose-lnmp-drupal",
+        "description": null,
+        "languages": {
+            "Nginx": 74928
+        }
+    },
+    {
+        "name": "Docker-Nginx-S3-Proxy",
+        "description": "Provide access to private S3 objects via Nginx",
+        "languages": {
+            "Nginx": 1507,
+            "Shell": 304
+        }
+    },
+    {
+        "name": "dev-vm",
+        "description": "Debian VM used for developmental purposes.",
+        "languages": {
+            "Nginx": 2858,
+            "Shell": 2446
+        }
+    },
+    {
+        "name": "dokku-static-site",
+        "description": null,
+        "languages": {
+            "Nginx": 423
+        }
+    },
+    {
+        "name": "docker-nginx-img",
+        "description": "\u7b80\u5355\u7684nginx\u56fe\u7247\u5904\u7406\u670d\u52a1\u5668docker\u955c\u50cf",
+        "languages": {
+            "Nginx": 3928
+        }
+    },
+    {
+        "name": "docker-socket-http-proxy",
+        "description": "Simple nginx proxy container for the docker socket",
+        "languages": {
+            "Nginx": 1069
+        }
+    },
+    {
+        "name": "qmvp",
+        "description": "qmvp is boiler plate for creating a Minimum Viable Product website in Q",
+        "languages": {
+            "Nginx": 734,
+            "Shell": 361,
+            "HTML": 163
+        }
+    },
+    {
+        "name": "Bro-KEN",
+        "description": "An engine for Bro IDS using Kibana, ElasticSearch, & NXLOG (KEN)",
+        "languages": {
+            "Nginx": 1601,
+            "Shell": 127
+        }
+    },
+    {
+        "name": "packer-image-scripts",
+        "description": "Cloudspace's Packer scripts to configure vagrant, virtualbox and docker",
+        "languages": {
+            "Nginx": 6285,
+            "Ruby": 4716,
+            "Shell": 350
+        }
+    },
+    {
+        "name": "lang-uk-ms",
+        "description": null,
+        "languages": {
+            "Nginx": 1687,
+            "Makefile": 169
+        }
+    },
+    {
+        "name": "mlb-nginx-http2",
+        "description": "Demo of marathon-lb with nginx and HTTP/2",
+        "languages": {
+            "Nginx": 1679,
+            "HTML": 71
+        }
+    },
+    {
+        "name": "docker-yii2",
+        "description": "mariadb, php7-fpm, nginx, phpmyadmin, yii2",
+        "languages": {
+            "Nginx": 923,
+            "Shell": 231
+        }
+    },
+    {
+        "name": "ansible-webfaction-gunicorn-django",
+        "description": "*DISCONTINUED* Ansible playbook for setting up a Webfaction server for advanced Django projects",
+        "languages": {
+            "Nginx": 504,
+            "JavaScript": 93
+        }
+    },
+    {
+        "name": "maven-cache-image",
+        "description": "An NGinx image to cache Maven repositories",
+        "languages": {
+            "Nginx": 872,
+            "Shell": 234
+        }
+    },
+    {
+        "name": "openresty-docker",
+        "description": "Openresty layers for combining PHP, Node.js",
+        "languages": {
+            "Nginx": 9198,
+            "Shell": 6160,
+            "PHP": 755
+        }
+    },
+    {
+        "name": "nginx",
+        "description": "Base nginx container for use with octohost.",
+        "languages": {
+            "Nginx": 762
+        }
+    },
+    {
+        "name": "arm-owncloud",
+        "description": "An OwnCloud container for Raspberry Pi 2",
+        "languages": {
+            "Nginx": 1507
+        }
+    },
+    {
+        "name": "docker-django-gunicorn-nginx-postgres",
+        "description": "The goal of this project is to learn docker but can be used as the basis for real projects.",
+        "languages": {
+            "Nginx": 501,
+            "Python": 132
+        }
+    },
+    {
+        "name": "docker-nginx-php7-yii2",
+        "description": "Docker image with nginx php7.0-fpm, configured to use yii2 project",
+        "languages": {
+            "Nginx": 1394
+        }
+    },
+    {
+        "name": "docker-compose-nginx-gogs",
+        "description": "Private GOGS served thru HTTPS w/ NGINX",
+        "languages": {
+            "Nginx": 1561
+        }
+    },
+    {
+        "name": "spark-docker",
+        "description": "Docker container for Laravel Spark",
+        "languages": {
+            "Nginx": 1032
+        }
+    },
+    {
+        "name": "nginx-request-body-example",
+        "description": "nginx example for rewriting based on request body content",
+        "languages": {
+            "Nginx": 240
+        }
+    },
+    {
+        "name": "docker-h5ai",
+        "description": "h5ai is a modern file indexer for HTTP web servers with focus on your files",
+        "languages": {
+            "Nginx": 896
+        }
+    },
+    {
+        "name": "datacenter-demo",
+        "description": "Microservices demonstration using Docker, Compose, & Consul",
+        "languages": {
+            "Nginx": 645,
+            "Python": 393
+        }
+    },
+    {
+        "name": "docker-rails",
+        "description": "Dockernize your rails app easiest way",
+        "languages": {
+            "Nginx": 1354,
+            "Ruby": 558
+        }
+    },
+    {
+        "name": "Docker-WordPress-LEMP",
+        "description": "Docker configuration for a LEMP (Linux, Nginx, MariaDB, PHP-7) stack with WordPress using Docker Compose",
+        "languages": {
+            "Nginx": 1479
+        }
+    },
+    {
+        "name": "netboot-httpd",
+        "description": "Docker container for serving netboot image over http. Use in combination with BSDPy",
+        "languages": {
+            "Nginx": 601
+        }
+    },
+    {
+        "name": "nginx",
+        "description": "ngnix small  docker image 6.5 mb, used by",
+        "languages": {
+            "Nginx": 752
+        }
+    },
+    {
+        "name": "nginx_tomcat_session_msm",
+        "description": "Springmvc\u4f7f\u7528Nginx\u8d1f\u8f7d\u5747\u8861session\u5171\u4eab",
+        "languages": {
+            "Nginx": 2834
+        }
+    },
+    {
+        "name": "asr-server",
+        "description": null,
+        "languages": {
+            "Nginx": 2450,
+            "Makefile": 116
+        }
+    },
+    {
+        "name": "ngx-hierarchical-cache",
+        "description": "Nginx\u5206\u7ea7\u7f13\u5b58\u7684\u914d\u7f6e\u65b9\u6cd5",
+        "languages": {
+            "Nginx": 2523
+        }
+    },
+    {
+        "name": "alpine-php-fpm-nginx-supervisor",
+        "description": "This image is based on alpine:latest base image.",
+        "languages": {
+            "Nginx": 238
+        }
+    },
+    {
+        "name": "docker-nginx-rtmp",
+        "description": "nginx-rtmp streaming server",
+        "languages": {
+            "Nginx": 1444
+        }
+    },
+    {
+        "name": "docker-notify-api",
+        "description": "Build our PHP7 + Nginx + MongoDB + Redis Container",
+        "languages": {
+            "Nginx": 667,
+            "Go": 233,
+            "Shell": 44
+        }
+    },
+    {
+        "name": "ansible-lemp",
+        "description": "Ansible Playbook for LEMP server setup",
+        "languages": {
+            "Nginx": 4757
+        }
+    },
+    {
+        "name": "docker-php7-nginx",
+        "description": "Simple usage to docker with nginx and php7",
+        "languages": {
+            "Nginx": 642,
+            "PHP": 17
+        }
+    },
+    {
+        "name": "docker-remux",
+        "description": "Remux is an nginx reverse-proxy daemon designed for routing http requests to different docker service backends",
+        "languages": {
+            "Nginx": 1887,
+            "Shell": 534
+        }
+    },
+    {
+        "name": "docker-nginx-push-stream-module",
+        "description": "dockerfile for wandenberg/nginx-push-stream-module",
+        "languages": {
+            "Nginx": 5705
+        }
+    },
+    {
+        "name": "nginx-ssl-docker",
+        "description": "A simple Docker image for running nginx with SSL",
+        "languages": {
+            "Nginx": 2579
+        }
+    },
+    {
+        "name": "docker",
+        "description": "Docker for PHP Projects",
+        "languages": {
+            "Nginx": 1028,
+            "Shell": 66,
+            "PHP": 16
+        }
+    },
+    {
+        "name": "aws-eb-docker-multi-container-sample",
+        "description": null,
+        "languages": {
+            "Nginx": 642
+        }
+    },
+    {
+        "name": "live",
+        "description": ":movie_camera: I'll be back! A container to live stream via RTMP in HSL and MPEG-DASH.",
+        "languages": {
+            "Nginx": 2300,
+            "Shell": 918
+        }
+    },
+    {
+        "name": "activecollab-docker",
+        "description": "Docker container for running activeCollab.",
+        "languages": {
+            "Nginx": 1198,
+            "Shell": 196
+        }
+    },
+    {
+        "name": "docker-erpnext",
+        "description": "Dockerized ERPNext",
+        "languages": {
+            "Nginx": 2077,
+            "Shell": 1728
+        }
+    },
+    {
+        "name": "php-nginx-mysql-memcache-vagrant-docker",
+        "description": "Development environment boilerplate(Wordpress with total cache tested): php7; nginx; mysql; memcached(php-memcache); vagrant; docker",
+        "languages": {
+            "Nginx": 1529,
+            "Shell": 52,
+            "PHP": 21
+        }
+    },
+    {
+        "name": "brotli-nginx-php7-config",
+        "description": "Simple PHP7 FPM nginx configuration file using Brotli with gzip as a fallback.",
+        "languages": {
+            "Nginx": 1742
+        }
+    },
+    {
+        "name": "docker-nginx-php-fpm",
+        "description": "Nginx and PHP-FPM for Docker, use S6.",
+        "languages": {
+            "Nginx": 2496,
+            "Shell": 203
+        }
     }
 ]

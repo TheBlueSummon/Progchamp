@@ -60,5 +60,1667 @@
             "CSS": 2169,
             "Common Lisp": 236
         }
+    },
+    {
+        "name": "NCL-Chinamap",
+        "description": "\u4f7f\u7528NCL\u7ed8\u5236\u6b63\u786e\u7684\u56fd\u754c\u3001\u53f0\u6e7e\u5c9b\u5c7f\u3001\u5357\u6d77\u8bf8\u5c9b\u53ca\u7701\u754c\u7b49\u3002",
+        "languages": {
+            "NCL": 56173
+        }
+    },
+    {
+        "name": "container-wrf",
+        "description": "WRF in containers, related code and data sets for release purposes.",
+        "languages": {
+            "NCL": 26773,
+            "Shell": 10951
+        }
+    },
+    {
+        "name": "NCL_meteorology_libs",
+        "description": "\u300aNCL\u6570\u636e\u5904\u7406\u4e0e\u7ed8\u56fe\u5b9e\u4e60\u6559\u7a0b\u300b\u6e90\u7a0b\u5e8f\u5e93+\u6d4b\u8bd5\u6570\u636e\u94fe\u63a5",
+        "languages": {
+            "NCL": 60936,
+            "Fortran": 485,
+            "Shell": 413
+        }
+    },
+    {
+        "name": "postwrf",
+        "description": "Visualization and postprocessing of the WRF and ERA5 data",
+        "languages": {
+            "NCL": 605919,
+            "Shell": 149957,
+            "Python": 3847
+        }
+    },
+    {
+        "name": "Python-Chinamap",
+        "description": "\u4f7f\u7528 PyNGL \u5e93\u7ed8\u5236\u4e2d\u56fd\u5730\u56fe",
+        "languages": {
+            "NCL": 18957,
+            "Python": 5626
+        }
+    },
+    {
+        "name": "wrftools",
+        "description": "A scripting framework for running the WRF model, mainly designed to support operational forecasts.",
+        "languages": {
+            "NCL": 195886,
+            "Python": 147848,
+            "Shell": 14783
+        }
+    },
+    {
+        "name": "tracacode",
+        "description": "TRaceable ACAdemic CODE repository, all source code from working project.",
+        "languages": {
+            "NCL": 9670535,
+            "Jupyter Notebook": 5682705,
+            "MATLAB": 4112439,
+            "Fortran": 4034995,
+            "Python": 1071421,
+            "Shell": 276679,
+            "HTML": 148630,
+            "TeX": 17639,
+            "M": 12109,
+            "VBScript": 8034,
+            "CSS": 3945,
+            "C": 2527,
+            "Cuda": 879,
+            "Makefile": 579,
+            "Perl": 538,
+            "C++": 284
+        }
+    },
+    {
+        "name": "WRF_UoM_EMIT",
+        "description": "Emissions Processing Tool for WRF-Chem",
+        "languages": {
+            "NCL": 206445
+        }
+    },
+    {
+        "name": "WRF",
+        "description": "Scripts of learning WRF",
+        "languages": {
+            "NCL": 617992,
+            "MATLAB": 165085,
+            "Python": 15075,
+            "Shell": 5035,
+            "M": 49
+        }
+    },
+    {
+        "name": "FRE-NCtools",
+        "description": "Tools for manipulating and creating netCDF inputs for FMS managed models",
+        "languages": {
+            "NCL": 524872961,
+            "C": 1690111,
+            "Fortran": 526491,
+            "Shell": 130947,
+            "M4": 53086,
+            "Makefile": 50479,
+            "Perl": 28893,
+            "HTML": 9567
+        }
+    },
+    {
+        "name": "daily_BCSD",
+        "description": "Code used for daily Bias Correction/Spatial Disaggregation (BCSD) method",
+        "languages": {
+            "NCL": 18970
+        }
+    },
+    {
+        "name": "ncl_plots",
+        "description": "My plotting subroutines write in NCAR Command Language",
+        "languages": {
+            "NCL": 659251,
+            "Fortran": 127490,
+            "PostScript": 57694,
+            "Makefile": 37
+        }
+    },
+    {
+        "name": "NOHRSC_SNODAS",
+        "description": "Scripts for retrieving and processing NOHRSC SNODAS daily binary files",
+        "languages": {
+            "NCL": 24120,
+            "Shell": 12723
+        }
+    },
+    {
+        "name": "betacast",
+        "description": "Wrapper shell scripts for running CESM in either real-time forecast or retrospective hindcast initialized mode.",
+        "languages": {
+            "NCL": 345244,
+            "Shell": 163353,
+            "Fortran": 64881,
+            "Python": 37641,
+            "NewLisp": 4264,
+            "HTML": 2742
+        }
+    },
+    {
+        "name": "CVDP-ncl",
+        "description": "The Climate Variability Diagnostics Package (CVDP) developed by NCAR's Climate Analysis Section is an analysis tool that documents the major modes of climate variability in models and observations. ",
+        "languages": {
+            "NCL": 1016425,
+            "Python": 1788
+        }
+    },
+    {
+        "name": "2020Pyday",
+        "description": "2020Python\u5f00\u53d1\u8005\u65e5\u7ebf\u4e0a\u5cf0\u4f1a\u6f14\u793a\u4ee3\u7801",
+        "languages": {
+            "NCL": 21561,
+            "Python": 18849
+        }
+    },
+    {
+        "name": "AAS4WRF",
+        "description": "AAS4WRF is a NCL based mass-conserving emissions preprocessor designed to create WRF-Chem ready emissions files from local inventories on a lat/lon projection. Input files for testing (wrfinput_d01 and emissions.txt) can be provided separately via Dropbox.",
+        "languages": {
+            "NCL": 45919,
+            "TeX": 4185
+        }
+    },
+    {
+        "name": "fire-indices",
+        "description": "Code for calculating various fire indices for a research project about simultaneous large fires",
+        "languages": {
+            "NCL": 201638
+        }
+    },
+    {
+        "name": "regional_workflow",
+        "description": "THIS REPOSITORY IS NOW DEPRECATED; SEE UFS SRW APP FOR CURRENT CODE",
+        "languages": {
+            "NCL": 782485,
+            "Shell": 653002,
+            "Python": 457921,
+            "Perl": 4593,
+            "HTML": 2647,
+            "C++": 2101
+        }
+    },
+    {
+        "name": "NCL-for-CMAQ",
+        "description": "This repository includes ncl scripts that can be used to process CMAQ and WRF outputs. This includes but not limited to topographic plots, vertical contour plots,  average diurnal variations, write CMAQ output to csv files. If you have any questions, please reach me at emsunxia@gmail.com",
+        "languages": {
+            "NCL": 1189555
+        }
+    },
+    {
+        "name": "IPT",
+        "description": "Emissions Model Interface Tool",
+        "languages": {
+            "NCL": 2437368,
+            "Fortran": 1918796,
+            "C": 135644,
+            "Shell": 76370,
+            "Makefile": 4517
+        }
+    },
+    {
+        "name": "WRFDA_TOOLS",
+        "description": "A repository for graphics and other scripting tools for WRFDA. These are offered AS IS and support may not be available.",
+        "languages": {
+            "NCL": 936793,
+            "Shell": 376878,
+            "Perl": 48539,
+            "Fortran": 17813,
+            "Python": 1268
+        }
+    },
+    {
+        "name": "WRF_Chem",
+        "description": null,
+        "languages": {
+            "NCL": 1397107,
+            "R": 509375,
+            "Shell": 236264,
+            "Roff": 57122,
+            "Python": 18189
+        }
+    },
+    {
+        "name": "CVDP-LE",
+        "description": "The Climate Variability Diagnostics Package for Large Ensembles (CVDP-LE) developed by NCAR's Climate Analysis Section is an automated analysis tool and data repository for exploring internal and forced contributions to climate variability and change in coupled model \u201cinitial-condition\u201d Large Ensembles and observations.",
+        "languages": {
+            "NCL": 1412133,
+            "Python": 1788
+        }
+    },
+    {
+        "name": "NCL_script",
+        "description": "\u300aNCL\u6570\u636e\u5904\u7406\u4e0e\u7ed8\u56fe\u5b9e\u4e60\u6559\u7a0b\u300b",
+        "languages": {
+            "NCL": 60936,
+            "Fortran": 485,
+            "Shell": 413
+        }
+    },
+    {
+        "name": "CMIP5_patterns",
+        "description": null,
+        "languages": {
+            "NCL": 83595
+        }
+    },
+    {
+        "name": "rasp-from-scratch",
+        "description": "Dockerfiles for building WRF and RASP containers",
+        "languages": {
+            "NCL": 419799,
+            "Perl": 260639,
+            "Shell": 13623,
+            "Dockerfile": 6715,
+            "Python": 3476
+        }
+    },
+    {
+        "name": "pih-ncl-scripts",
+        "description": "NCL Scripts for WRF output",
+        "languages": {
+            "NCL": 37624
+        }
+    },
+    {
+        "name": "canadarasp",
+        "description": "Scripts and code that runs CanadaRASP",
+        "languages": {
+            "NCL": 194165,
+            "JavaScript": 193260,
+            "Common Lisp": 107808,
+            "HTML": 86046,
+            "Shell": 44986,
+            "Java": 9148,
+            "Perl": 3909
+        }
+    },
+    {
+        "name": "ExTraTrack",
+        "description": "Extratropical Transition (Tropical Cyclone) Tracker",
+        "languages": {
+            "NCL": 327687,
+            "Shell": 9528,
+            "NewLisp": 408
+        }
+    },
+    {
+        "name": "wrf_hydro_model_tools",
+        "description": "Supplementary scripts associated with releases of WRF-Hydro",
+        "languages": {
+            "NCL": 110630,
+            "Jupyter Notebook": 60530,
+            "R": 22205,
+            "Python": 4364,
+            "Shell": 2655
+        }
+    },
+    {
+        "name": "Dynamico",
+        "description": "Dynamical adjustment code",
+        "languages": {
+            "NCL": 89203,
+            "Fortran": 3918
+        }
+    },
+    {
+        "name": "ncl-lib",
+        "description": "ncl functions",
+        "languages": {
+            "NCL": 60482,
+            "Shell": 1863
+        }
+    },
+    {
+        "name": "noresmdiagnostics",
+        "description": "Diagnostic tools for the Norwegian Earth System Model (NorESM)",
+        "languages": {
+            "NCL": 3780635,
+            "HTML": 969407,
+            "Shell": 889794,
+            "Perl": 207914,
+            "PostScript": 173082,
+            "MATLAB": 22459,
+            "CSS": 13058
+        }
+    },
+    {
+        "name": "Lecture2019",
+        "description": "2019 Atmospheric Model Lectures",
+        "languages": {
+            "NCL": 38857
+        }
+    },
+    {
+        "name": "papers_wrfotron",
+        "description": "WRF-Chem code for academic papers",
+        "languages": {
+            "NCL": 3959797,
+            "Shell": 3351726,
+            "Python": 618533,
+            "Roff": 19836
+        }
+    },
+    {
+        "name": "tf-ncl-examples",
+        "description": "Examples of Terraform configuration with Nickel",
+        "languages": {
+            "NCL": 19142,
+            "Nix": 6658
+        }
+    },
+    {
+        "name": "munk",
+        "description": "My NCL Scripts that I use to analyse WRF and ROMS outputs and several other reanalysis data.",
+        "languages": {
+            "NCL": 481614
+        }
+    },
+    {
+        "name": "kmlncl",
+        "description": "NCL library for creating KML visualizations for Google Earth and Google Maps",
+        "languages": {
+            "NCL": 60268
+        }
+    },
+    {
+        "name": "wrfout_ncl",
+        "description": null,
+        "languages": {
+            "NCL": 10685
+        }
+    },
+    {
+        "name": "ece3-postproc",
+        "description": "Suite of processing tools for EC-Earth3 output",
+        "languages": {
+            "NCL": 2854980,
+            "HTML": 877418,
+            "Shell": 668602,
+            "Roff": 433910,
+            "Python": 141921,
+            "PostScript": 57694,
+            "R": 22883
+        }
+    },
+    {
+        "name": "simpler_models",
+        "description": "CESM Simpler Models Configurations",
+        "languages": {
+            "NCL": 78578
+        }
+    },
+    {
+        "name": "RWray",
+        "description": "Rossby wave ray tracing",
+        "languages": {
+            "NCL": 481642,
+            "MATLAB": 240154,
+            "Python": 155099,
+            "Jupyter Notebook": 571
+        }
+    },
+    {
+        "name": "NCL_scripts",
+        "description": "Test Repository",
+        "languages": {
+            "NCL": 37322,
+            "Shell": 20352
+        }
+    },
+    {
+        "name": "For-Mass-Balance-SND",
+        "description": "Some NCL scripts for calculating surface mass balance and snow depth of 8 models",
+        "languages": {
+            "NCL": 263210,
+            "C++": 14825
+        }
+    },
+    {
+        "name": "ScriptsLivroNCL",
+        "description": "Scripts que fazem parte do livro de NCL.",
+        "languages": {
+            "NCL": 359526
+        }
+    },
+    {
+        "name": "2019nCov",
+        "description": "\u65b0\u51a0\u75ab\u60c5\u5b9e\u65f6\u6570\u636e\u83b7\u53d6\u4e0e\u663e\u793a",
+        "languages": {
+            "NCL": 21561,
+            "Python": 5246
+        }
+    },
+    {
+        "name": "0xPM",
+        "description": "PICCTRL 0xPM - 6x3+4 Split Keyboard with onboard CH552",
+        "languages": {
+            "NCL": 5835
+        }
+    },
+    {
+        "name": "SysE",
+        "description": "A collection of libraries for environmental analysis",
+        "languages": {
+            "NCL": 422645,
+            "PostScript": 393794,
+            "Ruby": 76027,
+            "Fortran": 39295
+        }
+    },
+    {
+        "name": "NCL-Scripts-for-WRF",
+        "description": "This repository includes NCL scripts that can be used to post-processing WRF outs, including but not limited to spatial plots, write WRF outputs to csv files, and time-height plots. Please feel free to contact Xia Sun (emsunxia@gmail.com) if you have any questions. I would happy to help.",
+        "languages": {
+            "NCL": 744102
+        }
+    },
+    {
+        "name": "Verify_WRF-Chem",
+        "description": "Verify the output from WRF-Chem model",
+        "languages": {
+            "NCL": 125658
+        }
+    },
+    {
+        "name": "Code-NCL",
+        "description": null,
+        "languages": {
+            "NCL": 5112919,
+            "Shell": 79559,
+            "Python": 71433,
+            "Fortran": 1428
+        }
+    },
+    {
+        "name": "cymep",
+        "description": null,
+        "languages": {
+            "NCL": 319897,
+            "Python": 46948,
+            "Shell": 10867
+        }
+    },
+    {
+        "name": "e3sm_erf_aerosol",
+        "description": "Effective aerosol forcing diagnostics for E3SM",
+        "languages": {
+            "NCL": 30467,
+            "Shell": 7233
+        }
+    },
+    {
+        "name": "MPASscripts",
+        "description": null,
+        "languages": {
+            "NCL": 21887,
+            "Python": 20788,
+            "Shell": 10026
+        }
+    },
+    {
+        "name": "Sudden-Stratospheric-Warmings",
+        "description": "This repository contains scripts/codes to calculate the central dates of the sudden stratospheric warming (SSW) and the stratospheric final warming (SFW)",
+        "languages": {
+            "NCL": 9559
+        }
+    },
+    {
+        "name": "AerosolAndTC",
+        "description": "We share the namelist of WRF-Chem and the code of data processing about the research  publicated on Journal of Geophysical Research: Atmosphere.",
+        "languages": {
+            "NCL": 93226
+        }
+    },
+    {
+        "name": "WRF_Model_Simulations",
+        "description": "This repository includes the output (time series plots, contour plots, animations, and scripts used to visualize output) of WRF simulations carried out in the atmospheric CO2 modeling work that I carried out in my postdoctoral work at UC Berkeley.",
+        "languages": {
+            "NCL": 240767,
+            "R": 21446,
+            "Python": 4208
+        }
+    },
+    {
+        "name": "wrfnamelistparser",
+        "description": "A WRF namelist parser",
+        "languages": {
+            "NCL": 5124
+        }
+    },
+    {
+        "name": "iconPlot",
+        "description": "Plot data from the ICON Climate model",
+        "languages": {
+            "NCL": 220025,
+            "Ruby": 56952,
+            "Perl": 17998,
+            "Makefile": 823
+        }
+    },
+    {
+        "name": "Heatwave",
+        "description": "scripts to analyze heatwaves ",
+        "languages": {
+            "NCL": 1721531,
+            "Python": 1395002,
+            "R": 18615,
+            "Shell": 7570
+        }
+    },
+    {
+        "name": "esmdiag",
+        "description": "This is a diagnostic package for earth system modeling.",
+        "languages": {
+            "NCL": 66304,
+            "Ruby": 45353,
+            "Shell": 102
+        }
+    },
+    {
+        "name": "climate-carbon-cycle-feedback",
+        "description": "Quantifying the timescale dependence of climate-carbon cycle feedback",
+        "languages": {
+            "NCL": 121194
+        }
+    },
+    {
+        "name": "NCL-noob-s-practices",
+        "description": null,
+        "languages": {
+            "NCL": 479611
+        }
+    },
+    {
+        "name": "tc_tracks_NCL",
+        "description": "TC track density plotting scripts used by the MEG for TC recaps and retrospectives.",
+        "languages": {
+            "NCL": 64832,
+            "Python": 8924,
+            "Shell": 2181
+        }
+    },
+    {
+        "name": "ncl-Tools",
+        "description": null,
+        "languages": {
+            "NCL": 253254,
+            "Python": 18110,
+            "Shell": 15066
+        }
+    },
+    {
+        "name": "windgramtt",
+        "description": "customization of the TJ Olney windgrams for RASP",
+        "languages": {
+            "NCL": 103062
+        }
+    },
+    {
+        "name": "git-scripts",
+        "description": "A collection of scripts",
+        "languages": {
+            "NCL": 392294,
+            "Shell": 377021,
+            "Fortran": 337550,
+            "Gnuplot": 1122
+        }
+    },
+    {
+        "name": "TWMS",
+        "description": "TWMS makes it more convenient to perform weekly tropical weather monitoring.",
+        "languages": {
+            "NCL": 662906,
+            "Python": 84276,
+            "Shell": 9186
+        }
+    },
+    {
+        "name": "PMLv2-AVHRR",
+        "description": "This project is to produce new global ET and GPP products at 0.05 degree resolution using PMLv2 model driven by AVHRR LAI and GLDAS forcings",
+        "languages": {
+            "NCL": 91537,
+            "Shell": 21336
+        }
+    },
+    {
+        "name": "CESM_ensemble_enso_github",
+        "description": "includes all code used for analysis of low-res CESM ensemble ENSO.",
+        "languages": {
+            "NCL": 113977,
+            "R": 96774
+        }
+    },
+    {
+        "name": "wrf_aulas",
+        "description": "This is a project for educational purposes about learning WRF-Chem.",
+        "languages": {
+            "NCL": 7929,
+            "Python": 7657
+        }
+    },
+    {
+        "name": "gmtb-utilities",
+        "description": "GMTB and community contributed tools for verification and diagnostics",
+        "languages": {
+            "NCL": 151770,
+            "Shell": 28459,
+            "Python": 7666,
+            "Fortran": 3478,
+            "Roff": 695
+        }
+    },
+    {
+        "name": "wrf2roms_frc",
+        "description": null,
+        "languages": {
+            "NCL": 108781,
+            "MATLAB": 18745
+        }
+    },
+    {
+        "name": "ROMS_TOOLS",
+        "description": "A set of NCL scripts to process and manuplate ROMS ocean model output",
+        "languages": {
+            "NCL": 11762
+        }
+    },
+    {
+        "name": "curtainos-packaging-nickel",
+        "description": "packaging for curtainos with nickel",
+        "languages": {
+            "NCL": 1911
+        }
+    },
+    {
+        "name": "THESISUrbanPropertiesTool",
+        "description": null,
+        "languages": {
+            "NCL": 182954,
+            "Shell": 7062
+        }
+    },
+    {
+        "name": "CompareBLC-SND",
+        "description": "Compare results of Mass Balance & Snow Depth from 6 models of PMIP3",
+        "languages": {
+            "NCL": 106324,
+            "C++": 40975,
+            "Shell": 8903
+        }
+    },
+    {
+        "name": "wrf-sdpwfe",
+        "description": "Shandong Peninsula Weather Forecasting Experiment",
+        "languages": {
+            "NCL": 202180,
+            "Shell": 8965,
+            "Python": 3160
+        }
+    },
+    {
+        "name": "multi-rasp",
+        "description": "Multi-model multi-region weather forecasts for gliding",
+        "languages": {
+            "NCL": 412384,
+            "Perl": 240723,
+            "JavaScript": 52997,
+            "Raku": 30504,
+            "CSS": 23491,
+            "HTML": 5074,
+            "Awk": 2331,
+            "Shell": 1787
+        }
+    },
+    {
+        "name": "NCL",
+        "description": "Seft-developed function in NCL",
+        "languages": {
+            "NCL": 9308
+        }
+    },
+    {
+        "name": "cnmap",
+        "description": "\u4e2d\u56fd\u5e95\u56fe",
+        "languages": {
+            "NCL": 23141
+        }
+    },
+    {
+        "name": "Raspit-compute-image",
+        "description": null,
+        "languages": {
+            "NCL": 344719,
+            "Perl": 223196,
+            "NewLisp": 4525,
+            "Shell": 2647
+        }
+    },
+    {
+        "name": "factor_separation",
+        "description": null,
+        "languages": {
+            "NCL": 8553,
+            "Python": 5958
+        }
+    },
+    {
+        "name": "gill",
+        "description": "NCL scripts to draw the Gill patterns",
+        "languages": {
+            "NCL": 8827
+        }
+    },
+    {
+        "name": "WRF_old",
+        "description": null,
+        "languages": {
+            "NCL": 623268,
+            "Shell": 9715
+        }
+    },
+    {
+        "name": "nickel-schemastore",
+        "description": null,
+        "languages": {
+            "NCL": 31154808,
+            "Python": 1804,
+            "Nix": 464
+        }
+    },
+    {
+        "name": "MPAS2GRADS",
+        "description": "how  view MPAS on the GRADS",
+        "languages": {
+            "NCL": 23777
+        }
+    },
+    {
+        "name": "LES_netcdf_conversion_to_dat_ECSIM",
+        "description": "Conversion of NetCDF LES output data to ASCII format for ECSIM",
+        "languages": {
+            "NCL": 3345
+        }
+    },
+    {
+        "name": "correlation-comparison",
+        "description": "compare correction coefficients of wrf and micaps and of wrfda and micaps",
+        "languages": {
+            "NCL": 5302
+        }
+    },
+    {
+        "name": "AMO_ersstv5_hadisst1_cobesst2",
+        "description": "Scripts for figures in the article Pattern Incoherence of Atlantic Multidecadal Oscillation derived from ERSST dataset and the possible reason, submitted to npj Climate and Atmospheric Science",
+        "languages": {
+            "NCL": 72161
+        }
+    },
+    {
+        "name": "nclscripts",
+        "description": "NCL scripts",
+        "languages": {
+            "NCL": 56402
+        }
+    },
+    {
+        "name": "NCL_vortex_tracker",
+        "description": "Multi-variable tracker for cyclones using NCAR command language",
+        "languages": {
+            "NCL": 184301,
+            "Fortran": 23622
+        }
+    },
+    {
+        "name": "qvector",
+        "description": null,
+        "languages": {
+            "NCL": 8145,
+            "Shell": 194
+        }
+    },
+    {
+        "name": "Projeto-INPE",
+        "description": "Sistema de tratamento e an\u00e1lise de grandes volumes de dados atrav\u00e9s de t\u00e9cnicas de Data Science",
+        "languages": {
+            "NCL": 281431,
+            "Python": 8058,
+            "JavaScript": 2258,
+            "Shell": 1708,
+            "Java": 1424
+        }
+    },
+    {
+        "name": "patagonia",
+        "description": "Research on the climate-cryosphere interaction in Patagonia",
+        "languages": {
+            "NCL": 163004,
+            "Python": 93470,
+            "MATLAB": 4778,
+            "Shell": 1253
+        }
+    },
+    {
+        "name": "compliant_wrf_files",
+        "description": "Development code to make wrfout files compliant with cf-checker",
+        "languages": {
+            "NCL": 106846,
+            "Shell": 480
+        }
+    },
+    {
+        "name": "Analysis-demos",
+        "description": null,
+        "languages": {
+            "NCL": 6050,
+            "R": 2842
+        }
+    },
+    {
+        "name": "fak-config",
+        "description": "FAK user configuration repository",
+        "languages": {
+            "NCL": 28469,
+            "Python": 5415,
+            "Nix": 1716,
+            "Meson": 107
+        }
+    },
+    {
+        "name": "ncl_scripts",
+        "description": "Common NCL scripts",
+        "languages": {
+            "NCL": 26722
+        }
+    },
+    {
+        "name": "ncl_boxmodel",
+        "description": "Some NCL functions to handle & compose subplots easier and more flexible than gsn_panel",
+        "languages": {
+            "NCL": 7606
+        }
+    },
+    {
+        "name": "vr-greenland",
+        "description": "vr-greenland analysis",
+        "languages": {
+            "NCL": 9810
+        }
+    },
+    {
+        "name": "wrf-sdpwfe",
+        "description": "WRF Forecast ",
+        "languages": {
+            "NCL": 138726,
+            "Shell": 8788,
+            "Python": 3159
+        }
+    },
+    {
+        "name": "NCL-cycle-dot",
+        "description": "meteorology data can use this script",
+        "languages": {
+            "NCL": 28903
+        }
+    },
+    {
+        "name": "Cowan_et_al_2020_DustBowl_GHG",
+        "description": "Code to create figures in Cowan et al. 2020, Nature Climate Change",
+        "languages": {
+            "NCL": 98141
+        }
+    },
+    {
+        "name": "NCL-description-of-the-most-frequently-used-resources",
+        "description": "NCL\u5e38\u7528\u5c5e\u6027",
+        "languages": {
+            "NCL": 19080
+        }
+    },
+    {
+        "name": "GruMA",
+        "description": "Reposit\u00f3rio do Grupo de Modelagem Atmosf\u00e9rica. ",
+        "languages": {
+            "NCL": 11920
+        }
+    },
+    {
+        "name": "calc_potential_vorticity",
+        "description": null,
+        "languages": {
+            "NCL": 7032,
+            "Shell": 484
+        }
+    },
+    {
+        "name": "trkUOM",
+        "description": "Cyclones_old",
+        "languages": {
+            "NCL": 51016,
+            "Python": 21436,
+            "Fortran": 2709,
+            "Shell": 2469
+        }
+    },
+    {
+        "name": "rasp-gm",
+        "description": "Repo for tracking changes and patching of RASP-GM",
+        "languages": {
+            "NCL": 364218,
+            "Perl": 286828,
+            "Roff": 60871,
+            "Shell": 16867
+        }
+    },
+    {
+        "name": "Useful-NCL-scripts",
+        "description": null,
+        "languages": {
+            "NCL": 699593
+        }
+    },
+    {
+        "name": "e3sm_cvdp",
+        "description": null,
+        "languages": {
+            "NCL": 8230676,
+            "Shell": 380051,
+            "Python": 3576,
+            "HTML": 2085
+        }
+    },
+    {
+        "name": "cfsdiag",
+        "description": "Ncl scripts for cfs model daignostics.",
+        "languages": {
+            "NCL": 30677,
+            "Shell": 8269,
+            "Python": 1486
+        }
+    },
+    {
+        "name": "WRFChem-Basic-Plotting",
+        "description": "NCL plotting scripts for carrying out standard plotting of WRF-Chem output files.",
+        "languages": {
+            "NCL": 232138
+        }
+    },
+    {
+        "name": "WRF",
+        "description": "Dependencias utilizadas para oficina de WRF  - PET Meteoro",
+        "languages": {
+            "NCL": 19445,
+            "Shell": 2991
+        }
+    },
+    {
+        "name": "qgpv",
+        "description": null,
+        "languages": {
+            "NCL": 20494,
+            "Fortran": 14099,
+            "Makefile": 449,
+            "Visual Basic 6.0": 288,
+            "Shell": 210
+        }
+    },
+    {
+        "name": "deforestation_carbon_biophysics",
+        "description": null,
+        "languages": {
+            "NCL": 567950,
+            "MATLAB": 92174
+        }
+    },
+    {
+        "name": "organist-rust",
+        "description": null,
+        "languages": {
+            "NCL": 4160,
+            "Nix": 1324
+        }
+    },
+    {
+        "name": "ncl-Scripts",
+        "description": "Scripts written in NCAR Command Language (NCL)",
+        "languages": {
+            "NCL": 4809
+        }
+    },
+    {
+        "name": "PSLP",
+        "description": "Probabilistic Sea Level Projection model",
+        "languages": {
+            "NCL": 86870,
+            "Shell": 673
+        }
+    },
+    {
+        "name": "L-A_Coupling_scripts",
+        "description": "Scripts for figures in this paper: https://doi.org/10.1002/2017MS001185",
+        "languages": {
+            "NCL": 243448,
+            "Python": 580
+        }
+    },
+    {
+        "name": "Neptune",
+        "description": "Script codes of research in workstation Neptune",
+        "languages": {
+            "NCL": 3080900
+        }
+    },
+    {
+        "name": "ReGISFEST2020",
+        "description": "Script",
+        "languages": {
+            "NCL": 16850
+        }
+    },
+    {
+        "name": "Temperature_restoring_Ariaan",
+        "description": "Temperature restoring by Ariaan: Lab code EAE4027",
+        "languages": {
+            "NCL": 9677
+        }
+    },
+    {
+        "name": "Analysis_Code",
+        "description": null,
+        "languages": {
+            "NCL": 8029
+        }
+    },
+    {
+        "name": "TCC_SP2016",
+        "description": "Scripts utilizado para disciplina de TCC - Universidade Federal de Pelotas ",
+        "languages": {
+            "NCL": 228180,
+            "Fortran": 995
+        }
+    },
+    {
+        "name": "GLDAS_Grid_Extraction",
+        "description": "NCL Scripts extract a 3D cube (time-lat-lon) for a given square.",
+        "languages": {
+            "NCL": 19449
+        }
+    },
+    {
+        "name": "Statistical_Analysis",
+        "description": "Statistical analysis for climate/meteorology data",
+        "languages": {
+            "NCL": 14618
+        }
+    },
+    {
+        "name": "wrftoCF",
+        "description": "Converts wrfoutput from WRF-chem  to CF compliant",
+        "languages": {
+            "NCL": 266511
+        }
+    },
+    {
+        "name": "Meteoclima-Seasonal-Forecast",
+        "description": "Opensource - \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03ba\u03ad\u03c2 \u03b2\u03b5\u03bb\u03c4\u03b9\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b5\u03c0\u03bf\u03c7\u03b9\u03b1\u03ba\u03ae \u03c0\u03c1\u03cc\u03b3\u03bd\u03c9\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03ba\u03b1\u03b9\u03c1\u03bf\u03cd",
+        "languages": {
+            "NCL": 83597,
+            "Shell": 6572
+        }
+    },
+    {
+        "name": "cyclone-tracking",
+        "description": "Short NCL scripts to track cyclone over a regular latlon grid and an unstructured grid (work in progress)",
+        "languages": {
+            "NCL": 28648
+        }
+    },
+    {
+        "name": "NCAR_WRF_Processing_Scripts",
+        "description": "Yellowstone NCAR WRF Processing Scripts",
+        "languages": {
+            "NCL": 634390,
+            "Shell": 9796
+        }
+    },
+    {
+        "name": "ncl-scripts",
+        "description": null,
+        "languages": {
+            "NCL": 192370,
+            "Shell": 65341
+        }
+    },
+    {
+        "name": "NCL-CFSR",
+        "description": "Plotting atmospheric variables from the NCEP CFSR dataset using NCL",
+        "languages": {
+            "NCL": 238499
+        }
+    },
+    {
+        "name": "CESM-LME-and-Box-Model",
+        "description": null,
+        "languages": {
+            "NCL": 227449
+        }
+    },
+    {
+        "name": "flashdroughtperspectivefigure",
+        "description": "Figure 4 of perspective in consideration at Nature Climate Change - authored by Andrew Hoell",
+        "languages": {
+            "NCL": 13009,
+            "Fortran": 3143
+        }
+    },
+    {
+        "name": "CMIP-postprocess",
+        "description": null,
+        "languages": {
+            "NCL": 40913,
+            "Python": 1210
+        }
+    },
+    {
+        "name": "Containers_Spring_2022",
+        "description": "Repo holding spring container talks",
+        "languages": {
+            "NCL": 3094,
+            "Dockerfile": 298,
+            "C": 75,
+            "Python": 33
+        }
+    },
+    {
+        "name": "NCL-tools",
+        "description": "A few odd scripts for the NCAR Command Language (NCL) ",
+        "languages": {
+            "NCL": 46003
+        }
+    },
+    {
+        "name": "myscripts",
+        "description": "some scripts",
+        "languages": {
+            "NCL": 51021,
+            "Shell": 18995
+        }
+    },
+    {
+        "name": "OMWG",
+        "description": "The diagnostic package for the ocean component of CIESM",
+        "languages": {
+            "NCL": 449422,
+            "Fortran": 243067,
+            "Awk": 110943,
+            "Shell": 87927,
+            "HTML": 59842,
+            "Perl": 49610,
+            "Makefile": 1754
+        }
+    },
+    {
+        "name": "tool",
+        "description": null,
+        "languages": {
+            "NCL": 408182,
+            "Shell": 57989,
+            "Perl": 2316,
+            "Python": 239
+        }
+    },
+    {
+        "name": "2019-nCoV",
+        "description": "\u5229\u7528Python\u5b9e\u73b02019-nCoV\u75ab\u60c5\u5206\u5e03\u56fe",
+        "languages": {
+            "NCL": 21561,
+            "Python": 7402
+        }
+    },
+    {
+        "name": "5-axis-Rotation-tool-center-point-RTCP-",
+        "description": null,
+        "languages": {
+            "NCL": 6950367,
+            "nesC": 102474,
+            "Python": 30506
+        }
+    },
+    {
+        "name": "Climate-Records-processor",
+        "description": null,
+        "languages": {
+            "NCL": 294500,
+            "Shell": 70298,
+            "Python": 7282
+        }
+    },
+    {
+        "name": "project",
+        "description": null,
+        "languages": {
+            "NCL": 4516932,
+            "Fortran": 2204209,
+            "Python": 545522,
+            "MATLAB": 126005,
+            "Shell": 106597
+        }
+    },
+    {
+        "name": "homeassistant-dashboard",
+        "description": "My HomeAssistant dashboard written in Nickel.",
+        "languages": {
+            "NCL": 15369,
+            "Makefile": 600,
+            "Shell": 412,
+            "Nix": 88
+        }
+    },
+    {
+        "name": "MET-tools",
+        "description": null,
+        "languages": {
+            "NCL": 118977,
+            "Python": 101377,
+            "Shell": 48866
+        }
+    },
+    {
+        "name": "MONAN-scripts",
+        "description": "Scripts for prepare, install and run MONAN ",
+        "languages": {
+            "NCL": 70294,
+            "Shell": 66167,
+            "JavaScript": 794
+        }
+    },
+    {
+        "name": "CFMIP_LowCloudDistribution",
+        "description": "NCL script : CFMIP Calipso simulator and GOCCP comparison of low-cloud distribution",
+        "languages": {
+            "NCL": 38367
+        }
+    },
+    {
+        "name": "CMCC",
+        "description": null,
+        "languages": {
+            "NCL": 37060
+        }
+    },
+    {
+        "name": "NCL-Other",
+        "description": "Plotting cyclone tracks, track density maps, GFS forecasts, etc. using NCL",
+        "languages": {
+            "NCL": 75098
+        }
+    },
+    {
+        "name": "gefsv12",
+        "description": "NCL code used to plot GEFSv12 case studies as part of the NCEP/EMC GEFSv12 official evaluation.",
+        "languages": {
+            "NCL": 939344,
+            "Shell": 38776
+        }
+    },
+    {
+        "name": "eof",
+        "description": "eof calculation on a vector field (wind with U,V components)",
+        "languages": {
+            "NCL": 2436
+        }
+    },
+    {
+        "name": "Scaling",
+        "description": null,
+        "languages": {
+            "NCL": 4216
+        }
+    },
+    {
+        "name": "Containers_Fall_2021",
+        "description": null,
+        "languages": {
+            "NCL": 3094,
+            "Dockerfile": 324,
+            "C": 75,
+            "Python": 33
+        }
+    },
+    {
+        "name": "ecearth3-post",
+        "description": null,
+        "languages": {
+            "NCL": 2854980,
+            "HTML": 877292,
+            "Shell": 529159,
+            "Roff": 433910,
+            "Python": 122432,
+            "PostScript": 57694
+        }
+    },
+    {
+        "name": "scripts",
+        "description": null,
+        "languages": {
+            "NCL": 157908,
+            "Shell": 32936,
+            "R": 17305,
+            "Perl": 1521
+        }
+    },
+    {
+        "name": "rafs",
+        "description": null,
+        "languages": {
+            "NCL": 2054,
+            "Shell": 200
+        }
+    },
+    {
+        "name": "PMIP4-enso",
+        "description": "Simulated past changes in the El Nino-Southern Oscillation",
+        "languages": {
+            "NCL": 153331,
+            "Shell": 8930,
+            "TeX": 1564
+        }
+    },
+    {
+        "name": "wrf-ncl",
+        "description": "To analysis wrfout data",
+        "languages": {
+            "NCL": 4320
+        }
+    },
+    {
+        "name": "PMIP4_past2future_analyzer",
+        "description": "A way of performing past2future analysis of the Palaeoclimate Modelling Intercomparison Project 4 ensemble",
+        "languages": {
+            "NCL": 97556,
+            "Jupyter Notebook": 40744,
+            "Dockerfile": 3665,
+            "Shell": 2521
+        }
+    },
+    {
+        "name": "MJO_scripts",
+        "description": null,
+        "languages": {
+            "NCL": 71191,
+            "JavaScript": 3158,
+            "Shell": 779
+        }
+    },
+    {
+        "name": "noresm-lsp-input",
+        "description": "Scripts to generate the pre-packaged forcing data for the NorESM land sites platform (NorESM-LSP).",
+        "languages": {
+            "NCL": 46437,
+            "Python": 35311,
+            "Shell": 18390
+        }
+    },
+    {
+        "name": "SnowCover",
+        "description": "Repository for code related to the snow cover project.",
+        "languages": {
+            "NCL": 106882
+        }
+    },
+    {
+        "name": "GPF",
+        "description": null,
+        "languages": {
+            "NCL": 51932,
+            "Shell": 680
+        }
+    },
+    {
+        "name": "Containers-Spring-2021",
+        "description": "Repository containing Containers training materials for Feb 23 and Mar 3",
+        "languages": {
+            "NCL": 3094,
+            "Dockerfile": 324,
+            "C": 75,
+            "Python": 33
+        }
+    },
+    {
+        "name": "PMIP_for_AR6_Interactive_Atlas",
+        "description": null,
+        "languages": {
+            "NCL": 26754,
+            "Python": 25046,
+            "Shell": 2084
+        }
+    },
+    {
+        "name": "Lanzhou-University-Innovation-and-Entrepreneurship-Competition",
+        "description": null,
+        "languages": {
+            "NCL": 150905,
+            "Fortran": 102249,
+            "Python": 2005,
+            "MATLAB": 393
+        }
+    },
+    {
+        "name": "ENSO-diagnostics",
+        "description": "ENSO diagnostics NCL scripts",
+        "languages": {
+            "NCL": 132920
+        }
+    },
+    {
+        "name": "Moisture_Budget",
+        "description": "This repository contains scripts/codes to calculate moisture budget equation based on NCL",
+        "languages": {
+            "NCL": 28415,
+            "Shell": 804
+        }
+    },
+    {
+        "name": "CAFE2_SCRIPTS",
+        "description": "Defaut analytic scripts for CAFE server-side package",
+        "languages": {
+            "NCL": 107050
+        }
+    },
+    {
+        "name": "wrf_plotting",
+        "description": null,
+        "languages": {
+            "NCL": 254811,
+            "Python": 44502
+        }
+    },
+    {
+        "name": "NCL_CMIP",
+        "description": "Some NCL script about processing the CMIP5 data.",
+        "languages": {
+            "NCL": 506760
+        }
+    },
+    {
+        "name": "Dynamic-Initialize",
+        "description": "This is a repository of DI for typhoon prediction ",
+        "languages": {
+            "NCL": 45655,
+            "Shell": 1502
+        }
+    },
+    {
+        "name": "AntarcticSeaIceExtent",
+        "description": "Antarctic Sea Ice Extent Reconstructions from Fogt et al. (2021), Nature Climate Change",
+        "languages": {
+            "NCL": 75558
+        }
+    },
+    {
+        "name": "MJOindex",
+        "description": "scripts used to calcualte OMI and RMM",
+        "languages": {
+            "NCL": 21229
+        }
+    },
+    {
+        "name": "SDD",
+        "description": "Codes for smart dynamical downscaling (SDD)",
+        "languages": {
+            "NCL": 88869,
+            "Python": 36396,
+            "MATLAB": 3357,
+            "Shell": 2502
+        }
+    },
+    {
+        "name": "NoresmDiagnostics",
+        "description": "Diagnostic tools for the Norwegian Earth System Model (NorESM)",
+        "languages": {
+            "NCL": 3455038,
+            "HTML": 955365,
+            "Shell": 746642,
+            "MATLAB": 619408,
+            "Perl": 208292,
+            "PostScript": 57694,
+            "CSS": 6529
+        }
+    },
+    {
+        "name": "ServerConfigurationsCCA",
+        "description": null,
+        "languages": {
+            "NCL": 59247,
+            "Gnuplot": 45460,
+            "Shell": 40945,
+            "Python": 2853
+        }
+    },
+    {
+        "name": "MPAS-Container",
+        "description": null,
+        "languages": {
+            "NCL": 2975,
+            "Shell": 2671
+        }
+    },
+    {
+        "name": "promote_wrfchem_scripts",
+        "description": "BASH scripts for setting up and running WRF-Chem for the PROMOTE project",
+        "languages": {
+            "NCL": 22484,
+            "Shell": 21543
+        }
+    },
+    {
+        "name": "DI_scripts",
+        "description": null,
+        "languages": {
+            "NCL": 1604008,
+            "Shell": 9080
+        }
+    },
+    {
+        "name": "PMIP_for_AR6_Interactive_Atlas",
+        "description": null,
+        "languages": {
+            "NCL": 26754,
+            "Python": 24914,
+            "Shell": 2084
+        }
+    },
+    {
+        "name": "Container_tutorial_Spring_2020",
+        "description": null,
+        "languages": {
+            "NCL": 3094,
+            "Dockerfile": 324,
+            "C": 75,
+            "Python": 33
+        }
+    },
+    {
+        "name": "ecmwf2mike",
+        "description": null,
+        "languages": {
+            "NCL": 4903
+        }
+    },
+    {
+        "name": "test",
+        "description": null,
+        "languages": {
+            "NCL": 31834
+        }
+    },
+    {
+        "name": "facets",
+        "description": "Code for classifying LLJs using regional climate model data, various plots of LLJ characteristics, precipitation analysis for SWAT",
+        "languages": {
+            "NCL": 28319,
+            "Fortran": 4737
+        }
+    },
+    {
+        "name": "scripts_ctsm_region",
+        "description": null,
+        "languages": {
+            "NCL": 29914,
+            "Shell": 22481
+        }
+    },
+    {
+        "name": "NCL-scripts",
+        "description": null,
+        "languages": {
+            "NCL": 248750,
+            "Fortran": 44138
+        }
+    },
+    {
+        "name": "gen_lu_cesm",
+        "description": "Generate a surfdata CESM2 (CAM4) file from a high resolution land use map and potential vegetation",
+        "languages": {
+            "NCL": 74363,
+            "Fortran": 46331,
+            "Python": 4353,
+            "Makefile": 594
+        }
+    },
+    {
+        "name": "ncl",
+        "description": "This is ncl learning repository.",
+        "languages": {
+            "NCL": 1358
+        }
+    },
+    {
+        "name": "Tracking-Atmospheric-Blocking",
+        "description": "Tracking blocking regions based on Masato et al. (2013, Journal of Climate)",
+        "languages": {
+            "NCL": 58458,
+            "Shell": 266
+        }
+    },
+    {
+        "name": "EASM_front",
+        "description": null,
+        "languages": {
+            "NCL": 54945,
+            "Python": 28836
+        }
+    },
+    {
+        "name": "Cross-EOF-Eddy-Feedback-Model",
+        "description": "This repository contains scripts/codes to calculate cross-EOF eddy-zonal flow feedbacks of the annular modes based on NCL",
+        "languages": {
+            "NCL": 25717
+        }
     }
 ]
