@@ -1,17 +1,43 @@
+function dis (og, next){
+    let og_sum = 0;
+    let next_sum = 0;
+    for (let l in og['languages']) {
+        og_sum += og['languages'][l];
+    }
+    for (let l in next['languages']) {
+        next_sum += next['languages'][l];
+    }
+    let distance = 0;
+    for (let l in og['languages']) {
+        if(l in next['languages']) {
+            distance += Math.abs(og['languages'][l]/og_sum-next['languages'][l]/next_sum);}
+        else {
+            distance += og['languages'][l]/og_sum;
+        }
+    }
+    return distance;
+}
 // Shell sort
-function shellSort(distance){
-    var n = distance.length;
+function shellSort(og, repos){
+    let distance = new Array(repos.length);
+    for(let i=0; i<repos.length; ++i) {
+        distance[i] = dis(og,repos[i]);
+    }
+    let n = distance.length;
     // Rearrange elements at each n/2, n/4, n/8, ... intervals
-    for (var interval = Math.floor(n / 2); interval > 0; interval = Math.floor(interval / 2)) {
+    for (let interval = Math.floor(n / 2); interval > 0; interval = Math.floor(interval / 2)) {
         // Iterates through the array to look for possible swaps
-        for (var index = interval; index < n; ++index) {
-            var temp = distance[index];
+        for (let index = interval; index < n; ++index) {
+            let temp = distance[index];
+            let temp_repo = repos[index];
             var back;
             // backtracks and swaps if index is smaller than a previous(varying elements away) element
             for (back = index; back >= interval && distance[back - interval] > temp; back -= interval) {
                 distance[back] = distance[back - interval];
+                repos[back] = repos[back - interval];
             }
             distance[back] = temp;
+            repos[back] = temp_repo;
         }
     }
 }
