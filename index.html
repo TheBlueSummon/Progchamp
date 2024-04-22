@@ -19,7 +19,7 @@
 <body>
     <header>
         <div class="logo">
-            <img src="gfx/pogchamp-twitch-own3d.png">
+            <img id="pog" src="gfx/pogchamp-twitch-own3d.png">
         </div>
         <form>
             <div class="search">
@@ -58,79 +58,12 @@
                 <span class="material-symbols-outlined arrow" id = 'arrow1'>
                     keyboard_arrow_down
                     </span>
-                <h1><u>Julia</u></h1>
-                <p>This is dummy text for when we figure out how to import language description.</p>
+                <h1 id="langname"><u>Julia</u></h1>
+                <p id="langdes">This is dummy text for when we figure out how to import language description.</p>
+                <h3><a id='langlink' href="https://github.com/pyukey/Progchamp">Learn more!</a></h3>
             </div>
         </div>
     </main>
-
-    <!-- Initial processing of data -->
-    <script>
-        // Fetch is UGLY 
-        fetch('langList.json')
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error('Failed to fetch data.json');
-                }
-                return response.json();
-            })
-            .then(langList => {
-
-        fetch('languages.json')
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error('Failed to fetch data.json');
-                }
-                return response.json();
-            })
-            .then(langData => {
-
-        // Function to load JSON file and return its content
-        async function loadJSON(filename) {
-            const response = await fetch(encodeURIComponent(filename));
-            if (!response.ok) {
-                throw new Error('Failed to fetch ' + filename);
-            }
-            return response.json();
-        }
-
-        // Function to load and aggregate JSON data from multiple files
-        async function comboJSON(names) {
-            let aggregateData = [];
-
-            for (let name of names) {
-                // Construct filename
-                let filename = 'src/' + name + '_repos_metadata.json';
-                
-                try {
-                    // Load JSON data from file
-                    let jsonData = await loadJSON(filename);
-                    aggregateData.append(jsonData);
-                } catch (error) {
-                    console.error('Error loading JSON file:', error.message);
-                }
-            }
-
-            return aggregateData;
-        }
-
-        comboJSON(langList)
-            .then(repoData => {
-                console.log(repoData[200])
-            })
-            .catch(error => {
-                console.error('Error aggregating JSON files:', error.message);
-            });
-
-            })
-            .catch(error => {
-                console.error('Error fetching data:', error);
-            });
-            })
-            .catch(error => {
-                console.error('Error fetching data:', error);
-            });
-    </script>
 
     <!-- handle clicks -->
     <script>
@@ -359,47 +292,114 @@
             }
         });
     </script>
-    <!-- Reading JSON data -->
+
+    <!-- Initial processing of data -->
     <script>
+        // Generate a random integer between min (inclusive) and max (exclusive)
+        function getRandomInteger(min, max) {
+            return Math.floor(Math.random() * (max - min)) + min;
+        }
+
         function changeData(target, data) {
             target.textContent = data;
-        }
+        };
         function updateRepo(data) {
-            var rn = document.getElementById('reponame');
-                var rd = document.getElementById('repodes');
-                changeData(rn, data[0]['name'])
-                changeData(rd, data[0]['description']);
-                
-                var list = document.getElementById('repolang')
-                // Remove all existing list items from the ul element
-                while (list.firstChild) {
-                    list.removeChild(list.firstChild);
-                }
-                // Iterate through the languages and add to list
-                for (var l in data[0]['languages']) {
-                    var listItem = document.createElement('li');
-                    listItem.textContent = l + ': ' + data[0]['languages'][l];
-                    list.appendChild(listItem);
-                }
-        }
+            let rn = document.getElementById('reponame');
+            let rd = document.getElementById('repodes');
+            changeData(rn, data['name'])
+            changeData(rd, data['description']);
+            
+            let list = document.getElementById('repolang')
+            // Remove all existing list items from the ul element
+            while (list.firstChild) {
+                list.removeChild(list.firstChild);
+            }
+            // Iterate through the languages and add to list
+            for (let l in data['languages']) {
+                let listItem = document.createElement('li');
+                listItem.textContent = l + ': ' + data['languages'][l];
+                list.appendChild(listItem);
+            }
+        };
+        function updateLangInfo(data) {
+            let ln = document.getElementById('langname');
+            let ld = document.getElementById('langdes');
+            let ll = document.getElementById('langlink');
+            changeData(ln,data['name']);
+            changeData(ld, data['info']);
+            ll.href=data['src'];
+        };
+        function updateLangGraph(adjacent) {
+            for (let i = 0; i < 10; ++i) {
+                la.$('#'+i).style('label', adjacent[i]);
+            }
+        };
+        function updateLang(data, adjacent) {
+            updateLangInfo(data);
+            updateLangGraph(adjacent);
+        };
         
         
-
-        fetch('src/4D_repos_metadata.json')
+        
+        // Fetch is UGLY -> The first then statement is to prevent code from continuing until value has been fetched. The second then statement is where the code is actually run -> leads to lots of nesting :(
+        // The following ugly code can be mostly ignored and is just to load the following variables:
+        //  - langList: A list of all the languages
+        //  - list2lang: A dictionary for searching up the langList index of a language
+        //  - langData: Contains the name, description, and url for each language -> Language infobar
+        //  - repoData: A list of ALL the repos and their name, description, and list of languages -> Repo graph + Repo infobar
+        fetch('langList.json')
             .then(response => {
                 if (!response.ok) {
-                    throw new Error('not ok')
+                    throw new Error(`Failed to fetch langList.json`);
                 }
                 return response.json();
             })
-            .then(data => {
-                la.$('#a').style('label',data[0]['name']);
-                updateRepo(data);
+            .then(langList => {
+
+        fetch('languages.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`Failed to fetch languages.json`);
+                }
+                return response.json();
+            })
+            .then(langData => {
+
+        fetch('all_repos.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`Failed to fetch all_repos.json`);
+                }
+                return response.json();
+            })
+            .then(repoData => {
+            
+            var repo = 0;
+            var lang = 0;
+            function randomize() {
+                repo = getRandomInteger(0,repoData.length);
+                lang = getRandomInteger(0,langList.length);
+                updateRepo(repoData[repo]);
+                updateLang(langData[lang],langList);
+            };
+            updateRepo(repoData[repo]);
+            updateLang(langData[lang],langList);
+            var pog = document.getElementById('pog');
+            pog.addEventListener('click', function() {randomize();});
+
+
             })
             .catch(error => {
-                console.error(error)
+                console.error('Error fetching data:', error);
             });
-        
+            })
+            .catch(error => {
+                console.error('Error fetching data:', error);
+            });
+            })
+            .catch(error => {
+                console.error('Error fetching data:', error);
+            });
     </script>
 </body>
 </html>
