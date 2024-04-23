@@ -3,14 +3,14 @@
         "name": "codeql",
         "description": "CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security",
         "languages": {
-            "CodeQL": 25417713,
+            "CodeQL": 25417833,
             "Kotlin": 23986862,
             "C#": 22115493,
             "Java": 6148783,
             "Python": 3701279,
             "C": 2558400,
             "JavaScript": 2504871,
-            "C++": 1667734,
+            "C++": 1668417,
             "Go": 906173,
             "Swift": 650063,
             "Ruby": 420644,
@@ -1376,6 +1376,14 @@
         }
     },
     {
+        "name": "cross-boundary-jni",
+        "description": null,
+        "languages": {
+            "CodeQL": 12923,
+            "Shell": 4852
+        }
+    },
+    {
         "name": "codeql-uboot",
         "description": null,
         "languages": {
@@ -1746,38 +1754,6 @@
         }
     },
     {
-        "name": "SSR-XSS-Security",
-        "description": "Github project for Master Thesis: Evaluating the Impact of Server-Side Rendering on Security and Stability of Web Services",
-        "languages": {
-            "CodeQL": 5601288,
-            "JavaScript": 2739865,
-            "Java": 1347095,
-            "TypeScript": 397424,
-            "CSS": 356509,
-            "Python": 327248,
-            "Rust": 144141,
-            "HTML": 79133,
-            "SCSS": 26842,
-            "Starlark": 24847,
-            "C": 24728,
-            "Mustache": 21100,
-            "Shell": 8542,
-            "C++": 5782,
-            "Emacs Lisp": 3445,
-            "Vue": 2881,
-            "RAML": 2825,
-            "CMake": 2704,
-            "Vim Script": 1949,
-            "EJS": 1478,
-            "Batchfile": 1238,
-            "Handlebars": 1000,
-            "Nunjucks": 923,
-            "Ruby": 865,
-            "PowerShell": 587,
-            "Dockerfile": 496
-        }
-    },
-    {
         "name": "codeql-uboot",
         "description": null,
         "languages": {
@@ -1815,6 +1791,38 @@
         "languages": {
             "CodeQL": 1906,
             "Dockerfile": 100
+        }
+    },
+    {
+        "name": "SSR-XSS-Security",
+        "description": "Github project for Master Thesis: Evaluating the Impact of Server-Side Rendering on Security and Stability of Web Services",
+        "languages": {
+            "CodeQL": 5601288,
+            "JavaScript": 2740019,
+            "Java": 1347095,
+            "TypeScript": 397424,
+            "CSS": 356509,
+            "Python": 327248,
+            "Rust": 144141,
+            "HTML": 79458,
+            "SCSS": 26842,
+            "Starlark": 24847,
+            "C": 24728,
+            "Mustache": 21100,
+            "Shell": 8542,
+            "C++": 5782,
+            "Emacs Lisp": 3445,
+            "Vue": 2881,
+            "RAML": 2825,
+            "CMake": 2704,
+            "Vim Script": 1949,
+            "EJS": 1478,
+            "Batchfile": 1238,
+            "Handlebars": 1000,
+            "Nunjucks": 923,
+            "Ruby": 865,
+            "PowerShell": 587,
+            "Dockerfile": 496
         }
     },
     {
@@ -1877,6 +1885,6582 @@
         "description": null,
         "languages": {
             "CodeQL": 2588,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 2596,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-workshop-2021-learning-journey",
+        "description": "CodeQL Workshop for GitHub Advanced Security Learning Journey (June 2021)",
+        "languages": {
+            "CodeQL": 2229
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "SRP2021",
+        "description": "General-purpose Security Platform: Vulnerability Information, CTF Online System, Vulnerability Mining",
+        "languages": {
+            "CodeQL": 8680
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4089,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "license-check",
+        "description": "QL pack to check for dependencies with GPL license",
+        "languages": {
+            "CodeQL": 522
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-and-chill",
+        "description": "GitHub Security Lab CTF 4: CodeQL and Chill - The Java Edition",
+        "languages": {
+            "CodeQL": 22540,
+            "Python": 1023
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-scan-example",
+        "description": null,
+        "languages": {
+            "CodeQL": 713
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 5126,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "5GAC",
+        "description": null,
+        "languages": {
+            "CodeQL": 147708,
+            "Python": 25074,
+            "Shell": 1082
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4298,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-debug",
+        "description": null,
+        "languages": {
+            "CodeQL": 2107
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4002,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-coding-standards",
+        "description": "This repository contains CodeQL queries and libraries which support various Coding Standards.",
+        "languages": {
+            "CodeQL": 3178988,
+            "C": 944536,
+            "C++": 529190,
+            "Python": 163711,
+            "PowerShell": 64544,
+            "Shell": 4531,
+            "Makefile": 608
+        }
+    },
+    {
+        "name": "serverless-inspector-tool",
+        "description": "Serverless Inspector Tool",
+        "languages": {
+            "CodeQL": 36026,
+            "Python": 23811
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "sql",
+        "description": null,
+        "languages": {
+            "CodeQL": 11128
+        }
+    },
+    {
+        "name": "codeql-workshop",
+        "description": null,
+        "languages": {
+            "CodeQL": 21350216,
+            "C#": 20501365,
+            "Java": 6357927,
+            "JavaScript": 2353448,
+            "Python": 1096299,
+            "C++": 1011529,
+            "C": 405301,
+            "CSS": 323614,
+            "TypeScript": 205075,
+            "HTML": 73346,
+            "SCSS": 26842,
+            "Shell": 9023,
+            "ASP.NET": 3739,
+            "Emacs Lisp": 3445,
+            "Thrift": 3020,
+            "Vue": 2881,
+            "RAML": 2825,
+            "Vim Script": 1949,
+            "Perl": 1941,
+            "EJS": 1422,
+            "Nunjucks": 923,
+            "Ruby": 865,
+            "Handlebars": 768,
+            "Batchfile": 619,
+            "Smalltalk": 23
+        }
+    },
+    {
+        "name": "reformulator-analysis",
+        "description": "CodeQL analysis to detect the Select N+1 Problem in Sequelize applications.",
+        "languages": {
+            "CodeQL": 7648
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3929,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-dataflow-ii-java",
+        "description": null,
+        "languages": {
+            "CodeQL": 5689,
+            "Java": 4720,
+            "Shell": 1791
+        }
+    },
+    {
+        "name": "retrieve-workflow-logs-action",
+        "description": "Action to download logs from previous run",
+        "languages": {
+            "CodeQL": 10666,
+            "JavaScript": 5559,
+            "Makefile": 163
+        }
+    },
+    {
+        "name": "Dates-Hive",
+        "description": "A pair of \"functions\" to manipulate dates in HIVE",
+        "languages": {
+            "CodeQL": 538
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4141,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4278,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4184,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4097,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4212,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4434,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4209,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-documentation-test",
+        "description": null,
+        "languages": {
+            "CodeQL": 2733632,
+            "JavaScript": 64727,
+            "HTML": 805,
+            "TypeScript": 748
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "go-querypack",
+        "description": null,
+        "languages": {
+            "CodeQL": 149
+        }
+    },
+    {
+        "name": ".github",
+        "description": null,
+        "languages": {
+            "CodeQL": 150
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4055,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 3959,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3148,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4220,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 3551,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4029,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4168,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3959,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4653,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2398,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "Useful_Query",
+        "description": "Selfmade Simple QLs",
+        "languages": {
+            "CodeQL": 5665
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2400,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 3774,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4586,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "custom-queries",
+        "description": null,
+        "languages": {
+            "CodeQL": 16452,
+            "Java": 368
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2400,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3438,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "annotated-code-ml",
+        "description": null,
+        "languages": {
+            "CodeQL": 1673,
+            "Python": 993
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4052,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2398,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2398,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "HTML": 1678
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 4150,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4163,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 3794,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "Codeql",
+        "description": "My Reference ",
+        "languages": {
+            "CodeQL": 1668,
+            "JavaScript": 129
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3781,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4824,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3273,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4263,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 2006,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3358,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2578,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307
+        }
+    },
+    {
+        "name": "CodeScanDemo",
+        "description": "C# Demo",
+        "languages": {
+            "CodeQL": 8785,
+            "C#": 4817
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307
+        }
+    },
+    {
+        "name": "Banco-de-dados-QL",
+        "description": "Analice ",
+        "languages": {
+            "CodeQL": 1906
+        }
+    },
+    {
+        "name": "Sequel",
+        "description": "Public Repo for SQL code",
+        "languages": {
+            "CodeQL": 1145
+        }
+    },
+    {
+        "name": "react-codeql",
+        "description": null,
+        "languages": {
+            "CodeQL": 5228
+        }
+    },
+    {
+        "name": "init-codeql-customizations",
+        "description": null,
+        "languages": {
+            "CodeQL": 4794
+        }
+    },
+    {
+        "name": "workflow-script-injection",
+        "description": "Exploring GHA security",
+        "languages": {
+            "CodeQL": 1076,
+            "Shell": 514
+        }
+    },
+    {
+        "name": "qlqueries",
+        "description": null,
+        "languages": {
+            "CodeQL": 20942
+        }
+    },
+    {
+        "name": "codql",
+        "description": "This is a fork of https://github.com/github/codeql but not a fork so don't have to SSO for personal projects.",
+        "languages": {
+            "CodeQL": 25520302,
+            "C#": 20891822,
+            "Kotlin": 12228029,
+            "Java": 6022246,
+            "JavaScript": 2469538,
+            "Python": 1807739,
+            "C++": 1516227,
+            "Go": 789590,
+            "Swift": 503283,
+            "C": 440647,
+            "Ruby": 389855,
+            "TypeScript": 226939,
+            "Rust": 157264,
+            "HTML": 58952,
+            "Starlark": 29788,
+            "Shell": 26581,
+            "Mustache": 19818,
+            "Lua": 15662,
+            "Makefile": 7716,
+            "Batchfile": 4627,
+            "ASP.NET": 3739,
+            "Emacs Lisp": 3445,
+            "Thrift": 3020,
+            "Vue": 2881,
+            "RAML": 2825,
+            "Vim Script": 1949,
+            "Perl": 1941,
+            "CMake": 1724,
+            "EJS": 1478,
+            "PowerShell": 1214,
+            "Handlebars": 1000,
+            "Nunjucks": 923,
+            "Objective-C": 524,
+            "Dockerfile": 496,
+            "Smalltalk": 23
+        }
+    },
+    {
+        "name": "codeql-tutorial",
+        "description": null,
+        "languages": {
+            "CodeQL": 3571,
+            "Shell": 514
+        }
+    },
+    {
+        "name": "SecureCodingUWTest",
+        "description": "Testing the Secure Coding WatSPEED course",
+        "languages": {
+            "CodeQL": 7140,
+            "C": 199,
+            "Makefile": 27
+        }
+    },
+    {
+        "name": "custom-codeql",
+        "description": "CodeQL customizations from @felickz!",
+        "languages": {
+            "CodeQL": 5901
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "js-query-pack",
+        "description": "JS Query Pack",
+        "languages": {
+            "CodeQL": 2896615,
+            "JavaScript": 72601,
+            "HTML": 934,
+            "TypeScript": 914
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4266,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4174,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3263,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "python-querypack",
+        "description": null,
+        "languages": {
+            "CodeQL": 165
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3963,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4211,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4064,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3907,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 2488,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4185,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "probable-octo-doodle",
+        "description": "Test",
+        "languages": {
+            "CodeQL": 1915,
+            "Vue": 1422,
+            "JavaScript": 1327,
+            "HTML": 747,
+            "PHP": 568,
+            "CSS": 163,
+            "Shell": 48
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2399,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4189,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4176,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3280,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3162,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 2280,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2398,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3178,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4219,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 3454,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "learn_codeql",
+        "description": null,
+        "languages": {
+            "CodeQL": 3551,
+            "Shell": 792
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 2005,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2400,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4009,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "submission365-online-appendinx",
+        "description": null,
+        "languages": {
+            "CodeQL": 21961
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3997,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3901,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 2005,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 2005,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-sample-fully-qualified-type",
+        "description": "Minimal samples of getting the fully qualified type names for a C++ function  signature.",
+        "languages": {
+            "CodeQL": 1660,
+            "C++": 318,
+            "Shell": 94
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2616,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "saner22-online-appendix",
+        "description": null,
+        "languages": {
+            "CodeQL": 21961
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 2005,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 2006,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3994,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4226,
+            "Dockerfile": 87
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4340,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4312,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2398
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4047
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4489
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2490
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "CodeScanDemo2",
+        "description": null,
+        "languages": {
+            "CodeQL": 8785,
+            "C#": 4817
+        }
+    },
+    {
+        "name": "alert-suppression-queries-poc",
+        "description": "poc temp testing",
+        "languages": {
+            "CodeQL": 20429,
+            "Python": 1660,
+            "Go": 1446,
+            "Java": 1115,
+            "C": 1087,
+            "JavaScript": 1028,
+            "C#": 842
+        }
+    },
+    {
+        "name": "github-copilot-code-review",
+        "description": "[2022-2nd Semester] Project in a course, Computer Security",
+        "languages": {
+            "CodeQL": 14581,
+            "C": 7887,
+            "Python": 3541,
+            "Makefile": 1340,
+            "JavaScript": 617
+        }
+    },
+    {
+        "name": "Q_Learning_TicTacToe",
+        "description": "This project is a tic-tac-toe game with three modes: player vs player, player vs computer, and computer vs computer, where the computer can use reinforcement learning to improve its gameplay.",
+        "languages": {
+            "CodeQL": 783051,
+            "JavaScript": 24499,
+            "CSS": 3070,
+            "HTML": 1727
+        }
+    },
+    {
+        "name": "ssrf-me",
+        "description": "Vulnerable SSRF snippet",
+        "languages": {
+            "CodeQL": 1369,
+            "Go": 816
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307
+        }
+    },
+    {
+        "name": "energy-queries",
+        "description": null,
+        "languages": {
+            "CodeQL": 9967
+        }
+    },
+    {
+        "name": "Superbasil3_retrieve-workflow-logs-action",
+        "description": null,
+        "languages": {
+            "CodeQL": 10666,
+            "JavaScript": 5559,
+            "Makefile": 163
+        }
+    },
+    {
+        "name": "glowing-octo-fortnight",
+        "description": "new start up",
+        "languages": {
+            "CodeQL": 28545,
+            "Shell": 374
+        }
+    },
+    {
+        "name": "http",
+        "description": null,
+        "languages": {
+            "CodeQL": 2050,
+            "JavaScript": 1033
+        }
+    },
+    {
+        "name": "Testing-CQL",
+        "description": null,
+        "languages": {
+            "CodeQL": 1947
+        }
+    },
+    {
+        "name": "decarbonize-node-workshop",
+        "description": "Workshop on sustainability in software development with some deeper insights for nodejs.",
+        "languages": {
+            "CodeQL": 8346,
+            "CSS": 3691,
+            "Vue": 3682,
+            "JavaScript": 2495,
+            "TypeScript": 1649
+        }
+    },
+    {
+        "name": "Linter",
+        "description": null,
+        "languages": {
+            "CodeQL": 223,
+            "Python": 28
+        }
+    },
+    {
+        "name": "CodeQL",
+        "description": null,
+        "languages": {
+            "CodeQL": 26028984,
+            "C#": 20398877,
+            "Kotlin": 12244805,
+            "Java": 6053186,
+            "JavaScript": 2473724,
+            "Python": 1841275,
+            "C++": 1527847,
+            "Go": 806693,
+            "Swift": 588205,
+            "C": 442114,
+            "Ruby": 399062,
+            "TypeScript": 228316,
+            "Rust": 159919,
+            "HTML": 59227,
+            "Starlark": 32528,
+            "Shell": 27341,
+            "Mustache": 19826,
+            "Lua": 17497,
+            "Makefile": 8034,
+            "Batchfile": 4631,
+            "ASP.NET": 3739,
+            "Emacs Lisp": 3445,
+            "Thrift": 3020,
+            "Vue": 2881,
+            "RAML": 2825,
+            "Vim Script": 1949,
+            "Perl": 1941,
+            "CMake": 1724,
+            "EJS": 1478,
+            "PowerShell": 1214,
+            "Handlebars": 1000,
+            "Nunjucks": 923,
+            "Objective-C": 524,
+            "Dockerfile": 496,
+            "Smalltalk": 23
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4040,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4046,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "CodeQLCollection",
+        "description": "CodeQL query collection for security researchers",
+        "languages": {
+            "CodeQL": 28420472,
+            "C#": 20609350,
+            "Java": 4704275,
+            "JavaScript": 2432604,
+            "Python": 1291348,
+            "C++": 1069358,
+            "Go": 647349,
+            "C": 406855,
+            "CSS": 323614,
+            "Rust": 222484,
+            "TypeScript": 210152,
+            "Ruby": 182811,
+            "HTML": 99419,
+            "SCSS": 26842,
+            "Shell": 19414,
+            "Makefile": 8162,
+            "ASP.NET": 3739,
+            "Batchfile": 3534,
+            "Emacs Lisp": 3445,
+            "Thrift": 3020,
+            "Vue": 2881,
+            "RAML": 2825,
+            "Vim Script": 1949,
+            "Perl": 1941,
+            "EJS": 1478,
+            "PowerShell": 1295,
+            "Handlebars": 1000,
+            "Nunjucks": 923,
+            "Lua": 731,
+            "Smalltalk": 23
+        }
+    },
+    {
+        "name": "CyberSecurity",
+        "description": null,
+        "languages": {
+            "CodeQL": 1379
+        }
+    },
+    {
+        "name": "commonplace-book",
+        "description": null,
+        "languages": {
+            "CodeQL": 7647,
+            "Python": 1548,
+            "Shell": 753
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4411,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3966,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 2116,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2399,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4153,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4269,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2885
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2489,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3997,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4189,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "vulnerable-express-app",
+        "description": "Used to demonstrate CodeQL",
+        "languages": {
+            "CodeQL": 1055,
+            "JavaScript": 367
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-customize",
+        "description": null,
+        "languages": {
+            "CodeQL": 4460,
+            "Python": 3451
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4346,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 3003,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 3524,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "workshop-codeql",
+        "description": "CodeQL workshop and Presentation (In Portuguese)",
+        "languages": {
+            "CodeQL": 1130
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4215,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2397,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "sebastians-query-pack",
+        "description": null,
+        "languages": {
+            "CodeQL": 1441
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4051,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-research",
+        "description": null,
+        "languages": {
+            "CodeQL": 9979
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "Node-RED-Taint-Analysis",
+        "description": null,
+        "languages": {
+            "CodeQL": 6687,
+            "Python": 4771
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "ProfilingPromisesQueries",
+        "description": "CodeQL queries for the profiling project.",
+        "languages": {
+            "CodeQL": 19893
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 4793,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "alert-suppression-queries",
+        "description": "CodeQL packs for alert suppression queries for each supported code scanning language",
+        "languages": {
+            "CodeQL": 19745,
+            "Python": 1660,
+            "Go": 1446,
+            "Java": 1115,
+            "C": 1087,
+            "JavaScript": 1028,
+            "C#": 842
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-workshop-nekohtml",
+        "description": null,
+        "languages": {
+            "CodeQL": 2797,
+            "Shell": 389,
+            "HTML": 14
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4162,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "quickjavahelloworld",
+        "description": null,
+        "languages": {
+            "CodeQL": 39331559,
+            "JavaScript": 4320574,
+            "C": 553710,
+            "C++": 402042,
+            "Java": 385939,
+            "C#": 261064,
+            "Python": 221360,
+            "Go": 62286,
+            "HTML": 61818,
+            "Shell": 49427,
+            "Batchfile": 14934,
+            "Objective-C": 5544,
+            "ASP.NET": 2092,
+            "TypeScript": 1828,
+            "Perl": 1724,
+            "Starlark": 131
+        }
+    },
+    {
+        "name": "codeql-uboot-backup2",
+        "description": null,
+        "languages": {
+            "CodeQL": 2397,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4226,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "kalicode",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4010,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 2285,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4213,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4265,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 3699
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-workshop-vulnerable-linux-driver",
+        "description": "Workshop on how to statically find issues in a vulnerable Linux driver",
+        "languages": {
+            "CodeQL": 8080,
+            "Makefile": 1121,
+            "Dockerfile": 423
+        }
+    },
+    {
+        "name": "codeql-workshop-runtime-values-c",
+        "description": null,
+        "languages": {
+            "CodeQL": 25043,
+            "C": 6439,
+            "Shell": 726
+        }
+    },
+    {
+        "name": "codeql-queries",
+        "description": "custom codeql",
+        "languages": {
+            "CodeQL": 50801,
+            "Python": 2813
+        }
+    },
+    {
+        "name": "CODEQL",
+        "description": null,
+        "languages": {
+            "CodeQL": 25481331,
+            "C#": 20914346,
+            "Kotlin": 12236493,
+            "Java": 6030197,
+            "JavaScript": 2470105,
+            "Python": 1813945,
+            "C++": 1525356,
+            "Go": 790252,
+            "Swift": 514598,
+            "C": 440638,
+            "Ruby": 392569,
+            "TypeScript": 227974,
+            "Rust": 160082,
+            "HTML": 59180,
+            "Starlark": 29770,
+            "Shell": 27337,
+            "Mustache": 19818,
+            "Lua": 16058,
+            "Makefile": 7716,
+            "Batchfile": 4627,
+            "ASP.NET": 3739,
+            "Emacs Lisp": 3445,
+            "Thrift": 3020,
+            "Vue": 2881,
+            "RAML": 2825,
+            "Vim Script": 1949,
+            "Perl": 1941,
+            "CMake": 1724,
+            "EJS": 1478,
+            "PowerShell": 1214,
+            "Handlebars": 1000,
+            "Nunjucks": 923,
+            "Objective-C": 524,
+            "Dockerfile": 496,
+            "Smalltalk": 23
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2649,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "llm-static-analysis",
+        "description": "Using LLM's to Perform Static Analysis Tasks",
+        "languages": {
+            "CodeQL": 27383,
+            "Python": 16792,
+            "Makefile": 637
+        }
+    },
+    {
+        "name": "csharp-querypack",
+        "description": null,
+        "languages": {
+            "CodeQL": 165
+        }
+    },
+    {
+        "name": "CodeQlQuery",
+        "description": null,
+        "languages": {
+            "CodeQL": 39137
+        }
+    },
+    {
+        "name": "ql4ql",
+        "description": null,
+        "languages": {
+            "CodeQL": 32537555,
+            "C#": 20624238,
+            "Kotlin": 12052207,
+            "Java": 5185986,
+            "JavaScript": 2405514,
+            "Python": 1497210,
+            "C++": 1250168,
+            "Go": 688069,
+            "C": 407251,
+            "Ruby": 229793,
+            "Rust": 222528,
+            "TypeScript": 218374,
+            "HTML": 57022,
+            "Swift": 38155,
+            "Shell": 21999,
+            "Starlark": 12296,
+            "Makefile": 8617,
+            "Mustache": 8263,
+            "Lua": 6641,
+            "ASP.NET": 3739,
+            "Batchfile": 3534,
+            "Emacs Lisp": 3445,
+            "Thrift": 3020,
+            "Vue": 2881,
+            "RAML": 2825,
+            "Vim Script": 1949,
+            "Perl": 1941,
+            "EJS": 1478,
+            "PowerShell": 1295,
+            "Handlebars": 1000,
+            "Nunjucks": 923,
+            "Dockerfile": 496,
+            "Objective-C": 53,
+            "Smalltalk": 6
+        }
+    },
+    {
+        "name": "Cauculate",
+        "description": "My first repository on GitHub.",
+        "languages": {
+            "CodeQL": 15187,
+            "C#": 3810
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4165,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2400,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3937,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4067,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4015,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4155,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2400,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3450,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 3746,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4296,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 3998,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4451,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 3871,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-empty-queries",
+        "description": "A CodeQL query repository containing a single query for each language that is guaranteed to return zero results.",
+        "languages": {
+            "CodeQL": 855
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 3689,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "test_case_repo",
+        "description": null,
+        "languages": {
+            "CodeQL": 1642
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 4148,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "hive-sales-reports",
+        "description": "Hive complex queries for sales analytics",
+        "languages": {
+            "CodeQL": 3680,
+            "Java": 3541
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2489,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 3800,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-javascript-unsafe-jquery-plugin",
+        "description": null,
+        "languages": {
+            "CodeQL": 1906,
+            "Dockerfile": 100
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
+            "Dockerfile": 86
+        }
+    },
+    {
+        "name": "codeql-uboot",
+        "description": null,
+        "languages": {
+            "CodeQL": 2307,
             "Dockerfile": 86
         }
     }

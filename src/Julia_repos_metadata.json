@@ -1563,5 +1563,5945 @@
         "languages": {
             "Julia": 56838
         }
+    },
+    {
+        "name": "ThreadsX.jl",
+        "description": "Parallelized Base functions",
+        "languages": {
+            "Julia": 56838
+        }
+    },
+    {
+        "name": "SciMLSensitivity.jl",
+        "description": "A component of the DiffEq ecosystem for enabling sensitivity analysis for scientific machine learning (SciML). Optimize-then-discretize, discretize-then-optimize, adjoint methods, and more for ODEs, SDEs, DDEs, DAEs, etc.",
+        "languages": {
+            "Julia": 790818
+        }
+    },
+    {
+        "name": "GPUArrays.jl",
+        "description": "Reusable array functionality for Julia's various GPU backends.",
+        "languages": {
+            "Julia": 179949
+        }
+    },
+    {
+        "name": "JSON.jl",
+        "description": "JSON parsing and printing",
+        "languages": {
+            "Julia": 82134,
+            "Python": 545
+        }
+    },
+    {
+        "name": "LsqFit.jl",
+        "description": "Simple curve fitting in Julia",
+        "languages": {
+            "Julia": 42251
+        }
+    },
+    {
+        "name": "FLoops.jl",
+        "description": "Fast sequential, threaded, and distributed for-loops for Julia\u2014fold for humans\u2122",
+        "languages": {
+            "Julia": 87682
+        }
+    },
+    {
+        "name": "MacroTools.jl",
+        "description": "MacroTools provides a library of tools for working with Julia code and expressions.",
+        "languages": {
+            "Julia": 40230
+        }
+    },
+    {
+        "name": "CFMMRouter.jl",
+        "description": "Convex optimization for fun and profit. (Now in Julia!)",
+        "languages": {
+            "Julia": 33341
+        }
+    },
+    {
+        "name": "JuliaByExample",
+        "description": "Examples of Julia",
+        "languages": {
+            "Julia": 31010
+        }
+    },
+    {
+        "name": "ReinforcementLearningAnIntroduction.jl",
+        "description": "Julia code for the book  Reinforcement Learning An Introduction",
+        "languages": {
+            "Julia": 135456
+        }
+    },
+    {
+        "name": "DiffEqBase.jl",
+        "description": "The lightweight Base library for shared types and functionality for defining differential equation and scientific machine learning (SciML) problems",
+        "languages": {
+            "Julia": 288066
+        }
+    },
+    {
+        "name": "LinearMaps.jl",
+        "description": "A Julia package for defining and working with linear maps, also known as linear transformations or linear operators acting on vectors. The only requirement for a LinearMap is that it can act on a vector (by multiplication) efficiently.",
+        "languages": {
+            "Julia": 219745
+        }
+    },
+    {
+        "name": "SnoopCompile.jl",
+        "description": "Making packages work faster with more extensive precompilation",
+        "languages": {
+            "Julia": 210456
+        }
+    },
+    {
+        "name": "PGFPlotsX.jl",
+        "description": "Plots in Julia using the PGFPlots LaTeX package",
+        "languages": {
+            "Julia": 94063,
+            "Shell": 365
+        }
+    },
+    {
+        "name": "PlutoUI.jl",
+        "description": null,
+        "languages": {
+            "Julia": 253785,
+            "JavaScript": 1803,
+            "CSS": 1615
+        }
+    },
+    {
+        "name": "ParallelAccelerator.jl",
+        "description": "The ParallelAccelerator package, part of the High Performance Scripting project at Intel Labs",
+        "languages": {
+            "Julia": 995997,
+            "JavaScript": 568
+        }
+    },
+    {
+        "name": "FastGaussQuadrature.jl",
+        "description": "Julia package for Gaussian quadrature",
+        "languages": {
+            "Julia": 105558
+        }
+    },
+    {
+        "name": "Polynomials.jl",
+        "description": "Polynomial manipulations in Julia",
+        "languages": {
+            "Julia": 391008
+        }
+    },
+    {
+        "name": "Tables.jl",
+        "description": "An interface for tables in Julia",
+        "languages": {
+            "Julia": 126273
+        }
+    },
+    {
+        "name": "Oscar.jl",
+        "description": "A comprehensive open source computer algebra system for computations in algebra, geometry, and number theory.",
+        "languages": {
+            "Julia": 8232844,
+            "GAP": 40653,
+            "Shell": 1029,
+            "Fantom": 870
+        }
+    },
+    {
+        "name": "PowerSystems.jl",
+        "description": "Data structures in Julia to enable power systems analysis. Part of the Scalable Integrated Infrastructure Planning Initiative at the National Renewable Energy Lab.",
+        "languages": {
+            "Julia": 1655941,
+            "Python": 3822
+        }
+    },
+    {
+        "name": "Gtk.jl",
+        "description": "Julia interface to Gtk windowing toolkit.",
+        "languages": {
+            "Julia": 336148,
+            "CSS": 48
+        }
+    },
+    {
+        "name": "Manopt.jl",
+        "description": "\ud83c\udfd4\ufe0fManopt. jl \u2013 Optimization on Manifolds in Julia",
+        "languages": {
+            "Julia": 1339234,
+            "TeX": 10836,
+            "Asymptote": 4054
+        }
+    },
+    {
+        "name": "HypothesisTests.jl",
+        "description": "Hypothesis tests for Julia",
+        "languages": {
+            "Julia": 310164
+        }
+    },
+    {
+        "name": "Dojo.jl",
+        "description": "A differentiable physics engine for robotics",
+        "languages": {
+            "Julia": 636862
+        }
+    },
+    {
+        "name": "ParallelStencil.jl",
+        "description": "Package for writing high-level code for parallel high-performance stencil computations that can be deployed on both GPUs and CPUs",
+        "languages": {
+            "Julia": 683198
+        }
+    },
+    {
+        "name": "BifurcationKit.jl",
+        "description": "A Julia package to perform Bifurcation Analysis",
+        "languages": {
+            "Julia": 1207561
+        }
+    },
+    {
+        "name": "ADCME.jl",
+        "description": "Automatic Differentiation Library for Computational and Mathematical Engineering",
+        "languages": {
+            "Julia": 400976,
+            "Dockerfile": 927
+        }
+    },
+    {
+        "name": "XGBoost.jl",
+        "description": "XGBoost Julia Package",
+        "languages": {
+            "Julia": 98012
+        }
+    },
+    {
+        "name": "DiffEqOperators.jl",
+        "description": "Linear operators for discretizations of differential equations and scientific machine learning (SciML)",
+        "languages": {
+            "Julia": 529255
+        }
+    },
+    {
+        "name": "FiniteDifferences.jl",
+        "description": "High accuracy derivatives, estimated via numerical finite differences (formerly FDM.jl)",
+        "languages": {
+            "Julia": 68994
+        }
+    },
+    {
+        "name": "LazyArrays.jl",
+        "description": "Lazy arrays and linear algebra in Julia",
+        "languages": {
+            "Julia": 353009
+        }
+    },
+    {
+        "name": "CuArrays.jl",
+        "description": "A Curious Cumulation of CUDA Cuisine",
+        "languages": {
+            "Julia": 1580376
+        }
+    },
+    {
+        "name": "RigidBodyDynamics.jl",
+        "description": "Julia implementation of various rigid body dynamics and kinematics algorithms",
+        "languages": {
+            "Julia": 471314
+        }
+    },
+    {
+        "name": "IntervalArithmetic.jl",
+        "description": "Library for validated numerics using interval arithmetic",
+        "languages": {
+            "Julia": 1157743
+        }
+    },
+    {
+        "name": "arrow-julia",
+        "description": "Official Julia implementation of Apache Arrow",
+        "languages": {
+            "Julia": 351922,
+            "Shell": 13684,
+            "Python": 1831,
+            "Emacs Lisp": 895
+        }
+    },
+    {
+        "name": "ComponentArrays.jl",
+        "description": "Arrays with arbitrarily nested named components.",
+        "languages": {
+            "Julia": 104696
+        }
+    },
+    {
+        "name": "SDDP.jl",
+        "description": "Stochastic Dual Dynamic Programming in Julia",
+        "languages": {
+            "Julia": 690422,
+            "HTML": 164590,
+            "JavaScript": 7058,
+            "Shell": 647
+        }
+    },
+    {
+        "name": "COSMO.jl",
+        "description": "COSMO: Accelerated ADMM-based solver for convex conic optimisation problems (LP, QP, SOCP, SDP, ExpCP, PowCP). Automatic chordal decomposition of sparse semidefinite programs.",
+        "languages": {
+            "Julia": 393852
+        }
+    },
+    {
+        "name": "Dictionaries.jl",
+        "description": "An alternative interface for dictionaries in Julia, for improved productivity and performance",
+        "languages": {
+            "Julia": 236151
+        }
+    },
+    {
+        "name": "MAT.jl",
+        "description": "Julia module for reading MATLAB files",
+        "languages": {
+            "Julia": 117566
+        }
+    },
+    {
+        "name": "Brochure.jl",
+        "description": "Julia\u7f16\u7a0b\u6307\u5357",
+        "languages": {
+            "Julia": 1618
+        }
+    },
+    {
+        "name": "JLD.jl",
+        "description": "Saving and loading julia variables while preserving native types",
+        "languages": {
+            "Julia": 153628
+        }
+    },
+    {
+        "name": "Mux.jl",
+        "description": "Middleware for Julia",
+        "languages": {
+            "Julia": 59219
+        }
+    },
+    {
+        "name": "Calculus.jl",
+        "description": "Calculus functions in Julia",
+        "languages": {
+            "Julia": 46220
+        }
+    },
+    {
+        "name": "DaemonMode.jl",
+        "description": "Client-Daemon workflow to run faster scripts in Julia",
+        "languages": {
+            "Julia": 23984
+        }
+    },
+    {
+        "name": "keyboards",
+        "description": "Simulated annealing code for video",
+        "languages": {
+            "Julia": 19581
+        }
+    },
+    {
+        "name": "DiffEqGPU.jl",
+        "description": "GPU-acceleration routines for DifferentialEquations.jl and the broader SciML scientific machine learning ecosystem",
+        "languages": {
+            "Julia": 325888
+        }
+    },
+    {
+        "name": "Books.jl",
+        "description": "Create books with Julia",
+        "languages": {
+            "Julia": 81314
+        }
+    },
+    {
+        "name": "VegaLite.jl",
+        "description": "Julia bindings to Vega-Lite",
+        "languages": {
+            "Julia": 52790,
+            "Jupyter Notebook": 1480
+        }
+    },
+    {
+        "name": "Comonicon.jl",
+        "description": "Your best CLI generator in JuliaLang",
+        "languages": {
+            "Julia": 178977,
+            "Shell": 18
+        }
+    },
+    {
+        "name": "MATLAB.jl",
+        "description": "Calling MATLAB in Julia through MATLAB Engine",
+        "languages": {
+            "Julia": 59521
+        }
+    },
+    {
+        "name": "AMDGPU.jl",
+        "description": "AMD GPU  (ROCm) programming in Julia",
+        "languages": {
+            "Julia": 1496112
+        }
+    },
+    {
+        "name": "OpenCL.jl",
+        "description": "OpenCL Julia bindings",
+        "languages": {
+            "Julia": 202476,
+            "C": 1669,
+            "GDB": 43
+        }
+    },
+    {
+        "name": "StateSpaceModels.jl",
+        "description": "StateSpaceModels.jl is a Julia package for time-series analysis using state-space models.",
+        "languages": {
+            "Julia": 276754
+        }
+    },
+    {
+        "name": "KernelFunctions.jl",
+        "description": "Julia package for kernel functions for machine learning",
+        "languages": {
+            "Julia": 257832,
+            "Makefile": 567
+        }
+    },
+    {
+        "name": "PowerSimulations.jl",
+        "description": "Julia for optimization simulation and modeling of PowerSystems. Part of the Scalable Integrated Infrastructure Planning Initiative at the National Renewable Energy Lab.",
+        "languages": {
+            "Julia": 1463508
+        }
+    },
+    {
+        "name": "JuliaSyntax.jl",
+        "description": "The Julia compiler frontend",
+        "languages": {
+            "Julia": 565435,
+            "Shell": 1329
+        }
+    },
+    {
+        "name": "Bio.jl",
+        "description": "[DEPRECATED] Bioinformatics and Computational Biology Infrastructure for Julia",
+        "languages": {
+            "Julia": 1899
+        }
+    },
+    {
+        "name": "DiffEqDocs.jl",
+        "description": "Documentation for the DiffEq differential equations and scientific machine learning (SciML) ecosystem",
+        "languages": {
+            "Julia": 165
+        }
+    },
+    {
+        "name": "FFTW.jl",
+        "description": "Julia bindings to the FFTW library for fast Fourier transforms",
+        "languages": {
+            "Julia": 80512
+        }
+    },
+    {
+        "name": "MonteCarloMeasurements.jl",
+        "description": "Propagation of distributions by Monte-Carlo sampling: Real number types with uncertainty represented by samples.",
+        "languages": {
+            "Julia": 148697
+        }
+    },
+    {
+        "name": "SymPy.jl",
+        "description": "Julia interface to SymPy via PyCall",
+        "languages": {
+            "Julia": 10862
+        }
+    },
+    {
+        "name": "DimensionalData.jl",
+        "description": "Named dimensions and indexing for julia arrays and other data",
+        "languages": {
+            "Julia": 722641
+        }
+    },
+    {
+        "name": "XLSX.jl",
+        "description": "Excel file reader and writer for the Julia language.",
+        "languages": {
+            "Julia": 229138
+        }
+    },
+    {
+        "name": "Mamba.jl",
+        "description": "Markov chain Monte Carlo (MCMC) for Bayesian analysis in julia",
+        "languages": {
+            "Julia": 156387
+        }
+    },
+    {
+        "name": "Hands-on-Design-Patterns-and-Best-Practices-with-Julia",
+        "description": "Hands-On Design Patterns with Julia, published by Packt",
+        "languages": {
+            "Julia": 219037,
+            "Java": 2595,
+            "C": 189
+        }
+    },
+    {
+        "name": "MCMCChains.jl",
+        "description": "Types and utility functions for summarizing Markov chain Monte Carlo simulations",
+        "languages": {
+            "Julia": 131779
+        }
+    },
+    {
+        "name": "KrylovKit.jl",
+        "description": "Krylov methods for linear problems, eigenvalues, singular values and matrix functions",
+        "languages": {
+            "Julia": 301072
+        }
+    },
+    {
+        "name": "NLopt.jl",
+        "description": "Package to call the NLopt nonlinear-optimization library from the Julia language",
+        "languages": {
+            "Julia": 64887
+        }
+    },
+    {
+        "name": "FastTransforms.jl",
+        "description": ":rocket: Julia package for orthogonal polynomial transforms :snowboarder:",
+        "languages": {
+            "Julia": 267801
+        }
+    },
+    {
+        "name": "QuadGK.jl",
+        "description": "adaptive 1d numerical Gauss\u2013Kronrod integration in Julia",
+        "languages": {
+            "Julia": 76142
+        }
+    },
+    {
+        "name": "NiLang.jl",
+        "description": "A differential eDSL that can run faster than light and go back to the past.",
+        "languages": {
+            "Julia": 420514
+        }
+    },
+    {
+        "name": "Compose.jl",
+        "description": "Declarative vector graphics",
+        "languages": {
+            "Julia": 286227
+        }
+    },
+    {
+        "name": "GLVisualize.jl",
+        "description": "Visualization library written in Julia and OpenGL",
+        "languages": {
+            "Julia": 184543,
+            "GLSL": 65341
+        }
+    },
+    {
+        "name": "SatelliteToolbox.jl",
+        "description": "A toolbox for satellite analysis written in julia language.",
+        "languages": {
+            "Julia": 43942
+        }
+    },
+    {
+        "name": "StatsModels.jl",
+        "description": "Specifying, fitting, and evaluating statistical models in Julia",
+        "languages": {
+            "Julia": 199009
+        }
+    },
+    {
+        "name": "ChainRulesCore.jl",
+        "description": "AD-backend agnostic system defining custom forward and reverse mode rules. This is the light weight core to allow you to define rules for your functions in your packages, without depending on any particular AD system.",
+        "languages": {
+            "Julia": 208688
+        }
+    },
+    {
+        "name": "DeepNeuralClassifier",
+        "description": "Deep neural network using rectified linear units to classify hand written symbols from the MNIST dataset.",
+        "languages": {
+            "Julia": 8656
+        }
+    },
+    {
+        "name": "GenX.jl",
+        "description": "GenX: a configurable power system capacity expansion model for studying low-carbon energy futures. More details at : https://genx.mit.edu",
+        "languages": {
+            "Julia": 986216
+        }
+    },
+    {
+        "name": "Metaheuristics.jl",
+        "description": "High-performance metaheuristics for optimization coded purely in Julia.",
+        "languages": {
+            "Julia": 324694
+        }
+    },
+    {
+        "name": "DynamicHMC.jl",
+        "description": "Implementation of robust dynamic Hamiltonian Monte Carlo methods (NUTS) in Julia.",
+        "languages": {
+            "Julia": 109571
+        }
+    },
+    {
+        "name": "FiniteDiff.jl",
+        "description": "Fast non-allocating calculations of gradients, Jacobians, and Hessians with sparsity support",
+        "languages": {
+            "Julia": 101504
+        }
+    },
+    {
+        "name": "JuliaFEM.jl",
+        "description": "The JuliaFEM software library is a framework that allows for the distributed processing of large Finite Element Models across clusters of computers using simple programming models. It is designed to scale up from single servers to thousands of machines, each offering local computation and storage.",
+        "languages": {
+            "Julia": 394513,
+            "Jupyter Notebook": 4198,
+            "Python": 1743
+        }
+    },
+    {
+        "name": "Alpine.jl",
+        "description": "A Julia/JuMP-based Global Optimization Solver for Non-convex Programs",
+        "languages": {
+            "Julia": 492068
+        }
+    },
+    {
+        "name": "Match.jl",
+        "description": "Advanced Pattern Matching for Julia",
+        "languages": {
+            "Julia": 187897
+        }
+    },
+    {
+        "name": "SparseDiffTools.jl",
+        "description": "Fast jacobian computation through sparsity exploitation and matrix coloring",
+        "languages": {
+            "Julia": 167846
+        }
+    },
+    {
+        "name": "StochasticDiffEq.jl",
+        "description": "Solvers for stochastic differential equations which connect with the scientific machine learning (SciML) ecosystem",
+        "languages": {
+            "Julia": 1355464
+        }
+    },
+    {
+        "name": "FLOWUnsteady",
+        "description": "An interactional aerodynamics and acoustics solver for multirotor aircraft and wind energy",
+        "languages": {
+            "Julia": 290953
+        }
+    },
+    {
+        "name": "Reduce.jl",
+        "description": "Symbolic parser for Julia language term rewriting using REDUCE algebra",
+        "languages": {
+            "Julia": 146585
+        }
+    },
+    {
+        "name": "CImGui.jl",
+        "description": "Julia wrapper for cimgui",
+        "languages": {
+            "Julia": 129676
+        }
+    },
+    {
+        "name": "SimpleChains.jl",
+        "description": "Simple chains",
+        "languages": {
+            "Julia": 190318
+        }
+    },
+    {
+        "name": "ClusterManagers.jl",
+        "description": null,
+        "languages": {
+            "Julia": 30138
+        }
+    },
+    {
+        "name": "NeuralOperators.jl",
+        "description": "DeepONets, (Fourier) Neural Operators, Physics-Informed Neural Operators, and more in Julia",
+        "languages": {
+            "Julia": 73238
+        }
+    },
+    {
+        "name": "jnumpy",
+        "description": "Writing Python C extensions in Julia within 5 minutes.",
+        "languages": {
+            "Julia": 220909,
+            "Python": 24978,
+            "Shell": 84
+        }
+    },
+    {
+        "name": "WebIO.jl",
+        "description": "A bridge between Julia and the Web.",
+        "languages": {
+            "Julia": 102738,
+            "TypeScript": 77041,
+            "Jupyter Notebook": 26278,
+            "JavaScript": 16268,
+            "Python": 6100
+        }
+    },
+    {
+        "name": "MeshCat.jl",
+        "description": "WebGL-based 3D visualizer in Julia",
+        "languages": {
+            "Julia": 72620,
+            "Jupyter Notebook": 29662
+        }
+    },
+    {
+        "name": "InfiniteOpt.jl",
+        "description": "An intuitive modeling interface for infinite-dimensional optimization problems.",
+        "languages": {
+            "Julia": 1706634
+        }
+    },
+    {
+        "name": "StatsFuns.jl",
+        "description": "Mathematical functions related to statistics.",
+        "languages": {
+            "Julia": 85119
+        }
+    },
+    {
+        "name": "XLA.jl",
+        "description": "Julia on TPUs",
+        "languages": {
+            "Julia": 204987,
+            "TeX": 531
+        }
+    },
+    {
+        "name": "FixedEffectModels.jl",
+        "description": "Fast Estimation of Linear Models with IV and High Dimensional Categorical Variables",
+        "languages": {
+            "Julia": 106041
+        }
+    },
+    {
+        "name": "LazySets.jl",
+        "description": "Scalable symbolic-numeric set computations in Julia",
+        "languages": {
+            "Julia": 1571723
+        }
+    },
+    {
+        "name": "GoodScientificCodeWorkshop",
+        "description": "A workshop on writing good scientific code.",
+        "languages": {
+            "Julia": 24867,
+            "Python": 11430
+        }
+    },
+    {
+        "name": "Octavian.jl",
+        "description": "Multi-threaded BLAS-like library that provides pure Julia matrix multiplication",
+        "languages": {
+            "Julia": 108894
+        }
+    },
+    {
+        "name": "DynamicGrids.jl",
+        "description": "Grid-based simulations in Julia",
+        "languages": {
+            "Julia": 315918
+        }
+    },
+    {
+        "name": "LispSyntax.jl",
+        "description": "lisp-like syntax in julia",
+        "languages": {
+            "Julia": 20822,
+            "Clojure": 245
+        }
+    },
+    {
+        "name": "SQLite.jl",
+        "description": "A Julia interface to the SQLite library",
+        "languages": {
+            "Julia": 154674,
+            "Dockerfile": 232
+        }
+    },
+    {
+        "name": "SCPToolbox.jl",
+        "description": "Sequential Convex Programming Toolbox for nonconvex trajectory optimization.",
+        "languages": {
+            "Julia": 786923,
+            "TeX": 47081,
+            "Python": 4189,
+            "C++": 3124
+        }
+    },
+    {
+        "name": "ArgParse.jl",
+        "description": "Package for parsing command-line arguments to Julia programs.",
+        "languages": {
+            "Julia": 164890
+        }
+    },
+    {
+        "name": "LinearSolve.jl",
+        "description": "LinearSolve.jl: High-Performance Unified Interface for Linear Solvers in Julia. Easily switch between factorization and Krylov methods, add preconditioners, and all in one interface.",
+        "languages": {
+            "Julia": 253805
+        }
+    },
+    {
+        "name": "VMLS.jl",
+        "description": null,
+        "languages": {
+            "Julia": 146595
+        }
+    },
+    {
+        "name": "METADATA.jl",
+        "description": "Metadata for registered Julia packages up to Julia v0.6. No longer maintained. Please see https://github.com/JuliaRegistries/General instead.",
+        "languages": {
+            "Julia": 68534,
+            "Shell": 1690
+        }
+    },
+    {
+        "name": "MLDatasets.jl",
+        "description": "Utility package for accessing common Machine Learning datasets in Julia",
+        "languages": {
+            "Julia": 289166
+        }
+    },
+    {
+        "name": "NeuralVerification.jl",
+        "description": "Methods to soundly verify deep neural networks",
+        "languages": {
+            "Julia": 145707,
+            "Python": 2921
+        }
+    },
+    {
+        "name": "LocalRegistry.jl",
+        "description": "Create and maintain local registries for Julia packages.",
+        "languages": {
+            "Julia": 63531
+        }
+    },
+    {
+        "name": "Clang.jl",
+        "description": "C binding generator and Julia interface to libclang",
+        "languages": {
+            "Julia": 3617223,
+            "C": 4735,
+            "CMake": 365
+        }
+    },
+    {
+        "name": "julia-ml-course",
+        "description": "Julia Programming for Machine Learning course at TU Berlin",
+        "languages": {
+            "Julia": 818659,
+            "CSS": 48282,
+            "HTML": 5172
+        }
+    },
+    {
+        "name": "PClean",
+        "description": "A domain-specific probabilistic programming language for scalable Bayesian data cleaning",
+        "languages": {
+            "Julia": 143500
+        }
+    },
+    {
+        "name": "universal_differential_equations",
+        "description": "Repository for the Universal Differential Equations for Scientific Machine Learning paper, describing a computational basis for high performance SciML",
+        "languages": {
+            "Julia": 122319
+        }
+    },
+    {
+        "name": "BayesNets.jl",
+        "description": "Bayesian Networks for Julia",
+        "languages": {
+            "Julia": 211803
+        }
+    },
+    {
+        "name": "Polyester.jl",
+        "description": "The cheapest threads you can find!",
+        "languages": {
+            "Julia": 55110
+        }
+    },
+    {
+        "name": "LibPQ.jl",
+        "description": "A Julia wrapper for libpq",
+        "languages": {
+            "Julia": 259096
+        }
+    },
+    {
+        "name": "Indicators.jl",
+        "description": "Financial market technical analysis & indicators in Julia",
+        "languages": {
+            "Julia": 81369
+        }
+    },
+    {
+        "name": "Stan.jl",
+        "description": "Stan.jl illustrates the usage of the 'single method' packages, e.g. StanSample, StanOptimize, etc.",
+        "languages": {
+            "Julia": 66583,
+            "Stan": 268,
+            "R": 158
+        }
+    },
+    {
+        "name": "Gurobi.jl",
+        "description": "Julia interface for Gurobi Optimizer",
+        "languages": {
+            "Julia": 566922
+        }
+    },
+    {
+        "name": "AbstractGPs.jl",
+        "description": "Abstract types and methods for Gaussian Processes. ",
+        "languages": {
+            "Julia": 80697
+        }
+    },
+    {
+        "name": "Combinatorics.jl",
+        "description": "A combinatorics library for Julia",
+        "languages": {
+            "Julia": 57603
+        }
+    },
+    {
+        "name": "JSON3.jl",
+        "description": null,
+        "languages": {
+            "Julia": 161439
+        }
+    },
+    {
+        "name": "OldGraphs.jl",
+        "description": "Working with graphs in Julia",
+        "languages": {
+            "Julia": 172599
+        }
+    },
+    {
+        "name": "NonlinearDynamicsTextbook",
+        "description": "Nonlinear Dynamics: A concise introduction interlaced with code",
+        "languages": {
+            "Julia": 243633,
+            "Python": 7608
+        }
+    },
+    {
+        "name": "FileIO.jl",
+        "description": "Main Package for IO, loading all different kind of files",
+        "languages": {
+            "Julia": 105700,
+            "TeX": 4957,
+            "HTML": 14
+        }
+    },
+    {
+        "name": "NonlinearSolve.jl",
+        "description": "High-performance and differentiation-enabled nonlinear solvers (Newton methods), bracketed rootfinding (bisection, Falsi), with sparsity and Newton-Krylov support.",
+        "languages": {
+            "Julia": 369021
+        }
+    },
+    {
+        "name": "Torch.jl",
+        "description": "Sensible extensions for exposing torch in Julia.",
+        "languages": {
+            "Julia": 274456,
+            "Dockerfile": 531
+        }
+    },
+    {
+        "name": "Sundials.jl",
+        "description": "Julia interface to Sundials, including a nonlinear solver (KINSOL), ODE's (CVODE and ARKODE), and DAE's (IDA) in a SciML scientific machine learning enabled manner",
+        "languages": {
+            "Julia": 586390
+        }
+    },
+    {
+        "name": "Integrals.jl",
+        "description": "A common interface for quadrature and numerical integration for the SciML scientific machine learning organization",
+        "languages": {
+            "Julia": 120505
+        }
+    },
+    {
+        "name": "Reinforce.jl",
+        "description": "Abstractions, algorithms, and utilities for reinforcement learning in Julia",
+        "languages": {
+            "Julia": 61395
+        }
+    },
+    {
+        "name": "ArrayFire.jl",
+        "description": "Julia wrapper for the ArrayFire library",
+        "languages": {
+            "Julia": 177019,
+            "C": 84
+        }
+    },
+    {
+        "name": "Hecke.jl",
+        "description": "Computational algebraic number theory",
+        "languages": {
+            "Julia": 7014998,
+            "Shell": 102
+        }
+    },
+    {
+        "name": "Registrator.jl",
+        "description": "Julia package registration bot",
+        "languages": {
+            "Julia": 112277,
+            "Smarty": 6471,
+            "Shell": 1232,
+            "Makefile": 537,
+            "Dockerfile": 405
+        }
+    },
+    {
+        "name": "ProtoBuf.jl",
+        "description": "Julia protobuf implementation",
+        "languages": {
+            "Julia": 363091
+        }
+    },
+    {
+        "name": "LaTeXStrings.jl",
+        "description": "convenient input and display of LaTeX equation strings for the Julia language",
+        "languages": {
+            "Julia": 7923
+        }
+    },
+    {
+        "name": "Spark.jl",
+        "description": "Julia binding for Apache Spark",
+        "languages": {
+            "Julia": 62973,
+            "Scala": 15049
+        }
+    },
+    {
+        "name": "GraphNeuralNetworks.jl",
+        "description": "Graph Neural Networks in Julia",
+        "languages": {
+            "Julia": 360423,
+            "Jupyter Notebook": 235571
+        }
+    },
+    {
+        "name": "Hyperopt.jl",
+        "description": "Hyperparameter optimization in Julia.",
+        "languages": {
+            "Julia": 45854
+        }
+    },
+    {
+        "name": "ReservoirComputing.jl",
+        "description": "Reservoir computing utilities for scientific machine learning (SciML)",
+        "languages": {
+            "Julia": 83983
+        }
+    },
+    {
+        "name": "RecursiveArrayTools.jl",
+        "description": "Tools for easily handling objects like arrays of arrays and deeper nestings in scientific machine learning (SciML) and other applications",
+        "languages": {
+            "Julia": 131642
+        }
+    },
+    {
+        "name": "FourierFlows.jl",
+        "description": "Tools for building fast, hackable, pseudospectral partial differential equation solvers on periodic domains",
+        "languages": {
+            "Julia": 124832
+        }
+    },
+    {
+        "name": "Colors.jl",
+        "description": "Color manipulation utilities for Julia",
+        "languages": {
+            "Julia": 320132
+        }
+    },
+    {
+        "name": "DistributedArrays.jl",
+        "description": "Distributed Arrays in Julia",
+        "languages": {
+            "Julia": 109483
+        }
+    },
+    {
+        "name": "AxisArrays.jl",
+        "description": "Performant arrays where each dimension can have a named axis with values",
+        "languages": {
+            "Julia": 114314
+        }
+    },
+    {
+        "name": "causticsEngineering",
+        "description": "This repo demonstrates generating 3D surface meshes from input images",
+        "languages": {
+            "Julia": 28395
+        }
+    },
+    {
+        "name": "GraphPlot.jl",
+        "description": "Graph visualization for Julia.",
+        "languages": {
+            "Julia": 41288
+        }
+    },
+    {
+        "name": "AbstractTrees.jl",
+        "description": "Abstract julia interfaces for working with trees",
+        "languages": {
+            "Julia": 79059
+        }
+    },
+    {
+        "name": "Rasters.jl",
+        "description": "Raster manipulation for the Julia language ",
+        "languages": {
+            "Julia": 580625
+        }
+    },
+    {
+        "name": "MKL.jl",
+        "description": "Intel MKL linear algebra backend for Julia",
+        "languages": {
+            "Julia": 8341
+        }
+    },
+    {
+        "name": "BAT.jl",
+        "description": "A Bayesian Analysis Toolkit in Julia",
+        "languages": {
+            "Julia": 561470
+        }
+    },
+    {
+        "name": "Requires.jl",
+        "description": "Lazy code loading for Julia",
+        "languages": {
+            "Julia": 12366
+        }
+    },
+    {
+        "name": "OffsetArrays.jl",
+        "description": "Fortran-like arrays with arbitrary, zero or negative starting indices.",
+        "languages": {
+            "Julia": 171825
+        }
+    },
+    {
+        "name": "SciMLStyle",
+        "description": "A style guide for stylish Julia developers",
+        "languages": {
+            "Julia": 22
+        }
+    },
+    {
+        "name": "H-OBCA",
+        "description": "Hierarchical Optimization-Based Collision Avoidance - a path planner for autonomous parking",
+        "languages": {
+            "Julia": 99297
+        }
+    },
+    {
+        "name": "NNlib.jl",
+        "description": "Neural Network primitives with multiple backends",
+        "languages": {
+            "Julia": 617119
+        }
+    },
+    {
+        "name": "PrecompileTools.jl",
+        "description": "Reduce time-to-first-execution of Julia code",
+        "languages": {
+            "Julia": 17905
+        }
+    },
+    {
+        "name": "LowRankModels.jl",
+        "description": "LowRankModels.jl is a julia package for modeling and fitting generalized low rank models. ",
+        "languages": {
+            "Julia": 197291
+        }
+    },
+    {
+        "name": "Ahorn",
+        "description": "Visual Map Maker and Level Editor for the game Celeste",
+        "languages": {
+            "Julia": 697702,
+            "Batchfile": 7234,
+            "Shell": 322
+        }
+    },
+    {
+        "name": "jpor_codes",
+        "description": "Codes for the book \"Julia Programming for Operations Research\"",
+        "languages": {
+            "Julia": 32293
+        }
+    },
+    {
+        "name": "JuliaWebAPI.jl",
+        "description": "Julia package for deploying APIs",
+        "languages": {
+            "Julia": 36854
+        }
+    },
+    {
+        "name": "PGFPlots.jl",
+        "description": "This library uses the LaTeX package pgfplots to produce plots.",
+        "languages": {
+            "Julia": 53387,
+            "TeX": 166
+        }
+    },
+    {
+        "name": "SymEngine.jl",
+        "description": "Julia wrappers of SymEngine",
+        "languages": {
+            "Julia": 67345,
+            "Dockerfile": 129
+        }
+    },
+    {
+        "name": "AllocCheck.jl",
+        "description": "AllocCheck",
+        "languages": {
+            "Julia": 55176
+        }
+    },
+    {
+        "name": "TensorKit.jl",
+        "description": "A Julia package for large-scale tensor computations, with a hint of category theory",
+        "languages": {
+            "Julia": 580688,
+            "Python": 21798,
+            "Shell": 130
+        }
+    },
+    {
+        "name": "Coluna.jl",
+        "description": "Branch-and-Price-and-Cut in Julia",
+        "languages": {
+            "Julia": 1360551,
+            "Shell": 365
+        }
+    },
+    {
+        "name": "TidierPlots.jl",
+        "description": "Tidier data visualization in Julia, modeled after the ggplot2 R package.",
+        "languages": {
+            "Julia": 110151
+        }
+    },
+    {
+        "name": "intraday_nope_research",
+        "description": null,
+        "languages": {
+            "Julia": 15894,
+            "Python": 12434
+        }
+    },
+    {
+        "name": "MLBase.jl",
+        "description": "A set of functions to support the development of machine learning algorithms",
+        "languages": {
+            "Julia": 44123
+        }
+    },
+    {
+        "name": "GMT.jl",
+        "description": "Generic Mapping Tools Library Wrapper for Julia",
+        "languages": {
+            "Julia": 2060453,
+            "Jupyter Notebook": 1414886,
+            "Shell": 7010
+        }
+    },
+    {
+        "name": "ReachabilityAnalysis.jl",
+        "description": "Computing reachable states of dynamical systems in Julia",
+        "languages": {
+            "Julia": 598483
+        }
+    },
+    {
+        "name": "ChaosTools.jl",
+        "description": "Tools for the exploration of chaos and nonlinear dynamics",
+        "languages": {
+            "Julia": 169244
+        }
+    },
+    {
+        "name": "Bijectors.jl",
+        "description": "Implementation of normalising flows and constrained random variable transformations",
+        "languages": {
+            "Julia": 225765
+        }
+    },
+    {
+        "name": "CausalInference.jl",
+        "description": "Causal inference, graphical models and structure learning in Julia",
+        "languages": {
+            "Julia": 203094
+        }
+    },
+    {
+        "name": "ReadableRegex.jl",
+        "description": "regexes for people who don't really want to learn or read regexes",
+        "languages": {
+            "Julia": 14497
+        }
+    },
+    {
+        "name": "MolecularGraph.jl",
+        "description": "Graph-based molecule modeling toolkit for cheminformatics",
+        "languages": {
+            "Julia": 549988,
+            "R": 9015,
+            "Python": 4453,
+            "Makefile": 1168,
+            "C": 775,
+            "Dockerfile": 459
+        }
+    },
+    {
+        "name": "Wavelets.jl",
+        "description": "A Julia package for fast discrete wavelet transforms and utilities",
+        "languages": {
+            "Julia": 114865,
+            "Shell": 1262,
+            "MATLAB": 1181,
+            "Python": 622
+        }
+    },
+    {
+        "name": "GameZero.jl",
+        "description": "Zero overhead game development library for the Julia programming language",
+        "languages": {
+            "Julia": 45321
+        }
+    },
+    {
+        "name": "BlockArrays.jl",
+        "description": "BlockArrays for Julia",
+        "languages": {
+            "Julia": 268285
+        }
+    },
+    {
+        "name": "Clapeyron.jl",
+        "description": "Clapeyron provides a framework for the development and use of fluid-thermodynamic models, including SAFT, cubic, activity, multi-parameter, and COSMO-SAC.",
+        "languages": {
+            "Julia": 1818237
+        }
+    },
+    {
+        "name": "Reactive.jl",
+        "description": "Reactive programming primitives for Julia",
+        "languages": {
+            "Julia": 69543
+        }
+    },
+    {
+        "name": "VoronoiFVM.jl",
+        "description": "Solution of nonlinear multiphysics partial differential equation systems using the Voronoi finite volume method",
+        "languages": {
+            "Julia": 1321779
+        }
+    },
+    {
+        "name": "Caesar.jl",
+        "description": "Robust robotic localization and mapping, together with NavAbility(TM).  Reach out to info@wherewhen.ai for help.",
+        "languages": {
+            "Julia": 305468,
+            "Shell": 27
+        }
+    },
+    {
+        "name": "RobotOS.jl",
+        "description": "Julia interface to ROS (Robot Operating System)",
+        "languages": {
+            "Julia": 49924,
+            "Python": 3467
+        }
+    },
+    {
+        "name": "DataInterpolations.jl",
+        "description": "A library of data interpolation and smoothing functions",
+        "languages": {
+            "Julia": 114534
+        }
+    },
+    {
+        "name": "ColorSchemes.jl",
+        "description": "colorschemes, colormaps, gradients, and palettes",
+        "languages": {
+            "Julia": 2662371
+        }
+    },
+    {
+        "name": "Juniper.jl",
+        "description": "A JuMP-based Nonlinear Integer Program Solver",
+        "languages": {
+            "Julia": 314465,
+            "MATLAB": 18084
+        }
+    },
+    {
+        "name": "CoordinateTransformations.jl",
+        "description": "A fresh approach to coordinate transformations...",
+        "languages": {
+            "Julia": 61453
+        }
+    },
+    {
+        "name": "StochasticAD.jl",
+        "description": "Research package for automatic differentiation of programs containing discrete randomness.",
+        "languages": {
+            "Julia": 154856
+        }
+    },
+    {
+        "name": "Automa.jl",
+        "description": "A julia code generator for regular expressions",
+        "languages": {
+            "Julia": 183633
+        }
+    },
+    {
+        "name": "ImageReconstructor",
+        "description": "Reconstructs an image using smaller images",
+        "languages": {
+            "Julia": 13138
+        }
+    },
+    {
+        "name": "Pandas.jl",
+        "description": "A Julia front-end to Python's Pandas package.",
+        "languages": {
+            "Julia": 25305,
+            "Dockerfile": 375
+        }
+    },
+    {
+        "name": "Gallium.jl",
+        "description": "The Julia debugger",
+        "languages": {
+            "Julia": 117
+        }
+    },
+    {
+        "name": "FillArrays.jl",
+        "description": "Julia package for lazily representing matrices filled with a single entry",
+        "languages": {
+            "Julia": 189912
+        }
+    },
+    {
+        "name": "MonteCarlo.jl",
+        "description": "Classical and quantum Monte Carlo simulations in Julia",
+        "languages": {
+            "Julia": 780621
+        }
+    },
+    {
+        "name": "Memoize.jl",
+        "description": "\uff20memoize macro for Julia",
+        "languages": {
+            "Julia": 9360
+        }
+    },
+    {
+        "name": "TopOpt.jl",
+        "description": "A package for binary and continuous, single and multi-material, truss and continuum, 2D and 3D topology optimization on unstructured meshes using automatic differentiation in Julia.",
+        "languages": {
+            "Julia": 379940,
+            "Jupyter Notebook": 13794,
+            "GLSL": 1315
+        }
+    },
+    {
+        "name": "oneAPI.jl",
+        "description": "Julia support for the oneAPI programming toolkit.",
+        "languages": {
+            "Julia": 1035713,
+            "LLVM": 969
+        }
+    },
+    {
+        "name": "HomotopyContinuation.jl",
+        "description": "A Julia package for solving systems of polynomials via homotopy continuation.",
+        "languages": {
+            "Julia": 927845
+        }
+    },
+    {
+        "name": "Symata.jl",
+        "description": "language for symbolic mathematics",
+        "languages": {
+            "Julia": 663031,
+            "Jupyter Notebook": 270280,
+            "Python": 11810,
+            "Shell": 2678
+        }
+    },
+    {
+        "name": "EvoTrees.jl",
+        "description": "Boosted trees in Julia",
+        "languages": {
+            "Julia": 373059
+        }
+    },
+    {
+        "name": "Conda.jl",
+        "description": "Conda managing Julia binary dependencies",
+        "languages": {
+            "Julia": 32940
+        }
+    },
+    {
+        "name": "BayesBook",
+        "description": "\u300c\u6a5f\u68b0\u5b66\u7fd2\u30b9\u30bf\u30fc\u30c8\u30a2\u30c3\u30d7\u30b7\u30ea\u30fc\u30ba \u30d9\u30a4\u30ba\u63a8\u8ad6\u306b\u3088\u308b\u6a5f\u68b0\u5b66\u7fd2\u5165\u9580\u300d\u306e\u30b5\u30f3\u30d7\u30eb\u30b3\u30fc\u30c9",
+        "languages": {
+            "Julia": 65752,
+            "Dockerfile": 797
+        }
+    },
+    {
+        "name": "Rebugger.jl",
+        "description": "An expression-level debugger for Julia with a provocative command-line (REPL) user interface",
+        "languages": {
+            "Julia": 95008
+        }
+    },
+    {
+        "name": "ConcurrentSim.jl",
+        "description": "A discrete event process oriented simulation framework written in Julia. Formerly named SimJulia!",
+        "languages": {
+            "Julia": 44791
+        }
+    },
+    {
+        "name": "GeneticAlgorithms.jl",
+        "description": "A lightweight framework for writing genetic algorithms in Julia",
+        "languages": {
+            "Julia": 6161
+        }
+    },
+    {
+        "name": "Coverage.jl",
+        "description": "Take Julia code coverage and memory allocation results, do useful things with them",
+        "languages": {
+            "Julia": 58399
+        }
+    },
+    {
+        "name": "ScrapingOutsourcing",
+        "description": "ScrapingOutsourcing\u4e13\u6ce8\u5206\u4eab\u722c\u866b\u4ee3\u7801  \u5c3d\u91cf\u6bcf\u5468\u66f4\u65b0\u4e00\u4e2a",
+        "languages": {
+            "Julia": 1931644,
+            "Python": 760877,
+            "HTML": 633688,
+            "Jupyter Notebook": 435241,
+            "JavaScript": 24454,
+            "CSS": 14125
+        }
+    },
+    {
+        "name": "Rotations.jl",
+        "description": "Julia implementations for different rotation parameterizations",
+        "languages": {
+            "Julia": 234568
+        }
+    },
+    {
+        "name": "Winston.jl",
+        "description": "2D plotting for Julia",
+        "languages": {
+            "Julia": 147832
+        }
+    },
+    {
+        "name": "AdaGram.jl",
+        "description": "Adaptive Skip-gram implementation in Julia",
+        "languages": {
+            "Julia": 34568,
+            "Python": 3219,
+            "C": 2206,
+            "Shell": 1263
+        }
+    },
+    {
+        "name": "Lint.jl",
+        "description": "A lint tool for Julia code",
+        "languages": {
+            "Julia": 190841
+        }
+    },
+    {
+        "name": "InteractiveDynamics.jl",
+        "description": "Fast, general-purpose interactive applications for complex systems",
+        "languages": {
+            "Julia": 134557
+        }
+    },
+    {
+        "name": "AutoGrad.jl",
+        "description": "Julia port of the Python autograd package.",
+        "languages": {
+            "Julia": 131929,
+            "Perl": 751
+        }
+    },
+    {
+        "name": "GitHub.jl",
+        "description": "A Julia package for interfacing with GitHub",
+        "languages": {
+            "Julia": 159232
+        }
+    },
+    {
+        "name": "Klara.jl",
+        "description": "MCMC inference in Julia",
+        "languages": {
+            "Julia": 429418
+        }
+    },
+    {
+        "name": "Tensors.jl",
+        "description": "Efficient computations with symmetric and non-symmetric tensors with support for automatic differentiation.",
+        "languages": {
+            "Julia": 219102
+        }
+    },
+    {
+        "name": "Julog.jl",
+        "description": "A Julia package for Prolog-style logic programming.",
+        "languages": {
+            "Julia": 73899
+        }
+    },
+    {
+        "name": "Rocket.jl",
+        "description": "Functional reactive programming extensions library for Julia",
+        "languages": {
+            "Julia": 689472
+        }
+    },
+    {
+        "name": "Nemo.jl",
+        "description": "Julia bindings for various mathematical libraries (including flint2)",
+        "languages": {
+            "Julia": 3627617
+        }
+    },
+    {
+        "name": "ApplicationBuilder.jl",
+        "description": "[deprecated] Compile, bundle, and release julia software",
+        "languages": {
+            "Julia": 31081,
+            "C": 1640
+        }
+    },
+    {
+        "name": "SeaPearl.jl",
+        "description": "Julia hybrid constraint programming solver enhanced by a reinforcement learning driven search.",
+        "languages": {
+            "Julia": 1327771
+        }
+    },
+    {
+        "name": "KernelDensity.jl",
+        "description": "Kernel density estimators for Julia",
+        "languages": {
+            "Julia": 22812
+        }
+    },
+    {
+        "name": "Polyhedra.jl",
+        "description": "Polyhedral Computation Interface",
+        "languages": {
+            "Julia": 405810
+        }
+    },
+    {
+        "name": "Strategems.jl",
+        "description": "Quantitative systematic trading strategy development and backtesting in Julia",
+        "languages": {
+            "Julia": 19988
+        }
+    },
+    {
+        "name": "Setfield.jl",
+        "description": "Update deeply nested immutable structs.",
+        "languages": {
+            "Julia": 46676
+        }
+    },
+    {
+        "name": "GraphRecipes.jl",
+        "description": "Graph-related recipes to be used with Plots.jl",
+        "languages": {
+            "Julia": 88753
+        }
+    },
+    {
+        "name": "OMEinsum.jl",
+        "description": "One More Einsum for Julia! With runtime order-specification and high-level adjoints for AD",
+        "languages": {
+            "Julia": 151348
+        }
+    },
+    {
+        "name": "TuringModels.jl",
+        "description": "Implementations of the models from the Statistical Rethinking book with Turing.jl",
+        "languages": {
+            "Julia": 58283,
+            "JavaScript": 52405,
+            "CSS": 5415,
+            "HTML": 1881,
+            "R": 438
+        }
+    },
+    {
+        "name": "Bloqade.jl",
+        "description": "Package for the quantum computation and quantum simulation based on the neutral-atom architecture.",
+        "languages": {
+            "Julia": 741555,
+            "Python": 13965,
+            "Just": 696,
+            "Shell": 376
+        }
+    },
+    {
+        "name": "SIMD.jl",
+        "description": "Explicit SIMD vector operations for Julia",
+        "languages": {
+            "Julia": 101910
+        }
+    },
+    {
+        "name": "GeometryBasics.jl",
+        "description": "Basic Geometry Types",
+        "languages": {
+            "Julia": 156176
+        }
+    },
+    {
+        "name": "StaticTools.jl",
+        "description": "Enabling StaticCompiler.jl-based compilation of (some) Julia code to standalone native binaries by avoiding GC allocations and llvmcall-ing all the things!",
+        "languages": {
+            "Julia": 249082
+        }
+    },
+    {
+        "name": "Omega.jl",
+        "description": "Causal, Higher-Order, Probabilistic Programming",
+        "languages": {
+            "Julia": 366196
+        }
+    },
+    {
+        "name": "Octo.jl",
+        "description": "Octo.jl \ud83d\udc19 is an SQL Query DSL in Julia",
+        "languages": {
+            "Julia": 138517
+        }
+    },
+    {
+        "name": "Yota.jl",
+        "description": "Reverse-mode automatic differentiation in Julia",
+        "languages": {
+            "Julia": 51664
+        }
+    },
+    {
+        "name": "JuliaInterpreter.jl",
+        "description": "Interpreter for Julia code",
+        "languages": {
+            "Julia": 321807
+        }
+    },
+    {
+        "name": "BSON.jl",
+        "description": null,
+        "languages": {
+            "Julia": 27733
+        }
+    },
+    {
+        "name": "detectem",
+        "description": "detectem - detect software and its version on websites.",
+        "languages": {
+            "Julia": 3917159,
+            "Python": 118767,
+            "Makefile": 1916,
+            "Lua": 1710
+        }
+    },
+    {
+        "name": "Reexport.jl",
+        "description": "Julia macro for re-exporting one module from another",
+        "languages": {
+            "Julia": 6412
+        }
+    },
+    {
+        "name": "WebSockets.jl",
+        "description": "A WebSockets library for Julia",
+        "languages": {
+            "Julia": 161114,
+            "HTML": 5645,
+            "JavaScript": 1240
+        }
+    },
+    {
+        "name": "Jlsca",
+        "description": "Side-channel toolkit in Julia",
+        "languages": {
+            "Julia": 3113413
+        }
+    },
+    {
+        "name": "PowerSimulationsDynamics.jl",
+        "description": "Julia package to run Dynamic Power System simulations. Part of the Scalable Integrated Infrastructure Planning Initiative at the National Renewable Energy Lab.",
+        "languages": {
+            "Julia": 1107731,
+            "Python": 22592,
+            "MATLAB": 7221
+        }
+    },
+    {
+        "name": "BuildExecutable.jl",
+        "description": "Build a standalone executables from a Julia script",
+        "languages": {
+            "Julia": 22697
+        }
+    },
+    {
+        "name": "Accessors.jl",
+        "description": "Update immutable data",
+        "languages": {
+            "Julia": 133204
+        }
+    },
+    {
+        "name": "SimpleTraits.jl",
+        "description": "Simple Traits for Julia",
+        "languages": {
+            "Julia": 31196
+        }
+    },
+    {
+        "name": "Clarabel.jl",
+        "description": "Clarabel.jl: Interior-point solver for convex conic optimisation problems in Julia.",
+        "languages": {
+            "Julia": 339520
+        }
+    },
+    {
+        "name": "MLJBase.jl",
+        "description": "Core functionality for the MLJ machine learning framework",
+        "languages": {
+            "Julia": 575373
+        }
+    },
+    {
+        "name": "Bayesian-Julia",
+        "description": "Bayesian Statistics using Julia and Turing",
+        "languages": {
+            "Julia": 296235
+        }
+    },
+    {
+        "name": "ImplicitGlobalGrid.jl",
+        "description": "Almost trivial distributed parallelization of stencil-based GPU and CPU applications on a regular staggered grid",
+        "languages": {
+            "Julia": 203528
+        }
+    },
+    {
+        "name": "Discord.jl",
+        "description": "The Julia Discord API Wrapper",
+        "languages": {
+            "Julia": 223386
+        }
+    },
+    {
+        "name": "ResumableFunctions.jl",
+        "description": "C# style generators a.k.a. semi-coroutines for Julia.",
+        "languages": {
+            "Julia": 44074,
+            "TeX": 1011
+        }
+    },
+    {
+        "name": "AWS.jl",
+        "description": "Julia interface to AWS",
+        "languages": {
+            "Julia": 309249
+        }
+    },
+    {
+        "name": "Gumbo.jl",
+        "description": "Julia wrapper around Google's gumbo C library for parsing HTML",
+        "languages": {
+            "Julia": 22078
+        }
+    },
+    {
+        "name": "Queryverse.jl",
+        "description": "A meta package for data science in julia",
+        "languages": {
+            "Julia": 1117
+        }
+    },
+    {
+        "name": "PhyloNetworks.jl",
+        "description": "A Julia package for statistical inference, data manipulation and visualization of phylogenetic networks",
+        "languages": {
+            "Julia": 1686357,
+            "MAXScript": 1038,
+            "Shell": 547
+        }
+    },
+    {
+        "name": "Pipe.jl",
+        "description": "An enhancement to julia piping syntax",
+        "languages": {
+            "Julia": 6165
+        }
+    },
+    {
+        "name": "PProf.jl",
+        "description": "Export Julia profiles to the pprof format",
+        "languages": {
+            "Julia": 72496
+        }
+    },
+    {
+        "name": "GeoMakie.jl",
+        "description": "Geographical plotting utilities for Makie.jl",
+        "languages": {
+            "Julia": 76782,
+            "Dockerfile": 125
+        }
+    },
+    {
+        "name": "IterTools.jl",
+        "description": "Common functional iterator patterns",
+        "languages": {
+            "Julia": 48778
+        }
+    },
+    {
+        "name": "Dierckx.jl",
+        "description": "Julia package for 1-d and 2-d splines",
+        "languages": {
+            "Julia": 51028,
+            "Python": 1499
+        }
+    },
+    {
+        "name": "Tulip.jl",
+        "description": "Interior-point solver in pure Julia",
+        "languages": {
+            "Julia": 236217,
+            "JetBrains MPS": 594
+        }
+    },
+    {
+        "name": "GeophysicalFlows.jl",
+        "description": "Geophysical fluid dynamics pseudospectral solvers with Julia and FourierFlows.jl.",
+        "languages": {
+            "Julia": 180113,
+            "TeX": 4781
+        }
+    },
+    {
+        "name": "AbstractAlgebra.jl",
+        "description": "Generic abstract algebra functionality in pure Julia (no C dependencies)",
+        "languages": {
+            "Julia": 2524399
+        }
+    },
+    {
+        "name": "WriteVTK.jl",
+        "description": "Julia package for writing VTK XML files",
+        "languages": {
+            "Julia": 119370
+        }
+    },
+    {
+        "name": "Einsum.jl",
+        "description": "Einstein summation notation in Julia",
+        "languages": {
+            "Julia": 20806,
+            "Python": 337
+        }
+    },
+    {
+        "name": "Olive.jl",
+        "description": "pure julia notebooks",
+        "languages": {
+            "Julia": 139223
+        }
+    },
+    {
+        "name": "DistributionsAD.jl",
+        "description": "Automatic differentiation of  Distributions using Tracker, Zygote, ForwardDiff and ReverseDiff",
+        "languages": {
+            "Julia": 132052
+        }
+    },
+    {
+        "name": "MethodOfLines.jl",
+        "description": "Automatic Finite Difference PDE solving with Julia SciML",
+        "languages": {
+            "Julia": 391525
+        }
+    },
+    {
+        "name": "AxisKeys.jl",
+        "description": "\ud83c\udfb9",
+        "languages": {
+            "Julia": 135166
+        }
+    },
+    {
+        "name": "NLPModels.jl",
+        "description": "Data Structures for Optimization Models",
+        "languages": {
+            "Julia": 115020
+        }
+    },
+    {
+        "name": "LossFunctions.jl",
+        "description": "Julia package of loss functions for machine learning.",
+        "languages": {
+            "Julia": 112947
+        }
+    },
+    {
+        "name": "ForneyLab.jl",
+        "description": "Julia package for automatically generating Bayesian inference algorithms through message passing on Forney-style factor graphs.",
+        "languages": {
+            "Julia": 746179
+        }
+    },
+    {
+        "name": "GPUCompiler.jl",
+        "description": "Reusable compiler infrastructure for Julia GPU backends.",
+        "languages": {
+            "Julia": 321652,
+            "Python": 3141
+        }
+    },
+    {
+        "name": "BioSequences.jl",
+        "description": "Biological sequences for the julia language",
+        "languages": {
+            "Julia": 307310
+        }
+    },
+    {
+        "name": "static-julia",
+        "description": "Static AOT Julia compilation, demos and instructions",
+        "languages": {
+            "Julia": 14204,
+            "C": 2801
+        }
+    },
+    {
+        "name": "RayTracer.jl",
+        "description": "Differentiable RayTracing in Julia",
+        "languages": {
+            "Julia": 98769
+        }
+    },
+    {
+        "name": "LinearOperators.jl",
+        "description": "Linear Operators for Julia",
+        "languages": {
+            "Julia": 135976
+        }
+    },
+    {
+        "name": "DataDeps.jl",
+        "description": "reproducible data setup for reproducible science",
+        "languages": {
+            "Julia": 55762
+        }
+    },
+    {
+        "name": "DynamicPPL.jl",
+        "description": "Implementation of domain-specific language (DSL) for dynamic probabilistic programming ",
+        "languages": {
+            "Julia": 563578
+        }
+    },
+    {
+        "name": "Gaston.jl",
+        "description": "A julia front-end for gnuplot.",
+        "languages": {
+            "Julia": 59963
+        }
+    },
+    {
+        "name": "SplitApplyCombine.jl",
+        "description": "Split-apply-combine strategies for Julia",
+        "languages": {
+            "Julia": 57288
+        }
+    },
+    {
+        "name": "JuliaNotes.jl",
+        "description": "A collection of examples and explanations about Julia",
+        "languages": {
+            "Julia": 221
+        }
+    },
+    {
+        "name": "HCubature.jl",
+        "description": "pure-Julia multidimensional h-adaptive integration",
+        "languages": {
+            "Julia": 21284
+        }
+    },
+    {
+        "name": "Crayons.jl",
+        "description": "Colored and styled strings for terminals.",
+        "languages": {
+            "Julia": 52233
+        }
+    },
+    {
+        "name": "TypedTables.jl",
+        "description": "Simple, fast, column-based storage for data analysis in Julia",
+        "languages": {
+            "Julia": 98332
+        }
+    },
+    {
+        "name": "DoubleFloats.jl",
+        "description": "math with more good bits",
+        "languages": {
+            "Julia": 307707
+        }
+    },
+    {
+        "name": "Ipopt.jl",
+        "description": "Julia interface to the Ipopt nonlinear solver",
+        "languages": {
+            "Julia": 97200
+        }
+    },
+    {
+        "name": "Juno.jl",
+        "description": null,
+        "languages": {
+            "Julia": 17374
+        }
+    },
+    {
+        "name": "TSne.jl",
+        "description": "Julia port of L.J.P. van der Maaten and G.E. Hintons T-SNE visualisation technique.",
+        "languages": {
+            "Julia": 14694
+        }
+    },
+    {
+        "name": "InvertibleNetworks.jl",
+        "description": "A Julia framework for invertible neural networks",
+        "languages": {
+            "Julia": 370052
+        }
+    },
+    {
+        "name": "Merlin.jl",
+        "description": "Deep Learning for Julia",
+        "languages": {
+            "Julia": 338444,
+            "C++": 2910
+        }
+    },
+    {
+        "name": "Lasso.jl",
+        "description": "Lasso/Elastic Net linear and generalized linear models",
+        "languages": {
+            "Julia": 129872,
+            "R": 2791
+        }
+    },
+    {
+        "name": "NCDatasets.jl",
+        "description": "Load and create NetCDF files in Julia",
+        "languages": {
+            "Julia": 246034,
+            "R": 1205,
+            "Python": 1048,
+            "Shell": 161
+        }
+    },
+    {
+        "name": "FinEtools.jl",
+        "description": "Finite  Element tools in Julia",
+        "languages": {
+            "Julia": 1032013,
+            "Assembly": 384968
+        }
+    },
+    {
+        "name": "GenericLinearAlgebra.jl",
+        "description": "Generic numerical linear algebra in Julia",
+        "languages": {
+            "Julia": 135435
+        }
+    },
+    {
+        "name": "Eyeball.jl",
+        "description": "Object and type viewer for Julia",
+        "languages": {
+            "Julia": 21761
+        }
+    },
+    {
+        "name": "GLFW.jl",
+        "description": "Julia interface to GLFW, a multi-platform library for creating windows with OpenGL contexts and managing input and events.",
+        "languages": {
+            "Julia": 36224
+        }
+    },
+    {
+        "name": "Compat.jl",
+        "description": "Compatibility across Julia versions",
+        "languages": {
+            "Julia": 73938
+        }
+    },
+    {
+        "name": "Bukdu.jl",
+        "description": "Bukdu \ud83c\udf0c is a web development framework for Julia",
+        "languages": {
+            "Julia": 83721,
+            "HTML": 15
+        }
+    },
+    {
+        "name": "ACME.jl",
+        "description": "ACME.jl - Analog Circuit Modeling and Emulation for Julia",
+        "languages": {
+            "Julia": 135187
+        }
+    },
+    {
+        "name": "MLJFlux.jl",
+        "description": "Wrapping deep learning models from the package Flux.jl for use in the MLJ.jl toolbox",
+        "languages": {
+            "Julia": 98518,
+            "TeX": 1556
+        }
+    },
+    {
+        "name": "MarketData.jl",
+        "description": "Time series market data",
+        "languages": {
+            "Julia": 15375
+        }
+    },
+    {
+        "name": "FunSQL.jl",
+        "description": "Julia library for compositional construction of SQL queries",
+        "languages": {
+            "Julia": 277915
+        }
+    },
+    {
+        "name": "Strided.jl",
+        "description": "A Julia package for strided array views and efficient manipulations thereof",
+        "languages": {
+            "Julia": 56731
+        }
+    },
+    {
+        "name": "ArchGDAL.jl",
+        "description": "A high level API for GDAL - Geospatial Data Abstraction Library",
+        "languages": {
+            "Julia": 737842
+        }
+    },
+    {
+        "name": "LoggingExtras.jl",
+        "description": "Composable Loggers  for the Julia Logging StdLib",
+        "languages": {
+            "Julia": 38895
+        }
+    },
+    {
+        "name": "StatsKit.jl",
+        "description": "Convenience meta-package to load essential packages for statistics",
+        "languages": {
+            "Julia": 2354
+        }
+    },
+    {
+        "name": "SearchLight.jl",
+        "description": "ORM layer for Genie.jl, the highly productive Julia web framework",
+        "languages": {
+            "Julia": 115769
+        }
+    },
+    {
+        "name": "NFFT.jl",
+        "description": "Julia implementation of the Non-equidistant Fast Fourier Transform (NFFT)",
+        "languages": {
+            "Julia": 229231,
+            "TeX": 74740
+        }
+    },
+    {
+        "name": "LiveServer.jl",
+        "description": "Simple development server with live-reload capability for Julia.",
+        "languages": {
+            "Julia": 67358,
+            "HTML": 874
+        }
+    },
+    {
+        "name": "EAGO.jl",
+        "description": "A development environment for robust and global optimization",
+        "languages": {
+            "Julia": 611505,
+            "TeX": 445
+        }
+    },
+    {
+        "name": "PowerModelsDistribution.jl",
+        "description": "A Julia/JuMP Package for Unbalanced Power Network Optimization",
+        "languages": {
+            "Julia": 1702732
+        }
+    },
+    {
+        "name": "ONNX.jl",
+        "description": "Read ONNX graphs in Julia",
+        "languages": {
+            "Julia": 128064
+        }
+    },
+    {
+        "name": "Augmentor.jl",
+        "description": "A fast image augmentation library in Julia for machine learning.",
+        "languages": {
+            "Julia": 386169
+        }
+    },
+    {
+        "name": "AbbreviatedStackTraces.jl",
+        "description": null,
+        "languages": {
+            "Julia": 36901
+        }
+    },
+    {
+        "name": "ConstraintSolver.jl",
+        "description": "ConstraintSolver in Julia: Blog posts ->",
+        "languages": {
+            "Julia": 750459,
+            "Python": 23552
+        }
+    },
+    {
+        "name": "Bumper.jl",
+        "description": "Bring Your Own Stack",
+        "languages": {
+            "Julia": 23693
+        }
+    },
+    {
+        "name": "QuantLib.jl",
+        "description": "Quantlib implementation in pure Julia",
+        "languages": {
+            "Julia": 727736
+        }
+    },
+    {
+        "name": "PastaQ.jl",
+        "description": "Package for Simulation, Tomography and Analysis of Quantum Computers",
+        "languages": {
+            "Julia": 325898
+        }
+    },
+    {
+        "name": "StringDistances.jl",
+        "description": "String Distances in Julia",
+        "languages": {
+            "Julia": 78297
+        }
+    },
+    {
+        "name": "TensorCast.jl",
+        "description": "It slices, it dices, it splices!",
+        "languages": {
+            "Julia": 124538
+        }
+    },
+    {
+        "name": "AugmentedGaussianProcesses.jl",
+        "description": "Gaussian Process package based on data augmentation, sparsity and natural gradients",
+        "languages": {
+            "Julia": 290878
+        }
+    },
+    {
+        "name": "StaticLint.jl",
+        "description": "Static Code Analysis for Julia",
+        "languages": {
+            "Julia": 217520
+        }
+    },
+    {
+        "name": "JumpProcesses.jl",
+        "description": "Build and simulate jump equations like Gillespie simulations and jump diffusions with constant and state-dependent rates and mix with differential equations and scientific machine learning (SciML)",
+        "languages": {
+            "Julia": 340392
+        }
+    },
+    {
+        "name": "Starlight.jl",
+        "description": "A greedy game engine for greedy programmers!",
+        "languages": {
+            "Julia": 46281,
+            "Makefile": 1342
+        }
+    },
+    {
+        "name": "StatProfilerHTML.jl",
+        "description": "Show Julia profiling data in an explorable HTML page",
+        "languages": {
+            "Julia": 17629,
+            "HTML": 11749,
+            "Haml": 7180,
+            "CSS": 2426,
+            "JavaScript": 317
+        }
+    },
+    {
+        "name": "ImageView.jl",
+        "description": "Interactive display of images and movies",
+        "languages": {
+            "Julia": 87820
+        }
+    },
+    {
+        "name": "CompatHelper.jl",
+        "description": "Automatically update the [compat] entries for your Julia package's dependencies",
+        "languages": {
+            "Julia": 103570
+        }
+    },
+    {
+        "name": "MadNLP.jl",
+        "description": "A solver for nonlinear programming",
+        "languages": {
+            "Julia": 456668,
+            "C": 1059
+        }
+    },
+    {
+        "name": "HttpServer.jl",
+        "description": "DEPRECATED! Basic, non-blocking HTTP server in Julia.",
+        "languages": {
+            "Julia": 63209
+        }
+    },
+    {
+        "name": "TestEnv.jl",
+        "description": "Activate your test enviroment, so you can use your test dependencies in the REPL",
+        "languages": {
+            "Julia": 55131
+        }
+    },
+    {
+        "name": "MultivariatePolynomials.jl",
+        "description": "Multivariate polynomials interface",
+        "languages": {
+            "Julia": 292409
+        }
+    },
+    {
+        "name": "ZMQ.jl",
+        "description": "Julia interface to ZMQ",
+        "languages": {
+            "Julia": 36754
+        }
+    },
+    {
+        "name": "Plasmo.jl",
+        "description": "A Platform for Scalable Modeling and Optimization",
+        "languages": {
+            "Julia": 234647
+        }
+    },
+    {
+        "name": "CausalityTools.jl",
+        "description": "Algorithms for detecting associations, dynamical influences and causal inference from data.",
+        "languages": {
+            "Julia": 677024,
+            "Jupyter Notebook": 100071
+        }
+    },
+    {
+        "name": "Formatting.jl",
+        "description": "Deprecated. See README. (A Julia package to provide Python-like formatting support)",
+        "languages": {
+            "Julia": 45427
+        }
+    },
+    {
+        "name": "FromFile.jl",
+        "description": "Julia enhancement proposal (Julep) for implicit per file module in Julia",
+        "languages": {
+            "Julia": 19461
+        }
+    },
+    {
+        "name": "CodeTracking.jl",
+        "description": "It's editing-time, do you know where your methods are?",
+        "languages": {
+            "Julia": 46272
+        }
+    },
+    {
+        "name": "RegressionTables.jl",
+        "description": "Journal-style regression tables",
+        "languages": {
+            "Julia": 171340,
+            "HTML": 9987,
+            "TeX": 8177
+        }
+    },
+    {
+        "name": "Morsel.jl",
+        "description": "[deprecated] Sinatra-like micro framework for web programming in Julia",
+        "languages": {
+            "Julia": 19175
+        }
+    },
+    {
+        "name": "AbstractDifferentiation.jl",
+        "description": "An abstract interface for automatic differentiation.",
+        "languages": {
+            "Julia": 73274,
+            "TeX": 306
+        }
+    },
+    {
+        "name": "ArrayInterface.jl",
+        "description": "Designs for new Base array interface primitives, used widely through scientific machine learning (SciML) and other organizations",
+        "languages": {
+            "Julia": 65495
+        }
+    },
+    {
+        "name": "Mustache.jl",
+        "description": "Port of mustache.js to julia",
+        "languages": {
+            "Julia": 94130,
+            "Smarty": 143
+        }
+    },
+    {
+        "name": "Hypatia.jl",
+        "description": "interior point solver for general convex conic optimization problems",
+        "languages": {
+            "Julia": 682597
+        }
+    },
+    {
+        "name": "Baysor",
+        "description": "Bayesian Segmentation of Spatial Transcriptomics Data",
+        "languages": {
+            "Julia": 205948,
+            "Dockerfile": 1157
+        }
+    },
+    {
+        "name": "CPLEX.jl",
+        "description": "Julia interface for the CPLEX optimization software",
+        "languages": {
+            "Julia": 634497
+        }
+    },
+    {
+        "name": "julia-distributed-computing",
+        "description": "The ultimate guide to distributed computing in Julia",
+        "languages": {
+            "Julia": 1028
+        }
+    },
+    {
+        "name": "Fermi.jl",
+        "description": "Fermi quantum chemistry program",
+        "languages": {
+            "Julia": 346707
+        }
+    },
+    {
+        "name": "BandedMatrices.jl",
+        "description": "A Julia package for representing banded matrices",
+        "languages": {
+            "Julia": 393853
+        }
+    },
+    {
+        "name": "LatticeQCD.jl",
+        "description": "A native Julia code for lattice QCD with dynamical fermions in 4 dimension.",
+        "languages": {
+            "Julia": 391132
+        }
+    },
+    {
+        "name": "CBinding.jl",
+        "description": "Automatic C interfacing for Julia",
+        "languages": {
+            "Julia": 123779,
+            "C": 5964
+        }
+    },
+    {
+        "name": "ConformalPrediction.jl",
+        "description": "Predictive Uncertainty Quantification through Conformal Prediction for Machine Learning models trained in MLJ.",
+        "languages": {
+            "Julia": 98647
+        }
+    },
+    {
+        "name": "DifferentiableCollisions.jl",
+        "description": "Differentiable collision detection for polytopes, capsules, cylinders, cones, spheres, and polygons.",
+        "languages": {
+            "Julia": 101959
+        }
+    },
+    {
+        "name": "PkgBenchmark.jl",
+        "description": "Easy benchmark tracking for packages",
+        "languages": {
+            "Julia": 45774
+        }
+    },
+    {
+        "name": "Pajarito.jl",
+        "description": "A solver for mixed-integer convex optimization",
+        "languages": {
+            "Julia": 86844
+        }
+    },
+    {
+        "name": "ReplMaker.jl",
+        "description": "Simple API for building repl modes in Julia",
+        "languages": {
+            "Julia": 11153
+        }
+    },
+    {
+        "name": "Altro.jl",
+        "description": null,
+        "languages": {
+            "Julia": 247799
+        }
+    },
+    {
+        "name": "aima-julia",
+        "description": "Julia  implementation of algorithms from Russell And Norvig's \"Artificial Intelligence - A Modern Approach\"",
+        "languages": {
+            "Julia": 596193,
+            "Jupyter Notebook": 111727,
+            "Shell": 979
+        }
+    },
+    {
+        "name": "PlutoSliderServer.jl",
+        "description": "Web server to run just the `@bind` parts of a Pluto.jl notebook",
+        "languages": {
+            "Julia": 99525
+        }
+    },
+    {
+        "name": "InMemoryDatasets.jl",
+        "description": "Multithreaded package for working with tabular data in Julia",
+        "languages": {
+            "Julia": 1615493
+        }
+    },
+    {
+        "name": "ProximalOperators.jl",
+        "description": "Proximal operators for nonsmooth optimization in Julia",
+        "languages": {
+            "Julia": 225304,
+            "TeX": 2360
+        }
+    },
+    {
+        "name": "UMAP.jl",
+        "description": "Uniform Manifold Approximation and Projection (UMAP) implementation in Julia",
+        "languages": {
+            "Julia": 38721,
+            "Jupyter Notebook": 2556
+        }
+    },
+    {
+        "name": "ModernGL.jl",
+        "description": "OpenGL 3+ bindings for Julia",
+        "languages": {
+            "Julia": 298702
+        }
+    },
+    {
+        "name": "Example.jl",
+        "description": "Example Julia package repo.",
+        "languages": {
+            "Julia": 292
+        }
+    },
+    {
+        "name": "GraphMakie.jl",
+        "description": "Plotting graphs with Makie",
+        "languages": {
+            "Julia": 82586
+        }
+    },
+    {
+        "name": "Glob.jl",
+        "description": "Posix-compliant file name pattern matching",
+        "languages": {
+            "Julia": 22383
+        }
+    },
+    {
+        "name": "MathLink.jl",
+        "description": "Julia language interface for Mathematica/Wolfram Engine",
+        "languages": {
+            "Julia": 50601
+        }
+    },
+    {
+        "name": "VoronoiDelaunay.jl",
+        "description": "Fast and robust Voronoi & Delaunay tessellation creation with Julia",
+        "languages": {
+            "Julia": 34915
+        }
+    },
+    {
+        "name": "ThreadPools.jl",
+        "description": "Improved thread management for background and nonuniform tasks in Julia.  Docs at https://tro3.github.io/ThreadPools.jl",
+        "languages": {
+            "Julia": 110660
+        }
+    },
+    {
+        "name": "NBodySimulator.jl",
+        "description": "A differentiable simulator for scientific machine learning (SciML) with N-body problems, including astrophysical and molecular dynamics",
+        "languages": {
+            "Julia": 93202
+        }
+    },
+    {
+        "name": "MarketTechnicals.jl",
+        "description": "Technical analysis of financial time series in Julia",
+        "languages": {
+            "Julia": 64557
+        }
+    },
+    {
+        "name": "VideoIO.jl",
+        "description": "Reading and writing of video files in Julia via ffmpeg",
+        "languages": {
+            "Julia": 953827
+        }
+    },
+    {
+        "name": "IntervalRootFinding.jl",
+        "description": "Find all roots of a function in a guaranteed way with Julia",
+        "languages": {
+            "Julia": 68712
+        }
+    },
+    {
+        "name": "FunctionalCollections.jl",
+        "description": "Functional and persistent data structures for Julia",
+        "languages": {
+            "Julia": 49650
+        }
+    },
+    {
+        "name": "PDFIO.jl",
+        "description": "PDF Reader Library for Native Julia. ",
+        "languages": {
+            "Julia": 299531,
+            "HTML": 937,
+            "TeX": 541
+        }
+    },
+    {
+        "name": "GameTheory.jl",
+        "description": "Algorithms and data structures for game theory in Julia",
+        "languages": {
+            "Julia": 186440
+        }
+    },
+    {
+        "name": "Cubature.jl",
+        "description": "One- and multi-dimensional adaptive integration routines for the Julia language",
+        "languages": {
+            "Julia": 12355
+        }
+    },
+    {
+        "name": "Circuitscape.jl",
+        "description": "Algorithms from circuit theory to predict connectivity in heterogeneous landscapes",
+        "languages": {
+            "Julia": 134102
+        }
+    },
+    {
+        "name": "ControlSystemIdentification.jl",
+        "description": "System Identification toolbox, compatible with ControlSystems.jl",
+        "languages": {
+            "Julia": 245361
+        }
+    },
+    {
+        "name": "StarWarsArrays.jl",
+        "description": "Arrays indexed as the order of Star Wars movies",
+        "languages": {
+            "Julia": 7005
+        }
+    },
+    {
+        "name": "CategoricalArrays.jl",
+        "description": "Arrays for working with categorical data (both nominal and ordinal)",
+        "languages": {
+            "Julia": 376300
+        }
+    },
+    {
+        "name": "HPAT.jl",
+        "description": "High Performance Analytics Toolkit (HPAT) is a Julia-based framework for big data analytics on clusters.",
+        "languages": {
+            "Julia": 453350
+        }
+    },
+    {
+        "name": "ProximalAlgorithms.jl",
+        "description": "Proximal algorithms for nonsmooth optimization in Julia",
+        "languages": {
+            "Julia": 174807,
+            "Just": 452
+        }
+    },
+    {
+        "name": "PairPlots.jl",
+        "description": "Beautiful and flexible vizualizations of high dimensional data",
+        "languages": {
+            "Julia": 56062
+        }
+    },
+    {
+        "name": "PlotThemes.jl",
+        "description": "Themes for the Julia plotting package Plots.jl",
+        "languages": {
+            "Julia": 16915
+        }
+    },
+    {
+        "name": "Requests.jl",
+        "description": "[DEPRECATED in favor of https://github.com/JuliaWeb/HTTP.jl] HTTP for Julians",
+        "languages": {
+            "Julia": 81174
+        }
+    },
+    {
+        "name": "DataFlow.jl",
+        "description": null,
+        "languages": {
+            "Julia": 25670
+        }
+    },
+    {
+        "name": "AbstractFFTs.jl",
+        "description": "A Julia framework for implementing FFTs",
+        "languages": {
+            "Julia": 70386
+        }
+    },
+    {
+        "name": "LLVM.jl",
+        "description": "Julia wrapper for the LLVM C API",
+        "languages": {
+            "Julia": 1441268
+        }
+    },
+    {
+        "name": "ScientificComputingForTheRestOfUs",
+        "description": "Introduction to Scientific Computing  \ud83e\udd8a",
+        "languages": {
+            "Julia": 233666,
+            "TeX": 9637
+        }
+    },
+    {
+        "name": "Llama2.jl",
+        "description": "Julia package for inference and training of Llama-style language models",
+        "languages": {
+            "Julia": 76523
+        }
+    },
+    {
+        "name": "DiffEqBayes.jl",
+        "description": "Extension functionality which uses Stan.jl, DynamicHMC.jl, and Turing.jl to estimate the parameters to differential equations and perform Bayesian probabilistic scientific machine learning",
+        "languages": {
+            "Julia": 43787
+        }
+    },
+    {
+        "name": "FluxArchitectures.jl",
+        "description": "Complex neural network examples for Flux.jl",
+        "languages": {
+            "Julia": 52507
+        }
+    },
+    {
+        "name": "IndexedTables.jl",
+        "description": "Flexible tables with ordered indices",
+        "languages": {
+            "Julia": 202279
+        }
+    },
+    {
+        "name": "NamedDims.jl",
+        "description": "For working with dimensions of arrays by name",
+        "languages": {
+            "Julia": 137200
+        }
+    },
+    {
+        "name": "Taro.jl",
+        "description": "Read and write Excel, Word and PDF documents in Julia",
+        "languages": {
+            "Julia": 24913,
+            "Shell": 529
+        }
+    },
+    {
+        "name": "MessyTimeSeries.jl",
+        "description": "A Julia implementation of basic tools for time series analysis compatible with incomplete data.",
+        "languages": {
+            "Julia": 111240
+        }
+    },
+    {
+        "name": "Gnuplot.jl",
+        "description": "Julia interface to gnuplot",
+        "languages": {
+            "Julia": 95783
+        }
+    },
+    {
+        "name": "NPZ.jl",
+        "description": "A Julia package that provides support for reading and writing Numpy .npy and .npz files",
+        "languages": {
+            "Julia": 16009
+        }
+    },
+    {
+        "name": "ColPrac",
+        "description": "Contributor's Guide on Collaborative Practices for Community Packages",
+        "languages": {
+            "Julia": 19
+        }
+    },
+    {
+        "name": "AlgebraicMultigrid.jl",
+        "description": "Algebraic Multigrid in Julia",
+        "languages": {
+            "Julia": 214861
+        }
+    },
+    {
+        "name": "DiffOpt.jl",
+        "description": "Differentiating convex optimization programs w.r.t. program parameters",
+        "languages": {
+            "Julia": 195639
+        }
+    },
+    {
+        "name": "OpenStreetMapX.jl",
+        "description": "OpenStreetMap (*.osm) support for Julia 1.0 and up",
+        "languages": {
+            "Julia": 136849
+        }
+    },
+    {
+        "name": "EzXML.jl",
+        "description": "XML/HTML handling tools for primates",
+        "languages": {
+            "Julia": 123793,
+            "HTML": 307
+        }
+    },
+    {
+        "name": "JavaCall.jl",
+        "description": "Call Java from Julia",
+        "languages": {
+            "Julia": 223511,
+            "Java": 6298,
+            "Shell": 529
+        }
+    },
+    {
+        "name": "LabelledArrays.jl",
+        "description": "Arrays which also have a label for each element for easy scientific machine learning (SciML)",
+        "languages": {
+            "Julia": 35551
+        }
+    },
+    {
+        "name": "ImplicitDifferentiation.jl",
+        "description": "Automatic differentiation of implicit functions",
+        "languages": {
+            "Julia": 29672
+        }
+    },
+    {
+        "name": "RemoteREPL.jl",
+        "description": "Connect a REPL to a remote Julia process",
+        "languages": {
+            "Julia": 45617,
+            "Shell": 1518
+        }
+    },
+    {
+        "name": "Tutorials",
+        "description": "Start solving PDEs in Julia with Gridap.jl",
+        "languages": {
+            "Julia": 271549,
+            "GLSL": 8256
+        }
+    },
+    {
+        "name": "Cascadia.jl",
+        "description": "A CSS Selector library in Julia",
+        "languages": {
+            "Julia": 32808
+        }
+    },
+    {
+        "name": "InteractiveErrors.jl",
+        "description": "Interactive error messages for the Julia REPL.",
+        "languages": {
+            "Julia": 18471
+        }
+    },
+    {
+        "name": "NamedArrays.jl",
+        "description": "Julia type that implements a drop-in replacement of Array with named dimensions",
+        "languages": {
+            "Julia": 102532
+        }
+    },
+    {
+        "name": "MachineLearning.jl",
+        "description": "Julia Machine Learning library",
+        "languages": {
+            "Julia": 115057,
+            "Python": 2257,
+            "R": 1782
+        }
+    },
+    {
+        "name": "Quaternions.jl",
+        "description": "A Julia implementation of quaternions",
+        "languages": {
+            "Julia": 48899
+        }
+    },
+    {
+        "name": "NBInclude.jl",
+        "description": "import code from IJulia Jupyter notebooks into Julia programs",
+        "languages": {
+            "Julia": 9764,
+            "Jupyter Notebook": 8547
+        }
+    },
+    {
+        "name": "Preferences.jl",
+        "description": "Project Preferences Package",
+        "languages": {
+            "Julia": 41070
+        }
+    },
+    {
+        "name": "FluxTraining.jl",
+        "description": "A flexible neural net training library inspired by fast.ai",
+        "languages": {
+            "Julia": 91292
+        }
+    },
+    {
+        "name": "Kinetic.jl",
+        "description": "Universal modeling and simulation of fluid mechanics upon machine learning. From the Boltzmann equation, heading towards multiscale and multiphysics flows.",
+        "languages": {
+            "Julia": 58502,
+            "TeX": 4055,
+            "Python": 3081
+        }
+    },
+    {
+        "name": "Suppressor.jl",
+        "description": "Julia macros for suppressing and/or capturing output (STDOUT), warnings (STDERR) or both streams at the same time.",
+        "languages": {
+            "Julia": 13594
+        }
+    },
+    {
+        "name": "SciMLBase.jl",
+        "description": "The Base interface of the SciML ecosystem",
+        "languages": {
+            "Julia": 757109
+        }
+    },
+    {
+        "name": "ClimateTools.jl",
+        "description": "Climate science package for Julia",
+        "languages": {
+            "Julia": 230693
+        }
+    },
+    {
+        "name": "Gaius.jl",
+        "description": "Divide and Conquer Linear Algebra",
+        "languages": {
+            "Julia": 64521
+        }
+    },
+    {
+        "name": "Eirene.jl",
+        "description": "Julia library for homological persistence",
+        "languages": {
+            "Julia": 257192
+        }
+    },
+    {
+        "name": "ParallelDataTransfer.jl",
+        "description": "A bunch of helper functions for transferring data between worker processes",
+        "languages": {
+            "Julia": 4839
+        }
+    },
+    {
+        "name": "SymbolicNumericIntegration.jl",
+        "description": "SymbolicNumericIntegration.jl: Symbolic-Numerics for Solving Integrals",
+        "languages": {
+            "Julia": 75937
+        }
+    },
+    {
+        "name": "RollingFunctions.jl",
+        "description": "Roll a window over data; apply a function over the window.",
+        "languages": {
+            "Julia": 139039
+        }
+    },
+    {
+        "name": "FunctionalModels.jl",
+        "description": "Equation-based modeling and simulations in Julia",
+        "languages": {
+            "Julia": 115118
+        }
+    },
+    {
+        "name": "NetworkDynamics.jl",
+        "description": "Julia package for simulating Dynamics on Networks",
+        "languages": {
+            "Julia": 106589
+        }
+    },
+    {
+        "name": "SumOfSquares.jl",
+        "description": "Sum of Squares Programming for Julia",
+        "languages": {
+            "Julia": 354952
+        }
+    },
+    {
+        "name": "InteractiveCodeSearch.jl",
+        "description": "Interactively search Julia code from terminal",
+        "languages": {
+            "Julia": 43532
+        }
+    },
+    {
+        "name": "YAML.jl",
+        "description": "Parse yer YAMLs",
+        "languages": {
+            "Julia": 115332
+        }
+    },
+    {
+        "name": "MIPVerify.jl",
+        "description": "Evaluating Robustness of Neural Networks with Mixed Integer Programming",
+        "languages": {
+            "Julia": 167893,
+            "Shell": 345
+        }
+    },
+    {
+        "name": "Diana.jl",
+        "description": "GraphQL  for Julia",
+        "languages": {
+            "Julia": 117161
+        }
+    },
+    {
+        "name": "NetCDF.jl",
+        "description": "NetCDF support for the julia programming language",
+        "languages": {
+            "Julia": 160705
+        }
+    },
+    {
+        "name": "MultilayerGraphs.jl",
+        "description": "A Julia package for the creation, manipulation and analysis of the structure, dynamics and functions of multilayer graphs.",
+        "languages": {
+            "Julia": 445001
+        }
+    },
+    {
+        "name": "PolyChaos.jl",
+        "description": "A Julia package to construct orthogonal polynomials, their quadrature rules, and use it with polynomial chaos expansions.",
+        "languages": {
+            "Julia": 134192,
+            "MATLAB": 10122
+        }
+    },
+    {
+        "name": "TSML.jl",
+        "description": "A package for time series data processing, classification, clustering, and prediction.",
+        "languages": {
+            "Julia": 132965
+        }
+    },
+    {
+        "name": "ImageInTerminal.jl",
+        "description": "Julia package for displaying images in the terminal using ANSI colors and Unicode characters",
+        "languages": {
+            "Julia": 13853
+        }
+    },
+    {
+        "name": "TaylorIntegration.jl",
+        "description": "ODE integration using Taylor's method, and more, in Julia",
+        "languages": {
+            "Julia": 302828
+        }
+    },
+    {
+        "name": "Charlotte.jl",
+        "description": "Charlotte's Web Scale",
+        "languages": {
+            "Julia": 15133
+        }
+    },
+    {
+        "name": "SIAMFANLEquations.jl",
+        "description": "This is a Julia package of nonlinear solvers. These codes are used in my book, Solving Nonlinear Equations with Iterative Methods: Solvers and Examples in Julia.",
+        "languages": {
+            "Julia": 251348
+        }
+    },
+    {
+        "name": "Devectorize.jl",
+        "description": "A Julia framework for delayed expression evaluation",
+        "languages": {
+            "Julia": 112207
+        }
+    },
+    {
+        "name": "PortAudio.jl",
+        "description": "PortAudio wrapper for the Julia programming language, compatible with the JuliaAudio family of packages",
+        "languages": {
+            "Julia": 58845
+        }
+    },
+    {
+        "name": "EconPDEs.jl",
+        "description": "Solve non-linear HJB equations.",
+        "languages": {
+            "Julia": 20700
+        }
+    },
+    {
+        "name": "RecipesBase.jl",
+        "description": "Base package for defining transformation recipes on user types for Plots.jl",
+        "languages": {
+            "Julia": 23852
+        }
+    },
+    {
+        "name": "LineSearches.jl",
+        "description": "Line search methods for optimization and root-finding",
+        "languages": {
+            "Julia": 78014
+        }
+    },
+    {
+        "name": "TerminalPager.jl",
+        "description": "Pure Julia implementation of the command less",
+        "languages": {
+            "Julia": 117550
+        }
+    },
+    {
+        "name": "Parsers.jl",
+        "description": "fast parsing machinery for basic types in Julia",
+        "languages": {
+            "Julia": 263721
+        }
+    },
+    {
+        "name": "ShallowWaters.jl",
+        "description": "A type-flexible shallow water model that can run with 16-bit arithmetic.",
+        "languages": {
+            "Julia": 159440
+        }
+    },
+    {
+        "name": "Functors.jl",
+        "description": "Parameterise all the things",
+        "languages": {
+            "Julia": 54212
+        }
+    },
+    {
+        "name": "DynamicQuantities.jl",
+        "description": "Efficient and type-stable physical quantities in Julia",
+        "languages": {
+            "Julia": 210612
+        }
+    },
+    {
+        "name": "JAC.jl",
+        "description": "Jena Atomic Calculator",
+        "languages": {
+            "Julia": 5527758,
+            "Jupyter Notebook": 3515607,
+            "HTML": 79802,
+            "TeX": 2576,
+            "Shell": 1053
+        }
+    },
+    {
+        "name": "PerceptualColourMaps.jl",
+        "description": "Perceptually Uniform Colour Maps for Julia",
+        "languages": {
+            "Julia": 176378
+        }
+    },
+    {
+        "name": "PETSc.jl",
+        "description": "Julia wrappers for the PETSc library",
+        "languages": {
+            "Julia": 205257
+        }
+    },
+    {
+        "name": "RecurrentNN.jl",
+        "description": "Deep RNN, LSTM, GRU, GF-RNN, and GF-LSTMs in Julia",
+        "languages": {
+            "Julia": 45901
+        }
+    },
+    {
+        "name": "Fatou.jl",
+        "description": "Fatou sets in Julia (Fractals, Newton basins, Mandelbrot)",
+        "languages": {
+            "Julia": 26866
+        }
+    },
+    {
+        "name": "Finch.jl",
+        "description": "Sparse tensors in Julia and more! Datastructure-driven array programing language.",
+        "languages": {
+            "Julia": 1651037
+        }
+    },
+    {
+        "name": "RegionTrees.jl",
+        "description": "Quadtrees, Octrees, and more in Julia",
+        "languages": {
+            "Julia": 13156
+        }
+    },
+    {
+        "name": "book-dp1-public-companion",
+        "description": "Dynamic Programming Volume 1",
+        "languages": {
+            "Julia": 125850,
+            "Python": 123078,
+            "TeX": 7715,
+            "Jupyter Notebook": 5283
+        }
+    },
+    {
+        "name": "data_science_in_julia_for_hackers",
+        "description": "Data Science in Julia With Hackers",
+        "languages": {
+            "Julia": 387791,
+            "TeX": 2935,
+            "CSS": 172
+        }
+    },
+    {
+        "name": "Causal.jl",
+        "description": "Causal.jl - A modeling and simulation framework adopting causal modeling approach.",
+        "languages": {
+            "Julia": 291223,
+            "Jupyter Notebook": 117421
+        }
+    },
+    {
+        "name": "MatrixNetworks.jl",
+        "description": "Graph and Network algorithms in Julia",
+        "languages": {
+            "Julia": 224883
+        }
+    },
+    {
+        "name": "ProbNumDiffEq.jl",
+        "description": "Probabilistic Numerical Differential Equation solvers via Bayesian filtering and smoothing",
+        "languages": {
+            "Julia": 283249,
+            "Just": 455
+        }
+    },
+    {
+        "name": "CondaPkg.jl",
+        "description": "Add Conda dependencies to your Julia project",
+        "languages": {
+            "Julia": 64761
+        }
+    },
+    {
+        "name": "PianoFingering.jl",
+        "description": "(Experimental, a lot of bugs) Advanced automatic fingering generator for piano scores, determining optimal fingering using Model-Based Reinforcement Learning, written in the Julia language.",
+        "languages": {
+            "Julia": 62786
+        }
+    },
+    {
+        "name": "Geodesy.jl",
+        "description": "Work with points defined in various coordinate systems.",
+        "languages": {
+            "Julia": 105931
+        }
+    },
+    {
+        "name": "Feather.jl",
+        "description": "Read and write feather files in pure Julia",
+        "languages": {
+            "Julia": 97934,
+            "Python": 2815
+        }
+    },
+    {
+        "name": "LowLevelParticleFilters.jl",
+        "description": "State estimation, smoothing and parameter estimation using Kalman and particle filters.",
+        "languages": {
+            "Julia": 108493
+        }
+    },
+    {
+        "name": "julia-logo-graphics",
+        "description": "official versions of the Julia logo",
+        "languages": {
+            "Julia": 5306
+        }
+    },
+    {
+        "name": "Julia100Exercises",
+        "description": "A set of introductory exercises for Julia. Based on [100 NumPy Exercises](https://github.com/rougier/numpy-100).",
+        "languages": {
+            "Julia": 34095
+        }
+    },
+    {
+        "name": "PreallocationTools.jl",
+        "description": "Tools for building non-allocating pre-cached functions in Julia, allowing for GC-free usage of automatic differentiation in complex codes",
+        "languages": {
+            "Julia": 31221
+        }
+    },
+    {
+        "name": "Zarr.jl",
+        "description": null,
+        "languages": {
+            "Julia": 88938
+        }
+    },
+    {
+        "name": "TemporalGPs.jl",
+        "description": "Fast inference for Gaussian processes in problems involving time. Partly built on results from https://proceedings.mlr.press/v161/tebbutt21a.html",
+        "languages": {
+            "Julia": 258298
+        }
+    },
+    {
+        "name": "PeriodicTable.jl",
+        "description": "Periodic Table for Julians! :fire:",
+        "languages": {
+            "Julia": 138302
+        }
+    },
+    {
+        "name": "Nonconvex.jl",
+        "description": "Toolbox for gradient-based and derivative-free non-convex constrained optimization with continuous and/or discrete variables. ",
+        "languages": {
+            "Julia": 4095
+        }
+    },
+    {
+        "name": "Parquet.jl",
+        "description": "Julia implementation of Parquet columnar file format reader",
+        "languages": {
+            "Julia": 204433
+        }
+    },
+    {
+        "name": "BangBang.jl",
+        "description": "Immutables as mutables, mutables as immutables.",
+        "languages": {
+            "Julia": 103948
+        }
+    },
+    {
+        "name": "PWDFT.jl",
+        "description": "Plane wave density functional theory using Julia programming language",
+        "languages": {
+            "Julia": 731685
+        }
+    },
+    {
+        "name": "IRTools.jl",
+        "description": "Mike's Little Intermediate Representation",
+        "languages": {
+            "Julia": 90482
+        }
+    },
+    {
+        "name": "Bootstrap.jl",
+        "description": "Statistical bootstrapping library for Julia",
+        "languages": {
+            "Julia": 37869
+        }
+    },
+    {
+        "name": "DocStringExtensions.jl",
+        "description": "Extensions for Julia's docsystem.",
+        "languages": {
+            "Julia": 74821
+        }
+    },
+    {
+        "name": "InferOpt.jl",
+        "description": "Combinatorial optimization layers for machine learning pipelines",
+        "languages": {
+            "Julia": 131033
+        }
+    },
+    {
+        "name": "FastDifferentiation.jl",
+        "description": "Fast derivative evaluation",
+        "languages": {
+            "Julia": 245180
+        }
+    },
+    {
+        "name": "OpenCV.jl",
+        "description": "The OpenCV (C++) interface for Julia",
+        "languages": {
+            "Julia": 262167
+        }
+    },
+    {
+        "name": "Symbolics.jl",
+        "description": "A symbolic math library written in Julia modelled off scmutils",
+        "languages": {
+            "Julia": 51557
+        }
+    },
+    {
+        "name": "ODE.jl",
+        "description": "Assorted basic Ordinary Differential Equation solvers for scientific machine learning (SciML). Deprecated: Use DifferentialEquations.jl instead.",
+        "languages": {
+            "Julia": 45216
+        }
+    },
+    {
+        "name": "Vulkan.jl",
+        "description": "Using Vulkan from Julia",
+        "languages": {
+            "Julia": 18986055
+        }
+    },
+    {
+        "name": "Avalon.jl",
+        "description": "Starter kit for legendary models",
+        "languages": {
+            "Julia": 98202,
+            "Python": 12111
+        }
+    },
+    {
+        "name": "aoc-2020",
+        "description": "Advent of Code 2020 in 25 Different Languages",
+        "languages": {
+            "Julia": 8107,
+            "Ada": 5950,
+            "Kotlin": 4670,
+            "Groovy": 4351,
+            "D": 4119,
+            "Lua": 3436,
+            "PHP": 3227,
+            "Makefile": 3099,
+            "Racket": 3066,
+            "Haskell": 2871,
+            "Go": 2862,
+            "Perl": 2851,
+            "Dart": 2662,
+            "Ruby": 2624,
+            "Scala": 2561,
+            "C#": 2549,
+            "C++": 2483,
+            "Nim": 2266,
+            "OCaml": 2187,
+            "Pascal": 2138,
+            "Assembly": 2050,
+            "Rust": 2046,
+            "JavaScript": 1983,
+            "Java": 1633,
+            "C": 1557,
+            "Python": 1218
+        }
+    },
+    {
+        "name": "ReTest.jl",
+        "description": "Testing framework for Julia",
+        "languages": {
+            "Julia": 218676
+        }
+    },
+    {
+        "name": "LowRankApprox.jl",
+        "description": "Fast low-rank matrix approximation in Julia",
+        "languages": {
+            "Julia": 155671
+        }
+    },
+    {
+        "name": "LeetCode.jl",
+        "description": "A community driven project to provide solutions for LeetCode problems in the Julia programming language.",
+        "languages": {
+            "Julia": 2527613,
+            "Shell": 205
+        }
+    },
+    {
+        "name": "WordCloud.jl",
+        "description": "word cloud generator in julia",
+        "languages": {
+            "Julia": 127602,
+            "Jupyter Notebook": 2468
+        }
+    },
+    {
+        "name": "course-101-0250-00",
+        "description": "ETH course - Solving PDEs in parallel on GPUs",
+        "languages": {
+            "Julia": 898262,
+            "Jupyter Notebook": 523633,
+            "JavaScript": 57849,
+            "CSS": 17767,
+            "HTML": 6446,
+            "Shell": 1350
+        }
+    },
+    {
+        "name": "MySQL.jl",
+        "description": "Access MySQL from Julia",
+        "languages": {
+            "Julia": 224383
+        }
+    },
+    {
+        "name": "DataSets.jl",
+        "description": null,
+        "languages": {
+            "Julia": 101623
+        }
+    },
+    {
+        "name": "Reel.jl",
+        "description": "computations caught on camera",
+        "languages": {
+            "Julia": 5960
+        }
+    },
+    {
+        "name": "DynamicalBilliards.jl",
+        "description": "An easy-to-use, modular, extendable and absurdly fast Julia package for dynamical billiards in two dimensions.",
+        "languages": {
+            "Julia": 166231,
+            "TeX": 4970
+        }
+    },
+    {
+        "name": "ODBC.jl",
+        "description": "An ODBC interface for the Julia programming language",
+        "languages": {
+            "Julia": 104670
+        }
+    },
+    {
+        "name": "QuantumLattices.jl",
+        "description": "Julia package for the construction of quantum lattice systems.",
+        "languages": {
+            "Julia": 549287
+        }
+    },
+    {
+        "name": "OpenAIGym.jl",
+        "description": "OpenAI's Gym binding for Julia",
+        "languages": {
+            "Julia": 10962
+        }
+    },
+    {
+        "name": "Nerf.jl",
+        "description": null,
+        "languages": {
+            "Julia": 1205689
+        }
+    },
+    {
+        "name": "NLOptControl.jl",
+        "description": "nonlinear control optimization tool",
+        "languages": {
+            "Julia": 148122
+        }
+    },
+    {
+        "name": "CSTParser.jl",
+        "description": "A concrete syntax tree parser for Julia",
+        "languages": {
+            "Julia": 312363
+        }
+    },
+    {
+        "name": "InteractiveViz.jl",
+        "description": "Interactive visualization tools for Julia",
+        "languages": {
+            "Julia": 17232
+        }
+    },
+    {
+        "name": "PDMats.jl",
+        "description": "Uniform Interface for positive definite matrices of various structures",
+        "languages": {
+            "Julia": 77069
+        }
+    },
+    {
+        "name": "Fantasy-Hockey-IP-Code",
+        "description": null,
+        "languages": {
+            "Julia": 33729
+        }
+    },
+    {
+        "name": "ProgressBars.jl",
+        "description": "A Julia clone of https://pypi.python.org/pypi/tqdm",
+        "languages": {
+            "Julia": 14852
+        }
+    },
+    {
+        "name": "MakiePublication.jl",
+        "description": "A Julia package for producing publication quality figures based on Makie.jl.",
+        "languages": {
+            "Julia": 143227
+        }
+    },
+    {
+        "name": "GLPK.jl",
+        "description": "GLPK wrapper module for Julia",
+        "languages": {
+            "Julia": 208715,
+            "AMPL": 3930,
+            "JetBrains MPS": 2262
+        }
+    },
+    {
+        "name": "PhysicalConstants.jl",
+        "description": "Collection of fundamental physical constants with uncertainties.  It supports arbitrary-precision constants",
+        "languages": {
+            "Julia": 28973
+        }
+    },
+    {
+        "name": "ProbabilisticCircuits.jl",
+        "description": "Probabilistic Circuits from the Juice library",
+        "languages": {
+            "Julia": 189610
+        }
+    },
+    {
+        "name": "ParserCombinator.jl",
+        "description": "A parser combinator library for Julia",
+        "languages": {
+            "Julia": 109363
+        }
+    },
+    {
+        "name": "AutoPreallocation.jl",
+        "description": "What if your code allocated less? Remember what memory we needed last time and use it again every time after",
+        "languages": {
+            "Julia": 15490
+        }
+    },
+    {
+        "name": "TimeseriesPrediction.jl",
+        "description": "Prediction of timeseries using methods of nonlinear dynamics and timeseries analysis",
+        "languages": {
+            "Julia": 85718
+        }
+    },
+    {
+        "name": "Chess.jl",
+        "description": "Julia chess programming library.",
+        "languages": {
+            "Julia": 325898
+        }
+    },
+    {
+        "name": "MLDataUtils.jl",
+        "description": " Utility package for generating, loading, splitting, and processing Machine Learning datasets",
+        "languages": {
+            "Julia": 28600
+        }
+    },
+    {
+        "name": "MPSKit.jl",
+        "description": "Contains code for tackling 1 dimensional (quantum) problems using tensor network algorithms.",
+        "languages": {
+            "Julia": 587067
+        }
+    },
+    {
+        "name": "TableTransforms.jl",
+        "description": "Transforms and pipelines with tabular data in Julia",
+        "languages": {
+            "Julia": 228750
+        }
+    },
+    {
+        "name": "Nemo.jl",
+        "description": "My personal fork of the Nemo project. The official repository is at https://github.com/Nemocas/Nemo.jl",
+        "languages": {
+            "Julia": 2712160
+        }
+    },
+    {
+        "name": "Actors.jl",
+        "description": "Concurrent computing in Julia based on the Actor Model",
+        "languages": {
+            "Julia": 106365
+        }
+    },
+    {
+        "name": "VimBindings.jl",
+        "description": "Vim bindings for the Julia REPL",
+        "languages": {
+            "Julia": 120199
+        }
+    },
+    {
+        "name": "Flux3D.jl",
+        "description": "3D computer vision library in Julia",
+        "languages": {
+            "Julia": 192759,
+            "Python": 13158
+        }
+    },
+    {
+        "name": "TableView.jl",
+        "description": "A Tables.jl compatible table viewer based on ag-grid",
+        "languages": {
+            "Julia": 13351,
+            "JavaScript": 262
+        }
+    },
+    {
+        "name": "PartitionedArrays.jl",
+        "description": "Large-scale, distributed, sparse linear algebra in Julia.",
+        "languages": {
+            "Julia": 328771
+        }
+    },
+    {
+        "name": "BilevelJuMP.jl",
+        "description": "Bilevel optimization in JuMP",
+        "languages": {
+            "Julia": 335767,
+            "JetBrains MPS": 700,
+            "TeX": 117
+        }
+    },
+    {
+        "name": "Whippet.jl",
+        "description": "Lightweight and Fast; RNA-seq quantification at the event-level",
+        "languages": {
+            "Julia": 220991
+        }
+    },
+    {
+        "name": "CounterfactualExplanations.jl",
+        "description": "A package for Counterfactual Explanations and Algorithmic Recourse in Julia.",
+        "languages": {
+            "Julia": 238892,
+            "JavaScript": 24192,
+            "Python": 318
+        }
+    },
+    {
+        "name": "SuiteSparseGraphBLAS.jl",
+        "description": "Sparse, General Linear Algebra for Graphs!",
+        "languages": {
+            "Julia": 1187099,
+            "Shell": 204,
+            "Dockerfile": 137
+        }
+    },
+    {
+        "name": "MIRT.jl",
+        "description": "MIRT: Michigan Image Reconstruction Toolbox (Julia version)",
+        "languages": {
+            "Julia": 218310
+        }
+    },
+    {
+        "name": "Tokenize.jl",
+        "description": "Tokenization for Julia source code",
+        "languages": {
+            "Julia": 143495
+        }
+    },
+    {
+        "name": "Temporal.jl",
+        "description": "Time series implementation for the Julia language focused on efficiency and flexibility",
+        "languages": {
+            "Julia": 102371
+        }
+    },
+    {
+        "name": "ArviZ.jl",
+        "description": "Exploratory analysis of Bayesian models with Julia",
+        "languages": {
+            "Julia": 41210
+        }
+    },
+    {
+        "name": "OhMyThreads.jl",
+        "description": "Simple multithreading in julia",
+        "languages": {
+            "Julia": 86690
+        }
+    },
+    {
+        "name": "ModelingToolkitStandardLibrary.jl",
+        "description": "A standard library of components to model the world and beyond",
+        "languages": {
+            "Julia": 361200
+        }
+    },
+    {
+        "name": "ExplainableAI.jl",
+        "description": "Explainable AI in Julia.",
+        "languages": {
+            "Julia": 20462
+        }
+    },
+    {
+        "name": "UnitCommitment.jl",
+        "description": "Optimization package for the Security-Constrained Unit Commitment Problem",
+        "languages": {
+            "Julia": 294138,
+            "Python": 10048,
+            "Makefile": 365
+        }
+    },
+    {
+        "name": "MLUtils.jl",
+        "description": "Utilities and abstractions for Machine Learning tasks",
+        "languages": {
+            "Julia": 144196
+        }
+    },
+    {
+        "name": "GSL.jl",
+        "description": "Julia interface to the GNU Scientific Library (GSL)",
+        "languages": {
+            "Julia": 2510741
+        }
+    },
+    {
+        "name": "Wflow.jl",
+        "description": "Hydrological modeling",
+        "languages": {
+            "Julia": 651054,
+            "Rich Text Format": 127596,
+            "XSLT": 1220,
+            "Dockerfile": 382,
+            "Shell": 126,
+            "Batchfile": 52
+        }
+    },
+    {
+        "name": "TerminalMenus.jl",
+        "description": "Simple interactive menus for the terminal (Now ships with Julia!)",
+        "languages": {
+            "Julia": 24253
+        }
+    },
+    {
+        "name": "FunctionWrappers.jl",
+        "description": null,
+        "languages": {
+            "Julia": 6785
+        }
+    },
+    {
+        "name": "GridapDistributed.jl",
+        "description": "Parallel distributed-memory version of Gridap",
+        "languages": {
+            "Julia": 232080,
+            "Shell": 336
+        }
+    },
+    {
+        "name": "QuasiMonteCarlo.jl",
+        "description": "Lightweight and easy generation of quasi-Monte Carlo sequences with a ton of different methods on one API for easy parameter exploration in scientific machine learning (SciML)",
+        "languages": {
+            "Julia": 159728
+        }
+    },
+    {
+        "name": "GFlops.jl",
+        "description": "Estimate the absolute performance of a piece of Julia code",
+        "languages": {
+            "Julia": 13843,
+            "Shell": 185
+        }
+    },
+    {
+        "name": "Observables.jl",
+        "description": "observable refs",
+        "languages": {
+            "Julia": 38032
+        }
+    },
+    {
+        "name": "PowerDynamics.jl",
+        "description": "Package for dynamical modeling of power grids",
+        "languages": {
+            "Julia": 271074,
+            "Makefile": 714
+        }
+    },
+    {
+        "name": "StructuralIdentifiability.jl",
+        "description": "Fast and automatic structural identifiability software for ODE systems",
+        "languages": {
+            "Julia": 670035,
+            "JetBrains MPS": 36918,
+            "MATLAB": 7737,
+            "Objective-C": 4095,
+            "Mathematica": 481
+        }
+    },
+    {
+        "name": "ImageFiltering.jl",
+        "description": "Julia implementations of multidimensional array convolution and nonlinear stencil operations",
+        "languages": {
+            "Julia": 252964
+        }
+    },
+    {
+        "name": "Redis.jl",
+        "description": "A fully-featured Redis client for the Julia programming language",
+        "languages": {
+            "Julia": 61602,
+            "Shell": 1092
+        }
+    },
+    {
+        "name": "RandomNumbers.jl",
+        "description": "Random Number Generators for the Julia Language.",
+        "languages": {
+            "Julia": 77558
+        }
+    },
+    {
+        "name": "WordTokenizers.jl",
+        "description": "High performance tokenizers for natural language processing and other related tasks",
+        "languages": {
+            "Julia": 112121,
+            "sed": 4662,
+            "TeX": 3255
+        }
+    },
+    {
+        "name": "QuantumClifford.jl",
+        "description": "Clifford circuits, graph states, and other quantum Stabilizer formalism tools.",
+        "languages": {
+            "Julia": 225735
+        }
+    },
+    {
+        "name": "Algames.jl",
+        "description": "ALGAMES: Game Theoretic Solver for Trajectory Optimization",
+        "languages": {
+            "Julia": 207571
+        }
+    },
+    {
+        "name": "RuntimeGeneratedFunctions.jl",
+        "description": "Functions generated at runtime without world-age issues or overhead",
+        "languages": {
+            "Julia": 19738
+        }
+    },
+    {
+        "name": "GLMNet.jl",
+        "description": "Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet",
+        "languages": {
+            "Julia": 89518
+        }
+    },
+    {
+        "name": "SR2TuringPluto.jl",
+        "description": "StatisticalRethinking notebook project using Turing and Pluto notebooks (derived from Max Lapan's Jupyter project)",
+        "languages": {
+            "Julia": 462739
+        }
+    },
+    {
+        "name": "EcneProject",
+        "description": "Ecne: An engine for verifying the soundness of R1CS constraints",
+        "languages": {
+            "Julia": 108607,
+            "Python": 2353,
+            "Shell": 694
+        }
+    },
+    {
+        "name": "IntervalSets.jl",
+        "description": "Interval Sets for Julia",
+        "languages": {
+            "Julia": 77678
+        }
+    },
+    {
+        "name": "ReplGPT.jl",
+        "description": "A ChatGPT mode for the Julia REPL",
+        "languages": {
+            "Julia": 7973
+        }
+    },
+    {
+        "name": "Loess.jl",
+        "description": "Local regression, so smooooth!",
+        "languages": {
+            "Julia": 21763
+        }
+    },
+    {
+        "name": "ZigZagBoomerang.jl",
+        "description": "Sleek implementations of the ZigZag, Boomerang and other assorted piecewise deterministic Markov processes for Markov Chain Monte Carlo including Sticky PDMPs for variable selection",
+        "languages": {
+            "Julia": 414539
+        }
+    },
+    {
+        "name": "NetworkLayout.jl",
+        "description": "Layout algorithms for graphs and trees in pure Julia.",
+        "languages": {
+            "Julia": 54533
+        }
+    },
+    {
+        "name": "HiGHS.jl",
+        "description": "Julia wrapper for the HiGHS solver",
+        "languages": {
+            "Julia": 223265
+        }
+    },
+    {
+        "name": "ViscousFlow.jl",
+        "description": "A framework for simulating viscous incompressible flows about arbitrary body shapes.  ",
+        "languages": {
+            "Julia": 86961
+        }
+    },
+    {
+        "name": "TensorBoardLogger.jl",
+        "description": "Easy peasy logging to TensorBoard with Julia",
+        "languages": {
+            "Julia": 572980,
+            "Shell": 1512
+        }
+    },
+    {
+        "name": "MetaGraphs.jl",
+        "description": "I never metagraph I didn't like.",
+        "languages": {
+            "Julia": 51287
+        }
+    },
+    {
+        "name": "Hyperscript.jl",
+        "description": "Hyperscript: A lightweight DOM representation for Julia",
+        "languages": {
+            "Julia": 31505
+        }
+    },
+    {
+        "name": "GaussianMixtures.jl",
+        "description": "Large scale Gaussian Mixture Models",
+        "languages": {
+            "Julia": 74095
+        }
+    },
+    {
+        "name": "Pardiso.jl",
+        "description": "Calling the PARDISO library from Julia",
+        "languages": {
+            "Julia": 38976
+        }
+    },
+    {
+        "name": "SFML.jl",
+        "description": "A binding of the game and multimedia library SFML for Julia",
+        "languages": {
+            "Julia": 113806,
+            "C": 2338,
+            "Shell": 512
+        }
+    },
+    {
+        "name": "JWAS.jl",
+        "description": "Julia for Whole-genome Analysis Software",
+        "languages": {
+            "Julia": 385650
+        }
+    },
+    {
+        "name": "ArnoldiMethod.jl",
+        "description": "The Arnoldi Method with Krylov-Schur restart, natively in Julia.",
+        "languages": {
+            "Julia": 107251
+        }
+    },
+    {
+        "name": "JUDI.jl",
+        "description": "Julia Devito inversion.",
+        "languages": {
+            "Julia": 398283,
+            "Python": 119899,
+            "Shell": 1040,
+            "Batchfile": 795,
+            "Makefile": 634
+        }
+    },
+    {
+        "name": "DynamicAxisWarping.jl",
+        "description": "Dynamic Time Warping (DTW) and related algorithms in Julia, at Julia speeds",
+        "languages": {
+            "Julia": 107421
+        }
+    },
+    {
+        "name": "FEniCS.jl",
+        "description": "A scientific machine learning (SciML) wrapper for the FEniCS Finite Element library in the Julia programming language",
+        "languages": {
+            "Julia": 53968,
+            "Dockerfile": 786
+        }
+    },
+    {
+        "name": "MagNav.jl",
+        "description": "MagNav: airborne Magnetic anomaly Navigation",
+        "languages": {
+            "Julia": 951418,
+            "Dockerfile": 1092
+        }
+    },
+    {
+        "name": "TableReader.jl",
+        "description": "A fast and simple CSV parser",
+        "languages": {
+            "Julia": 106032,
+            "Makefile": 259
+        }
+    },
+    {
+        "name": "ScientificTypes.jl",
+        "description": "An API for dispatching on the \"scientific\" type of data instead of the machine type",
+        "languages": {
+            "Julia": 81371
+        }
+    },
+    {
+        "name": "SimpleContainerGenerator.jl",
+        "description": "Create container images for using Julia packages (especially useful in environments without Internet access)",
+        "languages": {
+            "Julia": 45463
+        }
+    },
+    {
+        "name": "Plotly.jl",
+        "description": "A Julia interface to the plot.ly plotting library and cloud services",
+        "languages": {
+            "Julia": 36967
+        }
+    },
+    {
+        "name": "Land",
+        "description": "Everything within the Land model (Soil Plant Atmosphere Module, Land Hydrology, etc)",
+        "languages": {
+            "Julia": 880083,
+            "Jupyter Notebook": 228273
+        }
+    },
+    {
+        "name": "MathTeXEngine.jl",
+        "description": "A latex math mode engine in pure Julia.",
+        "languages": {
+            "Julia": 80855
+        }
+    },
+    {
+        "name": "ArgCheck.jl",
+        "description": "Package for checking function arguments",
+        "languages": {
+            "Julia": 19490
+        }
+    },
+    {
+        "name": "Remark.jl",
+        "description": "Create markdown presentations from Julia",
+        "languages": {
+            "Julia": 9128,
+            "HTML": 3805,
+            "CSS": 1448
+        }
+    },
+    {
+        "name": "NonlinearEigenproblems.jl",
+        "description": "Nonlinear eigenvalue problems in Julia: Iterative methods and benchmarks",
+        "languages": {
+            "Julia": 727989,
+            "Shell": 1087
+        }
+    },
+    {
+        "name": "Braket.jl",
+        "description": "Experimental Julia implementation of the Amazon Braket SDK",
+        "languages": {
+            "Julia": 808688,
+            "Python": 3514
+        }
+    },
+    {
+        "name": "MethodAnalysis.jl",
+        "description": "Utilities to analyze Julia's method tables",
+        "languages": {
+            "Julia": 49915
+        }
+    },
+    {
+        "name": "SumTypes.jl",
+        "description": "An implementation of Sum types in Julia",
+        "languages": {
+            "Julia": 32104
+        }
+    },
+    {
+        "name": "JuliaBLAS.jl",
+        "description": null,
+        "languages": {
+            "Julia": 13185
+        }
+    },
+    {
+        "name": "MusicAlbums.jl",
+        "description": null,
+        "languages": {
+            "Julia": 21229,
+            "Dockerfile": 329
+        }
+    },
+    {
+        "name": "ExponentialUtilities.jl",
+        "description": "Fast and differentiable implementations of matrix exponentials, Krylov exponential matrix-vector multiplications (\"expmv\"), KIOPS, ExpoKit functions, and more. All your exponential needs in SciML form.",
+        "languages": {
+            "Julia": 145021
+        }
+    },
+    {
+        "name": "OptimalTransport.jl",
+        "description": "Optimal transport algorithms for Julia",
+        "languages": {
+            "Julia": 112515
+        }
+    },
+    {
+        "name": "TerminalUserInterfaces.jl",
+        "description": " Terminal User Interfaces in Julia.",
+        "languages": {
+            "Julia": 60565
+        }
+    },
+    {
+        "name": "HMMBase.jl",
+        "description": "Hidden Markov Models for Julia.",
+        "languages": {
+            "Julia": 44616
+        }
+    },
+    {
+        "name": "AppleAccelerate.jl",
+        "description": "Julia interface to the macOS Accelerate framework",
+        "languages": {
+            "Julia": 34949
+        }
+    },
+    {
+        "name": "ToyFHE.jl",
+        "description": "Toy implementation of FHE algorithms",
+        "languages": {
+            "Julia": 92234
+        }
+    },
+    {
+        "name": "Dualization.jl",
+        "description": "Automatic dualization feature for MathOptInterface.jl",
+        "languages": {
+            "Julia": 252282
+        }
+    },
+    {
+        "name": "ManifoldLearning.jl",
+        "description": "A Julia package for manifold learning and nonlinear dimensionality reduction",
+        "languages": {
+            "Julia": 52377
+        }
+    },
+    {
+        "name": "BetaML.jl",
+        "description": "Beta Machine Learning Toolkit",
+        "languages": {
+            "Julia": 740655
+        }
+    },
+    {
+        "name": "ResultTypes.jl",
+        "description": "A Result type for Julia\u2014it's like Nullables for Exceptions",
+        "languages": {
+            "Julia": 13093
+        }
+    },
+    {
+        "name": "TextUserInterfaces.jl",
+        "description": "Text user interfaces for Julia",
+        "languages": {
+            "Julia": 281091
+        }
+    },
+    {
+        "name": "Telegram.jl",
+        "description": "Native Julia Telegram bot api wrapper",
+        "languages": {
+            "Julia": 142622
+        }
+    },
+    {
+        "name": "BasicBSpline.jl",
+        "description": "Basic (mathematical) operations for B-spline functions and related things with julia",
+        "languages": {
+            "Julia": 237913
+        }
+    },
+    {
+        "name": "KomaMRI.jl",
+        "description": "Koma is a Pulseq-compatible framework to efficiently simulate Magnetic Resonance Imaging (MRI) acquisitions. The main focus of this package is to simulate general scenarios that could arise in pulse sequence development.",
+        "languages": {
+            "Julia": 293297,
+            "HTML": 15456,
+            "CSS": 7132,
+            "JavaScript": 248
+        }
+    },
+    {
+        "name": "AutoSysimages.jl",
+        "description": "Automate user-specific system images for Julia",
+        "languages": {
+            "Julia": 29992
+        }
+    },
+    {
+        "name": "ReactiveMP.jl",
+        "description": "High-performance reactive message-passing based Bayesian inference engine",
+        "languages": {
+            "Julia": 1211464,
+            "Makefile": 1233
+        }
+    },
+    {
+        "name": "QuantumInformation.jl",
+        "description": "A Julia package for numerical computation in quantum information theory",
+        "languages": {
+            "Julia": 94981
+        }
+    },
+    {
+        "name": "Primes.jl",
+        "description": "Prime numbers in Julia",
+        "languages": {
+            "Julia": 54398
+        }
+    },
+    {
+        "name": "DocOpt.jl",
+        "description": "command line arguments parser",
+        "languages": {
+            "Julia": 48935
+        }
+    },
+    {
+        "name": "NMF.jl",
+        "description": "A Julia package for non-negative matrix factorization",
+        "languages": {
+            "Julia": 56411
+        }
+    },
+    {
+        "name": "JLSO.jl",
+        "description": "Julia Serialized Object (JLSO) file format for storing checkpoint data.",
+        "languages": {
+            "Julia": 40297,
+            "TeX": 251
+        }
+    },
+    {
+        "name": "PlotlyLight.jl",
+        "description": "Plotly.js via Julia made easy.",
+        "languages": {
+            "Julia": 9024
+        }
+    },
+    {
+        "name": "QuAlgorithmZoo.jl",
+        "description": "A curated implementation of quantum algorithms with Yao.jl",
+        "languages": {
+            "Julia": 164
+        }
+    },
+    {
+        "name": "KittyTerminalImages.jl",
+        "description": "A package that allows Julia to display images in the kitty terminal editor",
+        "languages": {
+            "Julia": 8786
+        }
+    },
+    {
+        "name": "FundamentalsNumericalComputation.jl",
+        "description": "Core functions for the Julia (2nd) edition of the text Fundamentals of Numerical Computation, by Driscoll and Braun.",
+        "languages": {
+            "Julia": 45759
+        }
+    },
+    {
+        "name": "SCIP.jl",
+        "description": "Julia interface to SCIP solver",
+        "languages": {
+            "Julia": 1504365
+        }
+    },
+    {
+        "name": "parallel-gpu-workshop-JuliaCon21",
+        "description": "Solving differential equations in parallel on GPUs - JuliaCon 2021 workshop",
+        "languages": {
+            "Julia": 113852,
+            "Shell": 2572
+        }
+    },
+    {
+        "name": "JuliaParser.jl",
+        "description": "A rewrite of Julia's parser in Julia",
+        "languages": {
+            "Julia": 222115
+        }
+    },
+    {
+        "name": "LightGBM.jl",
+        "description": "Julia FFI interface to Microsoft's LightGBM package",
+        "languages": {
+            "Julia": 170092
+        }
+    },
+    {
+        "name": "DotNET.jl",
+        "description": "Julia \u2764\ufe0f .NET",
+        "languages": {
+            "Julia": 34886
+        }
+    },
+    {
+        "name": "FirstOrderLp.jl",
+        "description": "Experimental first-order solvers for linear and quadratic programming.",
+        "languages": {
+            "Julia": 361991,
+            "Python": 33765,
+            "Shell": 17627,
+            "Awk": 1775,
+            "JetBrains MPS": 797
+        }
+    },
+    {
+        "name": "jlpkg",
+        "description": "A command line interface (CLI) for Pkg, Julia's package manager.",
+        "languages": {
+            "Julia": 24465,
+            "Shell": 11862,
+            "Makefile": 1069
+        }
+    },
+    {
+        "name": "Downloads.jl",
+        "description": null,
+        "languages": {
+            "Julia": 78610
+        }
+    },
+    {
+        "name": "TikzPictures.jl",
+        "description": "Creating PGF/TikZ pictures and saving them in various formats",
+        "languages": {
+            "Julia": 22838
+        }
+    },
+    {
+        "name": "ObjectOriented.jl",
+        "description": "Conventional object-oriented programming in Julia without breaking Julia's core design ideas",
+        "languages": {
+            "Julia": 74266,
+            "Python": 2055
+        }
+    },
+    {
+        "name": "JuliaPackageWithRustDep.jl",
+        "description": "Example of a Julia Package with Rust dependency.",
+        "languages": {
+            "Julia": 3981
+        }
+    },
+    {
+        "name": "WatchJuliaBurn.jl",
+        "description": "The most unneeded package you'll find.",
+        "languages": {
+            "Julia": 16035
+        }
+    },
+    {
+        "name": "FrankWolfe.jl",
+        "description": "Julia implementation for various Frank-Wolfe and Conditional Gradient variants",
+        "languages": {
+            "Julia": 641664
+        }
+    },
+    {
+        "name": "BayesianOptimization.jl",
+        "description": "Bayesian optimization for Julia",
+        "languages": {
+            "Julia": 34062
+        }
+    },
+    {
+        "name": "GDAL.jl",
+        "description": "Thin Julia wrapper for GDAL - Geospatial Data Abstraction Library",
+        "languages": {
+            "Julia": 1076775,
+            "Python": 1042
+        }
+    },
+    {
+        "name": "OrderedCollections.jl",
+        "description": "Julia implementation of associative containers that preserve insertion order ",
+        "languages": {
+            "Julia": 73173
+        }
+    },
+    {
+        "name": "LightXML.jl",
+        "description": "A light-weight Julia package for XML based on libxml2.",
+        "languages": {
+            "Julia": 21186,
+            "C++": 2740,
+            "Makefile": 191
+        }
+    },
+    {
+        "name": "ARCHModels.jl",
+        "description": "A Julia package for estimating ARMA-GARCH models.",
+        "languages": {
+            "Julia": 120188
+        }
+    },
+    {
+        "name": "ProxSDP.jl",
+        "description": "Semidefinite programming optimization solver",
+        "languages": {
+            "Julia": 161773,
+            "MATLAB": 1757
+        }
+    },
+    {
+        "name": "GeneralizedGenerated.jl",
+        "description": "A generalized version of Julia generated functions @generated to allow closures in generated functions and avoid the use of runtime eval or invokelatest.",
+        "languages": {
+            "Julia": 31835,
+            "Shell": 82
+        }
+    },
+    {
+        "name": "FileTrees.jl",
+        "description": "Parallel file processing made easy",
+        "languages": {
+            "Julia": 44352,
+            "CSS": 12909,
+            "HTML": 5113
+        }
+    },
+    {
+        "name": "Immerse.jl",
+        "description": "Dive deeper into your data with interactive graphics",
+        "languages": {
+            "Julia": 47652
+        }
+    },
+    {
+        "name": "FreqTables.jl",
+        "description": "Frequency tables in Julia",
+        "languages": {
+            "Julia": 21133
+        }
+    },
+    {
+        "name": "Mjolnir.jl",
+        "description": "A little less conversation, a little more abstraction",
+        "languages": {
+            "Julia": 35025
+        }
+    },
+    {
+        "name": "TSFrames.jl",
+        "description": "Timeseries in Julia",
+        "languages": {
+            "Julia": 210547
+        }
+    },
+    {
+        "name": "Cairo.jl",
+        "description": "Bindings to the Cairo graphics library.",
+        "languages": {
+            "Julia": 89685
+        }
+    },
+    {
+        "name": "ObjectDetector.jl",
+        "description": "Pure Julia implementations of single-pass object detection neural networks.",
+        "languages": {
+            "Julia": 56898
+        }
+    },
+    {
+        "name": "MusicProcessing.jl",
+        "description": "Music Processing Library in Julia",
+        "languages": {
+            "Julia": 46117
+        }
+    },
+    {
+        "name": "GeoInterface.jl",
+        "description": "A Julia Protocol for Geospatial Data",
+        "languages": {
+            "Julia": 112800
+        }
+    },
+    {
+        "name": "Electron.jl",
+        "description": "Julia wrapper for Electron",
+        "languages": {
+            "Julia": 16274,
+            "JavaScript": 4354,
+            "HTML": 82
+        }
+    },
+    {
+        "name": "OpenAI.jl",
+        "description": "OpenAI API wrapper for Julia",
+        "languages": {
+            "Julia": 56318
+        }
+    },
+    {
+        "name": "WhereTraits.jl",
+        "description": "traits for julia: dispatch on whatever you want using where syntax",
+        "languages": {
+            "Julia": 116304
+        }
+    },
+    {
+        "name": "ThreadPinning.jl",
+        "description": "Readily pin Julia threads to CPU processors",
+        "languages": {
+            "Julia": 177843,
+            "Shell": 2927,
+            "C": 2550
+        }
+    },
+    {
+        "name": "Memento.jl",
+        "description": "A flexible logging library for Julia",
+        "languages": {
+            "Julia": 94552
+        }
+    },
+    {
+        "name": "SigmoidNumbers",
+        "description": "Sigmoid Numbers for Julia",
+        "languages": {
+            "Julia": 287881
+        }
+    },
+    {
+        "name": "JDF.jl",
+        "description": "Julia DataFrames serialization format",
+        "languages": {
+            "Julia": 52644
+        }
+    },
+    {
+        "name": "UnROOT.jl",
+        "description": "Native Julia I/O package to work with CERN ROOT files objects (TTree and RNTuple)",
+        "languages": {
+            "Julia": 227103
+        }
+    },
+    {
+        "name": "Debug.jl",
+        "description": "Prototype interactive debugger for Julia",
+        "languages": {
+            "Julia": 76289
+        }
+    },
+    {
+        "name": "TensorNetworkAD.jl",
+        "description": "Algorithms that combine tensor network methods with automatic differentiation",
+        "languages": {
+            "Julia": 32323
+        }
+    },
+    {
+        "name": "static-export-template",
+        "description": "A template to automatically convert Pluto notebooks to an HTML website with GitHub Pages. Demo page:",
+        "languages": {
+            "Julia": 9823
+        }
+    },
+    {
+        "name": "PackageCompilerX.jl",
+        "description": null,
+        "languages": {
+            "Julia": 31315,
+            "C": 2068
+        }
+    },
+    {
+        "name": "webstack.jl",
+        "description": "DEPRECATED: In progress Julia webstack",
+        "languages": {
+            "Julia": 58188
+        }
+    },
+    {
+        "name": "ImageProjectiveGeometry.jl",
+        "description": "Projective geometry for computer vision in Julia",
+        "languages": {
+            "Julia": 283879
+        }
+    },
+    {
+        "name": "AbstractPlotting.jl",
+        "description": "An abstract interface for plotting libraries, part of the Makie ecosystem.",
+        "languages": {
+            "Julia": 938271
+        }
+    },
+    {
+        "name": "BioStructures.jl",
+        "description": "A Julia package to read, write and manipulate macromolecular structures (particularly proteins)",
+        "languages": {
+            "Julia": 312375
+        }
+    },
+    {
+        "name": "LIBSVM.jl",
+        "description": "LIBSVM bindings for Julia",
+        "languages": {
+            "Julia": 39604
+        }
+    },
+    {
+        "name": "EllipsisNotation.jl",
+        "description": "Julia-based implementation of ellipsis array indexing notation `..`",
+        "languages": {
+            "Julia": 6366
+        }
+    },
+    {
+        "name": "ProtoStructs.jl",
+        "description": "Easy prototyping of structs",
+        "languages": {
+            "Julia": 14973
+        }
+    },
+    {
+        "name": "Twitter.jl",
+        "description": "Julia package to access Twitter API",
+        "languages": {
+            "Julia": 43529
+        }
+    },
+    {
+        "name": "Kronecker.jl",
+        "description": "A general-purpose toolbox for efficient Kronecker-based algebra.",
+        "languages": {
+            "Julia": 101424,
+            "TeX": 65679,
+            "Ruby": 1533,
+            "Perl": 65
+        }
+    },
+    {
+        "name": "Folds.jl",
+        "description": "A unified interface for sequential, threaded, and distributed fold",
+        "languages": {
+            "Julia": 45859
+        }
+    },
+    {
+        "name": "Vega.jl",
+        "description": "A Julia package for generating visualizations in Vega ",
+        "languages": {
+            "Julia": 125576
+        }
+    },
+    {
+        "name": "StateSpaceRoutines.jl",
+        "description": "Package implementing common state-space routines.",
+        "languages": {
+            "Julia": 237713
+        }
+    },
+    {
+        "name": "DiffEqCallbacks.jl",
+        "description": "A library of useful callbacks for hybrid scientific machine learning (SciML) with augmented differential equation solvers",
+        "languages": {
+            "Julia": 151470
+        }
+    },
+    {
+        "name": "WebAssembly.jl",
+        "description": null,
+        "languages": {
+            "Julia": 31075
+        }
+    },
+    {
+        "name": "JulGame.jl",
+        "description": "JulGame is a game engine based on the Julia programming language with the help of SDL2.",
+        "languages": {
+            "Julia": 298222,
+            "Batchfile": 732
+        }
+    },
+    {
+        "name": "MLOpt.jl",
+        "description": "Tutorial code for Machine Learning and Optimization written in julia",
+        "languages": {
+            "Julia": 16048,
+            "Shell": 108
+        }
+    },
+    {
+        "name": "MappedArrays.jl",
+        "description": "Lazy in-place transformations of arrays",
+        "languages": {
+            "Julia": 17483
+        }
+    },
+    {
+        "name": "WAV.jl",
+        "description": "Julia package for working with WAV files",
+        "languages": {
+            "Julia": 93661
+        }
+    },
+    {
+        "name": "EnumX.jl",
+        "description": "This is what I wish `Base.@enum` was.",
+        "languages": {
+            "Julia": 16120
+        }
+    },
+    {
+        "name": "ModelingToolkitDesigner.jl",
+        "description": "A helper tool for visualizing and editing a ModelingToolkit.jl system connections",
+        "languages": {
+            "Julia": 41294
+        }
+    },
+    {
+        "name": "AdvancedMH.jl",
+        "description": "Robust implementation for random-walk Metropolis-Hastings algorithms",
+        "languages": {
+            "Julia": 44430
+        }
+    },
+    {
+        "name": "Org.jl",
+        "description": "A Julia library for working with Org.",
+        "languages": {
+            "Julia": 279009
+        }
+    },
+    {
+        "name": "Tricks.jl",
+        "description": "Cunning tricks though the julia compiler internals",
+        "languages": {
+            "Julia": 16874
+        }
+    },
+    {
+        "name": "TimeZones.jl",
+        "description": "IANA time zone database access for the Julia programming language",
+        "languages": {
+            "Julia": 344218,
+            "Shell": 1623
+        }
+    },
+    {
+        "name": "DynamicExpressions.jl",
+        "description": "Ridiculously fast symbolic expressions",
+        "languages": {
+            "Julia": 149222
+        }
+    },
+    {
+        "name": "Mill.jl",
+        "description": "Prototype flexible hierarchical multi-instance learning models.",
+        "languages": {
+            "Julia": 296265
+        }
+    },
+    {
+        "name": "UnPack.jl",
+        "description": "`@pack!` and `@unpack` macros",
+        "languages": {
+            "Julia": 7155
+        }
+    },
+    {
+        "name": "Catwalk.jl",
+        "description": "An adaptive optimizer for speeding up dynamic dispatch in Julia",
+        "languages": {
+            "Julia": 22932
+        }
+    },
+    {
+        "name": "CommonMark.jl",
+        "description": "A CommonMark-compliant Markdown parser for Julia.",
+        "languages": {
+            "Julia": 227774
+        }
+    },
+    {
+        "name": "AlphaVantage.jl",
+        "description": "A Julia wrapper for the Alpha Vantage API.",
+        "languages": {
+            "Julia": 47414
+        }
+    },
+    {
+        "name": "REPLMasteryWorkshop",
+        "description": "From 0 to Hero!",
+        "languages": {
+            "Julia": 176
+        }
+    },
+    {
+        "name": "MLCourse",
+        "description": null,
+        "languages": {
+            "Julia": 658448,
+            "Dockerfile": 1849
+        }
+    },
+    {
+        "name": "JustSayIt.jl",
+        "description": "Software and high-level API for offline, low latency and secure translation of human speech to computer commands or text on Linux, MacOS and Windows",
+        "languages": {
+            "Julia": 231518
+        }
+    },
+    {
+        "name": "ECharts.jl",
+        "description": "Julia package for the Apache ECharts v4 visualization library",
+        "languages": {
+            "Julia": 163997
+        }
+    },
+    {
+        "name": "DBInterface.jl",
+        "description": "Database interface definitions for Julia",
+        "languages": {
+            "Julia": 10859
+        }
+    },
+    {
+        "name": "PlutoStaticHTML.jl",
+        "description": "Convert Pluto notebooks to HTML in automated workflows",
+        "languages": {
+            "Julia": 74022
+        }
+    },
+    {
+        "name": "Shapefile.jl",
+        "description": "Parsing .shp files in Julia",
+        "languages": {
+            "Julia": 84575
+        }
+    },
+    {
+        "name": "Miletus.jl",
+        "description": "Writing financial contracts in Julia",
+        "languages": {
+            "Julia": 138924,
+            "R": 2288,
+            "C++": 1853,
+            "Makefile": 119
+        }
+    },
+    {
+        "name": "AtomsBase.jl",
+        "description": "A Julian abstract interface for atomic structures.",
+        "languages": {
+            "Julia": 58290
+        }
+    },
+    {
+        "name": "ManifoldsBase.jl",
+        "description": "Basic interface for manifolds in Julia",
+        "languages": {
+            "Julia": 563073
+        }
+    },
+    {
+        "name": "StatisticsWithJuliaPlutoNotebooks.jl",
+        "description": "Pluto notebooks accompanying the book Statistics With Julia (https://statisticswithjulia.org).",
+        "languages": {
+            "Julia": 222301
+        }
+    },
+    {
+        "name": "SCS.jl",
+        "description": "Julia Wrapper for SCS (https://github.com/cvxgrp/scs)",
+        "languages": {
+            "Julia": 97728
+        }
+    },
+    {
+        "name": "TranscodingStreams.jl",
+        "description": "Simple, consistent interfaces for any codec.",
+        "languages": {
+            "Julia": 98042
+        }
+    },
+    {
+        "name": "FactCheck.jl",
+        "description": "Midje-like testing for Julia",
+        "languages": {
+            "Julia": 27551
+        }
+    },
+    {
+        "name": "ProfileCanvas.jl",
+        "description": null,
+        "languages": {
+            "Julia": 12623
+        }
+    },
+    {
+        "name": "TreeView.jl",
+        "description": "Draw Julia syntax trees as a graph",
+        "languages": {
+            "Julia": 7022
+        }
+    },
+    {
+        "name": "PkgCite.jl",
+        "description": "Cite Julia packages in your papers the easy way",
+        "languages": {
+            "Julia": 13339,
+            "TeX": 564
+        }
+    },
+    {
+        "name": "PPTX.jl",
+        "description": "Generate PowerPoint PPTX files from Julia",
+        "languages": {
+            "Julia": 55745
+        }
+    },
+    {
+        "name": "Embeddings.jl",
+        "description": "Functions and data dependencies for loading various word embeddings (Word2Vec, FastText, GLoVE)",
+        "languages": {
+            "Julia": 32241,
+            "TeX": 3220
+        }
+    },
+    {
+        "name": "StippleUI.jl",
+        "description": "StippleUI is a library of reactive UI elements for Stipple.jl.",
+        "languages": {
+            "Julia": 249285
+        }
+    },
+    {
+        "name": "ValidatedNumerics.jl",
+        "description": "Rigorous floating-point calculations with interval arithmetic in Julia",
+        "languages": {
+            "Julia": 1577
+        }
+    },
+    {
+        "name": "RandomMatrices.jl",
+        "description": "Random matrices package for Julia",
+        "languages": {
+            "Julia": 57062
+        }
+    },
+    {
+        "name": "NamedTupleTools.jl",
+        "description": "some utilities for working with NamedTuples",
+        "languages": {
+            "Julia": 26843
+        }
+    },
+    {
+        "name": "Cbc.jl",
+        "description": "Julia interface to the Coin-OR Branch and Cut solver (CBC)",
+        "languages": {
+            "Julia": 58897
+        }
+    },
+    {
+        "name": "Memoization.jl",
+        "description": "Easily and efficiently memoize any function, closure, or callable object in Julia.",
+        "languages": {
+            "Julia": 15334
+        }
+    },
+    {
+        "name": "Wandb.jl",
+        "description": "Unofficial Julia bindings for logging experiments to wandb.ai",
+        "languages": {
+            "Julia": 20299
+        }
+    },
+    {
+        "name": "GenericTensorNetworks.jl",
+        "description": "Generic tensor networks for solution space properties.",
+        "languages": {
+            "Julia": 218110,
+            "Makefile": 798
+        }
+    },
+    {
+        "name": "PromptingTools.jl",
+        "description": "Streamline your life using PromptingTools.jl, the Julia package that simplifies interacting with large language models.",
+        "languages": {
+            "Julia": 892322,
+            "Makefile": 310
+        }
+    },
+    {
+        "name": "EasyModelAnalysis.jl",
+        "description": "High level functions for analyzing the output of simulations",
+        "languages": {
+            "Julia": 54615
+        }
+    },
+    {
+        "name": "ReferenceTests.jl",
+        "description": "Utility package for comparing data against reference files",
+        "languages": {
+            "Julia": 28579
+        }
+    },
+    {
+        "name": "YAXArrays.jl",
+        "description": "Yet Another XArray-like Julia package",
+        "languages": {
+            "Julia": 176948
+        }
+    },
+    {
+        "name": "MLJLinearModels.jl",
+        "description": "Generalized Linear Regressions Models (penalized regressions, robust regressions, ...)",
+        "languages": {
+            "Julia": 175895
+        }
+    },
+    {
+        "name": "MathProgBase.jl",
+        "description": "DEPRECATED: Solver-independent functions (i.e. linprog and mixintprog) and low-level interface for Mathematical Programming",
+        "languages": {
+            "Julia": 129012
+        }
+    },
+    {
+        "name": "Underscores.jl",
+        "description": "Underscore placeholders for convenient closure syntax",
+        "languages": {
+            "Julia": 15065
+        }
+    },
+    {
+        "name": "Copulas.jl",
+        "description": "A fully `Distributions.jl`-compliant copula package",
+        "languages": {
+            "Julia": 118963,
+            "TeX": 8229
+        }
+    },
+    {
+        "name": "Dynare.jl",
+        "description": "A Julia rewrite of Dynare: solving, simulating and estimating DSGE models.",
+        "languages": {
+            "Julia": 567745,
+            "AMPL": 104362,
+            "MATLAB": 11193
+        }
+    },
+    {
+        "name": "InvertedIndices.jl",
+        "description": "A simple index type that allows for inverted selections",
+        "languages": {
+            "Julia": 18998
+        }
+    },
+    {
+        "name": "Mongoc.jl",
+        "description": "MongoDB driver for the Julia Language",
+        "languages": {
+            "Julia": 211550,
+            "JavaScript": 182
+        }
+    },
+    {
+        "name": "Adapt.jl",
+        "description": null,
+        "languages": {
+            "Julia": 19702
+        }
+    },
+    {
+        "name": "VariantVisualization.jl",
+        "description": "Julia package powering VIVA, our tool for visualization of genomic variation data. Manual:",
+        "languages": {
+            "Julia": 147716,
+            "Jupyter Notebook": 11789
+        }
+    },
+    {
+        "name": "primal-caching-service",
+        "description": "Primal\u2019s caching service for Nostr connects to the specified set of relays, collects all events in real time, stores them locally, and makes them available to nostr clients through a web socket-based API.",
+        "languages": {
+            "Julia": 195604,
+            "C": 1591,
+            "Vim Script": 831,
+            "Nix": 690,
+            "Shell": 235,
+            "Makefile": 73
+        }
+    },
+    {
+        "name": "Animations.jl",
+        "description": "Animations, easings and interpolations for animated visualizations.",
+        "languages": {
+            "Julia": 35283
+        }
+    },
+    {
+        "name": "ContactImplicitMPC.jl",
+        "description": "Fast contact-implicit model predictive control for robotic systems that make and break contact with their environments.",
+        "languages": {
+            "Julia": 487940
+        }
+    },
+    {
+        "name": "PropCheck.jl",
+        "description": "A package for simple property based testing in julia.",
+        "languages": {
+            "Julia": 76051
+        }
+    },
+    {
+        "name": "DarkMode",
+        "description": "Dark mode for Pluto \ud83c\udf89",
+        "languages": {
+            "Julia": 22290
+        }
+    },
+    {
+        "name": "ShapML.jl",
+        "description": "A Julia package for interpretable machine learning with stochastic Shapley values",
+        "languages": {
+            "Julia": 29965
+        }
+    },
+    {
+        "name": "FilePaths.jl",
+        "description": "A type based approach to working with filesystem paths in julia",
+        "languages": {
+            "Julia": 12837
+        }
+    },
+    {
+        "name": "TiledIteration.jl",
+        "description": "Julia package to facilitate writing mulithreaded, multidimensional, cache-efficient code",
+        "languages": {
+            "Julia": 29911
+        }
+    },
+    {
+        "name": "OutlierDetection.jl",
+        "description": "Fast, scalable and flexible Outlier Detection with Julia",
+        "languages": {
+            "Julia": 43872,
+            "Makefile": 520
+        }
+    },
+    {
+        "name": "Simplify.jl",
+        "description": "Algebraic simplification in Julia",
+        "languages": {
+            "Julia": 46589
+        }
+    },
+    {
+        "name": "TimeSeriesClustering.jl",
+        "description": "Julia implementation of unsupervised learning methods for time series datasets. It provides functionality for clustering and aggregating, detecting motifs, and quantifying similarity between time series datasets.",
+        "languages": {
+            "Julia": 100700,
+            "TeX": 13052
+        }
+    },
+    {
+        "name": "CUDArt.jl",
+        "description": "Julia wrapper for CUDA runtime API",
+        "languages": {
+            "Julia": 118702,
+            "Cuda": 219
+        }
+    },
+    {
+        "name": "DualNumbers.jl",
+        "description": "Julia package for representing dual numbers and for performing dual algebra",
+        "languages": {
+            "Julia": 19750
+        }
+    },
+    {
+        "name": "PlutoTest.jl",
+        "description": "\u2714\ufe0f Visual, reactive testing library for Julia. Time machine included.",
+        "languages": {
+            "Julia": 64819
+        }
+    },
+    {
+        "name": "Tar.jl",
+        "description": "TAR files: create, list, extract them in pure Julia",
+        "languages": {
+            "Julia": 122153
+        }
+    },
+    {
+        "name": "CellListMap.jl",
+        "description": "Flexible implementation of cell lists to map the calculations of particle-pair dependent functions, such as forces, energies, neighbor lists, etc.",
+        "languages": {
+            "Julia": 262795,
+            "Python": 2071,
+            "Shell": 1528
+        }
+    },
+    {
+        "name": "MatrixEquations.jl",
+        "description": "Solution of Lyapunov, Sylvester and Riccati matrix equations using Julia",
+        "languages": {
+            "Julia": 744277
+        }
+    },
+    {
+        "name": "IterableTables.jl",
+        "description": "Implementations of the TableTraits.jl interface for various packages",
+        "languages": {
+            "Julia": 16810
+        }
+    },
+    {
+        "name": "YAAD.jl",
+        "description": "Implement you own AD in 300 loc",
+        "languages": {
+            "Julia": 44205
+        }
+    },
+    {
+        "name": "TopicModelsVB.jl",
+        "description": "A Julia package for variational Bayesian topic modeling.",
+        "languages": {
+            "Julia": 368018,
+            "R": 2434
+        }
+    },
+    {
+        "name": "JuLIP.jl",
+        "description": "Julia Library for Interatomic Potentials",
+        "languages": {
+            "Julia": 240164
+        }
+    },
+    {
+        "name": "ColorTypes.jl",
+        "description": "Basic color definitions and traits ",
+        "languages": {
+            "Julia": 217537
+        }
+    },
+    {
+        "name": "OrbitalTrajectories.jl",
+        "description": "OrbitalTrajectories.jl is a modern orbital trajectory design, optimisation, and analysis library for Julia, providing methods and tools for designing spacecraft orbits and transfers via high-performance simulations of astrodynamical models.",
+        "languages": {
+            "Julia": 84493
+        }
+    },
+    {
+        "name": "AutoOptimize.jl",
+        "description": "Automatic optimization and parallelization for Scientific Machine Learning (SciML)",
+        "languages": {
+            "Julia": 6763
+        }
+    },
+    {
+        "name": "PkgDependency.jl",
+        "description": "Show dependency tree of Julia project",
+        "languages": {
+            "Julia": 5444
+        }
+    },
+    {
+        "name": "MLKernels.jl",
+        "description": "Machine learning kernels in Julia.",
+        "languages": {
+            "Julia": 67149
+        }
+    },
+    {
+        "name": "GXBeam.jl",
+        "description": "Pure Julia Implementation of Geometrically Exact Beam Theory",
+        "languages": {
+            "Julia": 748870,
+            "TeX": 10304
+        }
+    },
+    {
+        "name": "Bokeh.jl",
+        "description": "Interactive plotting made easy",
+        "languages": {
+            "Julia": 166811,
+            "Python": 9187,
+            "JavaScript": 1045
+        }
+    },
+    {
+        "name": "OptimizationProblems.jl",
+        "description": "Optimization Problems for Julia",
+        "languages": {
+            "Julia": 3648402
+        }
+    },
+    {
+        "name": "JuliaComputation",
+        "description": "Repository for Common Ground C25",
+        "languages": {
+            "Julia": 3037268
+        }
+    },
+    {
+        "name": "AdFem.jl",
+        "description": "Innovative, efficient, and computational-graph-based finite element simulator for inverse modeling",
+        "languages": {
+            "Julia": 264408,
+            "Python": 1263
+        }
+    },
+    {
+        "name": "PiGPIO.jl",
+        "description": "Manage external hardware using GPIO pins on the Raspberry Pi",
+        "languages": {
+            "Julia": 90109
+        }
+    },
+    {
+        "name": "Pollen.jl",
+        "description": "Format-independent document generation tool built for interactive work",
+        "languages": {
+            "Julia": 147406,
+            "CSS": 15142,
+            "HTML": 1138,
+            "JavaScript": 84
+        }
+    },
+    {
+        "name": "CombinedParsers.jl",
+        "description": "Compiled parser combinators and regular expressions in pure julia",
+        "languages": {
+            "Julia": 287835
+        }
+    },
+    {
+        "name": "ExprTools.jl",
+        "description": "Light-weight expression manipulation tools",
+        "languages": {
+            "Julia": 63701
+        }
+    },
+    {
+        "name": "MLJModels.jl",
+        "description": "Home of the MLJ model registry and tools for model queries and mode code loading",
+        "languages": {
+            "Julia": 199595
+        }
+    },
+    {
+        "name": "MakieTeX.jl",
+        "description": "TeX integration in Makie",
+        "languages": {
+            "Julia": 55608,
+            "Perl": 40298
+        }
+    },
+    {
+        "name": "SafeTestsets.jl",
+        "description": null,
+        "languages": {
+            "Julia": 1397
+        }
+    },
+    {
+        "name": "MRIReco.jl",
+        "description": "Julia Package for MRI Reconstruction",
+        "languages": {
+            "Julia": 359375,
+            "TeX": 239
+        }
+    },
+    {
+        "name": "ParameterizedFunctions.jl",
+        "description": "A simple domain-specific language (DSL) for defining differential equations for use in scientific machine learning (SciML) and other applications",
+        "languages": {
+            "Julia": 17257
+        }
+    },
+    {
+        "name": "Elemental.jl",
+        "description": "Julia interface to the Elemental linear algebra library.",
+        "languages": {
+            "Julia": 121942
+        }
+    },
+    {
+        "name": "SolveDSGE.jl",
+        "description": "A Julia package to solve, simulate, and analyze nonlinear DSGE models.",
+        "languages": {
+            "Julia": 490303,
+            "TeX": 118302
+        }
+    },
+    {
+        "name": "TikzGraphs.jl",
+        "description": "This library generates graph layouts using the TikZ graph layout package.",
+        "languages": {
+            "Julia": 4003,
+            "TeX": 778
+        }
+    },
+    {
+        "name": "Tumble.jl",
+        "description": "lazy predictive modeling for julia",
+        "languages": {
+            "Julia": 1822
+        }
+    },
+    {
+        "name": "ArbNumerics.jl",
+        "description": "extended precision math, accurate and performant",
+        "languages": {
+            "Julia": 642177
+        }
+    },
+    {
+        "name": "Bessels.jl",
+        "description": "Bessel functions for real arguments and orders",
+        "languages": {
+            "Julia": 416329
+        }
+    },
+    {
+        "name": "StructTypes.jl",
+        "description": "Abstract definitions and convenience methods for describing, processing, and constructing Julia objects",
+        "languages": {
+            "Julia": 79081
+        }
+    },
+    {
+        "name": "Complementarity.jl",
+        "description": "provides a modeling interface for mixed complementarity problems (MCP) and math programs with equilibrium problems (MPEC) via JuMP ",
+        "languages": {
+            "Julia": 50222
+        }
+    },
+    {
+        "name": "Tilde.jl",
+        "description": "WIP successor to Soss.jl",
+        "languages": {
+            "Julia": 117686,
+            "Shell": 82
+        }
+    },
+    {
+        "name": "NeuralProcesses.jl",
+        "description": "A framework for composing Neural Processes in Julia",
+        "languages": {
+            "Julia": 141763,
+            "Shell": 2265
+        }
+    },
+    {
+        "name": "PDDL.jl",
+        "description": "Julia parser, interpreter and compiler interface for the Planning Domain Definition Language (PDDL). Planners not included.",
+        "languages": {
+            "Julia": 284321,
+            "PDDL": 27122
+        }
+    },
+    {
+        "name": "SparseArrays.jl",
+        "description": "SparseArrays.jl is a Julia stdlib",
+        "languages": {
+            "Julia": 1071453
+        }
+    },
+    {
+        "name": "FilePathsBase.jl",
+        "description": "Filesystem path types in julia",
+        "languages": {
+            "Julia": 122334
+        }
+    },
+    {
+        "name": "Configurations.jl",
+        "description": "Options & Configurations made easy.",
+        "languages": {
+            "Julia": 88942
+        }
+    },
+    {
+        "name": "PencilFFTs.jl",
+        "description": "Fast Fourier transforms of MPI-distributed Julia arrays",
+        "languages": {
+            "Julia": 111767
+        }
+    },
+    {
+        "name": "FMI.jl",
+        "description": "FMI.jl is a free-to-use software library for the Julia programming language which integrates FMI (fmi-standard.org): load or create, parameterize, differentiate and simulate FMUs seamlessly inside the Julia programming language!",
+        "languages": {
+            "Julia": 397317
+        }
+    },
+    {
+        "name": "ConcreteStructs.jl",
+        "description": "  \ud83c\udfe9\ud83c\udfe0\ud83c\udf06\ud83c\udfe8\ud83c\udf07\ud83c\udfe6",
+        "languages": {
+            "Julia": 12939
+        }
+    },
+    {
+        "name": "ClimaCore.jl",
+        "description": "CliMA model dycore",
+        "languages": {
+            "Julia": 2062172,
+            "Python": 1250
+        }
+    },
+    {
+        "name": "XML.jl",
+        "description": "Read and write XML in pure Julia",
+        "languages": {
+            "Julia": 43280
+        }
+    },
+    {
+        "name": "ReadStat.jl",
+        "description": "Read files from Stata, SAS, and SPSS",
+        "languages": {
+            "Julia": 15340
+        }
+    },
+    {
+        "name": "SemanticModels.jl",
+        "description": "A julia package for representing and manipulating model semantics",
+        "languages": {
+            "Julia": 71917,
+            "Dockerfile": 876
+        }
+    },
+    {
+        "name": "ClipData.jl",
+        "description": "Move data to and from the clipboard in Julia",
+        "languages": {
+            "Julia": 13110
+        }
+    },
+    {
+        "name": "Pathfinder.jl",
+        "description": "Preheat your MCMC",
+        "languages": {
+            "Julia": 118637
+        }
+    },
+    {
+        "name": "Sobol.jl",
+        "description": "generation of Sobol low-discrepancy sequence (LDS) for the Julia language",
+        "languages": {
+            "Julia": 11677
+        }
+    },
+    {
+        "name": "pangraph",
+        "description": "A bioinformatic toolkit to align genome assemblies into pangenome graphs",
+        "languages": {
+            "Julia": 257336,
+            "Python": 134181,
+            "Shell": 6954,
+            "Makefile": 2879,
+            "Dockerfile": 1986
+        }
+    },
+    {
+        "name": "Merly.jl",
+        "description": "Micro framework for web programming in Julia",
+        "languages": {
+            "Julia": 64093,
+            "HTML": 398
+        }
+    },
+    {
+        "name": "GLPlot.jl",
+        "description": "Plotting for Julia with OpenGL",
+        "languages": {
+            "Julia": 57078
+        }
     }
 ]

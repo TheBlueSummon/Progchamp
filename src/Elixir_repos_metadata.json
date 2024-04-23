@@ -3,7 +3,7 @@
         "name": "elixir",
         "description": "Elixir is a dynamic, functional language for building scalable and maintainable applications",
         "languages": {
-            "Elixir": 7024681,
+            "Elixir": 7024870,
             "Erlang": 572224,
             "Makefile": 12058,
             "Batchfile": 10796,
@@ -29,7 +29,7 @@
         "name": "analytics",
         "description": "Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",
         "languages": {
-            "Elixir": 3044559,
+            "Elixir": 3047198,
             "JavaScript": 330639,
             "HTML": 242607,
             "CSS": 11540,
@@ -65,9 +65,9 @@
         "description": "WireGuard\u00ae-based zero-trust access platform with OIDC auth, identity sync, and NAT traversal.",
         "languages": {
             "Elixir": 3005091,
-            "Rust": 941663,
-            "HCL": 251408,
-            "TypeScript": 241934,
+            "Rust": 941593,
+            "HCL": 251410,
+            "TypeScript": 242413,
             "Swift": 141770,
             "Kotlin": 81611,
             "Shell": 47698,
@@ -95,7 +95,7 @@
         "name": "phoenix_live_view",
         "description": "Rich, real-time user experiences with server-rendered HTML",
         "languages": {
-            "Elixir": 1633777,
+            "Elixir": 1633778,
             "JavaScript": 909814,
             "HTML": 1333
         }
@@ -143,8 +143,8 @@
         "name": "electric",
         "description": "Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres.",
         "languages": {
-            "Elixir": 2760033,
-            "TypeScript": 1940834,
+            "Elixir": 2762704,
+            "TypeScript": 1942131,
             "HTML": 198100,
             "PLpgSQL": 27684,
             "Makefile": 11530,
@@ -158,7 +158,7 @@
         "name": "livebook",
         "description": "Automate code & data workflows with interactive Elixir notebooks",
         "languages": {
-            "Elixir": 2651123,
+            "Elixir": 2654126,
             "JavaScript": 277636,
             "HTML": 42060,
             "CSS": 20137,
@@ -213,7 +213,7 @@
         "name": "oban",
         "description": "\ud83d\udc8e Robust job processing in Elixir, backed by modern PostgreSQL and SQLite3",
         "languages": {
-            "Elixir": 468606
+            "Elixir": 468604
         }
     },
     {
@@ -260,10 +260,10 @@
         "name": "changelog.com",
         "description": "Changelog is news and podcast for developers. This is our open source platform.",
         "languages": {
-            "Elixir": 1096705,
-            "HTML": 704080,
+            "Elixir": 1039003,
+            "HTML": 693400,
             "SCSS": 174661,
-            "JavaScript": 109048,
+            "JavaScript": 108660,
             "Go": 31516,
             "CSS": 16249,
             "Handlebars": 9016,
@@ -306,8 +306,8 @@
         "name": "asciinema-server",
         "description": "Platform for hosting and sharing terminal session recordings",
         "languages": {
-            "Elixir": 325345,
-            "HTML": 70768,
+            "Elixir": 326462,
+            "HTML": 71354,
             "SCSS": 10935,
             "JavaScript": 7258,
             "Rust": 4913,
@@ -466,14 +466,6 @@
         }
     },
     {
-        "name": "sorted_set_nif",
-        "description": "Elixir SortedSet backed by a Rust-based NIF",
-        "languages": {
-            "Elixir": 84224,
-            "Rust": 46426
-        }
-    },
-    {
         "name": "supavisor",
         "description": "A cloud-native, multi-tenant Postgres connection pooler.",
         "languages": {
@@ -484,6 +476,14 @@
             "Shell": 985,
             "Rust": 676,
             "Batchfile": 103
+        }
+    },
+    {
+        "name": "sorted_set_nif",
+        "description": "Elixir SortedSet backed by a Rust-based NIF",
+        "languages": {
+            "Elixir": 84224,
+            "Rust": 46426
         }
     },
     {
@@ -555,17 +555,17 @@
         }
     },
     {
-        "name": "flow",
-        "description": "Computational parallel flows on top of GenStage",
-        "languages": {
-            "Elixir": 230130
-        }
-    },
-    {
         "name": "exq",
         "description": "Job processing library for Elixir  - compatible with Resque / Sidekiq",
         "languages": {
             "Elixir": 277140
+        }
+    },
+    {
+        "name": "flow",
+        "description": "Computational parallel flows on top of GenStage",
+        "languages": {
+            "Elixir": 230130
         }
     },
     {
@@ -628,7 +628,7 @@
         "name": "elixir-ls",
         "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
         "languages": {
-            "Elixir": 2117463,
+            "Elixir": 2115787,
             "Shell": 13538,
             "Batchfile": 1972,
             "Dockerfile": 209
@@ -655,7 +655,7 @@
         "name": "ash",
         "description": "A declarative and extensible framework for building Elixir applications.",
         "languages": {
-            "Elixir": 3054008,
+            "Elixir": 3059892,
             "Shell": 806
         }
     },
@@ -663,7 +663,7 @@
         "name": "mint",
         "description": "Functional HTTP client for Elixir with support for HTTP/1 and HTTP/2 \ud83c\udf31",
         "languages": {
-            "Elixir": 463116,
+            "Elixir": 462571,
             "Erlang": 8364,
             "Dockerfile": 636
         }
@@ -759,7 +759,20 @@
         "name": "bumblebee",
         "description": "Pre-trained Neural Network models in Axon (+ \ud83e\udd17 Models integration)",
         "languages": {
-            "Elixir": 1210131
+            "Elixir": 1211552
+        }
+    },
+    {
+        "name": "keila",
+        "description": "Open Source Newsletter Tool.",
+        "languages": {
+            "Elixir": 712087,
+            "HTML": 216234,
+            "JavaScript": 67923,
+            "Liquid": 34793,
+            "SCSS": 17999,
+            "CSS": 6601,
+            "Dockerfile": 3396
         }
     },
     {
@@ -770,24 +783,20 @@
         }
     },
     {
-        "name": "keila",
-        "description": "Open Source Newsletter Tool.",
-        "languages": {
-            "Elixir": 712016,
-            "HTML": 216234,
-            "JavaScript": 67923,
-            "Liquid": 34793,
-            "SCSS": 17999,
-            "CSS": 6601,
-            "Dockerfile": 3396
-        }
-    },
-    {
         "name": "membrane_core",
         "description": "The core of the Membrane Framework, advanced multimedia processing framework",
         "languages": {
             "Elixir": 962818,
             "Python": 788
+        }
+    },
+    {
+        "name": "swarm",
+        "description": "Easy clustering, registration, and distribution of worker processes for Erlang/Elixir",
+        "languages": {
+            "Elixir": 142558,
+            "Erlang": 2699,
+            "Shell": 441
         }
     },
     {
@@ -803,23 +812,6 @@
         }
     },
     {
-        "name": "swarm",
-        "description": "Easy clustering, registration, and distribution of worker processes for Erlang/Elixir",
-        "languages": {
-            "Elixir": 142558,
-            "Erlang": 2699,
-            "Shell": 441
-        }
-    },
-    {
-        "name": "witchcraft",
-        "description": "Monads and other dark magic for Elixir",
-        "languages": {
-            "Elixir": 243481,
-            "Nix": 619
-        }
-    },
-    {
         "name": "uneebee",
         "description": "Platform for creating interactive courses.",
         "languages": {
@@ -830,6 +822,14 @@
             "Shell": 460,
             "CSS": 438,
             "Batchfile": 97
+        }
+    },
+    {
+        "name": "witchcraft",
+        "description": "Monads and other dark magic for Elixir",
+        "languages": {
+            "Elixir": 243481,
+            "Nix": 619
         }
     },
     {
@@ -1014,29 +1014,29 @@
         }
     },
     {
+        "name": "explorer",
+        "description": "Series (one-dimensional) and dataframes (two-dimensional) for fast and elegant data exploration in Elixir",
+        "languages": {
+            "Elixir": 1219841,
+            "Rust": 207336,
+            "Shell": 1640,
+            "Nix": 1487
+        }
+    },
+    {
         "name": "policr-mini",
         "description": "\u4e13\u6ce8\u4e8e\u9a8c\u8bc1\u7684 Telegram \u673a\u5668\u4eba",
         "languages": {
-            "Elixir": 520248,
-            "JavaScript": 268338,
-            "TypeScript": 31773,
+            "Elixir": 521295,
+            "JavaScript": 271182,
+            "TypeScript": 32328,
             "CSS": 16887,
             "Rust": 6714,
-            "HTML": 4705,
+            "HTML": 4699,
             "Just": 1671,
             "Shell": 586,
             "SCSS": 468,
             "Nix": 269
-        }
-    },
-    {
-        "name": "explorer",
-        "description": "Series (one-dimensional) and dataframes (two-dimensional) for fast and elegant data exploration in Elixir",
-        "languages": {
-            "Elixir": 1217777,
-            "Rust": 206622,
-            "Shell": 1640,
-            "Nix": 1487
         }
     },
     {
@@ -1271,7 +1271,7 @@
         "name": "req",
         "description": "Req is a batteries-included HTTP client for Elixir.",
         "languages": {
-            "Elixir": 276429
+            "Elixir": 276357
         }
     },
     {
@@ -1476,18 +1476,18 @@
         }
     },
     {
+        "name": "bodyguard",
+        "description": "Simple authorization conventions for Phoenix apps",
+        "languages": {
+            "Elixir": 45149
+        }
+    },
+    {
         "name": "honeydew",
         "description": "Job Queue for Elixir. Clustered or Local. Straight BEAM. Optional Ecto. \ud83d\udcaa\ud83c\udf48",
         "languages": {
             "Elixir": 192131,
             "Shell": 148
-        }
-    },
-    {
-        "name": "bodyguard",
-        "description": "Simple authorization conventions for Phoenix apps",
-        "languages": {
-            "Elixir": 45149
         }
     },
     {
@@ -1607,10 +1607,10 @@
         "name": "zigler",
         "description": "zig nifs in elixir",
         "languages": {
-            "Elixir": 254375,
-            "Zig": 166427,
+            "Elixir": 252828,
+            "Zig": 166490,
             "HTML": 10692,
-            "Erlang": 1782,
+            "Erlang": 1783,
             "C": 161
         }
     },
@@ -1743,7 +1743,7 @@
         "name": "flame",
         "description": null,
         "languages": {
-            "Elixir": 117129
+            "Elixir": 117469
         }
     },
     {
@@ -1812,7 +1812,7 @@
         "name": "next-ls",
         "description": "The language server for Elixir that just works. Ready for early adopters!",
         "languages": {
-            "Elixir": 471374,
+            "Elixir": 471943,
             "Nix": 6776,
             "Shell": 499,
             "JavaScript": 68
@@ -1825,6 +1825,6711 @@
             "Elixir": 1130792,
             "Shell": 10768,
             "Smarty": 1988
+        }
+    },
+    {
+        "name": "elixir-styler",
+        "description": "An @elixir-lang code-style enforcer that will just FIFY instead of complaining",
+        "languages": {
+            "Elixir": 211497
+        }
+    },
+    {
+        "name": "kafka_ex",
+        "description": "Kafka client library for Elixir",
+        "languages": {
+            "Elixir": 608777,
+            "Shell": 2691,
+            "Euphoria": 80
+        }
+    },
+    {
+        "name": "vapor",
+        "description": "Runtime configuration system for Elixir",
+        "languages": {
+            "Elixir": 45643
+        }
+    },
+    {
+        "name": "vex",
+        "description": "Data Validation for Elixir",
+        "languages": {
+            "Elixir": 72256
+        }
+    },
+    {
+        "name": "reactive-interaction-gateway",
+        "description": "Create low-latency, interactive user experiences for stateless microservices.",
+        "languages": {
+            "Elixir": 678418,
+            "JavaScript": 17487,
+            "Shell": 15987,
+            "Java": 15798,
+            "Dockerfile": 4198,
+            "Mustache": 3928,
+            "CSS": 404,
+            "Euphoria": 55
+        }
+    },
+    {
+        "name": "awesome-phoenix",
+        "description": ":fire: Collection of awesome open-source apps made with Phoenix Framework",
+        "languages": {
+            "Elixir": 6902
+        }
+    },
+    {
+        "name": "emoji",
+        "description": "Make emojis for slack using AI",
+        "languages": {
+            "Elixir": 124631,
+            "HTML": 24371,
+            "JavaScript": 4828,
+            "Dockerfile": 2872,
+            "Shell": 454,
+            "CSS": 145,
+            "Batchfile": 91
+        }
+    },
+    {
+        "name": "nostrum",
+        "description": "Elixir Discord Library",
+        "languages": {
+            "Elixir": 662311,
+            "Erlang": 4798
+        }
+    },
+    {
+        "name": "remote_retro",
+        "description": "Free, world-class retrospectives",
+        "languages": {
+            "Elixir": 204791,
+            "JavaScript": 186253,
+            "CSS": 32533,
+            "HTML": 30157,
+            "Shell": 5976,
+            "Procfile": 59
+        }
+    },
+    {
+        "name": "prom_ex",
+        "description": "An Elixir Prometheus metrics collection library built on top of Telemetry with accompanying Grafana dashboards",
+        "languages": {
+            "Elixir": 1417284,
+            "HTML": 442307,
+            "CSS": 10310,
+            "Shell": 9231,
+            "JavaScript": 2848,
+            "Smarty": 2067,
+            "SCSS": 1536
+        }
+    },
+    {
+        "name": "mongodb",
+        "description": "MongoDB driver for Elixir",
+        "languages": {
+            "Elixir": 291062,
+            "Shell": 2738
+        }
+    },
+    {
+        "name": "ecto_enum",
+        "description": "Ecto extension to support enums in models",
+        "languages": {
+            "Elixir": 32919
+        }
+    },
+    {
+        "name": "mogrify",
+        "description": "Image processing in Elixir (ImageMagick command line wrapper)",
+        "languages": {
+            "Elixir": 40563
+        }
+    },
+    {
+        "name": "scrivener",
+        "description": "Pagination for the Elixir ecosystem",
+        "languages": {
+            "Elixir": 14809
+        }
+    },
+    {
+        "name": "scrivener_ecto",
+        "description": "Paginate your Ecto queries with Scrivener",
+        "languages": {
+            "Elixir": 23634
+        }
+    },
+    {
+        "name": "hammox",
+        "description": "\ud83c\udfdd automated contract testing via type checking for Elixir functions and mocks",
+        "languages": {
+            "Elixir": 105873
+        }
+    },
+    {
+        "name": "money",
+        "description": "Elixir implementation of Money with Currency ",
+        "languages": {
+            "Elixir": 286902
+        }
+    },
+    {
+        "name": "elixir-secure-coding",
+        "description": "An interactive cybersecurity curriculum designed for enterprise use at software companies using Elixir",
+        "languages": {
+            "Elixir": 41821
+        }
+    },
+    {
+        "name": "paper_trail",
+        "description": "Track and record all the changes in your database with Ecto. Revert back to anytime in history.",
+        "languages": {
+            "Elixir": 202826,
+            "Shell": 1198,
+            "Dockerfile": 591
+        }
+    },
+    {
+        "name": "cloak",
+        "description": "Elixir encryption library designed for Ecto",
+        "languages": {
+            "Elixir": 61507,
+            "Shell": 796,
+            "Ruby": 619
+        }
+    },
+    {
+        "name": "phoenix_live_view_example",
+        "description": null,
+        "languages": {
+            "Elixir": 83767,
+            "CSS": 25809,
+            "JavaScript": 2428
+        }
+    },
+    {
+        "name": "flop",
+        "description": "Filtering, ordering and pagination for Ecto",
+        "languages": {
+            "Elixir": 424040
+        }
+    },
+    {
+        "name": "ecto_sql",
+        "description": "SQL-based adapters for Ecto and database migrations",
+        "languages": {
+            "Elixir": 949189,
+            "Earthly": 5453
+        }
+    },
+    {
+        "name": "phoenix-battleship",
+        "description": "The Good Old game, built with Elixir, Phoenix, React and Redux",
+        "languages": {
+            "Elixir": 52628,
+            "JavaScript": 37532,
+            "CSS": 20608,
+            "HTML": 1344
+        }
+    },
+    {
+        "name": "avia",
+        "description": "open source e-commerce framework",
+        "languages": {
+            "Elixir": 1352648,
+            "JavaScript": 410346,
+            "HTML": 207006,
+            "TypeScript": 44167,
+            "SCSS": 35212,
+            "Shell": 8636,
+            "Dockerfile": 4634,
+            "API Blueprint": 2085,
+            "Euphoria": 138
+        }
+    },
+    {
+        "name": "cubdb",
+        "description": "Elixir embedded key/value database",
+        "languages": {
+            "Elixir": 227853,
+            "Makefile": 956
+        }
+    },
+    {
+        "name": "corsica",
+        "description": "Elixir library for dealing with CORS requests. \ud83c\udfd6",
+        "languages": {
+            "Elixir": 77346
+        }
+    },
+    {
+        "name": "constable",
+        "description": "Better company announcements",
+        "languages": {
+            "Elixir": 287595,
+            "HTML": 42788,
+            "SCSS": 19459,
+            "JavaScript": 14847,
+            "Shell": 2776
+        }
+    },
+    {
+        "name": "aws-elixir",
+        "description": "AWS clients for Elixir",
+        "languages": {
+            "Elixir": 33825253
+        }
+    },
+    {
+        "name": "benchfella",
+        "description": "Microbenchmarking tool for Elixir",
+        "languages": {
+            "Elixir": 37019,
+            "JavaScript": 8697,
+            "HTML": 686,
+            "CSS": 333
+        }
+    },
+    {
+        "name": "etudes-for-elixir",
+        "description": "Companion exercises for Introducing Elixir",
+        "languages": {
+            "Elixir": 85403,
+            "Erlang": 298
+        }
+    },
+    {
+        "name": "machinery",
+        "description": "Elixir State machine thin layer for structs",
+        "languages": {
+            "Elixir": 35538
+        }
+    },
+    {
+        "name": "elixir-type_check",
+        "description": "TypeCheck: Fast and flexible runtime type-checking for your Elixir projects.",
+        "languages": {
+            "Elixir": 408160
+        }
+    },
+    {
+        "name": "wasmex",
+        "description": "Execute WebAssembly from Elixir",
+        "languages": {
+            "Elixir": 131016,
+            "Rust": 67613,
+            "WebAssembly": 557
+        }
+    },
+    {
+        "name": "libgraph",
+        "description": "A graph data structure library for Elixir projects",
+        "languages": {
+            "Elixir": 167172,
+            "Makefile": 504
+        }
+    },
+    {
+        "name": "gatling",
+        "description": "Deployment tool for Phoenix apps",
+        "languages": {
+            "Elixir": 51729,
+            "Shell": 664,
+            "HTML": 379,
+            "Nginx": 51
+        }
+    },
+    {
+        "name": "websockex",
+        "description": "An Elixir Websocket Client",
+        "languages": {
+            "Elixir": 170690
+        }
+    },
+    {
+        "name": "rethinkdb-elixir",
+        "description": "Rethinkdb client in pure elixir (JSON protocol)",
+        "languages": {
+            "Elixir": 159430
+        }
+    },
+    {
+        "name": "react-phoenix",
+        "description": "Make rendering React.js components in Phoenix easy",
+        "languages": {
+            "Elixir": 14682,
+            "JavaScript": 3194
+        }
+    },
+    {
+        "name": "mix_install_examples",
+        "description": "A collection of simple Elixir scripts that are using Mix.install/2.",
+        "languages": {
+            "Elixir": 43996
+        }
+    },
+    {
+        "name": "git.limo",
+        "description": "A Git source code management tool powered by Elixir with easy installation & high extensibility.",
+        "languages": {
+            "Elixir": 726408,
+            "HTML": 130045,
+            "C": 123295,
+            "JavaScript": 26732,
+            "SCSS": 21171,
+            "Makefile": 639
+        }
+    },
+    {
+        "name": "ex_hash_ring",
+        "description": "A fast consistent hash ring implementation in Elixir.",
+        "languages": {
+            "Elixir": 187612
+        }
+    },
+    {
+        "name": "tilex",
+        "description": "Today I Learned",
+        "languages": {
+            "Elixir": 228130,
+            "HTML": 53455,
+            "CSS": 22512,
+            "JavaScript": 15644,
+            "Makefile": 787,
+            "Procfile": 172
+        }
+    },
+    {
+        "name": "bonfire-app",
+        "description": "Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.",
+        "languages": {
+            "Elixir": 249777,
+            "JavaScript": 190306,
+            "CSS": 69112,
+            "Nix": 62027,
+            "Just": 35661,
+            "Shell": 12886,
+            "Scheme": 5452,
+            "Swift": 524,
+            "HTML": 480,
+            "Batchfile": 145,
+            "Makefile": 39
+        }
+    },
+    {
+        "name": "codebattle",
+        "description": "Codebattle - Game for programmers, where you solved algorithmic problems with other players in real time. You can fight with other players in single player mode or join massive tournaments.",
+        "languages": {
+            "Elixir": 942394,
+            "JavaScript": 847844,
+            "HTML": 118051,
+            "SCSS": 21287,
+            "Makefile": 9437,
+            "HCL": 6910,
+            "C++": 6272,
+            "Dockerfile": 5374,
+            "Java": 4192,
+            "C#": 4146,
+            "Python": 3679,
+            "Go": 2825,
+            "Haskell": 2385,
+            "Kotlin": 2318,
+            "Jinja": 2053,
+            "Dart": 1894,
+            "PHP": 1468,
+            "Ruby": 1453,
+            "Clojure": 1193,
+            "Slim": 372,
+            "Shell": 10
+        }
+    },
+    {
+        "name": "csv",
+        "description": "CSV Decoding and Encoding for Elixir",
+        "languages": {
+            "Elixir": 111076,
+            "HTML": 10182,
+            "Shell": 401
+        }
+    },
+    {
+        "name": "exprotobuf",
+        "description": "Protocol Buffers in Elixir made easy!",
+        "languages": {
+            "Elixir": 83088
+        }
+    },
+    {
+        "name": "dataloader",
+        "description": "DataLoader for Elixir",
+        "languages": {
+            "Elixir": 131449
+        }
+    },
+    {
+        "name": "jsonapi",
+        "description": "JSON:API Serializer and Query Handler for Elixir",
+        "languages": {
+            "Elixir": 167009
+        }
+    },
+    {
+        "name": "matrex",
+        "description": "A blazing fast matrix library for Elixir/Erlang with C implementation using CBLAS.",
+        "languages": {
+            "Elixir": 217671,
+            "C": 77861,
+            "Jupyter Notebook": 68612,
+            "Makefile": 8259,
+            "Python": 2278
+        }
+    },
+    {
+        "name": "gringotts",
+        "description": "A complete payment library for Elixir and Phoenix Framework",
+        "languages": {
+            "Elixir": 337268,
+            "HTML": 12707,
+            "Shell": 2438
+        }
+    },
+    {
+        "name": "delta_crdt_ex",
+        "description": "Use DeltaCrdt to build distributed applications in Elixir",
+        "languages": {
+            "Elixir": 55921
+        }
+    },
+    {
+        "name": "canary",
+        "description": ":hatching_chick: Elixir authorization and resource-loading library for Plug applications.",
+        "languages": {
+            "Elixir": 76235
+        }
+    },
+    {
+        "name": "dogma",
+        "description": ":closed_lock_with_key: A code style linter for Elixir",
+        "languages": {
+            "Elixir": 185906,
+            "Shell": 74
+        }
+    },
+    {
+        "name": "temple",
+        "description": "An HTML DSL for Elixir and Phoenix",
+        "languages": {
+            "Elixir": 90835,
+            "CSS": 14474,
+            "JavaScript": 249,
+            "Shell": 198
+        }
+    },
+    {
+        "name": "calendar",
+        "description": "date-time and time zone handling in Elixir",
+        "languages": {
+            "Elixir": 174646
+        }
+    },
+    {
+        "name": "tailwind",
+        "description": "An installer for tailwind",
+        "languages": {
+            "Elixir": 22813
+        }
+    },
+    {
+        "name": "nimble_options",
+        "description": "A tiny library for validating and documenting high-level options. \ud83d\udcbd",
+        "languages": {
+            "Elixir": 119858
+        }
+    },
+    {
+        "name": "glimesh.tv",
+        "description": "Glimesh is a next generation live streaming platform built by the community, for the community.",
+        "languages": {
+            "Elixir": 1375115,
+            "HTML": 664429,
+            "SCSS": 42492,
+            "JavaScript": 40365,
+            "Dockerfile": 1495,
+            "Shell": 1055,
+            "Batchfile": 97,
+            "CSS": 55
+        }
+    },
+    {
+        "name": "decimal",
+        "description": "Arbitrary precision decimal arithmetic",
+        "languages": {
+            "Elixir": 106420
+        }
+    },
+    {
+        "name": "plexus",
+        "description": "Remove the fear of Android app compatibility on de-Googled devices.",
+        "languages": {
+            "Elixir": 302419,
+            "HTML": 21142,
+            "JavaScript": 3981,
+            "Dockerfile": 2523,
+            "Shell": 158,
+            "CSS": 145,
+            "Batchfile": 94
+        }
+    },
+    {
+        "name": "site_encrypt",
+        "description": "Integrated certification via Let's encrypt for Elixir-powered sites ",
+        "languages": {
+            "Elixir": 107101
+        }
+    },
+    {
+        "name": "tai",
+        "description": "A composable, real time, market data and trade execution toolkit. Built with Elixir, runs on the Erlang virtual machine",
+        "languages": {
+            "Elixir": 925245
+        }
+    },
+    {
+        "name": "ex_rated",
+        "description": "ExRated, the Elixir OTP GenServer with the naughty name that allows you to rate-limit calls to any service that requires it.",
+        "languages": {
+            "Elixir": 21411
+        }
+    },
+    {
+        "name": "canada",
+        "description": "Easy permission definitions in Elixir apps!",
+        "languages": {
+            "Elixir": 4545
+        }
+    },
+    {
+        "name": "tentacat",
+        "description": "Simple Elixir wrapper for the GitHub API",
+        "languages": {
+            "Elixir": 214810
+        }
+    },
+    {
+        "name": "phoenix_ecto",
+        "description": "Phoenix and Ecto integration with support for concurrent acceptance testing",
+        "languages": {
+            "Elixir": 75637
+        }
+    },
+    {
+        "name": "nimble_publisher",
+        "description": "A minimal filesystem-based publishing engine with Markdown support and code highlighting",
+        "languages": {
+            "Elixir": 15593
+        }
+    },
+    {
+        "name": "rihanna",
+        "description": "Rihanna is a high performance postgres-backed job queue for Elixir",
+        "languages": {
+            "Elixir": 113062
+        }
+    },
+    {
+        "name": "exfmt",
+        "description": "\ud83c\udf38 An opinionated Elixir source code formatter",
+        "languages": {
+            "Elixir": 110577
+        }
+    },
+    {
+        "name": "gettext",
+        "description": "Internationalization and localization support for Elixir.",
+        "languages": {
+            "Elixir": 248516
+        }
+    },
+    {
+        "name": "reticulum",
+        "description": "Phoenix web server for hubs.mozilla.com",
+        "languages": {
+            "Elixir": 812536,
+            "HTML": 12785,
+            "Shell": 8087
+        }
+    },
+    {
+        "name": "triplex",
+        "description": "Database multitenancy for Elixir applications!",
+        "languages": {
+            "Elixir": 84132
+        }
+    },
+    {
+        "name": "ElixirRetry",
+        "description": "Simple Elixir macros for linear retry, exponential backoff and wait with composable delays",
+        "languages": {
+            "Elixir": 58735
+        }
+    },
+    {
+        "name": "sugar",
+        "description": "Modular web framework for Elixir",
+        "languages": {
+            "Elixir": 67148,
+            "HTML": 93
+        }
+    },
+    {
+        "name": "tirexs",
+        "description": "An Elixir flavored HTTP client and DSL library for Elasticsearch",
+        "languages": {
+            "Elixir": 223671
+        }
+    },
+    {
+        "name": "gradient",
+        "description": "Gradient is a static typechecker for Elixir",
+        "languages": {
+            "Elixir": 300721,
+            "Erlang": 285
+        }
+    },
+    {
+        "name": "cldr",
+        "description": "Elixir implementation of CLDR/ICU",
+        "languages": {
+            "Elixir": 815735,
+            "Erlang": 8917,
+            "Shell": 3803
+        }
+    },
+    {
+        "name": "raft",
+        "description": "An Elixir implementation of the raft consensus protocol",
+        "languages": {
+            "Elixir": 93997
+        }
+    },
+    {
+        "name": "transit-lang-cmp",
+        "description": "Programming language comparison by reimplementing the same transit data app",
+        "languages": {
+            "Elixir": 16808,
+            "Rust": 6214,
+            "C#": 5550,
+            "Scala": 5176,
+            "Go": 4327,
+            "TypeScript": 3854,
+            "JavaScript": 2086,
+            "Shell": 1192
+        }
+    },
+    {
+        "name": "langchain",
+        "description": "Elixir implementation of a LangChain style framework.",
+        "languages": {
+            "Elixir": 395731
+        }
+    },
+    {
+        "name": "niex",
+        "description": "Niex is an interactive Elixir code notebook built with Phoenix LiveView.",
+        "languages": {
+            "Elixir": 65191,
+            "CSS": 31359,
+            "JavaScript": 5887,
+            "SCSS": 5747,
+            "HTML": 4090
+        }
+    },
+    {
+        "name": "flowex",
+        "description": "Flow-Based Programming framework for Elixir",
+        "languages": {
+            "Elixir": 55099
+        }
+    },
+    {
+        "name": "plug_attack",
+        "description": "A plug building toolkit for blocking and throttling abusive requests",
+        "languages": {
+            "Elixir": 24335
+        }
+    },
+    {
+        "name": "terraform",
+        "description": "A simple plug for incrementally transforming an API into Phoenix. Check out the blog post:",
+        "languages": {
+            "Elixir": 7807
+        }
+    },
+    {
+        "name": "elasticsearch-elixir",
+        "description": "No-nonsense Elasticsearch library for Elixir",
+        "languages": {
+            "Elixir": 99701,
+            "Shell": 3143,
+            "Ruby": 526,
+            "Dockerfile": 301
+        }
+    },
+    {
+        "name": "trot",
+        "description": "An Elixir web micro-framework.",
+        "languages": {
+            "Elixir": 43633,
+            "HTML": 96
+        }
+    },
+    {
+        "name": "extwitter",
+        "description": "Twitter client library for elixir. ",
+        "languages": {
+            "Elixir": 164569,
+            "Shell": 35
+        }
+    },
+    {
+        "name": "phauxth",
+        "description": "Not actively maintained - Authentication library for Phoenix, and other Plug-based, web applications",
+        "languages": {
+            "Elixir": 73238
+        }
+    },
+    {
+        "name": "atom-elixir",
+        "description": "An Atom package for Elixir",
+        "languages": {
+            "Elixir": 95854,
+            "CoffeeScript": 70578,
+            "JavaScript": 11085,
+            "CSS": 4742
+        }
+    },
+    {
+        "name": "hits",
+        "description": ":chart_with_upwards_trend: General purpose hits (page views) counter ",
+        "languages": {
+            "Elixir": 75233,
+            "CSS": 10893,
+            "HTML": 7255,
+            "JavaScript": 4782,
+            "Dockerfile": 1711,
+            "Shell": 838
+        }
+    },
+    {
+        "name": "ex_debug_toolbar",
+        "description": "A debug web toolbar for Phoenix projects to display all sorts of information about request",
+        "languages": {
+            "Elixir": 105884,
+            "HTML": 13195,
+            "JavaScript": 10165,
+            "CSS": 3962
+        }
+    },
+    {
+        "name": "prometheus.ex",
+        "description": "Prometheus.io Elixir client",
+        "languages": {
+            "Elixir": 140330,
+            "Shell": 2418,
+            "Emacs Lisp": 181,
+            "Clean": 5
+        }
+    },
+    {
+        "name": "coincoin",
+        "description": "Blockchain based cryptocurrency proof-of-concept in Elixir. Feedback welcome",
+        "languages": {
+            "Elixir": 99149,
+            "JavaScript": 4301,
+            "HTML": 2075,
+            "Makefile": 345,
+            "CSS": 50
+        }
+    },
+    {
+        "name": "programming_elixir",
+        "description": "Elixir\u7684\u5165\u95e8\uff08\u8bed\u8a00\u5c42\u9762\uff09\u77e5\u8bc6",
+        "languages": {
+            "Elixir": 39
+        }
+    },
+    {
+        "name": "owl",
+        "description": "A toolkit for writing command-line user interfaces.",
+        "languages": {
+            "Elixir": 202116
+        }
+    },
+    {
+        "name": "raxx",
+        "description": "Interface for HTTP webservers, frameworks and clients",
+        "languages": {
+            "Elixir": 196472,
+            "HTML": 272
+        }
+    },
+    {
+        "name": "cors_plug",
+        "description": "An Elixir Plug to add CORS.",
+        "languages": {
+            "Elixir": 24314
+        }
+    },
+    {
+        "name": "elixir-style-guide",
+        "description": "Style Guide for the Elixir language, implemented by Credo",
+        "languages": {
+            "Elixir": 1302
+        }
+    },
+    {
+        "name": "bootleg",
+        "description": "Simple deployment and server automation for Elixir.",
+        "languages": {
+            "Elixir": 192555,
+            "Shell": 2441,
+            "Dockerfile": 1700
+        }
+    },
+    {
+        "name": "peerage",
+        "description": "Easy Elixir clusters, pluggable discovery. DNS-based (Kubernetes, Weave), UDP multicast, others.",
+        "languages": {
+            "Elixir": 13584
+        }
+    },
+    {
+        "name": "simple_bayes",
+        "description": "A Naive Bayes machine learning implementation in Elixir.",
+        "languages": {
+            "Elixir": 53289
+        }
+    },
+    {
+        "name": "obelisk",
+        "description": "Static Site Generator written in Elixir.",
+        "languages": {
+            "Elixir": 58645
+        }
+    },
+    {
+        "name": "cortex",
+        "description": "The intelligent coding assistant for Elixir",
+        "languages": {
+            "Elixir": 37569
+        }
+    },
+    {
+        "name": "elixir-mail",
+        "description": "Build composable mail messages",
+        "languages": {
+            "Elixir": 154455
+        }
+    },
+    {
+        "name": "xandra",
+        "description": "Fast, simple, and robust Cassandra/ScyllaDB driver for Elixir.",
+        "languages": {
+            "Elixir": 541207,
+            "Shell": 3022,
+            "Dockerfile": 772
+        }
+    },
+    {
+        "name": "phoenix_html",
+        "description": "Building blocks for working with HTML in Phoenix",
+        "languages": {
+            "Elixir": 67417,
+            "JavaScript": 2643
+        }
+    },
+    {
+        "name": "inflex",
+        "description": "An Inflector library for Elixir",
+        "languages": {
+            "Elixir": 25575
+        }
+    },
+    {
+        "name": "conform",
+        "description": "Easy, powerful, and extendable configuration tooling for releases.",
+        "languages": {
+            "Elixir": 184862,
+            "Erlang": 14968,
+            "Shell": 4742,
+            "Makefile": 326
+        }
+    },
+    {
+        "name": "decorator",
+        "description": "Function decorators for Elixir",
+        "languages": {
+            "Elixir": 27067
+        }
+    },
+    {
+        "name": "ethereumex",
+        "description": "Elixir JSON-RPC client for the Ethereum blockchain",
+        "languages": {
+            "Elixir": 90764,
+            "Shell": 227,
+            "Makefile": 121
+        }
+    },
+    {
+        "name": "neodgm",
+        "description": "Modern TrueType font based on an old-but-good Korean bitmap font.",
+        "languages": {
+            "Elixir": 343593
+        }
+    },
+    {
+        "name": "reaxt",
+        "description": "Use React template into your Elixir application for server rendering",
+        "languages": {
+            "Elixir": 21713,
+            "JavaScript": 13781,
+            "HTML": 472
+        }
+    },
+    {
+        "name": "nimble_totp",
+        "description": "A tiny Elixir library for time-based one time passwords (TOTP)",
+        "languages": {
+            "Elixir": 18151
+        }
+    },
+    {
+        "name": "weber",
+        "description": "[WiP] Web framework for Elixir inspired by Rails [#WeberMVC at freenode]",
+        "languages": {
+            "Elixir": 77768,
+            "HTML": 11461,
+            "Makefile": 226,
+            "Shell": 214
+        }
+    },
+    {
+        "name": "the-little-elixir-otp-guidebook-code",
+        "description": "Code examples for The Little Elixir & OTP Guidebook",
+        "languages": {
+            "Elixir": 83183,
+            "Vim Script": 324,
+            "Erlang": 99
+        }
+    },
+    {
+        "name": "Claper",
+        "description": "The ultimate tool to interact with your audience",
+        "languages": {
+            "Elixir": 373610,
+            "HTML": 179090,
+            "JavaScript": 23361,
+            "CSS": 13277,
+            "Dockerfile": 3495,
+            "Shell": 1256,
+            "SCSS": 1176
+        }
+    },
+    {
+        "name": "etso",
+        "description": "Ecto 3 adapter allowing use of Ecto schemas held in ETS tables",
+        "languages": {
+            "Elixir": 42610
+        }
+    },
+    {
+        "name": "component",
+        "description": "Experiment in moving towards higher-level Elixir components",
+        "languages": {
+            "Elixir": 73547
+        }
+    },
+    {
+        "name": "nerves_examples",
+        "description": "Small example programs using Nerves",
+        "languages": {
+            "Elixir": 445681,
+            "HTML": 28257,
+            "CSS": 12505,
+            "JavaScript": 5673,
+            "Shell": 2139,
+            "LFE": 1543,
+            "Erlang": 1422,
+            "Zig": 27
+        }
+    },
+    {
+        "name": "slime",
+        "description": "Minimalistic HTML templates for Elixir, inspired by Slim.",
+        "languages": {
+            "Elixir": 103296,
+            "HTML": 3692,
+            "Erlang": 348
+        }
+    },
+    {
+        "name": "bureaucrat",
+        "description": "Generate Phoenix API documentation from tests",
+        "languages": {
+            "Elixir": 68549
+        }
+    },
+    {
+        "name": "mongodb_ecto",
+        "description": "MongoDB adapter for Ecto",
+        "languages": {
+            "Elixir": 293462
+        }
+    },
+    {
+        "name": "nadia",
+        "description": "Telegram Bot API Wrapper written in Elixir",
+        "languages": {
+            "Elixir": 122453
+        }
+    },
+    {
+        "name": "functional-programming",
+        "description": "Organize material to teach functional programming using Elixir",
+        "languages": {
+            "Elixir": 23686,
+            "Ruby": 3818,
+            "Jupyter Notebook": 2692
+        }
+    },
+    {
+        "name": "redis",
+        "description": "Redis commands for Elixir",
+        "languages": {
+            "Elixir": 31010
+        }
+    },
+    {
+        "name": "propcheck",
+        "description": "Property based Testing for Elixir (based upon PropEr)",
+        "languages": {
+            "Elixir": 396757,
+            "Shell": 6901
+        }
+    },
+    {
+        "name": "guardian_db",
+        "description": "Guardian DB integration for tracking tokens and ensuring logout cannot be replayed.",
+        "languages": {
+            "Elixir": 41548,
+            "HTML": 523,
+            "Makefile": 197
+        }
+    },
+    {
+        "name": "fsm",
+        "description": "Finite State Machine data structure",
+        "languages": {
+            "Elixir": 13807
+        }
+    },
+    {
+        "name": "bonny",
+        "description": "The Elixir based Kubernetes Development Framework",
+        "languages": {
+            "Elixir": 291037,
+            "Makefile": 1731,
+            "Dockerfile": 915
+        }
+    },
+    {
+        "name": "shlinked",
+        "description": "An open-source satirical social network. shlinkedin.com",
+        "languages": {
+            "Elixir": 773084,
+            "HTML": 487122,
+            "JavaScript": 12462,
+            "CSS": 5851,
+            "Dockerfile": 2839,
+            "Shell": 411,
+            "Batchfile": 106
+        }
+    },
+    {
+        "name": "elixir-uuid",
+        "description": "UUID generator and utilities for Elixir",
+        "languages": {
+            "Elixir": 25343
+        }
+    },
+    {
+        "name": "sweet_xml",
+        "description": null,
+        "languages": {
+            "Elixir": 61458
+        }
+    },
+    {
+        "name": "ex_audit",
+        "description": "Ecto auditing library that transparently tracks changes and can revert them.",
+        "languages": {
+            "Elixir": 58999
+        }
+    },
+    {
+        "name": "ecto_psql_extras",
+        "description": "Ecto PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.",
+        "languages": {
+            "Elixir": 71595
+        }
+    },
+    {
+        "name": "assent",
+        "description": "Multi-provider framework in Elixir",
+        "languages": {
+            "Elixir": 323781
+        }
+    },
+    {
+        "name": "opus",
+        "description": "A framework for pluggable business logic components",
+        "languages": {
+            "Elixir": 88043
+        }
+    },
+    {
+        "name": "mojito",
+        "description": "An easy-to-use Elixir HTTP client, built on the low-level Mint library.",
+        "languages": {
+            "Elixir": 91018
+        }
+    },
+    {
+        "name": "mimic",
+        "description": "A mocking library for Elixir",
+        "languages": {
+            "Elixir": 84605
+        }
+    },
+    {
+        "name": "a-little-elixir-goes-a-long-way",
+        "description": "The Little Schemer in Elixir.",
+        "languages": {
+            "Elixir": 79731
+        }
+    },
+    {
+        "name": "phoenix-liveview-counter-tutorial",
+        "description": "\ud83e\udd2f  beginners tutorial building a real time counter in Phoenix 1.7.7 + LiveView 0.19 \u26a1\ufe0f Learn the fundamentals from first principals so you can make something amazing! \ud83d\ude80",
+        "languages": {
+            "Elixir": 57792,
+            "HTML": 16737,
+            "JavaScript": 3988,
+            "Dockerfile": 2524,
+            "CSS": 145,
+            "Shell": 77,
+            "Batchfile": 47
+        }
+    },
+    {
+        "name": "rauversion-phx",
+        "description": "Self hosted music industries built on Elixir Phoenix",
+        "languages": {
+            "Elixir": 1210830,
+            "HTML": 181886,
+            "JavaScript": 66030,
+            "CSS": 41163,
+            "Dockerfile": 3523,
+            "Shell": 2343,
+            "Makefile": 521,
+            "Batchfile": 106,
+            "Procfile": 19
+        }
+    },
+    {
+        "name": "ex_json_schema",
+        "description": "An Elixir JSON Schema validator",
+        "languages": {
+            "Elixir": 137812
+        }
+    },
+    {
+        "name": "scholar",
+        "description": "Traditional machine learning on top of Nx",
+        "languages": {
+            "Elixir": 798914
+        }
+    },
+    {
+        "name": "toniq",
+        "description": "Simple and reliable background job processing library for Elixir.",
+        "languages": {
+            "Elixir": 62150
+        }
+    },
+    {
+        "name": "live_view_native",
+        "description": "A framework for building native applications with Phoenix LiveView",
+        "languages": {
+            "Elixir": 100095,
+            "HTML": 236
+        }
+    },
+    {
+        "name": "tictac",
+        "description": "Demonstration of building a clustered, distributed, multi-player, turn-based game server written in Elixir.",
+        "languages": {
+            "Elixir": 87134,
+            "HTML": 9907,
+            "JavaScript": 3884,
+            "CSS": 1662,
+            "Dockerfile": 1352,
+            "Shell": 450,
+            "Makefile": 105
+        }
+    },
+    {
+        "name": "conduit",
+        "description": "RealWorld example backend implementing the CQRS/ES pattern in Elixir and Phoenix",
+        "languages": {
+            "Elixir": 150583
+        }
+    },
+    {
+        "name": "algae",
+        "description": "Bootstrapped algebraic data types for Elixir",
+        "languages": {
+            "Elixir": 85145,
+            "Nix": 619
+        }
+    },
+    {
+        "name": "docker-pleroma",
+        "description": "Docker image for the Pleroma federated social network",
+        "languages": {
+            "Elixir": 2594,
+            "Dockerfile": 1091
+        }
+    },
+    {
+        "name": "phoenix-diff",
+        "description": "See the changes needed when upgrading an Elixir Phoenix application",
+        "languages": {
+            "Elixir": 8744462,
+            "HTML": 1934060,
+            "CSS": 1517338,
+            "JavaScript": 752154,
+            "SCSS": 15891,
+            "Dockerfile": 2989,
+            "TypeScript": 2652,
+            "Shell": 494,
+            "Batchfile": 48
+        }
+    },
+    {
+        "name": "mix_docker",
+        "description": "Put your Elixir app production release inside minimal docker image",
+        "languages": {
+            "Elixir": 18314
+        }
+    },
+    {
+        "name": "todo_trek",
+        "description": null,
+        "languages": {
+            "Elixir": 226003,
+            "HTML": 19247,
+            "JavaScript": 5839,
+            "CSS": 146
+        }
+    },
+    {
+        "name": "delta-elixir",
+        "description": "Simple yet expressive format to describe contents and changes \ud83d\uddc3",
+        "languages": {
+            "Elixir": 84659
+        }
+    },
+    {
+        "name": "params",
+        "description": "Easy parameters validation/casting with Ecto.Schema, akin to Rails' strong parameters.",
+        "languages": {
+            "Elixir": 30219
+        }
+    },
+    {
+        "name": "spandex",
+        "description": "A platform agnostic tracing library",
+        "languages": {
+            "Elixir": 118115
+        }
+    },
+    {
+        "name": "nimble_pool",
+        "description": "A tiny resource-pool implementation for Elixir",
+        "languages": {
+            "Elixir": 100472
+        }
+    },
+    {
+        "name": "annon.api",
+        "description": "Configurable API gateway that acts as a reverse proxy with a plugin system.",
+        "languages": {
+            "Elixir": 362098,
+            "API Blueprint": 49733,
+            "Dockerfile": 2898,
+            "Shell": 2283,
+            "HTML": 952
+        }
+    },
+    {
+        "name": "ex_twilio",
+        "description": "Twilio API client for Elixir",
+        "languages": {
+            "Elixir": 146358,
+            "Shell": 1742,
+            "Ruby": 527
+        }
+    },
+    {
+        "name": "elixir-pipes",
+        "description": "Macros for more flexible composition with the Elixir Pipe operator",
+        "languages": {
+            "Elixir": 4196
+        }
+    },
+    {
+        "name": "progress_bar",
+        "description": "Command-line progress bars and spinners for Elixir.",
+        "languages": {
+            "Elixir": 26129
+        }
+    },
+    {
+        "name": "elixir-scrape",
+        "description": "Scrape any website, article or RSS/Atom Feed with ease!",
+        "languages": {
+            "Elixir": 84875
+        }
+    },
+    {
+        "name": "ewallet",
+        "description": "eWallet Backend for the OmiseGO SDKs.",
+        "languages": {
+            "Elixir": 4035682,
+            "JavaScript": 871904,
+            "CSS": 42190,
+            "Shell": 19520,
+            "HTML": 5479,
+            "Makefile": 2720,
+            "Dockerfile": 1818
+        }
+    },
+    {
+        "name": "quark",
+        "description": "Common combinators for Elixir",
+        "languages": {
+            "Elixir": 24353,
+            "Nix": 619
+        }
+    },
+    {
+        "name": "kino",
+        "description": "Client-driven interactive widgets for Livebook",
+        "languages": {
+            "Elixir": 340875,
+            "JavaScript": 55385,
+            "CSS": 2710
+        }
+    },
+    {
+        "name": "neuron",
+        "description": "A GraphQL client for Elixir",
+        "languages": {
+            "Elixir": 41263
+        }
+    },
+    {
+        "name": "bytepack_archive",
+        "description": "Archive of bytepack.io",
+        "languages": {
+            "Elixir": 573616,
+            "HTML": 113521,
+            "JavaScript": 16995,
+            "SCSS": 12776
+        }
+    },
+    {
+        "name": "elixir-pdf-generator",
+        "description": "Create PDFs with wkhtmltopdf or puppeteer/chromium from Elixir.",
+        "languages": {
+            "Elixir": 23564,
+            "Makefile": 1377
+        }
+    },
+    {
+        "name": "nectarcommerce",
+        "description": "Quest for customizable E-commerce - the Elixir way",
+        "languages": {
+            "Elixir": 389973,
+            "HTML": 81102,
+            "JavaScript": 42588
+        }
+    },
+    {
+        "name": "instructor_ex",
+        "description": "Structured outputs for LLMs in Elixir",
+        "languages": {
+            "Elixir": 97045
+        }
+    },
+    {
+        "name": "image",
+        "description": "Image processing for Elixir",
+        "languages": {
+            "Elixir": 779020
+        }
+    },
+    {
+        "name": "chromic_pdf",
+        "description": "Convenient HTML to PDF/A rendering library for Elixir based on Chrome & Ghostscript",
+        "languages": {
+            "Elixir": 209882,
+            "HTML": 8337,
+            "PostScript": 774
+        }
+    },
+    {
+        "name": "pathex",
+        "description": "Fastest tool to access data in Elixir",
+        "languages": {
+            "Elixir": 227290,
+            "Nix": 1142
+        }
+    },
+    {
+        "name": "excheck",
+        "description": "Property-based testing library for Elixir (QuickCheck style).",
+        "languages": {
+            "Elixir": 26097
+        }
+    },
+    {
+        "name": "pow_assent",
+        "description": "Multi-provider authentication for your Pow enabled app",
+        "languages": {
+            "Elixir": 248747,
+            "HTML": 21
+        }
+    },
+    {
+        "name": "Serum",
+        "description": "Static website generator for Elixir fans",
+        "languages": {
+            "Elixir": 360149,
+            "HTML": 7606,
+            "Euphoria": 86
+        }
+    },
+    {
+        "name": "textdb",
+        "description": "The whole shaboodle for textdb, a simple data sharing service",
+        "languages": {
+            "Elixir": 45358,
+            "HTML": 5979,
+            "JavaScript": 4864,
+            "SCSS": 3261
+        }
+    },
+    {
+        "name": "opencov",
+        "description": "Open source code coverage history webapp",
+        "languages": {
+            "Elixir": 132213,
+            "HTML": 32259,
+            "JavaScript": 4507,
+            "Stylus": 4501,
+            "Pug": 1263,
+            "Ruby": 965,
+            "Less": 430,
+            "Dockerfile": 346,
+            "Shell": 291
+        }
+    },
+    {
+        "name": "mix_audit",
+        "description": "\ud83d\udd75\ufe0f\u200d\u2640\ufe0f MixAudit provides a mix deps.audit task to scan a project Mix dependencies for known Elixir security vulnerabilities",
+        "languages": {
+            "Elixir": 30157,
+            "Makefile": 1619
+        }
+    },
+    {
+        "name": "phoenix_slime",
+        "description": "Phoenix Template Engine for Slime",
+        "languages": {
+            "Elixir": 34141,
+            "HTML": 2936
+        }
+    },
+    {
+        "name": "instruments",
+        "description": "Simple and Fast metrics for Elixir",
+        "languages": {
+            "Elixir": 75343
+        }
+    },
+    {
+        "name": "meeseeks",
+        "description": "An Elixir library for parsing and extracting data from HTML and XML with CSS or XPath selectors.",
+        "languages": {
+            "Elixir": 346424,
+            "Erlang": 19217
+        }
+    },
+    {
+        "name": "riffed",
+        "description": "Provides idiomatic Elixir bindings for Apache Thrift",
+        "languages": {
+            "Elixir": 100682,
+            "Thrift": 3800
+        }
+    },
+    {
+        "name": "k8s",
+        "description": "Kubernetes API Client for Elixir",
+        "languages": {
+            "Elixir": 363963,
+            "Makefile": 2683,
+            "Ruby": 751,
+            "Dockerfile": 212
+        }
+    },
+    {
+        "name": "tortoise",
+        "description": "A MQTT Client written in Elixir",
+        "languages": {
+            "Elixir": 257390
+        }
+    },
+    {
+        "name": "flop_phoenix",
+        "description": "Components for pagination, sortable tables and filter forms using Phoenix, Ecto and Flop",
+        "languages": {
+            "Elixir": 253950
+        }
+    },
+    {
+        "name": "Ace",
+        "description": "HTTP web server and client, supports http1 and http2",
+        "languages": {
+            "Elixir": 172736
+        }
+    },
+    {
+        "name": "MonadEx",
+        "description": "Upgrade your pipelines with monads.",
+        "languages": {
+            "Elixir": 42976
+        }
+    },
+    {
+        "name": "oop",
+        "description": "OOP in Elixir!",
+        "languages": {
+            "Elixir": 11084
+        }
+    },
+    {
+        "name": "logger_file_backend",
+        "description": null,
+        "languages": {
+            "Elixir": 19216
+        }
+    },
+    {
+        "name": "evision",
+        "description": "Evision: An OpenCV-Erlang/Elixir binding",
+        "languages": {
+            "Elixir": 436247,
+            "Python": 329013,
+            "C++": 246005,
+            "Erlang": 41442,
+            "JavaScript": 33148,
+            "CMake": 17749,
+            "Makefile": 11458,
+            "CSS": 6290,
+            "C": 5473,
+            "Shell": 4043,
+            "PowerShell": 1736
+        }
+    },
+    {
+        "name": "phoenix_guardian",
+        "description": "A demo application showing usage of guardian and ueberauth",
+        "languages": {
+            "Elixir": 62381,
+            "HTML": 12109,
+            "JavaScript": 5604,
+            "CSS": 38
+        }
+    },
+    {
+        "name": "vutuv",
+        "description": "vutuv is a business network. Think of it as a fast, secure and less annoying open-source alternative for LinkedIn or XING.",
+        "languages": {
+            "Elixir": 410927,
+            "HTML": 46051,
+            "CSS": 12693,
+            "JavaScript": 1575
+        }
+    },
+    {
+        "name": "ex_check",
+        "description": "One task to efficiently run all code analysis & testing tools in an Elixir project. Born out of \ud83d\udc9c to Elixir and pragmatism.",
+        "languages": {
+            "Elixir": 82414
+        }
+    },
+    {
+        "name": "gen_state_machine",
+        "description": "An idiomatic Elixir wrapper for gen_statem in OTP 19 (and above).",
+        "languages": {
+            "Elixir": 42419
+        }
+    },
+    {
+        "name": "teex",
+        "description": "Use Elixir like a scripting language, across your system",
+        "languages": {
+            "Elixir": 29993
+        }
+    },
+    {
+        "name": "confex",
+        "description": "Useful helper to read and use application configuration from environment variables.",
+        "languages": {
+            "Elixir": 49136
+        }
+    },
+    {
+        "name": "absinthe_phoenix",
+        "description": null,
+        "languages": {
+            "Elixir": 54340
+        }
+    },
+    {
+        "name": "exceptional",
+        "description": "Helpers for Elixir exceptions",
+        "languages": {
+            "Elixir": 21397
+        }
+    },
+    {
+        "name": "ex_top",
+        "description": "ExTop is an interactive monitor for the Erlang VM written in Elixir.",
+        "languages": {
+            "Elixir": 15240
+        }
+    },
+    {
+        "name": "openai.ex",
+        "description": "community-maintained OpenAI API Wrapper written in Elixir.",
+        "languages": {
+            "Elixir": 97212
+        }
+    },
+    {
+        "name": "socializer",
+        "description": "A basic social media application to demonstrate Elixir + Phoenix + GraphQL + React + Apollo",
+        "languages": {
+            "Elixir": 97326,
+            "JavaScript": 95651,
+            "CSS": 2492,
+            "Dockerfile": 192,
+            "HTML": 158
+        }
+    },
+    {
+        "name": "phoenix_live_reload",
+        "description": "Provides live-reload functionality for Phoenix",
+        "languages": {
+            "Elixir": 33938,
+            "JavaScript": 5221
+        }
+    },
+    {
+        "name": "db_connection",
+        "description": "Database connection behaviour",
+        "languages": {
+            "Elixir": 347932
+        }
+    },
+    {
+        "name": "mobilizon",
+        "description": "Gather, organize and mobilize yourselves with a convivial, ethical, and emancipating tool.",
+        "languages": {
+            "Elixir": 2948635,
+            "Vue": 1252269,
+            "TypeScript": 359602,
+            "HTML": 244608,
+            "CSS": 9421,
+            "Dockerfile": 8415,
+            "JavaScript": 7196,
+            "Shell": 5052,
+            "SCSS": 4012,
+            "Makefile": 1012,
+            "Python": 613
+        }
+    },
+    {
+        "name": "elixir-samples",
+        "description": "A collection of samples on using Elixir with Google Cloud Platform. ",
+        "languages": {
+            "Elixir": 92488,
+            "JavaScript": 8778,
+            "HTML": 6202,
+            "CSS": 49
+        }
+    },
+    {
+        "name": "alloy_ci",
+        "description": "Continuous Integration, Deployment, and Delivery coordinator, written in Elixir.",
+        "languages": {
+            "Elixir": 334056,
+            "HTML": 98435,
+            "JavaScript": 13097,
+            "SCSS": 2896,
+            "Dockerfile": 1177,
+            "Makefile": 570,
+            "Shell": 292
+        }
+    },
+    {
+        "name": "elixir_sense",
+        "description": "Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",
+        "languages": {
+            "Elixir": 820261,
+            "Erlang": 156225
+        }
+    },
+    {
+        "name": "tzdata",
+        "description": "tzdata for Elixir. Born from the Calendar library.",
+        "languages": {
+            "Elixir": 127981
+        }
+    },
+    {
+        "name": "scribe",
+        "description": "Pretty print tables of Elixir structs and maps",
+        "languages": {
+            "Elixir": 50602
+        }
+    },
+    {
+        "name": "hologram",
+        "description": "Full stack isomorphic Elixir web framework",
+        "languages": {
+            "Elixir": 1133260,
+            "JavaScript": 719287,
+            "Euphoria": 6
+        }
+    },
+    {
+        "name": "elixir_express",
+        "description": null,
+        "languages": {
+            "Elixir": 14876
+        }
+    },
+    {
+        "name": "exconstructor",
+        "description": "An Elixir library for generating struct constructors that handle external data with ease.",
+        "languages": {
+            "Elixir": 19971
+        }
+    },
+    {
+        "name": "msgpax",
+        "description": "High-performance and comprehensive MessagePack implementation for Elixir / msgpack.org[Elixir]",
+        "languages": {
+            "Elixir": 55842
+        }
+    },
+    {
+        "name": "elixium_core",
+        "description": "A privacy-preserving decentralized application network",
+        "languages": {
+            "Elixir": 101851,
+            "Makefile": 78
+        }
+    },
+    {
+        "name": "erlangelist",
+        "description": "Source code of The Erlangelist blog",
+        "languages": {
+            "Elixir": 51701,
+            "Shell": 15536,
+            "JavaScript": 7151,
+            "HTML": 5414,
+            "CSS": 2954,
+            "Dockerfile": 990,
+            "Lua": 164
+        }
+    },
+    {
+        "name": "beaker",
+        "description": "A mirror for https://git.sr.ht/~hwrd/beaker",
+        "languages": {
+            "Elixir": 62393,
+            "CSS": 5591,
+            "HTML": 1246
+        }
+    },
+    {
+        "name": "elixirstatus-web",
+        "description": "Community site for Elixir project/blog post/version updates",
+        "languages": {
+            "Elixir": 126071,
+            "HTML": 47639,
+            "CSS": 40119,
+            "JavaScript": 5324
+        }
+    },
+    {
+        "name": "reaxive",
+        "description": "Reactive Extensions for Elixir",
+        "languages": {
+            "Elixir": 96934,
+            "Shell": 963
+        }
+    },
+    {
+        "name": "geo_postgis",
+        "description": "Postrex Extension for PostGIS",
+        "languages": {
+            "Elixir": 39260
+        }
+    },
+    {
+        "name": "apex",
+        "description": "Awesome printing for Elixir",
+        "languages": {
+            "Elixir": 19324
+        }
+    },
+    {
+        "name": "statix",
+        "description": "Fast and reliable Elixir client for StatsD-compatible servers",
+        "languages": {
+            "Elixir": 27713
+        }
+    },
+    {
+        "name": "goth",
+        "description": "Elixir package for Oauth authentication via Google Cloud APIs",
+        "languages": {
+            "Elixir": 111164
+        }
+    },
+    {
+        "name": "hashids-elixir",
+        "description": "Stringify your ids",
+        "languages": {
+            "Elixir": 21518
+        }
+    },
+    {
+        "name": "briefly",
+        "description": "Simple, robust temporary file support for Elixir.",
+        "languages": {
+            "Elixir": 28386
+        }
+    },
+    {
+        "name": "elm-hipster-stack",
+        "description": "Simple project using Elm, Phoenix, GraphQL and PostgreSQL",
+        "languages": {
+            "Elixir": 27973,
+            "Elm": 14707,
+            "JavaScript": 4203,
+            "HTML": 1250,
+            "CSS": 50
+        }
+    },
+    {
+        "name": "ecto_job",
+        "description": "Transactional job queue with Ecto, PostgreSQL and GenStage",
+        "languages": {
+            "Elixir": 75330,
+            "Makefile": 150
+        }
+    },
+    {
+        "name": "polymorphic_embed",
+        "description": "Polymorphic embeds in Ecto",
+        "languages": {
+            "Elixir": 120902
+        }
+    },
+    {
+        "name": "mana",
+        "description": "Ethereum full node implementation written in Elixir.",
+        "languages": {
+            "Elixir": 1775134,
+            "Shell": 1994
+        }
+    },
+    {
+        "name": "recode",
+        "description": "A linter with autocorrection and a refactoring tool.",
+        "languages": {
+            "Elixir": 295516
+        }
+    },
+    {
+        "name": "appsignal-elixir",
+        "description": "\ud83d\udfea AppSignal for Elixir package",
+        "languages": {
+            "Elixir": 505282,
+            "C": 39017,
+            "HTML": 2887,
+            "Shell": 2887,
+            "Makefile": 1694,
+            "Dockerfile": 948,
+            "Ruby": 596
+        }
+    },
+    {
+        "name": "firenest",
+        "description": null,
+        "languages": {
+            "Elixir": 88018
+        }
+    },
+    {
+        "name": "learn-elasticsearch",
+        "description": ":mag: Learn how to use ElasticSearch to power a great search experience for your project/product/website.",
+        "languages": {
+            "Elixir": 4615,
+            "JavaScript": 4011
+        }
+    },
+    {
+        "name": "phoenix-ecto-encryption-example",
+        "description": "\ud83d\udd10 A detailed example for how to encrypt data in an Elixir (Phoenix v1.7) App before inserting into a database using Ecto Types",
+        "languages": {
+            "Elixir": 60068,
+            "JavaScript": 3973,
+            "HTML": 1886,
+            "CSS": 49
+        }
+    },
+    {
+        "name": "rackla",
+        "description": "Open Source API Gateway in Elixir",
+        "languages": {
+            "Elixir": 58204
+        }
+    },
+    {
+        "name": "elixlsx",
+        "description": "An Elixir XLSX writer",
+        "languages": {
+            "Elixir": 87741,
+            "Shell": 182
+        }
+    },
+    {
+        "name": "phoenix_swoosh",
+        "description": "Swoosh <3 Phoenix",
+        "languages": {
+            "Elixir": 37678
+        }
+    },
+    {
+        "name": "quixir",
+        "description": "Property-based testing for Elixir",
+        "languages": {
+            "Elixir": 13584
+        }
+    },
+    {
+        "name": "webbkoll",
+        "description": "An online tool that checks how a website is doing with regards to privacy",
+        "languages": {
+            "Elixir": 129118,
+            "HTML": 103450,
+            "SCSS": 57975,
+            "Jinja": 1015,
+            "JavaScript": 579
+        }
+    },
+    {
+        "name": "open_owl",
+        "description": "Download user lists including user permissions from various SaaS applications without the need for a public API",
+        "languages": {
+            "Elixir": 88639,
+            "TypeScript": 3622,
+            "Dockerfile": 1915,
+            "Shell": 717
+        }
+    },
+    {
+        "name": "listudy",
+        "description": "Listudy - chess training server",
+        "languages": {
+            "Elixir": 253400,
+            "HTML": 165338,
+            "JavaScript": 138651,
+            "CSS": 42444,
+            "SCSS": 3811,
+            "Python": 1806,
+            "Shell": 1165
+        }
+    },
+    {
+        "name": "vscode-elixir",
+        "description": "This plugin is no longer maintained!",
+        "languages": {
+            "Elixir": 99666,
+            "TypeScript": 59788,
+            "Makefile": 934
+        }
+    },
+    {
+        "name": "connection",
+        "description": "Connection behaviour for connection processes",
+        "languages": {
+            "Elixir": 64738
+        }
+    },
+    {
+        "name": "rabbitmq-message-deduplication",
+        "description": "RabbitMQ Plugin for filtering message duplicates",
+        "languages": {
+            "Elixir": 61428,
+            "Erlang": 23027,
+            "Makefile": 1742
+        }
+    },
+    {
+        "name": "mariaex",
+        "description": "Pure Elixir database driver for MariaDB / MySQL",
+        "languages": {
+            "Elixir": 194708
+        }
+    },
+    {
+        "name": "esbuild",
+        "description": "An installer for esbuild",
+        "languages": {
+            "Elixir": 21895
+        }
+    },
+    {
+        "name": "protox",
+        "description": "A fast, easy to use and 100% conformant Elixir library for Google Protocol Buffers (aka protobuf)",
+        "languages": {
+            "Elixir": 350481
+        }
+    },
+    {
+        "name": "html_sanitize_ex",
+        "description": "HTML sanitizer for Elixir",
+        "languages": {
+            "Elixir": 119491,
+            "Shell": 729
+        }
+    },
+    {
+        "name": "ecto_sqlite3",
+        "description": " An Ecto SQLite3 adapter.",
+        "languages": {
+            "Elixir": 256174
+        }
+    },
+    {
+        "name": "parent",
+        "description": "Custom parenting of processes in Elixir",
+        "languages": {
+            "Elixir": 169064
+        }
+    },
+    {
+        "name": "reverse_proxy_plug",
+        "description": "\ud83d\udd1b an Elixir reverse proxy Plug with HTTP/2, chunked transfer and path proxying support",
+        "languages": {
+            "Elixir": 69396,
+            "Euphoria": 145
+        }
+    },
+    {
+        "name": "bolt_sips",
+        "description": "Neo4j driver for Elixir",
+        "languages": {
+            "Elixir": 450197
+        }
+    },
+    {
+        "name": "exchat",
+        "description": "(Not maintaining) A Slack-like app by Elixir, Phoenix & React(redux)",
+        "languages": {
+            "Elixir": 85237,
+            "JavaScript": 64345,
+            "CSS": 3531,
+            "HTML": 620
+        }
+    },
+    {
+        "name": "app-servers",
+        "description": "App Servers benchmarked for: Ruby, Python, JavaScript, Dart, Elixir, Java, Crystal, Nim, GO, Rust",
+        "languages": {
+            "Elixir": 897,
+            "Dart": 491,
+            "Nim": 325,
+            "JavaScript": 316,
+            "Go": 238,
+            "Crystal": 173,
+            "Python": 172,
+            "Ruby": 82
+        }
+    },
+    {
+        "name": "arc_ecto",
+        "description": "An integration with Arc and Ecto.",
+        "languages": {
+            "Elixir": 20694
+        }
+    },
+    {
+        "name": "opq",
+        "description": "Elixir queue! A simple, in-memory queue with worker pooling and rate limiting in Elixir.",
+        "languages": {
+            "Elixir": 22446
+        }
+    },
+    {
+        "name": "saxy",
+        "description": "Fast SAX parser and encoder for XML in Elixir",
+        "languages": {
+            "Elixir": 166210
+        }
+    },
+    {
+        "name": "myxql",
+        "description": "MySQL 5.5+ driver for Elixir",
+        "languages": {
+            "Elixir": 204680,
+            "Shell": 462
+        }
+    },
+    {
+        "name": "elastix",
+        "description": "A simple Elasticsearch REST client written in Elixir.",
+        "languages": {
+            "Elixir": 93475
+        }
+    },
+    {
+        "name": "file_system",
+        "description": "Filesystem monitor for elixir",
+        "languages": {
+            "Elixir": 39870,
+            "C": 18412,
+            "C#": 11413,
+            "Makefile": 360
+        }
+    },
+    {
+        "name": "absinthe_plug",
+        "description": "Plug support for Absinthe, the GraphQL toolkit for Elixir",
+        "languages": {
+            "Elixir": 131974,
+            "HTML": 7848
+        }
+    },
+    {
+        "name": "discovery",
+        "description": "An OTP application for auto-discovering services with Consul",
+        "languages": {
+            "Elixir": 46754,
+            "Ruby": 286
+        }
+    },
+    {
+        "name": "still",
+        "description": "A composable Elixir static site generator",
+        "languages": {
+            "Elixir": 168412,
+            "CSS": 10845,
+            "Shell": 2920,
+            "JavaScript": 150
+        }
+    },
+    {
+        "name": "typed_ecto_schema",
+        "description": "A library to define Ecto schemas with typespecs without all the boilerplate code.",
+        "languages": {
+            "Elixir": 63963
+        }
+    },
+    {
+        "name": "walex",
+        "description": "Postgres change events (CDC) in Elixir",
+        "languages": {
+            "Elixir": 127637
+        }
+    },
+    {
+        "name": "stripcode",
+        "description": "Competitive Online Game for Programmers",
+        "languages": {
+            "Elixir": 65883,
+            "CSS": 11670,
+            "HTML": 7359,
+            "JavaScript": 4391,
+            "SCSS": 2253,
+            "Dockerfile": 1098,
+            "Shell": 358
+        }
+    },
+    {
+        "name": "elixir_agent",
+        "description": "New Relic's Open Source Elixir Agent",
+        "languages": {
+            "Elixir": 497399
+        }
+    },
+    {
+        "name": "nerves_livebook",
+        "description": "Develop on embedded devices with Livebook and Nerves",
+        "languages": {
+            "Elixir": 132911,
+            "Shell": 3509,
+            "HTML": 1643
+        }
+    },
+    {
+        "name": "elixir-koans",
+        "description": "Small exercises to discover elixir by testing",
+        "languages": {
+            "Elixir": 29201
+        }
+    },
+    {
+        "name": "focus",
+        "description": "Lightweight Elixir lenses",
+        "languages": {
+            "Elixir": 36825
+        }
+    },
+    {
+        "name": "remote_ip",
+        "description": "A plug to rewrite the Plug.Conn's remote_ip based on forwarding headers.",
+        "languages": {
+            "Elixir": 177642
+        }
+    },
+    {
+        "name": "chroxy",
+        "description": "Headless Chrome as a Service",
+        "languages": {
+            "Elixir": 47325,
+            "Dockerfile": 1756
+        }
+    },
+    {
+        "name": "rollbax",
+        "description": "Exception tracking and logging from Elixir to Rollbar",
+        "languages": {
+            "Elixir": 56183
+        }
+    },
+    {
+        "name": "ecto_mnesia",
+        "description": "Ecto adapter for Mnesia Erlang term database.",
+        "languages": {
+            "Elixir": 110488,
+            "Shell": 81
+        }
+    },
+    {
+        "name": "gutenex",
+        "description": "Native PDF generation for Elixir",
+        "languages": {
+            "Elixir": 80220
+        }
+    },
+    {
+        "name": "spawn",
+        "description": "Spawn - Actor Mesh",
+        "languages": {
+            "Elixir": 844341,
+            "Rust": 28330,
+            "HTML": 17003,
+            "Makefile": 12896,
+            "Shell": 2418
+        }
+    },
+    {
+        "name": "pinchflat",
+        "description": "Your next YouTube media manager",
+        "languages": {
+            "Elixir": 554419,
+            "HTML": 51579,
+            "JavaScript": 14045,
+            "Dockerfile": 5895,
+            "CSS": 3214,
+            "Shell": 1763
+        }
+    },
+    {
+        "name": "SchedEx",
+        "description": "Simple scheduling for Elixir",
+        "languages": {
+            "Elixir": 42228
+        }
+    },
+    {
+        "name": "rexbug",
+        "description": "A thin Elixir wrapper for the redbug Erlang tracing debugger.",
+        "languages": {
+            "Elixir": 104562,
+            "Shell": 1043,
+            "Makefile": 647
+        }
+    },
+    {
+        "name": "table_rex",
+        "description": "An Elixir app which generates text-based tables for display",
+        "languages": {
+            "Elixir": 138250,
+            "Nix": 1698
+        }
+    },
+    {
+        "name": "arbor",
+        "description": "Ecto elixir adjacency list and tree traversal. Supports Ecto versions 2 and 3.",
+        "languages": {
+            "Elixir": 24902,
+            "Makefile": 246
+        }
+    },
+    {
+        "name": "ex_phone_number",
+        "description": "Elixir port of libphonenumber",
+        "languages": {
+            "Elixir": 195036
+        }
+    },
+    {
+        "name": "code-corps-api",
+        "description": "Elixir/Phoenix API for Code Corps.",
+        "languages": {
+            "Elixir": 1470227,
+            "PLpgSQL": 111298,
+            "API Blueprint": 107915,
+            "HTML": 43889,
+            "CSS": 6471,
+            "Shell": 1123
+        }
+    },
+    {
+        "name": "cainophile",
+        "description": null,
+        "languages": {
+            "Elixir": 22258
+        }
+    },
+    {
+        "name": "elixir-mongodb-driver",
+        "description": "MongoDB driver for Elixir",
+        "languages": {
+            "Elixir": 643786,
+            "HTML": 25352,
+            "CSS": 14101,
+            "JavaScript": 1742
+        }
+    },
+    {
+        "name": "elixir-auth-google",
+        "description": "\ud83d\udc64Minimalist Google OAuth Authentication for Elixir Apps. Tested, Documented & Maintained. Setup in 5 mins. \ud83d\ude80",
+        "languages": {
+            "Elixir": 24439
+        }
+    },
+    {
+        "name": "phoenix_gen_socket_client",
+        "description": "Socket client behaviour for phoenix channels",
+        "languages": {
+            "Elixir": 71333,
+            "JavaScript": 30908
+        }
+    },
+    {
+        "name": "shorter_maps",
+        "description": "Elixir ~M sigil for map shorthand. `~M{id, name} ~> %{id: id, name: name}`",
+        "languages": {
+            "Elixir": 18678
+        }
+    },
+    {
+        "name": "plug_cowboy",
+        "description": "Plug adapter for the Cowboy web server",
+        "languages": {
+            "Elixir": 79768
+        }
+    },
+    {
+        "name": "ci",
+        "description": "CI/CD toolkit as a library",
+        "languages": {
+            "Elixir": 68489,
+            "Go": 7495,
+            "HTML": 1976
+        }
+    },
+    {
+        "name": "kerosene",
+        "description": "Pagination for Ecto and Pheonix.",
+        "languages": {
+            "Elixir": 40052
+        }
+    },
+    {
+        "name": "astarte",
+        "description": "Core Astarte Repository",
+        "languages": {
+            "Elixir": 2424778,
+            "Dockerfile": 15780,
+            "Nix": 1132,
+            "Shell": 422,
+            "Euphoria": 301
+        }
+    },
+    {
+        "name": "wasmcloud-otp",
+        "description": "wasmCloud host runtime that leverages Elixir/OTP and Rust to provide simple, secure, distributed application development using the actor model",
+        "languages": {
+            "Elixir": 476514,
+            "Rust": 62616,
+            "Nix": 36146,
+            "HTML": 27435,
+            "CSS": 10310,
+            "SCSS": 2304,
+            "Makefile": 1920,
+            "Smarty": 1894,
+            "Dockerfile": 1739,
+            "Shell": 791,
+            "JavaScript": 620
+        }
+    },
+    {
+        "name": "readability",
+        "description": "Readability is Elixir library for extracting and curating articles.",
+        "languages": {
+            "Elixir": 54178
+        }
+    },
+    {
+        "name": "bob",
+        "description": "The Builder",
+        "languages": {
+            "Elixir": 74661,
+            "Shell": 18545,
+            "Dockerfile": 18163,
+            "HTML": 350
+        }
+    },
+    {
+        "name": "desktop-example-app",
+        "description": "Elixir Sample App using the Desktop library with LiveView to create a desktop app",
+        "languages": {
+            "Elixir": 41099,
+            "Dockerfile": 3345,
+            "SCSS": 3155,
+            "HTML": 2202,
+            "JavaScript": 825,
+            "Shell": 648,
+            "Batchfile": 75
+        }
+    },
+    {
+        "name": "fika",
+        "description": "A statically typed functional programming language for the web.",
+        "languages": {
+            "Elixir": 200462,
+            "HTML": 397,
+            "Shell": 44
+        }
+    },
+    {
+        "name": "loom",
+        "description": "A CRDT library with \u03b4-CRDT support.",
+        "languages": {
+            "Elixir": 67855
+        }
+    },
+    {
+        "name": "dotenv_elixir",
+        "description": "A port of dotenv to Elixir",
+        "languages": {
+            "Elixir": 14767,
+            "Shell": 1031
+        }
+    },
+    {
+        "name": "trans",
+        "description": "Embedded translations for Elixir",
+        "languages": {
+            "Elixir": 57639
+        }
+    },
+    {
+        "name": "recase",
+        "description": ":recycle: Convert strings to any case.",
+        "languages": {
+            "Elixir": 50683
+        }
+    },
+    {
+        "name": "instream",
+        "description": "InfluxDB driver for Elixir",
+        "languages": {
+            "Elixir": 191430
+        }
+    },
+    {
+        "name": "argon2_elixir",
+        "description": "Elixir wrapper for the Argon2 password hashing algorithm",
+        "languages": {
+            "Elixir": 27984,
+            "C": 5995,
+            "Makefile": 2030
+        }
+    },
+    {
+        "name": "demo_system",
+        "description": null,
+        "languages": {
+            "Elixir": 52159,
+            "CSS": 1638,
+            "JavaScript": 1306,
+            "HTML": 596,
+            "Shell": 378
+        }
+    },
+    {
+        "name": "coderplanets_server",
+        "description": "coderplanets.com API(GraphQL) server,   build with elixir, phoenix, absinthe",
+        "languages": {
+            "Elixir": 3286843,
+            "Makefile": 16799,
+            "CSS": 13149,
+            "Shell": 2926,
+            "Dockerfile": 1782,
+            "JavaScript": 620,
+            "HTML": 595,
+            "Euphoria": 1
+        }
+    },
+    {
+        "name": "live_admin",
+        "description": "Low-config admin UI for Phoenix apps, built on LiveView",
+        "languages": {
+            "Elixir": 140937,
+            "CSS": 15425,
+            "JavaScript": 7018,
+            "HTML": 1188,
+            "Dockerfile": 461
+        }
+    },
+    {
+        "name": "white-bread",
+        "description": "\ud83c\udf5e Story BDD tool for elixir using gherkin",
+        "languages": {
+            "Elixir": 103445,
+            "Gherkin": 3760,
+            "Shell": 258
+        }
+    },
+    {
+        "name": "ex-shop",
+        "description": "Digital goods shop & blog created using Elixir (Phoenix framework)",
+        "languages": {
+            "Elixir": 103080,
+            "HTML": 75332,
+            "CSS": 21499,
+            "JavaScript": 9763
+        }
+    },
+    {
+        "name": "phoenix_integration",
+        "description": "Lightweight server side integration test tools for Phoenix",
+        "languages": {
+            "Elixir": 185500
+        }
+    },
+    {
+        "name": "elixir-json",
+        "description": "Native JSON library for Elixir",
+        "languages": {
+            "Elixir": 54838
+        }
+    },
+    {
+        "name": "formex",
+        "description": "A better form library for Phoenix",
+        "languages": {
+            "Elixir": 114125,
+            "JavaScript": 3168
+        }
+    },
+    {
+        "name": "number",
+        "description": "ActionView::Helpers::NumberHelper for Elixir",
+        "languages": {
+            "Elixir": 39940,
+            "Shell": 650,
+            "Ruby": 528
+        }
+    },
+    {
+        "name": "logger_json",
+        "description": "JSON console backend for Elixir Logger.",
+        "languages": {
+            "Elixir": 67364
+        }
+    },
+    {
+        "name": "docker-web-framework-examples",
+        "description": "Example apps that demonstate how to use Docker with your favorite web frameworks.",
+        "languages": {
+            "Elixir": 26440,
+            "Ruby": 22189,
+            "HTML": 8306,
+            "JavaScript": 5226,
+            "Dockerfile": 1965,
+            "Shell": 1263,
+            "Python": 1086,
+            "CSS": 709,
+            "SCSS": 25
+        }
+    },
+    {
+        "name": "drops",
+        "description": "\ud83d\udee0\ufe0f Tools for working with data effectively - data contracts using types, schemas, domain validation rules, type-safe casting, and more.",
+        "languages": {
+            "Elixir": 155975
+        }
+    },
+    {
+        "name": "Elixir",
+        "description": null,
+        "languages": {
+            "Elixir": 29521
+        }
+    },
+    {
+        "name": "broadway_kafka",
+        "description": "A Broadway connector for Kafka",
+        "languages": {
+            "Elixir": 121415,
+            "Earthly": 888
+        }
+    },
+    {
+        "name": "ueberauth_example",
+        "description": "Example Phoenix application using \u00dcberauth for authentication",
+        "languages": {
+            "Elixir": 43698,
+            "CSS": 10398,
+            "HTML": 4764,
+            "JavaScript": 4237,
+            "SCSS": 629
+        }
+    },
+    {
+        "name": "elixir-datastructures",
+        "description": "Datastructures for Elixir.",
+        "languages": {
+            "Elixir": 69655
+        }
+    },
+    {
+        "name": "exzeitable",
+        "description": "Dynamically updating, searchable, sortable datatables with Phoenix LiveView",
+        "languages": {
+            "Elixir": 136429,
+            "CSS": 12360,
+            "JavaScript": 8017,
+            "HTML": 5074,
+            "Shell": 557
+        }
+    },
+    {
+        "name": "timber-elixir",
+        "description": "\ud83c\udf32 Great Elixir logging made easy",
+        "languages": {
+            "Elixir": 118243
+        }
+    },
+    {
+        "name": "tune",
+        "description": "A streamlined Spotify client and browser with a focus on performance and integrations.",
+        "languages": {
+            "Elixir": 244555,
+            "HTML": 38744,
+            "SCSS": 23193,
+            "JavaScript": 9913,
+            "Shell": 302
+        }
+    },
+    {
+        "name": "atlas",
+        "description": "Object Relational Mapper for Elixir",
+        "languages": {
+            "Elixir": 99023
+        }
+    },
+    {
+        "name": "ffmpex",
+        "description": "Elixir wrapper for FFmpeg command line interface",
+        "languages": {
+            "Elixir": 49983
+        }
+    },
+    {
+        "name": "backoffice",
+        "description": "Admin tool built with the PETAL stack",
+        "languages": {
+            "Elixir": 67570,
+            "HTML": 21312,
+            "JavaScript": 4452,
+            "SCSS": 1096
+        }
+    },
+    {
+        "name": "ex_cli",
+        "description": "User friendly CLI apps for Elixir",
+        "languages": {
+            "Elixir": 45462
+        }
+    },
+    {
+        "name": "cowboy-elixir-example",
+        "description": "Examples of using Cowboy with Elixir",
+        "languages": {
+            "Elixir": 13754,
+            "HTML": 4994,
+            "CSS": 539
+        }
+    },
+    {
+        "name": "phoenix_client",
+        "description": "Elixir Phoenix Client for Channels",
+        "languages": {
+            "Elixir": 33973
+        }
+    },
+    {
+        "name": "caster",
+        "description": "Videocasts browser",
+        "languages": {
+            "Elixir": 62829,
+            "CSS": 34052,
+            "Vue": 8197,
+            "JavaScript": 6202,
+            "HTML": 3357,
+            "Shell": 141
+        }
+    },
+    {
+        "name": "antikythera",
+        "description": "Elixir framework to build your own in-house PaaS",
+        "languages": {
+            "Elixir": 840148,
+            "Haml": 419,
+            "HTML": 243,
+            "Shell": 136
+        }
+    },
+    {
+        "name": "ets",
+        "description": ":ets, the Elixir way",
+        "languages": {
+            "Elixir": 175013,
+            "Shell": 181
+        }
+    },
+    {
+        "name": "ex_webrtc",
+        "description": "An Elixir implementation of the W3C WebRTC API",
+        "languages": {
+            "Elixir": 323204
+        }
+    },
+    {
+        "name": "mix_phx_gen_auth_demo",
+        "description": "Example repository for mix phx.gen.auth",
+        "languages": {
+            "Elixir": 31351,
+            "CSS": 10933,
+            "JavaScript": 4056,
+            "HTML": 2268
+        }
+    },
+    {
+        "name": "cocktail",
+        "description": "Elixir date recurrence library based on iCalendar events",
+        "languages": {
+            "Elixir": 155092
+        }
+    },
+    {
+        "name": "power_assert_ex",
+        "description": "Power Assert in Elixir. Shows evaluation results each expression.",
+        "languages": {
+            "Elixir": 58323
+        }
+    },
+    {
+        "name": "elixir-thrift",
+        "description": "A Pure Elixir Thrift Implementation",
+        "languages": {
+            "Elixir": 340307,
+            "Erlang": 12375,
+            "Python": 5539,
+            "Thrift": 834
+        }
+    },
+    {
+        "name": "exop",
+        "description": "Elixir library that provides macros which allow you to encapsulate business logic and validate incoming parameters with predefined contract.",
+        "languages": {
+            "Elixir": 133557
+        }
+    },
+    {
+        "name": "elixir-raknet",
+        "description": "An Elixir client for the core of the RakNet networking protocol, useful for games and other latency-sensitive applications that typically rely on UDP",
+        "languages": {
+            "Elixir": 103375
+        }
+    },
+    {
+        "name": "elixir-node",
+        "description": "Elixir full node implementation of the aeternity specification",
+        "languages": {
+            "Elixir": 1014287,
+            "Makefile": 6527,
+            "Dockerfile": 1613,
+            "Shell": 1243
+        }
+    },
+    {
+        "name": "phoenix_live_react",
+        "description": "Render React.js components in Phoenix LiveView views",
+        "languages": {
+            "Elixir": 7369,
+            "JavaScript": 2977
+        }
+    },
+    {
+        "name": "flame_on",
+        "description": "Flame Graph LiveView Component and LiveDashboard plugin",
+        "languages": {
+            "Elixir": 36988,
+            "HTML": 3923
+        }
+    },
+    {
+        "name": "elixir-omg",
+        "description": "OMG-Network repository of Watcher and Watcher Info",
+        "languages": {
+            "Elixir": 2203177,
+            "Makefile": 20048,
+            "Shell": 18246,
+            "Python": 3190,
+            "Dockerfile": 1367
+        }
+    },
+    {
+        "name": "philomena",
+        "description": "Next-generation imageboard",
+        "languages": {
+            "Elixir": 1151543,
+            "TypeScript": 178084,
+            "JavaScript": 95768,
+            "SCSS": 90189,
+            "Makefile": 21606,
+            "Lua": 4655,
+            "Shell": 3932,
+            "Rust": 3910,
+            "Dockerfile": 2196,
+            "HTML": 1104
+        }
+    },
+    {
+        "name": "observer_live",
+        "description": "A port of observer_cli using LiveView",
+        "languages": {
+            "Elixir": 36547,
+            "CSS": 10954,
+            "JavaScript": 3939,
+            "HTML": 3867
+        }
+    },
+    {
+        "name": "rummage_ecto",
+        "description": "Search, Sort and Pagination for ecto queries",
+        "languages": {
+            "Elixir": 226421
+        }
+    },
+    {
+        "name": "statuspal",
+        "description": "Statuspal lets you communicate your web apps/services status \ud83d\udce1",
+        "languages": {
+            "Elixir": 175131,
+            "HTML": 57011,
+            "JavaScript": 17777,
+            "CSS": 17742,
+            "Shell": 2047
+        }
+    },
+    {
+        "name": "xlsxir",
+        "description": "Xlsx parser for the Elixir language.",
+        "languages": {
+            "Elixir": 76970
+        }
+    },
+    {
+        "name": "nanoid",
+        "description": "Elixir port of NanoID, a secure and URL-friendly unique ID generator. https://hex.pm/packages/nanoid",
+        "languages": {
+            "Elixir": 24765
+        }
+    },
+    {
+        "name": "techschool.dev",
+        "description": "TechSchool is a collection of free programming courses from YouTube",
+        "languages": {
+            "Elixir": 125120,
+            "HTML": 13642,
+            "JavaScript": 4775,
+            "Dockerfile": 2729,
+            "CSS": 967,
+            "Shell": 640,
+            "Batchfile": 106
+        }
+    },
+    {
+        "name": "openmaize",
+        "description": "No longer maintained - was an Authentication library for Plug-based applications in Elixir",
+        "languages": {
+            "Elixir": 105526,
+            "HTML": 8575,
+            "Shell": 1187
+        }
+    },
+    {
+        "name": "ecto_erd",
+        "description": "A mix task for generating Entity Relationship Diagram from Ecto schemas available in your project.",
+        "languages": {
+            "Elixir": 58528
+        }
+    },
+    {
+        "name": "inch_ex",
+        "description": "Provides a Mix task that gives you hints where to improve your inline docs.",
+        "languages": {
+            "Elixir": 44738
+        }
+    },
+    {
+        "name": "mix_unused",
+        "description": "Find unused functions in your project",
+        "languages": {
+            "Elixir": 55937
+        }
+    },
+    {
+        "name": "logster",
+        "description": "Easily parsable single line, plain text and JSON logger for Plug and Phoenix applications",
+        "languages": {
+            "Elixir": 64442
+        }
+    },
+    {
+        "name": "task_bunny",
+        "description": "TaskBunny is a background processing application written in Elixir and uses RabbitMQ as a messaging backend",
+        "languages": {
+            "Elixir": 123224
+        }
+    },
+    {
+        "name": "docker-phoenix-example",
+        "description": "A production ready example Phoenix app that's using Docker and Docker Compose.",
+        "languages": {
+            "Elixir": 64222,
+            "Shell": 7786,
+            "HTML": 4891,
+            "Dockerfile": 2954,
+            "JavaScript": 1837,
+            "CSS": 233
+        }
+    },
+    {
+        "name": "libring",
+        "description": "A fast consistent hash ring implementation in Elixir",
+        "languages": {
+            "Elixir": 39257
+        }
+    },
+    {
+        "name": "excellent_migrations",
+        "description": "An Elixir tool for checking safety of database migrations.",
+        "languages": {
+            "Elixir": 55934
+        }
+    },
+    {
+        "name": "gen_retry",
+        "description": "Utilities for retrying Elixir functions, with configurable delay and backoff.",
+        "languages": {
+            "Elixir": 23364
+        }
+    },
+    {
+        "name": "toml-elixir",
+        "description": "An implementation of TOML for Elixir projects, compliant with the latest specification",
+        "languages": {
+            "Elixir": 130512
+        }
+    },
+    {
+        "name": "mailman",
+        "description": "Mailman provides a clean way of defining mailers in your Elixir applications",
+        "languages": {
+            "Elixir": 83728,
+            "HTML": 111
+        }
+    },
+    {
+        "name": "advent-of-code-elixir-starter",
+        "description": "Template project for Advent of Code in Elixir.",
+        "languages": {
+            "Elixir": 31280,
+            "Dockerfile": 1374
+        }
+    },
+    {
+        "name": "eqrcode",
+        "description": "Simple QRCode Generator in Elixir",
+        "languages": {
+            "Elixir": 82511
+        }
+    },
+    {
+        "name": "amrita",
+        "description": "A polite, well mannered and thoroughly upstanding testing framework for Elixir",
+        "languages": {
+            "Elixir": 117995,
+            "Makefile": 1371
+        }
+    },
+    {
+        "name": "broadway_dashboard",
+        "description": "Keep track of your Broadway pipelines from Phoenix LiveDashboard",
+        "languages": {
+            "Elixir": 90497
+        }
+    },
+    {
+        "name": "riak-elixir-client",
+        "description": "A Riak client written in Elixir.",
+        "languages": {
+            "Elixir": 56928
+        }
+    },
+    {
+        "name": "combine",
+        "description": "A parser combinator library for Elixir projects",
+        "languages": {
+            "Elixir": 83672
+        }
+    },
+    {
+        "name": "calliope",
+        "description": "An elixir haml parser",
+        "languages": {
+            "Elixir": 51539
+        }
+    },
+    {
+        "name": "telemetry_metrics",
+        "description": "Collect and aggregate Telemetry events over time",
+        "languages": {
+            "Elixir": 72903
+        }
+    },
+    {
+        "name": "local-cluster",
+        "description": "Easy local cluster creation for Elixir to aid in unit testing",
+        "languages": {
+            "Elixir": 11505
+        }
+    },
+    {
+        "name": "elixir-china",
+        "description": "\u8fd9\u4e2a\u9879\u76ee\u56e0\u4e3a\u65f6\u95f4\u539f\u56e0\u5df2\u7ecf\u6682\u505c\u7ef4\u62a4",
+        "languages": {
+            "Elixir": 49797,
+            "HTML": 25928,
+            "CSS": 1059
+        }
+    },
+    {
+        "name": "alchemist-server",
+        "description": "Editor/IDE independent background server to inform about Elixir mix projects",
+        "languages": {
+            "Elixir": 40447,
+            "Makefile": 892
+        }
+    },
+    {
+        "name": "solid",
+        "description": "Liquid template engine in Elixir",
+        "languages": {
+            "Elixir": 147636,
+            "Liquid": 21225,
+            "Ruby": 406
+        }
+    },
+    {
+        "name": "blacksmith",
+        "description": "Data generation framework for Elixir",
+        "languages": {
+            "Elixir": 12286
+        }
+    },
+    {
+        "name": "Domo",
+        "description": "A library to validate values of nested structs with their type spec t() and associated precondition functions",
+        "languages": {
+            "Elixir": 681915,
+            "CSS": 10360,
+            "HTML": 4465,
+            "JavaScript": 4237,
+            "SCSS": 629
+        }
+    },
+    {
+        "name": "rambo",
+        "description": "Run your command. Send input. Get output.",
+        "languages": {
+            "Elixir": 16567,
+            "Rust": 8557,
+            "Shell": 425
+        }
+    },
+    {
+        "name": "mailgun",
+        "description": "Elixir Mailgun Client",
+        "languages": {
+            "Elixir": 14745
+        }
+    },
+    {
+        "name": "filtrex",
+        "description": "A library for performing and validating complex filters from a client (e.g. smart filters)",
+        "languages": {
+            "Elixir": 76035
+        }
+    },
+    {
+        "name": "muontrap",
+        "description": "Keep your ports contained",
+        "languages": {
+            "Elixir": 62999,
+            "C": 31894,
+            "Makefile": 1859
+        }
+    },
+    {
+        "name": "mini_repo",
+        "description": "MiniRepo allows self-hosting of Hex packages.",
+        "languages": {
+            "Elixir": 60923,
+            "Dockerfile": 731,
+            "Shell": 551,
+            "HTML": 350
+        }
+    },
+    {
+        "name": "broadway_rabbitmq",
+        "description": "A Broadway producer for RabbitMQ",
+        "languages": {
+            "Elixir": 104226
+        }
+    },
+    {
+        "name": "phoenix_profiler",
+        "description": "Web Profiler and Debug Toolbar for Phoenix Framework",
+        "languages": {
+            "Elixir": 94008,
+            "CSS": 50755,
+            "HTML": 9879,
+            "JavaScript": 2934
+        }
+    },
+    {
+        "name": "heex_formatter",
+        "description": "Formatter for Phoenix Live View templates.",
+        "languages": {
+            "Elixir": 66310
+        }
+    },
+    {
+        "name": "placid",
+        "description": "A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir",
+        "languages": {
+            "Elixir": 81946
+        }
+    },
+    {
+        "name": "elixir-nodejs",
+        "description": "An Elixir API for calling Node.js functions",
+        "languages": {
+            "Elixir": 21187,
+            "JavaScript": 3101
+        }
+    },
+    {
+        "name": "phoenix-and-elm",
+        "description": "Example application using Elixir, Phoenix and Elm",
+        "languages": {
+            "Elixir": 30255,
+            "Elm": 15809,
+            "CSS": 9769,
+            "JavaScript": 4257,
+            "HTML": 1195
+        }
+    },
+    {
+        "name": "haystack",
+        "description": "Simple, extendable full-text search engine written in Elixir",
+        "languages": {
+            "Elixir": 83843
+        }
+    },
+    {
+        "name": "nats.ex",
+        "description": "Elixir client for NATS, the cloud native messaging system. https://nats.io",
+        "languages": {
+            "Elixir": 254527
+        }
+    },
+    {
+        "name": "elixir_poolboy_example",
+        "description": "An example and brief explanation on how to use Poolboy to manage and pool workers in Elixir",
+        "languages": {
+            "Elixir": 3399
+        }
+    },
+    {
+        "name": "short_url",
+        "description": "\ud83d\udd17 short url app elixir Phoenix",
+        "languages": {
+            "Elixir": 46851,
+            "HTML": 5124,
+            "JavaScript": 4843
+        }
+    },
+    {
+        "name": "elixir_sense",
+        "description": "Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",
+        "languages": {
+            "Elixir": 208068
+        }
+    },
+    {
+        "name": "AlchemyVM",
+        "description": "WebAssembly Virtual Machine Built In Elixir",
+        "languages": {
+            "Elixir": 153695
+        }
+    },
+    {
+        "name": "telegram",
+        "description": "Telegram library for the Elixir language",
+        "languages": {
+            "Elixir": 78625
+        }
+    },
+    {
+        "name": "ex_oauth2_provider",
+        "description": "Making OAuth 2 provider and authentication with http bearer as simple as possible for Elixir and Phoenix apps",
+        "languages": {
+            "Elixir": 233156
+        }
+    },
+    {
+        "name": "geolix",
+        "description": "IP information lookup provider",
+        "languages": {
+            "Elixir": 41611
+        }
+    },
+    {
+        "name": "memoize",
+        "description": "A method caching macro for elixir using CAS on ETS.",
+        "languages": {
+            "Elixir": 40855
+        }
+    },
+    {
+        "name": "ex_elasticlunr",
+        "description": "Elasticlunr is a small, full-text search library for use in the Elixir environment. It indexes JSON documents and provides a friendly search interface to retrieve documents.",
+        "languages": {
+            "Elixir": 121758
+        }
+    },
+    {
+        "name": "makeup",
+        "description": "Syntax highlighter for Elixir inspired by Pygments",
+        "languages": {
+            "Elixir": 128420,
+            "Jupyter Notebook": 70453,
+            "JavaScript": 896
+        }
+    },
+    {
+        "name": "pelemay",
+        "description": "Pelemay is a native compiler for Elixir, which generates SIMD instructions. It has a plan to generate for GPU code.",
+        "languages": {
+            "Elixir": 96138,
+            "C": 34627,
+            "C++": 1756
+        }
+    },
+    {
+        "name": "calendlex",
+        "description": "Simple Calendly clone with Phoenix LiveView",
+        "languages": {
+            "Elixir": 82596,
+            "HTML": 24981,
+            "JavaScript": 3848,
+            "CSS": 1111
+        }
+    },
+    {
+        "name": "littlechat",
+        "description": "A peer-to-peer video chat application made using Phoenix, LiveView, and WebRTC. Want to know how it's made? Read the blog post: https://littlelines.com/blog/2020/07/06/building-a-video-chat-app-in-phoenix-liveview",
+        "languages": {
+            "Elixir": 55792,
+            "CSS": 10288,
+            "SCSS": 9030,
+            "JavaScript": 6860,
+            "HTML": 4834,
+            "Shell": 800,
+            "Dockerfile": 460
+        }
+    },
+    {
+        "name": "ex2ms",
+        "description": ":ets.fun2ms for Elixir, translate functions to match specifications",
+        "languages": {
+            "Elixir": 19680
+        }
+    },
+    {
+        "name": "captain-fact-api",
+        "description": "\ud83d\udd0e CaptainFact - API. The one that serves and process all the data for https://captainfact.io",
+        "languages": {
+            "Elixir": 546585,
+            "HTML": 32153,
+            "Shell": 1515,
+            "Dockerfile": 1073
+        }
+    },
+    {
+        "name": "Numerix",
+        "description": "A collection of useful mathematical functions in Elixir with a slant towards statistics, linear algebra and machine learning",
+        "languages": {
+            "Elixir": 93482
+        }
+    },
+    {
+        "name": "phoenix-todo-list-tutorial",
+        "description": "\u2705 Complete beginners tutorial building a todo list from scratch in Phoenix 1.7 (latest)",
+        "languages": {
+            "Elixir": 89220,
+            "CSS": 9487,
+            "HTML": 6911,
+            "Dockerfile": 2520,
+            "JavaScript": 2430,
+            "Shell": 149,
+            "Batchfile": 85
+        }
+    },
+    {
+        "name": "let_me",
+        "description": "Authorization library for Elixir",
+        "languages": {
+            "Elixir": 108839
+        }
+    },
+    {
+        "name": "policy_wonk",
+        "description": "Elixir authorization and resource loading in Plug form for Phoenix",
+        "languages": {
+            "Elixir": 72551
+        }
+    },
+    {
+        "name": "patch",
+        "description": "Ergonomic Mocking for Elixir",
+        "languages": {
+            "Elixir": 281366,
+            "Erlang": 340
+        }
+    },
+    {
+        "name": "cloak_ecto",
+        "description": "Encrypted fields for Ecto",
+        "languages": {
+            "Elixir": 87950,
+            "Shell": 819,
+            "Ruby": 624,
+            "Dockerfile": 195
+        }
+    },
+    {
+        "name": "lens",
+        "description": "A utility for working with nested data structures.",
+        "languages": {
+            "Elixir": 34195
+        }
+    },
+    {
+        "name": "gen_rmq",
+        "description": "Elixir AMQP consumer and publisher behaviours",
+        "languages": {
+            "Elixir": 136787,
+            "Makefile": 497
+        }
+    },
+    {
+        "name": "new-relixir",
+        "description": "New Relic tracking for Phoenix and Plug applications.",
+        "languages": {
+            "Elixir": 71844
+        }
+    },
+    {
+        "name": "absinthe_relay",
+        "description": "Absinthe support for the Relay framework",
+        "languages": {
+            "Elixir": 198713
+        }
+    },
+    {
+        "name": "ECSx",
+        "description": "An Entity-Component-System framework for Elixir",
+        "languages": {
+            "Elixir": 88912
+        }
+    },
+    {
+        "name": "aja",
+        "description": "Extension of the Elixir standard library focused on data stuctures, data manipulation and performance",
+        "languages": {
+            "Elixir": 417198
+        }
+    },
+    {
+        "name": "ex_gram",
+        "description": "Telegram Bot API low level API and framework",
+        "languages": {
+            "Elixir": 248934,
+            "Python": 11349
+        }
+    },
+    {
+        "name": "linguist",
+        "description": "Elixir Internationalization library",
+        "languages": {
+            "Elixir": 26853
+        }
+    },
+    {
+        "name": "commerce_billing",
+        "description": "A payment processing library for Elixir",
+        "languages": {
+            "Elixir": 26567
+        }
+    },
+    {
+        "name": "elixir-runtime",
+        "description": "The community-supported runtime for Elixir on Google App Engine.",
+        "languages": {
+            "Elixir": 120751,
+            "Shell": 22207,
+            "HTML": 13344,
+            "Dockerfile": 10345,
+            "JavaScript": 8043,
+            "CSS": 99
+        }
+    },
+    {
+        "name": "gearbox",
+        "description": "\u2699\ufe0f Gearbox is a functional state machine with an easy-to-use API, inspired by both Fsm and Machinery",
+        "languages": {
+            "Elixir": 28157
+        }
+    },
+    {
+        "name": "libcluster_postgres",
+        "description": "Postgres strategy for libcluster",
+        "languages": {
+            "Elixir": 14904,
+            "Dockerfile": 379
+        }
+    },
+    {
+        "name": "seat_saver",
+        "description": "Phoenix and Elm combined!",
+        "languages": {
+            "Elixir": 24595,
+            "JavaScript": 5353,
+            "Elm": 2321,
+            "CSS": 798,
+            "HTML": 683
+        }
+    },
+    {
+        "name": "optimus",
+        "description": "Command line arguments parser for Elixir",
+        "languages": {
+            "Elixir": 91192
+        }
+    },
+    {
+        "name": "transport-site",
+        "description": "Rendre disponible, valoriser et am\u00e9liorer les donn\u00e9es transports",
+        "languages": {
+            "Elixir": 3019946,
+            "HTML": 275568,
+            "JavaScript": 68633,
+            "SCSS": 63202,
+            "Dockerfile": 2541,
+            "Shell": 2264,
+            "Euphoria": 2216
+        }
+    },
+    {
+        "name": "honeybadger-elixir",
+        "description": "Elixir client for Honeybadger.",
+        "languages": {
+            "Elixir": 116895
+        }
+    },
+    {
+        "name": "expat",
+        "description": "Reusable, composable patterns across Elixir libraries",
+        "languages": {
+            "Elixir": 36361
+        }
+    },
+    {
+        "name": "exprof",
+        "description": "A simple code profiler for Elixir using eprof.",
+        "languages": {
+            "Elixir": 8111
+        }
+    },
+    {
+        "name": "elixir_make",
+        "description": "A Make compiler for Mix",
+        "languages": {
+            "Elixir": 54187
+        }
+    },
+    {
+        "name": "apartmentex",
+        "description": "SaaS support for Phoenix + Ecto",
+        "languages": {
+            "Elixir": 28685
+        }
+    },
+    {
+        "name": "ALF",
+        "description": "Flow-based Application Layer Framework",
+        "languages": {
+            "Elixir": 228440,
+            "Shell": 38
+        }
+    },
+    {
+        "name": "immortal",
+        "description": "Helper modules for OTP applications",
+        "languages": {
+            "Elixir": 15394,
+            "Shell": 772,
+            "Ruby": 527
+        }
+    },
+    {
+        "name": "export",
+        "description": "Erlport wrapper for Elixir",
+        "languages": {
+            "Elixir": 13400,
+            "Python": 41,
+            "Ruby": 33
+        }
+    },
+    {
+        "name": "zen_monitor",
+        "description": "Efficient Process.monitor replacement",
+        "languages": {
+            "Elixir": 184675
+        }
+    },
+    {
+        "name": "sprint-poker",
+        "description": "Online estimation tool for Agile teams.",
+        "languages": {
+            "Elixir": 58747
+        }
+    },
+    {
+        "name": "redex",
+        "description": "Cloud-native Redis server implemented in Elixir",
+        "languages": {
+            "Elixir": 132589,
+            "Shell": 577,
+            "Dockerfile": 497,
+            "HTML": 350
+        }
+    },
+    {
+        "name": "phoenix_pubsub_redis",
+        "description": "The Redis PubSub adapter for the Phoenix framework",
+        "languages": {
+            "Elixir": 12496
+        }
+    },
+    {
+        "name": "phoenix-toggl",
+        "description": "Toggl tribute done with Elixir, Phoenix Framework, React and Redux.",
+        "languages": {
+            "Elixir": 65395,
+            "JavaScript": 56575,
+            "CSS": 30652,
+            "HTML": 1892
+        }
+    },
+    {
+        "name": "doggo",
+        "description": "Headless UI components for Phoenix",
+        "languages": {
+            "Elixir": 442036
+        }
+    },
+    {
+        "name": "elixir-on-docker",
+        "description": "Quickly get started developing clustered Elixir applications for cloud environments.",
+        "languages": {
+            "Elixir": 11047,
+            "API Blueprint": 131,
+            "HTML": 120
+        }
+    },
+    {
+        "name": "membrane_demo",
+        "description": "Examples of using the Membrane Framework",
+        "languages": {
+            "Elixir": 193879,
+            "HTML": 6483,
+            "CSS": 3529,
+            "JavaScript": 1754
+        }
+    },
+    {
+        "name": "vega_lite",
+        "description": "Elixir bindings for Vega-Lite ",
+        "languages": {
+            "Elixir": 90259
+        }
+    },
+    {
+        "name": "kandesk",
+        "description": "Simple Kanban application written in elixir using phoenix liveview",
+        "languages": {
+            "Elixir": 104591,
+            "HTML": 45110,
+            "JavaScript": 13584,
+            "SCSS": 13412,
+            "PLpgSQL": 7543,
+            "DIGITAL Command Language": 775
+        }
+    },
+    {
+        "name": "doctor",
+        "description": "Ensure that your Elixir project documentation is healthy",
+        "languages": {
+            "Elixir": 121361
+        }
+    },
+    {
+        "name": "wax",
+        "description": "WebAuthn for Elixir",
+        "languages": {
+            "Elixir": 177053
+        }
+    },
+    {
+        "name": "inquisitor",
+        "description": "Composable query builder for Ecto",
+        "languages": {
+            "Elixir": 9170
+        }
+    },
+    {
+        "name": "nerves_hub_web",
+        "description": "Manage firmware updates for Nerves devices",
+        "languages": {
+            "Elixir": 760742,
+            "HTML": 121937,
+            "CSS": 106190,
+            "SCSS": 48653,
+            "JavaScript": 11873,
+            "Dockerfile": 2536,
+            "Shell": 550,
+            "Makefile": 508
+        }
+    },
+    {
+        "name": "ecto_fixtures",
+        "description": "Fixtures for Elixir apps",
+        "languages": {
+            "Elixir": 51139
+        }
+    },
+    {
+        "name": "rustler_precompiled",
+        "description": "Use precompiled NIFs from trusted sources in your Elixir code",
+        "languages": {
+            "Elixir": 92535
+        }
+    },
+    {
+        "name": "moon",
+        "description": "Moon Design System for Elixir",
+        "languages": {
+            "Elixir": 1942637,
+            "CSS": 82946,
+            "TypeScript": 53567,
+            "JavaScript": 45429,
+            "Shell": 21075,
+            "HTML": 4071,
+            "Dockerfile": 331
+        }
+    },
+    {
+        "name": "moba",
+        "description": "A turn-based browser RPG built with Phoenix LiveView",
+        "languages": {
+            "Elixir": 646475,
+            "HTML": 400063,
+            "CSS": 102871,
+            "SCSS": 44854,
+            "JavaScript": 28192,
+            "Shell": 347
+        }
+    },
+    {
+        "name": "tempo",
+        "description": "Date/Time library for Elixir based upon intervals not instants",
+        "languages": {
+            "Elixir": 218266
+        }
+    },
+    {
+        "name": "veil",
+        "description": "Simple passwordless authentication for your Phoenix apps",
+        "languages": {
+            "Elixir": 50264,
+            "HTML": 6690
+        }
+    },
+    {
+        "name": "xml_builder",
+        "description": "Elixir library for generating XML",
+        "languages": {
+            "Elixir": 30211
+        }
+    },
+    {
+        "name": "yaml-elixir",
+        "description": "Yaml parser for Elixir based on native Erlang implementation",
+        "languages": {
+            "Elixir": 22600
+        }
+    },
+    {
+        "name": "talon",
+        "description": "An app builder framework for Phoenix",
+        "languages": {
+            "Elixir": 219465,
+            "HTML": 11787,
+            "CSS": 560,
+            "JavaScript": 480
+        }
+    },
+    {
+        "name": "Orion",
+        "description": "Distributed Dynamic Profiling for the BEAM",
+        "languages": {
+            "Elixir": 49292,
+            "JavaScript": 17903,
+            "HTML": 760,
+            "Nix": 360,
+            "CSS": 157
+        }
+    },
+    {
+        "name": "dns_cluster",
+        "description": "Simple DNS clustering for distributed Elixir nodes",
+        "languages": {
+            "Elixir": 10470
+        }
+    },
+    {
+        "name": "programming-machine-learning-livebooks",
+        "description": "Programming Machine Learning - Elixir Livebooks ",
+        "languages": {
+            "Elixir": 9634
+        }
+    },
+    {
+        "name": "regulator",
+        "description": "Adaptive concurrency limits for elixir",
+        "languages": {
+            "Elixir": 41884
+        }
+    },
+    {
+        "name": "kalevala",
+        "description": "A world builder's toolkit in Elixir",
+        "languages": {
+            "Elixir": 352454,
+            "JavaScript": 97878,
+            "SCSS": 4667,
+            "Mustache": 3062,
+            "HTML": 1310,
+            "Shell": 1161,
+            "Nix": 1009,
+            "Dockerfile": 865
+        }
+    },
+    {
+        "name": "basic_auth",
+        "description": "Elixir Plug to easily add HTTP basic authentication to an app",
+        "languages": {
+            "Elixir": 19272
+        }
+    },
+    {
+        "name": "surface_catalogue",
+        "description": "An initial prototype of the Surface Catalogue",
+        "languages": {
+            "Elixir": 98664,
+            "CSS": 12137,
+            "JavaScript": 7871
+        }
+    },
+    {
+        "name": "phoenix_token_auth",
+        "description": "Token authentication solution for Phoenix. Useful for APIs for e.g. single page apps.",
+        "languages": {
+            "Elixir": 57413
+        }
+    },
+    {
+        "name": "timex_ecto",
+        "description": "An adapter for using Timex DateTimes with Ecto",
+        "languages": {
+            "Elixir": 40517
+        }
+    },
+    {
+        "name": "dbg",
+        "description": "Tracing for Elixir",
+        "languages": {
+            "Elixir": 76725
+        }
+    },
+    {
+        "name": "glific",
+        "description": "The Main application that provides the core interface via the glific APIs",
+        "languages": {
+            "Elixir": 3192344,
+            "PLpgSQL": 232104,
+            "HTML": 70090,
+            "CSS": 15174,
+            "JavaScript": 6560,
+            "Shell": 2446,
+            "Dockerfile": 1708,
+            "Lua": 830,
+            "Procfile": 284
+        }
+    },
+    {
+        "name": "plexy",
+        "description": "A toolkit for building excellent APIs with Elixir",
+        "languages": {
+            "Elixir": 27608
+        }
+    },
+    {
+        "name": "premailex",
+        "description": "Preflight for your HTML emails - inline styling and plain text.",
+        "languages": {
+            "Elixir": 60020
+        }
+    },
+    {
+        "name": "automata",
+        "description": "A comprehensive autonomous decentralized systems framework for AI control architects.",
+        "languages": {
+            "Elixir": 169232
+        }
+    },
+    {
+        "name": "passport",
+        "description": "Provides authentication for phoenix application",
+        "languages": {
+            "Elixir": 55090,
+            "HTML": 6613,
+            "JavaScript": 4682
+        }
+    },
+    {
+        "name": "pyscrapex",
+        "description": null,
+        "languages": {
+            "Elixir": 6673,
+            "Python": 518
+        }
+    },
+    {
+        "name": "kanta",
+        "description": "User-friendly translations manager for Elixir/Phoenix projects.",
+        "languages": {
+            "Elixir": 177560,
+            "HTML": 52630,
+            "JavaScript": 4470,
+            "Nix": 739,
+            "CSS": 59,
+            "Shell": 44
+        }
+    },
+    {
+        "name": "Dayron",
+        "description": "A repository `similar` to Ecto.Repo that maps to an underlying http client, sending requests to an external rest api instead of a database",
+        "languages": {
+            "Elixir": 88200
+        }
+    },
+    {
+        "name": "slugger",
+        "description": "A Slugger for elixir.",
+        "languages": {
+            "Elixir": 21437
+        }
+    },
+    {
+        "name": "elixir-debian",
+        "description": "Debian packaging of Elixir",
+        "languages": {
+            "Elixir": 5874450,
+            "Erlang": 491698,
+            "Makefile": 12339,
+            "Batchfile": 10080,
+            "Shell": 8461,
+            "PowerShell": 576
+        }
+    },
+    {
+        "name": "ueberauth_google",
+        "description": "Google OAuth2 Strategy for \u00dcberauth.",
+        "languages": {
+            "Elixir": 28124
+        }
+    },
+    {
+        "name": "mipha",
+        "description": "Proj Elixir Forum build with phoenix 1.5.",
+        "languages": {
+            "Elixir": 264602,
+            "HTML": 91013,
+            "SCSS": 45029,
+            "JavaScript": 15941,
+            "Shell": 464,
+            "Makefile": 267
+        }
+    },
+    {
+        "name": "mex",
+        "description": "Readable, side-by-side macro-expansion display for Elixir's interactive shell.",
+        "languages": {
+            "Elixir": 7659
+        }
+    },
+    {
+        "name": "fsmx",
+        "description": "A Finite-state machine implementation in Elixir, with opt-in Ecto friendliness",
+        "languages": {
+            "Elixir": 34491
+        }
+    },
+    {
+        "name": "scidata",
+        "description": "Download and normalize datasets related to science",
+        "languages": {
+            "Elixir": 52760
+        }
+    },
+    {
+        "name": "banchan",
+        "description": "The Co-Operative Commissions Platform",
+        "languages": {
+            "Elixir": 1549753,
+            "JavaScript": 29649,
+            "CSS": 15773,
+            "TypeScript": 10844,
+            "Dockerfile": 6486,
+            "HTML": 893,
+            "Shell": 892,
+            "Batchfile": 97
+        }
+    },
+    {
+        "name": "phoenix_haml",
+        "description": "Phoenix Template Engine for Haml",
+        "languages": {
+            "Elixir": 20536,
+            "HTML": 2717
+        }
+    },
+    {
+        "name": "async_with",
+        "description": "The asynchronous version of Elixir's \"with\", resolving the dependency graph and executing the clauses in the most performant way possible!",
+        "languages": {
+            "Elixir": 69919
+        }
+    },
+    {
+        "name": "sshex",
+        "description": "Simple SSH helpers for Elixir. SSH is useful, but we all love SSHEx !",
+        "languages": {
+            "Elixir": 30723
+        }
+    },
+    {
+        "name": "incident",
+        "description": "Event Sourcing and CQRS library in Elixir",
+        "languages": {
+            "Elixir": 88865
+        }
+    },
+    {
+        "name": "pika",
+        "description": "\ud83c\udd94 The friendly, pragmatic and functional ID system",
+        "languages": {
+            "Elixir": 20912,
+            "C#": 17071,
+            "Rust": 11007,
+            "TypeScript": 9218,
+            "JavaScript": 349
+        }
+    },
+    {
+        "name": "tty2048",
+        "description": "Terminal-based 2048 game written in Elixir",
+        "languages": {
+            "Elixir": 12409
+        }
+    },
+    {
+        "name": "ex_aws_s3",
+        "description": null,
+        "languages": {
+            "Elixir": 137976
+        }
+    },
+    {
+        "name": "castore",
+        "description": "Up-to-date certificate store for Elixir. \ud83d\udd10",
+        "languages": {
+            "Elixir": 8705
+        }
+    },
+    {
+        "name": "elixir_cli_spinners",
+        "description": "Spinnig Animations for Command Line Applications ",
+        "languages": {
+            "Elixir": 21296
+        }
+    },
+    {
+        "name": "alchemy",
+        "description": "A discord library for Elixir",
+        "languages": {
+            "Elixir": 238297
+        }
+    },
+    {
+        "name": "strobe-hub",
+        "description": "The server for the strobe audio system",
+        "languages": {
+            "Elixir": 704551,
+            "Elm": 204324,
+            "CSS": 49101,
+            "JavaScript": 40076,
+            "HTML": 9837,
+            "Shell": 1021
+        }
+    },
+    {
+        "name": "grapevine",
+        "description": "The MUD Chat Network",
+        "languages": {
+            "Elixir": 640565,
+            "HTML": 166147,
+            "JavaScript": 83924,
+            "SCSS": 18948,
+            "Shell": 5499,
+            "Mustache": 4848,
+            "Dockerfile": 2796
+        }
+    },
+    {
+        "name": "exjsx",
+        "description": "json for elixir",
+        "languages": {
+            "Elixir": 12635
+        }
+    },
+    {
+        "name": "chartkick-ex",
+        "description": "Create beautiful Javascript charts with minimal code",
+        "languages": {
+            "Elixir": 11248
+        }
+    },
+    {
+        "name": "rummage_phoenix",
+        "description": "Full Phoenix Support for Rummage. It can be used for searching, sorting and paginating collections in phoenix.",
+        "languages": {
+            "Elixir": 50257
+        }
+    },
+    {
+        "name": "decompile",
+        "description": null,
+        "languages": {
+            "Elixir": 7298,
+            "Erlang": 5682
+        }
+    },
+    {
+        "name": "quotes",
+        "description": "\ud83d\udcac  a curated list of quotes that inspire action + code that returns quotes by tag/author/etc. \ud83d\udca1 ",
+        "languages": {
+            "Elixir": 12150,
+            "JavaScript": 5634,
+            "Dart": 2581
+        }
+    },
+    {
+        "name": "peach",
+        "description": "An experimental ecommerce thing for Elixir",
+        "languages": {
+            "Elixir": 48494
+        }
+    },
+    {
+        "name": "Lynx",
+        "description": "\ud83d\udc3a A Fast, Secure and Reliable Terraform Backend, Set up in Minutes.",
+        "languages": {
+            "Elixir": 269901,
+            "HTML": 4987,
+            "Dockerfile": 2444,
+            "JavaScript": 1741,
+            "Makefile": 1739,
+            "HCL": 849,
+            "Shell": 152,
+            "Batchfile": 88
+        }
+    },
+    {
+        "name": "elixir_git_hooks",
+        "description": "\ud83e\ude9d Add git hooks to Elixir projects",
+        "languages": {
+            "Elixir": 63496,
+            "Shell": 244
+        }
+    },
+    {
+        "name": "exirc",
+        "description": "IRC client adapter for Elixir projects",
+        "languages": {
+            "Elixir": 93929
+        }
+    },
+    {
+        "name": "stemmer",
+        "description": "An English (Porter2) stemming implementation in Elixir.",
+        "languages": {
+            "Elixir": 31409
+        }
+    },
+    {
+        "name": "execjs",
+        "description": "Run JavaScript code from Elixir",
+        "languages": {
+            "Elixir": 16396,
+            "HTML": 4695
+        }
+    },
+    {
+        "name": "vix",
+        "description": "Elixir extension for libvips",
+        "languages": {
+            "Elixir": 164516,
+            "C": 122116,
+            "Makefile": 3033
+        }
+    },
+    {
+        "name": "kaffe",
+        "description": "An opinionated Elixir wrapper around brod, the Erlang Kafka client, that supports encrypted connections to Heroku Kafka out of the box.",
+        "languages": {
+            "Elixir": 98479
+        }
+    },
+    {
+        "name": "packmatic",
+        "description": "Zipping on the fly \u2014 Generate downloadable Zip streams by aggregating File or URL Sources",
+        "languages": {
+            "Elixir": 103444,
+            "Dockerfile": 272,
+            "Shell": 215
+        }
+    },
+    {
+        "name": "exq_ui",
+        "description": "UI Dashboard for Exq, a job processing library for Elixir.  Exq UI provides the UI dashboard to display stats on job processing.",
+        "languages": {
+            "Elixir": 71988,
+            "HTML": 19815,
+            "JavaScript": 9380,
+            "SCSS": 590,
+            "Nix": 139
+        }
+    },
+    {
+        "name": "jellyfish",
+        "description": "General purpose media server. Supports WebRTC, HLS, RTSP, SIP",
+        "languages": {
+            "Elixir": 423983,
+            "Dockerfile": 3624,
+            "HTML": 1629,
+            "Shell": 980
+        }
+    },
+    {
+        "name": "exw3",
+        "description": "High level Ethereum RPC Client for Elixir",
+        "languages": {
+            "Elixir": 74127,
+            "Solidity": 2013,
+            "Shell": 305
+        }
+    },
+    {
+        "name": "main_proxy",
+        "description": null,
+        "languages": {
+            "Elixir": 22966
+        }
+    },
+    {
+        "name": "slipstream",
+        "description": "A slick WebSocket client for Phoenix Channels",
+        "languages": {
+            "Elixir": 206733
+        }
+    },
+    {
+        "name": "oauth2_example",
+        "description": "Authenticate with GitHub via OAuth2",
+        "languages": {
+            "Elixir": 34555,
+            "JavaScript": 4486,
+            "HTML": 2905
+        }
+    },
+    {
+        "name": "faker-elixir",
+        "description": "[unmaintained] FakerElixir generates fake data for you. ",
+        "languages": {
+            "Elixir": 203483
+        }
+    },
+    {
+        "name": "school_house",
+        "description": "The new era of Elixir School now powered by @phoenixframework",
+        "languages": {
+            "Elixir": 102288,
+            "HTML": 100954,
+            "JavaScript": 13648,
+            "CSS": 10768,
+            "Dockerfile": 2998,
+            "Shell": 720,
+            "Makefile": 556
+        }
+    },
+    {
+        "name": "remix",
+        "description": "Automatic recompilation of mix code on file change.",
+        "languages": {
+            "Elixir": 4346
+        }
+    },
+    {
+        "name": "deque",
+        "description": "Fast bounded deque using two rotating lists.",
+        "languages": {
+            "Elixir": 9198
+        }
+    },
+    {
+        "name": "ecto_autoslug_field",
+        "description": "Automatically create slugs for Ecto schemas.",
+        "languages": {
+            "Elixir": 32051
+        }
+    },
+    {
+        "name": "elixir_poster",
+        "description": null,
+        "languages": {
+            "Elixir": 7757
+        }
+    },
+    {
+        "name": "spotify_ex",
+        "description": "Elixir wrapper for the Spotify Web API",
+        "languages": {
+            "Elixir": 127099
+        }
+    },
+    {
+        "name": "elixir-telegram-bot-boilerplate",
+        "description": "A boilerplate for making telegram bots with Elixir and Nadia",
+        "languages": {
+            "Elixir": 23813
+        }
+    },
+    {
+        "name": "exsync",
+        "description": "Yet another elixir reloader.",
+        "languages": {
+            "Elixir": 15777
+        }
+    },
+    {
+        "name": "elixir-tensor",
+        "description": "The Tensor library adds support for Vectors, Matrixes and higher-dimension Tensors to Elixir.",
+        "languages": {
+            "Elixir": 70269
+        }
+    },
+    {
+        "name": "calecto",
+        "description": "Adapter for the Calendar library in Ecto",
+        "languages": {
+            "Elixir": 35912
+        }
+    },
+    {
+        "name": "ex_platform",
+        "description": "A battery-included \ud83d\udd0b Phoenix boilerplate",
+        "languages": {
+            "Elixir": 159105,
+            "HTML": 43045,
+            "JavaScript": 6417,
+            "SCSS": 2197,
+            "Dockerfile": 1907,
+            "Shell": 43
+        }
+    },
+    {
+        "name": "sh",
+        "description": "Run programs as functions in Elixir",
+        "languages": {
+            "Elixir": 4848
+        }
+    },
+    {
+        "name": "ecto_dev_logger",
+        "description": "An alternative logger for Ecto queries",
+        "languages": {
+            "Elixir": 42340
+        }
+    },
+    {
+        "name": "topo",
+        "description": "A Geometry library for Elixir that calculates spatial relationships between two geometries",
+        "languages": {
+            "Elixir": 798837
+        }
+    },
+    {
+        "name": "elixir-reverse-proxy",
+        "description": "A Plug based, reverse proxy server written in Elixir.",
+        "languages": {
+            "Elixir": 22141
+        }
+    },
+    {
+        "name": "sshkit.ex",
+        "description": "An Elixir toolkit for performing tasks on one or more servers, built on top of Erlang\u2019s SSH application.",
+        "languages": {
+            "Elixir": 118858,
+            "Dockerfile": 1196
+        }
+    },
+    {
+        "name": "quenya",
+        "description": "Quenya is a framework to build high-quality REST API applications based on extended OpenAPI spec",
+        "languages": {
+            "Elixir": 151317,
+            "Makefile": 784
+        }
+    },
+    {
+        "name": "aino",
+        "description": "An HTTP framework built on top of elli",
+        "languages": {
+            "Elixir": 82680,
+            "HTML": 1334,
+            "Nix": 898
+        }
+    },
+    {
+        "name": "countries",
+        "description": "Collection of Country Information for Elixir.",
+        "languages": {
+            "Elixir": 14567
+        }
+    },
+    {
+        "name": "live_select",
+        "description": "Dynamic (multi)selection field for LiveView",
+        "languages": {
+            "Elixir": 178168,
+            "HTML": 19197,
+            "JavaScript": 8260,
+            "Dockerfile": 2910,
+            "CSS": 1903,
+            "Shell": 81,
+            "Batchfile": 51
+        }
+    },
+    {
+        "name": "remodel",
+        "description": ":necktie: An Elixir presenter package used to transform map structures.  \"ActiveModel::Serializer for Elixir\"",
+        "languages": {
+            "Elixir": 9325
+        }
+    },
+    {
+        "name": "json_web_token_ex",
+        "description": "An Elixir implementation of the JSON Web Token (JWT) Standard, RFC 7519",
+        "languages": {
+            "Elixir": 43387
+        }
+    },
+    {
+        "name": "skooma",
+        "description": "Elixir data validation library",
+        "languages": {
+            "Elixir": 26063
+        }
+    },
+    {
+        "name": "kazan",
+        "description": "Kubernetes API client for Elixir",
+        "languages": {
+            "Elixir": 124131,
+            "Shell": 134
+        }
+    },
+    {
+        "name": "geocalc",
+        "description": "Geographic calculations for Elixir",
+        "languages": {
+            "Elixir": 70938
+        }
+    },
+    {
+        "name": "type_class",
+        "description": "(Semi-)principled type classes for Elixir",
+        "languages": {
+            "Elixir": 38474,
+            "Nix": 619
+        }
+    },
+    {
+        "name": "tucan",
+        "description": "An Elixir plotting library on top of VegaLite",
+        "languages": {
+            "Elixir": 405439,
+            "Makefile": 913
+        }
+    },
+    {
+        "name": "registry",
+        "description": "A local, decentralized and scalable key-value process storage - merged into Elixir v1.4",
+        "languages": {
+            "Elixir": 51518
+        }
+    },
+    {
+        "name": "elixir-statistics",
+        "description": "Statistical functions and distributions for Elixir",
+        "languages": {
+            "Elixir": 65479
+        }
+    },
+    {
+        "name": "espec_phoenix",
+        "description": "ESpec for Phoenix web framework.",
+        "languages": {
+            "Elixir": 108692,
+            "JavaScript": 8443,
+            "HTML": 6500,
+            "CSS": 89
+        }
+    },
+    {
+        "name": "mix_gleam",
+        "description": "\u2697\ufe0f Build Gleam code with mix",
+        "languages": {
+            "Elixir": 21166,
+            "Gleam": 376
+        }
+    },
+    {
+        "name": "bamboo_smtp",
+        "description": "An SMTP adapter for Bamboo.",
+        "languages": {
+            "Elixir": 60811
+        }
+    },
+    {
+        "name": "assertions",
+        "description": "Helpful assertions for ExUnit",
+        "languages": {
+            "Elixir": 80376
+        }
+    },
+    {
+        "name": "genex",
+        "description": "Genetic Algorithms in Elixir!",
+        "languages": {
+            "Elixir": 92087
+        }
+    },
+    {
+        "name": "webauthn_components",
+        "description": "WebauthnComponents allows Phoenix developers to quickly add passwordless authentication to LiveView applications.",
+        "languages": {
+            "Elixir": 110599,
+            "JavaScript": 7200,
+            "HTML": 4365
+        }
+    },
+    {
+        "name": "neurlang",
+        "description": "Neural Network library in Elixir / Erlang ",
+        "languages": {
+            "Elixir": 25238,
+            "Shell": 326
+        }
+    },
+    {
+        "name": "facebook.ex",
+        "description": "Facebook Graph API Wrapper written in Elixir",
+        "languages": {
+            "Elixir": 68269
+        }
+    },
+    {
+        "name": "Elixir-Refactorings",
+        "description": "Catalog of Elixir Refactorings",
+        "languages": {
+            "Elixir": 1046
+        }
+    },
+    {
+        "name": "labels",
+        "description": "\ud83c\udff7 Sync GitHub Labels from any Source to Target Repositories for Consistency across all your projects!",
+        "languages": {
+            "Elixir": 66904,
+            "JavaScript": 17816,
+            "CSS": 12958,
+            "HTML": 8704,
+            "Dockerfile": 2719,
+            "Shell": 157,
+            "Batchfile": 92
+        }
+    },
+    {
+        "name": "beaver",
+        "description": "Beaver is a LLVM/MLIR Toolkit in Elixir and Zig.",
+        "languages": {
+            "Elixir": 252470,
+            "Zig": 64564,
+            "C++": 12335,
+            "C": 11058,
+            "CMake": 3241,
+            "MLIR": 1695,
+            "Makefile": 1358,
+            "Shell": 1305,
+            "Euphoria": 581
+        }
+    },
+    {
+        "name": "exgboost",
+        "description": "Elixir bindings to the XGBoost C API (https://xgboost.readthedocs.io/en/stable/c.html) using Native Implemented Functions (NIFs)",
+        "languages": {
+            "Elixir": 241279,
+            "C": 82513,
+            "Makefile": 2889
+        }
+    },
+    {
+        "name": "elixir_course",
+        "description": "Elixir language training course, part 1",
+        "languages": {
+            "Elixir": 131471,
+            "TeX": 70772,
+            "Makefile": 1011,
+            "Shell": 538
+        }
+    },
+    {
+        "name": "shouldi",
+        "description": "Elixir testing libraries with nested contexts, superior readability, and ease of use",
+        "languages": {
+            "Elixir": 17122
+        }
+    },
+    {
+        "name": "ex_crypto",
+        "description": "Wrapper around the Erlang crypto module for Elixir.",
+        "languages": {
+            "Elixir": 86050
+        }
+    },
+    {
+        "name": "elixir-wasm",
+        "description": "Encoding the WASM binary format.",
+        "languages": {
+            "Elixir": 25616
+        }
+    },
+    {
+        "name": "boltun",
+        "description": "Transforms notifications from the Postgres LISTEN/NOTIFY mechanism into callback execution",
+        "languages": {
+            "Elixir": 13805
+        }
+    },
+    {
+        "name": "writing_an_interpreter_in_elixir",
+        "description": "Elixir implementation of an interpreter for the Monkey programming language",
+        "languages": {
+            "Elixir": 76459
+        }
+    },
+    {
+        "name": "cabbage",
+        "description": "Story BDD tool for executing elixir in ExUnit",
+        "languages": {
+            "Elixir": 63052,
+            "Gherkin": 2779
+        }
+    },
+    {
+        "name": "workflows",
+        "description": null,
+        "languages": {
+            "Elixir": 133973
+        }
+    },
+    {
+        "name": "plug_logger_json",
+        "description": "Elixir Plug that formats http request logs as json",
+        "languages": {
+            "Elixir": 28898
+        }
+    },
+    {
+        "name": "analytics-elixir",
+        "description": "Segment.com library for Elixir",
+        "languages": {
+            "Elixir": 35367
+        }
+    },
+    {
+        "name": "adoptoposs",
+        "description": "Finding co-maintainers for your open source software project.",
+        "languages": {
+            "Elixir": 269181,
+            "HTML": 84954,
+            "JavaScript": 9555,
+            "SCSS": 9125,
+            "Dockerfile": 3139,
+            "Makefile": 2369,
+            "Shell": 349,
+            "Batchfile": 107
+        }
+    },
+    {
+        "name": "carbonite",
+        "description": "Audit trails for Elixir/PostgreSQL based on triggers",
+        "languages": {
+            "Elixir": 127986
+        }
+    },
+    {
+        "name": "membrane_rtc_engine",
+        "description": "Customizable Real-time Communication Engine/SFU library focused on WebRTC.",
+        "languages": {
+            "Elixir": 1110333,
+            "JavaScript": 17518,
+            "Shell": 9895,
+            "HTML": 2522,
+            "Dockerfile": 2243
+        }
+    },
+    {
+        "name": "soap",
+        "description": "SOAP client for Elixir programming language",
+        "languages": {
+            "Elixir": 81948
+        }
+    },
+    {
+        "name": "ayesql",
+        "description": "Library for using raw SQL in Elixir",
+        "languages": {
+            "Elixir": 86278,
+            "Erlang": 4090
+        }
+    },
+    {
+        "name": "absinthe_ecto",
+        "description": "DEPRECATED: Use dataloader",
+        "languages": {
+            "Elixir": 13278
+        }
+    },
+    {
+        "name": "phoenix-react-redux-template",
+        "description": "Application template for SPAs with Phoenix, React and Redux",
+        "languages": {
+            "Elixir": 27441,
+            "JavaScript": 18789,
+            "CSS": 15381,
+            "HTML": 1552
+        }
+    },
+    {
+        "name": "potion_shop",
+        "description": "A vulnerable Elixir and Phoenix application for learning web security ",
+        "languages": {
+            "Elixir": 130450,
+            "HTML": 16936,
+            "CSS": 13030,
+            "JavaScript": 2509
+        }
+    },
+    {
+        "name": "anubis",
+        "description": "Command Line application framework for Elixir",
+        "languages": {
+            "Elixir": 7751
+        }
+    },
+    {
+        "name": "ultimate-elixir-ci",
+        "description": "A sample Elixir project with a robust GitHub Actions CI",
+        "languages": {
+            "Elixir": 5733
+        }
+    },
+    {
+        "name": "distsys_training",
+        "description": "Distributed Systems Training with Elixir",
+        "languages": {
+            "Elixir": 39326
+        }
+    },
+    {
+        "name": "opentelemetry-erlang-contrib",
+        "description": "OpenTelemetry instrumentation for Erlang & Elixir",
+        "languages": {
+            "Elixir": 552597,
+            "Erlang": 198062,
+            "Shell": 378
+        }
+    },
+    {
+        "name": "conduit",
+        "description": "A message queue framework, with support for middleware and multiple adapters.",
+        "languages": {
+            "Elixir": 205238
+        }
+    },
+    {
+        "name": "sveltex",
+        "description": "Elixir Phoenix + Svelte = \u2764\ufe0f",
+        "languages": {
+            "Elixir": 5884,
+            "JavaScript": 667
+        }
+    },
+    {
+        "name": "phx_component_helpers",
+        "description": "Extensible Phoenix liveview components, without boilerplate",
+        "languages": {
+            "Elixir": 50837
+        }
+    },
+    {
+        "name": "ecto-ulid",
+        "description": "Ecto ULID",
+        "languages": {
+            "Elixir": 13295
+        }
+    },
+    {
+        "name": "croma",
+        "description": "Elixir macro utilities to make type-based programming easier",
+        "languages": {
+            "Elixir": 170998
+        }
+    },
+    {
+        "name": "external_service",
+        "description": "Elixir library for safely using any external service or API using automatic retry with rate limiting and circuit breakers.",
+        "languages": {
+            "Elixir": 49285
+        }
+    },
+    {
+        "name": "aws-lambda-elixir-runtime",
+        "description": "Example implementation of a custom runtime for running Elixir on AWS Lambda.",
+        "languages": {
+            "Elixir": 31488
+        }
+    },
+    {
+        "name": "rclex",
+        "description": "Rclex: ROS 2 Client Library for Elixir",
+        "languages": {
+            "Elixir": 150687,
+            "C": 90606,
+            "HTML": 4690,
+            "Makefile": 2767,
+            "Shell": 521,
+            "eC": 92
+        }
+    },
+    {
+        "name": "nova",
+        "description": "An attempt to port/rebuild Spree, an open source e-commerce solution, with Elixir and Phoenix.",
+        "languages": {
+            "Elixir": 63123,
+            "JavaScript": 34605,
+            "Shell": 235
+        }
+    },
+    {
+        "name": "tracer",
+        "description": "Elixir Tracing Framework",
+        "languages": {
+            "Elixir": 162731,
+            "Perl": 25831,
+            "Shell": 107
+        }
+    },
+    {
+        "name": "extreme",
+        "description": "Elixir Adapter for EventStore",
+        "languages": {
+            "Elixir": 139182,
+            "Vim Script": 28
+        }
+    },
+    {
+        "name": "persistent_ets",
+        "description": null,
+        "languages": {
+            "Elixir": 25177
+        }
+    },
+    {
+        "name": "McEx",
+        "description": "Minecraft server written in Elixir",
+        "languages": {
+            "Elixir": 95509,
+            "Rust": 21591
+        }
+    },
+    {
+        "name": "pavlov",
+        "description": "A BDD framework for your Elixir projects",
+        "languages": {
+            "Elixir": 47900,
+            "Shell": 620
+        }
+    },
+    {
+        "name": "katbin",
+        "description": "Small, lightweight pastebin+URL shortener written in Elixir using the Phoenix framework.",
+        "languages": {
+            "Elixir": 135782,
+            "HTML": 16645,
+            "CSS": 8093,
+            "JavaScript": 4240,
+            "Dockerfile": 1082,
+            "Rust": 804,
+            "Shell": 680,
+            "Makefile": 134,
+            "Batchfile": 46
+        }
+    },
+    {
+        "name": "elixir-map_diff",
+        "description": "Calculates the difference between two (nested) maps,  and returns a map representing the patch of changes.",
+        "languages": {
+            "Elixir": 13847
+        }
+    },
+    {
+        "name": "ex_unit_notifier",
+        "description": "Desktop notifications for ExUnit",
+        "languages": {
+            "Elixir": 15089
+        }
+    },
+    {
+        "name": "plug_graphql",
+        "description": "Plug (Phoenix) integration for GraphQL Elixir ",
+        "languages": {
+            "Elixir": 38880,
+            "HTML": 4336
+        }
+    },
+    {
+        "name": "pgvector-elixir",
+        "description": "pgvector support for Elixir",
+        "languages": {
+            "Elixir": 10853
+        }
+    },
+    {
+        "name": "liv",
+        "description": "Web mail of your own",
+        "languages": {
+            "Elixir": 135473,
+            "CSS": 10480,
+            "JavaScript": 5847,
+            "HTML": 2463,
+            "Shell": 104,
+            "Erlang": 4
+        }
+    },
+    {
+        "name": "hush",
+        "description": "Hush is a runtime configuration loader for Elixir applications",
+        "languages": {
+            "Elixir": 38147
+        }
+    },
+    {
+        "name": "mnesiac",
+        "description": "Mnesia autoclustering made easy!",
+        "languages": {
+            "Elixir": 35503
+        }
+    },
+    {
+        "name": "Orb",
+        "description": "Write WebAssembly with Elixir",
+        "languages": {
+            "Elixir": 272620
+        }
+    },
+    {
+        "name": "mazes",
+        "description": "A maze generator made with PhoenixLiveView.",
+        "languages": {
+            "Elixir": 136859,
+            "HTML": 18362,
+            "SCSS": 11909,
+            "JavaScript": 3736
+        }
+    },
+    {
+        "name": "crutches",
+        "description": "Some Elixir support",
+        "languages": {
+            "Elixir": 69504
+        }
+    },
+    {
+        "name": "fun_with_flags_ui",
+        "description": "Web dashboard for the FunWithFlags Elixir package",
+        "languages": {
+            "Elixir": 64617,
+            "HTML": 21217,
+            "CSS": 492,
+            "JavaScript": 281
+        }
+    },
+    {
+        "name": "exile",
+        "description": "Alternative to ports for running external programs. It provides back-pressure, non-blocking io, and solves port related issues",
+        "languages": {
+            "Elixir": 102312,
+            "C": 17836,
+            "Makefile": 956,
+            "Shell": 158
+        }
+    },
+    {
+        "name": "auth",
+        "description": "\ud83d\udeaa \ud83d\udd10 UX-focussed Turnkey Authentication Solution for Web Apps/APIs (Documented, Tested & Maintained)",
+        "languages": {
+            "Elixir": 211377,
+            "HTML": 33087,
+            "CSS": 11744,
+            "JavaScript": 3140,
+            "Dockerfile": 2725,
+            "Shell": 411,
+            "Batchfile": 86,
+            "Procfile": 73
+        }
+    },
+    {
+        "name": "boruta-server",
+        "description": "OpenID certified lightweight Identity and Access Management server",
+        "languages": {
+            "Elixir": 898814,
+            "Vue": 210505,
+            "JavaScript": 82586,
+            "Mustache": 17643,
+            "HTML": 11540,
+            "CSS": 10307,
+            "Shell": 2040,
+            "SCSS": 610
+        }
+    },
+    {
+        "name": "scrivener_html",
+        "description": "HTML view helpers for Scrivener",
+        "languages": {
+            "Elixir": 66876
+        }
+    },
+    {
+        "name": "relax",
+        "description": "Simple Elixir implementation of a jsonapi.org server.",
+        "languages": {
+            "Elixir": 49026
+        }
+    },
+    {
+        "name": "samly",
+        "description": "Elixir Plug library to enable SAML 2.0 SP SSO in Phoenix/Plug applications.",
+        "languages": {
+            "Elixir": 72828
+        }
+    },
+    {
+        "name": "tanx",
+        "description": "Tank game created by the Programming Elixir study group",
+        "languages": {
+            "Elixir": 145360,
+            "JavaScript": 31369,
+            "HTML": 7757,
+            "Ruby": 5212,
+            "CSS": 1308
+        }
+    },
+    {
+        "name": "scientist",
+        "description": "An elixir library for refactoring code, a port of GitHub's scientist",
+        "languages": {
+            "Elixir": 45378
+        }
+    },
+    {
+        "name": "mozilla-hubs-installation-detailed",
+        "description": "Mozilla hubs installation, deploy on self-hosted server, system overview, how to modify, etc",
+        "languages": {
+            "Elixir": 8670
+        }
+    },
+    {
+        "name": "dispatch",
+        "description": "A distributed service registry built on top of phoenix_pubsub.",
+        "languages": {
+            "Elixir": 23375
+        }
+    },
+    {
+        "name": "dune",
+        "description": "A sandbox for Elixir to safely evaluate untrusted code from user input",
+        "languages": {
+            "Elixir": 173986
+        }
+    },
+    {
+        "name": "git_ops",
+        "description": "A tool for version and changelog management in Elixir via conventional commits.",
+        "languages": {
+            "Elixir": 86506,
+            "Shell": 465
+        }
+    },
+    {
+        "name": "introducing-elixir",
+        "description": "Example code from Introducing Elixir.",
+        "languages": {
+            "Elixir": 290985,
+            "JavaScript": 53533,
+            "HTML": 25215,
+            "CSS": 20836,
+            "Perl": 159
+        }
+    },
+    {
+        "name": "Jsonrs",
+        "description": "Rust powered JSON library for Elixir",
+        "languages": {
+            "Elixir": 13047,
+            "Rust": 2286
+        }
+    },
+    {
+        "name": "mix_generator",
+        "description": "Project generator for mix (an alternative to mix new)",
+        "languages": {
+            "Elixir": 24179,
+            "HTML": 15180,
+            "Euphoria": 35
+        }
+    },
+    {
+        "name": "states_language",
+        "description": "Declaratively design state machines that compile to Elixir based :gen_statem processes with the StatesLanguage JSON specification",
+        "languages": {
+            "Elixir": 84519
+        }
+    },
+    {
+        "name": "perhap",
+        "description": "Perhap is an purely functional event store and service framework inspired by domain driven design and reactive architectures.",
+        "languages": {
+            "Elixir": 65483
+        }
+    },
+    {
+        "name": "tz",
+        "description": "Time zone support for Elixir",
+        "languages": {
+            "Elixir": 71634
+        }
+    },
+    {
+        "name": "geocoder",
+        "description": "An Elixir Geocoder/Reverse Geocoder",
+        "languages": {
+            "Elixir": 85814,
+            "Euphoria": 66
+        }
+    },
+    {
+        "name": "exsamples",
+        "description": "Initializes lists of maps, structs or keyword lists using tabular data in Elixir",
+        "languages": {
+            "Elixir": 21542
+        }
+    },
+    {
+        "name": "artificery",
+        "description": "A toolkit for creating terminal user interfaces in Elixir",
+        "languages": {
+            "Elixir": 69592
+        }
+    },
+    {
+        "name": "sqlite_ecto2",
+        "description": "Sqlite3 adapter for Ecto 2.2.x",
+        "languages": {
+            "Elixir": 130506,
+            "Shell": 1474
+        }
+    },
+    {
+        "name": "github_ecto",
+        "description": "Ecto adapter for GitHub API",
+        "languages": {
+            "Elixir": 22106
+        }
+    },
+    {
+        "name": "ElixrGettingStartedChinese",
+        "description": "Elixir\u5b98\u7f51\u7684\u5165\u95e8\u6559\u7a0b\u4e2d\u6587\u7ffb\u8bd1 Elixir Getting Started Chinese Version",
+        "languages": {
+            "Elixir": 22
+        }
+    },
+    {
+        "name": "exrun",
+        "description": "Runtime and debugging tools for elixir",
+        "languages": {
+            "Elixir": 40717
+        }
+    },
+    {
+        "name": "yummy-phoenix-graphql",
+        "description": "Cooking recipe sharing app built with Phoenix, React, GraphQL and Kubernetes",
+        "languages": {
+            "Elixir": 114457,
+            "TypeScript": 80592,
+            "Shell": 5919,
+            "JavaScript": 2597,
+            "CSS": 2495,
+            "HTML": 2165,
+            "Dockerfile": 2118
+        }
+    },
+    {
+        "name": "twirp-elixir",
+        "description": "Elixir implementation of the twirp RPC framework",
+        "languages": {
+            "Elixir": 94758,
+            "HTML": 3934
+        }
+    },
+    {
+        "name": "radiator",
+        "description": "Podcast Hosting & Publishing | The spark \u2728 that lights the fire \ud83d\udd25",
+        "languages": {
+            "Elixir": 259573,
+            "HTML": 10453,
+            "TypeScript": 9456,
+            "JavaScript": 4263,
+            "Dockerfile": 2727,
+            "Shell": 463,
+            "CSS": 145,
+            "Batchfile": 100
+        }
+    },
+    {
+        "name": "sqlitex",
+        "description": "An Elixir wrapper around esqlite. Allows access to sqlite3 databases.",
+        "languages": {
+            "Elixir": 133429
+        }
+    },
+    {
+        "name": "elixir-webdriver",
+        "description": "WebDriver client for Elixir.",
+        "languages": {
+            "Elixir": 172647,
+            "HTML": 2143,
+            "Shell": 560
+        }
+    },
+    {
+        "name": "doorman",
+        "description": "Tools to make Plug, and Phoenix authentication simple and flexible.",
+        "languages": {
+            "Elixir": 20638
+        }
+    },
+    {
+        "name": "chaperon",
+        "description": "HTTP Service Performance & Load Testing Framework",
+        "languages": {
+            "Elixir": 185103
+        }
+    },
+    {
+        "name": "exdgraph",
+        "description": "gRPC based Elixir Dgraph client. Under development.",
+        "languages": {
+            "Elixir": 85637
+        }
+    },
+    {
+        "name": "scenic_new",
+        "description": "mix scenic.new task for Scenic apps",
+        "languages": {
+            "Elixir": 47404,
+            "HTML": 41562
+        }
+    },
+    {
+        "name": "ua_inspector",
+        "description": "User agent parser library",
+        "languages": {
+            "Elixir": 210899
+        }
+    },
+    {
+        "name": "elixir-microservice-architecture",
+        "description": "A sketch of a microservice architecture in Elixir, using clustered VMs, docker-compose, Redis, HAProxy",
+        "languages": {
+            "Elixir": 15282,
+            "Shell": 675
+        }
+    },
+    {
+        "name": "imagineer",
+        "description": "Image processing in Elixir",
+        "languages": {
+            "Elixir": 540062,
+            "Ruby": 1529
+        }
+    },
+    {
+        "name": "sql_dust",
+        "description": "Easy. Simple. Powerful. Generate (complex) SQL queries using magical Elixir SQL dust.",
+        "languages": {
+            "Elixir": 86847
+        }
+    },
+    {
+        "name": "MongooseICE",
+        "description": "STUN/TURN server written in Elixir",
+        "languages": {
+            "Elixir": 138248,
+            "Shell": 1451
+        }
+    },
+    {
+        "name": "slugify",
+        "description": "An Elixir library to convert strings in any language into slugs",
+        "languages": {
+            "Elixir": 13807
+        }
+    },
+    {
+        "name": "mango",
+        "description": "Ecommerce site that you will build while learning Mastering Phoenix Framework",
+        "languages": {
+            "Elixir": 92450,
+            "HTML": 28501,
+            "JavaScript": 3654,
+            "CSS": 2348
+        }
+    },
+    {
+        "name": "maestro",
+        "description": "an event store + cqrs",
+        "languages": {
+            "Elixir": 65775
+        }
+    },
+    {
+        "name": "elixir_react_render",
+        "description": "React SSR Framework for Elixir",
+        "languages": {
+            "Elixir": 13002,
+            "JavaScript": 2263
+        }
+    },
+    {
+        "name": "eml",
+        "description": "Library for writing and manipulating (html) markup in Elixir.",
+        "languages": {
+            "Elixir": 83342
+        }
+    },
+    {
+        "name": "hulaaki",
+        "description": "DEPRECATED : An Elixir library (driver) for clients communicating with MQTT brokers(via the MQTT 3.1.1 protocol).",
+        "languages": {
+            "Elixir": 139224,
+            "Makefile": 1523,
+            "Dockerfile": 227
+        }
+    },
+    {
+        "name": "Exonerate",
+        "description": "JSONSchema -> Elixir code generator",
+        "languages": {
+            "Elixir": 611658,
+            "HTML": 305
+        }
+    },
+    {
+        "name": "bunt",
+        "description": "256 color ANSI coloring in Elixir CLIs",
+        "languages": {
+            "Elixir": 27802
+        }
+    },
+    {
+        "name": "eth",
+        "description": "Ethereum utilities for Elixir",
+        "languages": {
+            "Elixir": 137967,
+            "Dockerfile": 869
+        }
+    },
+    {
+        "name": "mint_web_socket",
+        "description": "HTTP/1 and HTTP/2 WebSocket support for Mint \ud83c\udf31",
+        "languages": {
+            "Elixir": 73178,
+            "Erlang": 2569,
+            "Shell": 368
+        }
+    },
+    {
+        "name": "mix_deploy",
+        "description": "Library of mix tasks to deploy an Elixir release to servers (cloud instance or bare metal, automated deploy)",
+        "languages": {
+            "Elixir": 34235,
+            "Shell": 17870,
+            "HTML": 720
+        }
+    },
+    {
+        "name": "heroicons_elixir",
+        "description": "Phoenix components for Heroicons! \ud83d\udee1\ufe0f",
+        "languages": {
+            "Elixir": 826187,
+            "Nix": 1015
+        }
+    },
+    {
+        "name": "neural_network_elixir",
+        "description": "Neural network written in Elixir",
+        "languages": {
+            "Elixir": 49473
+        }
+    },
+    {
+        "name": "serverless-redis-http",
+        "description": "HTTP-based Redis pooler. Access Redis from serverless without overloading connection limits!",
+        "languages": {
+            "Elixir": 32347,
+            "HTML": 926,
+            "Shell": 480,
+            "Dockerfile": 430
+        }
+    },
+    {
+        "name": "exzmq",
+        "description": "ZeroMQ for Elixir",
+        "languages": {
+            "Elixir": 15741
+        }
+    },
+    {
+        "name": "rethinkdb_ecto",
+        "description": "RethinkDB adapter for Ecto.",
+        "languages": {
+            "Elixir": 42818
+        }
+    },
+    {
+        "name": "apollo-tracing-elixir",
+        "description": "Apollo Tracing middleware for Absinthe",
+        "languages": {
+            "Elixir": 16240
+        }
+    },
+    {
+        "name": "evm",
+        "description": "Ethereum's Virtual Machine, in all its glory",
+        "languages": {
+            "Elixir": 229242
+        }
+    },
+    {
+        "name": "elixir-run",
+        "description": "Erlang/OTP + Elixir + IEx + Mix in a single executable for Linux/macOS/Windows. Just run Elixir!",
+        "languages": {
+            "Elixir": 3166,
+            "HTML": 429,
+            "Shell": 74
+        }
+    },
+    {
+        "name": "paasaa",
+        "description": "\ud83d\udd24 Natural language detection for Elixir",
+        "languages": {
+            "Elixir": 537280
+        }
+    },
+    {
+        "name": "phx_tailwind_generators",
+        "description": "Scaffold Generator which uses TailwindCSS.",
+        "languages": {
+            "Elixir": 24779,
+            "HTML": 11241
+        }
+    },
+    {
+        "name": "pardall_markdown",
+        "description": "Reactive publishing framework, filesystem-based with support for Markdown, nested hierarchies, and instant content rebuilding. Written in Elixir.",
+        "languages": {
+            "Elixir": 89123
+        }
+    },
+    {
+        "name": "mjml_nif",
+        "description": "Elixir NIF bindings for the MJML Rust implementation (mrml)",
+        "languages": {
+            "Elixir": 12506,
+            "Rust": 2827
+        }
+    },
+    {
+        "name": "tableau",
+        "description": "Static Site Generator",
+        "languages": {
+            "Elixir": 61195,
+            "JavaScript": 68
+        }
+    },
+    {
+        "name": "bloomex",
+        "description": ":hibiscus: A pure Elixir implementation of Scalable Bloom Filters",
+        "languages": {
+            "Elixir": 16080
+        }
+    },
+    {
+        "name": "absinthe_error_payload",
+        "description": "Bridges the gap between Ecto and Absinthe for mutation payload",
+        "languages": {
+            "Elixir": 79515,
+            "Makefile": 1164
+        }
+    },
+    {
+        "name": "pxblog",
+        "description": "Phoenix Blog Engine from my tutorial",
+        "languages": {
+            "Elixir": 78533,
+            "CSS": 37525,
+            "HTML": 14612,
+            "JavaScript": 6374
+        }
+    },
+    {
+        "name": "ja_resource",
+        "description": "A behaviour to reduce boilerplate code in your JSON-API compliant Phoenix controllers without sacrificing flexibility.",
+        "languages": {
+            "Elixir": 64648
+        }
+    },
+    {
+        "name": "geoip",
+        "description": "Elixir library to find geo location information given an IP address, hostname or Plug.Conn",
+        "languages": {
+            "Elixir": 27338
+        }
+    },
+    {
+        "name": "phoenix-webrtc",
+        "description": "Enable video chat in a Phoenix application",
+        "languages": {
+            "Elixir": 17780,
+            "JavaScript": 8367,
+            "HTML": 2210
+        }
+    },
+    {
+        "name": "ecto_rut",
+        "description": "Ecto Model shortcuts to make your life easier! :tada:",
+        "languages": {
+            "Elixir": 23414
+        }
+    },
+    {
+        "name": "telemetry_ui",
+        "description": "Telemetry based metrics UI. Take your telemetry metrics and display them in a web page.",
+        "languages": {
+            "Elixir": 157872,
+            "TypeScript": 10375,
+            "HTML": 7994,
+            "CSS": 3067,
+            "Makefile": 2280,
+            "JavaScript": 477
+        }
+    },
+    {
+        "name": "elixir-dns",
+        "description": "DNS library for Elixir",
+        "languages": {
+            "Elixir": 15147
+        }
+    },
+    {
+        "name": "maxwell",
+        "description": "Maxwell is an HTTP client which support for middleware and multiple adapters.",
+        "languages": {
+            "Elixir": 203613,
+            "Shell": 47
+        }
+    },
+    {
+        "name": "alice",
+        "description": "A Slack bot framework for Elixir; down the rabbit hole!",
+        "languages": {
+            "Elixir": 107936,
+            "HTML": 3318,
+            "Shell": 1455
+        }
+    },
+    {
+        "name": "timescale",
+        "description": "TimescaleDB made easy with Ecto",
+        "languages": {
+            "Elixir": 53676
+        }
+    },
+    {
+        "name": "recaptcha",
+        "description": "A simple reCaptcha 2 library for Elixir applications.",
+        "languages": {
+            "Elixir": 20761,
+            "HTML": 2166
+        }
+    },
+    {
+        "name": "ex_state",
+        "description": "Database-backed state machines and statecharts for Elixir",
+        "languages": {
+            "Elixir": 119394
+        }
+    },
+    {
+        "name": "telegex",
+        "description": "Telegram bot framework and API client written in Elixir",
+        "languages": {
+            "Elixir": 543401,
+            "HTML": 714,
+            "Just": 457
+        }
+    },
+    {
+        "name": "phoenix-liveview-chat-example",
+        "description": "\ud83d\udcac Step-by-step tutorial creates a Chat App using Phoenix LiveView including Presence, Authentication and Style with Tailwind CSS",
+        "languages": {
+            "Elixir": 54132,
+            "CSS": 12431,
+            "HTML": 3190,
+            "JavaScript": 2903,
+            "Dockerfile": 2530,
+            "Shell": 178,
+            "Batchfile": 114
+        }
+    },
+    {
+        "name": "mavis",
+        "description": "opinionated typing library for elixir",
+        "languages": {
+            "Elixir": 453756
+        }
+    },
+    {
+        "name": "tds",
+        "description": "TDS Driver for Elixir",
+        "languages": {
+            "Elixir": 287852,
+            "Shell": 565
+        }
+    },
+    {
+        "name": "TimeTravel",
+        "description": "Phoenix LiveView TimeTravel Debugger",
+        "languages": {
+            "Elixir": 20027,
+            "JavaScript": 3924
+        }
+    },
+    {
+        "name": "phoenix_seo",
+        "description": "SEO for Phoenix Apps",
+        "languages": {
+            "Elixir": 100001,
+            "Shell": 516
+        }
+    },
+    {
+        "name": "api-v2",
+        "description": null,
+        "languages": {
+            "Elixir": 316262,
+            "JavaScript": 39407
+        }
+    },
+    {
+        "name": "workbench",
+        "description": "From Idea to Execution - Manage your trading operation across a distributed cluster",
+        "languages": {
+            "Elixir": 151600,
+            "HTML": 36479,
+            "TypeScript": 15136,
+            "JavaScript": 5173,
+            "Dockerfile": 2493,
+            "Shell": 710,
+            "CSS": 95
+        }
+    },
+    {
+        "name": "elixir-security-advisories",
+        "description": "\ud83d\udee1 Public database of Elixir security advisories pulled from GitHub Advisory Database",
+        "languages": {
+            "Elixir": 12351,
+            "Makefile": 1495
+        }
+    },
+    {
+        "name": "ecto_morph",
+        "description": " morph your Ecto capabilities into the s t r a t o s p h e r e !",
+        "languages": {
+            "Elixir": 133677
+        }
+    },
+    {
+        "name": "ravenx",
+        "description": "Notification dispatch library for Elixir applications",
+        "languages": {
+            "Elixir": 31733
+        }
+    },
+    {
+        "name": "nabo",
+        "description": "Nabo (\u7d0d\u535a) - dead simple blog engine",
+        "languages": {
+            "Elixir": 30423
+        }
+    },
+    {
+        "name": "junit-formatter",
+        "description": "A JUnit XML report exporter for Elixir's ExUnit",
+        "languages": {
+            "Elixir": 34271
+        }
+    },
+    {
+        "name": "caes005-introduction-to-functional-programming",
+        "description": "CAES005 - Introdu\u00e7\u00e3o \u00e0 Programa\u00e7\u00e3o Funcional",
+        "languages": {
+            "Elixir": 34428,
+            "Dockerfile": 818
+        }
+    },
+    {
+        "name": "betterdev.link",
+        "description": "Links to improve programing skill",
+        "languages": {
+            "Elixir": 76696,
+            "CSS": 37575,
+            "Go": 30750,
+            "JavaScript": 21964,
+            "HTML": 10270,
+            "Makefile": 1716,
+            "Dockerfile": 1381,
+            "Shell": 258,
+            "SCSS": 213
+        }
+    },
+    {
+        "name": "mentat",
+        "description": "super simple caching with ttls",
+        "languages": {
+            "Elixir": 32144
+        }
+    },
+    {
+        "name": "destructure",
+        "description": "Javascript-style destructuring for Elixir",
+        "languages": {
+            "Elixir": 8351,
+            "Ruby": 736
+        }
+    },
+    {
+        "name": "ecto_query_library",
+        "description": null,
+        "languages": {
+            "Elixir": 34274
+        }
+    },
+    {
+        "name": "MongoosePush",
+        "description": "MongoosePush is a simple Elixir RESTful service allowing to send push notification via FCM and/or APNS.",
+        "languages": {
+            "Elixir": 281236,
+            "Shell": 3559,
+            "Dockerfile": 1859,
+            "JavaScript": 954,
+            "HTML": 716,
+            "Makefile": 265
+        }
+    },
+    {
+        "name": "kronky",
+        "description": "Kronky bridges the gap between Ecto and Absinthe GraphQL by listing validation messages in a mutation payload.",
+        "languages": {
+            "Elixir": 62339
+        }
+    },
+    {
+        "name": "formulator",
+        "description": "A form library for Phoenix",
+        "languages": {
+            "Elixir": 28394,
+            "Shell": 234
+        }
+    },
+    {
+        "name": "ecto_soft_delete",
+        "description": "Soft Deletion for Ecto",
+        "languages": {
+            "Elixir": 23014
+        }
+    },
+    {
+        "name": "lightning",
+        "description": "OpenFn/Lightning \u26a1\ufe0f is the newest version of the OpenFn DPG and provides a web UI to visually manage complex workflow automation projects.",
+        "languages": {
+            "Elixir": 2529508,
+            "HTML": 180806,
+            "TypeScript": 130863,
+            "JavaScript": 23786,
+            "CSS": 21670,
+            "Shell": 6330,
+            "Dockerfile": 3445,
+            "Batchfile": 101
+        }
+    },
+    {
+        "name": "sentinel",
+        "description": "DEPRECATED - Phoenix Authentication library that wraps Guardian for extra functionality",
+        "languages": {
+            "Elixir": 191968,
+            "HTML": 11378
+        }
+    },
+    {
+        "name": "phone",
+        "description": "Elixir phone number parser for numbers in international standard.",
+        "languages": {
+            "Elixir": 166517
+        }
+    },
+    {
+        "name": "filterable",
+        "description": "Filtering from incoming params in Elixir/Ecto/Phoenix with easy to use DSL.",
+        "languages": {
+            "Elixir": 60988
+        }
+    },
+    {
+        "name": "smppex",
+        "description": "\u2709\ufe0f SMPP 3.4 protocol and framework implementation in Elixir",
+        "languages": {
+            "Elixir": 287198,
+            "Shell": 768,
+            "Makefile": 247
+        }
+    },
+    {
+        "name": "vaultex",
+        "description": "HashiCorp Vault client for Elixir.",
+        "languages": {
+            "Elixir": 43531,
+            "Dockerfile": 665,
+            "Shell": 144
+        }
+    },
+    {
+        "name": "ash_postgres",
+        "description": "A postgresql datalayer for the Ash Framework",
+        "languages": {
+            "Elixir": 660434
+        }
+    },
+    {
+        "name": "codepagex",
+        "description": "Elixir string encoding conversion - like iconv but pure Elixir",
+        "languages": {
+            "Elixir": 44191
+        }
+    },
+    {
+        "name": "fluxter",
+        "description": "High-performance and reliable InfluxDB writer for Elixir",
+        "languages": {
+            "Elixir": 24924
+        }
+    },
+    {
+        "name": "yggdrasil",
+        "description": "Subscription and publishing server for Elixir applications.",
+        "languages": {
+            "Elixir": 115000
+        }
+    },
+    {
+        "name": "rabbitmq-cli",
+        "description": "Command line tools for RabbitMQ",
+        "languages": {
+            "Elixir": 1076824,
+            "Makefile": 22531
+        }
+    },
+    {
+        "name": "shopify",
+        "description": "Easily access the Shopify API with Elixir.",
+        "languages": {
+            "Elixir": 195633
+        }
+    },
+    {
+        "name": "kane",
+        "description": "Google Pub/Sub client for Elixir",
+        "languages": {
+            "Elixir": 50924
+        }
+    },
+    {
+        "name": "skogsra",
+        "description": "Library to manage OS environment variables and application configuration options with ease",
+        "languages": {
+            "Elixir": 109664
+        }
+    },
+    {
+        "name": "vintage_net",
+        "description": "Network configuration and management for Nerves devices",
+        "languages": {
+            "Elixir": 390972,
+            "C": 24070,
+            "Makefile": 2913,
+            "Shell": 956,
+            "Ruby": 113
+        }
+    },
+    {
+        "name": "live_data",
+        "description": null,
+        "languages": {
+            "Elixir": 179807,
+            "Dart": 19226,
+            "JavaScript": 6967,
+            "TypeScript": 6512
+        }
+    },
+    {
+        "name": "knigge",
+        "description": "An opinionated way of dealing with behaviours",
+        "languages": {
+            "Elixir": 90926
+        }
+    },
+    {
+        "name": "deep_merge",
+        "description": "Deep (recursive) merge for maps, keywords and others in Elixir",
+        "languages": {
+            "Elixir": 31428
+        }
+    },
+    {
+        "name": "singleton",
+        "description": "Global, supervised singleton processes for Elixir",
+        "languages": {
+            "Elixir": 12314
+        }
+    },
+    {
+        "name": "defql",
+        "description": "Create elixir functions with SQL as a body.",
+        "languages": {
+            "Elixir": 30096
+        }
+    },
+    {
+        "name": "chirp",
+        "description": "A real-time Twitter clone with LiveView and Phoenix 1.5 (https://youtu.be/MZvmYaFkNJI)",
+        "languages": {
+            "Elixir": 52110,
+            "CSS": 10310,
+            "HTML": 4895,
+            "JavaScript": 2904,
+            "SCSS": 2074
+        }
+    },
+    {
+        "name": "waffle_ecto",
+        "description": "Waffle.Ecto provides an integration with Waffle and Ecto",
+        "languages": {
+            "Elixir": 30735,
+            "Dockerfile": 182
+        }
+    },
+    {
+        "name": "toolshed",
+        "description": "A toolshed of IEx helpers",
+        "languages": {
+            "Elixir": 83086
+        }
+    },
+    {
+        "name": "pushex",
+        "description": "Push notifications for Elixir",
+        "languages": {
+            "Elixir": 68635
+        }
+    },
+    {
+        "name": "sitemap",
+        "description": "Sitemap is the easiest way to generate Sitemaps in Elixir.",
+        "languages": {
+            "Elixir": 58042
+        }
+    },
+    {
+        "name": "learn-elixir-the-hard-way",
+        "description": "Repository with source code for \"Learn Elixir The Hard Way\" workshop.",
+        "languages": {
+            "Elixir": 51242,
+            "Lua": 1129,
+            "Shell": 746
+        }
+    },
+    {
+        "name": "x509",
+        "description": "Elixir package for working with X.509 certificates, Certificate Signing Requests (CSRs), Certificate Revocation Lists (CRLs) and RSA/ECC key pairs",
+        "languages": {
+            "Elixir": 237909
+        }
+    },
+    {
+        "name": "eventsourced",
+        "description": "Functional domain models with event sourcing in Elixir",
+        "languages": {
+            "Elixir": 11448
+        }
+    },
+    {
+        "name": "phoenix-in-action",
+        "description": "Code snippets and examples from the book Phoenix in Action from Manning and Geoffrey Lessel",
+        "languages": {
+            "Elixir": 379108,
+            "CSS": 108890,
+            "HTML": 38041,
+            "JavaScript": 34030
+        }
+    },
+    {
+        "name": "hexlet_basics",
+        "description": "Code Basics",
+        "languages": {
+            "Elixir": 160532,
+            "JavaScript": 28031,
+            "Slim": 12851,
+            "HCL": 12129,
+            "Makefile": 10114,
+            "HTML": 2792,
+            "SCSS": 2214,
+            "Dockerfile": 1171,
+            "Shell": 204
+        }
+    },
+    {
+        "name": "dissentr",
+        "description": null,
+        "languages": {
+            "Elixir": 7647
+        }
+    },
+    {
+        "name": "toby",
+        "description": "A WIP terminal-based observer for Erlang",
+        "languages": {
+            "Elixir": 74435
+        }
+    },
+    {
+        "name": "pachyderm",
+        "description": "Virtual actors for elixir",
+        "languages": {
+            "Elixir": 14928
+        }
+    },
+    {
+        "name": "tarams",
+        "description": "Cast and validate external data and request parameters for Elixir and Phoenix",
+        "languages": {
+            "Elixir": 46038
+        }
+    },
+    {
+        "name": "elm-blogger",
+        "description": "A blogging platform written in Elm + Elixir",
+        "languages": {
+            "Elixir": 20729,
+            "Elm": 5891,
+            "JavaScript": 5705,
+            "HTML": 1343
+        }
+    },
+    {
+        "name": "elixir-mongo",
+        "description": "MongoDB driver for Elixir",
+        "languages": {
+            "Elixir": 54168
+        }
+    },
+    {
+        "name": "memento",
+        "description": "Collect saved items from different sources around the web",
+        "languages": {
+            "Elixir": 106684,
+            "Erlang": 46512,
+            "SCSS": 6910,
+            "HTML": 3128,
+            "JavaScript": 2716,
+            "CSS": 1081
+        }
+    },
+    {
+        "name": "cloudex",
+        "description": "An elixir library which helps with uploading image files or urls to cloudinary",
+        "languages": {
+            "Elixir": 47907
+        }
+    },
+    {
+        "name": "ueberauth_github",
+        "description": "GitHub OAuth2 Strategy for \u00dcberauth",
+        "languages": {
+            "Elixir": 21468
+        }
+    },
+    {
+        "name": "lazyasdf",
+        "description": "Experimental TUI for asdf: a project to learn the art of the TUI.",
+        "languages": {
+            "Elixir": 20463,
+            "Shell": 825
+        }
+    },
+    {
+        "name": "imgup",
+        "description": "\ud83c\udf05 Effortless image uploads to AWS S3 with automatic resizing including REST API.",
+        "languages": {
+            "Elixir": 93592,
+            "JavaScript": 31134,
+            "HTML": 26019,
+            "Dockerfile": 2520,
+            "CSS": 796,
+            "Shell": 149,
+            "Batchfile": 85
+        }
+    },
+    {
+        "name": "math",
+        "description": "The missing Math module for Elixir.",
+        "languages": {
+            "Elixir": 33447
+        }
+    },
+    {
+        "name": "elixir-estree",
+        "description": "The ESTree Nodes and JavaScript AST to JavaScript Code Generator in Elixir",
+        "languages": {
+            "Elixir": 211706
+        }
+    },
+    {
+        "name": "kvx",
+        "description": "Simple in-memory Key/Value Store written in Elixir using `cabol/ex_shards`",
+        "languages": {
+            "Elixir": 17013
+        }
+    },
+    {
+        "name": "boom",
+        "description": "Exception notification for plug based applications https://hex.pm/packages/boom_notifier",
+        "languages": {
+            "Elixir": 141580,
+            "CSS": 12958,
+            "HTML": 7638,
+            "JavaScript": 1772
+        }
+    },
+    {
+        "name": "ok_jose",
+        "description": "Pipe elixir functions that match ok/error tuples or custom patterns.",
+        "languages": {
+            "Elixir": 19172
+        }
+    },
+    {
+        "name": "stubr",
+        "description": "Stubr is a set of functions helping people to create stubs and spies in Elixir.",
+        "languages": {
+            "Elixir": 47135
+        }
+    },
+    {
+        "name": "react-phoenix-starter-template",
+        "description": "This is an example repo of using React with Phoenix",
+        "languages": {
+            "Elixir": 28006,
+            "JavaScript": 17991,
+            "CSS": 11048,
+            "HTML": 1672
+        }
+    },
+    {
+        "name": "fast_rss",
+        "description": "Fast Elixir RSS feed parser, a NIF wrapper around the Rust RSS crate",
+        "languages": {
+            "Elixir": 124953,
+            "Rust": 1367,
+            "Shell": 53
+        }
+    },
+    {
+        "name": "langchainex",
+        "description": "Language Chain Library for Elixir",
+        "languages": {
+            "Elixir": 200977
+        }
+    },
+    {
+        "name": "authorize",
+        "description": "Rule based authorization for Elixir",
+        "languages": {
+            "Elixir": 12774
+        }
+    },
+    {
+        "name": "highlander",
+        "description": "There can only be one (process in your cluster)!",
+        "languages": {
+            "Elixir": 10720
+        }
+    },
+    {
+        "name": "exnn",
+        "description": "An Elixir Evolutive Neural Network framework \u00e0 la G.Sher",
+        "languages": {
+            "Elixir": 58096
+        }
+    },
+    {
+        "name": "flippant",
+        "description": ":traffic_light: Feature flipping for the Elixir world",
+        "languages": {
+            "Elixir": 60600
+        }
+    },
+    {
+        "name": "hello_graphql_phoenix",
+        "description": "Examples of GraphQL Elixir Plug endpoints mounted in Phoenix",
+        "languages": {
+            "Elixir": 31595,
+            "HTML": 6082,
+            "JavaScript": 4629
+        }
+    },
+    {
+        "name": "nx_signal",
+        "description": "DSP with Elixir Nx",
+        "languages": {
+            "Elixir": 63637
+        }
+    },
+    {
+        "name": "elixir-hl7",
+        "description": "An Elixir library for working with HL7 v2.x healthcare data ",
+        "languages": {
+            "Elixir": 202803
+        }
+    },
+    {
+        "name": "braintree-elixir",
+        "description": ":credit_card: Native elixir client for Braintree",
+        "languages": {
+            "Elixir": 184113
+        }
+    },
+    {
+        "name": "svonix",
+        "description": "Render Svelte components in Phoenix views.",
+        "languages": {
+            "Elixir": 15540,
+            "JavaScript": 4251
+        }
+    },
+    {
+        "name": "phoenix_gon",
+        "description": ":fire: Phoenix variables in your JavaScript without headache.",
+        "languages": {
+            "Elixir": 19343
+        }
+    },
+    {
+        "name": "finitomata",
+        "description": "FSM implementation generated from Mermaid/PlantUML textual representation",
+        "languages": {
+            "Elixir": 201679
+        }
+    },
+    {
+        "name": "ex_spec",
+        "description": "BDD-like syntax for ExUnit",
+        "languages": {
+            "Elixir": 4902
+        }
+    },
+    {
+        "name": "parallel_stream",
+        "description": "A parallelized stream implementation for Elixir",
+        "languages": {
+            "Elixir": 32344,
+            "Shell": 308
+        }
+    },
+    {
+        "name": "radiopush",
+        "description": "Create communities and share songs with Spotify users",
+        "languages": {
+            "Elixir": 498478,
+            "JavaScript": 6911,
+            "HTML": 3205,
+            "Dockerfile": 2527,
+            "SCSS": 760,
+            "Shell": 167,
+            "Batchfile": 103
+        }
+    },
+    {
+        "name": "icalendar",
+        "description": "\ud83d\uddd3\ufe0f  A small library for reading and writing ICalendar files.",
+        "languages": {
+            "Elixir": 72254
+        }
+    },
+    {
+        "name": "bitfeed",
+        "description": null,
+        "languages": {
+            "Elixir": 235078,
+            "Svelte": 170546,
+            "JavaScript": 112188,
+            "HTML": 4355,
+            "CSS": 3068,
+            "GLSL": 2823,
+            "Shell": 1990,
+            "Dockerfile": 1224
+        }
+    },
+    {
+        "name": "merkle_tree",
+        "description": ":evergreen_tree: Merkle Tree implementation in pure Elixir",
+        "languages": {
+            "Elixir": 22942
+        }
+    },
+    {
+        "name": "pushex",
+        "description": "Phoenix-based websocket push implementation",
+        "languages": {
+            "Elixir": 87425
+        }
+    },
+    {
+        "name": "better_params",
+        "description": "Cleaner request parameters in Elixir web applications \ud83d\ude4c",
+        "languages": {
+            "Elixir": 10131
+        }
+    },
+    {
+        "name": "sipper",
+        "description": "Elixir Sips downloader written in Elixir.",
+        "languages": {
+            "Elixir": 19277
+        }
+    },
+    {
+        "name": "assert_value_elixir",
+        "description": "ExUnit's assert on steroids that writes and updates tests for you",
+        "languages": {
+            "Elixir": 53179,
+            "Roff": 40300
+        }
+    },
+    {
+        "name": "exavier",
+        "description": "Elixir mutation testing library",
+        "languages": {
+            "Elixir": 56049
+        }
+    },
+    {
+        "name": "couchdb_connector",
+        "description": "A couchdb connector for Elixir",
+        "languages": {
+            "Elixir": 85267
+        }
+    },
+    {
+        "name": "secure_random.ex",
+        "description": "Convenience library for random base64 strings modeled after my love for Ruby's SecureRandom",
+        "languages": {
+            "Elixir": 6521
+        }
+    },
+    {
+        "name": "towel",
+        "description": "A simple Maybe monad for Elixir. ",
+        "languages": {
+            "Elixir": 3826
+        }
+    },
+    {
+        "name": "dart_sass",
+        "description": "An installer for sass powered by Elixir Mix",
+        "languages": {
+            "Elixir": 19085,
+            "Shell": 805
+        }
+    },
+    {
+        "name": "job_search",
+        "description": "An app to search startup jobs scraped from websites written in Elixir, Phoenix, React and styled-components. ",
+        "languages": {
+            "Elixir": 1339429,
+            "JavaScript": 82546,
+            "HTML": 497
+        }
+    },
+    {
+        "name": "igthorn",
+        "description": "Cryptocurrency trading platform",
+        "languages": {
+            "Elixir": 214012,
+            "CSS": 21762,
+            "HTML": 17728,
+            "JavaScript": 3938,
+            "Shell": 298
+        }
+    },
+    {
+        "name": "ex_statsd",
+        "description": "StatsD Client for Elixir (EOL: We Recommend Statix)",
+        "languages": {
+            "Elixir": 28342
+        }
+    },
+    {
+        "name": "tailwind_formatter",
+        "description": "Sorts tailwind classes within elixir projects",
+        "languages": {
+            "Elixir": 52956,
+            "JavaScript": 2292
+        }
+    },
+    {
+        "name": "vox",
+        "description": "The static site builder for Elixir lovers",
+        "languages": {
+            "Elixir": 45030,
+            "HTML": 3260,
+            "JavaScript": 153,
+            "CSS": 27
+        }
+    },
+    {
+        "name": "rent-bot",
+        "description": "My personal Facebook Messenger chat bot that helped find an apartment to rent.",
+        "languages": {
+            "Elixir": 59738,
+            "JavaScript": 4292,
+            "HTML": 2072,
+            "Shell": 102,
+            "CSS": 49
+        }
+    },
+    {
+        "name": "machinist",
+        "description": "A small Elixir lib to write state machines",
+        "languages": {
+            "Elixir": 22172
+        }
+    },
+    {
+        "name": "exmoji",
+        "description": ":sunglasses: Emoji encoding swiss army knife for Elixir/Erlang",
+        "languages": {
+            "Elixir": 34740
+        }
+    },
+    {
+        "name": "ecto_state_machine",
+        "description": "State machine pattern for Ecto",
+        "languages": {
+            "Elixir": 11769
+        }
+    },
+    {
+        "name": "expostal",
+        "description": "Elixir binding for Libpostal - a library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.",
+        "languages": {
+            "Elixir": 7354,
+            "C": 4851,
+            "Makefile": 850,
+            "Shell": 431
+        }
+    },
+    {
+        "name": "blockchain",
+        "description": "Elixir Client for the Ethereum Blockchain",
+        "languages": {
+            "Elixir": 263643
+        }
+    },
+    {
+        "name": "urna",
+        "description": "REST in peace.",
+        "languages": {
+            "Elixir": 21007
+        }
+    },
+    {
+        "name": "puppeteer-pdf",
+        "description": "PDF generation wrapper for Elixir using Puppeteer",
+        "languages": {
+            "Elixir": 16637
+        }
+    },
+    {
+        "name": "InstagramClonePETAL",
+        "description": "Instagram Clone With The PETAL(Phoenix, Elixir, TailwindCSS, AlpineJS, LiveView) Stack.",
+        "languages": {
+            "Elixir": 200659,
+            "HTML": 56573,
+            "JavaScript": 4052,
+            "SCSS": 2252
+        }
+    },
+    {
+        "name": "mix_templates",
+        "description": "Basis of an open templating system for mix. Also see mix_gen",
+        "languages": {
+            "Elixir": 51887
+        }
+    },
+    {
+        "name": "elixir-browser",
+        "description": "Browser detection for Elixir",
+        "languages": {
+            "Elixir": 90989
+        }
+    },
+    {
+        "name": "plug_rails_cookie_session_store",
+        "description": "Rails compatible Plug session store",
+        "languages": {
+            "Elixir": 23505
+        }
+    },
+    {
+        "name": "langchain_demo",
+        "description": "Demo web project using the Elixir LangChain library",
+        "languages": {
+            "Elixir": 143780,
+            "HTML": 10573,
+            "JavaScript": 4947,
+            "CSS": 145
+        }
+    },
+    {
+        "name": "nerves_system_rpi0",
+        "description": "Base Nerves system configuration for the Raspberry Pi Zero and Zero W",
+        "languages": {
+            "Elixir": 7971,
+            "Shell": 691
+        }
+    },
+    {
+        "name": "jeeves",
+        "description": null,
+        "languages": {
+            "Elixir": 37232
+        }
+    },
+    {
+        "name": "shopifex",
+        "description": "\ud83d\udecd\ufe0f  Build Shopify Apps with Elixir Phoenix",
+        "languages": {
+            "Elixir": 142184,
+            "JavaScript": 6750,
+            "HTML": 5432
+        }
+    },
+    {
+        "name": "elixir-design-patterns",
+        "description": "Design Patterns in Elixir",
+        "languages": {
+            "Elixir": 29047,
+            "Shell": 243
         }
     }
 ]

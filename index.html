@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
     <script src='https://cdnjs.cloudflare.com/ajax/libs/cytoscape/2.7.10/cytoscape.js'></script>
     <script src="clicks.js"></script>
+    <script src="sort.js"></script>
 </head>
 <body>
     <header>
@@ -25,17 +26,19 @@
             <div class="search">
                 <span class="search-icon material-symbols-outlined">search</span>
                 <input class="search-input" type="search" placeholder="Search">
+                <div id="autocomplete-list" class="autocomplete-list"></div>
             </div>
         </form>
+        
     </header>
     <main>
         <div class="toggle">
             <div class="toggle-options">
-                Merge
+                <div class="clickable" id="merge-op">Merge</div>
                 <div class="sep-line"></div>
                 <b>Sort</b>
                 <div class="sep-line"></div>
-                Shell
+                <div class="clickable" id="shell-op">Shell</div>
             </div>
         </div>
         <div class="bulk">
@@ -59,6 +62,7 @@
                     keyboard_arrow_down
                     </span>
                 <h1 id="langname"><u>Julia</u></h1>
+                <p id="repo4lang" class="clickable">Find a repo!</p>
                 <p id="langdes">This is dummy text for when we figure out how to import language description.</p>
                 <h3><a id='langlink' href="https://github.com/pyukey/Progchamp">Learn more!</a></h3>
             </div>
@@ -275,15 +279,18 @@
                     style: {
                         shape: 'circle',
                         'background-color': 'blue',
-                        label: 'data(id)'
+                        label: 'data(id)',
+                        'text-valign': 'center',
+                        'color': '#FF9900',
+                        'font-size': 8
                     }
                 },
                 {
                     selector: '#a',
                     style: {
-                        shape: 'circle',
                         'background-color': '#FF9900',
-                        label: 'data(id)'
+                        label: 'bruh',
+                        'color': 'blue'
                     }
                 }
             ],
@@ -295,6 +302,12 @@
 
     <!-- Initial processing of data -->
     <script>
+        var merge = true;
+        var m = document.getElementById('merge-op');
+        var s = document.getElementById('shell-op');
+        m.addEventListener('click', function() {merge = true; m.style.color = 'white'; s.style.color = 'black';});
+        s.addEventListener('click', function() {merge = false; s.style.color = 'white'; m.style.color = 'black';})
+
         // Generate a random integer between min (inclusive) and max (exclusive)
         function getRandomInteger(min, max) {
             return Math.floor(Math.random() * (max - min)) + min;
@@ -303,7 +316,8 @@
         function changeData(target, data) {
             target.textContent = data;
         };
-        function updateRepo(data) {
+        function updateRepo(data, adjacent) {
+            // Update the info bar
             let rn = document.getElementById('reponame');
             let rd = document.getElementById('repodes');
             changeData(rn, data['name'])
@@ -318,8 +332,16 @@
             for (let l in data['languages']) {
                 let listItem = document.createElement('li');
                 listItem.textContent = l + ': ' + data['languages'][l];
+                listItem.id = l;
+                listItem.className = 'clickable';
                 list.appendChild(listItem);
             }
+            
+            // Update the graph
+            for (let i = 0; i < 10; ++i) {
+                re.$('#'+i).style('label', adjacent[i+1]['name']);
+            }
+            re.$('#a').style('label', adjacent[0]['name']);
         };
         function updateLangInfo(data) {
             let ln = document.getElementById('langname');
@@ -329,14 +351,15 @@
             changeData(ld, data['info']);
             ll.href=data['src'];
         };
-        function updateLangGraph(adjacent) {
+        function updateLangGraph(data, adjacent) {
             for (let i = 0; i < 10; ++i) {
-                la.$('#'+i).style('label', adjacent[i]);
+                la.$('#'+i).style('label', adjacent[i+1]);
             }
+            la.$('#a').style('label', data['name']);
         };
         function updateLang(data, adjacent) {
             updateLangInfo(data);
-            updateLangGraph(adjacent);
+            updateLangGraph(data, adjacent);
         };
         
         
@@ -355,7 +378,14 @@
                 return response.json();
             })
             .then(langList => {
-
+        fetch('list2lang.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`Failed to fetch list2lang.json`);
+                }
+                return response.json();
+            })
+            .then(list2lang => {
         fetch('languages.json')
             .then(response => {
                 if (!response.ok) {
@@ -373,21 +403,105 @@
                 return response.json();
             })
             .then(repoData => {
-            
-            var repo = 0;
+
+            // Initial setup of data
+            var closestLang = langSort(langList,list2lang,repoData);
             var lang = 0;
+            sortRepos(repoData[0],repoData, merge);
+            
+            // Pog randomizer
             function randomize() {
-                repo = getRandomInteger(0,repoData.length);
+                let repo = getRandomInteger(0,repoData.length);
+                let og = repoData[repo];
+                sortRepos(og,repoData, merge);
                 lang = getRandomInteger(0,langList.length);
-                updateRepo(repoData[repo]);
-                updateLang(langData[lang],langList);
+                updateRepo(og, repoData);
+                updateLang(langData[lang],closestLang[lang]);
             };
-            updateRepo(repoData[repo]);
-            updateLang(langData[lang],langList);
+            updateRepo(repoData[0], repoData);
+            updateLang(langData[lang],closestLang[lang]);
+
             var pog = document.getElementById('pog');
             pog.addEventListener('click', function() {randomize();});
 
+            for(let i=0; i<10; ++i) {
+                la.$('#'+i).on('click', function() {let node = la.$('#'+i); lang = list2lang[node.style('label')]; updateLang(langData[lang],closestLang[lang]);});
+                re.$('#'+i).on('click', function() {let og = repoData[i+1]; sortRepos(og,repoData, merge); updateRepo(og,repoData);});
+            }
 
+            // Getting a random repo for a language
+            document.getElementById('repo4lang').addEventListener('click', function(event) {
+                let path = "src/" + langList[lang] + "_repos_metadata.json";
+                fetch(path)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`Failed to fetch langList.json`);
+                    }
+                    return response.json();
+                })
+                .then(newRepo => {
+                    let index = getRandomInteger(0,newRepo.length);
+                    sortRepos(newRepo[index],repoData, merge);
+                    updateRepo(newRepo[index], repoData);
+                })
+                .catch(error => {
+                console.error('Error fetching data:', error);
+            });
+
+            });
+
+            // Clicking languages in the repo infobar
+            // Event delegation
+            document.getElementById('repolang').addEventListener('click', function(event) {
+                let target = event.target;
+                if (target.tagName === 'LI') {
+                    lang = list2lang[target.id];
+                    updateLang(langData[lang], closestLang[lang]);
+                }
+            });
+
+            // Autocomplete the search bar
+            const searchInput = document.querySelector('.search-input');
+            const autocompleteList = document.getElementById('autocomplete-list');
+
+            searchInput.addEventListener('input', function(event) {
+                const inputValue = event.target.value.toLowerCase();
+                const matchedLanguages = langList.filter(lang => lang.toLowerCase().includes(inputValue));
+                
+                // Clear previous suggestions
+                autocompleteList.innerHTML = '';
+                
+                // Add matched suggestions to autocomplete list
+                matchedLanguages.forEach(lang => {
+                    const suggestion = document.createElement('div');
+                    suggestion.textContent = lang;
+                    suggestion.classList.add('autocomplete-item');
+                    suggestion.addEventListener('click', function() {
+                        // Set selected suggestion as search input value
+                        searchInput.value = lang;
+                        // Clear autocomplete list
+                        autocompleteList.innerHTML = '';
+                    });
+                    autocompleteList.appendChild(suggestion);
+                });
+            });
+            searchInput.addEventListener('keydown', function(event) {
+                if (event.key === 'Enter') {
+                    event.preventDefault(); // Stops page from refreshing
+
+                    const inputValue = searchInput.value.trim(); // Remove leading and trailing whitespace
+                    if (inputValue) {
+                        lang = list2lang[inputValue];
+                        updateLang(langData[lang], closestLang[lang]); // Call updateLang function with entered input
+                    }
+                }
+            });
+
+
+            })
+            .catch(error => {
+                console.error('Error fetching data:', error);
+            });
             })
             .catch(error => {
                 console.error('Error fetching data:', error);
