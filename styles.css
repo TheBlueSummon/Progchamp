@@ -45,6 +45,30 @@ h1 {
     justify-content: center;
 }
 
+.autocomplete-list {
+    position: absolute;
+    width: calc(100% - var(--padding) * 2);
+    max-height: 150px;
+    overflow-y: auto;
+    margin-top: 8px;
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+    top: calc(100% - 8px); /* Add this line */
+    left: 0; /* Add this line */
+}
+
+.autocomplete-item {
+    padding: 8px 16px;
+    cursor: pointer;
+}
+
+.autocomplete-item:hover {
+    background-color: #f0f0f0;
+}
+
+
 .bulk {
     display: flex;
     justify-content: space-evenly;
@@ -52,6 +76,10 @@ h1 {
     margin-right: -36px;
     width: 100%+36px;
     height: 80vh;
+}
+
+.clickable {
+    cursor: pointer;
 }
 
 .info-box {
@@ -132,6 +160,7 @@ h1 {
 .search {
     --padding: 14px;
     
+    position: relative;
     width: max-content;
     display: flex;
     align-items: center;

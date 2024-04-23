@@ -164,3 +164,12 @@ function langSort(langList, list2lang, repos) {
     }   
     return languages; 
 }
+
+function sortRepos(og, repos, bool) {
+    if (bool) {
+        mergeSortRepos(og,repos);
+    }
+    else {
+        shellSort(og,repos);
+    }
+}
